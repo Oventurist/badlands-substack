@@ -49,3 +49,17 @@
 
 ## [2026-08-01] ingest | A Family Affair -> created: [a-family-affair, armando-codina, barclays, bay-of-pigs-invasion, bush-family, cali-cartel, carlos-andres-perez, carlos-salinas, carlos-slim, enron, fox-business, george-hw-bush, gulf-cartel, institutional-revolutionary-party, james-baker, jeb-bush, jorge-stergios, jose-francisco-ruiz-massieu, juan-garcia-abrego, kenneth-lay, lehman-brothers, mario-ruiz-massieu, mark-guzzetta, medellin-cartel, miguel-recarey, nafta, operation-zapata, pablo-escobar, raul-salinas, richard-lawless, robert-gambino, tampa-bay-times, texas-commerce-bank, texas-national-bank, the-guardian, the-washington-post, wayne-madsen-report, zapata-offshore], updated: [hugo-chavez, cia, donald-trump, index.md]
 ## [2026-08-01] fix | index.md rebuilt: 53 orphaned pages (created in prior ticks but never indexed) added; Entities/Concepts re-sorted alphabetically; duplicate and malformed ("|- [[") lines cleaned; Total pages corrected 90 -> 155.
+
+## [2026-08-01] incident | Sources-normalization script truncated ALL 152 wiki pages
+- normalize_sources.py (regex-based frontmatter rewrite) mishandled CRLF line endings and wrote every page as frontmatter-only, destroying all bodies.
+- RECOVERED 150/152 pages from the session DB (cron write_file tool calls in state.db) via scripts/recover_wiki.py; restored 4 manual pages (cabal, fiat-currency, internal-revenue-service, 1913-the-year) from session context.
+- Skipped 2 stale old-era drafts (NATO-expansion.md, Vladimir-Putin.md) — not part of current wiki.
+- Post-restore: 153 pages, 0 blank, 0 broken links (link-repair watchdog re-run).
+- SAFEGUARDS ADDED: (1) git repo initialized + baseline commit (171 files) — rollback available; (2) normalize_sources.py DELETED; (3) raw corpus + articles/ gitignored (immutable, huge).
+- LESSON: never bulk-rewrite frontmatter with hand-rolled regex on CRLF files without a backup; prefer git-committed state before any bulk edit.
+
+## [2026-08-01] infra | Private GitHub repo created
+- Created Oventurist/badlands-substack (private) via API.
+- Pushed 170 tracked files (wiki/, scripts/, .gitignore). main branch.
+- Substack2Markdown (16MB third-party scraper) gitignored — re-clone from upstream if needed.
+- Credential helper: store (token in ~/.git-credentials).
