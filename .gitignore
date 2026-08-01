@@ -1,0 +1,10 @@
+# raw corpus is huge and immutable; keep it out of git
+raw/
+articles/
+transcripts/
+posts-new/
+unprocessed/
+cache/
+# hermes runtime
+wiki/.processed.txt
+wiki/.inprogress-*
