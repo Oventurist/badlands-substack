@@ -8,3 +8,5 @@ cache/
 # hermes runtime
 wiki/.processed.txt
 wiki/.inprogress-*
+# third-party scraper (re-clone: git clone https://github.com/<repo>/Substack2Markdown)
+scripts/Substack2Markdown/
