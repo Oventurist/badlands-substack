@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, outlet, censorship, info-war, 5gw, tech]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md]
 confidence: medium
 contested: true
 ---
@@ -45,3 +45,7 @@ The February 2025 essay [[a-new-hollywood|A New Hollywood]] notes that, around t
 ## Alignment with Trump in 2025
 
 Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] names Musk as the most supportive of the big-technology chief executives who endorsed or ceased opposing [[donald-trump]], describing him as "the most supportive, both vocally and financially." The essay closes with the image of Musk seated at the inauguration alongside [[mark-zuckerberg]] and [[jeff-bezos]] -- a scene Carlson says he will not allow to make his "blood boil," given his view that the American economy cannot be destroyed in order to obtain justice against the [[deep-state|Deep State]].
+
+## "Prosecute/Fauci"
+
+[[j-b-white|J.B. White]]'s December 2022 column [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] cites Musk's tweet announcing that his pronouns were "Prosecute/Fauci" as the immediate prompt for the piece, reading it as a signal that long-anticipated accountability for [[anthony-fauci|Anthony Fauci]] was near. The same column treats the [[twitter-files|Twitter Files]], released under Musk's ownership of the platform, as an ongoing process of revelation exposing coordinated suppression of competing narratives.

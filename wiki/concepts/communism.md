@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [ideology, communism, cold-war, subversion]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,7 @@ The corpus traces Communism's political birth to the October 1917 [[bolshevik-re
 ## Communism as a tool
 
 The essay's final qualification is that Communism is not itself the ultimate adversary but an instrument: "Communism is just a tool—a tool used by the [[cabal|Cabal]] to control. It's like an axe that is being swung by an axe-murderer. The real enemy is the person swinging the axe." Fighting Communism, in this framing, is a way of keeping the Cabal — described as modern-day Nazis — from wielding the tool.
+
+## Humanism as camouflage
+
+[[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] argues that "humanists are most often indistinguishable from Communists" and that use of the humanist label is "just word warfare." [[j-b-white|J.B. White]] traces the drift from religious formation to secular humanism through the example of liberation theology in South America, and describes the incoming Trump administration of 2017 as assembling "an invasion force to root out secret adherents to a theology (Communism) masquerading as an ideology (Socialism)."

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [agency, foreign-policy, cabal]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md]
 confidence: low
 contested: true
 ---
@@ -25,3 +25,7 @@ The article describes the CCP's strategy as part of a four-stage takeover plan: 
 [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] argues that [[donald-trump|Donald Trump]]'s references to "Chyna" and the "Chyna Virus" — for which he was widely accused of racism — carried a second meaning aimed at readers able to decode it. Since China is a communist country, [[erik-carlson|Erik Carlson]] contends that the phrase functions as a reference to [[communism|Communism]] itself and to the CCP "infiltrating America."
 
 The article claims the CCP "forced a bioweapon on the world, which wasn't as deadly as they hoped it would be," but that sustained messaging by what it calls communist-controlled media and government officials would produce the same destructive effect. In this account the resulting narrative of the [[covid-19-pandemic|COVID-19 pandemic]] justified lockdowns, an abandonment of human rights and mail-in ballots, through which "a duly-elected President was overthrown and removed from power."
+
+## Lies of omission as 21st-century warfare
+
+[[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] describes "21st Century warfare as practiced by the CCP and all those who work in their service — previously identified merely as useful idiots," within which lies of omission advanced on behalf of a preferred narrative are treated as unremarkable. [[j-b-white|J.B. White]] offers the COVID-19 "cases, cases, cases" hysteria and the narrative surrounding the January 6th event as domestic examples of the same method.

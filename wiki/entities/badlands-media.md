@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [organization, media, citizen-journalism, substack]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/an-sos-from-ground-zero.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md]
 confidence: high
 contested: false
 ---
@@ -61,3 +61,7 @@ On August 13, 2024, Badlands Media published [[always-fight-back|"Always Fight B
 ## Arizona election coverage (2022)
 
 On November 22, 2022 Badlands Media published [[an-sos-from-ground-zero|"An SOS From Ground Zero: Maricopa County Hangs in the Balance"]] by Arizona contributor [[kitty-gillespie|Kitty Gillespie]], an account of the failures in [[maricopa-county|Maricopa County]]'s administration of the general election and of the letter from Assistant Attorney General [[jennifer-wright|Jennifer Wright]] demanding an accounting before the statutory canvass deadline. Gillespie urges readers to "keep your eyes on reliable independent news sources like Badlands Media" during the week of the canvass, an appeal consistent with the outlet's framing of itself as a collective of citizen journalists working to "take back the narrative from the MSM." The article carries the standard disclaimer that contributor pieces represent the opinions of their authors rather than the views of Badlands Media itself, and directs readers to Gillespie's own Substack, Kitty's Newsletter.
+
+## RattlerGator's first submission
+
+The December 20, 2022 column [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] marked the first written submission to Badlands Media by [[j-b-white|J.B. White]], known online as RattlerGator, who also co-hosts the outlet's Trash Talk programme with [[patrick-gunnels|Patrick Gunnels]]. The piece carries the outlet's standard note that Badlands Media articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself, along with its recurring appeal for paid subscriptions to help "our collective of citizen journalists take back the narrative from the MSM."

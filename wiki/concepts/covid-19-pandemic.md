@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [covid-19, lockdowns, bioweapon, public-health]
-sources: [raw/a-virus-or-a-metaphor.md, raw/americas-greatest-threat.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/americas-greatest-threat.md, raw/anthony-fauci.md]
 confidence: medium
 contested: true
 ---
@@ -36,3 +36,9 @@ Trump's references to "Chyna" and the "Chyna virus," for which he was widely acc
 [[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) treats the pandemic response as the clearest modern demonstration that the principal threat to Americans is their own government. The essay poses a series of questions — who forced Americans to stay home from work and school in 2020, who compelled them to take "an experimental drug or risk losing their jobs," who barred the unvaccinated from society, and who censored dissent on social media — and answers them by elimination: "It wasn't Putin. It wasn't Xi. It wasn't Iran. China didn't lock Americans down. Putin didn't force them to get jabbed. ISIS wasn't checking vaccine cards at the local restaurants."
 
 Carlson's sharper charge is that the government "brainwashed Americans into doing their dirty work for them." Business owners dismissed loyal and productive employees over vaccination status, some believing it right to do so; Americans administered the injections; and many insisted the unvaccinated should be excluded from public life. In his summary, "Americans decided that other Americans didn't deserve their Constitutional Rights" — behaviour the essay attributes to [[stockholm-syndrome|Stockholm Syndrome]] and to the erosion of the [[united-states-constitution|Constitution]]'s standing.
+
+## Cases versus deaths
+
+The 2022 Badlands column [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] frames the pandemic response as a manufactured hysteria organised around case counts. [[j-b-white|J.B. White]], who calls the episode the Scamdemic, writes that he could never understand why Americans should be alarmed by claims of "cases" that were not "confirmed incidents verified by any known reliable testing method," and set his own standard as "Deaths, not cases," declining to credit hysteria "amplified by a remarkably coordinated range of organizations, corporations, and governments."
+
+The column reproduces a September 16, 2020 tweet by user Daniel Levitt summarising eight dissenting claims: that lockdowns increase deaths; that Sweden was right; that Neil Ferguson was wrong; that masks are ineffective; that 95% are asymptomatic; that up to 80% may be immune; that transmission stops at roughly 20% antibodies; and that more cases do not equal more deaths. White records that the tweet had 136 replies, 2,053 retweets and 4,085 likes when he archived it on September 17, and that both the tweet and Levitt's account were subsequently erased.

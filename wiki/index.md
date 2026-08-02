@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 693
+> Last updated: 2026-08-02 | Total pages: 698
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -211,6 +211,8 @@
 - [[isis]]: The Islamic State of Iraq and Syria (ISIS), also known as ISIL or Daesh, is a militant Islamist group that emerged in 2013–2014 and at its peak controlled large territories in Iraq and Syria. (Created: 2026-08-01)
 - [[israel]]: Middle East country recurring in the corpus as a focus of the Israel-Palestine conflict, campus speech controversies after October 7, and conspiracy narratives casting it as a component of deep-state control. (Created: 2026-08-01)
 - [[italian-mafia]]: Italian-American crime families whose public stature the corpus argues was deliberately inflated by Hollywood to conceal higher layers. (Created: 2026-08-01)
+- [[j-b-white]]: Badlands Media contributor writing as RattlerGator; author of the December 2022 column on Anthony Fauci and co-host of Trash Talk. (Created: 2026-08-02)
+- [[j-e-dyer]]: Commentator at The Optimistic Conservative quoted for the argument that the purpose of political censorship is gaslighting. (Created: 2026-08-02)
 - [[jacobin]]: American socialist magazine cited in the corpus for documenting the CIA's secret 'AFL-CIA' partnership with the AFL-CIO and its role in destabilizing various governments. (Created: 2026-08-01)
 - [[jake-sullivan]]: Policy architect of the Iran nuclear deal, later Biden's national security adviser; Rhodes Scholar and Trilateral Commission member. (Created: 2026-08-02)
 - [[james-baker]]: James Addison Baker III (born 1930) is an American attorney and political figure who served in high-level positions in the administrations of Presidents Gerald Ford, Ronald Reagan, and George H.W. (Created: 2026-08-01)
@@ -371,6 +373,7 @@
 - [[pakistan]]: Nuclear-armed state described as indispensable to U.S. policy against Russia and as reverting to deep-state control after Khan's removal. (Created: 2026-08-02)
 - [[pakistan-tehreek-e-insaf]]: Imran Khan's populist Pakistani political party, presented as the vehicle of his challenge to the military-intelligence establishment. (Created: 2026-08-02)
 - [[paramount-global]]: Media conglomerate owning CBS, Showtime and Paramount+; run by Sheri Redstone and merging with Skydance Media. (Created: 2026-08-01)
+- [[patrick-gunnels]]: Badlands Media host, Trash Talk co-host, and creator of the Reading Epic Threads video series. (Created: 2026-08-02)
 - [[paul-keary]]: Third founding partner of Teneo, who assembled clients including the USA World Cup bid committee and UBS ahead of the firm’s 2011 launch. (Created: 2026-08-02)
 - [[pentagon]]: U.S. Department of Defense headquarters; portrayed in the corpus as ready to deploy assets to Benghazi but notified late by the State Department and never given the order. (Created: 2026-08-01)
 - [[petro-poroshenko]]: Ukrainian businessman and President 2014-2019, listed in the corpus among the oligarchs created by Ukraine's post-Soviet liberalization. (Created: 2026-08-01)
@@ -571,6 +574,7 @@
 - [[americas-greatest-threat]]: Erik Carlson essay (Apr 24, 2024) arguing that the American government, not any foreign power, is the greatest threat to Americans, and that 1913's income tax and Federal Reserve created a system of debt slavery. (Created: 2026-08-02)
 - [[an-sos-from-ground-zero]]: Kitty Gillespie's November 22, 2022 Badlands Media article on the broken administration of the 2022 election in Maricopa County. (Created: 2026-08-02)
 - [[and-iran-iran-so-far-away]]: Badlands Media essay by Ryan DeLarme arguing that US/Israel tensions with Iran reflect a factional war within the Western ruling class over who reopens Iran's economy. (Created: 2026-08-02)
+- [[anthony-fauci|Anthony Fauci: Soldier for the Communist Cause]]: J.B. White's December 2022 Badlands column framing Fauci as the face of Deep State censorship and the "cases, cases, cases" narrative. (Created: 2026-08-02)
 - [[artificial-intelligence]]: Technology framed in the Badlands corpus as a covert manipulation tool deployed by a global cabal to engineer a Communist takeover of the West through social conditioning and algorithmic control. (Created: 2026-08-01)
 - [[asch-conformity-experiments]]: Classic social psychology studies on group pressure, cited as the mechanism by which true individual perceptions are socially suppressed. (Created: 2026-08-02)
 - [[atlantic-charter]]: 1941 Roosevelt-Churchill statement of war aims, cited in its original form before the 2021 Biden-Johnson revision. (Created: 2026-08-01)
@@ -685,6 +689,7 @@
 - [[the-sum-of-all-fears]]: Tom Clancy novel referenced in the Q drops, read as a warning that modern-day Nazis seek to provoke war between Russia and the United States. (Created: 2026-08-02)
 - [[tianjin-declaration]]: Concluding document of the 2025 SCO summit, setting out sovereign equality, rejection of coercive measures, and an SCO Development Bank. (Created: 2026-08-01)
 - [[toronto-protocols]]: French-language documents leaked by Serge Monast, alleging a financier clique's plan to abolish the family and build a World Government. (Created: 2026-08-02)
+- [[twitter-files]]: Post-acquisition disclosures of internal Twitter documents, treated in the corpus as proof of coordinated suppression of competing narratives. (Created: 2026-08-02)
 - [[un-charter]]: Founding UN treaty grounding international law in sovereignty, non-interference and mutual cooperation. (Created: 2026-08-01)
 - [[united-states-code]]: Codification of federal statutory law, cited for Title 28's corporation definition and Title 26's unknowable bulk. (Created: 2026-08-01)
 - [[united-states-constitution]]: Founding charter treated in the corpus as a restraint written by the founders against their own government, undone by the Sixteenth Amendment in 1913. (Created: 2026-08-02)

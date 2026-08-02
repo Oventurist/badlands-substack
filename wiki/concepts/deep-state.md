@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [deep-state, cabal, city-of-london, shadow-government]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md]
 confidence: medium
 contested: true
 ---
@@ -53,3 +53,7 @@ Looking forward, the essay predicts continued exposure of Deep State actors, gro
 Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] describes the largest American technology companies as [[cia]]-created and controlled instruments of the Deep State, whose chief executives -- among them [[mark-zuckerberg]] and [[jeff-bezos]] -- are "Deep State puppets who seem to be having their strings cut." The essay predicts that "CIA and Deep State Cabal strings will continue to be cut," that some corporations will be broken into smaller companies, and that some CEOs will not be chosen to take part in what Carlson calls the American Renaissance.
 
 The article is notable within the corpus for its explicitly pragmatic conclusion: Carlson does not expect figures such as Zuckerberg and Bezos to escape entirely unscathed, but argues that the American economy cannot be destroyed in order to secure justice, since "the cure can't be worse than the disease."
+
+## Censorship as the central tool (2022 column)
+
+[[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] argues that the [[twitter-files|Twitter Files]] exposed the Deep State's "massive efforts to prevent competition for their preferred narratives and efforts and protocols." Quoting [[j-e-dyer|J. E. Dyer]], the column presents censorship as the tool favoured by what it calls the Deep State/Marxist/Communist/Fascist/Socialist continuum, whose purpose is not merely silence but gaslighting: "The more you censor, the more latitude you have to gaslight." [[j-b-white|J.B. White]] adds that the Deep State's proven victory has been "the patient and skillful application of the tools of subversion," wielded "in plain sight, but through hidden means," against the healthy skepticism he regards as the default American mindset.
