@@ -7,7 +7,7 @@ tags:
   - conspiracy-theory
   - trump
   - deep-state
-sources: [raw/a-conflict-of-interest.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
@@ -46,3 +46,11 @@ The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] describes 
 ## "A week to remember"
 
 The Badlands Media essay [[a-week-to-remember|A Week to Remember]] opens with a Q drop for its title and framing. According to the article, Q posted the phrase "a week to remember" on July 14, 2019 — and the assassination attempt on [[donald-trump|Donald Trump]] occurred on July 13, five years later. [[erik-carlson|Erik Carlson]] uses the correspondence to introduce his account of the extraordinary week that followed, which included the selection of [[jd-vance|JD Vance]], the [[republican-national-convention|Republican National Convention]], and [[joe-biden|Joe Biden]]'s withdrawal from the presidential race.
+
+## "America for Sale — Part 2"
+
+[[america-for-sale-part-2|America for Sale — Part 2]] is organized around a sequence of Q drops. Drop 71 (November 4, 2017) — "FOLLOW HUMA. Who connects HRC/CF to SA? … Who is the Muslim Brotherhood?" — is presented as an instruction to trace [[huma-abedin|Huma Abedin]]'s connections, and is noted as having appeared the day before [[prince-alwaleed|Prince Alwaleed bin Talal]]'s arrest. Drop 299 (December 7, 2017), "SA Controls (assigned) US / UK POLITICIANS / Tech Co's (primary)," is read as establishing Saudi control over Western politicians.
+
+Drop 36 (November 2, 2017) asks what "SLUSH FUND" Attorney General [[jeff-sessions|Jeff Sessions]] ended and how Soros, Obama, Clinton, Holder and Lynch net millions in a single tax year; [[joe-lange|Joe Lange]] answers with the [[doj-slush-fund|DOJ settlement slush fund]] uncovered by [[bob-goodlatte|Bob Goodlatte]]. Drop 2462 asks who briefed Goodlatte and [[trey-gowdy|Trey Gowdy]] on classified intelligence, answered as [[ezra-cohen-watnick|Ezra Cohen Watnick]]. Drop 1517 (June 16, 2018) supplies the formula "IG = FBI, Huber = DOJ (no DC)," read as describing [[michael-horowitz|Michael Horowitz]] and [[john-huber|John Huber]] operating around compromised agencies.
+
+Drop 227 (November 24, 2017) consisted of a photograph alone, which the article identifies as taken during [[bill-clinton|Bill Clinton]]'s 2009 [[north-korea|North Korea]] hostage mission, showing [[john-podesta|John Podesta]] and [[doug-band|Doug Band]] alongside [[kim-jong-il|Kim Jong Il]]; drop 228 is said to depict leadership changes in three other countries following Trump's 2017 inauguration. The essay also states plainly that "Q+ is Trump himself."

@@ -1,13 +1,13 @@
 ---
 title: Qatar
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - middle-east
   - al-qaeda
   - diplomacy
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
@@ -21,3 +21,9 @@ According to the article, [[abdelhakim-belhaj|Abdelhakim Belhaj]] went to Qatar 
 The article further claims that after Gaddafi's fall, Belhaj used Qatar as a base to expand his business interests across the Middle East, and that [[isis|ISIS]] fighters were flown from Libya to Syria through Turkey with Qatari support. According to the source, Qatar's role in funding Al-Qaeda was one of the reasons that [[donald-trump|Donald Trump]], with the approval of Saudi Arabia and other Arab countries, blockaded Qatar in 2017 during the Qatar diplomatic crisis. The article claims that the blockade was designed to cut off Qatari funding to terrorist groups.
 
 The source notes that as a result of the blockade, Belhaj was placed on a terrorist watchlist by several countries, including the Tobruk government in Libya, which issued a warrant for his arrest. According to the article, this caused Belhaj to flee to Turkey, and that this sequence of events occurred during Trump's first year as president.
+
+## Clinton Foundation donations and the 2022 World Cup (America for Sale - Part 2)
+
+[[america-for-sale-part-2|America for Sale — Part 2]] cites *Nonprofit Quarterly* reporting that the Qatar 2022 Supreme Committee — the body established to build stadiums and other facilities for Qatar's hosting of the 2022 World Cup — gave between $250,000 and $500,000 as a [[clinton-global-initiative|Clinton Global Initiative]] sponsor in 2013, and that the government of Qatar has given the [[clinton-foundation|Clinton Foundation]] between $1 million and $5 million. The same report suggests the Supreme Committee was not acting as an independent voluntary organization, since the Qatari government was spending heavily to secure the [[fifa|FIFA]] World Cup nod.
+
+[[joe-lange|Joe Lange]] observes that Qatar received the bid and the Clinton Foundation received the money, while much of FIFA's leadership was later arrested on U.S. corruption charges without the Clintons' role being examined.

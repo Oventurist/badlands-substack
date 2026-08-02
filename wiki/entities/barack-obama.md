@@ -8,7 +8,7 @@ tags:
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md, raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
@@ -43,3 +43,9 @@ In the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Ma
 ## Alleged role in bioweapon research (A Virus, or a Metaphor?)
 
 The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] names Obama, together with [[anthony-fauci|Anthony Fauci]], as having "funded and ran" the bioweapon program the author believes produced COVID-19. [[erik-carlson|Erik Carlson]] claims the program originated in a laboratory in North Carolina and was relocated to [[wuhan-institute-of-virology|Wuhan]], China "to maintain secrecy and control," and that the arrival of [[donald-trump|Donald Trump]] in office forced the operation overseas. The article extends the claim to further biolabs said to be operating in [[ukraine|Ukraine]] and possibly Taiwan. No documentary evidence is supplied; the assertions are presented as the author's stated beliefs.
+
+## Alwaleed, Harvard and HUMA (America for Sale - Part 1)
+
+The December 2024 essay [[america-for-sale-part-1|America for Sale - Part 1]] repeats the claim, made in [[joe-lange|Joe Lange]]'s earlier article "Bad Actors," that [[prince-alwaleed|Prince Alwaleed bin Talal]] "paid for Obama's Harvard education" in his pre-political days, offering this as the reason Obama's school records remain sealed. Reading Q drop #111, the article identifies "HUMA" as the [[harvard-university-muslim-alumni|Harvard University Muslim Alumni]] association and asks whether Obama was a member despite professing Christianity throughout his presidency.
+
+Quoting Q drop #4750, which asks who paid for "Hussein's Harvard Law Degree" and who financed his political life, the article argues that Alwaleed "installed Obama as president" as part of a sixteen-year plan, and that the [[muslim-brotherhood|Muslim Brotherhood]]'s decades-long [[civilization-stealth-jihad|infiltration]] of the U.S. government "culminated with the installment of the Obama administration." [[valerie-jarrett|Valerie Jarrett]] is described as Obama's "handler," paired with [[huma-abedin|Huma Abedin]] as [[hillary-clinton|Hillary Clinton]]'s. The article also cites the Obama-era pattern of "funding and arming our enemies" in [[benghazi|Benghazi]] as a repetition of 1990s policy.

@@ -1,13 +1,13 @@
 ---
 title: Bill Clinton
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - president
   - cia
   - stand-down
-sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
@@ -27,3 +27,17 @@ According to the source, Clinton's protection of Bin Laden was part of the same 
 The April 2025 essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] by [[erik-carlson|Erik Carlson]] treats Clinton's domestic record as part of a separate scheme. It states that "under President Bill Clinton, the prison system was becoming privatized," meaning private companies would run American prisons for profit, and that falling crime rates therefore threatened those who "benefitted from prisons being full."
 
 The article names Clinton alongside Senator [[joe-biden|Joe Biden]] as authors of the [[violent-crime-control-and-law-enforcement-act-of-1994|Crime Bill of 1994]], which it says increased sentences for non-violent offenders — "aka drug dealers" — and asserts that "kickbacks came to the politicians who helped pass the new crime bills." In the essay's wider account, the bill worked in concert with [[cia|CIA]]-sponsored [[gangster-rap|gangster rap]] and CIA drug importation into South Central Los Angeles to supply inmates for [[prison-privatization|privatized prisons]], while the [[rodney-king|Rodney King]] affair and the [[los-angeles-riots-1992|1992 Los Angeles riots]] supplied the racial division that made the program politically viable.
+
+## "America for Sale" and the 1996 scandals
+
+The December 2024 essay [[america-for-sale-part-1|America for Sale - Part 1]] by [[joe-lange|Joe Lange]] argues that the scandal involving intern [[monica-lewinsky|Monica Lewinsky]] served as cover for graver matters. The article contends that Clinton's infidelity was never a genuine threat because it had been well documented before he took office, and that the resulting media saturation buried congressional investigations into the export of American satellite and missile guidance technology to China — transfers the article says were enabled by waivers Clinton signed in 1996, the same year the affair began. It adds that Clinton permitted the sale of supercomputers to China that allegedly advanced its nuclear missile program by about twenty years.
+
+The essay also links Clinton to the illegal fundraising scheme run through Commerce Secretary [[ron-brown|Ron Brown]]'s [[department-of-commerce|Commerce Department]] trade missions, citing [[judicial-watch|Judicial Watch]] for the claim that seats aboard those flights were sold to benefit the [[democratic-national-committee|DNC]] and the 1996 Clinton/Gore campaign with Bill and [[hillary-clinton|Hillary Clinton]]'s knowledge and approval, alongside the reported renting of the Lincoln Bedroom to donors. The author summarizes the administration with the phrase "EVERYTHING WAS FOR SALE," calls the Clintons "insiders and part of the protected class," and describes them as "the modern day Ahab and Jezebel." Brown's death in an April 1996 plane crash, days into an independent counsel investigation, is presented as the event that secured the cover-up.
+
+## Teneo, paid speeches and the 2009 North Korea mission (America for Sale - Part 2)
+
+[[america-for-sale-part-2|America for Sale — Part 2]] describes Clinton's post-presidency as commercially organized by [[doug-band|Doug Band]], whom Wikipedia calls the "key architect" of that post-presidency and the creator of the [[clinton-global-initiative|Clinton Global Initiative]]. *The Atlantic* is quoted stating that Band "brokered deals for paid speeches that enriched Clinton, and then started a private consulting firm called [[teneo|Teneo]] that made the Foundation, Bill Clinton, and Band himself even wealthier."
+
+The article states that Teneo paid Clinton $2.5 million per year as a client and paid adviser to the firm and its founders, and that he served for a time as its "honorary chairman," giving clients access to the Clintons' network of world leaders. Breitbart reported that the [[state-department|State Department]] under [[hillary-clinton|Hillary Clinton]] approved the paid consulting arrangement between Clinton and Band. Clinton appeared with [[george-w-bush|George W. Bush]] and [[tony-blair|Tony Blair]] at a September 20, 2012 Teneo client reception at the Essex House organized in part by [[huma-abedin|Huma Abedin]], and with Bush and [[ubs|UBS]] executive Bob McCann in the "Revitalizing America" series beginning in May 2011, for which McClatchy reported he received $1.5 million. UBS paid him more than $1.5 million in speaking fees between 2001 and 2014. In autumn 2010 he personally lobbied [[fifa|FIFA]] to bring the World Cup to the United States.
+
+The article's final section concerns Clinton's secret 2009 mission to [[north-korea|North Korea]], undertaken with [[barack-obama|Obama]] administration blessing and, the author says, at the request of [[kim-jong-il|Kim Jong Il]], which freed two American journalists. Band and two younger aides, Justin Cooper and Jon Davidson, traveled with him after Band asked Abedin to obtain diplomatic passports for them. A photograph from the trip showing [[john-podesta|John Podesta]] behind Clinton and Band behind Kim Jong Il was posted without comment as Q drop 227, which the author treats as a signal that the hostage story was cover for something else.

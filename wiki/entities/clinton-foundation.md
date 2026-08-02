@@ -1,13 +1,13 @@
 ---
 title: Clinton Foundation
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - politics
   - charity
   - clinton
-sources: [raw/a-dereliction-of-duty.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,11 @@ According to the article, the weapons deals were designed to enrich government o
 - [[cia]]
 - state department
 - [[barack-obama]]
+
+## Teneo and the pay-for-play network (America for Sale - Part 2)
+
+[[america-for-sale-part-2|America for Sale — Part 2]] by [[joe-lange|Joe Lange]] treats the Foundation as the receiving end of a network running through [[hillary-clinton|Hillary Clinton]]'s [[state-department|State Department]] and the consulting firm [[teneo|Teneo]]. [[doug-band|Doug Band]], described by *The Atlantic* as having helped launch the Foundation and originated the [[clinton-global-initiative|Clinton Global Initiative]], co-founded Teneo in 2011; [[huma-abedin|Huma Abedin]] was paid by both Teneo and the Foundation while serving as a State Department special government employee, and per Breitbart began communicating in 2009 with Foundation donors seeking favors from the department.
+
+The article records several specific donation streams. [[prince-alwaleed|Prince Alwaleed bin Talal]] is described as one of the Foundation's biggest donors during Clinton's tenure. *Nonprofit Quarterly* is cited for [[fifa|FIFA]]'s membership fee of $50,000 to $100,000 to participate in CGI plus a commitment to build twenty community centers in South Africa, the [[qatar|Qatar]] 2022 Supreme Committee's $250,000 to $500,000 CGI sponsorship in 2013, and the government of Qatar's cumulative $1 million to $5 million. *The Wall Street Journal*, via *The Guardian*, is cited for [[ubs|UBS]] donations growing from under $60,000 through 2008 to about $600,000 by the end of 2014, alongside a $32 million loan program under the Clinton Economic Opportunity Initiative, a $350,000 donation in June 2011 and $100,000 for a charity golf tournament.
+
+The essay also states that U.S. Attorney [[john-huber|John Huber]], secretly appointed by [[jeff-sessions|Jeff Sessions]] in November 2017, made the Clinton Foundation the subject of his first investigation, and that the resulting evidence of what the author calls treason now rests with [[chuck-grassley|Chuck Grassley]]. These interpretive claims are contested.

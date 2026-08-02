@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,9 @@ The article also reports that members of Congress have proposed legislation requ
 ## The 2022 midterm result
 
 The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) discusses control of Congress as the immediate stake of the [[2022-united-states-midterm-elections|2022 midterm elections]]. Its author, [[burning-bright|Burning Bright]], writes that he would have preferred "a crushing Red Wave that soundly overwhelmed [their] systems of fraud en route to taking Congress" as a prelude to [[donald-trump|Donald Trump]]'s 2024 announcement, but counts "real wins, even amidst the fraud," specifically "the projected reclaiming of the House and a potentially-interesting deadlock in the Senate, where a few key 'Democrat' votes never seem to quite go the way the powers that would be intend."
+
+## Investigations into satellite technology transfers to China
+
+[[america-for-sale-part-1|America for Sale - Part 1]] describes Congress as the body that attempted to expose the [[bill-clinton|Clinton]] administration's technology transfers to China. Quoting an April 16, 1998 *New York Times* report, the article notes that "[s]everal Congressional committees are investigating whether the Administration's policy of exporting space satellite technology to China has helped China and other countries to develop and use nuclear missiles," following a [[pentagon|Pentagon]] finding that Chinese missile reliability was significantly advanced in 1996 with help from American satellite-company scientists.
+
+Senator Thad Cochran, a Mississippi Republican, is quoted saying: "I'm not blaming China. We're talking about our own Government policy-makers responsible for the transfer of this technology, and this case is a glaring example." The article states that congressional interest also extended to the missile-technology contact arranged for [[bernard-schwartz|Bernard Schwartz]] of [[loral-corporation|Loral Corporation]] on a 1994 [[department-of-commerce|Commerce Department]] trade mission, and argues that these inquiries were displaced from public attention by the [[monica-lewinsky|Lewinsky]] scandal.

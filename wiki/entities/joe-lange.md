@@ -1,10 +1,10 @@
 ---
 title: Joe Lange
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [author, badlands-media, citizen-journalism, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/a-look-at-recent-features-84d.md, raw/a-seismic-shift.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-look-at-recent-features-84d.md, raw/a-seismic-shift.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md]
 confidence: high
 contested: false
 ---
@@ -26,3 +26,13 @@ Badlands Media appends a standing disclaimer to his features noting that its art
 Lange's output extends well beyond Benghazi into monetary and institutional reform. [[a-seismic-shift|A Seismic Shift: Transferring Power From the Banks … To the People]], published January 12, 2024, is a sequel to his earlier article "The Illusion of Democracy" and argues that the United States is heading toward a public banking system built on the [[united-states-postal-service|United States Postal Service]] and on [[fedaccounts|FedAccounts]] at the [[federal-reserve|Federal Reserve]]. It cross-references three other Lange features: "Master and Commander," on [[donald-trump|Trump]]'s control of the Federal Reserve; "Are CBDC's the Path To Fear or Freedom?", on the digital dollar; and "The Midas Touch," on a return to a redeemable [[gold-standard|gold standard]].
 
 His method in that article is the same documentary collage seen in his Benghazi work — Vox, In These Times, the [[roosevelt-institute|Roosevelt Institute]], Cheddar News, Time, the Washington Post, Business Insider, The Hill, the Berkeley Economic Review, JustMoney.org and the [[american-bankers-association|American Bankers Association]]'s own policy analysis — read through the interpretive frame of Q, including the claim that Q has repeatedly signalled the importance of [[office-of-inspector-general|Inspector General]] offices. He holds up [[jose-figueres|José "Pepe" Figueres]] of Costa Rica as the model statesman, the [[bank-of-north-dakota|Bank of North Dakota]] and the [[postal-savings-system|Postal Savings System]] as proof of concept, and ends with "WWG1WGA."
+
+## America for Sale (December 2024)
+
+[[america-for-sale-part-1|America for Sale - Part 1]], subtitled "Betrayal and Treason" and published December 19, 2024, opens a serialized investigation into what Lange presents as the [[bill-clinton|Clinton]] administration's sale of American assets and secrets. The piece argues that the [[monica-lewinsky|Monica Lewinsky]] scandal was a narrative shield for congressional investigations into satellite and missile technology transfers to China, for the illegal trade-mission fundraising run through Commerce Secretary [[ron-brown|Ron Brown]]'s department, and for Brown's suspicious death in an April 1996 plane crash.
+
+Its second half turns to [[huma-abedin|Huma Abedin]], whose 1996 arrival as an intern Lange casts as a [[muslim-brotherhood|Muslim Brotherhood]] placement effected through the [[journal-of-muslim-minority-affairs|Journal of Muslim Minority Affairs]] and the [[muslim-students-association|Muslim Students Association]]. The article follows Lange's characteristic method of assembling mainstream sources — the *New York Times*, *Vanity Fair*, *Newsweek*, PJMedia, Global Muslim Brotherhood Watch, the *Greensboro News and Record*, and Buchal.com — and reading them through Q drops, here #111 and #4750. It closes by promising a Part 2 on the links among Abedin, Hillary Clinton, [[barack-obama|Obama]], and [[valerie-jarrett|Valerie Jarrett]].
+
+## "America for Sale — Part 2"
+
+On January 30, 2025, Lange published [[america-for-sale-part-2|America for Sale — Part 2]], subtitled "The Foundation of Corruption," the sequel to [[america-for-sale-part-1|Part 1]]. The essay traces [[huma-abedin|Huma Abedin]] and [[doug-band|Doug Band]] from their White House internships to their roles at [[teneo|Teneo]] and the [[clinton-foundation|Clinton Foundation]], argues that [[hillary-clinton|Hillary Clinton]]'s [[state-department|State Department]] sold favors to corporate donors, and connects the resulting evidence to [[bob-goodlatte|Bob Goodlatte]], [[trey-gowdy|Trey Gowdy]] and Senator [[chuck-grassley|Chuck Grassley]]. It closes on [[bill-clinton|Bill Clinton]]'s secret 2009 mission to [[north-korea|North Korea]] and promises to explain its significance in Part 3. Within the piece Lange references his earlier articles "We Won't Forget," "Shadow Government Exposed" and "Panic in DC."

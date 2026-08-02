@@ -1,10 +1,10 @@
 ---
 title: State Department
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [us-government, foreign-policy, terrorism-designation, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,17 @@ In the modern period, the article alleges that declassified State Department cab
 ## The Global Engagement Center
 
 [[a-swan-song-for-the-msm|A Swan Song for the MSM]] assigns the State Department a central role in the institutionalization of federal narrative management. It notes that President [[barack-obama|Barack Obama]] signed the [[countering-foreign-propaganda-and-disinformation-act-of-2016|Countering Foreign Propaganda and Disinformation Act of 2016]] and established the [[global-engagement-center|Global Engagement Center]], housed under the Under Secretary for Public Diplomacy and Public Affairs, with a mandate "to direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts." The article argues that this apparatus made "Russian disinformation" a standing label for evidence of establishment corruption, and treats it as a precursor of the [[censorship-industrial-complex|Censorship Industrial Complex]].
+
+## Huma Abedin's tenure (America for Sale - Part 1)
+
+[[america-for-sale-part-1|America for Sale - Part 1]] focuses on the department as the institution in which [[huma-abedin|Huma Abedin]] served as deputy chief of staff to Secretary [[hillary-clinton|Hillary Clinton]] from 2009. Quoting *Newsweek*, the article states that in that post Abedin was "arranging meetings with world leaders, scanning Clinton's talking points for those meetings and being cc'd on sensitive email traffic between the boss, diplomats, the White House and world leaders," giving her access to "the most sensitive information within the top of the Obama administration."
+
+The article contrasts this access with Abedin's simultaneous history as assistant editor of the *[[journal-of-muslim-minority-affairs|Journal of Muslim Minority Affairs]]* until 2009, asking how she obtained a security clearance given her family's association with [[abdullah-omar-naseef|Abdullah Omar Naseef]]. It also references Clinton's eleven-hour congressional testimony on [[benghazi|Benghazi]], at which Abedin was present.
+
+## Special government employees and Teneo (America for Sale - Part 2)
+
+[[america-for-sale-part-2|America for Sale — Part 2]] focuses on the department's use of "special government employee" status during [[hillary-clinton|Hillary Clinton]]'s tenure. *The Washington Times* is cited reporting that the status allowed [[huma-abedin|Huma Abedin]] to consult simultaneously for [[teneo|Teneo]] — at $15,000 a month over seven months — and for the [[clinton-foundation|Clinton Foundation]] while advising the Secretary. Breitbart reported that the department approved a paid consulting arrangement between Teneo and [[bill-clinton|Bill Clinton]], and that Abedin communicated with Foundation donors seeking departmental favors beginning in 2009.
+
+The article also examines [[declan-kelly|Declan Kelly]]'s appointment as economic envoy to Northern Ireland, describing a parallel arrangement in which Kelly drew no salary, hired his own staff, and continued to earn about $2.4 million from [[dow-chemical|Dow Chemical]] through [[fti-consulting|FTI Consulting]]. Quoting *Politico*, it notes that despite official-sounding titles and regular interaction with department staff and Irish diplomats, "none of them were official government employees," and that a department statement said: "The State Department does not have a record of these individuals being employed by the Department." Several of Kelly's envoy-office staff also worked for Declan Kelly Consulting and became early Teneo employees, avoiding the oversight applied to department personnel.
+
+A further episode concerns [[doug-band|Doug Band]]'s July 27, 2009 request to Abedin for diplomatic passports for himself and two Clinton aides ahead of the secret [[north-korea|North Korea]] mission, despite none of them working for the department. [[joe-lange|Joe Lange]] reads these arrangements as deliberate structures for concealment.
