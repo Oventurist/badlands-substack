@@ -12,3 +12,12 @@ wiki/.inprogress-*
 scripts/Substack2Markdown/
 # Obsidian local config (window state, UI prefs — machine-local)
 .obsidian/
+
+# VitePress site (build artifacts + generated docs)
+site/node_modules/
+site/docs/.vitepress/dist/
+site/docs/entities/
+site/docs/concepts/
+site/docs/articles/
+site/docs/index.md
+site/docs/.vitepress/config.mjs

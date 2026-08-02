@@ -1,0 +1,16 @@
+{
+  "name": "badlands-wiki-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public Wikipedia-style site for the Badlands wiki (built from the private repo's wiki/ folder)",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-site.mjs",
+    "dev": "npm run generate && vitepress dev docs",
+    "build": "npm run generate && vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.3.4"
+  }
+}
