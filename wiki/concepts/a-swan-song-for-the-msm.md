@@ -1,0 +1,66 @@
+---
+title: A Swan Song for the MSM
+created: 2026-08-01
+updated: 2026-08-01
+type: concept
+tags: [media-criticism, citizen-journalism, censorship, badlands-media, propaganda]
+sources: [raw/a-swan-song-for-the-msm.md]
+confidence: medium
+contested: true
+---
+
+# A Swan Song for the MSM
+
+"A Swan Song for the MSM," subtitled "The Citizen Journalist Will Write Its Epitaph," is an essay by [[ryan-delarme|Ryan DeLarme]] published by [[badlands-media|Badlands Media]] on February 21, 2024. The article argues that the American corporate press — what the author calls the "mainstream" or "centralized" media — is in terminal decline, that its collapse is deserved rather than tragic, and that the citizen journalist operating in the decentralized media space is the successor institution. The piece closes with the Badlands slogan "We are the news now."
+
+## The argument for collapse
+
+The author opens by asserting that it is "not an exaggeration to say that the mainstream media is nearing its inevitable doom," and that the question is no longer whether it will die but when. He notes that in some cases "the death certificates have already been signed," citing the layoff of all or most of the staff of Sports Illustrated. While conceding that the collapse of any industry carries dire consequences and is not normally an occasion for celebration, he writes that "there are few industries more worthy of such a gruesome and undignified demise as modern mainstream journalism," and describes the schadenfreude felt by independent journalists as "palpable."
+
+The essay invokes a 1996 prediction by the author and psychonaut Terrance McKenna, quoted as saying: "Mass media is finished… mass media is one-to-many communication, and what the internet offers is any-to-any." DeLarme argues this prediction is "proving to be right on the money."
+
+As evidence, the article catalogues recent contractions: the Los Angeles Times, Time Magazine, NBC News, Sports Illustrated, National Geographic and Business Insider had all experienced significant workforce reductions or been pushed to the verge of extinction. BuzzFeed — described as the outlet responsible for breaking the Steele Dossier, "one of the most notorious instances of fake news" — abolished its news division entirely in 2023. The L.A. Times is reported to have laid off 25 percent of its already-decimated newsroom in a single day, only months after cutting 13 percent of its workforce.
+
+## Media and the establishment
+
+The article frames [[donald-trump|Donald Trump]]'s 2016 campaign against [[hillary-clinton|Hillary Clinton]] as "more than just another contest between Republicans and Democrats," describing it instead as a confrontation between "the once-voiceless masses and a ruling political class." That campaign, DeLarme writes, showcased how entangled the press had become with the Western establishment — a danger he insists one need not like Trump to recognize. He argues that America cannot be governed by the will of the people while a permanent political class in Washington remains beholden to special interests, and that a free press cannot perform its function when its executives incentivize establishment agendas over factual reporting.
+
+The essay maintains that independent media has grown despite demonetization, deplatforming, public ridicule and accusations of spreading foreign state disinformation, and despite opposition from Big Tech and major financial institutions — citing a reported Google policy against independent media in search results and GoFundMe's freezing of donations to The Grayzone.
+
+DeLarme rejects the common claim that Trump and populism caused the decline of the press, calling that explanation a product of journalists' aversion to self-reflection. He argues the opposite: that Trump temporarily saved cable punditry, as once-disinterested liberals became "maniacally obsessed with politics" and flocked back to CNN and MSNBC, both of which had been hemorrhaging viewers beforehand. That surge, he writes, was "too little, too late, and like all sugar highs, it would wane with time."
+
+The article argues the mainstream press was already terminal before Trump, and that [[barack-obama|Barack Obama]] knew as much when he signed the Countering Foreign Propaganda and Disinformation Act of 2016 and established the Global Engagement Center within the [[state-department|State Department]]. The essay quotes the center's mandate "to direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts," and contends that labeling incriminating evidence of establishment corruption "Russian disinformation" became an effective go-to strategy that persists to this day.
+
+## Centralized versus decentralized media
+
+The article defines its terms. As of 2017, it states, six major conglomerates dominated broadcast, print, internet, radio and film: Time Warner, Comcast, Disney, Sony, National Amusements (now [[paramount-global|Paramount Global]]) and Rupert Murdoch's NewsCorp. Although these firms appear to compete, DeLarme argues they are mutually owned by the world's largest institutional investors — BlackRock Inc, the Vanguard Group, State Street and Berkshire Hathaway — whose representatives are described as regular fixtures at policy bodies such as the Council on Foreign Relations and the [[world-economic-forum|World Economic Forum]]. On this reading, "the 'big six' are just the propaganda arm of the big 1—the Western establishment, the system of systems." This is what the author means by **centralized media**; anything outside those conglomerates, "where there are no emissaries of the think tank class telling journalists what to write," is **decentralized media**.
+
+The historical mandate of a free press, the article contends, was to act as a counterbalance to establishment power, but "today, the media is not only failing in its role of keeping the establishment in check, the media IS the establishment," working in tandem with the U.S. intelligence apparatus and the military industrial complex. The author suggests that public attention is deliberately redirected from issue to issue so frequently that "corporate junk-food media" comes to appeal more to a weary mind than confronting complex social problems.
+
+To explain the mechanism, the essay quotes the political scientist Bernard C. Cohen from his 1963 book *The Press and Foreign Policy*: "The press may not be successful much of the time in telling people what to think, but it is stunningly successful in telling its readers what to think about." DeLarme argues this agenda-setting power worked for most of the twentieth century but has faltered as Western societies entered a turbulent era, with public consciousness shifting decisively in the wake of Brexit and Trump's rise.
+
+## The sad state of the media today
+
+Beyond corporate influence and what the author calls the press's concerning relationship with the intelligence community — referencing Carl Bernstein's 1977 *Rolling Stone* investigation "The CIA and the Media" — the essay charges the mainstream press with "rampant mediocrity." It argues that contemporary output offers little but "substance-free affirmations of the modern liberal cult-of-personality talking points," and says the same of Fox News' catering to "garden variety conservatives." The emphasis, DeLarme writes, is on highlighting differences and asserting that "our team" is better than "their team," and he singles out the MSNBC programs of Joy Reid and Jen Psaki as difficult to endure. He notes that Fox News avoids the difficult topics discussed at Badlands Media, just as CNN will not report what appears in The Grayzone or Consortium News; the two apparent perspectives are "two heads on the same wretched snake."
+
+The article further argues that, with corruption abounding, the corporate press "can't really afford to hire journalists worthy of the title," because "effective journalists of integrity are a literal security risk for the security state." Outlets described as historically spook-friendly — the Washington Post, the New York Times and The Atlantic — are said to hire people naturally inclined to support handed-down narratives, whose primary skillset is "venomously seeking out anyone on the internet who deviates from this orthodoxy."
+
+## Taylor Lorenz as case study
+
+The essay devotes an extended section to [[taylor-lorenz|Taylor Lorenz]], the former New York Times and Washington Post writer, presented as "the quintessential millennial journalist success story of our age." DeLarme writes that Lorenz began on the social media beat engaging in "tattletale journalism," encouraged teen TikTok influencers to brand their peers as racist or misogynist, and attempted to turn Kellyanne Conway's underage daughter into a left-wing celebrity in order to instigate a family feud. He notes she gained notoriety on the American right after doxing the Libs of TikTok account — run by [[chaya-raichik|Chaya Raichik]] — and then complained of online harassment on a media tour.
+
+The article quotes at length from a TikTok video in which Lorenz delivered what the author calls a "State of the Media" address. In it she states that "the entire journalism industry is basically in a freefall," notes that the Los Angeles Times laid off 115 employees and wiped out its entire Washington bureau in an election year while killing its sports, tech and business coverage, and observes that "tens of thousands of journalists have been laid off in the past year." She adds that BuzzFeed News shuttered its news operation, Time Magazine cut staff, and Sports Illustrated "basically shut down last week," concluding that "pretty much the entire digital media ecosystem that myself and a lot of other millennial journalists came up with has been completely hollowed out."
+
+In a second quoted passage, Lorenz describes local news as "obliterated," the newspaper industry as "cratering," and radio as "essentially dead, aside from NPR, which has been gutted." She notes that hundreds of workers at Condé Nast — parent company of GQ, Vogue, The New Yorker and Vanity Fair — were on strike over impending layoffs, and that even billionaire-owned outlets like the Washington Post, where she then worked, and The Atlantic, where she previously worked, had conducted layoffs. She closes: "I don't think people understand how bad the world would be without journalists."
+
+DeLarme concedes that Lorenz is "actually speaking the truth here," which he calls uncharacteristic, but rejects her conclusion: "we all know very well how bad the world would be without journalists—that's kind of the exact predicament we're in today: Lorenz and her ilk are not actually journalists." He defines the journalistic function by reference to the First Amendment guarantee of press freedom — "we need a mechanism to confront, undermine, subvert and check institutions of authority and the most powerful people in our country" — and argues Lorenz has never exposed consequential corruption in the CIA, the FBI, Wall Street or the military industrial complex in the manner of Julian Assange or Gary Webb. Ultimately he softens the personal attack: "Taylor Lorenz herself isn't the problem, she's just a symptom of the problem. The problem is what the industry has devolved into. It is anti-journalism."
+
+## We are the news now
+
+The final section describes the rise of the citizen journalist, defined as public citizens "playing an active role in the process of collecting, reporting, analyzing, and disseminating news and information." The article also quotes Courtney C. Radsch's definition from *The Revolutions will be Blogged: Cyberactivism and the 4th Estate in Egypt*, describing citizen journalism as "an alternative and activist form of news gathering and reporting that functions outside mainstream media institutions, often as a response to shortcomings in the professional journalistic field."
+
+DeLarme argues that nothing frightens the Western establishment more than a capable and honest decentralized media, because a self-organizing industry of principled citizen journalists "would render the mainstream obsolete." This fear, he writes, produced an entire industry devoted to crippling independent media and snuffing out dissent — the Censorship Industrial Complex, which he flags as meriting its own post. Its emergence, he suggests, is an indicator of panic and a sign the establishment is not as invincible as previously believed.
+
+The essay rejects the notion that journalism is a complex art beyond the reach of untrained citizens: "A good piece of honest journalism is not something that will be marveled at for centuries, like a painting or a poem—it simply serves as a means to convey information to the public accurately and without bias." Because the corporate press has failed at this simple function, the author concludes, the American people are performing it themselves: "The corporate news media is dying, and the citizen journalist will write its epitaph. We are the news now."
+
+The article carries the standard Badlands Media disclaimer that contributions represent the opinions of their authors, and directs readers to DeLarme's own newsletter, the Post-Liberal.

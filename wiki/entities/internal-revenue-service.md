@@ -37,3 +37,7 @@ The source links the income tax to earlier advocacy by the [[Populist Party]] an
 ## References
 
 - Badlands Media, "1913: The Year the Cabal Enslaved America," `raw/1913.md`
+
+## Enforceability of Title 26
+
+The May 16, 2023 Badlands essay [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]] uses the IRS as its principal illustration of unknowable law. It asks whether IRS agents have the entire revenue code — Title 26 of the [[united-states-code|United States Code]] — memorised, and, if not, how they can enforce it in real-time situations, comparing the attempt to playing chess without knowing how the pieces move. The example is offered in support of the article's broader claim that the [[rule-of-law|rule of law]] cannot exist where citizens are unable to articulate the rules binding them.

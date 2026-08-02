@@ -31,3 +31,7 @@ The essay also reads Q's repeated warnings of "pain incoming" psychologically, c
 ## Later Badlands treatment
 
 The August 15, 2025 roundup [[a-look-at-recent-features|"A Look At Recent Features"]] lists the [[american-hypnotist|American Hypnotist]] feature "A Hypnotist Rants about Q, Epstein and the Nature of Reality Itself" (July 19, 2025), which pairs Q with the Jeffrey Epstein affair and questions about the nature of reality.
+
+## Division of labour with the public
+
+The May 16, 2023 essay [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]] describes a two-tier model of restoration in which "Trump and the Q team fix things 'upstairs'" while ordinary citizens work at ground level by educating themselves about the legal system and "stepping into their true position as the de jure civilian authority." The author appends an explicit disclaimer that no specific action is being recommended, and characterises the moment as "an all hands on deck situation."

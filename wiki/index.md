@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-01 | Total pages: 410
+> Last updated: 2026-08-01 | Total pages: 417
 
 ## Entities
 <!-- People, orgs, agencies, outlets. Alphabetical. -->
@@ -283,6 +283,7 @@
 - [[stopantisemitism]]: Advocacy group identified by the corpus as the primary force pressuring employers to fire Israel critics, often via doxxing on its X account. (Created: 2026-08-01)
 - [[strobe-talbott]]: Rhodes Scholar and Clinton-era Deputy Secretary of State, named in the corpus among the Western managers of post-Soviet liberalization. (Created: 2026-08-01)
 - [[sumner-redstone]]: Late media magnate and Trump ally who handed control of Paramount to his daughter in 2016; died in 2020. (Created: 2026-08-01)
+- [[supreme-court-of-the-united-states]]: Highest US federal court, cited in the corpus for Chisholm v. Georgia and the people-to-states chain of authority. (Created: 2026-08-01)
 - [[sylvester-stallone]]: Actor behind Rocky and Rambo; named by Trump as an ambassador to Hollywood. (Created: 2026-08-01)
 - [[syrian-emergency-task-force]]: Lobbying group based in Washington, D.C.; framed in the source as a front for channeling U.S. taxpayer money to ISIS under the cover of supporting Syrian rebels. (Created: 2026-08-01)
 - [[taliban]]: The Taliban is a militant Islamist organization that emerged in Afghanistan in the mid-1990s and ruled the country from 1996 to 2001. (Created: 2026-08-01)
@@ -350,6 +351,7 @@
 - [[a-new-hollywood]]: February 2025 Erik Carlson essay arguing that Hollywood has already been taken over by Trump allies through the Paramount–Skydance merger. (Created: 2026-08-01)
 - [[a-re-alignment-of-world-systems]]: September 2025 Matthew Ehret essay using the ouster of Chrystia Freeland to argue that the post-1971 unipolar project has collapsed before a Russia-China multipolar order. (Created: 2026-08-01)
 - [[a-seismic-shift]]: Joe Lange's January 2024 feature arguing that Trump is quietly building a public banking system through the Postal Service and FedAccounts. (Created: 2026-08-01)
+- [[a-startling-contradiction-at-the]]: May 2023 American Hypnotist essay arguing the law is both unknowable to citizens and binding on them. (Created: 2026-08-01)
 - [[artificial-intelligence]]: Technology framed in the Badlands corpus as a covert manipulation tool deployed by a global cabal to engineer a Communist takeover of the West through social conditioning and algorithmic control. (Created: 2026-08-01)
 - [[atlantic-charter]]: 1941 Roosevelt-Churchill statement of war aims, cited in its original form before the 2021 Biden-Johnson revision. (Created: 2026-08-01)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
@@ -364,7 +366,9 @@
 - [[burns-cable-2008]]: February 2008 diplomatic cable by William Burns warning that Ukrainian NATO membership would be the "brightest of all redlines" for Russia. (Created: 2026-08-01)
 - [[cabal]]: In the Badlands Media corpus, the cabal is the term used to describe a small, cohesive network of financiers and political actors whom the source credits with consolidating permanent control over the American monetary and tax systems in 1913. (Created: 2026-08-01)
 - [[censorship-regime]]: Network of state institutions, legacy media, tech platforms, and NGOs that the Badlands corpus argues coordinate to suppress dissident voices during Western election cycles. (Created: 2026-08-01)
+- [[chisholm-v-georgia]]: Early Supreme Court case quoted for the claim that state authority derives from the deliberate choice of the people. (Created: 2026-08-01)
 - [[congress-of-vienna]]: 1815 post-Napoleonic conference described as a weak attempt at a durable peace settlement. (Created: 2026-08-01)
+- [[declaration-of-independence]]: 1776 founding document treated in the corpus as the source of American values and of authority derived from God. (Created: 2026-08-01)
 - [[deep-state]]: Unelected network said to direct government policy, topped in the corpus by the City of London. (Created: 2026-08-01)
 - [[democracy-promotion]]: Term defined critically in the corpus as code for regime destabilization and conforming nations to the will of the international foreign policy establishment, institutionalized through the NED network. (Created: 2026-08-01)
 - [[fedaccounts]]: 2018 proposal for Federal Reserve retail accounts open to all individuals and businesses, potentially serviced through post offices. (Created: 2026-08-01)
@@ -403,6 +407,7 @@
 - [[q-anon]]: Q Anon is a far-right conspiracy theory that emerged on the internet in 2017, centered on the claims of an anonymous individual or group known as "Q" who purported to have insider knowledge of a deep state cabal working against Donald Trump. (Created: 2026-08-01)
 - [[retail-theft-wave]]: Pattern of large-scale organized shoplifting in liberal American cities interpreted in the Badlands corpus as a deliberate Communist plot to destroy downtown commerce and create racial division. (Created: 2026-08-01)
 - [[rhodes-scholarship]]: Oxford scholarship founded in 1902, described in the corpus as the recruitment mechanism of a British imperial cadre of over 7,000 scholars. (Created: 2026-08-01)
+- [[rule-of-law]]: Principle that law must be knowable by those bound by it, held in the corpus to be absent in modern America. (Created: 2026-08-01)
 - [[rules-based-international-order]]: Western formula the corpus contrasts unfavourably with the UN Charter, characterised as arbitrary and unipolar. (Created: 2026-08-01)
 - [[sofr]]: American benchmark rate that replaced LIBOR, framed as Trump repatriating banking control to the Federal Reserve. (Created: 2026-08-01)
 - [[spatial-disorientation]]: FAA-defined aviation condition in which conflicting sensory information misleads a pilot; used analogically for media deception. (Created: 2026-08-01)
@@ -410,6 +415,8 @@
 - [[the-godfather]]: 1969 novel and 1972 film analyzed as a narrative operation that made the Italian Mafia synonymous with organized crime. (Created: 2026-08-01)
 - [[tianjin-declaration]]: Concluding document of the 2025 SCO summit, setting out sovereign equality, rejection of coercive measures, and an SCO Development Bank. (Created: 2026-08-01)
 - [[un-charter]]: Founding UN treaty grounding international law in sovereignty, non-interference and mutual cooperation. (Created: 2026-08-01)
+- [[united-states-code]]: Codification of federal statutory law, cited for Title 28's corporation definition and Title 26's unknowable bulk. (Created: 2026-08-01)
+- [[united-states-federal-corporation]]: Claim that 28 U.S.C. 3002(15)(A) defines the United States as a federal corporation. (Created: 2026-08-01)
 - [[violent-crime-control-and-law-enforcement-act-of-1994]]: Crime bill by Clinton and Biden said to have lengthened non-violent sentences in order to fill private prisons. (Created: 2026-08-01)
 - [[watts-riots]]: 1965 Los Angeles unrest cited as a data point in the claimed thirty-year cycle of racial flashpoints. (Created: 2026-08-01)
 - [[wayne-madsen-report]]: The Wayne Madsen Report is an investigative journalism and analysis outlet founded by Wayne Madsen, a former NSA officer and journalist known for publishing claims about CIA covert operations and political corruption. (Created: 2026-08-01)
