@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
-
 # Great Tribulation
 
 The Tribulation is the period of divine judgment on a sinful and wicked world described in the [[book-of-revelation|book of Revelation]]. It is examined at length in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], which asks whether the present era qualifies.
@@ -28,3 +27,7 @@ The closest historical parallel offered is the Black Death of around 1351, which
 ## The church during the Tribulation
 
 Against the common teaching of a pre-Tribulation [[rapture]], the article argues that believers are pictured in the world throughout the eschatological narrative, receiving warnings and encouragement — notably the blessing pronounced on "the dead who die in the Lord from now on," positioned after the seal and trumpet judgments and just before [[the-beast|the Beast]] and the [[mark-of-the-beast|Mark of the Beast]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

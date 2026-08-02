@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # BBC
 
 The **British Broadcasting Corporation (BBC)** is identified in the Badlands Media corpus as the founder of the **Trusted News Initiative (TNI)** and as a central institutional actor in the 5th Generation Warfare (5GW) censorship regime. In the article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023), the BBC is linked to coordinated efforts to suppress alternative media voices and gatekeep information during election cycles.
@@ -37,3 +36,7 @@ The Badlands source portrays the BBC as having shifted from a public service bro
 - [[robert-f-kennedy-jr]]
 - [[5th-generation-warfare]]
 - [[rishi-sunak]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

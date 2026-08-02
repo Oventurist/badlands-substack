@@ -8,7 +8,6 @@ sources: [raw/are-we-being-distracted.md]
 confidence: medium
 contested: false
 ---
-
 # Bitcoin 2024 Conference
 
 The Bitcoin Conference of late July 2024 was the venue at which [[donald-trump|Donald Trump]], then the Republican presidential nominee, delivered an address endorsing [[bitcoin|Bitcoin]] as an instrument of American economic policy. In the Badlands Media corpus the speech is presented as the substantive news event that the surrounding spectacle of that week obscured.
@@ -22,3 +21,7 @@ Carlson is careful about the scope of the claim. He states that Trump was not te
 ## Significance attributed
 
 Within the article's argument, the conference speech belongs to the same policy trajectory as [[tax-free-tips|tax-free tips]]: a series of subtle public signals indicating that a second Trump administration intends to rebuild rather than preserve the existing financial architecture. Carlson connects it also to the selection of [[jd-vance|JD Vance]] as running mate, urging readers to "consider why Trump would choose JD Vance as his VP, Vance's connection to Big Tech and Cryptocurrency." The counterpoint, in his telling, was the [[paris-2024-olympics-opening-ceremony|Paris Olympics opening ceremony]], which dominated attention during the same days.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-being-distracted)

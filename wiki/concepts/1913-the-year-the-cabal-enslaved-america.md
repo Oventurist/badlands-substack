@@ -7,7 +7,6 @@ tags: [central-banking, cabal, legislation, info-war]
 sources: [raw/1913.md]
 confidence: medium
 ---
-
 # 1913: The Year the Cabal Enslaved America
 
 "[[1913]]: The Year the Cabal Enslaved America" is a Badlands Media article (published November 29, 2022) that frames the year [[1913]] as the moment a small circle of financiers — which the article calls the "[[cabal]]" — consolidated permanent control over the American monetary and tax systems. The piece traces a narrative from the Founding Fathers' "hard money" tradition through the creation of the [[Federal Reserve]], the federal income tax, and the "Money Trust" documented by the [[Pujo Committee]], arguing that these developments deliberately transferred power from citizens to bankers.
@@ -69,3 +68,7 @@ The article characterizes the [[Federal Reserve]] as "a privately owned bank" th
 ## References
 
 - Badlands Media, "1913: The Year the Cabal Enslaved America" (Nov 29, 2022), `raw/1913.md`
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

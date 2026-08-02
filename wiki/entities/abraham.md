@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: false
 ---
-
 # Abraham
 
 Abraham is the patriarch common to Judaism, Christianity and Islam, and in the Badlands Media essay [[arabian-nights]] the founder of the [[kaaba]] and the ancestor of both [[hashim-ibn-abd-manaf|Hashim]] and [[prophet-muhammad|Muhammad]].
@@ -26,3 +25,7 @@ The belief recorded in the source is that Abraham eventually settled in Mecca an
 ## The three angels
 
 The article also recounts the episode, accepted in all three major religions, in which Abraham and his wife Sarah, childless and aged 86, were visited by three angels who told them they would bear a son. Before hearing their news, Abraham received them with warm hospitality, washing their feet and feeding them his best bread, milk and finest calf — paying forward the kindness shown to him by strangers during his travels after his exile from Mesopotamia. Hashim, and all Islamic scholars since, held up this behaviour as exemplary and urged all followers to practise the same kindness toward visitors.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

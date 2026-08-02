@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # John Brennan
 
 John Brennan served as CIA Director under [[barack-obama|President Obama]] from 2013 to 2017, and previously as Obama's top counter-terrorism advisor. In the Badlands Media article "A Dereliction of Duty," Brennan is portrayed as a central figure in the Benghazi cover-up and as a key facilitator of the covert weapons-smuggling operation that armed [[al-qaeda|Al Qaeda]] and [[isis|ISIS]].
@@ -23,3 +22,7 @@ The article claims that Brennan was in charge of running the drone strike progra
 According to the source, Brennan was rewarded for his role in the cover-up when he was appointed CIA director only months after the Benghazi attack. The article quotes the CIA's old mantra—"admit nothing and deny everything"—as Brennan's guiding principle, and claims that he was involved in the CIA rendition and torture programs that forced him to withdraw his initial nomination as CIA director.
 
 The article also claims that Brennan was working with the [[muslim-brotherhood|Muslim Brotherhood]] in Turkey to smuggle weapons from Libya to ISIS in Syria, and that his "Drone Doctrine" failed to eradicate Al Qaeda while allowing the terror group to retrench in Libya and the Sinai Peninsula.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

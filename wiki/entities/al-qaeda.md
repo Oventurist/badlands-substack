@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
-
 # Al-Qaeda
 
 Al-Qaeda is a militant Islamist organization founded by [[osama-bin-laden|Osama bin Laden]] in the late 1980s, originally composed of Arab mujahideen who had fought against the Soviet Union in Afghanistan. In the Badlands Media article "A Conflict of Interest," Al-Qaeda is portrayed as a terrorist organization that was deliberately created, armed, and manipulated by the [[cia|CIA]] and what the source calls the "shadow government" for geopolitical and financial purposes.
@@ -27,3 +26,10 @@ According to the source, Al-Qaeda's connection to U.S. intelligence runs deeper 
 [[america-for-sale-part-1|America for Sale - Part 1]] approaches al-Qaeda through its alleged financing and recruitment infrastructure. It describes [[abdullah-omar-naseef|Abdullah Omar Naseef]] as "a known wealthy Saudi financier of Al Qaeda" who was named a defendant in the civil suit brought by 9/11 victims around 2003, and notes that the International Islamic Council for Dawa and Relief, of which he was an officer, lists affiliates associated with the global [[muslim-brotherhood|Muslim Brotherhood]], Hamas fundraising, or support for al-Qaeda.
 
 The article also traces recruitment through the [[muslim-students-association|Muslim Students Association]]: [[anwar-al-awlaki|Anwar al-Awlaki]], described as an al-Qaeda operative ministering to future 9/11 hijackers, was spiritual guide to the chapter at [[george-washington-university|George Washington University]] in 2001 and had earlier led the Colorado State University chapter, while [[wael-jalaidan|Wael Jalaidan]], who ran the University of Arizona chapter in the 1980s, helped [[osama-bin-laden|Osama bin Laden]] found al-Qaeda and joined Naseef in establishing the [[rabita-trust|Rabita Trust]], designated a terrorist organization under U.S. law for funding al-Qaeda.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)

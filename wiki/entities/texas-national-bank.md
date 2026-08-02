@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Texas National Bank
 
 Texas National Bank (TNB) was a Houston bank created in 1953 through the merger of South Texas National and Union National Bank. According to the [[wayne-madsen-report]], TNB played a "significant role in helping finance the early development of [[zapata-offshore]] Company," the oil firm founded by [[george-hw-bush]] and J. Hugh Liedtke. The article describes the bank as a CIA institution established to service a CIA front company.
@@ -28,3 +27,7 @@ The article claims that three ships owned by Zapata Offshore—the *Houston*, *B
 ## Merger into Texas Commerce Bank
 
 In 1964, TNB merged with the National Bank of Commerce to form [[texas-commerce-bank]], which continued the bank's CIA connections and later became the repository for [[mario-ruiz-massieu]]'s drug money from the [[gulf-cartel]]. The article frames the merger as a continuation rather than a break in the bank's covert financial infrastructure.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

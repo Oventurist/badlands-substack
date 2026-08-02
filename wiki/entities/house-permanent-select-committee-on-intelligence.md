@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: false
 ---
-
 # House Permanent Select Committee on Intelligence
 
 The House Permanent Select Committee on Intelligence (HPSCI) is a standing committee of the United States House of Representatives tasked with overseeing the intelligence community, including the [[cia|CIA]], NSA, and other intelligence agencies. In the Badlands Media corpus, it is cited as the congressional body that investigated the 2012 Benghazi attack and uncovered evidence of a cover-up by the Obama administration.
@@ -33,3 +32,7 @@ The source cites The Hill's reporting on the committee's findings, including the
 - [[devin-nunes]]
 - [[cia]]
 - state department
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

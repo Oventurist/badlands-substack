@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # John Podesta
 
 John Podesta is a longtime Democratic operative who served as White House chief of staff under [[bill-clinton|Bill Clinton]] and as chairman of [[hillary-clinton|Hillary Clinton]]'s 2016 presidential campaign.
@@ -22,3 +21,10 @@ Podesta also appears in the article's closing lines, which cite the Q markers "1
 ## The North Korea memo
 
 [[america-for-sale-part-3|America for Sale — Part 3]] notes that Podesta accompanied [[bill-clinton|Bill Clinton]] on the August 2009 mission to [[north-korea|North Korea]] and appears directly behind him in the photograph posted in Q drop #227. The memo describing the friendly exchange between Clinton and [[kim-jong-il|Kim Jong Il]] was, according to [[buzzfeed|BuzzFeed News]], attached to an email sent to Podesta and surfaced when [[wikileaks|WikiLeaks]] published his hacked account. At the time of the trip Podesta headed the Center for American Progress and served as an adviser to [[barack-obama|Barack Obama]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

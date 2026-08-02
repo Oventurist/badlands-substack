@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: high
 contested: false
 ---
-
 # Apostle Paul
 
 **Paul the Apostle** is cited in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] as the scriptural source of two of its central subjects: the [[rapture]] and the [[antichrist]].
@@ -20,3 +19,7 @@ The article notes that the word "rapture" appears nowhere in the New Testament, 
 ## The son of lawlessness
 
 In 2 Thessalonians, Paul describes the "son of lawlessness" — interpreted in Christian theology as the Antichrist — as an individual who opposes God, exalts himself, and performs deceitful signs and wonders to deceive the people, but whose power is temporary. The article emphasizes Paul's accompanying exhortation that believers remain steadfast in their faith, knowing that ultimate victory belongs to God and that the Antichrist is defeated. It also notes that Paul, like the Old Testament prophets, pictures believers as present in the world while these events unfold.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

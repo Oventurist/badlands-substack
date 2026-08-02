@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Medellín Cartel
 
 The Medellín Cartel was a Colombian drug trafficking organization founded by Pablo Escobar and the Ochoa brothers in the 1970s. At its peak in the 1980s, it was the most powerful drug-trafficking organization in the world, responsible for an estimated 80 percent of the global cocaine supply. In the Badlands Media article [[a-family-affair]], the Medellín Cartel is linked to [[jeb-bush]] through money-laundering operations and to the [[cia]] through covert funding of the Nicaraguan Contras.
@@ -27,3 +26,7 @@ According to the [[wayne-madsen-report]], Jeb Bush established banking and money
 ## Medellín Cartel and Jeb Bush's law firm
 
 According to yahoo finance and sources cited in the article, in 1989 Pablo Escobar's associates dispatched a representative, Vallejo, to Miami to discuss a potential deal with a lawyer working on a team headed by Jeb Bush. The idea was for the lawyer to persuade Bush to talk privately to the president about the cartel leaders' proposal. The deal never materialized, partly because of the August 1989 assassination of Luis Galán, which made Escobar expendable in U.S. policy calculations.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

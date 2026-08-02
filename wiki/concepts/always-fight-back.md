@@ -8,7 +8,6 @@ sources: [raw/always-fight-back.md]
 confidence: medium
 contested: true
 ---
-
 # Always Fight Back
 
 "Always Fight Back: Lessons from Lawfare in the US District of Colorado" is a first-person essay published by [[badlands-media|Badlands Media]] on August 13, 2024 and written by [[ashe-in-america|Ashe in America]], who was a named defendant in the civil case [[naacp-v-useip|NAACP et al. v. USEIP et al.]] The piece recounts the author's successful pro se defense at trial in the [[us-district-court-for-the-district-of-colorado|United States District Court for the District of Colorado]] and uses the case as a lens through which to argue that so-called "election denial" and door-to-door canvassing are constitutionally protected activities rather than voter intimidation.
@@ -48,3 +47,7 @@ The essay's central factual indictment concerns the only witness who claimed bot
 ## Conclusion
 
 The article closes on the personal cost of the litigation — reputation, career, family, and sanity — observing that an award of costs "doesn't even begin to cover it," while affirming that complete vindication in federal court restored the author's faith in justice. Its final admonition is that "justice doesn't just happen. You must show up and fight for it." Badlands Media appends its standard disclaimer that contributor articles represent the opinions of the authors rather than the outlet.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/always-fight-back)

@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Mario Ruiz Massieu
 
 Mario Ruiz Massieu is the brother of José Francisco Ruiz Massieu, the Mexican politician assassinated in September 1994, and a former special prosecutor whose actions are examined in the Badlands Media article [[a-family-affair]] as part of a high-level cover-up tied to the salinas family and the [[gulf-cartel]].
@@ -28,3 +27,7 @@ Mario Ruiz Massieu was arrested in Newark, New Jersey, in March 1994 while attem
 ## Asset forfeiture
 
 In 1997, a federal judge and jury in Houston confiscated $9 million from a Texas bank account belonging to Mario Ruiz Massieu, concluding the funds were proceeds of the illicit drug trade. The article frames this as evidence of the direct link between the Salinas family, the Gulf Cartel, and the Bush family's banking network at Texas Commerce Bank.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

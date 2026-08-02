@@ -8,7 +8,6 @@ sources: [raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # DARPA
 
 The Defense Advanced Research Projects Agency (DARPA) is the research and development agency of the [[department-of-defense|United States Department of Defense]], tasked with developing new technologies for the military. In the Badlands corpus it occupies a pivotal position: it is presented as the taxpayer-funded origin point for technologies that later appear in the commercial economy under private branding.
@@ -31,3 +30,7 @@ The most specific example offered is [[darpa-lifelog|LifeLog]], a project of DAR
 - [[darpa-lifelog]]
 - [[cia]]
 - [[department-of-defense]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)

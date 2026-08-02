@@ -8,7 +8,6 @@ sources: [raw/a-cancer-on-modern-journalism.md]
 confidence: medium
 contested: true
 ---
-
 # Correct the Record
 
 **Correct the Record** is identified in the Badlands Media corpus as a superPAC created by [[David Brock]] with the sole purpose of supporting [[Hillary Clinton]]'s 2016 presidential campaign by monitoring and confronting social media users who posted unflattering comments about her. The source frames the organization as an example of the Clinton establishment's willingness to deploy digital trolling and economic pressure to control political discourse.
@@ -36,3 +35,7 @@ The source presents Correct the Record as operating in parallel with [[Media Mat
 
 - Badlands Media, "A Cancer on Modern Journalism," `raw/a-cancer-on-modern-journalism.md`
 - *Los Angeles Times*, May 2016 (cited within the Badlands article)
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-cancer-on-modern-journalism)

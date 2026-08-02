@@ -16,7 +16,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # A Family Affair
 
 "A Family Affair" is a November 22, 2023 article by Joe Lange published on badlands media that examines the historical record of [[bush-family]] political and financial connections, linking the Bush family to drug trafficking, CIA operations, money laundering, and corrupt foreign leaders. The article argues that family networks reveal corruption beyond mainstream media narratives, framing the [[bush-family]] as "traitors" who have operated above the law through CIA front companies, international banking relationships, and covert political influence in Mexico and Venezuela.
@@ -70,3 +69,7 @@ A larger scandal involved the 1997 sale of IBM's Boca Raton office park, assesse
 The article concludes by connecting [[jeb-bush]] to the [[lehman-brothers]] collapse. According to *Fox Business*, Bush earned more than $14 million over approximately seven years as an adviser to Lehman Brothers and, after its 2008 bankruptcy, to [[barclays]], which acquired the firm. In 2008, Bush led "Project Verde," an effort to convince Mexican billionaire [[carlos-slim]] to make a potentially life-saving investment in Lehman. Slim declined interest in a joint venture or stock purchase on July 5, 2008. The article notes that Slim and the salinas family were close associates, and that Slim had been a client of Lehman Brothers who had already lost money as the bank's stock collapsed.
 
 The source ends by previewing its next installment, which will focus on another financial crisis centered on the Bush family and [[donald-trump]]'s supposed plan to return banking power to the people.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

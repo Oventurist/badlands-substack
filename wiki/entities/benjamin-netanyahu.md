@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md]
 confidence: medium
 contested: true
 ---
-
 # Benjamin Netanyahu
 
 Benjamin Netanyahu is the Israeli Prime Minister whose confrontation with the American foreign policy establishment is a central thread of the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]].
@@ -26,3 +25,7 @@ During Obama's second term and the early part of [[joe-biden]]'s presidency ther
 The article frames Israel's break with the NATO consensus as decisive: having previously walked "in complete lockstep" with the alliance, Israel under Netanyahu dissented and actively supported a change of leadership in Washington, which in turn provoked the Atlanticists around the [[atlantic-council]] to pursue regime change in Israel. Summarising the relationship in blunt terms, the author writes that "Netanyahu may be an asshole, but to Trump world, he was their asshole," his government forming part of the loose big-tent coalition that carried Trump to victory. The article closes by noting the tremendous pressure Trump faces from the Netanyahu government and conceding that "no Israel, no Trump 1 or 2."
 
 Netanyahu's position is also affected by [[china]]'s $400 billion agreement with [[iran]]: previously good Israeli–Chinese relations strained once Beijing committed nearly half a trillion dollars to the state funding proxies on Israel's borders.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)

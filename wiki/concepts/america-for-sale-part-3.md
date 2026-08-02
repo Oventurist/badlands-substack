@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # America for Sale — Part 3
 
 "America for Sale - Part 3," subtitled "Sanctions Are a Scam," is a Badlands Media essay published on March 15, 2025 by [[joe-lange|Joe Lange]]. It is the third installment of the [[america-for-sale-part-1|America for Sale]] series, following [[america-for-sale-part-2|Part 2]]. The article argues that hostage crises function as cover stories for covert dealmaking, that economic [[sanctions|sanctions]] are deliberately engineered to create closed financial systems useful to the [[cia|CIA]] and what the author calls the shadow government, and that this machinery links [[bill-clinton|Bill Clinton]]'s 1994 nuclear agreement with [[north-korea|North Korea]], the pardon of commodities trader Marc Rich, and the Uranium One transaction approved during [[hillary-clinton|Hillary Clinton]]'s tenure at the [[state-department|State Department]].
@@ -86,3 +85,7 @@ The second associate is Russian investor Sergei Kurzin, who worked for Rich in t
 Quoting Q drop #1345 (May 12, 2018) — "Re_read crumbs re: Iran. It was never about WW safety & security... It was about opening a new untapped market... The 'Exchange'. U1... Why? Money. Organized/planned by BC/HRC. Carried out by Hussein... $1.7b in-cash transfer to Iran [4 routes][5 planes]" — the article concludes that the Uranium One arrangement was designed by the Clintons and executed by the Obama administration, and that Obama's later Iran nuclear deal followed the same template. It closes by suggesting that the 2009 North Korea "hostage" trip, four years after the Kazakh mines were secured, likely involved uranium, and previews a further installment on Senator [[chuck-grassley|Chuck Grassley]] and a "40,000-foot view" of the whole affair.
 
 A standard disclaimer notes that Badlands Media articles represent the opinions of contributing authors.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-3)

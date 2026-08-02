@@ -8,7 +8,6 @@ sources: [raw/a-cancer-on-modern-journalism.md]
 confidence: medium
 contested: true
 ---
-
 # Ken Paxton
 
 **Ken Paxton** is identified in the Badlands Media corpus as the Texas Attorney General who opened an investigation into [[Media Matters]] for potential fraudulent activity in the wake of Media Matters' November 2023 study about advertising on X (formerly Twitter). The source frames the investigation as part of a broader "boomerang" effect in which institutions that participated in the censorship regime are beginning to face legal consequences.
@@ -33,3 +32,7 @@ The source connects Paxton's investigation to the "thermonuclear lawsuit" filed 
 
 - Badlands Media, "A Cancer on Modern Journalism," `raw/a-cancer-on-modern-journalism.md`
 - Texas Attorney General's Office (cited within the Badlands article)
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-cancer-on-modern-journalism)

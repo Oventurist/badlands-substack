@@ -10,7 +10,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: high
 contested: false
 ---
-
 # Sean Smith
 
 Sean Smith was a U.S. Foreign Service information management officer who was killed in the September 11, 2012 terrorist attack on the U.S. consulate in [[benghazi|Benghazi]], Libya. He was one of four Americans who died in the assault, along with Ambassador [[christopher-stevens|Christopher Stevens]], [[tyrone-woods|Tyrone Woods]], and [[glen-doherty|Glen Doherty]].
@@ -34,3 +33,7 @@ Smith's death, along with the other three Americans, became a focal point in the
 - [[barack-obama]]
 - [[john-brennan]]
 - [[trey-gowdy]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

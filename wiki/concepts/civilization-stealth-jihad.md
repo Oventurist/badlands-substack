@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
-
 # Civilization/Stealth Jihad
 
 "Civilization jihad" or "stealth jihad" is the term used in the Badlands corpus, following writers such as Andrew C. McCarthy, for a strategy attributed to the [[muslim-brotherhood|Muslim Brotherhood]] of advancing Islamic law in Western societies through institutional infiltration rather than armed force.
@@ -24,3 +23,7 @@ Quoting PJMedia, the article summarizes the aim of the "Saudi-constructed, Broth
 ## Application to Huma Abedin
 
 The article treats [[huma-abedin|Huma Abedin]] as "a perfect example of this strategy": simultaneously an intern to [[hillary-clinton|Hillary Clinton]], an assistant editor at the *JMMA*, and a member of the MSA executive board at [[george-washington-university|George Washington University]]. It also links the strategy to Q drop #4750, which contains the bracketed phrase "[INFILTRATION not invasion][VJ _HA]," read by the author as naming [[valerie-jarrett|Valerie Jarrett]] and Abedin as coordinated handlers within the [[barack-obama|Obama]] and Clinton operations.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-1)

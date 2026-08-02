@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md]
 confidence: medium
 contested: true
 ---
-
 # Sheila Jackson Lee
 
 Sheila Jackson Lee was a Democratic member of the United States House of Representatives from Texas who died on July 19, 2024, six days after the assassination attempt on [[donald-trump|Donald Trump]] at Butler, Pennsylvania.
@@ -24,3 +23,10 @@ On the basis of this sequence the author poses three questions to readers: "Was 
 ## Referenced in "Are We Being Distracted?"
 
 In [[are-we-being-distracted|Are We Being Distracted?]] (August 2024), [[erik-carlson|Erik Carlson]] cites Jackson Lee's death within a week of the assassination attempt on [[donald-trump|Donald Trump]] as one element of an unusually dense news cycle, noting in the same sentence that [[kimberly-cheatle|Kimberly Cheatle]] testified before [[congress|Congress]] "about Jackson Lee having oversight over the [[united-states-secret-service|Secret Service]]." The essay draws no explicit conclusion from the juxtaposition, treating it instead as part of the material that kept public attention away from economic questions.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [are we being distracted](https://badlands.substack.com/p/are-we-being-distracted)

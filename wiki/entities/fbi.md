@@ -8,7 +8,6 @@ sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.
 confidence: medium
 contested: true
 ---
-
 # FBI
 
 The Federal Bureau of Investigation is the principal domestic intelligence and law enforcement agency of the United States. In the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]], the FBI appears alongside the [[cia|CIA]] as a sponsor of the cultural shift that produced gangster rap.
@@ -20,3 +19,10 @@ The claimed purpose was economic and carceral rather than cultural: with crime r
 ## Bypassed by the Sessions investigations (America for Sale - Part 2)
 
 [[america-for-sale-part-2|America for Sale — Part 2]] asserts that the FBI and the [[department-of-justice|Justice Department]] "were completely corrupt at the higher levels" when [[donald-trump|Donald Trump]] took office, and that rather than waiting for them to be cleaned out, Attorney General [[jeff-sessions|Jeff Sessions]] routed criminal investigations around the bureau entirely. In the article's account, Inspector General [[michael-horowitz|Michael Horowitz]] and his staff of 470 investigators took the investigative role that would normally fall to the FBI, while U.S. Attorney [[john-huber|John Huber]] took the prosecutorial role that would normally fall to Main Justice. Q drop 1517 is quoted for the shorthand "IG = FBI, Huber = DOJ (no DC)." [[joe-lange|Joe Lange]] argues that while the public narrative war focused on exposing the corrupt FBI and DOJ, the real investigations proceeded in the background beyond their reach.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)

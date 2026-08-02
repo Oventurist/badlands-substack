@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: false
 ---
-
 # Lehman Brothers
 
 Lehman Brothers was a global financial services firm founded in 1850 that filed for bankruptcy on September 15, 2008, triggering the broader global financial crisis. In the Badlands Media article [[a-family-affair]], the firm is identified as the investment bank where [[jeb-bush]] earned more than $14 million over approximately seven years as an adviser, and where he participated in a failed effort to secure a bailout from Mexican billionaire [[carlos-slim]].
@@ -27,3 +26,7 @@ Lehman Brothers filed for the largest bankruptcy in U.S. history on September 15
 ## Post-bankruptcy
 
 After Lehman's 2008 bankruptcy, Jeb Bush continued as an adviser to [[barclays]], which acquired Lehman's North American operations. The article notes that Bush earned more than $14 million in total from his advisory roles at Lehman and Barclays.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

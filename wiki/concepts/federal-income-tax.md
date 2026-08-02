@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
-
 # Federal Income Tax
 
 The federal income tax is the levy on individual earnings instituted in the United States in 1913 following ratification of the [[sixteenth-amendment|Sixteenth Amendment]]. In the Badlands Media corpus it is treated as an instrument of control rather than a fiscal necessity.
@@ -38,3 +37,10 @@ The article predicts a staged dismantling rather than an abrupt one. Abolishing 
 [[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) advances a parallel argument. It holds that the founders "specifically stated in the [[united-states-constitution|Constitution]] that a federal income tax was unconstitutional," that the absence of such a tax kept the federal government small as intended, and that the [[sixteenth-amendment|Sixteenth Amendment]] ratified on February 3, 1913 removed the question from the electorate by permitting taxation without apportionment by population.
 
 Carlson catalogues the layered incidence of taxation — federal and state income tax, sales tax, property tax, taxes on investments and savings — summarising that "a dollar is taxed when you earn it, when you spend it and when you save it," with [[inflation|inflation]] operating as the largest levy of all. Because the [[federal-reserve|Federal Reserve]] can print money at will, he argues, the government does not need the revenue; the tax exists to produce [[debt-slavery|debt slaves]], enforced by fear of the [[internal-revenue-service|IRS]]. He concludes with a personal admission that he believes "taxes are theft" yet files and pays before the deadline rather than risk imprisonment.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)

@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Coinage Act of 1873
 
 The Coinage Act of 1873 ended the coinage of silver and placed the American economy on the gold standard for the first time. According to the article, this shift caused deflation, which increased the buying power of America's currency. The source frames the Act as the beginning of a golden age of prosperity and freedom that the Founding Fathers wanted for every US citizen.
@@ -26,3 +25,7 @@ The Coinage Act is presented in the article as the high-water mark of the hard-m
 - [[Federal Reserve]] — the fiat system the Coinage Act is contrasted against
 - [[1913]] — the year the gold standard era is said to have effectively ended
 - [[Long Depression]] — the period Rothbard defended as a misunderstood recession
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

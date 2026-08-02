@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: false
 ---
-
 # Carlos Slim
 
 Carlos Slim Helú (born 1940) is a Mexican business magnate, investor, and philanthropist who was the richest person in the world from 2010 to 2013 according to Forbes. In the Badlands Media article [[a-family-affair]], he is identified as a longtime friend of [[jeb-bush]] and as a potential savior of [[lehman-brothers]] who declined to inject capital into the failing bank in 2008.
@@ -27,3 +26,7 @@ The article notes that Carlos Slim and the salinas family were close associates,
 ## Business empire
 
 Carlos Slim built his fortune primarily through telecommunications, with his holding company Grupo Carso controlling América Móvil, the largest mobile-phone operator in Latin America. He also holds significant stakes in various Mexican industrial and financial companies. As of 2024, he remains one of the wealthiest individuals in the world.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

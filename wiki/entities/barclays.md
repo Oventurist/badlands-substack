@@ -10,7 +10,6 @@ sources: [raw/a-family-affair.md]
 confidence: high
 contested: false
 ---
-
 # Barclays
 
 Barclays is a British multinational universal bank headquartered in London. In the Badlands Media article [[a-family-affair]], Barclays is identified as the firm that acquired Lehman Brothers' North American operations after the investment bank's September 2008 bankruptcy, and as the employer of [[jeb-bush]] as an adviser following the collapse.
@@ -22,3 +21,7 @@ On September 15, 2008, Lehman Brothers filed for bankruptcy. Barclays subsequent
 ## Jeb Bush's advisory role
 
 According to [[fox-business]], Jeb Bush earned more than $14 million over approximately seven years as an adviser to both [[lehman-brothers]] and, after its 2008 bankruptcy, Barclays. The article notes that Bush was involved in Lehman's final days, participating in "Project Green" and the related "Project Verde" effort to secure a bailout from [[carlos-slim]]. Bush's continued role at Barclays after the acquisition is cited as evidence of his deep integration into global financial networks.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

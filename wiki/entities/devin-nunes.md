@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: false
 ---
-
 # Devin Nunes
 
 Devin Nunes is a U.S. Representative from California who served as Chairman of the [[house-permanent-select-committee-on-intelligence|House Permanent Select Committee on Intelligence]]. In the Badlands Media corpus, he is cited for pressing CIA director [[john-brennan|John Brennan]] during a congressional hearing about the Benghazi attack and the non-disclosure agreements required of CIA operatives involved in the rescue efforts.
@@ -32,3 +31,7 @@ Nunes's questioning highlighted the timeline discrepancy: Brennan became CIA dir
 - [[barack-obama]]
 - [[cia]]
 - fox news
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

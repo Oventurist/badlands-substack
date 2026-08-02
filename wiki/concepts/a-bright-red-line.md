@@ -8,7 +8,6 @@ sources: [raw/a-bright-red-line.md]
 confidence: medium
 contested: true
 ---
-
 # A Bright Red Line
 
 *A Bright Red Line* is a May 3, 2024 Badlands Media article by Ryan DeLarme that advances a narrative interpretation of the United States' role in the lead-up to the Russia–Ukraine conflict. The article argues that U.S. foreign policy—specifically the sustained push for NATO expansion eastward to include Ukraine—constituted a deliberate provocation that crossed what the article identifies as Russia's most sensitive strategic threshold. The piece draws heavily on a February 2008 diplomatic cable authored by then-diplomat William Burns to argue that senior U.S. officials understood the risks of NATO enlargement yet proceeded anyway.
@@ -50,3 +49,7 @@ The article is situated within the Badlands Media corpus's broader critique of t
 ## Provenance
 
 All claims and quotations in this entry derive from the single Badlands Media article *A Bright Red Line* by Ryan DeLarme, published May 3, 2024. The article itself is an opinion and analysis piece and does not represent the views of Badlands Media as an institution.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-bright-red-line)

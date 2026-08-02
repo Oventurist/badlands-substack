@@ -8,7 +8,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # Memorandum of Notification (1998)
 
 A Memorandum of Notification is the instrument by which a United States president authorises or modifies a covert action programme, notifying the congressional intelligence committees of its scope. The memorandum discussed in the Badlands Media corpus is the one signed by President [[bill-clinton|Bill Clinton]] in August 1998, following the bombings of American embassies in East Africa, governing what the [[cia|CIA]] was permitted to do against [[osama-bin-laden|Osama Bin Laden]].
@@ -20,3 +19,7 @@ A Memorandum of Notification is the instrument by which a United States presiden
 ## Interpretation in the corpus
 
 The article treats the memorandum as a presidential [[stand-down-order|stand down order]]. It argues that Clinton, having already seen Bin Laden declare holy war against the United States and bomb an American embassy in East Africa, nevertheless barred the military and the CIA from killing him, and that Clinton subsequently feared the memorandum would be exposed by the congressional commission examining the government's 9/11 failures. This fear, the article contends, explains why national security adviser [[sandy-berger|Sandy Berger]] removed and destroyed copies of a classified document on the Clinton administration's response to the terrorist threat of late 1999 from the [[national-archives|National Archives]] in October 2003. The article frames the whole episode as an instance of what it calls the shadow government protecting terrorists whom the United States was itself supplying and funding.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

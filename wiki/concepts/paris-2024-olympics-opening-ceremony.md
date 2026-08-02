@@ -8,7 +8,6 @@ sources: [raw/are-we-being-distracted.md]
 confidence: medium
 contested: true
 ---
-
 # Paris 2024 Olympics Opening Ceremony
 
 The opening ceremony of the 2024 Summer Olympics in Paris, staged on a Friday evening in late July 2024, generated international controversy over a tableau widely read as a parody of the Last Supper. In the Badlands Media corpus the ceremony is treated not primarily as an aesthetic or religious scandal but as a deliberate instrument of distraction and division, an interpretation set out in [[erik-carlson|Erik Carlson]]'s essay [[are-we-being-distracted|Are We Being Distracted?]].
@@ -32,3 +31,7 @@ As a supporting observation, Carlson notes that no biological women appear to se
 ## Function within the July 2024 news cycle
 
 Within the article's larger thesis, the ceremony's role is chronological as much as cultural. While the world's attention was fixed on Paris, [[donald-trump|Donald Trump]] was speaking at the [[bitcoin-2024-conference|Bitcoin Conference]], where he called for the United States government to stockpile [[bitcoin|Bitcoin]] as a means of strengthening the dollar. That, Carlson argues, was the story the [[bread-and-circus|bread and circus]] was covering.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-being-distracted)

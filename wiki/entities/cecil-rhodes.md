@@ -8,7 +8,6 @@ sources: [raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
-
 # Cecil Rhodes
 
 Cecil Rhodes (1853–1902) was a British mining magnate and imperialist in southern Africa whose will established the [[rhodes-scholarship|Rhodes Scholarship]]. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] treats Rhodes as the author of a still-operative design for a re-organized British Empire staffed by trained cadre.
@@ -20,3 +19,7 @@ The article quotes Rhodes's 1877 will, in which he called for the creation of "a
 ## Legacy in the source's argument
 
 Ehret argues that the scholarship program begun in 1902 has, in cooperation with the [[fabian-society|Fabian Society]], produced more than 7,000 scholars permeating media, education, government, military and corporate life — among them [[chrystia-freeland|Chrystia Freeland]], [[bob-rae|Bob Rae]] and Strobe Talbott. The essay closes by asking whether [[mark-carney|Mark Carney]] can salvage "the dream of Cecil Rhodes to recapture the USA in the 21st century."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Woodrow Wilson
 
 Woodrow Wilson served as President of the United States during the passage of the Federal Reserve Act and the Revenue Act of 1913. According to the article, Wilson signed the Revenue Act of 1913 into law on October 3, 1913, allowing for the establishment of the Internal Revenue Service (IRS). He signed the Federal Reserve Act into law on December 23, 1913, after it was passed by the 63rd United States Congress.
@@ -24,3 +23,7 @@ The article notes that the Wilson administration engaged in extensive lobbying t
 - [[Sixteenth Amendment]] — ratified during Wilson's presidency
 - Oscar Underwood — moved the Revenue Act through the House
 - [[1913]] — the pivotal year of Wilson's legislative actions
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

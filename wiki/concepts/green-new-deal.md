@@ -8,7 +8,6 @@ sources: [raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
-
 # Green New Deal
 
 The Green New Deal is the name given to programs proposing to restructure national economies around decarbonization. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] treats the "Green New Deal framework" as the operating system of a projected system of global government.
@@ -22,3 +21,7 @@ Ehret contrasts this with "the protectionism, bank regulation, state credit and 
 ## Canadian prototype and reversal
 
 A footnote identifies a prototype application in Ontario, where [[maurice-strong|Maurice Strong]] served as President of Ontario Hydro from 1992 to 1994 under Premier [[bob-rae|Bob Rae]] and Canada's nuclear sector was nearly shut down. The essay concludes that "the USA's rejection of the [[paris-agreement|Paris Accords]] and the Green New Deal… signify a change in orientation from the Malthusian depopulation agenda to which [[chrystia-freeland|Freeland]] was devoted."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

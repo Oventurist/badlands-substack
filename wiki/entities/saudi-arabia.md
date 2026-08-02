@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-
 confidence: medium
 contested: true
 ---
-
 # Saudi Arabia
 
 Saudi Arabia is a kingdom in the Middle East ruled by the House of Saud. In the Badlands Media article "A Conflict of Interest," Saudi Arabia is framed as a central player in what the source describes as a global cabal that controls U.S. taxpayer money through its influence over American politicians and intelligence agencies.
@@ -39,3 +38,12 @@ The essay puts the kingdom's total population at over 32 million, of whom roughl
 ## The 2017 consolidation
 
 The same essay treats the November 4, 2017 elevation of [[mohammed-bin-salman]] and the associated detention of roughly forty relatives and officials at the Riyadh Ritz-Carlton — among them [[muhammad-bin-nayef]] and [[alwaleed-bin-talal]] — as the pivotal modern event in the kingdom's history. It reports that [[q]] drew attention to Saudi Arabia at that moment, including a claim that martial law had been declared, and argues against the assumption that the purge was directed by Trump.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

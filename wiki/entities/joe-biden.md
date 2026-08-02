@@ -8,7 +8,6 @@ sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw
 confidence: medium
 contested: true
 ---
-
 # Joe Biden
 
 Joe Biden, later the 46th President of the United States, appears in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] in his earlier capacity as a United States Senator and co-author of federal crime legislation.
@@ -34,3 +33,13 @@ The November 2022 essay [[all-assets-deployed|All Assets Deployed]] refers to "t
 ## Exposure through the Trump prosecutions
 
 [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] (September 2023) treats the Biden administration as the party with the most to lose from the criminal cases against [[donald-trump|Donald Trump]]. The essay argues that because Trump's defense depends on demonstrating that his claims about the [[2020-united-states-presidential-election|2020 election]] were made in good faith, the prosecutions create the first genuine forum for evidence of election fraud. Should such evidence reach the [[supreme-court-of-the-united-states|Supreme Court]], the article states, it "could open a massive can of worms for the Biden administration."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

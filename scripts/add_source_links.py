@@ -5,10 +5,11 @@ badlands.substack.com articles on every wiki page.
 Mapping: each page's frontmatter `sources: [raw/<slug>.md, ...]` maps to
 https://badlands.substack.com/p/<slug> (raw filename == substack slug).
 
-Safe: idempotent (skips pages that already have a Sources section), preserves
-each file's LF vs CRLF line endings, never touches frontmatter.
+Safe: regenerates/overwrites any existing Sources section (idempotent &
+self-healing), preserves each file's LF vs CRLF line endings, never touches
+frontmatter (except reading sources from it).
 """
-import os, re, glob, sys
+import os, re
 
 WIKI = "wiki"
 URL = "https://badlands.substack.com/p/{slug}"
@@ -25,9 +26,6 @@ def process(path):
     eol = detect_eol(text)
     text = text.replace("\r\n", "\n")
 
-    if "\n## " + SECTION + "\n" in text:
-        return 0
-
     fm = re.match(r"^---\n.*?\n---\n", text, re.S)
     if not fm:
         return 0
@@ -36,22 +34,27 @@ def process(path):
     if not srcs:
         return 0
 
-    body = text[len(fm_txt):].strip("\n")
+    body = text[len(fm_txt):]
+
+    # strip any pre-existing Sources section so we always regenerate cleanly
+    body = re.sub(r"\n*## " + SECTION + r"\n.*?\Z", "\n", body, flags=re.S).rstrip("\n")
 
     lines = ["## " + SECTION, ""]
     if len(srcs) == 1:
-        lines.append("[{}]({}/{})".format(srcs[0], URL, srcs[0]))
+        lines.append("[Original article]({})".format(URL.format(slug=srcs[0])))
     else:
         lines.append("This page draws on multiple source articles:")
         lines.append("")
         for s in srcs:
-            lines.append("- [{}]({}/{})".format(s.replace("-", " "), URL, s))
+            lines.append("- [{}]({})".format(s.replace("-", " "), URL.format(slug=s)))
     block = "\n".join(lines).strip("\n")
 
-    new_text = fm.group(0) + body.rstrip("\n") + "\n\n" + block + "\n"
+    new_text = fm_txt + body.rstrip("\n") + "\n\n" + block + "\n"
     new_text = new_text.replace("\n", eol)
-    open(path, "wb").write(new_text.encode("utf-8"))
-    return len(srcs)
+    if new_text != text.replace("\r\n", "\n").replace("\n", eol):
+        open(path, "wb").write(new_text.encode("utf-8"))
+        return len(srcs)
+    return 0
 
 def main():
     pages = []
@@ -66,7 +69,7 @@ def main():
         if n:
             changed += 1
             linked += n
-    print("Done. {} pages updated, {} source links added.".format(changed, linked))
+    print("Done. {} pages updated, {} source links written.".format(changed, linked))
 
 if __name__ == "__main__":
     main()

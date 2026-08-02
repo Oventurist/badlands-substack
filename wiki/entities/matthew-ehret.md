@@ -8,7 +8,6 @@ sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-f
 confidence: high
 contested: false
 ---
-
 # Matthew Ehret
 
 Matthew Ehret is a Canadian writer, historian and commentator who contributes to Badlands Media. According to the biography appended to his article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], he is editor-in-chief of The Canadian Patriot Review, a Senior Fellow of the American University in Moscow, and director of the Rising Tide Foundation.
@@ -36,3 +35,13 @@ Ehret's December 26, 2025 essay [[a-new-american-renaissance|A New American Rena
 ## A Re-Alignment of World Systems (September 2025)
 
 Ehret's September 27, 2025 essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] treats the removal of [[chrystia-freeland|Chrystia Freeland]] from the Canadian cabinet by [[mark-carney|Mark Carney]] as a symptom of a wider collapse of the unipolar project. The piece traces a line from the dissolution of the Soviet Union through the [[european-union|European Union]], [[nafta|NAFTA]], the [[world-trade-organization|World Trade Organization]] and the 1999 repeal of [[glass-steagall-act|Glass-Steagall]] to the [[blair-doctrine|Blair doctrine]] and the regime change wars that followed 9/11, and argues that the [[rhodes-scholarship|Rhodes Scholarship]] network founded by [[cecil-rhodes|Cecil Rhodes]], working with the [[fabian-society|Fabian Society]], supplied the personnel for that project. It closes by listing the [[belt-and-road-initiative|Belt and Road Initiative]], Pan-African nationalism, the Iran-Russia-China alliance and the American restoration of protectionism as evidence that the design has failed.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [a look at recent features 84d](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+- [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
+- [a new american renaissance](https://badlands.substack.com/p/a-new-american-renaissance)
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

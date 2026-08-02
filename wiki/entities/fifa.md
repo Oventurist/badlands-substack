@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # FIFA
 
 FIFA is the international governing body of association football and the organizer of the World Cup. It appears in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as a donor to the [[clinton-foundation|Clinton Foundation]] and as the subject of a corruption scandal the author believes was never fully traced back to the Clinton network.
@@ -22,3 +21,7 @@ FIFA is the international governing body of association football and the organiz
 *Nonprofit Quarterly*, quoted in the article, reported that FIFA gave the Clinton Foundation between $50,000 and $100,000 as a membership fee to participate in the [[clinton-global-initiative|Clinton Global Initiative]], plus a commitment to build twenty community centers in South Africa as part of FIFA's decision to hold the 2010 World Cup there. The Qatar 2022 Supreme Committee gave between $250,000 and $500,000 as a CGI sponsor in 2013.
 
 In May 2015 much of FIFA's leadership was arrested by police in Switzerland on charges announced by the U.S. [[department-of-justice|Department of Justice]]. The Badlands essay juxtaposes the 2010 involvement of Keary and Band with the 2015 arrests and asks whether the timing is coincidental, observing that "nobody looked into the Clintons' involvement in this scandal as they made off with millions of dollars." That inference is the author's own.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-2)

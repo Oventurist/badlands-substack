@@ -8,7 +8,6 @@ sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
 confidence: medium
 contested: true
 ---
-
 # Shanghai Cooperation Organisation
 
 The Shanghai Cooperation Organisation (SCO) is a Eurasian political, economic and security organisation. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] describes Russia, China and India as "the three founding nations behind the SCO," represented at its 2025 summit by Presidents [[vladimir-putin|Vladimir Putin]], [[xi-jinping|Xi Jinping]] and Prime Minister [[narendra-modi|Narendra Modi]].
@@ -24,3 +23,7 @@ Among the summit's outcomes highlighted by the source is the creation of a new S
 ## Regional conflicts among members
 
 The article notes that the summit coincided with armed confrontations launched by Azerbaijan against SCO member Armenia and fighting between Kyrgyzstan and Tajikistan — both SCO members hosting Russian bases and Chinese Belt and Road infrastructure. Ehret writes that while responsibility is not yet established, "the timing and character of conflicts smells of Anglo-Intelligence operations," presenting the violence as an attempt to disrupt the consolidation of the [[multipolar-alliance|multipolar alliance]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)

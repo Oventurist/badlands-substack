@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
-
 # A Week to Remember
 
 "A Week to Remember … But What Set This Chaos Into Motion?" is an opinion essay by [[erik-carlson|Erik Carlson]] published by [[badlands-media|Badlands Media]] on July 25, 2024. Written largely in the interval between the June 2024 presidential debate and the July 13, 2024 assassination attempt on [[donald-trump|Donald Trump]] in Butler, Pennsylvania, the article advances a single central thesis: that the political convulsions of July 2024 were not triggered by [[joe-biden|Joe Biden]]'s debate performance but by Trump's June 10, 2024 pledge to make tips tax-free, which the author reads as an opening move against the American financial system itself.
@@ -76,3 +75,7 @@ The essay ends with a timeline. On July 13 the assassination attempt occurred; s
 The author closes with four questions for the reader: whether Jackson Lee was involved in planning the assassination attempt; whether, if so, she died because of the attempt or because it failed; whether Biden stepped down fearing he would be next; and "will Jackson Lee be buried wearing her infamous pedophile ring?"
 
 Badlands Media notes that articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-week-to-remember)

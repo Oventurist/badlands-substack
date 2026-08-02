@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-hypnotists-take-on-israel-palesti
 confidence: medium
 contested: true
 ---
-
 # Q Anon
 
 Q Anon is a far-right conspiracy theory that emerged on the internet in 2017, centered on the claims of an anonymous individual or group known as "Q" who purported to have insider knowledge of a deep state cabal working against [[donald-trump|Donald Trump]]. In the Badlands Media article "A Conflict of Interest," Q Anon is referenced as a framework for understanding the systematic corruption of the U.S. government.
@@ -54,3 +53,15 @@ The Badlands Media essay [[a-week-to-remember|A Week to Remember]] opens with a 
 Drop 36 (November 2, 2017) asks what "SLUSH FUND" Attorney General [[jeff-sessions|Jeff Sessions]] ended and how Soros, Obama, Clinton, Holder and Lynch net millions in a single tax year; [[joe-lange|Joe Lange]] answers with the [[doj-slush-fund|DOJ settlement slush fund]] uncovered by [[bob-goodlatte|Bob Goodlatte]]. Drop 2462 asks who briefed Goodlatte and [[trey-gowdy|Trey Gowdy]] on classified intelligence, answered as [[ezra-cohen-watnick|Ezra Cohen Watnick]]. Drop 1517 (June 16, 2018) supplies the formula "IG = FBI, Huber = DOJ (no DC)," read as describing [[michael-horowitz|Michael Horowitz]] and [[john-huber|John Huber]] operating around compromised agencies.
 
 Drop 227 (November 24, 2017) consisted of a photograph alone, which the article identifies as taken during [[bill-clinton|Bill Clinton]]'s 2009 [[north-korea|North Korea]] hostage mission, showing [[john-podesta|John Podesta]] and [[doug-band|Doug Band]] alongside [[kim-jong-il|Kim Jong Il]]; drop 228 is said to depict leadership changes in three other countries following Trump's 2017 inauguration. The essay also states plainly that "Q+ is Trump himself."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
+- [a startling contradiction at the](https://badlands.substack.com/p/a-startling-contradiction-at-the)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)

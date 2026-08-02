@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"J. E. Dyer","description":"","frontmatter":{"title":"J. E. Dyer","created":"2026-08-02T00:00:00.000Z","updated":"2026-08-02T00:00:00.000Z","type":"entity","tags":["person","commentary","censorship","media-criticism"],"sources":["raw/anthony-fauci.md"],"confidence":"medium","contested":false},"headers":[],"relativePath":"entities/j-e-dyer.md","filePath":"entities/j-e-dyer.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/j-e-dyer.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="j-e-dyer" tabindex="-1">J. E. Dyer <a class="header-anchor" href="#j-e-dyer" aria-label="Permalink to &quot;J. E. Dyer&quot;">​</a></h1><p>J. E. Dyer is a commentator who publishes at The Optimistic Conservative. She is quoted at length in <a href="/concepts/anthony-fauci">&quot;Anthony Fauci: Soldier for the Communist Cause&quot;</a>, where <a href="/entities/j-b-white">J.B. White</a> credits a Dyer column of December 16, 2022 with concisely illuminating the tool he regards as most favoured by what he calls the Deep State/Marxist/Communist/Fascist/Socialist continuum: censorship.</p><h2 id="argument-on-censorship-and-gaslighting" tabindex="-1">Argument on censorship and gaslighting <a class="header-anchor" href="#argument-on-censorship-and-gaslighting" aria-label="Permalink to &quot;Argument on censorship and gaslighting&quot;">​</a></h2><p>In the passage White reproduces, Dyer writes that &quot;the goal of censorship is never just to silence speech,&quot; but rather &quot;to prevent competition for someone&#39;s preferred speech, which is to be favored, fostered, enshrined, proclaimed and insisted to be valid and true, regardless of evidence.&quot; That preferred speech, she argues, &quot;routinely devolves into a series of &#39;Big Lies&#39;&quot; once competing ideas and empirical reporting have been driven out, producing &quot;the profile of gaslighting.&quot; She states the relationship plainly: &quot;The two always go together. The more you censor, the more latitude you have to gaslight. The purpose of a campaign of political censorship is gaslighting.&quot;</p><p>Dyer further observes a growing phenomenon of media communication &quot;purporting to be from government agencies&quot; that &quot;offers no proof whatsoever that it&#39;s based on actual evidence or independently verifiable events or observations,&quot; accompanied by &quot;lies of omission&quot; in which conclusions presented do not comport with the evidence cited. The result, in her words, is &quot;word salads that leave an unmistakable impression, but it&#39;s a misleading impression because there&#39;s no basis for believing or agreeing to it.&quot; Within White&#39;s argument this analysis supplies the mechanism by which pandemic-era case-count messaging and the <a href="/concepts/deep-state">Deep State</a>&#39;s narrative management are said to have operated.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/anthony-fauci" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/j-e-dyer.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jEDyer = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jEDyer as default
+};

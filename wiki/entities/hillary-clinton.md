@@ -12,7 +12,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/alw
 confidence: medium
 contested: true
 ---
-
 # Hillary Clinton
 
 Hillary Clinton served as U.S. Secretary of State from 2009 to 2013 under President [[barack-obama|Barack Obama]]. In the Badlands Media article "A Conflict of Interest," Clinton is portrayed as a central figure in the Libya intervention and as complicit in what the source describes as a scheme to fund and arm terrorist organizations with U.S. taxpayer money.
@@ -52,3 +51,14 @@ The essay frames these arrangements as a "pay-for-play spider web" and asserts t
 The [[state-department|State Department]] was among the agencies required to approve the transfer of a company controlling roughly 20 percent of American uranium production capacity, yet Clinton maintained she had nothing to do with the decision. The New York Times reported that as the Russians assumed control between 2009 and 2013, $2.35 million in undisclosed donations reached the [[clinton-foundation|Clinton Foundation]] from the family foundation of Uranium One chairman [[ian-telfer|Ian Telfer]], despite her agreement with the Obama White House to publicly identify all donors; further millions came from people tied to Uranium One and [[urasia-energy|UrAsia Energy]], including [[sergei-kurzin|Sergei Kurzin]]. The article contrasts her later accusations that Russia helped Donald Trump win in 2016 with her earlier approval of Russian control over a large share of the world's uranium.
 
 The same essay notes that her husband's August 2009 hostage mission to [[north-korea|North Korea]] occurred while she headed the State Department, which it calls "not a coincidence."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

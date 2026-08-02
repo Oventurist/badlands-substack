@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md]
 confidence: high
 contested: false
 ---
-
 # Kimberly Cheatle
 
 Kimberly Cheatle was the director of the [[united-states-secret-service|United States Secret Service]] at the time of the July 13, 2024 assassination attempt on [[donald-trump|Donald Trump]] in Butler, Pennsylvania. She resigned shortly afterward following congressional testimony about the security failure.
@@ -22,3 +21,10 @@ According to the source, Cheatle stepped down from her post the day after that t
 ## Referenced in "Are We Being Distracted?"
 
 [[erik-carlson|Erik Carlson]]'s August 2024 essay [[are-we-being-distracted|Are We Being Distracted?]] lists Cheatle's testimony before [[congress|Congress]] among the compressed sequence of events that followed the assassination attempt on [[donald-trump|Donald Trump]] — a week in which [[sheila-jackson-lee|Sheila Jackson Lee]] died, [[joe-biden|Biden]] stepped down, and Cheatle testified "about Jackson Lee having oversight over the [[united-states-secret-service|Secret Service]]." Carlson uses the density of the week as evidence that public attention was being deliberately saturated, and declines to pursue the question of responsibility on the ground that Trump's own team already knows the answer.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [are we being distracted](https://badlands.substack.com/p/are-we-being-distracted)

@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Long Depression
 
 The Long Depression is a term the article uses to describe the economic period following the Coinage Act of 1873, when the United States was placed on the gold standard. The source claims that bankers labeled this period the "Long Depression" because the gold standard "only hurt the banks, loaners, and the corruption within the economic system."
@@ -26,3 +25,7 @@ The source claims the Long Depression "was doing more damage to the rich and pow
 - [[David Ames Wells]] — cited for his observations on the period's economic changes
 - [[Gold Standard]] — the monetary system that defined the period
 - [[1913]] — the year the gold standard era is said to have effectively ended
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

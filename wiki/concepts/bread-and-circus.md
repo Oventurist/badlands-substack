@@ -8,7 +8,6 @@ sources: [raw/are-we-being-distracted.md]
 confidence: medium
 contested: true
 ---
-
 # Bread and Circus
 
 "Bread and circus" (from the Latin *panem et circenses*) is the classical formula for pacifying a population by supplying it with food and entertainment in place of political power. In the Badlands Media corpus it functions as an interpretive key for reading contemporary news cycles, most explicitly in [[erik-carlson|Erik Carlson]]'s August 2024 essay [[are-we-being-distracted|Are We Being Distracted?]].
@@ -24,3 +23,7 @@ To the Roman formula Carlson adds a modern corollary: "Lukewarm is the most cont
 ## Application to 2024
 
 In the essay the concept is applied to the events of July 2024 — the assassination attempt on [[donald-trump|Donald Trump]], [[joe-biden|Joe Biden]]'s withdrawal, [[kamala-harris|Kamala Harris]]'s elevation, and the [[paris-2024-olympics-opening-ceremony|Paris Olympics opening ceremony]] — all of which Carlson treats as circus rather than substance. The substance, on his reading, is economic: "It's all about the economy, as all the rest is bread and circus." The practical instruction he derives is diagnostic rather than passive: when a reader finds their social media timeline filled with the same narrative repeatedly, "even if it makes the other side look bad," they should ask whether the reaction they are having is the reaction that was intended by the [[deep-state|Deep State]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-being-distracted)

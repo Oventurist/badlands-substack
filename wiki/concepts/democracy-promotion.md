@@ -12,7 +12,6 @@ sources: [raw/a-more-perfect-labor-union.md]
 confidence: medium
 contested: true
 ---
-
 # Democracy Promotion
 
 "Democracy promotion" is the term used by Western governments and organizations to describe policies aimed at fostering democratic governance abroad. In the Badlands Media corpus, and specifically in the article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the term is presented critically — as code for conforming nations to the will of the international foreign policy establishment.
@@ -26,3 +25,7 @@ According to the article, the term — employed by "NATO and friends of Anglo-Am
 ## Central institution
 
 The principal institutional vehicle of "democracy promotion" identified in the corpus is the [[national-endowment-for-democracy|National Endowment for Democracy (NED)]], which the article describes as "the CIA's chief grantmaking body," funding organizations such as the [[international-republican-institute|International Republican Institute]], [[national-democratic-institute|National Democratic Institute]], [[center-for-international-private-enterprise|Center for International Private Enterprise]], and the AFL-CIO's [[solidarity-center|Solidarity Center]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-more-perfect-labor-union)

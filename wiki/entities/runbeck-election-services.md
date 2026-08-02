@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
-
 # Runbeck Election Services
 
 Runbeck Election Services is a Phoenix-area private vendor that provides ballot printing, mailing, and envelope-scanning services to election jurisdictions, including [[maricopa-county|Maricopa County]], Arizona. Its involvement in the county's 2022 election processing made it a focal point of election-integrity scrutiny in the Badlands Media corpus.
@@ -24,3 +23,10 @@ The company is also implicated in the county's own post-election messaging: a No
 The election contest filed by [[kari-lake|Kari Lake]] on December 9, 2022 places Runbeck at the center of its chain-of-custody claims. As relayed by [[liz-harrington|Liz Harrington]] and reported in [[arizona-earthquake|"Arizona Earthquake!"]], a Runbeck whistleblower stated that 298,942 early ballots had no chain of custody and that [[maricopa-county|Maricopa County]] did not know how many ballots Runbeck received on election night — a condition the complaint characterizes as unlawful. More broadly the suit alleges that over 300,000 mail-in ballots lacked chain of custody and that "the required chain of custody for these ballots does not exist."
 
 A Runbeck employee is quoted as saying that employees were unlawfully allowed to add family members' ballots into batches with zero chain of custody, so that "there is no way to tell the number of ballots illegally injected into 2022 election," and that Runbeck can print duplicate ballots at will with no way to determine their origin. Observers described unsecured metal carts of ballots moved by temporary employees, uncounted containers, and deliveries without required documentation, leading the complaint to conclude that "the entire ballot transfer process provides opportunities for legal ballots to be lost or illegal ballots to be added."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)

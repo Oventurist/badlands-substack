@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Institutional Revolutionary Party
 
 The Institutional Revolutionary Party (Spanish: Partido Revolucionario Institucional, PRI) is a Mexican political party that held continuous power in Mexico from 1929 to 2000, and again from 2012 to 2018. In the Badlands Media article [[a-family-affair]], the PRI is identified as the ruling party apparatus through which the salinas family operated, and whose officials were involved in cover-ups of political murders and drug trafficking.
@@ -27,3 +26,7 @@ The article portrays the PRI under the Salinas presidency as deeply corrupt, wit
 ## Connection to drug trafficking
 
 The source links the PRI to the [[gulf-cartel]] and [[juan-garcia-abrego]], arguing that the party's power brokers provided political cover for cartel operations in exchange for financial kickbacks. The article suggests that NAFTA was negotiated with the PRI's support precisely because the party could guarantee the stability needed for expanded drug trafficking.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

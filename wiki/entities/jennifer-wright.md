@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md]
 confidence: medium
 contested: true
 ---
-
 # Jennifer Wright
 
 Jennifer Wright is an Arizona attorney who served as an assistant attorney general assigned to the Election Integrity Unit of the Arizona Attorney General's Office under [[mark-brnovich|Mark Brnovich]]. She is best known in the Badlands Media corpus as the author of a four-page letter dated November 19, 2022 to [[tom-liddy|Tom Liddy]], Civil Division Chief of the [[maricopa-county-attorneys-office|Maricopa County Attorney's Office]], demanding an accounting of the county's administration of the 2022 general election.
@@ -22,3 +21,7 @@ The letter closed by stating that "Arizonans deserve a full report and accountin
 ## Background and profile
 
 To describe Wright, [[kitty-gillespie|Kitty Gillespie]] quotes an August 22, 2019 [[talking-points-memo|Talking Points Memo]] article headlined "GOP Voter Fraud Hawk Hired For Arizona AG's New 'Elections Integrity' Unit," which described her as "a Tea Party-linked voter fraud activist known for her vigilante approach to poll-monitoring" and "a former GOP mayoral candidate who once worked for the voter fraud alarmist group [[verify-the-vote|Verify the Vote]]." The article noted that Verify the Vote partnered with the Houston-based [[true-the-vote|True the Vote]], itself an outgrowth of the Tea Party group King Street Patriots. Gillespie, treating this critical portrait as a recommendation, responds: "Sounds like our kind of gal!"
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/an-sos-from-ground-zero)

@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---
-
 # Mohammed bin Salman
 
 Mohammed bin Salman, commonly abbreviated MBS, is the Crown Prince of [[saudi-arabia]] and the central figure of the Badlands Media essay [[arabian-nights]]. Prior to his elevation he served for five years as Saudi defence minister, with responsibility for the military. He is the son of king salman and the grandson of Abdulaziz bin Abdul Rahman Al Saud, founder of the modern kingdom.
@@ -28,3 +27,7 @@ The article gives particular weight to the claim that MBS, then sixteen, watched
 ## Interpretation in the corpus
 
 The source rejects both the mainstream portrait of MBS as a malevolent autocrat — it characterises Hubbard's analysis on this point as "hot garbage" — and the assumption, which the author says he once held himself, that the 2017 purge was carried out at [[donald-trump]]'s direction. Its position is that MBS "is no agent of Donald Trump," that he was already on his path when Trump took office, and that the two are best understood as "two warriors meeting on the road, each on their own quest to slay the same dragon." An image caption in the article identifies him as "The Punisher," and the legend of Alexander and the Gordian Knot is invoked as the model for his approach to intractable problems. The essay concludes by describing him as "the Prodigal Son of the Islamic world," on a redemption arc intended to liberate the Middle East from what the corpus calls the Puppet Masters.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

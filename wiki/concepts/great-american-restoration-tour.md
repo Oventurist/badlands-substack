@@ -8,7 +8,6 @@ sources: [raw/a-mysterious-masterclass-in-multi.md]
 confidence: high
 contested: false
 ---
-
 # Great American Restoration Tour
 
 The Great American Restoration Tour, abbreviated GART, is a travelling live-event series produced by [[badlands-media|Badlands Media]] that brings the network's hosts together with its audience for several days of panels, socializing and local excursions.
@@ -24,3 +23,7 @@ The fifth GART stop took place in mid-August 2024 in Deadwood, South Dakota. Att
 ## GART 6: Myrtle Beach
 
 The article promotes GART 6 in Myrtle Beach, South Carolina, scheduled for shortly after the 2024 presidential election. At the time of publication, VIP packages had sold out while general admission tickets remained available. The author also notes that Badlands planned to return to Deadwood the following summer.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)

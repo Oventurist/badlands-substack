@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---
-
 # Mohammed bin Saud
 
 Mohammed bin Saud Al Muqrin was the eighteenth-century emir of Diriyah and the founder of the [[house-of-saud]] as a political dynasty. The Badlands Media essay [[arabian-nights]] refers to him by the same initials as the modern crown prince, MBS, deliberately drawing the parallel between the two.
@@ -28,3 +27,7 @@ He set two conditions: that al-Wahhab settle in Diriyah as his advisor, and that
 ## Legacy
 
 Bin Saud named his state in honour of his father, Saud bin Muhammad Al Muqrin; it is known as the First State of Saud or the [[emirate-of-diriyah]]. The essay's closing argument names him, alongside Hashim and Muhammad, as one of the key historical figures of Arabia who were "men of honour and reason, and not the ruthless ideologues that western media has gaslit us into believing them to be."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

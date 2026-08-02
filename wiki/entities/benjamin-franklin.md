@@ -8,7 +8,6 @@ sources: [raw/a-new-american-renaissance.md]
 confidence: medium
 contested: true
 ---
-
 # Benjamin Franklin
 
 Benjamin Franklin was an American statesman, scientist and organizer of the American Revolution. In the Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]], [[matthew-ehret|Matthew Ehret]] treats Franklin less as a single figure than as the hub of a transatlantic network — the "Pennsylvania Philosophical Society" circle — that cultivated talent, science and republican politics for decades before independence.
@@ -24,3 +23,7 @@ The article argues that Franklin's networks had planned the conditions for a dec
 ## The Prometheus of America
 
 Following his 1752 experiments capturing "electric fire from the gods" with a key and a kite, Franklin became known as "The Prometheus of America." The source traces a scientific lineage from those discoveries through [[samuel-morse|Samuel F. B. Morse]]'s electrical telegraphy — developed with the circle around the Humboldt brothers, Carl F. Gauss, Wilhelm Weber and Ampère — to Joseph Henry and Franklin's own descendant Alexander Dallas Bache in what it calls the Göttingen-Philadelphia complex of genius. Franklin and West are said to have understood that the true battle for independence continued after the British defeat in 1781, given imperial policies denying the colonists manufacturing and settlement beyond the Allegheny Mountains.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-new-american-renaissance)

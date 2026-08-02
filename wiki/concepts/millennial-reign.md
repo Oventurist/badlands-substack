@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
-
 # Millennial Reign
 
 The Millennial Reign, or thousand-year reign, is the period described at the close of the [[book-of-revelation|book of Revelation]] during which Christ rules and Satan is bound. It gives its name to the July 2023 Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] by Patriots in Progress.
@@ -24,3 +23,7 @@ The article's central speculation is that [[bitcoin]] mirrors the mechanics of t
 ## Reinterpretation of the rapture
 
 Rather than treating the [[rapture]] as the disappearance of the church before [[great-tribulation|the Tribulation]], the article proposes that the rapture may be the process or event by which believers endure the Tribulation, resist the Mark of the Beast and enter the Millennial Reign — with the evil, as in the days of Noah, being what is removed from the world.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

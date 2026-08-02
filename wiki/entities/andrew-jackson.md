@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Andrew Jackson
 
 Andrew Jackson was the seventh President of the United States and is identified in the article as the only US President in history to have completely paid off the US National Debt. The source claims that when the Second Bank of the United States was established, Jackson recognized that bankers were overreaching and acting as "a fourth branch of government run by the elite." According to the article, Jackson understood that if bankers succeeded in their plan, they would "enslave every citizen in the country," and he therefore "sought to root them out."
@@ -25,3 +24,7 @@ The article identifies Andrew Jackson as [[Donald Trump]]'s favorite US Presiden
 - [[Federal Reserve]] — the system Jackson allegedly fought against
 - [[Coinage Act of 1873]] — established the gold standard Jackson favored
 - [[1913]] — the year the cabal achieved what Jackson opposed
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

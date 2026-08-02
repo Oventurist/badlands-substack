@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
-
 # Public Banking
 
 **Public banking** refers to banking institutions owned by a government or by the public collectively rather than by private shareholders, operated to serve depositors and the local economy rather than to maximise profit. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] treats the "public banking option" as one of the two great constitutional safeguards a nation can adopt, alongside citizen-only voter identification.
@@ -30,3 +29,7 @@ Vox is cited for the observation that North Dakota's success has drawn attention
 ## Obstacles and future proposals
 
 The article identifies [[federal-deposit-insurance-corporation|federal deposit insurance]] as the mechanism that historically neutralised public banking's competitive advantage, and identifies the [[american-bankers-association|American Bankers Association]] as the industry's present-day lobbying vehicle against a public option. The forward-looking proposals it endorses are a revival of postal banking through the [[united-states-postal-service|United States Postal Service]] and the creation of [[fedaccounts|FedAccounts]], which Lange links to [[donald-trump|Donald Trump]]'s alleged plan to restore a redeemable [[gold-standard|gold standard]] and end taxpayer-funded bank bailouts.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

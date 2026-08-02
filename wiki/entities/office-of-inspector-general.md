@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
-
 # Office of Inspector General
 
 An Office of Inspector General (OIG) is the independent oversight and audit body attached to a U.S. federal agency. In [[a-seismic-shift|A Seismic Shift]], the OIG of the [[united-states-postal-service|United States Postal Service]] is presented as the author of a white paper mapping out how the Postal Service could return to financial services, and [[joe-lange|Joe Lange]] notes that "Q has mentioned several times the importance of the OIG (Office of Inspector General) offices being used in the background as part of the plan."
@@ -22,3 +21,7 @@ The paper further noted that other products — small loans, reloadable prepaid 
 ## Significance in the article
 
 Lange uses the white paper to argue that a return to [[postal-savings-system|postal savings]] has already been mapped out inside the federal government, and that a licensed postal bank would constitute a [[public-banking|public banking option]] comparable to what [[jose-figueres|José "Pepe" Figueres]] established in Costa Rica. He links it to the [[fedaccounts|FedAccounts]] proposal and treats the involvement of an inspector general's office as a marker of the wider plan he attributes to [[donald-trump|Donald Trump]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

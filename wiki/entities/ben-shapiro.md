@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # Ben Shapiro
 
 Ben Shapiro is a conservative American political commentator, author, and media personality, widely described in the Badlands Media corpus as one of the most prominent figures in the "free speech" culture war and as a leading voice of the American right during the 2010s and 2020s.
@@ -22,3 +21,7 @@ The article cites a February 2021 Daily Wire piece in which Shapiro commented on
 ## Criticized for inconsistency after October 7
 
 The author of "A Glaring Double Standard," [[ryan-delarme|Ryan DeLarme]], writes that he generally agrees with Shapiro's free speech sentiments in the Carano instance, but argues that Shapiro's commitment to free speech was conditional. The article contends that conservative figures such as Shapiro, Bari Weiss, and Dave Rubin — who had earlier decried "safe spaces" and cancel culture — came to cheer or tacitly support the silencing of Israel critics after the October 7, 2023 Hamas attack, revealing, in the article's words, "that their commitment to free speech was always conditional, tethered to tribal loyalties rather than principle."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

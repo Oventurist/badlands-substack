@@ -8,7 +8,6 @@ sources: [raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
-
 # A Re-Alignment of World Systems
 
 "A Re-Alignment of World Systems," subtitled "On the Signal-Soaked Flushing of Chrystia Freeland," is an essay published by Badlands Media on September 27, 2025 and written by [[matthew-ehret|Matthew Ehret]]. Taking the removal of [[chrystia-freeland|Chrystia Freeland]] from Canadian cabinet politics as its point of departure, the article advances a broad interpretive history of what the author calls the post-1971 unipolar project, its collapse, and the emergence of a multipolar world order organized around Russia, China and the [[belt-and-road-initiative|Belt and Road Initiative]].
@@ -72,3 +71,7 @@ The article appends four notes. The first states that the separation of speculat
 ## Authorship and disclaimer
 
 The piece carries the standard [[badlands-media|Badlands Media]] disclaimer that articles represent the opinions of contributing authors. Matthew Ehret is identified as editor-in-chief of The Canadian Patriot Review, Senior Fellow of the American University in Moscow, and Director of the Rising Tide Foundation, author of the four-volume *Untold History of Canada* and *Clash of the Two Americas* series, the *Revenge of the Mystery Cult* trilogy and *Science Unshackled*, and co-host of Breaking History on Badlands Media as well as host of Pluralia Dialogos.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

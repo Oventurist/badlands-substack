@@ -8,7 +8,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/are-cbdcs-t
 confidence: high
 contested: false
 ---
-
 # United States Department of the Treasury
 
 The United States Department of the Treasury is the federal department responsible for the government's finances, the issuance of currency and debt, and — through the Office of Foreign Assets Control (OFAC) — the administration of economic sanctions and the designation of individuals and entities involved in terrorist financing.
@@ -35,3 +34,11 @@ Lange goes further than the proposal itself, instructing readers to re-read the 
 ## The Mnuchin crypto emails
 
 Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] draws on CNBC's reporting of a 250-page release of Treasury Secretary [[steven-mnuchin|Steven Mnuchin]]'s crypto-related correspondence from his four years at the department, obtained by CoinDesk through a Freedom of Information Act request. The emails show [[jared-kushner]] privately advocating a Fed-issued digital dollar in 2019 and [[j-christopher-giancarlo|J. Christopher Giancarlo]] of the [[commodity-futures-trading-commission|CFTC]] briefing the Secretary on the Bitcoin futures market through 2018. The article separately restates the claim that Trump controls both the Treasury and the [[federal-reserve|Federal Reserve]] through [[devolution]] and Continuity of Government plans, referring to an earlier piece on rolling the Fed into the Treasury.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

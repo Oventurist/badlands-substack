@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: high
 contested: false
 ---
-
 # Prophet Daniel
 
 **Daniel** is the Old Testament prophet whose visions supply much of the interpretive scaffolding for the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]]. The article dates his writing to roughly 600 BC.
@@ -24,3 +23,7 @@ The article cites Daniel 7:19–27, 9:24–27 and 11:31–45 as Old Testament pa
 ## Eyes like fire
 
 Daniel is also one of the two writers — with [[john-the-apostle|John]] — who described Christ's eyes using the simile "like a flame of fire." [[patriots-in-progress|Patriots in Progress]] builds on this shared choice of simile, noting that both prophets knew exactly what fire looked like, to argue that a vision of laser-like eyes would have been describable only in those terms.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

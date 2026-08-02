@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: false
 ---
-
 # Emirate of Diriyah
 
 The Emirate of Diriyah, called in [[arabian-nights]] the First State of Saud, was the polity founded by [[mohammed-bin-saud]] in the Najd region of central Arabia and consolidated through the 1744 [[pact-of-diriyah]] with [[muhammad-ibn-abd-al-wahhab]].
@@ -22,3 +21,7 @@ Its expansion rested on the combination of bedouin military manpower, the mercha
 ## Collapse
 
 The First State ended in 1814 when bin Saud's son and successor Abdullah attempted to take the Hashemite kingdom of Hejaz, which had been under Ottoman control since the sixteenth century. Abdullah and his kinsmen were captured, taken to Istanbul and publicly beheaded; Abdullah's head was thrown into the waters of the Bosphorus, an act the source treats as the definitive end of the First State of Saud.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

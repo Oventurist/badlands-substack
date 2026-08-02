@@ -8,7 +8,6 @@ sources: [raw/are-jack-smith-and-fani-willis-in.md]
 confidence: low
 contested: true
 ---
-
 # White Squall
 
 *White Squall* is a seafaring film that Badlands Media contributor [[american-hypnotist|American Hypnotist]] reads as an extended narrative metaphor — in Q parlance, a "comm" — for the movement surrounding [[donald-trump|Donald Trump]] and [[q|Q]]. The author had previously devoted a full essay to the film, and returns to it in the closing section of [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]] under the heading "Possible Fulfillment of a Comm? White Squall Revisited."
@@ -22,3 +21,7 @@ The article describes *White Squall* as a story about "a ragtag group of boys wh
 The correspondence the author emphasizes in the 2023 essay is the film's final act, in which Skipper is placed on trial "for doing the best he can with his ship and crew while facing enormous, destructive natural forces." He argues the parallels with Trump's prosecutions by [[jack-smith|Jack Smith]] and [[fani-willis|Fani Willis]] are "too numerous for it to be mere coincidence."
 
 Most significant to the author is the resolution: Skipper is redeemed at his trial by his surviving crew, who stand by him. The essay reads this as a template for the present, in which "loyal Anons are stepping into their role as the New News ('you are the news now' – Q)" and thereby shape the social and informational landscape in a way that helps Trump obtain a fair hearing — since, as the article observes, in highly politicized proceedings what happens in a courtroom is often downstream from what happens in the court of public opinion.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

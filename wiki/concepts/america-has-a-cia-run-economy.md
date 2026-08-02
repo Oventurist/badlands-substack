@@ -8,7 +8,6 @@ sources: [raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # America Has a CIA-Run Economy
 
 "America Has a CIA-Run Economy," subtitled "So ... What Now?", is an opinion essay by Erik Carlson published by [[badlands-media|Badlands Media]] on January 18, 2025. The piece combines a statistical argument about the extreme concentration of the American stock market with the claim that the largest U.S. technology corporations were created, funded, or captured by the [[cia|Central Intelligence Agency]] using technology originating at [[darpa|DARPA]]. Written in the days surrounding Donald Trump's second inauguration, it closes with the author's expectation that the intelligence community's control over these firms is being severed, and with an argument that the American economy cannot be demolished in the pursuit of justice.
@@ -70,3 +69,7 @@ Looking forward, he expects that some companies and CEOs will not be chosen to t
 The essay ends on a note of qualified reconciliation. Carlson writes that the American economy is not yet out of the woods but that "the future is brighter than we've ever known," that he does not expect figures like Zuckerberg and Bezos to escape entirely unscathed, but that he will not let his "blood boil" at the sight of them seated with Musk at the inauguration. "The cure can't be worse than the disease," he argues; the U.S. economy cannot be allowed to collapse merely to bring down everyone deserving of a treason trial. Trump, he concludes, "is a businessman, and he understands that this is business." If the CIA's strings have been cut, "I for one am going to take the win. Gladly."
 
 Badlands Media appends its standard disclaimer that articles represent the opinions of contributing authors and not necessarily the views of Badlands Media itself, and directs readers to Erik Carlson's personal Substack.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)

@@ -8,7 +8,6 @@ sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-glaring-double-sta
 confidence: medium
 contested: true
 ---
-
 # Israel
 
 **Israel** is a country in the Middle East that recurs throughout the Badlands Media corpus as both a geopolitical actor and a focal point of contested narratives. Among the articles processed so far, Israel appears in three main contexts: as the object of the [[israel-palestine-conflict]] and its media coverage; as a subject of campus speech controversies and censorship debates in the United States following the October 7, 2023 attack; and within conspiracy narratives that position Israel's leadership as a component of a larger [[deep-state]] structure. The corpus's treatment of Israel is uniformly opinionated, with each author framing the country through their own analytic lens.
@@ -40,3 +39,12 @@ A minor but distinct treatment appears in *A Gateway to a New World of Cooperati
 ## As Portrayed by the Corpus
 
 Across the ingested articles, Israel functions as a charged reference point through which the corpus explores media manipulation, free speech, and elite power structures. The treatments range from geopolitical commentary on the Israel–Palestine conflict to criticism of censorship surrounding Israel's military actions, to speculative narratives about Israel's place in a [[cabal]] hierarchy. The sources are opinion and analysis pieces from the Badlands Media network rather than neutral reporting, and the claims about Israel's role in global power structures are presented by the authors as theories rather than established fact.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)

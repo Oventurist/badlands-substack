@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Zapata Offshore
 
 Zapata Off-Shore Company, originally Zapata Petroleum Corporation, was an oil company founded in Houston in 1953 by [[george-hw-bush]] and J. Hugh Liedtke. In the Badlands Media article [[a-family-affair]], it is characterized as a CIA front company from its inception, used to finance and execute covert operations including the 1961 [[bay-of-pigs-invasion]].
@@ -28,3 +27,7 @@ The article claims that three ships owned by Zapata Offshore and financed by TNB
 ## Legacy
 
 Zapata Offshore is described in the source as the prototype for CIA front companies, using oil industry revenues to launder drug money and fund covert operations. The article links this model to later Bush family activities in Venezuela and Mexico, where oil industry revenues were allegedly used to hide drug cartel profits.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

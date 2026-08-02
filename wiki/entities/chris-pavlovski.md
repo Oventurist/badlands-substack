@@ -8,7 +8,6 @@ sources: [raw/a-cancer-on-modern-journalism.md, raw/5gw-counter-offensive-the-ce
 confidence: medium
 contested: true
 ---
-
 # Chris Pavlovski
 
 **Chris Pavlovski** is the founder of [[Rumble]], the video-sharing platform described in the Badlands Media corpus as the "premier free-speech platform advocating alternative YouTube." In the corpus, Pavlovski is framed as a central figure in the resistance to the [[censorship-regime|censorship regime]], though the source acknowledges that he lacks the financial resources available to [[Elon Musk]] while simultaneously challenging the regime "even more intensely than X is."
@@ -40,3 +39,10 @@ The earlier Badlands article *[[5th-generation-warfare|5GW Counter-Offensive –
 
 - Badlands Media, "A Cancer on Modern Journalism," `raw/a-cancer-on-modern-journalism.md`
 - Badlands Media, "5GW Counter-Offensive – The Censorship Regime and the Road to 2024," `raw/5gw-counter-offensive-the-censorship.md`
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a cancer on modern journalism](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+- [5gw counter offensive the censorship](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

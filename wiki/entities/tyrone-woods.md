@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: high
 contested: false
 ---
-
 # Tyrone Woods
 
 Tyrone "Rone" Woods was a former U.S. Navy SEAL and CIA security contractor who was killed during the September 11, 2012 terrorist attack on the U.S. consulate in [[benghazi|Benghazi]], Libya. He is remembered as one of the heroes who responded to the attack despite being ordered to stand down.
@@ -37,3 +36,7 @@ The article notes that CIA director [[john-brennan|John Brennan]] forced survivi
 - [[kris-paronto]]
 - [[hillary-clinton]]
 - [[barack-obama]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

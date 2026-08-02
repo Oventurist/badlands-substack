@@ -8,7 +8,6 @@ sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md
 confidence: medium
 contested: true
 ---
-
 # Bolshevik Revolution
 
 The Bolshevik Revolution is treated in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] as an externally engineered operation rather than a domestic Russian upheaval.
@@ -25,3 +24,10 @@ The source adds a wartime casualty comparison as evidence of the Cabal's indiffe
 The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] treats the October 1917 uprising as the hidden referent behind two recurring [[q-anon|Q]] motifs. [[erik-carlson|Erik Carlson]] summarizes the event as the far-left Bolsheviks overthrowing and later murdering the Russian monarch and his family, ushering in [[communism|Communism]] and the formation of the Soviet Union "largely accomplished through the use of propaganda and chaos" and by dividing the country between the "whites" and the "reds" to foment civil war. He classifies it as a [[color-revolution|color revolution]].
 
 On this basis the article argues that Q's repeated references to [[the-hunt-for-red-october|Red October]] signalled a Communist takeover of the United States by the same method, and that [[donald-trump|Donald Trump]]'s insistence on dating the [[spanish-flu|Spanish Flu]] to 1917 rather than 1918 — maintained even after public ridicule — was a deliberate pointer to the Bolshevik uprising.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)

@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # Nikki Noor Aytoglu
 
 Nikki Noor Aytoglu is an American dental hygienist. In the Badlands Media article "A Glaring Double Standard," her termination is cited as an example of an American fired over social media statements related to Israel.
@@ -20,3 +19,7 @@ The article states Aytoglu "faced termination following her social media posts t
 ## Use in the article's argument
 
 [[ryan-delarme|Ryan DeLarme]], the article's author, lists Aytoglu among individuals fired for dissenting views on Israel's military actions in Gaza, arguing that right-wing free speech advocates who protested cases like [[gina-carano|Gina Carano]]'s failed to apply the same standard.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

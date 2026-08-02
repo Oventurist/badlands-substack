@@ -8,7 +8,6 @@ sources: [raw/a-new-american-renaissance.md]
 confidence: medium
 contested: true
 ---
-
 # Benjamin West
 
 Benjamin West (born 1737) was an American-born painter who became a founding member and later president of the [[royal-academy-of-arts|English Royal Academy of Fine Arts]] and history painter to [[king-george-iii|King George III]]. In the Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]], [[matthew-ehret|Matthew Ehret]] presents him as "the greatest living painter during his lifetime" and "a man of untold anomalies" who functioned as a republican incubator and coordinator inside the cultural heart of the British Empire.
@@ -47,3 +46,7 @@ The source characterizes West as an artist of the classical Platonic tradition w
 ## Legacy as teacher
 
 West trained a generation of American painters in England, among them [[samuel-morse|Samuel F. B. Morse]], [[john-singleton-copley|John Singleton Copley]], Charles Willson Peale, Rembrandt Peale, Gilbert Stuart and John Trumbull. The source argues his mission was to establish a distinctly American renaissance movement capable of resolving both the European–Native American question and the tension between personal liberty and the general welfare. Much of the interpretation in the source is credited to the historian [[pierre-beaudry|Pierre Beaudry]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-new-american-renaissance)

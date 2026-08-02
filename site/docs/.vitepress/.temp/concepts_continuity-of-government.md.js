@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Continuity of Government","description":"","frontmatter":{"title":"Continuity of Government","created":"2026-08-02T00:00:00.000Z","updated":"2026-08-02T00:00:00.000Z","type":"concept","tags":["continuity-of-government","national-security","devolution","emergency-powers"],"sources":["raw/all-assets-deployed.md","raw/are-cbdcs-the-path-to-fear-or-freedom.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"concepts/continuity-of-government.md","filePath":"concepts/continuity-of-government.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/continuity-of-government.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="continuity-of-government" tabindex="-1">Continuity of Government <a class="header-anchor" href="#continuity-of-government" aria-label="Permalink to &quot;Continuity of Government&quot;">​</a></h1><p>Continuity of Government (COG) refers to the body of U.S. emergency planning intended to ensure that essential federal functions persist through a catastrophic disruption of ordinary constitutional operations. Formally, COG arrangements designate successors, alternate facilities and delegated authorities so that national security and command functions cannot be decapitated.</p><h2 id="use-in-the-badlands-corpus" tabindex="-1">Use in the Badlands corpus <a class="header-anchor" href="#use-in-the-badlands-corpus" aria-label="Permalink to &quot;Use in the Badlands corpus&quot;">​</a></h2><p>Within the corpus, Continuity of Government is treated not as a dormant contingency but as an active condition. The essay <a href="/concepts/all-assets-deployed">All Assets Deployed</a> argues that &quot;if you do believe we are in a Continuity of Government plan for a reason, surely an aspect of that reason is to provoke an awakening among the reachable middle of American society — those who have not yet joined our awakened or awakening ranks.&quot;</p><p>In this framing COG is closely bound to the <a href="/concepts/devolution">Devolution</a> thesis of <a href="/entities/jon-herold">Jon Herold</a>: continuity measures are understood to protect red-line national security functions while a public &quot;exposure operation&quot; against what the corpus calls the System of Systems proceeds. The essay&#39;s author, <a href="/entities/burning-bright">Burning Bright</a>, links the same reasoning to <a href="/entities/donald-trump">Donald Trump</a>&#39;s remark that &quot;the voting will be much, much different in 2024&quot; and to his warning that conditions will get &quot;much worse&quot; before people see clearly, which the author connects to longstanding &quot;precipice&quot; theories in the community.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p>This page draws on multiple source articles:</p><ul><li><a href="https://badlands.substack.com/p/all-assets-deployed" target="_blank" rel="noreferrer">all assets deployed</a></li><li><a href="https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom" target="_blank" rel="noreferrer">are cbdcs the path to fear or freedom</a></li></ul></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/continuity-of-government.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const continuityOfGovernment = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  continuityOfGovernment as default
+};

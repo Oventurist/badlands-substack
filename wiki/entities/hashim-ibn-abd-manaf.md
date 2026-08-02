@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: false
 ---
-
 # Hashim ibn Abd Manaf
 
 Hashim is the Meccan leader from whom the [[banu-hashim]] take their name, and the great-grandfather of [[prophet-muhammad|Muhammad]]. The Badlands Media essay [[arabian-nights]] introduces him as a Bedouin warrior who entered the town of Mecca more than 1,500 years ago.
@@ -28,3 +27,7 @@ He also developed a broth that, mixed with crumbled bread, was hearty and fillin
 He was born with the name Amr. The people came to call him Hashim, an Arabic *kunya* carrying the dual sense of "he who feeds the starving" and "the pulverizer of evil." The article also credits him with codifying, alongside all later Islamic scholars, the reading of Abraham's hospitality toward the three angels as the model all believers should follow in receiving visitors into their homes.
 
 Through his strength, the source argues, Hashim stabilised the region and allowed civilisation to restore itself — though it was his grandson Muhammad who would change the world. The essay names Hashim among the Arabian figures it argues have been misrepresented by Western media as ruthless ideologues.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

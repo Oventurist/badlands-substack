@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # The Daily Wire
 
 The Daily Wire is an American conservative news and entertainment media company co-founded by [[ben-shapiro|Ben Shapiro]] and Jeremy Boreing in 2015. In the Badlands Media article "A Glaring Double Standard," it is grouped among the outlets the source labels "Con INC." that positioned themselves against cancel culture.
@@ -20,3 +19,7 @@ The article describes the Daily Wire and the Babylon Bee as "popular Con INC. ou
 ## Coverage of the Carano firing
 
 The source cites a February 2021 Daily Wire piece by Tim Pierce titled "Shapiro: Gina Carano Firing Part Of A Movement To 'Expel' Half Of America," which reported on [[ben-shapiro|Shapiro]]'s reaction to Disney's firing of actress [[gina-carano|Gina Carano]]. The article uses this as an example of the right's free speech advocacy before October 7. [[ryan-delarme|Ryan DeLarme]], the article's author, argues the same figures failed to apply this standard after the firing of Israel critics.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

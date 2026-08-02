@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Raul Salinas
 
 Raul Salinas de Gortari is the older brother of former Mexican President [[carlos-salinas]]. In the Badlands Media article [[a-family-affair]], he is identified as the "intellectual author" of the September 1994 assassination of José Francisco Ruiz Massieu, secretary general of the [[institutional-revolutionary-party]] (PRI), and as a key financial operator for the [[gulf-cartel]].
@@ -32,3 +31,7 @@ The article links Raul Salinas to the [[gulf-cartel]] and its leader [[juan-garc
 ## Arrest and imprisonment
 
 Raul Salinas went to prison for his role in the Ruiz Massieu murder and for drug trafficking-related charges. The article frames his imprisonment as a rare instance of accountability, arguing that the Bush family and CIA network have historically operated above the law.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

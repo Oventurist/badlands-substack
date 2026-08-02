@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # George H.W. Bush
 
 George H.W. Bush (1924–2018) was the 41st President of the United States, serving from 1989 to 1993, and previously the director of central intelligence from 1976 to 1977. In the Badlands Media article [[a-family-affair]], he is portrayed as a lifelong CIA operative whose pre-political career was deeply embedded in covert operations, drug trafficking infrastructure, and money-laundering networks.
@@ -32,3 +31,7 @@ Bush served as director of central intelligence from January 1976 to January 197
 ## Connections to drug trafficking and corruption
 
 The article ties George H.W. Bush to drug trafficking through his family's banking relationships, the Gulf Cartel deposits at Texas Commerce Bank, and the Bush network's political relationships with [[carlos-salinas]] and [[carlos-andres-perez]]. The CIA headquarters in Langley, Virginia, is noted in the source as having been named after Bush, which the article interprets as recognition of his leadership in clandestine operations dating to the early 1950s.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

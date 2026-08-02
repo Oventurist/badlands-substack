@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Cali Cartel
 
 The Cali Cartel was a Colombian drug trafficking organization based in the city of Cali, founded by the Rodríguez Orejuela brothers and José Santacruz-Londono. At its height in the 1990s, it controlled an estimated 80 percent of the global cocaine market. In the Badlands Media article [[a-family-affair]], the Cali Cartel is identified as the Colombian partner that restructured its deal with the [[gulf-cartel]], allowing the Mexican organization to transform from smugglers into cocaine suppliers.
@@ -27,3 +26,7 @@ The article links the Cali Cartel to [[jeb-bush]] through his alleged establishm
 ## Relationship with the Medellín Cartel
 
 While the Medellín and Cali cartels were rivals, they both benefited from CIA support during the 1980s, as the agency sought to use drug trafficking proceeds to fund the Nicaraguan Contras. The article suggests that both cartels were integrated into the Bush family's covert financial network through Jeb Bush's banking activities in Venezuela.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

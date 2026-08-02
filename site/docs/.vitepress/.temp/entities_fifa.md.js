@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"FIFA","description":"","frontmatter":{"title":"FIFA","created":"2026-08-02T00:00:00.000Z","updated":"2026-08-02T00:00:00.000Z","type":"entity","tags":["organization","sports","corruption","international-body"],"sources":["raw/america-for-sale-part-2.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/fifa.md","filePath":"entities/fifa.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/fifa.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="fifa" tabindex="-1">FIFA <a class="header-anchor" href="#fifa" aria-label="Permalink to &quot;FIFA&quot;">​</a></h1><p>FIFA is the international governing body of association football and the organizer of the World Cup. It appears in the Badlands Media essay <a href="/concepts/america-for-sale-part-2">America for Sale — Part 2</a> as a donor to the <a href="/entities/clinton-foundation">Clinton Foundation</a> and as the subject of a corruption scandal the author believes was never fully traced back to the Clinton network.</p><h2 id="the-u-s-world-cup-bid" tabindex="-1">The U.S. World Cup bid <a class="header-anchor" href="#the-u-s-world-cup-bid" aria-label="Permalink to &quot;The U.S. World Cup bid&quot;">​</a></h2><p><em>Politico</em> reported that the USA bid committee for the World Cup hired <a href="/entities/paul-keary">Paul Keary</a> in 2010 to help make the pitch for future games. Earlier that year <a href="/entities/doug-band">Doug Band</a> had joined the board of directors of that same committee, and in the autumn <a href="/entities/bill-clinton">Bill Clinton</a> personally lobbied FIFA in an attempt to bring the tournament to the United States. The bid was unsuccessful; <a href="/entities/qatar">Qatar</a> was awarded the 2022 World Cup.</p><h2 id="donations-and-the-2015-arrests" tabindex="-1">Donations and the 2015 arrests <a class="header-anchor" href="#donations-and-the-2015-arrests" aria-label="Permalink to &quot;Donations and the 2015 arrests&quot;">​</a></h2><p><em>Nonprofit Quarterly</em>, quoted in the article, reported that FIFA gave the Clinton Foundation between $50,000 and $100,000 as a membership fee to participate in the <a href="/entities/clinton-global-initiative">Clinton Global Initiative</a>, plus a commitment to build twenty community centers in South Africa as part of FIFA&#39;s decision to hold the 2010 World Cup there. The Qatar 2022 Supreme Committee gave between $250,000 and $500,000 as a CGI sponsor in 2013.</p><p>In May 2015 much of FIFA&#39;s leadership was arrested by police in Switzerland on charges announced by the U.S. <a href="/entities/department-of-justice">Department of Justice</a>. The Badlands essay juxtaposes the 2010 involvement of Keary and Band with the 2015 arrests and asks whether the timing is coincidental, observing that &quot;nobody looked into the Clintons&#39; involvement in this scandal as they made off with millions of dollars.&quot; That inference is the author&#39;s own.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/america-for-sale-part-2" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/fifa.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const fifa = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  fifa as default
+};

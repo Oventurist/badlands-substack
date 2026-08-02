@@ -8,7 +8,6 @@ sources: [raw/a-new-hollywood.md]
 confidence: medium
 contested: true
 ---
-
 # A New Hollywood
 
 "A New Hollywood," subtitled "It's Already Happening," is an opinion essay published by [[badlands-media|Badlands Media]] on February 6, 2025 and written by contributor [[erik-carlson|Erik Carlson]]. The piece argues that the American film and television industry — long, in the author's view, an instrument of ideological conditioning — is in the process of being taken over by allies of [[donald-trump|Donald Trump]], and that the resulting shift in programming is already visible in recent Paramount and Showtime releases. The article received 292 likes on Substack.
@@ -64,3 +63,7 @@ Describing Trump as "Reagan 2.0" — not a continuation of Reagan but "a vastly 
 The essay closes with a general argument that instruments of evil can be redeemed: film, AI, the financial system, and the medical industry "since the Rockefellers took it over a hundred years ago" have all been used to control, brainwash, enslave and sicken, but all can be transformed to do good. "We must allow ourselves to envision how things could be, and should be, rather than how they have been, and currently are. Everything is being transformed. The patriots are now in control. What a glorious time to be alive."
 
 A standard disclaimer notes that Badlands Media articles represent the opinions of contributing authors and not necessarily the views of Badlands Media itself, and directs readers to Carlson's Substack at erikc.substack.com.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-new-hollywood)

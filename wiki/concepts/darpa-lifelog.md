@@ -8,7 +8,6 @@ sources: [raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # DARPA LifeLog
 
 LifeLog was a research program of the Information Processing Techniques Office of [[darpa|DARPA]], the Defense Advanced Research Projects Agency of the [[department-of-defense|U.S. Department of Defense]]. It is treated in the Badlands corpus as the direct institutional ancestor of modern social media.
@@ -28,3 +27,7 @@ The program was cancelled on February 4, 2004 following criticism of its privacy
 - [[darpa]]
 - [[meta-platforms]]
 - [[america-has-a-cia-run-economy]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)

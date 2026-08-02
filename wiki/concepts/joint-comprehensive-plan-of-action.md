@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md]
 confidence: medium
 contested: true
 ---
-
 # Joint Comprehensive Plan of Action
 
 The Joint Comprehensive Plan of Action (JCPOA), commonly called the Iran Nuclear Deal, is the 2015 agreement between [[iran]] and world powers that traded restrictions on the Iranian nuclear program for relief from international sanctions. In the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] it is treated not primarily as an arms-control instrument but as "one of the most consequential geopolitical maneuvers in recent history" — the pivot on which a factional war inside the Western ruling class turned.
@@ -28,3 +27,7 @@ Resistance to American withdrawal came, on the article's account, from the forei
 The article argues that the deal was designed partly so that Western-partnered Iranian gas could supplant Russian gas in Europe while the Obama administration rallied European sanctions against [[russia]] over Ukraine; Russia consequently opposed sanctions relief. It also holds that the Saudi–Israeli coalition formed in reaction to the deal helped create the conditions for [[donald-trump]]'s rise, and that friction between Obama and [[benjamin-netanyahu]] after the 2015 signing produced reciprocal regime-change efforts in Washington and Jerusalem.
 
 Trump's withdrawal from the agreement, accompanied by the "maximum pressure" campaign threatening "enormous consequences" for sanctions evasion, drew from Donilon the judgment that it was "the worst move in the Middle East since the Iraq War." Under [[joe-biden]] the posture reversed again, with [[china]] permitted to sign a $400 billion agreement with Iran within two months of the new administration taking office. The article concludes that the Iran Deal "split the ruling class factionally, more so than any other issue at the time."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)

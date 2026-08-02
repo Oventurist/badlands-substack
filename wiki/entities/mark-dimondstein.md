@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: high
 contested: false
 ---
-
 # Mark Dimondstein
 
 Mark Dimondstein is the president of the [[american-postal-workers-union|American Postal Workers Union]] (APWU) and, in [[a-seismic-shift|A Seismic Shift]], the author of an opinion piece in The Hill advocating the expansion of [[united-states-postal-service|Postal Service]] banking. [[joe-lange|Joe Lange]] describes him as making "a lot of great points" and as reminding readers that postal banking was a safeguard for many years in the United States and protected the American people's savings accounts.
@@ -22,3 +21,7 @@ He recounted that during its 55-year existence, beginning in 1910 by an act of [
 ## FedAccounts
 
 Dimondstein's column also introduced Lange's readers to the [[fedaccounts|FedAccounts]] concept, noting that the [[federal-reserve|Federal Reserve]] currently serves as a bank for bankers — facilitating inter-bank payments, managing bank accounts and paying interest on those accounts — and that the same services could be extended to individuals and small businesses, "creating a 'FedAccount' for everyone, not just the banks." He observed that there is growing interest in and support for the concept. Lange treats this as the introduction of a second major safeguard for the American future.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

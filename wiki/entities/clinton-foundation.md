@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/amer
 confidence: medium
 contested: true
 ---
-
 # Clinton Foundation
 
 The Clinton Foundation, officially the Bill, Hillary & Chelsea Clinton Foundation, is a nonprofit organization founded by former U.S. President [[bill-clinton|Bill Clinton]]. In the Badlands Media corpus, it is cited as a vehicle for money laundering connected to covert U.S. weapons sales and the funding of terrorist organizations during the Obama administration.
@@ -46,3 +45,11 @@ The essay also states that U.S. Attorney [[john-huber|John Huber]], secretly app
 ## Uranium One donations
 
 [[america-for-sale-part-3|America for Sale — Part 3]] documents the flow of money into the foundation from figures connected to the [[uranium-one|Uranium One]] transaction. Canadian mining financier [[frank-giustra|Frank Giustra]] donated $31.3 million months after securing Kazakh uranium mines in 2005 alongside [[bill-clinton|Bill Clinton]]. Uranium One chairman [[ian-telfer|Ian Telfer]] was publicly listed as giving no more than $250,000 in 2007, but Canadian tax records for his Fernwood Foundation showed $1 million in 2009, $250,000 in 2010, $600,000 in 2011 and $500,000 in 2012 — donations never disclosed despite [[hillary-clinton|Hillary Clinton]]'s agreement with the Obama White House. Between $1.3 million and $5.6 million more came from people tied to Uranium One or [[urasia-energy|UrAsia Energy]]. Russian investor [[sergei-kurzin|Sergei Kurzin]] gave $1 million, and Nigerian businessman [[gilbert-chagoury|Gilbert Chagoury]] donated millions in the years after the pardon of [[marc-rich|Marc Rich]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

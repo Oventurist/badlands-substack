@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Richard Lawless
 
 Richard Lawless is a former 15-year veteran of the [[cia]] who is identified in the Badlands Media article [[a-family-affair]] as a beneficiary of [[jeb-bush]]'s political power while Bush served as Florida's commerce secretary.
@@ -23,3 +22,7 @@ According to [[tampa-bay-times]], Lawless won state contracts to promote exports
 ## CIA background
 
 The article emphasizes Lawless's CIA background as evidence of the intelligence community's penetration of state government and economic development. The source suggests that Lawless's export-promotion contracts may have served CIA interests while appearing to be legitimate state economic development work.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

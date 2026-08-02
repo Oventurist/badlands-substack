@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # DOJ Settlement Slush Fund
 
 The "DOJ settlement slush fund" refers to a practice, alleged by the [[house-judiciary-committee|House Judiciary Committee]] under chairman [[bob-goodlatte|Bob Goodlatte]], whereby the [[department-of-justice|Department of Justice]] during the [[barack-obama|Obama]] administration directed money from settlements with financial institutions to outside activist organizations rather than to the United States Treasury. It is treated at length in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]].
@@ -22,3 +21,7 @@ Hot Air reported Goodlatte's floor statement — "It is not every day in congres
 ## Framing in the corpus
 
 [[joe-lange|Joe Lange]] introduces the topic by asking why the Obama DOJ imposed a $780 million penalty on [[ubs|UBS]] if the bank had already purchased protection from the Clintons, and answers that the Clintons were not the only officials using government positions to extract money from corporations. He links the practice to Q drop 36 (November 2, 2017), which asked what "SLUSH FUND" Attorney General [[jeff-sessions|Jeff Sessions]] had ended and how George Soros, Obama, [[hillary-clinton|Clinton]], Eric Holder and Loretta Lynch all net many millions of dollars within a single tax year. The article concludes that Sessions terminated the arrangement and that the evidence gathered will feature in a future prosecution phase — a contested claim.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-2)

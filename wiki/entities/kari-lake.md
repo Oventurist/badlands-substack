@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
-
 # Kari Lake
 
 Kari Lake is an American broadcaster-turned-politician who was the Republican nominee for Governor of Arizona in the 2022 general election, opposing Democratic Secretary of State [[katie-hobbs|Katie Hobbs]]. Her contested loss, and her refusal to concede while litigation proceeded, are central to the Badlands Media coverage of Arizona's 2022 election.
@@ -30,3 +29,10 @@ On Friday, December 9, 2022, Lake filed a 70-page election contest in [[maricopa
 The complaint alleges that illegal votes far exceeded the 17,117-vote margin, that 59% of Maricopa County's 223 vote centers suffered printer and tabulator failures disproportionately harming Election Day voters who favored Lake 3:1, and that a conservative estimate places the resulting suppression of her Election Day vote at between 15,603 and 29,257 votes. It further alleges the absence of chain of custody for some 298,942 early ballots processed through [[runbeck-election-services|Runbeck Election Services]], systematic failures in signature verification, and that Maricopa County added 25,000 ballots to its totals after Election Day. The complaint's conclusion, widely circulated in a Twitter thread by [[liz-harrington|Liz Harrington]], is that maladministration and illegal votes caused Arizona to wrongfully name Hobbs the winner.
 
 The Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]] predicts that Arizona's courts will reject the case at every level and that it will ultimately reach the [[supreme-court-of-the-united-states|Supreme Court]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)

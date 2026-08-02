@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---
-
 # Libyan Islamic Fighting Group
 
 The Libyan Islamic Fighting Group (LIFG) was an Islamist militant organization founded in 1995 among Libyans who had fought Soviet forces in Afghanistan and the Gaddafi regime in Libya. In the Badlands Media article "A Conflict of Interest," LIFG is portrayed as an Al-Qaeda affiliate that was knowingly supported by U.S. politicians and the CIA during the 2011 Libya intervention.
@@ -23,3 +22,7 @@ The article claims that LIFG officially became an Al-Qaeda affiliate in 2007, wh
 According to the article, the U.S. military's Combating Terrorism Center at West Point produced a study showing that LIFG fighters were being sent to kill American soldiers in Iraq, and that Libya was providing the most foreign terrorists in Iraq based on population size. The source claims that [[john-mccain|John McCain]] met with LIFG leaders in [[benghazi|Benghazi]] in April 2011 and publicly declared that they were "not Al-Qaeda," which the article describes as a knowing lie. It notes that LIFG members had fled Libya in the late 1990s because [[muammar-gaddafi|Gaddafi]] was waging war against them, and that the CIA-controlled media's portrayal of Gaddafi as a "big sponsor of terrorism" was deliberately inverted.
 
 The article frames LIFG as a key piece in what it describes as a decades-long operation to create and manipulate terrorist organizations for geopolitical and financial gain.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-conflict-of-interest)

@@ -8,7 +8,6 @@ sources: [raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # Meta Platforms
 
 Meta Platforms, the parent company of Facebook, is an American social media corporation led by [[mark-zuckerberg]]. In the Badlands corpus it is the flagship example of the claim that consumer social media was created as a substitute for a cancelled government surveillance program.
@@ -24,3 +23,7 @@ Meta is listed among the five largest American companies by market capitalizatio
 ## Realignment under Trump
 
 The article notes that Zuckerberg has agreed to open Meta's platforms to more free speech and has terminated the company's DEI programs, and that Meta was among the big-tech firms donating one million dollars to [[donald-trump]]'s inaugural fund. Carlson treats these gestures as part of what he calls "the real pardoning that is happening in America," while acknowledging that many within [[maga|MAGA]] remain distrustful of executives they regard as [[deep-state|Deep State]] puppets.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)

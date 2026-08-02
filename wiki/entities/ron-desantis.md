@@ -8,7 +8,6 @@ sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-glaring-double-sta
 confidence: medium
 contested: true
 ---
-
 # Ron DeSantis
 
 Ron DeSantis is the Governor of Florida and was a candidate for the 2024 Republican presidential nomination at the time of this article. In the Badlands corpus, DeSantis is analyzed primarily as a case study in the broader theory of a Deep State-orchestrated political strategy. ^[raw/a-communist-plot-to-take-over-america.md]
@@ -30,3 +29,11 @@ DeLarme criticizes the decision as an example of conservative-led censorship, ar
 The Badlands Media essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) treats DeSantis chiefly as the figure around whom an anti-Trump realignment was expected to form after the [[2022-united-states-midterm-elections|2022 midterm elections]]. Its author, [[burning-bright|Burning Bright]], writes that [[con-inc|Con Inc.]] "and the 'DeSantis over Trump' crowd are going to smell blood in the water from a somewhat demoralized and depressed MAGA base and will seize the opportunity to turn hairline fractures into breaks and chasms," fragmenting the [[maga|MAGA]] movement into "an archipelago of intra-faction wars."
 
 The essay frames [[donald-trump|Donald Trump]]'s [[mar-a-lago|Mar-a-Lago]] announcement as designed in part to undercut such a move, describing it as an effort to forestall "any potential political move being entertained by other influential figures either earnestly or subversively gathering directed political energy from the Conservative base in an attempt to sweep said base out from under Trump's leadership and stewardship."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a communist plot to take over america](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)

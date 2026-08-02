@@ -8,7 +8,6 @@ sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-
 confidence: medium
 contested: true
 ---
-
 # Central Bank Digital Currency
 
 A central bank digital currency (CBDC) is a digital form of a nation's sovereign currency issued directly by its central bank. Within the Badlands Media corpus the subject is unusually contested: the June 2023 article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] by [[joe-lange|Joe Lange]] is written explicitly against the prevailing view in alternative and conservative media that CBDCs constitute the [[cabal]]'s instrument for total financial surveillance and control.
@@ -36,3 +35,10 @@ Lange concedes that a CBDC is merely a digital [[fiat-currency|fiat]] currency u
 ## CBDCs as the Mark of the Beast
 
 A sharply different reading appears in the July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], which treats CBDCs as the leading present-day candidate for fulfilment of the [[mark-of-the-beast|Mark of the Beast]] prophecy. [[patriots-in-progress|Patriots in Progress]] argues that what distinguishes the Mark is not its physical form but that it is required of everyone and functions as a discriminator on the ability to buy or sell. Quoting a source describing a near future in which "all 'global citizens' are required to possess proper 'digital identification' or else they will not be permitted to access the new global digital financial system," the article frames CBDCs plus global digital ID as a system of total control and enslavement, and notes that General [[michael-flynn|Michael Flynn]] has highlighted data on CBDCs and referred to them as the Mark of the Beast. The article contrasts this with the [[covid-19-vaccines|Covid vaccine]] campaign, which it judges to have had the same structure - global, coercive, tied to passports as an economic discriminator - but to have fallen short of universal reach.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

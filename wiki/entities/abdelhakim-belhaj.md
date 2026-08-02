@@ -13,7 +13,6 @@ sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---
-
 # Abdelhakim Belhaj
 
 Abdelhakim Belhaj is a Libyan politician and former military leader who served as emir of the [[libyan-islamic-fighting-group|Libyan Islamic Fighting Group]] (LIFG) and later became a businessman and politician in post-Gaddafi Libya. In the Badlands Media article "A Conflict of Interest," Belhaj is portrayed as a central figure in what the source describes as a CIA-backed operation to overthrow [[muammar-gaddafi|Muammar Gaddafi]] and replace him with a government controlled by terrorist networks.
@@ -25,3 +24,7 @@ After his release, Belhaj allegedly went to [[qatar|Qatar]] to command the [[feb
 The article suggests that Belhaj's airline was used to transport [[isis|ISIS]] fighters from Libya to Syria through Turkey, and that his transition from "wanted terrorist" to "highly successful businessman" was possible only because he was a "CIA asset from the beginning." It notes that in January 2019, the Libyan government issued a warrant for his arrest on war crimes charges, causing him to flee to Turkey, and that this occurred during [[donald-trump|Donald Trump's]] first year as president.
 
 According to the source, Belhaj was also in negotiations with the United Nations in 2016 to help establish a government in Libya, and remained influential with the [[fajr-libya|Fajr Libya]] militia coalition and the Tripoli government.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-conflict-of-interest)

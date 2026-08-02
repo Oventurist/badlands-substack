@@ -8,7 +8,6 @@ sources: [raw/a-communist-plot-to-take-over-america.md]
 confidence: low
 contested: true
 ---
-
 # A Communist Plot to Take Over America
 
 "A Communist Plot to Take Over America" is a June 5, 2023 article by Erik Carlson published on Badlands Media that advances a comprehensive conspiracy theory framing contemporary American events as coordinated steps in a deliberate communist takeover of the United States. The author presents the theory as an evolution of his prior thinking, acknowledging confusion about day-to-day details while insisting the "bigger picture" of a cabal-driven destruction of American identity is clear. ^[raw/a-communist-plot-to-take-over-america.md]
@@ -60,3 +59,7 @@ Once these stages are complete, he argues, the country will be ripe for communis
 ## Related Narratives
 
 The article connects to broader themes in the Badlands corpus including the [[censorship-regime]], the deep state, and theories of coordinated economic and cultural destruction. Carlson's debt ceiling analysis overlaps with central banking conspiracy narratives, while his discussion of corporate wokeness intersects with the "Get Woke, Go Broke" thesis. His AI manipulation claims align with info war frameworks regarding algorithmic control of public discourse.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)

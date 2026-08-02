@@ -8,7 +8,6 @@ sources: [raw/are-we-being-distracted.md]
 confidence: medium
 contested: true
 ---
-
 # Are We Being Distracted?
 
 "Are We Being Distracted?" is an opinion essay published by [[badlands-media|Badlands Media]] on August 1, 2024, written by [[erik-carlson|Erik Carlson]] and subtitled "Obviously ... But What Are We Being Distracted From?" The article argues that the extraordinary run of news events in July 2024 — the assassination attempt on [[donald-trump|Donald Trump]], [[joe-biden|Joe Biden]]'s withdrawal from the presidential race, [[kamala-harris|Kamala Harris]]'s elevation to the Democratic ticket, and the opening ceremony of the [[paris-2024-olympics-opening-ceremony|Paris Olympics]] — functioned collectively as a [[bread-and-circus|bread and circus]] operation designed to divide and distract the public from what the author regards as the real story: Trump's intention to dismantle and rebuild the American financial system.
@@ -56,3 +55,7 @@ Carlson catalogues the emotional effects he attributes to the sequence of events
 The essay closes with an exhortation rather than a prediction. Carlson tells readers not to support anything they find morally repulsive — "Vote with your dollars, vote with your conscience, and vote these puppets out of office" — but to recognise manipulation when it occurs and to seek out what the manipulation conceals. He asserts that "the patriots are in fact in control," that they are not distracted or manipulated even if offended, and that "the dismantling of the old guard is underway, and nothing can stop it from happening." The final lines are religious: "While God is mocked today, he will get the last laugh. In the end, God wins. In the end, we win."
 
 The article carries Badlands Media's standard disclaimer that contributor pieces represent the opinions of their authors and not necessarily the views of Badlands Media itself, and directs readers to Carlson's personal Substack.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-being-distracted)

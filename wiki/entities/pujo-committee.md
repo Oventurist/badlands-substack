@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Pujo Committee
 
 The Pujo Committee was a special committee of the United States House of Representatives formed by Congressman Arsene Pujo to investigate the monopoly of J. P. Morgan and New York's other powerful bankers. According to the article, the committee was formed after the creation of the Federal Reserve and the IRS, making 1913 a landmark year both for the cabal's consolidation of power and for the institutional attempt to expose it.
@@ -30,3 +29,7 @@ The Pujo Committee is presented in the article as evidence that the cabal's cont
 - Benjamin Strong Jr — singled out in the Pujo Report
 - William Rockefeller — singled out in the Pujo Report
 - [[1913]] — the year of both the Federal Reserve Act and the Pujo Committee investigation
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

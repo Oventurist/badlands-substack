@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
-
 # Antichrist
 
 The Antichrist is a figure of Christian eschatology discussed in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] alongside, and often conflated with, [[the-beast|the Beast]] of Revelation 13.
@@ -24,3 +23,7 @@ Paul, in 2 Thessalonians, describes the "son of lawlessness," interpreted as the
 ## Old Testament readings
 
 The article observes that the Antichrist is not explicitly mentioned in the Old Testament, though certain passages are read as describing such a figure. Daniel 7:19–27, 9:24–27 and 11:31–45 present a beast and oppressive ruler who defiles the sanctuary, replaces sacrifices with abomination, corrupts many by flattery, speaks blasphemies and prospers until the appointed time of wrath, before the Ancient of Days removes his dominion. Ezekiel 28:1–19 delivers a message to the prince of Tyre, who exalted himself as a god despite being a mere man and was cast down for violence, sin and corruption. In both New and Old Testament descriptions, the article stresses, believers are pictured as present in the world while these events unfold — a point it uses in its argument against a pre-Tribulation [[rapture]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

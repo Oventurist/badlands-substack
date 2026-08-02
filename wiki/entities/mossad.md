@@ -8,9 +8,12 @@ sources: [raw/a-journey-of-ever-changing-truths.md]
 confidence: medium
 contested: true
 ---
-
 # Mossad
 
 Mossad is the Israeli national intelligence service. It appears in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] as one of two agencies — the other being the [[cia|CIA]] — placed beneath British [[mi6|MI6]] in the article's proposed hierarchy of intelligence power.
 
 [[erik-carlson|Erik Carlson]] invokes Mossad while arguing against the view that Israel is the ultimate author of world events. Conceding that "there aren't criminals that run the US and Israel" is not his position, he maintains instead that such figures are "merely middle management who take orders from their puppet masters, The [[city-of-london|City of London]]." Mossad thus serves in the essay as an illustration of a capable and genuinely operative agency whose autonomy the author regards as overstated.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)

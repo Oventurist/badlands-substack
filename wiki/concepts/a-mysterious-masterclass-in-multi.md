@@ -8,7 +8,6 @@ sources: [raw/a-mysterious-masterclass-in-multi.md]
 confidence: medium
 contested: true
 ---
-
 # A Mysterious Masterclass in Multi Sensory Deception
 
 "A Mysterious Masterclass in Multi Sensory Deception," subtitled "Unscheduled Shenanigans with a Purpose," is an essay published by [[badlands-media|Badlands Media]] on August 30, 2024, written by the contributor [[ashe-in-america|Ashe]]. Framed as a travelogue of a side trip taken during the fifth stop of the [[great-american-restoration-tour|Great American Restoration Tour]] (GART) in Deadwood, South Dakota, the piece uses a roadside "gravity hill" attraction, [[cosmos-mystery-area|the Cosmos Mystery Area]], as an extended metaphor for how propaganda and narrative manipulation operate in what the author calls the information war.
@@ -62,3 +61,7 @@ The article concludes that working together to separate facts from intended emot
 ## Publication note
 
 The piece carries the standard Badlands Media disclaimer that articles represent the opinions of contributing authors rather than the outlet itself, and directs readers to the author's own newsletter, Ashe in America.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)

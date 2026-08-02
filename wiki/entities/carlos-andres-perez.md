@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Carlos Andrés Pérez
 
 Carlos Andrés Pérez Rodríguez (1922–2010), known as CAP or "El Gocho," was a Venezuelan politician who served as president from 1974 to 1979 and again from 1989 to 1993. In the Badlands Media article [[a-family-affair]], he is portrayed as a corrupt leader installed or supported by CIA-linked networks, whose presidency facilitated oil-boom embezzlement and who later fled to miami, the same city where [[jeb-bush]] established his base after Venezuela.
@@ -31,3 +30,7 @@ On March 20, 1993, Attorney General Ramón Escovar Salom introduced action again
 ## Connection to Jeb Bush
 
 The article notes that Jeb Bush was a leading banker in Caracas during Pérez's second presidency and that the two men's paths intersected through the Venezuelan oil industry and corrupt financial networks. The source draws a parallel between Pérez and [[carlos-salinas]], both described as corrupt leaders who fled to Miami after their regimes collapsed, and both connected to the Bush family network.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

@@ -12,7 +12,6 @@ sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---
-
 # Mouza Moustafa
 
 Mouza Moustafa is identified in the Badlands Media article "A Conflict of Interest" as a Syrian-American lobbyist who served as a central intermediary between U.S. politicians and rebel groups in Libya and Syria that the source characterizes as terrorist organizations.
@@ -24,3 +23,7 @@ The article asserts that before his work on Syria, Moustafa led the [[libyan-eme
 The article frames Moustafa as evidence that lobbying groups in Washington, D.C. were set up by U.S. enemies to channel taxpayer money to terrorist organizations. It claims that [[barack-obama|President Obama]] and [[hillary-clinton|Hillary Clinton]] approved these operations, and that the same playbook was used in both countries: create a lobbying group with a humanitarian-sounding name, use it to raise taxpayer money, and funnel that money to rebel groups that were actually affiliated with [[al-qaeda|Al-Qaeda]] or [[isis|ISIS]].
 
 Note: The article acknowledges that Moustafa's name is sometimes spelled "Mouaz Moustafa."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-conflict-of-interest)

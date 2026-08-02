@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md]
 confidence: medium
 contested: true
 ---
-
 # Mark Brnovich
 
 Mark Brnovich is an American attorney and Republican politician who served as Attorney General of Arizona from 2015 until January 2023. In the Badlands Media corpus he is a figure of derision: [[kitty-gillespie|Kitty Gillespie]]'s article [[an-sos-from-ground-zero|An SOS From Ground Zero]] characterizes his social media presence as one of "two new comedy shows playing on Twitter" and accuses him of having done "NOTHING to fight election fraud after 2020."
@@ -24,3 +23,7 @@ In November 2022 Brnovich was described as "acting governor" while Governor [[do
 ## Assessment in the corpus
 
 Gillespie speculates that Brnovich, as a Republican, is "either compromised or playing a specific role in this movie," noting that he spent considerable time with [[donald-trump|Donald Trump]] before the Florence, Arizona rally of 2021. Despite her criticism, she credits his office's Election Integrity Unit — specifically Assistant Attorney General [[jennifer-wright|Jennifer Wright]], whom she calls "my hero right now" — for its November 19, 2022 letter demanding answers from [[maricopa-county|Maricopa County]], writing, "Let's not hold working for Brnovich against Ms. Wright."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/an-sos-from-ground-zero)

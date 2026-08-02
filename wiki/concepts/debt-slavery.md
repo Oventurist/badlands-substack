@@ -8,7 +8,6 @@ sources: [raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
-
 # Debt Slavery
 
 **Debt slavery**, in the Badlands Media corpus, denotes a condition in which the combined burden of taxation, inflation, and borrowing leaves citizens financially dependent and therefore politically compliant. It is presented not as an incidental outcome of fiscal policy but as its purpose.
@@ -28,3 +27,7 @@ The article notes that these levies are staggered rather than simultaneous, "whi
 ## Enforcement and self-application
 
 Carlson identifies the [[internal-revenue-service|IRS]] as the enforcement arm of the arrangement, asking, "If not for the threat of the IRS, who would continue to stay in line? If not for the funding of the system, there would be no system." He applies the analysis to himself, writing that although he believes taxes are theft, he pays them rather than face jail and leave his family destitute: "I'm afraid to leave the plantation. The government has complete control over me through debt slavery." The alternative he imagines is a citizenry freed to choose work and vocation without financial compulsion — a world in which "one's dollar was really a dollar." The condition is linked in the essay to [[stockholm-syndrome|Stockholm Syndrome]] as its psychological counterpart, and traced to the [[sixteenth-amendment|Sixteenth Amendment]] and the [[federal-income-tax|federal income tax]] of 1913 as its origin.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/americas-greatest-threat)

@@ -8,7 +8,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: false
 ---
-
 # National Archives
 
 The National Archives and Records Administration is the United States federal agency responsible for preserving and providing access to government records, including classified material held for official review.
@@ -20,3 +19,7 @@ The National Archives appears in [[a-dereliction-of-duty|A Dereliction of Duty]]
 The National Archives inspector general concluded in a report dated November 4, 2005 that Berger had removed five copies of the same document without authorisation and later used scissors to destroy three of them before placing them in his office trash. The documents, the Post reported, "detailed how the Clinton administration had responded to the threat of terrorist attacks at the end of 1999." After Archives officials accused him of taking the material, Berger told investigators he "tried to find the trash collector but had no luck," and initially claimed he had removed the papers by mistake rather than by stuffing them into his suit pockets on multiple occasions.
 
 The article uses the episode to argue that Clinton feared what the congressional commission investigating the September 11 attacks would find — specifically, in its telling, the [[memorandum-of-notification|Memorandum of Notification]] restricting lethal action against [[osama-bin-laden|Osama Bin Laden]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

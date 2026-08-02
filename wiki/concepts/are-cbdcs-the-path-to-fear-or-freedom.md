@@ -8,7 +8,6 @@ sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---
-
 # Are CBDCs The Path To Fear, or Freedom?
 
 "Are CBDCs The Path To Fear, or Freedom?", subtitled "Trump's Safe Haven Plan," is an article published by [[badlands-media|Badlands Media]] on June 2, 2023 and written by [[joe-lange|Joe Lange]]. It forms part of the author's continuing series on the global financial system, following earlier installments referenced in the text as "Master and Commander" and "The Midas Touch." The piece advances a contrarian reading of [[central-bank-digital-currency|central bank digital currencies]] (CBDCs): where much of conservative and alternative media treats CBDCs as the instrument of total financial control by a globalist [[cabal]], the article argues that they are instead a defensive reaction by that cabal to technologies and geopolitical shifts it does not control, and ultimately a tool in [[donald-trump|Donald Trump]]'s plan to return the world to honest, gold-backed money.
@@ -64,3 +63,7 @@ He treats the state-level bans on CBDCs and congressional opposition not as setb
 ## Conclusion
 
 Lange calls the overall plan to free the world from what he terms the Rothschilds-controlled debt system "brilliant." The fiat system is being bankrupted; the BRICS have built a replacement; most countries have repatriated gold and are buying more to back their currencies; and nearly a hundred countries are developing CBDCs. Blockchain, he concludes, will allow a much faster transformation from a fiat system into an honest money system while forcing governments and banks into honest, easily audited bookkeeping on a decentralized ledger. The article ends on the note that this represents "financial freedom for the first time in our lives," followed by the standard Badlands Media disclaimer that contributors' articles represent the opinions of their authors, and a pointer to more of Lange's work on his own Substack.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

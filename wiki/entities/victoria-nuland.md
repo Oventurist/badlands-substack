@@ -27,4 +27,4 @@ Nuland's tenure at NATO is linked in the article to the broader [[nato]] enlarge
 
 ## Sources
 
-All claims in this entry derive from the Badlands Media article *A Bright Red Line* (raw/a-bright-red-line.md), published May 3, 2024.
+[Original article](https://badlands.substack.com/p/a-bright-red-line)

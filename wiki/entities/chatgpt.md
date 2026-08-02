@@ -7,7 +7,6 @@ tags: [ai, tech, info-war, llm]
 sources: [raw/ai-can-help-us-expose-the-nwo.md]
 confidence: medium
 ---
-
 # ChatGPT
 
 ChatGPT is the conversational large language model produced by [[openai|OpenAI]]. Within the Badlands Media corpus it is best known as the instrument of the experiment described in [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], the January 2024 essay by [[justin-deschamps|Justin Deschamps]].
@@ -17,3 +16,7 @@ In that piece the model is fed passages from [[toronto-protocols|the Toronto Pro
 When the author reframed the exercise as research for a sci-fi dystopian film script, he reports that the model produced clearer and more detailed output, inventing a fictional name for the cabal — the Global Harmony Consortium — and elaborating a multi-layered campaign incorporating [[esg|ESG]] scoring, the [[great-reset|Great Reset]], [[critical-race-theory|Critical Race Theory]], [[queer-theory|Queer Theory]], the climate change narrative and the multigenerational ideological subversion model of [[yuri-bezmenov|Yuri Bezmenov]]. Even in its final synthesis, the article notes, the model continued to label the scenario "highly speculative."
 
 The essay also situates ChatGPT within a broader argument about [[artificial-intelligence|AI]]: that large language models cannot inhabit a world of pure fiction, because all falsehood is woven with threads of truth, and that engineers who might wish to bend a model toward an agenda still "can't ignore reality itself."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)

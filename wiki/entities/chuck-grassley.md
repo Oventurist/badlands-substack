@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # Chuck Grassley
 
 Chuck Grassley is a Republican United States Senator from Iowa and chairman of the [[senate-judiciary-committee|Senate Judiciary Committee]]. The Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] casts him as the eventual custodian of congressional evidence gathered by [[bob-goodlatte|Bob Goodlatte]] and [[trey-gowdy|Trey Gowdy]], and as a central figure in what the author expects to be a public prosecution and declassification phase.
@@ -24,3 +23,7 @@ The article enumerates the Senate Judiciary Committee's powers as overseeing the
 ## Predictions
 
 The essay predicts that Grassley will be placed "on center stage in the coming months" to expose treason at the highest levels, and asserts that he is "sitting on all the evidence of treason" from the Goodlatte and Gowdy investigations — evidence the author connects to the [[clinton-foundation|Clinton Foundation]], [[huma-abedin|Huma Abedin]], [[doug-band|Doug Band]] and [[teneo|Teneo]]. It further predicts a legislative role for Grassley in transforming the federal government during Trump's second term. These are the author's forecasts, not established facts.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-2)

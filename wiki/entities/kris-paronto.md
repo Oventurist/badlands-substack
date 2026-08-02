@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # Kris Paronto
 
 Kris Paronto is a former U.S. Army Special Forces officer who served as a CIA security contractor during the 2012 Benghazi attack. In the Badlands Media corpus, he is cited as a primary witness to the stand-down orders issued during the assault on the U.S. consulate in Benghazi, and as a figure who defied those orders to participate in the rescue effort.
@@ -37,3 +36,7 @@ The article notes that Paronto and other CIA officials who fought in Benghazi te
 - [[john-brennan]]
 - [[hillary-clinton]]
 - [[barack-obama]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

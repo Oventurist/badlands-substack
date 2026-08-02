@@ -8,7 +8,6 @@ sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md]
 confidence: low
 contested: true
 ---
-
 # TikTok
 
 TikTok is a short-form video platform owned by ByteDance. In the Badlands Media corpus, it is identified as a primary vector for [[Chinese Communist Party]] information operations targeting Western youth.^[raw/a-communist-plot-to-take-over-america.md]
@@ -22,3 +21,10 @@ The article links TikTok's algorithmic practices to broader [[artificial intelli
 ## Proposed American ownership
 
 The Badlands Media essay [[a-new-hollywood|A New Hollywood]] (February 2025) reports that [[donald-trump|Trump]], at the same time he rolled out [[project-stargate|Project Stargate]], suggested that either [[elon-musk|Elon Musk]] or [[larry-ellison|Larry Ellison]] buy TikTok.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a communist plot to take over america](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)

@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: false
 ---
-
 # Prophet Muhammad
 
 Muhammad, the founder of Islam, appears in the Badlands Media essay [[arabian-nights]] as the grandson of [[hashim-ibn-abd-manaf|Hashim]] and the figure who, in the article's words, "would forever change the world."
@@ -30,3 +29,7 @@ Muhammad's forces defeated the Banu Bakr, the Christian clan from which the [[ho
 Muhammad died without dictating a line of succession. Most of his followers supported his companion [[abu-bakr]], inaugurating the [[rashidun-caliphate]]. His designation of Ali as his "brother, guardian and successor," and his use of the ambiguous term *Mawla*, became the root of the division between [[shia-islam|Shia]] and [[sunni-islam|Sunni]] Islam. The Quran, the source notes, credits Jesus with at least six miracles while clarifying that Muhammad performed none.
 
 The essay's conclusion names Muhammad, along with Hashim and [[mohammed-bin-saud]], as one of the key Arabian figures it argues were men of honour and reason rather than ruthless ideologues.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # Doug Band
 
 Douglas Jay Band (born October 28, 1972) is an American businessman and lawyer, a founding partner and former president of [[teneo|Teneo]], and formerly Deputy Assistant and then counselor to President [[bill-clinton|Bill Clinton]]. The Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] by [[joe-lange|Joe Lange]] presents Band as Bill Clinton's counterpart to [[huma-abedin|Huma Abedin]]'s role with [[hillary-clinton|Hillary Clinton]], and as a co-architect of what the article calls a pay-for-play network.
@@ -32,3 +31,10 @@ Band appears in the photograph the essay identifies as Q drop 227, standing behi
 ## North Korea and the Chagoury connection
 
 [[america-for-sale-part-3|America for Sale — Part 3]] identifies Band in the photograph of the August 2009 [[north-korea|North Korea]] hostage negotiation posted without comment in Q drop #227, standing directly behind [[kim-jong-il|Kim Jong Il]]. At the time he was working for the [[clinton-foundation|Clinton Foundation]] and the [[clinton-global-initiative|Clinton Global Initiative]], which the article calls "a key data point" indicating the trip was a business mission rather than a humanitarian one. The essay also notes that [[gilbert-chagoury|Gilbert Chagoury]], who pledged $1 billion to CGI in 2009, attended Band's wedding, and that almost all CGI money passed through Band's hands.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Nelson W. Aldrich
 
 Nelson W. Aldrich served as a Republican Senator and is identified in the article as a central figure in the cabal's plan to establish a central bank. According to the source, after the Panic of 1907, Aldrich set up the National Monetary Commission to investigate a better economic system for the United States. The Commission concluded that the European model—which included the Central Bank of England—was superior, and its reports and recommendations became "one of the principal bases in the enactment of the Federal Reserve Act of 1913."
@@ -24,3 +23,7 @@ The source notes that Aldrich's daughter married a Rockefeller, framing this fam
 - [[Populist Party]] — the party that allegedly convinced Aldrich to transform the monetary system
 - Rockefeller family — connected to Aldrich through his daughter's marriage
 - [[1913]] — the year Aldrich's recommendations were enacted
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

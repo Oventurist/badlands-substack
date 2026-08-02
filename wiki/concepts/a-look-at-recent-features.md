@@ -8,7 +8,6 @@ sources: [raw/a-look-at-recent-features.md]
 confidence: high
 contested: false
 ---
-
 # A Look At Recent Features (August 15, 2025)
 
 "A Look At Recent Features," subtitled "Catch Up on the Latest from Badlands Contributors!", is an edition of the [[badlands-news-brief|Badlands News Brief]] published on August 15, 2025 by [[badlands-media|Badlands Media]] on its Substack. The post recorded 51 likes at the time of archiving. Like other roundup editions of the brief, it contains no original reporting; instead it collects and re-presents recent long-form feature articles by Badlands contributors while the editorial team was away at GART. A separate roundup carrying the same title was published on November 7, 2025 and is catalogued at [[a-look-at-recent-features-84d|A Look At Recent Features (November 7, 2025)]].
@@ -40,3 +39,7 @@ The edition highlights seven features published between July 19 and August 12, 2
 ## Editorial notes
 
 The brief closes with the outlet's standard disclaimer that "the opinions expressed in the Badlands News Brief are those of the authors and do not necessarily reflect the attitudes or positions of Badlands Media," an appeal to "share far and wide" and to comment, and a solicitation for paid subscriptions to "help our collective of citizen journalists take back the narrative." It ends with the outlet's signature slogan, "We are the news now."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-look-at-recent-features)

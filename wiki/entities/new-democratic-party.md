@@ -8,7 +8,6 @@ sources: [raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
-
 # New Democratic Party
 
 The New Democratic Party (NDP) is a Canadian social-democratic political party. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the NDP appears both as an institutional descendant of a Depression-era Fabian project and as the party of [[bob-rae|Bob Rae]].
@@ -20,3 +19,7 @@ A footnote in the article states that the [[league-of-social-reconstruction|Leag
 ## Bob Rae
 
 The article notes that Bob Rae, the Rhodes Scholar who later managed [[chrystia-freeland|Chrystia Freeland]]'s entry into federal politics, served as the NDP Premier of Ontario from 1990 to 1995.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

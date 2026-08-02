@@ -8,7 +8,6 @@ sources: [raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md
 confidence: high
 contested: false
 ---
-
 # Badlands News Brief
 
 The Badlands News Brief is the recurring newsletter published by [[badlands-media|Badlands Media]] on Substack. It aggregates news items, commentary, and links to the outlet's long-form features, and is distributed free of charge with an optional paid subscription tier supporting the publication.
@@ -26,3 +25,10 @@ Because the Badlands team was attending the GART event that week, the November 7
 ## August 15, 2025 roundup
 
 A further roundup edition, [[a-look-at-recent-features|"A Look At Recent Features"]], appeared on August 15, 2025 with 51 likes, again published while the Badlands team was attending GART. It compiled seven features published between July 19 and August 12, 2025 by [[matthew-ehret|Matthew Ehret]], [[observing-consciousness|Observing Consciousness]], [[american-hypnotist|American Hypnotist]] and [[ryan-delarme|Ryan DeLarme]], and closed with the newsletter's standard disclaimer, subscription appeal and the slogan "We are the news now."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a look at recent features 84d](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+- [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)

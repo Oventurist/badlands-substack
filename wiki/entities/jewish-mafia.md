@@ -8,7 +8,6 @@ sources: [raw/a-journey-of-ever-changing-truths.md]
 confidence: medium
 contested: true
 ---
-
 # Jewish Mafia
 
 The "Jewish Mafia" is the term used in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] for the organized crime network the article places above the [[italian-mafia|Italian Mafia]] and below the [[cia|CIA]] in American organized crime.
@@ -24,3 +23,7 @@ The source names [[meyer-lansky|Meyer Lansky]] at the top, with [[mickey-cohen|M
 ## As scapegoat in turn
 
 The essay applies its own logic reflexively. Having observed the overrepresentation of Jews among studio heads, media CEOs, corporate executives, and figures in Washington — and having asked how a group constituting two percent of the American population could hold so much influence — Carlson says he spent a few months believing "that Jews ran the world, that Israel ran the world," before rejecting that conclusion. He proposes instead that Jews and Israel function as a scapegoat concealing a higher layer, the [[cabal|Cabal]] seated in the [[city-of-london|City of London]], which he describes as bound together by Satan worship rather than by any religion or ethnicity.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)

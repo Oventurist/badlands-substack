@@ -8,7 +8,6 @@ sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md]
 confidence: medium
 contested: true
 ---
-
 # Pentagon
 
 The Pentagon is the headquarters of the United States Department of Defense and, by metonymy, the department itself — the executive body responsible for the armed forces, the combatant commands and the deployment of military assets abroad.
@@ -24,3 +23,10 @@ The article's larger thesis extends this to the conduct of the wars generally. I
 ## Role in covert labor operations
 
 The Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]] (October 2025) by [[ryan-delarme|Ryan DeLarme]] describes the Department of Defense as playing an integral part in the U.S. labor-influence network. The article states that the DoD "provided cover via NATO-linked training programs that inculcated pro-Western ideologies in foreign labor leaders," and that it "used unions in Asia and Africa for 'hearts and minds' work in Vietnam-era operations." It notes the [[asian-american-free-labor-institute|Asian-American Free Labor Institute (AAFLI)]] "received DoD contracts" to counter communist unions in the Philippines and Indonesia. In the modern period, the article claims the DoD's [[africom|AFRICOM]], "under the guise of 'stability operations,'" coordinates with the Solidarity Center's labor programs in Africa's resource wars to pressure governments to favor U.S. mining contracts. It further states that data gathered by union organizers "feeds directly into CIA and DoD analyses."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)

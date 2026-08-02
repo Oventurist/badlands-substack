@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: false
 ---
-
 # Bedouin
 
 The Bedouin — *badawī* in Arabic, meaning "desert dweller" — are the nomadic tribes of the Arabian peninsula, the Levant, Africa, and modern Syria and Iraq. The Badlands Media essay [[arabian-nights]] devotes a substantial section to them, treating them as the cultural and military substrate of Arabian history.
@@ -34,3 +33,7 @@ High-born Saudi boys from the settled population have traditionally been sent on
 On dress, the source argues that the garments Westerners associate with the perceived misogyny of Islam were worn by desert dwellers for thousands of years before Islam, as protection against sun and wind-blown sand.
 
 The Bedouin appear throughout the essay's narrative: [[qusayy-ibn-kilab]] united nomadic clans to retake the [[kaaba]], forming the [[quraysh]]; [[hashim-ibn-abd-manaf|Hashim]] organised them into bi-annual merchant caravans; and [[mohammed-bin-saud]] won their loyalty through his own competence as a desert traveller.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

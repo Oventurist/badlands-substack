@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Robert F. Kennedy Jr.
 
 **Robert F. Kennedy Jr.** is an American environmental attorney, author, and political figure who ran as an independent candidate in the **2024** U.S. presidential election. In the Badlands Media article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023), Kennedy is cited as a target of the **Trusted News Initiative's** electoral interference, illustrating the TNI's role as a gatekeeper during moments of electoral jeopardy.
@@ -30,3 +29,7 @@ Within the Badlands corpus, Kennedy is positioned as a victim of the quadrennial
 - [[5th-generation-warfare]]
 - [[russell-brand]]
 - [[online-safety-bill]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

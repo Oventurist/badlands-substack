@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
-
 # Are We Entering the Millennial Reign?
 
 "Are We Entering the Millennial Reign? — Eschaton or Coincidence?" is a [[badlands-media|Badlands Media]] feature published on July 24, 2023 by the pseudonymous contributor [[patriots-in-progress|Patriots in Progress]] ("PiP"), whose byline elsewhere carries the sign-off "Shadilay, Pepes!" The piece advances an extended speculative hypothesis that the events described in the [[book-of-revelation|book of Revelation]] are unfolding in the present day, and that [[bitcoin]] — rather than being merely "magic internet money" — may be a material manifestation of biblical prophecy. It closes with a customary editorial disclaimer that Badlands Media articles represent the opinions of their contributing authors.
@@ -80,3 +79,7 @@ In the establishing of the Millennial Reign, an angel descends with a key and a 
 ## Conclusion
 
 The article closes by hoping readers will ask questions they would otherwise never have asked, dig where they would never have dug, and love where they would never have loved, while reiterating that these matters are inconsequential to salvation. In a joking aside, the author notes he could have written more but suspects [[burning-bright|Burning Bright]] would fire him "or at the very least suggest an untimely and happenstance meeting with his wolf," to which an editor's note replies: "this is correct. PiP has been warned." It ends: "Let's bring Christ and Bitcoin to the world! Hodl the line, relinquish nothing, advance when possible! God Bless, Patriots!"
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

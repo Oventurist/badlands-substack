@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: high
 contested: true
 ---
-
 # USPS Board of Governors
 
 The Board of Governors of the [[united-states-postal-service|United States Postal Service]] is the nine-member body, appointed by the President, that oversees the agency and selects the Postmaster General. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] treats the board's history between 2014 and 2020 as a key piece of evidence that President [[donald-trump|Donald Trump]] deliberately took control of the Postal Service.
@@ -24,3 +23,7 @@ Trump's nominees were confirmed by voice vote in the Senate, restoring a quorum 
 ## Significance in the article
 
 The Washington Post is quoted describing how Trump reshaped the "once-obscure" Postal Service Board of Governors in three years into a "behind-the-scenes powerhouse" setting his priorities in motion, possibly for years to come, and noting that the traditionally nonpartisan board now sat at the centre of a major controversy over election integrity. Lange draws from this the conclusion that Trump was fixated on the Post Office from the start of his administration because the institution could be used both to protect elections — via the agency's blockchain voting patent — and to transform the banking system through [[postal-savings-system|postal banking]] and [[fedaccounts|FedAccounts]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

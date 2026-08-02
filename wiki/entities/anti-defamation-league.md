@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-glaring-double-stan
 confidence: medium
 contested: true
 ---
-
 # Anti-Defamation League
 
 The **Anti-Defamation League (ADL)** is identified in the Badlands Media corpus as a key participant in the coordinated censorship offensive that the source frames as recurring every four years during Western election cycles. The Badlands article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023) specifically highlights the ADL's campaign against **Elon Musk** as an example of the organization's shift from watchdog to what the source calls an "attack-dog" role in defense of the censorship regime.
@@ -37,3 +36,10 @@ In the Badlands Media article "A Glaring Double Standard" (June 19, 2025), [[rya
 - [[rumble]]
 - [[ofcom]]
 - [[russell-brand]]
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [5gw counter offensive the censorship](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)

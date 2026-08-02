@@ -7,7 +7,6 @@ tags: [intelligence, cia-director, congressional-testimony, media-manipulation]
 sources: [raw/america-has-a-cia-run-economy.md]
 confidence: high
 ---
-
 # William Colby
 
 William Colby was Director of the [[cia|Central Intelligence Agency]] during the mid-1970s and the agency official whose sworn testimony is credited in the Badlands corpus with exposing Operation Mockingbird.
@@ -23,3 +22,7 @@ Colby's disclosure is treated in the corpus as the moment the agency's influence
 - [[church-committee]]
 - [[operation-mockingbird]]
 - [[america-has-a-cia-run-economy]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)

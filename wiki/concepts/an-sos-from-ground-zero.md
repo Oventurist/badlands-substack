@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md]
 confidence: medium
 contested: true
 ---
-
 # An SOS From Ground Zero
 
 "An SOS From Ground Zero," subtitled "Maricopa County Hangs in the Balance," is an opinion article published by [[badlands-media|Badlands Media]] on November 22, 2022 and written by the Arizona-based contributor [[kitty-gillespie|Kitty Gillespie]]. Written two weeks after the November 8, 2022 general election and days before the statutory deadline for county canvasses, the piece argues that Arizona's election system is "appallingly broken" and calls on readers to "SAVE. OUR. STATE." The article combines a personal appreciation of Arizona, a critique of state officials, a statistical argument about down-ballot vote totals, and a detailed summary of a letter sent by an assistant attorney general to [[maricopa-county|Maricopa County]] questioning its administration of the election.
@@ -68,3 +67,7 @@ To answer "Who is Jennifer Wright?", the article quotes a [[talking-points-memo|
 ## Conclusion
 
 The article closes by quoting a November 21 message from Kari Lake to "the People of Arizona & the United States": "Attorneys are working diligently to gather information. Whistleblowers are coming forward, and the curtain is being lifted. Whether done accidentally or intentionally, it is clear that this election was a debacle that destroyed any trust in our elections … I will continue fighting until we restore confidence and faith in our elections." The author affirms, "I believe you, Kari. And I'm with you," urges readers to follow independent outlets such as Badlands Media through Thanksgiving week, and signs off with an image from the [[babylon-bee|Babylon Bee]], recently restored to Twitter. A standard disclaimer notes that Badlands Media articles represent the opinions of contributing authors rather than the outlet itself.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/an-sos-from-ground-zero)

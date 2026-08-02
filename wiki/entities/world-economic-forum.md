@@ -8,7 +8,6 @@ sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, 
 confidence: medium
 contested: true
 ---
-
 # World Economic Forum
 
 The World Economic Forum (WEF) is the Davos-based international organization that convenes political leaders, corporate executives, and technocrats. Across the Badlands Media corpus it is treated as a principal institutional vehicle of globalist governance rather than as a neutral convening body.
@@ -30,3 +29,12 @@ The same excerpt asserts that these figures share "common axioms" with [[ted-kac
 ## In the Global Harmony Consortium scenario
 
 In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], the WEF is one of the NGOs and initiatives [[justin-deschamps|Justin Deschamps]] instructed [[chatgpt|ChatGPT]] to fold into its fictional cabal, the Global Harmony Consortium, alongside the [[world-health-organization|World Health Organization]], [[united-nations|the United Nations]] and the [[esg|ESG]] system. A follow-up prompt added [[klaus-schwab|Klaus Schwab]]'s [[great-reset|Great Reset]] as a further instrument of the scenario's strategy.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a look at recent features 84d](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)

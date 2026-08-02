@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # House Select Committee on Benghazi
 
 The House Select Committee on Benghazi was a select committee of the U.S. House of Representatives established in 2014 to investigate the 2012 attack on the U.S. consulate in [[benghazi|Benghazi]], Libya. Chaired by Representative [[trey-gowdy|Trey Gowdy]], the committee conducted a comprehensive investigation that resulted in a final report documenting the events of the attack and the Obama administration's response.
@@ -29,3 +28,7 @@ The article cites specific findings from the report, including:
 According to the article, the committee's report also revealed that a "Libyan militia, made up of ex-Gaddafi soldiers," rescued the Americans trapped at the CIA annex, not the U.S. military. The source claims that the report documented that Ambassador [[christopher-stevens|Christopher Stevens]] had been "sacrificed" and "purposely placed in a consulate that had no security," and that the Obama administration's failure to act was a deliberate choice, not incompetence.
 
 The article asserts that the committee's work was delayed and repeatedly obstructed by House Democrats and the Obama administration, but that Gowdy and his Republican committee members managed to piece together volumes of facts that exposed the administration's lies and cover-up.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

@@ -8,7 +8,6 @@ sources: [raw/are-jack-smith-and-fani-willis-in.md]
 confidence: high
 contested: false
 ---
-
 # Legal Standing
 
 Standing is the procedural doctrine determining whether a court may hear a case at all, and it occupies a central place in Badlands Media's argument that allegations of fraud in the [[2020-united-states-presidential-election|2020 presidential election]] have never been adjudicated on their merits. The September 2023 essay [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]] devotes two sections to explaining the concept for a lay readership.
@@ -24,3 +23,7 @@ Bringing a cause also requires the proper venue. The article divides jurisdictio
 ## Application to the election cases
 
 The essay's operative point is that if these elements are absent, a case never reaches the trial or hearing stage: standing must be established before evidence and testimony can be heard, and without standing a court cannot rule on the evidence. On this basis the author argues that the widespread claim that "there's no evidence because the courts threw out the cases" is illiterate, comparing such commentators to someone narrating a chess tournament blindfolded. Of 55 cases filed after the 2020 election, the article says, 50 were dismissed on standing, leaving their evidence unexamined. By contrast, the prosecutions brought by [[jack-smith|Jack Smith]] and [[fani-willis|Fani Willis]] are proceeding, giving [[donald-trump|Donald Trump]] the defendant's discovery powers that standing dismissals had previously denied to plaintiffs.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

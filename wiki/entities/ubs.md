@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # UBS
 
 UBS AG is Switzerland's largest bank, headquartered in Zurich. It appears in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as the central example of a corporation that, in the author's reading, purchased favorable treatment from [[hillary-clinton|Hillary Clinton]]'s [[state-department|State Department]] through payments to the Clintons and the [[clinton-foundation|Clinton Foundation]].
@@ -26,3 +25,7 @@ In February 2009 the Internal Revenue Service sued UBS, demanding it disclose th
 *Politico* reported that [[paul-keary|Paul Keary]] won UBS's business for the founders of [[teneo|Teneo]], and that a former employee said Teneo helped arrange a series of events beginning in May 2011 called "Revitalizing America," at which UBS executive Bob McCann appeared on stage with Bill Clinton and [[george-w-bush|George W. Bush]]. McClatchy reported that Clinton received $1.5 million for his participation.
 
 The Badlands article reads this sequence — criminal exposure, the hiring of Keary, high-fee speaking events, and a surge in Foundation donations — as evidence that UBS bought protection. It then asks why the [[barack-obama|Obama]] [[department-of-justice|Justice Department]] nonetheless imposed a $780 million penalty, using the question as a bridge to the [[doj-slush-fund|DOJ settlement slush fund]] allegations.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-2)

@@ -8,7 +8,6 @@ sources: [raw/a-look-at-recent-features.md]
 confidence: medium
 contested: false
 ---
-
 # Observing Consciousness
 
 Observing Consciousness is the pen name of a writer who contributes long-form features to [[badlands-media|Badlands Media]] through its Substack. The identity behind the byline is not disclosed in the corpus; the name appears as a Substack profile credited on individual feature articles.
@@ -27,3 +26,7 @@ The series title indicates a framing in which human perception and cognition are
 
 - [[badlands-media]]
 - [[a-look-at-recent-features]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-look-at-recent-features)

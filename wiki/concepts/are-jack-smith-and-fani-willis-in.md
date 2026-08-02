@@ -8,7 +8,6 @@ sources: [raw/are-jack-smith-and-fani-willis-in.md]
 confidence: medium
 contested: true
 ---
-
 # Are Jack Smith and Fani Willis in on the Plan?
 
 "Are Jack Smith and Fani Willis in on the Plan? The Consequences of the Indictment of Donald Trump" is an opinion essay published by [[badlands-media|Badlands Media]] on September 20, 2023 and written by the pseudonymous contributor [[american-hypnotist|American Hypnotist]]. The piece argues that the 2023 criminal indictments of [[donald-trump|Donald Trump]] brought by Special Counsel [[jack-smith|Jack Smith]] and Fulton County District Attorney [[fani-willis|Fani Willis]] are so legally weak that they may, intentionally or otherwise, hand Trump the courtroom platform he needs to place evidence of fraud in the [[2020-united-states-presidential-election|2020 presidential election]] onto the public record. The article carries Badlands Media's standard disclaimer that contributions represent the opinions of their authors.
@@ -50,3 +49,7 @@ Beyond the legal dimension, the article claims the indictments shift the optics 
 The final section revisits the author's earlier essay on the 1996 film [[white-squall|White Squall]], which he interprets as a narrative metaphor for the journey of Trump, [[q|Q]], and anons since Q first appeared in October 2017. The article emphasizes that the last scene of the film places the ship's captain, Skipper, on trial "for doing the best he can with his ship and crew while facing enormous, destructive natural forces," and argues the correspondences with Trump's court cases are too numerous to be coincidence. Most importantly, Skipper is redeemed by his surviving crew, who stand by him at trial; in the same manner, the author writes, "loyal Anons are stepping into their role as the New News ('you are the news now' – Q)," shaping the informational landscape so that Trump receives a fair hearing. The essay adds the aside that in highly politicized proceedings, "what happens in a courtroom is often downstream from what happens in the court of public opinion."
 
 The piece closes by noting the irony that Trump and his co-defendants stand accused of a massive conspiracy — "Perhaps they are …" — and signs off with the slogan [[wwg1wga|WWG1WGA]]. A closing note directs readers to the author's own Substack, American Hypnotist.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
-
 # Ron Brown
 
 Ronald H. Brown (1941–1996) was United States Secretary of Commerce under [[bill-clinton|Bill Clinton]] and a former chairman of the [[democratic-national-committee|Democratic National Committee]]. He died in an Air Force plane crash near Dubrovnik, Croatia on April 3, 1996, along with thirty-four others accompanying him on a trade mission.
@@ -30,3 +29,7 @@ At the time of his death Brown was under subpoena in Judicial Watch's suit again
 ### Circumstances of death
 
 The source characterizes the crash as suspicious, noting the plane's "suspicious navigational failures" and questioning why a Commerce Secretary was flying into what was then a war zone. It reports that pathologists at the [[armed-forces-institute-of-pathology|Armed Forces Institute of Pathology]] observed "a perfectly round .45 inch inwardly beveling hole" in the top of Brown's head. Lt. Col. [[steve-cogswell|Steve Cogswell]] publicly questioned the official finding of blunt-force trauma, and Lt. Col. [[david-hause|David Hause]] corroborated that the wound "looked like a punched-out .45-caliber entrance hole." Original head x-rays reportedly showing metal fragments went missing, and AFIP imposed gag orders. The article concludes that Brown "knew too much" and "became expendable," comparing his fate to that of Ambassador [[christopher-stevens|Christopher Stevens]] in [[benghazi|Benghazi]] — "same playbook."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-1)

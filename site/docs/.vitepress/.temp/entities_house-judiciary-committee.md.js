@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"House Judiciary Committee","description":"","frontmatter":{"title":"House Judiciary Committee","created":"2026-08-02T00:00:00.000Z","updated":"2026-08-02T00:00:00.000Z","type":"entity","tags":["us-government","congress","oversight","investigations"],"sources":["raw/america-for-sale-part-2.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/house-judiciary-committee.md","filePath":"entities/house-judiciary-committee.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/house-judiciary-committee.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="house-judiciary-committee" tabindex="-1">House Judiciary Committee <a class="header-anchor" href="#house-judiciary-committee" aria-label="Permalink to &quot;House Judiciary Committee&quot;">​</a></h1><p>The United States House Committee on the Judiciary is the standing committee of the House of Representatives with jurisdiction over the administration of justice, federal courts and law enforcement agencies. In the Badlands Media essay <a href="/concepts/america-for-sale-part-2">America for Sale — Part 2</a>, the committee under chairman <a href="/entities/bob-goodlatte">Bob Goodlatte</a> is credited with uncovering the <a href="/entities/barack-obama">Obama</a>-era <a href="/concepts/doj-slush-fund">DOJ settlement slush fund</a>.</p><p><em>Forbes</em> reported that Goodlatte told fellow lawmakers internal <a href="/entities/department-of-justice">Justice Department</a> documents confirmed the existence of the fund and that officials had gone out of their way to exclude conservative groups. The disclosure came ahead of a House vote on a bill barring government officials from entering into or enforcing settlement agreements that provide payments or loans to any party other than the United States. Goodlatte said the legislation arose from an extended committee investigation that found a pattern of the DOJ subverting Congress&#39;s budget authority by funneling settlement money to &quot;left-wing activist groups.&quot;</p><p>Hot Air reported that the committee&#39;s investigation found approximately $1 billion directed to outside organizations over two years, and that in January the committee had requested the DOJ preserve all documents, including emails, related to the settlement money. Goodlatte characterized the emails he released as a &quot;smoking gun.&quot;</p><p>The article states that after Goodlatte and <a href="/entities/trey-gowdy">Trey Gowdy</a> completed their House investigations into Obama administration conduct, they transferred their evidence to <a href="/entities/chuck-grassley">Chuck Grassley</a> and the <a href="/entities/senate-judiciary-committee">Senate Judiciary Committee</a>, and that both congressmen were briefed on classified intelligence by <a href="/entities/ezra-cohen-watnick">Ezra Cohen Watnick</a> before resigning from <a href="/entities/congress">Congress</a>.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/america-for-sale-part-2" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/house-judiciary-committee.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const houseJudiciaryCommittee = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  houseJudiciaryCommittee as default
+};

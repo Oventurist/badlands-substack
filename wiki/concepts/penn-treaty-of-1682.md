@@ -8,7 +8,6 @@ sources: [raw/a-new-american-renaissance.md]
 confidence: medium
 contested: false
 ---
-
 # Penn Treaty of 1682
 
 The Penn Treaty of 1682 was the agreement between [[william-penn|William Penn]] and the Delaware natives of Pennsylvania, commemorated in a 1771 painting by [[benjamin-west|Benjamin West]] and examined at length in the Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]].
@@ -28,3 +27,7 @@ Article 4, singled out as the most important, provided that neither side should 
 ## Interpretation
 
 [[matthew-ehret|Matthew Ehret]] reads Article 4 in particular as a deliberate defense against intelligence operations — he specifies [[jesuits|Jesuitical]] ones — that used slander and gossip to inflame hostilities between colonists and native peoples. The agreement to verify before reacting emotionally to provocation, he writes, "makes all the difference." The treaty's underlying ethic is identified with the [[peace-of-westphalia|Peace of Westphalia]] of 1648, concluded just forty years earlier, and its Principle of the Benefit of the Other: the Christian idea, enshrined in international law after the Thirty Years' War, that each nation's self-interest is wholly premised on its neighbor's welfare and on the forgiveness of past transgressions.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-new-american-renaissance)

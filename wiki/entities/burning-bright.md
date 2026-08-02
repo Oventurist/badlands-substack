@@ -8,7 +8,6 @@ sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.m
 confidence: medium
 contested: false
 ---
-
 # Burning Bright
 
 Burning Bright is the pen name of a writer and contributor to [[badlands-media|Badlands Media]] who also publishes an independent Substack newsletter of the same name. According to the author's own description, the Burning Bright newsletter focuses on "Narrative Deployments and Macro Concepts in Fifth-Generation Warfare," and its content is offered free to readers.
@@ -24,3 +23,10 @@ The author's writing is characterized by a [[5th-generation-warfare|fifth-genera
 ## Editorial role
 
 The July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] by [[patriots-in-progress|Patriots in Progress]] closes with a joking reference to Burning Bright in an editorial capacity: the author notes that had he made the piece any longer, "Burning Bright would fire me, or at the very least suggest an untimely and happenstance meeting with his wolf." An appended editor's note replies: "this is correct. PiP has been warned."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

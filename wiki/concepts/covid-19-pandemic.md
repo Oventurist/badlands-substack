@@ -8,7 +8,6 @@ sources: [raw/a-virus-or-a-metaphor.md, raw/americas-greatest-threat.md, raw/ant
 confidence: medium
 contested: true
 ---
-
 # COVID-19 Pandemic
 
 The COVID-19 pandemic — referred to in the Badlands Media corpus as the "Covid Plandemic" — is treated less as a public health event than as a narrative operation. In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] argues that the significance of the episode lay in what the response accomplished politically rather than in the pathogen itself.
@@ -42,3 +41,11 @@ Carlson's sharper charge is that the government "brainwashed Americans into doin
 The 2022 Badlands column [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] frames the pandemic response as a manufactured hysteria organised around case counts. [[j-b-white|J.B. White]], who calls the episode the Scamdemic, writes that he could never understand why Americans should be alarmed by claims of "cases" that were not "confirmed incidents verified by any known reliable testing method," and set his own standard as "Deaths, not cases," declining to credit hysteria "amplified by a remarkably coordinated range of organizations, corporations, and governments."
 
 The column reproduces a September 16, 2020 tweet by user Daniel Levitt summarising eight dissenting claims: that lockdowns increase deaths; that Sweden was right; that Neil Ferguson was wrong; that masks are ineffective; that 95% are asymptomatic; that up to 80% may be immune; that transmission stops at roughly 20% antibodies; and that more cases do not equal more deaths. White records that the tweet had 136 replies, 2,053 retweets and 4,085 likes when he archived it on September 17, and that both the tweet and Levitt's account were subsequently erased.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
+- [anthony fauci](https://badlands.substack.com/p/anthony-fauci)

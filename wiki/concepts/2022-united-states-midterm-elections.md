@@ -8,7 +8,6 @@ sources: [raw/all-assets-deployed.md, raw/an-sos-from-ground-zero.md, raw/arizon
 confidence: medium
 contested: true
 ---
-
 # 2022 United States Midterm Elections
 
 The 2022 United States midterm elections, held on November 8, 2022, determined control of both chambers of [[congress|Congress]] during the second year of the administration of [[joe-biden|Joe Biden]]. Widely forecast in advance as a "Red Wave" that would deliver sweeping Republican gains, the results fell substantially short of those expectations, producing a narrow Republican House majority and leaving the Senate in Democratic hands.
@@ -36,3 +35,11 @@ Gillespie also advances an undervote argument: statewide unofficial returns as o
 Arizona produced the most sustained post-election litigation of the 2022 cycle. Secretary of State [[katie-hobbs|Katie Hobbs]] certified the state's general election on December 5, 2022, giving candidates five days to contest the results. On December 9, [[kari-lake|Kari Lake]] filed a 70-page election contest alleging that illegal votes far exceeded the 17,117-vote margin in the governor's race, and [[mark-finchem|Mark Finchem]] and [[jeff-zink|Jeff Zink]] filed a separate suit naming Hobbs, [[adrian-fontes|Adrian Fontes]], and [[ruben-gallego|Ruben Gallego]].
 
 The attorney general race between [[abe-hamadeh|Abe Hamadeh]] and [[kris-mayes|Kris Mayes]] was the closest statewide contest in Arizona history, with Mayes ahead by 511 votes out of roughly 2.5 million at certification — inside the 0.5-point threshold that triggers an automatic recount under state law. Recounts in that race, the state superintendent race, and a state House race began on December 7. [[blake-masters|Blake Masters]], the Trump-endorsed Senate candidate, filed no contest, an omission the Badlands article [[arizona-earthquake|"Arizona Earthquake!"]] treats as noteworthy.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)

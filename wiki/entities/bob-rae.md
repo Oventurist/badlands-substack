@@ -8,7 +8,6 @@ sources: [raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
-
 # Bob Rae
 
 Bob Rae is a Canadian politician who served as the [[new-democratic-party|New Democratic Party]] Premier of Ontario from 1990 to 1995 before later joining the Liberal Party of Canada. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is described as a Rhodes Scholar who acted as gatekeeper for [[chrystia-freeland|Chrystia Freeland]]'s entry into federal politics.
@@ -20,3 +19,7 @@ Bob Rae is a Canadian politician who served as the [[new-democratic-party|New De
 ## Ontario Hydro and Maurice Strong
 
 A footnote adds that as Premier of Ontario, Rae brought in [[maurice-strong|Maurice Strong]] as President of Ontario Hydro from 1992 to 1994, "during which time Canada's nuclear sector was nearly shut down and a prototype for a 'green New Deal' was applied."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

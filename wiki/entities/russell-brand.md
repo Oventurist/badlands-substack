@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Russell Brand
 
 **Russell Brand** is a British comedian, actor, activist, and podcast host who emerged as a prominent target of the censorship offensive identified in the Badlands Media article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023). The article places Brand at the center of the UK's coordinated de-platforming effort following the passage of the **Online Safety Bill** and the surfacing of sexual abuse allegations against him in **September 2023**.
@@ -41,3 +40,7 @@ Within the Badlands corpus, Brand is framed as an "effective communicator" targe
 - [[rishi-sunak]]
 - [[ofcom]]
 - [[rumble]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

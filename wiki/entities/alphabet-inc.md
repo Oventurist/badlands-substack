@@ -8,7 +8,6 @@ sources: [raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # Alphabet Inc.
 
 Alphabet Inc. is the holding company of Google, the dominant American search and advertising firm. In the Badlands corpus it is one of the five companies said to dominate the [[sp-500|S&P 500]] and a central example of the claim that the [[cia|Central Intelligence Agency]] responded to the loss of media control by capturing the internet's gatekeepers.
@@ -26,3 +25,7 @@ As a specific claim, Carlson asserts that Google Earth "is an old CIA satellite 
 ## Trump-era realignment
 
 Google is named among the companies that donated one million dollars to [[donald-trump]]'s inaugural fund, alongside [[microsoft]], [[meta-platforms|Meta]], [[amazon]], [[apple-inc|Apple]], and [[openai]]. The essay counts Google among the firms without which it is "hard to imagine an America," and therefore among those the author expects to survive any reckoning with the [[deep-state|Deep State]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)

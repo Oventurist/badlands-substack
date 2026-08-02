@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
-
 # The Beast
 
 The Beast is the figure introduced in Revelation 13 and, in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], is interpreted less as an individual than as a system. Patriots in Progress writes that regardless of its exact makeup, or whether it can be identified with a single face, the Beast symbolizes "a system of power and control, aligned with Satan, that positions itself as God and demands His worship." Put more bluntly: "the Beast thinks it's large and in charge."
@@ -24,3 +23,7 @@ For the present era to qualify as [[great-tribulation|the Tribulation]], the aut
 ## Old Testament antecedents
 
 The article cites Daniel 7:19–27, 9:24–27 and 11:31–45, in which a beast and oppressive ruler gathers forces, defiles the sanctuary, replaces sacrifices with abomination, corrupts many by flattery, exalts himself, speaks blasphemies, worships a foreign god and conquers nations, prospering until the appointed time of wrath, when the Ancient of Days passes judgment and grants the everlasting kingdom to the saints. It also cites Ezekiel 28:1–19, addressed to the prince of Tyre, who exalted himself as a god despite being a mere man and was destroyed for his pride, wealth, violence, sin and corruption.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

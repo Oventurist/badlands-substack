@@ -8,7 +8,6 @@ sources: [raw/a-cancer-on-modern-journalism.md]
 confidence: medium
 contested: true
 ---
-
 # A Cancer on Modern Journalism
 
 *[[a-cancer-on-modern-journalism|A Cancer on Modern Journalism]]* is a November 29, 2023 Badlands Media article by Ryan DeLarme that frames the practices of left-leaning media watchdog organizations — particularly [[Media Matters]] — as a central pillar of a Western censorship regime that emerged as a direct result of both the Brexit vote and the rise of [[Donald Trump]]. The article's subtitle is "The Deceitful and Manipulative Practices of Media 'Watchdogs.'"
@@ -69,3 +68,7 @@ The article concludes that Media Matters and similar organizations are "symptoms
 ## References
 
 - Badlands Media, "A Cancer on Modern Journalism," `raw/a-cancer-on-modern-journalism.md`
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-cancer-on-modern-journalism)

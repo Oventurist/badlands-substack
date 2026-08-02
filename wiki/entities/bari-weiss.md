@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # Bari Weiss
 
 Bari Weiss is an American journalist and former opinion editor at *The New York Times*, who became a prominent public advocate against "cancel culture" and for freedom of expression after resigning from the paper. In the Badlands Media corpus she is identified as one of a group of self-proclaimed "free speech" champions on the right whose commitment to free expression the source argues was conditional.
@@ -28,3 +27,7 @@ The author of the article, [[ryan-delarme|Ryan DeLarme]], states he agrees with 
 ## Alleged inconsistency after October 7
 
 The article's central charge is that Weiss's free speech advocacy was conditional. In its conclusion, it argues that conservative figures such as [[ben-shapiro|Ben Shapiro]], Weiss, and Dave Rubin — "who once decried 'safe spaces' and cancel culture, but now cheer or tacitly support the silencing of Israel critics" — revealed "that their commitment to free speech was always conditional, tethered to tribal loyalties rather than principle."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

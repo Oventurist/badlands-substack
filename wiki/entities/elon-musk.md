@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, r
 confidence: medium
 contested: true
 ---
-
 # Elon Musk
 
 **Elon Musk** is a technology entrepreneur and the owner of **X (formerly Twitter)** as of 2023. In the Badlands Media corpus, Musk is framed as a central figure in the 5th Generation Warfare (5GW) censorship conflict, whose acquisition of Twitter triggered a coordinated counter-offensive by what the source calls the "censorship regime." The article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023) places Musk and X alongside **Rumble** as "the frontlines of this information war."
@@ -53,3 +52,13 @@ Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] n
 ## Population collapse
 
 The July 2023 Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] cites Musk as a prominent voice raising the alarm about population collapse. [[patriots-in-progress|Patriots in Progress]] introduces Musk's data on declining birth rates as corroboration for his argument that the cumulative demographic damage of abortion, disease, sterilization, infertility, war and the [[covid-19-vaccines|Covid vaccine]] campaign may amount to the mortality described in Revelation's fourth seal and sixth trumpet - the death of one quarter and one third of humanity.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [5gw counter offensive the censorship](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
+- [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

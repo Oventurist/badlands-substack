@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
-
 # Richard Nixon
 
 Richard Nixon was the 37th President of the United States, whose administration in the early 1970s severed the dollar's convertibility into gold and presided over the arrangements that gave rise to the [[petrodollar|Petrodollar]] system.
@@ -20,3 +19,7 @@ The Badlands Media essay [[a-week-to-remember|A Week to Remember]] recounts an e
 The essay claims this created a dilemma, "as you can't just create gold out of thin air like you can fiat money," and that the U.S. government responded by passing an amendment making it illegal to pay foreign entities in gold. The author states this measure "stood for 50 years, and was quietly repealed, ironically, a couple of years ago, when the [[brics|BRICS]] nations started talking about creating their own gold-backed currency."
 
 The same period, the article notes, produced the Petrodollar agreement establishing that oil could be sold only in U.S. dollars — a transition the essay identifies as the point at which the United States "transitioned into becoming a true economic juggernaut." Nixon thus appears in the corpus as the president under whom the modern fiat and dollar-hegemony arrangements were locked into place.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-week-to-remember)

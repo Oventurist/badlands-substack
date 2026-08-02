@@ -8,7 +8,6 @@ sources: [raw/a-new-american-renaissance.md]
 confidence: medium
 contested: true
 ---
-
 # A New American Renaissance
 
 "A New American Renaissance: On Benjamin West, Incubator and Coordinator" is an essay published on Badlands Media on December 26, 2025 by [[matthew-ehret|Matthew Ehret]]. Written as a chapter-length study, it argues that the Pennsylvania-born painter [[benjamin-west|Benjamin West]] — president of the [[royal-academy-of-arts|English Royal Academy of Fine Arts]] and court painter to [[king-george-iii|King George III]] — operated as a deliberate republican agent of cultural renaissance inside the heart of the British Empire, embedding subversive philosophical messages in his history paintings and training a generation of American artists. The article credits the Canadian-born historian [[pierre-beaudry|Pierre Beaudry]] with the pioneering research that made the chapter possible, stating that without Beaudry's studies "Benjamin West's story would still be hidden to this very day."
@@ -62,3 +61,7 @@ The final work discussed is West's 1816 *Benjamin Franklin Drawing Electricity f
 The essay closes by tracing a scientific lineage from Franklin's discoveries to [[samuel-morse|Samuel F. B. Morse]]'s electrical communications, developed with the circle around the Humboldt brothers including Carl F. Gauss, Wilhelm Weber and Ampère, and to Joseph Henry and Franklin's descendant Alexander Dallas Bache in what it calls the Göttingen-Philadelphia complex of genius. The author argues this tradition must be revived to overcome "absurd paradoxes" of modern physics such as black holes, dark matter and multiverses. A closing note lists American painters trained by West in England: Charles Willson Peale (1741–1827), Rembrandt Peale (1778–1860), Gilbert Charles Stuart (1755–1828), John Trumbull (1756–1843) and Copley. An endnote records that Morse later exposed Jesuit operations in America in his 1841 *Foreign Conspiracy Against the Liberties of the United States*, describing Prince Metternich's Holy Alliance deploying "hundreds of Jesuits and priests... who have a complete military organization through the United States." The article also invokes James Fenimore Cooper as a later novelist who pursued the same theme of European–Native reconciliation, holding that only when America treats Native peoples as "sacred partners in a common mission" will it "acquire the real moral fitness to survive."
 
 The piece carries the standard notice that Badlands Media articles represent the opinions of contributing authors.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-new-american-renaissance)

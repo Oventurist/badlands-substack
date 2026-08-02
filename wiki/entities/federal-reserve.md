@@ -8,7 +8,6 @@ sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-s
 confidence: medium
 contested: true
 ---
-
 # Federal Reserve
 
 The Federal Reserve, formally the Federal Reserve System, is the central banking system of the United States. According to the article, it was created by the Federal Reserve Act of 1913 and signed into law by President Woodrow Wilson on December 23, 1913. The source characterizes the Federal Reserve as a "privately owned bank" that became "the most powerful organization in the US" following its creation.
@@ -67,3 +66,15 @@ The essay ties the Fed's creation to the ratification of the [[sixteenth-amendme
 ## Role in the CBDC debate (2023)
 
 Joe Lange's June 2023 article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] restates the claim that [[donald-trump|Donald Trump]] retains control of the Federal Reserve and the [[treasury-department|Treasury]] through [[devolution]] and [[continuity-of-government|Continuity of Government]] arrangements, and refers to an earlier article on rolling the Fed into the Treasury. On that reading, the Fed's work toward a [[central-bank-digital-currency|central bank digital currency]] is not a [[cabal]] initiative but a Trump-directed one, seeded by [[jared-kushner]]'s private 2019 advocacy for a Fed-issued digital dollar. The article also credits the Fed with building [[fednow]], a peer-to-peer instant payment platform open to every financial service in the country, which it distinguishes from a digital currency while treating it as part of the same plan. Finally, it predicts a deliberate court fight between the Fed and the states over both the definition of money and the constitutionality of the central bank, aimed at forcing the [[supreme-court-of-the-united-states|Supreme Court]] to reconsider the [[federal-reserve-act|Federal Reserve Act of 1913]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [1913](https://badlands.substack.com/p/1913)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

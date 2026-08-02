@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # Executive Order 14188
 
 Executive Order 14188, titled "Additional Measures to Combat Anti-Semitism," was signed by President [[donald-trump|Donald Trump]] on January 29, 2025. In the Badlands Media article "A Glaring Double Standard," the order is characterized as expanding federal measures against antisemitism in ways that threaten speech critical of Israel.
@@ -20,3 +19,7 @@ The article states the executive order "expands measures to address antisemitism
 ## Criticism
 
 [[ryan-delarme|Ryan DeLarme]], the article's author, frames Executive Order 14188, alongside the [[antisemitism-awareness-act|Antisemitism Awareness Act]], as an example of the "interagency blob" exploiting conservative weakness to advance censorship frameworks "that threaten to criminalize dissent under vague definitions of 'hate speech.'" He contrasts the order's targeting of speech by non-citizens with the inaction he claims followed inflammatory statements about Palestinians by figures such as Florida State Senator Randy Fine.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

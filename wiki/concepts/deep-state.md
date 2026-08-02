@@ -8,7 +8,6 @@ sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-feature
 confidence: medium
 contested: true
 ---
-
 # Deep State
 
 The "Deep State" is the term used across the Badlands Media corpus for an unelected network said to direct government policy from behind formal institutions. In the essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]], [[erik-carlson|Erik Carlson]] gives the term a specific geographic apex.
@@ -61,3 +60,18 @@ The article is notable within the corpus for its explicitly pragmatic conclusion
 ## Miscalculation in the Trump prosecutions
 
 [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] (September 2023) argues that "the last thing the Deep State wants is for viable evidence of election fraud to make it onto a court record," and that the indictments of [[donald-trump|Donald Trump]] make exactly that outcome likely. Had no charges been filed, the essay reasons, the establishment could have continued to discredit Trump through its media mouthpieces indefinitely. The author offers three readings — that its operatives "just can't help themselves," that they loathe the idea of Trump being a free man, or that the prosecutions are themselves "part of the plan" — while declining to choose between them.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [a startling contradiction at the](https://badlands.substack.com/p/a-startling-contradiction-at-the)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

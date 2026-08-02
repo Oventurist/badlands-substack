@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Maricopa County Tabulation and Election Center","description":"","frontmatter":{"title":"Maricopa County Tabulation and Election Center","created":"2026-08-02T00:00:00.000Z","updated":"2026-08-02T00:00:00.000Z","type":"entity","tags":["institution","arizona","maricopa-county","elections","tabulation"],"sources":["raw/an-sos-from-ground-zero.md"],"confidence":"medium","contested":false},"headers":[],"relativePath":"entities/maricopa-county-tabulation-and-election-center.md","filePath":"entities/maricopa-county-tabulation-and-election-center.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/maricopa-county-tabulation-and-election-center.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="maricopa-county-tabulation-and-election-center" tabindex="-1">Maricopa County Tabulation and Election Center <a class="header-anchor" href="#maricopa-county-tabulation-and-election-center" aria-label="Permalink to &quot;Maricopa County Tabulation and Election Center&quot;">​</a></h1><p>The Maricopa County Tabulation and Election Center, commonly abbreviated MCTEC, is the central facility in Phoenix where <a href="/entities/maricopa-county">Maricopa County</a>, Arizona processes and tabulates ballots that are not counted at polling places, including early ballots and ballots deposited in auxiliary containers on election day.</p><h2 id="role-in-the-2022-election-dispute" tabindex="-1">Role in the 2022 election dispute <a class="header-anchor" href="#role-in-the-2022-election-dispute" aria-label="Permalink to &quot;Role in the 2022 election dispute&quot;">​</a></h2><p>When ballot-on-demand printer failures left tabulators at &quot;at least 60 voting locations&quot; unable to read ballots on November 8, 2022, affected voters were directed to deposit their ballots in the container known as <a href="/concepts/door-3-ballots">&quot;Door 3&quot;</a> for later transport to MCTEC and central-count tabulation. <a href="/entities/kitty-gillespie">Kitty Gillespie</a> recounts in <a href="/concepts/an-sos-from-ground-zero">An SOS From Ground Zero</a> that she and her husband were told to place their ballots in a container labeled &quot;BOX 3&quot; and were assured that these ballots would be accompanied to MCTEC by both a Republican and a Democrat — a bipartisan escort arrangement she found unpersuasive, remarking that there could well be &quot;RINOs or DINOs out there.&quot;</p><p>The chain of custody between polling places and MCTEC is central to the November 19, 2022 letter from Assistant Attorney General <a href="/entities/jennifer-wright">Jennifer Wright</a>, which alleged failures in &quot;segregating, counting, tabulating, tallying, and transporting&quot; the Door 3 ballots, including a sworn observer complaint that more than 1,700 non-tabulated ballots from one location were placed in black duffle bags intended for tabulated ballots.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/an-sos-from-ground-zero" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/maricopa-county-tabulation-and-election-center.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const maricopaCountyTabulationAndElectionCenter = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  maricopaCountyTabulationAndElectionCenter as default
+};

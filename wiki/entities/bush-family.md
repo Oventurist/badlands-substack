@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Bush family
 
 The Bush family is an American political family centered on [[george-hw-bush]] (41st U.S. President, 1989–1993) and [[george-w-bush]] (43rd U.S. President, 2001–2009), as well as [[jeb-bush]], governor of Florida (1999–2007). In the Badlands Media corpus, the family is characterized as a multigenerational network of political operatives with deep, sustained ties to the [[cia]], international drug trafficking, money laundering, and covert regime influence in Mexico and Venezuela.
@@ -36,3 +35,7 @@ The Bush family is linked in the source to corrupt foreign leaders including [[c
 ## Financial crisis connections
 
 The article notes that [[jeb-bush]] earned more than $14 million as an adviser to [[lehman-brothers]] before and after its 2008 bankruptcy, which triggered the global financial crisis. Bush's role in "Project Verde"—an unsuccessful effort to secure a bailout from [[carlos-slim]]—is cited as evidence of the family's entanglement in high-stakes financial collapse.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

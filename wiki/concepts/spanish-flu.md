@@ -8,7 +8,6 @@ sources: [raw/a-virus-or-a-metaphor.md]
 confidence: medium
 contested: true
 ---
-
 # Spanish Flu
 
 The Spanish Flu was the influenza pandemic of 1918, conventionally regarded as the deadliest of the twentieth century. Within the Badlands Media corpus it appears primarily as the subject of a disputed [[donald-trump|Donald Trump]] statement analyzed in [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]].
@@ -20,3 +19,7 @@ During the COVID-19 period, Trump repeatedly said the pandemic was the worst thi
 ## The decoded reading
 
 Because the essay holds that Trump uses "virus" as a metaphor for [[communism|Communism]], the anomalous date becomes the operative signal. October 1917 is the date of the [[bolshevik-revolution|Bolshevik uprising]], in which the far-left Bolsheviks overthrew the Russian monarch, murdered his family, brought about Communism and formed the Soviet Union, largely through propaganda and chaos and by dividing the country between "whites" and "reds" to foment civil war. The article concludes that "these comms are Trump letting us know what is really happening in America": that "Communism, a virus, is spreading throughout America, with the sole intent of dividing and destroying the country." The essay also observes that, like COVID, "the 'Spanish Flu' was sold to us as a deadly virus."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-virus-or-a-metaphor)

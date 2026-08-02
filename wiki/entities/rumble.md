@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Rumble
 
 **Rumble** is a video-sharing platform described in the Badlands Media corpus as the "premier free-speech platform advocating alternative YouTube." It is positioned as a central node in the parallel media infrastructure that emerged in response to the 2020–2021 platform purges, and as the primary target of the censorship regime during the 2023–2024 pre-election offensive. The source notes that Badlands Media itself depends on Rumble's infrastructure for content distribution.
@@ -41,3 +40,7 @@ Rumble is identified as a critical infrastructure component for the alternative 
 - [[anti-defamation-league]]
 - [[russell-brand]]
 - [[ofcom]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

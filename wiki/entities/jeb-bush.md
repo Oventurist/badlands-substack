@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Jeb Bush
 
 John Ellis Bush (born 1953), known as Jeb Bush, is an American politician who served as the 43rd governor of Florida from 1999 to 2007 and was a candidate for the Republican presidential nomination in 2016. In the Badlands Media article [[a-family-affair]], Jeb Bush is portrayed as a central node in a multigenerational network of CIA covert operations, drug trafficking, money laundering, and political corruption spanning Venezuela, Mexico, and Florida.
@@ -36,3 +35,7 @@ While Florida commerce secretary, Jeb Bush gave state contracts to former CIA of
 ## Lehman Brothers and the 2008 financial crisis
 
 According to [[fox-business]], Jeb Bush earned more than $14 million over approximately seven years as an adviser to [[lehman-brothers]], the investment bank whose 2008 collapse triggered the global financial crisis. In 2008, Bush led "Project Verde," an effort to convince Mexican billionaire [[carlos-slim]] to inject capital into the failing firm. Slim declined. The article notes that Slim and the salinas family were close associates, and that Slim had already lost money as Lehman's stock collapsed. After Lehman's bankruptcy, Bush continued as an adviser to [[barclays]], which acquired the firm.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

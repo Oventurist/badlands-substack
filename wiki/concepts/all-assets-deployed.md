@@ -8,7 +8,6 @@ sources: [raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
-
 # All Assets Deployed
 
 "All Assets Deployed," subtitled "Separating the MAGA Wheat from the Chaff," is an opinion essay published by [[badlands-media|Badlands Media]] on November 16, 2022 and written by the pseudonymous contributor [[burning-bright|Burning Bright]]. Recording 515 likes on the newsletter, the piece was composed in the immediate aftermath of [[donald-trump|Donald Trump]]'s announcement of his candidacy for the 2024 presidential election and responds to what the author describes as a demoralized mood within the [[maga|MAGA]] and [[america-first|America First]] community following the [[2022-united-states-midterm-elections|2022 midterm elections]].
@@ -61,3 +60,7 @@ The piece ends with the author's customary sign-off — "stay Positive, stay Bas
 
 - [[information-war]]
 - [[mainstream-media]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/all-assets-deployed)

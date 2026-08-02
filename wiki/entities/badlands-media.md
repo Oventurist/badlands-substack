@@ -8,7 +8,6 @@ sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-fea
 confidence: high
 contested: false
 ---
-
 # Badlands Media
 
 **Badlands Media** is an independent media collective and Substack newsletter that publishes articles, shows, and commentary from what it describes as a collective of citizen journalists. Its stated mission, repeated in the subscription appeal attached to its posts, is to "take back the narrative from the MSM," summarized by the movement slogan "We are the news now." Badlands states that it will always put out its content for free, while inviting readers to support the operation through paid subscriptions.
@@ -73,3 +72,26 @@ The outlet published [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fan
 ## Eschatological features
 
 Badlands Media's remit extends to explicitly religious and speculative commentary. The July 24, 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] by [[patriots-in-progress|Patriots in Progress]] argues that the prophecies of the [[book-of-revelation|book of Revelation]] may be unfolding in the present and that [[bitcoin]] may be their instrument. The piece carries the outlet's standard notice that "Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," together with its subscription appeal: "Badlands Media will always put out our content for free, but you can support us by becoming a paid subscriber... We are the news now."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [a look at recent features 84d](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+- [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
+- [a mysterious masterclass in multi](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [a startling contradiction at the](https://badlands.substack.com/p/a-startling-contradiction-at-the)
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
+- [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+- [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

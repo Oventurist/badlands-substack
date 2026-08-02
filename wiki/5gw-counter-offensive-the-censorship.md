@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # 5GW Counter-Offensive – The Censorship Regime and the Road to 2024
 
 ## Background
@@ -75,3 +74,7 @@ The source's conceptual framework holds that major Western elections trigger pre
 - [[bbc]]
 - [[robert-f-kennedy-jr]]
 - [[censorship-regime]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

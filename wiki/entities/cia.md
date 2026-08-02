@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.m
 confidence: medium
 contested: true
 ---
-
 # CIA
 
 The Central Intelligence Agency (CIA) is the United States government's foreign intelligence service. In the Badlands Media article "A Conflict of Interest," the CIA is framed as the operational arm of a "shadow government" that has deliberately created, funded, and manipulated terrorist organizations for decades, while simultaneously running large-scale operations to steal U.S. taxpayer money through military interventions.
@@ -51,3 +50,15 @@ The argument proceeds from the 1975 [[church-committee|Church Committee]] hearin
 The mechanism Carlson describes is the transfer of technology developed at [[darpa]] with taxpayer money into companies the CIA creates, assigning individuals "to be the faces of the companies." Specific claims include that much of Facebook's early funding came from CIA shell companies, that Facebook launched on February 4, 2004 -- the same day [[darpa-lifelog|LifeLog]] was cancelled -- that Google Earth is a repurposed CIA satellite, that one of [[amazon-web-services|Amazon Web Services]]' first major contracts was a $600 million CIA award in early 2013, and that [[washington-post|The Washington Post]], bought by [[jeff-bezos]] months later, was a CIA-run newspaper.
 
 The essay's conclusion is optimistic rather than despairing: Carlson expects that "CIA and Deep State Cabal strings will continue to be cut," and writes that if they have been, "I for one am going to take the win. Gladly."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)

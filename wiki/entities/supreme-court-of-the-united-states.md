@@ -8,7 +8,6 @@ sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw
 confidence: high
 contested: false
 ---
-
 # Supreme Court of the United States
 
 The Supreme Court of the United States is the highest federal court in the American judicial system and the ultimate interpreter of the Constitution and of federal law. In the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023), the Court appears as the source of binding case law used to establish the constitutional chain of authority.
@@ -26,3 +25,12 @@ The essay [[always-fight-back|"Always Fight Back"]] cites the Court's interventi
 ## Potential role in the Trump election cases
 
 In [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] the Court is presented as a possible backstop should the New York and Georgia courts mishandle the prosecutions of [[donald-trump|Donald Trump]]. The author writes that the cases may reach a just conclusion at trial level, "or, if they are mishandled, perhaps the Supreme Court may weigh in," and adds that if evidence of fraud in the [[2020-united-states-presidential-election|2020 election]] makes it before the Court, "that could open a massive can of worms for the Biden administration."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a startling contradiction at the](https://badlands.substack.com/p/a-startling-contradiction-at-the)
+- [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

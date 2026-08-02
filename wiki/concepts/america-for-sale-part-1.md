@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
-
 # America for Sale — Part 1
 
 "America for Sale - Part 1," subtitled "Betrayal and Treason," is a Badlands Media essay published on December 19, 2024 by [[joe-lange|Joe Lange]]. It advances the thesis that the sex scandal involving [[bill-clinton|Bill Clinton]] and White House intern [[monica-lewinsky|Monica Lewinsky]] functioned as a media shield that buried two far graver stories of the same period: the transfer of American missile and satellite technology to the People's Republic of China, and the quiet arrival in 1996 of a second intern — [[huma-abedin|Huma Abedin]] — whom the author presents as a [[muslim-brotherhood|Muslim Brotherhood]] placement inside the Clinton orbit.
@@ -66,3 +65,7 @@ Q drop #4750 (September 23, 2020) asks who "wields significant influence" over t
 The article frames the [[q-anon|Q operation]] as a response to this history: "Trump and the military needed an alternative media source to fight the narrative war against the CIA controlled media," with General Michael Flynn's call for "a digital army of truth tellers" credited with destroying mainstream media credibility — "We are the news now." It cites a Q claim that seven of every ten plane crashes are "targeted kills." The piece ends by previewing Part 2, promising deeper coverage of the links among Abedin, Hillary Clinton, Obama, and Jarrett, and quoting the Q markers "11.3 - PODESTA indicted" and "11.6 - HUMA indicted."
 
 A standing disclaimer notes that Badlands Media articles represent the opinions of contributing authors.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-1)

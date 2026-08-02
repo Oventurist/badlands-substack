@@ -7,7 +7,6 @@ tags: [constitution, founding, civil-liberties, law]
 sources: [raw/americas-greatest-threat.md]
 confidence: medium
 ---
-
 # United States Constitution
 
 The **United States Constitution** is the founding legal charter of the American republic. Within the Badlands Media corpus it is treated less as a procedural document than as a defensive instrument — a set of restraints written by the founders against the government they were creating.
@@ -27,3 +26,7 @@ A related claim concerns the structure of officeholding: the article argues that
 ## Erosion and restoration
 
 Carlson argues that the government has persuaded Americans "that the Constitution should be abolished, free speech is bad, and the right to bear arms makes one less safe," and that during the [[covid-19-pandemic|COVID-19 pandemic]] ordinary citizens concluded "that other Americans didn't deserve their Constitutional Rights." His prescription is correspondingly constitutional: nothing will change "until the Constitution is upheld and respected and is in authority over the American Government," until criminals are removed from power, and until government is reduced to a body that represents and works for the people.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/americas-greatest-threat)

@@ -10,7 +10,6 @@ sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
-
 # Valerie Jarrett
 
 Valerie Jarrett was a senior advisor to [[barack-obama|President Barack Obama]] throughout his administration. In the Badlands Media article "A Dereliction of Duty," Jarrett is identified as one of three Obama administration officials with a Muslim background, along with Obama himself and [[john-brennan|John Brennan]].
@@ -24,3 +23,10 @@ The article does not provide specific details about Jarrett's policy roles, but 
 ## "VJ_HA" in America for Sale - Part 1
 
 The December 2024 essay [[america-for-sale-part-1|America for Sale - Part 1]] reads the bracketed notation "[INFILTRATION not invasion][VJ _HA]" in Q drop #4750 (September 23, 2020) as standing for "Valerie Jarrett_[[huma-abedin|Huma Abedin]]." On this reading, Jarrett and Abedin were "both connected to [[prince-alwaleed|Alwaleed]]," with Jarrett serving as [[barack-obama|Obama]]'s "handler" and Abedin as [[hillary-clinton|Hillary Clinton]]'s — an arrangement the author calls "coordinated infiltration" and places within the [[muslim-brotherhood|Muslim Brotherhood]]'s [[civilization-stealth-jihad|civilization/stealth jihad]] strategy.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)

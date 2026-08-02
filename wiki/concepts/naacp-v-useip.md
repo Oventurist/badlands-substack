@@ -8,7 +8,6 @@ sources: [raw/always-fight-back.md]
 confidence: medium
 contested: true
 ---
-
 # NAACP v. USEIP
 
 *NAACP et al. v. USEIP et al.* was a federal civil action filed in the [[us-district-court-for-the-district-of-colorado|United States District Court for the District of Colorado]] on March 9, 2022 and tried in July 2024. It is the subject of the essay [[always-fight-back|"Always Fight Back"]] by [[ashe-in-america|Ashe in America]], one of the named defendants, who represented herself pro se.
@@ -28,3 +27,7 @@ The case proceeded through roughly two and a half years of motions practice. In 
 Trial commenced on July 15, 2024 and was scheduled to last five days, but the court terminated the plaintiffs' case after three, entering a Judgment Based on Partial Findings under Rule 52(c) of the Federal Rules of Civil Procedure. Judge Sweeney concluded that "in sum, plaintiffs have failed to introduce any evidence that can remotely be perceived as intimidating or threatening on behalf of the three defendants." The court entered judgment for the defendants and awarded them costs.
 
 The defense theory, as described in "Always Fight Back," was that questioning election outcomes and door-to-door canvassing are activities protected by the [[first-amendment|First Amendment]] and are not, without an objectively intimidating act, actionable as voter intimidation. The article traces the plaintiffs' contrary theory to a 2015 NYU Social Justice Law Review article, "Voters Strike Back: Litigating against Modern Voter Intimidation," which the plaintiffs' expert witness cited.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/always-fight-back)

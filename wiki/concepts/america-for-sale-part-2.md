@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # America for Sale — Part 2
 
 "America for Sale - Part 2," subtitled "The Foundation of Corruption," is a Badlands Media essay published on January 30, 2025 by [[joe-lange|Joe Lange]]. It is the sequel to [[america-for-sale-part-1|America for Sale — Part 1]] and argues that [[huma-abedin|Huma Abedin]] and [[doug-band|Doug Band]] — both former interns in the [[bill-clinton|Bill Clinton]] White House — became the twin hinges of a pay-for-play network linking the [[state-department|State Department]] under Secretary [[hillary-clinton|Hillary Clinton]], the [[clinton-foundation|Clinton Foundation]], and the consulting firm and investment bank [[teneo|Teneo]]. The article closes by connecting that network to a 2009 hostage mission to [[north-korea|North Korea]] and to Senator [[chuck-grassley|Chuck Grassley]]'s custody of congressional evidence of what the author calls treason.
@@ -84,3 +83,7 @@ The author then generalizes: hostages, he writes, have been "an enemy playbook s
 ## Reception and framing
 
 The piece carries Badlands Media's standard disclaimer that contributor articles represent the opinions of their authors. It recorded 317 likes on publication. Its claims about Teneo, Abedin's dual employment, the UBS settlement and the DOJ settlement practice rest on mainstream reporting, while the interpretive frame — Alwaleed's control of Western politicians, the sixteen-year plan, sealed indictments and a coming prosecution phase — derives from [[q-anon|Q]] and is contested.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-2)

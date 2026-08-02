@@ -8,7 +8,6 @@ sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # The Washington Post
 
 *The Washington Post* is a major American daily newspaper, owned by Jeff Bezos.
@@ -26,3 +25,10 @@ In the TikTok address quoted at length in the article, Lorenz observes that "eve
 Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] describes The Washington Post as a "CIA run newspaper" and highlights the timing of its sale. According to the essay, [[amazon-web-services|Amazon Web Services]] was awarded a $600 million contract with the [[cia]] in early 2013, and in August 2013 [[jeff-bezos]] purchased the Post for $250 million.
 
 The article also records that Bezos has since said the paper should be less biased and more trustworthy, and that he is "committed to cleaning up the bias and misinformation at WAPO" -- one of several signs Carlson reads as evidence that intelligence-community control over major American institutions is being loosened.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)

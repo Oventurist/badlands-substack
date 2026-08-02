@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Transitional National Council","description":"","frontmatter":{"title":"Transitional National Council","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["libya","rebel-government","cia"],"sources":["raw/a-conflict-of-interest.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/transitional-national-council.md","filePath":"entities/transitional-national-council.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/transitional-national-council.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="transitional-national-council" tabindex="-1">Transitional National Council <a class="header-anchor" href="#transitional-national-council" aria-label="Permalink to &quot;Transitional National Council&quot;">​</a></h1><p>The Transitional National Council (TNC) was the governing body of the anti-Gaddafi forces during the 2011 Libyan civil war, formed in Benghazi in February 2011 and recognized by many foreign governments as the legitimate representative of the Libyan people. In the Badlands Media article &quot;A Conflict of Interest,&quot; the TNC is framed as a vehicle for diverting U.S. taxpayer money to terrorist organizations.</p><p>According to the article, <a href="/entities/mouza-moustafa">Mouza Moustafa</a> worked closely with top officials within the TNC during the Libya intervention, serving as Political Director of the <a href="/entities/libyan-emergency-task-force">Libyan Emergency Task Force</a> and Executive Director of the Libyan Council of North America. The source claims that the TNC was staffed by individuals affiliated with the <a href="/entities/libyan-islamic-fighting-group">Libyan Islamic Fighting Group</a>, an <a href="/entities/al-qaeda">Al-Qaeda</a> affiliate.</p><p>The article asserts that <a href="/entities/john-mccain">John McCain</a> visited <a href="/concepts/benghazi">Benghazi</a> in April 2011 and publicly called on the United States and NATO to recognize the TNC as the legitimate government of Libya. The source claims that McCain&#39;s advocacy was designed to facilitate the flow of taxpayer money directly to these rebel groups, and that his position as ranking Republican on the Senate Foreign Relations Committee gave him the power to make this happen.</p><p>According to the article, the TNC&#39;s legitimacy was manufactured by U.S. politicians and media outlets that knowingly or unknowingly served the interests of the cabal. The source claims that the TNC was the same council that Moustafa had close ties to, and that recognizing it as the legitimate government was the mechanism by which taxpayer money was funneled to terrorist organizations. The piece notes that the TNC was later replaced by other governing bodies, but that the same networks remained in control.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-conflict-of-interest" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/transitional-national-council.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const transitionalNationalCouncil = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  transitionalNationalCouncil as default
+};

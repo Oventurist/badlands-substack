@@ -8,7 +8,6 @@ sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
 confidence: medium
 contested: true
 ---
-
 # A Gateway to a New World of Cooperation
 
 "A Gateway to a New World of Cooperation," subtitled "Analyzing a Major Week in Tianjin," is a Badlands Media article published on September 3, 2025 by [[matthew-ehret|Matthew Ehret]]. It interprets the Shanghai Cooperation Organisation summit held in Tianjin, China, on August 31 and September 1, 2025 as the visible emergence of an alternative security and financial architecture, and argues that the West should convene an emergency peace summit modelled on historical precedents rather than drift toward nuclear war.
@@ -48,3 +47,7 @@ Ehret observes the irony that Roosevelt's Four Freedoms are now being advanced b
 ## Authorship and framing
 
 The article carries the standard Badlands Media disclaimer that contributions represent the opinions of their authors. The author biography identifies Matthew Ehret as editor-in-chief of The Canadian Patriot Review, a Senior Fellow of the American University in Moscow, and director of the Rising Tide Foundation, as well as the author of the Untold History of Canada series, the Clash of the Two Americas series, the Revenge of the Mystery Cult trilogy, and Science Unshackled, and co-host of Breaking History on Badlands Media.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)

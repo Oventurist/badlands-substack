@@ -8,7 +8,6 @@ sources: [raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
-
 # Book of Revelation
 
 The book of Revelation is the final book of the Christian New Testament, an apocalyptic vision attributed to the apostle John. In the Badlands Media corpus it is the organizing text of the July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] by Patriots in Progress, which walks through its major sections in order and proposes that its prophecies may be unfolding in the present day.
@@ -26,3 +25,7 @@ Revelation was written by John, who also authored the Gospel of John and 1–3 J
 The article's walkthrough covers John's description of Christ's appearance at His second coming, with "eyes like a flame of fire"; Christ's letters to the seven churches, five of which (about 71%) are rebuked for turning from Christ, tolerating false teachings and prophets, immorality, spiritual deadness, lukewarmness and faith in worldly riches; the judgments of [[great-tribulation|the Tribulation]], delivered as 7 seals, 7 trumpets and 7 bowls — 21 judgments in total; the appearance of [[the-beast|the Beast]] and the [[mark-of-the-beast|Mark of the Beast]] in Revelation 13; the fall of [[babylon]]; and the binding of Satan and establishment of the [[millennial-reign|Millennial Reign]]. The article notes Revelation's three references to three-and-a-half-year periods (11:2–3, 12:6, 13:5), often combined with Daniel's seventieth week to yield a literal seven-year Tribulation.
 
 The author argues that biblical prophecy has historically unfolded in the manner of the [[q|Q drops]] — "future proves past" — and that believers should continually measure world events against the book's prophecies and warnings.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

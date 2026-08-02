@@ -12,7 +12,6 @@ sources: [raw/a-more-perfect-labor-union.md]
 confidence: medium
 contested: true
 ---
-
 # Solidarity Center
 
 The Solidarity Center is the international arm of the [[afl-cio|AFL-CIO]], established in 1997 as a channel for U.S. government influence over foreign labor movements. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], it is described as NED/CIA influence over labor unions — a geopolitical instrument whose staffers act as "conduits between American unions and their foreign counterparts while serving as the AFL-CIO's eyes and ears on the ground in other nations."
@@ -32,3 +31,7 @@ The article presents the Solidarity Center as a key actor in the 2014 Maidan upr
 ## Mechanisms of control
 
 The article describes two modern mechanisms: digital surveillance (union organizers integrated into a digital ecosystem monitoring labor unrest and dissent, reportedly feeding [[cia|CIA]] and [[pentagon|DoD]] analyses) and conditional funding (grant agreements requiring recipient unions to align with Washington's goals, with non-compliance risking funding cuts).
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-more-perfect-labor-union)

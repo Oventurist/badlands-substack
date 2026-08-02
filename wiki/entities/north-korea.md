@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # North Korea
 
 North Korea, formally the Democratic People's Republic of Korea, appears in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as the destination of a secret 2009 mission by former president [[bill-clinton|Bill Clinton]] that the author believes concealed a larger purpose.
@@ -30,3 +29,10 @@ Q drop 227 (November 24, 2017) consisted solely of a photograph, which [[joe-lan
 The essay then revisits Clinton's August 2009 trip to secure the release of two journalists held by [[kim-jong-il|Kim Jong Il]]. A memo published among [[john-podesta|John Podesta]]'s emails by [[wikileaks|WikiLeaks]] recorded Kim inviting Clinton to "return often, officially and unofficially" and to holiday in the DPRK — evidence, the author argues, that the hostages were a cover story for a deal, possibly involving uranium secured through the [[uranium-one|Uranium One]] network.
 
 As a state excluded from the international banking system, North Korea is also offered in the essay as an example of a "closed financial system" useful to the [[cia|CIA]] for laundering funds beyond congressional oversight.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

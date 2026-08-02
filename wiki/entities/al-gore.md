@@ -8,7 +8,6 @@ sources: [raw/a-re-alignment-of-world-systems.md, raw/always-fight-back.md]
 confidence: medium
 contested: true
 ---
-
 # Al Gore
 
 Al Gore is an American politician who served as Vice President of the United States from 1993 to 2001 and became a leading advocate of climate policy. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], Gore appears twice: as a participant in the Western management of post-Soviet liberalization, and as a personal ally of [[chrystia-freeland|Chrystia Freeland]].
@@ -24,3 +23,10 @@ The article lists Gore, alongside Larry Summers and [[george-soros|George Soros]
 ## The 2000 election
 
 The essay [[always-fight-back|"Always Fight Back"]] cites the 2000 presidential election as an instance of media error and legitimate electoral dispute. According to the article, mainstream broadcast media announced that Vice President Gore had won Florida when the state was still too close to call; recounts awarded Florida to [[george-w-bush|George W. Bush]], lawsuits followed, and the contest was resolved when the [[supreme-court-of-the-united-states|Supreme Court]] ruled to stop the Florida recount on equal-protection grounds. The article identifies the resulting Bush v. Gore controversy as the impetus for the [[help-america-vote-act|Help America Vote Act]] of 2002.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [always fight back](https://badlands.substack.com/p/always-fight-back)

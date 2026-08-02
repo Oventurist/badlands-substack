@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md]
 confidence: medium
 contested: true
 ---
-
 # Inter-Services Intelligence
 
 The Inter-Services Intelligence (ISI) is [[pakistan]]'s principal intelligence agency, described in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as "Pakistan's CIA." The article states that "it's an open secret that they are kept on a tight leash by the US, and that they run Pakistan."
@@ -20,3 +19,7 @@ The Inter-Services Intelligence (ISI) is [[pakistan]]'s principal intelligence a
 ## Historical function
 
 Referencing the earlier Badlands piece "Operation Cyclone: The Seeds of Terror," the article notes that in the 1980s, when the Reagan government was arming and funding the [[al-qaeda]] precursors fighting the Soviets, one function of the CIA-controlled ISI was to serve as a major clearinghouse for U.S. weapons, equipment and funds sent out to various CIA and [[department-of-defense|DoD]] conflict zones. That function, the article asserts, continues today.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)

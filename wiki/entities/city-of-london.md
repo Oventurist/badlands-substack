@@ -8,7 +8,6 @@ sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-
 confidence: medium
 contested: true
 ---
-
 # City of London
 
 The City of London is the one-square-mile financial district at the historic core of London, England. In the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]], [[erik-carlson|Erik Carlson]] identifies it as the seat of the [[cabal|Cabal]] and the true summit of global organized crime and political power — the terminal conclusion of the essay's layered "peeling the onion" method.
@@ -32,3 +31,10 @@ The article's account of current events casts the real conflict of the present e
 ## Canada and the oligarch diaspora
 
 The September 2025 essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] extends this account to Canada, which [[matthew-ehret|Matthew Ehret]] describes as "a chess piece within a much larger London-directed Great Game." The article argues that the Russian and Ukrainian oligarchs created by 1990s privatization — among them [[roman-abramovich|Roman Abramovich]], [[oleg-deripaska|Oleg Deripaska]] and [[mikhail-khodorkovsky|Mikhail Khodorkovsky]] — purchased homes in upmarket London districts nicknamed "Moscow on Thames," and that after [[vladimir-putin|Vladimir Putin]] began exiling them they "became disposable playthings of the British Empire." Ehret further contends that the twentieth-century plan to convert economic collapse into fascism depended on America being brought "firmly under control of the City of London and their Wall Street lackies."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

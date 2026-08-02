@@ -8,7 +8,6 @@ sources: [raw/all-assets-deployed.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # MAGA
 
 MAGA — an acronym for "Make America Great Again" — is the slogan and popular political base associated with [[donald-trump|Donald Trump]]. In the Badlands Media corpus it denotes both the electoral constituency and the wider online research and commentary community that has grown around it, and it is used alongside and often interchangeably with [[america-first|America First]].
@@ -28,3 +27,10 @@ The article diagnoses the movement's post-midterm mood as a product of "the expe
 Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] addresses MAGA scepticism about the sudden accommodation between Silicon Valley and [[donald-trump]] in January 2025. As big-tech chief executives "start to climb aboard the Trump Train and apologize for their past corruption and, one might say, treasonous behavior," Carlson writes, Americans are being asked to forgive them or at least move on, and it is "understandable that many within MAGA are less than trusting of these Deep State puppets who seem to be having their strings cut."
 
 His own counsel to the movement is pragmatic: he is "not asking anyone to forgive and forget," but "the cure can't be worse than the disease," and "the US economy can't collapse to bring down everyone who deserves to be tried for treason."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)

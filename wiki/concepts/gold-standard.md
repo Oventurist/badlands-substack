@@ -8,7 +8,6 @@ sources: [raw/1913.md, raw/a-seismic-shift.md, raw/are-cbdcs-the-path-to-fear-or
 confidence: medium
 contested: true
 ---
-
 # Gold Standard
 
 The gold standard is the monetary system in which a country's currency is backed by gold. According to the article, the United States operated under a gold standard from 1873 to 1933, beginning with the Coinage Act of 1873. The source claims that prior to 1913, the value of money was "astronomically more" than it is today, and few citizens had to worry about loans or debt.
@@ -41,3 +40,11 @@ In [[a-seismic-shift|A Seismic Shift]] (January 12, 2024), [[joe-lange|Joe Lange
 ## Gold backing and the digital dollar (2023)
 
 Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] links the return to gold directly to the design of digital money. It argues that a [[central-bank-digital-currency|CBDC]] is merely a digital [[fiat-currency|fiat]] dollar "unless it's backed by gold, which is required by the constitution," and that paper and digital money alike will be gold-backed and redeemable — meaning cash is not abolished. The article notes that most countries have repatriated their gold and are buying more to back their currencies, that the same countries are developing CBDCs, and that the [[brics]] bloc planned to present a gold- and commodity-backed currency at its August 2023 summit. It also points to the convertibility of yuan oil proceeds into gold on the [[shanghai-gold-exchange|Shanghai Gold Exchange]] as an early practical instance of the shift.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [1913](https://badlands.substack.com/p/1913)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

@@ -8,7 +8,6 @@ sources: [raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md]
 confidence: high
 contested: false
 ---
-
 # First Amendment
 
 The First Amendment to the United States Constitution guarantees, among other freedoms, the freedom of the press. In the Badlands Media corpus it supplies the normative standard against which the modern corporate press is judged and found wanting.
@@ -22,3 +21,10 @@ On this basis the article maintains that figures such as [[taylor-lorenz|Taylor 
 ## Election skepticism and canvassing
 
 The essay [[always-fight-back|"Always Fight Back"]] frames [[naacp-v-useip|NAACP et al. v. USEIP et al.]] as "an unprecedented attack on the First Amendment," arguing that the plaintiffs' theory conflated questioning an election and door-to-door canvassing with inherently intimidating conduct without establishing any objectively intimidating act. The article surveys American electoral disputes from 1800 through 2016 to argue that election skepticism has a long, well documented, and fully protected history, and cites the ACLU's published guidance for canvassers along with the case law protecting canvassing as evidence that both activities are squarely within First Amendment protection. Judge [[charlotte-sweeney|Charlotte Sweeney]]'s July 2024 judgment for the defendants is presented as a vindication of that view.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [always fight back](https://badlands.substack.com/p/always-fight-back)

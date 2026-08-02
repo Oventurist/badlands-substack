@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: false
 ---
-
 # José Francisco Ruiz Massieu
 
 José Francisco Ruiz Massieu was a Mexican politician who served as secretary general and second-ranking official of the [[institutional-revolutionary-party]] (PRI), Mexico's ruling party for much of the 20th century. He was assassinated in September 1994.
@@ -27,3 +26,7 @@ As secretary general of the PRI, Ruiz Massieu was one of the most powerful figur
 ## Aftermath
 
 The appointment of his brother [[mario-ruiz-massieu]] as special prosecutor to investigate the assassination is described in the article as a calculated move by Carlos Salinas to control the investigation. Mario's subsequent resignation and the evidence of altered witness statements are cited as proof of a cover-up.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

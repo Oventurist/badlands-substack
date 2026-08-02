@@ -8,7 +8,6 @@ sources: [raw/a-cancer-on-modern-journalism.md]
 confidence: medium
 contested: true
 ---
-
 # Media Matters
 
 Media Matters is described in the Badlands Media corpus as a left-leaning nonprofit and Democratic Party activist group that has functioned for decades as one of the most influential organizations in political media. The organization was founded by [[David Brock]], a former conservative operative who underwent a highly publicized political and ideological transformation during the Clinton era.
@@ -67,3 +66,7 @@ The article frames Media Matters and similar organizations as symptoms of "journ
 ## References
 
 - Badlands Media, "A Cancer on Modern Journalism," `raw/a-cancer-on-modern-journalism.md`
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-cancer-on-modern-journalism)

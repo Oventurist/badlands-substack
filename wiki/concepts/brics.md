@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.m
 confidence: medium
 contested: true
 ---
-
 # BRICS
 
 BRICS is the bloc of major non-Western economies — originally Brazil, Russia, India, China, and South Africa — that has increasingly coordinated on trade and monetary questions, including proposals to settle international transactions outside the U.S. dollar.
@@ -25,3 +24,10 @@ The article explains BRICS' motivation in terms of the [[petrodollar|Petrodollar
 ## BRICS+ and the drive for digital currency (2023)
 
 In [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]], Joe Lange identifies BRICS+ as the force accelerating the global rush toward [[central-bank-digital-currency|central bank digital currencies]]. He argues the bloc has already built a separate, parallel financial system independent of the U.S. dollar, transacting in member currencies. Quoting The Cradle, the article reports that [[saudi-arabia|Saudi Arabia]], the UAE, Algeria, Egypt, Bahrain, and Iran had formally applied to join ahead of the annual summit in South Africa, with nineteen nations in total expressing interest according to Anil Sooklal, South Africa's ambassador to the group. Bloomberg analysis cited in the same passage projects that by 2028 the G7 will account for 27.8 percent of the global economy against 35 percent for BRICS. Alexander Babakov, Deputy Chairman of Russia's State Duma, is quoted as revealing that BRICS was developing a "new currency" to be presented at the August summit, backed by gold and other commodities. [[china|China]] is credited with beginning the shift via the [[shanghai-petroleum-and-natural-gas-exchange|Shanghai Petroleum and Natural Gas Exchange]] and the [[shanghai-gold-exchange|Shanghai Gold Exchange]], and [[russia|Russia]] with leading the move to gold backing.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

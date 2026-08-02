@@ -8,7 +8,6 @@ sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/america-has-a-cia-ru
 confidence: medium
 contested: true
 ---
-
 # Operation Mockingbird
 
 "Operation Mockingbird" — usually shortened in the Badlands corpus to "the Mockingbird Media" or "Mockingbird programming" — refers to the alleged covert program by which intelligence services cultivated assets inside major news organizations in order to shape public opinion. Within the corpus the term functions less as a reference to a specific historical operation than as a general name for the mainstream press understood as a psychological-operations apparatus.
@@ -28,3 +27,10 @@ The essay's central argument is that this apparatus is visibly failing. Citing [
 Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] recounts that in 1975 it was discovered through the [[church-committee|Church Committee]] that the [[cia]] had manipulated and controlled the American media since 1960, and perhaps earlier. The congressional committee led by Senator Frank Church questioned CIA Director [[william-colby]] under oath, and Colby "revealed the existence of Operation Mockingbird -- how the CIA had assets working within different media companies."
 
 The essay treats Mockingbird as the precedent for a successor operation in the internet era, arguing that the agency, having lost control when the internet arrived, sought to create or capture the search engines and social media platforms that replaced legacy media as the gatekeepers of American information.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)

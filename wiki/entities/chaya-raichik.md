@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md, raw/a-swan-song-for-the-msm.md]
 confidence: medium
 contested: true
 ---
-
 # Chaya Raichik
 
 Chaya Raichik, known online by the handle **Libs of TikTok**, is an American conservative social media personality who runs the Libs of TikTok account, which reposts content by progressive activists. In the Badlands Media article "A Glaring Double Standard," she is described as "perhaps one of the most blatant of right-wing hypocrites."
@@ -24,3 +23,10 @@ The source argues that Raichik's position is hypocritical because she herself wa
 ## Reference in A Swan Song for the MSM
 
 [[a-swan-song-for-the-msm|A Swan Song for the MSM]] (February 2024) refers to Raichik indirectly through her account, [[libs-of-tiktok|Libs of TikTok]], recounting that [[taylor-lorenz|Taylor Lorenz]] "doxed the popular account Libs of TikTok, and then had the audacity to go on a media tour complaining about online harassment in its wake." The episode is cited as evidence of what the article calls the inability of corporate journalists to reflect on the hostility their own conduct provokes.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)

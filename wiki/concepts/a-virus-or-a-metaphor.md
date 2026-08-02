@@ -8,7 +8,6 @@ sources: [raw/a-virus-or-a-metaphor.md]
 confidence: medium
 contested: true
 ---
-
 # A Virus, or a Metaphor?
 
 "A Virus, or a Metaphor? Decoding Donald Trump's COVID Comms" is an opinion essay published by [[badlands-media|Badlands Media]] on July 17, 2023 and written by contributor [[erik-carlson|Erik Carlson]]. The piece advances the interpretive claim that [[donald-trump|Donald Trump]] speaks in deliberate double meanings, and that his repeated public references to the "virus" during the COVID-19 period functioned as coded communication about [[communism|Communism]] spreading inside the United States. The article carries the standard Badlands disclaimer that contributor features represent the opinions of their authors and not necessarily the views of Badlands Media itself.
@@ -58,3 +57,7 @@ Describing Communism as a system with a ruling elite and a working-class poor an
 The essay frames the reader's choice as binary: Trump either vacillates between genius and idiocy, or everything he says and does carries meaning and strategy; he is either controlled by the Deep State despite gaining nothing from the alleged relationship, or he is attacked precisely because he stands up to the system. Readers are invited to revisit past speeches and posts substituting "Communism" for "virus," noting that hidden meanings are easiest to spot when a statement is conspicuously random or strange and hardest to find in messages that appear straightforward.
 
 The article closes by qualifying its own target: Communism is "just a tool—a tool used by the Cabal to control. It's like an axe that is being swung by an axe-murderer." The real enemy, in the author's framing, is the Cabal wielding the axe, described as modern-day Nazis; fighting Communism therefore amounts to keeping the Cabal from getting its hands on the tool.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-virus-or-a-metaphor)

@@ -8,7 +8,6 @@ sources: [raw/a-startling-contradiction-at-the.md]
 confidence: medium
 contested: true
 ---
-
 # Rule of Law
 
 The rule of law is the principle that a society is governed by knowable, generally applicable rules rather than by arbitrary power. The [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023) devotes a section, headed "True Rule of Law," to arguing that the United States no longer satisfies this standard.
@@ -22,3 +21,7 @@ Measured against this standard, the article finds the contemporary American syst
 ## Proposed remedy
 
 The article calls for "a renaissance in civic awareness" as the means of restoring America and other nations. Rather than expecting individuals to master the system alone, it proposes that citizens collectively assemble a database of the legal system's "most blatant absurdities," making the present arrangement indefensible to any person of sound mind. The author illustrates the collective nature of the task with the image of passengers on a leaking boat locating and plugging the holes together. Public ignorance, the article contends, is the operating condition of the [[deep-state|Deep State]], and dispelling it is framed as ground-level work complementing political action attributed to [[donald-trump|Donald Trump]] and the [[q-anon|Q]] team.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-startling-contradiction-at-the)

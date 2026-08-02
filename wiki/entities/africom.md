@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md]
 confidence: medium
 contested: false
 ---
-
 # AFRICOM
 
 AFRICOM (United States Africa Command) is a regional Unified Combatant Command of the U.S. Department of Defense responsible for military operations in Africa. In the Badlands Media corpus, it is cited for learning of the 2012 Benghazi attack within 30 minutes and preparing to respond, but never receiving the order to deploy forces.
@@ -40,3 +39,10 @@ The Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) U
 - [[cia]]
 - state department
 - [[trey-gowdy]]
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)

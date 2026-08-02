@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md
 confidence: medium
 contested: true
 ---
-
 # Bill Clinton
 
 Bill Clinton was the 42nd President of the United States, serving from 1993 to 2001. In the Badlands Media article "A Dereliction of Duty," Clinton is portrayed as a key figure in what the source describes as a decades-long pattern of protecting [[osama-bin-laden|Osama Bin Laden]] and other terrorist operatives for political and geopolitical reasons.
@@ -51,3 +50,13 @@ The essay also revisits [[pardongate|Pardongate]], the 140 pardons and 36 commut
 In August 2009 Clinton travelled to North Korea with [[doug-band|Doug Band]] and [[john-podesta|John Podesta]] to secure the release of two American journalists held by [[kim-jong-il|Kim Jong Il]]. A memo later published among Podesta's emails by [[wikileaks|WikiLeaks]] recorded Kim asking "that President Clinton return often, officially and unofficially," and Clinton expressing a wish to visit a seaside location depicted in a guest-house painting. The article treats the hostages as a cover story for a commercial deal.
 
 Finally, the essay credits Clinton with originating the [[uranium-one|Uranium One]] transaction: in September 2005 he flew aboard [[frank-giustra|Frank Giustra]]'s private jet to Almaty, [[kazakhstan|Kazakhstan]], endorsed president Nursultan Nazarbayev's bid to lead an international election monitoring body, and within days Giustra's [[urasia-energy|UrAsia Energy]] obtained stakes in three Kazatomprom uranium mines. Giustra subsequently donated $31.3 million to the [[clinton-foundation|Clinton Foundation]]. Clinton was later paid $500,000 for a Moscow speech by a Russian investment bank promoting Uranium One stock.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Abdullah Omar Naseef","description":"","frontmatter":{"title":"Abdullah Omar Naseef","created":"2026-08-02T00:00:00.000Z","updated":"2026-08-02T00:00:00.000Z","type":"entity","tags":["person","saudi-arabia","muslim-brotherhood","al-qaeda-financing"],"sources":["raw/america-for-sale-part-1.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/abdullah-omar-naseef.md","filePath":"entities/abdullah-omar-naseef.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/abdullah-omar-naseef.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="abdullah-omar-naseef" tabindex="-1">Abdullah Omar Naseef <a class="header-anchor" href="#abdullah-omar-naseef" aria-label="Permalink to &quot;Abdullah Omar Naseef&quot;">​</a></h1><p>Abdullah Omar Naseef is a Saudi academic and official whom the Badlands corpus describes as a wealthy financier of Al Qaeda and a central figure in the <a href="/entities/muslim-brotherhood">Muslim Brotherhood</a>&#39;s global network.</p><h2 id="in-the-badlands-corpus" tabindex="-1">In the Badlands corpus <a class="header-anchor" href="#in-the-badlands-corpus" aria-label="Permalink to &quot;In the Badlands corpus&quot;">​</a></h2><p><a href="/concepts/america-for-sale-part-1">America for Sale - Part 1</a>, quoting Global Muslim Brotherhood Watch, notes that Naseef held numerous positions in Saudi Arabia, including Vice-President of the Shura Council, President of King Abdul Aziz University, and — most significantly — Secretary-General of the <a href="/entities/muslim-world-league">Muslim World League</a> from 1983 to 1993. He was also described as an officer of the International Islamic Council for Dawa and Relief and President of the Muslim World Congress, and is said to have long-standing ties to the Muslim Brotherhood in the fields of media and charity.</p><p>The article, drawing on Andrew C. McCarthy&#39;s PJMedia reporting, presents Naseef as the patron of the <a href="/entities/huma-abedin">Abedin</a> family: he &quot;established and recruited Abedin&#39;s parents to run&quot; the <a href="/entities/institute-of-muslim-minority-affairs">Institute of Muslim Minority Affairs</a>, which publishes the <em><a href="/entities/journal-of-muslim-minority-affairs">Journal of Muslim Minority Affairs</a></em>. He remained involved with the journal for decades, being removed from its masthead in 2003 &quot;right around the time he was named as a defendant in the civil suit brought by victims of the 9/11 atrocities.&quot; The article also notes that Naseef partnered with Wael Jalaidan to establish the Rabita Trust, a formally designated terrorist organization. Beyond terror financing, the article states, Naseef &quot;lavishly underwrote efforts to indoctrinate young Muslims at educational institutions,&quot; making him a key figure in the alleged strategy of infiltrating Western governments through universities.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/abdullah-omar-naseef.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const abdullahOmarNaseef = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  abdullahOmarNaseef as default
+};

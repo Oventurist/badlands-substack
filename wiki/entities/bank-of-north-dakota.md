@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: high
 contested: false
 ---
-
 # Bank of North Dakota
 
 The Bank of North Dakota (BND) is a state-owned bank headquartered in Bismarck, North Dakota, which opened its doors on July 28, 1919. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] presents it as the only publicly owned bank in the continental United States and as the surviving American proof that a public banking option works.
@@ -30,3 +29,7 @@ Lange highlights two ongoing benefits. The bank returns a portion of its profits
 The bank's record has inspired a public banking movement elsewhere. California has pursued a public bank since 2018 with mixed success, and efforts have been made in nearly two dozen other states; in one recent year New York, New Mexico, New Hampshire and Massachusetts introduced bills to create or explore public banks, none of which passed. Advocates cited in the article include Ellen Brown of the Public Banking Institute, who argues that public banking keeps funds in local economies rather than fuelling Wall Street speculation.
 
 The article treats the BND as a state-level analogue to the national [[postal-savings-system|Postal Savings System]] and to the proposed FedAccounts, and as an American echo of the public banking safeguards established in Costa Rica by José "Pepe" Figueres.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

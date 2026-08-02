@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Texas Commerce Bank
 
 Texas Commerce Bank was a Houston-based bank that emerged from the 1964 merger of the National Bank of Commerce and [[texas-national-bank]]. In the Badlands Media article [[a-family-affair]], it is characterized as a CIA-controlled financial institution from its inception, later used for drug money laundering by the salinas family and the [[gulf-cartel]].
@@ -32,3 +31,7 @@ According to *The Guardian* and U.S. grand jury testimony, [[mario-ruiz-massieu]
 ## Acquisition and legacy
 
 Texas Commerce Bank was bought by Chemical Bank in 1987 and is now part of jpmorgan chase. The article frames this lineage as evidence that the Bush family's CIA banking network was absorbed into the modern financial system rather than dismantled.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

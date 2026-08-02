@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Enron
 
 Enron Corporation was an American energy, commodities, and services company based in Houston, Texas, that filed for bankruptcy in December 2001 after a massive accounting fraud scandal. In the Badlands Media article [[a-family-affair]], Enron is identified as a CIA-connected business whose founder, [[kenneth-lay]], served on the board of [[texas-commerce-bank]].
@@ -27,3 +26,7 @@ The article frames Enron as part of the broader Houston financial network center
 ## Legacy
 
 The Enron scandal exposed massive accounting fraud and led to the conviction of several top executives, though Kenneth Lay's conviction was vacated after his death in 2006. In the Badlands corpus, Enron is framed not merely as a case of corporate fraud but as part of a CIA-linked financial infrastructure that operated with impunity for decades.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

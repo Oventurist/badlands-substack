@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # Qatar
 
 Qatar is a sovereign country in the Middle East. In the Badlands Media article "A Conflict of Interest," Qatar is identified as one of the biggest funding sources for [[al-qaeda|Al-Qaeda]] and as a key transit point in the pipeline for transporting fighters and money to terrorist organizations.
@@ -27,3 +26,10 @@ The source notes that as a result of the blockade, Belhaj was placed on a terror
 [[america-for-sale-part-2|America for Sale — Part 2]] cites *Nonprofit Quarterly* reporting that the Qatar 2022 Supreme Committee — the body established to build stadiums and other facilities for Qatar's hosting of the 2022 World Cup — gave between $250,000 and $500,000 as a [[clinton-global-initiative|Clinton Global Initiative]] sponsor in 2013, and that the government of Qatar has given the [[clinton-foundation|Clinton Foundation]] between $1 million and $5 million. The same report suggests the Supreme Committee was not acting as an independent voluntary organization, since the Qatari government was spending heavily to secure the [[fifa|FIFA]] World Cup nod.
 
 [[joe-lange|Joe Lange]] observes that Qatar received the bid and the Clinton Foundation received the money, while much of FIFA's leadership was later arrested on U.S. corruption charges without the Clintons' role being examined.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)

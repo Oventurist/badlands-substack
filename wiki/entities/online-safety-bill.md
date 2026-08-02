@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Online Safety Bill
 
 The **Online Safety Bill (OSB)** is United Kingdom legislation passed by the UK Parliament in **September 2023** that establishes a regulatory framework for internet services and social media platforms operating in Britain. The bill's full legislative title is *"A Bill to make provision for and in connection with the regulation by OFCOM of certain internet services; for and in connection with communications offences; and for connected purposes."* It was the central legislative instrument discussed in the Badlands Media article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023), which framed it as the institutional foundation for a coordinated censorship offensive ahead of the November 2024 elections.
@@ -41,3 +40,7 @@ Within the Badlands corpus, the Online Safety Bill is framed as the legal mechan
 - [[5th-generation-warfare]]
 - [[trusted-news-initiative]]
 - [[russell-brand]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Journal of Muslim Minority Affairs","description":"","frontmatter":{"title":"Journal of Muslim Minority Affairs","created":"2026-08-02T00:00:00.000Z","updated":"2026-08-02T00:00:00.000Z","type":"entity","tags":["publication","muslim-brotherhood","jeddah","abedin-family"],"sources":["raw/america-for-sale-part-1.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/journal-of-muslim-minority-affairs.md","filePath":"entities/journal-of-muslim-minority-affairs.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/journal-of-muslim-minority-affairs.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="journal-of-muslim-minority-affairs" tabindex="-1">Journal of Muslim Minority Affairs <a class="header-anchor" href="#journal-of-muslim-minority-affairs" aria-label="Permalink to &quot;Journal of Muslim Minority Affairs&quot;">​</a></h1><p>The <em>Journal of Muslim Minority Affairs</em> (JMMA) is an academic journal devoted to the study of Muslim communities living in non-Muslim-majority countries.</p><h2 id="in-the-badlands-corpus" tabindex="-1">In the Badlands corpus <a class="header-anchor" href="#in-the-badlands-corpus" aria-label="Permalink to &quot;In the Badlands corpus&quot;">​</a></h2><p><a href="/concepts/america-for-sale-part-1">America for Sale - Part 1</a> characterizes the JMMA as &quot;an international propaganda journal for the <a href="/entities/muslim-brotherhood">Muslim Brotherhood</a>,&quot; founded in Jeddah, Saudi Arabia in the late 1970s with the help of <a href="/entities/huma-abedin">Huma Abedin</a>&#39;s father, Syed Abedin. The journal is published by the <a href="/entities/institute-of-muslim-minority-affairs">Institute of Muslim Minority Affairs</a>, which the article says was established by Al-Qaeda financier <a href="/entities/abdullah-omar-naseef">Abdullah Omar Naseef</a>, who recruited the Abedin family to run it.</p><p>Citing <em>Newsweek</em> and PJMedia, the article reports that Huma Abedin &quot;was assistant editor of the journal for a dozen years — from the time she started interning at the Clinton White House in 1996 until right before she joined the <a href="/entities/state-department">State Department</a> in 2009,&quot; and that during seven of those years she overlapped with Naseef, who was then on the journal&#39;s advisory board. When Syed Abedin died, Huma&#39;s mother Saleha took over its operations. The article argues that articles from the journal have been used in universities worldwide &quot;to teach the promotion of sharia law and the supremacy of the Muslim religion,&quot; making the publication a core instrument of the Brotherhood&#39;s &quot;civilization/stealth jihad&quot; strategy of &quot;infiltration, not invasion.&quot;</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/journal-of-muslim-minority-affairs.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const journalOfMuslimMinorityAffairs = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  journalOfMuslimMinorityAffairs as default
+};

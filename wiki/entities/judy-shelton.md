@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Judy Shelton
 
 Judy Shelton is identified in the article as a nominee to the Federal Reserve selected by [[Donald Trump]] during his presidency. According to the source, Shelton was nominated because she was "an advocate of bringing back the gold standard," which the article dates from 1873 to 1933.
@@ -22,3 +21,7 @@ The article frames Shelton's nomination as part of Trump's broader attempt, remi
 - [[Andrew Jackson]] — the historical figure whose monetary opposition Shelton is said to share
 - [[Coinage Act of 1873]] — the gold standard legislation Shelton allegedly supports
 - [[1913]] — the year of the cabal's consolidation that Shelton's nomination is said to challenge
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

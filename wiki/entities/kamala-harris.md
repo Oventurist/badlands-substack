@@ -8,7 +8,6 @@ sources: [raw/a-new-hollywood.md, raw/a-week-to-remember.md, raw/are-we-being-di
 confidence: medium
 contested: true
 ---
-
 # Kamala Harris
 
 Kamala Harris is the American politician who served as Vice President and as the Democratic nominee in the most recent presidential campaign. In the Badlands Media essay [[a-new-hollywood|A New Hollywood]], she appears in connection with the *60 Minutes* interview that became the basis of [[donald-trump|Donald Trump]]'s lawsuit against [[cbs|CBS]].
@@ -22,3 +21,11 @@ The Badlands Media essay [[a-week-to-remember|A Week to Remember]] raises Harris
 ## Division and fear in the 2024 handover
 
 [[erik-carlson|Erik Carlson]]'s August 2024 essay [[are-we-being-distracted|Are We Being Distracted?]] cites Harris's elevation as one of the events comprising what he calls a [[bread-and-circus|bread and circus]] distraction. He observes that "most Americans don't find Kamala Harris likeable or competent," and treats that perception as a source of "division and anger." He adds a fear component specific to her candidacy: whereas the public "already knew how bad things would be under [[joe-biden|Biden]]," Harris represents "a new unknown," and "unknown situations are the scariest." In the essay's framing, the distraction of debating Harris's fitness diverts attention from [[donald-trump|Trump]]'s plans for the financial system.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [are we being distracted](https://badlands.substack.com/p/are-we-being-distracted)

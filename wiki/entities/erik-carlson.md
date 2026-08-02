@@ -7,7 +7,6 @@ tags: [person, outlet]
 sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/are-we-being-distracted.md]
 confidence: medium
 ---
-
 # Erik Carlson
 
 Erik Carlson is a contributing author to Badlands Media. His June 5, 2023 article "[[A Communist Plot to Take Over America]]" synthesizes cabal and Communist takeover narratives across U.S. politics, corporate America, retail theft, and [[artificial intelligence]]. Carlson describes his own epistemology as provisional, emphasizing that his conclusions are observations and questions rather than settled facts, and acknowledges confusion about day-to-day operations even as he insists the "bigger picture" of cabal-driven destruction is clear.^[raw/a-communist-plot-to-take-over-america.md]
@@ -56,3 +55,16 @@ The essay is notable for Carlson's self-implication — "I can pound my chest al
 Carlson published [[are-we-being-distracted|Are We Being Distracted?]] on August 1, 2024, subtitled "Obviously ... But What Are We Being Distracted From?" The essay sets out the interpretive habit that recurs throughout his work: when his social media feed saturates with a single narrative, he asks what he is being distracted away from. Applying the [[bread-and-circus|bread and circus]] formula to July 2024, he argues that the assassination attempt on [[donald-trump|Trump]], [[joe-biden|Biden]]'s withdrawal, [[kamala-harris|Harris]]'s elevation and the [[paris-2024-olympics-opening-ceremony|Paris Olympics opening ceremony]] were engineered to divide and distract, while the real story was Trump's address at the [[bitcoin-2024-conference|Bitcoin Conference]] and the plan for financial restructuring signalled by [[tax-free-tips|tax-free tips]].
 
 The piece is notable for its self-deprecating register — "I hope this doesn't come off as me thinking I'm smarter than other people. I'm not" — and for Carlson's admission that he was as offended by the ceremony as anyone before concluding a day later that he was being manipulated. It closes with the assertion that "the patriots are in fact in control," that "the dismantling of the old guard is underway," and with an explicitly religious coda: "In the end, God wins. In the end, we win."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a communist plot to take over america](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
+- [are we being distracted](https://badlands.substack.com/p/are-we-being-distracted)

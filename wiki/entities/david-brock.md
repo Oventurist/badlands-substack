@@ -8,7 +8,6 @@ sources: [raw/a-cancer-on-modern-journalism.md]
 confidence: medium
 contested: true
 ---
-
 # David Brock
 
 **David Brock** is identified in the Badlands Media corpus as a Democratic Party operative and the founder of [[Media Matters]], which the source frames as a liberal activist group that has functioned for decades as one of the most influential organizations in American political media. Time magazine described Brock as "one of the most influential operatives in the Democratic Party."
@@ -48,3 +47,7 @@ The article notes that Brock went so far as to spend millions creating a superPA
 ## References
 
 - Badlands Media, "A Cancer on Modern Journalism," `raw/a-cancer-on-modern-journalism.md`
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-cancer-on-modern-journalism)

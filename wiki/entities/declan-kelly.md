@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # Declan Kelly
 
 Declan Kelly is an Irish-American businessman, co-founder and former chief executive of [[teneo|Teneo]], and served as [[hillary-clinton|Hillary Clinton]]'s economic envoy to Northern Ireland during her tenure as Secretary of State. The Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] treats his appointment as a case study in the blending of official position and private commercial interest.
@@ -26,3 +25,7 @@ Kelly had been a top executive at [[fti-consulting|FTI Consulting]] before stepp
 ## Teneo
 
 Kelly co-founded Teneo Holdings in 2011 with [[doug-band|Doug Band]] and [[paul-keary|Paul Keary]]. The essay argues that Kelly used his official envoy position to build corporate relationships that would later benefit both Teneo and the Clintons, and that lucrative corporate deals arranged through the post led to donations flowing into the [[clinton-foundation|Clinton Foundation]] — an interpretive claim beyond the cited reporting.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-2)

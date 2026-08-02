@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Kenneth Lay
 
 Kenneth Lee Lay (1942–2006) was an American businessman and the founder, chairman, and chief executive officer of Enron Corporation. In the Badlands Media article [[a-family-affair]], Lay is identified as a board member of [[texas-commerce-bank]] in the 1980s and as the founder of a "CIA-connected" energy company.
@@ -28,3 +27,7 @@ The article places Lay within the broader Houston financial network centered on 
 ## Legacy
 
 Lay was convicted of multiple counts of fraud and conspiracy in 2006, but his convictions were vacated after his death in July 2006. In the Badlands corpus, he is framed as a representative of the CIA-linked Houston business elite who operated with political protection for decades before being brought down by the Enron scandal.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

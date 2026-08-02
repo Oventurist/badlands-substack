@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: high
 contested: false
 ---
-
 # Glen Doherty
 
 Glen "TB" Doherty was a former U.S. Navy SEAL and CIA security contractor who was killed during the September 11, 2012 terrorist attack on the U.S. consulate in [[benghazi|Benghazi]], Libya. He died alongside fellow SEAL [[tyrone-woods|Tyrone Woods]] while providing security at the CIA annex during the extended assault.
@@ -35,3 +34,7 @@ Doherty and Woods were killed by a mortar round while defending the CIA annex du
 - [[kris-paronto]]
 - [[hillary-clinton]]
 - [[barack-obama]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

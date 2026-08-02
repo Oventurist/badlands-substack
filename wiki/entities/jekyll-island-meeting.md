@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Jekyll Island meeting
 
 The Jekyll Island meeting was a secret gathering held at the Jekyll Island Club in 1910, where seven leading bankers and politicians allegedly drafted the blueprint for the Federal Reserve System. The article describes the meeting as the site where the cabal's "master plan" to transform the monetary system of the United States was hatched.
@@ -36,3 +35,7 @@ The plans developed at Jekyll Island were, according to the article, later used 
 - [[1913]] — the year the Jekyll Island plan was enacted into law
 - [[Pujo Committee]] — the committee that investigated the banking monopoly created by the Federal Reserve
 - [[Populist Party]] — the party whose leaders allegedly convinced Aldrich to convene the meeting
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

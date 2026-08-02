@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
-
 # Inflation
 
 Inflation is the general rise in prices and corresponding loss of purchasing power of a currency. In the Badlands Media corpus it is treated not as a natural economic phenomenon but as a deliberately engineered transfer of wealth — in the words of the essay [[a-week-to-remember|A Week to Remember]], "the biggest financial scam of them all."
@@ -30,3 +29,10 @@ Crucially, the source observes that the [[deep-state|Deep State]] and its media 
 [[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) places inflation at the top of its catalogue of levies, calling it "the biggest tax of all — the tax that comes from the [[federal-reserve|Federal Reserve]] printing money out of nothing, backed by nothing, diluting down the purchasing power of existing money."
 
 The essay uses this to answer the objection that a money-printing government has no need of taxation: it does not, Carlson writes, since "any time the government needs money, they can print it and pass on the inflation to the American people." Taxes persist because they are "a key component of creating and maintaining debt slaves." In the essay's rough arithmetic, real inflation since Joe Biden took office is assumed to be far above official figures — perhaps 30% cumulative, or about 10% a year — and is subtracted alongside income, property, sales, and miscellaneous taxes to leave roughly twenty-five cents of each dollar earned. See [[debt-slavery|debt slavery]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)

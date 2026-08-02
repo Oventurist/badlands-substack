@@ -8,7 +8,6 @@ sources: [raw/a-swan-song-for-the-msm.md]
 confidence: medium
 contested: true
 ---
-
 # A Swan Song for the MSM
 
 "A Swan Song for the MSM," subtitled "The Citizen Journalist Will Write Its Epitaph," is an essay by [[ryan-delarme|Ryan DeLarme]] published by [[badlands-media|Badlands Media]] on February 21, 2024. The article argues that the American corporate press — what the author calls the "mainstream" or "centralized" media — is in terminal decline, that its collapse is deserved rather than tragic, and that the citizen journalist operating in the decentralized media space is the successor institution. The piece closes with the Badlands slogan "We are the news now."
@@ -64,3 +63,7 @@ DeLarme argues that nothing frightens the Western establishment more than a capa
 The essay rejects the notion that journalism is a complex art beyond the reach of untrained citizens: "A good piece of honest journalism is not something that will be marveled at for centuries, like a painting or a poem—it simply serves as a means to convey information to the public accurately and without bias." Because the corporate press has failed at this simple function, the author concludes, the American people are performing it themselves: "The corporate news media is dying, and the citizen journalist will write its epitaph. We are the news now."
 
 The article carries the standard Badlands Media disclaimer that contributions represent the opinions of their authors, and directs readers to DeLarme's own newsletter, the Post-Liberal.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-swan-song-for-the-msm)

@@ -8,7 +8,6 @@ sources: [raw/anthony-fauci.md]
 confidence: medium
 contested: true
 ---
-
 # Anthony Fauci: Soldier for the Communist Cause
 
 "Anthony Fauci: Soldier for the Communist Cause" is an opinion column published by [[badlands-media|Badlands Media]] on December 20, 2022, written by the contributor [[j-b-white|J.B. White]], who writes under the handle RattlerGator. Presented as the author's first written submission to the outlet, the piece frames [[anthony-fauci|Anthony Fauci]] as the public face of what it calls an anti-American governmental apparatus, and situates his conduct during the COVID-19 response within a broader argument about censorship, narrative control, and ideological subversion. The article carried 177 likes on the platform and closes with the standard Badlands Media disclaimer that features represent the opinions of contributing authors rather than the views of the outlet itself.
@@ -48,3 +47,7 @@ Declaring that the applicable exclamation is no longer "cases, cases, cases" but
 ## Closing
 
 White promises a future column on Fauci, specifically a Florida example of how he believes Fauci had a direct hand in "quite curious reporting" on cases within America and beyond. He closes with an exhortation to remain optimistic and patient while persevering with local action, and with the maxims he once used to end his email correspondence: "Patience. Preparation. Perseverance. Attention to Detail. Flexibility. Resiliency. Never think that God's delays are God's denials. Hold on; hold fast; hold out. Patience is genius." The piece signs off "Later, Gators," with a pointer to the author's own RattlerGator's Newsletter.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/anthony-fauci)

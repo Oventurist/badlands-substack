@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
-
 # A Seismic Shift
 
 **A Seismic Shift: Transferring Power From the Banks … To the People** is a Badlands Media feature published January 12, 2024 and written by [[joe-lange|Joe Lange]]. It argues that the United States is on the verge of a fundamental restructuring of its banking system, in which a publicly owned banking option — delivered through the United States Postal Service and through Federal Reserve retail accounts known as FedAccounts — will displace the dominance of private Wall Street banks. The article presents this transformation as a deliberate plan executed quietly by President [[donald-trump|Donald Trump]], and closes with the Q slogan "WWG1WGA."
@@ -88,3 +87,7 @@ He further quotes the ABA's claim that the United States has a healthy banking s
 ## Conclusion
 
 Lange closes by listing four developments he says he has given evidence for across his articles as being driven by Trump: a move back to the gold standard; a behind-the-scenes push for a digital dollar; a postal banking public option; and the creation of FedAccounts. He asks whether readers trust that Trump is in more control than most people realise and will build a new banking system protecting constitutional rights and hard-earned money, states his belief that Trump "is a hero and deserves our trust," and ends with "WWG1WGA." A standing disclaimer notes that [[badlands-media|Badlands Media]] articles represent the opinions of contributing authors and not necessarily the views of Badlands Media itself, and the piece points readers to more of the author's work at Joe Lange's Substack.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

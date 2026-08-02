@@ -8,7 +8,6 @@ sources: [raw/a-startling-contradiction-at-the.md]
 confidence: medium
 contested: true
 ---
-
 # United States as a Federal Corporation
 
 The claim that "the United States is a federal corporation" is a recurring argument in constitutionalist and sovereignty-oriented commentary, and forms the evidentiary centrepiece of the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023) by [[american-hypnotist|American Hypnotist]].
@@ -32,3 +31,7 @@ Because a corporate United States was, in the article's telling, installed "agai
 Related to the corporation claim is the article's concept of "linguistic shell games" — games in which the meanings of words are surreptitiously redefined so as to attach hidden meanings to familiar terms, producing a "dual" language in which a speaker's words are presumed by the system to mean something other than what the speaker intends. On this account there exist multiple entities calling themselves "the United States": a corporate one and a federal one, both of which the article says ultimately derive their authority from the people and from God.
 
 This framing is contested: mainstream legal scholarship treats 28 U.S.C. § 3002(15)(A) as a narrow definitional provision applicable to debt-collection procedure rather than a statement about national sovereignty. The Badlands article presents the citation as evidence of a broader concealment, and links the public's ignorance of it to the operational latitude of the [[deep-state|Deep State]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-startling-contradiction-at-the)

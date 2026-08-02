@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Pablo Escobar
 
 Pablo Emilio Escobar Gaviria (1949–1993) was a Colombian drug lord and leader of the [[medellin-cartel]], which he founded in the 1970s. At the height of his power in the 1980s, Escobar was considered the most powerful and wealthiest criminal in the world, responsible for flooding the United States with cocaine and using extreme violence to eliminate rivals and intimidate the Colombian government.
@@ -31,3 +30,7 @@ The article claims that in 1989, Escobar's associates dispatched a representativ
 ## Legacy
 
 Escobar was killed by Colombian National Police on December 2, 1993, after a prolonged manhunt. His death marked the beginning of the end for the Medellín Cartel, which was gradually dismantled by the Colombian government with U.S. support. However, the article argues that the cartel's financial network and its connections to the CIA and the Bush family were never fully exposed or dismantled.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

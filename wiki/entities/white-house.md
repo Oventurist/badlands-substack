@@ -8,7 +8,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # White House
 
 The White House is the official residence and executive office of the President of the United States, and is used more broadly to denote the presidential staff and the Executive Office of the President, including the National Security Council apparatus and the president's senior advisers.
@@ -22,3 +21,7 @@ That requirement — that the White House approve every battlefield action — i
 The article also places the White House at the centre of the Benghazi night itself. It states that by 5 p.m. Washington time the President, the Secretary of Defense, the Chairman of the Joint Chiefs of Staff and the National Security Advisor had convened at the White House, and that Obama directed that "we ought to use all of the resources at our disposal." A "Deputies Meeting" was then convened by the White House at 7:30 p.m., attended by [[hillary-clinton|Hillary Clinton]] and deputies from State, the [[pentagon|Pentagon]] and the White House, with both the President and [[leon-panetta|Leon Panetta]] absent. The article characterises the sequence of giving an order and then vacating the room as a "cover your ass" political manoeuvre designed to shield both men from blame.
 
 Former CIA officers, the article adds, tried for months to warn the White House that thousands of shoulder-fired missiles were falling into Al Qaeda's hands, but "their warnings fell on deaf ears" — which the article attributes not to negligence but to the White House's own involvement in the sale of those weapons.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

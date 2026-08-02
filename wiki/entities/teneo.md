@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-2.md]
 confidence: medium
 contested: true
 ---
-
 # Teneo
 
 Teneo, formally Teneo Holdings, is a multinational C-suite advisory firm and investment bank founded in June 2011 by [[doug-band|Doug Band]], [[declan-kelly|Declan Kelly]] and [[paul-keary|Paul Keary]]. In the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]], [[joe-lange|Joe Lange]] treats Teneo as the commercial hinge of an alleged pay-for-play network connecting the [[state-department|State Department]] under Secretary [[hillary-clinton|Hillary Clinton]] to the [[clinton-foundation|Clinton Foundation]].
@@ -32,3 +31,7 @@ Teneo's early accounts included Dow Chemical and Coca-Cola, both carried over fr
 ## Interpretation in the corpus
 
 The Badlands account emphasizes that Teneo was not merely a consulting firm but an investment bank, which the author says "come in real handy when you're trying to launder large sums of money." In this reading, Abedin served as liaison between Clinton Foundation donors seeking favors and Hillary Clinton's State Department, with Teneo functioning as the intermediary, and [[prince-alwaleed|Prince Alwaleed bin Talal]] gaining access to all three institutions through Abedin. These interpretive claims are contested; the underlying employment, payment and client relationships derive from mainstream reporting.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-2)

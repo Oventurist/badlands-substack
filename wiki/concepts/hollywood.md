@@ -8,7 +8,6 @@ sources: [raw/a-new-hollywood.md, raw/a-time-to-strike.md]
 confidence: medium
 contested: true
 ---
-
 # Hollywood
 
 Hollywood, as treated in the Badlands Media corpus, denotes the American film and television industry considered as a single cultural and political institution. The fullest treatment is [[erik-carlson|Erik Carlson]]'s February 6, 2025 essay [[a-new-hollywood|A New Hollywood]], which advances a two-part thesis: that Hollywood has functioned for decades as a conditioning apparatus, and that ownership of that apparatus is now changing hands.
@@ -32,3 +31,10 @@ The essay traces recent programming to corporate control: [[paramount-global|Par
 ## The 2023 writers' strike
 
 [[a-time-to-strike|A Time to Strike]] (October 2023) addresses Hollywood as a labor market rather than a propaganda apparatus, recounting the nearly 150-day [[writers-guild-of-america|Writers Guild of America]] strike that ended on September 27, 2023 with a contract running to May 2026, staged pay increases, new streaming residuals based on viewership, and restrictions on studio use of [[artificial-intelligence|artificial intelligence]]. [[ashe-in-america|Ashe in America]] argues that the studios' concession is provisional, since [[automation|automation]] of creative work will strengthen their position when the deal expires.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)

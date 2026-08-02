@@ -8,7 +8,6 @@ sources: [raw/a-time-to-strike.md]
 confidence: medium
 contested: true
 ---
-
 # Automation
 
 Automation — the substitution of machinery, software and robotics for human labor — is treated in the Badlands Media corpus as the underlying force that renders the 2023 strike wave unwinnable. The essay [[a-time-to-strike|A Time to Strike]] (October 11, 2023) argues that global corporations have been making investments in automation, robotics and [[artificial-intelligence|artificial intelligence]] for over a decade, and that the layoffs and bargaining stalemates of 2023 are simply "the return on that investment."
@@ -22,3 +21,7 @@ The article endorses [[donald-trump|Donald Trump]]'s claim that "the auto indust
 Automation is presented as no longer confined to the factory floor. Software can replace entire skill sets that once required full-time employees; predictive analytics and generative AI have displaced whole disciplines; robots assemble where humans once stood. The article distinguishes an earlier, quieter wave — the streamlining of corporate back offices at auto companies, studios and hospitals, celebrated by CFOs who "rained transformation dollars" while redundant workers received severance if they were lucky — from the present wave, which reaches unionized workers who can strike. Protections against AI written into the 2023 [[writers-guild-of-america|Writers Guild of America]] contract are read as temporary, given the deal's 18-month horizon.
 
 The framework for these claims is drawn from [[mckinsey-and-company|McKinsey & Company]]'s [[future-of-work|future of work]] research and its relationship to the [[world-economic-forum|World Economic Forum]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-time-to-strike)

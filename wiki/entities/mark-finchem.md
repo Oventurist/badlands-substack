@@ -8,7 +8,6 @@ sources: [raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
-
 # Mark Finchem
 
 Mark Finchem is an Arizona Republican and "America First" politician who ran for [[arizona-secretary-of-state|Arizona Secretary of State]] in the [[2022-united-states-midterm-elections|2022 midterm elections]], losing to Democrat [[adrian-fontes|Adrian Fontes]]. He is a recurring figure in the Badlands Media corpus as one of the most prominent election-integrity candidates in the state.
@@ -22,3 +21,7 @@ The Finchem–Zink complaint alleges that Hobbs abused her power by failing to h
 ## Treatment in the corpus
 
 The Badlands article describes Finchem as "a committed America First patriot, who has a deep conviction to oversee and administer secure and accurate elections in Arizona," and characterizes his frustration with the state's election process over several years as palpable. Its author, [[kitty-gillespie|Kitty Gillespie]], predicts that Finchem will eventually take office as Secretary of State — a position first in the line of succession to the governorship — but notes that this outcome depends on [[kari-lake|Kari Lake]] prevailing in her own election contest and being sworn in as governor. Separately, the Lake complaint alleges that [[stephen-richer|Stephen Richer]] founded a political action committee whose sole mission was to stop Lake and Finchem.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arizona-earthquake)

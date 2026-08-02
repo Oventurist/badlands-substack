@@ -8,7 +8,6 @@ sources: [raw/a-startling-contradiction-at-the.md]
 confidence: high
 contested: false
 ---
-
 # United States Code
 
 The United States Code is the codification of the general and permanent federal statutory law of the United States, organised into numbered titles. In the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] it functions both as the authoritative text to which the author appeals and as an exhibit in his argument that the law has grown beyond the reach of the citizens bound by it.
@@ -20,3 +19,7 @@ Two titles are singled out. Title 28, section 3002(15)(A) is cited as the provis
 The article observes that the Code, together with the wider body of regulation, expands by "tens of thousands of pages of new 'law' ... on a regular basis," a volume it regards as impossible for any ordinary person of good faith and diligence to track. The author uses the Code's own text as the standard of proof throughout, noting that conventional descriptions of the United States as a democracy or a republic lack a comparable citation, and challenging readers to produce a counter-citation from the Code itself.
 
 The article's broader contention is that a body of law which cannot be deciphered or accessed by those obligated to obey it cannot sustain the [[rule-of-law|rule of law]], and that the remedy lies in citizens collectively documenting the Code's "most blatant absurdities."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-startling-contradiction-at-the)

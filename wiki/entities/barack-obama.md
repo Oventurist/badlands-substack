@@ -12,7 +12,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/
 confidence: medium
 contested: true
 ---
-
 # Barack Obama
 
 Barack Obama was the 44th President of the United States, serving from 2009 to 2017. In the Badlands Media article "A Conflict of Interest," Obama is portrayed as a key participant in what the source describes as a deliberate scheme to overthrow [[muammar-gaddafi|Muammar Gaddafi]], fund and arm terrorist organizations, and cover up large-scale theft of U.S. taxpayer funds.
@@ -55,3 +54,16 @@ Quoting Q drop #4750, which asks who paid for "Hussein's Harvard Law Degree" and
 According to [[america-for-sale-part-3|America for Sale — Part 3]], the Obama administration approved the sale of [[uranium-one|Uranium One]] to Russia's [[rosatom|Rosatom]] in 2010 and then assured the public that no uranium would leave the United States. Q drop #46 asked whether "BO and/or his admin ever make false statements that U1 would never be exported from the US."
 
 Reporting by The Hill, quoted in the article, found that the [[nuclear-regulatory-commission|Nuclear Regulatory Commission]] approved yellowcake shipments from the Russian-owned American mines to Canada in 2012 through a third party, with the administration later approving onward movement to Europe. Instead of issuing Rosatom a direct export license, which would have alerted [[congress|Congress]], the NRC amended the license of the trucking firm [[rsb-logistics-services|RSB Logistics Services Inc.]]. Q drop #1345 asserts the arrangement was "organized/planned by BC/HRC" and "carried out by Hussein," and the essay adds that Obama's later Iran nuclear deal followed the same template after the financial success of Uranium One.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
+- [a mysterious masterclass in multi](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

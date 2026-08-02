@@ -8,7 +8,6 @@ sources: [raw/a-virus-or-a-metaphor.md, raw/are-we-entering-the-millennial-reign
 confidence: medium
 contested: true
 ---
-
 # COVID-19 Vaccines
 
 The COVID-19 vaccines — referred to colloquially in the Badlands Media corpus as "the jab" — are identified in [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] as the single most prominent reason former supporters give for abandoning [[donald-trump|Donald Trump]]. The essay by [[erik-carlson|Erik Carlson]] concedes that "on the surface, it doesn't look good," and frames the vaccines as the central test case for its broader argument about strategic compromise.
@@ -28,3 +27,10 @@ The pivotal evidence offered is the distinction between endorsement and compulsi
 ## As a candidate Mark of the Beast
 
 The July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] assesses the vaccine campaign against the criteria it derives for the [[mark-of-the-beast|Mark of the Beast]]: a requirement imposed on everyone, enforced through fear and coercion, and functioning as a discriminator on the ability to buy or sell. The article concludes that the campaign "wanted to win" - it was global, forced, fear-driven and tied to vaccine passports - but that its intended targets, universal vaccination with passport-based control, were not reached: "I'd say it was a close shave!" The author, writing as "a safety professional," states that he has been horrified by the death and injury data of subsequent years, notes that approximately 70% of all people received at least a first dose, and asks how many will prove unable to reproduce or will develop lethal conditions over time - folding that question into his estimate of whether the mortality thresholds of Revelation's fourth seal and sixth trumpet have been met.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

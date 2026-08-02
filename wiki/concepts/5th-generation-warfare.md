@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-hypnotists-take-on-
 confidence: medium
 contested: true
 ---
-
 # 5th Generation Warfare
 
 In the Badlands Media corpus, **5th Generation Warfare (5GW)** refers to a conceptual framework for understanding information conflict in which the primary battlefield is public perception, narrative control, and platform governance rather than physical territory. The term is used in *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023) to describe the recurring pattern of coordinated censorship, de-platforming, financial pressure, and media smear campaigns that the source argues Western hegemonic institutions deploy against dissident voices during election cycles.
@@ -74,3 +73,13 @@ The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) applie
 ## The indictments as a phase of the 5G war
 
 The September 2023 essay [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] situates the criminal prosecutions of [[donald-trump|Donald Trump]] within the same framework, suggesting the indictments may have been "crafted to give Trump precisely the ammo he needs to proceed with the next phase of the 5G war." The essay's account is characteristically informational rather than kinetic: it holds that in highly politicized proceedings "what happens in a courtroom is often downstream from what happens in the court of public opinion," and assigns anons acting as "the New News" the role of shaping that terrain. It also argues that mass arrests may have been withheld to avoid sparking a civil war, since a threshold of popular support and favourable optics must exist first.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [5gw counter offensive the censorship](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

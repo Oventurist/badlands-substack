@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Juan García Abrego
 
 Juan García Abrego is the former leader of the [[gulf-cartel]], identified in the Badlands Media article [[a-family-affair]] as the trafficker who transformed the cartel from smugglers into cocaine suppliers and who partnered with the [[cali-cartel]] to restructure Mexican trafficking operations.
@@ -27,3 +26,7 @@ The article links García Abrego and the Gulf Cartel to the salinas family, spec
 ## NAFTA and border trafficking
 
 The article argues that García Abrego's ability to guarantee delivery was enhanced by [[nafta]], which the source claims was designed to increase drug trafficking across the southern border. The reduced border scrutiny allegedly made it easier for the Gulf Cartel to move cocaine from Colombia through Mexico into the United States.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

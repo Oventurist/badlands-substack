@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-fr
 confidence: medium
 contested: true
 ---
-
 # Atlantic Council
 
 The Atlantic Council is a Washington-based foreign policy think tank that the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] identifies as the single most relevant institution for understanding what the author calls "the foreign policy establishment." The article states plainly that "it is not unfair to say that the Atlantic Council is the 'brains behind [[nato]].'"
@@ -31,3 +30,10 @@ The article presents the Council's funders and members as the constituency fight
 ## CBDC tracker
 
 The Atlantic Council's central bank digital currency tracker is cited, via CNBC, in Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] for the finding that at least 87 countries representing over 90 percent of global GDP were exploring a [[central-bank-digital-currency|CBDC]], compared with only a handful in mid-2019. The article uses the figure to argue that the global adoption of digital currency is already irreversible.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

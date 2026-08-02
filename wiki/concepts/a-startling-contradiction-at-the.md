@@ -8,7 +8,6 @@ sources: [raw/a-startling-contradiction-at-the.md]
 confidence: medium
 contested: true
 ---
-
 # A Startling Contradiction at the Heart of 'Our' Legal System
 
 "A Startling Contradiction at the Heart of 'Our' Legal System," subtitled "If the Law Doesn't Belong to the People, Then What Is It For?", is an opinion article published by [[badlands-media|Badlands Media]] on May 16, 2023, written by the contributor known as [[american-hypnotist|American Hypnotist]]. The piece argues that the American legal system rests on a self-contradictory premise — that ordinary citizens are simultaneously presumed incompetent to interpret the law and yet fully liable for obeying it — and that this contradiction is compounded by the statutory definition of the United States as a "federal corporation." As with all Badlands Media features, the article carries a disclaimer that it represents the opinions of the contributing author and not necessarily the views of Badlands Media itself. At the time of archiving it had accumulated 120 likes.
@@ -67,3 +66,7 @@ The article closes by acknowledging that many readers already know the claim tha
 - [[chisholm-v-georgia|Chisholm v. Georgia]]
 - [[rule-of-law|Rule of Law]]
 - [[declaration-of-independence|Declaration of Independence]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-startling-contradiction-at-the)

@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-1.md]
 confidence: medium
 contested: true
 ---
-
 # Democratic National Committee
 
 The Democratic National Committee (DNC) is the national governing and fundraising body of the United States Democratic Party.
@@ -20,3 +19,7 @@ The Democratic National Committee (DNC) is the national governing and fundraisin
 The article further notes that [[bernard-schwartz|Bernard Schwartz]] of [[loral-corporation|Loral Corporation]], described as a major DNC donor, obtained a place on the 1994 China trade mission at which the disputed missile-technology contact was made. Alongside the reported practice of renting the Lincoln Bedroom to large donors, the DNC's fundraising is presented as the commercial engine of the period the author summarizes as "EVERYTHING WAS FOR SALE."
 
 In the later Q-oriented sections, the article quotes Q drop #4750 asking who "wields significant influence" over the Clinton and Obama wings of the Democratic Party, and answers that [[prince-alwaleed|Prince Alwaleed bin Talal]] exercised "primary control" over it.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-1)

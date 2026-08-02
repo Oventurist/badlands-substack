@@ -8,7 +8,6 @@ sources: [raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
-
 # Chrystia Freeland
 
 Chrystia Freeland is a Canadian journalist and politician who served as Canada's Minister of Foreign Affairs, Minister of Finance and Deputy Prime Minister. She is the central subject of the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] by [[matthew-ehret|Matthew Ehret]], which treats her removal from the Canadian cabinet in September 2025 as a marker of a broader shift in global power relations.
@@ -34,3 +33,7 @@ The article places heavy emphasis on Freeland's descent from a family of Ukraini
 Freeland's 2011 Atlantic essay *The Rise of the New Global Elite* and her November 2013 New York Times piece *Plutocrats vs. Populists* are examined at length in the source. In the former she distinguished today's plutocrats from a hereditary elite who "grow rich in their sleep," warned that the real threat to the super-elite was that "inchoate public rage could cohere into a more concrete populist agenda," and concluded that "super-elites have two ways to survive: by suppressing dissent or by sharing their wealth." In the latter she praised plutocratic political power for offering "the tantalizing possibility of policy practiced at the highest professional level with none of the messiness and deal making and venality of traditional politics … a technocratic, data-based, objective search for solutions to our problems," and encouraged "smart, publicly minded technocrats" to go to work for plutocrats whose values they share.
 
 Ehret reads these writings as dividing plutocrats into "good" ones aligned with a green depopulation agenda — Bill Gates, Warren Buffett, Soros — and "bad" ones such as [[donald-trump|Donald Trump]] and, after October 2013, Viktor Yanukovych.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)

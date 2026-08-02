@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Trusted News Initiative
 
 The **Trusted News Initiative (TNI)** is described in the Badlands Media corpus as a global coalition of news organizations and technology firms founded in **2019** by the **BBC** with the stated goal of combating fake news. According to the source, the TNI specifically focuses on disinformation around "moments of jeopardy, such as **elections**," positioning itself as a gatekeeper of information during electoral cycles. The initiative is cited in *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023) as an institutional actor in the coordinated censorship offensive that the Badlands corpus frames as a recurring feature of Western election cycles.
@@ -36,3 +35,7 @@ Within the Badlands corpus, the TNI is positioned as a coordinating mechanism th
 - [[anti-defamation-league]]
 - [[rumble]]
 - [[elon-musk]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

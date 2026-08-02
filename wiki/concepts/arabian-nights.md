@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---
-
 # Arabian Nights — The Redemption Arc of the House of Saud
 
 "Arabian Nights" is a long-form essay published by [[badlands-media|Badlands Media]] on August 2, 2023, written by the pseudonymous contributor Ghost of Patrick Henry. It is presented as the first installment of a multi-part series intended to argue that Saudi Crown Prince [[mohammed-bin-salman]] is engaged in a genuine reform project aimed at freeing the Middle East from foreign manipulation. The author frames the piece explicitly as preparatory background — "chopping some wood," in a phrase he attributes to Steve Bannon — before a promised follow-up article covering the First World War, the Hashemites, and the founding of the modern Kingdom of [[saudi-arabia]].
@@ -108,3 +107,7 @@ The resulting polity, the [[emirate-of-diriyah]] or First State of Saud, was nam
 ## Conclusion and forward look
 
 The essay closes under the heading "Evil does not create; It can only corrupt," arguing that Hashim, Muhammad, and the original Mohammed bin Saud were men of honour and reason rather than the ruthless ideologues the author says Western media has portrayed. The promised sequel is to cover the Hashemite Kingdom of Hejaz, the struggle for Arabian independence from the Ottomans, what the author calls the British Cabal's betrayal of the Hashemites, and the usurpation of Hashemite stewardship over the Islamic holy places through Abdulaziz bin Abdul Rahman Al Saud, founder of the modern kingdom and grandfather of the current crown prince. This, the author says, connects directly to the creation of the *Ikhwan* or Brotherhood, the export of Wahhabism across the Middle East, and the rise of radical Islamic terrorism in the later twentieth century. He states his belief that the modern MBS is "the Prodigal Son of the Islamic world," on a redemption arc to liberate the Middle East from what the corpus elsewhere calls the Puppet Masters.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

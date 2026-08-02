@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md]
 confidence: medium
 contested: true
 ---
-
 # China-U.S. Exchange Foundation
 
 The China-U.S. Exchange Foundation (CUSEF) is a Hong Kong–based organisation devoted to promoting relations between [[china]] and the United States. In the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] it is presented not as a neutral cultural-exchange body but as a conduit for Chinese Communist Party influence inside American foreign policy institutions.
@@ -28,3 +27,7 @@ For the author these transactions matter because Burns went on to become directo
 - [[zhang-yichen]]
 - [[chinese-communist-party]]
 - [[and-iran-iran-so-far-away]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)

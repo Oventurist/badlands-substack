@@ -8,7 +8,6 @@ sources: [raw/a-cancer-on-modern-journalism.md]
 confidence: medium
 contested: true
 ---
-
 # Jonathan Greenblatt
 
 **Jonathan Greenblatt** is identified in the Badlands Media corpus as a Democratic Party operative and the head of the [[anti-defamation-league|Anti-Defamation League]]. The source frames the ADL under Greenblatt's leadership as a key participant in the coordinated censorship regime, working in close coordination with [[Media Matters]] to police and gatekeep information during the 2023–2024 pre-election period.
@@ -39,3 +38,7 @@ The article describes the ADL and Media Matters as "really interchangeable," wor
 ## References
 
 - Badlands Media, "A Cancer on Modern Journalism," `raw/a-cancer-on-modern-journalism.md`
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-cancer-on-modern-journalism)

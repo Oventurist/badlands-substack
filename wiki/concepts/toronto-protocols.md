@@ -8,7 +8,6 @@ sources: [raw/ai-can-help-us-expose-the-nwo.md]
 confidence: low
 contested: true
 ---
-
 # The Toronto Protocols
 
 The Toronto Protocols, originally published in French as "Les Protocoles de Toronto," are a collection of documents leaked by the Canadian journalist [[serge-monast|Serge Monast]]. As described in the Badlands Media essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], one English translation characterises the material as "a document compiled by a clique of senior financiers who met in Canada in 1967 and then in 1985." The group behind the meetings is said to have identified itself as the "6.6.6."
@@ -24,3 +23,7 @@ The Protocols also state an intention to work through existing globalist institu
 ## Reception
 
 Brian Nugent, one of the best-known English translators of the text, records that "Monast himself concluded that it is up to each individual reader to make their own mind up on whether to believe this document, by, he recommends, seeing if it matches the politics, and recent political history, of the last few years." Deschamps reports that repeated application of this test has strengthened his confidence in the documents. The authenticity and provenance of the Protocols are contested and rest largely on Monast's account.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)

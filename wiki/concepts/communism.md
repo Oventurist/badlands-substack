@@ -8,7 +8,6 @@ sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md]
 confidence: medium
 contested: true
 ---
-
 # Communism
 
 Communism is the political and economic ideology treated in the Badlands Media corpus as the primary instrument of internal subversion directed against the United States. In the July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] argues that Communism should be understood as something deliberately introduced rather than organically emergent: "It is not organic; it is a contrived plan," unleashed on the United States "to destroy it from within."
@@ -32,3 +31,10 @@ The essay's final qualification is that Communism is not itself the ultimate adv
 ## Humanism as camouflage
 
 [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] argues that "humanists are most often indistinguishable from Communists" and that use of the humanist label is "just word warfare." [[j-b-white|J.B. White]] traces the drift from religious formation to secular humanism through the example of liberation theology in South America, and describes the incoming Trump administration of 2017 as assembling "an invasion force to root out secret adherents to a theology (Communism) masquerading as an ideology (Socialism)."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [anthony fauci](https://badlands.substack.com/p/anthony-fauci)

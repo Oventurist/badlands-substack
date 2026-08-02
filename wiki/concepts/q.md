@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md, raw/arabian-nights.md, raw/are-jack-sm
 confidence: medium
 contested: true
 ---
-
 # Q
 
 "Q" is the pseudonymous poster whose anonymous message board posts — known within the community as "drops" — form the textual basis of the movement often labeled QAnon. Within the Badlands Media corpus, Q's drops are treated less as prophecy than as a research prompt: cryptic pointers whose subsequent corroboration in public reporting is taken as evidence of foreknowledge.
@@ -22,3 +21,11 @@ Readers of the corpus generally encounter Q alongside the broader themes of info
 ## Anons as the crew: the 2023 White Squall reading
 
 The September 2023 essay [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] frames the prosecutions of [[donald-trump|Donald Trump]] as the possible fulfilment of a Q comm. Its author, [[american-hypnotist|American Hypnotist]], describes Q as "an anonymous insider on 4chan" who first appeared in October 2017, and reads the film [[white-squall|White Squall]] as a metaphor for the journey of Trump, Q and anons since then. In the film's closing trial the captain is redeemed by his surviving crew; in the same manner, the essay argues, "loyal Anons are stepping into their role as the New News ('you are the news now' – Q)," shaping public opinion so that Trump receives a fair hearing. The piece closes with the movement's slogan, [[wwg1wga|WWG1WGA]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

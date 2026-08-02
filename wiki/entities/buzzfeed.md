@@ -8,7 +8,6 @@ sources: [raw/a-swan-song-for-the-msm.md]
 confidence: medium
 contested: true
 ---
-
 # BuzzFeed
 
 BuzzFeed is an American digital media company whose news division, BuzzFeed News, was closed in 2023.
@@ -20,3 +19,7 @@ BuzzFeed is an American digital media company whose news division, BuzzFeed News
 ## Closure of the news division
 
 The article notes that BuzzFeed "completely abolished its news division" in 2023, citing *New York Times* coverage of the shutdown. In the TikTok address quoted in the source, [[taylor-lorenz|Taylor Lorenz]] lists BuzzFeed News among the "major media companies" that "have completely shuttered their news operations," placing it at the head of the broader collapse of the digital media ecosystem in which millennial journalists built their careers.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-swan-song-for-the-msm)

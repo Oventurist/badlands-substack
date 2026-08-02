@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Antisemitism Awareness Act","description":"","frontmatter":{"title":"Antisemitism Awareness Act","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["legislation","congress","antisemitism","campus","free-speech"],"sources":["raw/a-glaring-double-standard.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/antisemitism-awareness-act.md","filePath":"entities/antisemitism-awareness-act.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/antisemitism-awareness-act.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="antisemitism-awareness-act" tabindex="-1">Antisemitism Awareness Act <a class="header-anchor" href="#antisemitism-awareness-act" aria-label="Permalink to &quot;Antisemitism Awareness Act&quot;">​</a></h1><p>The Antisemitism Awareness Act (AAA) is a bill introduced in the United States Congress that would codify the International Holocaust Remembrance Alliance (IHRA) definition of antisemitism into federal civil rights law. In the Badlands Media article &quot;A Glaring Double Standard,&quot; the act is presented as a dangerous step toward federal censorship of Israel criticism.</p><h2 id="passage-and-provisions" tabindex="-1">Passage and provisions <a class="header-anchor" href="#passage-and-provisions" aria-label="Permalink to &quot;Passage and provisions&quot;">​</a></h2><p>The article reports that the act passed the U.S. House in May 2024 by a vote of 320–91 (the article cites the Senate bill number S.558 in the 119th Congress). The act aimed to codify the <a href="/entities/international-holocaust-remembrance-alliance">IHRA</a> definition of antisemitism into federal civil rights law, directing the Department of Education to use it when investigating antisemitic discrimination on college campuses.</p><h2 id="criticism" tabindex="-1">Criticism <a class="header-anchor" href="#criticism" aria-label="Permalink to &quot;Criticism&quot;">​</a></h2><p><a href="/entities/ryan-delarme">Ryan DeLarme</a>, the article&#39;s author, calls this &quot;where it gets dangerous,&quot; arguing the IHRA definition&#39;s ambiguity &quot;will inevitably lead to inconsistent enforcement, where political biases determine what qualifies as anti-Semitic.&quot; He notes that some of the bill&#39;s biggest supporters &quot;were born and bred from the interagency blob,&quot; naming Elissa Slotkin (a former CIA analyst turned Democratic politician), Seth Moulton (described as both a CIA figure and a Young Global Leader at the World Economic Forum), and Robert Mendez (described as a regular fixture in Brussels and at the Munich Security Conference). The article frames the AAA alongside <a href="/entities/executive-order-14188">Executive Order 14188</a> as censorship frameworks &quot;that threaten to criminalize dissent under vague definitions of &#39;hate speech.&#39;&quot;</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-glaring-double-standard" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/antisemitism-awareness-act.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const antisemitismAwarenessAct = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  antisemitismAwarenessAct as default
+};

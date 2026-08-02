@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Bay of Pigs invasion
 
 The Bay of Pigs invasion was a failed military landing operation on the southwestern coast of Cuba in April 1961, carried out by a CIA-sponsored paramilitary group of Cuban exiles known as Brigade 2506. The operation aimed to overthrow Fidel Castro's government but ended in disaster, with most of the invading force killed or captured within three days.
@@ -28,3 +27,7 @@ In the Badlands Media article [[a-family-affair]], the Bay of Pigs invasion is l
 ## Legacy
 
 The Bay of Pigs invasion is widely regarded as one of the biggest failures in U.S. foreign policy history. It embarrassed the Kennedy administration, strengthened Castro's position, and pushed Cuba closer to the Soviet Union, contributing to the Cuban Missile Crisis of 1962. The article frames it as an early example of the CIA's pattern of covert regime change and its ability to operate with impunity.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

@@ -8,7 +8,6 @@ sources: [raw/a-virus-or-a-metaphor.md]
 confidence: medium
 contested: true
 ---
-
 # Wuhan Institute of Virology
 
 The laboratory complex at Wuhan, China is identified across the Badlands Media corpus as the site from which the COVID-19 pathogen was released. In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] states his belief that "some sort of bioweapon was released from a lab in Wuhan, China."
@@ -20,3 +19,7 @@ The distinctive claim of the article is that Wuhan was not where the program beg
 ## Relation to Trump's rhetoric
 
 Trump's insistence that COVID was intentionally created in a lab and released on the world, and his use of the phrase "Chyna virus" — for which he was accused of racism — are both discussed in connection with Wuhan. The essay argues that Trump knows the true origin of the bioweapon, and that his continued reference to China functions as a coded reference to [[communism|Communism]] and to infiltration by the [[chinese-communist-party|Chinese Communist Party]] rather than as a straightforward geographic claim.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-virus-or-a-metaphor)

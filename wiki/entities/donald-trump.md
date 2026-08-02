@@ -8,7 +8,6 @@ sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hyp
 confidence: medium
 contested: true
 ---
-
 # Donald Trump
 
 Donald Trump is identified in the article as the 45th President of the United States. The source claims he has been trying to restore the "old monetary system" since taking office in 2016, in a posture reminiscent of [[Andrew Jackson]]. The article asserts that Trump nominated [[Judy Shelton]] to the Federal Reserve because she was an advocate of bringing back the gold standard, which the source dates from 1873 to 1933.
@@ -146,3 +145,30 @@ The essay pairs this with Trump's appearance at the [[bitcoin-2024-conference|Bi
 ## The Kim Clement prophecies
 
 The July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] places Trump within an explicitly eschatological frame, citing the prophecies of [[kim-clement|Kim Clement]], who is said to have prophesied over the course of a decade that Trump would become president, likely without ever having met him. The article highlights Clement's statement that "Trump shall become a trumpet," asking whether this referred to one of the seven trumpets of the [[book-of-revelation|book of Revelation]], and notes Clement's mention of a "brilliant plan" that could only be "given by God."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [1913](https://badlands.substack.com/p/1913)
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [a startling contradiction at the](https://badlands.substack.com/p/a-startling-contradiction-at-the)
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+- [are we being distracted](https://badlands.substack.com/p/are-we-being-distracted)
+- [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)

@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
-
 # José "Pepe" Figueres
 
 José "Pepe" Figueres, known as "Don Pepe," was a Costa Rican leader whom [[joe-lange|Joe Lange]] presents across his Badlands Media writing as a model statesman who protected his country from capture by a global cabal. He is introduced in Lange's earlier article "The Illusion of Democracy" and returns as the organising example of [[a-seismic-shift|A Seismic Shift]].
@@ -24,3 +23,7 @@ The second was financial: he created a permanent **"public banking option"** tha
 ## Role in the article's argument
 
 Lange argues these safeguards have gone a long way toward preventing another Costa Rican government controlled by a global cabal, and frames the postal banking and FedAccounts agenda he attributes to [[donald-trump|Donald Trump]] as an American version of the same design. He closes the article by crediting the coming transformation, rhetorically, to "'Don Pepe' himself."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

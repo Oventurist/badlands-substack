@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Gulf Cartel
 
 The Gulf Cartel is a Mexican criminal organization based in Matamoros, Tamaulipas, historically involved in drug trafficking, money laundering, and political corruption. In the Badlands Media article [[a-family-affair]], the Gulf Cartel is identified as the drug-trafficking partner of the salinas family in Mexico and as a key beneficiary of [[nafta]]-facilitated border movement.
@@ -32,3 +31,7 @@ According to *The Guardian* and U.S. grand jury testimony cited in the article, 
 ## Connection to NAFTA
 
 The article argues that [[nafta]] was designed to facilitate Gulf Cartel drug trafficking by reducing border scrutiny, making it easier to guarantee delivery of cocaine shipments from Colombia to the United States. The source frames NAFTA as a corrupt bargain between the Bush family, the Salinas family, and the cartel.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

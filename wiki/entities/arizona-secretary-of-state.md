@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md]
 confidence: medium
 contested: false
 ---
-
 # Arizona Secretary of State
 
 The Secretary of State of Arizona is the state's second-highest constitutional officer and its chief election official. Because Arizona has no lieutenant governor, the office stands first in the line of succession to the governorship under Article V, Section 6 of the Constitution of Arizona, which governs "death, resignation, removal or disability of governor; succession to office; impeachment, absence from state or temporary disability."
@@ -22,3 +21,10 @@ The office publishes statewide returns, including the "2022 Unofficial General E
 ## The 2022 succession
 
 The office was held during the [[2022-united-states-midterm-elections|2022 midterm elections]] by [[katie-hobbs|Katie Hobbs]], who certified the general election on December 5, 2022 while herself a candidate for governor — a conflict that features in both election contests filed on December 9. Republican [[mark-finchem|Mark Finchem]] lost the race for the office to Democrat [[adrian-fontes|Adrian Fontes]] and joined [[jeff-zink|Jeff Zink]] in suing to overturn the result. The Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]] notes that the Secretary of State stands first in the line of succession to the governorship.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)

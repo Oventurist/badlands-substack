@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: high
 contested: false
 ---
-
 # Postal Savings System
 
 The United States Postal Savings System was a public savings option operated through the United States Postal Service from 1911 until 1967. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] treats it as the strongest historical precedent for a nationwide public banking option and as a system deliberately dismantled in the interests of private bankers.
@@ -30,3 +29,7 @@ Lange's interpretation goes further. He argues that private banks had always sou
 ## Contemporary relevance
 
 The article observes that where 8,000 postal units once held the savings of four million Americans, there are now more than 30,000 post offices serving every community in the country, and argues that a revived postal savings option — potentially merged with FedAccounts — would be a safeguard for the American people comparable to the [[bank-of-north-dakota|Bank of North Dakota]] at state level and to the public banking safeguards created in Costa Rica by José "Pepe" Figueres. Advocates cited include Mark Dimondstein of the American Postal Workers Union and the Postal Service Office of Inspector General; the principal opponent cited is the American Bankers Association.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

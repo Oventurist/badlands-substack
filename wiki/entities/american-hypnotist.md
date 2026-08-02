@@ -8,7 +8,6 @@ sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-fea
 confidence: medium
 contested: false
 ---
-
 # American Hypnotist
 
 **American Hypnotist** is the pen name of a hypnotist and Substack writer who contributes to [[badlands-media|Badlands Media]] and publishes independently at americanhypnotist.substack.com. His work applies the technical vocabulary of clinical hypnosis, persuasion, and neuro-linguistic programming to mass media and political communication.
@@ -28,3 +27,12 @@ On May 16, 2023 he published [[a-startling-contradiction-at-the|"A Startling Con
 ## The 2023 indictment essay
 
 On September 20, 2023 the author published [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]], subtitled "The Consequences of the Indictment of Donald Trump." Continuing his interest in legal procedure, the essay explains causes of action, elements, jurisdiction and [[legal-standing|standing]] for a lay readership before arguing that the indictments of [[donald-trump|Donald Trump]] by [[jack-smith|Jack Smith]] and [[fani-willis|Fani Willis]] rest on unprovable claims about Trump's state of mind. It speculates, with explicit hedging, that the prosecutors may be participants in "the plan," and returns to his earlier reading of the film [[white-squall|White Squall]] as a metaphor for the Trump and [[q|Q]] movement. The piece directs readers to his own Substack, American Hypnotist.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
+- [a startling contradiction at the](https://badlands.substack.com/p/a-startling-contradiction-at-the)
+- [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

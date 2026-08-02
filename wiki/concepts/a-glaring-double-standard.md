@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # A Glaring Double Standard
 
 "A Glaring Double Standard," subtitled "Should the 'Freedom of Speech' Apply to All Speech?", is an opinion essay published by Ryan DeLarme through Badlands Media on June 19, 2025. The article argues that prominent American conservatives who spent the years between roughly 2016 and 2023 denouncing campus "safe spaces" and cancel culture abandoned those commitments after the October 7, 2023 Hamas attack on Israel, and that this reversal is being exploited by what the author calls the "interagency blob" or deep state to advance government-sponsored censorship. The piece carries the standard Badlands Media disclaimer that contributor articles represent the opinions of their authors.
@@ -116,3 +115,7 @@ The hypocrisy of figures such as Ben Shapiro, Bari Weiss, and Dave Rubin, the ar
 The closing argument is that the erosion of free speech, whether driven by left-wing or right-wing causes, "serves the same end: control," and that true defenders of the First Amendment "must reject this selective outrage and defend all speech, no matter how repugnant, because once the precedent is set, the blob will not hesitate to turn it against us all."
 
 The article ends with a note directing readers to more of DeLarme's work at the Post-Liberal, and Badlands Media's standard appeal for paid subscriptions to support its "collective of citizen journalists."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

@@ -8,7 +8,6 @@ sources: [raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # Amazon
 
 Amazon is an American e-commerce and cloud computing corporation founded by [[jeff-bezos]]. In the Badlands corpus it is one of the five companies said to dominate the [[sp-500|S&P 500]], a principal beneficiary of the Covid lockdowns, and a direct commercial partner of the [[cia|Central Intelligence Agency]].
@@ -26,3 +25,7 @@ The essay states that one of the first major contracts won by [[amazon-web-servi
 ## Realignment under Trump
 
 Amazon is listed among the technology companies that donated one million dollars to [[donald-trump]]'s inaugural fund. Carlson notes approvingly that Bezos has committed to addressing bias and misinformation at the Post and has ordered Amazon employees back into physical offices, which the essay argues both mitigates "the commercial real estate ticking time bomb that working from home has caused" and restores human interaction.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)

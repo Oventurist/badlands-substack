@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Christopher Stevens","description":"","frontmatter":{"title":"Christopher Stevens","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["ambassador","benghazi","cia","weapons-smuggling"],"sources":["raw/a-dereliction-of-duty.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/christopher-stevens.md","filePath":"entities/christopher-stevens.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/christopher-stevens.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="christopher-stevens" tabindex="-1">Christopher Stevens <a class="header-anchor" href="#christopher-stevens" aria-label="Permalink to &quot;Christopher Stevens&quot;">​</a></h1><p>Christopher Stevens was the U.S. Ambassador to Libya from 2012 until his death in the September 11, 2012 attack on the U.S. consulate in <a href="/concepts/benghazi">Benghazi</a>. In the Badlands Media article &quot;A Dereliction of Duty,&quot; Stevens is portrayed not as a victim but as a central participant in a covert weapons-smuggling operation that armed terrorist organizations with U.S. taxpayer funds.</p><p>According to the article, Stevens served as the liaison between weapons dealers and Al Qaeda in Libya, and was helping to coordinate weapons transfers from Libya to Syria in order to arm <a href="/entities/isis">ISIS</a> in its attempt to overthrow <a href="/entities/bashar-al-assad">Bashar al-Assad</a>. The source describes this as a &quot;secret operation&quot; by the State Department under <a href="/entities/hillary-clinton">Hillary Clinton</a> and the <a href="/entities/cia">CIA</a> under <a href="/entities/david-petraeus">David Petraeus</a>, conducted with <a href="/entities/barack-obama">President Obama&#39;s</a> full approval.</p><p>The article claims that Stevens met with Turkish Consul General Ali Sait Akin at the Benghazi consulate one hour before the assault began, which it describes as suspicious. It asserts that Stevens was &quot;an insider&quot; who was working with Clinton, Obama, and <a href="/entities/john-mccain">John McCain</a> to sell weapons to Al Qaeda and ISIS, and that he thought he was part of a &quot;protected class&quot; and &quot;untouchable.&quot;</p><p>According to the source, Stevens was &quot;sacrificed&quot; and &quot;purposely placed in a consulate that had no security&quot; because he had become &quot;expendable.&quot; The article claims that he knew too much about the covert operation, and that the administration needed to shut it down before Congress learned the whole truth. It asserts that <a href="/entities/hillary-clinton">Hillary Clinton</a> purposely left Stevens as a &quot;sitting duck&quot; by delaying notification of the Pentagon about the attack, and that help was never sent because the administration was more concerned with covering up the weapons operation than saving American lives.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-dereliction-of-duty" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/christopher-stevens.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const christopherStevens = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  christopherStevens as default
+};

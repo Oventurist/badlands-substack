@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # Maura Finkelstein
 
 Maura Finkelstein is an American anthropologist who was a tenured Jewish professor at Muhlenberg College in Pennsylvania. In the Badlands Media article "A Glaring Double Standard," her termination is cited as an example of an American fired for dissenting views on Israel that, the article argues, received none of the right-wing "cancel culture" outrage directed at cases like [[gina-carano|Gina Carano]]'s.
@@ -20,3 +19,7 @@ The article states Finkelstein lost her job due to her "inflammatory remarks abo
 ## Use in the article's argument
 
 [[ryan-delarme|Ryan DeLarme]], the article's author, uses Finkelstein's firing to argue that right-wing free speech advocates "didn't suddenly stop believing" in opposing cancel culture "after October 7th, 2023," but failed to apply their principles when the targets were critics of Israel.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

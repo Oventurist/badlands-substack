@@ -8,7 +8,6 @@ sources: [raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
-
 # Antisemitism Awareness Act
 
 The Antisemitism Awareness Act (AAA) is a bill introduced in the United States Congress that would codify the International Holocaust Remembrance Alliance (IHRA) definition of antisemitism into federal civil rights law. In the Badlands Media article "A Glaring Double Standard," the act is presented as a dangerous step toward federal censorship of Israel criticism.
@@ -20,3 +19,7 @@ The article reports that the act passed the U.S. House in May 2024 by a vote of 
 ## Criticism
 
 [[ryan-delarme|Ryan DeLarme]], the article's author, calls this "where it gets dangerous," arguing the IHRA definition's ambiguity "will inevitably lead to inconsistent enforcement, where political biases determine what qualifies as anti-Semitic." He notes that some of the bill's biggest supporters "were born and bred from the interagency blob," naming Elissa Slotkin (a former CIA analyst turned Democratic politician), Seth Moulton (described as both a CIA figure and a Young Global Leader at the World Economic Forum), and Robert Mendez (described as a regular fixture in Brussels and at the Munich Security Conference). The article frames the AAA alongside [[executive-order-14188|Executive Order 14188]] as censorship frameworks "that threaten to criminalize dissent under vague definitions of 'hate speech.'"
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-glaring-double-standard)

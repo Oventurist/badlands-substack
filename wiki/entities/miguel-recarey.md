@@ -11,7 +11,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Miguel Recarey
 
 Miguel Recarey is a Cuban-American businessman identified in the Badlands Media article [[a-family-affair]] as the perpetrator of the largest Medicare fraud case in U.S. history up to that time, and as a close associate of [[jeb-bush]] whose escape from prosecution the source attributes to shadow government protection.
@@ -27,3 +26,7 @@ Among Recarey's supporters, the source identifies [[jeb-bush]], who not only did
 ## Flight and escape
 
 Recarey slipped out of the United States in 1987 and fled to Venezuela. He later moved to Spain, where he married a Spanish woman and became a Spanish citizen in 1989. After being tracked down and arrested in a Madrid jail, a Spanish court freed him and refused to extradite him. The article interprets this sequence as evidence of "shadow government" protection, noting that a Medicare fraud case of that magnitude should have resulted in extradition and severe punishment.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

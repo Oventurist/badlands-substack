@@ -8,7 +8,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/
 confidence: medium
 contested: true
 ---
-
 # State Department
 
 The United States Department of State is the federal executive department responsible for the conduct of American foreign relations, including diplomatic representation abroad, the operation of embassies and consulates, and the maintenance of official lists of designated foreign terrorist organizations.
@@ -48,3 +47,14 @@ A further episode concerns [[doug-band|Doug Band]]'s July 27, 2009 request to Ab
 ## Uranium One approval
 
 In [[america-for-sale-part-3|America for Sale — Part 3]], the State Department appears twice. The New York Times reporting quoted there notes that because uranium is a strategic asset, the sale of [[uranium-one|Uranium One]] to Russia required approval by a committee of federal agencies, and that "among the agencies that eventually signed off was the State Department, then headed by Mr. Clinton's wife, [[hillary-clinton|Hillary Rodham Clinton]]." The article also states that repeated attempts by U.S. marshals to arrest the fugitive trader [[marc-rich|Marc Rich]] in Switzerland failed because "someone in the State Department would always tip him off," which it attributes to Rich's ties to the [[cia|CIA]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)

@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Revenue Act of 1913
 
 The Revenue Act of 1913, also known as the Underwood Tariff Act, was passed by the United States Congress and signed into law by President Woodrow Wilson on October 3, 1913. According to the article, the Act dramatically lowered tariffs and implemented an income tax, thereby establishing the Internal Revenue Service (IRS).
@@ -29,3 +28,7 @@ The Revenue Act is linked in the source to the earlier Populist Party demand for
 - [[Populist Party]] — earlier advocate of the graduated income tax
 - William Jennings Bryan — Democratic leader who advocated for the income tax
 - [[1913]] — the year of passage
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

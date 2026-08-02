@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Gina Carano","description":"","frontmatter":{"title":"Gina Carano","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["person","actress","cancel-culture","free-speech"],"sources":["raw/a-glaring-double-standard.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/gina-carano.md","filePath":"entities/gina-carano.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/gina-carano.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="gina-carano" tabindex="-1">Gina Carano <a class="header-anchor" href="#gina-carano" aria-label="Permalink to &quot;Gina Carano&quot;">​</a></h1><p>Gina Carano is an American actress and former mixed martial artist, known for her role in the television series <em>The Mandalorian</em>. In the Badlands Media article &quot;A Glaring Double Standard,&quot; her firing by Disney is cited as a prominent example of the right-wing &quot;cancel culture&quot; outrage that, the article argues, conservatives failed to apply consistently.</p><h2 id="the-2021-firing" tabindex="-1">The 2021 firing <a class="header-anchor" href="#the-2021-firing" aria-label="Permalink to &quot;The 2021 firing&quot;">​</a></h2><p>The article recounts that Disney fired Carano in February 2021 over an Instagram image the actress posted depicting a Jewish woman running from Nazi guards, captioned with the observation that &quot;Jews were beaten in the streets, not by Nazi soldiers but by their neighbors…even by children,&quot; and asking &quot;How is that any different from hating someone for their political views?&quot; The firing was reported in a <a href="/entities/daily-wire">Daily Wire</a> piece by Tim Pierce titled &quot;Shapiro: Gina Carano Firing Part Of A Movement To &#39;Expel&#39; Half Of America.&quot;</p><p><a href="/entities/ben-shapiro">Ben Shapiro</a> commented on his podcast &quot;The Ben Shapiro Show&quot; that Carano&#39;s firing &quot;is indicative of where we are in the culture, and it is a terrible moment for American culture,&quot; adding that &quot;Social movements have consequences, and we are now in the middle of a mass social movement to expel half of the American population from the body politic.&quot;</p><h2 id="use-in-the-article-s-argument" tabindex="-1">Use in the article&#39;s argument <a class="header-anchor" href="#use-in-the-article-s-argument" aria-label="Permalink to &quot;Use in the article&#39;s argument&quot;">​</a></h2><p><a href="/entities/ryan-delarme">Ryan DeLarme</a>, the article&#39;s author, cites the Carano case as an instance where he agrees the right&#39;s free speech advocacy was justified — but argues the same figures &quot;didn&#39;t suddenly stop believing this after October 7th, 2023&quot; when the targets of firings became critics of Israel, such as Maura Finkelstein, Hesen Jabr, and Nikki Noor Aytoglu.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-glaring-double-standard" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/gina-carano.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ginaCarano = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ginaCarano as default
+};

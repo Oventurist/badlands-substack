@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # Kazakhstan
 
 Kazakhstan is the Central Asian republic whose uranium reserves the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] identifies as the true origin of the [[uranium-one|Uranium One]] affair — a dimension the author argues is largely absent from mainstream accounts focused on American uranium.
@@ -18,3 +17,7 @@ According to New York Times reporting quoted in the article, "the path to a Russ
 Within days, Giustra's company [[urasia-energy|UrAsia Energy Ltd.]] signed a preliminary deal for stakes in three uranium mines controlled by the state-run agency Kazatomprom. The Times described the Kazakh mines as "among the most lucrative in the world" and as Uranium One's most valuable asset. Their acquisition preceded UrAsia's 2007 merger with Uranium One and, ultimately, the sale to Russia's [[rosatom|Rosatom]].
 
 Kazakhstan recurs later in the donation record: [[ian-telfer|Ian Telfer]] gave $1 million through his Fernwood Foundation in 2009, "the year his company appealed to the American Embassy to help it keep its mines in Kazakhstan." The Russian investor [[sergei-kurzin|Sergei Kurzin]], a former employee of [[marc-rich|Marc Rich]], was also involved in Kazakh deals. The Badlands author concludes that Bill Clinton, not [[hillary-clinton|Hillary Clinton]] at the [[state-department|State Department]], "got the ball rolling" on Uranium One during the September 2005 Kazakh trip.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-3)

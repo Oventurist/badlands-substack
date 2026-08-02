@@ -31,4 +31,4 @@ Burns' cable is a foundational document in the Badlands Media corpus's analysis 
 
 ## Sources
 
-All biographical and substantive claims in this entry derive from the Badlands Media article *A Bright Red Line* (raw/a-bright-red-line.md), published May 3, 2024, which quotes and contextualizes Burns' 2008 cable.
+[Original article](https://badlands.substack.com/p/a-bright-red-line)

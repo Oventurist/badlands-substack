@@ -8,7 +8,6 @@ sources: [raw/a-dereliction-of-duty.md, raw/a-look-at-recent-features-84d.md, ra
 confidence: high
 contested: false
 ---
-
 # Joe Lange
 
 Joe Lange is a contributing writer for Badlands Media and the author of a serialised body of work reinterpreting the 2011 Libyan intervention, the 2012 [[benghazi|Benghazi]] attack and the rise of [[isis|ISIS]] as elements of a single covert weapons-trafficking enterprise. He also publishes independently at Joe Lange's Substack.
@@ -45,3 +44,15 @@ Lange published "America for Sale - Part 3," subtitled "Sanctions Are a Scam," o
 ## Financial series: CBDCs (June 2023)
 
 On June 2, 2023 Lange published [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]], subtitled "Trump's Safe Haven Plan," as an installment in his continuing series on the financial system that also included the earlier pieces "Master and Commander" and "The Midas Touch." The article argues against the prevailing alternative-media view of [[central-bank-digital-currency|central bank digital currencies]], holding that [[bitcoin]] and [[brics]] forced central banks to react rather than the reverse, that [[jared-kushner]] and [[j-christopher-giancarlo|J. Christopher Giancarlo]] drove the American digital dollar effort from inside the Trump administration, and that [[blockchain]] settlement is the tool that will move the world quickly into a gold-backed system when the fiat order collapses.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [a look at recent features 84d](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

@@ -8,7 +8,6 @@ sources: [raw/1913.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journ
 confidence: low
 contested: true
 ---
-
 # Cabal
 
 In the Badlands Media corpus, the **cabal** is the term used to describe a small, cohesive network of financiers and political actors whom the source credits with consolidating permanent control over the American monetary and tax systems in [[1913]]. The concept is introduced most explicitly in the article "[[1913-the-year-the-cabal-enslaved-america|1913: The Year the Cabal Enslaved America]]," which frames the creation of the [[Federal Reserve]], the federal income tax ([[internal-revenue-service|IRS]]), and the displacement of the [[Gold Standard]] as a deliberate, coordinated project rather than a series of unrelated reforms.
@@ -74,3 +73,15 @@ The article argues the Cabal cannot allow the public to learn that [[inflation|i
 ## Reacting rather than leading
 
 Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] describes the U.S. dollar as the cabal's "Achilles heel" and "Keystone," established as the world's reserve currency and locked in through the oil-for-dollars deal with [[saudi-arabia|Saudi Arabia]]. Against the common view that [[central-bank-digital-currency|CBDCs]] are the cabal's tool for total control, the article argues that the cabal already controls the financial system completely and is now merely reacting to [[bitcoin]], [[blockchain]], and the [[brics]] bloc — "like a master chess game, they are being moved into a position of checkmate." The article uses the term interchangeably with the [[rothschild-family|Rothschilds]] when describing ownership of the global debt system.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [1913](https://badlands.substack.com/p/1913)
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

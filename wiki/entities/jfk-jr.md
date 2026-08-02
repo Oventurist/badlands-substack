@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-mysterious-masterclass-in-multi.m
 confidence: medium
 contested: true
 ---
-
 # John F. Kennedy Jr.
 
 John F. Kennedy Jr. was the son of President John F. Kennedy and Jacqueline Kennedy Onassis. In the Badlands Media article "A Conflict of Interest," JFK Jr. is framed as a political threat who was eliminated by the "deep state" cabal because of his popularity and his awareness of the enemy's identity.
@@ -25,3 +24,10 @@ According to the article, JFK Jr.'s assassination fits the broader pattern descr
 ## Crash and spatial disorientation
 
 The 1999 plane crash that killed Kennedy is cited in the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]] as a case officially attributed to [[spatial-disorientation|spatial disorientation]], the condition in which a pilot's senses misreport the aircraft's attitude and direction. The article groups it with the 2020 helicopter crash that killed [[kobe-bryant|Kobe Bryant]] to illustrate the lethal consequences of trusting instinct over instruments.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a mysterious masterclass in multi](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)

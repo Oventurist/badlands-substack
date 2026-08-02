@@ -12,7 +12,6 @@ sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---
-
 # Carlos Salinas
 
 Carlos Salinas de Gortari (born 1948) served as the 60th President of Mexico from 1988 to 1994. In the Badlands Media article [[a-family-affair]], he is portrayed as a central figure in a corruption network linking the salinas family to drug trafficking, political cover-ups, and the [[nafta]] agreement, which the source argues was designed to facilitate drug smuggling across the southern border and increase [[cia]] profits.
@@ -34,3 +33,7 @@ The source describes a bizarre twist: Carlos Salinas appointed the victim's brot
 ## Post-presidency and exile
 
 After leaving office, Carlos Salinas went into self-imposed exile, similar to [[carlos-andres-perez]] of Venezuela, who is also described in the source as a corrupt leader installed with CIA assistance who later fled to miami. The article draws a parallel between the two leaders, suggesting a shared "CIA template" for corrupt governance and escape.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-family-affair)

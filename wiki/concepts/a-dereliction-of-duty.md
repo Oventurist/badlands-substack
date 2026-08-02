@@ -8,7 +8,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # A Dereliction of Duty
 
 "A Dereliction of Duty" is a Badlands Media article by [[joe-lange|Joe Lange]], published November 16, 2024. It serves as a follow-up to an earlier piece on the 2012 Benghazi attack and advances a conspiratorial framework in which the Obama administration deliberately failed to rescue U.S. personnel under attack in order to protect a covert weapons-smuggling operation and cover up the administration's role in arming and funding terrorist organizations.
@@ -64,3 +63,7 @@ According to the article, Qataris delivered between 50 and 60 of those Stingers 
 The article concludes by asserting that Christopher Stevens was a major player in the weapons operation who thought he was part of a "protected class" and "untouchable." The source claims that Stevens was sacrificed on September 11, 2012 because it was time to shut down the operation before Congress learned the whole truth. It claims that Obama and Hillary Clinton coordinated their narrative after the attack, and that Obama defended Hillary because they were "both puppets of Prince Alwaleed."
 
 The piece asserts that the entire operation was designed to enrich government officials through weapons sales and money laundering while using taxpayer money to fund terrorist organizations. It claims that the Obama administration's "dereliction of duty" was not incompetence but a deliberate choice, and that the stand-down orders protecting Bin Laden were essentially the same as the stand-down orders that protected ISIS and Al Qaeda in Benghazi.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

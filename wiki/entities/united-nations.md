@@ -8,7 +8,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-gateway-to-a-new-world-of-coopera
 confidence: medium
 contested: true
 ---
-
 # United Nations
 
 The United Nations is the intergovernmental organisation founded in 1945 to maintain international peace and security. Its Security Council authorises the use of force and administers sanctions regimes, including the 1267 Committee list of individuals and entities associated with Al-Qaeda and the Taliban, and it deploys special representatives to mediate internal conflicts.
@@ -28,3 +27,11 @@ The article stresses that the UN as envisioned by [[franklin-d-roosevelt|Frankli
 ## In the Toronto Protocols narrative
 
 The essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]] states that the meetings recorded in [[toronto-protocols|the Toronto Protocols]] "explicitly make clear their intention to use globalist institutions such as the United Nations." On that basis [[justin-deschamps|Justin Deschamps]] added the UN, together with the [[world-health-organization|World Health Organization]] and the [[world-economic-forum|World Economic Forum]], to the fictional scenario he developed with [[chatgpt|ChatGPT]], in which the bodies serve as vehicles for advancing a [[new-world-order|New World Order]].
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"José Francisco Ruiz Massieu","description":"","frontmatter":{"title":"José Francisco Ruiz Massieu","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["mexico","pri","murder"],"sources":["raw/a-family-affair.md"],"confidence":"medium","contested":false},"headers":[],"relativePath":"entities/jose-francisco-ruiz-massieu.md","filePath":"entities/jose-francisco-ruiz-massieu.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/jose-francisco-ruiz-massieu.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="jose-francisco-ruiz-massieu" tabindex="-1">José Francisco Ruiz Massieu <a class="header-anchor" href="#jose-francisco-ruiz-massieu" aria-label="Permalink to &quot;José Francisco Ruiz Massieu&quot;">​</a></h1><p>José Francisco Ruiz Massieu was a Mexican politician who served as secretary general and second-ranking official of the <a href="/entities/institutional-revolutionary-party">institutional-revolutionary-party</a> (PRI), Mexico&#39;s ruling party for much of the 20th century. He was assassinated in September 1994.</p><h2 id="assassination" tabindex="-1">Assassination <a class="header-anchor" href="#assassination" aria-label="Permalink to &quot;Assassination&quot;">​</a></h2><p>According to <a href="/entities/the-washington-post">the-washington-post</a> and Mexican court records cited in the Badlands Media article <a href="/concepts/a-family-affair">a-family-affair</a>, Federal Judge Ricardo Ojeda Bohorquez concluded that evidence &quot;logically and judicially interwoven&quot; proved <a href="/entities/raul-salinas">raul-salinas</a> was the &quot;intellectual author&quot; of the killing. Ruiz Massieu had previously been married to Adriana Salinas, sister of Raul and <a href="/entities/carlos-salinas">carlos-salinas</a>.</p><h2 id="political-role" tabindex="-1">Political role <a class="header-anchor" href="#political-role" aria-label="Permalink to &quot;Political role&quot;">​</a></h2><p>As secretary general of the PRI, Ruiz Massieu was one of the most powerful figures in the Mexican political establishment. His murder is described in the article as part of a broader pattern of Salinas family corruption, in which political opponents and inconvenient figures were eliminated while the family profited from drug trafficking.</p><h2 id="aftermath" tabindex="-1">Aftermath <a class="header-anchor" href="#aftermath" aria-label="Permalink to &quot;Aftermath&quot;">​</a></h2><p>The appointment of his brother <a href="/entities/mario-ruiz-massieu">mario-ruiz-massieu</a> as special prosecutor to investigate the assassination is described in the article as a calculated move by Carlos Salinas to control the investigation. Mario&#39;s subsequent resignation and the evidence of altered witness statements are cited as proof of a cover-up.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-family-affair" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/jose-francisco-ruiz-massieu.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const joseFranciscoRuizMassieu = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  joseFranciscoRuizMassieu as default
+};

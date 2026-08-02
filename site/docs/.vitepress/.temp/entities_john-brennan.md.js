@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"John Brennan","description":"","frontmatter":{"title":"John Brennan","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["cia","counter-terrorism","benghazi"],"sources":["raw/a-dereliction-of-duty.md"],"confidence":"medium","contested":true},"headers":[],"relativePath":"entities/john-brennan.md","filePath":"entities/john-brennan.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/john-brennan.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="john-brennan" tabindex="-1">John Brennan <a class="header-anchor" href="#john-brennan" aria-label="Permalink to &quot;John Brennan&quot;">​</a></h1><p>John Brennan served as CIA Director under <a href="/entities/barack-obama">President Obama</a> from 2013 to 2017, and previously as Obama&#39;s top counter-terrorism advisor. In the Badlands Media article &quot;A Dereliction of Duty,&quot; Brennan is portrayed as a central figure in the Benghazi cover-up and as a key facilitator of the covert weapons-smuggling operation that armed <a href="/entities/al-qaeda">Al Qaeda</a> and <a href="/entities/isis">ISIS</a>.</p><p>According to the article, Brennan was serving as Obama&#39;s anti-terror czar during the September 11, 2012 attack on the U.S. consulate in <a href="/concepts/benghazi">Benghazi</a>. Citing an Investors Business Daily report, the source claims that Brennan was &quot;nowhere to be found&quot; in the media 20 days after the attack while other officials were speaking about it. It asserts that Brennan was &quot;certainly in the loop on everything happening in Benghazi&quot; and that he facilitated the growth of terrorism in the Middle East.</p><p>The article claims that Brennan was in charge of running the drone strike program out of the White House, and that he was &quot;at the top of the Chain of Command that hampered the military and allowed ISIS to expand.&quot; It further asserts that Brennan played a key role in the Benghazi cover-up by forcing CIA operatives involved in the rescue efforts to sign new non-disclosure agreements at a memorial service for the fallen contractors.</p><p>According to the source, Brennan was rewarded for his role in the cover-up when he was appointed CIA director only months after the Benghazi attack. The article quotes the CIA&#39;s old mantra—&quot;admit nothing and deny everything&quot;—as Brennan&#39;s guiding principle, and claims that he was involved in the CIA rendition and torture programs that forced him to withdraw his initial nomination as CIA director.</p><p>The article also claims that Brennan was working with the <a href="/entities/muslim-brotherhood">Muslim Brotherhood</a> in Turkey to smuggle weapons from Libya to ISIS in Syria, and that his &quot;Drone Doctrine&quot; failed to eradicate Al Qaeda while allowing the terror group to retrench in Libya and the Sinai Peninsula.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-dereliction-of-duty" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/john-brennan.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const johnBrennan = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  johnBrennan as default
+};

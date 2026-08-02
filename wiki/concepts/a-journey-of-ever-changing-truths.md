@@ -8,7 +8,6 @@ sources: [raw/a-journey-of-ever-changing-truths.md]
 confidence: medium
 contested: true
 ---
-
 # A Journey of Ever-changing Truths
 
 "A Journey of Ever-changing Truths," subtitled "How Can Anyone Believe They Have All the Answers?", is an opinion essay published by [[badlands-media|Badlands Media]] on April 15, 2025 and written by contributor [[erik-carlson|Erik Carlson]]. The piece is structured as an intellectual autobiography: the author traces how successive rounds of research repeatedly overturned conclusions he had previously believed to be final, and uses that arc to argue that the most effective form of information control is not outright lying but the strategic release of partial truths. The article carries the standard Badlands disclaimer that contributors' views do not necessarily represent those of Badlands Media itself, and it recorded 190 likes at the time of capture.
@@ -64,3 +63,7 @@ The article offers Russia as its historical proof. Russia, it argues, has been c
 The essay closes by reframing current events as a covert war between President [[donald-trump|Donald Trump]] and the City of London rather than between the United States and Russia, China, or Iran. Since early in his first presidency, the source claims, Trump has replaced the LIBOR system with SOFR, transferring control of the American banking system from the City of London to the [[federal-reserve|American Federal Reserve]]. In his second term he is onshoring manufacturing out of Communist China — described as itself run by the City of London — and back to America. The article reads the fall of the Soviet Union in the early 1990s alongside Japan's subsequent thirty-year economic stagnation and China's rise as evidence that the City of London simply "pivoted from controlling the Soviet Union to Communist China." Tariffs, in this account, "aren't just about creating fair trade; they're about removing the Globalist power that stems from the City of London."
 
 Carlson borrows two images from the film *Office Space* to make the point. Israel, Iran, and China are like the manager wandering cubicle to cubicle with his coffee mug: the recognizable face, but not the decision-maker. DOGE is like the two "Bobs" brought in to interview employees about what they actually do, exposing redundancy and triggering mass layoffs and company-wide fear. He concludes that while much of MAGA demands to see middle management "hanging from the gallows," Trump is pursuing the puppet masters: "While we see an ant in our kitchen and think to step on it, Trump is laying out poison, so they might bring it back to the rest of the colony."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)

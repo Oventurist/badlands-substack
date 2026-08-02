@@ -8,7 +8,6 @@ sources: [raw/all-assets-deployed.md, raw/are-cbdcs-the-path-to-fear-or-freedom.
 confidence: medium
 contested: true
 ---
-
 # Devolution
 
 Devolution is a theory developed by the writer [[jon-herold|Jon Herold]], publishing under the name Patel Patriot, in a serialized Substack essay series that became widely circulated within the [[maga|MAGA]] and [[america-first|America First]] research community after the 2020 U.S. presidential election. The term borrows from U.S. government continuity planning, in which essential functions are "devolved" to alternate chains of command in the event that primary command structures are compromised.
@@ -26,3 +25,10 @@ A corollary drawn in the corpus is that the exposure of corrupt systems cannot t
 ## Debate after November 2022
 
 Following Trump's announcement of his 2024 candidacy, critics within the community argued that the announcement conceded the 2020 election result or disproved the Devolution thesis. All Assets Deployed rejects this reading and directs readers back to Herold's series, arguing that the announcement is consistent with a continuing exposure operation and with the [[5th-generation-warfare|fifth-generation warfare]] framework through which the author interprets political events.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

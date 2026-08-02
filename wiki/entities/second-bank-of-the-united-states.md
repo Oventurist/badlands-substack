@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Second Bank of the United States
 
 The Second Bank of the United States was a central banking institution whose establishment is discussed in the article as a precursor to the Federal Reserve. According to the source, when the Second Bank was established, [[Andrew Jackson]] recognized that bankers were overreaching and acting as "a fourth branch of government run by the elite." The article claims Jackson understood that if bankers succeeded in their ultimate plan, they would "enslave every citizen in the country," prompting him to seek to root them out.
@@ -25,3 +24,7 @@ The Second Bank is framed in the article as the first major battleground in the 
 - [[1913]] — the year Jackson's opposition was ultimately overcome
 - [[Jekyll Island meeting]] — the secret meeting that planned the Federal Reserve
 - [[Coinage Act of 1873]] — established the gold standard Jackson favored
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

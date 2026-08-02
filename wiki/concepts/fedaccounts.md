@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
-
 # FedAccounts
 
 **FedAccounts** is the name given to a policy proposal under which the [[federal-reserve|Federal Reserve]] would offer bank accounts directly to individuals and businesses, rather than only to banks. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] presents the proposal as one of the central mechanisms by which a public banking option would be established across the United States.
@@ -32,3 +31,7 @@ Lange instructs readers to re-read the Berkeley description substituting "Treasu
 ## Opposition
 
 The [[american-bankers-association|American Bankers Association]] has lobbied [[congress|Congress]] against the proposal, which it says would require banks with more than $10 billion in assets to offer basic "pass through" accounts whose deposits rest at the Federal Reserve rather than on the bank's balance sheet. The ABA calls the plan impractical and "highly disruptive," warns that FedAccounts would draw deposits from banks of all sizes to the Fed's balance sheet, and states that banks would be "unable to compete with a government agency offering deposit accounts with an unlimited balance sheet." Lange reads these objections as confirmation of the proposal's power, noting that it would abolish the $250,000 insured-deposit ceiling and end what he describes as the private banking industry's control over the federal government.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

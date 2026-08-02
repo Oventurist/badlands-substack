@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md]
 confidence: medium
 contested: true
 ---
-
 # Tom Donilon
 
 Tom Donilon is an American national security official and financier described in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as "another card-carrying deep state operator" involved in the [[joint-comprehensive-plan-of-action|Iran Deal]].
@@ -26,3 +25,7 @@ Donilon is described as a regular fixture at what the article calls prestigious 
 ## BlackRock
 
 The affiliation the article emphasises most is his role as chairman of the BlackRock Investment Institute, "essentially the 'brain' of BlackRock Inc." This matters to the argument because BlackRock holds considerable — if not majority — equity stakes in [[chevron]], [[exxonmobil|Exxon]], [[bp]] and [[shell]], all of which stood to gain tremendously from sanctions relief on [[iran]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)

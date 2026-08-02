@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Steven Kwast","description":"","frontmatter":{"title":"Steven Kwast","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["military","air-force","aviation","badlands-media"],"sources":["raw/a-mysterious-masterclass-in-multi.md"],"confidence":"medium","contested":false},"headers":[],"relativePath":"entities/steven-kwast.md","filePath":"entities/steven-kwast.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/steven-kwast.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="steven-kwast" tabindex="-1">Steven Kwast <a class="header-anchor" href="#steven-kwast" aria-label="Permalink to &quot;Steven Kwast&quot;">​</a></h1><p>General Kwast — retired United States Air Force officer Steven Kwast — appears in <a href="/entities/badlands-media">Badlands Media</a> coverage as a speaker and attendee at the network&#39;s live events. He is a recurring figure in the August 30, 2024 essay <a href="/concepts/a-mysterious-masterclass-in-multi">&quot;A Mysterious Masterclass in Multi Sensory Deception&quot;</a>, which describes him attending the fifth <a href="/concepts/great-american-restoration-tour">Great American Restoration Tour</a> stop in Deadwood, South Dakota, accompanied by his wife, Joni.</p><h2 id="role-in-the-deadwood-essay" tabindex="-1">Role in the Deadwood essay <a class="header-anchor" href="#role-in-the-deadwood-essay" aria-label="Permalink to &quot;Role in the Deadwood essay&quot;">​</a></h2><p>According to the article, Kwast co-piloted the vehicle that carried the author and other attendees to Mount Rushmore, where the group&#39;s conversation ranged over space, emerging technology, energy, aviation and parenthood. He was already familiar with the <a href="/entities/cosmos-mystery-area">Cosmos Mystery Area</a> and joined the group&#39;s visit there the next morning. During that visit he jokingly described the author, standing upright inside the tilted cabin, as &quot;far right.&quot;</p><p>Kwast&#39;s principal contribution to the piece is an anecdote from Air Force flight training. He explained that instructors deliberately place student pilots in simulations in which their eyes deceive them, so that they learn to trust cockpit instruments rather than instinct; with the horizon obscured, a pilot who follows his senses instead of his instruments will not survive. The author connects this to the FAA&#39;s concept of <a href="/concepts/spatial-disorientation">spatial disorientation</a>.</p><p>Asked what the equivalent instruments are in the <a href="/concepts/information-war">information war</a>, Kwast answered that they are &quot;the trust between each of us, and our ability to use our individual skills and knowledge, working together, to triangulate what&#39;s true&quot; — a formulation the author adopts as the essay&#39;s conclusion.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-mysterious-masterclass-in-multi" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/steven-kwast.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const stevenKwast = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  stevenKwast as default
+};

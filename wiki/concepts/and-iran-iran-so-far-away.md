@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md]
 confidence: medium
 contested: true
 ---
-
 # And Iran, Iran So Far Away
 
 "And Iran, Iran So Far Away," subtitled "The True Implications of the Deep State's Global Power Play," is an essay published by [[badlands-media|Badlands Media]] on July 24, 2025 and written by [[ryan-delarme|Ryan DeLarme]]. Presented as a direct continuation of the earlier Badlands piece "The Deep Politics of the '12-Day War,'" the article argues that Western hostility toward [[iran]] has little to do with the Iranian nuclear program — dismissed in the text as "Schrödinger's nuke" — and instead reflects a factional struggle within the Western ruling elite over who will shape the future of the Middle East and profit from Iran's reopening.
@@ -86,3 +85,7 @@ The author lists the parties with a vested interest in the outcome: U.S. Chamber
 The situation is called a geopolitical minefield in which missteps could destabilise the Middle East, draw in nuclear-armed states like Pakistan and India, escalate tensions with China and further erode public trust. Navigating it, the author writes, "requires a finesse that balances populist appeal with strategic pragmatism," and Trump's ability to hold his coalition together while countering the establishment's entrenched power will determine whether he reshapes the global order or falls victim to its traps. Acknowledging the tremendous pressure Trump faces from the Netanyahu government, the piece concedes that "the truth of the situation is no Israel, no Trump 1 or 2." It closes by observing that although the "12-day war" is over, Iran remains a hugely important piece on the board, and that while "the writer's room is currently working on the next story arc of 'War with Iran,' it's evident that the show has been renewed for another season."
 
 A standard disclaimer notes that Badlands Media articles represent the opinions of contributing authors and not necessarily those of Badlands Media itself, and directs readers to more of DeLarme's work at the Post-Liberal.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)

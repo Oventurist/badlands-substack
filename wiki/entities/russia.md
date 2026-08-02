@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-fr
 confidence: medium
 contested: true
 ---
-
 # Russia
 
 Russia appears in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as both an opponent of the [[joint-comprehensive-plan-of-action|Iran nuclear deal]] and the target of the undeclared "second cold war" the article attributes to the Western foreign policy establishment.
@@ -26,3 +25,10 @@ The 2014 coup and the attempts to reclaim Crimea and the Donbass region of Ukrai
 The article asserts that "the wizards behind [[nato]] have been engaged in an undeclared second cold war with Russia, all while being in bed with [[china]]." [[william-burns]] is presented as part of that establishment, having produced diplomatic analysis concerning Russia in 2008 — the subject of the Badlands essay [[a-bright-red-line|A Bright Red Line]]. When [[donald-trump]] took office he reversed the working consensus from maximum pressure on Russia to maximum pressure on Iran and China, a maneuver the author believes "put the crosshairs on Trump's back."
 
 Russia also figures in the removal of [[imran-khan]]: the article identifies Khan's "aggressively neutral" stance toward Russia, and his threats to block Pakistani arms shipments to Ukraine, as primary reasons a target was placed on his back. [[pakistan]] is described as indispensable to the United States as an ally against Russia, as it was in the 1980s against the Soviets.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

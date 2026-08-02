@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Louis DeJoy","description":"","frontmatter":{"title":"Louis DeJoy","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["person","postal-service","trump-appointee"],"sources":["raw/a-seismic-shift.md"],"confidence":"high","contested":false},"headers":[],"relativePath":"entities/louis-dejoy.md","filePath":"entities/louis-dejoy.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/louis-dejoy.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="louis-dejoy" tabindex="-1">Louis DeJoy <a class="header-anchor" href="#louis-dejoy" aria-label="Permalink to &quot;Louis DeJoy&quot;">​</a></h1><p>Louis DeJoy is an American businessman who was selected as Postmaster General of the <a href="/entities/united-states-postal-service">United States Postal Service</a>. In <a href="/concepts/a-seismic-shift">A Seismic Shift</a>, <a href="/entities/joe-lange">Joe Lange</a> presents his appointment as evidence that President <a href="/entities/donald-trump">Donald Trump</a> took deliberate control of the Postal Service as part of a wider plan to restructure American elections and banking.</p><h2 id="selection" tabindex="-1">Selection <a class="header-anchor" href="#selection" aria-label="Permalink to &quot;Selection&quot;">​</a></h2><p>According to Time magazine as quoted in the article, Trump&#39;s appointees to the <a href="/entities/usps-board-of-governors">USPS Board of Governors</a> were confirmed by voice vote in the Senate, restoring a quorum by August 2019. When Postmaster General Megan Brennan announced her intention to retire in October of that year, the board was in a position to elect her successor, and in May it chose DeJoy — the first person selected for the position who had not come up through the organisation.</p><h2 id="reception" tabindex="-1">Reception <a class="header-anchor" href="#reception" aria-label="Permalink to &quot;Reception&quot;">​</a></h2><p>The Washington Post, also quoted in the article, describes DeJoy as a North Carolina businessman and Trump campaign donor who arrived in June to make sweeping cuts to postal operations, and who was appointed by a board controlled five to one by loyalists to President Trump. Lange notes that DeJoy was an outsider to the Postal Service and that &quot;the political left has hated DeJoy from the beginning.&quot; The same reporting places the traditionally nonpartisan Postal Service governing board at the centre of one of the biggest controversies over election integrity in years.</p><p>Lange reads DeJoy&#39;s installation as part of a longer-term project, quoting Trump&#39;s remark to reporters — &quot;We just got the board&quot; — and the Washington Post&#39;s characterisation of the once-obscure board as a &quot;behind-the-scenes powerhouse&quot; setting the president&#39;s priorities in motion, possibly for years to come.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-seismic-shift" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/louis-dejoy.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const louisDejoy = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  louisDejoy as default
+};

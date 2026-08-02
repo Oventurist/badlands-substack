@@ -11,7 +11,6 @@ sources: [raw/a-conflict-of-interest.md, raw/always-fight-back.md]
 confidence: medium
 contested: true
 ---
-
 # George W. Bush
 
 George W. Bush was the 43rd President of the United States, serving from 2001 to 2009. In the Badlands Media corpus, he is framed as a key architect of the post-9/11 national security state and the [[iraq-war|Iraq War]], which the source portrays not merely as a policy failure but as a deliberate vehicle for large-scale diversion of taxpayer funds.
@@ -23,3 +22,10 @@ The article characterizes Bush as "one of [[prince-alwaleed|Prince Alwaleed]]'s 
 ## The 2000 recount and HAVA
 
 The essay [[always-fight-back|"Always Fight Back"]] recounts that in 2000 broadcast media prematurely called Florida for [[al-gore|Al Gore]], that recounts awarded the state to Bush, and that the [[supreme-court-of-the-united-states|Supreme Court]] ended the dispute by halting the Florida recount on equal-protection grounds. The article treats the episode as a mainstream, fully legitimate example of contesting an election outcome, and notes that the controversy led directly to the [[help-america-vote-act|Help America Vote Act]], signed in 2002, which in the author's view centralized U.S. elections around private vendors with little meaningful oversight.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [always fight back](https://badlands.substack.com/p/always-fight-back)

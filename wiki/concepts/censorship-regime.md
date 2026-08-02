@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Censorship Regime
 
 In the Badlands Media corpus, the **censorship regime** refers to the network of state institutions, regulatory bodies, legacy media organizations, technology platforms, and non-governmental organizations that the source argues coordinate to suppress dissident voices, alternative narratives, and political outsiders during Western election cycles. The concept is central to the article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023), which frames the period between its publication and the November 2024 U.S. presidential election as a deliberate, quadrennial escalation in this regime's activities.
@@ -57,3 +56,7 @@ The censorship regime is the institutional instantiation of the **5th Generation
 - [[bbc]]
 - [[ofcom]]
 - [[rishi-sunak]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

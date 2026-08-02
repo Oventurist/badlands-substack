@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: high
 contested: true
 ---
-
 # American Bankers Association
 
 The American Bankers Association (ABA) is the principal trade association and lobbying body of the United States banking industry. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] casts it as the leading opponent of a public banking option and quotes its own policy analysis at length as an inadvertent confirmation of the threat such an option would pose to Wall Street.
@@ -22,3 +21,7 @@ The association further argues that the United States has a healthy banking syst
 ## The author's response
 
 Lange reads the ABA's objections as an admission of vulnerability. He argues that the pass-through requirement would give bank customers the option of moving their deposits into safe, publicly owned and controlled accounts, removing those deposits from bank balance sheets, preventing their use in risky schemes and ending bailouts. He rejects the characterisation of FedAccounts as "subsidized," contending that it is private banks that have been subsidised for generations by [[federal-deposit-insurance-corporation|federal deposit insurance]], and that the industry fears losing FDIC protection because without it most Americans would choose the public option. He also disputes the claim of a healthy banking system in light of recent bank failures, and highlights that a public option would abolish the $250,000 limit on protected savings.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

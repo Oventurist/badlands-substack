@@ -8,7 +8,6 @@ sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
-
 # Berkshire Hathaway
 
 Berkshire Hathaway is the American holding company built by Warren Buffett, with large equity stakes across the U.S. economy.
@@ -20,3 +19,10 @@ Berkshire Hathaway is the American holding company built by Warren Buffett, with
 ## Position in 2010
 
 Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] lists Berkshire Hathaway among the five largest American companies by market capitalization in 2010, alongside Exxon, [[apple-inc|Apple]], [[microsoft]], and Walmart. It does not appear in the essay's 2020 or 2025 rankings, illustrating the article's argument that the top of the [[sp-500|S&P 500]] has been progressively taken over by big technology and [[artificial-intelligence|AI]] firms.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)

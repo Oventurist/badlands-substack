@@ -8,7 +8,6 @@ sources: [raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---
-
 # House of Saud
 
 The House of Saud — Al Saud, where "Al" is a dynastic designation rather than the definite article — is the ruling family of [[saudi-arabia]] and the subject of the Badlands Media essay [[arabian-nights]], subtitled "The Redemption Arc of the House of Saud."
@@ -28,3 +27,7 @@ The source promises a subsequent article on Abdulaziz bin Abdul Rahman Al Saud, 
 ## The modern dynasty
 
 In the contemporary period the essay centres on [[mohammed-bin-salman]] and his father king salman, and on the November 2017 detention of some forty royals and officials at the Riyadh Ritz-Carlton, including muhammad bin nayef and alwaleed bin talal. The source argues that the mainstream press, and the [[new-york-times]] in particular, attempts to distinguish Alwaleed from the royal family proper. It notes that no tax is imposed or collected by the Saudi government, tracing the practice to al-Wahhab's argument in 1744 that taxation would create animosity between a ruler and his people. Saudi Arabia is described as both the leader of the Islamic world and the heartland of sunni islam, alongside Jordan and Syria.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arabian-nights)

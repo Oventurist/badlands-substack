@@ -13,7 +13,6 @@ sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---
-
 # A Conflict of Interest
 
 "A Conflict of Interest" is a Badlands Media article by Joe Lange, published October 3, 2024. The piece advances a conspiratorial framework in which [[q-anon|Q drops]] identify money as the "keystone" of corruption, and argues that successive U.S. administrations—particularly those of [[george-w-bush|George W. Bush]], [[barack-obama|Barack Obama]], and figures such as [[john-mccain|John McCain]]—have systematically diverted taxpayer funds to hostile actors and terrorist organizations under the cover of military intervention.
@@ -63,3 +62,7 @@ The article notes that a British parliamentary report pointed to Belhaj's involv
 ## Conclusion
 
 The article concludes by asserting that the conflict between "insiders" and "outsiders" is fundamentally about money, and that the enemy has already lost control. It frames [[donald-trump|Trump]] as the champion of outsiders who accepted the reality of this war long before his presidential campaign, and claims that "payback is coming." The piece positions itself as part of a larger series on taxpayer theft and deep state corruption.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-conflict-of-interest)

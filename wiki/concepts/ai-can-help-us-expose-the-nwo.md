@@ -8,7 +8,6 @@ sources: [raw/ai-can-help-us-expose-the-nwo.md]
 confidence: medium
 contested: true
 ---
-
 # AI Can Help Us Expose the NWO
 
 "AI Can Help Us Expose the NWO," subtitled "Using the Weapons of the Enemy Against Them," is a Badlands Media essay published on January 22, 2024 by [[justin-deschamps|Justin Deschamps]], with research and editorial assistance from [[simon-esler|Simon Esler]]. The piece documents an extended experiment in which the author fed passages from [[toronto-protocols|the Toronto Protocols]] into [[chatgpt|ChatGPT]] and asked the model to analyse them through the framework of military strategy, producing what the article presents as a detailed map of the warfare allegedly being waged by a globalist cabal to install a [[new-world-order|New World Order]]. The post carries Badlands Media's standard disclaimer that articles represent the opinions of contributing authors.
@@ -66,3 +65,7 @@ The tactics listed include generational capture of major media outlets and the m
 ## Collective situational awareness
 
 The essay concludes with a section titled "Collective Situational Awareness." Identifying the ways populations are assaulted by fifth-generation warfare waged by what the author calls "an ancient death cult" is complex, he writes, because attacks on families and on independent thought are covert and embedded in daily life. Using AI to assemble the exposed elements of that warfare nevertheless confers a distinct advantage: "We can make visible that which has been designed to remain invisible." It is from this position of collective situational awareness, the article argues, that collective action genuinely informed by what the enemy is trying to hide becomes possible.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)

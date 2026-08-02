@@ -8,7 +8,6 @@ sources: [raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
-
 # America First
 
 America First is the political slogan and movement associated with the candidacies and presidency of [[donald-trump|Donald Trump]], emphasizing national sovereignty, restrictive immigration and trade policy, skepticism of foreign entanglements, and opposition to what its adherents describe as globalist institutions.
@@ -26,3 +25,7 @@ The article names the structures America First is said to oppose: the fiat centr
 ## Relationship to MAGA
 
 In the corpus the terms America First and [[maga|MAGA]] are used closely together and often interchangeably, with America First tending to denote the ideological content and MAGA the popular base and its political energy.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/all-assets-deployed)

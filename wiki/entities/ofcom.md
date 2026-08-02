@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Ofcom
 
 The **Office of Communications (Ofcom)** is the United Kingdom's communications regulator, designated as the primary enforcement body under the **Online Safety Bill (OSB)** passed in **September 2023**. In the Badlands Media corpus, Ofcom is framed as the operational arm of the UK's institutional censorship apparatus, empowered to impose fines and platform bans on social media services that do not comply with the bill's content rules.
@@ -37,3 +36,7 @@ The article notes that the UK's approach to platform regulation has internationa
 - [[trusted-news-initiative]]
 - [[rumble]]
 - [[russell-brand]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

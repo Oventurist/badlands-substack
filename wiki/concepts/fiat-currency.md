@@ -8,7 +8,6 @@ sources: [raw/1913.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---
-
 # Fiat Currency
 
 **Fiat currency** is money whose value is not backed by a physical commodity such as gold, but is instead declared legal tender by government decree. In the Badlands Media corpus, fiat currency is presented as the monetary regime the source opposes — the system it says was imposed on Americans through the [[Federal Reserve]] and the [[1913]] legislative package, displacing the earlier [[Gold Standard]] (1873–1933).
@@ -42,3 +41,10 @@ The source asserts that with the Fed and the income tax (administered by the [[I
 ## Fiat and the digital dollar
 
 In [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]], Joe Lange addresses the objection that a [[central-bank-digital-currency|CBDC]] would merely be a digital fiat dollar. He concedes the point conditionally — "Yes, unless it's backed by gold, which is required by the constitution" — and argues that the litigation strategy he attributes to [[donald-trump|Donald Trump]] is designed to have the [[supreme-court-of-the-united-states|Supreme Court]] remove fiat currency and the central bank altogether by revisiting the Legal Tender Cases, the Gold Clause decisions, and the [[federal-reserve-act|Federal Reserve Act of 1913]]. The article predicts the global fiat system will collapse under unpayable debt in a crash larger than 2008 and worse than the Depression.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [1913](https://badlands.substack.com/p/1913)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

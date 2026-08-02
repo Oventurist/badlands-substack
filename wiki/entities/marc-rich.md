@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # Marc Rich
 
 Marc Rich, born Marcel Reich (1934–2013), was a commodities trader and international financier, widely regarded as the dominant oil trader of the late twentieth century and, after his 1983 indictment in the United States, one of the world's most famous fugitives. He is a central figure in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]], which uses his career to argue that [[sanctions|economic sanctions]] function as a covert profit and laundering mechanism rather than a punishment.
@@ -36,3 +35,7 @@ Rich was pardoned by [[bill-clinton|Bill Clinton]] on January 20, 2001, the last
 ## Associates linked to the Clintons
 
 After Rich's death in 2013, the New York Post reported that "his business partners, lawyers, advisers and friends have showered millions of dollars on the Clintons." The article highlights two: Nigerian businessman [[gilbert-chagoury|Gilbert Chagoury]], with whom Rich sold oil on international markets, and Russian investor [[sergei-kurzin|Sergei Kurzin]], who worked for Rich in the 1990s and later participated in the [[uranium-one|Uranium One]] transaction. The essay treats Uranium One's origin as a South African company as significant given Rich's South African trading history.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-3)

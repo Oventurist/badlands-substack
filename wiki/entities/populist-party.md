@@ -8,7 +8,6 @@ sources: [raw/1913.md]
 confidence: medium
 contested: true
 ---
-
 # Populist Party
 
 The Populist Party, formally known as the People's Party, is identified in the article as a key player in the late nineteenth-century movement for a federal income tax and monetary reform. According to the source, the party was formed by former slave owners in the aftermath of the Civil War.
@@ -25,3 +24,7 @@ The article makes the striking claim that in 1910, leaders of the Populist Party
 - [[Sixteenth Amendment]] — the constitutional vehicle for the income tax the Populists sought
 - [[Revenue Act of 1913]] — the legislation implementing the income tax
 - [[1913]] — the year of the cabal's alleged consolidation
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/1913)

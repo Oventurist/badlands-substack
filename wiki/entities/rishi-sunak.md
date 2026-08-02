@@ -8,7 +8,6 @@ sources: [raw/5gw-counter-offensive-the-censorship.md]
 confidence: medium
 contested: true
 ---
-
 # Rishi Sunak
 
 **Rishi Sunak** served as Prime Minister of the United Kingdom in **2023**, during the passage of the **Online Safety Bill** and the simultaneous targeting of **Russell Brand** over sexual abuse allegations. In the Badlands Media article *5GW Counter-Offensive – The Censorship Regime and the Road to 2024* (September 27, 2023), Sunak is framed as a politically self-interested actor exploiting the Brand allegations to advance a censorship agenda.
@@ -33,3 +32,7 @@ Within the Badlands corpus, Sunak is positioned as a key node in the transatlant
 - [[trusted-news-initiative]]
 - [[5th-generation-warfare]]
 - [[bbc]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)

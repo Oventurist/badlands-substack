@@ -35,4 +35,4 @@ The article presents case studies of the Solidarity Center's operations in [[ukr
 
 ## Sources
 
-The article cites a range of sources including *The Nation*'s "Labor's Cold War" by Tim Shorrock (2003), *Jacobin*'s coverage of the "AFL-CIA," a *Monthly Review* piece on "Labor Imperialism Redux," a 1967 *New York Times* series, and academic and leftist outlets documenting the AFL-CIO's role in covert statecraft.
+[Original article](https://badlands.substack.com/p/a-more-perfect-labor-union)

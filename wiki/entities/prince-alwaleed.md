@@ -12,7 +12,6 @@ sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-1.md, raw/ame
 confidence: medium
 contested: true
 ---
-
 # Prince Alwaleed bin Talal
 
 Prince Alwaleed bin Talal is a Saudi Arabian businessman and member of the Saudi royal family. In the Badlands Media article "A Conflict of Interest," Alwaleed is portrayed as a key financial and political node in what the source describes as a global cabal that controls U.S. taxpayer money through its influence over politicians and intelligence agencies.
@@ -36,3 +35,11 @@ Answering Q drop #4750's question "Who is Prince Al-Waleed bin Talal?", the auth
 [[america-for-sale-part-2|America for Sale — Part 2]] returns to Alwaleed as the figure standing behind the Clinton network. It notes that Q drop 71 — "FOLLOW HUMA" — was posted on November 4, 2017, the day before Alwaleed's arrest in Saudi Arabia, and reads [[huma-abedin|Huma Abedin]] as his chosen liaison to [[hillary-clinton|Hillary Clinton]]. Because her family lived in Jeddah, Alwaleed's home city, and because she was born an American citizen in Michigan, the article calls her "the perfect choice" for the role, one that gave Alwaleed access to the [[state-department|State Department]], the [[clinton-foundation|Clinton Foundation]] and [[teneo|Teneo]].
 
 Citing Q drop 299 of December 7, 2017 — "SA Controls (assigned) US / UK POLITICIANS / Tech Co's (primary)" — [[joe-lange|Joe Lange]] argues that Alwaleed had controlled leading American and British politicians for decades, describing [[bill-clinton|Bill Clinton]], [[george-w-bush|George W. Bush]] and [[tony-blair|Tony Blair]] — the three speakers at a 2012 Teneo client reception — as "puppets." The article also names Alwaleed as one of the Clinton Foundation's biggest donors during Clinton's tenure as Secretary of State, and restates the claim that he installed [[barack-obama|Barack Obama]] for eight years as the first half of a "sixteen year plan" whose second half was to be a Clinton presidency. His arrest on November 5, 2017 is presented as the trigger for subsequent events, including [[john-huber|John Huber]]'s appointment. These claims are contested.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)

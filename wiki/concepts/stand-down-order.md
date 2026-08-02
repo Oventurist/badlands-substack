@@ -8,7 +8,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # Stand Down Order
 
 A "stand down order" is a military or security instruction directing personnel not to engage, advance or deploy. Within the Badlands Media corpus the phrase is used far more expansively than its technical meaning, functioning as a unifying concept for any policy or command decision that, in the authors' reading, deliberately shielded a hostile actor from American force.
@@ -26,3 +25,7 @@ The article extends the concept backwards to [[bill-clinton|Bill Clinton]]'s Aug
 The third and broadest usage concerns [[barack-obama|Barack Obama]]'s requirement, cited from Q drop 2640, that the [[white-house|White House]] grant direct approval for each military action. The article argues that this restriction was "essentially a 'stand down order' protecting ISIS and Al Qaeda," and that it was administered in practice by counter-terrorism adviser [[john-brennan|John Brennan]]. Q drop 1887 of August 15, 2018 is presented as connecting these threads by linking stand-down orders protecting "UBL" — Usama/Osama Bin Laden — to the same chain-of-command architecture. The article credits [[donald-trump|Donald Trump]] with removing the White House from the battlefield chain of command, after which, it says, [[isis|ISIS]] was destroyed in under a year.
 
 Official investigations, including the House committee reviews referenced in the article, have consistently rejected the claim that a stand-down order was issued at Benghazi; the article acknowledges this contradiction and treats the official findings as themselves part of the cover-up.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

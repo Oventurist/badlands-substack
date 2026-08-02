@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america
 confidence: medium
 contested: true
 ---
-
 # Huma Abedin
 
 Huma Abedin is an American political staffer long associated with Hillary Clinton, for whom she served as deputy chief of staff at the State Department and as vice chair of the 2016 presidential campaign.
@@ -42,3 +41,11 @@ The article's central new claim concerns [[teneo|Teneo]]. Quoting *The Washingto
 Breitbart is cited for the report that a few months after Clinton took office in 2009, Abedin began communicating with Clinton Foundation donors seeking favors from the State Department. Throughout this period, the article notes, she remained assistant editor of the *[[journal-of-muslim-minority-affairs|Journal of Muslim Minority Affairs]]*. Lange characterizes the arrangement as an obvious conflict of interest and as the hub of a pay-for-play network.
 
 The essay also pairs Abedin with [[doug-band|Doug Band]], observing that both entered the Clinton orbit as White House interns and both left as the Clintons' closest aides. It cites *The Atlantic*'s formulation that "Band was to Bill Clinton what Huma Abedin has been to Hillary." Finally, it highlights Band's July 27, 2009 email asking Abedin for diplomatic passports ahead of the secret [[north-korea|North Korea]] hostage mission — "Need get me/ justy and jd dip passports" — and her reply, "Okay. Will figure it out."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)

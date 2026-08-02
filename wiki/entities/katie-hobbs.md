@@ -8,7 +8,6 @@ sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-eart
 confidence: medium
 contested: true
 ---
-
 # Katie Hobbs
 
 Katie Hobbs is an American Democratic politician who served as Secretary of State of Arizona and was her party's nominee for Governor in the 2022 general election, defeating Republican [[kari-lake|Kari Lake]]. Because Arizona's secretary of state is also the state's chief election officer, Hobbs occupied both roles simultaneously during the 2022 canvass — a conflict that the Badlands Media corpus treats as disqualifying.
@@ -30,3 +29,11 @@ Hobbs certified the Arizona general election on Monday, December 5, 2022, in her
 In [[kari-lake|Kari Lake]]'s contest, Hobbs is named both personally as contestee and in her official capacity. The complaint alleges, among much else, that she and [[stephen-richer|Stephen Richer]] colluded with the federal government to censor Americans and infringe First Amendment rights, noting that she complained about a private Facebook post asserting that [[donald-trump|Donald Trump]] won, and that she oversaw an election in which she was herself a candidate while trailing by ten points.
 
 The parallel suit brought by [[mark-finchem|Mark Finchem]] and [[jeff-zink|Jeff Zink]] alleges that Hobbs abused her power by failing to have the state's tabulation machines properly certified, by threatening the boards of supervisors in Mohave and Cochise counties with criminal charges if they did not certify the election, by declining to recuse herself while running for governor, and by flagging misinformation on a Twitter account in January 2021.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
+- [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)

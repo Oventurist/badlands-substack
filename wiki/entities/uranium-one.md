@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # Uranium One
 
 Uranium One was a uranium mining company, originally South African, that after a 2007 merger with [[urasia-energy|UrAsia Energy Ltd.]] became a major producer with assets in Africa, Australia, [[kazakhstan|Kazakhstan]] and the United States. Its acquisition by the Russian state nuclear agency [[rosatom|Rosatom]] between 2009 and 2013 became one of the most contested episodes of the Obama administration, and is examined at length in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]].
@@ -34,3 +33,7 @@ The [[nuclear-regulatory-commission|Nuclear Regulatory Commission]] assured Cong
 ## Interpretation in the corpus
 
 The Badlands article treats Uranium One as the clearest example of its thesis that American strategic assets were sold for private gain, quoting Q drop #1345 — "U1... Why? Money. Organized/planned by BC/HRC. Carried out by Hussein" — and stressing the company's South African origins as a link to the commodity trader [[marc-rich|Marc Rich]] and his uranium-for-oil swaps.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-3)

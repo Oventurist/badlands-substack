@@ -8,7 +8,6 @@ sources: [raw/a-time-to-strike.md]
 confidence: medium
 contested: true
 ---
-
 # A Time to Strike
 
 "A Time to Strike," subtitled "What Are the Cascade of Labor Strikes Accomplishing, and for Whom?", is an opinion essay published by [[badlands-media|Badlands Media]] on October 11, 2023 and written by the contributor [[ashe-in-america|Ashe in America]]. The piece surveys the wave of American labor actions of 2023 — the Hollywood writers' strike, the United Auto Workers walkout, and a broader surge of "worker activism" across retail, logistics, and healthcare — and argues that although the strikers' grievances are real, their demands are premised on an economic model that automation, offshoring and artificial intelligence have already dismantled. The article carries the standard Badlands disclaimer that contributions represent the opinions of their authors rather than the outlet itself.
@@ -60,3 +59,7 @@ What distinguishes the present moment, the essay concludes, is that this strike 
 - [[automation]]
 - [[kaiser-permanente]]
 - [[bureau-of-labor-statistics]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-time-to-strike)

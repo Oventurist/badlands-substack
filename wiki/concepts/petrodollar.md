@@ -8,7 +8,6 @@ sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.m
 confidence: medium
 contested: true
 ---
-
 # Petrodollar
 
 The Petrodollar refers to the arrangement, dating from the early 1970s, under which internationally traded oil was priced and settled in United States dollars, creating persistent global demand for the currency.
@@ -31,3 +30,10 @@ The end of the Petrodollar is presented alongside the [[brics|BRICS]] push for a
 ## Displacement by yuan-for-gold oil sales
 
 Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] describes the petrodollar arrangement — the deal making [[saudi-arabia|Saudi Arabia]], the world's largest oil producer, accept only dollars for oil — as one of the two pillars that made the dollar the "Keystone" of global finance and the instrument by which foreign policy could be dictated and non-compliant states punished. It credits [[china|China]] with beginning the reversal by opening the [[shanghai-petroleum-and-natural-gas-exchange|Shanghai Petroleum and Natural Gas Exchange]] in March 2018, allowing producers to sell oil for yuan convertible immediately into gold on the [[shanghai-gold-exchange|Shanghai Gold Exchange]], and asserts that the [[brics]] nations have thereby "ripped control of the world's oil supply away from the [[cabal]]."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

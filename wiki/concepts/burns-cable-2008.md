@@ -37,4 +37,4 @@ The Burns Cable is central to the Badlands Media corpus's analysis of foreign po
 
 ## Sources
 
-All substantive claims derive from the Badlands Media article *A Bright Red Line* (raw/a-bright-red-line.md), published May 3, 2024, which quotes and contextualizes the cable.
+[Original article](https://badlands.substack.com/p/a-bright-red-line)

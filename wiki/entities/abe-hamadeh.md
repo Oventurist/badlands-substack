@@ -8,7 +8,6 @@ sources: [raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
-
 # Abe Hamadeh
 
 Abe Hamadeh (rendered "Abe Hamedeh" in one instance in the source) is an Arizona Republican who was the party's nominee for state attorney general in the [[2022-united-states-midterm-elections|2022 midterm elections]]. His race against Democrat [[kris-mayes|Kris Mayes]] was the closest statewide contest in Arizona history.
@@ -22,3 +21,7 @@ His race was simultaneously subject to an automatic recount. "At 511 votes out o
 ## Treatment in the corpus
 
 The Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]] speculates that Hamadeh will win the recount, and frames the prospect of an America First attorney general serving as the state's top law enforcement official inside a Hobbs administration as a dramatic development in the unfolding political conflict in Arizona.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arizona-earthquake)

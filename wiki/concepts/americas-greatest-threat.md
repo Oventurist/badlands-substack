@@ -8,7 +8,6 @@ sources: [raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
-
 # America's Greatest Threat
 
 **America's Greatest Threat**, subtitled "It Doesn't Come from a Foreign Government …", is an opinion essay by [[erik-carlson|Erik Carlson]] published by Badlands Media on April 24, 2024. The piece argues that the principal danger to the United States has always been its own government rather than any foreign adversary, and that the constitutional order was designed specifically to guard against domestic usurpation. It attracted 182 likes on the Badlands Media Substack and carries the standard disclaimer that Badlands Media articles represent the opinions of contributing authors.
@@ -73,3 +72,7 @@ He nonetheless expresses faith that the system can be repaired. Quoting the Joke
 - [[federal-reserve|Federal Reserve]]
 - [[internal-revenue-service|Internal Revenue Service]]
 - [[congress|Congress]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/americas-greatest-threat)

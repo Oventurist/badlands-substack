@@ -8,7 +8,6 @@ sources: [raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
-
 # Arizona Earthquake!
 
 "Arizona Earthquake! Kari Lake Files an Explosive 70-Page Lawsuit" is a Badlands Media article published on December 12, 2022 by [[kitty-gillespie|Kitty Gillespie]]. It surveys the wave of post-certification election lawsuits filed by Republican and "America First" candidates in Arizona following the [[2022-united-states-midterm-elections|2022 midterm elections]], with primary attention to the gubernatorial election contest brought by [[kari-lake|Kari Lake]]. The piece is written in an openly partisan, conversational register, and closes with the standard Badlands disclaimer that contributor articles represent the opinions of their authors rather than the outlet itself.
@@ -78,3 +77,7 @@ In closing, Gillespie speculates that Hamadeh will prevail in the recount and th
 - [[kitty-gillespie]] — author
 - [[badlands-media]] — publisher
 - [[2022-united-states-midterm-elections]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/arizona-earthquake)

@@ -11,7 +11,6 @@ sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---
-
 # Mustafa Abdul Jalil
 
 Mustafa Abdul Jalil is a Libyan jurist and politician who served as Chairman of the National Transitional Council during the 2011 Libyan Civil War and later as interim President of Libya. In the Badlands Media corpus, he is identified as a central figure in the post-Gaddafi government and as a participant in the covert weapons-smuggling operation that diverted Libyan arms to terrorist organizations in Syria.
@@ -36,3 +35,7 @@ The article asserts that Abdul Jalil was the same Libyan leader that [[hillary-c
 - [[qatar]]
 - turkey
 - [[saudi-arabia]]
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)

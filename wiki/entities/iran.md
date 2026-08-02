@@ -8,7 +8,6 @@ sources: [raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
-
 # Iran
 
 Iran is the Middle Eastern state which, in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]], serves as the primary case study for the argument that [[sanctions|sanctions]] are an instrument of covert finance rather than punishment.
@@ -30,3 +29,7 @@ The article links Iran to the commodities trader [[marc-rich|Marc Rich]], who wa
 ## The Obama-era deal
 
 The essay closes its Iran thread with Q drop #1345 (May 12, 2018), which stated that policy toward Iran "was never about WW safety & security... It was about opening a new untapped market. It was about securing a black site. The 'Exchange'. U1... Money. Organized/planned by BC/HRC. Carried out by Hussein," and referenced a "$1.7b in-cash transfer to Iran [4 routes][5 planes]." The author argues that after the financial success of [[uranium-one|Uranium One]], [[barack-obama|Barack Obama]] negotiated an Iran nuclear deal worth billions on the same model.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/america-for-sale-part-3)

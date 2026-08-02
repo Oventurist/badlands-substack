@@ -8,7 +8,6 @@ sources: [raw/a-swan-song-for-the-msm.md]
 confidence: high
 contested: false
 ---
-
 # Citizen Journalism
 
 Citizen journalism is the practice of ordinary members of the public "playing an active role in the process of collecting, reporting, analyzing, and disseminating news and information," outside the institutional structures of the professional press. It is the organizing identity of [[badlands-media|Badlands Media]] and the central subject of [[a-swan-song-for-the-msm|A Swan Song for the MSM]], the February 2024 essay by [[ryan-delarme|Ryan DeLarme]].
@@ -28,3 +27,7 @@ According to the source, citizen journalists have faced demonetization, deplatfo
 ## The claim of succession
 
 The essay argues that despite these obstacles the independent sector "continues to grow at a rapid pace—that is the power of the truth, and a testament to how thirsty the American public is for it." It rejects the idea that journalism is a specialized art beyond ordinary citizens, insisting that honest reporting "simply serves as a means to convey information to the public accurately and without bias." Because the corporate press has abandoned that function, the article concludes, "the citizen journalist will write its epitaph" — summarized in the Badlands slogan "We are the news now."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-swan-song-for-the-msm)

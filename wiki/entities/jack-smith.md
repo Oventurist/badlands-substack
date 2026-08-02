@@ -8,7 +8,6 @@ sources: [raw/are-jack-smith-and-fani-willis-in.md]
 confidence: medium
 contested: true
 ---
-
 # Jack Smith
 
 Jack Smith is the United States Special Counsel who brought the federal criminal indictment against [[donald-trump|Donald Trump]] arising from the aftermath of the [[2020-united-states-presidential-election|2020 presidential election]]. In the Badlands Media corpus he appears principally in the September 2023 essay [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]], where his prosecution is treated less as a legal threat to Trump than as a potential opening for Trump's defense.
@@ -22,3 +21,7 @@ The author's central objection is epistemic rather than factual. Because the ind
 ## Speculation about motive
 
 The essay entertains the possibility that Smith is a knowing participant in what its author calls "the plan." It reasons that the [[deep-state|Deep State]] would not want evidence of election fraud entering a court record, yet Smith's indictment gives Trump discovery powers and a courtroom in which to present exactly that. The author is explicit that this is speculation and that he remains "on the fence" about whether Smith and Willis are complicit, offering as alternatives that the prosecutors simply cannot help themselves, that they loathe the idea of Trump being a free man, or that the indictments are the best case they could assemble. Either way, the article concludes, the charges have been filed "and there's no going back now."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)

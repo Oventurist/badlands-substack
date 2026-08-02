@@ -8,7 +8,6 @@ sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-
 confidence: medium
 contested: true
 ---
-
 # United States Congress
 
 The United States Congress is the bicameral national legislature, consisting of the Senate and the House of Representatives, and holds the constitutional power of the purse over federal spending, including foreign aid and military appropriations.
@@ -48,3 +47,15 @@ Senator Thad Cochran, a Mississippi Republican, is quoted saying: "I'm not blami
 [[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) treats Congress as the instrument through which the founders' fiscal restraints were dismantled. The [[sixteenth-amendment|Sixteenth Amendment]], ratified February 3, 1913, "granted Congress the authority to issue an income tax without having to determine it based on population," which the essay reads as deliberately removing the question from the electorate. Members knew, Carlson argues, that voters would never approve either a [[federal-income-tax|federal income tax]] or the [[federal-reserve|Federal Reserve]], and voted them in regardless "against their constituents best wishes," accepting the loss of re-election because "they were paid handsomely for their treasonous actions."
 
 The essay also argues that congressional service was never intended as a career. The federal government was meant to resemble modern local government, with a few full-time officials and most members returning to work as farmers, lawyers, or small business owners; today, Carlson writes, federal politicians "still work part time for the government" while spending the remainder of their time "lobbying and cutting deals with whoever will pay them the most." His conclusion is that changing the majority in Congress or the Speaker of the House accomplishes nothing "until the members of Congress actually work for the people and not the lobbyists and our foreign enemies."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

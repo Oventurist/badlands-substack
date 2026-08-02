@@ -8,7 +8,6 @@ sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-fr
 confidence: medium
 contested: true
 ---
-
 # China
 
 The People's Republic of China is presented in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as the decisive external variable in the Iran question, and as a partner of the Western foreign policy establishment rather than merely its rival.
@@ -26,3 +25,10 @@ The article asserts that "the wizards behind [[nato]]" have conducted an undecla
 Relations between China and [[israel]] had been relatively good and mutually beneficial, but strained once Beijing committed nearly half a trillion dollars to the state funding proxies on Israel's borders; Iran, the article notes, was far more important to the Belt and Road Initiative than Israel could ever be. Because Trump world is "populated by notorious China hawks," this alignment further pushed it toward the [[benjamin-netanyahu]] government.
 
 The article argues that although Iran alone may be a "paper tiger" after decades of sanctions, partnership with a superpower like China could allow it to supply Iran and its proxies with more missiles than the iron dome and David's Sling could intercept in a single barrage, turning Iran into an existential threat to Israel and producing an open-ended proxy war of attrition comparable to Ukraine. It closes the section by asking what the United States would do if China chose to protect its investment: "Hot war with China?"
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

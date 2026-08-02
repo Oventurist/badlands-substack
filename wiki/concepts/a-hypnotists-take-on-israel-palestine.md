@@ -8,7 +8,6 @@ sources: [raw/a-hypnotists-take-on-israel-palestine.md]
 confidence: medium
 contested: true
 ---
-
 # A Hypnotist's Take on Israel, Palestine, and Q
 
 "A Hypnotist's Take on Israel, Palestine, and Q" is an opinion essay published by Badlands Media on October 23, 2023, written by the pseudonymous contributor American Hypnotist. Subtitled "Has the Mockingbird Media Finally Destroyed Itself?", the piece applies the vocabulary of clinical hypnosis and persuasion to mass media coverage of the Israel–Palestine conflict, arguing that the emotional saturation of that coverage is causing the machinery of Mockingbird propaganda to fail rather than succeed.
@@ -64,3 +63,7 @@ The piece closes with Badlands Media's standard disclaimer that articles and fea
 - [[cabal]]
 - nominalization
 - israel palestine conflict
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)

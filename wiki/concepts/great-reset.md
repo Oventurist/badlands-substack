@@ -8,7 +8,6 @@ sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-f
 confidence: medium
 contested: true
 ---
-
 # Great Reset
 
 The "Great Reset" is the term used in the Badlands Media corpus for a proposed reorganisation of global governance and economics that critics associate with technocratic supranational management. In [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] describes it as an "anti-humanist Great Reset or transhumanist New World Order" and treats it as the alternative to the cooperative settlement he advocates.
@@ -33,3 +32,13 @@ In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], [[justin-des
 ## Competing resets
 
 Joe Lange's June 2023 article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] frames the Great Reset as inevitable but contested. With global debt in the hundreds of trillions and countries unable to service the interest, the article holds that a reset was always coming; the open question is "whose Great Reset will succeed" — [[donald-trump|Trump]]'s plan or the [[cabal]]'s, financial freedom for the people or total control of them. The article's answer is that the fiat system is being deliberately bankrupted while the [[brics]] bloc builds a replacement, the world returns to a [[gold-standard|gold standard]], and [[central-bank-digital-currency|CBDCs]] provide the technical means to complete the transition quickly.
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [a look at recent features 84d](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)

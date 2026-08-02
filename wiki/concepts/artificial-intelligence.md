@@ -8,7 +8,6 @@ sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, 
 confidence: low
 contested: true
 ---
-
 # Artificial Intelligence
 
 In the Badlands Media corpus, [[artificial intelligence]] is framed as a covert manipulation tool deployed by a global cabal to engineer a Communist takeover of the West.^[raw/a-communist-plot-to-take-over-america.md]
@@ -42,3 +41,13 @@ The January 2024 essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the
 Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] uses artificial intelligence as the dividing line in a quarter-century of American corporate history. The essay observes that the five largest American companies in 2025 -- [[apple-inc|Apple]], [[nvidia]], [[microsoft]], [[alphabet-inc|Alphabet]], and [[amazon]] -- "are all AI big tech companies," whereas in 2020 they were "all pre-AI big tech companies" and in 2000 a diversified mix across energy, aerospace, technology, pharmaceuticals, and retail.
 
 The article notes that every company donating one million dollars to [[donald-trump]]'s inaugural fund, including [[openai]] and [[meta-platforms|Meta]], was heavily involved in AI development, and remarks on Nvidia's conspicuous absence from that list. It also reports that [[bill-gates]] plans to fund nuclear power plants to supply Microsoft's AI, and imagines a dystopian endpoint of social atomization in which people spend Saturday evenings at home "with our AI robot girlfriend or boyfriend."
+
+## Sources
+
+This page draws on multiple source articles:
+
+- [a communist plot to take over america](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)

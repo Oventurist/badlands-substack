@@ -8,7 +8,6 @@ sources: [raw/anthony-fauci.md]
 confidence: medium
 contested: false
 ---
-
 # J.B. White
 
 J.B. White, who writes under the online handle RattlerGator, is a commentator and contributor to [[badlands-media|Badlands Media]]. His column "Anthony Fauci: Soldier for the Communist Cause," published December 20, 2022, is described in its own text as his initial written submission to the outlet, undertaken because the [[twitter-files|Twitter Files]] disclosures had, in his view, made the moment ripe for regular commentary on the [[deep-state|Deep State]].
@@ -22,3 +21,7 @@ He describes the 2020 presidential election as stolen through ballot stuffing "i
 ## Other activity
 
 White is a co-host of the Badlands programme Trash Talk alongside [[patrick-gunnels|Patrick Gunnels]]. Before joining Badlands he was active on Twitter, where a 70-post thread of his was read aloud by Gunnels in the Reading Epic Threads series, producing roughly 26 minutes of video hosted on Odysee. He also publishes independently at RattlerGator's Newsletter on Substack. His columns close with a personal set of maxims: "Patience. Preparation. Perseverance. Attention to Detail. Flexibility. Resiliency," followed by "Never think that God's delays are God's denials," and the sign-off "Later, Gators."
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/anthony-fauci)

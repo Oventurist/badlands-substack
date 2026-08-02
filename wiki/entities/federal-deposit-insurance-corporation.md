@@ -8,7 +8,6 @@ sources: [raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
-
 # Federal Deposit Insurance Corporation
 
 The Federal Deposit Insurance Corporation (FDIC) is the U.S. federal agency that insures deposits held at private banks. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] casts federal deposit insurance not as a consumer protection but as what he calls "a cabal trick" — the device by which private bankers eliminated their public competition.
@@ -28,3 +27,7 @@ The article also draws on FDIC household survey data reported by Cheddar News, w
 ## Relation to FedAccounts
 
 Lange argues that [[fedaccounts|FedAccounts]] would render deposit insurance unnecessary, because accounts held directly at the [[federal-reserve|Federal Reserve]] — or, in his preferred formulation, at the [[treasury-department|Treasury]] — cannot be defaulted on and would hold "pure sovereign money." He contends that the banking industry's real fear is the loss of FDIC protection, since without it most Americans would choose the public option, and notes that a public option would remove the $250,000 ceiling on protected savings.
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/a-seismic-shift)

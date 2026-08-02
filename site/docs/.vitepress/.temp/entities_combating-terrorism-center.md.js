@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Combating Terrorism Center at West Point","description":"","frontmatter":{"title":"Combating Terrorism Center at West Point","created":"2026-08-01T00:00:00.000Z","updated":"2026-08-01T00:00:00.000Z","type":"entity","tags":["us-military","research","foreign-fighters","iraq-war"],"sources":["raw/a-conflict-of-interest.md"],"confidence":"high","contested":false},"headers":[],"relativePath":"entities/combating-terrorism-center.md","filePath":"entities/combating-terrorism-center.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/combating-terrorism-center.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="combating-terrorism-center-at-west-point" tabindex="-1">Combating Terrorism Center at West Point <a class="header-anchor" href="#combating-terrorism-center-at-west-point" aria-label="Permalink to &quot;Combating Terrorism Center at West Point&quot;">​</a></h1><p>The Combating Terrorism Center is a research institution based at the United States Military Academy at West Point, established to study terrorism and insurgency and to inform U.S. military policy and officer education. It is best known publicly for its analyses of captured jihadist records, including the so-called Sinjar Records documenting foreign fighters who entered Iraq during the insurgency.</p><h2 id="role-in-the-badlands-corpus" tabindex="-1">Role in the Badlands corpus <a class="header-anchor" href="#role-in-the-badlands-corpus" aria-label="Permalink to &quot;Role in the Badlands corpus&quot;">​</a></h2><p>The Badlands Media article <a href="/concepts/a-conflict-of-interest">A Conflict of Interest</a> cites the center&#39;s work as official U.S. military evidence that the <a href="/entities/libyan-islamic-fighting-group">Libyan Islamic Fighting Group</a> was an <a href="/entities/al-qaeda">Al-Qaeda</a> organisation. The article reproduces material from a center study conducted to determine which groups American forces were fighting in Iraq and from which countries those fighters originated, and states that according to the military &quot;the LIFG had officially joined Al-Qaeda in 2007 and were sending lots of fighters to kill American soldiers in Iraq.&quot;</p><p>The article draws a further inference from the study&#39;s country-of-origin data, asserting that <a href="/entities/libya">Libya</a> supplied the largest number of foreign fighters in Iraq relative to its population. This statistic is used to argue that Libya had become the successor &quot;safe haven&quot; and training ground for Al-Qaeda after the loss of camps in Afghanistan following the September 11 attacks, and that the LIFG&#39;s role in producing those fighters was known to the U.S. government years before <a href="/entities/john-mccain">John McCain</a> met the group&#39;s leadership in <a href="/concepts/benghazi">Benghazi</a> in 2011.</p><h2 id="sources" tabindex="-1">Sources <a class="header-anchor" href="#sources" aria-label="Permalink to &quot;Sources&quot;">​</a></h2><p><a href="https://badlands.substack.com/p/a-conflict-of-interest" target="_blank" rel="noreferrer">Original article</a></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/combating-terrorism-center.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const combatingTerrorismCenter = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  combatingTerrorismCenter as default
+};
