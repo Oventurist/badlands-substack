@@ -46,20 +46,9 @@ async function collectPages() {
       pages[slug] = { section, title, file: f };
     }
   }
-  // root article pages (wiki/*.md excluding index/log/SCHEMA, locks, and queue state)
-  let rootFiles = [];
-  try {
-    rootFiles = await fs.readdir(WIKI);
-  } catch {}
-  for (const f of rootFiles) {
-    if (!f.endsWith(".md")) continue;
-    if (["index.md", "log.md", "SCHEMA.md"].includes(f)) continue;
-    if (f.startsWith(".inprogress-") || f.startsWith(".")) continue;
-    const slug = f.slice(0, -3);
-    const content = await fs.readFile(path.join(WIKI, f), "utf-8");
-    const title = extractTitle(content, slug);
-    pages[slug] = { section: "articles", title, file: f };
-  }
+  // Root article pages are intentionally NOT published on the site.
+  // (raw/ source material is gitignored, so the Articles section can't point
+  //  to source — decided 2026-08-01: drop Articles from the public site.)
   return pages;
 }
 
@@ -128,7 +117,6 @@ async function main() {
   const counts = {
     entities: Object.values(pages).filter((p) => p.section === "entities").length,
     concepts: Object.values(pages).filter((p) => p.section === "concepts").length,
-    articles: Object.values(pages).filter((p) => p.section === "articles").length,
   };
   const index = `---
 title: Badlands Wiki
@@ -140,14 +128,13 @@ A community-compiled knowledge base covering the people, institutions, concepts,
 
 - **Entities** (${counts.entities}): [browse all](/entities/) — people, organizations, and institutions
 - **Concepts** (${counts.concepts}): [browse all](/concepts/) — ideas and narratives
-- **Articles** (${counts.articles}): [browse all](/articles/) — full article pages
 
 Built automatically from the wiki. Search above to find any topic.
 `;
   await fs.writeFile(path.join(DOCS, "index.md"), index, "utf-8");
 
-  // section index pages so /entities, /concepts, /articles resolve
-  for (const [section, label] of [["entities", "Entities"], ["concepts", "Concepts"], ["articles", "Articles"]]) {
+  // section index pages so /entities and /concepts resolve
+  for (const [section, label] of [["entities", "Entities"], ["concepts", "Concepts"]]) {
     const list = Object.values(pages)
       .filter((p) => p.section === section)
       .sort((a, b) => a.title.localeCompare(b.title))
@@ -169,7 +156,6 @@ ${list}
   const sidebar = [
     sidebarItem(pages, "entities", "Entities"),
     sidebarItem(pages, "concepts", "Concepts"),
-    sidebarItem(pages, "articles", "Articles"),
   ];
   const config = `import { defineConfig } from "vitepress";
 
@@ -183,7 +169,6 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Entities", link: "/entities/" },
       { text: "Concepts", link: "/concepts/" },
-      { text: "Articles", link: "/articles/" },
     ],
     sidebar: ${JSON.stringify(sidebar, null, 2)},
     search: {
