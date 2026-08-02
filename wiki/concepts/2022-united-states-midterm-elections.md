@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [election, midterms, election-integrity, red-wave, congress]
-sources: [raw/all-assets-deployed.md]
+sources: [raw/all-assets-deployed.md, raw/an-sos-from-ground-zero.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,9 @@ The article counts "real wins, even amidst the fraud," specifically the projecte
 ## Aftermath within the movement
 
 The essay attributes the dour mood in the [[maga|MAGA]] base partly to the midterm result and partly to what it calls "the expectation game." It argues that the perceived fracture created an opening for [[con-inc|Con Inc.]] and supporters of [[ron-desantis|Ron DeSantis]] to widen divisions, and that the period constituted an activation of "assets" against the movement within an ongoing [[information-war|information war]].
+
+## Arizona and Maricopa County
+
+A second strand of corpus coverage focuses on the conduct of the election in Arizona, and particularly in [[maricopa-county|Maricopa County]]. In [[an-sos-from-ground-zero|An SOS From Ground Zero]], published November 22, 2022, [[kitty-gillespie|Kitty Gillespie]] documents ballot-on-demand printer failures at "at least 60 voting locations," disputed handling of [[door-3-ballots|"Door 3"]] ballots, and defective check-out procedures, all of them the subject of a November 19 letter from Assistant Attorney General [[jennifer-wright|Jennifer Wright]] questioning whether the county could lawfully certify results before the November 28 [[canvass-arizona|canvass]] deadline.
+
+Gillespie also advances an undervote argument: statewide unofficial returns as of November 21 showed 1,389,215 votes cast for State Treasurer — won by Republican [[kimberly-yee|Kimberly Yee]] with 55.7 percent — against 1,321,435 for U.S. Senate, 1,320,059 for Secretary of State, 1,287,322 for Governor, and 1,254,096 for Attorney General. She reads the pattern as evidence that manipulation of the top of the ticket did not extend to the down-ballot Treasurer contest. The gubernatorial contest between [[kari-lake|Kari Lake]] and [[katie-hobbs|Katie Hobbs]] remained the focus of litigation well past election day.
