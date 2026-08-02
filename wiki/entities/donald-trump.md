@@ -1,10 +1,10 @@
 ---
 title: Donald Trump
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -76,3 +76,20 @@ The essay rejects the claim that Trump and populism caused the collapse of the [
 ## The auto industry and the 2023 strike wave
 
 In [[a-time-to-strike|A Time to Strike]] (October 11, 2023), [[ashe-in-america|Ashe in America]] quotes a recent speech in which Trump declared, "The auto industry is being assassinated." The article endorses the assessment, arguing that optimization policies automated many manufacturing processes while global sourcing moved remaining jobs offshore, and contrasts Trump's framing with [[joe-biden|Joe Biden]]'s appearance on the [[united-auto-workers|United Auto Workers]] picket line in Wayne County, Michigan — an appearance the author calls astonishing given her view that Biden's spending policies had destroyed U.S. manufacturing.
+
+
+## Communication style and COVID comms (A Virus, or a Metaphor?)
+
+The July 2023 [[badlands-media|Badlands Media]] essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] by [[erik-carlson|Erik Carlson]] presents Trump as a deliberately layered communicator whose statements carry different meanings for four distinct audiences: those who are "completely asleep, fully brainwashed"; those who are half-awake but easily manipulated; those who are fully awake to manipulation; and, often, the [[deep-state|Deep State]] itself. The article's central claim is that Trump uses the word "virus" as a metaphor for [[communism|Communism]], and it invites readers to revisit his speeches and posts substituting one term for the other.
+
+Two examples are given. Trump's repeated insistence that COVID was the worst thing to happen to America since the [[spanish-flu|Spanish Flu]] "in 1917" — a date he continued to use even after being publicly ridiculed, since the pandemic occurred in 1918 — is read as pointing to the October 1917 [[bolshevik-revolution|Bolshevik uprising]]. His references to "Chyna" and the "Chyna virus," for which he was accused of racism, are read as signaling infiltration by the [[chinese-communist-party|Chinese Communist Party]].
+
+On the [[covid-19-vaccines|COVID-19 vaccines]], the essay argues Trump forced Big Pharma to accelerate development in order to end the lockdowns of the [[covid-19-pandemic|COVID-19 pandemic]] before the middle class was destroyed, and that his refusal to mandate vaccination — insisting instead that it "should be a choice, not a requirement" — was the decoded message beneath his public endorsement. The article also cites the [[securities-and-exchange-commission|SEC]]'s hold on the DWAC merger with [[trump-media-and-technology-group|Trump Media]], which restricted funding to [[truth-social|Truth Social]], and the decline in Trump's net worth after taking office, as evidence that he gains nothing from the Deep State he is accused of serving. Under the reading of [[the-sum-of-all-fears|The Sum of All Fears]] offered in the same essay, Trump and [[vladimir-putin|Vladimir Putin]] are the two figures the [[cabal|Cabal]] has never been able to control.
+
+## Tax-free tips and the July 2024 upheaval
+
+The Badlands Media essay [[a-week-to-remember|A Week to Remember]] argues that Trump's June 10, 2024 pledge to make tips tax-free — not [[joe-biden|Joe Biden]]'s debate performance — was the trigger for the [[deep-state|Deep State]] panic of that summer. The author reads the proposal as "a first step towards abolishing income tax," after which "the money supply system would be next," concluding that without private bankers controlling the money supply "the Deep State Cabal stands no chance of surviving." The article predicts that in a second term Trump would fund the government through tariffs and corporate taxes while progressively eliminating the [[federal-income-tax|federal income tax]].
+
+The same essay recounts the events of July 2024: the July 13 assassination attempt at Butler, Pennsylvania; the selection of [[jd-vance|JD Vance]] as running mate; the [[republican-national-convention|Republican National Convention]]; and Biden's withdrawal from the race. It notes that [[q-anon|Q]] had posted the phrase "a week to remember" on July 14, 2019, five years earlier.
+
+On monetary policy, the article credits Trump with forcing the normalisation of interest rates after 2016 — inheriting [[janet-yellen|Janet Yellen]] and later appointing [[jerome-powell|Jerome Powell]], whose aggressive 2018 hikes preceded a 20% market drop — and with ordering unprecedented money printing during the COVID-19 lockdowns, described as "fighting the [[cabal|Cabal]] with their own weapon, the [[federal-reserve|Federal Reserve]]." It also notes his 2017 meetings with [[brics|BRICS]] leaders and his argument that Amazon should deliver its own packages rather than be subsidised through the [[united-states-postal-service|Postal Service]].

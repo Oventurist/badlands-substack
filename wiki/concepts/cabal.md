@@ -1,10 +1,10 @@
 ---
 title: Cabal
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [narrative, central-banking, info-war, elite]
-sources: [raw/1913.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/1913.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
 confidence: low
 contested: true
 ---
@@ -52,3 +52,16 @@ The April 2025 essay [[a-journey-of-ever-changing-truths|A Journey of Ever-chang
 Carlson describes the cabal's composition as religiously and ethnically mixed — "Jews and non-Jews alike," including "Jews who masquerade as Jews, but who are really Satanists," fake Christians, fake Muslims, and atheists — with Satan worship as "the one thing that binds the Cabal together." He argues that the cabal deliberately uses Jews and Israel as scapegoats, in the same way he says the [[italian-mafia|Italian Mafia]] was used to conceal the [[jewish-mafia|Jewish Mafia]].
 
 The same essay attributes to the cabal a "playbook" of manufactured racial conflict requiring riots roughly every thirty years — the [[harlem-riot-of-1935|Harlem riots]] of 1935, the [[watts-riots|Watts riots]] of 1965, the [[rodney-king|Rodney King]] beating and the [[los-angeles-riots-1992|1992 Los Angeles riots]], and the [[george-floyd|George Floyd]] events of 2020 — and claims the cabal treated Russian lives as expendable, citing 24 million Soviet dead against 450,000 English dead in the Second World War.
+
+
+## Communism as the Cabal's tool (A Virus, or a Metaphor?)
+
+In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] draws a sharp distinction between the Cabal and the ideology it deploys. [[communism|Communism]], he writes, "is just a tool—a tool used by the Cabal to control. It's like an axe that is being swung by an axe-murderer. The real enemy is the person swinging the axe, in this case, the Cabal, who are modern-day Nazis." Fighting Communism is therefore framed as a way of "keeping the Cabal from getting their hands on the axe."
+
+The essay attributes to the Cabal the plan to prolong the lockdowns of the [[covid-19-pandemic|COVID-19 pandemic]] for up to five years in order to destroy the middle class and create a two-tier society, and identifies the Cabal with the "modern-day Nazis" of [[the-sum-of-all-fears|The Sum of All Fears]] who seek to provoke war between Russia and the United States — the two figures they have never controlled being [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]]. The author promises a follow-up article explaining "who the Nazis really are."
+
+## The Cabal and the money supply
+
+The essay [[a-week-to-remember|A Week to Remember]] states the Cabal's dependence on monetary control plainly: "Without private bankers controlling America's money supply system, the Deep State Cabal stands no chance of surviving." It adds a formulation of the Cabal's need for invisibility: "For the Cabal to exist, they need people to believe that they don't exist. For the system to exist, they need us to believe there isn't actually a system. For the Cabal to control the system, they need to control the money."
+
+The article argues the Cabal cannot allow the public to learn that [[inflation|inflation]] is manufactured rather than natural, since "who is going to continue to play at a roulette table if they know the wheel has a magnet, or play craps if they know the dice are loaded? The system must be protected at all costs." It also describes [[donald-trump|Trump]]'s COVID-era money printing as "fighting the Cabal with their own weapon, the [[federal-reserve|Federal Reserve]]," and frames the removal of [[joe-biden|Joe Biden]] and the July 13, 2024 assassination attempt as products of Cabal desperation, complicated by an apparent power struggle among Cabal families in America and Europe.

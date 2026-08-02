@@ -1,14 +1,14 @@
 ---
 title: Barack Obama
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - president
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md]
 confidence: medium
 contested: true
 ---
@@ -38,3 +38,8 @@ In the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Ma
 ## Countering Foreign Propaganda and Disinformation Act
 
 [[a-swan-song-for-the-msm|A Swan Song for the MSM]] argues that Obama recognized the terminal condition of the [[mainstream-media|corporate press]] before Donald Trump's election, citing his signing of the [[countering-foreign-propaganda-and-disinformation-act-of-2016|Countering Foreign Propaganda and Disinformation Act of 2016]] and his establishment of the [[global-engagement-center|Global Engagement Center]] within the [[state-department|State Department]]. The article contends that the resulting apparatus institutionalized the practice of labeling incriminating evidence of establishment corruption as "Russian disinformation," a strategy it says persists to this day.
+
+
+## Alleged role in bioweapon research (A Virus, or a Metaphor?)
+
+The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] names Obama, together with [[anthony-fauci|Anthony Fauci]], as having "funded and ran" the bioweapon program the author believes produced COVID-19. [[erik-carlson|Erik Carlson]] claims the program originated in a laboratory in North Carolina and was relocated to [[wuhan-institute-of-virology|Wuhan]], China "to maintain secrecy and control," and that the arrival of [[donald-trump|Donald Trump]] in office forced the operation overseas. The article extends the claim to further biolabs said to be operating in [[ukraine|Ukraine]] and possibly Taiwan. No documentary evidence is supplied; the assertions are presented as the author's stated beliefs.

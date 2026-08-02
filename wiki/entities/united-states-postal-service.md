@@ -1,10 +1,10 @@
 ---
 title: United States Postal Service
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [us-government, postal-service, public-banking, elections]
-sources: [raw/a-seismic-shift.md]
+sources: [raw/a-seismic-shift.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,9 @@ Citing Time magazine, the article recounts that the [[usps-board-of-governors|US
 ## Blockchain voting patent
 
 Business Insider reported in 2020 that the Postal Service had filed a patent for a "reliable voting system" using blockchain technology to improve the security and transparency of election results, under which voters would receive a unique code in the mail to verify their identity and vote online, with the record stored on a blockchain to prevent tampering. Lange argues the patent's real purpose is citizen verification and securing the voter rolls, and predicts it will accompany a national voter ID regime.
+
+## As an argument against income tax
+
+The Badlands Media essay [[a-week-to-remember|A Week to Remember]] cites the Postal Service in questioning the standard justifications for the [[federal-income-tax|federal income tax]]. If income tax pays to fix roads and run the postal service, the article asks, "why are we also paying gas tax, car tabs and postage?"
+
+It also recalls [[donald-trump|Trump]]'s position "that Amazon should deliver their own packages, and our taxes shouldn't be used to subsidize them through the USPS," observing that Amazon now runs a large delivery fleet of its own "and the company seems to be doing just fine."

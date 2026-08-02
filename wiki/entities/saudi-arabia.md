@@ -1,13 +1,13 @@
 ---
 title: Saudi Arabia
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - middle-east
   - saudi-royal-family
   - cia
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -21,3 +21,9 @@ According to the article, [[prince-alwaleed|Prince Alwaleed bin Talal]] was born
 The source also links Saudi Arabia to the broader pattern of taxpayer theft described in the article. It claims that Saudi Arabia was one of the biggest funding sources for [[al-qaeda|Al-Qaeda]], and that during [[donald-trump|Donald Trump's]] first year as president, Saudi Arabia and other Arab countries blockaded [[qatar|Qatar]] to cut off that funding. According to the article, this blockade was approved by Trump and resulted in [[abdelhakim-belhaj|Abdelhakim Belhaj]] being placed on a terrorist watchlist by several countries, including the Tobruk government in Libya.
 
 The article notes that the man who handled $40 billion in Iraqi cash—Basel—was a naturalized American citizen born in Saudi Arabia, and that his Lebanese descent mirrored Alwaleed's own mixed Saudi-Lebanese background. The source speculates that Basel was affiliated with Alwaleed, suggesting that Saudi networks were directly involved in the theft of U.S. taxpayer funds during the Iraq War.
+
+## The Petrodollar's expiry
+
+The Badlands Media essay [[a-week-to-remember|A Week to Remember]] links coverage of Saudi Arabia to the state of the [[petrodollar|Petrodollar]] arrangement. The article claims that "very recently, the 50-year Petrodollar agreement ended, and immediately afterward, the mainstream media was trying to tie Saudi Arabia to the 9/11 attacks."
+
+It draws a parallel with earlier coverage: when "the Saudi Arabian Royals started to get a little too chummy with [[donald-trump|Trump]] a few years ago, the media reported that the Saudis murdered and dismembered a journalist." The essay contends that reporting omitted that the journalist "was the nephew of the biggest arms dealer the world may have ever known" and "a CIA asset," concluding, "It's funny the details they tend to leave out." In the article's reading, negative Saudi coverage tracks the kingdom's distance from the dollar system and its proximity to Trump.

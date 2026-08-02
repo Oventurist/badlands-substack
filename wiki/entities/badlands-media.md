@@ -1,10 +1,10 @@
 ---
 title: Badlands Media
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [organization, media, citizen-journalism, substack]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
 confidence: high
 contested: false
 ---
@@ -40,3 +40,12 @@ Badlands Media published [[a-startling-contradiction-at-the|"A Startling Contrad
 ## In A Time to Strike
 
 Badlands Media published [[a-time-to-strike|"A Time to Strike"]] by [[ashe-in-america|Ashe in America]] on October 11, 2023. The post carries the outlet's customary appeal — that its content will always be free but that readers may support "our collective of citizen journalists" in taking "back the narrative from the MSM" — along with the standard disclaimer that contributor articles represent the opinions of their authors. The footer promotes the author's Badlands program *Culture of Change*, broadcast Sundays at 6PM ET.
+
+
+## A Virus, or a Metaphor? (July 2023)
+
+On July 17, 2023 Badlands Media published [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] by contributor [[erik-carlson|Erik Carlson]], an interpretive essay on [[donald-trump|Donald Trump]]'s COVID-era messaging that drew 255 likes. As with other contributor features, the piece carries the standard notice that "Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," alongside the outlet's recurring appeal that its content will always be free but that readers may support its "collective of citizen journalists" through paid subscription under the banner "We are the news now."
+
+## "A Week to Remember"
+
+Badlands Media published [[erik-carlson|Erik Carlson]]'s essay [[a-week-to-remember|A Week to Remember]] on July 25, 2024. As with other contributor pieces, the outlet appended its standard disclaimer that "Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," alongside its usual note that content is published free while readers may support the collective through paid subscription: "Help our collective of citizen journalists take back the narrative from the MSM. We are the news now."

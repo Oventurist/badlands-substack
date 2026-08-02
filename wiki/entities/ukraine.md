@@ -1,14 +1,14 @@
 ---
 title: Ukraine
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - ukraine
   - hybrid-warfare
   - labor-unions
   - nato
-sources: [raw/a-more-perfect-labor-union.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,8 @@ The article describes the 2014 Maidan uprising as "a textbook example of labor u
 Post-Maidan, the article claims the Solidarity Center continued funding to reshape Ukraine's labor laws, aligning them with EU standards — "less about worker protections and more about integrating Ukraine into Western economic structures."
 
 The article also notes that leaked and declassified State Department cables from the 2010s reveal that union organizers in Ukraine were tasked with reporting on local conditions via secure apps linked to U.S. embassies.
+
+
+## Biolab claims (A Virus, or a Metaphor?)
+
+The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] names Ukraine as a site of alleged bioweapon development. [[erik-carlson|Erik Carlson]] writes that beyond the laboratory work he attributes to [[barack-obama|Barack Obama]] and [[anthony-fauci|Anthony Fauci]] in North Carolina and later [[wuhan-institute-of-virology|Wuhan]], "other bioweapons were being created in other biolabs around the world as well, specifically in Ukraine, and possibly Taiwan." The article separately notes that in the plot of [[the-sum-of-all-fears|The Sum of All Fears]], the Nazi conspirators unleash a bioweapon on Ukraine as part of their effort to provoke war between Russia and the United States.

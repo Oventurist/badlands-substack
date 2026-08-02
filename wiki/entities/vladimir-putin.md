@@ -1,10 +1,10 @@
 ---
 title: Vladimir Putin
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md]
 confidence: high
 contested: false
 ---
@@ -26,3 +26,8 @@ Badlands coverage catalogued in [[a-look-at-recent-features|"A Look At Recent Fe
 ## The exile of the oligarchs
 
 A footnote to the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] states that when Putin "began exiling many of these unrepentant oligarchs, they quickly made their way to London where many became disposable playthings of the British Empire." The article credits the Russia-China partnership and the [[belt-and-road-initiative|Belt and Road Initiative]] with creating a counter-system to the unipolar order, and observes that "the NATO proxy war against Russia has only strengthened the Russian economy."
+
+
+## The Sum of All Fears reading (A Virus, or a Metaphor?)
+
+In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] interprets the [[q-anon|Q]] team's repeated references to [[the-sum-of-all-fears|The Sum of All Fears]] as a warning that "the real modern-day Nazis are trying to create a war between Russia and the US." Within that framing the article asserts that "the two people the Nazis have never been able to control are Trump and Putin," pairing Putin with [[donald-trump|Donald Trump]] as obstacles to the [[cabal|Cabal]]'s plan to have the two powers destroy each other.

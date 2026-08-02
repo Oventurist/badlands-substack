@@ -1,10 +1,10 @@
 ---
 title: Federal Reserve
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [central-banking, bank, agency, cabal]
-sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md]
+sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -42,3 +42,13 @@ The April 2025 Badlands essay [[a-journey-of-ever-changing-truths|A Journey of E
 Substantively, the article examines the [[fedaccounts|FedAccounts]] proposal, under which the Fed — currently "a bank for bankers," facilitating inter-bank payments and paying interest on bank accounts — would offer accounts directly to individuals and small businesses. Quoting the Berkeley Economic Review, the article notes that such accounts could not be defaulted on and would hold "pure sovereign money," the liability of the Federal Reserve itself, thereby lessening or eliminating the need for [[federal-deposit-insurance-corporation|federal deposit insurance]]. Work by [[morgan-ricks|Morgan Ricks]] proposes that the Fed partner with the [[united-states-postal-service|U.S. Postal Service]] as a physical branch network for these accounts.
 
 Lange nonetheless maintains that the Federal Reserve is itself unconstitutional, instructing readers to substitute "Treasury" for "Federal Reserve" throughout the Berkeley passage, and arguing that the [[treasury-department|Treasury]] rather than "a private bank like the Federal Reserve" should be in charge of the people's money. He also accuses the Fed of decades of "back door bailouts" to Wall Street banks using what he characterises as taxpayer money.
+
+## Post-2006 conduct in the Badlands corpus
+
+The essay [[a-week-to-remember|A Week to Remember]] presents the Fed's actions since 2006 as evidence that it functions as a tool of the [[deep-state|Deep State]]. According to the article, the Fed recognised in 2007 that the economy was near collapse and cut interest rates by five percentage points over the year, ahead of the autumn 2008 banking failure. Once the banking system became insolvent it cut rates to zero and bought assets onto its balance sheet to create liquidity.
+
+The source likens these measures to "a defibrillator used to shock the economy back to life," requiring eventual normalisation. Instead, it argues, the defibrillator "was used incessantly for the next eight years under [[barack-obama|Obama]]," during which the Fed never raised rates meaningfully or shrank its balance sheet — a period in which Facebook, Amazon, Apple, Netflix, and Google grew into mega-cap firms the article says were "created, funded and given preferential treatment by the CIA and their puppets," with suppressed rates enabling their expansion.
+
+The first hike came after [[donald-trump|Trump]]'s 2016 victory. Trump kept [[janet-yellen|Janet Yellen]] for two years before appointing [[jerome-powell|Jerome Powell]] in 2018, whose aggressive tightening preceded a 20% market decline and 2019 rate cuts. During the COVID-19 lockdowns of 2020, the article says, Trump "forced the Fed to print money at a rate never seen before," knowingly generating [[inflation|inflation]] as the lesser of two evils.
+
+The essay also describes the Fed as printing money "out of thin air to fund itself," passing it to banks and corporations so that "the government represents and works for the banks and corporations, not the people," and identifies the Fed's 1913 founding — simultaneous with the [[federal-income-tax|federal income tax]] and the [[internal-revenue-service|IRS]] — as no coincidence.

@@ -1,13 +1,13 @@
 ---
 title: Q Anon
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags:
   - conspiracy-theory
   - trump
   - deep-state
-sources: [raw/a-conflict-of-interest.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -35,3 +35,14 @@ The August 15, 2025 roundup [[a-look-at-recent-features|"A Look At Recent Featur
 ## Division of labour with the public
 
 The May 16, 2023 essay [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]] describes a two-tier model of restoration in which "Trump and the Q team fix things 'upstairs'" while ordinary citizens work at ground level by educating themselves about the legal system and "stepping into their true position as the de jure civilian authority." The author appends an explicit disclaimer that no specific action is being recommended, and characterises the moment as "an all hands on deck situation."
+
+
+## Q as a decoding framework (A Virus, or a Metaphor?)
+
+The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] describes Q as, besides [[donald-trump|Donald Trump]] himself, "probably the most attacked and vilified entity on the planet." It characterizes Q as a small group of patriots working behind the scenes to support Trump in the destruction of the [[deep-state|Deep State]], communicating with Anons first on 4chan and then 8chan in a deliberately cryptic manner so as not to illegally divulge classified information. Q asked many questions and directed Anons to investigate topics and people; followers hold that Trump is "Q+" and leads the team while feigning ignorance of the subject, and that the drops carry both information and disinformation.
+
+[[erik-carlson|Erik Carlson]] declines to argue for Q's authenticity, noting only that the pattern attributed to Q — cryptic messages, multiple meanings, multiple audiences — matches the pattern attributed to Trump. The essay then reinterprets two recurring Q references: [[the-hunt-for-red-october|The Hunt for Red October]], whose title is read as pointing to the October 1917 [[bolshevik-revolution|Bolshevik uprising]] and thus to a [[communism|Communist]] takeover of America by [[color-revolution|color revolution]]; and [[the-sum-of-all-fears|The Sum of All Fears]], read as a warning that modern-day Nazis are attempting to provoke war between Russia and the United States.
+
+## "A week to remember"
+
+The Badlands Media essay [[a-week-to-remember|A Week to Remember]] opens with a Q drop for its title and framing. According to the article, Q posted the phrase "a week to remember" on July 14, 2019 — and the assassination attempt on [[donald-trump|Donald Trump]] occurred on July 13, five years later. [[erik-carlson|Erik Carlson]] uses the correspondence to introduce his account of the extraordinary week that followed, which included the selection of [[jd-vance|JD Vance]], the [[republican-national-convention|Republican National Convention]], and [[joe-biden|Joe Biden]]'s withdrawal from the presidential race.

@@ -1,10 +1,10 @@
 ---
 title: Internal Revenue Service
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [agency, legislation, central-banking]
-sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md]
+sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -41,3 +41,9 @@ The source links the income tax to earlier advocacy by the [[Populist Party]] an
 ## Enforceability of Title 26
 
 The May 16, 2023 Badlands essay [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]] uses the IRS as its principal illustration of unknowable law. It asks whether IRS agents have the entire revenue code — Title 26 of the [[united-states-code|United States Code]] — memorised, and, if not, how they can enforce it in real-time situations, comparing the attempt to playing chess without knowing how the pieces move. The example is offered in support of the article's broader claim that the [[rule-of-law|rule of law]] cannot exist where citizens are unable to articulate the rules binding them.
+
+## Purpose as described in "A Week to Remember"
+
+The Badlands Media essay [[a-week-to-remember|A Week to Remember]] characterises the IRS as an instrument of fear rather than revenue. Arguing that federal taxes do not in fact fund the government, the article states that "we live in fear of the IRS, which is why it was created."
+
+The essay stresses that the [[federal-income-tax|federal income tax]], the [[federal-reserve|Federal Reserve]], and the IRS were all established in 1913: "This is not a coincidence." In the author's framing, the tax exists to sustain "the illusion that Americans pay for their government," and the IRS exists to enforce compliance with that illusion.

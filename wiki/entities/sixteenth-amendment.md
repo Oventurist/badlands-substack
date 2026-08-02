@@ -1,10 +1,10 @@
 ---
 title: Sixteenth Amendment
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [legislation, narrative, central-banking]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -25,3 +25,9 @@ The source presents the Sixteenth Amendment as one of the two great consolidatio
 - [[Federal Reserve]] — the institution created the same year
 - [[1913]] — the year of ratification
 - Oscar Underwood — Representative who moved the Revenue Act through the House
+
+## In "A Week to Remember"
+
+The essay [[a-week-to-remember|A Week to Remember]] refers to the 1913 amendment as the mechanism by which income taxation was imposed against the founders' intent: "Our founding fathers viewed income tax as being unconstitutional. Politicians had to later amend the Constitution to start taxing Americans' incomes in 1913."
+
+The article treats the amendment as one leg of a tripod erected in a single year, alongside the creation of the [[federal-reserve|Federal Reserve]] and the [[internal-revenue-service|IRS]], and argues that even setting the constitutional question aside, the resulting regime cannot justify taxing "the same dollar being taxed multiple times" through income, property, sales, and capital gains levies. See [[federal-income-tax|federal income tax]] for the fuller argument.

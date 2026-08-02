@@ -1,10 +1,10 @@
 ---
 title: Deep State
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [deep-state, cabal, city-of-london, shadow-government]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,18 @@ In [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] (Septembe
 ## Dependence on public ignorance
 
 The May 16, 2023 essay [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]] frames the Deep State's power as resting specifically on legal illiteracy: "The Deep State requires our collective ignorance to operate unopposed." On this account the impenetrability of the [[united-states-code|United States Code]] is not merely an administrative failing but an operating condition, and the concealment of the definition of the [[united-states-federal-corporation|United States as a federal corporation]] is described as "an extraordinary act of maladministration" that "has been covered up almost completely." The remedy proposed is collective civic education — the crowd-sourced cataloguing of legal absurdities — undertaken by the public while [[donald-trump|Donald Trump]] and the [[q-anon|Q]] team are said to be addressing matters "upstairs."
+
+
+## The Deep State as audience and adversary (A Virus, or a Metaphor?)
+
+[[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] treats the Deep State both as the target of [[donald-trump|Donald Trump]]'s covert messaging and as one of the audiences that messaging addresses. [[erik-carlson|Erik Carlson]] argues that critics who claim Trump is himself a Deep State asset never explain why he is attacked so relentlessly, or why he and his family would endure sustained abuse if he were not genuinely working to dismantle the [[cabal|Cabal]]. The essay cites the decline in Trump's net worth after taking office, the [[securities-and-exchange-commission|SEC]]'s hold on the [[trump-media-and-technology-group|Trump Media]] merger, and uniform media hostility as evidence that "he doesn't appear to be benefiting from his membership in this elite group in any way whatsoever."
+
+The article further asserts that the plan of the Deep State during the [[covid-19-pandemic|COVID-19 pandemic]] was to extend lockdowns for as long as five years — long enough to destroy the middle class and produce a two-tier society — continuing "until the Deep State had complete control of everything" under a one-world totalitarian government.
+
+## Panic and fracture in July 2024
+
+The Badlands Media essay [[a-week-to-remember|A Week to Remember]] describes mid-2024 as a period of unprecedented Deep State distress: "This is panic like we have never seen before. They could have replaced [[joe-biden|Biden]] at any time during the past three years. They could have tried to assassinate [[donald-trump|Trump]] at any time during the past three years as well. What happened that seems to have triggered their desperation?"
+
+The article's answer is Trump's June 10, 2024 proposal to make tips tax-free, interpreted as the first move toward abolishing the [[federal-income-tax|federal income tax]] and then the money supply system itself. It also observes that the Deep State did not appear unified — some figures stood by Biden while others abandoned him — and attributes this to an internal power struggle, citing the engagement of [[alex-soros|Alex Soros]] and [[huma-abedin|Huma Abedin]] as a possible dynastic settlement.
+
+Looking forward, the essay predicts continued exposure of Deep State actors, groundwork for an economic recovery in 2025, and a migration of Deep State power from America to Europe — supported by the contrast between [[boeing|Boeing]]'s collapse in share price and the quiet surrounding France-based [[airbus|Airbus]] — with Cabal families in England, France, and Germany contesting the spoils.

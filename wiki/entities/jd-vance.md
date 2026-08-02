@@ -1,0 +1,20 @@
+---
+title: JD Vance
+created: 2026-08-02
+updated: 2026-08-02
+type: entity
+tags: [person, 2024-election, republican-party]
+sources: [raw/a-week-to-remember.md]
+confidence: high
+contested: false
+---
+
+# JD Vance
+
+JD Vance is a United States Senator from Ohio who was selected by [[donald-trump|Donald Trump]] as his vice-presidential running mate for the 2024 presidential election.
+
+## In the Badlands corpus
+
+The Badlands Media essay [[a-week-to-remember|A Week to Remember]] by [[erik-carlson|Erik Carlson]] cites Vance's selection as one of the rapid-fire developments that made mid-July 2024 an extraordinary period in American politics. Listing the sequence of events following the July 13, 2024 assassination attempt at the Butler, Pennsylvania rally, the article notes that "Trump has picked JD Vance as his VP, the RNC occurred, and [[joe-biden|Biden]] has dropped out of the race." Vance's nomination was formalized at the [[republican-national-convention|Republican National Convention]] held days after the shooting.
+
+The article does not analyse Vance's politics or record; he appears as a marker in the compressed timeline the author uses to argue that a "tectonic shift of the narrative" was occurring daily.
