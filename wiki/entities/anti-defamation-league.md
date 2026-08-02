@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [organization, censorship, info-war, 5gw, media-criticism]
-sources: [raw/5gw-counter-offensive-the-censorship.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-glaring-double-standard.md]
 confidence: medium
 contested: true
 ---
@@ -24,6 +24,10 @@ The Badlands source describes organizations like the ADL with the parenthetical 
 ## Relationship to Broader Censorship Ecosystem
 
 Within the Badlands corpus, the ADL is positioned as a non-state actor that amplifies and legitimizes censorship demands against individual entrepreneurs and platforms that challenge establishment narrative control. The article connects the ADL's campaign against Musk to parallel pressure on Rumble from the **Associated Press** and the **Washington Post**, arguing that these campaigns are synchronized and mutually reinforcing components of a quadrennial offensive.
+
+## College-campus antisemitism figures
+
+In the Badlands Media article "A Glaring Double Standard" (June 19, 2025), [[ryan-delarme|Ryan DeLarme]] cites an ADL report counting 1,200 "antisemitic incidents" on U.S. college campuses between October 7, 2023, and September 24, 2024 — including assaults, vandalism, harassment, and hate speech. The source argues that the vast majority of these fell under "harassment" and "hate speech," and that many amount to differences of opinion about Israel that are reported as harassment. DeLarme uses the figures to critique what he calls the "amorphous and often recklessly employed term 'antisemitism,'" drawing attention to how its application can "diminish examples of genuine antisemitism." ^[raw/a-glaring-double-standard.md]
 
 ## See also
 

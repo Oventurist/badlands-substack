@@ -7,8 +7,7 @@ tags:
   - medicare-fraud
   - miami
   - bush-family
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---

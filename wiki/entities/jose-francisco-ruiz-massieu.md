@@ -7,8 +7,7 @@ tags:
   - mexico
   - pri
   - murder
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: medium
 contested: false
 ---

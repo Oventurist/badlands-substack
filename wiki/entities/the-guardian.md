@@ -6,8 +6,7 @@ type: entity
 tags:
   - journalism
   - media
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: high
 contested: false
 ---

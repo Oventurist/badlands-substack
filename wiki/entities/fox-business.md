@@ -7,8 +7,7 @@ tags:
   - journalism
   - media
   - finance
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: high
 contested: false
 ---

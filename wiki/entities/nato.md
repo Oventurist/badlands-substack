@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [agency, foreign-policy]
-sources: [raw/a-bright-red-line.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md]
 confidence: medium
 contested: true
 ---
@@ -36,3 +36,7 @@ NATO's role in the Ukraine conflict connects it to [[william-burns]], who warned
 ## Sources
 
 Claims in this entry derive from the Badlands Media article *A Bright Red Line* (raw/a-bright-red-line.md), published May 3, 2024. The entry reflects the source article's critical framing of NATO expansion.
+
+## Nuclear balance and the multipolar alliance
+
+The Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]] (September 3, 2025) discusses NATO in the context of strategic deterrence. [[matthew-ehret|Matthew Ehret]] argues that the next-generation hypersonic missile technologies unveiled by both Russia and China — including underwater drones — have demonstrated that "a first strike monopoly by NATO is a pipe dream," and that no attack on Russia or China could be carried out without a retaliation that "would take out every major city across the Rules Based International free world." The article contrasts NATO's posture with the security architecture set out in the [[tianjin-declaration|Tianjin Declaration]] and advanced by the [[multipolar-alliance|multipolar alliance]], and warns that some analysts at the [[rand-corporation|RAND Corporation]] and in the military-industrial complex nonetheless treat a new world war as winnable.

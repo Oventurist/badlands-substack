@@ -7,8 +7,7 @@ tags:
   - syria
   - lobbying
   - isis
-sources:
-  - a-conflict-of-interest.md
+sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---

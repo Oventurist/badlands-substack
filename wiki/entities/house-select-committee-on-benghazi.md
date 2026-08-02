@@ -7,8 +7,7 @@ tags:
   - congress
   - benghazi-investigation
   - hillary-clinton
-sources:
-  - a-dereliction-of-duty.md
+sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---

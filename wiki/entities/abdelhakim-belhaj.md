@@ -9,8 +9,7 @@ tags:
   - al-qaeda
   - cia
   - businessman
-sources:
-  - a-conflict-of-interest.md
+sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---

@@ -7,8 +7,7 @@ tags:
   - muslim-brotherhood
   - libya
   - abdelhakim-belhaj
-sources:
-  - a-conflict-of-interest.md
+sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---

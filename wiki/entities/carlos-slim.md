@@ -7,8 +7,7 @@ tags:
   - business
   - mexico
   - telecom
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: medium
 contested: false
 ---

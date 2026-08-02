@@ -7,8 +7,7 @@ tags:
   - president
   - cia
   - stand-down
-sources:
-  - a-dereliction-of-duty.md
+sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +21,9 @@ According to the article, Clinton signed a Memorandum of Notification in August 
 The article asserts that Clinton was desperate to hide this memorandum from the 9/11 commission because he was afraid he would get the blame for the 9/11 attacks that killed thousands of Americans. It claims that Clinton's National Security Advisor [[sandy-berger|Sandy Berger]] stole classified documents from the National Archives to cover up the administration's response to the terrorist threat, and that this was evidence of a broader pattern of obstruction.
 
 According to the source, Clinton's protection of Bin Laden was part of the same pattern as Obama's stand-down orders protecting ISIS and Al Qaeda. It claims that the "shadow government" uses stand-down orders to protect terrorist assets that it has created and funded, and that this pattern extends across multiple administrations. The article frames Clinton as a puppet of the same cabal that later controlled Obama, and asserts that his actions set the stage for the perpetual war on terror that enriched hidden networks through weapons sales and money laundering.
+
+## Prisons and the 1994 Crime Bill
+
+The April 2025 essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] by [[erik-carlson|Erik Carlson]] treats Clinton's domestic record as part of a separate scheme. It states that "under President Bill Clinton, the prison system was becoming privatized," meaning private companies would run American prisons for profit, and that falling crime rates therefore threatened those who "benefitted from prisons being full."
+
+The article names Clinton alongside Senator [[joe-biden|Joe Biden]] as authors of the [[violent-crime-control-and-law-enforcement-act-of-1994|Crime Bill of 1994]], which it says increased sentences for non-violent offenders — "aka drug dealers" — and asserts that "kickbacks came to the politicians who helped pass the new crime bills." In the essay's wider account, the bill worked in concert with [[cia|CIA]]-sponsored [[gangster-rap|gangster rap]] and CIA drug importation into South Central Los Angeles to supply inmates for [[prison-privatization|privatized prisons]], while the [[rodney-king|Rodney King]] affair and the [[los-angeles-riots-1992|1992 Los Angeles riots]] supplied the racial division that made the program politically viable.

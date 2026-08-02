@@ -8,8 +8,7 @@ tags:
   - syria
   - iraq
   - cia
-sources:
-  - a-conflict-of-interest.md
+sources: [raw/a-conflict-of-interest.md]
 confidence: medium
 contested: true
 ---

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [central-banking, bank, agency, cabal]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,7 @@ The source claims the Federal Reserve has persisted ever since, creating a syste
 - [[1913]] — the year of the Act's passage
 - [[Sixteenth Amendment]] — ratified the same year as the Federal Reserve Act
 - [[Revenue Act of 1913]] — passed the same year, establishing the IRS
+
+## The LIBOR-to-SOFR transfer
+
+The April 2025 Badlands essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] gives the Federal Reserve an unusually favorable role. [[erik-carlson|Erik Carlson]] writes that since early in his first presidency, President [[donald-trump|Donald Trump]] "has replaced the [[libor|LIBOR]] system with the [[sofr|SOFR]] system, taking control of the American banking system away from the [[city-of-london|City of London]] and giving it to the American Federal Reserve." In that essay the Fed is treated as the domestic recipient of authority repatriated from London rather than as the instrument of foreign financial control described elsewhere in the corpus.

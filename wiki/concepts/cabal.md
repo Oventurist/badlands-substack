@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [narrative, central-banking, info-war, elite]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md]
 confidence: low
 contested: true
 ---
@@ -40,3 +40,15 @@ The term is used by the source as an interpretive lens, not a documented organiz
 ## References
 
 - Badlands Media, "1913: The Year the Cabal Enslaved America," `raw/1913.md`
+
+## The cabal as hypnotist
+
+The October 2023 Badlands essay [[a-hypnotists-take-on-israel-palestine|"A Hypnotist's Take on Israel, Palestine, and Q"]] treats the cabal primarily as the operator of a propaganda apparatus rather than as a financial network. [[american-hypnotist|American Hypnotist]] writes that "the hypnotic propaganda of the cabal is visibly backfiring" in the [[5th-generation-warfare|5G battle]], and describes its social engineers as needing not only to inflame the passions of the public but to direct the resulting rage along pre-scripted paths — "the puppeteers pulling the strings behind the scenes," concealed by the fog of war and sustained by the [[operation-mockingbird|Mockingbird]] media. The essay connects this to [[smedley-butler|Smedley Butler]]'s 1930s claim that war is a racket in which the same puppeteers play both sides against each other.
+
+## The cabal as a City of London syndicate
+
+The April 2025 essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] by [[erik-carlson|Erik Carlson]] locates the cabal geographically, concluding that "the [[city-of-london|City of London]] actually sits atop the organized crime syndicate" and that it controls the United States, Israel, Iran, and China alike while sitting at the top of the [[deep-state|Deep State]].
+
+Carlson describes the cabal's composition as religiously and ethnically mixed — "Jews and non-Jews alike," including "Jews who masquerade as Jews, but who are really Satanists," fake Christians, fake Muslims, and atheists — with Satan worship as "the one thing that binds the Cabal together." He argues that the cabal deliberately uses Jews and Israel as scapegoats, in the same way he says the [[italian-mafia|Italian Mafia]] was used to conceal the [[jewish-mafia|Jewish Mafia]].
+
+The same essay attributes to the cabal a "playbook" of manufactured racial conflict requiring riots roughly every thirty years — the [[harlem-riot-of-1935|Harlem riots]] of 1935, the [[watts-riots|Watts riots]] of 1965, the [[rodney-king|Rodney King]] beating and the [[los-angeles-riots-1992|1992 Los Angeles riots]], and the [[george-floyd|George Floyd]] events of 2020 — and claims the cabal treated Russian lives as expendable, citing 24 million Soviet dead against 450,000 English dead in the Second World War.

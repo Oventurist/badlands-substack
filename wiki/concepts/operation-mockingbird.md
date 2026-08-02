@@ -1,0 +1,24 @@
+---
+title: Operation Mockingbird
+created: 2026-08-01
+updated: 2026-08-01
+type: concept
+tags: [media, propaganda, cia, psychological-operations]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md]
+confidence: medium
+contested: true
+---
+
+# Operation Mockingbird
+
+"Operation Mockingbird" — usually shortened in the Badlands corpus to "the Mockingbird Media" or "Mockingbird programming" — refers to the alleged covert program by which intelligence services cultivated assets inside major news organizations in order to shape public opinion. Within the corpus the term functions less as a reference to a specific historical operation than as a general name for the mainstream press understood as a psychological-operations apparatus.
+
+In the Badlands Media essay [[a-hypnotists-take-on-israel-palestine|"A Hypnotist's Take on Israel, Palestine, and Q"]], the pseudonymous author [[american-hypnotist|American Hypnotist]] describes the "entire purpose of the Mockingbird Media" as being to prevent the public from setting down its metaphorical and literal rocks long enough for the fog of war to dissipate and reveal "the puppeteers pulling the strings behind the scenes." He cites this function as one of many reasons [[donald-trump|Donald Trump]] called the mainstream media the "enemy of the people."
+
+## Mechanisms attributed to it
+
+The article characterizes Mockingbird programming as a social-engineering technology with two main pillars: the [[nominalization|nominalization]] — an emotionally charged intangible noun such as "fascism" that no one can define, and which therefore functions as a hypnotic trigger — and hypnotic repetition, which converts a learned response into an automatic one. A further requirement is that the propaganda not merely "activate the amygdala" but channel the resulting fear or rage in a direction pre-scripted by the engineers; rage without aim is described as rocket fuel in a rocket that cannot be steered.
+
+## Claimed breakdown
+
+The essay's central argument is that this apparatus is visibly failing. Citing [[rasmussen-reports|Rasmussen]] polling that 58% of Americans believe the media is deliberately misleading them, and pointing to the incoherence of both left and right responses to the [[israel-palestine-conflict|Israel–Palestine conflict]], the author contends that audiences are losing track of where they are supposed to direct their emotions — "a critical crack in the dam." He treats the eventual and total discrediting of the mainstream media not as a matter of malice but as a "survival imperative," and links the availability of the [[q-anon|Q]] narrative to the question of where people go once their prior programming collapses. The concept is closely tied in the corpus to [[5th-generation-warfare|fifth-generation warfare]] and to the broader notion of the [[cabal]].

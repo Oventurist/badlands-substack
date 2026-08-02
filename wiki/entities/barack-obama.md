@@ -8,8 +8,7 @@ tags:
   - muslim-brotherhood
   - cia
   - isis
-sources:
-  - a-conflict-of-interest.md
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md]
 confidence: medium
 contested: true
 ---
@@ -23,3 +22,7 @@ According to the article, Obama won the presidential election in 2008, and Gadda
 The source claims that Obama gave his "full approval and blessing" to [[john-mccain|John McCain]]'s efforts to fund and arm rebel groups in Libya and Syria, including groups that were affiliated with [[al-qaeda|Al-Qaeda]] and [[isis|ISIS]]. It notes that Obama famously called ISIS the "J.V. team" to distract the American people while the group was being strengthened with taxpayer money, and that the longer the war lasted, the more money could be stolen.
 
 According to the article, Obama's administration also participated in the cover-up of the stolen Iraqi cash, allowing the absence of documentation after the money reached Baghdad to persist. The source frames Obama as an "insider" who represented the cabal rather than the American people, and claims that his administration's policies were designed to expand the war on terror as a permanent mechanism for taxpayer theft.
+
+## The 2008 campaign and labor support
+
+In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]] (October 2025), Obama's 2008 presidential campaign is described as "the perfect example" of the deception the corpus attributes to the labor-activist complex. The article states that "Obama was depicted as an agent of 'hope' and 'change,' receiving substantial support from U.S. labor unions and leftist activist groups." It argues that his victory "duped the lower class into thinking they had achieved some kind of social victory," despite Obama "essentially function[ing] as yet another hollow, albeit well-spoken, vessel for the political establishment." The piece concludes that "the tone may have changed, but the empire carried on unimpeded."

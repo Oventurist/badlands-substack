@@ -8,8 +8,7 @@ tags:
   - nafta
   - mexico
   - drug-trafficking
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---

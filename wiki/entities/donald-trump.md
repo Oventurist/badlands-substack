@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +22,23 @@ According to the article, Trump admires Andrew Jackson because Jackson "took on 
 - [[Federal Reserve]] — the institution Trump is said to oppose
 - [[1913]] — the year of the cabal's alleged consolidation that Trump seeks to reverse
 - [[Coinage Act of 1873]] — the gold standard legislation Trump is said to support restoring
+
+## Bretton Woods revivalism
+
+The Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]] (September 3, 2025) makes a brief but pointed reference to Trump, naming him alongside [[john-f-kennedy|John F. Kennedy]] — though "to a lesser but relevant extent" — as a president who attempted to revive the noble origins of the [[bretton-woods-system|Bretton Woods institutions]] and of the U.S. government after their post-war capture by what [[matthew-ehret|Matthew Ehret]] terms deep state operatives.
+
+## "Enemy of the people"
+
+In the October 2023 Badlands essay [[a-hypnotists-take-on-israel-palestine|"A Hypnotist's Take on Israel, Palestine, and Q"]], [[american-hypnotist|American Hypnotist]] cites Trump's description of the mainstream media as the "enemy of the people" and endorses it functionally: because the purpose of the [[operation-mockingbird|Mockingbird]] press is to keep the public throwing rocks at one another rather than noticing the puppeteers behind the scenes, the label is presented as an accurate account of the institution's role. The essay pairs the phrase with [[rasmussen-reports|Rasmussen]] polling showing that 58% of Americans believe the media is deliberately misleading them.
+
+## The silent war against the City of London
+
+The April 2025 essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] by [[erik-carlson|Erik Carlson]] casts Trump as the principal antagonist of the [[city-of-london|City of London]], arguing that "while the public is focused on the war in Ukraine and the conflict in Israel, and the threats of China and Iran, the real war is being fought between President Trump and the City of London, between Trump and Europe."
+
+The article credits him with two concrete moves. Since early in his first presidency he is said to have replaced [[libor|LIBOR]] with [[sofr|SOFR]], "taking control of the American banking system away from the City of London and giving it to the American [[federal-reserve|Federal Reserve]]." In his second term he is described as onshoring manufacturing out of Communist China — which the essay claims the City of London controls — and back to the United States. Tariffs, in this reading, "aren't just about creating fair trade; they're about removing the Globalist power that stems from the City of London," and [[doge|DOGE]] functions like the efficiency consultants of *Office Space*.
+
+Carlson closes by contrasting Trump's strategy with the demands of his own movement: "while many within MAGA are demanding to see middle management hanging from the gallows, Trump is focused on taking down their puppet masters, the ones in charge... While we see an ant in our kitchen and think to step on it, Trump is laying out poison, so they might bring it back to the rest of the colony."
+
+## Alaska summit with Putin (August 2025)
+
+The Badlands News Brief roundup [[a-look-at-recent-features|"A Look At Recent Features"]] (August 15, 2025) features [[matthew-ehret|Matthew Ehret]]'s piece on the Alaska meeting between Trump and [[vladimir-putin|Vladimir Putin]] scheduled for that same day, presented as an "extremely important" encounter whose substance had not been disclosed publicly.

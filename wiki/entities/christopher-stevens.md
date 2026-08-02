@@ -8,8 +8,7 @@ tags:
   - benghazi
   - cia
   - weapons-smuggling
-sources:
-  - a-dereliction-of-duty.md
+sources: [raw/a-dereliction-of-duty.md]
 confidence: medium
 contested: true
 ---

@@ -12,8 +12,7 @@ tags:
   - venezuela
   - drug-trafficking
   - money-laundering
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: medium
 contested: true
 ---

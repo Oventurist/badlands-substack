@@ -7,8 +7,7 @@ tags:
   - finance
   - bush-family
   - financial-crisis
-sources:
-  - a-family-affair.md
+sources: [raw/a-family-affair.md]
 confidence: medium
 contested: false
 ---

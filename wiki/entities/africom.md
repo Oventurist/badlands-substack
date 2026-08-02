@@ -7,8 +7,7 @@ tags:
   - military
   - africa
   - benghazi
-sources:
-  - a-dereliction-of-duty.md
+sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md]
 confidence: medium
 contested: false
 ---
@@ -22,6 +21,10 @@ AFRICOM (United States Africa Command) is a regional Unified Combatant Command o
 According to the source, AFRICOM learned of the terrorist attack on the U.S. consulate in [[benghazi|Benghazi]] approximately 30 minutes after it began on September 11, 2012. Despite this early awareness and the attack lasting more than seven hours, no military response was ordered. The article claims that AFRICOM was already preparing to deploy assets to rescue Americans under attack, but the order to proceed was never issued.
 
 The source contrasts AFRICOM's prompt awareness with the Obama administration's delayed notification of the Pentagon, noting that the State Department learned of the attack immediately but took approximately one hour to notify the Pentagon. This delay, the article argues, contributed to the failure to mount a timely rescue operation.
+
+## Role in Africa's resource wars
+
+The Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]] (October 2025) describes AFRICOM as coordinating with the [[solidarity-center|Solidarity Center]]'s labor programs in mineral-rich African nations. The article states that "the DoD's AFRICOM, under the guise of 'stability operations,' coordinates with these efforts, ensuring unions pressure governments to favor U.S. mining contracts over Chinese ones" in countries such as the Democratic Republic of Congo and Zambia. This is presented as part of the U.S. effort to undermine Chinese-backed labor federations and secure access to mineral resources.
 
 ## Related pages
 
