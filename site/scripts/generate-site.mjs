@@ -126,6 +126,10 @@ title: Badlands Wiki
 
 A community-compiled knowledge base covering the people, institutions, concepts, and narratives of the Badlands Media corpus.
 
+::: tip Explore the knowledge graph
+Every page and the connections between them — **[open the interactive graph](/graph)** to see how entities, concepts, and articles relate.
+:::
+
 - **Entities** (${counts.entities}): [browse all](/entities/) — people, organizations, and institutions
 - **Concepts** (${counts.concepts}): [browse all](/concepts/) — ideas and narratives
 
