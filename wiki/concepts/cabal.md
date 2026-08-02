@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [narrative, central-banking, info-war, elite]
-sources: [raw/1913.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/1913.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: low
 contested: true
 ---
@@ -69,3 +69,8 @@ The article argues the Cabal cannot allow the public to learn that [[inflation|i
 ## The 6.6.6. and the Global Harmony Consortium
 
 [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]] identifies the cabal with the group described in [[toronto-protocols|the Toronto Protocols]], a clique of senior financiers said to have met in Canada in 1967 and 1985 and to have called itself the "6.6.6." The essay characterises the cabal as an "ancient death cult" whose method is the satanic principle of [[satanic-inversion|inversion]], and argues that it cannot conceal the truth outright but instead relies on distraction and on cult-like social pressure to devalue truths individuals discover. When [[chatgpt|ChatGPT]] was asked to treat the material as a film script, it renamed the cabal the Global Harmony Consortium.
+
+
+## Reacting rather than leading
+
+Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] describes the U.S. dollar as the cabal's "Achilles heel" and "Keystone," established as the world's reserve currency and locked in through the oil-for-dollars deal with [[saudi-arabia|Saudi Arabia]]. Against the common view that [[central-bank-digital-currency|CBDCs]] are the cabal's tool for total control, the article argues that the cabal already controls the financial system completely and is now merely reacting to [[bitcoin]], [[blockchain]], and the [[brics]] bloc — "like a master chess game, they are being moved into a position of checkmate." The article uses the term interchangeably with the [[rothschild-family|Rothschilds]] when describing ownership of the global debt system.

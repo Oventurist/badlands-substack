@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [currency, oil, dollar-hegemony, geopolitics]
-sources: [raw/a-week-to-remember.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,8 @@ According to the article, the arrangement "gave the US a huge financial advantag
 The article states that "very recently, the 50-year Petrodollar agreement ended," and that "immediately afterward, the mainstream media was trying to tie [[saudi-arabia|Saudi Arabia]] to the 9/11 attacks." It draws a parallel to earlier coverage: when the Saudi royals "started to get a little too chummy with [[donald-trump|Trump]] a few years ago, the media reported that the Saudis murdered and dismembered a journalist," while omitting, in the author's account, that the journalist was "the nephew of the biggest arms dealer the world may have ever known" and "a CIA asset." [[erik-carlson|Erik Carlson]] concludes: "It's funny the details they tend to leave out."
 
 The end of the Petrodollar is presented alongside the [[brics|BRICS]] push for a gold-backed settlement currency as evidence that dollar hegemony is unwinding.
+
+
+## Displacement by yuan-for-gold oil sales
+
+Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] describes the petrodollar arrangement — the deal making [[saudi-arabia|Saudi Arabia]], the world's largest oil producer, accept only dollars for oil — as one of the two pillars that made the dollar the "Keystone" of global finance and the instrument by which foreign policy could be dictated and non-compliant states punished. It credits [[china|China]] with beginning the reversal by opening the [[shanghai-petroleum-and-natural-gas-exchange|Shanghai Petroleum and Natural Gas Exchange]] in March 2018, allowing producers to sell oil for yuan convertible immediately into gold on the [[shanghai-gold-exchange|Shanghai Gold Exchange]], and asserts that the [[brics]] nations have thereby "ripped control of the world's oil supply away from the [[cabal]]."

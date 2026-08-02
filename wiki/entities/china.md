@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [china, geopolitics, belt-and-road, energy, iran]
-sources: [raw/and-iran-iran-so-far-away.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---

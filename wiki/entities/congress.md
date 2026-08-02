@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---

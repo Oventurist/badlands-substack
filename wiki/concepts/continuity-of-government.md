@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [continuity-of-government, national-security, devolution, emergency-powers]
-sources: [raw/all-assets-deployed.md]
+sources: [raw/all-assets-deployed.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---

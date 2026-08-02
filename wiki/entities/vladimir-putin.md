@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: high
 contested: false
 ---
@@ -31,3 +31,8 @@ A footnote to the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Al
 ## The Sum of All Fears reading (A Virus, or a Metaphor?)
 
 In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] interprets the [[q-anon|Q]] team's repeated references to [[the-sum-of-all-fears|The Sum of All Fears]] as a warning that "the real modern-day Nazis are trying to create a war between Russia and the US." Within that framing the article asserts that "the two people the Nazis have never been able to control are Trump and Putin," pairing Putin with [[donald-trump|Donald Trump]] as obstacles to the [[cabal|Cabal]]'s plan to have the two powers destroy each other.
+
+
+## Proposal for a digital cross-border payment system
+
+Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] quotes a Ledger Insights report on Putin's response to international sanctions: speaking at a Sberbank conference on artificial intelligence, he proposed a digital currency payment system for cross-border transactions independent of banks and similar to the hawala remittance network. "We are all well aware that in today's illegitimate restrictions, one of the lines of attack is settlements," Putin said, adding that the international payment system is expensive and that its correspondent accounts and regulation are "controlled by a narrow club of states and financial groups… In fact, they are the masters of life. They really control everything (through a) monopoly." He argued that "based on digital currency technologies and distributed registries, it is possible to create a new system of international payments, and much more convenient. But at the same time completely safe for participants and completely independent of banks and third-party interference." Lange treats the remarks as a public statement of what the [[brics]] bloc is building and as evidence that the [[cabal]] is reacting to digital currency rather than leading it.

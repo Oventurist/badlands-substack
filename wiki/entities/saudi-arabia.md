@@ -7,7 +7,7 @@ tags:
   - middle-east
   - saudi-royal-family
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---

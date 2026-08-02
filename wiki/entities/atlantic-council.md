@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [think-tank, nato, foreign-policy, deep-state, energy]
-sources: [raw/and-iran-iran-so-far-away.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,8 @@ According to the article, the Council is funded by the U.S. [[state-department]]
 ## Role in the Iran question
 
 The article presents the Council's funders and members as the constituency fighting to keep the United States inside the Iran nuclear agreement. Because the energy majors underwrite the Council, they are said to hold influence over the State Department, the CIA and the Pentagon, and to be able to lobby for policies that would open [[iran]] to Western investment on a scale far exceeding Chevron's earlier $10 billion deals with [[naftogaz]] in Ukraine. When [[israel]] broke with the NATO consensus by supporting [[donald-trump]], the article argues, the Atlanticists responded by pursuing regime change against [[benjamin-netanyahu]].
+
+
+## CBDC tracker
+
+The Atlantic Council's central bank digital currency tracker is cited, via CNBC, in Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] for the finding that at least 87 countries representing over 90 percent of global GDP were exploring a [[central-bank-digital-currency|CBDC]], compared with only a handful in mid-2019. The article uses the figure to argue that the global adoption of digital currency is already irreversible.

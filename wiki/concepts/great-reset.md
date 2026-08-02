@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [technocracy, globalism, decarbonization, world-government]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,8 @@ Ehret concludes that, judging by the profiles, words and performance of the lead
 ## As an input to the ChatGPT experiment
 
 In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], [[justin-deschamps|Justin Deschamps]] asked [[chatgpt|ChatGPT]] to "use Klaus Schwab's 'Great Reset' as an additional plan for the consortium to utilize," incorporating it into the fictional Global Harmony Consortium's programme alongside [[esg|ESG]] scoring, the [[climate-change-narrative|climate change narrative]] and the institutional weight of the [[world-economic-forum|World Economic Forum]].
+
+
+## Competing resets
+
+Joe Lange's June 2023 article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] frames the Great Reset as inevitable but contested. With global debt in the hundreds of trillions and countries unable to service the interest, the article holds that a reset was always coming; the open question is "whose Great Reset will succeed" — [[donald-trump|Trump]]'s plan or the [[cabal]]'s, financial freedom for the people or total control of them. The article's answer is that the fiat system is being deliberately bankrupted while the [[brics]] bloc builds a replacement, the world returns to a [[gold-standard|gold standard]], and [[central-bank-digital-currency|CBDCs]] provide the technical means to complete the transition quickly.

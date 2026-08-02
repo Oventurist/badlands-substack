@@ -1,10 +1,10 @@
 ---
 title: Fiat Currency
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [narrative, central-banking, economy]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---
@@ -37,3 +37,8 @@ The source asserts that with the Fed and the income tax (administered by the [[I
 ## References
 
 - Badlands Media, "1913: The Year the Cabal Enslaved America," `raw/1913.md`
+
+
+## Fiat and the digital dollar
+
+In [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]], Joe Lange addresses the objection that a [[central-bank-digital-currency|CBDC]] would merely be a digital fiat dollar. He concedes the point conditionally — "Yes, unless it's backed by gold, which is required by the constitution" — and argues that the litigation strategy he attributes to [[donald-trump|Donald Trump]] is designed to have the [[supreme-court-of-the-united-states|Supreme Court]] remove fiat currency and the central bank altogether by revisiting the Legal Tender Cases, the Gold Clause decisions, and the [[federal-reserve-act|Federal Reserve Act of 1913]]. The article predicts the global fiat system will collapse under unpayable debt in a crash larger than 2008 and worse than the Depression.

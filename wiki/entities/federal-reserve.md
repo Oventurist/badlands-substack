@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [central-banking, bank, agency, cabal]
-sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/americas-greatest-threat.md]
+sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: medium
 contested: true
 ---
@@ -62,3 +62,8 @@ The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) lists 
 [[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) offers the Fed as its principal example of an authority that cannot be questioned or held accountable, stating that "the Federal Reserve has never been audited … not once, and it's been around for over 100 years."
 
 The essay ties the Fed's creation to the ratification of the [[sixteenth-amendment|Sixteenth Amendment]] on February 3, 1913, insisting the timing "is not a coincidence," and argues that American politicians knew the public "would never vote in a Federal Reserve System run by the corrupt bankers themselves" and so removed the matter from popular decision. It further identifies [[inflation|inflation]] — money "printed out of nothing, backed by nothing," diluting existing purchasing power — as "the biggest tax of all," and reasons that because the government can print money at will it does not need tax revenue; taxation persists instead as an instrument of [[debt-slavery|debt slavery]].
+
+
+## Role in the CBDC debate (2023)
+
+Joe Lange's June 2023 article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] restates the claim that [[donald-trump|Donald Trump]] retains control of the Federal Reserve and the [[treasury-department|Treasury]] through [[devolution]] and [[continuity-of-government|Continuity of Government]] arrangements, and refers to an earlier article on rolling the Fed into the Treasury. On that reading, the Fed's work toward a [[central-bank-digital-currency|central bank digital currency]] is not a [[cabal]] initiative but a Trump-directed one, seeded by [[jared-kushner]]'s private 2019 advocacy for a Fed-issued digital dollar. The article also credits the Fed with building [[fednow]], a peer-to-peer instant payment platform open to every financial service in the country, which it distinguishes from a digital currency while treating it as part of the same plan. Finally, it predicts a deliberate court fight between the Fed and the states over both the definition of money and the constitutionality of the central bank, aimed at forcing the [[supreme-court-of-the-united-states|Supreme Court]] to reconsider the [[federal-reserve-act|Federal Reserve Act of 1913]].

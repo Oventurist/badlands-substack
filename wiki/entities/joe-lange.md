@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [author, badlands-media, citizen-journalism, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/a-look-at-recent-features-84d.md, raw/a-seismic-shift.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-look-at-recent-features-84d.md, raw/a-seismic-shift.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
 confidence: high
 contested: false
 ---
@@ -40,3 +40,8 @@ On January 30, 2025, Lange published [[america-for-sale-part-2|America for Sale 
 ## America for Sale — Part 3
 
 Lange published "America for Sale - Part 3," subtitled "Sanctions Are a Scam," on March 15, 2025. Continuing the series begun in [[america-for-sale-part-1|Part 1]] and [[america-for-sale-part-2|Part 2]], the essay argues that hostage crises serve as cover stories, that [[sanctions|sanctions]] create closed financial systems useful to the [[cia|CIA]], and that a single network links the 1994 [[agreed-framework|Agreed Framework]], the pardon of [[marc-rich|Marc Rich]] in [[pardongate|Pardongate]], the [[russian-reset|Russian Reset]] and the [[uranium-one|Uranium One]] transaction. He closes by promising a further installment on Senator [[chuck-grassley|Chuck Grassley]].
+
+
+## Financial series: CBDCs (June 2023)
+
+On June 2, 2023 Lange published [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]], subtitled "Trump's Safe Haven Plan," as an installment in his continuing series on the financial system that also included the earlier pieces "Master and Commander" and "The Midas Touch." The article argues against the prevailing alternative-media view of [[central-bank-digital-currency|central bank digital currencies]], holding that [[bitcoin]] and [[brics]] forced central banks to react rather than the reverse, that [[jared-kushner]] and [[j-christopher-giancarlo|J. Christopher Giancarlo]] drove the American digital dollar effort from inside the Trump administration, and that [[blockchain]] settlement is the tool that will move the world quickly into a gold-backed system when the fiat order collapses.
