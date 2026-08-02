@@ -152,6 +152,51 @@ ${list}
     await fs.writeFile(path.join(OUT[section], "index.md"), sectionIndex, "utf-8");
   }
 
+  // ---- knowledge graph data (nodes = pages, links = wikilinks) ----
+  const graph = { nodes: [], links: [] };
+  const linkSet = new Set();
+  for (const slug of Object.keys(pages)) {
+    const p = pages[slug];
+    graph.nodes.push({ id: slug, title: p.title, section: p.section });
+    const content = await fs.readFile(
+      p.section === "articles" ? path.join(WIKI, p.file) : path.join(WIKI, p.section, p.file),
+      "utf-8"
+    );
+    const re = /\[\[([^\]|#]+)(?:\|[^\]]+)?\]\]/g;
+    let m;
+    while ((m = re.exec(content)) !== null) {
+      const key = m[1].trim().toLowerCase().replace(/\s+/g, "-");
+      if (key === slug) continue; // no self links
+      if (pages[key]) {
+        const pair = [slug, key].sort().join("|");
+        if (!linkSet.has(pair)) {
+          linkSet.add(pair);
+          graph.links.push({ source: slug, target: key });
+        }
+      }
+    }
+  }
+  // graph-data.json must live in docs/public/ so VitePress copies it verbatim to dist
+  await fs.mkdir(path.join(DOCS, "public"), { recursive: true });
+  await fs.writeFile(path.join(DOCS, "public", "graph-data.json"), JSON.stringify(graph), "utf-8");
+
+  // graph page
+  const graphPage = `---
+title: Knowledge Graph
+---
+
+# Knowledge Graph
+
+Every wiki page as a node; every \`[[wikilink]]\` between pages as an edge. Entities in blue, concepts in orange — node size reflects how many pages link to it.
+
+<GraphView />
+
+<script setup>
+// GraphView is registered globally by the theme.
+</script>
+`;
+  await fs.writeFile(path.join(DOCS, "graph.md"), graphPage, "utf-8");
+
   // sidebar config
   const sidebar = [
     sidebarItem(pages, "entities", "Entities"),
@@ -169,6 +214,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Entities", link: "/entities/" },
       { text: "Concepts", link: "/concepts/" },
+      { text: "Graph", link: "/graph/" },
     ],
     sidebar: ${JSON.stringify(sidebar, null, 2)},
     search: {
@@ -181,6 +227,13 @@ export default defineConfig({
 `;
   await fs.mkdir(path.join(DOCS, ".vitepress"), { recursive: true });
   await fs.writeFile(path.join(DOCS, ".vitepress", "config.mjs"), config, "utf-8");
+
+  // copy committed theme (GraphView.vue etc.) into generated docs
+  const themeSrc = path.join(SITE, "theme-src", "theme");
+  const themeDst = path.join(DOCS, ".vitepress", "theme");
+  await fs.rm(themeDst, { recursive: true, force: true });
+  await fs.cp(themeSrc, themeDst, { recursive: true });
+  console.log("theme copied:", themeSrc, "->", themeDst);
 
   console.log(`done: ${counts.entities} entities, ${counts.concepts} concepts, ${counts.articles} articles`);
 }
