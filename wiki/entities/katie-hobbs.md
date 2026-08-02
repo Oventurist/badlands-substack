@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [person, arizona, democrat, secretary-of-state, 2022-midterms]
-sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +22,11 @@ Hobbs's office maintained the "2022 Unofficial General Election Results" page fr
 ## Cited as an enforcer of preferred narratives
 
 In [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]], [[j-b-white|J.B. White]] names Hobbs in Arizona as an example of what he calls "Bottom Bitches" — figures across government, corporations and groups who, in his account, both disseminate the [[deep-state|Deep State]]'s preferred narratives and insist on partisan censorship alongside other actions he characterises as clearly unconstitutional.
+
+## Certification and the 2022 contests
+
+Hobbs certified the Arizona general election on Monday, December 5, 2022, in her capacity as Secretary of State — an act the Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]] highlights as her certifying her own election as governor. The certification opened a five-day window for candidates to contest results, and on December 9 she was named as a defendant in two separate suits.
+
+In [[kari-lake|Kari Lake]]'s contest, Hobbs is named both personally as contestee and in her official capacity. The complaint alleges, among much else, that she and [[stephen-richer|Stephen Richer]] colluded with the federal government to censor Americans and infringe First Amendment rights, noting that she complained about a private Facebook post asserting that [[donald-trump|Donald Trump]] won, and that she oversaw an election in which she was herself a candidate while trailing by ten points.
+
+The parallel suit brought by [[mark-finchem|Mark Finchem]] and [[jeff-zink|Jeff Zink]] alleges that Hobbs abused her power by failing to have the state's tabulation machines properly certified, by threatening the boards of supervisors in Mohave and Cochise counties with criminal charges if they did not certify the election, by declining to recuse herself while running for governor, and by flagging misinformation on a Twitter account in January 2021.

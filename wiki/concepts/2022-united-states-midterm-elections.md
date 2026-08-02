@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [election, midterms, election-integrity, red-wave, congress]
-sources: [raw/all-assets-deployed.md, raw/an-sos-from-ground-zero.md]
+sources: [raw/all-assets-deployed.md, raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,9 @@ The essay attributes the dour mood in the [[maga|MAGA]] base partly to the midte
 A second strand of corpus coverage focuses on the conduct of the election in Arizona, and particularly in [[maricopa-county|Maricopa County]]. In [[an-sos-from-ground-zero|An SOS From Ground Zero]], published November 22, 2022, [[kitty-gillespie|Kitty Gillespie]] documents ballot-on-demand printer failures at "at least 60 voting locations," disputed handling of [[door-3-ballots|"Door 3"]] ballots, and defective check-out procedures, all of them the subject of a November 19 letter from Assistant Attorney General [[jennifer-wright|Jennifer Wright]] questioning whether the county could lawfully certify results before the November 28 [[canvass-arizona|canvass]] deadline.
 
 Gillespie also advances an undervote argument: statewide unofficial returns as of November 21 showed 1,389,215 votes cast for State Treasurer — won by Republican [[kimberly-yee|Kimberly Yee]] with 55.7 percent — against 1,321,435 for U.S. Senate, 1,320,059 for Secretary of State, 1,287,322 for Governor, and 1,254,096 for Attorney General. She reads the pattern as evidence that manipulation of the top of the ticket did not extend to the down-ballot Treasurer contest. The gubernatorial contest between [[kari-lake|Kari Lake]] and [[katie-hobbs|Katie Hobbs]] remained the focus of litigation well past election day.
+
+## Arizona contests and litigation
+
+Arizona produced the most sustained post-election litigation of the 2022 cycle. Secretary of State [[katie-hobbs|Katie Hobbs]] certified the state's general election on December 5, 2022, giving candidates five days to contest the results. On December 9, [[kari-lake|Kari Lake]] filed a 70-page election contest alleging that illegal votes far exceeded the 17,117-vote margin in the governor's race, and [[mark-finchem|Mark Finchem]] and [[jeff-zink|Jeff Zink]] filed a separate suit naming Hobbs, [[adrian-fontes|Adrian Fontes]], and [[ruben-gallego|Ruben Gallego]].
+
+The attorney general race between [[abe-hamadeh|Abe Hamadeh]] and [[kris-mayes|Kris Mayes]] was the closest statewide contest in Arizona history, with Mayes ahead by 511 votes out of roughly 2.5 million at certification — inside the 0.5-point threshold that triggers an automatic recount under state law. Recounts in that race, the state superintendent race, and a state House race began on December 7. [[blake-masters|Blake Masters]], the Trump-endorsed Senate candidate, filed no contest, an omission the Badlands article [[arizona-earthquake|"Arizona Earthquake!"]] treats as noteworthy.

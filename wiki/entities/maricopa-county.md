@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [arizona, county, elections, election-integrity, institution]
-sources: [raw/an-sos-from-ground-zero.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,9 @@ Wright requested a response before the county submitted its official canvass to 
 ## Treatment in the corpus
 
 The corpus presents Maricopa County officials — most of them nominally Republican — as either incompetent or complicit, and treats the county's 2022 failures as continuous with disputes over the 2020 election and the subsequent Arizona audit. Gillespie describes the county's public communications effort as a "comedy show" and reports that a volunteer for [[kari-lake|Kari Lake]] received a dismissive reply from Tom Liddy when seeking answers.
+
+## The 2022 election contests
+
+Maricopa County is the focus of the December 2022 election litigation described in [[arizona-earthquake|"Arizona Earthquake!"]]. Its recorder [[stephen-richer|Stephen Richer]], elections director [[scott-jarrett|Scott Jarrett]], and [[maricopa-county-board-of-supervisors|Board of Supervisors]] were all named as defendants in [[kari-lake|Kari Lake]]'s contest, which was filed in [[maricopa-county-superior-court|Maricopa County Superior Court]].
+
+The complaint alleges that 59% of the county's 223 vote centers experienced printer and tabulator failures on Election Day, that at least 34 centers had breakdowns after 3 p.m., that hundreds of thousands of early ballots passed through [[runbeck-election-services|Runbeck Election Services]] without chain of custody, that signature verification standards were routinely reversed by supervising managers, and that 25,000 ballots were added to county totals after Election Day.
