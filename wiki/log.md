@@ -96,3 +96,9 @@
 - 27 inline wikilinks, all resolving; index.md entry added.
 
 ## [2026-08-01] ingest | A Re-Alignment of World Systems -> created: [a-re-alignment-of-world-systems, chrystia-freeland, mark-carney, cecil-rhodes, rhodes-scholarship, fabian-society, league-of-social-reconstruction, new-democratic-party, bob-rae, maurice-strong, michael-chomiak, canada-2020, liberal-party-of-canada, justin-trudeau, george-soros, bill-gates, warren-buffett, al-gore, jeffrey-sachs, strobe-talbott, anatoly-chubais, yegor-gaidar, boris-yeltsin, oleg-deripaska, roman-abramovich, petro-poroshenko, viktor-pinchuk, mikhail-khodorkovsky, viktor-yanukovych, european-union, world-trade-organization, imf, glass-steagall-act, green-new-deal, new-deal, blair-doctrine, paris-agreement], updated: [matthew-ehret, city-of-london, nafta, belt-and-road-initiative, eurasian-economic-union, vladimir-putin, franklin-d-roosevelt, deep-state, nato, donald-trump, badlands-media, index]
+
+## [2026-08-01] infra | Hourly auto-commit cron (2b8177bb1c93)
+- no_agent script badlands_wiki_autocommit.py; runs 0 * * * * (top of each hour).
+- git add -A + timestamped commit + push; silent when nothing to commit.
+- Untracked .obsidian/ (churning workspace.json) to stop it polluting commits.
+- First manual run committed 125 pending changes; 417 files tracked.
