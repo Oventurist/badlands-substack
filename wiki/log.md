@@ -63,3 +63,18 @@
 - Pushed 170 tracked files (wiki/, scripts/, .gitignore). main branch.
 - Substack2Markdown (16MB third-party scraper) gitignored — re-clone from upstream if needed.
 - Credential helper: store (token in ~/.git-credentials).
+
+## [2026-08-01] ingest | A Conflict of Interest (re-ingest) -> created: [coalition-provisional-authority, combating-terrorism-center, congress, saif-al-islam-gaddafi, senate-armed-services-committee, state-department, treasury-department, united-nations], updated: [a-conflict-of-interest, index]
+- Normalized `sources:` frontmatter to canonical inline `[raw/...]` form across 95 wiki pages (scripts/fix_sources.py).
+
+## [2026-08-01] ingest | A Dereliction of Duty (re-ingest, institutions pass) -> created: [al-qaeda-in-the-islamic-maghreb, ali-sait-akin, bob-grenier, jeremy-bash, joe-lange, john-tiegen, memorandum-of-notification, national-archives, pentagon, stand-down-order, turkey, white-house], updated: [a-dereliction-of-duty, index]
+
+## [2026-08-01] ingest | A Gateway to a New World of Cooperation -> created: [a-gateway-to-a-new-world-of-cooperation, matthew-ehret, shanghai-cooperation-organisation, tianjin-declaration, vladimir-putin, xi-jinping, narendra-modi, belt-and-road-initiative, eurasian-economic-union, sergey-glazyev, multipolar-alliance, rules-based-international-order, un-charter, bretton-woods-system, international-monetary-fund, world-bank, franklin-d-roosevelt, four-freedoms, atlantic-charter, henry-wallace, john-f-kennedy, peace-of-westphalia, congress-of-vienna, league-of-nations, bandung-conference, non-aligned-movement, great-reset, rand-corporation], updated: [united-nations, nato, donald-trump]
+
+## [2026-08-01] ingest | A Hypnotist's Take on Israel, Palestine, and Q -> created: [a-hypnotists-take-on-israel-palestine, operation-mockingbird, nominalization, israel-palestine-conflict, american-hypnotist, badlands-media, clif-high, smedley-butler, rasmussen-reports, ryan-long, stonetoss], updated: [q-anon, 5th-generation-warfare, cabal, donald-trump, index]
+
+## [2026-08-01] ingest | A Journey of Ever-changing Truths -> created: [a-journey-of-ever-changing-truths, rodney-king, george-floyd, oj-simpson, meyer-lansky, mickey-cohen, bugsy-siegel, city-of-london, mi6, mossad, fbi, joe-biden, rick-ross, los-angeles-police-department, doge, jewish-mafia, italian-mafia, los-angeles-riots-1992, watts-riots, harlem-riot-of-1935, violent-crime-control-and-law-enforcement-act-of-1994, prison-privatization, gangster-rap, the-godfather, libor, sofr, bolshevik-revolution, deep-state], updated: [erik-carlson, cia, donald-trump, bill-clinton, cabal, federal-reserve, index]
+
+## [2026-08-01] ingest | A Look At Recent Features -> created: [a-look-at-recent-features-84d, badlands-news-brief, ryan-delarme, ted-kaczynski, world-economic-forum], updated: [matthew-ehret, joe-lange, badlands-media, great-reset, index]
+
+## [2026-08-01] ingest | A Look At Recent Features (August 15, 2025) -> created: [a-look-at-recent-features, observing-consciousness], updated: [matthew-ehret, ryan-delarme, american-hypnotist, badlands-media, vladimir-putin, donald-trump, badlands-news-brief, multipolar-alliance, deep-state, q-anon, index]
