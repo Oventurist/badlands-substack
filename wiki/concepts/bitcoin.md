@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [cryptocurrency, blockchain, decentralization, financial-system]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +22,7 @@ The article goes further, stating that the timing of Bitcoin and blockchain tech
 ## Regulatory footprint
 
 Bitcoin also figures in the article's account of U.S. policy. [[j-christopher-giancarlo|J. Christopher Giancarlo]], appointed by [[donald-trump|Donald Trump]] to lead the [[commodity-futures-trading-commission|Commodity Futures Trading Commission]], oversaw the launch of the Bitcoin futures market under CFTC supervision in December 2017 and told CNBC that throughout 2018 he "routinely apprised Secretary Mnuchin of ongoing operation and supervision" of that market. Giancarlo's advocacy for Bitcoin and blockchain before [[congress]] earned him the nickname "Crypto Dad."
+
+## Trump's 2024 stockpile proposal
+
+[[erik-carlson|Erik Carlson]]'s essay [[are-we-being-distracted|Are We Being Distracted?]] reports that [[donald-trump|Donald Trump]] used his address at the [[bitcoin-2024-conference|Bitcoin Conference]] in late July 2024 to describe Bitcoin as "an important part of the American economy going forward" and to propose that the United States government stockpile it. Carlson stresses the limits of the claim: Trump was not urging the public to buy cryptocurrency, nor suggesting that Bitcoin would replace the dollar, but arguing that it "would be used to strengthen the US Dollar" — a reserve from which, in Carlson's phrasing, "every American benefits" whether or not they hold any themselves.

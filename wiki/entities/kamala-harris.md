@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, politics, media, election]
-sources: [raw/a-new-hollywood.md, raw/a-week-to-remember.md]
+sources: [raw/a-new-hollywood.md, raw/a-week-to-remember.md, raw/are-we-being-distracted.md]
 confidence: medium
 contested: true
 ---
@@ -18,3 +18,7 @@ According to the article, it was quickly discovered after broadcast that the int
 ## Cabal backing in 2024
 
 The Badlands Media essay [[a-week-to-remember|A Week to Remember]] raises Harris in the context of an alleged power struggle among what it calls Cabal families following [[joe-biden|Joe Biden]]'s withdrawal from the 2024 race. Anticipating a continued fracture within the [[deep-state|Deep State]], the author asks: "Which Cabal families back Harris, and which families might back another candidate? Will the Deep State try to create unity within the cartel, or will the power struggle continue?" The essay offers no answer, presenting the question as open as of late July 2024.
+
+## Division and fear in the 2024 handover
+
+[[erik-carlson|Erik Carlson]]'s August 2024 essay [[are-we-being-distracted|Are We Being Distracted?]] cites Harris's elevation as one of the events comprising what he calls a [[bread-and-circus|bread and circus]] distraction. He observes that "most Americans don't find Kamala Harris likeable or competent," and treats that perception as a source of "division and anger." He adds a fear component specific to her candidacy: whereas the public "already knew how bad things would be under [[joe-biden|Biden]]," Harris represents "a new unknown," and "unknown situations are the scariest." In the essay's framing, the distraction of debating Harris's fitness diverts attention from [[donald-trump|Trump]]'s plans for the financial system.
