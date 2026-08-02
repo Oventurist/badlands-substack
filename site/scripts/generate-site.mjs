@@ -137,20 +137,17 @@ Built automatically from the wiki. Search above to find any topic.
 `;
   await fs.writeFile(path.join(DOCS, "index.md"), index, "utf-8");
 
-  // section index pages so /entities and /concepts resolve
+  // section index pages so /entities and /concepts resolve (filterable browsers)
   for (const [section, label] of [["entities", "Entities"], ["concepts", "Concepts"]]) {
-    const list = Object.values(pages)
-      .filter((p) => p.section === section)
-      .sort((a, b) => a.title.localeCompare(b.title))
-      .map((p) => `- [${p.title}](/${section}/${p.file.replace(/\.md$/, "")})`)
-      .join("\n");
     const sectionIndex = `---
 title: ${label}
 ---
 
 # ${label}
 
-${list}
+Search, filter, and browse the ${label.toLowerCase()} index.
+
+<IndexBrowser section="${section}" />
 `;
     await fs.mkdir(OUT[section], { recursive: true });
     await fs.writeFile(path.join(OUT[section], "index.md"), sectionIndex, "utf-8");
@@ -183,6 +180,28 @@ ${list}
   // graph-data.json must live in docs/public/ so VitePress copies it verbatim to dist
   await fs.mkdir(path.join(DOCS, "public"), { recursive: true });
   await fs.writeFile(path.join(DOCS, "public", "graph-data.json"), JSON.stringify(graph), "utf-8");
+
+  // ---- index data for the filterable Entities/Concepts browsers ----
+  const indexData = [];
+  for (const slug of Object.keys(pages)) {
+    const p = pages[slug];
+    const content = await fs.readFile(
+      p.section === "articles" ? path.join(WIKI, p.file) : path.join(WIKI, p.section, p.file),
+      "utf-8"
+    );
+    const fm = content.match(/^---\n([\s\S]*?)\n---/);
+    let tags = [];
+    let type = p.section === "articles" ? "article" : "entity";
+    if (fm) {
+      const t = fm[1].match(/^tags:\s*\[(.*?)\]/m);
+      if (t) tags = t[1].split(",").map((s) => s.trim()).filter(Boolean);
+      const ty = fm[1].match(/^type:\s*(.+)$/m);
+      if (ty) type = ty[1].trim();
+    }
+    indexData.push({ id: slug, title: p.title, section: p.section, type, tags });
+  }
+  indexData.sort((a, b) => a.title.localeCompare(b.title));
+  await fs.writeFile(path.join(DOCS, "public", "index-data.json"), JSON.stringify(indexData), "utf-8");
 
   // graph page
   const graphPage = `---

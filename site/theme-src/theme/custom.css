@@ -1,0 +1,69 @@
+/* Badlands Wiki — "Stitch-lite" theme enhancements (Archive Modernist, adapted to dark theme) */
+
+/* 1. Serif body font for long-form reading (encyclopedia feel) */
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap");
+
+.vp-doc {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+.vp-doc h1, .vp-doc h2, .vp-doc h3,
+.vp-doc .header-anchor,
+.vp-doc strong {
+  font-family: var(--vp-font-family-base, -apple-system, sans-serif);
+}
+/* keep nav/sidebar/UI in the sans system font (default) */
+
+/* 2. Editorial article header: eyebrow + italic lead */
+.vp-doc h1 {
+  letter-spacing: -0.01em;
+}
+/* italic lead paragraph directly under the H1 (the article's summary line) */
+.vp-doc h1 + p {
+  font-style: italic;
+  font-size: 1.12em;
+  color: var(--vp-c-text-2);
+  line-height: 1.7;
+  border-left: 3px solid var(--vp-c-brand-1);
+  padding-left: 14px;
+  margin-top: 14px;
+  margin-bottom: 22px;
+}
+
+/* 3. ⌘K search hint in the navbar search button */
+.VPNavBarSearch .search-button .key, 
+.VPAlgoliaSearchBox .search-button .key,
+.DocSearch-Button-Keys,
+button[aria-label="Search"] .key {
+  display: inline-flex !important;
+}
+/* Show a ⌘K badge next to the search trigger (desktop only) */
+@media (min-width: 768px) {
+  .VPNavBarSearch .search-button::after,
+  button[aria-label="Search"]::after {
+    content: "⌘K";
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--vp-c-text-2);
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 4px;
+    padding: 1px 5px;
+    margin-left: 8px;
+    opacity: 0.7;
+  }
+}
+
+/* 4. Link color refinement (Stitch: high-contrast blue reserved for links) */
+.vp-doc a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+.vp-doc a:hover {
+  text-decoration: underline;
+}
+
+/* 5. Article header block refinement for entity/concept pages */
+.vp-doc h1 {
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-bottom: 14px;
+}
