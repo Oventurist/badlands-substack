@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, outlet]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/are-we-being-distracted.md]
 confidence: medium
 ---
 
@@ -50,3 +50,9 @@ The piece is accommodationist in its politics: Carlson argues that the American 
 Carlson published [[americas-greatest-threat|America's Greatest Threat]] on April 24, 2024. The essay argues that the founders regarded the American government, not any foreign power, as the greatest danger to the republic, and that the [[united-states-constitution|Constitution]] was written to restrain it. It presents the 1913 ratification of the [[sixteenth-amendment|Sixteenth Amendment]] and the founding of the [[federal-reserve|Federal Reserve]] as a coordinated seizure of powers the electorate would never have approved, describes the resulting tax and [[inflation|inflation]] burden as a system of [[debt-slavery|debt slavery]] enforced by the [[internal-revenue-service|IRS]], and diagnoses the public with [[stockholm-syndrome|Stockholm Syndrome]].
 
 The essay is notable for Carlson's self-implication — "I can pound my chest all I want … but at the end of the day, I'm afraid to leave the plantation" — and for its [[covid-19-pandemic|COVID-19]] passage arguing that lockdowns, vaccine mandates, and censorship were imposed by Americans on Americans: "It wasn't Putin. It wasn't Xi. It wasn't Iran." It closes with qualified optimism about [[donald-trump|Donald Trump]], quoting the Joker's line from the 1989 *Batman* — "this town needs an enema" — while warning that a 2025 inauguration would mark the beginning rather than the end of the work.
+
+## "Are We Being Distracted?" (August 2024)
+
+Carlson published [[are-we-being-distracted|Are We Being Distracted?]] on August 1, 2024, subtitled "Obviously ... But What Are We Being Distracted From?" The essay sets out the interpretive habit that recurs throughout his work: when his social media feed saturates with a single narrative, he asks what he is being distracted away from. Applying the [[bread-and-circus|bread and circus]] formula to July 2024, he argues that the assassination attempt on [[donald-trump|Trump]], [[joe-biden|Biden]]'s withdrawal, [[kamala-harris|Harris]]'s elevation and the [[paris-2024-olympics-opening-ceremony|Paris Olympics opening ceremony]] were engineered to divide and distract, while the real story was Trump's address at the [[bitcoin-2024-conference|Bitcoin Conference]] and the plan for financial restructuring signalled by [[tax-free-tips|tax-free tips]].
+
+The piece is notable for its self-deprecating register — "I hope this doesn't come off as me thinking I'm smarter than other people. I'm not" — and for Carlson's admission that he was as offended by the ceremony as anyone before concluding a day later that he was being manipulated. It closes with the assertion that "the patriots are in fact in control," that "the dismantling of the old guard is underway," and with an explicitly religious coda: "In the end, God wins. In the end, we win."

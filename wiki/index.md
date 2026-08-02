@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 755
+> Last updated: 2026-08-02 | Total pages: 761
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -219,6 +219,7 @@
 - [[inter-services-intelligence]]: Pakistan's intelligence service, characterised as a CIA-controlled clearinghouse for U.S. weapons and as the agency that removed Imran Khan. (Created: 2026-08-02)
 - [[internal-revenue-service]]: U.S. federal tax agency; cited in the source as a mechanism for funneling taxpayer money to terrorist organizations. (Created: 2026-08-01)
 - [[international-holocaust-remembrance-alliance]]: Intergovernmental body promoting Holocaust education; its working definition of antisemitism is criticized by the corpus as overly broad and a basis for censorship frameworks. (Created: 2026-08-01)
+- [[international-olympic-committee]]: Governing body of the Olympic Games, portrayed in the corpus as commissioned by its controllers to provoke global anger through the 2024 Paris ceremony while barring most transgender athletes from competition. (Created: 2026-08-02)
 - [[international-monetary-fund]]: Bretton Woods institution described in the corpus as hijacked after WWII by deep state operatives despite noble origins. (Created: 2026-08-01)
 - [[international-republican-institute]]: U.S. pro-democracy nonprofit aligned with the Republican Party and funded by the NED; grouped in the corpus among NED's CIA-adjacent cut-outs. (Created: 2026-08-01)
 - [[iran]]: Middle Eastern state used in the corpus as the primary case study for the claim that sanctions create closed financial systems serving covert finance. (Created: 2026-08-02)
@@ -612,6 +613,7 @@
 - [[arabian-nights]]: Ghost of Patrick Henry's August 2023 essay on the history of Arabia and the claimed redemption arc of the House of Saud. (Created: 2026-08-02)
 - [[are-cbdcs-the-path-to-fear-or-freedom]]: Joe Lange's June 2023 Badlands article arguing that CBDCs are not a cabal plot but the tool of Trump's plan to move the world to gold-backed honest money. (Created: 2026-08-02)
 - [[are-jack-smith-and-fani-willis-in]]: September 2023 American Hypnotist essay arguing the Trump indictments hand him the discovery powers and courtroom needed to prove election fraud. (Created: 2026-08-02)
+- [[are-we-being-distracted]]: Erik Carlson's August 2024 essay arguing that the Trump shooting, Biden's exit and the Paris Olympics ceremony were bread and circus concealing Trump's plan to rebuild the financial system. (Created: 2026-08-02)
 - [[artificial-intelligence]]: Technology framed in the Badlands corpus as a covert manipulation tool deployed by a global cabal to engineer a Communist takeover of the West through social conditioning and algorithmic control. (Created: 2026-08-01)
 - [[asch-conformity-experiments]]: Classic social psychology studies on group pressure, cited as the mechanism by which true individual perceptions are socially suppressed. (Created: 2026-08-02)
 - [[atlantic-charter]]: 1941 Roosevelt-Churchill statement of war aims, cited in its original form before the 2021 Biden-Johnson revision. (Created: 2026-08-01)
@@ -625,10 +627,12 @@
 - [[belt-and-road-initiative]]: China's global infrastructure program, credited with over $3 trillion in large-scale investment. (Created: 2026-08-01)
 - [[benghazi]]: Benghazi is Libya's second-largest city and the principal port of the Cyrenaica region. (Created: 2026-08-01)
 - [[bitcoin]]: First cryptocurrency, invoked in the corpus as proof that decentralized digital money forced central banks to react rather than the reverse. (Created: 2026-08-02)
+- [[bitcoin-2024-conference]]: The July 2024 conference at which Trump called for a U.S. government Bitcoin stockpile to strengthen the dollar, cited in the corpus as the story the Olympics obscured. (Created: 2026-08-02)
 - [[blair-doctrine]]: Late-1990s British doctrine calling for a "post-Westphalia" world order, presented in the corpus as the trigger for the post-9/11 regime change wars. (Created: 2026-08-01)
 - [[blockchain]]: Decentralized distributed ledger technology treated in the corpus as the enabler of a fast transition from fiat to honest money. (Created: 2026-08-02)
 - [[bolshevik-revolution]]: Framed as an operation by which the City of London unleashed communism on Russia to subdue a centuries-old rival. (Created: 2026-08-01)
 - [[bretton-woods-system]]: 1944 monetary order of fixed exchange rates and long-term development credit, later said to have been captured. (Created: 2026-08-01)
+- [[bread-and-circus]]: Roman formula of food and spectacle as social control, used in the corpus as an interpretive key for contemporary news cycles and the "lukewarm" moderate citizen. (Created: 2026-08-02)
 - [[brexit]]: UK withdrawal referendum, paired with Trump's rise as the moment Western anti-establishment sentiment surfaced publicly. (Created: 2026-08-01)
 - [[brics]]: Bloc of major non-Western economies whose push for a gold-backed settlement currency the corpus ties to the unwinding of dollar hegemony. (Created: 2026-08-02)
 - [[burns-cable-2008]]: February 2008 diplomatic cable by William Burns warning that Ukrainian NATO membership would be the "brightest of all redlines" for Russia. (Created: 2026-08-01)
@@ -708,6 +712,7 @@
 - [[pact-of-diriyah]]: 1744 alliance of Mohammed bin Saud and al-Wahhab fusing political and religious authority, and rejecting taxation. (Created: 2026-08-02)
 - [[pardongate]]: The controversy over Bill Clinton's 140 last-day pardons, read in the corpus as cover for the single pardon of fugitive trader Marc Rich. (Created: 2026-08-02)
 - [[paris-agreement]]: 2015 climate treaty whose American rejection the corpus reads as a turn away from the Malthusian depopulation agenda. (Created: 2026-08-01)
+- [[paris-2024-olympics-opening-ceremony]]: July 2024 Olympic ceremony whose Last Supper tableau the corpus reads as engineered outrage designed to divide and distract. (Created: 2026-08-02)
 - [[peace-of-westphalia]]: 1648 settlement that established the modern sovereign nation-state system at the heart of international law. (Created: 2026-08-01)
 - [[penn-treaty-of-1682]]: William Penn's treaty with the Delaware natives, quoted at length and linked to the Westphalian Principle of the Benefit of the Other. (Created: 2026-08-01)
 - [[petrodollar]]: Early-1970s arrangement pricing oil exclusively in U.S. dollars, said to have exported the cost of American money printing worldwide. (Created: 2026-08-02)
@@ -741,6 +746,7 @@
 - [[the-godfather]]: 1969 novel and 1972 film analyzed as a narrative operation that made the Italian Mafia synonymous with organized crime. (Created: 2026-08-01)
 - [[the-hunt-for-red-october]]: Tom Clancy novel referenced in the Q drops, whose title is read as signalling a Communist takeover rather than a defection plot. (Created: 2026-08-02)
 - [[the-sum-of-all-fears]]: Tom Clancy novel referenced in the Q drops, read as a warning that modern-day Nazis seek to provoke war between Russia and the United States. (Created: 2026-08-02)
+- [[tax-free-tips]]: Trump 2024 proposal to exempt gratuities from tax, read in the corpus as the opening move toward abolishing the income tax and a signal to the Deep State. (Created: 2026-08-02)
 - [[tianjin-declaration]]: Concluding document of the 2025 SCO summit, setting out sovereign equality, rejection of coercive measures, and an SCO Development Bank. (Created: 2026-08-01)
 - [[toronto-protocols]]: French-language documents leaked by Serge Monast, alleging a financier clique's plan to abolish the family and build a World Government. (Created: 2026-08-02)
 - [[twitter-files]]: Post-acquisition disclosures of internal Twitter documents, treated in the corpus as proof of coordinated suppression of competing narratives. (Created: 2026-08-02)
