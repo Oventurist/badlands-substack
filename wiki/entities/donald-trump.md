@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -113,3 +113,9 @@ Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]], 
 Google, [[microsoft]], [[meta-platforms|Meta]], [[amazon]], [[apple-inc|Apple]], and [[openai]] each donated a million dollars to Trump's inaugural fund. Carlson calls these donations symbolic and "a drop in the bucket," but reads them as "the real pardoning that is happening in America," contrasting them with Joe Biden's pardons, which he calls "purely optics," and describing Trump as allowing economically valuable companies to "kiss the ring." He notes [[nvidia]]'s absence from the donor list and asks whether the company is "not a part of Trump's future plans."
 
 The essay argues that Trump regards these firms as necessary to the American economy, since "it's hard to imagine an America without Amazon, Apple, FaceBook, Microsoft or Google," and concludes: "Trump is a businessman, and he understands that this is business. The American economy can't be destroyed in order for him and us to receive the justice deserved."
+
+## "This town needs an enema"
+
+Writing in April 2024, months before the election, Carlson's [[americas-greatest-threat|America's Greatest Threat]] names Trump as the figure capable of repairing a political system the essay describes as captured. Quoting the Joker's line from the 1989 film *Batman* — "this town needs an enema" — Carlson writes that he believes Trump "is the man who can properly administer that enema — to drain the swamp, to exterminate the rats that live in the sewer system and the cockroaches that live between the walls."
+
+The endorsement is conditional. Carlson warns that "unless he removes all the cancer, no permanent change will occur," and frames a 2025 inauguration as the point at which "the real work begins," explicitly "not the finish line." Using the metaphor of a hoarder's house being cleared, he adds that the hoarder "must be cured of the mental disorder that causes them to hoard, otherwise the house will just be filled up again." Lasting change, in the essay's terms, requires that the [[united-states-constitution|Constitution]] be restored to authority over the government and that failsafes be installed once criminals are removed from power.

@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [covid-19, lockdowns, bioweapon, public-health]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,9 @@ The author's defense of Trump's handling of the pandemic is that he forced Big P
 ## The "Chyna virus"
 
 Trump's references to "Chyna" and the "Chyna virus," for which he was widely accused of racism, are interpreted in the article as coded references to [[communism|Communism]] and to infiltration of America by the [[chinese-communist-party|Chinese Communist Party]]. The related claim that COVID was the worst thing to happen to America "since the Spanish Flu in 1917" is likewise read as intentional, pointing to the [[bolshevik-revolution|Bolshevik uprising]] rather than to the [[spanish-flu|Spanish Flu]] of 1918.
+
+## The pandemic as domestic coercion
+
+[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) treats the pandemic response as the clearest modern demonstration that the principal threat to Americans is their own government. The essay poses a series of questions — who forced Americans to stay home from work and school in 2020, who compelled them to take "an experimental drug or risk losing their jobs," who barred the unvaccinated from society, and who censored dissent on social media — and answers them by elimination: "It wasn't Putin. It wasn't Xi. It wasn't Iran. China didn't lock Americans down. Putin didn't force them to get jabbed. ISIS wasn't checking vaccine cards at the local restaurants."
+
+Carlson's sharper charge is that the government "brainwashed Americans into doing their dirty work for them." Business owners dismissed loyal and productive employees over vaccination status, some believing it right to do so; Americans administered the injections; and many insisted the unvaccinated should be excluded from public life. In his summary, "Americans decided that other Americans didn't deserve their Constitutional Rights" — behaviour the essay attributes to [[stockholm-syndrome|Stockholm Syndrome]] and to the erosion of the [[united-states-constitution|Constitution]]'s standing.

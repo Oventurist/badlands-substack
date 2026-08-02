@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 636
+> Last updated: 2026-08-02 | Total pages: 640
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -521,6 +521,7 @@
 - [[america-for-sale-part-2]]: Joe Lange’s January 2025 Badlands essay tracing Huma Abedin and Doug Band from White House internships to Teneo, the Clinton Foundation and a 2009 North Korea hostage mission. (Created: 2026-08-02)
 - [[america-for-sale-part-3]]: Joe Lange's March 2025 essay 'Sanctions Are a Scam,' linking hostage cover stories, sanctions-based laundering, Marc Rich's pardon and the Uranium One deal. (Created: 2026-08-02)
 - [[america-has-a-cia-run-economy]]: Erik Carlson essay (Jan 18, 2025) arguing that the five largest U.S. companies are CIA-controlled products of DARPA technology, and that Trump is cutting their strings without wrecking the economy. (Created: 2026-08-02)
+- [[americas-greatest-threat]]: Erik Carlson essay (Apr 24, 2024) arguing that the American government, not any foreign power, is the greatest threat to Americans, and that 1913's income tax and Federal Reserve created a system of debt slavery. (Created: 2026-08-02)
 - [[artificial-intelligence]]: Technology framed in the Badlands corpus as a covert manipulation tool deployed by a global cabal to engineer a Communist takeover of the West through social conditioning and algorithmic control. (Created: 2026-08-01)
 - [[asch-conformity-experiments]]: Classic social psychology studies on group pressure, cited as the mechanism by which true individual perceptions are socially suppressed. (Created: 2026-08-02)
 - [[atlantic-charter]]: 1941 Roosevelt-Churchill statement of war aims, cited in its original form before the 2021 Biden-Johnson revision. (Created: 2026-08-01)
@@ -554,6 +555,7 @@
 - [[covid-19-vaccines]]: The "jab"; defended in the corpus as a strategic compromise Trump forced through to end the lockdowns while refusing to mandate it. (Created: 2026-08-02)
 - [[critical-race-theory]]: Academic framework treated in the corpus as covert Neo-Marxism introduced into public education to serve New World Order objectives. (Created: 2026-08-02)
 - [[darpa-lifelog]]: Cancelled DARPA program to log every activity and relationship of a person's life; treated in the corpus as the template for Facebook. (Created: 2026-08-02)
+- [[debt-slavery]]: Condition in which taxation, inflation and borrowing leave citizens financially dependent and therefore politically compliant; presented in the corpus as the purpose rather than the byproduct of fiscal policy. (Created: 2026-08-02)
 - [[declaration-of-independence]]: 1776 founding document treated in the corpus as the source of American values and of authority derived from God. (Created: 2026-08-01)
 - [[deep-state]]: Unelected network said to direct government policy, topped in the corpus by the City of London. (Created: 2026-08-01)
 - [[democracy-promotion]]: Term defined critically in the corpus as code for regime destabilization and conforming nations to the will of the international foreign policy establishment, institutionalized through the NED network. (Created: 2026-08-01)
@@ -624,6 +626,7 @@
 - [[spanish-flu]]: 1918 influenza pandemic that Trump repeatedly dated to 1917, read in the corpus as a deliberate pointer to the Bolshevik uprising. (Created: 2026-08-02)
 - [[spatial-disorientation]]: FAA-defined aviation condition in which conflicting sensory information misleads a pilot; used analogically for media deception. (Created: 2026-08-01)
 - [[stand-down-order]]: Umbrella concept in the corpus covering the alleged Benghazi order, the 1998 Clinton memorandum on Bin Laden, and Obama's White House battlefield approval requirement. (Created: 2026-08-01)
+- [[stockholm-syndrome]]: Psychological condition of captives defending their captors, applied in the corpus as a diagnosis of the American electorate. (Created: 2026-08-02)
 - [[the-godfather]]: 1969 novel and 1972 film analyzed as a narrative operation that made the Italian Mafia synonymous with organized crime. (Created: 2026-08-01)
 - [[the-hunt-for-red-october]]: Tom Clancy novel referenced in the Q drops, whose title is read as signalling a Communist takeover rather than a defection plot. (Created: 2026-08-02)
 - [[the-sum-of-all-fears]]: Tom Clancy novel referenced in the Q drops, read as a warning that modern-day Nazis seek to provoke war between Russia and the United States. (Created: 2026-08-02)
@@ -631,6 +634,7 @@
 - [[toronto-protocols]]: French-language documents leaked by Serge Monast, alleging a financier clique's plan to abolish the family and build a World Government. (Created: 2026-08-02)
 - [[un-charter]]: Founding UN treaty grounding international law in sovereignty, non-interference and mutual cooperation. (Created: 2026-08-01)
 - [[united-states-code]]: Codification of federal statutory law, cited for Title 28's corporation definition and Title 26's unknowable bulk. (Created: 2026-08-01)
+- [[united-states-constitution]]: Founding charter treated in the corpus as a restraint written by the founders against their own government, undone by the Sixteenth Amendment in 1913. (Created: 2026-08-02)
 - [[united-states-federal-corporation]]: Claim that 28 U.S.C. 3002(15)(A) defines the United States as a federal corporation. (Created: 2026-08-01)
 - [[violent-crime-control-and-law-enforcement-act-of-1994]]: Crime bill by Clinton and Biden said to have lengthened non-violent sentences in order to fill private prisons. (Created: 2026-08-01)
 - [[voting-rights-act-of-1965]] — Landmark voting law whose Section 11(b) grounded two counts in NAACP v. USEIP

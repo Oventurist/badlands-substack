@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -42,3 +42,9 @@ Senator Thad Cochran, a Mississippi Republican, is quoted saying: "I'm not blami
 ## Uranium One oversight
 
 [[america-for-sale-part-3|America for Sale — Part 3]] presents Congress as the body the [[uranium-one|Uranium One]] arrangement was designed to evade. The [[nuclear-regulatory-commission|Nuclear Regulatory Commission]] assured Congress in 2010, and Senator John Barrasso in 2011, that no uranium from the Russian-owned mines could be exported. The Hill later found that rather than grant [[rosatom|Rosatom]] a direct export license — which "would have raised red flags inside a Congress already suspicious of the deal" — the NRC amended the license of the trucking firm [[rsb-logistics-services|RSB Logistics Services Inc.]], and that "the move escaped notice in Congress." More broadly, the article argues that [[sanctions|sanctions]] regimes exist partly so that "Congress doesn't track the money."
+
+## Congress and the 1913 settlement
+
+[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) treats Congress as the instrument through which the founders' fiscal restraints were dismantled. The [[sixteenth-amendment|Sixteenth Amendment]], ratified February 3, 1913, "granted Congress the authority to issue an income tax without having to determine it based on population," which the essay reads as deliberately removing the question from the electorate. Members knew, Carlson argues, that voters would never approve either a [[federal-income-tax|federal income tax]] or the [[federal-reserve|Federal Reserve]], and voted them in regardless "against their constituents best wishes," accepting the loss of re-election because "they were paid handsomely for their treasonous actions."
+
+The essay also argues that congressional service was never intended as a career. The federal government was meant to resemble modern local government, with a few full-time officials and most members returning to work as farmers, lawyers, or small business owners; today, Carlson writes, federal politicians "still work part time for the government" while spending the remainder of their time "lobbying and cutting deals with whoever will pay them the most." His conclusion is that changing the majority in Congress or the Speaker of the House accomplishes nothing "until the members of Congress actually work for the people and not the lobbyists and our foreign enemies."

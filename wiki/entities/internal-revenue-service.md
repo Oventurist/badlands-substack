@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [agency, legislation, central-banking]
-sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/a-week-to-remember.md]
+sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -47,3 +47,9 @@ The May 16, 2023 Badlands essay [[a-startling-contradiction-at-the|"A Startling 
 The Badlands Media essay [[a-week-to-remember|A Week to Remember]] characterises the IRS as an instrument of fear rather than revenue. Arguing that federal taxes do not in fact fund the government, the article states that "we live in fear of the IRS, which is why it was created."
 
 The essay stresses that the [[federal-income-tax|federal income tax]], the [[federal-reserve|Federal Reserve]], and the IRS were all established in 1913: "This is not a coincidence." In the author's framing, the tax exists to sustain "the illusion that Americans pay for their government," and the IRS exists to enforce compliance with that illusion.
+
+## The threat that keeps citizens in line
+
+[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) makes the same point in the form of a question: "If not for the threat of the IRS, who would continue to stay in line? If not for the funding of the system, there would be no system."
+
+Carlson uses himself as the illustration. Although he writes that he believes "taxes are theft," he files and pays before the deadline because he is "not willing to risk everything I have to go to jail and leave my family destitute." He can refuse vaccination, disbelieve the media, and speak against the system, "but at the end of the day, I'm afraid to leave the plantation." The IRS in this account is the enforcement mechanism of [[debt-slavery|debt slavery]] rather than a revenue collector.

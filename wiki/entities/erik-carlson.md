@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, outlet]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ The piece combines a chronology of July 2024 — the Butler assassination attemp
 Carlson published [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] on January 18, 2025, subtitled "So ... What Now?". The essay opens with a statistical account of concentration in the [[sp-500|S&P 500]] — the top five companies holding 33% of index weighting in 2025 against 11% in 2010 — before arguing that the five largest American companies share the [[cia|CIA]] as a common master, that technologies developed at [[darpa|DARPA]] with public money were rebranded under manufactured founder mythologies, and that Facebook's launch on February 4, 2004 coincided with the cancellation of [[darpa-lifelog|DARPA's LifeLog]] program.
 
 The piece is accommodationist in its politics: Carlson argues that the American economy cannot be destroyed in order to obtain justice against the [[deep-state|Deep State]], that [[donald-trump|Trump]] treats the technology sector as a business matter in accepting inaugural-fund donations from Google, [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]], [[apple-inc|Apple]] and [[openai|OpenAI]], and that if the CIA's strings have been cut he intends to "take the win. Gladly." It also restates a recurring Carlson theme — that the technology push of the past twenty years is intended to minimize daily human interaction — illustrated through the redesign of [[starbucks|Starbucks]] stores around drive-throughs and order-ahead.
+
+## "America's Greatest Threat" (April 2024)
+
+Carlson published [[americas-greatest-threat|America's Greatest Threat]] on April 24, 2024. The essay argues that the founders regarded the American government, not any foreign power, as the greatest danger to the republic, and that the [[united-states-constitution|Constitution]] was written to restrain it. It presents the 1913 ratification of the [[sixteenth-amendment|Sixteenth Amendment]] and the founding of the [[federal-reserve|Federal Reserve]] as a coordinated seizure of powers the electorate would never have approved, describes the resulting tax and [[inflation|inflation]] burden as a system of [[debt-slavery|debt slavery]] enforced by the [[internal-revenue-service|IRS]], and diagnoses the public with [[stockholm-syndrome|Stockholm Syndrome]].
+
+The essay is notable for Carlson's self-implication — "I can pound my chest all I want … but at the end of the day, I'm afraid to leave the plantation" — and for its [[covid-19-pandemic|COVID-19]] passage arguing that lockdowns, vaccine mandates, and censorship were imposed by Americans on Americans: "It wasn't Putin. It wasn't Xi. It wasn't Iran." It closes with qualified optimism about [[donald-trump|Donald Trump]], quoting the Joker's line from the 1989 *Batman* — "this town needs an enema" — while warning that a 2025 inauguration would mark the beginning rather than the end of the work.

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [legislation, narrative, central-banking]
-sources: [raw/1913.md, raw/a-week-to-remember.md]
+sources: [raw/1913.md, raw/a-week-to-remember.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -31,3 +31,9 @@ The source presents the Sixteenth Amendment as one of the two great consolidatio
 The essay [[a-week-to-remember|A Week to Remember]] refers to the 1913 amendment as the mechanism by which income taxation was imposed against the founders' intent: "Our founding fathers viewed income tax as being unconstitutional. Politicians had to later amend the Constitution to start taxing Americans' incomes in 1913."
 
 The article treats the amendment as one leg of a tripod erected in a single year, alongside the creation of the [[federal-reserve|Federal Reserve]] and the [[internal-revenue-service|IRS]], and argues that even setting the constitutional question aside, the resulting regime cannot justify taxing "the same dollar being taxed multiple times" through income, property, sales, and capital gains levies. See [[federal-income-tax|federal income tax]] for the fuller argument.
+
+## In "America's Greatest Threat"
+
+[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) gives the ratification date as February 3, 1913 and characterises the amendment as granting [[congress|Congress]] "the authority to issue an income tax without having to determine it based on population — in other words, the people wouldn't be allowed to vote on it."
+
+The essay's interpretation is that politicians understood their constituents would never approve either an income tax or the [[federal-reserve|Federal Reserve]], and therefore "simply took that power away from the people," voting the measures in "against their constituents best wishes." Carlson allows that this may have cost some of them re-election but argues that "they were paid handsomely for their treasonous actions." He maintains that the founders had held a federal income tax to be unconstitutional precisely because its absence "kept government small," and that the amendment opened the way for government growth and for revenue "siphoned off to the government officials and the people who control them" — the origin, in the essay's framing, of American [[debt-slavery|debt slavery]] and a breach of the [[united-states-constitution|Constitution]]'s protective purpose.

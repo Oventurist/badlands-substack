@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [taxation, 1913, irs, constitution, tax-free-tips]
-sources: [raw/a-week-to-remember.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,9 @@ The article observes that before the federal income tax existed, America built i
 The essay's central thesis is that Trump's June 10, 2024 pledge to exempt tips from taxation was the opening move toward abolishing the income tax altogether — and that the [[deep-state|Deep State]] recognised it as such. Taxing tips, the author argues, makes little sense in principle: a tip "is not income, it's a way people are shown appreciation," though some industries "have turned tips into wages" by underpaying staff and shifting the burden to customers.
 
 The article predicts a staged dismantling rather than an abrupt one. Abolishing the income tax on January 20, 2025 would trigger "a panic … over the financial system," and legitimate programs would go unfunded. Instead the author expects tax-free tips, then lower overall rates, then elimination, with the government funded by tariffs and corporate taxes while federal jobs and programs are cut: "Less government, less government control." Income tax, the essay concludes, "does help to expand the size and control of the government, and it is used to control Americans, but it's not necessary to run the government."
+
+## As treated in "America's Greatest Threat"
+
+[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) advances a parallel argument. It holds that the founders "specifically stated in the [[united-states-constitution|Constitution]] that a federal income tax was unconstitutional," that the absence of such a tax kept the federal government small as intended, and that the [[sixteenth-amendment|Sixteenth Amendment]] ratified on February 3, 1913 removed the question from the electorate by permitting taxation without apportionment by population.
+
+Carlson catalogues the layered incidence of taxation — federal and state income tax, sales tax, property tax, taxes on investments and savings — summarising that "a dollar is taxed when you earn it, when you spend it and when you save it," with [[inflation|inflation]] operating as the largest levy of all. Because the [[federal-reserve|Federal Reserve]] can print money at will, he argues, the government does not need the revenue; the tax exists to produce [[debt-slavery|debt slaves]], enforced by fear of the [[internal-revenue-service|IRS]]. He concludes with a personal admission that he believes "taxes are theft" yet files and pays before the deadline rather than risk imprisonment.

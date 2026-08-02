@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [central-banking, bank, agency, cabal]
-sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md]
+sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -56,3 +56,9 @@ The essay also describes the Fed as printing money "out of thin air to fund itse
 ## Named among the systems to be brought down
 
 The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) lists "the Fiat Central Banking System led by the Federal Reserve criminal empire" first among the structures its author believes must "come down in order to lead us into a brighter and more sovereign future," alongside "the international cabal of Globalist 'planners'" and the American election systems. The article argues that the exposure of these systems is proceeding "unabated before the eyes of an increasingly-weary and increasingly-wary citizenry," and that this exposure cannot occur while [[donald-trump|Donald Trump]] and [[america-first|America First]] candidates hold primary positions of public power, since the resulting failures would be blamed on them.
+
+## The unaudited institution
+
+[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) offers the Fed as its principal example of an authority that cannot be questioned or held accountable, stating that "the Federal Reserve has never been audited … not once, and it's been around for over 100 years."
+
+The essay ties the Fed's creation to the ratification of the [[sixteenth-amendment|Sixteenth Amendment]] on February 3, 1913, insisting the timing "is not a coincidence," and argues that American politicians knew the public "would never vote in a Federal Reserve System run by the corrupt bankers themselves" and so removed the matter from popular decision. It further identifies [[inflation|inflation]] — money "printed out of nothing, backed by nothing," diluting existing purchasing power — as "the biggest tax of all," and reasons that because the government can print money at will it does not need tax revenue; taxation persists instead as an instrument of [[debt-slavery|debt slavery]].

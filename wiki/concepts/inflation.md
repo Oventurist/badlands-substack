@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [economics, money-printing, federal-reserve, hidden-tax]
-sources: [raw/a-week-to-remember.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,9 @@ The article walks through a housing example to illustrate the claim. The [[feder
 The article argues that much of the inflation experienced after 2021 originated in the money printing [[donald-trump|Donald Trump]] ordered during the COVID-19 lockdowns of early 2020 — a step the author defends as "the lesser of two evils" and as "fighting the [[cabal|Cabal]] with their own weapon, the Federal Reserve," given a plan the essay attributes to the Cabal to destroy the American economy and keep the country locked down for years.
 
 Crucially, the source observes that the [[deep-state|Deep State]] and its media allies did *not* blame Trump for the resulting inflation. "To accuse Trump is to draw attention to the Ponzi Scheme," the article reasons. "The Cabal wants the world to believe inflation is a naturally-occurring event, and that it's not purposely created by the printing of money backed by nothing." Instead the media downplayed inflation and "told the public that they weren't really experiencing what they were experiencing" — because, in the author's framing, blaming Trump "would bring down the system."
+
+## Inflation as "the biggest tax of all"
+
+[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) places inflation at the top of its catalogue of levies, calling it "the biggest tax of all — the tax that comes from the [[federal-reserve|Federal Reserve]] printing money out of nothing, backed by nothing, diluting down the purchasing power of existing money."
+
+The essay uses this to answer the objection that a money-printing government has no need of taxation: it does not, Carlson writes, since "any time the government needs money, they can print it and pass on the inflation to the American people." Taxes persist because they are "a key component of creating and maintaining debt slaves." In the essay's rough arithmetic, real inflation since Joe Biden took office is assumed to be far above official figures — perhaps 30% cumulative, or about 10% a year — and is subtracted alongside income, property, sales, and miscellaneous taxes to leave roughly twenty-five cents of each dollar earned. See [[debt-slavery|debt slavery]].
