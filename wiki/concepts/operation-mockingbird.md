@@ -1,10 +1,10 @@
 ---
 title: Operation Mockingbird
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [media, propaganda, cia, psychological-operations]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +22,9 @@ The article characterizes Mockingbird programming as a social-engineering techno
 ## Claimed breakdown
 
 The essay's central argument is that this apparatus is visibly failing. Citing [[rasmussen-reports|Rasmussen]] polling that 58% of Americans believe the media is deliberately misleading them, and pointing to the incoherence of both left and right responses to the [[israel-palestine-conflict|Israel–Palestine conflict]], the author contends that audiences are losing track of where they are supposed to direct their emotions — "a critical crack in the dam." He treats the eventual and total discrediting of the mainstream media not as a matter of malice but as a "survival imperative," and links the availability of the [[q-anon|Q]] narrative to the question of where people go once their prior programming collapses. The concept is closely tied in the corpus to [[5th-generation-warfare|fifth-generation warfare]] and to the broader notion of the [[cabal]].
+
+## Disclosure through the Church Committee
+
+Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] recounts that in 1975 it was discovered through the [[church-committee|Church Committee]] that the [[cia]] had manipulated and controlled the American media since 1960, and perhaps earlier. The congressional committee led by Senator Frank Church questioned CIA Director [[william-colby]] under oath, and Colby "revealed the existence of Operation Mockingbird -- how the CIA had assets working within different media companies."
+
+The essay treats Mockingbird as the precedent for a successor operation in the internet era, arguing that the agency, having lost control when the internet arrived, sought to create or capture the search engines and social media platforms that replaced legacy media as the gatekeepers of American information.

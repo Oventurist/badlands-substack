@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [author, badlands-media, citizen-journalism, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/a-look-at-recent-features-84d.md, raw/a-seismic-shift.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-look-at-recent-features-84d.md, raw/a-seismic-shift.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: high
 contested: false
 ---
@@ -36,3 +36,7 @@ Its second half turns to [[huma-abedin|Huma Abedin]], whose 1996 arrival as an i
 ## "America for Sale — Part 2"
 
 On January 30, 2025, Lange published [[america-for-sale-part-2|America for Sale — Part 2]], subtitled "The Foundation of Corruption," the sequel to [[america-for-sale-part-1|Part 1]]. The essay traces [[huma-abedin|Huma Abedin]] and [[doug-band|Doug Band]] from their White House internships to their roles at [[teneo|Teneo]] and the [[clinton-foundation|Clinton Foundation]], argues that [[hillary-clinton|Hillary Clinton]]'s [[state-department|State Department]] sold favors to corporate donors, and connects the resulting evidence to [[bob-goodlatte|Bob Goodlatte]], [[trey-gowdy|Trey Gowdy]] and Senator [[chuck-grassley|Chuck Grassley]]. It closes on [[bill-clinton|Bill Clinton]]'s secret 2009 mission to [[north-korea|North Korea]] and promises to explain its significance in Part 3. Within the piece Lange references his earlier articles "We Won't Forget," "Shadow Government Exposed" and "Panic in DC."
+
+## America for Sale — Part 3
+
+Lange published "America for Sale - Part 3," subtitled "Sanctions Are a Scam," on March 15, 2025. Continuing the series begun in [[america-for-sale-part-1|Part 1]] and [[america-for-sale-part-2|Part 2]], the essay argues that hostage crises serve as cover stories, that [[sanctions|sanctions]] create closed financial systems useful to the [[cia|CIA]], and that a single network links the 1994 [[agreed-framework|Agreed Framework]], the pardon of [[marc-rich|Marc Rich]] in [[pardongate|Pardongate]], the [[russian-reset|Russian Reset]] and the [[uranium-one|Uranium One]] transaction. He closes by promising a further installment on Senator [[chuck-grassley|Chuck Grassley]].

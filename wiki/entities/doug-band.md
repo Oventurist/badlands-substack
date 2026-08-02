@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [person, clinton-network, consulting, white-house]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,7 @@ Band co-founded Teneo in June 2011 with [[declan-kelly|Declan Kelly]] and [[paul
 The article highlights emails released by [[judicial-watch|Judicial Watch]] and reported by the *Chicago Tribune* under the headline "Bill Clinton/Doug Band Sought State Department Favors for Foundation Supporters." In a July 27, 2009 email to Abedin, Band wrote: "Need get me/ justy and jd dip passports." Abedin replied moments later, "Okay. Will figure it out." The request concerned diplomatic passports for Band and two younger Clinton aides, Justin Cooper and Jon Davidson, ahead of the secret trip to Pyongyang to free two American journalists — a trip planned in consultation with the [[barack-obama|Obama]] administration's national security experts. None of the requesters worked for the State Department, and the article argues the passports were sought to bypass security and scrutiny.
 
 Band appears in the photograph the essay identifies as Q drop 227, standing behind North Korean leader [[kim-jong-il|Kim Jong Il]] while [[john-podesta|John Podesta]] stands behind Bill Clinton. The author treats this image as a key to the alleged deeper purpose of the hostage mission, a thread deferred to a third installment.
+
+## North Korea and the Chagoury connection
+
+[[america-for-sale-part-3|America for Sale — Part 3]] identifies Band in the photograph of the August 2009 [[north-korea|North Korea]] hostage negotiation posted without comment in Q drop #227, standing directly behind [[kim-jong-il|Kim Jong Il]]. At the time he was working for the [[clinton-foundation|Clinton Foundation]] and the [[clinton-global-initiative|Clinton Global Initiative]], which the article calls "a key data point" indicating the trip was a business mission rather than a humanitarian one. The essay also notes that [[gilbert-chagoury|Gilbert Chagoury]], who pledged $1 billion to CGI in 2009, attended Band's wedding, and that almost all CGI money passed through Band's hands.

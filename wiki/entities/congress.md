@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -38,3 +38,7 @@ The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) discus
 [[america-for-sale-part-1|America for Sale - Part 1]] describes Congress as the body that attempted to expose the [[bill-clinton|Clinton]] administration's technology transfers to China. Quoting an April 16, 1998 *New York Times* report, the article notes that "[s]everal Congressional committees are investigating whether the Administration's policy of exporting space satellite technology to China has helped China and other countries to develop and use nuclear missiles," following a [[pentagon|Pentagon]] finding that Chinese missile reliability was significantly advanced in 1996 with help from American satellite-company scientists.
 
 Senator Thad Cochran, a Mississippi Republican, is quoted saying: "I'm not blaming China. We're talking about our own Government policy-makers responsible for the transfer of this technology, and this case is a glaring example." The article states that congressional interest also extended to the missile-technology contact arranged for [[bernard-schwartz|Bernard Schwartz]] of [[loral-corporation|Loral Corporation]] on a 1994 [[department-of-commerce|Commerce Department]] trade mission, and argues that these inquiries were displaced from public attention by the [[monica-lewinsky|Lewinsky]] scandal.
+
+## Uranium One oversight
+
+[[america-for-sale-part-3|America for Sale — Part 3]] presents Congress as the body the [[uranium-one|Uranium One]] arrangement was designed to evade. The [[nuclear-regulatory-commission|Nuclear Regulatory Commission]] assured Congress in 2010, and Senator John Barrasso in 2011, that no uranium from the Russian-owned mines could be exported. The Hill later found that rather than grant [[rosatom|Rosatom]] a direct export license — which "would have raised red flags inside a Congress already suspicious of the deal" — the NRC amended the license of the trucking firm [[rsb-logistics-services|RSB Logistics Services Inc.]], and that "the move escaped notice in Congress." More broadly, the article argues that [[sanctions|sanctions]] regimes exist partly so that "Congress doesn't track the money."

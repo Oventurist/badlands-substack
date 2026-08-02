@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [maga, movement, politics, base, information-war]
-sources: [raw/all-assets-deployed.md]
+sources: [raw/all-assets-deployed.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +22,9 @@ The essay's central reassurance is that "MAGA only fractures if we allow it to,"
 ## Internal dynamics
 
 The article diagnoses the movement's post-midterm mood as a product of "the expectation game," and describes the resulting frustration as "the scars of perceptive, engaged and discerning minds" rather than a mark of shame. It notes the presence within the community of accusations of goalpost-moving and "hopium," countered by what some call the "Doomer's Refrain," and warns that supporters of [[ron-desantis|Ron DeSantis]] and hostile commentators would seek to turn hairline fractures into "an archipelago of intra-faction wars." Its closing counsel is to "pay attention to those who scream the loudest while guarding your mind from the very same" — a discipline the author treats as essential to fighting the [[information-war|information war]].
+
+## Distrust of the tech realignment
+
+Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] addresses MAGA scepticism about the sudden accommodation between Silicon Valley and [[donald-trump]] in January 2025. As big-tech chief executives "start to climb aboard the Trump Train and apologize for their past corruption and, one might say, treasonous behavior," Carlson writes, Americans are being asked to forgive them or at least move on, and it is "understandable that many within MAGA are less than trusting of these Deep State puppets who seem to be having their strings cut."
+
+His own counsel to the movement is pragmatic: he is "not asking anyone to forgive and forget," but "the cure can't be worse than the disease," and "the US economy can't collapse to bring down everyone who deserves to be tried for treason."

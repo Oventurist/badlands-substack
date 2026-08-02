@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [deep-state, cabal, city-of-london, shadow-government]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
@@ -47,3 +47,9 @@ The Badlands Media essay [[a-week-to-remember|A Week to Remember]] describes mid
 The article's answer is Trump's June 10, 2024 proposal to make tips tax-free, interpreted as the first move toward abolishing the [[federal-income-tax|federal income tax]] and then the money supply system itself. It also observes that the Deep State did not appear unified — some figures stood by Biden while others abandoned him — and attributes this to an internal power struggle, citing the engagement of [[alex-soros|Alex Soros]] and [[huma-abedin|Huma Abedin]] as a possible dynastic settlement.
 
 Looking forward, the essay predicts continued exposure of Deep State actors, groundwork for an economic recovery in 2025, and a migration of Deep State power from America to Europe — supported by the contrast between [[boeing|Boeing]]'s collapse in share price and the quiet surrounding France-based [[airbus|Airbus]] — with Cabal families in England, France, and Germany contesting the spoils.
+
+## The tech sector and the cutting of strings
+
+Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] describes the largest American technology companies as [[cia]]-created and controlled instruments of the Deep State, whose chief executives -- among them [[mark-zuckerberg]] and [[jeff-bezos]] -- are "Deep State puppets who seem to be having their strings cut." The essay predicts that "CIA and Deep State Cabal strings will continue to be cut," that some corporations will be broken into smaller companies, and that some CEOs will not be chosen to take part in what Carlson calls the American Renaissance.
+
+The article is notable within the corpus for its explicitly pragmatic conclusion: Carlson does not expect figures such as Zuckerberg and Bezos to escape entirely unscathed, but argues that the American economy cannot be destroyed in order to secure justice, since "the cure can't be worse than the disease."

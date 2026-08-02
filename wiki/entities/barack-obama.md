@@ -8,7 +8,7 @@ tags:
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md, raw/america-for-sale-part-1.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -49,3 +49,9 @@ The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] names Obam
 The December 2024 essay [[america-for-sale-part-1|America for Sale - Part 1]] repeats the claim, made in [[joe-lange|Joe Lange]]'s earlier article "Bad Actors," that [[prince-alwaleed|Prince Alwaleed bin Talal]] "paid for Obama's Harvard education" in his pre-political days, offering this as the reason Obama's school records remain sealed. Reading Q drop #111, the article identifies "HUMA" as the [[harvard-university-muslim-alumni|Harvard University Muslim Alumni]] association and asks whether Obama was a member despite professing Christianity throughout his presidency.
 
 Quoting Q drop #4750, which asks who paid for "Hussein's Harvard Law Degree" and who financed his political life, the article argues that Alwaleed "installed Obama as president" as part of a sixteen-year plan, and that the [[muslim-brotherhood|Muslim Brotherhood]]'s decades-long [[civilization-stealth-jihad|infiltration]] of the U.S. government "culminated with the installment of the Obama administration." [[valerie-jarrett|Valerie Jarrett]] is described as Obama's "handler," paired with [[huma-abedin|Huma Abedin]] as [[hillary-clinton|Hillary Clinton]]'s. The article also cites the Obama-era pattern of "funding and arming our enemies" in [[benghazi|Benghazi]] as a repetition of 1990s policy.
+
+## Uranium One exports
+
+According to [[america-for-sale-part-3|America for Sale — Part 3]], the Obama administration approved the sale of [[uranium-one|Uranium One]] to Russia's [[rosatom|Rosatom]] in 2010 and then assured the public that no uranium would leave the United States. Q drop #46 asked whether "BO and/or his admin ever make false statements that U1 would never be exported from the US."
+
+Reporting by The Hill, quoted in the article, found that the [[nuclear-regulatory-commission|Nuclear Regulatory Commission]] approved yellowcake shipments from the Russian-owned American mines to Canada in 2012 through a third party, with the administration later approving onward movement to Europe. Instead of issuing Rosatom a direct export license, which would have alerted [[congress|Congress]], the NRC amended the license of the trucking firm [[rsb-logistics-services|RSB Logistics Services Inc.]]. Q drop #1345 asserts the arrangement was "organized/planned by BC/HRC" and "carried out by Hussein," and the essay adds that Obama's later Iran nuclear deal followed the same template after the financial success of Uranium One.

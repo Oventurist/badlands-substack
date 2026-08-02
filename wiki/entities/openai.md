@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [tech, ai, corporate]
-sources: [raw/a-new-hollywood.md, raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/a-new-hollywood.md, raw/ai-can-help-us-expose-the-nwo.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 ---
 
@@ -17,3 +17,7 @@ The article also dates the beginning of "the big push for AI" to the release of 
 ## In the AI-versus-NWO experiment
 
 OpenAI's ChatGPT is the tool at the centre of the January 2024 essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], in which [[justin-deschamps|Justin Deschamps]] uses the model to analyse [[toronto-protocols|the Toronto Protocols]] as a military campaign. The essay treats the model's repeated disclaimers as possible evidence of curation toward "globalist" answers, while arguing that no language model can wholly escape reality because "all lies are themselves woven with threads of truth."
+
+## Inaugural fund donation
+
+Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] lists OpenAI among the companies donating one million dollars to [[donald-trump]]'s inaugural fund in January 2025, alongside Google, [[microsoft]], [[meta-platforms|Meta]], [[amazon]], and [[apple-inc|Apple]]. The essay stresses the common thread among the donors -- all massive, all big tech, and all "heavily involved with the development of AI technology" -- and contrasts them with [[nvidia]], the one major AI firm absent from the list at the time of writing.

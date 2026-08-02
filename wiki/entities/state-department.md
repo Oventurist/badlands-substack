@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [us-government, foreign-policy, terrorism-designation, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -44,3 +44,7 @@ The article contrasts this access with Abedin's simultaneous history as assistan
 The article also examines [[declan-kelly|Declan Kelly]]'s appointment as economic envoy to Northern Ireland, describing a parallel arrangement in which Kelly drew no salary, hired his own staff, and continued to earn about $2.4 million from [[dow-chemical|Dow Chemical]] through [[fti-consulting|FTI Consulting]]. Quoting *Politico*, it notes that despite official-sounding titles and regular interaction with department staff and Irish diplomats, "none of them were official government employees," and that a department statement said: "The State Department does not have a record of these individuals being employed by the Department." Several of Kelly's envoy-office staff also worked for Declan Kelly Consulting and became early Teneo employees, avoiding the oversight applied to department personnel.
 
 A further episode concerns [[doug-band|Doug Band]]'s July 27, 2009 request to Abedin for diplomatic passports for himself and two Clinton aides ahead of the secret [[north-korea|North Korea]] mission, despite none of them working for the department. [[joe-lange|Joe Lange]] reads these arrangements as deliberate structures for concealment.
+
+## Uranium One approval
+
+In [[america-for-sale-part-3|America for Sale — Part 3]], the State Department appears twice. The New York Times reporting quoted there notes that because uranium is a strategic asset, the sale of [[uranium-one|Uranium One]] to Russia required approval by a committee of federal agencies, and that "among the agencies that eventually signed off was the State Department, then headed by Mr. Clinton's wife, [[hillary-clinton|Hillary Rodham Clinton]]." The article also states that repeated attempts by U.S. marshals to arrest the fugitive trader [[marc-rich|Marc Rich]] in Switzerland failed because "someone in the State Department would always tip him off," which it attributes to Rich's ties to the [[cia|CIA]].

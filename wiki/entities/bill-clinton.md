@@ -7,7 +7,7 @@ tags:
   - president
   - cia
   - stand-down
-sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -41,3 +41,13 @@ The essay also links Clinton to the illegal fundraising scheme run through Comme
 The article states that Teneo paid Clinton $2.5 million per year as a client and paid adviser to the firm and its founders, and that he served for a time as its "honorary chairman," giving clients access to the Clintons' network of world leaders. Breitbart reported that the [[state-department|State Department]] under [[hillary-clinton|Hillary Clinton]] approved the paid consulting arrangement between Clinton and Band. Clinton appeared with [[george-w-bush|George W. Bush]] and [[tony-blair|Tony Blair]] at a September 20, 2012 Teneo client reception at the Essex House organized in part by [[huma-abedin|Huma Abedin]], and with Bush and [[ubs|UBS]] executive Bob McCann in the "Revitalizing America" series beginning in May 2011, for which McClatchy reported he received $1.5 million. UBS paid him more than $1.5 million in speaking fees between 2001 and 2014. In autumn 2010 he personally lobbied [[fifa|FIFA]] to bring the World Cup to the United States.
 
 The article's final section concerns Clinton's secret 2009 mission to [[north-korea|North Korea]], undertaken with [[barack-obama|Obama]] administration blessing and, the author says, at the request of [[kim-jong-il|Kim Jong Il]], which freed two American journalists. Band and two younger aides, Justin Cooper and Jon Davidson, traveled with him after Band asked Abedin to obtain diplomatic passports for them. A photograph from the trip showing [[john-podesta|John Podesta]] behind Clinton and Band behind Kim Jong Il was posted without comment as Q drop 227, which the author treats as a signal that the hostage story was cover for something else.
+
+## Sanctions, North Korea and Uranium One
+
+The March 2025 essay [[america-for-sale-part-3|America for Sale — Part 3]] by [[joe-lange|Joe Lange]] places Clinton at the centre of what it calls a sanctions-based laundering system. It recounts his October 18, 1994 announcement of the [[agreed-framework|Agreed Framework]] with [[north-korea|North Korea]] — "This agreement is good for the United States, good for our allies, and good for the safety of the entire world" — under which Pyongyang would close its Yongbyon reactor while the United States supplied oil and built two "light fuel" plants. The article argues the deal was never meant to halt proliferation, since supplying oil freed North Korean cash for weapons work, and notes that five months later Clinton signed Executive Orders 12957 and 12959 shutting down trade with [[iran|Iran]] and its oil industry — in the author's reading, to source oil for North Korea.
+
+The essay also revisits [[pardongate|Pardongate]], the 140 pardons and 36 commutations Clinton issued on January 20, 2001, which it describes as cover for the single pardon of the sanctions-busting commodities trader [[marc-rich|Marc Rich]].
+
+In August 2009 Clinton travelled to North Korea with [[doug-band|Doug Band]] and [[john-podesta|John Podesta]] to secure the release of two American journalists held by [[kim-jong-il|Kim Jong Il]]. A memo later published among Podesta's emails by [[wikileaks|WikiLeaks]] recorded Kim asking "that President Clinton return often, officially and unofficially," and Clinton expressing a wish to visit a seaside location depicted in a guest-house painting. The article treats the hostages as a cover story for a commercial deal.
+
+Finally, the essay credits Clinton with originating the [[uranium-one|Uranium One]] transaction: in September 2005 he flew aboard [[frank-giustra|Frank Giustra]]'s private jet to Almaty, [[kazakhstan|Kazakhstan]], endorsed president Nursultan Nazarbayev's bid to lead an international election monitoring body, and within days Giustra's [[urasia-energy|UrAsia Energy]] obtained stakes in three Kazatomprom uranium mines. Giustra subsequently donated $31.3 million to the [[clinton-foundation|Clinton Foundation]]. Clinton was later paid $500,000 for a Moscow speech by a Russian investment bank promoting Uranium One stock.

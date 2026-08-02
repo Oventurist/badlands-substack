@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [organization, clinton-network, philanthropy, pay-for-play]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -20,3 +20,7 @@ The article, drawing on *Nonprofit Quarterly*, reports that [[fifa|FIFA]] gave t
 ## Framing in the corpus
 
 [[joe-lange|Joe Lange]] characterizes CGI as the mechanism that "took the money laundering operation worldwide," arguing that membership fees and sponsorships from foreign governments and international bodies purchased access and favors from [[hillary-clinton|Hillary Clinton]]'s [[state-department|State Department]] through intermediaries including [[huma-abedin|Huma Abedin]] and the consulting firm [[teneo|Teneo]]. This characterization is contested; the donation figures themselves come from published reporting.
+
+## The Chagoury pledge
+
+[[america-for-sale-part-3|America for Sale — Part 3]] reports that in 2009 the Nigerian businessman [[gilbert-chagoury|Gilbert Chagoury]] — a convicted money launderer and close business partner of the commodities trader [[marc-rich|Marc Rich]] — pledged $1 billion to the Clinton Global Initiative. In the same year CGI gave Chagoury's company an award for sustainable development, and in 2013 [[bill-clinton|Bill Clinton]] appeared at a public ceremony in Nigeria for one of his projects. The article stresses that CGI was the brainchild of [[doug-band|Doug Band]] and that "almost all of the money flowing through the Clinton Global Initiative went through Doug Band," concluding that CGI "put the whole world up for sale."

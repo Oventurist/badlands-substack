@@ -8,7 +8,7 @@ tags:
   - libya
   - cia
   - taxpayer-theft
-sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -44,3 +44,11 @@ Second, and more extensively, the article traces the twenty-year relationship be
 The article states that Clinton's State Department approved a paid consulting arrangement between Teneo and [[bill-clinton|Bill Clinton]], who received $2.5 million a year from the firm. It also recounts, citing *Politico*, that Clinton personally sought out [[declan-kelly|Declan Kelly]] — a former fundraiser of hers — as her economic envoy to Northern Ireland, granting him status outside normal diplomatic channels while he continued earning about $2.4 million from [[dow-chemical|Dow Chemical]]; the department later stated it had no record of Kelly or his staff being employed by it. *The Guardian* is cited reporting that Clinton's involvement as Secretary of State contributed to the August 2009 [[ubs|UBS]] settlement with the IRS, after which UBS donations to the Foundation rose sharply.
 
 The essay frames these arrangements as a "pay-for-play spider web" and asserts that Clinton was to have been installed for eight years following [[barack-obama|Barack Obama]] as the second half of [[prince-alwaleed|Prince Alwaleed bin Talal]]'s "sixteen year plan." These characterizations are the author's and are contested.
+
+## Uranium One and the Russian Reset
+
+[[america-for-sale-part-3|America for Sale — Part 3]] examines Clinton's role as Secretary of State in the sale of [[uranium-one|Uranium One]] to Russia's [[rosatom|Rosatom]]. In March 2009 she presented Russian Foreign Minister Sergey Lavrov with the mistranslated "Reset" button that launched the [[russian-reset|Russian Reset]], which the article — citing Q drop #48 — argues was engineered to provide "clearance/pathway to complete the U1 deal."
+
+The [[state-department|State Department]] was among the agencies required to approve the transfer of a company controlling roughly 20 percent of American uranium production capacity, yet Clinton maintained she had nothing to do with the decision. The New York Times reported that as the Russians assumed control between 2009 and 2013, $2.35 million in undisclosed donations reached the [[clinton-foundation|Clinton Foundation]] from the family foundation of Uranium One chairman [[ian-telfer|Ian Telfer]], despite her agreement with the Obama White House to publicly identify all donors; further millions came from people tied to Uranium One and [[urasia-energy|UrAsia Energy]], including [[sergei-kurzin|Sergei Kurzin]]. The article contrasts her later accusations that Russia helped Donald Trump win in 2016 with her earlier approval of Russian control over a large share of the world's uranium.
+
+The same essay notes that her husband's August 2009 hostage mission to [[north-korea|North Korea]] occurred while she headed the State Department, which it calls "not a coincidence."

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, outlet]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ Carlson is the author of [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], publ
 Carlson's essay [[a-week-to-remember|A Week to Remember]], published July 25, 2024, argues that the political convulsions of that month were triggered not by [[joe-biden|Joe Biden]]'s debate performance but by [[donald-trump|Donald Trump]]'s June 10, 2024 pledge to make tips tax-free — read by the author as an opening move against the [[federal-income-tax|federal income tax]] and, ultimately, the money supply system controlled by private bankers.
 
 The piece combines a chronology of July 2024 — the Butler assassination attempt, the selection of [[jd-vance|JD Vance]], the [[republican-national-convention|Republican National Convention]], Biden's withdrawal, and the resignation of [[kimberly-cheatle|Kimberly Cheatle]] — with an extended critique of taxation, [[inflation|inflation]], the [[federal-reserve|Federal Reserve]], the [[petrodollar|Petrodollar]], and the rise of [[brics|BRICS]]. It closes on an optimistic note about a post-Cabal era of prosperity, urging readers to "break free of the chains that limit your expectations."
+
+## "America Has a CIA-Run Economy" (January 2025)
+
+Carlson published [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] on January 18, 2025, subtitled "So ... What Now?". The essay opens with a statistical account of concentration in the [[sp-500|S&P 500]] — the top five companies holding 33% of index weighting in 2025 against 11% in 2010 — before arguing that the five largest American companies share the [[cia|CIA]] as a common master, that technologies developed at [[darpa|DARPA]] with public money were rebranded under manufactured founder mythologies, and that Facebook's launch on February 4, 2004 coincided with the cancellation of [[darpa-lifelog|DARPA's LifeLog]] program.
+
+The piece is accommodationist in its politics: Carlson argues that the American economy cannot be destroyed in order to obtain justice against the [[deep-state|Deep State]], that [[donald-trump|Trump]] treats the technology sector as a business matter in accepting inaugural-fund donations from Google, [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]], [[apple-inc|Apple]] and [[openai|OpenAI]], and that if the CIA's strings have been cut he intends to "take the win. Gladly." It also restates a recurring Carlson theme — that the technology push of the past twenty years is intended to minimize daily human interaction — illustrated through the redesign of [[starbucks|Starbucks]] stores around drive-throughs and order-ahead.

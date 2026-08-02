@@ -1,13 +1,13 @@
 ---
 title: CIA
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - intelligence
   - shadow-government
   - terrorism
-sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
@@ -37,3 +37,17 @@ On organized crime, the essay places the CIA above the [[jewish-mafia|Jewish Maf
 ## Portrayal in Trump-era entertainment
 
 The February 2025 essay [[a-new-hollywood|A New Hollywood]] observes a surge of CIA-themed programming from [[paramount-global|Paramount Global]] and [[skydance-media|Skydance Media]]: *Lioness*, in which CIA operatives infiltrate a Mexican drug cartel to rescue a kidnapped American politician and trafficked children; [[showtime|Showtime]]'s *The Agency*, about an officer returning from years undercover; and *Jack Ryan*, in which a CIA analyst goes into the field against foreign threats. [[erik-carlson|Erik Carlson]] argues that because these shows come from [[donald-trump|Trump]] allies, they indicate Trump "isn't looking to scatter the CIA into a thousand pieces, but rather that he intends to reform it." The same article notes the claim that [[larry-ellison|Larry Ellison]] is "a CIA stooge," responding that essentially everyone in American tech has some past connection to DARPA or the CIA without that determining present loyalties.
+
+## Sanctions and closed financial systems
+
+[[america-for-sale-part-3|America for Sale — Part 3]] argues that [[sanctions|sanctions]] are an instrument of the CIA rather than a punishment. Cutting a country off from the world banking system, the article claims, turns it into a "closed financial system" in which money-laundering law does not apply and [[congress|Congress]] cannot track funds — making states such as [[iran|Iran]] and [[north-korea|North Korea]] convenient laundering venues for shadow government operations. The essay describes the commodities trader [[marc-rich|Marc Rich]] as an "untouchable" protected by deep ties to the CIA and [[mossad|Mossad]], whose network of front companies, shipping firms and financial institutions moved oil and uranium to sanctioned regimes, and asserts that the CIA stood behind the nuclear programs of the "rogue states."
+
+## Alleged control of the American economy (2025)
+
+Erik Carlson's January 18, 2025 essay [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] advances the claim that the five largest American companies by market capitalization "all have the same master, the CIA," and that they are "all critical in propagandizing and controlling the world."
+
+The argument proceeds from the 1975 [[church-committee|Church Committee]] hearings, at which CIA Director [[william-colby]] testified under oath and revealed [[operation-mockingbird|Operation Mockingbird]], the placement of agency assets inside media companies. Carlson dates the agency's manipulation of American media to 1960 or earlier, and argues that before the 1990s the task was manageable because the agency needed only to control Hollywood, the music industry, television, radio, books, magazines, newspapers, and broadcast news. The internet, "like the Wild West," destroyed that control at a time of rising anti-government sentiment; by 2000, with 52% of Americans online, the essay says the solution was to create and control search engines and social media.
+
+The mechanism Carlson describes is the transfer of technology developed at [[darpa]] with taxpayer money into companies the CIA creates, assigning individuals "to be the faces of the companies." Specific claims include that much of Facebook's early funding came from CIA shell companies, that Facebook launched on February 4, 2004 -- the same day [[darpa-lifelog|LifeLog]] was cancelled -- that Google Earth is a repurposed CIA satellite, that one of [[amazon-web-services|Amazon Web Services]]' first major contracts was a $600 million CIA award in early 2013, and that [[washington-post|The Washington Post]], bought by [[jeff-bezos]] months later, was a CIA-run newspaper.
+
+The essay's conclusion is optimistic rather than despairing: Carlson expects that "CIA and Deep State Cabal strings will continue to be cut," and writes that if they have been, "I for one am going to take the win. Gladly."

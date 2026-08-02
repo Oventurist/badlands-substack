@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md]
 confidence: medium
 contested: true
 ---
@@ -105,3 +105,11 @@ The essay quotes Trump telling a somber audience that "The voting will be much, 
 The essay [[always-fight-back|"Always Fight Back"]] situates Trump at the center of a broader argument about election skepticism. It recounts that after his unexpected 2016 victory over [[hillary-clinton|Hillary Clinton]], Democrats alleged collusion with Russia and launched the Mueller investigation, which cost taxpayers millions and found no evidence of collusion, and that opponents referred to him as illegitimate throughout his presidency. It notes that [[free-speech-for-people|Free Speech For People]] launched a campaign to impeach him on Inauguration Day, January 20, 2017.
 
 The article's central contention is that questioning election outcomes became legally actionable in the eyes of the plaintiffs in [[naacp-v-useip|NAACP et al. v. USEIP et al.]] only when it involved 2020 and Trump — "It's only a problem when it involves 2020 and President Trump" — a position the author argues is protected opinion in the media but improper as the basis for federal litigation.
+
+## The tech CEOs and the 2025 inaugural fund
+
+Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]], published on the eve of the second inauguration, describes a realignment in which big-technology chief executives endorsed Trump or at least stopped working against him. [[elon-musk]] is named the most supportive, vocally and financially; [[mark-zuckerberg]] agreed to open Meta's platforms to more free speech; and [[jeff-bezos]] said [[washington-post|The Washington Post]] should be less biased and more trustworthy.
+
+Google, [[microsoft]], [[meta-platforms|Meta]], [[amazon]], [[apple-inc|Apple]], and [[openai]] each donated a million dollars to Trump's inaugural fund. Carlson calls these donations symbolic and "a drop in the bucket," but reads them as "the real pardoning that is happening in America," contrasting them with Joe Biden's pardons, which he calls "purely optics," and describing Trump as allowing economically valuable companies to "kiss the ring." He notes [[nvidia]]'s absence from the donor list and asks whether the company is "not a part of Trump's future plans."
+
+The essay argues that Trump regards these firms as necessary to the American economy, since "it's hard to imagine an America without Amazon, Apple, FaceBook, Microsoft or Google," and concludes: "Trump is a businessman, and he understands that this is business. The American economy can't be destroyed in order for him and us to receive the justice deserved."

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [cabal, deep-state, censorship, info-war]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/america-has-a-cia-run-economy.md]
 confidence: low
 contested: true
 ---
@@ -36,3 +36,9 @@ The February 2025 essay [[a-new-hollywood|A New Hollywood]] dates "the big push 
 ## AI as a counter-intelligence tool
 
 The January 2024 essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]] offers a contrasting view of AI within the corpus: rather than treating it solely as an instrument of manipulation, [[justin-deschamps|Justin Deschamps]] argues it can be turned against its makers. Because truth is coherent and "all lies are themselves woven with threads of truth," a large language model cannot fully inhabit a fictional world, and its engineers "can't ignore reality itself." Using [[chatgpt|ChatGPT]] to map the warfare described in [[toronto-protocols|the Toronto Protocols]], he contends, lets analysts "make visible that which has been designed to remain invisible." The essay nonetheless reads the model's hedging and disclaimers as evidence of curated, globalist-friendly outputs.
+
+## AI and market concentration
+
+Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] uses artificial intelligence as the dividing line in a quarter-century of American corporate history. The essay observes that the five largest American companies in 2025 -- [[apple-inc|Apple]], [[nvidia]], [[microsoft]], [[alphabet-inc|Alphabet]], and [[amazon]] -- "are all AI big tech companies," whereas in 2020 they were "all pre-AI big tech companies" and in 2000 a diversified mix across energy, aerospace, technology, pharmaceuticals, and retail.
+
+The article notes that every company donating one million dollars to [[donald-trump]]'s inaugural fund, including [[openai]] and [[meta-platforms|Meta]], was heavily involved in AI development, and remarks on Nvidia's conspicuous absence from that list. It also reports that [[bill-gates]] plans to fund nuclear power plants to supply Microsoft's AI, and imagines a dystopian endpoint of social atomization in which people spend Saturday evenings at home "with our AI robot girlfriend or boyfriend."

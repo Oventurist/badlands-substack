@@ -7,7 +7,7 @@ tags:
   - politics
   - charity
   - clinton
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
 confidence: medium
 contested: true
 ---
@@ -42,3 +42,7 @@ According to the article, the weapons deals were designed to enrich government o
 The article records several specific donation streams. [[prince-alwaleed|Prince Alwaleed bin Talal]] is described as one of the Foundation's biggest donors during Clinton's tenure. *Nonprofit Quarterly* is cited for [[fifa|FIFA]]'s membership fee of $50,000 to $100,000 to participate in CGI plus a commitment to build twenty community centers in South Africa, the [[qatar|Qatar]] 2022 Supreme Committee's $250,000 to $500,000 CGI sponsorship in 2013, and the government of Qatar's cumulative $1 million to $5 million. *The Wall Street Journal*, via *The Guardian*, is cited for [[ubs|UBS]] donations growing from under $60,000 through 2008 to about $600,000 by the end of 2014, alongside a $32 million loan program under the Clinton Economic Opportunity Initiative, a $350,000 donation in June 2011 and $100,000 for a charity golf tournament.
 
 The essay also states that U.S. Attorney [[john-huber|John Huber]], secretly appointed by [[jeff-sessions|Jeff Sessions]] in November 2017, made the Clinton Foundation the subject of his first investigation, and that the resulting evidence of what the author calls treason now rests with [[chuck-grassley|Chuck Grassley]]. These interpretive claims are contested.
+
+## Uranium One donations
+
+[[america-for-sale-part-3|America for Sale — Part 3]] documents the flow of money into the foundation from figures connected to the [[uranium-one|Uranium One]] transaction. Canadian mining financier [[frank-giustra|Frank Giustra]] donated $31.3 million months after securing Kazakh uranium mines in 2005 alongside [[bill-clinton|Bill Clinton]]. Uranium One chairman [[ian-telfer|Ian Telfer]] was publicly listed as giving no more than $250,000 in 2007, but Canadian tax records for his Fernwood Foundation showed $1 million in 2009, $250,000 in 2010, $600,000 in 2011 and $500,000 in 2012 — donations never disclosed despite [[hillary-clinton|Hillary Clinton]]'s agreement with the Obama White House. Between $1.3 million and $5.6 million more came from people tied to Uranium One or [[urasia-energy|UrAsia Energy]]. Russian investor [[sergei-kurzin|Sergei Kurzin]] gave $1 million, and Nigerian businessman [[gilbert-chagoury|Gilbert Chagoury]] donated millions in the years after the pardon of [[marc-rich|Marc Rich]].
