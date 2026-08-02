@@ -2,15 +2,15 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 748
+> Last updated: 2026-08-02 | Total pages: 755
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
 - [[abdullah-omar-naseef]]: Saudi academic and former Muslim World League secretary-general, described in the corpus as an Al Qaeda financier who founded the Institute of Muslim Minority Affairs and recruited Huma Abedin’s parents to run it. (Created: 2026-08-02)
-- [[abraham]]: Patriarch of the Abrahamic faiths; in the corpus the builder of the Kaaba and the antagonist of Nimrod's idolatry. (Created: 2026-08-02)
 - [[abraham-lincoln]] — Sixteenth US president; 1860 ballot exclusion and 1864 mail-in ballots cited in election-history surveys
-- [[abu-bakr]]: Companion of Muhammad and first of the four elected Rashidun caliphs, under whom the Quran was written. (Created: 2026-08-02)
+- [[abraham]]: Patriarch of the Abrahamic faiths; in the corpus the builder of the Kaaba and the antagonist of Nimrod's idolatry. (Created: 2026-08-02)
 - [[abu-bakr-al-baghdadi]]: Leader of ISIS; cited in the source as the recipient of covert U.S. taxpayer funding funneled through intermediaries such as Mouza Moustafa and John McCain. (Created: 2026-08-01)
+- [[abu-bakr]]: Companion of Muhammad and first of the four elected Rashidun caliphs, under whom the Quran was written. (Created: 2026-08-02)
 - [[afl-cio]]: America's largest labor federation; described in the corpus as a covert agent of the U.S. foreign policy establishment whose international arm, the Solidarity Center, uses taxpayer funds for geopolitical ends, nicknamed "AFL-CIA" for its secret CIA partnership. (Created: 2026-08-01)
 - [[africom]]: U.S. Africa Command (AFRICOM); cited in the source as having learned of the Benghazi attack within 30 minutes and prepared to deploy forces, but never receiving the order to proceed. (Created: 2026-08-01)
 - [[airbus]]: European aerospace consortium based in France; used in the corpus as a foil to Boeing's decline, illustrating an alleged shift of Deep State power to Europe. (Created: 2026-08-02)
@@ -68,8 +68,8 @@
 - [[bilderberg]]: Elite off-the-record conference; cited as one of the deep-political forums frequented by Tom Donilon, who sat on its steering committee. (Created: 2026-08-02)
 - [[bill-and-melinda-gates-foundation]]: Philanthropic vehicle founded by Bill Gates in 2000, described in the corpus as reputation laundering during which his net worth doubled in a year. (Created: 2026-08-02)
 - [[bill-clinton]]: 42nd U.S. President; framed in the source as having signed a stand-down order preventing the CIA from killing Osama Bin Laden before 9/11 and covering up his role through the theft of classified documents. (Created: 2026-08-01)
-- [[bill-gates]]: Microsoft co-founder and philanthropist, grouped by the corpus among the "good" technocratic plutocrats in Chrystia Freeland's taxonomy of the new global elite. (Created: 2026-08-01)
 - [[bill-gates-arizona]]: Republican chairman of the Maricopa County Board of Supervisors in 2022, mocked in the corpus for his explanatory election videos. (Created: 2026-08-02)
+- [[bill-gates]]: Microsoft co-founder and philanthropist, grouped by the corpus among the "good" technocratic plutocrats in Chrystia Freeland's taxonomy of the new global elite. (Created: 2026-08-01)
 - [[blackrock]]: World's largest asset manager; cited in the corpus as a common institutional owner of all six mainstream media conglomerates. (Created: 2026-08-01)
 - [[bob-goodlatte]]: Former Republican congressman from Virginia and House Judiciary chairman; credited in the corpus with exposing the Obama DOJ settlement “slush fund” and with briefing-based investigations feeding a coming prosecution phase. (Created: 2026-08-02)
 - [[bob-grenier]]: Former CIA station chief in Islamabad; quoted as saying a Clinton-signed "lethal finding" barred the agency from making Bin Laden's death the purpose of an attack. (Created: 2026-08-01)
@@ -102,8 +102,8 @@
 - [[chaya-raichik]]: Conservative social media personality who runs Libs of TikTok; amplified StopAntisemitism firings while herself condemning doxxing, described by the corpus as a "blatant hypocrite." (Created: 2026-08-01)
 - [[cheddi-jagan]]: Marxist-leaning Guyanese premier whose 1962-63 government was destabilized by a CIA-funded three-month general strike organized through AFL-CIO labor institutes. (Created: 2026-08-01)
 - [[chevron]]: U.S. oil major, Atlantic Council funder, signer of $10 billion deals with Ukraine's Naftogaz and a prospective beneficiary of Iran's reopening. (Created: 2026-08-02)
-- [[china]]: Superpower described as simultaneously in bed with the Atlanticists and as Iran's principal patron via a $400 billion deal and the Belt and Road Initiative. (Created: 2026-08-02)
 - [[china-us-exchange-foundation]]: Hong Kong-based body described in the corpus as a CCP-backed United Front vehicle that funded the Carnegie-Tsinghua Center in Beijing. (Created: 2026-08-02)
+- [[china]]: Superpower described as simultaneously in bed with the Atlanticists and as Iran's principal patron via a $400 billion deal and the Belt and Road Initiative. (Created: 2026-08-02)
 - [[chinese-communist-party]]: Ruling political party of the People's Republic of China; framed in the Badlands corpus as a central actor in a global Communist plot to subvert the United States through corporate capture, algorithmic manipulation, and economic warfare. (Created: 2026-08-01)
 - [[chris-pavlovski]]: Founder of Rumble; framed as a primary target of the censorship regime alongside Elon Musk, with Rumble described as more vulnerable but challenging the regime more intensely than X. (Created: 2026-08-01)
 - [[christopher-rufo]]: Conservative activist against critical race theory; his defense of fired teacher Tony Kinnett is cited as an example of free speech advocacy the corpus claims was abandoned after October 7. (Created: 2026-08-01)
@@ -166,6 +166,7 @@
 - [[ezra-cohen-watnick]]: Intelligence official and Flynn deputy identified in the corpus as the man who briefed Goodlatte and Gowdy on classified DOJ and FBI intelligence. (Created: 2026-08-02)
 - [[fabian-society]]: British gradualist socialist society described in the corpus as a century-long partner of the Rhodes Scholarship network and progenitor of a Canadian branch in 1932. (Created: 2026-08-01)
 - [[fajr-libya]]: Militia coalition in post-Gaddafi Libya; framed in the source as part of the Islamist network that took control after the 2011 NATO intervention. (Created: 2026-08-01)
+- [[fani-willis]]: Fulton County, Georgia District Attorney whose 41-count RICO indictment of Donald Trump the corpus reads as resting on unprovable claims about his state of mind. (Created: 2026-08-02)
 - [[fbi]]: Federal Bureau of Investigation; alleged alongside the CIA to have run record labels and engineered the rise of gangster rap. (Created: 2026-08-01)
 - [[february-17-brigade]]: Elite Libyan military unit commanded by Abdelhakim Belhaj during the 2011 revolution; cited in the source as the group assigned to security at the Benghazi consulate that did nothing to stop the 2012 attack. (Created: 2026-08-01)
 - [[federal-aviation-administration]]: U.S. civil aviation regulator whose Pilot's Handbook supplies the definition of spatial disorientation cited in Badlands commentary. (Created: 2026-08-01)
@@ -228,6 +229,7 @@
 - [[j-b-white]]: Badlands Media contributor writing as RattlerGator; author of the December 2022 column on Anthony Fauci and co-host of Trash Talk. (Created: 2026-08-02)
 - [[j-christopher-giancarlo]]: Former CFTC chairman known as "Crypto Dad," founder of the Digital Dollar Project and, per the corpus, a driver of the American digital dollar effort. (Created: 2026-08-02)
 - [[j-e-dyer]]: Commentator at The Optimistic Conservative quoted for the argument that the purpose of political censorship is gaslighting. (Created: 2026-08-02)
+- [[jack-smith]]: U.S. Special Counsel who brought the four-count federal indictment of Donald Trump over the 2020 election, described in the corpus as a prosecutor claiming to read minds. (Created: 2026-08-02)
 - [[jacobin]]: American socialist magazine cited in the corpus for documenting the CIA's secret 'AFL-CIA' partnership with the AFL-CIO and its role in destabilizing various governments. (Created: 2026-08-01)
 - [[jake-sullivan]]: Policy architect of the Iran nuclear deal, later Biden's national security adviser; Rhodes Scholar and Trilateral Commission member. (Created: 2026-08-02)
 - [[james-baker]]: James Addison Baker III (born 1930) is an American attorney and political figure who served in high-level positions in the administrations of Presidents Gerald Ford, Ronald Reagan, and George H.W. (Created: 2026-08-01)
@@ -311,10 +313,10 @@
 - [[lululemon]]: Athletic apparel retailer cited as an example of corporate compliance with a supposed Communist plot to destroy American commerce after firing employees who called 911 during a theft. (Created: 2026-08-01)
 - [[mar-a-lago]]: Trump's Palm Beach club and residence; venue of the November 15, 2022 announcement of his 2024 presidential candidacy. (Created: 2026-08-02)
 - [[marc-rich]]: Commodities trader and sanctions-buster pardoned by Bill Clinton on his last day in office; described in the corpus as a CIA- and Mossad-linked pioneer of uranium-for-oil swaps. (Created: 2026-08-02)
-- [[maricopa-county]]: Arizona's most populous county and the corpus's "ground zero" for election-integrity disputes, site of the 2022 printer and Door 3 failures. (Created: 2026-08-02)
 - [[maricopa-county-attorneys-office]]: Legal authority for Maricopa County; its Civil Division under Tom Liddy received the Election Integrity Unit's November 2022 letter. (Created: 2026-08-02)
 - [[maricopa-county-board-of-supervisors]]: Five-member governing body legally responsible for canvassing Maricopa County elections, chaired in 2022 by Bill Gates. (Created: 2026-08-02)
 - [[maricopa-county-tabulation-and-election-center]]: MCTEC, the Phoenix central-count facility to which Door 3 and early ballots are transported for tabulation. (Created: 2026-08-02)
+- [[maricopa-county]]: Arizona's most populous county and the corpus's "ground zero" for election-integrity disputes, site of the 2022 printer and Door 3 failures. (Created: 2026-08-02)
 - [[mario-ruiz-massieu]]: Mario Ruiz Massieu is the brother of José Francisco Ruiz Massieu, the Mexican politician assassinated in September 1994, and a former special prosecutor whose actions are examined in the Badlands Media article a-family-affair as part of a high-level cover-up tied to the salinas family and the gulf-cartel. (Created: 2026-08-01)
 - [[mark-brnovich]]: Attorney General of Arizona 2015–2023, derided in the corpus for inaction on 2020 fraud claims and for his "nunchucks" social media posts. (Created: 2026-08-02)
 - [[mark-carney]]: Canadian central banker turned Prime Minister who removed Chrystia Freeland from cabinet in September 2025; framed in the corpus as custodian of a London-directed strategy. (Created: 2026-08-01)
@@ -394,8 +396,8 @@
 - [[osama-bin-laden]]: Founder of Al-Qaeda; cited in the source as the early associate of Abdelhakim Belhaj during the Soviet-Afghan War, with the CIA's Mujahideen program described as the foundation of the modern terrorist network. (Created: 2026-08-01)
 - [[ottoman-empire]]: Imperial holder of the Arabian holy lands from the sixteenth century; destroyer of the First Saudi State in 1814. (Created: 2026-08-02)
 - [[pablo-escobar]]: Pablo Emilio Escobar Gaviria (1949–1993) was a Colombian drug lord and leader of the medellin-cartel, which he founded in the 1970s. (Created: 2026-08-01)
-- [[pakistan]]: Nuclear-armed state described as indispensable to U.S. policy against Russia and as reverting to deep-state control after Khan's removal. (Created: 2026-08-02)
 - [[pakistan-tehreek-e-insaf]]: Imran Khan's populist Pakistani political party, presented as the vehicle of his challenge to the military-intelligence establishment. (Created: 2026-08-02)
+- [[pakistan]]: Nuclear-armed state described as indispensable to U.S. policy against Russia and as reverting to deep-state control after Khan's removal. (Created: 2026-08-02)
 - [[paramount-global]]: Media conglomerate owning CBS, Showtime and Paramount+; run by Sheri Redstone and merging with Skydance Media. (Created: 2026-08-01)
 - [[patrick-gunnels]]: Badlands Media host, Trash Talk co-host, and creator of the Reading Epic Threads video series. (Created: 2026-08-02)
 - [[paul-keary]]: Third founding partner of Teneo, who assembled clients including the USA World Cup bid committee and UBS ahead of the firm’s 2011 launch. (Created: 2026-08-02)
@@ -564,10 +566,11 @@
 - [[xi-jinping]]: President of China and host of the 2025 Tianjin SCO summit; credited with the Belt and Road Initiative's $3 trillion in infrastructure investment. (Created: 2026-08-01)
 - [[yuri-bezmenov]]: Soviet defector whose account of multigenerational ideological subversion frames the corpus's model of slow-motion cultural warfare. (Created: 2026-08-02)
 - [[zapata-offshore]]: Zapata Off-Shore Company, originally Zapata Petroleum Corporation, was an oil company founded in Houston in 1953 by george-hw-bush and J. (Created: 2026-08-01)
-
 - [[zhang-yichen]]: Chinese businessman with CCP ties who joined the Carnegie Endowment board and donated between $750,000 and $1.5 million. (Created: 2026-08-02)
+
 ## Concepts
 - [[1913-the-year-the-cabal-enslaved-america]]: Badlands article framing 1913 as the cabal's capture of U.S. money & tax systems. (Updated: 2026-08-01)
+- [[2020-united-states-presidential-election]]: The contested 2020 election; the corpus stresses that 50 of 55 related lawsuits were dismissed on standing rather than on the evidence. (Created: 2026-08-02)
 - [[2022-united-states-midterm-elections]]: November 8, 2022 U.S. midterms; the expected 'Red Wave' that did not materialize, read in the corpus as both fraud and a strategically fortunate outcome. (Created: 2026-08-02)
 - [[5gw-counter-offensive-the-censorship]]: Badlands article framing the 2023–2024 period as a quadrennial 5GW censorship offensive targeting Russell Brand, Rumble, and Elon Musk. (Created: 2026-08-01)
 - [[5th-generation-warfare]]: Conceptual framework in the Badlands corpus for understanding information conflict as a recurring, election-tied pattern of coordinated censorship and narrative control. (Created: 2026-08-01)
@@ -608,6 +611,7 @@
 - [[anthony-fauci|Anthony Fauci: Soldier for the Communist Cause]]: J.B. White's December 2022 Badlands column framing Fauci as the face of Deep State censorship and the "cases, cases, cases" narrative. (Created: 2026-08-02)
 - [[arabian-nights]]: Ghost of Patrick Henry's August 2023 essay on the history of Arabia and the claimed redemption arc of the House of Saud. (Created: 2026-08-02)
 - [[are-cbdcs-the-path-to-fear-or-freedom]]: Joe Lange's June 2023 Badlands article arguing that CBDCs are not a cabal plot but the tool of Trump's plan to move the world to gold-backed honest money. (Created: 2026-08-02)
+- [[are-jack-smith-and-fani-willis-in]]: September 2023 American Hypnotist essay arguing the Trump indictments hand him the discovery powers and courtroom needed to prove election fraud. (Created: 2026-08-02)
 - [[artificial-intelligence]]: Technology framed in the Badlands corpus as a covert manipulation tool deployed by a global cabal to engineer a Communist takeover of the West through social conditioning and algorithmic control. (Created: 2026-08-01)
 - [[asch-conformity-experiments]]: Classic social psychology studies on group pressure, cited as the mechanism by which true individual perceptions are socially suppressed. (Created: 2026-08-02)
 - [[atlantic-charter]]: 1941 Roosevelt-Churchill statement of war aims, cited in its original form before the 2021 Biden-Johnson revision. (Created: 2026-08-01)
@@ -683,6 +687,7 @@
 - [[joint-comprehensive-plan-of-action]]: The 2015 Iran nuclear deal, described as one of the most consequential geopolitical maneuvers in recent history and the issue that split the Western ruling class. (Created: 2026-08-02)
 - [[kaaba]]: Stone sanctuary at Mecca, held in the corpus to have been built by Abraham on Adam's foundation. (Created: 2026-08-02)
 - [[ku-klux-klan-act-of-1871]] — Reconstruction-era conspiracy statute used as one count in NAACP v. USEIP
+- [[legal-standing]]: Procedural doctrine of cause, elements and jurisdiction; central to the claim that 2020 election evidence was never heard on its merits. (Created: 2026-08-02)
 - [[libor]]: London interbank benchmark rate described as the City of London's control mechanism over American banking. (Created: 2026-08-01)
 - [[long-depression]]: Period following the Coinage Act of 1873; the source claims it was actually a prosperity era mislabeled by bankers. (Created: 2026-08-01)
 - [[los-angeles-riots-1992]]: Riots following the acquittal of four LAPD officers in the Rodney King case, framed as engineered racial division. (Created: 2026-08-01)
@@ -711,8 +716,8 @@
 - [[prison-privatization]]: For-profit prison operation described as the economic engine behind the 1994 Crime Bill, gangster rap, and CIA drug importation. (Created: 2026-08-01)
 - [[project-stargate]]: Trump's announced $500 billion U.S. AI infrastructure plan with Oracle, OpenAI and SoftBank. (Created: 2026-08-01)
 - [[public-banking]]: Government- or publicly owned banking operated to serve depositors rather than shareholders; treated in the corpus as a constitutional safeguard. (Created: 2026-08-01)
-- [[q]]: Pseudonymous poster whose "drops" function in the corpus as corroboration for independent citizen-journalist research. (Created: 2026-08-02)
 - [[q-anon]]: Q Anon is a far-right conspiracy theory that emerged on the internet in 2017, centered on the claims of an anonymous individual or group known as "Q" who purported to have insider knowledge of a deep state cabal working against Donald Trump. (Created: 2026-08-01)
+- [[q]]: Pseudonymous poster whose "drops" function in the corpus as corroboration for independent citizen-journalist research. (Created: 2026-08-02)
 - [[queer-theory]]: Academic field treated in the corpus, alongside CRT, as a covert Neo-Marxist weapon against binary gender roles and family norms. (Created: 2026-08-02)
 - [[rashidun-caliphate]]: The thirty-year rule of Muhammad's four elected companions, expanding from Libya to India. (Created: 2026-08-02)
 - [[republican-national-convention]]: The 2024 Republican nominating convention, held days after the Butler assassination attempt. (Created: 2026-08-02)
@@ -748,6 +753,8 @@
 - [[wahhabism]]: External name for al-Wahhab's orthodox reformist reading of Islam, fused to Saudi state power in 1744. (Created: 2026-08-02)
 - [[watts-riots]]: 1965 Los Angeles unrest cited as a data point in the claimed thirty-year cycle of racial flashpoints. (Created: 2026-08-01)
 - [[wayne-madsen-report]]: The Wayne Madsen Report is an investigative journalism and analysis outlet founded by Wayne Madsen, a former NSA officer and journalist known for publishing claims about CIA covert operations and political corruption. (Created: 2026-08-01)
+- [[white-squall]]: Seafaring film read in the corpus as a Q comm and narrative metaphor for the Trump movement, ending with the captain's trial and vindication. (Created: 2026-08-02)
+- [[wwg1wga]]: "Where We Go One, We Go All" — the signature slogan of the Q movement and a recurring sign-off in the corpus. (Created: 2026-08-02)
 
 ## Comparisons
 <!-- Side-by-side analyses. -->

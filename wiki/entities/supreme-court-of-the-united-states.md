@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [institution, judiciary, case-law, federalism]
-sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md]
 confidence: high
 contested: false
 ---
@@ -22,3 +22,7 @@ The article treats the Court's pronouncements as authoritative and unrebutted, c
 ## Bush v. Gore
 
 The essay [[always-fight-back|"Always Fight Back"]] cites the Court's intervention in the 2000 presidential election, in which it ruled to stop the Florida recount on the grounds that it violated equal protection, thereby resolving the contest in favor of [[george-w-bush|George W. Bush]] over [[al-gore|Al Gore]]. The article identifies the ensuing Bush v. Gore controversy as the origin of the [[help-america-vote-act|Help America Vote Act]] of 2002, and includes the episode in its catalogue of legitimate, mainstream disputes over American election outcomes.
+
+## Potential role in the Trump election cases
+
+In [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] the Court is presented as a possible backstop should the New York and Georgia courts mishandle the prosecutions of [[donald-trump|Donald Trump]]. The author writes that the cases may reach a just conclusion at trial level, "or, if they are mishandled, perhaps the Supreme Court may weigh in," and adds that if evidence of fraud in the [[2020-united-states-presidential-election|2020 election]] makes it before the Court, "that could open a massive can of worms for the Biden administration."

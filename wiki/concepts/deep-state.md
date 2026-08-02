@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [deep-state, cabal, city-of-london, shadow-government]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-jack-smith-and-fani-willis-in.md]
 confidence: medium
 contested: true
 ---
@@ -57,3 +57,7 @@ The article is notable within the corpus for its explicitly pragmatic conclusion
 ## Censorship as the central tool (2022 column)
 
 [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] argues that the [[twitter-files|Twitter Files]] exposed the Deep State's "massive efforts to prevent competition for their preferred narratives and efforts and protocols." Quoting [[j-e-dyer|J. E. Dyer]], the column presents censorship as the tool favoured by what it calls the Deep State/Marxist/Communist/Fascist/Socialist continuum, whose purpose is not merely silence but gaslighting: "The more you censor, the more latitude you have to gaslight." [[j-b-white|J.B. White]] adds that the Deep State's proven victory has been "the patient and skillful application of the tools of subversion," wielded "in plain sight, but through hidden means," against the healthy skepticism he regards as the default American mindset.
+
+## Miscalculation in the Trump prosecutions
+
+[[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] (September 2023) argues that "the last thing the Deep State wants is for viable evidence of election fraud to make it onto a court record," and that the indictments of [[donald-trump|Donald Trump]] make exactly that outcome likely. Had no charges been filed, the essay reasons, the establishment could have continued to discredit Trump through its media mouthpieces indefinitely. The author offers three readings — that its operatives "just can't help themselves," that they loathe the idea of Trump being a free man, or that the prosecutions are themselves "part of the plan" — while declining to choose between them.

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [organization, media, citizen-journalism, substack]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md]
 confidence: high
 contested: false
 ---
@@ -65,3 +65,7 @@ On November 22, 2022 Badlands Media published [[an-sos-from-ground-zero|"An SOS 
 ## RattlerGator's first submission
 
 The December 20, 2022 column [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] marked the first written submission to Badlands Media by [[j-b-white|J.B. White]], known online as RattlerGator, who also co-hosts the outlet's Trash Talk programme with [[patrick-gunnels|Patrick Gunnels]]. The piece carries the outlet's standard note that Badlands Media articles and features represent the opinions of contributing authors and do not necessarily represent the views of Badlands Media itself, along with its recurring appeal for paid subscriptions to help "our collective of citizen journalists take back the narrative from the MSM."
+
+## Legal-analysis commentary (2023)
+
+The outlet published [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] by [[american-hypnotist|American Hypnotist]] on September 20, 2023, an opinion essay analysing the indictments of [[donald-trump|Donald Trump]]. The piece carries the outlet's standard subscription appeal — "Badlands Media will always put out our content for free, but you can support us by becoming a paid subscriber… Help our collective of citizen journalists take back the narrative from the MSM. We are the news now" — along with its disclaimer that articles represent the opinions of contributing authors.

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [joe-biden, crime-bill, senate, prison-privatization]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,7 @@ The article also attributes to Biden's term the visible onset of the [[inflation
 ## Depiction in All Assets Deployed
 
 The November 2022 essay [[all-assets-deployed|All Assets Deployed]] refers to "the occupation of the White House by the Biden Administration" as the cause of ongoing "political and administrative bleeding," and describes Biden dismissively as "the sitting 'President' currently occupying the oval office, or whichever green screen they're using in its place for his latest pre-recorded, gaffe-filled mumble rant." Within the essay's [[devolution|Devolution]] framework, Biden's continued occupancy of public administrative power is treated as functionally necessary: the failures of the existing "System of Systems" must be shouldered by "the puppet and his puppeteers" rather than by [[donald-trump|Donald Trump]] and the [[america-first|America First]] movement.
+
+## Exposure through the Trump prosecutions
+
+[[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] (September 2023) treats the Biden administration as the party with the most to lose from the criminal cases against [[donald-trump|Donald Trump]]. The essay argues that because Trump's defense depends on demonstrating that his claims about the [[2020-united-states-presidential-election|2020 election]] were made in good faith, the prosecutions create the first genuine forum for evidence of election fraud. Should such evidence reach the [[supreme-court-of-the-united-states|Supreme Court]], the article states, it "could open a massive can of worms for the Biden administration."

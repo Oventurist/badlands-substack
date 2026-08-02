@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [5gw, narrative, info-war, censorship, election-integrity, synthesis]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/ai-can-help-us-expose-the-nwo.md, raw/all-assets-deployed.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/ai-can-help-us-expose-the-nwo.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md]
 confidence: medium
 contested: true
 ---
@@ -70,3 +70,7 @@ In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], [[justin-des
 ## Fifth-generation framing of the 2022 election cycle
 
 The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) applies the fifth-generation warfare frame directly to American electoral politics, describing the moment as "the most complex Fifth-Generation Psychological and Information War ever waged both against AND for the American people." Its author, [[burning-bright|Burning Bright]], whose newsletter is explicitly devoted to "Narrative Deployments and Macro Concepts in Fifth-Generation Warfare," treats the post-midterm defection of [[con-inc|Con Inc.]] commentators as a deployment of "assets" timed to a perceived fracture in the [[maga|MAGA]] base, and invokes [[sun-tzu|Sun Tzu]]'s doctrine of feigned weakness to argue that apparent setbacks may be deliberate.
+
+## The indictments as a phase of the 5G war
+
+The September 2023 essay [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] situates the criminal prosecutions of [[donald-trump|Donald Trump]] within the same framework, suggesting the indictments may have been "crafted to give Trump precisely the ammo he needs to proceed with the next phase of the 5G war." The essay's account is characteristically informational rather than kinetic: it holds that in highly politicized proceedings "what happens in a courtroom is often downstream from what happens in the court of public opinion," and assigns anons acting as "the New News" the role of shaping that terrain. It also argues that mass arrests may have been withheld to avoid sparking a civil war, since a threshold of popular support and favourable optics must exist first.
