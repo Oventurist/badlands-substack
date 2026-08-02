@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [central-banking, bank, agency, cabal]
-sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md]
+sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
@@ -52,3 +52,7 @@ The source likens these measures to "a defibrillator used to shock the economy b
 The first hike came after [[donald-trump|Trump]]'s 2016 victory. Trump kept [[janet-yellen|Janet Yellen]] for two years before appointing [[jerome-powell|Jerome Powell]] in 2018, whose aggressive tightening preceded a 20% market decline and 2019 rate cuts. During the COVID-19 lockdowns of 2020, the article says, Trump "forced the Fed to print money at a rate never seen before," knowingly generating [[inflation|inflation]] as the lesser of two evils.
 
 The essay also describes the Fed as printing money "out of thin air to fund itself," passing it to banks and corporations so that "the government represents and works for the banks and corporations, not the people," and identifies the Fed's 1913 founding — simultaneous with the [[federal-income-tax|federal income tax]] and the [[internal-revenue-service|IRS]] — as no coincidence.
+
+## Named among the systems to be brought down
+
+The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) lists "the Fiat Central Banking System led by the Federal Reserve criminal empire" first among the structures its author believes must "come down in order to lead us into a brighter and more sovereign future," alongside "the international cabal of Globalist 'planners'" and the American election systems. The article argues that the exposure of these systems is proceeding "unabated before the eyes of an increasingly-weary and increasingly-wary citizenry," and that this exposure cannot occur while [[donald-trump|Donald Trump]] and [[america-first|America First]] candidates hold primary positions of public power, since the resulting failures would be blamed on them.

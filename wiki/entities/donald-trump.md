@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md]
 confidence: medium
 contested: true
 ---
@@ -93,3 +93,15 @@ The Badlands Media essay [[a-week-to-remember|A Week to Remember]] argues that T
 The same essay recounts the events of July 2024: the July 13 assassination attempt at Butler, Pennsylvania; the selection of [[jd-vance|JD Vance]] as running mate; the [[republican-national-convention|Republican National Convention]]; and Biden's withdrawal from the race. It notes that [[q-anon|Q]] had posted the phrase "a week to remember" on July 14, 2019, five years earlier.
 
 On monetary policy, the article credits Trump with forcing the normalisation of interest rates after 2016 — inheriting [[janet-yellen|Janet Yellen]] and later appointing [[jerome-powell|Jerome Powell]], whose aggressive 2018 hikes preceded a 20% market drop — and with ordering unprecedented money printing during the COVID-19 lockdowns, described as "fighting the [[cabal|Cabal]] with their own weapon, the [[federal-reserve|Federal Reserve]]." It also notes his 2017 meetings with [[brics|BRICS]] leaders and his argument that Amazon should deliver its own packages rather than be subsidised through the [[united-states-postal-service|Postal Service]].
+
+## 2024 candidacy announcement and the November 2022 debate
+
+The November 16, 2022 essay [[all-assets-deployed|All Assets Deployed]] was written the day after Trump formally announced his 2024 presidential candidacy at [[mar-a-lago|Mar-a-Lago]]. Its author, [[burning-bright|Burning Bright]], reports that the announcement had been projected by [[kash-patel|Kash Patel]] and other close allies "to light the media world on fire," and argues that its purpose was twofold: to separate authentic [[maga|MAGA]] and [[america-first|America First]] supporters from [[con-inc|Con Inc.]] controlled opposition, and to pre-empt political moves by other figures - notably supporters of [[ron-desantis|Ron DeSantis]] - seeking to redirect conservative energy away from Trump's leadership.
+
+The essay quotes Trump telling a somber audience that "The voting will be much, much different in 2024," and warning that things will get "much worse [before people] see clearly," a remark the author links to longstanding "precipice" theories and to the [[continuity-of-government|Continuity of Government]] framework. It describes Trump as "a professed and ardent student of" [[sun-tzu|Sun Tzu]], invoking the maxim that one must appear weak when strong and then "fall like a thunderbolt," and rejects the claim that the announcement concedes 2020 or refutes [[devolution|Devolution]] as theorized by [[jon-herold|Jon Herold]].
+
+## Election disputes and the Colorado lawfare case
+
+The essay [[always-fight-back|"Always Fight Back"]] situates Trump at the center of a broader argument about election skepticism. It recounts that after his unexpected 2016 victory over [[hillary-clinton|Hillary Clinton]], Democrats alleged collusion with Russia and launched the Mueller investigation, which cost taxpayers millions and found no evidence of collusion, and that opponents referred to him as illegitimate throughout his presidency. It notes that [[free-speech-for-people|Free Speech For People]] launched a campaign to impeach him on Inauguration Day, January 20, 2017.
+
+The article's central contention is that questioning election outcomes became legally actionable in the eyes of the plaintiffs in [[naacp-v-useip|NAACP et al. v. USEIP et al.]] only when it involved 2020 and Trump — "It's only a problem when it involves 2020 and President Trump" — a position the author argues is protected opinion in the media but improper as the basis for federal litigation.

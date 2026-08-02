@@ -1,10 +1,10 @@
 ---
 title: Ashe in America
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md]
 confidence: medium
 contested: false
 ---
@@ -20,3 +20,9 @@ Badlands Media notes at the foot of her articles that contributors' views do not
 ## A Time to Strike (2023)
 
 Ashe in America is also the author of [[a-time-to-strike|"A Time to Strike"]], published by [[badlands-media|Badlands Media]] on October 11, 2023, an analysis of the year's labor unrest that examines the [[writers-guild-of-america|Writers Guild of America]] settlement, the [[united-auto-workers|United Auto Workers]] walkout and the wider "Summer of Strikes." The essay argues that [[automation|automation]] and [[artificial-intelligence|artificial intelligence]], advanced through the [[future-of-work|future of work]] agenda of firms such as [[mckinsey-and-company|McKinsey & Company]], had already foreclosed the strikers' objectives. The article's footer notes that she hosts *Culture of Change* on Badlands Media, Sundays at 6PM ET, and directs readers to her Substack.
+
+## Litigation and "Always Fight Back"
+
+Ashe in America was a named defendant in [[naacp-v-useip|NAACP et al. v. USEIP et al.]], the voter-intimidation suit filed in March 2022 by the [[naacp|NAACP]]'s Colorado/Montana/Wyoming Area Conference, the [[league-of-women-voters|League of Women Voters of Colorado]], and [[mi-familia-vota|Mi Familia Vota]] against the [[useip|United States Election Integrity Plan]]. She represented herself pro se before the [[us-district-court-for-the-district-of-colorado|United States District Court for the District of Colorado]] at the trial that began July 15, 2024, filing her own trial brief on the history and case law of canvassing.
+
+In the August 13, 2024 essay [[always-fight-back|"Always Fight Back"]] she recounted the outcome: Judge [[charlotte-sweeney|Charlotte Sweeney]] ended the trial after three of five scheduled days, entered a Judgment Based on Partial Findings under Rule 52(c), and awarded costs to the defendants. She described the litigation's toll on "my reputation, my career, my family, and my sanity," while concluding that complete vindication in federal court "affirmed my faith in justice." Her outside work is published at the Substack newsletter Ashe in America.

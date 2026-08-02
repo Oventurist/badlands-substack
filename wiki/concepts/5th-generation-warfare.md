@@ -1,10 +1,10 @@
 ---
 title: 5th Generation Warfare
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [5gw, narrative, info-war, censorship, election-integrity, synthesis]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-hypnotists-take-on-israel-palestine.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/ai-can-help-us-expose-the-nwo.md, raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
@@ -62,3 +62,11 @@ The 5GW framework in the Badlands corpus is linked to the broader **censorship r
 The Badlands essay [[a-hypnotists-take-on-israel-palestine|"A Hypnotist's Take on Israel, Palestine, and Q"]] refers to the ongoing information conflict as "the 5G battle for the future of our world" and locates its decisive front inside individual cognition. Writing in October 2023, [[american-hypnotist|American Hypnotist]] argues that the hypnotic propaganda of the [[cabal]] is visibly backfiring, and that the public's growing recognition that the news is fake is "an extremely positive development" in that battle.
 
 On this account the weapons of 5GW are the [[nominalization|nominalization]] and hypnotic repetition, deployed through the [[operation-mockingbird|Mockingbird]] press; their effectiveness depends not merely on producing fear and rage but on channeling those emotions along pre-scripted lines. The essay's claim is that coverage of the [[israel-palestine-conflict|Israel–Palestine conflict]] has disrupted that channeling on both left and right, leaving audiences enraged but unaimed — a structural failure the author likens to a crack in a dam and to the first patches of snow in an avalanche.
+
+## Strategic, operational and tactical mapping
+
+In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], [[justin-deschamps|Justin Deschamps]] applies the classical division of a campaign into strategic, operational and tactical layers as a lens for exposing fifth-generation warfare, which he describes as "by its very nature, meant to remain ever-covert and integrated into our daily lives." Prompting [[chatgpt|ChatGPT]] to respond "as a General, studying fifth generation warfare," he produced a layered map of the alleged campaign for a [[new-world-order|New World Order]], featuring decentralised networks, psychological operations and misinformation sustained across generations in line with [[yuri-bezmenov|Yuri Bezmenov]]'s account of [[ideological-subversion|ideological subversion]]. The essay's conclusion frames "collective situational awareness" as the necessary countermeasure.
+
+## Fifth-generation framing of the 2022 election cycle
+
+The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) applies the fifth-generation warfare frame directly to American electoral politics, describing the moment as "the most complex Fifth-Generation Psychological and Information War ever waged both against AND for the American people." Its author, [[burning-bright|Burning Bright]], whose newsletter is explicitly devoted to "Narrative Deployments and Macro Concepts in Fifth-Generation Warfare," treats the post-midterm defection of [[con-inc|Con Inc.]] commentators as a deployment of "assets" timed to a perceived fracture in the [[maga|MAGA]] base, and invokes [[sun-tzu|Sun Tzu]]'s doctrine of feigned weakness to argue that apparent setbacks may be deliberate.

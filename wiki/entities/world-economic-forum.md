@@ -1,10 +1,10 @@
 ---
 title: World Economic Forum
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [globalism, technocracy, davos, great-reset]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,7 @@ The same excerpt asserts that these figures share "common axioms" with [[ted-kac
 ## Strategic partnership with McKinsey
 
 [[a-time-to-strike|A Time to Strike]] (October 11, 2023) identifies [[mckinsey-and-company|McKinsey & Company]] as the strategic partner of the World Economic Forum, using that relationship to argue that the consultancy's [[future-of-work|future of work]] projections — including the estimate that up to 375 million workers, 14 percent of the global workforce, would have to switch occupational categories by 2030 — represent a design for the global labor market rather than a neutral forecast. The essay links the resulting displacement, together with declining birth rates and insolvent pensions, to groundwork for the [[great-reset|Great Reset]].
+
+## In the Global Harmony Consortium scenario
+
+In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], the WEF is one of the NGOs and initiatives [[justin-deschamps|Justin Deschamps]] instructed [[chatgpt|ChatGPT]] to fold into its fictional cabal, the Global Harmony Consortium, alongside the [[world-health-organization|World Health Organization]], [[united-nations|the United Nations]] and the [[esg|ESG]] system. A follow-up prompt added [[klaus-schwab|Klaus Schwab]]'s [[great-reset|Great Reset]] as a further instrument of the scenario's strategy.

@@ -1,10 +1,10 @@
 ---
 title: Ron DeSantis
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [person, administration]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-glaring-double-standard.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-glaring-double-standard.md, raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,9 @@ If Trump and DeSantis are working together, Carlson speculates that their shared
 In the Badlands Media article "A Glaring Double Standard" (June 19, 2025), [[ryan-delarme|Ryan DeLarme]] identifies DeSantis as "the first politician to suggest such hypocritical measures" in the wake of the October 7, 2023 attack, describing him as, at the time, "still (rather unsuccessfully) competing against Donald Trump for the Republican nomination." The article reports that within days of the attack, DeSantis "forced the deactivation of the National Students for Justice in Palestine's University of South Florida chapter," making Florida the first U.S. state to outlaw the group. It quotes Reuters: "Florida's university system, working with Governor Ron DeSantis, ordered colleges on Tuesday to shut down a pro-Palestinian student organization, marking the first U.S. state to outlaw the group whose national leadership backed Hamas' attack on Israel."
 
 DeLarme criticizes the decision as an example of conservative-led censorship, arguing the local chapter had not made the statements at issue and that the speech remained protected. He and [[nikki-haley|Nikki Haley]] are also paired in the article as figures who "were right there, neck and neck... duking it out over who is more fervently devoted to this foreign country," with the author asking whether both had not recently objected to placing specific minorities on a pedestal when liberals did so with BIPOC and LGBTQ+ groups. ^[raw/a-glaring-double-standard.md]
+
+## The "DeSantis over Trump" faction after the 2022 midterms
+
+The Badlands Media essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) treats DeSantis chiefly as the figure around whom an anti-Trump realignment was expected to form after the [[2022-united-states-midterm-elections|2022 midterm elections]]. Its author, [[burning-bright|Burning Bright]], writes that [[con-inc|Con Inc.]] "and the 'DeSantis over Trump' crowd are going to smell blood in the water from a somewhat demoralized and depressed MAGA base and will seize the opportunity to turn hairline fractures into breaks and chasms," fragmenting the [[maga|MAGA]] movement into "an archipelago of intra-faction wars."
+
+The essay frames [[donald-trump|Donald Trump]]'s [[mar-a-lago|Mar-a-Lago]] announcement as designed in part to undercut such a move, describing it as an effort to forestall "any potential political move being entertained by other influential figures either earnestly or subversively gathering directed political energy from the Conservative base in an attempt to sweep said base out from under Trump's leadership and stewardship."

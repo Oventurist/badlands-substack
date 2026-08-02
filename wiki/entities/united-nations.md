@@ -1,10 +1,10 @@
 ---
 title: United Nations
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [international-organization, libya, sanctions, security-council]
-sources: [raw/a-conflict-of-interest.md, raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,7 @@ Second, and central to the article's argument, it cites an Africa Intelligence r
 A second Badlands Media article, [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]] (September 3, 2025), treats the United Nations far more favourably, presenting its founding as one of the great post-war attempts — alongside the [[bretton-woods-system|Bretton Woods system]] and after the [[league-of-nations|League of Nations]] — to build a framework capable of preventing another world war. [[matthew-ehret|Matthew Ehret]] argues that the [[un-charter|UN Charter]] premises international law on the sacredness of national sovereignty, non-interference and mutual cooperation, and that this is a "very different creature" from the [[rules-based-international-order|rules-based international order]] invoked by unipolarists.
 
 The article stresses that the UN as envisioned by [[franklin-d-roosevelt|Franklin Roosevelt]] or [[henry-wallace|Henry Wallace]] "was never meant to be a world government, but rather a platform for dialogue and harmonization of security and economic interests among civilizations," and warns that a technocratic [[great-reset|Great Reset]] would require erasing or rewriting the Charter. It also cites the UN Declaration of Human Rights of 1947 as a restatement of Roosevelt's [[four-freedoms|Four Freedoms]], and identifies the Charter's principles as those reaffirmed by the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]] in the [[tianjin-declaration|Tianjin Declaration]].
+
+## In the Toronto Protocols narrative
+
+The essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]] states that the meetings recorded in [[toronto-protocols|the Toronto Protocols]] "explicitly make clear their intention to use globalist institutions such as the United Nations." On that basis [[justin-deschamps|Justin Deschamps]] added the UN, together with the [[world-health-organization|World Health Organization]] and the [[world-economic-forum|World Economic Forum]], to the fictional scenario he developed with [[chatgpt|ChatGPT]], in which the bodies serve as vehicles for advancing a [[new-world-order|New World Order]].

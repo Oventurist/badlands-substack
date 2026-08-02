@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [organization, media, citizen-journalism, substack]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md]
 confidence: high
 contested: false
 ---
@@ -49,3 +49,11 @@ On July 17, 2023 Badlands Media published [[a-virus-or-a-metaphor|A Virus, or a 
 ## "A Week to Remember"
 
 Badlands Media published [[erik-carlson|Erik Carlson]]'s essay [[a-week-to-remember|A Week to Remember]] on July 25, 2024. As with other contributor pieces, the outlet appended its standard disclaimer that "Badlands Media articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," alongside its usual note that content is published free while readers may support the collective through paid subscription: "Help our collective of citizen journalists take back the narrative from the MSM. We are the news now."
+
+## Pre-midterm projections of 2022
+
+The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) records that [[jon-herold|Jon Herold]], the author [[burning-bright|Burning Bright]], "and several others at Badlands Media advanced plenty of theories and projections heading into the [[2022-united-states-midterm-elections|Midterm Elections]]," among them the then-unpopular argument that an actualized Red Wave might undo the ongoing exposure operation by placing the movement in front of "a runaway train car, ready to take the blame like a miscast Judas." The article carries the outlet's standard disclaimer that its articles and features "represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," together with its appeal for paid subscriptions to help "our collective of citizen journalists take back the narrative from the MSM."
+
+## "Always Fight Back"
+
+On August 13, 2024, Badlands Media published [[always-fight-back|"Always Fight Back: Lessons from Lawfare in the US District of Colorado"]] by contributor [[ashe-in-america|Ashe in America]], a first-person account of her successful pro se defense in [[naacp-v-useip|NAACP et al. v. USEIP et al.]] The piece carries the outlet's standard disclaimer that contributor articles represent the opinions of their authors and not necessarily the views of Badlands Media, and closes with the outlet's characteristic appeal for readers to support "a collective of citizen journalists" working to "take back the narrative from the MSM."

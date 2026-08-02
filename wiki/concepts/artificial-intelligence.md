@@ -1,10 +1,10 @@
 ---
 title: Artificial Intelligence
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [cabal, deep-state, censorship, info-war]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/a-time-to-strike.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md]
 confidence: low
 contested: true
 ---
@@ -32,3 +32,7 @@ The February 2025 essay [[a-new-hollywood|A New Hollywood]] dates "the big push 
 ## AI and the 2023 labor disputes
 
 [[a-time-to-strike|A Time to Strike]] (October 2023) treats artificial intelligence as the decisive factor in that year's strike wave. It records that the [[writers-guild-of-america|Writers Guild of America]] won contract language barring AI from writing or rewriting literary material and excluding AI-generated material from consideration as source material, but reads the deal's 18-month horizon as evidence that studios expect far greater leverage as generative AI matures. More broadly the essay argues that predictive analytics and generative AI have already replaced entire disciplines because machines reach output faster and more accurately than humans, a trajectory it attributes to the [[future-of-work|future of work]] planning of [[mckinsey-and-company|McKinsey & Company]] and the [[world-economic-forum|World Economic Forum]]. See also [[automation|automation]].
+
+## AI as a counter-intelligence tool
+
+The January 2024 essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]] offers a contrasting view of AI within the corpus: rather than treating it solely as an instrument of manipulation, [[justin-deschamps|Justin Deschamps]] argues it can be turned against its makers. Because truth is coherent and "all lies are themselves woven with threads of truth," a large language model cannot fully inhabit a fictional world, and its engineers "can't ignore reality itself." Using [[chatgpt|ChatGPT]] to map the warfare described in [[toronto-protocols|the Toronto Protocols]], he contends, lets analysts "make visible that which has been designed to remain invisible." The essay nonetheless reads the model's hedging and disclaimers as evidence of curated, globalist-friendly outputs.

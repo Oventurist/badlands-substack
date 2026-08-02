@@ -1,10 +1,10 @@
 ---
 title: Great Reset
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [technocracy, globalism, decarbonization, world-government]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,7 @@ Ehret concludes that, judging by the profiles, words and performance of the lead
 ## Labor, depopulation and the Reset in A Time to Strike
 
 [[a-time-to-strike|A Time to Strike]] (October 2023) invokes the Great Reset as the framework explaining American labor conditions. Noting that dual-income households have been a majority for two decades, that birth rates have fallen roughly 20% over the past decade, and that pension systems are effectively insolvent, [[ashe-in-america|Ashe in America]] writes that these conditions "did not come about organically" and that "doubling the tax base and reducing the population, while bankrupting the system kind of sounds like laying groundwork for the Great Rest to the New World Order." The essay connects this to the [[future-of-work|future of work]] planning of [[mckinsey-and-company|McKinsey & Company]], strategic partner of the [[world-economic-forum|World Economic Forum]].
+
+## As an input to the ChatGPT experiment
+
+In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], [[justin-deschamps|Justin Deschamps]] asked [[chatgpt|ChatGPT]] to "use Klaus Schwab's 'Great Reset' as an additional plan for the consortium to utilize," incorporating it into the fictional Global Harmony Consortium's programme alongside [[esg|ESG]] scoring, the [[climate-change-narrative|climate change narrative]] and the institutional weight of the [[world-economic-forum|World Economic Forum]].

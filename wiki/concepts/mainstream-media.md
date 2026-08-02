@@ -1,10 +1,10 @@
 ---
 title: Mainstream Media
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags: [media, propaganda, conglomerates, media-criticism]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,7 @@ The essay also charges the sector with partisan mediocrity, arguing that [[cnn|C
 ## Decline
 
 The 2024 article documents an industry-wide contraction — layoffs at the [[los-angeles-times|Los Angeles Times]], [[time-magazine|Time Magazine]], [[nbc-news|NBC News]], [[business-insider|Business Insider]], [[sports-illustrated|Sports Illustrated]] and [[national-geographic|National Geographic]], and the closure of [[buzzfeed|BuzzFeed News]] — and predicts the sector's replacement by [[citizen-journalism|citizen journalism]].
+
+## The "Media Industrial Complex"
+
+The Badlands Media essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) refers to the establishment press as the "Media Industrial Complex," describing it as an institution that "has been tearing at" [[donald-trump|Donald Trump]] "for the better part of eight years" and that had already branded his supporters as election-denying extremists before his [[mar-a-lago|Mar-a-Lago]] announcement. The essay argues that dissenting voices within the [[maga|MAGA]] coalition risk advancing "the same divisive, defeating and directed rhetoric the Media Industrial Complex has been vomiting all along," making media narrative and intra-movement discord two faces of the same [[information-war|information war]].

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [joe-biden, crime-bill, senate, prison-privatization]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,7 @@ The Badlands Media essay [[a-week-to-remember|A Week to Remember]] disputes the 
 The article speculates that the drug regimen said to make Biden "temporarily semi-coherent" — visible, in the author's view, at his most recent State of the Union address — was deliberately withheld before the debate to expose his condition, making the debate "the event that would be used to justify the decision." It further claims Biden "fought the decision, kicking and screaming to the very end," and that he submitted only after having "his assets frozen" and fearing for his life. The essay contends he had to be replaced "before people started asking the question, 'Biden obviously isn't running the country, so who is?'"
 
 The article also attributes to Biden's term the visible onset of the [[inflation|inflation]] it says originated in [[donald-trump|Trump]]-era money printing, and notes that [[boeing|Boeing]] stock fell from $323 to $95 within eight weeks of Biden taking office. In the essay's closing timeline, Biden withdrew from the race two days after the death of Representative [[sheila-jackson-lee|Sheila Jackson Lee]] and one day before [[kimberly-cheatle|Kimberly Cheatle]] testified before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]].
+
+## Depiction in All Assets Deployed
+
+The November 2022 essay [[all-assets-deployed|All Assets Deployed]] refers to "the occupation of the White House by the Biden Administration" as the cause of ongoing "political and administrative bleeding," and describes Biden dismissively as "the sitting 'President' currently occupying the oval office, or whichever green screen they're using in its place for his latest pre-recorded, gaffe-filled mumble rant." Within the essay's [[devolution|Devolution]] framework, Biden's continued occupancy of public administrative power is treated as functionally necessary: the failures of the existing "System of Systems" must be shouldered by "the puppet and his puppeteers" rather than by [[donald-trump|Donald Trump]] and the [[america-first|America First]] movement.

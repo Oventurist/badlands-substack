@@ -1,10 +1,10 @@
 ---
 title: United States Congress
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,7 @@ The article also notes that when [[barack-obama|President Obama]] initiated mili
 [[a-seismic-shift|A Seismic Shift]] (January 12, 2024) assigns Congress a recurring role in the history of American [[public-banking|public banking]]. [[joe-lange|Joe Lange]] notes that Congress created the [[postal-savings-system|Postal Savings System]] — dated in the article both to a 1910 act of Congress and to the system's 1911 launch — and that Congress limited the amount Americans could deposit in postal savings accounts, with the original $500 cap raised to $2,500 by 1918. He further argues that private bankers, unable to compete for depositors in hard times, "got Congress to create Federal Deposit Insurance," which made private deposits appear as secure as postal ones and helped kill the public option in 1967.
 
 The article also reports that members of Congress have proposed legislation requiring the [[federal-reserve|Federal Reserve]], in conjunction with the [[united-states-postal-service|U.S. Postal Service]], to offer retail [[fedaccounts|FedAccounts]], and to require banks with more than $10 billion in assets to offer basic "pass through" accounts whose deposits rest at the Fed. The [[american-bankers-association|American Bankers Association]] is described as lobbying Congress to reject the proposal.
+
+## The 2022 midterm result
+
+The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) discusses control of Congress as the immediate stake of the [[2022-united-states-midterm-elections|2022 midterm elections]]. Its author, [[burning-bright|Burning Bright]], writes that he would have preferred "a crushing Red Wave that soundly overwhelmed [their] systems of fraud en route to taking Congress" as a prelude to [[donald-trump|Donald Trump]]'s 2024 announcement, but counts "real wins, even amidst the fraud," specifically "the projected reclaiming of the House and a potentially-interesting deadlock in the Senate, where a few key 'Democrat' votes never seem to quite go the way the powers that would be intend."
