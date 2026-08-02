@@ -7,7 +7,7 @@ tags:
   - intelligence
   - shadow-government
   - terrorism
-sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md, raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---

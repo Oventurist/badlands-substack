@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [q, information-operation, anon, drops, citizen-journalism]
-sources: [raw/an-sos-from-ground-zero.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---

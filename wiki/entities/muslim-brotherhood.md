@@ -7,7 +7,7 @@ tags:
   - political-movement
   - egypt
   - middle-east
-sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-1.md]
+sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-1.md, raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---

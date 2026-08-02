@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---
@@ -119,3 +119,9 @@ The essay argues that Trump regards these firms as necessary to the American eco
 Writing in April 2024, months before the election, Carlson's [[americas-greatest-threat|America's Greatest Threat]] names Trump as the figure capable of repairing a political system the essay describes as captured. Quoting the Joker's line from the 1989 film *Batman* — "this town needs an enema" — Carlson writes that he believes Trump "is the man who can properly administer that enema — to drain the swamp, to exterminate the rats that live in the sewer system and the cockroaches that live between the walls."
 
 The endorsement is conditional. Carlson warns that "unless he removes all the cancer, no permanent change will occur," and frames a 2025 inauguration as the point at which "the real work begins," explicitly "not the finish line." Using the metaphor of a hoarder's house being cleared, he adds that the hoarder "must be cured of the mental disorder that causes them to hoard, otherwise the house will just be filled up again." Lasting change, in the essay's terms, requires that the [[united-states-constitution|Constitution]] be restored to authority over the government and that failsafes be installed once criminals are removed from power.
+
+## Trump and Mohammed bin Salman
+
+The essay [[arabian-nights]] examines Trump's relationship with Saudi Crown Prince [[mohammed-bin-salman]], beginning with the May 2017 [[sword-dance]] in Riyadh, which its author describes as iconic within the movement and as the moment he felt vindicated for having backed Trump "from the moment he stepped on that escalator." It argues that even the [[new-york-times]] acknowledged that something unusual was passing between the two men, and contrasts Trump's warmth toward the crown prince with his relationship with [[alwaleed-bin-talal]].
+
+The article's distinctive claim is a limiting one. Where many in the movement assumed that the November 2017 detention of some forty Saudi royals and officials was carried out at Trump's direction — an assumption the author says he once shared — he concludes after extended research that "the Crown Prince is no agent of Donald Trump." MBS, in this reading, was already on his own path when Trump entered office, the two being "like two warriors meeting on the road, each on their own quest to slay the same dragon."

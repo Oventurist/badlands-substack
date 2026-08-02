@@ -1,10 +1,10 @@
 ---
 title: The New York Times
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [outlet, newspaper, mainstream-media, media-criticism]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/arabian-nights.md]
 confidence: medium
 contested: true
 ---
