@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, outlet, censorship, info-war, 5gw, tech]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
@@ -49,3 +49,7 @@ Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] n
 ## "Prosecute/Fauci"
 
 [[j-b-white|J.B. White]]'s December 2022 column [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] cites Musk's tweet announcing that his pronouns were "Prosecute/Fauci" as the immediate prompt for the piece, reading it as a signal that long-anticipated accountability for [[anthony-fauci|Anthony Fauci]] was near. The same column treats the [[twitter-files|Twitter Files]], released under Musk's ownership of the platform, as an ongoing process of revelation exposing coordinated suppression of competing narratives.
+
+## Population collapse
+
+The July 2023 Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] cites Musk as a prominent voice raising the alarm about population collapse. [[patriots-in-progress|Patriots in Progress]] introduces Musk's data on declining birth rates as corroboration for his argument that the cumulative demographic damage of abortion, disease, sterilization, infertility, war and the [[covid-19-vaccines|Covid vaccine]] campaign may amount to the mortality described in Revelation's fourth seal and sixth trumpet - the death of one quarter and one third of humanity.

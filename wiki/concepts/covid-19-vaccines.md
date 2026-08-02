@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [covid-19, vaccines, big-pharma, medical-freedom]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,7 @@ The essay's counterargument is that the vaccines were the only available exit fr
 ## Choice versus mandate
 
 The pivotal evidence offered is the distinction between endorsement and compulsion. The article stresses that Trump "made it clear he thought vaccines should be a choice, not a requirement," and reasons: "If Trump truly believed vaccines were effective and completely safe, he would have required they be taken by everyone. He didn't do this. Why not?" Where "everyone else in government, and corporate America was forcing vaccines on people," Trump did not — a divergence the author treats as the decoded message beneath the public endorsement. The section closes with a wartime analogy: "sometimes you can't avoid casualties; sometimes the best you can do is to minimize them."
+
+## As a candidate Mark of the Beast
+
+The July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] assesses the vaccine campaign against the criteria it derives for the [[mark-of-the-beast|Mark of the Beast]]: a requirement imposed on everyone, enforced through fear and coercion, and functioning as a discriminator on the ability to buy or sell. The article concludes that the campaign "wanted to win" - it was global, forced, fear-driven and tied to vaccine passports - but that its intended targets, universal vaccination with passport-based control, were not reached: "I'd say it was a close shave!" The author, writing as "a safety professional," states that he has been horrified by the death and injury data of subsequent years, notes that approximately 70% of all people received at least a first dose, and asks how many will prove unable to reproduce or will develop lethal conditions over time - folding that question into his estimate of whether the mortality thresholds of Revelation's fourth seal and sixth trumpet have been met.

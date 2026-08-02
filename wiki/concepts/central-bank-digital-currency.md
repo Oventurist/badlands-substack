@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [cbdc, central-banking, blockchain, monetary-policy]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,7 @@ Research from the [[atlantic-council|Atlantic Council]]'s CBDC tracker, quoted v
 The article treats a U.S. digital dollar as inevitable and reframes the question as what values it will encode. It credits jared kushner with quietly advocating a Fed-issued digital dollar in 2019 and J. Christopher Giancarlo, founder of the Digital Dollar Project, with driving the public case. Giancarlo's stated values — free enterprise, free economic activity, individual privacy, and freedom from government censorship of lawful activity — are presented as the American position in a global contest over the design of digital money.
 
 Lange concedes that a CBDC is merely a digital [[fiat-currency|fiat]] currency unless backed by gold, and argues that the state-level CBDC bans and congressional opposition are deliberately engineered to produce litigation that will take the definition of money, and the constitutionality of the [[federal-reserve|Federal Reserve]], to the [[supreme-court-of-the-united-states|Supreme Court]].
+
+## CBDCs as the Mark of the Beast
+
+A sharply different reading appears in the July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], which treats CBDCs as the leading present-day candidate for fulfilment of the [[mark-of-the-beast|Mark of the Beast]] prophecy. [[patriots-in-progress|Patriots in Progress]] argues that what distinguishes the Mark is not its physical form but that it is required of everyone and functions as a discriminator on the ability to buy or sell. Quoting a source describing a near future in which "all 'global citizens' are required to possess proper 'digital identification' or else they will not be permitted to access the new global digital financial system," the article frames CBDCs plus global digital ID as a system of total control and enslavement, and notes that General [[michael-flynn|Michael Flynn]] has highlighted data on CBDCs and referred to them as the Mark of the Beast. The article contrasts this with the [[covid-19-vaccines|Covid vaccine]] campaign, which it judges to have had the same structure - global, coercive, tied to passports as an economic discriminator - but to have fallen short of universal reach.
