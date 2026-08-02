@@ -1,0 +1,8 @@
+# site: node_modules and generated docs (rebuild from wiki/ at deploy time)
+site/node_modules/
+site/docs/entities/
+site/docs/concepts/
+site/docs/articles/
+site/docs/index.md
+site/docs/.vitepress/config.mjs
+site/docs/.vitepress/dist/

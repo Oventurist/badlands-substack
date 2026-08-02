@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [person, author, badlands-media, hypnosis]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md]
 confidence: medium
 contested: false
 ---
@@ -20,3 +20,7 @@ His stated positions in that essay are that criminal enterprises masquerading as
 ## Mid-2025 features
 
 The August 15, 2025 Badlands News Brief roundup [[a-look-at-recent-features|"A Look At Recent Features"]] lists two of the author's pieces: "A Hypnotist Rants about Q, Epstein and the Nature of Reality Itself" (July 19, 2025) and "A Hypnotist Rants about How to Wake Up the Masses" (July 26, 2025). Both are excerpted in the roundup only by their characteristic salutations, "Greetings Frens" and "Greetings Frens and Patriots," reflecting the informal, direct-address register of the series.
+
+## Legal-system commentary
+
+On May 16, 2023 he published [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]], subtitled "If the Law Doesn't Belong to the People, Then What Is It For?" The essay argues that citizens are simultaneously presumed incompetent to interpret law and fully liable for obeying it, and that the two premises cannot coexist. It cites Title 28 of the [[united-states-code|United States Code]], section 3002(15)(A), for the proposition that the [[united-states-federal-corporation|United States is defined as a federal corporation]], and quotes [[chisholm-v-georgia|*Chisholm v. Georgia*]] for the chain of authority running from the people to the states to the federal government. In the piece the author discloses autobiographical detail, describing himself as having been "a hardcore 'lefty' until his late twenties," when facts of this kind were first brought to his attention. He also invokes Andrew Łobaczewski's *Political Ponerology* for the claim that clinical psychopaths comprise roughly 4% of the population, and frames public civic education as ground-level support for the work attributed to [[donald-trump|Donald Trump]] and the [[q-anon|Q]] team.

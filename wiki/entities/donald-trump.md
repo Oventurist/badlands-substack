@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md]
 confidence: medium
 contested: true
 ---
@@ -54,3 +54,11 @@ The Badlands News Brief roundup [[a-look-at-recent-features|"A Look At Recent Fe
 ## Trump as a "bad plutocrat"
 
 In [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] reads [[chrystia-freeland|Chrystia Freeland]]'s writings on the new global elite as sorting billionaires into those ideologically compatible with a green depopulation agenda — [[bill-gates|Bill Gates]], [[warren-buffett|Warren Buffett]], [[george-soros|George Soros]] — and those who are not. "Trump," he writes, "is a terrible Plutocrat." The essay presents the American restoration of protectionism and the rejection of the [[paris-agreement|Paris Accords]] and the [[green-new-deal|Green New Deal]] as evidence of a change in orientation away from the agenda Freeland served.
+
+## Banking, the Postal Service and "a seismic shift"
+
+In [[a-seismic-shift|A Seismic Shift]] (January 12, 2024), [[joe-lange|Joe Lange]] argues that Trump has quietly positioned himself to restructure the American banking system around a public option. The article claims Trump appointed every member of the [[federal-reserve|Federal Reserve]] board of governors except one — a supporter of the digital dollar, as Lange says Jared Kushner and Trump are — which he offers as the reason she was not forced to resign and the reason Trump has never criticised a Fed digital dollar.
+
+The article's central claim concerns the [[united-states-postal-service|United States Postal Service]]. Citing Time magazine, it notes that the [[usps-board-of-governors|USPS Board of Governors]] was completely empty when Trump took office in January 2017, after years without a quorum and after none of [[barack-obama|Barack Obama]]'s seven nominees received a Senate vote. Trump filled the entire board, which then selected [[louis-dejoy|Louis DeJoy]] as Postmaster General. The Washington Post is quoted describing a board controlled five to one by Trump loyalists and Trump's remark, "We just got the board." Lange concludes that Trump was fixated on the Post Office from the outset because it can be used both to protect elections — via the USPS blockchain voting patent, which Lange reads as a vehicle for citizen verification and cleansed voter rolls — and to transform banking through a revived [[postal-savings-system|Postal Savings System]] and [[fedaccounts|FedAccounts]].
+
+Lange closes by listing four things he says Trump is driving: a move back to the [[gold-standard|gold standard]], a behind-the-scenes push for a digital dollar, a postal banking public option, and the creation of FedAccounts. He states his belief that Trump "is a hero and deserves our trust."

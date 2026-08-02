@@ -1,0 +1,20 @@
+---
+title: Supreme Court of the United States
+created: 2026-08-01
+updated: 2026-08-01
+type: entity
+tags: [institution, judiciary, case-law, federalism]
+sources: [raw/a-startling-contradiction-at-the.md]
+confidence: high
+contested: false
+---
+
+# Supreme Court of the United States
+
+The Supreme Court of the United States is the highest federal court in the American judicial system and the ultimate interpreter of the Constitution and of federal law. In the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023), the Court appears as the source of binding case law used to establish the constitutional chain of authority.
+
+## Role in the article
+
+The article turns to Supreme Court case law explicitly to "demonstrate" that the authority of the federal government is sourced from the authority of the states, which in turn derive their authority from the people. Its sole citation is [[chisholm-v-georgia|*Chisholm, Ex'r v. Georgia*]], from which it quotes the Court's statement that a state "does not owe its origin to the Government of the [federal] United States," that it "was in existence before it," and that it derives its authority from "the voluntary and deliberate choice of the people." The same passage is quoted for the proposition that a state is "altogether exempt from the jurisdiction of the Courts of the United States, or from any other exterior authority," except where the general Government has power derived from the Constitution itself.
+
+The article treats the Court's pronouncements as authoritative and unrebutted, contrasting them with the definition of the United States as a "federal corporation" found in Title 28 of the [[united-states-code|United States Code]]. Elsewhere the piece is critical of the legal profession and the judiciary as a class, observing that "everyone—lawyers and judges included—have likely breached at least a couple laws (or codes) in their day, without any knowledge about it whatsoever," while distinguishing the system from the individuals of good conscience working inside it.

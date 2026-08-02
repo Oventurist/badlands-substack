@@ -8,7 +8,7 @@ tags:
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,7 @@ In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor
 ## Rhetoric as perceptual deception
 
 In the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]], an attendee identified as Diane compares Obama's public speaking to the Jedi mind trick line "these aren't the droids you're looking for," saying that "he constantly told us the opposite of what our senses were saying." The remark is used to extend the article's analogy between engineered optical illusions and narrative management in the [[information-war|information war]], with mainstream media placed in the same category.
+
+## The vacant Postal Service board
+
+[[a-seismic-shift|A Seismic Shift]] (January 12, 2024) cites Time magazine's account of the [[usps-board-of-governors|USPS Board of Governors]], which fell below quorum by 2014. Obama nominated seven people to fill the vacancies, but according to a 2018 Congressional Research Service report none received a vote in the Senate. By 2016 the board was down to a single member, James Bilbray, whose term expired that December, leaving the board officially empty when [[donald-trump|Donald Trump]] took office in January 2017. [[joe-lange|Joe Lange]] treats the resulting opportunity for Trump to appoint the entire board — and through it [[louis-dejoy|Louis DeJoy]] as Postmaster General — as something other than coincidence.

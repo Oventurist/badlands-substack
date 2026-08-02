@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [narrative, central-banking, economy]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/a-seismic-shift.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,7 @@ The article identifies [[Andrew Jackson]] as a champion of hard money and claims
 - [[Judy Shelton]] — Trump's Fed nominee who advocated for the gold standard
 - [[Federal Reserve]] — the fiat system the gold standard is contrasted against
 - [[1913]] — the year the gold standard era is said to have effectively ended
+
+## Sovereign money and FedAccounts
+
+In [[a-seismic-shift|A Seismic Shift]] (January 12, 2024), [[joe-lange|Joe Lange]] ties the gold standard directly to the [[fedaccounts|FedAccounts]] proposal. Arguing that accounts held at the [[federal-reserve|Federal Reserve]] — or, in his preferred formulation, at the [[treasury-department|Treasury]] — would contain "pure sovereign money" rather than fiat Federal Reserve Notes, he writes that Americans would no longer need [[federal-deposit-insurance-corporation|federal deposit insurance]] and would no longer be required to bail out failed private banks. He states that "Trump is taking us back to sound money that the people own" and that "we are going back to a gold standard that is redeemable," referring readers to his earlier article "The Midas Touch." A return to the gold standard is the first of four developments he attributes to [[donald-trump|Donald Trump]], alongside the digital dollar, a postal banking public option and FedAccounts.

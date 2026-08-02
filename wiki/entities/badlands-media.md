@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [organization, media, citizen-journalism, substack]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md]
 confidence: high
 contested: false
 ---
@@ -24,3 +24,7 @@ The August 15, 2025 edition of the Badlands News Brief, [[a-look-at-recent-featu
 ## Live events
 
 Badlands Media produces the Great American Restoration Tour ([[great-american-restoration-tour|GART]]), a travelling multi-day gathering of the network's hosts and audience. The fifth stop was held in Deadwood, South Dakota, in mid-August 2024, and featured the premiere of the Badlands documentary *The Crucible of Donald Trump* alongside panel programming sold as a digital replay package. The sixth stop was scheduled for Myrtle Beach, South Carolina, shortly after the 2024 presidential election. Coverage of the Deadwood weekend by contributor [[ashe-in-america|Ashe]] in [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]] describes GART as a festival-like event distinguished by informal, unscheduled excursions.
+
+## Financial and monetary features
+
+The January 12, 2024 feature [[a-seismic-shift|A Seismic Shift]] by [[joe-lange|Joe Lange]] extends the outlet's coverage into banking and monetary policy, arguing for a public banking option delivered through the [[united-states-postal-service|United States Postal Service]] and [[fedaccounts|FedAccounts]]. As with Lange's other contributions, Badlands Media appends its standing disclaimer noting that its articles and features represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself, and directs readers to more of the author's work on his own Substack.

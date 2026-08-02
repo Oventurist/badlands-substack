@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [us-government, terrorism-financing, sanctions, libya]
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md]
 confidence: high
 contested: false
 ---
@@ -24,3 +24,9 @@ The article uses these findings to argue that the U.S. government's own financia
 ## Related institutions
 
 The Treasury is distinct from the [[federal-reserve|Federal Reserve]], which the article separately describes as the origin point of the $40 billion in cash flown to Iraq between 2003 and 2008.
+
+## FedAccounts and sovereign money
+
+In [[a-seismic-shift|A Seismic Shift]] (January 12, 2024), [[joe-lange|Joe Lange]] notes that of the three researchers who proposed [[fedaccounts|FedAccounts]] in 2018, two had worked in the Treasury Department — among them [[morgan-ricks|Morgan Ricks]] — and treats this as evidence that the proposal originated inside the [[donald-trump|Trump]] administration's own orbit rather than by coincidence.
+
+Lange goes further than the proposal itself, instructing readers to re-read the Berkeley Economic Review's description of Fed-issued accounts holding "pure sovereign money" while substituting the word "Treasury" for "Federal Reserve." He asserts that the [[federal-reserve|Federal Reserve]] is unconstitutional and that "the Treasury is in charge of the peoples' money, not a private bank like the Federal Reserve," linking this to an anticipated return to a redeemable [[gold-standard|gold standard]] in which Americans would no longer require [[federal-deposit-insurance-corporation|federal deposit insurance]] or fund bank bailouts.

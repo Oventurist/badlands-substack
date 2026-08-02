@@ -7,7 +7,7 @@ tags:
   - conspiracy-theory
   - trump
   - deep-state
-sources: [raw/a-conflict-of-interest.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md]
 confidence: medium
 contested: true
 ---

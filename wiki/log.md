@@ -102,3 +102,5 @@
 - git add -A + timestamped commit + push; silent when nothing to commit.
 - Untracked .obsidian/ (churning workspace.json) to stop it polluting commits.
 - First manual run committed 125 pending changes; 417 files tracked.
+
+## [2026-08-01] ingest | A Seismic Shift -> created: [a-seismic-shift, bank-of-north-dakota, postal-savings-system, united-states-postal-service, fedaccounts, public-banking, federal-deposit-insurance-corporation, louis-dejoy, usps-board-of-governors, jose-figueres, morgan-ricks, american-bankers-association, mark-dimondstein, american-postal-workers-union, office-of-inspector-general, ellen-brown, public-banking-institute, roosevelt-institute], updated: [donald-trump, federal-reserve, congress, treasury-department, joe-lange, gold-standard, barack-obama, badlands-media, index]
