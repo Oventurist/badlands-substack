@@ -80,10 +80,11 @@ function render(data) {
   const links = data.links.map((l) => ({ source: l.source, target: l.target }));
 
   sim = d3.forceSimulation(nodes)
-    .force("link", d3.forceLink(links).id((d) => d.id).distance(70).strength(0.35))
-    .force("charge", d3.forceManyBody().strength(-220))
+    .force("link", d3.forceLink(links).id((d) => d.id).distance(95).strength(0.22))
+    .force("charge", d3.forceManyBody().strength(-900))
     .force("center", d3.forceCenter(width / 2, height / 2))
-    .force("collide", d3.forceCollide().radius((d) => radius(d) + 16));
+    .force("collide", d3.forceCollide().radius((d) => radius(d) + 22))
+    .alphaDecay(0.02);  // slower decay -> more time to spread out before settling
 
   zoom = d3.zoom()
     .scaleExtent([0.2, 6])
