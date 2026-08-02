@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [media, hollywood, culture, propaganda]
-sources: [raw/a-new-hollywood.md]
+sources: [raw/a-new-hollywood.md, raw/a-time-to-strike.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,7 @@ Two presidents anchor the article's argument. [[ronald-reagan|Ronald Reagan]] is
 ## The ownership thesis
 
 The essay traces recent programming to corporate control: [[paramount-global|Paramount Global]], run by [[shari-redstone|Sheri Redstone]], owns [[cbs|CBS]] and [[showtime|Showtime]] and is merging with [[skydance-media|Skydance Media]], run by [[david-ellison|David Ellison]], son of [[larry-ellison|Larry Ellison]]. Carlson concludes that Hollywood "is not only being saved, but that it has already been infiltrated by Trump's people," and that its capacity for [[predictive-programming|predictive programming]] is now being turned toward preparing the public for Trump's agenda, including action against the Mexican drug cartels and the reform, rather than dissolution, of the [[cia|CIA]].
+
+## The 2023 writers' strike
+
+[[a-time-to-strike|A Time to Strike]] (October 2023) addresses Hollywood as a labor market rather than a propaganda apparatus, recounting the nearly 150-day [[writers-guild-of-america|Writers Guild of America]] strike that ended on September 27, 2023 with a contract running to May 2026, staged pay increases, new streaming residuals based on viewership, and restrictions on studio use of [[artificial-intelligence|artificial intelligence]]. [[ashe-in-america|Ashe in America]] argues that the studios' concession is provisional, since [[automation|automation]] of creative work will strengthen their position when the deal expires.

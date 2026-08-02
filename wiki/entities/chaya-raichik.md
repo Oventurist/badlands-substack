@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [person, social-media, libs-of-tiktok, doxxing]
-sources: [raw/a-glaring-double-standard.md]
+sources: [raw/a-glaring-double-standard.md, raw/a-swan-song-for-the-msm.md]
 confidence: medium
 contested: true
 ---
@@ -20,3 +20,7 @@ The article reports that Raichik "has consistently amplified" the posts of the a
 ## Doxxing inconsistency
 
 The source argues that Raichik's position is hypocritical because she herself was doxxed by Taylor Lorenz and then went on a media tour "warning of the dangers of doxxing," saying, "Every time I have to give my name for something, my heart skips a beat. It's unnerving." [[ryan-delarme|Ryan DeLarme]], the article's author, highlights this inconsistency as an example of figures "willingly [abandoning] their ethics and stance on an issue when the tables are turned."
+
+## Reference in A Swan Song for the MSM
+
+[[a-swan-song-for-the-msm|A Swan Song for the MSM]] (February 2024) refers to Raichik indirectly through her account, [[libs-of-tiktok|Libs of TikTok]], recounting that [[taylor-lorenz|Taylor Lorenz]] "doxed the popular account Libs of TikTok, and then had the audacity to go on a media tour complaining about online harassment in its wake." The episode is cited as evidence of what the article calls the inability of corporate journalists to reflect on the hostility their own conduct provokes.

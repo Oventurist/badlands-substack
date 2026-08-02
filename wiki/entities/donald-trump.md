@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md]
 confidence: medium
 contested: true
 ---
@@ -66,3 +66,13 @@ Lange closes by listing four things he says Trump is driving: a move back to the
 ## Role in legal-system restoration commentary
 
 The May 16, 2023 Badlands essay [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]] casts Trump as working alongside "the Q team" to "fix things upstairs," while assigning the public a complementary ground-level task of civic self-education about the [[rule-of-law|rule of law]] and the [[united-states-federal-corporation|corporate status of the United States]]. The article characterises an informed population as the means by which Trump could "complete the job," while disclaiming any recommendation of specific action.
+
+## Trump and the decline of the corporate press
+
+[[a-swan-song-for-the-msm|A Swan Song for the MSM]] (February 2024) treats Trump's 2016 campaign against [[hillary-clinton|Hillary Clinton]] as "more than just another contest between Republicans and Democrats," describing it as a confrontation between "the once-voiceless masses and a ruling political class" that exposed how entangled the press had become with the Western establishment - a point the article insists holds whether or not one likes Trump personally.
+
+The essay rejects the claim that Trump and populism caused the collapse of the [[mainstream-media|mainstream media]], arguing instead that he "temporarily saved the cable TV punditry single handedly," as once-disinterested liberals became "maniacally obsessed with politics in the age of 'the great tyrant'" and returned to [[cnn|CNN]] and [[msnbc|MSNBC]], both of which had been losing viewers beforehand. That revival is described as a sugar high that inevitably faded. The article pairs Trump's rise with [[brexit|Brexit]] as the moment when long-simmering anti-establishment sentiment surfaced into public consciousness.
+
+## The auto industry and the 2023 strike wave
+
+In [[a-time-to-strike|A Time to Strike]] (October 11, 2023), [[ashe-in-america|Ashe in America]] quotes a recent speech in which Trump declared, "The auto industry is being assassinated." The article endorses the assessment, arguing that optimization policies automated many manufacturing processes while global sourcing moved remaining jobs offshore, and contrasts Trump's framing with [[joe-biden|Joe Biden]]'s appearance on the [[united-auto-workers|United Auto Workers]] picket line in Wayne County, Michigan — an appearance the author calls astonishing given her view that Biden's spending policies had destroyed U.S. manufacturing.

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [organization, media, citizen-journalism, substack]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md]
 confidence: high
 contested: false
 ---
@@ -32,3 +32,11 @@ The January 12, 2024 feature [[a-seismic-shift|A Seismic Shift]] by [[joe-lange|
 ## Legal-system commentary (2023)
 
 Badlands Media published [[a-startling-contradiction-at-the|"A Startling Contradiction at the Heart of 'Our' Legal System"]] by [[american-hypnotist|American Hypnotist]] on May 16, 2023. The piece carries the outlet's standard disclaimer that contributor articles "represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself," alongside its recurring subscription appeal describing the outlet as "a collective of citizen journalists" working to "take back the narrative from the MSM" under the slogan "We are the news now." The article notably directs readers to the site's comment sections for further research, describing Badlands as having "some of the most well-read and astute commenters out there" — an illustration of the outlet's collaborative, reader-sourced research model.
+
+## In A Swan Song for the MSM
+
+[[a-swan-song-for-the-msm|A Swan Song for the MSM]] (February 2024), by [[ryan-delarme|Ryan DeLarme]], positions Badlands Media within the decentralized media space it describes. The article contrasts the outlet's willingness to address "the difficult, but important topics" with the avoidance of such subjects by [[fox-news|Fox News]] and [[cnn|CNN]], and closes with an appeal for paid subscriptions to "help our collective of citizen journalists take back the narrative from the MSM. We are the news now." The piece also carries the standard disclaimer that Badlands Media articles represent the opinions of contributing authors rather than the organization itself.
+
+## In A Time to Strike
+
+Badlands Media published [[a-time-to-strike|"A Time to Strike"]] by [[ashe-in-america|Ashe in America]] on October 11, 2023. The post carries the outlet's customary appeal — that its content will always be free but that readers may support "our collective of citizen journalists" in taking "back the narrative from the MSM" — along with the standard disclaimer that contributor articles represent the opinions of their authors. The footer promotes the author's Badlands program *Culture of Change*, broadcast Sundays at 6PM ET.

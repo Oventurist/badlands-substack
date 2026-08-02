@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [outlet, media, hollywood, corporate]
-sources: [raw/a-new-hollywood.md]
+sources: [raw/a-new-hollywood.md, raw/a-swan-song-for-the-msm.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +22,7 @@ The article reports that Paramount Global is currently worth roughly $8 billion,
 ## Programming
 
 Recent Paramount+ series cited in the source as evidence of a changed editorial posture include *Lioness* (season two), about [[cia|CIA]] operatives infiltrating a Mexican drug cartel, and *Landman*, about the Texas oil fields. Carlson also notes that Paramount+ has for years seemed "like a [[tom-cruise|Tom Cruise]] streaming app."
+
+## As successor to National Amusements in the Big Six
+
+[[a-swan-song-for-the-msm|A Swan Song for the MSM]] lists National Amusements - identified in the article as "now Paramount Global" - among the six conglomerates that as of 2017 controlled nearly all mainstream broadcast, print, internet, radio and film output, alongside [[time-warner|Time Warner]], [[comcast|Comcast]], [[walt-disney-company|Disney]], [[sony|Sony]] and [[news-corp|NewsCorp]]. The article cites institutional holder data for Paramount (PARA) in support of its claim that the group's apparent competition is undercut by shared ownership among [[blackrock|BlackRock]], [[vanguard-group|Vanguard]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]].

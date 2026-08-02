@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [cabal, deep-state, censorship, info-war]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/a-time-to-strike.md]
 confidence: low
 contested: true
 ---
@@ -28,3 +28,7 @@ The article frames AI as analogous to a manipulative salesman or con artist, cap
 ## AI in the Trump era
 
 The February 2025 essay [[a-new-hollywood|A New Hollywood]] dates "the big push for AI" to the release of ChatGPT in late 2022 and describes [[project-stargate|Project Stargate]], [[donald-trump|Trump]]'s plan for a $500 billion U.S. investment in AI infrastructure with [[oracle|Oracle]], [[openai|OpenAI]] and [[softbank|SoftBank]]. It reads *Mission Impossible: Dead Reckoning* (2023), whose plot turns on an AI system that could take over the world in the wrong hands, as a deliberate warning and an instance of [[predictive-programming|predictive programming]], asking whether audiences "are being told America needs to be the one wielding the AI sword, and not its adversaries." The essay concludes that "just because AI can be used for evil, it doesn't mean it can't also be used to do good."
+
+## AI and the 2023 labor disputes
+
+[[a-time-to-strike|A Time to Strike]] (October 2023) treats artificial intelligence as the decisive factor in that year's strike wave. It records that the [[writers-guild-of-america|Writers Guild of America]] won contract language barring AI from writing or rewriting literary material and excluding AI-generated material from consideration as source material, but reads the deal's 18-month horizon as evidence that studios expect far greater leverage as generative AI matures. More broadly the essay argues that predictive analytics and generative AI have already replaced entire disciplines because machines reach output faster and more accurately than humans, a trajectory it attributes to the [[future-of-work|future of work]] planning of [[mckinsey-and-company|McKinsey & Company]] and the [[world-economic-forum|World Economic Forum]]. See also [[automation|automation]].

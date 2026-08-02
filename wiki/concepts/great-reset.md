@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [technocracy, globalism, decarbonization, world-government]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md]
 confidence: medium
 contested: true
 ---
@@ -20,3 +20,7 @@ The article states that for the multipolar powers to accept such a reset, they w
 ## Assessment in the source
 
 Ehret concludes that, judging by the profiles, words and performance of the leaders of the [[multipolar-alliance|multipolar alliance]] over the past decade, "they won't do this." He links the Great Reset agenda to a longer history of engineered financial crises, citing commentary on how "a time bomb was set" in the period 1923–1929, and offers as the alternative a summit organised around [[franklin-d-roosevelt|Franklin Roosevelt]]'s [[four-freedoms|Four Freedoms]].
+
+## Labor, depopulation and the Reset in A Time to Strike
+
+[[a-time-to-strike|A Time to Strike]] (October 2023) invokes the Great Reset as the framework explaining American labor conditions. Noting that dual-income households have been a majority for two decades, that birth rates have fallen roughly 20% over the past decade, and that pension systems are effectively insolvent, [[ashe-in-america|Ashe in America]] writes that these conditions "did not come about organically" and that "doubling the tax base and reducing the population, while bankrupting the system kind of sounds like laying groundwork for the Great Rest to the New World Order." The essay connects this to the [[future-of-work|future of work]] planning of [[mckinsey-and-company|McKinsey & Company]], strategic partner of the [[world-economic-forum|World Economic Forum]].

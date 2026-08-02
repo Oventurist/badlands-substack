@@ -8,7 +8,7 @@ tags:
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,7 @@ In the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Ma
 ## The vacant Postal Service board
 
 [[a-seismic-shift|A Seismic Shift]] (January 12, 2024) cites Time magazine's account of the [[usps-board-of-governors|USPS Board of Governors]], which fell below quorum by 2014. Obama nominated seven people to fill the vacancies, but according to a 2018 Congressional Research Service report none received a vote in the Senate. By 2016 the board was down to a single member, James Bilbray, whose term expired that December, leaving the board officially empty when [[donald-trump|Donald Trump]] took office in January 2017. [[joe-lange|Joe Lange]] treats the resulting opportunity for Trump to appoint the entire board — and through it [[louis-dejoy|Louis DeJoy]] as Postmaster General — as something other than coincidence.
+
+## Countering Foreign Propaganda and Disinformation Act
+
+[[a-swan-song-for-the-msm|A Swan Song for the MSM]] argues that Obama recognized the terminal condition of the [[mainstream-media|corporate press]] before Donald Trump's election, citing his signing of the [[countering-foreign-propaganda-and-disinformation-act-of-2016|Countering Foreign Propaganda and Disinformation Act of 2016]] and his establishment of the [[global-engagement-center|Global Engagement Center]] within the [[state-department|State Department]]. The article contends that the resulting apparatus institutionalized the practice of labeling incriminating evidence of establishment corruption as "Russian disinformation," a strategy it says persists to this day.

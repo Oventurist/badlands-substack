@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [author, badlands-media, citizen-journalism, foreign-policy]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md]
 confidence: high
 contested: false
 ---
@@ -24,3 +24,7 @@ Taken together, the two features position DeLarme within the Badlands contributo
 ## Iran coverage
 
 The August 15, 2025 roundup [[a-look-at-recent-features|"A Look At Recent Features"]] lists DeLarme's feature "And Iran, Iran So Far Away," published July 24, 2025 and described as "a direct continuation of The Deep Politics of the '12-Day War,'" his earlier treatment of the June 2025 Israel-Iran conflict.
+
+## A Swan Song for the MSM (2024)
+
+DeLarme is the author of [[a-swan-song-for-the-msm|A Swan Song for the MSM]], published by [[badlands-media|Badlands Media]] on February 21, 2024 and subtitled "The Citizen Journalist Will Write Its Epitaph." The essay argues that the [[mainstream-media|corporate press]] is in terminal decline, documents the 2023-24 wave of layoffs across the industry, traces the common institutional ownership of the "Big Six" conglomerates, and presents [[citizen-journalism|citizen journalism]] as the successor to a failed profession. It uses [[taylor-lorenz|Taylor Lorenz]] as its central case study and introduces the term [[censorship-industrial-complex|Censorship Industrial Complex]] to the corpus. The piece closes with the Badlands slogan "We are the news now," and directs readers to DeLarme's own newsletter, the Post-Liberal.

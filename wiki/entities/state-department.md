@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [us-government, foreign-policy, terrorism-designation, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,7 @@ The article's broader argument treats the department as one of several instituti
 The Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]] (October 2025) by [[ryan-delarme|Ryan DeLarme]] gives the State Department a more active role, describing it as coordinating with American labor unions to promote U.S. foreign policy objectives. The article states that under Secretary of State [[edward-stettinius|Edward Stettinius]], "the State Department explicitly coordinated with unions to ensure post-war labor movements aligned with American free-market ideals, preventing Soviet-style worker councils from taking root." It claims the department "amplified this through diplomatic cables directing ambassadors to collaborate with union envoys."
 
 In the modern period, the article alleges that declassified State Department cables reveal coordination with consulate officials, who "saw unions as credible voices" to amplify pro-democracy sentiment in Hong Kong, and that union organizers in Venezuela and Ukraine were tasked with reporting on local conditions via secure apps linked to U.S. embassies. This material feeds the department's documented role alongside the [[cia|CIA]], [[pentagon|DoD]], and [[national-endowment-for-democracy|NED]] in the labor-focused "democracy promotion" network operating through the [[solidarity-center|Solidarity Center]].
+
+## The Global Engagement Center
+
+[[a-swan-song-for-the-msm|A Swan Song for the MSM]] assigns the State Department a central role in the institutionalization of federal narrative management. It notes that President [[barack-obama|Barack Obama]] signed the [[countering-foreign-propaganda-and-disinformation-act-of-2016|Countering Foreign Propaganda and Disinformation Act of 2016]] and established the [[global-engagement-center|Global Engagement Center]], housed under the Under Secretary for Public Diplomacy and Public Affairs, with a mandate "to direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts." The article argues that this apparatus made "Russian disinformation" a standing label for evidence of establishment corruption, and treats it as a precursor of the [[censorship-industrial-complex|Censorship Industrial Complex]].
