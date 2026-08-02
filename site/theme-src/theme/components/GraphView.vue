@@ -80,10 +80,10 @@ function render(data) {
   const links = data.links.map((l) => ({ source: l.source, target: l.target }));
 
   sim = d3.forceSimulation(nodes)
-    .force("link", d3.forceLink(links).id((d) => d.id).distance(36).strength(0.4))
-    .force("charge", d3.forceManyBody().strength(-90))
+    .force("link", d3.forceLink(links).id((d) => d.id).distance(70).strength(0.35))
+    .force("charge", d3.forceManyBody().strength(-220))
     .force("center", d3.forceCenter(width / 2, height / 2))
-    .force("collide", d3.forceCollide().radius((d) => radius(d) + 6));
+    .force("collide", d3.forceCollide().radius((d) => radius(d) + 16));
 
   zoom = d3.zoom()
     .scaleExtent([0.2, 6])
@@ -122,8 +122,8 @@ function render(data) {
     .join("text")
     .attr("class", "node-label")
     .attr("text-anchor", "middle")
-    .attr("dy", (d) => radius(d) + 11)
-    .attr("font-size", 10)
+    .attr("dy", (d) => radius(d) + 13)
+    .attr("font-size", 11)
     .attr("fill", "#ddd")
     .attr("stroke", "#111")
     .attr("stroke-width", 0.4)
