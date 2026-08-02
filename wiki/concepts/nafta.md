@@ -8,7 +8,7 @@ tags:
   - nafta
   - mexico
   - drug-trafficking
-sources: [raw/a-family-affair.md]
+sources: [raw/a-family-affair.md, raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,7 @@ The article argues that NAFTA's reduction of border scrutiny made it easier for 
 ## Political cover
 
 The article notes that NAFTA was presented to the public as a free-trade agreement that would benefit all three countries, while its covert purpose was to facilitate the Bush family's drug trafficking and money-laundering operations. The mainstream media's failure to expose this alleged purpose is cited as evidence of the "shadow government's" control over information.
+
+## NAFTA as a pillar of the unipolar order
+
+The Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] treats NAFTA as one of the founding instruments of the post-Soviet unipolar order, created alongside the [[european-union|European Union]] and followed by the [[world-trade-organization|World Trade Organization]] and the 1999 repeal of [[glass-steagall-act|Glass-Steagall]]. Together, [[matthew-ehret|Matthew Ehret]] argues, these converted the trans-Atlantic into "a cage of 'post-sovereign nations' that no longer had actual control of their own powers of credit generation." The same essay counts among the signs of that order's decline the fact that "NAFTA has been seriously challenged by a restoration of protectionism in the USA."

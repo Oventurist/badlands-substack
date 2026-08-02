@@ -7,7 +7,7 @@ tags:
   - kennedy-family
   - new-york
   - cia
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-mysterious-masterclass-in-multi.md]
 confidence: medium
 contested: true
 ---
@@ -21,3 +21,7 @@ According to the article, JFK Jr. was planning to run for the U.S. Senate in New
 The source claims that Clinton "had no chance of beating him" in a fair election, and that JFK Jr.'s unexpected death "allowed America to lose an opportunity for a completely different history and direction." It notes that [[donald-trump|Donald Trump]] "hasn't forgotten his friend and what they did to him and his family," and that "payback is coming."
 
 According to the article, JFK Jr.'s assassination fits the broader pattern described by [[q-anon|Q Anon]]: anyone who threatens the cabal's control of money is eliminated. The source frames his death as evidence that the cabal will use extreme measures to remove threats, and that Trump—who has picked up "the mantle that his close friend gave his life for"—represents the force that will finally hold the cabal accountable.
+
+## Crash and spatial disorientation
+
+The 1999 plane crash that killed Kennedy is cited in the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]] as a case officially attributed to [[spatial-disorientation|spatial disorientation]], the condition in which a pilot's senses misreport the aircraft's attitude and direction. The article groups it with the 2020 helicopter crash that killed [[kobe-bryant|Kobe Bryant]] to illustrate the lethal consequences of trusting instinct over instruments.

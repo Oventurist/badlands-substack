@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [person, outlet]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-journey-of-ever-changing-truths.md, raw/a-new-hollywood.md]
 confidence: medium
 ---
 
@@ -23,3 +23,7 @@ Carlson previously authored a Badlands Media article entitled "Get Woke, Go Brok
 In [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]], subtitled "How Can Anyone Believe They Have All the Answers?", Carlson writes in an unusually autobiographical register, presenting his own research history as a sequence of conclusions successively overturned. He argues that partial truths are more effective tools of control than outright lies, estimates that roughly 80 percent of Americans accept whatever authority figures tell them while half-truths are manufactured for the skeptical remaining 20 percent, and compares the search for truth to peeling an onion.
 
 The essay records several stages of his own revision: from accepting the [[rodney-king|Rodney King]] footage at face value to concluding it was staged; from believing the [[italian-mafia|Italian Mafia]] ran organized crime to placing the [[jewish-mafia|Jewish Mafia]] and then the [[cia|CIA]] above it; and from concluding for a few months that "Jews ran the world, that Israel ran the world" to rejecting that view in favor of a [[cabal|Cabal]] seated in the [[city-of-london|City of London]]. The piece closes by framing the present era as a covert struggle between [[donald-trump|Donald Trump]] and the City of London.
+
+## A New Hollywood (2025)
+
+On February 6, 2025 Carlson published [[a-new-hollywood|A New Hollywood]], an essay arguing that [[hollywood|Hollywood]] has already been "infiltrated by [[donald-trump|Trump]]'s people" through [[shari-redstone|Sheri Redstone]]'s [[paramount-global|Paramount Global]] and its pending merger with [[david-ellison|David Ellison]]'s [[skydance-media|Skydance Media]]. The piece is unusually autobiographical: Carlson describes his Generation X moviegoing, his criticism from readers over public schooling and entertainment consumption, and an incident in which he intervened to save a man being beaten by five attackers, which he attributes partly to the heroic films of his youth. He calls Trump "Reagan 2.0" and argues that Hollywood, Big Tech, the financial system and Big Medicine can all be transformed from instruments of control into instruments of good.

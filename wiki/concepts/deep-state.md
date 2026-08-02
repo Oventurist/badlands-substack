@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [deep-state, cabal, city-of-london, shadow-government]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
@@ -20,3 +20,11 @@ Its structural claim is hierarchical: the [[city-of-london|City of London]] "sit
 ## Founders & Foundations series
 
 [[matthew-ehret|Matthew Ehret]]'s August 6, 2025 feature "The Birth of America's Deep State," catalogued in [[a-look-at-recent-features|"A Look At Recent Features"]], treats the origins of the American deep state as the third entry in the Badlands Media "Founders & Foundations" series, which previously covered Alexander Hamilton, Abraham Lincoln and Benjamin Franklin.
+
+## Deep State narratives in entertainment
+
+The essay [[a-new-hollywood|A New Hollywood]] argues that [[hollywood|Hollywood]] "has used [[predictive-programming|predictive programming]] to prepare us to accept future Deep State narratives and agendas," and that this same capacity is now being redirected: with [[paramount-global|Paramount Global]] merging into [[skydance-media|Skydance Media]], the author believes the industry is being used to prepare audiences for [[donald-trump|Trump]]'s agenda instead.
+
+## The British-run design
+
+In [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] (September 2025), [[matthew-ehret|Matthew Ehret]] describes the object of opposition created by Russia and China's Belt and Road system as "this British-run Deep State design," locating the centre of the apparatus in the [[city-of-london|City of London]] and its Wall Street partners rather than in Washington. In this account the [[rhodes-scholarship|Rhodes Scholarship]] network and the [[fabian-society|Fabian Society]] function as the recruitment and ideological arms of that structure.

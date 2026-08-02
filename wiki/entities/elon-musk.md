@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [person, outlet, censorship, info-war, 5gw, tech]
-sources: [raw/5gw-counter-offensive-the-censorship.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md]
 confidence: medium
 contested: true
 ---
@@ -37,3 +37,7 @@ Musk is linked in the source to the **Trusted News Initiative** and the **Online
 - [[trusted-news-initiative]]
 - [[online-safety-bill]]
 - [[russell-brand]]
+
+## TikTok
+
+The February 2025 essay [[a-new-hollywood|A New Hollywood]] notes that, around the rollout of [[project-stargate|Project Stargate]], [[donald-trump|Trump]] suggested that either Musk or [[larry-ellison|Larry Ellison]] buy [[tiktok|TikTok]].

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md]
 confidence: high
 contested: false
 ---
@@ -22,3 +22,7 @@ The article further argues that Russia under Putin has fielded next-generation h
 ## Alaska summit (2025)
 
 Badlands coverage catalogued in [[a-look-at-recent-features|"A Look At Recent Features"]] (August 15, 2025) previews an "extremely important" meeting between Putin and [[donald-trump|Donald Trump]] held in Alaska on August 15, 2025. [[matthew-ehret|Matthew Ehret]]'s feature "Trump, Putin, Alaska and the Future of Multipolarity" frames the summit as consequential for the [[multipolar-alliance|multipolar order]] while stressing that its agenda and any prior arrangements were "shrouded in mystery."
+
+## The exile of the oligarchs
+
+A footnote to the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] states that when Putin "began exiling many of these unrepentant oligarchs, they quickly made their way to London where many became disposable playthings of the British Empire." The article credits the Russia-China partnership and the [[belt-and-road-initiative|Belt and Road Initiative]] with creating a counter-system to the unipolar order, and observes that "the NATO proxy war against Russia has only strengthened the Russian economy."

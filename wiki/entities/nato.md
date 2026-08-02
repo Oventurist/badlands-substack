@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [agency, foreign-policy]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
@@ -40,3 +40,7 @@ Claims in this entry derive from the Badlands Media article *A Bright Red Line* 
 ## Nuclear balance and the multipolar alliance
 
 The Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]] (September 3, 2025) discusses NATO in the context of strategic deterrence. [[matthew-ehret|Matthew Ehret]] argues that the next-generation hypersonic missile technologies unveiled by both Russia and China — including underwater drones — have demonstrated that "a first strike monopoly by NATO is a pipe dream," and that no attack on Russia or China could be carried out without a retaliation that "would take out every major city across the Rules Based International free world." The article contrasts NATO's posture with the security architecture set out in the [[tianjin-declaration|Tianjin Declaration]] and advanced by the [[multipolar-alliance|multipolar alliance]], and warns that some analysts at the [[rand-corporation|RAND Corporation]] and in the military-industrial complex nonetheless treat a new world war as winnable.
+
+## NATO in the unipolar architecture
+
+The Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] places NATO among the institutions that, after 1991, converted the trans-Atlantic world into "a cage of 'post-sovereign nations'," writing that "under NATO, even national militaries were subject to technocratic control." [[matthew-ehret|Matthew Ehret]] links the [[blair-doctrine|Blair doctrine]] to "expanding NATO's hegemony against the potential re-emergence of Russia and China," and argues that "the NATO proxy war against Russia has only strengthened the Russian economy." The article notes that Canadian taxpayers had contributed $22 billion to that proxy war since February 2022.

@@ -19,7 +19,7 @@ contested: true
 
 ## Central thesis
 
-The article claims that the AFL-CIO and the Solidarity Center use taxpayer funds to promote political and geopolitical objectives on behalf of the U.S. foreign policy establishment, using the rhetoric of labor solidarity as cover. It traces the relationship back to [[cold-war|Cold War]] covert operations and argues it has since been integrated into the modern "democracy promotion" agenda — a term the author says NATO and "friends of Anglo-American imperialism" use to justify warping foreign nations into "open societies."
+The article claims that the AFL-CIO and the Solidarity Center use taxpayer funds to promote political and geopolitical objectives on behalf of the U.S. foreign policy establishment, using the rhetoric of labor solidarity as cover. It traces the relationship back to Cold War covert operations and argues it has since been integrated into the modern "democracy promotion" agenda — a term the author says NATO and "friends of Anglo-American imperialism" use to justify warping foreign nations into "open societies."
 
 The author defines "democracy promotion" as conforming a nation to the will of the international foreign policy establishment by installing NATO-approved leaders, flooding the country with American corporate franchises, disseminating establishment propaganda, altering the legal system via "rule of law programs," and manipulating labor unions to bring a workforce behind Western-sponsored causes.
 

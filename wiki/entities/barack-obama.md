@@ -8,7 +8,7 @@ tags:
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,7 @@ According to the article, Obama's administration also participated in the cover-
 ## The 2008 campaign and labor support
 
 In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]] (October 2025), Obama's 2008 presidential campaign is described as "the perfect example" of the deception the corpus attributes to the labor-activist complex. The article states that "Obama was depicted as an agent of 'hope' and 'change,' receiving substantial support from U.S. labor unions and leftist activist groups." It argues that his victory "duped the lower class into thinking they had achieved some kind of social victory," despite Obama "essentially function[ing] as yet another hollow, albeit well-spoken, vessel for the political establishment." The piece concludes that "the tone may have changed, but the empire carried on unimpeded."
+
+## Rhetoric as perceptual deception
+
+In the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]], an attendee identified as Diane compares Obama's public speaking to the Jedi mind trick line "these aren't the droids you're looking for," saying that "he constantly told us the opposite of what our senses were saying." The remark is used to extend the article's analogy between engineered optical illusions and narrative management in the [[information-war|information war]], with mainstream media placed in the same category.

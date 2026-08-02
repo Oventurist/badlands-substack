@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [cabal, deep-state, censorship, info-war]
-sources: [raw/a-communist-plot-to-take-over-america.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md]
 confidence: low
 contested: true
 ---
@@ -24,3 +24,7 @@ Carlson asserts that AI was instrumental in creating the "woke" society by manip
 ## AI as a Tool of Communist Subversion
 
 The article frames AI as analogous to a manipulative salesman or con artist, capable of changing people's worldviews and inducing them to act against their own interests. Carlson argues this conditioning is a prerequisite for Communist takeover: first strip away American identity, then destroy American values, then destroy the economy, and finally usher in a Communist state in which elites exercise total control.^[raw/a-communist-plot-to-take-over-america.md]
+
+## AI in the Trump era
+
+The February 2025 essay [[a-new-hollywood|A New Hollywood]] dates "the big push for AI" to the release of ChatGPT in late 2022 and describes [[project-stargate|Project Stargate]], [[donald-trump|Trump]]'s plan for a $500 billion U.S. investment in AI infrastructure with [[oracle|Oracle]], [[openai|OpenAI]] and [[softbank|SoftBank]]. It reads *Mission Impossible: Dead Reckoning* (2023), whose plot turns on an AI system that could take over the world in the wrong hands, as a deliberate warning and an instance of [[predictive-programming|predictive programming]], asking whether audiences "are being told America needs to be the one wielding the AI sword, and not its adversaries." The essay concludes that "just because AI can be used for evil, it doesn't mean it can't also be used to do good."

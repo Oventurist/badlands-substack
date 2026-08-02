@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: entity
 tags: [city-of-london, cabal, deep-state, globalism, finance]
-sources: [raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,7 @@ The essay argues that Russia has been cast as the perpetual enemy of the West pr
 The source reads the fall of the Soviet Union in the early 1990s together with Japan's ensuing thirty-year economic stagnation and China's simultaneous rise as evidence that the City of London "pivoted from controlling the Soviet Union to Communist China."
 
 The article's account of current events casts the real conflict of the present era as one between President [[donald-trump|Donald Trump]] and the City of London — and between Trump and Europe — rather than between the United States and Russia, China, or Iran. It cites the replacement of LIBOR with SOFR, which it says moved control of the American banking system from the City of London to the [[federal-reserve|Federal Reserve]], and the onshoring of manufacturing out of China in Trump's second term. Tariffs, in this reading, "aren't just about creating fair trade; they're about removing the Globalist power that stems from the City of London."
+
+## Canada and the oligarch diaspora
+
+The September 2025 essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] extends this account to Canada, which [[matthew-ehret|Matthew Ehret]] describes as "a chess piece within a much larger London-directed Great Game." The article argues that the Russian and Ukrainian oligarchs created by 1990s privatization — among them [[roman-abramovich|Roman Abramovich]], [[oleg-deripaska|Oleg Deripaska]] and [[mikhail-khodorkovsky|Mikhail Khodorkovsky]] — purchased homes in upmarket London districts nicknamed "Moscow on Thames," and that after [[vladimir-putin|Vladimir Putin]] began exiling them they "became disposable playthings of the British Empire." Ehret further contends that the twentieth-century plan to convert economic collapse into fascism depended on America being brought "firmly under control of the City of London and their Wall Street lackies."

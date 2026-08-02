@@ -7,7 +7,7 @@ tags:
   - intelligence
   - shadow-government
   - terrorism
-sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md]
 confidence: medium
 contested: true
 ---
@@ -33,3 +33,7 @@ The April 2025 essay [[a-journey-of-ever-changing-truths|A Journey of Ever-chang
 The article further alleges that the agency "smuggled drugs in from South and Central America to sell on the South-Central streets of Los Angeles," where [[rick-ross|Rick Ross]] grew wealthy, having obtained those drugs by trading guns in Central America. Carlson summarizes the resulting cycle — create racial division, sell guns and drugs to promote foreign wars, promote a hood mentality in the inner cities, and fill prison cells while being compensated for it — with the remark that "no one can accuse the CIA of not being good at their job."
 
 On organized crime, the essay places the CIA above the [[jewish-mafia|Jewish Mafia]] in the hierarchy, describing [[meyer-lansky|Meyer Lansky]] as "their guy" who ran agency drugs out of the Golden Triangle during the Vietnam War, and reading [[the-godfather|*The Godfather*]] as a narrative operation that concealed both layers behind the [[italian-mafia|Italian Mafia]]. In the same essay's global hierarchy, the CIA and [[mossad|Mossad]] are themselves subordinate to British [[mi6|MI6]] and ultimately to the [[city-of-london|City of London]].
+
+## Portrayal in Trump-era entertainment
+
+The February 2025 essay [[a-new-hollywood|A New Hollywood]] observes a surge of CIA-themed programming from [[paramount-global|Paramount Global]] and [[skydance-media|Skydance Media]]: *Lioness*, in which CIA operatives infiltrate a Mexican drug cartel to rescue a kidnapped American politician and trafficked children; [[showtime|Showtime]]'s *The Agency*, about an officer returning from years undercover; and *Jack Ryan*, in which a CIA analyst goes into the field against foreign threats. [[erik-carlson|Erik Carlson]] argues that because these shows come from [[donald-trump|Trump]] allies, they indicate Trump "isn't looking to scatter the CIA into a thousand pieces, but rather that he intends to reform it." The same article notes the claim that [[larry-ellison|Larry Ellison]] is "a CIA stooge," responding that essentially everyone in American tech has some past connection to DARPA or the CIA without that determining present loyalties.
