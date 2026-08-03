@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [institution, judiciary, case-law, federalism]
-sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md]
 confidence: high
 contested: false
 ---
@@ -36,3 +36,4 @@ This page draws on multiple source articles:
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

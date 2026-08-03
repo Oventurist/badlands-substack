@@ -1,13 +1,13 @@
 ---
 title: James Baker
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags:
   - american-politics
   - bush-family
   - texas-commerce-bank
-sources: [raw/a-family-affair.md]
+sources: [raw/a-family-affair.md, raw/badlands-brief-169.md]
 confidence: medium
 contested: true
 ---
@@ -25,4 +25,7 @@ Baker served as White House chief of staff under President Gerald Ford, as White
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-family-affair)
+This page draws on multiple source articles:
+
+- [a family affair](https://badlands.substack.com/p/a-family-affair)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

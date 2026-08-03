@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [federal-reserve, supreme-court, executive-power, article-ii]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-169.md]
 confidence: high
 contested: false
 ---
@@ -23,4 +23,7 @@ The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that later tha
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

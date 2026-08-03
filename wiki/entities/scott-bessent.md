@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [treasury, sanctions, venezuela, banking, trump-administration]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ Ghost argues that the lifting of sanctions is legally consequential because it r
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

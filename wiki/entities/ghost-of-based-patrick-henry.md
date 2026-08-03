@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, kayfabe, q-anon]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md]
 confidence: high
 contested: false
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

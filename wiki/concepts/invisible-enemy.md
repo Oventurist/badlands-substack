@@ -1,10 +1,10 @@
 ---
 title: Invisible Enemy
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [5gw, deep-state, information-warfare, badlands-media]
-sources: [raw/badlands-blitz-episode-11.md]
+sources: [raw/badlands-blitz-episode-11.md, raw/badlands-brief-169.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The concept is inseparable from the corpus's treatment of [[5th-generation-warfa
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-11)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

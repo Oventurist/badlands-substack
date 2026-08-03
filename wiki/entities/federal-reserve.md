@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [central-banking, bank, agency, cabal]
-sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md]
+sources: [raw/1913.md, raw/a-journey-of-ever-changing-truths.md, raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md]
 confidence: medium
 contested: true
 ---
@@ -79,3 +79,4 @@ This page draws on multiple source articles:
 - [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

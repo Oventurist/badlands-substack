@@ -1,10 +1,10 @@
 ---
 title: Jared Kushner
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, trump-administration, cbdc, crypto]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ CNBC judged Kushner's position prescient, noting that few countries were serious
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+This page draws on multiple source articles:
+
+- [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

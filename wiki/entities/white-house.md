@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [us-government, executive-branch, benghazi, chain-of-command]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

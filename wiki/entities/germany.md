@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [germany, europe, world-order, transatlantic-relations]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-169.md]
 confidence: high
 contested: false
 ---
@@ -19,4 +19,7 @@ German President [[frank-walter-steinmeier|Frank-Walter Steinmeier]] said US pol
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)

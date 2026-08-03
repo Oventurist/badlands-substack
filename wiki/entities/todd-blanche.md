@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [justice-department, drug-policy, trump-administration]
-sources: [raw/badlands-brief-0fb.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-169.md]
 confidence: medium
 contested: false
 ---
@@ -20,4 +20,7 @@ Blanche further announced plans for a new expedited hearing with set deadlines a
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-0fb)
+This page draws on multiple source articles:
+
+- [badlands brief 0fb](https://badlands.substack.com/p/badlands-brief-0fb)
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
