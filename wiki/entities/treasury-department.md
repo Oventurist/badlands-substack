@@ -1,10 +1,10 @@
 ---
 title: United States Department of the Treasury
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [us-government, terrorism-financing, sanctions, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-02a.md]
 confidence: high
 contested: false
 ---
@@ -42,3 +42,4 @@ This page draws on multiple source articles:
 - [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
 - [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

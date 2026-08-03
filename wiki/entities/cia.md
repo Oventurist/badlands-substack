@@ -1,13 +1,13 @@
 ---
 title: CIA
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags:
   - intelligence
   - shadow-government
   - terrorism
-sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -63,3 +63,4 @@ This page draws on multiple source articles:
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [arabian nights](https://badlands.substack.com/p/arabian-nights)
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

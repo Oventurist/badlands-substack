@@ -1,10 +1,10 @@
 ---
 title: Continuity of Government
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [continuity-of-government, national-security, devolution, emergency-powers]
-sources: [raw/all-assets-deployed.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/all-assets-deployed.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,4 @@ This page draws on multiple source articles:
 
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

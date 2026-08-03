@@ -1,10 +1,10 @@
 ---
 title: White House
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [us-government, executive-branch, benghazi, chain-of-command]
-sources: [raw/a-dereliction-of-duty.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ Former CIA officers, the article adds, tried for months to warn the White House 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

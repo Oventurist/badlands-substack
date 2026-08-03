@@ -1,10 +1,10 @@
 ---
 title: UBS
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [organization, bank, switzerland, tax-evasion]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -28,4 +28,7 @@ The Badlands article reads this sequence — criminal exposure, the hiring of Ke
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-2)
+This page draws on multiple source articles:
+
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

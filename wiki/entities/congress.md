@@ -1,10 +1,10 @@
 ---
 title: United States Congress
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -60,3 +60,4 @@ This page draws on multiple source articles:
 - [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

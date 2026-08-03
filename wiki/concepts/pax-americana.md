@@ -1,10 +1,10 @@
 ---
 title: Pax Americana
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [empire, foreign-policy, neoconservatism, regime-change]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ Understanding this doctrine, the article argues, is a prerequisite for correctly
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/assad-day-in-damascus)
+This page draws on multiple source articles:
+
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

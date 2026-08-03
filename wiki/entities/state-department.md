@@ -1,10 +1,10 @@
 ---
 title: State Department
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [us-government, foreign-policy, terrorism-designation, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -59,3 +59,4 @@ This page draws on multiple source articles:
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

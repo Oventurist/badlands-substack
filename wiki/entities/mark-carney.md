@@ -1,10 +1,10 @@
 ---
 title: Mark Carney
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [canada, central-banking, green-finance, british-empire]
-sources: [raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ The essay argues that Carney is pursuing a new Canadian agenda oriented toward f
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+This page draws on multiple source articles:
+
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)

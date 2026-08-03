@@ -1,14 +1,14 @@
 ---
 title: Barack Obama
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags:
   - president
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/bad-actors.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/bad-actors.md, raw/badlands-brief-02a.md]
 confidence: medium
 contested: true
 ---
@@ -69,3 +69,4 @@ This page draws on multiple source articles:
 - [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
 - [bad actors](https://badlands.substack.com/p/bad-actors)
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
