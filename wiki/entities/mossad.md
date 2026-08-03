@@ -1,10 +1,10 @@
 ---
 title: Mossad
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 type: entity
 tags: [mossad, israel, intelligence, deep-state, city-of-london]
-sources: [raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-174.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,7 @@ Mossad is the Israeli national intelligence service. It appears in the Badlands 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

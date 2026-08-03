@@ -1,10 +1,10 @@
 ---
 title: Jena Griswold
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [colorado, secretary-of-state, election-administration, litigation]
-sources: [raw/badlands-brief-169.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-174.md]
 confidence: high
 contested: true
 ---
@@ -19,6 +19,13 @@ According to [[badlands-brief-169|"Condemnation, Calibration, & Constitutional B
 
 Badlands commentator [[ashe-in-america|Ashe in America]], a Colorado resident, writes that she is "always supportive of suing Jena Griswold" but doubts this particular suit because of the plaintiffs bringing it and its timing on the eve of the Colorado primary election day.
 
+## Opposition to Peters clemency (March 2026)
+
+The Badlands Brief of March 5, 2026 reported that after Governor [[jared-polis|Jared Polis]] signaled openness to commuting the sentence of [[tina-peters|Tina Peters]], Griswold — together with Attorney General [[phil-weiser|Phil Weiser]] and county clerk [[matt-crane|Matt Crane]] — released statements urging the governor to show no mercy. Peters's attorney [[john-case|John Case]] characterized the three as Peters's "political enemies," and [[ashe-in-america|Ashe in America]] argued that their "swift, coordinated, and absolute" opposition confirmed their resolve while also signaling how much the Peters case matters to Colorado's incumbent officials ahead of the primary.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-169)
+This page draws on multiple source articles:
+
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

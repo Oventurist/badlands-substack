@@ -1,10 +1,10 @@
 ---
 title: Mohammed bin Salman
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [saudi-arabia, house-of-saud, middle-east, q]
-sources: [raw/arabian-nights.md, raw/badlands-brief-05f.md]
+sources: [raw/arabian-nights.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 
 - [arabian nights](https://badlands.substack.com/p/arabian-nights)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

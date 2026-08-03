@@ -1,10 +1,10 @@
 ---
 title: House Committee on Oversight and Accountability
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-05
 type: entity
 tags: [congress, oversight, committee, investigation]
-sources: [raw/a-week-to-remember.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-174.md]
 confidence: high
 contested: false
 ---
@@ -20,4 +20,7 @@ The essay highlights that Cheatle used the hearing to note the recent death of R
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-week-to-remember)
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

@@ -1,10 +1,10 @@
 ---
 title: Joseph Aoun
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [lebanon, head-of-state, middle-east, ceasefire]
-sources: [raw/badlands-brief-07c.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-1ae.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ Trump indicated that Vice President [[jd-vance|JD Vance]], Rubio, and Chairman o
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-07c)
+This page draws on multiple source articles:
+
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)

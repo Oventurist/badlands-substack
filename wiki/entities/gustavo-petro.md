@@ -1,10 +1,10 @@
 ---
 title: Gustavo Petro
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [colombia, assassination-attempt, cartels, sovereign-alliance, venezuela]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md]
 confidence: high
 contested: false
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

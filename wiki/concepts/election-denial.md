@@ -1,10 +1,10 @@
 ---
 title: Election Denial
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-05
 type: concept
 tags: [election-integrity, narrative-warfare, media-framing, badlands-media]
-sources: [raw/badlands-blitz-episode-17.md]
+sources: [raw/badlands-blitz-episode-17.md, raw/badlands-brief-174.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ The characterization of election denial as newly bipartisan is the source's own 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-17)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 17](https://badlands.substack.com/p/badlands-blitz-episode-17)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

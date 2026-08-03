@@ -1,10 +1,10 @@
 ---
 title: Joe Biden
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-05
 type: entity
 tags: [joe-biden, crime-bill, senate, prison-privatization]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-1ae.md]
 confidence: medium
 contested: true
 ---
@@ -43,3 +43,4 @@ This page draws on multiple source articles:
 - [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+- [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)

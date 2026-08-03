@@ -1,10 +1,10 @@
 ---
 title: Ken Paxton
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 type: entity
 tags: [person, agency, censorship, investigation, 5gw]
-sources: [raw/a-cancer-on-modern-journalism.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-174.md]
 confidence: medium
 contested: true
 ---
@@ -35,4 +35,7 @@ The source connects Paxton's investigation to the "thermonuclear lawsuit" filed 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+This page draws on multiple source articles:
+
+- [a cancer on modern journalism](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

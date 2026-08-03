@@ -1,10 +1,10 @@
 ---
 title: Al Green
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [democratic-party, texas, house-of-representatives, 2026-midterms]
-sources: [raw/badlands-brief-165.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-174.md]
 confidence: high
 contested: false
 ---
@@ -16,4 +16,7 @@ The March 4, 2026 [[badlands-brief-165|Badlands Brief]] lists Green among the in
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-165)
+This page draws on multiple source articles:
+
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

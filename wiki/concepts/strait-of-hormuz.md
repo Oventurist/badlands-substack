@@ -1,10 +1,10 @@
 ---
 title: Strait of Hormuz
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [geography, energy, iran, maritime]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md]
 confidence: medium
 contested: false
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 - [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)

@@ -1,10 +1,10 @@
 ---
 title: Sovereign Alliance
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [5gw, geopolitics, sovereignty, badlands-media]
-sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
+sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)

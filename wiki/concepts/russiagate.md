@@ -1,10 +1,10 @@
 ---
 title: Russiagate
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-05
 type: concept
 tags: [russiagate, intelligence-community, narrative-warfare, 2016-election, accountability]
-sources: [raw/badlands-blitz-episode-14.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-195.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The Badlands treatment holds that Russiagate was constructed by elements of the 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-14)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
+- [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)

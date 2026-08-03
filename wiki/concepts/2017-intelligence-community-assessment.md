@@ -1,10 +1,10 @@
 ---
 title: 2017 Intelligence Community Assessment
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [intelligence, russiagate, accountability, cia]
-sources: [raw/badlands-brief-07c.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-195.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ The Brief states that the investigation centers in part on Brennan's 2023 congre
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-07c)
+This page draws on multiple source articles:
+
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
