@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [regime-change, propaganda, elections, subversion]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The article's argument is that the same method is being applied to America in th
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+This page draws on multiple source articles:
+
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

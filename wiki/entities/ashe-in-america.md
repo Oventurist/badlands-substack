@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md]
 confidence: medium
 contested: false
 ---
@@ -33,3 +33,4 @@ This page draws on multiple source articles:
 - [a mysterious masterclass in multi](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)
 - [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
 - [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)

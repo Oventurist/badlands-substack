@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [plutocracy, philanthropy, technology, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)

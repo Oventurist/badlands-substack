@@ -1,13 +1,13 @@
 ---
 title: Bashar al-Assad
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - syria
   - dictator
   - cia-target
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: true
 ---
@@ -23,4 +23,7 @@ According to the source, Assad's survival represents a failure of the cabal's pl
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-conflict-of-interest)
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

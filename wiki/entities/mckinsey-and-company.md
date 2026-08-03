@@ -1,10 +1,10 @@
 ---
 title: McKinsey & Company
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [consulting, globalism, future-of-work, world-economic-forum]
-sources: [raw/a-time-to-strike.md]
+sources: [raw/a-time-to-strike.md, raw/artificial-intelligence.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ Her interpretive claim is that McKinsey was measuring occupational displacement 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-time-to-strike)
+This page draws on multiple source articles:
+
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)

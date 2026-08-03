@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [media, propaganda, cia, psychological-operations]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 
 - [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

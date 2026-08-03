@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [international-organization, libya, sanctions, security-council]
-sources: [raw/a-conflict-of-interest.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md]
 confidence: medium
 contested: true
 ---
@@ -35,3 +35,4 @@ This page draws on multiple source articles:
 - [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
 - [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 - [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)

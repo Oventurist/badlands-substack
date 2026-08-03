@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [ai, tech, info-war, llm]
-sources: [raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md]
 confidence: medium
 ---
 # ChatGPT
@@ -19,4 +19,7 @@ The essay also situates ChatGPT within a broader argument about [[artificial-int
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+This page draws on multiple source articles:
+
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)

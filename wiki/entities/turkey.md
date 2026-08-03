@@ -1,10 +1,10 @@
 ---
 title: Turkey
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [nation-state, weapons-smuggling, syria, benghazi]
-sources: [raw/a-dereliction-of-duty.md]
+sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ Most pointedly, the article notes that on the night of September 11, 2012, in wh
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

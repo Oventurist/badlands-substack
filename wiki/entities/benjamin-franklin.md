@@ -1,10 +1,10 @@
 ---
 title: Benjamin Franklin
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [founding-father, science, american-revolution, promethean]
-sources: [raw/a-new-american-renaissance.md]
+sources: [raw/a-new-american-renaissance.md, raw/artificial-intelligence.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ Following his 1752 experiments capturing "electric fire from the gods" with a ke
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-new-american-renaissance)
+This page draws on multiple source articles:
+
+- [a new american renaissance](https://badlands.substack.com/p/a-new-american-renaissance)
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)

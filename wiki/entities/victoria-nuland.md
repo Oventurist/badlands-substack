@@ -1,10 +1,10 @@
 ---
 title: Victoria Nuland
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [person, agency]
-sources: [raw/a-bright-red-line.md]
+sources: [raw/a-bright-red-line.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: false
 ---
@@ -27,4 +27,7 @@ Nuland's tenure at NATO is linked in the article to the broader [[nato]] enlarge
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-bright-red-line)
+This page draws on multiple source articles:
+
+- [a bright red line](https://badlands.substack.com/p/a-bright-red-line)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

@@ -1,14 +1,14 @@
 ---
 title: Mujahideen
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - afghanistan
   - cia
   - al-qaeda
   - soviet-union
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The source frames the Mujahideen as a "private army" controlled by the CIA, whos
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-conflict-of-interest)
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

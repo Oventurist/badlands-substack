@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [outlet, newspaper, mainstream-media, media-criticism]
-sources: [raw/a-swan-song-for-the-msm.md, raw/arabian-nights.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,4 @@ This page draws on multiple source articles:
 
 - [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
 - [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

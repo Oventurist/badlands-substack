@@ -7,7 +7,7 @@ tags:
   - terrorism
   - afghanistan
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-1.md]
+sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-1.md, raw/assad-day-in-damascus.md]
 confidence: medium
 contested: true
 ---
@@ -33,3 +33,4 @@ This page draws on multiple source articles:
 
 - [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
 - [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)

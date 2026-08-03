@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [person, outlet, censorship, info-war, 5gw, tech]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md, raw/artificial-intelligence.md]
 confidence: medium
 contested: true
 ---
@@ -62,3 +62,4 @@ This page draws on multiple source articles:
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
 - [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)

@@ -1,10 +1,10 @@
 ---
 title: Ryan DeLarme
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [author, badlands-media, citizen-journalism, foreign-policy]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md]
 confidence: high
 contested: false
 ---
@@ -36,3 +36,4 @@ This page draws on multiple source articles:
 - [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
 - [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
 - [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
