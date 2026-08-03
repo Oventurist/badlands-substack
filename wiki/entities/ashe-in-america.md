@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md]
 confidence: medium
 contested: false
 ---
@@ -52,3 +52,5 @@ This page draws on multiple source articles:
 - [badlands blitz episode 18](https://badlands.substack.com/p/badlands-blitz-episode-18)
 - [badlands blitz episode 2](https://badlands.substack.com/p/badlands-blitz-episode-2)
 - [badlands blitz episode 20](https://badlands.substack.com/p/badlands-blitz-episode-20)
+- [badlands blitz episode 22](https://badlands.substack.com/p/badlands-blitz-episode-22)
+- [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)

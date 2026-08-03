@@ -177,3 +177,9 @@
 ## [2026-08-03] ingest | Badlands Blitz Episode 20 -> created: [badlands-blitz-episode-20], updated: [the-blitz, burning-bright, ashe-in-america]
 
 ## [2026-08-03] ingest | Badlands Blitz Episode 21 -> created: [badlands-blitz-episode-21], updated: [the-blitz, burning-bright, ghost-of-patrick-henry]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 22 -> created: [badlands-blitz-episode-22], updated: [the-blitz, ashe-in-america, ghost-of-patrick-henry]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 23 -> created: [badlands-blitz-episode-23, uniparty, generational-divide], updated: [the-blitz, badlands-brief, badlands-media, burning-bright, ashe-in-america, donald-trump]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 24 -> created: [badlands-blitz-episode-24], updated: [burning-bright, ghost-of-patrick-henry, the-blitz, nato]

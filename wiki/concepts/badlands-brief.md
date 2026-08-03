@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, newsletter, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md]
 confidence: medium
 contested: false
 ---
@@ -32,3 +32,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
 - [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
 - [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
+- [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)

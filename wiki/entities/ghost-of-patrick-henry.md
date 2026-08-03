@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [badlands-media, citizen-journalism, authors, saudi-arabia]
-sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md]
+sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-24.md]
 confidence: medium
 contested: false
 ---
@@ -42,3 +42,5 @@ This page draws on multiple source articles:
 - [badlands blitz episode 18](https://badlands.substack.com/p/badlands-blitz-episode-18)
 - [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
 - [badlands blitz episode 21](https://badlands.substack.com/p/badlands-blitz-episode-21)
+- [badlands blitz episode 22](https://badlands.substack.com/p/badlands-blitz-episode-22)
+- [badlands blitz episode 24](https://badlands.substack.com/p/badlands-blitz-episode-24)

@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-03 | Total pages: 899
+> Last updated: 2026-08-03 | Total pages: 904
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -711,6 +711,9 @@
 - [[badlands-blitz-episode-19]]: Nineteenth episode of The Blitz, May 30, 2026, on Trump-Iran diplomacy, the media's belated recognition of the game, and multipolar stability. (Created: 2026-08-03)
 - [[badlands-blitz-episode-20]]: Twentieth episode of The Blitz, June 6, 2026, on "fake diagnostics" of the Trump presidency, American sovereignty, and remembering the original MAGA mission. (Created: 2026-08-03)
 - [[badlands-blitz-episode-21]]: Twenty-first episode of The Blitz, June 13, 2026, on "Trump's trap," the "Fake Iran War," and the construction of a multipolar world. (Created: 2026-08-03)
+- [[badlands-blitz-episode-22]]: Twenty-second episode of The Blitz, June 20, 2026, covering "America rising," Iranian peace, and an extended COVID discussion. (Created: 2026-08-03)
+- [[badlands-blitz-episode-23]]: Twenty-third episode of The Blitz, July 3, 2026, on intra-party civil wars inside the Uniparty and the generational divide Trump must navigate. (Created: 2026-08-03)
+- [[badlands-blitz-episode-24]]: Twenty-fourth episode of The Blitz, July 11, 2026, on Trump's rapid world tour and NATO stop as an inversion of Axis-and-Allies narratives. (Created: 2026-08-03)
 - [[badlands-blitz-episode-2]]: Second episode of The Blitz, January 17, 2026, subtitled "Info War Victory Laps & the Dismantling of Legacy Media." (Created: 2026-08-03)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
@@ -778,6 +781,7 @@
 - [[four-freedoms]]: FDR's 1941 universal aims: freedom from want, from fear of war, of speech and of conscience. (Created: 2026-08-01)
 - [[future-of-work]]: Corporate and consultancy term for the automation-driven restructuring of employment, read in the corpus as a design document for a world with fewer jobs than people. (Created: 2026-08-01)
 - [[gangster-rap]]: Late-1980s hip-hop subgenre alleged to have been engineered by the FBI and CIA to fill privatized prisons. (Created: 2026-08-01)
+- [[generational-divide]]: Argument that Trump's coalition spans Boomers, Millennials and Gen Z with conflicting expectations he must reconcile. (Created: 2026-08-03)
 - [[glass-steagall-act]]: 1933 U.S. law separating commercial from speculative banking; its 1999 repeal is blamed in the corpus for a $700 trillion derivatives bubble. (Created: 2026-08-01)
 - [[global-cartel]]: Badlands term for a transnational narcotics, financial and energy structure said to be dismantled across the Middle East and South America. (Created: 2026-08-02)
 - [[gold-standard]]: Monetary system backed by gold; framed as the perfect hard-money era from 1873–1933 that bankers destroyed. (Created: 2026-08-01)
@@ -892,6 +896,7 @@
 - [[united-states-code]]: Codification of federal statutory law, cited for Title 28's corporation definition and Title 26's unknowable bulk. (Created: 2026-08-01)
 - [[united-states-constitution]]: Founding charter treated in the corpus as a restraint written by the founders against their own government, undone by the Sixteenth Amendment in 1913. (Created: 2026-08-02)
 - [[united-states-federal-corporation]]: Claim that 28 U.S.C. 3002(15)(A) defines the United States as a federal corporation. (Created: 2026-08-01)
+- [[uniparty]]: Badlands term for the contention that the two major U.S. parties are wings of a single governing establishment. (Created: 2026-08-03)
 - [[violent-crime-control-and-law-enforcement-act-of-1994]]: Crime bill by Clinton and Biden said to have lengthened non-violent sentences in order to fill private prisons. (Created: 2026-08-01)
 - [[voting-rights-act-of-1965]] — Landmark voting law whose Section 11(b) grounded two counts in NAACP v. USEIP
 - [[wahhabism]]: External name for al-Wahhab's orthodox reformist reading of Islam, fused to Saudi state power in 1744. (Created: 2026-08-02)
