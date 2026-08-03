@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [greenland, arctic, denmark, geopolitics, tariffs]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -28,4 +28,7 @@ Denmark's [[joint-arctic-command|Joint Arctic Command]] stated in mid-January 20
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

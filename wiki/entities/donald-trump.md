@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -182,3 +182,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
 - [badlands blitz episode 25](https://badlands.substack.com/p/badlands-blitz-episode-25)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

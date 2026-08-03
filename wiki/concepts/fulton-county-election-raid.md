@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [election-integrity, fulton-county, georgia, badlands-media]
-sources: [raw/badlands-blitz-episode-4.md]
+sources: [raw/badlands-blitz-episode-4.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ The archived post refers to the raid only in passing and provides no dates, agen
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-4)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 4](https://badlands.substack.com/p/badlands-blitz-episode-4)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

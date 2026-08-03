@@ -1,10 +1,10 @@
 ---
 title: Palestinian Authority
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [palestine, foreign-aid, pay-to-slay, gaza, governance]
-sources: [raw/bad-actors.md]
+sources: [raw/bad-actors.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ The article notes that the PA is little discussed since Hamas took over Gaza, an
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/bad-actors)
+This page draws on multiple source articles:
+
+- [bad actors](https://badlands.substack.com/p/bad-actors)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

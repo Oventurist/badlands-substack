@@ -1,10 +1,10 @@
 ---
 title: Mohammed bin Salman
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [saudi-arabia, house-of-saud, middle-east, q]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -30,4 +30,7 @@ The source rejects both the mainstream portrait of MBS as a malevolent autocrat 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/arabian-nights)
+This page draws on multiple source articles:
+
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-03 | Total pages: 983
+> Last updated: 2026-08-03 | Total pages: 984
 
 ## Entities
 - [[abbas-araghchi]]: Foreign Minister of Iran and lead negotiator in the reported 2026 US-Iran memorandum of understanding. (Created: 2026-08-03)
@@ -775,6 +775,7 @@
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-brief-029]]: June 12, 2026 Badlands Brief on midterm “shadow cabal” planning, the Iran deal, DHS trafficking figures, IDF tank crews, and ActBlue. (Created: 2026-08-03)
 - [[badlands-brief-02a]]: Badlands Brief of January 19, 2026: “Arctic Escalation and Tropic Trouble for the Financial System.” (Created: 2026-08-03)
+- [[badlands-brief-05f]]: Badlands Brief of February 11, 2026: “A Fiesta of Fake Elections, Fake Files & Fake Crises.” (Created: 2026-08-03)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
 - [[battle-of-quebec-1759]]: The 1759 Plains of Abraham battle, subject of West's "The Death of General Wolfe" and framed as the opening of the road to American independence. (Created: 2026-08-01)

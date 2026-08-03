@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [white-house, press-secretary, trump-administration, elections]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
 confidence: high
 contested: false
 ---
@@ -16,4 +16,7 @@ In the January 19, 2026 [[badlands-brief-02a|Badlands Brief]], Leavitt is report
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

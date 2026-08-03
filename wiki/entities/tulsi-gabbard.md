@@ -1,10 +1,10 @@
 ---
 title: Tulsi Gabbard
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [congress, syria, antiwar, dni, media-smear]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The article states that Gabbard then "committed the most heinous and unforgivabl
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/assad-day-in-damascus)
+This page draws on multiple source articles:
+
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

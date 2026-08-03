@@ -1,10 +1,10 @@
 ---
 title: Mike Johnson
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [person, congress, speaker, republicans]
-sources: [raw/a-glaring-double-standard.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,7 @@ The article states that a House press conference before the testimony of the pre
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-glaring-double-standard)
+This page draws on multiple source articles:
+
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

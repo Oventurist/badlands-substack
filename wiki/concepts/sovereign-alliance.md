@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [5gw, geopolitics, sovereignty, badlands-media]
-sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md]
+sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
 - [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

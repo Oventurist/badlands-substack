@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [diplomat, iran, foreign-ministry, negotiations]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: false
 ---
@@ -16,4 +16,7 @@ Abbas Araghchi is the Foreign Minister of [[iran|Iran]] and a veteran negotiator
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, geopolitics, prophecy, narrative-frame]
-sources: [raw/badlands-blitz-episode-26.md]
+sources: [raw/badlands-blitz-episode-26.md, raw/badlands-brief-05f.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The concept is presented in an optimistic and at times allegorical register, con
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-26)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 26](https://badlands.substack.com/p/badlands-blitz-episode-26)
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
