@@ -1,10 +1,10 @@
 ---
 title: Deep State
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [deep-state, cabal, city-of-london, shadow-government]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-jack-smith-and-fani-willis-in.md, raw/avoiding-wwiii.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-jack-smith-and-fani-willis-in.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md]
 confidence: medium
 contested: true
 ---
@@ -61,6 +61,10 @@ The article is notable within the corpus for its explicitly pragmatic conclusion
 
 [[are-jack-smith-and-fani-willis-in|"Are Jack Smith and Fani Willis in on the Plan?"]] (September 2023) argues that "the last thing the Deep State wants is for viable evidence of election fraud to make it onto a court record," and that the indictments of [[donald-trump|Donald Trump]] make exactly that outcome likely. Had no charges been filed, the essay reasons, the establishment could have continued to discredit Trump through its media mouthpieces indefinitely. The author offers three readings — that its operatives "just can't help themselves," that they loathe the idea of Trump being a free man, or that the prosecutions are themselves "part of the plan" — while declining to choose between them.
 
+## The July 2026 speech
+
+The announcement for [[badlands-blitz-episode-25|Badlands Blitz Episode 25]] (July 18, 2026) refers to the "Deep State cabal" as the party whose position is affected by Donald Trump's election fraud speech of the preceding Thursday, which the hosts characterise as seismic and as inaugurating a phase shift in both the [[shadow-war|Shadow War]] and the [[information-war|Information War]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -76,3 +80,4 @@ This page draws on multiple source articles:
 - [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
+- [badlands blitz episode 25](https://badlands.substack.com/p/badlands-blitz-episode-25)

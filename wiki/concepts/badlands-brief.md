@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, newsletter, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md]
 confidence: medium
 contested: false
 ---
@@ -24,6 +24,8 @@ The Brief's Monday-through-Friday output continued to supply the raw material fo
 
 The March 21, 2026 announcement for [[badlands-blitz-episode-11|Badlands Blitz Episode 11]] restated the Brief's weekday cadence — "the work we do Monday through Friday in the Badlands Brief" — and referred to a "step-up in said work for 2026," indicating an expansion of the daily output that the Blitz recaps.
 
+The July 18, 2026 announcement for [[badlands-blitz-episode-25|Badlands Blitz Episode 25]] again described the Blitz as "a weekly recap and dissection of the work we do Monday through Friday in the Badlands Brief," confirming that the weekday cadence and the 2026 "step-up in said work" remained in place mid-year.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +35,6 @@ This page draws on multiple source articles:
 - [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
 - [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
 - [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
+- [badlands blitz episode 25](https://badlands.substack.com/p/badlands-blitz-episode-25)
+- [badlands blitz episode 26](https://badlands.substack.com/p/badlands-blitz-episode-26)
+- [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)

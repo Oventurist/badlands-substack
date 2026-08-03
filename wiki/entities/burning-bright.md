@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md]
 confidence: medium
 contested: false
 ---
@@ -56,3 +56,6 @@ This page draws on multiple source articles:
 - [badlands blitz episode 21](https://badlands.substack.com/p/badlands-blitz-episode-21)
 - [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
 - [badlands blitz episode 24](https://badlands.substack.com/p/badlands-blitz-episode-24)
+- [badlands blitz episode 25](https://badlands.substack.com/p/badlands-blitz-episode-25)
+- [badlands blitz episode 26](https://badlands.substack.com/p/badlands-blitz-episode-26)
+- [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)

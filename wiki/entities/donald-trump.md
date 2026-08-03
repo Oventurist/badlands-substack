@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md]
 confidence: medium
 contested: true
 ---
@@ -146,6 +146,10 @@ The essay pairs this with Trump's appearance at the [[bitcoin-2024-conference|Bi
 
 The July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] places Trump within an explicitly eschatological frame, citing the prophecies of [[kim-clement|Kim Clement]], who is said to have prophesied over the course of a decade that Trump would become president, likely without ever having met him. The article highlights Clement's statement that "Trump shall become a trumpet," asking whether this referred to one of the seven trumpets of the [[book-of-revelation|book of Revelation]], and notes Clement's mention of a "brilliant plan" that could only be "given by God."
 
+## July 2026 election fraud speech
+
+[[badlands-blitz-episode-25|Badlands Blitz Episode 25]], published July 18, 2026 under the title "It's Treason, Then …", devotes its full runtime to what it calls Trump's "seismic" election fraud speech delivered the previous Thursday. The hosts, [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]], argue the address carried implications for the [[deep-state|Deep State]] "cabal" and marked the beginning of a phase shift in both the [[shadow-war|Shadow War]] and the [[information-war|Information War]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -176,3 +180,4 @@ This page draws on multiple source articles:
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
 - [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
 - [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
+- [badlands blitz episode 25](https://badlands.substack.com/p/badlands-blitz-episode-25)

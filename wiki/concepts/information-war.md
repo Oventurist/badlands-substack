@@ -1,10 +1,10 @@
 ---
 title: Information War
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [information-warfare, propaganda, media, narrative]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/all-assets-deployed.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/all-assets-deployed.md, raw/badlands-blitz-episode-25.md]
 confidence: medium
 contested: true
 ---
@@ -30,9 +30,14 @@ The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) offers
 
 The essay's practical counsel is one of information hygiene: to "pay attention to those who scream the loudest while guarding your mind from the very same," to apply "resolute, determined discernment and realism to our projections," and to avoid mistaking an incomplete advance for a defeat, since focusing on the enemy's gloating risks missing "the forward ground that was taken, and the battlements that might be erected therein."
 
+## Relation to the Shadow War
+
+The announcement for [[badlands-blitz-episode-25|Badlands Blitz Episode 25]] (July 18, 2026) pairs the Information War with the [[shadow-war|Shadow War]] as two coupled theatres of a single conflict, arguing that Donald Trump's election fraud speech of the preceding Thursday marked "the beginnings of a true phase shift in both the Shadow War and the Information War at once." The formulation treats narrative combat as distinct from, but synchronised with, covert operational activity.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [a mysterious masterclass in multi](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [badlands blitz episode 25](https://badlands.substack.com/p/badlands-blitz-episode-25)

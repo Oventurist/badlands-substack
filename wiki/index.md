@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-03 | Total pages: 904
+> Last updated: 2026-08-03 | Total pages: 910
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -714,7 +714,10 @@
 - [[badlands-blitz-episode-22]]: Twenty-second episode of The Blitz, June 20, 2026, covering "America rising," Iranian peace, and an extended COVID discussion. (Created: 2026-08-03)
 - [[badlands-blitz-episode-23]]: Twenty-third episode of The Blitz, July 3, 2026, on intra-party civil wars inside the Uniparty and the generational divide Trump must navigate. (Created: 2026-08-03)
 - [[badlands-blitz-episode-24]]: Twenty-fourth episode of The Blitz, July 11, 2026, on Trump's rapid world tour and NATO stop as an inversion of Axis-and-Allies narratives. (Created: 2026-08-03)
+- [[badlands-blitz-episode-25]]: Twenty-fifth episode of The Blitz, July 18, 2026, an hour-long dissection of Trump's election fraud speech as a phase shift in the Shadow War and Information War. (Created: 2026-08-03)
+- [[badlands-blitz-episode-26]]: Twenty-sixth episode of The Blitz, July 25, 2026, tracing the Global Golden Age from American remigration to Middle East peace. (Created: 2026-08-03)
 - [[badlands-blitz-episode-2]]: Second episode of The Blitz, January 17, 2026, subtitled "Info War Victory Laps & the Dismantling of Legacy Media." (Created: 2026-08-03)
+- [[badlands-blitz-episode-3]]: Third episode of The Blitz, January 24, 2026, subtitled "Donald Trump's Global Victory Tour." (Created: 2026-08-03)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
@@ -784,6 +787,7 @@
 - [[generational-divide]]: Argument that Trump's coalition spans Boomers, Millennials and Gen Z with conflicting expectations he must reconcile. (Created: 2026-08-03)
 - [[glass-steagall-act]]: 1933 U.S. law separating commercial from speculative banking; its 1999 repeal is blamed in the corpus for a $700 trillion derivatives bubble. (Created: 2026-08-01)
 - [[global-cartel]]: Badlands term for a transnational narcotics, financial and energy structure said to be dismantled across the Middle East and South America. (Created: 2026-08-02)
+- [[global-golden-age]]: Badlands framing term for an anticipated worldwide transition to restored sovereignty and resolved conflicts. (Created: 2026-08-03)
 - [[gold-standard]]: Monetary system backed by gold; framed as the perfect hard-money era from 1873–1933 that bankers destroyed. (Created: 2026-08-01)
 - [[great-american-restoration-tour]]: Badlands Media's travelling multi-day live event series pairing panels with informal local excursions. (Created: 2026-08-01)
 - [[great-reset]]: Technocratic supranational reorganisation the corpus opposes, said to require rewriting the UN Charter. (Created: 2026-08-01)
@@ -852,6 +856,7 @@
 - [[rashidun-caliphate]]: The thirty-year rule of Muhammad's four elected companions, expanding from Libya to India. (Created: 2026-08-02)
 - [[reality-collapse]]: The dissolution of shared verifiable reality by AI-mediated summarization, synthetic media and mind-reading capabilities. (Created: 2026-08-02)
 - [[rebuilding-americas-defenses]]: PNAC strategy report calling for unquestioned U.S. military preeminence and noting the need for "a new Pearl Harbor." (Created: 2026-08-02)
+- [[remigration]]: Return of migrant populations to countries of origin; cited as a starting point for the Global Golden Age argument. (Created: 2026-08-03)
 - [[republican-national-convention]]: The 2024 Republican nominating convention, held days after the Butler assassination attempt. (Created: 2026-08-02)
 - [[retail-theft-wave]]: Pattern of large-scale organized shoplifting in liberal American cities interpreted in the Badlands corpus as a deliberate Communist plot to destroy downtown commerce and create racial division. (Created: 2026-08-01)
 - [[rhodes-scholarship]]: Oxford scholarship founded in 1902, described in the corpus as the recruitment mechanism of a British imperial cadre of over 7,000 scholars. (Created: 2026-08-01)
@@ -861,6 +866,7 @@
 - [[russian-reset]]: The Obama administration's 2009 diplomatic overture to Russia, described in the corpus as narrative preparation clearing the path for the Uranium One sale. (Created: 2026-08-02)
 - [[sanctions]]: Economic sanctions, presented in the corpus not as punishment but as a deliberate mechanism creating closed financial systems for covert CIA finance. (Created: 2026-08-02)
 - [[satanic-inversion]]: The reversal of moral categories — good presented as oppressive, destruction as liberation — identified as the cabal's signature method. (Created: 2026-08-02)
+- [[shadow-war]]: Term for the covert operational layer of the conflict Badlands writers describe, paired with the Information War as its narrative counterpart. (Created: 2026-08-03)
 - [[sharia-law]]: Islamic religious law, presented in the corpus as the stated objective of the Muslim Brotherhood’s infiltration of Western institutions. (Created: 2026-08-02)
 - [[shia-islam]]: Minority branch holding that only Ali's descendants may lead Islam; concentrated in Iran and Persia. (Created: 2026-08-02)
 - [[sixteen-year-plan]]: Alleged eight-year Obama plus eight-year Clinton scheme to destroy America and the Constitution, derailed by Trump's 2016 victory. (Created: 2026-08-02)

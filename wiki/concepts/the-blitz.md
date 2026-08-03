@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, media-program, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md]
 confidence: high
 contested: false
 ---
@@ -67,3 +67,5 @@ This page draws on multiple source articles:
 - [badlands blitz episode 22](https://badlands.substack.com/p/badlands-blitz-episode-22)
 - [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
 - [badlands blitz episode 24](https://badlands.substack.com/p/badlands-blitz-episode-24)
+- [badlands blitz episode 26](https://badlands.substack.com/p/badlands-blitz-episode-26)
+- [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)
