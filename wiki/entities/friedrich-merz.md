@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [germany, european-politics, transatlantic-relations, approval-ratings]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-165.md]
 confidence: high
 contested: false
 ---
@@ -18,4 +18,7 @@ At the same time, the Brief identifies Merz as among the European leaders seekin
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

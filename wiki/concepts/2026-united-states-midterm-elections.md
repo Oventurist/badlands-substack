@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [elections, midterms, congress, election-integrity, polling]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-165.md]
 confidence: medium
 contested: true
 ---
@@ -28,4 +28,7 @@ Her position is that American elections are fraudulent by design: "Fake election
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

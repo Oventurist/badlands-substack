@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, newsletter, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md]
 confidence: medium
 contested: false
 ---
@@ -49,3 +49,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

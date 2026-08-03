@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [government-agency, border-security, immigration, dhs]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md]
 confidence: medium
 contested: false
 ---
@@ -16,4 +16,7 @@ Customs and Border Protection (CBP) is the border-security component of the [[de
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

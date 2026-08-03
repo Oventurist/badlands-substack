@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, live-events, conference, community]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md]
 confidence: high
 contested: false
 ---
@@ -31,3 +31,4 @@ This page draws on multiple source articles:
 - [a mysterious masterclass in multi](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

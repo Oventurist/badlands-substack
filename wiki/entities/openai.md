@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [tech, ai, corporate]
-sources: [raw/a-new-hollywood.md, raw/ai-can-help-us-expose-the-nwo.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md]
+sources: [raw/a-new-hollywood.md, raw/ai-can-help-us-expose-the-nwo.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md]
 confidence: medium
 ---
 # OpenAI
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 - [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

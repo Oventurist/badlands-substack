@@ -1,10 +1,10 @@
 ---
 title: Chuck Grassley
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, senator, senate-judiciary, oversight]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ The essay predicts that Grassley will be placed "on center stage in the coming m
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-2)
+This page draws on multiple source articles:
+
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

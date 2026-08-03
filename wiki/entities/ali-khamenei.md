@@ -1,10 +1,10 @@
 ---
 title: Ali Khamenei
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, iran, supreme-leader, ayatollah, geopolitics]
-sources: [raw/badlands-blitz-episode-12.md]
+sources: [raw/badlands-blitz-episode-12.md, raw/badlands-brief-165.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ The source notes that [[donald-trump|Donald Trump]] himself was among those rela
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-12)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

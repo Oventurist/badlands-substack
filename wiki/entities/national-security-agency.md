@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [intelligence, surveillance, us-government, fisa]
-sources: [raw/badlands-brief-07c.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-165.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ The agency's role is therefore central to the renewal fight described in the Bri
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-07c)
+This page draws on multiple source articles:
+
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)

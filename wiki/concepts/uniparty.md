@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [american-politics, political-analysis, badlands-media, establishment]
-sources: [raw/badlands-blitz-episode-23.md]
+sources: [raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ That simultaneity is treated in the corpus as significant in itself. Where a con
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-23)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
