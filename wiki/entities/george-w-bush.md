@@ -7,7 +7,7 @@ tags:
   - president
   - iraq-war
   - taxpayer-theft
-sources: [raw/a-conflict-of-interest.md, raw/always-fight-back.md]
+sources: [raw/a-conflict-of-interest.md, raw/always-fight-back.md, raw/bad-actors.md]
 confidence: medium
 contested: true
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 
 - [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
 - [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [bad actors](https://badlands.substack.com/p/bad-actors)

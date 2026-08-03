@@ -3,8 +3,8 @@ title: Alwaleed bin Talal
 created: 2026-08-02
 updated: 2026-08-02
 type: entity
-tags: [saudi-arabia, house-of-saud, finance, 2017-purge]
-sources: [raw/arabian-nights.md]
+tags: [saudi-arabia, house-of-saud, finance, 2017-purge, puppet-master]
+sources: [raw/arabian-nights.md, raw/bad-actors.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ Alwaleed's detention formed part of the round-up of roughly forty relatives and 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/arabian-nights)
+This page draws on multiple source articles:
+
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [bad actors](https://badlands.substack.com/p/bad-actors)

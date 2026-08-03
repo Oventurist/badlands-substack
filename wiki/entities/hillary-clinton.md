@@ -8,7 +8,7 @@ tags:
   - libya
   - cia
   - taxpayer-theft
-sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/bad-actors.md]
 confidence: medium
 contested: true
 ---
@@ -62,3 +62,4 @@ This page draws on multiple source articles:
 - [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [bad actors](https://badlands.substack.com/p/bad-actors)

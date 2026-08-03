@@ -8,7 +8,7 @@ tags:
   - muslim-brotherhood
   - cia
   - isis
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-seismic-shift.md, raw/a-swan-song-for-the-msm.md, raw/a-virus-or-a-metaphor.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/bad-actors.md]
 confidence: medium
 contested: true
 ---
@@ -67,3 +67,4 @@ This page draws on multiple source articles:
 - [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 - [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
 - [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [bad actors](https://badlands.substack.com/p/bad-actors)

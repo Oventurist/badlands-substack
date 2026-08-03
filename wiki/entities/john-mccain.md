@@ -1,7 +1,7 @@
 ---
 title: John McCain
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - senator
@@ -9,7 +9,7 @@ tags:
   - syria
   - isis
   - taxpayer-theft
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/bad-actors.md]
 confidence: medium
 contested: true
 ---
@@ -27,4 +27,7 @@ The article also claims that McCain had previously led the [[libyan-emergency-ta
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-conflict-of-interest)
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [bad actors](https://badlands.substack.com/p/bad-actors)

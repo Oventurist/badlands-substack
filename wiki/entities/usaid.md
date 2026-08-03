@@ -1,14 +1,14 @@
 ---
 title: USAID
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - foreign-aid
   - labor-unions
   - democracy-promotion
   - us-government
-sources: [raw/a-more-perfect-labor-union.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/bad-actors.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ In the modern period, the article notes that the Solidarity Center receives $30â
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-more-perfect-labor-union)
+This page draws on multiple source articles:
+
+- [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
+- [bad actors](https://badlands.substack.com/p/bad-actors)
