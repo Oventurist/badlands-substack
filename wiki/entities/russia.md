@@ -1,10 +1,10 @@
 ---
 title: Russia
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [russia, geopolitics, sanctions, ukraine, energy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1cd.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: true
 ---
@@ -43,3 +43,5 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

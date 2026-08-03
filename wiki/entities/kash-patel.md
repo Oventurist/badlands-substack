@@ -1,10 +1,10 @@
 ---
 title: Kash Patel
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, trump-ally, national-security, media]
-sources: [raw/all-assets-deployed.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: false
 ---
@@ -20,4 +20,7 @@ Patel's advance framing of the announcement is treated in the essay as evidence 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/all-assets-deployed)
+This page draws on multiple source articles:
+
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

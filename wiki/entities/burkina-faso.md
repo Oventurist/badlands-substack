@@ -1,10 +1,10 @@
 ---
 title: Burkina Faso
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [burkina-faso, sahel, military-government, western-intelligence, africa]
-sources: [raw/badlands-brief-1c6.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-1ce.md]
 confidence: high
 contested: true
 ---
@@ -23,4 +23,7 @@ The source situates these remarks against strained relations with Western countr
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1c6)
+This page draws on multiple source articles:
+
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

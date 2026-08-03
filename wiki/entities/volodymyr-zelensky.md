@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [ukraine, head-of-state, war-economy, drones]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

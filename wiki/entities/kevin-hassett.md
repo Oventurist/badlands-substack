@@ -1,10 +1,10 @@
 ---
 title: "Kevin Hassett"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [economy, white-house, iran, energy, trump-administration]
-sources: [raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-1ce.md]
 confidence: high
 contested: false
 ---
@@ -25,4 +25,7 @@ Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] took Ha
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-095)
+This page draws on multiple source articles:
+
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

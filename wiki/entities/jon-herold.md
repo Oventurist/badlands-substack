@@ -1,10 +1,10 @@
 ---
 title: Jon Herold
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [person, writer, substack, devolution, badlands-media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-02a.md, raw/badlands-brief-095.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-02a.md, raw/badlands-brief-095.md, raw/badlands-brief-1ce.md]
 confidence: medium
 contested: false
 ---
@@ -25,3 +25,4 @@ This page draws on multiple source articles:
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

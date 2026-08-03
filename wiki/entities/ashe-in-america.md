@@ -1,10 +1,10 @@
 ---
 title: Ashe in America
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: false
 ---
@@ -78,3 +78,5 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

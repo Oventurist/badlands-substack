@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [campaign-finance, republican-party, fundraising, investigation]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: false
 ---
@@ -16,4 +16,7 @@ WinRed is the principal online small-dollar fundraising platform used by Republi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

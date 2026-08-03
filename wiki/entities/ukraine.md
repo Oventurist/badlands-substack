@@ -8,7 +8,7 @@ tags:
   - hybrid-warfare
   - labor-unions
   - nato
-sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: true
 ---
@@ -37,3 +37,4 @@ This page draws on multiple source articles:
 - [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

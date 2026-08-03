@@ -1,13 +1,13 @@
 ---
 title: Hugo Chávez
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-06
 type: entity
 tags:
   - venezuela
   - socialism
   - latin-america
-sources: [raw/a-family-affair.md]
+sources: [raw/a-family-affair.md, raw/badlands-brief-1ce.md]
 confidence: high
 contested: false
 ---
@@ -25,4 +25,7 @@ Chávez was a left-wing populist who implemented socialist policies in Venezuela
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-family-affair)
+This page draws on multiple source articles:
+
+- [a family affair](https://badlands.substack.com/p/a-family-affair)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

@@ -1,10 +1,10 @@
 ---
 title: Sovereign Disentanglement
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [sovereignty, globalism, badlands-media, geopolitics, narrative-warfare]
-sources: [raw/badlands-blitz-episode-12.md]
+sources: [raw/badlands-blitz-episode-12.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ The concept is named as one of the three central subjects of [[badlands-blitz-ep
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-12)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

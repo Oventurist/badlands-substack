@@ -1,10 +1,10 @@
 ---
 title: "Todd Blanche"
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [justice-department, drug-policy, trump-administration]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: false
 ---
@@ -25,3 +25,4 @@ This page draws on multiple source articles:
 - [badlands brief 0fb](https://badlands.substack.com/p/badlands-brief-0fb)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

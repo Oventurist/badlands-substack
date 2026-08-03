@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [hungary, europe, migration, european-union, nation-state]
-sources: [raw/badlands-brief-07c.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ Following a landslide 2026 election victory by [[peter-magyar|Péter Magyar]], t
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-07c)
+This page draws on multiple source articles:
+
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

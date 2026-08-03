@@ -1,10 +1,10 @@
 ---
 title: BlackRock
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-06
 type: entity
 tags: [asset-manager, finance, media-ownership, institutional-investor]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ce.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ It further asserts that representatives of these asset managers "remain regular 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+This page draws on multiple source articles:
+
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

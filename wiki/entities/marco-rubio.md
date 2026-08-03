@@ -1,10 +1,10 @@
 ---
 title: Marco Rubio
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [state-department, trump-administration, diplomacy, israel]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md]
 confidence: high
 contested: false
 ---
@@ -24,3 +24,4 @@ This page draws on multiple source articles:
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

@@ -1,10 +1,10 @@
 ---
 title: Nicolás Maduro
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [venezuela, regime-change, sanctions, oil, banking]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

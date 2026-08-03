@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [campaign-finance, democratic-party, fundraising, investigation]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ The Badlands writer [[ashe-in-america|Ashe in America]] argues that Democrats "h
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

@@ -1,10 +1,10 @@
 ---
 title: GhostofBasedPatrickHenry
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, kayfabe, q-anon]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
 confidence: high
 contested: false
 ---
@@ -41,3 +41,5 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

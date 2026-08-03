@@ -1,10 +1,10 @@
 ---
 title: House Judiciary Committee
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [us-government, congress, oversight, investigations]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ef.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ The article states that after Goodlatte and [[trey-gowdy|Trey Gowdy]] completed 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-2)
+This page draws on multiple source articles:
+
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)

@@ -1,10 +1,10 @@
 ---
 title: Jerome Powell
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [person, central-banking, federal-reserve, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,4 @@ This page draws on multiple source articles:
 
 - [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

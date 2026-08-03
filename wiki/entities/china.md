@@ -1,10 +1,10 @@
 ---
 title: China
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [china, geopolitics, belt-and-road, energy, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md]
 confidence: medium
 contested: true
 ---
@@ -42,3 +42,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)

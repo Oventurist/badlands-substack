@@ -1,10 +1,10 @@
 ---
 title: Scott Bessent
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [treasury, sanctions, venezuela, banking, trump-administration]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-1ce.md]
 confidence: medium
 contested: false
 ---
@@ -22,3 +22,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
