@@ -189,3 +189,9 @@
 ## [2026-08-03] ingest | Badlands Blitz Episode 26 -> created: [badlands-blitz-episode-26, global-golden-age, remigration], updated: [burning-bright, ghost-of-patrick-henry, the-blitz, badlands-brief]
 
 ## [2026-08-03] ingest | Badlands Blitz Episode 3 -> created: [badlands-blitz-episode-3], updated: [the-blitz, ghost-of-patrick-henry, burning-bright, badlands-brief, sovereign-alliance, badlands-media]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 4 -> created: [badlands-blitz-episode-4, system-sway, minnesota-color-revolution, fulton-county-election-raid, canadian-capitulation], updated: [the-blitz, ashe-in-america, badlands-brief, color-revolution]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 5 -> created: [badlands-blitz-episode-5, new-start-treaty, sovereign-signal, epstein-narrative], updated: [the-blitz, badlands-brief, ghost-of-patrick-henry]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 6 -> created: [badlands-blitz-episode-6], updated: [ashe-in-america]

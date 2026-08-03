@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-03 | Total pages: 910
+> Last updated: 2026-08-03 | Total pages: 920
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -718,6 +718,9 @@
 - [[badlands-blitz-episode-26]]: Twenty-sixth episode of The Blitz, July 25, 2026, tracing the Global Golden Age from American remigration to Middle East peace. (Created: 2026-08-03)
 - [[badlands-blitz-episode-2]]: Second episode of The Blitz, January 17, 2026, subtitled "Info War Victory Laps & the Dismantling of Legacy Media." (Created: 2026-08-03)
 - [[badlands-blitz-episode-3]]: Third episode of The Blitz, January 24, 2026, subtitled "Donald Trump's Global Victory Tour." (Created: 2026-08-03)
+- [[badlands-blitz-episode-4]]: Fourth episode of The Blitz, January 31, 2026, subtitled "Color Revolutions Come Home to Roost." (Created: 2026-08-03)
+- [[badlands-blitz-episode-5]]: Fifth episode of The Blitz, February 7, 2026, subtitled "The END of the START …," covering Iran's nuclear file and the end of New START. (Created: 2026-08-03)
+- [[badlands-blitz-episode-6]]: Sixth episode of The Blitz, February 14, 2026, subtitled "The Info War Ouroboros," with Ashe in America. (Created: 2026-08-03)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
@@ -749,6 +752,7 @@
 - [[citizen-journalism]]: Public citizens collecting, reporting and disseminating news outside mainstream institutions; the organizing identity of Badlands Media. (Created: 2026-08-01)
 - [[civilization-stealth-jihad]]: Term for the Muslim Brotherhood strategy of advancing sharia through university recruitment and institutional infiltration rather than armed force — “infiltration, not invasion.” (Created: 2026-08-02)
 - [[climate-change-narrative]]: The corpus's term for environmental crisis rhetoric understood as a driver of collectivism, ESG enforcement and lost national sovereignty. (Created: 2026-08-02)
+- [[canadian-capitulation]]: Badlands term for a claimed recurring pattern of concessions by the Canadian government, cited in Blitz Episode 4. (Created: 2026-08-03)
 - [[color-revolution]]: Regime change by propaganda, funded street violence, bought media and rigged elections; the corpus's classification of the 1917 Bolshevik uprising. (Created: 2026-08-02)
 - [[communism]]: Ideology framed in the corpus as a contrived virus unleashed on America from within, and as a tool wielded by the Cabal rather than the enemy itself. (Created: 2026-08-02)
 - [[con-inc]]: Pejorative term for the professionalized conservative movement, alleged in the corpus to function as controlled opposition. (Created: 2026-08-02)
@@ -773,6 +777,7 @@
 - [[eco-colonialism]]: Control exercised through conservation policy, reservation systems and "human ecosystems-management" rather than direct conquest. (Created: 2026-08-02)
 - [[election-denial]]: Label for refusal to accept certified election results, treated in the corpus as a rhetorical instrument whose narrative dominance is said to have reversed by 2026. (Created: 2026-08-02)
 - [[emirate-of-diriyah]]: The First State of Saud (1727-1814), ended by the Ottoman beheading of Abdullah bin Saud in Istanbul. (Created: 2026-08-02)
+- [[epstein-narrative]]: The mass proliferation and amplification of the Jeffrey Epstein story, treated in the corpus as a media phenomenon requiring its own analysis. (Created: 2026-08-03)
 - [[esg]]: Environmental, Social and Governance scoring, framed as a coercive instrument for disciplining corporations into ideological compliance. (Created: 2026-08-02)
 - [[fedaccounts]]: 2018 proposal for Federal Reserve retail accounts open to all individuals and businesses, potentially serviced through post offices. (Created: 2026-08-01)
 - [[federal-income-tax]]: The 1913 levy on earnings, framed in the corpus as unnecessary for funding government and existing to control Americans. (Created: 2026-08-02)
@@ -820,6 +825,7 @@
 - [[media-industrial-complex]]: Badlands term for the integrated establishment press apparatus treated as an instrument of coordinated narrative management. (Created: 2026-08-03)
 - [[memorandum-of-notification]]: The August 1998 Clinton covert-action authorization that, per the corpus, permitted "lethal activity" against Osama Bin Laden while forbidding killing him as the object of an attack. (Created: 2026-08-01)
 - [[military-industrial-complex]]: The defense-industrial network the corpus says the press serves rather than scrutinizes. (Created: 2026-08-01)
+- [[minnesota-color-revolution]]: Badlands label for Minnesota unrest read as domestic application of color revolution methodology. (Created: 2026-08-03)
 - [[millennial-reign]]: Thousand-year reign of Christ following Satan's binding, paralleled in the corpus with Bitcoin's keys and timechain. (Created: 2026-08-02)
 - [[monroe-doctrine]]: Anti-colonial hemispheric doctrine drafted by John Quincy Adams, whose original defensive intent the corpus contrasts with later imperial abuse. (Created: 2026-08-02)
 - [[multipolar-alliance]]: Term for the grouping of states around Russia, China and India pursuing sovereignty-based, win-win development. (Created: 2026-08-01)
@@ -828,6 +834,7 @@
 - [[narrative-warfare]]: Conflict waged through the construction and collapse of stories about events rather than the events themselves. (Created: 2026-08-02)
 - [[neo-marxism]]: The transposition of Marxist class conflict into identity and environmental categories, pursued through institutions rather than revolution. (Created: 2026-08-02)
 - [[new-deal]]: 1930s U.S. program of protectionism, bank regulation and state credit, offered in the corpus as the sovereignty-empowering counter-model to the Green New Deal. (Created: 2026-08-01)
+- [[new-start-treaty]]: US–Russia strategic arms control treaty whose end anchored Badlands Blitz Episode 5's "escalation as de-escalation" question. (Created: 2026-08-03)
 - [[new-world-order]]: Projected system of unified world government subordinating national sovereignty, traditional family structures and individual rights. (Created: 2026-08-02)
 - [[nominalization]]: Hypnosis term for an intangible noun; framed as one of the two main pillars of modern propaganda alongside hypnotic repetition. (Created: 2026-08-01)
 - [[northern-sea-route]]: Russian Arctic shipping corridor whose 2019 development plan targets 80 million tons of annual freight and 40 new vessels. (Created: 2026-08-02)
@@ -874,6 +881,7 @@
 - [[softwar]]: Jason Lowery's thesis on Bitcoin as power projection and an instrument of physical restraint. (Created: 2026-08-02)
 - [[sovereign-alliance]]: Loose coalition of sovereignty-minded national actors said to be executing a strategic pincer against the Invisible Enemy. (Created: 2026-08-02)
 - [[sovereign-disentanglement]]: The deliberate unwinding of a nation-state's ties to supranational financial, military and legal structures. (Created: 2026-08-02)
+- [[sovereign-signal]]: Badlands term for the meaningful pattern of sovereign realignment the hosts claim to extract from surrounding news noise. (Created: 2026-08-03)
 - [[sp-500]]: Capitalization-weighted index of the 500 largest U.S. companies, used in the corpus to demonstrate unprecedented market concentration. (Created: 2026-08-02)
 - [[spanish-flu]]: 1918 influenza pandemic that Trump repeatedly dated to 1917, read in the corpus as a deliberate pointer to the Bolshevik uprising. (Created: 2026-08-02)
 - [[spatial-disorientation]]: FAA-defined aviation condition in which conflicting sensory information misleads a pilot; used analogically for media deception. (Created: 2026-08-01)
@@ -881,6 +889,7 @@
 - [[stockholm-syndrome]]: Psychological condition of captives defending their captors, applied in the corpus as a diagnosis of the American electorate. (Created: 2026-08-02)
 - [[sunni-islam]]: Majority branch holding that Muhammad named no heir; centred on Saudi Arabia, Jordan and Syria. (Created: 2026-08-02)
 - [[sword-dance]]: Trump's May 2017 ardah in Riyadh, treated in the corpus as an iconic and Q-highlighted event. (Created: 2026-08-02)
+- [[system-sway]]: Badlands term for periods when unrelated news stories reveal movement within a single failing "Macro System." (Created: 2026-08-03)
 - [[taco-trade]]: The "Trump Always Chickens Out" market trope, rejected by Badlands hosts as a misreading of Trump's negotiating method. (Created: 2026-08-02)
 - [[tax-free-tips]]: Trump 2024 proposal to exempt gratuities from tax, read in the corpus as the opening move toward abolishing the income tax and a signal to the Deep State. (Created: 2026-08-02)
 - [[technological-singularity]]: The hypothetical point at which AI capability and expansion become uncontrollable and irreversible. (Created: 2026-08-02)

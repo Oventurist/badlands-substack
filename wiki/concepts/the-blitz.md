@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, media-program, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md]
 confidence: high
 contested: false
 ---
@@ -27,6 +27,8 @@ The Blitz was introduced as part of an effort described in the source to give th
 [[badlands-blitz-episode-2|Episode 2]], "Info War Victory Laps & the Dismantling of Legacy Media," appeared on January 17, 2026 and marked the Blitz debut of [[ashe-in-america|Ashe in America]] as a host. Alongside a discussion of "the original intentions behind the recent changes made around these parts" and how the vision for the Brief and the Blitz might evolve, the hosts both endorsed and criticized the practice of "Info War Victory Laps," took two of their own — on "Venezuelan Proxy Princesses" and on high-stakes US court cases — and assessed how the [[information-war|information war]] had evolved and "Devolved in places." The post also revised the running-time target downward, describing the show as "intended to get CLOSE to being a 60-minute show" with a buffer while the format settled.
 
 By [[badlands-blitz-episode-10|Episode 10]], published March 14, 2026, the program had begun departing from its strict recap format: that installment set "micro topics" aside so that [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] could devote the whole show to divisions within the [[truth-community|Truth Community]]. The free-to-view, subscription-supported model described at launch remained unchanged.
+
+[[badlands-blitz-episode-4|Episode 4]], "Color Revolutions Come Home to Roost," appeared on January 31, 2026 with [[ashe-in-america|Ashe in America]] joining as co-host. The hosts framed the week as one "absolutely full of [[system-sway|System Sway]]," arguing that the [[minnesota-color-revolution|Minnesota Color Revolution]], the [[fulton-county-election-raid|Fulton County Election Raid]] and the pattern of [[canadian-capitulation|Canadian Capitulation]] all illuminate "the same Macro System, and its inevitable dissolution." The post also reported that the two preceding episodes had nearly met the show's target of approaching a 60-minute runtime.
 
 [[badlands-blitz-episode-11|Episode 11]], "Iran, NATO and the Invisible Enemy," followed on March 21, 2026 with Burning Bright and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] as hosts, returning the show to geopolitical analysis by way of the Iran War, the [[sovereign-alliance|Sovereign Alliance]], and the [[invisible-enemy|Invisible Enemy]]. That post again described The Blitz as "a weekly recap and dissection of the work we do Monday through Friday in the Badlands Brief" and pointed to a "step-up" in the team's output for 2026.
 
@@ -69,3 +71,5 @@ This page draws on multiple source articles:
 - [badlands blitz episode 24](https://badlands.substack.com/p/badlands-blitz-episode-24)
 - [badlands blitz episode 26](https://badlands.substack.com/p/badlands-blitz-episode-26)
 - [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)
+- [badlands blitz episode 4](https://badlands.substack.com/p/badlands-blitz-episode-4)
+- [badlands blitz episode 5](https://badlands.substack.com/p/badlands-blitz-episode-5)

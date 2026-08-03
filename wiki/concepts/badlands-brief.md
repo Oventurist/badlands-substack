@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, newsletter, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md]
 confidence: medium
 contested: false
 ---
@@ -38,3 +38,5 @@ This page draws on multiple source articles:
 - [badlands blitz episode 25](https://badlands.substack.com/p/badlands-blitz-episode-25)
 - [badlands blitz episode 26](https://badlands.substack.com/p/badlands-blitz-episode-26)
 - [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)
+- [badlands blitz episode 4](https://badlands.substack.com/p/badlands-blitz-episode-4)
+- [badlands blitz episode 5](https://badlands.substack.com/p/badlands-blitz-episode-5)
