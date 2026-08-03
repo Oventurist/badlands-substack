@@ -1,10 +1,10 @@
 ---
 title: United Auto Workers
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [labor-union, automotive, strikes, manufacturing]
-sources: [raw/a-time-to-strike.md]
+sources: [raw/a-time-to-strike.md, raw/badlands-brief-2b2.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ The essay quotes [[donald-trump|Donald Trump]]'s statement that "The auto indust
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-time-to-strike)
+This page draws on multiple source articles:
+
+- [a time to strike](https://badlands.substack.com/p/a-time-to-strike)
+- [badlands brief 2b2](https://badlands.substack.com/p/badlands-brief-2b2)

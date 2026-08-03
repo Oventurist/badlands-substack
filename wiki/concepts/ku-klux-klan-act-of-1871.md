@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [legislation, civil-rights, litigation, reconstruction]
-sources: [raw/always-fight-back.md, raw/badlands-brief-144.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-144.md, raw/badlands-brief-2c0.md]
 confidence: high
 contested: false
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [always fight back](https://badlands.substack.com/p/always-fight-back)
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
+- [badlands brief 2c0](https://badlands.substack.com/p/badlands-brief-2c0)
