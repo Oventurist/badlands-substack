@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md]
 confidence: medium
 contested: false
 ---
@@ -26,6 +26,10 @@ Ashe in America was a named defendant in [[naacp-v-useip|NAACP et al. v. USEIP e
 
 In the August 13, 2024 essay [[always-fight-back|"Always Fight Back"]] she recounted the outcome: Judge [[charlotte-sweeney|Charlotte Sweeney]] ended the trial after three of five scheduled days, entered a Judgment Based on Partial Findings under Rule 52(c), and awarded costs to the defendants. She described the litigation's toll on "my reputation, my career, my family, and my sanity," while concluding that complete vindication in federal court "affirmed my faith in justice." Her outside work is published at the Substack newsletter Ashe in America.
 
+## Blitz hosting
+
+Ashe in America is a recurring host of [[the-blitz|The Blitz]]. With [[burning-bright|Burning Bright]] she co-hosted [[badlands-blitz-episode-12|Badlands Blitz Episode 12]], "The Fake and Gay, but Also Real and Serious War," published March 28, 2026, which took the contradictory narratives surrounding [[ali-khamenei|Ayatollah Ali Khamenei]] and the war involving [[iran|Iran]] as the opening for a discussion of [[narrative-warfare|Narrative Warfare]], [[sovereign-disentanglement|Sovereign Disentanglement]] and [[first-principles|First Principles]] in a [[truth-community|Truth Community]] the hosts said had forgotten them.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +39,5 @@ This page draws on multiple source articles:
 - [always fight back](https://badlands.substack.com/p/always-fight-back)
 - [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
 - [badlands blitz episode 1](https://badlands.substack.com/p/badlands-blitz-episode-1)
+- [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
+- [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)

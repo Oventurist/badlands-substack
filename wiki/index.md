@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 869
+> Last updated: 2026-08-02 | Total pages: 880
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -23,6 +23,7 @@
 - [[alawites]]: Syrian religious community from which Bashar al-Assad hails; cited as evidence that Syrians were not unanimously joyful at his fall. (Created: 2026-08-02)
 - [[alex-soros]]: Chair of the Open Society Foundations; his announced engagement to Huma Abedin is read in the corpus as a dynastic alliance among "Cabal families." (Created: 2026-08-02)
 - [[ali-ibn-abi-talib]]: Fourth Rashidun caliph and, in the source's account, the first Muslim; the dispute over his succession produced the Sunni-Shia split. (Created: 2026-08-02)
+- [[ali-khamenei]]: Supreme Leader of Iran; subject of the contradictory "fake and gay, but also real" narratives dissected in Badlands Blitz Episode 12. (Created: 2026-08-02)
 - [[ali-sait-akin]]: Turkish Consul General in Benghazi; the last known official to meet Ambassador Christopher Stevens, roughly one hour before the September 11, 2012 assault. (Created: 2026-08-01)
 - [[ali-sallabi]]: Muslim Brotherhood preacher who negotiated Abdelhakim Belhaj's release from Libyan prison in 2009. (Created: 2026-08-01)
 - [[alphabet-inc]]: Holding company of Google; named in the corpus among the five dominant U.S. firms and alleged to have received Google Earth as a repurposed CIA satellite. (Created: 2026-08-02)
@@ -188,6 +189,7 @@
 - [[fifa]]: International football governing body; Clinton Global Initiative donor whose leadership was arrested on U.S. corruption charges in 2015. (Created: 2026-08-02)
 - [[force-ouvriere]]: French trade union founded in 1948 as a breakaway from the communist CGT; cited in the corpus as a non-communist rival funded by CIA millions to split European labor along Cold War lines. (Created: 2026-08-01)
 - [[foundation-for-individual-rights-and-expression]]: Nonpartisan nonprofit defending campus free speech; its 2020 survey showing high student tolerance for shouting down speakers is cited by the corpus. (Created: 2026-08-01)
+- [[founding-fathers]]: American revolutionary and constitutional framers; invoked in the corpus as models of dissent, with Blitz Episode 10 questioning how the Truth Community remembers them. (Created: 2026-08-02)
 - [[fox-business]]: Fox Business is an American cable and satellite business news television channel owned by Fox News Media. (Created: 2026-08-01)
 - [[fox-news]]: Conservative cable network described in the corpus as supplying establishment Republican talking points, the mirror image of CNN and MSNBC. (Created: 2026-08-01)
 - [[frank-giustra]]: Canadian mining financier who orchestrated the 2005 Kazakhstan uranium deal with Bill Clinton at his side and donated $31.3 million to the Clinton Foundation. (Created: 2026-08-02)
@@ -694,6 +696,9 @@
 - [[babylon]]: Revelation's corrupt world city, read in the corpus as a portrait of the fiat financial system falling from within. (Created: 2026-08-02)
 - [[bad-actors]]: June 2024 Joe Lange article arguing that Prince Alwaleed bin Talal financed and controlled Obama, Clinton and Bush as instruments of the sixteen year plan. (Created: 2026-08-02)
 - [[badlands-blitz-episode-1]]: Debut episode of The Blitz, January 10, 2026, subtitled "Dueling Color Revolutions and Narrative Convergence." (Created: 2026-08-02)
+- [[badlands-blitz-episode-10]]: Tenth episode of The Blitz, March 14, 2026, subtitled "On the Total Discombobulation of the Truth Community." (Created: 2026-08-02)
+- [[badlands-blitz-episode-11]]: Eleventh episode of The Blitz, March 21, 2026, subtitled "Iran, NATO and the Invisible Enemy." (Created: 2026-08-02)
+- [[badlands-blitz-episode-12]]: Twelfth episode of The Blitz, March 28, 2026, subtitled "The Fake and Gay, but Also Real and Serious War." (Created: 2026-08-02)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
@@ -755,6 +760,7 @@
 - [[fednow]]: The Federal Reserve's instant peer-to-peer payment platform, distinguished in the corpus from a digital currency but treated as part of the same plan. (Created: 2026-08-02)
 - [[fiat-currency]]: Fiat currency is money whose value is not backed by a physical commodity such as gold, but is instead declared legal tender by government decree. (Created: 2026-08-01)
 - [[first-amendment]]: Constitutional guarantee of press freedom, used as the standard by which the corpus judges modern journalism a failure. (Created: 2026-08-01)
+- [[first-principles]]: Reasoning from foundational, independently verifiable premises; held up by Badlands as a discipline the Truth Community has forgotten. (Created: 2026-08-02)
 - [[four-freedoms]]: FDR's 1941 universal aims: freedom from want, from fear of war, of speech and of conscience. (Created: 2026-08-01)
 - [[future-of-work]]: Corporate and consultancy term for the automation-driven restructuring of employment, read in the corpus as a design document for a world with fewer jobs than people. (Created: 2026-08-01)
 - [[gangster-rap]]: Late-1980s hip-hop subgenre alleged to have been engineered by the FBI and CIA to fill privatized prisons. (Created: 2026-08-01)
@@ -773,6 +779,7 @@
 - [[inflation]]: Described in the corpus as "the biggest financial scam of them all" — an engineered wealth transfer produced by Federal Reserve money creation. (Created: 2026-08-02)
 - [[information-war]]: Badlands term for the ongoing contest over public perception, framed as truth mixed with deception and countered by collective triangulation. (Created: 2026-08-01)
 - [[iraq-war]]: 2003–2011 U.S. military intervention in Iraq; framed in the Badlands corpus as a cover for the theft of tens of billions of dollars in taxpayer cash diverted to terrorist organizations. (Created: 2026-08-01)
+- [[invisible-enemy]]: Badlands term for the unnamed transnational adversary said to stand behind publicly declared wars and narratives. (Created: 2026-08-02)
 - [[israel-palestine-conflict]]: Middle East conflict treated in the corpus as a case study in mass persuasion and as a solvent of partisan tribal loyalty. (Created: 2026-08-01)
 - [[joint-comprehensive-plan-of-action]]: The 2015 Iran nuclear deal, described as one of the most consequential geopolitical maneuvers in recent history and the issue that split the Western ruling class. (Created: 2026-08-02)
 - [[kaaba]]: Stone sanctuary at Mecca, held in the corpus to have been built by Abraham on Adam's foundation. (Created: 2026-08-02)
@@ -794,6 +801,7 @@
 - [[multipolar-alliance]]: Term for the grouping of states around Russia, China and India pursuing sovereignty-based, win-win development. (Created: 2026-08-01)
 - [[naacp-v-useip]] — 2022-2024 Colorado voter-intimidation suit decided for the defendants under Rule 52(c)
 - [[nafta]]: The North American Free Trade Agreement (NAFTA) was a trade agreement between the United States, Canada, and Mexico that eliminated most tariffs and trade barriers among the three countries. (Created: 2026-08-01)
+- [[narrative-warfare]]: Conflict waged through the construction and collapse of stories about events rather than the events themselves. (Created: 2026-08-02)
 - [[neo-marxism]]: The transposition of Marxist class conflict into identity and environmental categories, pursued through institutions rather than revolution. (Created: 2026-08-02)
 - [[new-deal]]: 1930s U.S. program of protectionism, bank regulation and state credit, offered in the corpus as the sovereignty-empowering counter-model to the Green New Deal. (Created: 2026-08-01)
 - [[new-world-order]]: Projected system of unified world government subordinating national sovereignty, traditional family structures and individual rights. (Created: 2026-08-02)
@@ -837,6 +845,8 @@
 - [[sixteen-year-plan]]: Alleged eight-year Obama plus eight-year Clinton scheme to destroy America and the Constitution, derailed by Trump's 2016 victory. (Created: 2026-08-02)
 - [[sofr]]: American benchmark rate that replaced LIBOR, framed as Trump repatriating banking control to the Federal Reserve. (Created: 2026-08-01)
 - [[softwar]]: Jason Lowery's thesis on Bitcoin as power projection and an instrument of physical restraint. (Created: 2026-08-02)
+- [[sovereign-alliance]]: Loose coalition of sovereignty-minded national actors said to be executing a strategic pincer against the Invisible Enemy. (Created: 2026-08-02)
+- [[sovereign-disentanglement]]: The deliberate unwinding of a nation-state's ties to supranational financial, military and legal structures. (Created: 2026-08-02)
 - [[sp-500]]: Capitalization-weighted index of the 500 largest U.S. companies, used in the corpus to demonstrate unprecedented market concentration. (Created: 2026-08-02)
 - [[spanish-flu]]: 1918 influenza pandemic that Trump repeatedly dated to 1917, read in the corpus as a deliberate pointer to the Bolshevik uprising. (Created: 2026-08-02)
 - [[spatial-disorientation]]: FAA-defined aviation condition in which conflicting sensory information misleads a pilot; used analogically for media deception. (Created: 2026-08-01)
@@ -858,6 +868,7 @@
 - [[trail-of-tears]]: Forced removal of the Cherokee under the Indian Removal Act, described in the corpus as genocidal and as a service to the slavocracy. (Created: 2026-08-02)
 - [[trans-siberian-railway]]: 9,300 km Russian rail spine being modernized and double-tracked alongside the Baikal-Amur Mainline for Eurasian freight. (Created: 2026-08-02)
 - [[twitter-files]]: Post-acquisition disclosures of internal Twitter documents, treated in the corpus as proof of coordinated suppression of competing narratives. (Created: 2026-08-02)
+- [[truth-community]]: The self-identified network of independent researchers and alternative-media audiences opposing institutional narratives, described in 2026 as undergoing a "prime sifting." (Created: 2026-08-02)
 - [[un-charter]]: Founding UN treaty grounding international law in sovereignty, non-interference and mutual cooperation. (Created: 2026-08-01)
 - [[united-states-code]]: Codification of federal statutory law, cited for Title 28's corporation definition and Title 26's unknowable bulk. (Created: 2026-08-01)
 - [[united-states-constitution]]: Founding charter treated in the corpus as a restraint written by the founders against their own government, undone by the Sixteenth Amendment in 1913. (Created: 2026-08-02)

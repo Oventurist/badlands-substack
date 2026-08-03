@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [5gw, narrative, info-war, censorship, election-integrity, synthesis]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/ai-can-help-us-expose-the-nwo.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/ai-can-help-us-expose-the-nwo.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-blitz-episode-11.md]
 confidence: medium
 contested: true
 ---
@@ -83,3 +83,4 @@ This page draws on multiple source articles:
 - [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+- [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)

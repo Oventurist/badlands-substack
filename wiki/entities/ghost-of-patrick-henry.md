@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [badlands-media, citizen-journalism, authors, saudi-arabia]
-sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md]
+sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-11.md]
 confidence: medium
 contested: false
 ---
@@ -24,9 +24,12 @@ The author states that his interest in Saudi Arabia began with the emergence of 
 
 GhostofBasedPatrickHenry co-hosted [[badlands-blitz-episode-1|the debut episode]] of [[the-blitz|The Blitz]] on January 10, 2026, appearing with the show's announcing author to explain the program's intent before turning to the previous week's news. He is one of three contributors — with [[ashe-in-america|Ashe in America]] — who rotate as hosts of the weekly recap of the [[badlands-brief|Badlands Brief]].
 
+He returned to the program for [[badlands-blitz-episode-11|Episode 11]], "Iran, NATO and the Invisible Enemy," on March 21, 2026, appearing alongside [[burning-bright|Burning Bright]] to discuss the Iran War, the [[sovereign-alliance|Sovereign Alliance]], the [[invisible-enemy|Invisible Enemy]], and the risks of sorting the figures around [[donald-trump|Donald Trump]] into white hats and black hats.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [arabian nights](https://badlands.substack.com/p/arabian-nights)
 - [badlands blitz episode 1](https://badlands.substack.com/p/badlands-blitz-episode-1)
+- [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)

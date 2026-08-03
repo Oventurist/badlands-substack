@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [badlands-media, newsletter, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md]
 confidence: medium
 contested: false
 ---
@@ -18,6 +18,16 @@ The Brief functions as the network's running coverage of the news cycle, trackin
 
 The Brief's comment section is also treated as part of the product, with subscriber responses collected over the week and read on air during The Blitz.
 
+The Brief's Monday-through-Friday output continued to supply the raw material for the weekly show through 2026; the announcement for [[badlands-blitz-episode-10|Episode 10]] repeats the same description of the Blitz as "a weekly recap and dissection of the work we do Monday through Friday in the Badlands Brief."
+
+## Continuity into 2026
+
+The March 21, 2026 announcement for [[badlands-blitz-episode-11|Badlands Blitz Episode 11]] restated the Brief's weekday cadence — "the work we do Monday through Friday in the Badlands Brief" — and referred to a "step-up in said work for 2026," indicating an expansion of the daily output that the Blitz recaps.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-1)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 1](https://badlands.substack.com/p/badlands-blitz-episode-1)
+- [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
+- [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)

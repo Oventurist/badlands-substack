@@ -158,3 +158,9 @@
 ## [2026-08-02] ingest | Avoiding WWIII -> created: [bering-strait-tunnel, eco-colonialism, george-washington, indian-removal-act, john-quincy-adams, john-winthrop, kansas-nebraska-act, manifest-destiny, monroe-doctrine, northern-sea-route, polar-silk-road, sergei-shoigu, tibet, trail-of-tears, trans-siberian-railway, whig-party, william-gilpin, william-henry-harrison, xinjiang, zachary-taylor], updated: [avoiding-wwiii, andrew-jackson, matthew-ehret, belt-and-road-initiative, second-bank-of-the-united-states, abraham-lincoln, benjamin-franklin, donald-trump, vladimir-putin, xi-jinping, george-soros, barack-obama, russia, china, usaid, world-bank, international-monetary-fund, national-endowment-for-democracy, congress, city-of-london, john-f-kennedy, iran, syria, pakistan, world-trade-organization, badlands-media, deep-state, nafta, index]
 
 ## [2026-08-02] ingest | Badlands Blitz Episode 1 -> created: [badlands-blitz-episode-1, the-blitz, badlands-brief], updated: [badlands-media, ashe-in-america, ghost-of-patrick-henry, index]
+
+## [2026-08-02] ingest | Badlands Blitz Episode 10 -> created: [badlands-blitz-episode-10, truth-community, founding-fathers], updated: [the-blitz, badlands-brief, ashe-in-america, burning-bright, index]
+
+## [2026-08-02] ingest | Badlands Blitz Episode 11 -> created: [badlands-blitz-episode-11, invisible-enemy, sovereign-alliance], updated: [the-blitz, badlands-brief, burning-bright, ghost-of-patrick-henry, iran, nato, 5th-generation-warfare, index]
+
+## [2026-08-02] ingest | Badlands Blitz Episode 12 -> created: [badlands-blitz-episode-12, narrative-warfare, sovereign-disentanglement, first-principles, ali-khamenei], updated: [burning-bright, ashe-in-america, the-blitz]

@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md]
 confidence: medium
 contested: true
 ---
@@ -30,9 +30,14 @@ The article links Iran to the commodities trader [[marc-rich|Marc Rich]], who wa
 
 The essay closes its Iran thread with Q drop #1345 (May 12, 2018), which stated that policy toward Iran "was never about WW safety & security... It was about opening a new untapped market. It was about securing a black site. The 'Exchange'. U1... Money. Organized/planned by BC/HRC. Carried out by Hussein," and referenced a "$1.7b in-cash transfer to Iran [4 routes][5 planes]." The author argues that after the financial success of [[uranium-one|Uranium One]], [[barack-obama|Barack Obama]] negotiated an Iran nuclear deal worth billions on the same model.
 
+## The 2026 Iran War coverage
+
+By March 2026 the conflict described in the corpus as "the Iran War" had become the dominant weekly storyline for [[badlands-media|Badlands Media]]. [[badlands-blitz-episode-11|Badlands Blitz Episode 11]], "Iran, NATO and the Invisible Enemy," published March 21, 2026, treats what it calls "the spiraling narrative of the Iran War" as the surface expression of a deeper conflict, using it to map an anticipated "strategic pincer" by the [[sovereign-alliance|Sovereign Alliance]] against the [[invisible-enemy|Invisible Enemy]] rather than as a bilateral confrontation on its own terms.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
+- [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
