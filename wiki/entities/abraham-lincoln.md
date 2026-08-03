@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [president, civil-war, elections, american-history]
-sources: [raw/always-fight-back.md]
+sources: [raw/always-fight-back.md, raw/avoiding-wwiii.md]
 confidence: high
 contested: false
 ---
@@ -18,4 +18,7 @@ The article further observes that the 1864 wartime election introduced mail-in b
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/always-fight-back)
+This page draws on multiple source articles:
+
+- [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

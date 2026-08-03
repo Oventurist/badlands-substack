@@ -1,10 +1,10 @@
 ---
 title: Second Bank of the United States
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [bank, agency, cabal, central-banking]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -27,4 +27,7 @@ The Second Bank is framed in the article as the first major battleground in the 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/1913)
+This page draws on multiple source articles:
+
+- [1913](https://badlands.substack.com/p/1913)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

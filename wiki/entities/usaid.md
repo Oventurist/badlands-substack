@@ -8,7 +8,7 @@ tags:
   - labor-unions
   - democracy-promotion
   - us-government
-sources: [raw/a-more-perfect-labor-union.md, raw/bad-actors.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/avoiding-wwiii.md, raw/bad-actors.md]
 confidence: medium
 contested: true
 ---
@@ -27,4 +27,5 @@ In the modern period, the article notes that the Solidarity Center receives $30â
 This page draws on multiple source articles:
 
 - [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
 - [bad actors](https://badlands.substack.com/p/bad-actors)

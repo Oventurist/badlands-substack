@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [badlands-media, citizen-journalism, authors, saudi-arabia]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md]
 confidence: medium
 contested: false
 ---
@@ -20,6 +20,13 @@ He further recounts texting his brother and father on Election Day 2016 that Gen
 
 The author states that his interest in Saudi Arabia began with the emergence of [[q]] in the autumn of 2017 and grew into what he calls an insatiable appetite for MBS and his country, sustained by countless hours of research, analysis and observation. He is openly critical of the [[new-york-times]] correspondent [[ben-hubbard]], crediting his data-gathering while calling his portrait of MBS as a malevolent figure "hot garbage."
 
+## The Blitz
+
+GhostofBasedPatrickHenry co-hosted [[badlands-blitz-episode-1|the debut episode]] of [[the-blitz|The Blitz]] on January 10, 2026, appearing with the show's announcing author to explain the program's intent before turning to the previous week's news. He is one of three contributors — with [[ashe-in-america|Ashe in America]] — who rotate as hosts of the weekly recap of the [[badlands-brief|Badlands Brief]].
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/arabian-nights)
+This page draws on multiple source articles:
+
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [badlands blitz episode 1](https://badlands.substack.com/p/badlands-blitz-episode-1)

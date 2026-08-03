@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: concept
 tags: [deep-state, cabal, city-of-london, shadow-government]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-jack-smith-and-fani-willis-in.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-startling-contradiction-at-the.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-jack-smith-and-fani-willis-in.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -75,3 +75,4 @@ This page draws on multiple source articles:
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

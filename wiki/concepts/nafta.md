@@ -1,14 +1,14 @@
 ---
 title: NAFTA
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: concept
 tags:
   - trade
   - nafta
   - mexico
   - drug-trafficking
-sources: [raw/a-family-affair.md, raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-family-affair.md, raw/a-re-alignment-of-world-systems.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -38,3 +38,4 @@ This page draws on multiple source articles:
 
 - [a family affair](https://badlands.substack.com/p/a-family-affair)
 - [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

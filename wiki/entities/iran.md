@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -32,4 +32,7 @@ The essay closes its Iran thread with Q drop #1345 (May 12, 2018), which stated 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-3)
+This page draws on multiple source articles:
+
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

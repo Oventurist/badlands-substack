@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [syria, middle-east, regime-change, civil-war]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -30,4 +30,7 @@ The change in power is said to carry implications for Iran's influence exerted t
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/assad-day-in-damascus)
+This page draws on multiple source articles:
+
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

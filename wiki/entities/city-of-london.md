@@ -1,10 +1,10 @@
 ---
 title: City of London
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [city-of-london, cabal, deep-state, globalism, finance]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -38,3 +38,4 @@ This page draws on multiple source articles:
 
 - [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 - [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

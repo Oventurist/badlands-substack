@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [founding-father, science, american-revolution, promethean]
-sources: [raw/a-new-american-renaissance.md, raw/artificial-intelligence.md]
+sources: [raw/a-new-american-renaissance.md, raw/artificial-intelligence.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 
 - [a new american renaissance](https://badlands.substack.com/p/a-new-american-renaissance)
 - [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

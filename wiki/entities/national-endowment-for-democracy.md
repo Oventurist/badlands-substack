@@ -1,14 +1,14 @@
 ---
 title: National Endowment for Democracy
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags:
   - democracy-promotion
   - ned
   - covert-operations
   - grants
-sources: [raw/a-more-perfect-labor-union.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ NED's funding of the Solidarity Center forms the financial backbone of the AFL-C
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-more-perfect-labor-union)
+This page draws on multiple source articles:
+
+- [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

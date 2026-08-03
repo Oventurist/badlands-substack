@@ -1,10 +1,10 @@
 ---
 title: World Trade Organization
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [trade, globalization, sovereignty, unipolarity]
-sources: [raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ The essay contrasts this free-trade architecture with "a restoration of protecti
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+This page draws on multiple source articles:
+
+- [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

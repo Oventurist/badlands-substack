@@ -1,10 +1,10 @@
 ---
 title: International Monetary Fund
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [finance, bretton-woods, international-organization]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gatewa
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+This page draws on multiple source articles:
+
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

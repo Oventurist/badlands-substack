@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md]
 confidence: high
 contested: false
 ---
@@ -45,3 +45,4 @@ This page draws on multiple source articles:
 - [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 - [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

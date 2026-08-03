@@ -1,10 +1,10 @@
 ---
 title: Matthew Ehret
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [author, historian, multipolarity, badlands-media]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-new-american-renaissance.md, raw/a-re-alignment-of-world-systems.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-new-american-renaissance.md, raw/a-re-alignment-of-world-systems.md, raw/avoiding-wwiii.md]
 confidence: high
 contested: false
 ---
@@ -45,3 +45,4 @@ This page draws on multiple source articles:
 - [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
 - [a new american renaissance](https://badlands.substack.com/p/a-new-american-renaissance)
 - [a re alignment of world systems](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

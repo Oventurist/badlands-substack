@@ -1,10 +1,10 @@
 ---
 title: John F. Kennedy
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 type: entity
 tags: [us-president, bretton-woods, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ Elsewhere in the Badlands corpus, Kennedy features in connection with the [[bay-
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+This page draws on multiple source articles:
+
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)

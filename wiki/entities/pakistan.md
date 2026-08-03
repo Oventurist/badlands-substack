@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [pakistan, geopolitics, nuclear, regime-change, south-asia]
-sources: [raw/and-iran-iran-so-far-away.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ Referencing the earlier Badlands article "Operation Cyclone: The Seeds of Terror
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+This page draws on multiple source articles:
+
+- [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
