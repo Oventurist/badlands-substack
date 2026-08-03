@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 894
+> Last updated: 2026-08-03 | Total pages: 899
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -708,6 +708,10 @@
 - [[badlands-blitz-episode-16]]: Sixteenth episode of The Blitz, May 9, 2026, framing the week's news as the accelerating march for American Justice and Accountability. (Created: 2026-08-02)
 - [[badlands-blitz-episode-17]]: Seventeenth episode of The Blitz, May 16, 2026, on a prospective Trump–Xi alliance and the mainstreaming of election denial. (Created: 2026-08-02)
 - [[badlands-blitz-episode-18]]: Eighteenth episode of The Blitz, May 23, 2026, on the commutation of Tina Peters' sentence and coming speech laws. (Created: 2026-08-02)
+- [[badlands-blitz-episode-19]]: Nineteenth episode of The Blitz, May 30, 2026, on Trump-Iran diplomacy, the media's belated recognition of the game, and multipolar stability. (Created: 2026-08-03)
+- [[badlands-blitz-episode-20]]: Twentieth episode of The Blitz, June 6, 2026, on "fake diagnostics" of the Trump presidency, American sovereignty, and remembering the original MAGA mission. (Created: 2026-08-03)
+- [[badlands-blitz-episode-21]]: Twenty-first episode of The Blitz, June 13, 2026, on "Trump's trap," the "Fake Iran War," and the construction of a multipolar world. (Created: 2026-08-03)
+- [[badlands-blitz-episode-2]]: Second episode of The Blitz, January 17, 2026, subtitled "Info War Victory Laps & the Dismantling of Legacy Media." (Created: 2026-08-03)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
@@ -805,6 +809,7 @@
 - [[manifest-destiny]]: American expansion doctrine, presented in the corpus as an originally republican idea later perverted into imperialism and now revived in Eurasia. (Created: 2026-08-02)
 - [[mark-of-the-beast]]: Revelation's economic discriminator, matched in the corpus to vaccine passports and central bank digital currencies. (Created: 2026-08-02)
 - [[marshall-plan]]: Post-WWII U.S. European recovery program whose labor provisions the corpus says conditioned aid on anti-leftist union reforms in recipient countries. (Created: 2026-08-01)
+- [[media-industrial-complex]]: Badlands term for the integrated establishment press apparatus treated as an instrument of coordinated narrative management. (Created: 2026-08-03)
 - [[memorandum-of-notification]]: The August 1998 Clinton covert-action authorization that, per the corpus, permitted "lethal activity" against Osama Bin Laden while forbidding killing him as the object of an attack. (Created: 2026-08-01)
 - [[military-industrial-complex]]: The defense-industrial network the corpus says the press serves rather than scrutinizes. (Created: 2026-08-01)
 - [[millennial-reign]]: Thousand-year reign of Christ following Satan's binding, paralleled in the corpus with Bitcoin's keys and timechain. (Created: 2026-08-02)

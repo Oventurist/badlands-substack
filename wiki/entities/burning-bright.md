@@ -1,10 +1,10 @@
 ---
 title: Burning Bright
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md]
 confidence: medium
 contested: false
 ---
@@ -51,3 +51,6 @@ This page draws on multiple source articles:
 - [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
 - [badlands blitz episode 15](https://badlands.substack.com/p/badlands-blitz-episode-15)
 - [badlands blitz episode 16](https://badlands.substack.com/p/badlands-blitz-episode-16)
+- [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
+- [badlands blitz episode 20](https://badlands.substack.com/p/badlands-blitz-episode-20)
+- [badlands blitz episode 21](https://badlands.substack.com/p/badlands-blitz-episode-21)

@@ -1,10 +1,10 @@
 ---
 title: The Blitz
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [badlands-media, media-program, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md]
 confidence: high
 contested: false
 ---
@@ -24,6 +24,8 @@ The Blitz was introduced as part of an effort described in the source to give th
 
 ## Later episodes
 
+[[badlands-blitz-episode-2|Episode 2]], "Info War Victory Laps & the Dismantling of Legacy Media," appeared on January 17, 2026 and marked the Blitz debut of [[ashe-in-america|Ashe in America]] as a host. Alongside a discussion of "the original intentions behind the recent changes made around these parts" and how the vision for the Brief and the Blitz might evolve, the hosts both endorsed and criticized the practice of "Info War Victory Laps," took two of their own — on "Venezuelan Proxy Princesses" and on high-stakes US court cases — and assessed how the [[information-war|information war]] had evolved and "Devolved in places." The post also revised the running-time target downward, describing the show as "intended to get CLOSE to being a 60-minute show" with a buffer while the format settled.
+
 By [[badlands-blitz-episode-10|Episode 10]], published March 14, 2026, the program had begun departing from its strict recap format: that installment set "micro topics" aside so that [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] could devote the whole show to divisions within the [[truth-community|Truth Community]]. The free-to-view, subscription-supported model described at launch remained unchanged.
 
 [[badlands-blitz-episode-11|Episode 11]], "Iran, NATO and the Invisible Enemy," followed on March 21, 2026 with Burning Bright and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] as hosts, returning the show to geopolitical analysis by way of the Iran War, the [[sovereign-alliance|Sovereign Alliance]], and the [[invisible-enemy|Invisible Enemy]]. That post again described The Blitz as "a weekly recap and dissection of the work we do Monday through Friday in the Badlands Brief" and pointed to a "step-up" in the team's output for 2026.
@@ -42,6 +44,8 @@ By [[badlands-blitz-episode-10|Episode 10]], published March 14, 2026, the progr
 
 [[badlands-blitz-episode-18|Episode 18]], "Tina Peters Coming Out; Speech Laws Coming In," followed on May 23, 2026 with [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] and Ashe in America hosting. It covered the commutation of [[tina-peters|Tina Peters]]' sentence and "the coming ban on antisemitism and other speech laws," together with geopolitics and what the post calls "expectations for the golden age." The announcement is notable for an apology for the episode's delayed release, attributed to "a miscommunication" — the first such note in the series as captured in the corpus.
 
+[[badlands-blitz-episode-19|Episode 19]], "The Media Guesses the Game ... Too Late," followed on May 30, 2026, hosted by [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]]. It addressed "the ongoing flirtation between the Trump Administration and the Real, but also Fake Iranian Regime," the belated recognition by "select segments of the [[media-industrial-complex|Media Industrial Complex]]" of the strategic picture Badlands writers claim to have described in advance, and the long-run requirements for stability in a multipolar world.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -56,3 +60,7 @@ This page draws on multiple source articles:
 - [badlands blitz episode 16](https://badlands.substack.com/p/badlands-blitz-episode-16)
 - [badlands blitz episode 17](https://badlands.substack.com/p/badlands-blitz-episode-17)
 - [badlands blitz episode 18](https://badlands.substack.com/p/badlands-blitz-episode-18)
+- [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
+- [badlands blitz episode 2](https://badlands.substack.com/p/badlands-blitz-episode-2)
+- [badlands blitz episode 20](https://badlands.substack.com/p/badlands-blitz-episode-20)
+- [badlands blitz episode 21](https://badlands.substack.com/p/badlands-blitz-episode-21)
