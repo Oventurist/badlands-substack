@@ -195,3 +195,10 @@
 ## [2026-08-03] ingest | Badlands Blitz Episode 5 -> created: [badlands-blitz-episode-5, new-start-treaty, sovereign-signal, epstein-narrative], updated: [the-blitz, badlands-brief, ghost-of-patrick-henry]
 
 ## [2026-08-03] ingest | Badlands Blitz Episode 6 -> created: [badlands-blitz-episode-6], updated: [ashe-in-america]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 7 -> created: [badlands-blitz-episode-7, prince-andrew, alien-disclosure-op, deep-state-burn-cards, narrative-and-actual-deployments], updated: [the-blitz, badlands-brief, ghost-of-patrick-henry, epstein-narrative]
+
+## [2026-08-03] ingest | Badlands Blitz Episode 8 -> created: [badlands-blitz-episode-8], updated: [the-blitz, badlands-brief, ashe-in-america, ghost-of-patrick-henry, burning-bright]
+
+
+## [2026-08-03] ingest | Badlands Blitz Episode 9 -> created: [badlands-blitz-episode-9], updated: [the-blitz, badlands-brief, burning-bright, ashe-in-america, ghost-of-patrick-henry, new-world-order]

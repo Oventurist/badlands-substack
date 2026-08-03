@@ -1,10 +1,10 @@
 ---
 title: New World Order
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [globalism, world-government, cabal, 5gw]
-sources: [raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md]
 confidence: low
 contested: true
 ---
@@ -20,4 +20,7 @@ In the extended fictional scenario the model developed, the [[cabal|cabal]] purs
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+This page draws on multiple source articles:
+
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [badlands blitz episode 9](https://badlands.substack.com/p/badlands-blitz-episode-9)

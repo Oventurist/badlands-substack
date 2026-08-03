@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, media-program, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md]
 confidence: high
 contested: false
 ---
@@ -73,3 +73,6 @@ This page draws on multiple source articles:
 - [badlands blitz episode 3](https://badlands.substack.com/p/badlands-blitz-episode-3)
 - [badlands blitz episode 4](https://badlands.substack.com/p/badlands-blitz-episode-4)
 - [badlands blitz episode 5](https://badlands.substack.com/p/badlands-blitz-episode-5)
+- [badlands blitz episode 7](https://badlands.substack.com/p/badlands-blitz-episode-7)
+- [badlands blitz episode 8](https://badlands.substack.com/p/badlands-blitz-episode-8)
+- [badlands blitz episode 9](https://badlands.substack.com/p/badlands-blitz-episode-9)

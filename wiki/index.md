@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-03 | Total pages: 920
+> Last updated: 2026-08-03 | Total pages: 927
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -451,6 +451,7 @@
 - [[pierre-beaudry]]: Canadian-born historian whose pioneering studies of Benjamin West underpin the essay "A New American Renaissance." (Created: 2026-08-01)
 - [[populist-party]]: Late-19th-century party that demanded a graduated income tax and allegedly convinced Aldrich to pursue central banking. (Created: 2026-08-01)
 - [[prince-alwaleed]]: Saudi businessman and member of the Saudi royal family; framed in the source as a key node in the covert network that diverted Iraqi reconstruction cash to terrorist organizations. (Created: 2026-08-01)
+- [[prince-andrew]]: British royal whose Epstein entanglement is cast as the affair's inflection point. (Created: 2026-08-03)
 - [[pritzker-family]]: Billionaire dynasty described as "the money behind Obama world" and part of the establishment backing Hillary Clinton. (Created: 2026-08-02)
 - [[project-for-a-new-american-century]]: Neoconservative think tank founded in 1997 by William Kristol and Robert Kagan; described as the intellectual engine of American regime change. (Created: 2026-08-02)
 - [[prophet-daniel]]: Old Testament prophet whose seventieth week and visions of an oppressive ruler underpin Tribulation and Antichrist readings. (Created: 2026-08-02)
@@ -672,6 +673,7 @@
 - [[a-week-to-remember]]: July 2024 Erik Carlson essay arguing that Trump's tax-free tips pledge, not Biden's debate, triggered the Deep State's panic. (Created: 2026-08-02)
 - [[agreed-framework]]: Clinton's October 1994 nuclear accord with North Korea, framed in the corpus as an oil-for-nothing arrangement that accelerated rather than halted proliferation. (Created: 2026-08-02)
 - [[ai-can-help-us-expose-the-nwo]]: January 2024 Badlands essay by Justin Deschamps documenting his use of ChatGPT to map the warfare described in the Toronto Protocols. (Created: 2026-08-02)
+- [[alien-disclosure-op]]: Trump-attributed extraterrestrial disclosure initiative read as staged yet partly genuine. (Created: 2026-08-03)
 - [[all-assets-deployed]]: November 16, 2022 Badlands Media essay by Burning Bright on the post-midterm mood, Trump's 2024 announcement, and separating America First from controlled opposition. (Created: 2026-08-02)
 - [[always-fight-back]] — Ashe in America's account of defeating the NAACP/League of Women Voters lawfare suit in Colorado
 - [[america-first]]: Political movement and program associated with Donald Trump, emphasizing sovereignty and opposition to globalist institutions. (Created: 2026-08-02)
@@ -721,6 +723,9 @@
 - [[badlands-blitz-episode-4]]: Fourth episode of The Blitz, January 31, 2026, subtitled "Color Revolutions Come Home to Roost." (Created: 2026-08-03)
 - [[badlands-blitz-episode-5]]: Fifth episode of The Blitz, February 7, 2026, subtitled "The END of the START …," covering Iran's nuclear file and the end of New START. (Created: 2026-08-03)
 - [[badlands-blitz-episode-6]]: Sixth episode of The Blitz, February 14, 2026, subtitled "The Info War Ouroboros," with Ashe in America. (Created: 2026-08-03)
+- [[badlands-blitz-episode-7]]: Seventh episode of The Blitz, February 21, 2026, on the Epstein Web, Trump's alien disclosure op and US-Iran. (Created: 2026-08-03)
+- [[badlands-blitz-episode-8]]: Eighth episode of The Blitz, February 28, 2026, hosted by Ashe in America and GhostofBasedPatrickHenry while Burning Bright dug out from a blizzard. (Created: 2026-08-03)
+- [[badlands-blitz-episode-9]]: Ninth episode of The Blitz, March 7, 2026, subtitled "The New World Order is Dying … The New World is Beginning," with Burning Bright and GhostofBasedPatrickHenry. (Created: 2026-08-03)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
@@ -768,6 +773,7 @@
 - [[debt-slavery]]: Condition in which taxation, inflation and borrowing leave citizens financially dependent and therefore politically compliant; presented in the corpus as the purpose rather than the byproduct of fiscal policy. (Created: 2026-08-02)
 - [[declaration-of-independence]]: 1776 founding document treated in the corpus as the source of American values and of authority derived from God. (Created: 2026-08-01)
 - [[deep-state]]: Unelected network said to direct government policy, topped in the corpus by the City of London. (Created: 2026-08-01)
+- [[deep-state-burn-cards]]: Figures sacrificed by entrenched interests to protect the wider network. (Created: 2026-08-03)
 - [[deepfake]]: AI-generated synthetic audio, image or video of a real person; the corpus notes three seconds of audio suffices to clone a voice. (Created: 2026-08-02)
 - [[democracy-promotion]]: Term defined critically in the corpus as code for regime destabilization and conforming nations to the will of the international foreign policy establishment, institutionalized through the NED network. (Created: 2026-08-01)
 - [[devolution]]: Jon Herold's theory that red-line national security functions were placed under continuity protection after 2020. (Created: 2026-08-02)
@@ -831,6 +837,7 @@
 - [[multipolar-alliance]]: Term for the grouping of states around Russia, China and India pursuing sovereignty-based, win-win development. (Created: 2026-08-01)
 - [[naacp-v-useip]] — 2022-2024 Colorado voter-intimidation suit decided for the defendants under Rule 52(c)
 - [[nafta]]: The North American Free Trade Agreement (NAFTA) was a trade agreement between the United States, Canada, and Mexico that eliminated most tariffs and trade barriers among the three countries. (Created: 2026-08-01)
+- [[narrative-and-actual-deployments]]: The paired categories used to sort each week's events on The Blitz. (Created: 2026-08-03)
 - [[narrative-warfare]]: Conflict waged through the construction and collapse of stories about events rather than the events themselves. (Created: 2026-08-02)
 - [[neo-marxism]]: The transposition of Marxist class conflict into identity and environmental categories, pursued through institutions rather than revolution. (Created: 2026-08-02)
 - [[new-deal]]: 1930s U.S. program of protectionism, bank regulation and state credit, offered in the corpus as the sovereignty-empowering counter-model to the Green New Deal. (Created: 2026-08-01)
