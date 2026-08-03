@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [badlands-media, citizen-journalism, authors, saudi-arabia]
-sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-11.md]
+sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-15.md]
 confidence: medium
 contested: false
 ---
@@ -26,6 +26,10 @@ GhostofBasedPatrickHenry co-hosted [[badlands-blitz-episode-1|the debut episode]
 
 He returned to the program for [[badlands-blitz-episode-11|Episode 11]], "Iran, NATO and the Invisible Enemy," on March 21, 2026, appearing alongside [[burning-bright|Burning Bright]] to discuss the Iran War, the [[sovereign-alliance|Sovereign Alliance]], the [[invisible-enemy|Invisible Enemy]], and the risks of sorting the figures around [[donald-trump|Donald Trump]] into white hats and black hats.
 
+He appeared again on [[badlands-blitz-episode-13|Episode 13]], "Is the Real Fake War Ending ... Or Only Just Beginning?", published April 18, 2026, once more paired with Burning Bright. The two spent the full hour on President Donald Trump's "Friday morning blitzkrieg of the Info War battlespace" and on the argument that the ending of the war with [[iran|Iran]] had been decided before it was fought.
+
+On May 2, 2026 he co-hosted [[badlands-blitz-episode-15|Episode 15]], "Dissolution of the Global Cartel," again with Burning Bright. The pair used the dispute between the Trump administration and the [[congress|United States Congress]] over the Iran War to ask when a war is and is not happening, before turning to the episode's central argument that the Middle East and South America are linked fronts in the dismantling of the [[global-cartel|Global Cartel]] on kinetic, financial and energy grounds.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +37,5 @@ This page draws on multiple source articles:
 - [arabian nights](https://badlands.substack.com/p/arabian-nights)
 - [badlands blitz episode 1](https://badlands.substack.com/p/badlands-blitz-episode-1)
 - [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
+- [badlands blitz episode 13](https://badlands.substack.com/p/badlands-blitz-episode-13)
+- [badlands blitz episode 15](https://badlands.substack.com/p/badlands-blitz-episode-15)

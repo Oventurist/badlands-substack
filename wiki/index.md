@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 880
+> Last updated: 2026-08-02 | Total pages: 888
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -525,6 +525,8 @@
 - [[softbank]]: Japanese investment holding company named as a partner in Project Stargate. (Created: 2026-08-01)
 - [[solidarity-center]]: International arm of the AFL-CIO (formed 1997), described in the corpus as NED/CIA influence over labor unions, receiving $30-50 million annually from NED and USAID to shape labor movements in strategic nations. (Created: 2026-08-01)
 - [[sony]]: Japanese conglomerate listed among the Big Six owners of mainstream media. (Created: 2026-08-01)
+- [[southern-poverty-law-center]]: Alabama-based legal advocacy nonprofit and hate-group designator; subject of an indictment reported as the lead story of Badlands Blitz Episode 14. (Created: 2026-08-02)
+- [[spirit-airlines]]: Distressed American ultra-low-cost carrier whose courtship by Trump the Blitz hosts read as strategically motivated. (Created: 2026-08-02)
 - [[sports-illustrated]]: Sports magazine whose staff was laid off in early 2024; the article's example of a media death certificate already signed. (Created: 2026-08-01)
 - [[standard-oil]]: Rockefeller monopoly broken into 34 entities by the Supreme Court in 1911; invoked as the antitrust template for today's big tech. (Created: 2026-08-02)
 - [[starbucks]]: Coffeehouse chain used in the corpus as the leading illustration of the deliberate engineering of social atomization. (Created: 2026-08-02)
@@ -699,6 +701,9 @@
 - [[badlands-blitz-episode-10]]: Tenth episode of The Blitz, March 14, 2026, subtitled "On the Total Discombobulation of the Truth Community." (Created: 2026-08-02)
 - [[badlands-blitz-episode-11]]: Eleventh episode of The Blitz, March 21, 2026, subtitled "Iran, NATO and the Invisible Enemy." (Created: 2026-08-02)
 - [[badlands-blitz-episode-12]]: Twelfth episode of The Blitz, March 28, 2026, subtitled "The Fake and Gay, but Also Real and Serious War." (Created: 2026-08-02)
+- [[badlands-blitz-episode-13]]: Thirteenth episode of The Blitz, April 18, 2026, arguing the ending of the Iran war was decided before it was fought. (Created: 2026-08-02)
+- [[badlands-blitz-episode-14]]: Fourteenth episode of The Blitz, April 25, 2026, on the SPLC indictment, Russiagate's unraveling, TACO, and Spirit Airlines. (Created: 2026-08-02)
+- [[badlands-blitz-episode-15]]: Fifteenth episode of The Blitz, May 2, 2026, on the Trump–Congress Iran War dispute and the claimed dismantling of the Global Cartel. (Created: 2026-08-02)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
@@ -765,6 +770,7 @@
 - [[future-of-work]]: Corporate and consultancy term for the automation-driven restructuring of employment, read in the corpus as a design document for a world with fewer jobs than people. (Created: 2026-08-01)
 - [[gangster-rap]]: Late-1980s hip-hop subgenre alleged to have been engineered by the FBI and CIA to fill privatized prisons. (Created: 2026-08-01)
 - [[glass-steagall-act]]: 1933 U.S. law separating commercial from speculative banking; its 1999 repeal is blamed in the corpus for a $700 trillion derivatives bubble. (Created: 2026-08-01)
+- [[global-cartel]]: Badlands term for a transnational narcotics, financial and energy structure said to be dismantled across the Middle East and South America. (Created: 2026-08-02)
 - [[gold-standard]]: Monetary system backed by gold; framed as the perfect hard-money era from 1873–1933 that bankers destroyed. (Created: 2026-08-01)
 - [[great-american-restoration-tour]]: Badlands Media's travelling multi-day live event series pairing panels with informal local excursions. (Created: 2026-08-01)
 - [[great-reset]]: Technocratic supranational reorganisation the corpus opposes, said to require rewriting the UN Charter. (Created: 2026-08-01)
@@ -837,6 +843,7 @@
 - [[rhodes-scholarship]]: Oxford scholarship founded in 1902, described in the corpus as the recruitment mechanism of a British imperial cadre of over 7,000 scholars. (Created: 2026-08-01)
 - [[rule-of-law]]: Principle that law must be knowable by those bound by it, held in the corpus to be absent in modern America. (Created: 2026-08-01)
 - [[rules-based-international-order]]: Western formula the corpus contrasts unfavourably with the UN Charter, characterised as arbitrary and unipolar. (Created: 2026-08-01)
+- [[russiagate]]: The 2016-era Trump–Russia collusion investigations, described throughout the corpus as a manufactured "hoax" now unraveling. (Created: 2026-08-02)
 - [[russian-reset]]: The Obama administration's 2009 diplomatic overture to Russia, described in the corpus as narrative preparation clearing the path for the Uranium One sale. (Created: 2026-08-02)
 - [[sanctions]]: Economic sanctions, presented in the corpus not as punishment but as a deliberate mechanism creating closed financial systems for covert CIA finance. (Created: 2026-08-02)
 - [[satanic-inversion]]: The reversal of moral categories — good presented as oppressive, destruction as liberation — identified as the cabal's signature method. (Created: 2026-08-02)
@@ -854,6 +861,7 @@
 - [[stockholm-syndrome]]: Psychological condition of captives defending their captors, applied in the corpus as a diagnosis of the American electorate. (Created: 2026-08-02)
 - [[sunni-islam]]: Majority branch holding that Muhammad named no heir; centred on Saudi Arabia, Jordan and Syria. (Created: 2026-08-02)
 - [[sword-dance]]: Trump's May 2017 ardah in Riyadh, treated in the corpus as an iconic and Q-highlighted event. (Created: 2026-08-02)
+- [[taco-trade]]: The "Trump Always Chickens Out" market trope, rejected by Badlands hosts as a misreading of Trump's negotiating method. (Created: 2026-08-02)
 - [[tax-free-tips]]: Trump 2024 proposal to exempt gratuities from tax, read in the corpus as the opening move toward abolishing the income tax and a signal to the Deep State. (Created: 2026-08-02)
 - [[technological-singularity]]: The hypothetical point at which AI capability and expansion become uncontrollable and irreversible. (Created: 2026-08-02)
 - [[the-ai-dilemma]]: March 2023 Center for Humane Technology presentation on catastrophic AI risk, viewed over 2.7 million times. (Created: 2026-08-02)

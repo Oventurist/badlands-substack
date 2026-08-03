@@ -164,3 +164,6 @@
 ## [2026-08-02] ingest | Badlands Blitz Episode 11 -> created: [badlands-blitz-episode-11, invisible-enemy, sovereign-alliance], updated: [the-blitz, badlands-brief, burning-bright, ghost-of-patrick-henry, iran, nato, 5th-generation-warfare, index]
 
 ## [2026-08-02] ingest | Badlands Blitz Episode 12 -> created: [badlands-blitz-episode-12, narrative-warfare, sovereign-disentanglement, first-principles, ali-khamenei], updated: [burning-bright, ashe-in-america, the-blitz]
+## [2026-08-02] ingest | Badlands Blitz Episode 13 -> created: [badlands-blitz-episode-13], updated: [the-blitz, burning-bright, ghost-of-patrick-henry]
+## [2026-08-02] ingest | Badlands Blitz Episode 14 -> created: [badlands-blitz-episode-14, russiagate, taco-trade, southern-poverty-law-center, spirit-airlines], updated: [the-blitz, burning-bright, ashe-in-america, index]
+## [2026-08-02] ingest | Badlands Blitz Episode 15 -> created: [badlands-blitz-episode-15, global-cartel], updated: [the-blitz, burning-bright, ghost-of-patrick-henry, index]

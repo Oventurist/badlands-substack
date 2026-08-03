@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md]
 confidence: medium
 contested: false
 ---
@@ -30,6 +30,8 @@ In the August 13, 2024 essay [[always-fight-back|"Always Fight Back"]] she recou
 
 Ashe in America is a recurring host of [[the-blitz|The Blitz]]. With [[burning-bright|Burning Bright]] she co-hosted [[badlands-blitz-episode-12|Badlands Blitz Episode 12]], "The Fake and Gay, but Also Real and Serious War," published March 28, 2026, which took the contradictory narratives surrounding [[ali-khamenei|Ayatollah Ali Khamenei]] and the war involving [[iran|Iran]] as the opening for a discussion of [[narrative-warfare|Narrative Warfare]], [[sovereign-disentanglement|Sovereign Disentanglement]] and [[first-principles|First Principles]] in a [[truth-community|Truth Community]] the hosts said had forgotten them.
 
+She rejoined Burning Bright for [[badlands-blitz-episode-14|Badlands Blitz Episode 14]], "The Dawning Age of American Accountability," published April 25, 2026. The episode surveyed the week's news as "all white pills," beginning with the indictment of the [[southern-poverty-law-center|Southern Poverty Law Center]] and moving through the unraveling of [[russiagate|Russiagate]], the [[taco-trade|"TACO Tuesday"]] critique of [[donald-trump|Donald Trump]], and Trump's overtures toward [[spirit-airlines|Spirit Airlines]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -41,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 1](https://badlands.substack.com/p/badlands-blitz-episode-1)
 - [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
 - [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)
+- [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)

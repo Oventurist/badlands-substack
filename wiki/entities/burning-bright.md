@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md]
 confidence: medium
 contested: false
 ---
@@ -30,6 +30,12 @@ Burning Bright co-hosted [[badlands-blitz-episode-11|Badlands Blitz Episode 11]]
 
 A week later he returned to the program with [[ashe-in-america|Ashe in America]] for [[badlands-blitz-episode-12|Badlands Blitz Episode 12]], "The Fake and Gay, but Also Real and Serious War," published March 28, 2026. That episode used the contradictory accounts circulating about [[ali-khamenei|Ayatollah Ali Khamenei]] as a point of departure for a discussion of [[narrative-warfare|Narrative Warfare]], [[sovereign-disentanglement|Sovereign Disentanglement]] and [[first-principles|First Principles]], arguing that both the wider world and the [[truth-community|Truth Community]] had forgotten them.
 
+On April 18, 2026 he co-hosted [[badlands-blitz-episode-13|Badlands Blitz Episode 13]], "Is the Real Fake War Ending ... Or Only Just Beginning?", again with GhostofBasedPatrickHenry. The announcement says the two spent the entire hour on Donald Trump's "Friday morning blitzkrieg of the Info War battlespace," maintaining that the ending of the war with [[iran|Iran]] "was decided before it was fought" even though the global mindscape had yet to accept it.
+
+A week later, on April 25, 2026, he co-hosted [[badlands-blitz-episode-14|Badlands Blitz Episode 14]], "The Dawning Age of American Accountability," with [[ashe-in-america|Ashe in America]]. Writing that the week's news was "all white pills from our perspective," he introduced segments on the indictment of the [[southern-poverty-law-center|Southern Poverty Law Center]], the unraveling of [[russiagate|Russiagate]], the [[taco-trade|"TACO Tuesday"]] misreading of Trump, and Trump's overtures toward [[spirit-airlines|Spirit Airlines]], adding the aside that "Ashe loves when I pick the goofiest thumnails."
+
+On May 2, 2026 he returned with [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] for [[badlands-blitz-episode-15|Badlands Blitz Episode 15]], "Dissolution of the Global Cartel," using the Trump administration's dispute with the [[congress|United States Congress]] over the Iran War to probe when a war is and is not happening, and arguing that the Middle East and South America are joined fronts in the dismantling of the [[global-cartel|Global Cartel]] on kinetic, financial and energy grounds.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -39,3 +45,6 @@ This page draws on multiple source articles:
 - [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
 - [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
 - [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)
+- [badlands blitz episode 13](https://badlands.substack.com/p/badlands-blitz-episode-13)
+- [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
+- [badlands blitz episode 15](https://badlands.substack.com/p/badlands-blitz-episode-15)

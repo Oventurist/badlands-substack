@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [badlands-media, media-program, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md]
 confidence: high
 contested: false
 ---
@@ -30,6 +30,12 @@ By [[badlands-blitz-episode-10|Episode 10]], published March 14, 2026, the progr
 
 [[badlands-blitz-episode-12|Episode 12]], "The Fake and Gay, but Also Real and Serious War," appeared on March 28, 2026 with Burning Bright and Ashe in America hosting. It opened on the irreconcilable claims then circulating about [[ali-khamenei|Ayatollah Ali Khamenei]] before turning to [[narrative-warfare|Narrative Warfare]], [[sovereign-disentanglement|Sovereign Disentanglement]] and [[first-principles|First Principles]] — a pattern, consistent across the later episodes, of using a topical controversy as an entry point to the program's standing analytical themes.
 
+[[badlands-blitz-episode-13|Episode 13]], "Is the Real Fake War Ending ... Or Only Just Beginning?", appeared on April 18, 2026 with Burning Bright and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] hosting. The pair devoted the entire hour to a single subject — Donald Trump's "Friday morning blitzkrieg of the Info War battlespace" — and to the claim that the outcome of the Iran war had been decided before it was fought, confirming the program's settled preference for extended single-theme discussion over segmented recap.
+
+[[badlands-blitz-episode-14|Episode 14]], "The Dawning Age of American Accountability," followed on April 25, 2026 with Burning Bright and [[ashe-in-america|Ashe in America]] hosting. It returned to the multi-topic recap format, covering the indictment of the [[southern-poverty-law-center|Southern Poverty Law Center]], the unraveling of [[russiagate|Russiagate]], the [[taco-trade|"TACO Tuesday"]] reading of Trump, and the administration's overtures toward [[spirit-airlines|Spirit Airlines]], with the hosts describing the week's news as "all white pills."
+
+[[badlands-blitz-episode-15|Episode 15]], "Dissolution of the Global Cartel," appeared on May 2, 2026 with Burning Bright and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]]. The pair used the Trump administration's dispute with the [[congress|United States Congress]] over the [[iran|Iran]] War to examine when a war can be said to be happening, then joined the "Actual and Narrative threads" between the Middle East and South America in support of the claim that the [[global-cartel|Global Cartel]] is being dismantled on kinetic, financial and energy grounds.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -38,3 +44,6 @@ This page draws on multiple source articles:
 - [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
 - [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
 - [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)
+- [badlands blitz episode 13](https://badlands.substack.com/p/badlands-blitz-episode-13)
+- [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
+- [badlands blitz episode 15](https://badlands.substack.com/p/badlands-blitz-episode-15)
