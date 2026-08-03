@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [fbi, record-labels, gangster-rap, cointelpro-style-operations]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md]
 confidence: medium
 contested: true
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)

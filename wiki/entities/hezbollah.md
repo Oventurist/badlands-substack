@@ -7,7 +7,7 @@ tags:
   - lebanon
   - terrorism
   - iran
-sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md]
 confidence: medium
 contested: true
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 
 - [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)

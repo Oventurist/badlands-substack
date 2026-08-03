@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [epstein, trafficking, blackmail, doj-files, intelligence]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md]
 confidence: high
 contested: true
 ---
@@ -28,4 +28,7 @@ The Brief highlights an email in the release in which Epstein refers to Trump as
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)

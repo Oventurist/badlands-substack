@@ -7,7 +7,7 @@ tags:
   - cia
   - counter-terrorism
   - benghazi
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md]
 confidence: medium
 contested: true
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 
 - [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [attorney-general, department-of-justice, appointments, prosecutions]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md]
 confidence: high
 contested: false
 ---
@@ -19,4 +19,7 @@ The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that when loca
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)

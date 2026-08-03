@@ -1,10 +1,10 @@
 ---
 title: NAACP
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [civil-rights, advocacy-organization, litigation, voting-rights]
-sources: [raw/always-fight-back.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-0a2.md]
 confidence: medium
 contested: false
 ---
@@ -16,4 +16,7 @@ That suit, filed on March 9, 2022 together with the [[league-of-women-voters|Lea
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/always-fight-back)
+This page draws on multiple source articles:
+
+- [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)

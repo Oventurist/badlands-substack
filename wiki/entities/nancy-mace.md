@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [politician, republican, south-carolina, congress]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-0a2.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ Mace finished last in a six-candidate Republican primary for governor of South C
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)

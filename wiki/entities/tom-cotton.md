@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [senator, republican, arkansas, intelligence, israel]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-0a2.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,7 @@ Tom Cotton is a Republican United States Senator from Arkansas who has served in
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)

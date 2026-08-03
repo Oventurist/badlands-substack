@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [nuclear-weapons, arms-control, russia, geopolitics]
-sources: [raw/badlands-blitz-episode-5.md]
+sources: [raw/badlands-blitz-episode-5.md, raw/badlands-brief-0a2.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ The source does not narrate the treaty's provisions; it treats its ending as a t
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-5)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 5](https://badlands.substack.com/p/badlands-blitz-episode-5)
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
