@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [platform, social-media, trump, free-speech]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 
 - [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

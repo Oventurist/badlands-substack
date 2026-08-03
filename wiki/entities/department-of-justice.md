@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

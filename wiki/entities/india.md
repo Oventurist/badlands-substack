@@ -1,10 +1,10 @@
 ---
 title: India
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [india, geopolitics, south-asia, regime-change]
-sources: [raw/and-iran-iran-so-far-away.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ India is listed among the world's largest and most consequential countries that 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+This page draws on multiple source articles:
+
+- [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

@@ -1,10 +1,10 @@
 ---
 title: Multipolar Alliance
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: concept
 tags: [multipolarity, geopolitics, sovereignty, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 
 - [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 - [a look at recent features](https://badlands.substack.com/p/a-look-at-recent-features)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

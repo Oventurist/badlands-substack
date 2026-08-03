@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [geography, energy, iran, maritime]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: false
 ---
@@ -22,3 +22,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

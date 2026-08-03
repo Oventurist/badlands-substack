@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [media, talk-radio, commentator, israel]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ The Brief also disputes a historical claim associated with Levin's commentary on
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

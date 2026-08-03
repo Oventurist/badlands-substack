@@ -1,10 +1,10 @@
 ---
 title: Badlands Blitz Episode 10
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [badlands-media, media-program, truth-community, information-warfare, substack]
-sources: [raw/badlands-blitz-episode-10.md]
+sources: [raw/badlands-blitz-episode-10.md, raw/badlands-brief-095.md]
 confidence: high
 contested: false
 ---
@@ -28,4 +28,7 @@ Consistent with the rest of the series, the post reiterates that "all Badlands c
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-10)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

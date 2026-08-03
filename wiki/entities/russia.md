@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [russia, geopolitics, sanctions, ukraine, energy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -35,3 +35,4 @@ This page draws on multiple source articles:
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

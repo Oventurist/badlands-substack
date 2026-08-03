@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [activist, media, israel, maga]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,7 @@ In [[badlands-brief-029|the June 12, 2026 Badlands Brief]], Loomer is described 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

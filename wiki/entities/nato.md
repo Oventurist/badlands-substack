@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [agency, foreign-policy]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -44,3 +44,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 24](https://badlands.substack.com/p/badlands-blitz-episode-24)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

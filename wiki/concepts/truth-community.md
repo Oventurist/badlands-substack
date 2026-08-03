@@ -1,10 +1,10 @@
 ---
 title: Truth Community
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [truth-community, information-warfare, alternative-media, citizen-journalism, badlands-media]
-sources: [raw/badlands-blitz-episode-10.md]
+sources: [raw/badlands-blitz-episode-10.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ The episode extends the same critique backward in time by asking what people "ge
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-10)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

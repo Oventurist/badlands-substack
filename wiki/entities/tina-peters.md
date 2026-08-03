@@ -1,10 +1,10 @@
 ---
 title: Tina Peters
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [election-integrity, colorado, clemency, political-prisoner]
-sources: [raw/badlands-blitz-episode-18.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -23,4 +23,7 @@ According to the announcement for [[badlands-blitz-episode-18|Badlands Blitz Epi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-18)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 18](https://badlands.substack.com/p/badlands-blitz-episode-18)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

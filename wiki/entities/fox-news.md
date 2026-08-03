@@ -1,10 +1,10 @@
 ---
 title: Fox News
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [outlet, cable-news, conservative-media, media-criticism]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ The essay also notes that "the Fox News crowd won't touch the difficult, but imp
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+This page draws on multiple source articles:
+
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

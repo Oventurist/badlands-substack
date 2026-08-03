@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [venezuela, latin-america, regime-change, sovereignty]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -27,4 +27,7 @@ An EU Commission spokesperson reportedly said the [[european-union|European Unio
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

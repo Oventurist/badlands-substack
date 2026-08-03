@@ -1,10 +1,10 @@
 ---
 title: Sun Tzu
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, strategy, military-theory, historical]
-sources: [raw/all-assets-deployed.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: false
 ---
@@ -20,4 +20,7 @@ The citation supports the essay's broader argument that apparent setbacks — a 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/all-assets-deployed)
+This page draws on multiple source articles:
+
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

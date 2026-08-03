@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [china, geopolitics, belt-and-road, energy, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

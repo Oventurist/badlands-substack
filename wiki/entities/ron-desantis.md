@@ -1,10 +1,10 @@
 ---
 title: Ron DeSantis
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, administration]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-glaring-double-standard.md, raw/all-assets-deployed.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-glaring-double-standard.md, raw/all-assets-deployed.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: true
 ---
@@ -37,3 +37,4 @@ This page draws on multiple source articles:
 - [a communist plot to take over america](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 - [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

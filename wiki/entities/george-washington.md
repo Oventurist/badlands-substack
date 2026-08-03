@@ -1,10 +1,10 @@
 ---
 title: George Washington
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [american-history, president, founding-father, continental-congress, natural-law]
-sources: [raw/avoiding-wwiii.md]
+sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md]
 confidence: medium
 contested: false
 ---
@@ -22,4 +22,7 @@ Washington is credited in the article with understanding that America's founding
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/avoiding-wwiii)
+This page draws on multiple source articles:
+
+- [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)

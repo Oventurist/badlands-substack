@@ -1,10 +1,10 @@
 ---
 title: First Amendment
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [constitution, free-speech, press-freedom, law]
-sources: [raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/badlands-brief-095.md]
 confidence: high
 contested: false
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
 - [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
