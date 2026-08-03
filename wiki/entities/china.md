@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-05
 type: entity
 tags: [china, geopolitics, belt-and-road, energy, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,11 @@ Relations between China and [[israel]] had been relatively good and mutually ben
 
 The article argues that although Iran alone may be a "paper tiger" after decades of sanctions, partnership with a superpower like China could allow it to supply Iran and its proxies with more missiles than the iron dome and David's Sling could intercept in a single barrage, turning Iran into an existential threat to Israel and producing an open-ended proxy war of attrition comparable to Ukraine. It closes the section by asking what the United States would do if China chose to protect its investment: "Hot war with China?"
 
+
+## Support for Iran during the 2026 war
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that China, like [[russia|Russia]], is purportedly trying to keep [[iran|Iran]] in the fight, with both powers feeding intelligence to Tehran. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues that Beijing and Moscow have a vested interest in preventing a strategic defeat for Iran because it would reflect poorly on the coalition of alliances they have built worldwide — the [[sovereign-alliance|Sovereign Alliance]] — whose appeal to smaller states depends on demonstrated power projection. He also notes the [[shanghai-cooperation-organisation|Shanghai Cooperation Organization]]'s multibillion-dollar investment in the [[north-south-transportation-corridor|North-South Transportation Corridor]], for which Iran is the critical central node.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -36,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

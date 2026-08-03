@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [media, propaganda, narrative-warfare, badlands-media, 5gw]
-sources: [raw/badlands-blitz-episode-19.md]
+sources: [raw/badlands-blitz-episode-19.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ The term overlaps with, but is not identical to, the [[censorship-industrial-com
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-19)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

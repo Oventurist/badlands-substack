@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-05
 type: entity
 tags: [nation, geopolitics, middle-east, conspiracy-narrative]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -40,6 +40,13 @@ A minor but distinct treatment appears in *A Gateway to a New World of Cooperati
 
 Across the ingested articles, Israel functions as a charged reference point through which the corpus explores media manipulation, free speech, and elite power structures. The treatments range from geopolitical commentary on the Israel–Palestine conflict to criticism of censorship surrounding Israel's military actions, to speculative narratives about Israel's place in a [[cabal]] hierarchy. The sources are opinion and analysis pieces from the Badlands Media network rather than neutral reporting, and the claims about Israel's role in global power structures are presented by the authors as theories rather than established fact.
 
+
+## Accused of driving the Iran war (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] centers on [[joe-kent|Joe Kent]]'s resignation letter, which asserted that the war with [[iran|Iran]] was started due to pressure from Israel and its powerful American lobby, and accused high-ranking Israeli officials and influential American media of running a misinformation campaign comparable to the run-up to the [[iraq-war|Iraq War]]. [[steve-bannon|Steve Bannon]] called for an investigation into the claim that Israel controls U.S. foreign policy, and contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] asked why "all Israel dissidents in the administration are being hunted down and removed from office."
+
+The same edition reports Israel's announcement that it had eliminated Basij commander [[gholamreza-soleimani|Gholamreza Soleimani]] alongside the strike that reportedly killed [[ali-larijani|Ali Larijani]], and speculates that [[russia|Russia]] and [[china|China]] may increasingly view Israel as a threat to regional stability and to global trade and logistics.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -52,3 +59,5 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

@@ -1,10 +1,10 @@
 ---
 title: Syria
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [syria, middle-east, regime-change, civil-war]
-sources: [raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md]
+sources: [raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

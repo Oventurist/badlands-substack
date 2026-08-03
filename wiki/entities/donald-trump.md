@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-05
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -150,6 +150,13 @@ The July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering th
 
 [[badlands-blitz-episode-25|Badlands Blitz Episode 25]], published July 18, 2026 under the title "It's Treason, Then …", devotes its full runtime to what it calls Trump's "seismic" election fraud speech delivered the previous Thursday. The hosts, [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]], argue the address carried implications for the [[deep-state|Deep State]] "cabal" and marked the beginning of a phase shift in both the [[shadow-war|Shadow War]] and the [[information-war|Information War]].
 
+
+## SAVE Act push and the Iran coalition (March 2026)
+
+In the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], Trump urged [[congress|Congress]] to pass the [[save-america-act|SAVE Act]] in a [[truth-social|Truth Social]] post calling it "one of the most IMPORTANT & CONSEQUENTIAL pieces of legislation in the history of Congress, and America itself," tying it to "NO MORE RIGGED ELECTIONS," proof of citizenship, voter ID and a ban on unrestricted mail-in voting, alongside "No Men in Women's Sports, No Transgender MUTILIZATION of our Children." He warned that "only sick, demented, or deranged people in the House or Senate could vote against THE SAVE AMERICA ACT" and promised no endorsement and "a guaranteed loss" to opponents.
+
+The same edition reports his response to the resignation of counterterrorism director [[joe-kent|Joe Kent]] over the [[iran|Iran]] war — calling Kent "a nice guy" but "weak on security" — and his reaction to [[nato|NATO]] allies refusing to join a coalition to reopen the [[strait-of-hormuz|Strait of Hormuz]], which he called a "one-way street" while insisting the United States no longer needed their help and claiming recent strikes had set Iran back by up to a decade. Contributor [[burning-bright|Burning Bright]] argued that the resulting "[[kobayashi-maru|Kobayashi Maru]]" is not Trump's trap but one he engineered for the "Globalist Enemy."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -189,3 +196,5 @@ This page draws on multiple source articles:
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

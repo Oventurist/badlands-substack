@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [narrative-warfare, philosophy, psyop, information-war]
-sources: [raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -21,4 +21,7 @@ The Brief argues that President [[donald-trump|Donald Trump]] is subverting the 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-095)
+This page draws on multiple source articles:
+
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

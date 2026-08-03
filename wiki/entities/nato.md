@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-05
 type: entity
 tags: [agency, foreign-policy]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -33,6 +33,11 @@ The article's characterization of NATO expansion as deliberate provocation is pr
 
 NATO's role in the Ukraine conflict connects it to [[william-burns]], who warned of the consequences of expansion; [[anthony-blinken]], who committed to Ukrainian membership; [[victoria-nuland]], who discussed expansion during the Bush administration; and the [[burns-cable-2008]], the diplomatic document that captured internal U.S. awareness of Russian red lines. The alliance also intersects with the corpus's analysis of the security state and the military industrial complex.
 
+
+## Refusal of the Hormuz coalition (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that NATO allies flatly refused President [[donald-trump|Donald Trump]]'s calls for an international coalition to secure the [[strait-of-hormuz|Strait of Hormuz]], with multiple European nations declaring the war with [[iran|Iran]] "not our war." French President [[emmanuel-macron|Emmanuel Macron]] said France would never take part in operations to reopen the strait; German Defense Minister [[boris-pistorius|Boris Pistorius]] questioned the point of sending European frigates alongside the U.S. Navy; Spain, Italy and Greece also declined. Trump called the reluctance a "one-way street" but said the United States no longer needed or desired NATO assistance. Contributor [[burning-bright|Burning Bright]] argued that Europe and NATO, "the very entities that spent decades weaponizing energy chokepoints against American interests[,] now find themselves twisting in the very winds they helped generate."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -48,3 +53,5 @@ This page draws on multiple source articles:
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

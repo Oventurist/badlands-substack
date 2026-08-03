@@ -1,13 +1,13 @@
 ---
 title: CIA
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags:
   - intelligence
   - shadow-government
   - terrorism
-sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -51,6 +51,11 @@ The mechanism Carlson describes is the transfer of technology developed at [[dar
 
 The essay's conclusion is optimistic rather than despairing: Carlson expects that "CIA and Deep State Cabal strings will continue to be cut," and writes that if they have been, "I for one am going to take the win. Gladly."
 
+
+## Blamed for the death of Shannon Kent
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] notes that [[joe-kent|Joe Kent]], who resigned as director of the [[national-counterterrorism-center|National Counterterrorism Center]] over the [[iran|Iran]] war, lost his wife Shannon in an attack in Syria while she was serving in the Middle East, and that Kent "lays the blame for her death at the feet of the CIA."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -66,3 +71,4 @@ This page draws on multiple source articles:
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

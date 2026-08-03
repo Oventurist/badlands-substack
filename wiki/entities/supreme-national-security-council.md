@@ -1,10 +1,10 @@
 ---
 title: Supreme National Security Council
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [iran, national-security, islamic-republic, wartime-governance]
-sources: [raw/badlands-brief-1ae.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: false
 ---
@@ -20,4 +20,7 @@ Araghchi identified internal penetration by spies as the regime's single greates
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ae)
+This page draws on multiple source articles:
+
+- [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

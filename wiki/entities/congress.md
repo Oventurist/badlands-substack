@@ -1,10 +1,10 @@
 ---
 title: United States Congress
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -48,6 +48,13 @@ Senator Thad Cochran, a Mississippi Republican, is quoted saying: "I'm not blami
 
 The essay also argues that congressional service was never intended as a career. The federal government was meant to resemble modern local government, with a few full-time officials and most members returning to work as farmers, lawyers, or small business owners; today, Carlson writes, federal politicians "still work part time for the government" while spending the remainder of their time "lobbying and cutting deals with whoever will pay them the most." His conclusion is that changing the majority in Congress or the Speaker of the House accomplishes nothing "until the members of Congress actually work for the people and not the lobbyists and our foreign enemies."
 
+
+## The SAVE Act and the Epstein subpoena (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] presents Congress as the central obstacle to President [[donald-trump|Donald Trump]]'s legislative agenda. Trump urged the body to pass the [[save-america-act|SAVE Act]], warning that "only sick, demented, or deranged people in the House or Senate could vote against" it. Contributor [[ashe-in-america|Ashe in America]] argued that the institution "is actively fighting against the most important and consequential piece of legislation ever to exist" and is "illegitimate and invested in its demise," concluding that Trump is "revealing the apex parody of governance: The United States Congress."
+
+In the same edition she notes that Congress costs Americans between $16.7 million and $21.7 million per day when in session, and contrasts its inability to pass the SAVE Act with the [[house-committee-on-oversight-and-accountability|Oversight Committee]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]], which she characterizes as generating campaign-ad soundbites at public expense.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -65,3 +72,5 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

@@ -1,10 +1,10 @@
 ---
 title: Epstein Files Transparency Act
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [transparency, department-of-justice, epstein-narrative, congress, redactions]
-sources: [raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1cd.md]
 confidence: high
 contested: false
 ---
@@ -27,6 +27,14 @@ The production drew immediate criticism. Rep. [[thomas-massie|Thomas Massie]] sa
 
 The disclosures were also associated with resignations and investigations across business, politics, and law, including [[tom-pritzker|Tom Pritzker]], [[brad-karp|Brad Karp]], and [[howard-lutnick|Howard Lutnick]]. Badlands commentators placed the entire episode within the contested [[epstein-narrative|Epstein narrative]], debating whether the wave of demands represented genuine accountability or a weaponized information operation.
 
+
+## Compliance dispute and the Bondi subpoena (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that [[house-committee-on-oversight-and-accountability|House Oversight]] Chair [[james-comer|James Comer]] subpoenaed Attorney General [[pam-bondi|Pam Bondi]] for an April 14 deposition on the [[department-of-justice|Department of Justice]]'s compliance with the Act, citing more than 65,000 missing documents, over 2,000 unreleased videos and problematic redactions. The Department replied that lawmakers had been invited to review the unredacted files in person and that Bondi continued to hold calls and meetings with members of Congress on the transparency law.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-0a2)
+This page draws on multiple source articles:
+
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

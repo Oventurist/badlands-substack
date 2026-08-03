@@ -1,10 +1,10 @@
 ---
 title: Nancy Mace
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [politician, republican, south-carolina, congress]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -22,9 +22,15 @@ The Brief recounts a congressional subcommittee hearing Mace convened in 2025 at
 
 Mace finished last in a six-candidate Republican primary for governor of South Carolina, taking 12 percent of the vote and failing to advance to the run-off scheduled for June 23, 2026. The Brief attributes this to President [[donald-trump|Donald Trump]] endorsing one of her opponents, writing that Trump thereby "broke Mace." Mace subsequently posted on X vowing revenge against Trump for "ending her political career," and held a press conference endorsing Alan Wilson in the run-off in order to help him defeat Trump-endorsed Lieutenant Governor Pamela Evette. GhostofBasedPatrickHenry cites this reversal as evidence that Mace had spent years "grifting off of Trump's name and policy platform."
 
+
+## Epstein records and the Bondi subpoena (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that the [[house-committee-on-oversight-and-accountability|House Oversight]] vote leading to the subpoena of Attorney General [[pam-bondi|Pam Bondi]] was prompted by Mace, who raised concerns that the [[department-of-justice|Department of Justice]] had not turned over all records required in relation to the convicted sex offender [[jeffrey-epstein|Jeffrey Epstein]].
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

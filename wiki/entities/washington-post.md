@@ -1,10 +1,10 @@
 ---
 title: The Washington Post
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [outlet, newspaper, mainstream-media, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,4 @@ This page draws on multiple source articles:
 
 - [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-05
 type: concept
 tags: [5gw, geopolitics, sovereignty, badlands-media]
-sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md]
+sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -20,6 +20,11 @@ The term appears in [[badlands-blitz-episode-11|Badlands Blitz Episode 11]], "Ir
 
 Because the alliance is by definition unannounced, its membership in the corpus is inferential rather than documented, and the concept belongs to the outlet's [[5th-generation-warfare|fifth-generation warfare]] framework, in which the significant alignments of a conflict are held to be concealed beneath its declared ones. The same episode's caution against "playing white hat-black hat games" with the figures orbiting [[donald-trump|Donald Trump]] applies with equal force here: the hosts present the pincer as something that "appears to be in the offing" rather than as an established fact.
 
+
+## Iran as a test of the alliance (March 2026)
+
+In the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] uses the Sovereign Alliance concept to explain why [[china|China]] and [[russia|Russia]] appear to be encouraging [[iran|Iran]] to keep fighting. He describes the alliance as "this political network" built worldwide by Beijing and Moscow, "dependent on power projection in order to challenge the Unipolar Hegemony," and argues that a strategic defeat for Iran would discredit it: "if China and Russia can't protect Iran and keep it sovereign, then what chance do smaller countries with lesser military capabilities have? Why would they join the Sovereign Alliance?" He also raises the alliance's material stake in the [[north-south-transportation-corridor|North-South Transportation Corridor]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -29,3 +34,4 @@ This page draws on multiple source articles:
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

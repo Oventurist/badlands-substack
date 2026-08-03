@@ -1,10 +1,10 @@
 ---
 title: Steve Bannon
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [maga, media, epstein-files, trump-administration, kayfabe]
-sources: [raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -27,6 +27,14 @@ He further contended that the August 2017 Trump–Bannon "break-up," and Trump's
 
 The commentator [[burning-bright|Burning Bright]] separately observed that Bannon and Commerce Secretary [[howard-lutnick|Howard Lutnick]] were "firmly in the crosshairs," and that a portion of the MAGA base appeared to be closing ranks with the [[media-protectorate|media protectorate]] it had previously opposed.
 
+
+## Defense of Joe Kent (March 2026)
+
+According to the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], [[joe-kent|Joe Kent]] became a nationally recognized figure by appearing on Bannon's *War Room* "countless times" during the Biden administration. After Kent resigned as director of the [[national-counterterrorism-center|National Counterterrorism Center]] over the [[iran|Iran]] war, Bannon defended him by citing his Middle East deployment history and called for an investigation into the claim in Kent's resignation letter that [[israel|Israel]] controls U.S. foreign policy. The Brief also reproduces a post by Bannon's social media liaison on the matter.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-0a2)
+This page draws on multiple source articles:
+
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

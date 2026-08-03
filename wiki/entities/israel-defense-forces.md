@@ -1,10 +1,10 @@
 ---
 title: Israel Defense Forces
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [military, israel, conscription, religion]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: false
 ---
@@ -18,9 +18,15 @@ The Israel Defense Forces (IDF) is the national military of [[israel|Israel]], b
 
 The Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] observes that Israel's High Court of Justice ruled in April that the IDF must proceed with integration, and reports the rabbis' warning that integration would prompt soldiers to end their service rather than extend it. He argues that enforcement would damage morale and effectiveness at a moment when [[benjamin-netanyahu|Netanyahu]] is considering expanding the war and opening new fronts, that tension between the Ultra-Orthodox community and the IDF is already severe, and that the measure could "accelerate the collapse of the IDF," which he describes as already suffering exhausted and overworked soldiers, lagging recruitment, and reduced enthusiasm to serve.
 
+
+## Claim of Larijani's death (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reproduces an IDF post announcing the killing of [[ali-larijani|Ali Larijani]], Secretary of the [[supreme-national-security-council|Supreme National Security Council]], together with the announcement that Basij commander [[gholamreza-soleimani|Gholamreza Soleimani]] had been eliminated in the same wave of strikes. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] observes that [[iran|Iran]] was not quick to affirm the IDF's claim and by many reports initially denied it.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

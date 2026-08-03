@@ -1,10 +1,10 @@
 ---
 title: International Atomic Energy Agency
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [iaea, nonproliferation, international-organization, nuclear-policy, safeguards]
-sources: [raw/badlands-brief-1ae.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md]
 confidence: high
 contested: false
 ---
@@ -24,4 +24,7 @@ The agency also figures in the corpus's coverage of [[iran|Iran]]'s enrichment d
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ae)
+This page draws on multiple source articles:
+
+- [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

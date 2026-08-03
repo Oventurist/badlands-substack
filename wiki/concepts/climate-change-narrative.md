@@ -1,10 +1,10 @@
 ---
 title: Climate Change Narrative
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [climate, globalism, collectivism, sovereignty, esg]
-sources: [raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ First, it is used to frame overpopulation as a global threat, a framing subtly l
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+This page draws on multiple source articles:
+
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

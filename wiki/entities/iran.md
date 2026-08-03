@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-05
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -34,6 +34,13 @@ The essay closes its Iran thread with Q drop #1345 (May 12, 2018), which stated 
 
 By March 2026 the conflict described in the corpus as "the Iran War" had become the dominant weekly storyline for [[badlands-media|Badlands Media]]. [[badlands-blitz-episode-11|Badlands Blitz Episode 11]], "Iran, NATO and the Invisible Enemy," published March 21, 2026, treats what it calls "the spiraling narrative of the Iran War" as the surface expression of a deeper conflict, using it to map an anticipated "strategic pincer" by the [[sovereign-alliance|Sovereign Alliance]] against the [[invisible-enemy|Invisible Enemy]] rather than as a bilateral confrontation on its own terms.
 
+
+## The oil war phase (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports the deaths of [[ali-larijani|Ali Larijani]], Secretary of the [[supreme-national-security-council|Supreme National Security Council]], and Basij commander [[gholamreza-soleimani|Gholamreza Soleimani]] in U.S.-Israeli airstrikes, and Iran's retaliatory escalation into what Tehran called a "new phase of oil war": drone swarms and attacks on energy infrastructure including the Shah oil and gas field in the UAE, Iraq's Majnoon field, and targets in Saudi Arabia, while asserting continued control over the [[strait-of-hormuz|Strait of Hormuz]].
+
+The same edition records [[joe-kent|Joe Kent]]'s resignation as director of the [[national-counterterrorism-center|National Counterterrorism Center]], in which he argued that "Iran posed no imminent threat to our nation," and reports [[nato|NATO]] members' refusal to join a U.S.-led coalition against Iran in the strait.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -48,3 +55,5 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

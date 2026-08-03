@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-05
 type: concept
 tags: [badlands-media, newsletter, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: false
 ---
@@ -25,6 +25,11 @@ The Brief's Monday-through-Friday output continued to supply the raw material fo
 The March 21, 2026 announcement for [[badlands-blitz-episode-11|Badlands Blitz Episode 11]] restated the Brief's weekday cadence — "the work we do Monday through Friday in the Badlands Brief" — and referred to a "step-up in said work for 2026," indicating an expansion of the daily output that the Blitz recaps.
 
 The July 18, 2026 announcement for [[badlands-blitz-episode-25|Badlands Blitz Episode 25]] again described the Blitz as "a weekly recap and dissection of the work we do Monday through Friday in the Badlands Brief," confirming that the weekday cadence and the 2026 "step-up in said work" remained in place mid-year.
+
+
+## March 18, 2026 edition
+
+The [[badlands-brief-1cd|March 18, 2026 Brief]], titled "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent," covered President [[donald-trump|Donald Trump]]'s campaign for the [[save-america-act|SAVE Act]], the resignation of [[joe-kent|Joe Kent]] over the [[iran|Iran]] war, [[nato|NATO]] allies' refusal to join a [[strait-of-hormuz|Strait of Hormuz]] coalition, [[james-comer|James Comer]]'s subpoena of [[pam-bondi|Pam Bondi]], the reported killing of [[ali-larijani|Ali Larijani]], and a bonus item on [[venezuela|Venezuela]]'s [[world-baseball-classic|World Baseball Classic]] title.
 
 ## Sources
 
@@ -53,3 +58,5 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

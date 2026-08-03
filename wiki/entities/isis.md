@@ -1,14 +1,14 @@
 ---
 title: ISIS
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags:
   - terrorism
   - syria
   - iraq
   - cia
-sources: [raw/a-conflict-of-interest.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ According to the article, the entire operation was by design: arm and train terr
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-conflict-of-interest)
+This page draws on multiple source articles:
+
+- [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

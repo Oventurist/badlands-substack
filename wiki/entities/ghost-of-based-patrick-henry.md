@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-05
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, kayfabe, q-anon]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: high
 contested: false
 ---
@@ -23,6 +23,13 @@ In the same edition he treated the rumors of [[mohamed-bin-zayed-al-nahyan|Moham
 
 On [[marco-rubio|Marco Rubio]]'s [[munich-security-conference|Munich Security Conference]] address he wrote that it was "a pretty good speech by Little Marco," approved of sending Rubio "to deliver these terms of surrender to the satanic elite," dismissed any prospect of reconciliation with Europe's Old Guard, and warned that the European elite appear willing to start a third world war rather than cede power, closing with "Choose now, Europe."
 
+
+## Commentary in Badlands Brief, March 18, 2026
+
+In the [[badlands-brief-1cd|March 18, 2026 Brief]], GhostofBasedPatrickHenry wrote on two items. On [[joe-kent|Joe Kent]]'s resignation he compared it to the death of [[ali-larijani|Ali Larijani]] as "another unexpected and strange announcement," traced Kent's national profile to [[steve-bannon|Steve Bannon]]'s War Room, noted that [[tulsi-gabbard|Tulsi Gabbard]] broke her silence on the [[iran|Iran]] war hours later, described [[uniparty|Uniparty]] figures conducting "a communist struggle session against Joe Kent," and asked why "all Israel dissidents in the administration are being hunted down."
+
+On Larijani's reported killing he emphasized Larijani's role in implementing [[devolution|Devolution]]/[[continuity-of-government|Continuity of Government]] in August 2025, argued that this makes a decapitation strike unlikely, questioned the evidence for the death, and analyzed [[russia|Russia]] and [[china|China]]'s incentives to keep Iran fighting in terms of the [[sovereign-alliance|Sovereign Alliance]] and the [[north-south-transportation-corridor|North-South Transportation Corridor]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -32,3 +39,5 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

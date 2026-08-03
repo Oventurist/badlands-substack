@@ -1,10 +1,10 @@
 ---
 title: Shanghai Cooperation Organisation
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 type: entity
 tags: [international-organization, multipolarity, eurasia, security, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -24,6 +24,14 @@ Among the summit's outcomes highlighted by the source is the creation of a new S
 
 The article notes that the summit coincided with armed confrontations launched by Azerbaijan against SCO member Armenia and fighting between Kyrgyzstan and Tajikistan — both SCO members hosting Russian bases and Chinese Belt and Road infrastructure. Ehret writes that while responsibility is not yet established, "the timing and character of conflicts smells of Anglo-Intelligence operations," presenting the violence as an attempt to disrupt the consolidation of the [[multipolar-alliance|multipolar alliance]].
 
+
+## Stake in the North-South Transportation Corridor
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] notes that the Shanghai Cooperation Organization has invested billions in the [[north-south-transportation-corridor|North-South Transportation Corridor]], with [[iran|Iran]] serving as the critical central node connecting Asia to Moscow. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] uses this investment to explain why [[china|China]] and [[russia|Russia]] appear to be encouraging Iran to continue the war rather than seeking stabilization, asking whether the corridor could operate effectively if Iranian infrastructure were destroyed.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+This page draws on multiple source articles:
+
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

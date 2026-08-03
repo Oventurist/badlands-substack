@@ -1,10 +1,10 @@
 ---
 title: FIFA
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [organization, sports, corruption, international-body]
-sources: [raw/america-for-sale-part-2.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -24,4 +24,7 @@ In May 2015 much of FIFA's leadership was arrested by police in Switzerland on c
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-2)
+This page draws on multiple source articles:
+
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

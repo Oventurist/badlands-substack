@@ -1,10 +1,10 @@
 ---
 title: Russia
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [russia, geopolitics, sanctions, ukraine, energy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,11 @@ The article asserts that "the wizards behind [[nato]] have been engaged in an un
 
 Russia also figures in the removal of [[imran-khan]]: the article identifies Khan's "aggressively neutral" stance toward Russia, and his threats to block Pakistani arms shipments to Ukraine, as primary reasons a target was placed on his back. [[pakistan]] is described as indispensable to the United States as an ally against Russia, as it was in the 1980s against the Soviets.
 
+
+## Encouraging Iran to continue the war (March 2026)
+
+Citing a [[zerohedge|ZeroHedge]] report, the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] states that Russia is pushing [[iran|Iran]] to stay in the fight, signaling that Moscow sees continuation of the conflict either as a negotiating chip or as an earnest proxy war against [[israel|Israel]], which has been attacking Russian allies in the Middle East since the October 7th attack. Together with [[china|China]], Russia is described as feeding intelligence to Iran to keep it competitive — behavior the Brief argues contradicts the presumption that both powers want Persian Gulf stabilization, and which it explains by their interest in preventing a strategic defeat that would discredit the [[sovereign-alliance|Sovereign Alliance]] and endanger the [[north-south-transportation-corridor|North-South Transportation Corridor]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -37,3 +42,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

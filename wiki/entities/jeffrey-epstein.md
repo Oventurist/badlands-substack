@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-05
 type: entity
 tags: [epstein, trafficking, blackmail, doj-files, intelligence]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md]
 confidence: high
 contested: true
 ---
@@ -26,6 +26,11 @@ Badlands contributor [[burning-bright|Burning Bright]] writes that "every time w
 
 The Brief highlights an email in the release in which Epstein refers to Trump as "the dog that didn't bark," which Burning Bright reads as a Sherlock Holmes allusion: the absence of an expected reaction is itself the clue. On his reading, Epstein "had dangled every temptation," and Trump "came to the parties, smiled for the photographs, flew on the plane exactly once (and never to the island), and then… nothing." He concludes that "it was never about Jeffrey Epstein. It was never about Little St. James. It was about the whole temple."
 
+
+## The 2026 subpoena fight
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that [[house-committee-on-oversight-and-accountability|House Oversight]] lawmakers highlighted more than 65,000 missing documents, over 2,000 unreleased videos, and problematic redactions in the Epstein material that in some cases appear to shield his associates while exposing victim identities — the grievances behind Chairman [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]]. Contributor [[ashe-in-america|Ashe in America]] wrote that legacy media reporting ties the "missing files" claims to sexual assault allegations against President [[donald-trump|Donald Trump]], making the hearings a vehicle for "public character assassinations" ahead of the midterms.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

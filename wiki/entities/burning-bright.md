@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-05
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: false
 ---
@@ -37,6 +37,11 @@ A week later, on April 25, 2026, he co-hosted [[badlands-blitz-episode-14|Badlan
 On May 2, 2026 he returned with [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] for [[badlands-blitz-episode-15|Badlands Blitz Episode 15]], "Dissolution of the Global Cartel," using the Trump administration's dispute with the [[congress|United States Congress]] over the Iran War to probe when a war is and is not happening, and arguing that the Middle East and South America are joined fronts in the dismantling of the [[global-cartel|Global Cartel]] on kinetic, financial and energy grounds.
 
 A week later, on May 9, 2026, he hosted [[badlands-blitz-episode-16|Badlands Blitz Episode 16]], "The White Pill Parade Is Only Just Beginning," with [[ashe-in-america|Ashe in America]]. The pair used the episode to preview the next installment of [[the-narrative|The Narrative]], reframing the week's news as part of "the long, sometimes-slow—and now quite rapidly accelerating—march for American Justice and Accountability" converging on a 2026 inflection point.
+
+
+## The engineered no-win scenario (March 2026)
+
+In the [[badlands-brief-1cd|March 18, 2026 Badlands Brief]], Burning Bright claimed authorship of the "[[kobayashi-maru|Kobayashi Maru]]" framing now being adopted by the alternative media to describe [[donald-trump|Donald Trump]]'s Middle East position, writing that he has used it "stretching back to 2023." He argued that the framing is inverted: "the Iranian Knot is not Donald Trump's Kobayashi Maru. It is the no-win scenario he has deliberately engineered for the Globalist Enemy that has long disguised itself as our so-called Allies," placing "the rules-based international order, the neoconservative war machine, the energy cartels and the scarcity engineers into a pincer movement from which there is no clean or face-saving exit." He pointed to [[nato|NATO]] members shunning the [[strait-of-hormuz|Strait of Hormuz]] coalition as evidence, and summarized his thesis as "the complete inversion of the Axis and Allies paradigm."
 
 ## Sources
 
@@ -71,3 +76,5 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

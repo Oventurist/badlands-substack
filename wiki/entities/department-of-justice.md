@@ -1,10 +1,10 @@
 ---
 title: Department of Justice
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -22,6 +22,11 @@ The essay claims that the DOJ and [[fbi|FBI]] "were completely corrupt at the hi
 
 The article also notes that the [[senate-judiciary-committee|Senate Judiciary Committee]] chaired by [[chuck-grassley|Chuck Grassley]] holds oversight authority over the department, which it treats as significant given the alleged corruption. It further claims that [[ezra-cohen-watnick|Ezra Cohen Watnick]] was installed at the DOJ by Trump specifically to pass classified intelligence to Goodlatte and [[trey-gowdy|Trey Gowdy]]. These claims about secret investigations and sealed indictments are contested.
 
+
+## Response to the Epstein subpoena (March 2026)
+
+In the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], the Department responded to [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]] by calling it "completely unnecessary," stating: "Lawmakers have been invited to view the unredacted files for themselves at the Department of Justice, and the Attorney General has always made herself available to speak directly with members of Congress. She continues to have calls and meetings with members of Congress on the [[epstein-files-transparency-act|Epstein Files Transparency Act]], which is why the Department offered to brief the committee tomorrow." The Brief observes that while congressional subpoenas are compulsory, enforcement ultimately rests with the Justice Department itself if they are ignored.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -29,3 +34,4 @@ This page draws on multiple source articles:
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

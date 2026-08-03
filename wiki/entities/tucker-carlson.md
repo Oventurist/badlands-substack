@@ -1,10 +1,10 @@
 ---
 title: "Tucker Carlson"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [media, first-amendment, fara, iran, censorship]
-sources: [raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -31,6 +31,14 @@ On March 5, 2026, according to the same account, Fine called Carlson a "cancer" 
 
 Badlands commentators explicitly bracket the question of Carlson's own sincerity. GhostofBasedPatrickHenry writes that "regardless of your view of Tucker — whether you want to believe that he is an earnest actor or an intelligence asset — what is happening here is a [[hegelian-dialectic|Hegelian Dialectic]] to discourage and even criminalize dissidence toward the government of Israel." [[ashe-in-america|Ashe in America]] notes that Carlson is one of Mark Levin's most prominent public critics and treats the episode as evidence that parts of the [[truth-community|truth community]] have become gatekeepers, cheering the prospect of a journalist's imprisonment.
 
+
+## Planned Joe Kent interview (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that administration officials were bracing for further fallout from [[joe-kent|Joe Kent]]'s resignation over the [[iran|Iran]] war, including a planned Kent interview with Carlson.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-095)
+This page draws on multiple source articles:
+
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

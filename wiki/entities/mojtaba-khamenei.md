@@ -1,10 +1,10 @@
 ---
 title: Mojtaba Khamenei
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [iran, supreme-leader, succession, islamic-republic]
-sources: [raw/badlands-brief-1ae.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ Araghchi's broader account of the wartime period — including his statement tha
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ae)
+This page draws on multiple source articles:
+
+- [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

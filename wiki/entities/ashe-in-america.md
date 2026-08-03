@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-05
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: false
 ---
@@ -35,6 +35,13 @@ Ashe in America is a recurring host of [[the-blitz|The Blitz]]. With [[burning-b
 She rejoined Burning Bright for [[badlands-blitz-episode-14|Badlands Blitz Episode 14]], "The Dawning Age of American Accountability," published April 25, 2026. The episode surveyed the week's news as "all white pills," beginning with the indictment of the [[southern-poverty-law-center|Southern Poverty Law Center]] and moving through the unraveling of [[russiagate|Russiagate]], the [[taco-trade|"TACO Tuesday"]] critique of [[donald-trump|Donald Trump]], and Trump's overtures toward [[spirit-airlines|Spirit Airlines]].
 
 She paired with him again for [[badlands-blitz-episode-16|Badlands Blitz Episode 16]], "The White Pill Parade Is Only Just Beginning," published May 9, 2026. Billed as a preview of the next episode of [[the-narrative|The Narrative]], the episode recast the week's developments as stages in "the long, sometimes-slow—and now quite rapidly accelerating—march for American Justice and Accountability," which the hosts said was converging ahead of a 2026 inflection point.
+
+
+## Commentary in Badlands Brief, March 18, 2026
+
+In the [[badlands-brief-1cd|March 18, 2026 Brief]], Ashe in America contributed two takes. On the [[save-america-act|SAVE Act]] she argued that fears about losing the midterms miss the point because legislation cannot pass now either, that keeping the status quo of elections "services only the appearance of legitimacy," and that President [[donald-trump|Donald Trump]]'s habit of attaching gender-related issues to his SAVE Act posts suggests he is not making a serious persuasion effort — concluding that he is "revealing the apex parody of governance: The United States [[congress|Congress]]."
+
+On [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]], she argued that the [[jeffrey-epstein|Epstein]] files had fallen out of public conversation because of the war and were being dramatically revived as a "newsmaking political stunt," noting that Bondi had already offered a briefing and that Congress costs Americans $16.7 million to $21.7 million per day in session.
 
 ## Sources
 
@@ -69,3 +76,5 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

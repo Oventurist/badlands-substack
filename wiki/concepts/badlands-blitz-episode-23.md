@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, the-blitz, uniparty, generational-divide, american-politics]
-sources: [raw/badlands-blitz-episode-23.md]
+sources: [raw/badlands-blitz-episode-23.md, raw/badlands-brief-1c6.md]
 confidence: high
 contested: true
 ---
@@ -40,4 +40,7 @@ The post closes with the program's standard sign-off: "stay Positive, stay Based
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-23)
+This page draws on multiple source articles:
+
+- [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

@@ -1,10 +1,10 @@
 ---
 title: "Spain"
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [europe, nato, defense, geopolitics]
-sources: [raw/badlands-brief-195.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ The [[badlands-brief-195|Badlands Brief of May 5, 2026]] reports that President 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-195)
+This page draws on multiple source articles:
+
+- [badlands brief 195](https://badlands.substack.com/p/badlands-brief-195)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

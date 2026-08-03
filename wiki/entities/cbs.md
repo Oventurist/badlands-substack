@@ -1,10 +1,10 @@
 ---
 title: CBS
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [outlet, media, msm, litigation]
-sources: [raw/a-new-hollywood.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-1c6.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,7 @@ According to the article, it was quickly discovered after the broadcast that the
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-new-hollywood)
+This page draws on multiple source articles:
+
+- [a new hollywood](https://badlands.substack.com/p/a-new-hollywood)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

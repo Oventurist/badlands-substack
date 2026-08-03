@@ -1,10 +1,10 @@
 ---
 title: Tulsi Gabbard
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [congress, syria, antiwar, dni, media-smear]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -20,9 +20,15 @@ According to [[assad-day-in-damascus]], Gabbard met with [[bashar-al-assad|Basha
 
 The article states that Gabbard then "committed the most heinous and unforgivable sin: she called for the U.S. to stop arming and funding proxy groups in Syria." The Democratic establishment immediately distanced itself from her. In the wake of her selection as Trump's nominee to lead the intelligence community, the source says, the story was revived to suggest she is "yet another Putin puppet" — described as the official slander applied to anyone who deviates from the security state's multi-decade endeavour to make [[russia]] into a permanent enemy, and the same modus operandi used against anyone seeking compromise in Ukraine.
 
+
+## The Kent resignation (March 2026)
+
+The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] identifies Gabbard as Director of National Intelligence at the time [[joe-kent|Joe Kent]] — director of the [[national-counterterrorism-center|National Counterterrorism Center]] and a top Gabbard aide — resigned in protest of the U.S. war in [[iran|Iran]]. In the hours following Kent's resignation, the Brief reports, Gabbard broke her long silence on the war. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] suggested that after the campaign against Kent, "it appears that Tulsi Gabbard may be their next target."
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

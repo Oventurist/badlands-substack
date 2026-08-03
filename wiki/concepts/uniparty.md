@@ -1,10 +1,10 @@
 ---
 title: Uniparty
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [american-politics, political-analysis, badlands-media, establishment]
-sources: [raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md]
+sources: [raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -24,9 +24,15 @@ That simultaneity is treated in the corpus as significant in itself. Where a con
 - [[badlands-blitz-episode-23|Badlands Blitz Episode 23]]
 - [[generational-divide|Generational Divide]]
 
+
+## The campaign against Joe Kent (March 2026)
+
+In the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] wrote that "we are already seeing the Uniparty figures all participating in a communist struggle session against [[joe-kent|Joe Kent]]," the counterterrorism director who resigned over the [[iran|Iran]] war, and that [[tulsi-gabbard|Tulsi Gabbard]] "may be their next target." In the same edition [[ashe-in-america|Ashe in America]] used the adjective "unipartisan" to describe the lawmakers using the [[jeffrey-epstein|Epstein]] files subpoena for "public character assassinations" ahead of the midterms.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands blitz episode 23](https://badlands.substack.com/p/badlands-blitz-episode-23)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

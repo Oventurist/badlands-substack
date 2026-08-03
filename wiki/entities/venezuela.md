@@ -1,10 +1,10 @@
 ---
 title: Venezuela
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [venezuela, latin-america, regime-change, sovereignty]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md]
 confidence: medium
 contested: true
 ---
@@ -25,9 +25,15 @@ The Brief reports emerging claims that the US government's case against Maduro h
 
 An EU Commission spokesperson reportedly said the [[european-union|European Union]] does not recognize the legitimacy of Venezuela's interim president [[delcy-rodriguez|Delcy Rodríguez]] but will maintain "targeted engagement" with Venezuelan authorities. The Badlands commentary attributes this stance to European disappointment that [[maria-corina-machado|María Corina Machado]] did not become Venezuela's leader.
 
+
+## 2026 World Baseball Classic championship
+
+A bonus item in the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that Venezuela defeated Team USA 3-2 at LoanDepot Park in Miami to win its first [[world-baseball-classic|World Baseball Classic]] title, before a heavily pro-Venezuela crowd drawn from the large Venezuelan immigrant community in South Florida. Maikel Garcia and Wilyer Abreu produced the early runs, Eugenio Suárez the ninth-inning go-ahead double, and Daniel Palencia closed the game out. Manager Omar López praised the squad's unity amid the country's political tensions, saying they played "together with no color, political colors or ideology."
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)

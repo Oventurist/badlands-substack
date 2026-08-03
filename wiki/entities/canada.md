@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [canada, trade, tariffs, infrastructure, us-relations]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md]
 confidence: high
 contested: false
 ---
@@ -18,4 +18,7 @@ Prime Minister [[mark-carney|Mark Carney]] responded by describing a positive co
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)

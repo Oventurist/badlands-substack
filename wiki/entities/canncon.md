@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [badlands-media, citizen-journalism, election-integrity, commentary]
-sources: [raw/badlands-brief-174.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-1c6.md]
 confidence: high
 contested: false
 ---
@@ -17,4 +17,7 @@ CannCon is a host and contributor at [[badlands-media|Badlands Media]], appearin
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-174)
+This page draws on multiple source articles:
+
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
