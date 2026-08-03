@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-02 | Total pages: 888
+> Last updated: 2026-08-02 | Total pages: 894
 
 ## Entities
 - [[abdelhakim-belhaj]]: Libyan politician and military leader, former emir of the Libyan Islamic Fighting Group, profiled as a central figure in the Libya intervention and post-Gaddafi business empire. (Created: 2026-08-01)
@@ -569,6 +569,7 @@
 - [[tiktok]]: Short-form video platform framed in the Badlands corpus as a primary vector for Chinese Communist Party information operations targeting Western youth through algorithmic manipulation. (Created: 2026-08-01)
 - [[time-magazine]]: News weekly that laid off roughly 15 percent of its unionized editorial staff in January 2024. (Created: 2026-08-01)
 - [[time-warner]]: Media conglomerate, former owner of CNN, listed first among the Big Six. (Created: 2026-08-01)
+- [[tina-peters]]: Former Colorado county clerk prosecuted over election-equipment data; her sentence commutation was a lead topic of Badlands Blitz Episode 18. (Created: 2026-08-02)
 - [[tom-cruise]]: Actor linking the Skydance catalogue; his Mission Impossible: Dead Reckoning is read as an AI warning. (Created: 2026-08-01)
 - [[tom-donilon]]: Former national security adviser, Bilderberg steering committee member and chairman of the BlackRock Investment Institute; a key Iran deal policymaker. (Created: 2026-08-02)
 - [[tom-liddy]]: Civil Division Chief of the Maricopa County Attorney's Office in 2022 and son of G. Gordon Liddy. (Created: 2026-08-02)
@@ -704,6 +705,9 @@
 - [[badlands-blitz-episode-13]]: Thirteenth episode of The Blitz, April 18, 2026, arguing the ending of the Iran war was decided before it was fought. (Created: 2026-08-02)
 - [[badlands-blitz-episode-14]]: Fourteenth episode of The Blitz, April 25, 2026, on the SPLC indictment, Russiagate's unraveling, TACO, and Spirit Airlines. (Created: 2026-08-02)
 - [[badlands-blitz-episode-15]]: Fifteenth episode of The Blitz, May 2, 2026, on the Trump–Congress Iran War dispute and the claimed dismantling of the Global Cartel. (Created: 2026-08-02)
+- [[badlands-blitz-episode-16]]: Sixteenth episode of The Blitz, May 9, 2026, framing the week's news as the accelerating march for American Justice and Accountability. (Created: 2026-08-02)
+- [[badlands-blitz-episode-17]]: Seventeenth episode of The Blitz, May 16, 2026, on a prospective Trump–Xi alliance and the mainstreaming of election denial. (Created: 2026-08-02)
+- [[badlands-blitz-episode-18]]: Eighteenth episode of The Blitz, May 23, 2026, on the commutation of Tina Peters' sentence and coming speech laws. (Created: 2026-08-02)
 - [[badlands-brief]]: Badlands Media's daily weekday Substack coverage, the source material recapped each Saturday on The Blitz. (Created: 2026-08-02)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
@@ -757,6 +761,7 @@
 - [[doj-slush-fund]]: Alleged Obama-era practice of directing bank settlement money to approved left-wing activist groups, totaling roughly $1 billion over two years. (Created: 2026-08-02)
 - [[door-3-ballots]]: Auxiliary receptacle for ballots rejected by malfunctioning tabulators in Maricopa County in 2022, and the alleged commingling scandal around it. (Created: 2026-08-02)
 - [[eco-colonialism]]: Control exercised through conservation policy, reservation systems and "human ecosystems-management" rather than direct conquest. (Created: 2026-08-02)
+- [[election-denial]]: Label for refusal to accept certified election results, treated in the corpus as a rhetorical instrument whose narrative dominance is said to have reversed by 2026. (Created: 2026-08-02)
 - [[emirate-of-diriyah]]: The First State of Saud (1727-1814), ended by the Ottoman beheading of Abdullah bin Saud in Istanbul. (Created: 2026-08-02)
 - [[esg]]: Environmental, Social and Governance scoring, framed as a coercive instrument for disciplining corporations into ideological compliance. (Created: 2026-08-02)
 - [[fedaccounts]]: 2018 proposal for Federal Reserve retail accounts open to all individuals and businesses, potentially serviced through post offices. (Created: 2026-08-01)
@@ -869,6 +874,7 @@
 - [[the-blitz]]: Weekly Saturday Badlands Media show launched January 2026, recapping the week's Badlands Brief with rotating hosts. (Created: 2026-08-02)
 - [[the-godfather]]: 1969 novel and 1972 film analyzed as a narrative operation that made the Italian Mafia synonymous with organized crime. (Created: 2026-08-01)
 - [[the-hunt-for-red-october]]: Tom Clancy novel referenced in the Q drops, whose title is read as signalling a Communist takeover rather than a defection plot. (Created: 2026-08-02)
+- [[the-narrative]]: Long-form Badlands Media program companion to The Blitz, previewed in Episode 16. (Created: 2026-08-02)
 - [[the-sum-of-all-fears]]: Tom Clancy novel referenced in the Q drops, read as a warning that modern-day Nazis seek to provoke war between Russia and the United States. (Created: 2026-08-02)
 - [[tianjin-declaration]]: Concluding document of the 2025 SCO summit, setting out sovereign equality, rejection of coercive measures, and an SCO Development Bank. (Created: 2026-08-01)
 - [[timber-sycamore]]: CIA program that armed and trained anti-Assad groups in Syria, terminated in 2017 under Trump. (Created: 2026-08-02)

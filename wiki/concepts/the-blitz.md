@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: concept
 tags: [badlands-media, media-program, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md]
 confidence: high
 contested: false
 ---
@@ -36,6 +36,12 @@ By [[badlands-blitz-episode-10|Episode 10]], published March 14, 2026, the progr
 
 [[badlands-blitz-episode-15|Episode 15]], "Dissolution of the Global Cartel," appeared on May 2, 2026 with Burning Bright and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]]. The pair used the Trump administration's dispute with the [[congress|United States Congress]] over the [[iran|Iran]] War to examine when a war can be said to be happening, then joined the "Actual and Narrative threads" between the Middle East and South America in support of the claim that the [[global-cartel|Global Cartel]] is being dismantled on kinetic, financial and energy grounds.
 
+[[badlands-blitz-episode-16|Episode 16]], "The White Pill Parade Is Only Just Beginning," followed on May 9, 2026 with Burning Bright and [[ashe-in-america|Ashe in America]]. It was presented as a preview of the next episode of [[the-narrative|The Narrative]], revisiting the week through the framing of "the long, sometimes-slow—and now quite rapidly accelerating—march for American Justice and Accountability" and asserting that the week's many wins were "converging ahead of a 2026 inflection point."
+
+[[badlands-blitz-episode-17|Episode 17]], "Big Trump Visits Little China as Election Deniers Seize the Narrative," appeared on May 16, 2026 with Burning Bright and [[ashe-in-america|Ashe in America]]. Much of the show was given to the prospective [[donald-trump|Donald Trump]]–[[xi-jinping|Xi Jinping]] alliance, argued to be a pairing "the globalist enemy fears even more" than coordination between Trump and [[vladimir-putin|Vladimir Putin]], with a further segment on [[election-denial|election denial]] as a position now described as "more popular and bipartisan than ever before."
+
+[[badlands-blitz-episode-18|Episode 18]], "Tina Peters Coming Out; Speech Laws Coming In," followed on May 23, 2026 with [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] and Ashe in America hosting. It covered the commutation of [[tina-peters|Tina Peters]]' sentence and "the coming ban on antisemitism and other speech laws," together with geopolitics and what the post calls "expectations for the golden age." The announcement is notable for an apology for the episode's delayed release, attributed to "a miscommunication" — the first such note in the series as captured in the corpus.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -47,3 +53,6 @@ This page draws on multiple source articles:
 - [badlands blitz episode 13](https://badlands.substack.com/p/badlands-blitz-episode-13)
 - [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
 - [badlands blitz episode 15](https://badlands.substack.com/p/badlands-blitz-episode-15)
+- [badlands blitz episode 16](https://badlands.substack.com/p/badlands-blitz-episode-16)
+- [badlands blitz episode 17](https://badlands.substack.com/p/badlands-blitz-episode-17)
+- [badlands blitz episode 18](https://badlands.substack.com/p/badlands-blitz-episode-18)

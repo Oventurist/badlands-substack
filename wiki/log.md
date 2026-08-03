@@ -167,3 +167,8 @@
 ## [2026-08-02] ingest | Badlands Blitz Episode 13 -> created: [badlands-blitz-episode-13], updated: [the-blitz, burning-bright, ghost-of-patrick-henry]
 ## [2026-08-02] ingest | Badlands Blitz Episode 14 -> created: [badlands-blitz-episode-14, russiagate, taco-trade, southern-poverty-law-center, spirit-airlines], updated: [the-blitz, burning-bright, ashe-in-america, index]
 ## [2026-08-02] ingest | Badlands Blitz Episode 15 -> created: [badlands-blitz-episode-15, global-cartel], updated: [the-blitz, burning-bright, ghost-of-patrick-henry, index]
+## [2026-08-02] ingest | Badlands Blitz Episode 16 -> created: [badlands-blitz-episode-16, the-narrative], updated: [the-blitz, burning-bright, ashe-in-america, index]
+
+## [2026-08-02] ingest | Badlands Blitz Episode 17 -> created: [badlands-blitz-episode-17, election-denial], updated: [the-blitz, index]
+
+## [2026-08-02] ingest | Badlands Blitz Episode 18 -> created: [badlands-blitz-episode-18, tina-peters], updated: [the-blitz, ashe-in-america, ghost-of-patrick-henry]

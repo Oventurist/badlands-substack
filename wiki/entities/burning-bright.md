@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-02
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md]
 confidence: medium
 contested: false
 ---
@@ -36,6 +36,8 @@ A week later, on April 25, 2026, he co-hosted [[badlands-blitz-episode-14|Badlan
 
 On May 2, 2026 he returned with [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] for [[badlands-blitz-episode-15|Badlands Blitz Episode 15]], "Dissolution of the Global Cartel," using the Trump administration's dispute with the [[congress|United States Congress]] over the Iran War to probe when a war is and is not happening, and arguing that the Middle East and South America are joined fronts in the dismantling of the [[global-cartel|Global Cartel]] on kinetic, financial and energy grounds.
 
+A week later, on May 9, 2026, he hosted [[badlands-blitz-episode-16|Badlands Blitz Episode 16]], "The White Pill Parade Is Only Just Beginning," with [[ashe-in-america|Ashe in America]]. The pair used the episode to preview the next installment of [[the-narrative|The Narrative]], reframing the week's news as part of "the long, sometimes-slow—and now quite rapidly accelerating—march for American Justice and Accountability" converging on a 2026 inflection point.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -48,3 +50,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 13](https://badlands.substack.com/p/badlands-blitz-episode-13)
 - [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
 - [badlands blitz episode 15](https://badlands.substack.com/p/badlands-blitz-episode-15)
+- [badlands blitz episode 16](https://badlands.substack.com/p/badlands-blitz-episode-16)

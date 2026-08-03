@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-02
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md]
 confidence: medium
 contested: false
 ---
@@ -32,6 +32,8 @@ Ashe in America is a recurring host of [[the-blitz|The Blitz]]. With [[burning-b
 
 She rejoined Burning Bright for [[badlands-blitz-episode-14|Badlands Blitz Episode 14]], "The Dawning Age of American Accountability," published April 25, 2026. The episode surveyed the week's news as "all white pills," beginning with the indictment of the [[southern-poverty-law-center|Southern Poverty Law Center]] and moving through the unraveling of [[russiagate|Russiagate]], the [[taco-trade|"TACO Tuesday"]] critique of [[donald-trump|Donald Trump]], and Trump's overtures toward [[spirit-airlines|Spirit Airlines]].
 
+She paired with him again for [[badlands-blitz-episode-16|Badlands Blitz Episode 16]], "The White Pill Parade Is Only Just Beginning," published May 9, 2026. Billed as a preview of the next episode of [[the-narrative|The Narrative]], the episode recast the week's developments as stages in "the long, sometimes-slow—and now quite rapidly accelerating—march for American Justice and Accountability," which the hosts said was converging ahead of a 2026 inflection point.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -44,3 +46,5 @@ This page draws on multiple source articles:
 - [badlands blitz episode 10](https://badlands.substack.com/p/badlands-blitz-episode-10)
 - [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)
 - [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
+- [badlands blitz episode 16](https://badlands.substack.com/p/badlands-blitz-episode-16)
+- [badlands blitz episode 18](https://badlands.substack.com/p/badlands-blitz-episode-18)
