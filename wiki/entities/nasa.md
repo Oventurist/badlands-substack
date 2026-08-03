@@ -1,10 +1,10 @@
 ---
 title: NASA
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [government-agency, space, public-relations, technology]
-sources: [raw/america-has-a-cia-run-economy.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-282.md]
 confidence: medium
 ---
 # NASA
@@ -19,4 +19,7 @@ The point of the anecdote is comparative. NASA, Carlson argues, allowed the publ
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+This page draws on multiple source articles:
+
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

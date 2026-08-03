@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md]
 confidence: medium
 contested: false
 ---
@@ -43,6 +43,11 @@ In the [[badlands-brief-1cd|March 18, 2026 Brief]], Ashe in America contributed 
 
 On [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]], she argued that the [[jeffrey-epstein|Epstein]] files had fallen out of public conversation because of the war and were being dramatically revived as a "newsmaking political stunt," noting that Bondi had already offered a briefing and that Congress costs Americans $16.7 million to $21.7 million per day in session.
 
+
+## Contributions to Badlands Brief (June 9, 2026)
+
+In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], Ashe in America contributes two commentaries. The first, drawing on research by [[canncon|CannCon]], traces the corporate and software lineage connecting [[smartmatic|Smartmatic]], [[bitza|Bitza]], [[sequoia-voting-systems|Sequoia Voting Systems]], [[de-la-rue|De La Rue PLC]], [[election-systems-and-software|Election Systems & Software]], [[premier-election-solutions|Premier Election Solutions]] and [[dominion-voting-systems|Dominion Voting Systems]], concluding that Smartmatic intellectual property is "ostensibly present throughout the system." She notes in passing that [[john-c-bonifaz|John C. Bonifaz]], author of a 2010 warning letter to the [[national-institute-of-standards-and-technology|National Institute of Standards and Technology]], "separately is one of the masterminds in the lawfare against me and my co-defendants." Her second commentary addresses the federal [[denaturalization|denaturalization]] campaign, invoking [[ilhan-omar|Ilhan Omar]] and arguing that the seventeen named cases are far too few.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -80,3 +85,5 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

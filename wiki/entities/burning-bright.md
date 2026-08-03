@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md]
 confidence: medium
 contested: false
 ---
@@ -43,6 +43,11 @@ A week later, on May 9, 2026, he hosted [[badlands-blitz-episode-16|Badlands Bli
 
 In the [[badlands-brief-1cd|March 18, 2026 Badlands Brief]], Burning Bright claimed authorship of the "[[kobayashi-maru|Kobayashi Maru]]" framing now being adopted by the alternative media to describe [[donald-trump|Donald Trump]]'s Middle East position, writing that he has used it "stretching back to 2023." He argued that the framing is inverted: "the Iranian Knot is not Donald Trump's Kobayashi Maru. It is the no-win scenario he has deliberately engineered for the Globalist Enemy that has long disguised itself as our so-called Allies," placing "the rules-based international order, the neoconservative war machine, the energy cartels and the scarcity engineers into a pincer movement from which there is no clean or face-saving exit." He pointed to [[nato|NATO]] members shunning the [[strait-of-hormuz|Strait of Hormuz]] coalition as evidence, and summarized his thesis as "the complete inversion of the Axis and Allies paradigm."
 
+
+## Commentary on the 2026 Los Angeles primary
+
+In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], Burning Bright characterizes the [[los-angeles|Los Angeles]] mayoral primary as "the latest, most cartoonish exhibition in a long and accelerating line of successful attempts to subvert American democracy in real time and in full public view," identifying mail-in voting with extended windows and results that "evolve" over days as the familiar mechanics. He writes that [[donald-trump|Donald Trump]] has "called the theft what it is" and that [[elon-musk|Elon Musk]] "has amplified his signal," while the "Media Industrial Complex" responds with the script of "unsubstantiated," "normal process," "conspiracy theory." He argues that Trump's 2024 victory supplied "narrative shielding" for an apparatus now conducting dress rehearsals ahead of the [[2026-united-states-midterm-elections|2026 midterms]], that "participation in that apparatus codifies its legitimacy," and that those who defend American election integrity are "functionally aligned with the preservation of the system as it operates."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -80,3 +85,5 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

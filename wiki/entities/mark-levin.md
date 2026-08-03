@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [media, talk-radio, commentator, israel]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1c6.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1c6.md, raw/badlands-brief-25c.md]
 confidence: medium
 contested: true
 ---
@@ -16,6 +16,11 @@ Mark Levin is an American conservative talk-radio host, author, and television c
 
 The Brief also disputes a historical claim associated with Levin's commentary on the 1983 Beirut barracks bombing, asserting that [[hezbollah|Hezbollah]] did not kill the 241 Marines — the attack being attributed instead to a group called Islamic Jihad — and citing the [[mossad|Mossad]] defector Victor Ostrovsky for the claim that [[israel|Israel]] had advance knowledge of the attack and withheld warning so that the United States would be drawn into the Middle East.
 
+
+## Criticism of Trump over Netanyahu (June 2026)
+
+In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues that Levin "is now beginning to turn on President Trump." He describes Levin as first accusing [[donald-trump|Trump]] of being "desperate for a deal" and mocking his inability to negotiate, then backing [[benjamin-netanyahu|Benjamin Netanyahu]] while disparaging the president: "I don't know why he keeps bashing the Prime Minister of Israel! …Why the constant beating up of Netanyahu?!" The commentary treats Levin's shift as proof that he understands the United States has decided to abandon Israel's military campaign in the Middle East.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -23,3 +28,4 @@ This page draws on multiple source articles:
 - [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, kayfabe, q-anon]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md]
 confidence: high
 contested: false
 ---
@@ -30,6 +30,11 @@ In the [[badlands-brief-1cd|March 18, 2026 Brief]], GhostofBasedPatrickHenry wro
 
 On Larijani's reported killing he emphasized Larijani's role in implementing [[devolution|Devolution]]/[[continuity-of-government|Continuity of Government]] in August 2025, argued that this makes a decapitation strike unlikely, questioned the evidence for the death, and analyzed [[russia|Russia]] and [[china|China]]'s incentives to keep Iran fighting in terms of the [[sovereign-alliance|Sovereign Alliance]] and the [[north-south-transportation-corridor|North-South Transportation Corridor]].
 
+
+## Commentary in Badlands Brief (June 9, 2026)
+
+In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], GhostofBasedPatrickHenry contributes two commentaries. The first claims vindication for his long-standing thesis that [[donald-trump|Donald Trump]] is "actually waging a war against [[israel|Israel]], using [[iran|Iran]] as his [perhaps unwitting] proxy," arguing that the strategy's implausibility is precisely what makes it effective and that Trump had to intentionally damage his own reputation to sell the appearance of ardent Zionism. He cites Trump's remark "No, I might have forced [Israel's] hand" and [[mark-levin|Mark Levin]]'s turn against the president as supporting evidence. His second commentary welcomes the reported American interest in purchasing the [[chagos-islands|Chagos Islands]], describing [[diego-garcia|Diego Garcia]] as "an unsinkable aircraft carrier" and one of the few of the 800-plus overseas installations worth keeping, and reading the move as part of "a pattern of dismantling the remnants of the old British Empire."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -43,3 +48,5 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

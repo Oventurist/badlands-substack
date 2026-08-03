@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [united-kingdom, prime-minister, syria, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,4 @@ This page draws on multiple source articles:
 
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

@@ -1,10 +1,10 @@
 ---
 title: Mossad
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [mossad, israel, intelligence, deep-state, city-of-london]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-174.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-174.md, raw/badlands-brief-282.md]
 confidence: medium
 contested: true
 ---
@@ -20,3 +20,4 @@ This page draws on multiple source articles:
 
 - [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

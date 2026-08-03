@@ -1,10 +1,10 @@
 ---
 title: China
 created: 2026-08-02
-updated: 2026-08-06
+updated: 2026-08-03
 type: entity
 tags: [china, geopolitics, belt-and-road, energy, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-25c.md]
 confidence: medium
 contested: true
 ---
@@ -31,6 +31,11 @@ The article argues that although Iran alone may be a "paper tiger" after decades
 
 The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that China, like [[russia|Russia]], is purportedly trying to keep [[iran|Iran]] in the fight, with both powers feeding intelligence to Tehran. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues that Beijing and Moscow have a vested interest in preventing a strategic defeat for Iran because it would reflect poorly on the coalition of alliances they have built worldwide — the [[sovereign-alliance|Sovereign Alliance]] — whose appeal to smaller states depends on demonstrated power projection. He also notes the [[shanghai-cooperation-organisation|Shanghai Cooperation Organization]]'s multibillion-dollar investment in the [[north-south-transportation-corridor|North-South Transportation Corridor]], for which Iran is the critical central node.
 
+
+## Special maritime operation east of Taiwan (2026)
+
+[[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]] reports that China launched what it called a "special maritime law enforcement operation" east of [[taiwan|Taiwan]], announced through the Ministry of Transport and the state news agency [[xinhua|Xinhua]], with authorities describing it as an exercise of maritime administrative law-enforcement jurisdiction to protect national rights and interests. The action followed a May 28 Tokyo summit at which Japanese Prime Minister [[sanae-takaichi|Sanae Takaichi]] and Philippine President [[ferdinand-marcos-jr|Ferdinand Marcos Jr.]] announced maritime delimitation talks; Foreign Ministry spokeswoman [[mao-ning|Mao Ning]] said any such negotiations must involve China. Taiwan's coast guard deployed at least five vessels and monitored four Chinese government vessels departing Xiamen.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -43,3 +48,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)

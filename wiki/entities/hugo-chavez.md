@@ -1,13 +1,13 @@
 ---
 title: Hugo Chávez
 created: 2026-08-01
-updated: 2026-08-06
+updated: 2026-08-03
 type: entity
 tags:
   - venezuela
   - socialism
   - latin-america
-sources: [raw/a-family-affair.md, raw/badlands-brief-1ce.md]
+sources: [raw/a-family-affair.md, raw/badlands-brief-1ce.md, raw/badlands-brief-25c.md]
 confidence: high
 contested: false
 ---
@@ -23,9 +23,15 @@ According to wikipedia, after fleeing Venezuela, Carlos Andrés Pérez settled i
 
 Chávez was a left-wing populist who implemented socialist policies in Venezuela, nationalized industries, and aligned himself with other leftist governments in Latin America. His election in 1998 ended the two-party dominance of the Venezuelan political establishment that had characterized the country for decades. In the Badlands corpus, Chávez is generally framed as a target of U.S. and CIA-backed opposition due to his anti-imperialist stance.
 
+
+## Smartmatic and the 2004 recall referendum
+
+[[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]] recounts that [[smartmatic|Smartmatic]] won its first contract with [[venezuela|Venezuela]] in 2004 ahead of the recall referendum on Chávez, months after receiving investment from the Venezuelan government. A government financing agency had invested more than $200,000 in [[bitza|Bitza]], a smaller company owned by some of the same people, receiving a 28 percent stake and a board seat occupied by an official who had previously advised Chávez on elections technology. [[john-c-bonifaz|John C. Bonifaz]]'s letter to the [[national-institute-of-standards-and-technology|National Institute of Standards and Technology]] later described Smartmatic as "a Foreign Controlled Company With Ties to The Venezuelan Government Led by Hugo Chavez."
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [a family affair](https://badlands.substack.com/p/a-family-affair)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)

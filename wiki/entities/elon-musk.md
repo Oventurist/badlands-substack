@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [person, outlet, censorship, info-war, 5gw, tech]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md, raw/artificial-intelligence.md, raw/badlands-brief-0a2.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md, raw/artificial-intelligence.md, raw/badlands-brief-0a2.md, raw/badlands-brief-25c.md]
 confidence: medium
 contested: true
 ---
@@ -53,6 +53,11 @@ Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] n
 
 The July 2023 Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] cites Musk as a prominent voice raising the alarm about population collapse. [[patriots-in-progress|Patriots in Progress]] introduces Musk's data on declining birth rates as corroboration for his argument that the cumulative demographic damage of abortion, disease, sterilization, infertility, war and the [[covid-19-vaccines|Covid vaccine]] campaign may amount to the mortality described in Revelation's fourth seal and sixth trumpet - the death of one quarter and one third of humanity.
 
+
+## Amplification of election-fraud claims (June 2026)
+
+In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], [[burning-bright|Burning Bright]] writes that after [[donald-trump|Donald Trump]] characterized the [[los-angeles|Los Angeles]] mayoral primary result as a theft, "Elon Musk has amplified his signal," prompting what the commentary describes as the standard institutional response of dismissing such claims as "unsubstantiated," "normal process," and "conspiracy theory."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -64,3 +69,4 @@ This page draws on multiple source articles:
 - [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)
 - [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)

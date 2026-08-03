@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md]
 confidence: medium
 contested: true
 ---
@@ -166,6 +166,13 @@ The July 27, 2026 [[badlands-brief-245|Badlands Brief]] devotes its lead item to
 
 The same edition records Trump's statement that [[benjamin-netanyahu|Benjamin Netanyahu]] would not be arrested while visiting the United States, his signing of an executive order addressing DEI mandates that preceded the [[american-bar-association|American Bar Association]]'s rescinding of its law school diversity requirements, and [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s reading of the [[state-department|State Department]] campaign against the [[international-criminal-court|International Criminal Court]] as demonstrating "President Trump's ability to turn the [[deep-state|Deep State]] against itself."
 
+
+## Intervention against an Israeli strike on Iran (June 2026)
+
+In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], Trump is reported to have intervened to prevent a broader renewal of fighting between [[israel|Israel]] and [[iran|Iran]], warning Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] that Israel could find itself "on your own very soon" if it expanded military operations. Speaking to [[axios|Axios]] in comments later confirmed by [[reuters|Reuters]], Trump said he had cautioned Netanyahu against resuming a wider war; Netanyahu subsequently canceled what would have been Israel's largest strike on Iran since the April ceasefire. On June 8 Trump publicly called on both countries to "immediately stop shooting" and relayed a message that Iran did not intend further attacks. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the episode as confirmation of his thesis that Trump has been "waging a war against Israel, using Iran as his [perhaps unwitting] proxy," recalling Trump's remark that "No, I might have forced [Israel's] hand."
+
+The same edition reports that Trump's administration announced the largest federal [[denaturalization|denaturalization]] campaign on record, seeking to revoke the citizenship of seventeen naturalized Americans, and that U.S. officials discussed purchasing the [[chagos-islands|Chagos Islands]] from [[mauritius|Mauritius]] — a plan following Trump's criticism of the [[united-kingdom|U.K.]]–Mauritius handover agreement as "an act of great stupidity." [[burning-bright|Burning Bright]] additionally credits Trump with calling the [[los-angeles|Los Angeles]] mayoral primary result a theft, amplified by [[elon-musk|Elon Musk]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -210,3 +217,5 @@ This page draws on multiple source articles:
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

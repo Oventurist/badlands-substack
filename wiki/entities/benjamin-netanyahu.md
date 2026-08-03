@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md]
 confidence: medium
 contested: true
 ---
@@ -33,6 +33,11 @@ The July 27, 2026 [[badlands-brief-245|Badlands Brief]] recounts a renewed debat
 
 The Brief also uses Netanyahu as a foil for a broader argument about Israeli politics: [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cites opposition leader [[naftali-bennett|Naftali Bennett]] — described as the favorite to defeat Netanyahu in the upcoming October election, and self-described as "ten degrees more right-wing" — to argue that removing Netanyahu would not produce a peace-oriented Israeli government.
 
+
+## Canceled Iran strike (June 2026)
+
+[[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]] reports that Netanyahu canceled what would have been Israel's largest strike on [[iran|Iran]] since the April ceasefire after discussions with President [[donald-trump|Donald Trump]], who warned that Israel could be "on your own very soon" if it expanded operations. Following the intervention Netanyahu said Israel would "hold fire" against Iran while reserving the right to respond if attacked. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] presents the episode as evidence that Trump intends to abandon Netanyahu and leave Israel to face Iran and [[hezbollah|Hezbollah]] alone, and speculates that the "lunatics" Trump once referred to in describing negotiations may have been Netanyahu's cabinet. He also cites [[mark-levin|Mark Levin]]'s complaint — "I don't know why he keeps bashing the Prime Minister of Israel!" — as a sign of a rupture between Trump and Netanyahu's American defenders.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -46,3 +51,4 @@ This page draws on multiple source articles:
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)

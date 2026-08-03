@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [outlet, cable-news, conservative-media, media-criticism]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1c6.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1c6.md, raw/badlands-brief-282.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)

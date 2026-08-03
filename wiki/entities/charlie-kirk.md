@@ -1,10 +1,10 @@
 ---
 title: Charlie Kirk
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [person, conservative-activism, campus, free-speech]
-sources: [raw/a-glaring-double-standard.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,7 @@ According to the article, Kirk — alongside [[ben-shapiro|Ben Shapiro]] — was
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-glaring-double-standard)
+This page draws on multiple source articles:
+
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
