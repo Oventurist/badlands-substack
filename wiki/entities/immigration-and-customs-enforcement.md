@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [government-agency, immigration, enforcement, dhs]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: false
 ---
@@ -16,4 +16,7 @@ Immigration and Customs Enforcement (ICE) is the interior immigration-enforcemen
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

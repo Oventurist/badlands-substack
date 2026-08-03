@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,4 @@ This page draws on multiple source articles:
 
 - [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)

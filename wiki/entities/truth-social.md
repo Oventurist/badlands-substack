@@ -1,10 +1,10 @@
 ---
 title: Truth Social
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [platform, social-media, trump, free-speech]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ Because the essay's central thesis is that Trump communicates in layered code â€
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+This page draws on multiple source articles:
+
+- [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)

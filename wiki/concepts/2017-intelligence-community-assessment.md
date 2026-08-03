@@ -15,3 +15,7 @@ The 2017 Intelligence Community Assessment (ICA) is the classified and partially
 The April 17, 2026 [[badlands-brief-07c|Badlands Brief]] reports that the [[fbi|FBI]] is preparing to question several witnesses in that investigation, focusing specifically on the ICA and how it was developed. Investigators are expected to interview a small group of former intelligence officials involved in drafting the assessment and to examine the origins of the inquiry that produced it. The probe is led by the U.S. Attorney's Office in Miami, has been underway for months, and has already included initial witness interviews.
 
 The Brief states that the investigation centers in part on Brennan's 2023 congressional testimony about the creation of the assessment, and that prosecutors previously informed Brennan he is a target of the inquiry, according to a letter from his attorney. Commentary by [[ashe-in-america|Ashe in America]] frames a prosecution over the ICA as an opening step toward a broader accounting that would also cover unauthorized drone strikes and repeated false statements to [[congress|Congress]].
+
+## Sources
+
+[Original article](https://badlands.substack.com/p/badlands-brief-07c)

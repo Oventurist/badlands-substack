@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [nation, geopolitics, middle-east, conspiracy-narrative]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-glaring-double-standard.md, raw/a-journey-of-ever-changing-truths.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-05f.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md]
 confidence: medium
 contested: true
 ---
@@ -44,8 +44,9 @@ Across the ingested articles, Israel functions as a charged reference point thro
 
 This page draws on multiple source articles:
 
-- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
-- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
-- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 - [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [a hypnotists take on israel palestine](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)

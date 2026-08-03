@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [venezuela, regime-change, sanctions, oil, banking]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ Ghost argues that Maduro's exit was "perfectly timed to coincide with a move aga
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

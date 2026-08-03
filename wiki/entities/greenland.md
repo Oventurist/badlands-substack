@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [greenland, arctic, denmark, geopolitics, tariffs]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

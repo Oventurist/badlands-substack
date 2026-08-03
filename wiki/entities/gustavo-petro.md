@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [colombia, assassination-attempt, cartels, sovereign-alliance, venezuela]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md]
 confidence: high
 contested: false
 ---
@@ -24,4 +24,7 @@ At the same press conference Petro called out the Colombian billionaire banker [
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

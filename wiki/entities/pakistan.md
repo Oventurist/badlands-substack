@@ -1,10 +1,10 @@
 ---
 title: Pakistan
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [pakistan, geopolitics, nuclear, regime-change, south-asia]
-sources: [raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 
 - [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)

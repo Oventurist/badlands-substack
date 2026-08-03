@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [ukraine, head-of-state, war-economy, drones]
-sources: [raw/badlands-brief-07c.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The Brief reports that Zelensky is positioning Ukraine as a global exporter of c
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-07c)
+This page draws on multiple source articles:
+
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

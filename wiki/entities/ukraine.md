@@ -1,14 +1,14 @@
 ---
 title: Ukraine
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags:
   - ukraine
   - hybrid-warfare
   - labor-unions
   - nato
-sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md]
 confidence: medium
 contested: true
 ---
@@ -35,3 +35,4 @@ This page draws on multiple source articles:
 
 - [a more perfect labor union](https://badlands.substack.com/p/a-more-perfect-labor-union)
 - [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)

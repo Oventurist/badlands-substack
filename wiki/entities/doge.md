@@ -1,10 +1,10 @@
 ---
 title: DOGE
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [doge, government-efficiency, trump-administration, bureaucracy]
-sources: [raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ The analogy is paired with a second one in which Israel, Iran, and China are com
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

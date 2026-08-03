@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: true
 ---
@@ -43,3 +43,5 @@ This page draws on multiple source articles:
 - [badlands blitz episode 11](https://badlands.substack.com/p/badlands-blitz-episode-11)
 - [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

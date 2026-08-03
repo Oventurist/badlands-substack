@@ -1,10 +1,10 @@
 ---
 title: Rules-Based International Order
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: concept
 tags: [geopolitics, international-law, unipolarity, sovereignty]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ Ehret also uses the phrase sardonically when discussing nuclear strategy, writin
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+This page draws on multiple source articles:
+
+- [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)

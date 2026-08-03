@@ -1,13 +1,13 @@
 ---
 title: John Brennan
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags:
   - cia
   - counter-terrorism
   - benghazi
-sources: [raw/a-dereliction-of-duty.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md]
 confidence: medium
 contested: true
 ---
@@ -25,4 +25,7 @@ The article also claims that Brennan was working with the [[muslim-brotherhood|M
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-dereliction-of-duty)
+This page draws on multiple source articles:
+
+- [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)

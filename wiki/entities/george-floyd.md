@@ -1,10 +1,10 @@
 ---
 title: George Floyd
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [george-floyd, blm, race-riots, staged-events, 2020]
-sources: [raw/a-journey-of-ever-changing-truths.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-094.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ Floyd occupies the 2020 position in the essay's proposed thirty-year cycle of ma
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+This page draws on multiple source articles:
+
+- [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
