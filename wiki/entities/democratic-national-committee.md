@@ -1,10 +1,10 @@
 ---
 title: Democratic National Committee
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [political-party, campaign-finance, clinton-network, institution]
-sources: [raw/america-for-sale-part-1.md]
+sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md]
 confidence: medium
 contested: true
 ---
@@ -20,6 +20,14 @@ The article further notes that [[bernard-schwartz|Bernard Schwartz]] of [[loral-
 
 In the later Q-oriented sections, the article quotes Q drop #4750 asking who "wields significant influence" over the Clinton and Obama wings of the Democratic Party, and answers that [[prince-alwaleed|Prince Alwaleed bin Talal]] exercised "primary control" over it.
 
+
+## Mortgaging its headquarters (2026)
+
+The July 27, 2026 [[badlands-brief-245|Badlands Brief]] notes reporting by Notus that the DNC had to mortgage its headquarters to fund its operations ahead of the midterm elections, and that it had done so two years in a row. [[ashe-in-america|Ashe in America]] contrasts this with persistent predictions that the midterms would be "a blood bath" for Republicans, remarking that "the democrats are hard up for cash" and asking, "What happened to all the super real and not at all laundered donations?" She presents the episode as part of a broader pattern of institutional resources being stripped from what she characterizes as a corrupt establishment.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-1)
+This page draws on multiple source articles:
+
+- [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)

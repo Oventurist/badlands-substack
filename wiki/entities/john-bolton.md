@@ -1,10 +1,10 @@
 ---
 title: John Bolton
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [neoconservatism, pnac, foreign-policy, regime-change]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-257.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ Bolton's inclusion serves the article's thesis that the neoconservative faction 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/assad-day-in-damascus)
+This page draws on multiple source articles:
+
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [badlands brief 257](https://badlands.substack.com/p/badlands-brief-257)

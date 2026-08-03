@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,13 @@ The article frames Israel's break with the NATO consensus as decisive: having pr
 
 Netanyahu's position is also affected by [[china]]'s $400 billion agreement with [[iran]]: previously good Israeli–Chinese relations strained once Beijing committed nearly half a trillion dollars to the state funding proxies on Israel's borders.
 
+
+## The 2026 New York arrest narrative
+
+The July 27, 2026 [[badlands-brief-245|Badlands Brief]] recounts a renewed debate over the [[international-criminal-court|International Criminal Court]]'s 2024 arrest warrant for Netanyahu. New York City Mayor [[zohran-mamdani|Zohran Mamdani]] released a video declaring Netanyahu a war criminal and stating his intent to arrest him should he set foot in the state, before later clarifying that the city cannot itself execute an ICC warrant. President [[donald-trump|Donald Trump]] publicly defended Netanyahu and said he would not be arrested while visiting the United States. Netanyahu responded on Fox News, accusing Mamdani of antisemitism and of fomenting hatred. [[israel|Israel]] rejects the court's jurisdiction and denies the war crimes allegations underlying the warrant.
+
+The Brief also uses Netanyahu as a foil for a broader argument about Israeli politics: [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cites opposition leader [[naftali-bennett|Naftali Bennett]] — described as the favorite to defeat Netanyahu in the upcoming October election, and self-described as "ten degrees more right-wing" — to argue that removing Netanyahu would not produce a peace-oriented Israeli government.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -38,3 +45,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)

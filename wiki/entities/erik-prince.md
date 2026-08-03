@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [private-military-contractors, blackwater, venezuela, iraq]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-257.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ Within an hour or two of Prince's 2026 television appearance, Trump publicly inv
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 257](https://badlands.substack.com/p/badlands-brief-257)

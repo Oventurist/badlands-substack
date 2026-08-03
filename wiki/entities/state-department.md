@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [us-government, foreign-policy, terrorism-designation, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
 confidence: medium
 contested: true
 ---
@@ -48,6 +48,13 @@ A further episode concerns [[doug-band|Doug Band]]'s July 27, 2009 request to Ab
 
 In [[america-for-sale-part-3|America for Sale — Part 3]], the State Department appears twice. The New York Times reporting quoted there notes that because uranium is a strategic asset, the sale of [[uranium-one|Uranium One]] to Russia required approval by a committee of federal agencies, and that "among the agencies that eventually signed off was the State Department, then headed by Mr. Clinton's wife, [[hillary-clinton|Hillary Rodham Clinton]]." The article also states that repeated attempts by U.S. marshals to arrest the fugitive trader [[marc-rich|Marc Rich]] in Switzerland failed because "someone in the State Department would always tip him off," which it attributes to Rich's ties to the [[cia|CIA]].
 
+
+## Campaign against the ICC (July 2026)
+
+The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that Secretary of State [[marco-rubio|Marco Rubio]] announced a campaign aimed at dismantling the [[international-criminal-court|International Criminal Court]], arguing that the tribunal threatens U.S. sovereignty and improperly targets American military personnel and officials, with the effort including encouragement for other countries to distance themselves from the court. The department subsequently welcomed [[venezuela|Venezuela]]'s decision to withdraw from the [[rome-statute|Rome Statute]] and called on other countries to follow suit, according to a statement reported by Anadolu Agency. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the department's use of the Venezuelan withdrawal as a rallying cry as evidence of President [[donald-trump|Donald Trump]]'s ability "to turn the [[deep-state|Deep State]] against itself."
+
+The same edition raises the department in a very different register: responding to allegations by Russian [[state-duma|State Duma]] Deputy Speaker [[anna-kuznetsova|Anna Kuznetsova]] concerning the trafficking and deportation of Ukrainian children, the commentator asks "to what extent is the State Department and [[congress|Congress]] involved" and whether such involvement would explain bipartisan support for [[ukraine|Ukraine]]'s war effort.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -62,3 +69,4 @@ This page draws on multiple source articles:
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)

@@ -1,10 +1,10 @@
 ---
 title: Bari Weiss
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [person, journalist, free-speech, cancel-culture]
-sources: [raw/a-glaring-double-standard.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-245.md]
 confidence: medium
 contested: true
 ---
@@ -28,6 +28,14 @@ The author of the article, [[ryan-delarme|Ryan DeLarme]], states he agrees with 
 
 The article's central charge is that Weiss's free speech advocacy was conditional. In its conclusion, it argues that conservative figures such as [[ben-shapiro|Ben Shapiro]], Weiss, and Dave Rubin — "who once decried 'safe spaces' and cancel culture, but now cheer or tacitly support the silencing of Israel critics" — revealed "that their commitment to free speech was always conditional, tethered to tribal loyalties rather than principle."
 
+
+## Referenced at the 2026 Correspondents' Dinner
+
+The July 27, 2026 [[badlands-brief-245|Badlands Brief]] records that during his speech at the rescheduled [[white-house-correspondents-association|White House Correspondents' Association]] Dinner, President [[donald-trump|Donald Trump]] delivered what [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] called "this banger of a joke calling Bari Weiss a gay dictator over [[cbs|CBS News]]." The reference places Weiss in an editorial leadership role at CBS News as of mid-2026.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-glaring-double-standard)
+This page draws on multiple source articles:
+
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)

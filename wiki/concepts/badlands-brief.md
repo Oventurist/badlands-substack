@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: concept
 tags: [badlands-media, newsletter, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
 confidence: medium
 contested: false
 ---
@@ -30,6 +30,11 @@ The July 18, 2026 announcement for [[badlands-blitz-episode-25|Badlands Blitz Ep
 ## March 18, 2026 edition
 
 The [[badlands-brief-1cd|March 18, 2026 Brief]], titled "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent," covered President [[donald-trump|Donald Trump]]'s campaign for the [[save-america-act|SAVE Act]], the resignation of [[joe-kent|Joe Kent]] over the [[iran|Iran]] war, [[nato|NATO]] allies' refusal to join a [[strait-of-hormuz|Strait of Hormuz]] coalition, [[james-comer|James Comer]]'s subpoena of [[pam-bondi|Pam Bondi]], the reported killing of [[ali-larijani|Ali Larijani]], and a bonus item on [[venezuela|Venezuela]]'s [[world-baseball-classic|World Baseball Classic]] title.
+
+
+## Edition of July 27, 2026
+
+The edition titled "[[badlands-brief-245|Trump Roasts The Press; Teases 2028 Run]]" carried an unusual editor's note explaining that Substack had deleted the entire post without saving any drafts, requiring the issue to be remade the following morning while the editor was on a plane. The edition covered President [[donald-trump|Donald Trump]]'s speech at the [[white-house-correspondents-association|White House Correspondents' Association]] Dinner, the [[state-department|State Department]] campaign against the [[international-criminal-court|International Criminal Court]], security clearance questions surrounding [[jack-smith|Jack Smith]]'s former team, allegations by Russian Deputy Speaker [[anna-kuznetsova|Anna Kuznetsova]] regarding Ukrainian children, the effort to end [[american-bar-association|American Bar Association]] accreditation authority, and the reported Ukrainian strike on Iranian shipping in the [[caspian-sea|Caspian Sea]].
 
 ## Sources
 
@@ -62,3 +67,4 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)

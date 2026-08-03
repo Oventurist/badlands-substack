@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md]
 confidence: high
 contested: false
 ---
@@ -36,6 +36,13 @@ In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlso
 
 Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] quotes a Ledger Insights report on Putin's response to international sanctions: speaking at a Sberbank conference on artificial intelligence, he proposed a digital currency payment system for cross-border transactions independent of banks and similar to the hawala remittance network. "We are all well aware that in today's illegitimate restrictions, one of the lines of attack is settlements," Putin said, adding that the international payment system is expensive and that its correspondent accounts and regulation are "controlled by a narrow club of states and financial groups… In fact, they are the masters of life. They really control everything (through a) monopoly." He argued that "based on digital currency technologies and distributed registries, it is possible to create a new system of international payments, and much more convenient. But at the same time completely safe for participants and completely independent of banks and third-party interference." Lange treats the remarks as a public statement of what the [[brics]] bloc is building and as evidence that the [[cabal]] is reacting to digital currency rather than leading it.
 
+
+## Navy Day remarks on piracy
+
+The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that during Russia's Navy Day events Putin convened his naval commanders and said Russian authorities should respond decisively to attempts to seize Russian vessels while acting within international maritime law, comparing such situations to efforts against piracy. He described the incidents as "attempts by ill-intentioned parties to pressure our fleet, including the commercial fleet," and stated: "In such cases, of course, we must act cautiously, within the framework of international maritime law, but decisively – just as piracy and pirates must be fought. I hope for your effective work in this field – protecting our fleet."
+
+The remarks came amid Moscow's continuing criticism of Western enforcement actions targeting ships associated with Russian trade under international sanctions, and followed reported Ukrainian strikes on shipping in the Black, Mediterranean and [[caspian-sea|Caspian]] Seas. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] emphasizes that in international maritime law pirates were historically branded "the enemies of mankind."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -51,3 +58,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)

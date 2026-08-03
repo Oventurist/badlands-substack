@@ -1,10 +1,10 @@
 ---
 title: Pam Bondi
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [attorney-general, department-of-justice, appointments, prosecutions]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md]
 confidence: high
 contested: false
 ---
@@ -28,6 +28,11 @@ The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that [[house-co
 
 The Justice Department called the subpoena "completely unnecessary," stating that lawmakers had been invited to view the unredacted files in person, that Bondi "has always made herself available to speak directly with members of Congress," and that the Department had offered to brief the committee the following day. [[ashe-in-america|Ashe in America]] noted that Bondi's Wednesday briefing offer preceded the Tuesday spectacle in which legislators "pounded tables."
 
+
+## Letter stripping ABA access to judicial nominations
+
+The July 27, 2026 [[badlands-brief-245|Badlands Brief]] recalls that in the previous year Bondi, as Attorney General, sent a letter to the [[american-bar-association|American Bar Association]] revoking its preferred access to the judicial nomination process. [[ashe-in-america|Ashe in America]] quotes the letter: "While the ABA is free to comment on judicial nominations along with other activist organizations, there is no justification for treating the ABA differently from such other activist organizations and the Department of Justice will not do so." The item is presented as an antecedent to Rep. [[brandon-gill|Brandon Gill]]'s 2026 effort to strip the ABA of its authority to accredit law schools.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -36,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)

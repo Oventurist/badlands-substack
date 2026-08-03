@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [cuba, latin-america, diplomacy, regime-change]
-sources: [raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md]
 confidence: medium
 contested: true
 ---
@@ -25,4 +25,7 @@ The commentary observes an apparent reversal of long-standing exile and neoconse
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-095)
+This page draws on multiple source articles:
+
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 257](https://badlands.substack.com/p/badlands-brief-257)

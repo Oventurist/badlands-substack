@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [ukraine, head-of-state, war-economy, drones]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
 confidence: medium
 contested: true
 ---
@@ -20,6 +20,13 @@ The Brief reports that Zelensky is positioning Ukraine as a global exporter of c
 
 [[burning-bright|Burning Bright]] characterizes the development as "the curious case of Ukraine's battlefield evolution — the one Volodymyr Zelensky himself is now openly pitching to the highest bidders." He argues that a conflict initially presented as "a supposed human meat grinder" has pivoted with startling speed toward fully autonomous systems — ground robotic platforms, drone swarms, and unmanned vehicles — that are taking over the war narrative "without a single infantryman crossing the wire." From this he infers that the war served as narrative cover allowing both Ukraine and Russia to fast-track sovereign supply chains, accelerated manufacturing, and leaps in autonomy that peacetime bureaucracy would have delayed for decades. This reading is interpretive contributor commentary rather than reporting.
 
+
+## Naval strikes on Russian, Turkish and Iranian shipping
+
+The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that Zelensky said Ukraine had conducted long-range strikes against vessels involved in military cargo shipments linked to [[iran|Iran]], as well as against a warship, after Iran accused Ukraine of attacking an Iranian commercial vessel in the [[caspian-sea|Caspian Sea]] and killing one sailor. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] notes that because the Caspian lies on the opposite side of [[russia|Russia]] from Ukraine, the strike would have required flying a drone over Russian territory.
+
+Tallying the week, the Brief states that Zelensky had bombed cargo ships from Russia, [[turkey|Turkey]] and Iran across the Black, Mediterranean and Caspian Seas, including an attack the previous week on 13 ships in the Black Sea that killed a sailor and involved at least one Turkish vessel. The commentary predicts that this pattern makes a Russia–Turkey–Iran naval alliance "all but a certainty."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -27,3 +34,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
