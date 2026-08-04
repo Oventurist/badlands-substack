@@ -8,7 +8,7 @@ tags:
   - hybrid-warfare
   - labor-unions
   - nato
-sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md, raw/badlands-brief-1ef.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5dc.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md, raw/badlands-brief-1ef.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -33,6 +33,12 @@ The July 2023 essay A Virus, or a Metaphor? names Ukraine as a site of alleged b
 
 The March 27, 2026 Badlands Brief reports that the United States has linked long-term security guarantees for Ukraine to potential concessions around territory and alliances, with officials reportedly ready to finalize guarantees at a high level once Ukraine accepts withdrawal from Donbas. Commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues Russia dominates Ukraine and that the West will ultimately be forced to accept the deal [[vladimir-putin|Putin]] first presented at the outset of the war — a settlement the commentator frames as the first major inversion of the [[rules-based-international-order|rules-based international order]]. The same edition notes that [[hungary|Hungary]] cut natural gas supplies to Ukraine amid disputes over Russian oil transit.
 
+
+
+## Ceasefire violations and end-of-war talk (May 2026)
+
+The May 12, 2026 Badlands Brief reports that [[vladimir-putin|Vladimir Putin]] suggested during Russia's Victory Day events that the conflict may be "coming to an end," a suggestion President [[volodymyr-zelensky|Volodymyr Zelensky]] rejected, while both Kyiv and Moscow accused each other of violating the fragile US-brokered ceasefire.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -44,3 +50,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

@@ -1,10 +1,10 @@
 ---
 title: 2020 United States Presidential Election
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-06
 type: concept
 tags: [election, election-fraud, litigation, 2020]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5ba.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,12 @@ Because Trump is now a defendant, the essay argues, he possesses powers of disco
 
 The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] announced a "Speech to the Nation," widely speculated to address newly declassified intelligence on foreign interference in the 2020 election, with mainstream outlets including MSN and Polymarket claiming the speech would address foreign interference "known but previously covered up."
 
+
+
+## The Politico "stolen election" poll (May 2026)
+
+The May 12, 2026 Badlands Brief highlights a [[politico|Politico]] poll finding that only about 39% of respondents said without reservation that the 2020 election was not stolen, while roughly 40% said the [[2026-united-states-midterm-elections|2026 midterms]] were unlikely to be stolen. [[ashe-in-america|Ashe in America]] cites the poll as evidence that "elections are fake, and everyone knows it."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -34,3 +40,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

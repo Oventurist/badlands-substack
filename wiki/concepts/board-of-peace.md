@@ -1,10 +1,10 @@
 ---
 title: Board of Peace
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: concept
 tags: [gaza, ceasefire, governance, trump-administration, davos]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -22,6 +22,11 @@ A signing ceremony was scheduled for Thursday at 10:30 a.m. during the [[world-e
 
 Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] frames the launch as an assault on the WEF and a de facto rival to the United Nations, and connects it to Israeli Finance Minister [[bezalel-smotrich|Bezalel Smotrich]]'s call to dismantle the [[civil-military-coordination-centre|Civil Military Coordination Centre]] at Kiryat Gat, which hosts the [[international-stabilization-force|International Stabilization Force]].
 
+
+## April 2026: Trump's prohibition and Smotrich's defiance
+
+The Brief of April 20, 2026 reports [[donald-trump|Trump]]'s [[truth-social|Truth Social]] post declaring that Israel is "PROHIBITED" from further bombing in [[lebanon|Lebanon]] after the U.S.-brokered ceasefire — remarks that reportedly surprised [[benjamin-netanyahu|Netanyahu]] — while [[bezalel-smotrich|Smotrich]] renewed calls for the [[israel-defense-forces|IDF]] to reoccupy all of [[gaza|Gaza]] and establish new settlements there, "going against President Trump and the Board of Peace."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -29,3 +34,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

@@ -1,10 +1,10 @@
 ---
 title: The Blitz
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: concept
 tags: [badlands-media, media-program, substack, citizen-journalism]
-sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-095.md]
+sources: [raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-17.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-095.md, raw/badlands-brief-625.md]
 confidence: high
 contested: false
 ---
@@ -48,6 +48,11 @@ Episode 18, "Tina Peters Coming Out; Speech Laws Coming In," followed on May 23,
 
 Episode 19, "The Media Guesses the Game ... Too Late," followed on May 30, 2026, hosted by [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]]. It addressed "the ongoing flirtation between the Trump Administration and the Real, but also Fake Iranian Regime," the belated recognition by "select segments of the [[media-industrial-complex|Media Industrial Complex]]" of the strategic picture Badlands writers claim to have described in advance, and the long-run requirements for stability in a multipolar world.
 
+
+## April 2026: Episode 13 returns
+
+The Brief of April 20, 2026 promotes the return of the Badlands Blitz after a short hiatus: Episode 13 features [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] and [[burning-bright|Burning Bright]] attempting to make sense of "the on-again, off-again, real, but also fake war between the US & [[iran|Iran]]," with a freeze frame and caption summing up the state of play.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -77,3 +82,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 8](https://badlands.substack.com/p/badlands-blitz-episode-8)
 - [badlands blitz episode 9](https://badlands.substack.com/p/badlands-blitz-episode-9)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

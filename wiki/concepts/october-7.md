@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, gaza-war, idf, reservists, event]
-sources: [raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-5dc.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -22,6 +22,14 @@ The commentary argues that because reservists are Israeli citizens who constitut
 
 October 7 also marks the point at which [[benjamin-netanyahu|Netanyahu]]'s predecessor as prime minister was politically consumed: the commentary notes that IDF Chief of Staff [[eyal-zamir|Eyal Zamir]] was appointed by Netanyahu after his predecessor "became the scapegoat for October 7."
 
+
+## April 2026: the reservist crisis
+
+The Brief of April 20, 2026 cites a Haaretz investigation by Tom Levinson documenting an explosion in suicide, depression, and PTSD among [[israel-defense-forces|IDF]] reservists forced into military service after October 7. Many have served six or seven tours — including those diagnosed with PTSD who should have been disqualified — and are psychologically broken by what they witnessed in [[gaza|Gaza]] and the [[west-bank|West Bank]]; reservists who refused were arrested. The crisis is presented as evidence of the trauma the war has inflicted on Israelis themselves.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-5dc)
+This page draws on multiple source articles:
+
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

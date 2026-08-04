@@ -1,10 +1,10 @@
 ---
 title: David Solomon
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [banking, wall-street, goldman-sachs, executives]
-sources: [raw/badlands-brief-169.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: false
 ---
@@ -17,6 +17,15 @@ David Solomon is the Chairman and Chief Executive Officer of [[goldman-sachs|Gol
 
 "Condemnation, Calibration, & Constitutional Boxes" reports that sources indicate Treasury Secretary [[scott-bessent|Scott Bessent]] met with Solomon earlier in 2026 in New York. Bessent reportedly delivered a direct message urging the bank's cooperation with federal investigators and warning of potential scrutiny of the role played by Goldman's donor-advised philanthropy fund in moving more than $110 million of [[neville-roy-singham|Neville Roy Singham]]'s money into United States nonprofits. The meeting is presented in the corpus as an example of executive-branch pressure applied outside formal legal process in parallel with the Manhattan grand jury inquiry overseen by U.S. Attorney [[jay-clayton|Jay Clayton]].
 
+
+
+## China business delegation (May 2026)
+
+The May 12, 2026 Badlands Brief reports that Solomon, as CEO of [[goldman-sachs|Goldman Sachs]], was among the executives expected to accompany President [[donald-trump|Donald Trump]] to [[china|China]] ahead of the [[2026-trump-xi-summit|Trump–Xi summit]], part of a delegation of American financial leadership pushing for new economic agreements with Beijing.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-169)
+This page draws on multiple source articles:
+
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

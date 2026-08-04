@@ -1,10 +1,10 @@
 ---
 title: Iran
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -55,6 +55,20 @@ Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] c
 
 The July 14, 2026 Badlands Brief reports that former President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]] was reportedly placed under house arrest as Iranian authorities investigated suspected Israeli intelligence infiltration, questioning him over alleged contacts with individuals accused of links to [[mossad|Mossad]]. The arrest came amid a sweeping internal security crackdown following Iran's military confrontation with [[israel|Israel]], with numerous arrests, investigations, and reported executions in espionage-related cases. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the affair as the unravelling of a Mossad infiltration network inside the Iranian government and intelligence community, tying it to the [[continuity-of-government|Continuity of Government]] protocol implemented in August 2025 and to the financial-warfare episode in which operatives were geo-located after Russia helped Iran hack [[elon-musk|Starlink]].
 
+
+
+## Summit agenda and the "very stupid proposal" (May 2026)
+
+The May 12, 2026 Badlands Brief reports that the [[2026-trump-xi-summit|Trump–Xi summit]] talks were expected to focus heavily on the Iran conflict and sanctions, and that President [[donald-trump|Donald Trump]] told [[nancy-cordes|Nancy Cordes]] of [[cbs|CBS News]] that Tehran had offered concessions tied to its nuclear program in response to the US peace proposal but that the response still fell short: "They made concessions, but not enough," he said, calling it a "very stupid proposal."
+
+## April 2026: naval incident and re-escalation
+
+The Brief of April 20, 2026 reports that [[u-s-central-command|CENTCOM]] said American forces enforced naval blockade measures against the Iranian-flagged cargo vessel M/V Touska on April 19, with the [[uss-spruance|USS Spruance]] intercepting the ship in the north Arabian Sea, firing into its engine room after warnings, and taking it into custody after U.S. Marines boarded. Iran described the seizure as American "armed piracy" and said it would respond; Iranian state media said Tehran would not participate in a second round of negotiations the U.S. had hoped to start before the ceasefire expired, and there were fresh reports of Iran firing on a vessel in the [[strait-of-hormuz|Strait of Hormuz]]. The Brief reads the episode as the latest oscillation in [[donald-trump|Trump]]'s policy, arguing the key question is who the escalatory narratives emanate from, and notes that [[israel|Israel]] continues to fight both [[hezbollah|Hezbollah]] and the [[islamic-revolutionary-guard-corps|IRGC]] with the stated aim of toppling the government in Tehran — an objective the commentary calls increasingly impossible.
+
+## Netanyahu's July 2026 nuclear and chemical weapons claims
+
+The July 8, 2026 Badlands Brief reports that [[benjamin-netanyahu|Benjamin Netanyahu]] stated Iran was on the verge of developing nuclear weapons, which he said helped trigger the recent military conflict involving Israel and the United States, and that the operations significantly set back Iran's nuclear program by destroying much of its infrastructure — including centrifuges and manufacturing facilities — and eliminating 20 of its top nuclear scientists. While conceding that Iran currently lacks the capability to build a nuclear bomb, Netanyahu warned that it still poses a serious long-term danger, with the Brief's headline adding that "Netanyahu and Mossad Media" now claim Iran has chemical weapons and still poses a "mortal danger." Badlands commentary dismisses the claims as the latest excuse for continuing the war, arguing that as long as "the Zionist State of Israel" exists, the war will never end.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -79,3 +93,6 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

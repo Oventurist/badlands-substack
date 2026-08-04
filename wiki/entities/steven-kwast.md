@@ -1,10 +1,10 @@
 ---
 title: Steven Kwast
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-06
 type: entity
 tags: [military, air-force, aviation, badlands-media]
-sources: [raw/a-mysterious-masterclass-in-multi.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -20,6 +20,14 @@ Kwast's principal contribution to the piece is an anecdote from Air Force flight
 
 Asked what the equivalent instruments are in the [[information-war|information war]], Kwast answered that they are "the trust between each of us, and our ability to use our individual skills and knowledge, working together, to triangulate what's true" — a formulation the author adopts as the essay's conclusion.
 
+
+## April 2026: GeoSpatial Politics
+
+The Brief of April 20, 2026 reports that Kwast joined [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] on Space Revolution episode 14, "The Dawn of GeoSpatial Politics," to discuss the field they coined — otherwise known as geopolitics in space. The episode contrasts terrestrial geography (with the [[strait-of-hormuz|Strait of Hormuz]] and its link to energy prices as the example) with space, where there is no geography, and asks how that changes diplomacy and trade.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)
+This page draws on multiple source articles:
+
+- [a mysterious masterclass in multi](https://badlands.substack.com/p/a-mysterious-masterclass-in-multi)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

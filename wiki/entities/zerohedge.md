@@ -1,10 +1,10 @@
 ---
 title: "ZeroHedge"
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [media, finance, alternative-media, information-war]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-1cd.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-625.md]
 confidence: high
 contested: false
 ---
@@ -20,9 +20,15 @@ The March 16, 2026 Badlands Brief cites a ZeroHedge article of the same date rep
 
 The March 18, 2026 Badlands Brief cites a ZeroHedge article, "Not Our War: Allies Shun Trump Coalition, Iran Security Chief Alleged Killed, Oil," for the reporting that [[russia|Russia]] is pushing [[iran|Iran]] to stay in the fight — treating the continuation of the conflict as either a negotiating chip or a proxy war against [[israel|Israel]] — and that [[china|China]] is likewise working to keep Iran engaged.
 
+
+## April 2026: the Atlantic-Patel dispute
+
+The Brief of April 20, 2026 cites a ZeroHedge opinion article, credited to Matt Margolis via PJMedia and published under the "Tyler Durden" pseudonym, that criticized the [[the-atlantic|Atlantic]]'s report on FBI Director [[kash-patel|Kash Patel]] and argued the magazine could face legal consequences, citing attorney Jesse Binnall's statements disputing the claims.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

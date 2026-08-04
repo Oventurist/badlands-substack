@@ -1,10 +1,10 @@
 ---
 title: Pakistan
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [pakistan, geopolitics, nuclear, regime-change, south-asia]
-sources: [raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-3d4.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-3d4.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -20,6 +20,11 @@ The article contends that when the Biden administration and the foreign policy e
 
 Referencing the earlier Badlands article "Operation Cyclone: The Seeds of Terror," the source argues that Pakistan is indispensable to the United States as an ally against [[russia]], just as it was in the 1980s when the Reagan government armed and funded the [[al-qaeda]] precursors fighting the Soviets. A continuing function of the ISI, it says, is to act as a clearinghouse for U.S. weapons, equipment and funds destined for [[cia]] and Department of Defense conflict zones. The article observes that "we already have more conflict with Pakistan than the NatSec wizards would like," and lists Pakistan among the nuclear-armed states that a mishandled Iran crisis could draw in, alongside [[india]].
 
+
+## April 2026: talks venue and the security architecture
+
+The Brief of April 20, 2026 reports that [[donald-trump|Trump]] said U.S. negotiators would head to Pakistan on Monday for a second round of talks with [[iran|Iran]], though the M/V Touska seizure left the status of those talks unclear and Pakistan had begun tightening security in Islamabad without confirming a second round. Pakistan also participated in the [[antalya-diplomacy-forum|Antalya Diplomacy Forum]] meeting hosted by [[turkey|Turkey]] with [[egypt|Egypt]] and [[saudi-arabia|Saudi Arabia]], and is described in the emerging security architecture as "the sole Muslim nation with nuclear weapons."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -30,3 +35,4 @@ This page draws on multiple source articles:
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

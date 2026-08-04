@@ -1,10 +1,10 @@
 ---
 title: Pentagon
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [us-government, military, benghazi, department-of-defense]
-sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -28,6 +28,10 @@ The Badlands Media article A More Perfect (Labor) Union (October 2025) by [[ryan
 
 The July 14, 2026 Badlands Brief reports that the Pentagon and the [[department-of-justice|Department of Justice]] established a joint task force to identify and prosecute unauthorized disclosures of sensitive information to the news media, with War Secretary [[pete-hegseth|Pete Hegseth]] delegating authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations. The announcement followed the administration's subpoenas to several [[new-york-times|New York Times]] journalists over the outlet's report on President [[donald-trump|Trump]]'s Qatari-donated [[air-force-one|Air Force One]].
 
+## European force reductions and the six-month review (July 2026)
+
+The July 8, 2026 Badlands Brief reports that the Pentagon had scaled back some U.S. forces in Europe and launched a six-month review of its presence there ahead of the Ankara [[nato|NATO]] summit, with War Secretary [[pete-hegseth|Pete Hegseth]] describing allies' refusal to provide base access for the U.S.-led campaign against [[iran|Iran]] as "shameful." President [[donald-trump|Donald Trump]] refused to rule out further reductions in the U.S. military footprint, declaring "I just want loyalty" after allies declined to open air bases for strikes or contribute forces to help reopen the [[strait-of-hormuz|Strait of Hormuz]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -39,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

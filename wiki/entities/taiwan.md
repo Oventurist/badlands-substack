@@ -1,10 +1,10 @@
 ---
 title: Taiwan
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [east-asia, maritime-disputes, china, geopolitics]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-brief-618.md]
 confidence: high
 contested: false
 ---
@@ -17,9 +17,16 @@ Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi reports i
 
 Taiwan objected to a planned maritime delimitation negotiation between Japan and the Philippines, announced at a May 28 Tokyo summit by Prime Minister [[sanae-takaichi|Sanae Takaichi]] and President [[ferdinand-marcos-jr|Ferdinand Marcos Jr.]], stating that the area overlaps waters in which Taiwan claims rights and interests and urging Tokyo and Manila to consult Taipei. Taiwan's coast guard said it deployed at least five vessels in response to the Chinese operation and monitored four Chinese government vessels departing from Xiamen.
 
+
+
+## Agenda of the 2026 Trump–Xi summit
+
+The May 12, 2026 Badlands Brief reports that the [[2026-trump-xi-summit|Trump–Xi summit]] talks were expected to address escalating US-China tensions over Taiwan and military posture in the Pacific, alongside the [[iran|Iran]] conflict, sanctions, and AI coordination, with analysts arguing Beijing entered the summit with increased leverage.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

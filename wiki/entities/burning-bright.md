@@ -1,10 +1,10 @@
 ---
 title: Burning Bright
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -51,6 +51,15 @@ In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, Burni
 ## Media leaks task force commentary (July 2026)
 
 In the July 14, 2026 Badlands Brief, Burning Bright frames the joint [[department-of-justice|DOJ]]–[[pentagon|Pentagon]] task force on media leaks through his fifth-generation-warfare lens, arguing that illegal psychological warfare operations have been waged against the American people for generations and that the [[media-industrial-complex|Media Industrial Complex]] "has not just participated in said PsyOps, but been the main vector of psychological control." He argues that the [[donald-trump|Trump]] administration's war on the media and [[military-industrial-complex|military industrial complexes]] — which he treats as one and the same complex — is itself a counter-insurgency operation, best understood as fifth-generation war.
+
+## The Trump–Xi summit and the Sovereign Alliance (May 2026)
+
+In the May 12, 2026 Badlands Brief, Burning Bright contributes the lead commentary on the [[2026-trump-xi-summit|Trump–Xi Beijing summit]], arguing that it is "being framed as a flashpoint, not just by us, but by the Globalist Hegemon itself," because the Hegemon fears "the coordinated whole" of what he calls the Sovereign Alliance — Washington, Moscow and Beijing — "operating under an emergent and accelerating translation layer of pragmatism that is increasingly bipartisan." He describes the prolongation of the global crises as "Narrative Shielding" allowing the three powers to advance coordinated interests "without triggering the total-spectrum alarm the old architecture requires to maintain control," and reads [[vladimir-putin|Putin]]'s Victory Day signals as shifting the "Narrative Timeline" on [[ukraine|Ukraine]] toward a Trump-brokered détente. That détente, he writes, "may be translated on the basis of Russia and Ukraine, but it is actually between the emergent Sovereign Alliance and the Western Hegemon," with the de-escalations serving as "off-ramps in one theater being used to grease the rails toward on-ramps in others" while the Hegemon's "systemic rot" is exposed.
+
+
+## April 2026: narrative layers and the Iran war
+
+The Brief of April 20, 2026 opens with Burning Bright's quote — "Donald Trump and Iran know how this story ends" — from [[the-blitz|Badlands Blitz]] Episode 13, recorded with [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] before the latest [[strait-of-hormuz|Strait of Hormuz]] incidents. He argues that navigating the "engineered fog" of the war requires operating on narrative layers only, that the key question is who the escalatory narratives emanate from, and that the Globalist Hegemon has been cornered by the [[sovereign-alliance|Sovereign Alliance]]'s "series of peaceful pincers." His long-form essay "Of Breakers and Builders" is promoted as detailing what is being dismantled and what is being built in its place.
 
 ## Sources
 
@@ -99,3 +108,5 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

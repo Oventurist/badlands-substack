@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [military, israel, conscription, religion]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -37,6 +37,11 @@ The March 27, 2026 Badlands Brief reports that IDF Chief of Staff [[eyal-zamir|E
 
 Badlands commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues the army is stretched too thin to fight its multi-front war — including Defense Minister [[israel-katz|Israel Katz]]'s announced invasion of southern Lebanon to destroy [[hezbollah|Hezbollah]] and annex territory south of the [[litani-river|Litani River]] — and concludes that if the IDF does not collapse, it could mutiny against the IDF or government leadership.
 
+
+## April 2026: Lebanon campaign and abuse allegations
+
+The Brief of April 20, 2026 reports that the IDF was ordered to use "full force" against threats in [[lebanon|Lebanon]] despite the temporary truce, with Defense Minister [[israel-katz|Israel Katz]] saying homes allegedly used by [[hezbollah|Hezbollah]] would be leveled. The military published maps of a new deployment line creating a [[forward-defense-zone|"Forward Defense Zone"]] 5-10 kilometers inside Lebanon, where five divisions backed by naval forces operate; commentary identifies the short-term objectives as capturing [[mount-hermon|Mount Hermon]] and shifting the maritime boundary to annex the [[qana-gas-field|Qana Gas Field]]. The IDF also verified as authentic a video of a soldier smashing a statue of Jesus in Debl, and was reported to have destroyed the [[tomb-of-saint-peter|Tomb of Saint Peter]] "by accident." The Brief catalogs abuse allegations — [[shaiel-ben-ephraim|Ben-Ephraim]]'s torture and rape reports, the leaked 2024 video of soldiers gang-raping a Palestinian prisoner (whose leakers, the IDF's top two lawyers, were prosecuted), bulldozers crushing people alive, soldiers urinating on bodies, and an occupied Lebanese kitchen posted by a female soldier — and cites a Haaretz investigation into suicide, depression, and PTSD among reservists forced into six or seven tours since [[october-7|October 7]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -48,3 +53,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

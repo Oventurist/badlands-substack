@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [asset-manager, finance, media-ownership, institutional-investor]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ce.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ce.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -18,9 +18,16 @@ A Swan Song for the MSM argues that while the "Big Six" media groups — [[time-
 
 It further asserts that representatives of these asset managers "remain regular fixtures at elitist policy think tanks such as the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[world-economic-forum|World Economic Forum]]," a connection the author uses to move from a claim about share ownership to a claim about coordinated narrative control by "the big 1—the Western establishment, the system of systems."
 
+
+
+## China business delegation (May 2026)
+
+The May 12, 2026 Badlands Brief reports that BlackRock chairman and CEO [[larry-fink|Larry Fink]] was among the executives expected to accompany President [[donald-trump|Donald Trump]] to [[china|China]] ahead of the [[2026-trump-xi-summit|Trump–Xi summit]] as the administration pushed for new economic agreements with Beijing.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

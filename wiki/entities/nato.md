@@ -1,10 +1,10 @@
 ---
 title: NATO
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [agency, foreign-policy]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-577.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-577.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -42,6 +42,10 @@ The March 18, 2026 Badlands Brief reports that NATO allies flatly refused Presid
 
 In comments reported in the January 26, 2026 Badlands Brief, President [[donald-trump|Donald Trump]] suggested that NATO members could demonstrate the alliance's value by sending troops to help secure the United States' southern border, musing on social media that invoking the alliance's mutual defense obligations under Article Five — traditionally applied to armed attacks on member states — might compel allied forces to assist with border security. Badlands contributor GhostofBasedPatrickHenry read the remark as Trump trolling NATO in response to Republican lawmakers' backing of Venezuelan opposition figure [[maria-corina-machado|María Corina Machado]]. The same edition reports that Trump announced a "framework of a future deal" with Secretary General [[mark-rutte|Mark Rutte]] that temporarily paused tariff actions tied to the [[greenland|Greenland]] dispute, and that NATO allies had warned Trump's Greenland rhetoric undermines long-standing security arrangements and trust.
 
+## The Ankara summit (July 2026)
+
+The July 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] arrived at the NATO summit in Ankara still seething over European allies' refusal to support the U.S.-led military campaign against [[iran|Iran]] — declining to open air bases for strikes or contribute forces to help reopen the [[strait-of-hormuz|Strait of Hormuz]] — and declared, "I just want loyalty," while refusing to rule out further reductions in the U.S. military footprint in Europe. Secretary-General [[mark-rutte|Mark Rutte]] used the summit to urge members to acknowledge that Trump was right about burden-sharing, crediting him with triggering a surge in European defense spending — $250 billion in new commitments from the 31 non-U.S. members over two years — and invoking [[dwight-eisenhower|Eisenhower]] in defense of the push. Trump posted memes targeting [[giorgia-meloni|Giorgia Meloni]], dismissed [[keir-starmer|Keir Starmer]] as weak, and exchanged warm compliments with host [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]], saying the only reason he attended was that the summit was hosted by his "dear friend." Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the episode as evidence that "America is done with that organization" and of the [[sovereign-alliance|Sovereign Alliance]] endeavoring to supplant the unipolar hegemony with a new multipolar world order.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -62,3 +66,4 @@ This page draws on multiple source articles:
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

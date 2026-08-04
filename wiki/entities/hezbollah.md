@@ -7,7 +7,7 @@ tags:
   - lebanon
   - terrorism
   - iran
-sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-3d4.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-3d4.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -25,6 +25,11 @@ According to the source, Hezbollah's funding through stolen Iraqi cash represent
 
 The March 27, 2026 Badlands Brief reiterates Defense Minister [[israel-katz|Israel Katz]]'s announcement of a massive invasion of southern Lebanon to destroy Hezbollah and annex everything south of the [[litani-river|Litani River]], in the context of [[eyal-zamir|Eyal Zamir]]'s warning that the [[israel-defense-forces|IDF]] could collapse from over-reliance on reservists.
 
+
+## April 2026: southern Lebanon campaign
+
+The Brief of April 20, 2026 reports that [[israel-katz|Defense Minister Israel Katz]] said homes allegedly used by Hezbollah in [[lebanon|Lebanon]] would be leveled, with demolitions reportedly underway, and that five Israeli divisions backed by naval forces were operating in the [[forward-defense-zone|Forward Defense Zone]] to dismantle Hezbollah infrastructure. The Brief notes that [[israel|Israel]] will continue fighting both Hezbollah and the [[islamic-revolutionary-guard-corps|IRGC]] while [[donald-trump|Trump]] seeks to resolve the U.S.-Iran conflict, and that the group's infrastructure is being dismantled under ceasefire terms the IDF has simultaneously been ordered to enforce with "full force."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +40,4 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, washington, cuba]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-618.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md]
 confidence: high
 contested: false
 ---
@@ -19,9 +19,15 @@ Two Axios threads appear in the March 16, 2026 Badlands Brief, both attached to 
 
 The May 12, 2026 Badlands Brief reports that Axios was among the US outlets framing President [[donald-trump|Donald Trump]]'s planned meeting with Chinese President [[xi-jinping|Xi Jinping]] as a potentially "legacy-defining" [[2026-trump-xi-summit|summit]], with the talks expected to focus heavily on the [[iran|Iran]] conflict, sanctions, AI coordination, and escalating US-China tensions over [[taiwan|Taiwan]] and military posture in the Pacific.
 
+
+## April 2026: Netanyahu's surprise
+
+The Brief of April 20, 2026 cites [[barak-ravid|Barak Ravid]] of Axios reporting that [[benjamin-netanyahu|Netanyahu]] and his advisers were surprised by [[donald-trump|Trump]]'s public remarks barring Israel from further bombing in [[lebanon|Lebanon]], which were not expected in Jerusalem, and that the Israeli ambassador to the U.S. scrambled to get clarification.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

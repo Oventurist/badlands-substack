@@ -1,10 +1,10 @@
 ---
 title: Joseph DiGenova
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [department-of-justice, prosecutor, brennan-probe, election-litigation]
-sources: [raw/badlands-brief-1ef.md]
+sources: [raw/badlands-brief-1ef.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -18,6 +18,14 @@ According to reporting summarized in the April 21, 2026 Badlands Brief, the [[de
 
 Badlands contributor [[ashe-in-america|Ashe in America]], writing in the same edition about [[actblue|ActBlue]] employees invoking the Fifth Amendment 146 times and about what she calls the "Grand RICO" encompassing the 2020 election, concludes her analysis with the remark that "Joe DiGenova should be busy."
 
+
+## April 2026: lead prosecutor on Russia-collusion matters
+
+The Brief of April 20, 2026, citing [[just-the-news|Just the News]], reports that former U.S. Attorney diGenova was scheduled to begin work the following Monday as a lead prosecutor on Russia-collusion matters — part of the [[department-of-justice|Justice Department]]'s Fort Pierce, Florida-based investigation into the origins of [[russiagate|Russiagate]].
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ef)
+This page draws on multiple source articles:
+
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

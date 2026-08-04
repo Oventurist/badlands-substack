@@ -1,10 +1,10 @@
 ---
 title: Great American Restoration Tour
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: concept
 tags: [badlands-media, live-events, conference, community]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md]
 confidence: high
 contested: false
 ---
@@ -28,6 +28,11 @@ The article promotes GART 6 in Myrtle Beach, South Carolina, scheduled for short
 
 The July 14, 2026 Badlands Brief reports that at the recent Deadwood GART, [[ashe-in-america|Ashe in America]] and [[jonathan-drake|Jonathan Drake]] debuted the [[badlands-jury|Badlands Jury]] experience, a fictitious trial in which Badlands was indicted for violating the made-up "Electoral Confidence Preservation Act."
 
+
+## April 2026: GART 11 in Nashville
+
+The Brief of April 20, 2026 promotes the eleventh Great American Restoration Tour, held in Nashville that month, reporting that feedback described "some of the best panel discussions in the history of GART," with virtual replay passes offered for those who missed it.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -41,3 +46,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

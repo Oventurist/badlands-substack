@@ -1,13 +1,13 @@
 ---
 title: John Brennan
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags:
   - cia
   - counter-terrorism
   - benghazi
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -23,6 +23,11 @@ According to the source, Brennan was rewarded for his role in the cover-up when 
 
 The article also claims that Brennan was working with the [[muslim-brotherhood|Muslim Brotherhood]] in Turkey to smuggle weapons from Libya to ISIS in Syria, and that his "Drone Doctrine" failed to eradicate Al Qaeda while allowing the terror group to retrench in Libya and the Sinai Peninsula.
 
+
+## April 2026: Senate records request
+
+The Brief of April 20, 2026, citing [[just-the-news|Just the News]], reports that the [[department-of-justice|Justice Department]] requested transcripts and records from two [[senate|Senate]] committees involving Brennan and set a February 23 deadline for compliance, with the Senate not having transmitted the materials as of the report. The delay affects part of an investigation based in Fort Pierce, Florida; prosecutors were reportedly allowed to review one [[senate-intelligence-committee|Senate Intelligence Committee]] report in a secure room. The developments are framed as the accountability phase of [[russiagate|Russiagate]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -31,3 +36,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

@@ -1,10 +1,10 @@
 ---
 title: COVID-19 Pandemic
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-06
 type: concept
 tags: [covid-19, lockdowns, bioweapon, public-health]
-sources: [raw/a-virus-or-a-metaphor.md, raw/americas-greatest-threat.md, raw/anthony-fauci.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/americas-greatest-threat.md, raw/anthony-fauci.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -42,6 +42,12 @@ The 2022 Badlands column "Anthony Fauci: Soldier for the Communist Cause" frames
 
 The column reproduces a September 16, 2020 tweet by user Daniel Levitt summarising eight dissenting claims: that lockdowns increase deaths; that Sweden was right; that Neil Ferguson was wrong; that masks are ineffective; that 95% are asymptomatic; that up to 80% may be immune; that transmission stops at roughly 20% antibodies; and that more cases do not equal more deaths. White records that the tweet had 136 replies, 2,053 retweets and 4,085 likes when he archived it on September 17, and that both the tweet and Levitt's account were subsequently erased.
 
+## The 2026 COVID origins reckoning
+
+The July 8, 2026 Badlands Brief reports that a series of legal and administrative actions has targeted U.S. scientists affiliated with the [[national-institute-of-allergy-and-infectious-diseases|National Institute of Allergy and Infectious Diseases]] over their COVID-19 research and alleged efforts to obscure information about the virus's origins — actions including debarments, indictments, arrests, removals from leadership and congressional subpoenas, with enforcement shifting toward the [[department-of-justice|Department of Justice]]. The cases named are the debarment referral of [[ralph-baric|Ralph Baric]], the indictment of [[david-morens|David Morens]], the removal of [[jeffrey-taubenberger|Jeffrey Taubenberger]] as acting NIAID head, the indictment of [[vincent-munster|Vincent Munster]] over mpox samples, and Senator [[rand-paul|Rand Paul]]'s July 7, 2026 subpoena of [[anthony-fauci|Anthony Fauci]]. Proponents of the [[lab-leak-theory|lab-leak theory]], including figures in the Trump administration, pushed the cases as accountability for scientists they claim hid evidence of a possible laboratory origin in Wuhan.
+
+Badlands commentary rejects the lab-leak framing outright — "Covid didn't leak from a lab. It was a set of physiological and psychological contagions that were deployed on the American people" — treating the pandemic as one element of a "portfolio of crimes against humanity" alongside the alleged fake elections, the [[autopen-scandal|Autopen]] and [[russiagate|RussiaGate]], and reading the prosecutions as the "Justice Phase" that must precede a "Golden Age." *The Atlantic*'s lament that "justice is coming" is cited as evidence that the pandemic era's "central narrative deployers" were complicit.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -49,3 +55,4 @@ This page draws on multiple source articles:
 - [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 - [americas greatest threat](https://badlands.substack.com/p/americas-greatest-threat)
 - [anthony fauci](https://badlands.substack.com/p/anthony-fauci)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

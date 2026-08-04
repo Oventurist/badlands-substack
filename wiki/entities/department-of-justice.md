@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -41,6 +41,15 @@ The same edition reports that [[federal-housing-finance-agency|FHFA]] Director [
 
 The May 12, 2026 Badlands Brief reports that the man accused of attempting to attack President [[donald-trump|Donald Trump]] during the [[white-house-correspondents-association|White House Correspondents' Association]] dinner pleaded not guilty to federal charges including attempted assassination and assaulting a federal officer with a deadly weapon. His legal team sought to remove at least two senior DOJ officials from the prosecution — Acting Attorney General [[todd-blanche|Todd Blanche]] and US Attorney [[jeanine-pirro|Jeanine Pirro]] — arguing that both attended the event and could be considered victims or witnesses, creating a possible conflict of interest. Defense attorney Eugene Ohm indicated the request could expand to seeking the recusal of Pirro's entire office. US District Judge [[trevor-mcfadden|Trevor McFadden]] did not immediately rule and asked the defense to further explain the scope of the request; the attempted assassination charge alone carries a possible life sentence.
 
+
+## April 2026: the Brennan records request
+
+The Brief of April 20, 2026, citing [[just-the-news|Just the News]], reports that the Justice Department earlier in the year requested transcripts and records from two [[senate|Senate]] committees involving former CIA Director [[john-brennan|John Brennan]], setting a February 23 deadline for compliance; as of the report the Senate had not transmitted the materials, delaying part of an investigation based in Fort Pierce, Florida. Aides to Senate Majority Leader [[john-thune|John Thune]] said he was seeking unanimous consent to release the records while discussing the matter with Democrats to avoid a floor vote, and prosecutors were recently allowed to review one [[senate-intelligence-committee|Senate Intelligence Committee]] report in a secure room. Separately, former U.S. Attorney [[joseph-digenova|Joseph diGenova]] was scheduled to begin work as a lead prosecutor on Russia-collusion matters — developments the corpus reads as the enforcement phase of the [[russiagate|Russiagate]] and [[rico-grande|RICO Grande]] narrative.
+
+## Enforcement of the COVID origins reckoning (July 2026)
+
+The July 8, 2026 Badlands Brief reports that enforcement of the actions against scientists affiliated with the [[national-institute-of-allergy-and-infectious-diseases|National Institute of Allergy and Infectious Diseases]] over COVID-19 research has shifted toward the Department of Justice. The actions include the debarment referral of [[ralph-baric|Ralph Baric]], the indictment and armed arrest of [[david-morens|David Morens]], the removal of [[jeffrey-taubenberger|Jeffrey Taubenberger]] as acting NIAID head, the May 2026 indictment of [[vincent-munster|Vincent Munster]] over mpox samples, and Senator [[rand-paul|Rand Paul]]'s July 7, 2026 subpoena of [[anthony-fauci|Anthony Fauci]] to testify before the [[senate|Senate]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -59,3 +68,5 @@ This page draws on multiple source articles:
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

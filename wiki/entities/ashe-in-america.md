@@ -1,10 +1,10 @@
 ---
 title: Ashe in America
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -58,6 +58,11 @@ The May 12, 2026 Badlands Brief carries two Ashe in America commentaries on the 
 
 On the [[politico|Politico]] poll finding bipartisan distrust in US elections, she writes that "the 'source of the perceived threat' is irrelevant to the overall finding that the majority of Americans don't trust US elections," calling the distrust "a crisis," and adds that after the 2024 election, "when the blueanons went all 'stolen election', here at Badlands, we were supportive of getting to the bottom of all their allegations. Inquiry into elections is always a good thing because elections are fake."
 
+
+## April 2026 Brief commentary
+
+In the Brief of April 20, 2026, Ashe expands on the [[rico-grande|RICO Grande]]: he calls the political deception of the Russiagate era "literally treason," argues the RICO "provides a vehicle for Truth and Reconciliation" that could move rapidly "if the plan is real," and notes [[john-solomon|John Solomon]] "sounds like he is deploying a phased communications plan," with the July 4, 2026 part to be "underwritten by real joy in victory." He celebrates Solomon's steak-dinner bet with [[roger-stone|Roger Stone]] on indictments by June 20 ("Indictments by Deadwood? Let's go!"), suggests the [[the-atlantic|Atlantic]]'s [[kash-patel|Kash Patel]] hit piece is intended "to muddy-up Patel in an effort to stop the justice phase," and warns "it could be a rug" — he's "still on it."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -108,3 +113,4 @@ This page draws on multiple source articles:
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

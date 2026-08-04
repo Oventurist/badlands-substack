@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [russia, geopolitics, sanctions, ukraine, energy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-5dc.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -35,6 +35,12 @@ Citing a [[zerohedge|ZeroHedge]] report, the March 18, 2026 Badlands Brief state
 
 The March 27, 2026 Badlands Brief, in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], argues that Russia's move into Ukraine was the first major inversion of the [[rules-based-international-order|rules-based international order]] and the first crack in the "unipolar spell" — a shatterpoint that globalists are still trying to hide. The commentary contends that the West will ultimately be forced to accept the deal first presented by [[vladimir-putin|Vladimir Putin]] at the outset of the war — a settlement in which Russia dominates [[ukraine|Ukraine]] — and that this outcome is being signaled by President [[donald-trump|Donald Trump]] directly to the "Prussian Proxy" (the [[european-union|European Union]]).
 
+
+
+## Victory Day end-of-war signals (May 2026)
+
+The May 12, 2026 Badlands Brief reports that President [[vladimir-putin|Vladimir Putin]] publicly suggested the [[ukraine|Ukraine]] conflict may be "coming to an end" during Russia's Victory Day events, amid a fragile US-brokered ceasefire that both Kyiv and Moscow accused the other of violating; Western analysts argued the Kremlin may be reacting to battlefield attrition, economic strain, and shifting geopolitical realities.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -50,3 +56,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

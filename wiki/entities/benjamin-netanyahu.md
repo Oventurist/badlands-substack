@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -58,6 +58,17 @@ The same edition states that Netanyahu welcomed the dropping of charges against 
 
 The March 27, 2026 Badlands Brief reports that Netanyahu appointed [[eyal-zamir|Eyal Zamir]] as IDF Chief of Staff after his predecessor became the scapegoat for the [[october-7|October 7]] attack. The same edition reports Netanyahu's insistence that Israel will continue to fight "until it achieves its foreign policy objectives," even as President [[donald-trump|Donald Trump]] announces a ten-day ceasefire and postures toward peace — which [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads as Trump having "done the impossible: baiting Israel into an impossible military scenario while Trump heads for the exit ramp."
 
+
+## April 2026: Trump's Lebanon prohibition
+
+The Brief of April 20, 2026 reports that Netanyahu and his advisers were surprised by [[donald-trump|Trump]]'s public [[truth-social|Truth Social]] post declaring that Israel is "PROHIBITED" from further bombing in Lebanon after the U.S.-brokered ceasefire, remarks that were not expected in Jerusalem; the Israeli ambassador to the U.S. reportedly scrambled for clarification, per [[barak-ravid|Barak Ravid]] of [[axios|Axios]]. The Brief also reports that Netanyahu's government has warned Lebanese Christians not to return to their villages despite the ceasefire, that Israeli rhetoric indicates the war on [[iran|Iran]] will continue until the government is toppled, and that there is no indication Netanyahu or the [[israel-defense-forces|IDF]] plans to stop conquering territory — a campaign the commentary reads as the [[greater-israel-project|Greater Israel project]] that only kinetic force can stop.
+
+## July 2026: chemical weapons claims and the constitutional crisis
+
+The July 8, 2026 Badlands Brief reports Netanyahu's statements that [[iran|Iran]] was on the verge of developing nuclear weapons — which he said helped trigger the recent military conflict involving Israel and the United States — that the operations significantly set back Iran's nuclear program by destroying much of its infrastructure, including centrifuges and manufacturing facilities, and by eliminating 20 of its top nuclear scientists, and that while Iran currently lacks the capability to build a nuclear bomb, it still poses a serious long-term danger, with the Brief's headline adding that "Netanyahu and Mossad Media" now claim Iran has chemical weapons and still poses a "mortal danger." Comparing the situation to excising a cancerous tumor that could return, he warned that arming the regime with nuclear weapons and long-range ballistic missiles would place both Israel and the United States in grave peril, and described his relationship with [[donald-trump|Donald Trump]] as exceptionally strong while acknowledging occasional disagreements, such as over potential U.S. arms sales to [[turkey|Turkey]].
+
+The same edition reports that, for the first time in Israeli history, Netanyahu's government openly declared it will not respect a ruling of the [[israeli-high-court-of-justice|High Court of Justice]], sparking a constitutional crisis, with the court warning of anarchy and societal breakdown. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads Netanyahu's Israel as a "cornered animal, bearing its teeth," unable to allow peace to return to the Middle East, and predicts a similar "civil war, of sorts" among the political elite in the United States as Israel's influence over American politicians becomes increasingly obvious.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -79,3 +90,5 @@ This page draws on multiple source articles:
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

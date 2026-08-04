@@ -1,10 +1,10 @@
 ---
 title: China
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [china, geopolitics, belt-and-road, energy, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-25c.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-25c.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -36,6 +36,12 @@ The March 18, 2026 Badlands Brief reports that China, like [[russia|Russia]], is
 
 Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi reports that China launched what it called a "special maritime law enforcement operation" east of [[taiwan|Taiwan]], announced through the Ministry of Transport and the state news agency [[xinhua|Xinhua]], with authorities describing it as an exercise of maritime administrative law-enforcement jurisdiction to protect national rights and interests. The action followed a May 28 Tokyo summit at which Japanese Prime Minister [[sanae-takaichi|Sanae Takaichi]] and Philippine President [[ferdinand-marcos-jr|Ferdinand Marcos Jr.]] announced maritime delimitation talks; Foreign Ministry spokeswoman [[mao-ning|Mao Ning]] said any such negotiations must involve China. Taiwan's coast guard deployed at least five vessels and monitored four Chinese government vessels departing Xiamen.
 
+
+
+## The 2026 Trump summit week
+
+The May 12, 2026 Badlands Brief reports that US media framed President [[donald-trump|Donald Trump]]'s Beijing visit and meeting with [[xi-jinping|Xi Jinping]] as a potentially "legacy-defining" [[2026-trump-xi-summit|summit]], and that a delegation of fifteen American business executives — including [[elon-musk|Elon Musk]], [[tim-cook|Tim Cook]], [[larry-fink|Larry Fink]] and [[kelly-ortberg|Kelly Ortberg]] — was expected to accompany Trump as the administration pushed for new economic agreements, aiming to secure business deals and purchase agreements.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -49,3 +55,4 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

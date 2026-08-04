@@ -1,10 +1,10 @@
 ---
 title: Syria
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [syria, middle-east, regime-change, civil-war]
-sources: [raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-1c6.md]
+sources: [raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-1c6.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -28,6 +28,11 @@ The corpus places Syria on multiple documented target lists. It appears among th
 
 The change in power is said to carry implications for Iran's influence exerted through [[hezbollah]] and Syrian territory, and for [[israel]], which has been striking Iranian assets in Syria. Russia called for United Nations Security Council consultations, particularly regarding the buffer zone near the Golan Heights, while [[turkey]] denied backing Hayat Tahrir al-Sham despite aiding some rebel factions. United Nations reporting cited in the article describes millions displaced and an ongoing humanitarian crisis.
 
+
+## April 2026: the southern front
+
+The Brief of April 20, 2026 reports that the [[israel-defense-forces|IDF]] moved northeast toward [[mount-hermon|Mount Hermon]], capturing the Lebanese lands bordering the [[golan-heights|Golan Heights]] and Syria, and argues that once the IDF fortifies the mountain — which overlooks Damascus — it will be positioned to capture and annex both southern Lebanon and southern Syria, extending the [[greater-israel-project|Greater Israel project]] onto Syrian territory.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +40,4 @@ This page draws on multiple source articles:
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

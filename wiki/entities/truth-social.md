@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [platform, social-media, trump, free-speech]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -28,6 +28,16 @@ The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Tr
 
 The March 27, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] announced on Truth Social that his meeting with Chinese President [[xi-jinping|Xi Jinping]] — originally postponed due to the U.S. military operation in [[iran|Iran]] — has been rescheduled for Beijing on May 14 and 15, writing that he looks "very much forward to spending time with President Xi in what will be, I am sure, a Monumental Event," and that Xi and Madame Peng would be hosted for a reciprocal visit in Washington later in the year.
 
+
+
+## Election Integrity Army statement (May 2026)
+
+The May 12, 2026 Badlands Brief publishes in full a Truth Social statement in which President [[donald-trump|Donald Trump]] declared "This Election Will Be Fair" and announced an [[election-integrity-army|Election Integrity Army]] for the [[2026-united-states-midterm-elections|2026 midterms]], attacking Senate Democratic leader [[chuck-schumer|Chuck Schumer]], [[eric-holder|Eric Holder]] and [[marc-elias|Marc Elias]] over a Democrat-led "Election Integrity Group."
+
+## April 2026: the Lebanon bombing prohibition
+
+The Brief of April 20, 2026 quotes [[donald-trump|Trump]]'s Truth Social post after the U.S.-brokered ceasefire in [[lebanon|Lebanon]] took effect: "Israel will not be bombing Lebanon any longer. They are PROHIBITED from doing so by the U.S.A. Enough is enough!" The post reportedly surprised [[benjamin-netanyahu|Netanyahu]] and his advisers, with the Israeli ambassador to the U.S. scrambling for clarification.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -39,3 +49,5 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

@@ -1,10 +1,10 @@
 ---
 title: Israel
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [nation, geopolitics, middle-east, conspiracy-narrative]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -55,6 +55,15 @@ The May 18, 2026 Badlands Brief reports that the [[united-arab-emirates|UAE]] bl
 
 The July 14, 2026 Badlands Brief reports that, following Israel's conflict with [[iran|Iran]], Iranian authorities launched a sweeping internal security crackdown on suspected [[mossad|Mossad]] infiltration, reportedly placing former President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]] under house arrest, with state media reporting executions in espionage-related cases. The [[tyler-robinson|Tyler Robinson]] controversy also saw [[candace-owens|Candace Owens]] allege a "Zionist PR" campaign against her after she implicated Israel in [[charlie-kirk|Charlie Kirk]]'s murder.
 
+
+## April 2026: Lebanon ceasefire erosion and Jewish terrorism
+
+The Brief of April 20, 2026 covers the erosion of the U.S.-brokered ceasefire in [[lebanon|Lebanon]]: [[israel-defense-forces|IDF]] troops were ordered to use "full force" against threats despite the truce, a new deployment line placed dozens of villages inside an Israeli-controlled zone, and [[donald-trump|Trump]] publicly barred Israel from further bombing ("They are PROHIBITED from doing so by the U.S.A. Enough is enough!"). The Brief also assembles its "Jewish terrorism" dossier: the IDF-verified smashing of a statue of Jesus in the Christian village of Debl, the reported destruction of the [[tomb-of-saint-peter|Tomb of Saint Peter]], [[pinchas-wallerstein|Pinchas Wallerstein]]'s Haaretz condemnation of Jewish terrorism as "treason," and [[shaiel-ben-ephraim|Shaiel Ben-Ephraim]]'s torture allegations. [[bezalel-smotrich|Smotrich]] renewed calls for occupying [[gaza|Gaza]] and establishing settlements, against the wishes of Trump and the [[board-of-peace|Board of Peace]], while the Brief argues the IDF's campaign serves the [[greater-israel-project|Greater Israel project]] and that only kinetic opposition can stop it.
+
+## The 2026 constitutional crisis and shifting American opinion
+
+The July 8, 2026 Badlands Brief reports that, for the first time in Israeli history, the government of Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] openly declared it will not respect a ruling of the [[israeli-high-court-of-justice|High Court of Justice]], sparking a constitutional crisis, with the court warning of anarchy and societal breakdown. The same edition cites [[times-of-israel|Times of Israel]] polling according to which one third of American Jews say Israel committed a genocide in [[gaza|Gaza]] and only 20% of Americans call the obliteration of Gazan civilization morally justified. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues that "Israel has now become widely recognized in the US as a liability, if not an outright enemy," making the conflict an existential crisis for the Israeli political elite, and predicts a similar "civil war, of sorts" among the American political elite as Israel's influence over U.S. politicians becomes increasingly obvious.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -77,3 +86,5 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

@@ -1,10 +1,10 @@
 ---
 title: Mike Huckabee
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [israel, diplomacy, us-foreign-policy, christian-zionism]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -28,9 +28,15 @@ A US Embassy spokesperson responded that Huckabee's comments did not reflect any
 
 The May 1, 2026 Badlands Brief sharply criticized Huckabee's handling of reported violence against Christians in Israel and the [[west-bank|West Bank]]. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] wrote that for months Huckabee had been "trotted out by the Israelis" to deny that such attacks were occurring at all, and predicted he would continue to ignore mounting evidence — including the assault on a French nun at a Jerusalem biblical site — calling him "a tremendous coward who is devoid of any principles" who had "chosen to turn his back on Jesus and on America." The criticism formed part of a wider Badlands argument about [[jewish-terrorism|Jewish terrorism]] and the silence of [[christian-zionism|Christian Zionist]] officials.
 
+
+## April 2026: "running cover"
+
+The Brief of April 20, 2026 argues that the conduct of the [[israel-defense-forces|IDF]] and Israeli settlers has descended into a "might makes right" ethos, and that the worst part is that "Christians like Mike Huckabee are running cover for them" — portraying the former governor and ambassador as an apologist for abuses the Brief catalogs under the heading of "Jewish terrorism" in [[israel|Israel]]'s campaigns in [[gaza|Gaza]] and [[lebanon|Lebanon]].
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

@@ -1,13 +1,13 @@
 ---
 title: Saudi Arabia
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags:
   - middle-east
   - saudi-royal-family
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: true
 ---
@@ -43,6 +43,11 @@ The same essay treats the November 4, 2017 elevation of [[mohammed-bin-salman]] 
 
 The May 18, 2026 Badlands Brief reports that Saudi Arabia condemned the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] in the [[united-arab-emirates|UAE]] on May 17, 2026, and reported intercepting three drones approaching from Iraqi airspace in a separate incident amid elevated regional tensions. The Brief notes the kingdom's non-aggression pact with [[iran|Iran]] and its participation in regional de-escalation efforts, and quotes Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s June 2025 statement during the [[twelve-day-war|Twelve Day War]] — "Saudi Arabia stands with its brothers in Iran and will spare no effort to support them" — as evidence of the realignment the drone attacks are said to threaten.
 
+
+## April 2026: lynchpin of the security architecture
+
+The Brief of April 20, 2026 reports that Saudi Arabia joined [[turkey|Turkey]], [[egypt|Egypt]], and [[pakistan|Pakistan]] at the [[antalya-diplomacy-forum|Antalya Diplomacy Forum]] to discuss the [[iran|Iran]] situation, and describes the Kingdom as "the lynchpin that has brought them all together (along with the US)" in the emerging Middle East security architecture.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -59,3 +64,4 @@ This page draws on multiple source articles:
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

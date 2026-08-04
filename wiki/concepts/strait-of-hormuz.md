@@ -1,10 +1,10 @@
 ---
 title: Strait of Hormuz
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: concept
 tags: [geography, energy, iran, maritime]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: false
 ---
@@ -31,6 +31,15 @@ The March 24, 2026 Badlands Brief, Alternative Annexations & New(ish) Regime Cha
 
 The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] announced on [[truth-social|Truth Social]] that the United States would be known as the "Guardian of the Hormuz Strait," providing security for the waterway while permitting all countries except [[iran|Iran]] and its customers under the [[iranian-blockade|Iranian Blockade]] to continue using it. Trump said the United States would be reimbursed through a proposed 20% fee on all cargo shipped through the strait to cover the costs of providing security, and that the process would begin immediately.
 
+
+## April 2026: vessel incidents and geospatial politics
+
+The Brief of April 20, 2026 reports fresh incidents in the strait: [[iran|Iran]] firing on a vessel over the weekend, and the [[u-s-central-command|CENTCOM]]-reported interception of the Iranian-flagged M/V Touska by the [[uss-spruance|USS Spruance]] in the north Arabian Sea, which Iran called "armed piracy." The strait's choke-point geography and its connection to worldwide energy prices is cited as the terrestrial example in the new field of [[geospatial-politics|GeoSpatial Politics]] coined by [[steven-kwast|General Kwast]] and GhostofBasedPatrickHenry.
+
+## "I just want loyalty": the Ankara summit dispute (July 2026)
+
+The July 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] arrived at the Ankara [[nato|NATO]] summit still seething over European allies' refusal to support the U.S.-led military campaign against [[iran|Iran]] — declining to open air bases for strikes or contribute forces to help reopen the strait — and declared, "I just want loyalty," while refusing to rule out further reductions in the U.S. military footprint in Europe. Secretary-General [[mark-rutte|Mark Rutte]] used the summit to urge members to acknowledge Trump was right about burden-sharing, citing $250 billion in new European defense commitments, and Trump exchanged warm compliments with host [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -52,3 +61,5 @@ This page draws on multiple source articles:
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 52f](https://badlands.substack.com/p/badlands-brief-52f)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [israel, defense, iran, middle-east]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -28,6 +28,11 @@ The March 26, 2026 Badlands Brief reports that on March 24, 2026 — a day after
 
 The March 27, 2026 Badlands Brief reiterates Katz's announcement of a massive invasion of southern Lebanon to destroy [[hezbollah|Hezbollah]] and annex everything south of the [[litani-river|Litani River]], reporting it in the context of [[eyal-zamir|Eyal Zamir]]'s warning that the [[israel-defense-forces|IDF]] could collapse from over-reliance on reservists — a force described as stretched too thin to sustain a multi-front war.
 
+
+## April 2026: "full force" in Lebanon
+
+The Brief of April 20, 2026 reports that Defense Minister Katz ordered troops to use "full force" against threats in [[lebanon|Lebanon]] despite the temporary truce, signaling that military operations along the border could continue under the current ceasefire terms, and said homes allegedly used by [[hezbollah|Hezbollah]] would be leveled — with Arab News reporting demolitions were underway, citing Israeli state media.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +40,4 @@ This page draws on multiple source articles:
 - [badlands brief 0fb](https://badlands.substack.com/p/badlands-brief-0fb)
 - [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

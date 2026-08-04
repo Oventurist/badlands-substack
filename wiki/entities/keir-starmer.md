@@ -1,10 +1,10 @@
 ---
 title: Keir Starmer
 created: 2026-08-02
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [united-kingdom, prime-minister, syria, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-67a.md]
 confidence: medium
 contested: true
 ---
@@ -23,6 +23,10 @@ The article summarizes his position sardonically: "Yes, Keir Starmer is 'very pl
 
 The February 10, 2026 Badlands Brief reported that Starmer had lost senior aides — including chief of staff [[morgan-mcsweeney|Morgan McSweeney]] and communications director [[tim-allan|Tim Allan]] — amid scrutiny tied to associations with the late financier [[jeffrey-epstein|Jeffrey Epstein]]. Media reporting cited by the Brief, including in *The Economist*, described Starmer as under pressure over questions of judgment, vetting, and institutional accountability. No charges were reported against Starmer or his staff. The Brief presented the British departures alongside the stalled United States congressional inquiry as twin fronts of continuing transatlantic [[epstein-narrative|Epstein-related]] fallout.
 
+## Dismissed as "weak" by Trump (July 2026)
+
+The July 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]], arriving at the Ankara [[nato|NATO]] summit still angry over European allies' refusal to support the U.S.-led military campaign against [[iran|Iran]], dismissed Starmer as weak and posted memes targeting Italian Prime Minister [[giorgia-meloni|Giorgia Meloni]], while declaring "I just want loyalty" and refusing to rule out further reductions in the U.S. military footprint in Europe.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -31,3 +35,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
+- [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)

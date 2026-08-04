@@ -1,10 +1,10 @@
 ---
 title: GhostofBasedPatrickHenry
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, kayfabe, q-anon]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md]
 confidence: high
 contested: false
 ---
@@ -39,6 +39,11 @@ In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, Ghost
 
 In the July 14, 2026 Badlands Brief, GhostofBasedPatrickHenry writes two long commentaries. On the reported house arrest of former Iranian President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]], he argues that "earnest actors" embedded in [[iran|Iran]] have been battling "various agents of the Deep State" for control, reads the admission that Ahmadinejad was a [[mossad|Mossad]] asset as validating his theory that Mossad under [[david-barnea|David Barnea]] had deeply infiltrated the Iranian government, and claims [[qassem-soleimani|Qassem Soleimani]] was Barnea's mole — hence, in his account, why President [[donald-trump|Donald Trump]] killed him. He also recounts that the [[continuity-of-government|COG]] protocol Iran implemented in August 2025 was a response to Mossad/[[cia|CIA]] infiltration of the [[islamic-revolutionary-guard-corps|IRGC]], and that operatives attempting to crash Iran's financial system were geo-located after [[vladimir-putin|Putin]]/Russia helped Iran hack [[elon-musk|Elon Musk]]'s Starlink. On the [[strait-of-hormuz|Strait of Hormuz]], he speculates that skirmishes between Trump and Iran may be cover for a plot to destroy radar stations in [[qatar|Qatar]] that could be used to manipulate weather.
 
+
+## April 2026: Lebanon, the security architecture, and GeoSpatial Politics
+
+In the Brief of April 20, 2026, GhostofBasedPatrickHenry argues that despite the optics, [[donald-trump|Trump]] is "diffusing the Greater Israel Empire before it can establish itself as the hegemony in the Middle East," resolving the U.S.-[[iran|Iran]] conflict while [[israel|Israel]] continues fighting [[hezbollah|Hezbollah]] and the [[islamic-revolutionary-guard-corps|IRGC]]. He analyzes the [[israel-defense-forces|IDF]]'s updated Lebanon maps: the short-term goals are capturing [[mount-hermon|Mount Hermon]] (the highest point in the Levant, overlooking Damascus) and creating a [[forward-defense-zone|"Forward Defense Zone"]] toward Tyre to shift the maritime boundary and annex the [[qana-gas-field|Qana Gas Field]]. He identifies the [[antalya-diplomacy-forum|Antalya Diplomacy Forum]] meeting of Turkey, Egypt, Pakistan, and Saudi Arabia as the emergence of the new Middle East "security architecture" (with Iran expected to join), backed by Russia, China, and Europe, and concludes Trump is "waging a war against Israel, using Iran as his proxy." He also joined [[steven-kwast|General Kwast]] on Space Revolution to coin [[geospatial-politics|GeoSpatial Politics]], and co-hosted [[the-blitz|Badlands Blitz]] Episode 13.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -63,3 +68,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)

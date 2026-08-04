@@ -1,10 +1,10 @@
 ---
 title: Meta Platforms
 created: 2026-08-02
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [big-tech, social-media, surveillance, free-speech]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -24,9 +24,16 @@ Meta is listed among the five largest American companies by market capitalizatio
 
 The article notes that Zuckerberg has agreed to open Meta's platforms to more free speech and has terminated the company's DEI programs, and that Meta was among the big-tech firms donating one million dollars to [[donald-trump]]'s inaugural fund. Carlson treats these gestures as part of what he calls "the real pardoning that is happening in America," while acknowledging that many within [[maga|MAGA]] remain distrustful of executives they regard as [[deep-state|Deep State]] puppets.
 
+
+
+## China business delegation (May 2026)
+
+The May 12, 2026 Badlands Brief reports that Meta president and vice chair [[dina-powell-mccormick|Dina Powell McCormick]] was among the executives expected to accompany President [[donald-trump|Donald Trump]] to [[china|China]] as the administration pushed for new economic agreements with Beijing ahead of the [[2026-trump-xi-summit|Trump–Xi summit]].
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

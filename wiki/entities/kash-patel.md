@@ -1,10 +1,10 @@
 ---
 title: Kash Patel
 created: 2026-08-02
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [person, trump-ally, national-security, media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md]
 confidence: medium
 contested: false
 ---
@@ -22,6 +22,11 @@ Patel's advance framing of the announcement is treated in the essay as evidence 
 
 The March 24, 2026 Badlands Brief, Alternative Annexations & New(ish) Regime Change, reports that a Freedom of Information Act lawsuit against the [[fbi|FBI]] seeks internal Bureau communications involving Patel as Director and former Deputy Director [[dan-bongino|Dan Bongino]] concerning the discovery of as many as 1.9 million pages of records stored in safes inside a [[sensitive-compartmented-information-facility|Sensitive Compartmented Information Facility]] at headquarters, along with directives on how those materials were handled.
 
+
+## April 2026: The Atlantic report
+
+The Brief of April 20, 2026 covers a [[the-atlantic|Atlantic]] report alleging that FBI Director Patel has a serious drinking problem that has left him "unreachable" at moments and intoxicated while on the job. Attorney Jesse Binnall is cited disputing the claims, and a [[zerohedge|ZeroHedge]] opinion article (via PJMedia) argues the magazine could face legal consequences. Contributor [[ashe-in-america|Ashe in America]] reads the piece as a smear intended to muddy Patel "in an effort to stop the justice phase," noting it lands just as [[john-solomon|John Solomon]], "the main mouthpiece of the [[rico-grande|RICO]]," is suggesting real accountability is coming.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -30,3 +35,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
