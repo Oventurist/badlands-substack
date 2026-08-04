@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md]
 confidence: medium
 contested: true
 ---
@@ -75,6 +75,14 @@ The January 23, 2026 Badlands Brief reports that Netanyahu accepted an invitatio
 
 Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] predicted that as peace becomes normalized, "Netanyahu's government will become increasingly hostile and further reveal itself the proverbial turd in the punch bowl," and — inverting the corpus's earlier warnings about [[hamas|Hamas]] — noted that "Hamas just announced that they have cut a deal with Trump and will disarm," concluding: "Netanyahu will never allow this peace to stand." The commentator also predicted the rhetoric between Netanyahu and [[vladimir-putin|Vladimir Putin]] would not be "excessively cordial" when Putin joins the Board.
 
+## Response to the Iran agreement (June 2026)
+
+The Badlands Brief of June 16, 2026 reports that Netanyahu largely avoided directly criticizing the US–Iran agreement, arguing instead that Israel's principal war objectives had already been achieved. He said Israel had significantly degraded [[iran|Iran]]'s military capabilities and weakened regional proxy networks, while emphasizing that Israel would continue to defend its security interests regardless of diplomatic developments. Israeli officials reiterated that Israel would maintain positions in southern Lebanon and warned that any future attacks tied to Iran would draw a forceful response.
+
+[[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] notes that Netanyahu has said the [[israel-defense-forces|IDF]] will continue to occupy the territory it has captured in Lebanon, Syria and Palestine, and argues that "the lessons of history tell us that means they intend to settle and annex it." He describes Netanyahu as "in a very difficult position," navigating an increasingly complex relationship with "President Trump The Peacemaker" while facing "a growing horde of political rivals in Israel who see a great opportunity to exploit Netanyahu's position and make him look week in the eyes of the Israeli people."
+
+The commentary advances a specific theory of leverage: that President [[donald-trump|Donald Trump]] wanted Netanyahu as "his man in the arena" precisely because Netanyahu's circumstances — described as a "messiah complex + facing multiple felony charges and over 15 years in prison" — are "opportunities to exploit and control Bibi." Because the optics of losing Trump's public support would, in this reading, be enough to end Netanyahu's political career, he must "figure out how to maintain his warrior reputation without losing Trump, which is probably an impossible task." Citing [[naftali-bennett|Naftali Bennett]]'s posture, the author concludes that "most, if not all, of the Israeli political spectrum is pro-war with Iran." These are interpretive claims by the commentator.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -99,3 +107,4 @@ This page draws on multiple source articles:
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)

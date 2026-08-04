@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md]
 confidence: high
 contested: false
 ---
@@ -71,6 +71,14 @@ The January 23, 2026 Badlands Brief reports that Putin met with American envoys 
 
 The Brief places the meeting in the context of President [[donald-trump|Donald Trump]]'s ratification of the [[board-of-peace|Board of Peace]] charter at Davos, an organization Putin had not yet joined as of publication. Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] predicted that when Putin does join, the rhetoric between him and Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] would not be "excessively cordial."
 
+## Lukashenko's deception claim (June 2026)
+
+The Badlands Brief of June 16, 2026 reports Belarusian President [[alexander-lukashenko|Alexander Lukashenko]]'s statement to *Al Arabiya* that Putin was given faulty information during the early stages of the [[ukraine|Ukraine]] conflict — specifically that a "Jewish lobby" in Ukraine convinced Moscow that Russian forces would be welcomed as liberators, an assumption that proved incorrect once the invasion began. Lukashenko argued in the same interview that neither [[russia|Russia]] nor Ukraine can achieve a decisive military victory and that the war must be settled through negotiation and compromise.
+
+Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] uses the claim to reattribute the spring 2022 Russian withdrawal from Kiev, arguing that [[naftali-bennett|Naftali Bennett]] — then Israel's prime minister and the mediator between Putin and [[volodymyr-zelensky|Volodymyr Zelensky]] — rather than Boris Johnson "most likely orchestrated the ruse." The claim is speculative.
+
+In the same edition, [[burning-bright|Burning Bright]] treats Putin's assertion that Russia stands alone against the "Collective West" as true "only insofar as the optics the Globalist media still controls," arguing that in practice [[donald-trump|Donald Trump]] and [[xi-jinping|Xi Jinping]] "are already in Putin's corner economically, energetically and strategically" — a trinity he presents as the real content of the [[g2|G2]] and of the [[sovereign-alliance|Sovereign Alliance]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -95,3 +103,4 @@ This page draws on multiple source articles:
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: concept
 tags: [geography, energy, iran, maritime]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6a1.md]
 confidence: medium
 contested: false
 ---
@@ -44,6 +44,10 @@ The July 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Tru
 
 The Badlands Brief of April 2, 2026 reports that President [[donald-trump|Donald Trump]] tied his threat to withdraw from [[nato|NATO]] to allies' refusal to back U.S. military action and maritime operations connected to the war with [[iran|Iran]], including pressure around the strait — the latest iteration of the alliance dispute documented since March 2026.
 
+## Reopening under the June 2026 agreement
+
+The Badlands Brief of June 16, 2026 reports that President [[donald-trump|Donald Trump]] announced the completion of the peace agreement with [[iran|Iran]] and said it includes the reopening of the strait, the removal of the US naval blockade, and mine-removal operations to restore the free flow of commercial shipping and oil transit. In a Monday morning [[truth-social|Truth Social]] post Trump said ships loaded with oil had already begun moving through the strait, describing the southern shipping route as "totally safe, secure, and pristine." Pakistani Prime Minister [[shehbaz-sharif|Shehbaz Sharif]], a mediator in the talks, announced that the two countries had agreed to the immediate and permanent termination of military operations on all fronts including in Lebanon, with an official signing ceremony scheduled for June 19 in Switzerland. See [[islamabad-agreement|Islamabad Agreement]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -68,3 +72,4 @@ This page draws on multiple source articles:
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)

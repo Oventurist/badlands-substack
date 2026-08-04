@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [israel, israeli-politics, palestine, elections]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md, raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md, raw/badlands-brief-5dc.md, raw/badlands-brief-6a1.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,14 @@ The conclusion drawn from Bennett's positions is that "there is no 'pro-peace' f
 
 The March 27, 2026 Badlands Brief reports that Bennett "now seems pretty upset that Israel is currently losing all of its wars," in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reviewing the strain on the [[israel-defense-forces|IDF]] — the reservist crisis, the announced invasion of southern Lebanon, and the possibility of escalation with [[iran|Iran]].
 
+## Alleged role as mediator in the early Ukraine war (June 2026)
+
+The Badlands Brief of June 16, 2026 assigns Bennett a second and much earlier role. Responding to [[alexander-lukashenko|Alexander Lukashenko]]'s claim that a "Jewish lobby" in [[ukraine|Ukraine]] misled [[vladimir-putin|Vladimir Putin]] into expecting Russian forces would be welcomed as liberators, contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] revisits the question of who engineered the Russian withdrawal from Kiev in spring 2022. Where Britain's Boris Johnson had in May 2022 been credited with orchestrating the deception that allowed Ukraine to regroup, the commentary argues that it was in fact [[israel|Israel]] — with Bennett, then prime minister, serving as mediator between Putin and [[volodymyr-zelensky|Volodymyr Zelensky]] — and that Bennett therefore "most likely orchestrated the ruse." This is speculation advanced by the commentator, not established reporting.
+
+## Opposition to the Iran deal (June 2026)
+
+The same edition reproduces a Bennett statement in the context of Jewish and Israeli objections to the emerging US–Iran agreement, using it as evidence for the argument that Netanyahu's likely successor is no less committed to confrontation with [[iran|Iran]]: "most, if not all, of the Israeli political spectrum is pro-war with Iran."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)

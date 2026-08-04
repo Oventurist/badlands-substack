@@ -7,7 +7,7 @@ tags:
   - lebanon
   - terrorism
   - iran
-sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-3d4.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-3d4.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-6a1.md]
 confidence: medium
 contested: true
 ---
@@ -30,6 +30,12 @@ The March 27, 2026 Badlands Brief reiterates Defense Minister [[israel-katz|Isra
 
 The Brief of April 20, 2026 reports that [[israel-katz|Defense Minister Israel Katz]] said homes allegedly used by Hezbollah in [[lebanon|Lebanon]] would be leveled, with demolitions reportedly underway, and that five Israeli divisions backed by naval forces were operating in the [[forward-defense-zone|Forward Defense Zone]] to dismantle Hezbollah infrastructure. The Brief notes that [[israel|Israel]] will continue fighting both Hezbollah and the [[islamic-revolutionary-guard-corps|IRGC]] while [[donald-trump|Trump]] seeks to resolve the U.S.-Iran conflict, and that the group's infrastructure is being dismantled under ceasefire terms the IDF has simultaneously been ordered to enforce with "full force."
 
+## Trump's offer to negotiate directly (June 2026)
+
+The Badlands Brief of June 16, 2026 reports that President [[donald-trump|Donald Trump]] told reporters he intends to speak with Hezbollah leaders as part of efforts to "straighten out the Lebanon thing," suggesting that the administration's diplomatic outreach following the [[islamabad-agreement|Iran agreement]] could extend beyond Tehran to other regional actors. The remarks came in a meeting with [[emmanuel-macron|Emmanuel Macron]] at the [[group-of-seven|G7]] summit, and were made as Israeli officials reiterated that [[israel|Israel]] would maintain positions in southern Lebanon and warned that any future attacks tied to [[iran|Iran]] would draw a forceful response. Pakistani mediation of the agreement was reported to include the immediate and permanent termination of military operations on all fronts, Lebanon expressly among them.
+
+Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] frames the proposal as a rupture with the prevailing American posture — "Talk to Hezbollah? Instead of indiscriminately killing them?" — and names [[lindsey-graham|Lindsey Graham]] and [[mark-levin|Mark Levin]] as the figures for whom the shift would be least welcome.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -41,3 +47,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
