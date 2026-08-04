@@ -1,10 +1,10 @@
 ---
 title: United States Congress
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -79,3 +79,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

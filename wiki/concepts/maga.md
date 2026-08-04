@@ -1,10 +1,10 @@
 ---
 title: MAGA
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-04
 type: concept
 tags: [maga, movement, politics, base, information-war]
-sources: [raw/all-assets-deployed.md, raw/america-has-a-cia-run-economy.md]
+sources: [raw/all-assets-deployed.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

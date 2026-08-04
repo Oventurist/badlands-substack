@@ -1,10 +1,10 @@
 ---
 title: Kristi Noem
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [department-of-homeland-security, trump-administration, immigration-enforcement, senate-oversight]
-sources: [raw/badlands-brief-165.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md]
 confidence: high
 contested: false
 ---
@@ -26,4 +26,7 @@ Ashe in America frames Noem's position structurally: Noem, who reports to Trump,
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-165)
+This page draws on multiple source articles:
+
+- [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

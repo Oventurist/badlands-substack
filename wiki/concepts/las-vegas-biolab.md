@@ -1,10 +1,10 @@
 ---
 title: Las Vegas Biolab Case
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [event, biolab, nevada, prosecution, biosecurity]
-sources: [raw/badlands-brief-2c5.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -30,4 +30,7 @@ The Badlands treatment, written by [[ghost-of-based-patrick-henry|GhostofBasedPa
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-2c5)
+This page draws on multiple source articles:
+
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

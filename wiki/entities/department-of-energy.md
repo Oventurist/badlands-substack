@@ -1,10 +1,10 @@
 ---
 title: Department of Energy
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [federal-agency, nuclear-power, energy-policy, trump-administration, national-security]
-sources: [raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-4ec.md]
 confidence: high
 contested: false
 ---
@@ -21,4 +21,7 @@ Posting on X, the department situated the test within a policy line begun the pr
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-0a2)
+This page draws on multiple source articles:
+
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

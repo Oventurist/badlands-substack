@@ -1,10 +1,10 @@
 ---
 title: "Accelerationism"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [strategy, sanctions, regime-change, cuba, badlands-lexicon]
-sources: [raw/badlands-brief-257.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -23,4 +23,7 @@ Badlands writers had used "Accelerate" as a slogan well before the Axios report,
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-257)
+This page draws on multiple source articles:
+
+- [badlands brief 257](https://badlands.substack.com/p/badlands-brief-257)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

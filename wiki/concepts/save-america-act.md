@@ -1,10 +1,10 @@
 ---
 title: SAVE America Act
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-04
 type: concept
 tags: [election-integrity, legislation, voter-citizenship, congress]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-1cd.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-1cd.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -30,9 +30,17 @@ Sponsor Sen. [[mike-lee|Mike Lee]] rebutted Sen. [[dick-durbin|Dick Durbin]]'s o
 
 Contributor [[ashe-in-america|Ashe in America]] called it "a good piece of legislation" but argued that "the body called upon to negotiate and pass it is illegitimate and invested in its demise."
 
+
+## H.R. 7296 and the February 2026 floor push
+
+The February 10, 2026 [[badlands-brief-4ec|Badlands Brief]] reported the bill under the number H.R. 7296, describing it as legislation amending the [[national-voter-registration-act|National Voter Registration Act of 1993]] to require documentary proof of United States citizenship to register to vote in federal elections. Acceptable documentation enumerated in the bill includes a US passport, a REAL ID–compliant identification indicating citizenship, or other official proof of citizenship. Rep. [[chip-roy|Chip Roy]] introduced the measure on January 30, 2026, after which it was referred to the House Committee on House Administration. No final [[house-of-representatives|House]] vote had occurred by the Brief's publication, but leadership had moved toward floor consideration and Roy indicated a vote would come that week; passage would send the bill to the [[senate|Senate]].
+
+House Minority Leader [[hakeem-jeffries|Hakeem Jeffries]] criticised the measure on [[cnn|CNN]]'s "State of the Union," calling it and comparable voter identification efforts voter suppression and accusing Republicans of attempting to rig or steal elections. Badlands contributor [[ashe-in-america|Ashe in America]] countered with polling attributed to CNN data analyst Harry Enten indicating that 83% of Americans favour a photo identification requirement, including 71% of Democrats, 82% of Latinos, and 76% of Black Americans, and argued that opposition rather than the policy is the controversial position — while predicting Republicans would ultimately "cave" under accusations of suppression.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

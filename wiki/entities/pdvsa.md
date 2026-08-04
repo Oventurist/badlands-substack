@@ -1,10 +1,10 @@
 ---
 title: PDVSA
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [venezuela, oil, state-owned-enterprise, money-laundering]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ PDVSA's revenues are also the implicit subject of the January 9, 2026 executive 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

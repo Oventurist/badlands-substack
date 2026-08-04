@@ -1,10 +1,10 @@
 ---
 title: Media Protectorate
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [information-war, media, narrative, epstein, badlands-lexicon]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ He poses the interpretive question of whether this behaviour reflects genuine da
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

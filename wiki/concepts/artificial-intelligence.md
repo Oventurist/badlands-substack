@@ -1,10 +1,10 @@
 ---
 title: Artificial Intelligence
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [cabal, deep-state, censorship, info-war, ai-safety]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-07c.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/america-has-a-cia-run-economy.md, raw/artificial-intelligence.md, raw/badlands-brief-07c.md, raw/badlands-brief-4ec.md]
 confidence: low
 contested: true
 ---
@@ -79,3 +79,4 @@ This page draws on multiple source articles:
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

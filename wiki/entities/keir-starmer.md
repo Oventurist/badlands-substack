@@ -1,10 +1,10 @@
 ---
 title: Keir Starmer
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [united-kingdom, prime-minister, syria, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -18,6 +18,11 @@ Keir Starmer is the Prime Minister of the United Kingdom, cited in the Badlands 
 
 The article summarizes his position sardonically: "Yes, Keir Starmer is 'very pleased' that [[al-qaeda]] is running the show in [[syria]]" — a reference to the al-Qaeda lineage of [[hayat-tahrir-al-sham]], the coalition that took Damascus.
 
+
+## Epstein-related staff departures (February 2026)
+
+The February 10, 2026 [[badlands-brief-4ec|Badlands Brief]] reported that Starmer had lost senior aides — including chief of staff [[morgan-mcsweeney|Morgan McSweeney]] and communications director [[tim-allan|Tim Allan]] — amid scrutiny tied to associations with the late financier [[jeffrey-epstein|Jeffrey Epstein]]. Media reporting cited by the Brief, including in *The Economist*, described Starmer as under pressure over questions of judgment, vetting, and institutional accountability. No charges were reported against Starmer or his staff. The Brief presented the British departures alongside the stalled United States congressional inquiry as twin fronts of continuing transatlantic [[epstein-narrative|Epstein-related]] fallout.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -25,3 +30,4 @@ This page draws on multiple source articles:
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

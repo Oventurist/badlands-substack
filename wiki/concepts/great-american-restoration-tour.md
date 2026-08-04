@@ -1,10 +1,10 @@
 ---
 title: Great American Restoration Tour
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [badlands-media, live-events, conference, community]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-4ec.md]
 confidence: high
 contested: false
 ---
@@ -35,3 +35,4 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

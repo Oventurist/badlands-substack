@@ -1,10 +1,10 @@
 ---
 title: Epstein Narrative
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [media-analysis, narrative-warfare, badlands-media, information-operations]
-sources: [raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-0a2.md]
+sources: [raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-7.md, raw/badlands-brief-0a2.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 5](https://badlands.substack.com/p/badlands-blitz-episode-5)
 - [badlands blitz episode 7](https://badlands.substack.com/p/badlands-blitz-episode-7)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

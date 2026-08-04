@@ -1,10 +1,10 @@
 ---
 title: Politico
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [media, political-journalism, narrative-warfare]
-sources: [raw/badlands-brief-174.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -17,4 +17,7 @@ In [[badlands-brief-174|Badlands Brief: Conflicts, Cartels, & Clemency]], Badlan
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-174)
+This page draws on multiple source articles:
+
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

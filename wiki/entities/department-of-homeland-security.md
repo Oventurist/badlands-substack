@@ -1,10 +1,10 @@
 ---
 title: Department of Homeland Security
 created: 2026-08-03
-updated: 2026-08-06
+updated: 2026-08-04
 type: entity
 tags: [government-agency, immigration, border-security, trafficking]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-1ce.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-1ce.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: false
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 - [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

@@ -1,10 +1,10 @@
 ---
 title: Venezuela
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [venezuela, latin-america, regime-change, sovereignty]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -47,3 +47,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

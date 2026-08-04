@@ -1,10 +1,10 @@
 ---
 title: Fifth Amendment
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [constitution, self-incrimination, testimony, congressional-hearings, due-process]
-sources: [raw/badlands-brief-414.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-4ec.md]
 confidence: high
 contested: false
 ---
@@ -18,4 +18,7 @@ The Brief highlighted an unusual legal dimension: Rand Paul argued from the dais
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-414)
+This page draws on multiple source articles:
+
+- [badlands brief 414](https://badlands.substack.com/p/badlands-brief-414)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

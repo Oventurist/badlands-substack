@@ -1,10 +1,10 @@
 ---
 title: Associated Press
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [media, wire-service, journalism]
-sources: [raw/badlands-brief-2b2.md]
+sources: [raw/badlands-brief-2b2.md, raw/badlands-brief-4ec.md]
 confidence: high
 contested: false
 ---
@@ -16,4 +16,7 @@ In the July 6, 2026 [[badlands-brief-2b2|Badlands Brief]], the AP is cited twice
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-2b2)
+This page draws on multiple source articles:
+
+- [badlands brief 2b2](https://badlands.substack.com/p/badlands-brief-2b2)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

@@ -1,10 +1,10 @@
 ---
 title: National Voter Registration Act
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [election-law, voter-rolls, federal-statute, election-integrity, litigation]
-sources: [raw/badlands-brief-40d.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: false
 ---
@@ -21,4 +21,7 @@ Attorney General [[pam-bondi|Pam Bondi]] and the department's [[civil-rights-div
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-40d)
+This page draws on multiple source articles:
+
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

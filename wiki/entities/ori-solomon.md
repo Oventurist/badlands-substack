@@ -1,10 +1,10 @@
 ---
 title: Ori Solomon
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [person, biolab, las-vegas, prosecution, israel]
-sources: [raw/badlands-brief-2c5.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-4ec.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,14 @@ A state magistrate judge, [[elayna-youchah|Elayna J. Youchah]], released Solomon
 
 The Badlands commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] treats the dismissal and pretrial release as evidence of foreign influence over the American justice system, emphasizing Solomon's Israeli citizenship and the asserted Jewish and Israeli backgrounds of the judge and prosecutor. That interpretation is the source's opinion, not an established finding.
 
+
+## Charges and pretrial release
+
+The February 10, 2026 [[badlands-brief-4ec|Badlands Brief]], citing *The Washington Times* and court records, restated that Solomon — an Israeli national who managed the Las Vegas short-term rental property where officials found what they described as a possible unlicensed biological laboratory — faces Nevada state felony charges related to hazardous waste disposal and a federal firearms charge alleging unlawful possession as a non-immigrant visa holder. He has not been charged with operating a biolab or with handling biological agents. Investigators seized laboratory equipment and more than 1,000 samples of unknown liquids, and Solomon was released pending trial. He holds Israeli and French passports and was in the United States on an E-2 visa, a non-immigrant category for foreign investors and key employees from treaty countries. The investigation is examining links to Chinese nationals, including the property owner, who reporting has connected to a prior illegal biolab case in Reedley, California.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-2c5)
+This page draws on multiple source articles:
+
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)

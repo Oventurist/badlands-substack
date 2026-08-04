@@ -1,10 +1,10 @@
 ---
 title: Pam Bondi
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [attorney-general, department-of-justice, appointments, prosecutions]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md]
 confidence: high
 contested: false
 ---
@@ -48,3 +48,4 @@ This page draws on multiple source articles:
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 405](https://badlands.substack.com/p/badlands-brief-405)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
