@@ -28,6 +28,10 @@ The article argues that the deal was designed partly so that Western-partnered I
 
 Trump's withdrawal from the agreement, accompanied by the "maximum pressure" campaign threatening "enormous consequences" for sanctions evasion, drew from Donilon the judgment that it was "the worst move in the Middle East since the Iraq War." Under [[joe-biden]] the posture reversed again, with [[china]] permitted to sign a $400 billion agreement with Iran within two months of the new administration taking office. The article concludes that the Iran Deal "split the ruling class factionally, more so than any other issue at the time."
 
+## Zarif and Rouhani in the Badlands Brief (July 2026)
+
+The July 14, 2026 Badlands Brief reports that although [[hassan-rouhani|Hassan Rouhani]] was president when the nuclear deal was signed with the Obama administration and authorized the meetings, Iranian Foreign Minister [[javad-zarif|Javad Zarif]] is credited as the prime contact and principal negotiator for the Iranian side. The same commentary claims Rouhani had central bankers arrested in 2018 — the same ones named by President [[donald-trump|Donald Trump]] in his sanctions package — for laundering US dollars through banks in [[iraq|Iraq]] and the UAE.
+
 ## Sources
 
 This page draws on multiple source articles:

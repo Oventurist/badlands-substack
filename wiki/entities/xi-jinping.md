@@ -1,10 +1,10 @@
 ---
 title: Xi Jinping
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [china, head-of-state, multipolarity, belt-and-road, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md]
 confidence: high
 contested: false
 ---
@@ -28,6 +28,10 @@ The January 26, 2026 Badlands Brief relays social media reports, amplified by Ge
 
 Badlands contributor GhostofBasedPatrickHenry framed the purge through a "Good Twin and Evil Twin" model in which Xi and [[donald-trump|Donald Trump]] represent the reformist side in their respective countries, while the Uniparty/[[deep-state|Deep State]] and the arrested Chinese military leaders represent the other. He noted the earlier displacement of the Chinese "technocrat" faction that had brought China into the Western banking system, which he dated to Xi's ascent as General Secretary in 2012, and cited [[financial-times|Financial Times]] reporting that the arrests consolidate Xi's power — in his view a necessary step "to stave off calamity," making Xi "ahead of the game" relative to expectations that Trump would use emergency executive authority against a [[color-revolution|color revolution]] at home.
 
+## Trump's Beijing summit (March 2026)
+
+The March 27, 2026 Badlands Brief reports that the [[white-house|White House]] confirmed Trump will meet Xi in Beijing on May 14 and 15, 2026 — a meeting originally postponed due to the U.S. military operation in [[iran|Iran]]. Trump posted on [[truth-social|Truth Social]] that he looks "very much forward to spending time with President Xi in what will be, I am sure, a Monumental Event," and that Xi and Madame Peng would be hosted for a reciprocal visit in Washington later in the year. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] notes the visit will fall on the one-year anniversary of Trump's trip to Arabia, which occurred May 13-16 of the previous year, and wonders whether it will produce another speech like the one Trump gave in Riyadh.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -39,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

@@ -51,6 +51,10 @@ The same edition reports Israel's announcement that it had eliminated Basij comm
 
 The May 18, 2026 Badlands Brief reports that the [[united-arab-emirates|UAE]] blamed [[iran|Iran]] or allied proxy groups for the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026, but Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues the attack was a false flag implicating Israel. He notes that the drones entered the UAE from the west — the direction of Israel and [[iraq|Iraq]], not Iran — and that Israel "staunchly opposes any Muslim country possessing nuclear technology," making the nuclear plant "the intended target." The commentary also cites the [[wall-street-journal|Wall Street Journal]]'s report that Israel had built and defended a secret base in Iraq during the Iran war, and the reported discovery of two Israeli military bases in remote parts of Iraq by Bedouin shepherd [[awad-al-shammari|Awad al-Shammari]], who was reportedly killed by a helicopter strike after reporting his find. The commentator concludes that "somebody is trying to provoke a war between the various Muslim nations" and that "the only nation that would benefit from such a development would be Israel," arguing that Israel had succeeded in uniting the Islamic world against it during the [[twelve-day-war|Twelve Day War]] and stood to benefit from reversing that realignment.
 
+## Post-conflict espionage purge in Iran (July 2026)
+
+The July 14, 2026 Badlands Brief reports that, following Israel's conflict with [[iran|Iran]], Iranian authorities launched a sweeping internal security crackdown on suspected [[mossad|Mossad]] infiltration, reportedly placing former President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]] under house arrest, with state media reporting executions in espionage-related cases. The [[tyler-robinson|Tyler Robinson]] controversy also saw [[candace-owens|Candace Owens]] allege a "Zionist PR" campaign against her after she implicated Israel in [[charlie-kirk|Charlie Kirk]]'s murder.
+
 ## Sources
 
 This page draws on multiple source articles:

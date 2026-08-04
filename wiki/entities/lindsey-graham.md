@@ -20,6 +20,10 @@ The March 10, 2026 Badlands Brief reports that Graham met Israeli Prime Minister
 
 Commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] treats Graham as the clearest example of what he calls GOP figures who "have sold out our country to [[israel|Israel]]." Arguing that the Saudi royal family conducts diplomacy privately, he contends that publicizing a proposal on television and social media could not succeed, and that Graham's conduct "suggests a level of desperation that is not only dangerous, but likely doomed to fail." The same commentary notes Graham's claim that President [[donald-trump|Donald Trump]] had been emboldened by his operation against [[nicolas-maduro|Maduro]] in [[venezuela|Venezuela]], and reads Trump's posture as a deliberate trap that lured war advocates onto "the Forever War rug." In a separate item, [[ashe-in-america|Ashe in America]] writes that "despite Lindsey Graham and his donors' best efforts, the President always seems at least a few steps — or years — ahead."
 
+## Departure and the Iran reset (July 2026)
+
+The July 14, 2026 Badlands Brief reports that commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] writes that Graham's departure "provides an opportunity to turn the page, and have an actual reset of relations with [[iran|Iran]] — but only if Americans have the courage and strength to make peace with a foreign culture that they have been conditioned to hate."
+
 ## Sources
 
 This page draws on multiple source articles:

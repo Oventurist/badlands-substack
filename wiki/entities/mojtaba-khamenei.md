@@ -1,10 +1,10 @@
 ---
 title: Mojtaba Khamenei
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [iran, supreme-leader, succession, islamic-republic]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-58d.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-58d.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -22,6 +22,10 @@ The June 5, 2026 Badlands Brief records a marked change in President [[donald-tr
 
 Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] called this "a rebranding exercise at Warp Speed," arguing that Trump was reframing the Ayatollah as a reasonable actor and signalling that Washington would not attempt to overthrow [[iran|Iran]]'s existing system of government. The shift accompanied Trump's statement that the United States does not need a formal agreement to obtain Iran's enriched uranium, which he described as effectively "entombed" at damaged nuclear sites.
 
+## Trump's CIA claim (March 2026)
+
+The March 27, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] said in an interview on [[fox-news|Fox News]]' "The Five" that the [[cia|CIA]] had told him Khamenei is gay, referencing recent intelligence claims. Trump acknowledged the agency relayed the information but indicated uncertainty, noting that others have made similar claims, and reminisced about his support from gay voters in the 2024 election. The reporting connects the claim to broader geopolitical narratives and internal Iranian power dynamics. Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] observes that Trump made the remarks after weeks of speculation over whether Khamenei was even alive or real, since no footage of him appearing in public had surfaced, concluding that "it feels like we are getting trolled by Trump."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -29,3 +33,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 58d](https://badlands.substack.com/p/badlands-brief-58d)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

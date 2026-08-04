@@ -1,10 +1,10 @@
 ---
 title: Rules-Based International Order
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-06
 type: concept
 tags: [geopolitics, international-law, unipolarity, sovereignty]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-094.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-094.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -18,9 +18,14 @@ The article's central legal claim is that the UN Charter premises international 
 
 Ehret also uses the phrase sardonically when discussing nuclear strategy, writing that retaliation for any attack on Russia or China "would take out every major city across the Rules Based International free world."
 
+## Ukraine as the first inversion (March 2026)
+
+The March 27, 2026 Badlands Brief, in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], argues that [[russia|Russia]]'s move into Ukraine was the first major inversion of the rules-based international order and the first crack in the "unipolar spell" — a shatterpoint that globalists are still trying to hide as the Iran crisis accelerates the fracture.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [a gateway to a new world of cooperation](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

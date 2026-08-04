@@ -18,6 +18,10 @@ Khamenei is the point of departure for Badlands Blitz Episode 12, hosted by [[bu
 
 The source notes that [[donald-trump|Donald Trump]] himself was among those relaying such claims, and that he did so on a secondhand basis, "according to what he's been told." The hosts treat this confusion less as a question to be settled than as a case study, using it to open a discussion of [[narrative-warfare|Narrative Warfare]], [[sovereign-disentanglement|Sovereign Disentanglement]] and [[first-principles|First Principles]]. In that reading, the uncertainty surrounding Khamenei illustrates how a war can be theatrical in its presentation and materially serious in its consequences at the same time.
 
+## Removal from the chain of command (July 2026)
+
+The July 14, 2026 Badlands Brief reports that the [[continuity-of-government|Continuity of Government]] protocol implemented in [[iran|Iran]] in August 2025 removed the Ayatollah from the chain of command, devolving political and military powers to regional governors and lower-level commanders after it was determined that [[mossad|Mossad]] and the [[cia|CIA]] had likely infiltrated the highest levels of the [[islamic-revolutionary-guard-corps|IRGC]] and intelligence community.
+
 ## Sources
 
 This page draws on multiple source articles:

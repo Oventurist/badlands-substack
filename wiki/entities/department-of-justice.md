@@ -1,10 +1,10 @@
 ---
 title: Department of Justice
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -31,6 +31,12 @@ In the March 18, 2026 Badlands Brief, the Department responded to [[james-comer|
 
 The July 14, 2026 Badlands Brief reports that the DOJ and the [[pentagon|Pentagon]] established a joint task force to identify and prosecute unauthorized disclosures of sensitive information to the news media, announced by War Secretary [[pete-hegseth|Pete Hegseth]]. Hegseth delegated authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations, empowering the office to request and receive all information, records, and support across the department. The announcement followed the administration's subpoenas to several [[new-york-times|New York Times]] journalists after the outlet's report on President [[donald-trump|Trump]]'s new Qatari-donated [[air-force-one|Air Force One]].
 
+## Voter roll data sharing with DHS and the James referral (March 2026)
+
+The March 27, 2026 Badlands Brief reports that the DOJ and the [[department-of-homeland-security|Department of Homeland Security]] are nearing a formal agreement that would allow federal authorities to use voter registration data in immigration and criminal probes. Under the reported plan, the DOJ's [[civil-rights-division|Civil Rights Division]] would provide voter roll data collected from states to [[immigration-and-customs-enforcement|ICE]]'s [[homeland-security-investigations|Homeland Security Investigations]], with the goal of identifying non-citizens who may be registered to vote or who may have participated in past elections unlawfully; the request for access is expected to be submitted by [[todd-lyons|Todd Lyons]], the senior official performing the duties of ICE director. A DOJ spokesperson said the department is devoting significant resources to ensure elections are "free, fair, and transparent," including litigation to ensure voter roll maintenance and a clear focus on ensuring that American elections are decided solely by American citizens.
+
+The same edition reports that [[federal-housing-finance-agency|FHFA]] Director [[william-pulte|William Pulte]] again referred New York Attorney General [[letitia-james|Letitia James]] to the DOJ for potential criminal prosecution over alleged misrepresentations on a homeowner's insurance application, sending letters to US Attorneys in Florida and Illinois requesting they "authenticate and investigate" the claims.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -47,3 +53,4 @@ This page draws on multiple source articles:
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

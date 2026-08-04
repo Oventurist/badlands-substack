@@ -22,6 +22,10 @@ In the source's analysis, the 2020 election is the substantive core of both the 
 
 Because Trump is now a defendant, the essay argues, he possesses powers of discovery and a due-process entitlement to demonstrate the truth of his claims — making the criminal cases, paradoxically, the first realistic forum in which evidence of election fraud might be heard. Should such evidence reach the [[supreme-court-of-the-united-states|Supreme Court]], the author suggests, it "could open a massive can of worms for the Biden administration."
 
+## Declassified intelligence speculation (July 2026)
+
+The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] announced a "Speech to the Nation," widely speculated to address newly declassified intelligence on foreign interference in the 2020 election, with mainstream outlets including MSN and Polymarket claiming the speech would address foreign interference "known but previously covered up."
+
 ## Sources
 
 This page draws on multiple source articles:

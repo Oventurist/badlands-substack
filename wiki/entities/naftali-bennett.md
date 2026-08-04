@@ -1,10 +1,10 @@
 ---
 title: Naftali Bennett
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [israel, israeli-politics, palestine, elections]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -19,7 +19,12 @@ The Brief cites an interview in which Bennett describes himself as "ten degrees 
 
 ## Use in the Badlands argument
 
-[[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] invokes Bennett specifically to rebut the idea that Netanyahu is the root of Israeli warmongering and that removing him would open a path to peace. The conclusion drawn from Bennett's positions is that "there is no 'pro-peace' faction in Israeli politics. At least not one that has any chance of ever taking power," a claim the author presents as "a very sobering revelation" for how the United States should deal with Israel. This is an interpretive argument advanced by the commentator rather than a neutral characterization of Israeli politics.
+[[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] invokes Bennett specifically to rebut the idea that Netanyahu is the root of Israeli warmongering and that removing him would open a path to peace. 
+The conclusion drawn from Bennett's positions is that "there is no 'pro-peace' faction in Israeli politics. At least not one that has any chance of ever taking power," a claim the author presents as "a very sobering revelation" for how the United States should deal with Israel. This is an interpretive argument advanced by the commentator rather than a neutral characterization of Israeli politics.
+
+## "Losing all of its wars" (March 2026)
+
+The March 27, 2026 Badlands Brief reports that Bennett "now seems pretty upset that Israel is currently losing all of its wars," in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reviewing the strain on the [[israel-defense-forces|IDF]] — the reservist crisis, the announced invasion of southern Lebanon, and the possibility of escalation with [[iran|Iran]].
 
 ## Sources
 
@@ -27,3 +32,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

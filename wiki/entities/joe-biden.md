@@ -34,6 +34,10 @@ The November 2022 essay All Assets Deployed refers to "the occupation of the Whi
 
 "Are Jack Smith and Fani Willis in on the Plan?" (September 2023) treats the Biden administration as the party with the most to lose from the criminal cases against [[donald-trump|Donald Trump]]. The essay argues that because Trump's defense depends on demonstrating that his claims about the [[2020-united-states-presidential-election|2020 election]] were made in good faith, the prosecutions create the first genuine forum for evidence of election fraud. Should such evidence reach the [[supreme-court-of-the-united-states|Supreme Court]], the article states, it "could open a massive can of worms for the Biden administration."
 
+## The Hunter Biden defamation case (July 2026)
+
+The July 14, 2026 Badlands Brief reports on the defamation lawsuit in which [[patrick-byrne|Patrick Byrne]] claimed that [[hunter-biden|Hunter Biden]] sought a bribe from [[iran|Iran]] in exchange for influencing Biden to release $8 billion in frozen Iranian assets and reduce pressure during nuclear negotiations — claims a federal judge found defamatory, awarding Hunter Biden $1.7 million in punitive damages.
+
 ## Sources
 
 This page draws on multiple source articles:

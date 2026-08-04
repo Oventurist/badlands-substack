@@ -22,6 +22,10 @@ That timing argument underpins the broader editorial rationale of Badlands outpu
 
 The term overlaps with, but is not identical to, the [[censorship-industrial-complex|censorship industrial complex]]. The latter names the machinery by which information is suppressed or de-amplified; the Media Industrial Complex names the machinery by which approved information is produced and distributed. In Badlands usage the two are complementary halves of the same information environment, and both are treated as arenas of [[5th-generation-warfare|fifth-generation warfare]] rather than as ordinary commercial media.
 
+## The media leaks task force framing (July 2026)
+
+The July 14, 2026 Badlands Brief reports [[burning-bright|Burning Bright]]'s argument that illegal psychological warfare has been waged against the American people for generations and that the Media Industrial Complex "has not just participated in said PsyOps, but been the main vector of psychological control," and that the [[donald-trump|Trump]] administration's war on the media and [[military-industrial-complex|military industrial complexes]] is itself a counter-insurgency operation.
+
 ## Sources
 
 This page draws on multiple source articles:

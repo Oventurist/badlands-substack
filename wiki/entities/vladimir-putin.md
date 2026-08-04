@@ -1,10 +1,10 @@
 ---
 title: Vladimir Putin
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md]
 confidence: high
 contested: false
 ---
@@ -47,6 +47,14 @@ The remarks came amid Moscow's continuing criticism of Western enforcement actio
 
 The May 18, 2026 Badlands Brief reports that Putin was scheduled to visit Beijing on May 19–20, 2026 for talks with [[xi-jinping|Xi Jinping]], according to a [[kremlin|Kremlin]] announcement released Saturday, May 16. The Kremlin said the visit coincides with the 25th anniversary of the 2001 [[sino-russian-treaty-of-friendship|Sino-Russian Treaty of Friendship]] and will focus on bilateral relations, economic cooperation, and international and regional issues. The trip came less than a week after President [[donald-trump|Donald Trump]] concluded a state visit to [[china|China]] that included meetings with Xi on trade, Taiwan, and the conflict involving [[iran|Iran]]. Chinese state media described the sequence of visits by the US and Russian presidents as unusual and indicative of Beijing's growing diplomatic influence. Ahead of the visit, Xi and Putin exchanged congratulatory messages, with Xi quoted as saying China-Russia cooperation had "continuously deepened and solidified." The Brief notes the two countries have expanded political and economic ties in recent years, particularly after Russia's 2022 invasion of [[ukraine|Ukraine]] increased Moscow's dependence on Chinese trade and energy purchases. Badlands commentator [[burning-bright|Burning Bright]] framed the visit as a "Sovereign Signal" that is "no longer subtle" and "no longer deniable," arguing that the US, China and Russia can absorb shocks but questioning whether "the Collectorate" and "the System" can.
 
+## The Starlink episode (July 2026)
+
+The July 14, 2026 Badlands Brief reports that, according to commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], operatives attempting to crash [[iran|Iran]]'s financial system were forced to use [[elon-musk|Elon Musk]]'s Starlink to communicate, and that Russia under Putin helped the Iranians "hack" Starlink and use it to geo-locate all of the operatives. The same commentary credits Putin-era Russia with hosting the "earnest" economic relationship — railroads, pipelines, [[brics|BRICS]] — that [[hassan-rouhani|Rouhani]] built for Iran.
+
+## The "original deal" recalled (March 2026)
+
+The March 27, 2026 Badlands Brief, in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], argues the West will ultimately be forced to accept the deal Putin first presented at the outset of the war — a settlement in which Russia dominates [[ukraine|Ukraine]] — and that President [[donald-trump|Donald Trump]] is signaling exactly that outcome to the [[european-union|European Union]], which the commentator calls the "Prussian Proxy."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -67,3 +75,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

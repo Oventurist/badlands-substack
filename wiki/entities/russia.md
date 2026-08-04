@@ -1,10 +1,10 @@
 ---
 title: Russia
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [russia, geopolitics, sanctions, ukraine, energy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -31,6 +31,10 @@ Russia also figures in the removal of [[imran-khan]]: the article identifies Kha
 
 Citing a [[zerohedge|ZeroHedge]] report, the March 18, 2026 Badlands Brief states that Russia is pushing [[iran|Iran]] to stay in the fight, signaling that Moscow sees continuation of the conflict either as a negotiating chip or as an earnest proxy war against [[israel|Israel]], which has been attacking Russian allies in the Middle East since the October 7th attack. Together with [[china|China]], Russia is described as feeding intelligence to Iran to keep it competitive — behavior the Brief argues contradicts the presumption that both powers want Persian Gulf stabilization, and which it explains by their interest in preventing a strategic defeat that would discredit the [[sovereign-alliance|Sovereign Alliance]] and endanger the [[north-south-transportation-corridor|North-South Transportation Corridor]].
 
+## Ukraine as the first shatterpoint (March 2026)
+
+The March 27, 2026 Badlands Brief, in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], argues that Russia's move into Ukraine was the first major inversion of the [[rules-based-international-order|rules-based international order]] and the first crack in the "unipolar spell" — a shatterpoint that globalists are still trying to hide. The commentary contends that the West will ultimately be forced to accept the deal first presented by [[vladimir-putin|Vladimir Putin]] at the outset of the war — a settlement in which Russia dominates [[ukraine|Ukraine]] — and that this outcome is being signaled by President [[donald-trump|Donald Trump]] directly to the "Prussian Proxy" (the [[european-union|European Union]]).
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -45,3 +49,4 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

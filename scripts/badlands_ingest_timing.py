@@ -29,6 +29,10 @@ PROJ = "C:/Users/14053/hermes-projects/badlands-substack"
 LOG = os.path.join(PROJ, "logs", "ingest-timings.log")
 
 ARTICLE_RE = re.compile(r"(?:Ingested|Ingest complete for) \*\*([^*]+\.md)\*\*")
+# New one-line report format: "done: <raw-slug> -> created N, updated M"
+# The model sometimes includes the .md extension and sometimes not, so the
+# slug is captured first and the .md is optional.
+DONE_RE = re.compile(r"done:\s*([a-zA-Z0-9-]+)(?:\.md)?")
 RAW_RE = re.compile(r"raw/([a-zA-Z0-9-]+\.md)")
 BACKTICK_RE = re.compile(r"`([a-zA-Z0-9-]+\.md)`")
 SILENT_RE = re.compile(r"^\[SILENT\]\s*$", re.M)
@@ -54,6 +58,9 @@ def article_of(path):
         return "FAILED"
     resp = txt.split("## Response", 1)[-1]
     m = ARTICLE_RE.search(resp)
+    if m:
+        return m.group(1)
+    m = DONE_RE.search(resp)
     if m:
         return m.group(1)
     m = RAW_RE.search(resp)

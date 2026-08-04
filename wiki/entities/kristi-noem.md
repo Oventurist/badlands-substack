@@ -24,6 +24,10 @@ Lawmakers from both parties also criticized a $220 million advertising campaign 
 
 Ashe in America frames Noem's position structurally: Noem, who reports to Trump, absorbs bipartisan hostility in the hearing room while border czar [[tom-homan|Tom Homan]], who also reports to Trump, receives bipartisan praise for fieldwork and is repeatedly cited by senators as the favorable contrast. In this reading the arrangement functions as a division of political labor, since enforcement operations continue unimpeded regardless of the criticism directed at the Secretary.
 
+## Mocked over the election speech speculation (July 2026)
+
+The July 14, 2026 Badlands Brief notes that speculation about President [[donald-trump|Trump]]'s Thursday "Speech to the Nation" on declassified [[2020-united-states-presidential-election|2020 election]] intelligence was used by some as a vehicle to mock Noem, whom [[ashe-in-america|Ashe in America]] defends as she expresses encouragement about the announcement.
+
 ## Sources
 
 This page draws on multiple source articles:

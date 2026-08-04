@@ -1,10 +1,10 @@
 ---
 title: White House
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [us-government, executive-branch, benghazi, chain-of-command]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -22,6 +22,10 @@ The article also places the White House at the centre of the Benghazi night itse
 
 Former CIA officers, the article adds, tried for months to warn the White House that thousands of shoulder-fired missiles were falling into Al Qaeda's hands, but "their warnings fell on deaf ears" — which the article attributes not to negligence but to the White House's own involvement in the sale of those weapons.
 
+## Beijing summit announcement (March 2026)
+
+The March 27, 2026 Badlands Brief reports that the White House announced that President [[donald-trump|Donald Trump]] will meet Chinese President [[xi-jinping|Xi Jinping]] in Beijing on May 14 and 15, after the meeting was rescheduled from an earlier date postponed due to the U.S. military operation in [[iran|Iran]]. Press Secretary [[karoline-leavitt|Karoline Leavitt]] said Trump and First Lady [[melania-trump|Melania Trump]] are also expected to host Xi and Madame Peng for a reciprocal visit in Washington later in the year, with the date still to be determined.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +39,4 @@ This page draws on multiple source articles:
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

@@ -1,10 +1,10 @@
 ---
 title: Benjamin Netanyahu
 created: 2026-08-02
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -51,7 +51,12 @@ The March 13, 2026 Badlands Brief reports that the Israeli Justice Ministry unit
 
 [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argued that the pending charges function as a Sword of Damocles forcing Netanyahu to press the [[greater-israel-project|Greater Israel]] agenda before an October election, since either territorial expansion or a victory over [[iran|Iran]] would secure his position. He contended Netanyahu was not winning: citing [[haaretz|Haaretz]], he reported that nearly a dozen Iranian smart missiles penetrated the [[iron-dome|Iron Dome]] and struck central Israel overnight, and that [[steve-witkoff|Steve Witkoff]] had reportedly sought a ceasefire from Iran on Israel's behalf only to be refused. The commentary concludes that Netanyahu can neither de-escalate nor effectively escalate — "Trump has put Bibi in check" — and raises the possibility of unconventional weapons or false flags in the United States.
 
+
 The same edition states that Netanyahu welcomed the dropping of charges against the [[israel-defense-forces|IDF]] soldiers accused of assaulting a Palestinian detainee at [[sde-teiman|Sde Teiman]].
+
+## Zamir appointment and the "fight until objectives" stance (March 2026)
+
+The March 27, 2026 Badlands Brief reports that Netanyahu appointed [[eyal-zamir|Eyal Zamir]] as IDF Chief of Staff after his predecessor became the scapegoat for the [[october-7|October 7]] attack. The same edition reports Netanyahu's insistence that Israel will continue to fight "until it achieves its foreign policy objectives," even as President [[donald-trump|Donald Trump]] announces a ten-day ceasefire and postures toward peace — which [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads as Trump having "done the impossible: baiting Israel into an impossible military scenario while Trump heads for the exit ramp."
 
 ## Sources
 
@@ -73,3 +78,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

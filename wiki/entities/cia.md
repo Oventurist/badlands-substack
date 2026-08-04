@@ -1,13 +1,13 @@
 ---
 title: CIA
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags:
   - intelligence
   - shadow-government
   - terrorism
-sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-journey-of-ever-changing-truths.md, raw/a-more-perfect-labor-union.md, raw/a-new-hollywood.md, raw/america-for-sale-part-3.md, raw/america-has-a-cia-run-economy.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -56,6 +56,10 @@ The essay's conclusion is optimistic rather than despairing: Carlson expects tha
 
 The March 18, 2026 Badlands Brief notes that [[joe-kent|Joe Kent]], who resigned as director of the [[national-counterterrorism-center|National Counterterrorism Center]] over the [[iran|Iran]] war, lost his wife Shannon in an attack in Syria while she was serving in the Middle East, and that Kent "lays the blame for her death at the feet of the CIA."
 
+## Trump's Khamenei claim (March 2026)
+
+The March 27, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] said in an interview on [[fox-news|Fox News]]' "The Five" that the CIA had told him that [[iran|Iran]]'s new supreme leader [[mojtaba-khamenei|Mojtaba Khamenei]] is gay, referencing recent intelligence claims. Trump said the agency had relayed the information — "or he's not, but a lot of people say" — and reminisced about his support from gay voters in the 2024 election. The reporting treats the claim as part of the information war around the Iran conflict and the absence of public footage of Khamenei.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -72,3 +76,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

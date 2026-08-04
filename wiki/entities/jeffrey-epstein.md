@@ -31,6 +31,10 @@ The Brief highlights an email in the release in which Epstein refers to Trump as
 
 The March 18, 2026 Badlands Brief reports that [[house-committee-on-oversight-and-accountability|House Oversight]] lawmakers highlighted more than 65,000 missing documents, over 2,000 unreleased videos, and problematic redactions in the Epstein material that in some cases appear to shield his associates while exposing victim identities — the grievances behind Chairman [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]]. Contributor [[ashe-in-america|Ashe in America]] wrote that legacy media reporting ties the "missing files" claims to sexual assault allegations against President [[donald-trump|Donald Trump]], making the hearings a vehicle for "public character assassinations" ahead of the midterms.
 
+## The "Epstein binder" reference (July 2026)
+
+The July 14, 2026 Badlands Brief notes that the "super secret" video in the [[tyler-robinson|Tyler Robinson]] case was "from the same crew that did the Epstein binder thing," a remark by [[ashe-in-america|Ashe in America]] connecting the trial-drama production to the earlier Epstein materials.
+
 ## Sources
 
 This page draws on multiple source articles:

@@ -1,13 +1,13 @@
 ---
 title: Hezbollah
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags:
   - lebanon
   - terrorism
   - iran
-sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-3d4.md, raw/badlands-brief-50d.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-3d4.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -21,6 +21,10 @@ The article asserts that terrorists do not need to steal money like bank robbers
 
 According to the source, Hezbollah's funding through stolen Iraqi cash represents part of a broader pattern in which "a war zone has always been the perfect cover for taxpayer theft." The article frames the Bush administration's suppression of the investigation as evidence that the U.S. government was complicit in funding its enemies, and that this complicity extends across multiple administrations and theaters of conflict.
 
+## Invasion announcement (March 2026)
+
+The March 27, 2026 Badlands Brief reiterates Defense Minister [[israel-katz|Israel Katz]]'s announcement of a massive invasion of southern Lebanon to destroy Hezbollah and annex everything south of the [[litani-river|Litani River]], in the context of [[eyal-zamir|Eyal Zamir]]'s warning that the [[israel-defense-forces|IDF]] could collapse from over-reliance on reservists.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -30,3 +34,4 @@ This page draws on multiple source articles:
 - [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

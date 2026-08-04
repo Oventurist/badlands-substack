@@ -25,6 +25,10 @@ The article explains BRICS' motivation in terms of the [[petrodollar|Petrodollar
 
 In "Are CBDCs The Path To Fear, or Freedom?", Joe Lange identifies BRICS+ as the force accelerating the global rush toward [[central-bank-digital-currency|central bank digital currencies]]. He argues the bloc has already built a separate, parallel financial system independent of the U.S. dollar, transacting in member currencies. Quoting The Cradle, the article reports that [[saudi-arabia|Saudi Arabia]], the UAE, Algeria, Egypt, Bahrain, and Iran had formally applied to join ahead of the annual summit in South Africa, with nineteen nations in total expressing interest according to Anil Sooklal, South Africa's ambassador to the group. Bloomberg analysis cited in the same passage projects that by 2028 the G7 will account for 27.8 percent of the global economy against 35 percent for BRICS. Alexander Babakov, Deputy Chairman of Russia's State Duma, is quoted as revealing that BRICS was developing a "new currency" to be presented at the August summit, backed by gold and other commodities. [[china|China]] is credited with beginning the shift via the [[shanghai-petroleum-and-natural-gas-exchange|Shanghai Petroleum and Natural Gas Exchange]] and the [[shanghai-gold-exchange|Shanghai Gold Exchange]], and [[russia|Russia]] with leading the move to gold backing.
 
+## Iran's pivot to Russia (July 2026)
+
+The July 14, 2026 Badlands Brief reports that, in the account of commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], former Iranian President [[hassan-rouhani|Hassan Rouhani]] made earnest steps to forge economic bonds with [[vladimir-putin|Putin]]'s Russia — including railroads and pipelines — and sought [[iran|Iran]]'s entry into the Putin-led BRICS financial system.
+
 ## Sources
 
 This page draws on multiple source articles:

@@ -36,6 +36,10 @@ Badlands commentators explicitly bracket the question of Carlson's own sincerity
 
 The March 18, 2026 Badlands Brief reports that administration officials were bracing for further fallout from [[joe-kent|Joe Kent]]'s resignation over the [[iran|Iran]] war, including a planned Kent interview with Carlson.
 
+## Standing by Candace Owens (July 2026)
+
+The July 14, 2026 Badlands Brief reports that Carlson and [[megyn-kelly|Megyn Kelly]] faced backlash for continuing to stand by [[candace-owens|Candace Owens]] amid the growing conservative rift over her conspiracy claims in the [[tyler-robinson|Tyler Robinson]] case.
+
 ## Sources
 
 This page draws on multiple source articles:

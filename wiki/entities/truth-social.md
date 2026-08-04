@@ -1,10 +1,10 @@
 ---
 title: Truth Social
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [platform, social-media, trump, free-speech]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -20,6 +20,14 @@ A Virus, or a Metaphor? refers to Truth Social in the context of the delayed DWA
 
 Because the essay's central thesis is that Trump communicates in layered code — with distinct meanings for the asleep, the half-awake, the fully awake and the [[deep-state|Deep State]] — his posts on the platform are among the texts the author invites readers to revisit, substituting "[[communism|Communism]]" for "virus" in order to recover the intended message.
 
+## Guardian of the Hormuz Strait announcement (July 2026)
+
+The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] used Truth Social to announce that the United States would be known as the "Guardian of the Hormuz Strait" and to announce his "Speech to the Nation" addressing, per mainstream speculation, newly declassified intelligence on foreign interference in the [[2020-united-states-presidential-election|2020 election]].
+
+## Beijing summit announcement (March 2026)
+
+The March 27, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] announced on Truth Social that his meeting with Chinese President [[xi-jinping|Xi Jinping]] — originally postponed due to the U.S. military operation in [[iran|Iran]] — has been rescheduled for Beijing on May 14 and 15, writing that he looks "very much forward to spending time with President Xi in what will be, I am sure, a Monumental Event," and that Xi and Madame Peng would be hosted for a reciprocal visit in Washington later in the year.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -30,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

@@ -58,6 +58,10 @@ The July 2023 Badlands Media feature "Are We Entering the Millennial Reign?" cit
 
 In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, [[burning-bright|Burning Bright]] writes that after [[donald-trump|Donald Trump]] characterized the [[los-angeles|Los Angeles]] mayoral primary result as a theft, "Elon Musk has amplified his signal," prompting what the commentary describes as the standard institutional response of dismissing such claims as "unsubstantiated," "normal process," and "conspiracy theory."
 
+## Starlink in the Iran operation (July 2026)
+
+The July 14, 2026 Badlands Brief reports that, according to commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], operatives attempting to crash [[iran|Iran]]'s financial system were forced to use Musk's Starlink to communicate — provided, in his account, by Musk — and that Russia helped the Iranians hack Starlink and use it to geo-locate the operatives.
+
 ## Sources
 
 This page draws on multiple source articles:

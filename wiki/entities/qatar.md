@@ -27,6 +27,10 @@ America for Sale — Part 2 cites *Nonprofit Quarterly* reporting that the Qatar
 
 [[joe-lange|Joe Lange]] observes that Qatar received the bid and the Clinton Foundation received the money, while much of FIFA's leadership was later arrested on U.S. corruption charges without the Clintons' role being examined.
 
+## Qatari-donated Air Force One and Iran mediation (July 2026)
+
+The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]]'s new [[air-force-one|Air Force One]] was donated by Qatar, and that the administration's subpoenas to [[new-york-times|New York Times]] journalists followed the outlet's reporting on the aircraft. The same edition notes, via the Times of Israel, that a Qatari delegation was in [[iran|Iran]] aiming to boost its mediation role after the war with Israel, and that Qatar's advanced radar systems figure in [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s speculation about a plot to destroy them.
+
 ## Sources
 
 This page draws on multiple source articles:

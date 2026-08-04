@@ -1,10 +1,10 @@
 ---
 title: Denmark
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [denmark, greenland, arctic, nato, europe]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: false
 ---
@@ -22,9 +22,14 @@ The Brief's commentary reports that the Danish Prime Minister issued a grave pub
 
 Denmark's [[joint-arctic-command|Joint Arctic Command]] stated in mid-January 2026 that there were no immediate Chinese or Russian naval threats near Greenland waters and reaffirmed continuing NATO collaboration with the United States, indicating that military cooperation persisted despite the political rupture.
 
+## Frederiksen resignation (March 2026)
+
+The March 27, 2026 Badlands Brief reports that Danish Prime Minister [[mette-frederiksen|Mette Frederiksen]] announced her resignation following major electoral losses for her Social Democrats, part of a wave of incumbent losses across Europe that Badlands commentary ties to the broader unraveling of the established order.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

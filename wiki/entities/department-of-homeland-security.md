@@ -1,10 +1,10 @@
 ---
 title: Department of Homeland Security
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [government-agency, immigration, border-security, trafficking]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-1ce.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-1ce.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: false
 ---
@@ -28,6 +28,10 @@ The May 18, 2026 Badlands Brief reports that the Trump administration has run at
 
 The January 26, 2026 Badlands Brief reports that DHS stated that [[alex-pretti|Alex Jeffrey Pretti]], a 37-year-old U.S. citizen fatally shot by federal immigration agents in Minneapolis on January 24, 2026, had been armed with a handgun and had resisted efforts to disarm him before a Border Patrol agent fired. The Brief contrasts that account with bystander videos and witness statements indicating that Pretti had been filming officers and was pepper-sprayed and pinned down before the shooting, with some footage appearing to show an agent taking his weapon before others fired. Border Patrol Chief [[gregory-bovino|Gregory Bovino]] publicly defended the agents, while Minnesota Governor [[tim-walz|Tim Walz]] and Minneapolis Mayor [[jacob-frey|Jacob Frey]] called for the department's agents to withdraw from the city.
 
+## Voter roll data sharing with DOJ (March 2026)
+
+The March 27, 2026 Badlands Brief reports that the [[department-of-justice|Department of Justice]] and DHS are nearing a formal agreement that would allow federal authorities to use voter registration data in immigration and criminal investigations. Under the reported plan, the DOJ's [[civil-rights-division|Civil Rights Division]] would provide voter roll data to ICE's [[homeland-security-investigations|Homeland Security Investigations]] to identify non-citizens who may be registered to vote or may have participated in past elections unlawfully, with the request expected to be submitted by [[todd-lyons|Todd Lyons]], the senior official performing the duties of ICE director. Officials are also considering building a system that would enable federal investigators to cross-reference voter registration records with DHS immigration databases, allowing direct query-based matching between the two systems.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -39,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

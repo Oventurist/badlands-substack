@@ -1,10 +1,10 @@
 ---
 title: Immigration and Customs Enforcement
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [government-agency, immigration, enforcement, dhs]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-144.md, raw/badlands-brief-165.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-144.md, raw/badlands-brief-165.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: false
 ---
@@ -18,6 +18,10 @@ The June 12, 2026 Badlands Brief reports that ICE was among the principal benefi
 
 The Badlands Brief of January 20, 2026 describes federal ICE deportation operations targeting criminal illegal aliens in the Minneapolis–St. Paul sanctuary-city region as the trigger for sustained unrest. The fatal shooting of [[renee-good|Renee Good]] by an ICE agent — who, according to the source, fired after she allegedly attempted to run over a federal officer with her vehicle — set off ongoing anti-ICE riots and protests. Activists subsequently stormed [[cities-church|Cities Church]] in St. Paul during a Sunday service, apparently targeting a pastor believed to be connected to ICE's local field office operations, prompting a [[department-of-justice|Department of Justice]] civil-rights investigation. The Brief reports that the federal response included the deployment of 3,000 ICE agents to the area with 1,500 troops on standby.
 
+## Voter roll data and the Lyons request (March 2026)
+
+The March 27, 2026 Badlands Brief reports that ICE — through its [[homeland-security-investigations|Homeland Security Investigations]] arm — is the intended recipient of voter registration data under a reported [[voter-roll-data-sharing|data-sharing arrangement]] being finalized with the [[department-of-justice|Department of Justice]] and the [[department-of-homeland-security|Department of Homeland Security]]. The request for access is expected to be submitted by [[todd-lyons|Todd Lyons]], the senior official performing the duties of ICE director, with the goal of identifying non-citizens who may be registered to vote or who may have participated in past elections unlawfully.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -27,3 +31,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

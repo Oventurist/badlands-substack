@@ -16,6 +16,10 @@ The February 11, 2026 Badlands Brief reports the claims of former IRGC commander
 
 The Brief situates these statements amid U.S. airstrikes on Iranian nuclear facilities in June, anti-government protests inside Iran during December and January that Tehran attributed to U.S. and Israeli instigation, U.S. deployments led by the USS Abraham Lincoln carrier group, and Iran's announcement of missile upgrades and a shift toward an offensive military doctrine in response to [[donald-trump|Trump]]'s demands on enrichment and ballistic missiles.
 
+## Alleged infiltration and the COG protocol (July 2026)
+
+The July 14, 2026 Badlands Brief reports that the [[continuity-of-government|Continuity of Government]] protocol implemented in [[iran|Iran]] in August 2025 was adopted because it had been determined that [[mossad|Mossad]] and the [[cia|CIA]] had likely infiltrated the highest levels of the IRGC and intelligence community. The protocol abolished the control hierarchy and devolved powers to regional governors and lower-level commanders. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] ties the purge culminating in former President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]]'s reported house arrest to this infiltration.
+
 ## Sources
 
 This page draws on multiple source articles:

@@ -1,10 +1,10 @@
 ---
 title: Karoline Leavitt
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [white-house, press-secretary, trump-administration, elections]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-559.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md]
 confidence: high
 contested: false
 ---
@@ -23,6 +23,10 @@ In the March 18, 2026 Badlands Brief, White House Press Secretary Leavitt is rep
 ## March 2026: demand for an ABC News retraction
 
 In the March 13, 2026 Badlands Brief, Leavitt is reported to have called on [[abc|ABC News]] to retract earlier reporting that the [[fbi|FBI]] had warned of an Iranian drone attack on California in retaliation for US actions. ABC, citing law-enforcement sources, had reported that the FBI assessed Iran had considered or aspired to conduct drone attacks in California and that investigators were examining intelligence indicating Iran had explored launching drones from ships or other platforms near the US West Coast. Leavitt said the report was inaccurate and demanded a correction or retraction, arguing it misrepresented intelligence about potential Iranian retaliation. No attack occurred, and officials said monitoring of potential threats continued.
+
+## Xi reciprocal visit statement (March 2026)
+
+In the March 27, 2026 Badlands Brief, Leavitt confirmed that President [[donald-trump|Trump]] and First Lady [[melania-trump|Melania Trump]] are expected to host Chinese President [[xi-jinping|Xi Jinping]] and Madame Peng for a reciprocal visit in Washington later in 2026, with the date still to be determined — following the [[white-house|White House]] announcement that Trump will meet Xi in Beijing on May 14 and 15.
 
 ## Sources
 

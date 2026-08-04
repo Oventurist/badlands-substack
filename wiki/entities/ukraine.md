@@ -1,14 +1,14 @@
 ---
 title: Ukraine
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags:
   - ukraine
   - hybrid-warfare
   - labor-unions
   - nato
-sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md, raw/badlands-brief-1ef.md, raw/badlands-brief-3d4.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md, raw/badlands-brief-1ef.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -29,6 +29,10 @@ The article also notes that leaked and declassified State Department cables from
 
 The July 2023 essay A Virus, or a Metaphor? names Ukraine as a site of alleged bioweapon development. [[erik-carlson|Erik Carlson]] writes that beyond the laboratory work he attributes to [[barack-obama|Barack Obama]] and Anthony Fauci in North Carolina and later [[wuhan-institute-of-virology|Wuhan]], "other bioweapons were being created in other biolabs around the world as well, specifically in Ukraine, and possibly Taiwan." The article separately notes that in the plot of [[the-sum-of-all-fears|The Sum of All Fears]], the Nazi conspirators unleash a bioweapon on Ukraine as part of their effort to provoke war between Russia and the United States.
 
+## Security guarantees and the Donbas (March 2026)
+
+The March 27, 2026 Badlands Brief reports that the United States has linked long-term security guarantees for Ukraine to potential concessions around territory and alliances, with officials reportedly ready to finalize guarantees at a high level once Ukraine accepts withdrawal from Donbas. Commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues Russia dominates Ukraine and that the West will ultimately be forced to accept the deal [[vladimir-putin|Putin]] first presented at the outset of the war — a settlement the commentator frames as the first major inversion of the [[rules-based-international-order|rules-based international order]]. The same edition notes that [[hungary|Hungary]] cut natural gas supplies to Ukraine amid disputes over Russian oil transit.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -39,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

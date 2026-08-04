@@ -1,10 +1,10 @@
 ---
 title: Volodymyr Zelensky
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [ukraine, head-of-state, war-economy, drones]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-3d4.md, raw/badlands-brief-577.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-3d4.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md]
 confidence: medium
 contested: true
 ---
@@ -33,7 +33,12 @@ In May 2026, according to Badlands Brief: Canadian Separatists & Guerilla Campai
 
 ## Davos speech, January 2026
 
+
 The January 26, 2026 Badlands Brief reports that Zelensky used a speech at the [[world-economic-forum|World Economic Forum]] to criticize the [[european-union|European Union]]'s handling of security and its support for Ukraine, calling the bloc indecisive and saying it must learn to better defend itself, without specifically thanking member states for the nearly €193 billion in military and financial assistance provided since Russia's full-scale invasion in 2022. Italian lawmaker Rossano Sasso of Lega Nord responded that the EU should stop sending military aid and now "deservedly accepts the insults"; Italian Foreign Minister Antonio Tajani called the address "not generous"; and European Commission President Ursula von der Leyen said the EU stands by Ukraine and that its actions "speak louder than words."
+
+## US security guarantees linked to Donbas withdrawal (March 2026)
+
+The March 27, 2026 Badlands Brief reports that the United States has linked long-term security guarantees for Ukraine to potential concessions around territory and alliances. Zelensky said: "The Middle East definitely has an impact on President Trump, and I think on his next steps. President Trump, unfortunately, in my opinion, still chooses a strategy to put more pressure on the Ukrainian side... The Americans are prepared to finalize these guarantees at a high level once Ukraine is ready to withdraw from Donbas."
 
 ## Sources
 
@@ -45,3 +50,4 @@ This page draws on multiple source articles:
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

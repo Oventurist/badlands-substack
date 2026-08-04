@@ -18,6 +18,10 @@ A Swan Song for the MSM argues that today's press "has become little more than t
 
 The complex is also used as a benchmark for what real journalism looks like. The essay contrasts [[taylor-lorenz|Taylor Lorenz]] — who, it argues, has never exposed consequential corruption in the [[cia|CIA]], the [[fbi|FBI]], Wall Street or the military industrial complex — with [[julian-assange|Julian Assange]] and [[gary-webb|Gary Webb]], whose work directly confronted those institutions.
 
+## Fifth-generation framing (July 2026)
+
+The July 14, 2026 Badlands Brief reports [[burning-bright|Burning Bright]]'s argument that the media and military industrial complexes "are and have been part of the same complex," and that the [[donald-trump|Trump]] administration is at war with both — a framing he reads through the lens of [[5th-generation-warfare|fifth-generation warfare]], describing the fight as a counter-insurgency operation.
+
 ## Sources
 
 This page draws on multiple source articles:

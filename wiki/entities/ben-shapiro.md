@@ -22,6 +22,10 @@ The article cites a February 2021 Daily Wire piece in which Shapiro commented on
 
 The author of "A Glaring Double Standard," [[ryan-delarme|Ryan DeLarme]], writes that he generally agrees with Shapiro's free speech sentiments in the Carano instance, but argues that Shapiro's commitment to free speech was conditional. The article contends that conservative figures such as Shapiro, Bari Weiss, and Dave Rubin — who had earlier decried "safe spaces" and cancel culture — came to cheer or tacitly support the silencing of Israel critics after the October 7, 2023 Hamas attack, revealing, in the article's words, "that their commitment to free speech was always conditional, tethered to tribal loyalties rather than principle."
 
+## Condemnation of Candace Owens (July 2026)
+
+The July 14, 2026 Badlands Brief reports that Shapiro was among the prominent conservative figures who condemned [[candace-owens|Candace Owens]] after evidence from [[tyler-robinson|Tyler Robinson]]'s preliminary hearing undercut her conspiracy claims about the murder of [[charlie-kirk|Charlie Kirk]], in which she had implicated [[israel|Israel]], Egypt, the US military, [[turning-point-usa|Turning Point USA]] staff, and [[erika-kirk|Erika Kirk]].
+
 ## Sources
 
 This page draws on multiple source articles:
