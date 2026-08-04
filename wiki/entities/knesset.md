@@ -24,5 +24,7 @@ The March 27, 2026 Badlands Brief reports that the Knesset approved the mobiliza
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-559)
+This page draws on multiple source articles:
+
+- [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

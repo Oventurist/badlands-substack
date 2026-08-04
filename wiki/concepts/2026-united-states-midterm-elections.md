@@ -1,10 +1,10 @@
 ---
 title: 2026 United States Midterm Elections
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: concept
 tags: [elections, midterms, congress, election-integrity, polling]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,12 @@ A national polling average aggregated by RealClearPolitics showed Democrats hold
 
 Her position is that American elections are fraudulent by design: "Fake elections are treason. They aren't fake by accident. They're fake on purpose, and a lot of people are in on it," she writes, arguing that the participants act "to serve the interests of globalism" and that accountability must fall on Americans rather than on foreign nations or a rewritten account of the role of U.S. intelligence. She concludes that any postponement by Trump and Congress would occur only because elections are fake and "in service of accountability and due process," adding that "Trump will only cancel elections *for democracy*. And that's a good thing."
 
+## The Election Integrity Army and the "stolen election" poll (May 2026)
+
+The May 12, 2026 Badlands Brief leads with President [[donald-trump|Donald Trump]]'s [[truth-social|Truth Social]] statement declaring "This Election Will Be Fair" and announcing an [[election-integrity-army|Election Integrity Army]] for the 2026 midterms — a revival of the Republican monitoring force he said operated in every state during the [[2024-united-states-presidential-election|2024 election]], this time "much bigger and stronger." Trump framed the announcement as a response to a Democrat-led "Election Integrity Group" he said Senate Democratic leader [[chuck-schumer|Chuck Schumer]] was assembling with [[eric-holder|Eric Holder]] and [[marc-elias|Marc Elias]].
+
+The same edition highlights a [[politico|Politico]] poll finding widespread bipartisan distrust in the American election system: only about 39% of respondents said without reservation that the [[2020-united-states-presidential-election|2020 election]] was not stolen, and roughly 40% said the 2026 midterms were unlikely to be stolen. The poll found sharp partisan differences over what constitutes a "stolen" election — Republicans citing voter fraud, mail ballots and election administration; Democrats pointing to voter suppression, redistricting, court rulings and access to voting — which analysts read as reflecting a growing bipartisan erosion of trust even as Americans disagree on the source of the perceived threat. [[ashe-in-america|Ashe in America]] commented that "the 'source of the perceived threat' is irrelevant to the overall finding that the majority of Americans don't trust US elections," calling this "a crisis."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +39,4 @@ This page draws on multiple source articles:
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

@@ -25,5 +25,7 @@ The March 27, 2026 Badlands Brief reports that the Division would provide voter 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-40d)
+This page draws on multiple source articles:
+
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

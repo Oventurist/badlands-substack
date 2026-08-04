@@ -24,6 +24,4 @@ October 7 also marks the point at which [[benjamin-netanyahu|Netanyahu]]'s prede
 
 ## Sources
 
-This page draws on the following source article:
-
-- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+[Original article](https://badlands.substack.com/p/badlands-brief-5dc)

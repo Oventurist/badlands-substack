@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -37,6 +37,10 @@ The March 27, 2026 Badlands Brief reports that the DOJ and the [[department-of-h
 
 The same edition reports that [[federal-housing-finance-agency|FHFA]] Director [[william-pulte|William Pulte]] again referred New York Attorney General [[letitia-james|Letitia James]] to the DOJ for potential criminal prosecution over alleged misrepresentations on a homeowner's insurance application, sending letters to US Attorneys in Florida and Illinois requesting they "authenticate and investigate" the claims.
 
+## The WHCA dinner attack prosecution (May 2026)
+
+The May 12, 2026 Badlands Brief reports that the man accused of attempting to attack President [[donald-trump|Donald Trump]] during the [[white-house-correspondents-association|White House Correspondents' Association]] dinner pleaded not guilty to federal charges including attempted assassination and assaulting a federal officer with a deadly weapon. His legal team sought to remove at least two senior DOJ officials from the prosecution — Acting Attorney General [[todd-blanche|Todd Blanche]] and US Attorney [[jeanine-pirro|Jeanine Pirro]] — arguing that both attended the event and could be considered victims or witnesses, creating a possible conflict of interest. Defense attorney Eugene Ohm indicated the request could expand to seeking the recusal of Pirro's entire office. US District Judge [[trevor-mcfadden|Trevor McFadden]] did not immediately rule and asked the defense to further explain the scope of the request; the attempted assassination charge alone carries a possible life sentence.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -54,3 +58,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

@@ -1,10 +1,10 @@
 ---
 title: Elon Musk
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [person, outlet, censorship, info-war, 5gw, tech]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md, raw/artificial-intelligence.md, raw/badlands-brief-0a2.md, raw/badlands-brief-25c.md, raw/badlands-brief-5ba.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md, raw/artificial-intelligence.md, raw/badlands-brief-0a2.md, raw/badlands-brief-25c.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -62,6 +62,10 @@ In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, [[bur
 
 The July 14, 2026 Badlands Brief reports that, according to commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], operatives attempting to crash [[iran|Iran]]'s financial system were forced to use Musk's Starlink to communicate — provided, in his account, by Musk — and that Russia helped the Iranians hack Starlink and use it to geo-locate the operatives.
 
+## China business delegation (May 2026)
+
+The May 12, 2026 Badlands Brief reports, citing a [[white-house|White House]] official, that Musk — as CEO of Tesla — was expected to accompany President [[donald-trump|Donald Trump]] on his trip to [[china|China]] as the administration pushed for new economic agreements with Beijing. He headed the list of fifteen executives in the delegation, which also included [[tim-cook|Tim Cook]] of [[apple-inc|Apple]], [[larry-fink|Larry Fink]] of [[blackrock|BlackRock]] and [[dina-powell-mccormick|Dina Powell McCormick]] of [[meta-platforms|Meta]], traveling ahead of the [[2026-trump-xi-summit|Trump–Xi summit]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -75,3 +79,4 @@ This page draws on multiple source articles:
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

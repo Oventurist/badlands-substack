@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [china, head-of-state, multipolarity, belt-and-road, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
 confidence: high
 contested: false
 ---
@@ -32,6 +32,12 @@ Badlands contributor GhostofBasedPatrickHenry framed the purge through a "Good T
 
 The March 27, 2026 Badlands Brief reports that the [[white-house|White House]] confirmed Trump will meet Xi in Beijing on May 14 and 15, 2026 — a meeting originally postponed due to the U.S. military operation in [[iran|Iran]]. Trump posted on [[truth-social|Truth Social]] that he looks "very much forward to spending time with President Xi in what will be, I am sure, a Monumental Event," and that Xi and Madame Peng would be hosted for a reciprocal visit in Washington later in the year. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] notes the visit will fall on the one-year anniversary of Trump's trip to Arabia, which occurred May 13-16 of the previous year, and wonders whether it will produce another speech like the one Trump gave in Riyadh.
 
+## Pre-summit framing (May 2026)
+
+The May 12, 2026 Badlands Brief reports that US media outlets framed the upcoming [[2026-trump-xi-summit|Trump–Xi meeting]] as a potentially "legacy-defining" summit amid simultaneous crises involving [[iran|Iran]], [[taiwan|Taiwan]], artificial intelligence, and global trade. Reports from [[axios|Axios]] and other outlets said the talks were expected to focus heavily on the Iran conflict, sanctions, AI coordination, and escalating US-China tensions over Taiwan and military posture in the Pacific. Analysts cited by Western media argued that Beijing entered the summit with increased leverage after months of instability tied to the Iran war and global energy disruptions.
+
+The same edition reports that a delegation of American business executives — including [[elon-musk|Elon Musk]], [[tim-cook|Tim Cook]] and [[larry-fink|Larry Fink]] — was expected to accompany President [[donald-trump|Donald Trump]] to [[china|China]] as the administration pushed for new economic agreements with Beijing. Badlands commentator [[burning-bright|Burning Bright]] read the convergence of Washington, Moscow and Beijing as the "Sovereign Alliance" operating in the open, with the summit serving as cover for coordinated interests against the "Globalist Hegemon."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -44,3 +50,4 @@ This page draws on multiple source articles:
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

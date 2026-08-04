@@ -28,5 +28,7 @@ The March 27, 2026 Badlands Brief reports that the IOC approved a new policy res
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/are-we-being-distracted)
+This page draws on multiple source articles:
+
+- [are we being distracted](https://badlands.substack.com/p/are-we-being-distracted)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

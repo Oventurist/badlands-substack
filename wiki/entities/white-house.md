@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [us-government, executive-branch, benghazi, chain-of-command]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,10 @@ Former CIA officers, the article adds, tried for months to warn the White House 
 
 The March 27, 2026 Badlands Brief reports that the White House announced that President [[donald-trump|Donald Trump]] will meet Chinese President [[xi-jinping|Xi Jinping]] in Beijing on May 14 and 15, after the meeting was rescheduled from an earlier date postponed due to the U.S. military operation in [[iran|Iran]]. Press Secretary [[karoline-leavitt|Karoline Leavitt]] said Trump and First Lady [[melania-trump|Melania Trump]] are also expected to host Xi and Madame Peng for a reciprocal visit in Washington later in the year, with the date still to be determined.
 
+## The China business delegation (May 2026)
+
+The May 12, 2026 Badlands Brief reports, citing a White House official, that a delegation of fifteen high-profile business executives was expected to accompany Trump on his trip to [[china|China]] as the administration pushed for new economic agreements with Beijing. The expected delegation included [[elon-musk|Elon Musk]] (Tesla), [[tim-cook|Tim Cook]] ([[apple-inc|Apple]]), [[larry-fink|Larry Fink]] ([[blackrock|BlackRock]]), [[kelly-ortberg|Kelly Ortberg]] ([[boeing|Boeing]]), [[david-solomon|David Solomon]] ([[goldman-sachs|Goldman Sachs]]), [[stephen-schwarzman|Stephen Schwarzman]] (Blackstone), [[jane-fraser|Jane Fraser]] (Citigroup), [[dina-powell-mccormick|Dina Powell McCormick]] ([[meta-platforms|Meta]]), [[ryan-mcinerney|Ryan McInerney]] (Visa), [[brian-sikes|Brian Sikes]] ([[cargill|Cargill]]), [[chuck-robbins|Chuck Robbins]] (Cisco), [[jim-anderson|Jim Anderson]] (Coherent), [[h-lawrence-culp-jr|H. Lawrence Culp Jr.]] (GE Aerospace), [[jacob-thaysen|Jacob Thaysen]] (Illumina), and [[michael-miebach|Michael Miebach]] (Mastercard). The trip was expected to focus heavily on trade and investment, with the administration aiming to secure business deals and purchase agreements during the [[2026-trump-xi-summit|summit with Xi Jinping]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -40,3 +44,4 @@ This page draws on multiple source articles:
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

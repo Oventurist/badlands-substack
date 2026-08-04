@@ -22,6 +22,4 @@ Coventry said the decision was based on scientific and medical guidance, citing 
 
 ## Sources
 
-This page draws on the following source article:
-
-- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+[Original article](https://badlands.substack.com/p/badlands-brief-5dc)

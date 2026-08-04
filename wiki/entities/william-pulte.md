@@ -23,5 +23,7 @@ The March 27, 2026 Badlands Brief reports that Pulte, as Director of the [[feder
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-245)
+This page draws on multiple source articles:
+
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

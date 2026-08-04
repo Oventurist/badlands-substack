@@ -33,5 +33,5 @@ The March 27, 2026 Badlands Brief reiterates Katz's announcement of a massive in
 This page draws on multiple source articles:
 
 - [badlands brief 0fb](https://badlands.substack.com/p/badlands-brief-0fb)
-- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)

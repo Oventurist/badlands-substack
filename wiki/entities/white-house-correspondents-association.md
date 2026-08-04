@@ -1,10 +1,10 @@
 ---
 title: White House Correspondents' Association
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [press, media, white-house, ritual]
-sources: [raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: false
 ---
@@ -23,6 +23,13 @@ Trump's speech ran more than an hour according to ABC News as cited in the Brief
 
 [[burning-bright|Burning Bright]] argues that the dinner, historically read as "a good bit of rare bipartisan unity coding for the American plebs," now appears in hindsight as "a deeper humiliation ritual (on us) than any of us knew at the time," citing [[stephen-colbert|Stephen Colbert]]'s 2006 roast of [[george-w-bush|George W. Bush]] as an example of apparent dissent that he now regards as controlled opposition. He contends Trump has inverted the occasion into "a reverse humiliation ritual" directed at the [[media-industrial-complex|Media Industrial Complex]] and its "court jesters."
 
+## The April 2026 assassination attempt and its aftermath
+
+The May 12, 2026 Badlands Brief reports that the man accused of attempting to attack President [[donald-trump|Donald Trump]] during the WHCA dinner — referred to in the Brief only as "Allen" — pleaded not guilty in federal court to charges including attempted assassination, assaulting a federal officer with a deadly weapon, and additional firearms counts. The attempted assassination charge alone carries a possible life sentence. His attorneys sought to remove at least two senior [[department-of-justice|Justice Department]] officials from the prosecution — Acting Attorney General [[todd-blanche|Todd Blanche]] and US Attorney [[jeanine-pirro|Jeanine Pirro]] — arguing that both attended the event and could be considered victims or witnesses, creating a possible conflict of interest. Defense attorney Eugene Ohm indicated the request could expand to seeking the recusal of Pirro's entire office; US District Judge [[trevor-mcfadden|Trevor McFadden]] did not immediately rule. Allen is scheduled to return to court June 29.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-245)
+This page draws on multiple source articles:
+
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)

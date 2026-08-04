@@ -28,6 +28,4 @@ Badlands commentary places Zamir's warning within a broader argument that the ID
 
 ## Sources
 
-This page draws on the following source article:
-
-- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+[Original article](https://badlands.substack.com/p/badlands-brief-5dc)

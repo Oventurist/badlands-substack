@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [ukraine, head-of-state, war-economy, drones]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-3d4.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-3d4.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
 confidence: medium
 contested: true
 ---
@@ -40,6 +40,10 @@ The January 26, 2026 Badlands Brief reports that Zelensky used a speech at the [
 
 The March 27, 2026 Badlands Brief reports that the United States has linked long-term security guarantees for Ukraine to potential concessions around territory and alliances. Zelensky said: "The Middle East definitely has an impact on President Trump, and I think on his next steps. President Trump, unfortunately, in my opinion, still chooses a strategy to put more pressure on the Ukrainian side... The Americans are prepared to finalize these guarantees at a high level once Ukraine is ready to withdraw from Donbas."
 
+## Rejection of Putin's end-of-war signal (May 2026)
+
+The May 12, 2026 Badlands Brief reports that [[vladimir-putin|Vladimir Putin]] publicly suggested during Russia's Victory Day events that the Ukraine conflict may be "coming to an end." Zelensky rejected the suggestion that Russia is genuinely seeking peace, according to the Brief, which notes the remarks came amid a fragile US-brokered ceasefire that both Kyiv and Moscow accused the other of violating. Western analysts cited in the Brief argued the Kremlin may be reacting to battlefield attrition, economic strain, and shifting geopolitical realities.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -51,3 +55,4 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
