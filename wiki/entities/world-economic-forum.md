@@ -1,10 +1,10 @@
 ---
 title: World Economic Forum
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [globalism, technocracy, davos, great-reset]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -30,6 +30,10 @@ The same excerpt asserts that these figures share "common axioms" with [[ted-kac
 
 In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], the WEF is one of the NGOs and initiatives [[justin-deschamps|Justin Deschamps]] instructed [[chatgpt|ChatGPT]] to fold into its fictional cabal, the Global Harmony Consortium, alongside the [[world-health-organization|World Health Organization]], [[united-nations|the United Nations]] and the [[esg|ESG]] system. A follow-up prompt added [[klaus-schwab|Klaus Schwab]]'s [[great-reset|Great Reset]] as a further instrument of the scenario's strategy.
 
+## Davos 2026
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] covers the January 2026 meeting of the Forum as the arena in which Treasury Secretary [[scott-bessent|Scott Bessent]] attempted to calm markets and allied governments amid President [[donald-trump|Donald Trump]]'s tariff threats and the administration's pressure campaign over [[greenland|Greenland]]. Bessent urged European counterparts not to retaliate, dismissed talk of European governments selling U.S. Treasury holdings as leverage, and told attendees to "take a deep breath." The same meeting featured a speech by Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] criticizing the [[european-union|European Union]]'s indecisiveness on security, which drew rebukes from Italian politicians who noted the bloc's nearly €193 billion in assistance to Ukraine since 2022. Badlands contributor [[burning-bright|Burning Bright]] characterized the forum as "the den of vipers" into which Trump walked "with two lions beside him," Bessent and [[howard-lutnick|Howard Lutnick]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -42,3 +46,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

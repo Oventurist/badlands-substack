@@ -1,10 +1,10 @@
 ---
 title: Delcy Rodríguez
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [venezuela, diplomacy, regime-change, oil]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-257.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-257.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -31,6 +31,12 @@ The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that a group of 
 
 The Brief's commentary rejects that reading, noting that the ICC has investigated the Venezuelan government since [[nicolas-maduro|Nicolás Maduro]] took office in 2014 and had denied all Venezuelan requests to end its inquiries, concluding that the court "had every intention of indicting Maduro and probably Rodriguez." The [[state-department|State Department]] subsequently used the withdrawal as a rallying cry to encourage other countries to leave the court.
 
+## Aftermath of Maduro's capture (January 2026)
+
+According to the January 26, 2026 [[badlands-brief-577|Badlands Brief]], Rodríguez as acting president championed opening Venezuela's oil industry to foreign investment following the removal of [[nicolas-maduro|Nicolás Maduro]], with the legislature approving initial measures to grant private and foreign companies greater operational autonomy, lower royalty and tax requirements, and international arbitration provisions — a reversal of policies established under [[hugo-chavez|Hugo Chávez]]. A leaked recording of a post-operation meeting, given to a local journalism collective called La Hora de Venezuela, captured Rodríguez saying that U.S. forces gave members of Maduro's cabinet "15 minutes to comply or they would kill us," and that the remaining leadership was initially told Maduro and his wife [[cilia-flores|Cilia Flores]] had been killed rather than captured.
+
+Badlands contributor GhostofBasedPatrickHenry read the recording as theater, nicknaming her "Kokomo" Rodríguez and arguing that she was deploying coordinated narratives with President [[donald-trump|Donald Trump]] that hype new U.S. military technology in order to elevate American power projection. He noted that Rodríguez had already affirmed Maduro signed a [[continuity-of-government|Continuity of Government]] order in December in anticipation of his departure, and argued the dramatic account gives her credibility as an opponent of unipolar hegemony while sparing her the label of a [[state-department|State Department]] puppet.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -40,3 +46,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 257](https://badlands.substack.com/p/badlands-brief-257)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

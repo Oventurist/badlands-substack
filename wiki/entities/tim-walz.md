@@ -1,10 +1,10 @@
 ---
 title: Tim Walz
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [minnesota, national-guard, immigration-enforcement, federalism]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-577.md]
 confidence: high
 contested: false
 ---
@@ -27,6 +27,13 @@ Walz issued [[executive-order-26-01|Executive Order 26-01]], which places Guard 
 
 The commentator [[ashe-in-america|Ashe in America]] reads the order as an act of confrontation with Washington, asking, "Wait, Walz is preparing for the National Guard to fight the Federal Government?" and concluding that "he appears to be mobilizing the Minnesota National Guard to fight federal agents." She situates the mobilization within what she calls the resistance "seizing their moment."
 
+## Response to the Pretti shooting
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that Walz, as Governor of Minnesota, joined Minneapolis Mayor [[jacob-frey|Jacob Frey]] in sharply rebuking the federal immigration operation in which U.S. citizen [[alex-pretti|Alex Jeffrey Pretti]] was fatally shot on January 24, 2026, decrying the operation as excessive and calling for the withdrawal of federal agents and for accountability. President [[donald-trump|Donald Trump]] responded by accusing Minnesota officials of "inciting insurrection" and tying them to allegations of large-scale "theft and fraud."
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

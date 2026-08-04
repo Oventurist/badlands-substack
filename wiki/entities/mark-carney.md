@@ -1,10 +1,10 @@
 ---
 title: Mark Carney
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [canada, central-banking, green-finance, british-empire]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -30,6 +30,12 @@ In May 2026, as reported in [[badlands-brief-3d4|Badlands Brief: Canadian Separa
 
 The intervention followed Premier [[danielle-smith|Danielle Smith]]'s announcement of an October referendum on beginning the legal process toward a future binding independence vote. Critics noted the irony of the warning: Carney had been one of the most prominent establishment voices opposing Brexit in 2016, when pro-Brexit conservatives accused him of running "Project Fear." Badlands commentator [[ashe-in-america|Ashe in America]] characterised him as "the crown's man," still "white knuckling the status quo in the midst of awakening."
 
+## Canada–China trade dispute (January 2026)
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that Carney said on Sunday, January 25, that [[canada|Canada]] has no plans to pursue a free trade agreement with [[china|China]], responding to President [[donald-trump|Donald Trump]]'s threat to impose a 100% tariff on Canadian imports if Ottawa finalized such a deal. Carney characterized Canada's recent arrangement with China as reducing tariffs on a limited number of products rather than constituting a comprehensive free trade pact, and reiterated that Canada would honor its commitments under the United States–Mexico–Canada Agreement, which restricts negotiating free trade treaties with non-market economies without notifying partners. The preliminary Canada–China arrangement included tariff reductions on Chinese electric vehicles and lower duties on Canadian agricultural exports such as canola; China's foreign ministry said the arrangements were not aimed at third parties.
+
+Badlands contributor [[ashe-in-america|Ashe in America]] treated Carney's reversal as evidence of Canada's subordination to the British Crown, asking, "Did Carney change his mind, or did [[king-charles-iii|King Charles]]?" Contributor GhostofBasedPatrickHenry separately speculated that Carney had been dealing with Chinese "technocrats" — a faction including central bankers, distinct from the "red family" aristocracy and the military command — and that the timing of the Canada–China arrangement and the reported purge of Chinese generals was unlikely to be coincidental.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -40,3 +46,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

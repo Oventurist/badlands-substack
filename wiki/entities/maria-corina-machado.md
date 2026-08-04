@@ -1,10 +1,10 @@
 ---
 title: María Corina Machado
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [venezuela, opposition, regime-change, white-house]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -16,6 +16,13 @@ The Brief relays an unverified political commentary claiming that Machado brough
 
 Asked why he was supporting Rodríguez over Machado, Trump answered with an Iraq analogy about the wholesale dismissal of police and generals producing ISIS. Ghost reads this as an assertion that installing Machado as Venezuelan president "would effectively yield the same result."
 
+## Congressional endorsement, January 2026
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that following the removal of [[nicolas-maduro|Nicolás Maduro]], members of the House Foreign Affairs Committee reportedly endorsed Machado unanimously after a closed-door meeting on Capitol Hill, praising her long opposition to Maduro's government and calling for free and fair elections in Venezuela. The endorsement came despite President [[donald-trump|Donald Trump]] having previously dismissed her prospects as Venezuela's leader. Badlands contributor GhostofBasedPatrickHenry cited the episode as evidence of what he called the "habitually-treasonous" Republican Party working against Trump, mocking her as "Maria Hakuna Matata" and noting Trump's assessment that she was unpopular and lacked the respect needed to lead the country.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

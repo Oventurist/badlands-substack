@@ -1,10 +1,10 @@
 ---
 title: Donald Trump
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-05
 type: entity
 tags: [person, administration]
-sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md]
+sources: [raw/1913.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/a-look-at-recent-features.md, raw/a-new-hollywood.md, raw/a-re-alignment-of-world-systems.md, raw/a-seismic-shift.md, raw/a-startling-contradiction-at-the.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/always-fight-back.md, raw/america-has-a-cia-run-economy.md, raw/americas-greatest-threat.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/assad-day-in-damascus.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -186,6 +186,10 @@ In the March 13, 2026 [[badlands-brief-559|Badlands Brief]], Trump is reported t
 
 The same edition records [[burning-bright|Burning Bright]]'s reading that Trump was the target of a trap intended to draw the United States into a generational war with Iran, and that Trump instead "rug-pulled" a planned false flag — a reading he supports with [[marco-rubio|Marco Rubio]]'s explanation that the American pre-emptive strike pre-empted an Israeli one, and with Trump's reply, when asked whether Israel had forced his hand, that "I might have forced theirs."
 
+## January 2026: Davos, Venezuela, and NATO
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] documents several Trump actions in a single week. He backed federal agents after the fatal shooting of U.S. citizen [[alex-pretti|Alex Jeffrey Pretti]] in Minneapolis, questioned the absence of local police, and accused Minnesota officials of "inciting insurrection," linking the unrest to alleged "theft and fraud" involving billions tied to state officials. At the [[world-economic-forum|World Economic Forum]] he was represented by Treasury Secretary [[scott-bessent|Scott Bessent]] and Commerce Secretary [[howard-lutnick|Howard Lutnick]], and mid-week announced a "framework of a future deal" with NATO Secretary General [[mark-rutte|Mark Rutte]] that paused tariff actions tied to the [[greenland|Greenland]] dispute. In a January 25 interview he described a classified device he called the "Discombobulator," said to have disabled Venezuelan defenses during the January 3 operation that captured [[nicolas-maduro|Nicolás Maduro]]. He also threatened a 100% tariff on Canadian imports if Ottawa concluded a free trade deal with [[china|China]], and mused about invoking [[nato|NATO]]'s Article Five to have allied troops help secure the U.S. southern border.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -242,3 +246,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

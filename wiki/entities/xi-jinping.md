@@ -1,10 +1,10 @@
 ---
 title: Xi Jinping
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [china, head-of-state, multipolarity, belt-and-road, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md]
 confidence: high
 contested: false
 ---
@@ -22,6 +22,12 @@ The framing of Xi in this article contrasts markedly with other entries in the B
 
 The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that [[vladimir-putin|Vladimir Putin]] was scheduled to visit Beijing on May 19–20, 2026 for talks with Xi, per a [[kremlin|Kremlin]] announcement released Saturday, May 16, coinciding with the 25th anniversary of the 2001 [[sino-russian-treaty-of-friendship|Sino-Russian Treaty of Friendship]]. The visit came less than a week after President [[donald-trump|Donald Trump]] concluded a state visit to [[china|China]] that included meetings with Xi on trade, Taiwan, and the conflict involving [[iran|Iran]]. Chinese state media described the sequence of visits by the US and Russian presidents as unusual and indicative of Beijing's growing diplomatic influence. Ahead of the visit, Xi and Putin exchanged congratulatory messages, with Xi quoted as saying China-Russia cooperation had "continuously deepened and solidified."
 
+## Reported purge of January 2026
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] relays social media reports, amplified by General [[michael-flynn|Michael Flynn]], of an alleged military coup attempt in China and the simultaneous arrest of generals [[zhang-youxia|Zhang Youxia]], [[liu-zhenli|Liu Zhenli]], and [[zhong-shaojun|Zhong Shaojun]], along with Zhang's family members. Seventeen officials were said to have been detained in total, reportedly by a special service bureau under Wang Xiaohong. One quoted account argued that if Zhang had truly been arrested, "that would mean Xi Jinping and the red families have completely broken off and reached the point of no return."
+
+Badlands contributor GhostofBasedPatrickHenry framed the purge through a "Good Twin and Evil Twin" model in which Xi and [[donald-trump|Donald Trump]] represent the reformist side in their respective countries, while the Uniparty/[[deep-state|Deep State]] and the arrested Chinese military leaders represent the other. He noted the earlier displacement of the Chinese "technocrat" faction that had brought China into the Western banking system, which he dated to Xi's ascent as General Secretary in 2012, and cited [[financial-times|Financial Times]] reporting that the arrests consolidate Xi's power — in his view a necessary step "to stave off calamity," making Xi "ahead of the game" relative to expectations that Trump would use emergency executive authority against a [[color-revolution|color revolution]] at home.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -32,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

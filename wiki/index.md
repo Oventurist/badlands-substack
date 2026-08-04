@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-05 | Total pages: 1746
+> Last updated: 2026-08-05 | Total pages: 1754
 
 ## Entities
 
@@ -232,6 +232,7 @@
 - [[church-committee]]: 1975 congressional committee led by Frank Church whose hearings exposed CIA control of American media and Operation Mockingbird. (Created: 2026-08-02)
 - [[church-of-the-holy-sepulchre]] - Jerusalem church traditionally marking the crucifixion and burial of Jesus; closed to the public in March 2026 amid the Iran-Israel war. (Created: 2026-08-04)
 - [[cia]]: Central Intelligence Agency; framed in the source as the operational arm of a covert shadow government that created and funded terrorist organizations while publicly claiming to fight them. (Created: 2026-08-01)
+- [[cilia-flores]]: Wife of Nicolás Maduro, captured alongside him in the January 3, 2026 US operation in Venezuela. (Created: 2026-08-05)
 - [[cities-church]]: St. Paul, Minnesota congregation stormed by activists in January 2026, triggering a federal civil-rights investigation. (Created: 2026-08-03)
 - [[city-of-london]]: One-square-mile London financial district identified in the Badlands corpus as the seat of the Cabal and the true summit of global power. (Created: 2026-08-01)
 - [[civil-military-coordination-centre]]: US-established headquarters at Kiryat Gat for the International Stabilization Force; Smotrich called for its dismantling. (Created: 2026-08-03)
@@ -527,6 +528,7 @@
 - [[jack-smith]]: U.S. Special Counsel who brought the four-count federal indictment of Donald Trump over the 2020 election, described in the corpus as a prosecutor claiming to read minds. (Created: 2026-08-02)
 - [[jacky-rosen]]: Nevada Democratic senator and co-author of the 2026 bipartisan antisemitism bill. (Created: 2026-08-03)
 - [[jacob-dewitte]]: Oklo co-founder developing small modular fission reactors; 2026 PCAST appointee. (Created: 2026-08-03)
+- [[jacob-frey]]: Mayor of Minneapolis who denounced the federal immigration operation in which Alex Pretti was killed. (Created: 2026-08-05)
 - [[jacobin]]: American socialist magazine cited in the corpus for documenting the CIA's secret 'AFL-CIA' partnership with the AFL-CIO and its role in destabilizing various governments. (Created: 2026-08-01)
 - [[jake-sullivan]]: Policy architect of the Iran nuclear deal, later Biden's national security adviser; Rhodes Scholar and Trilateral Commission member. (Created: 2026-08-02)
 - [[jalisco-new-generation-cartel]]: Mexican criminal organization (CJNG) led by El Mencho; target of the February 2026 Jalisco operation. (Created: 2026-08-03)
@@ -708,6 +710,7 @@
 - [[lionel-messi]] — Argentine footballer at the center of FIFA favoritism allegations
 - [[lisa-cook]] — Federal Reserve governor whose attempted removal by Trump reached the Supreme Court as an Article II test case. (Created: 2026-08-03)
 - [[lisa-su]]: Chair and CEO of AMD; 2026 PCAST appointee. (Created: 2026-08-03)
+- [[liu-zhenli]]: Chinese general reported arrested in the January 2026 PLA purge. (Created: 2026-08-05)
 - [[liz-harrington]]: Conservative spokeswoman whose December 2022 Twitter thread summarizing Kari Lake's 70-page complaint forms the evidentiary core of the Badlands article. (Created: 2026-08-02)
 - [[loral-corporation]]: American satellite and defense electronics firm at the center of the alleged 1990s transfer of missile guidance technology to China. (Created: 2026-08-02)
 - [[lorna-schofield]] — US District Judge who disqualified John Sarcone III and quashed his subpoenas to Letitia James. (Created: 2026-08-03)
@@ -1177,6 +1180,7 @@
 - [[tom-pritzker]] — Hyatt heir who stepped down as executive chair amid the Epstein disclosures
 - [[tony-blair]]: Former British prime minister; one of three former world leaders who headlined a 2012 Teneo client reception staged in part by Huma Abedin. (Created: 2026-08-02)
 - [[tony-gonzales]]: Texas congressman who called daily cartel drone incursions along the border routine. (Created: 2026-08-03)
+- [[trafigura]]: Global commodity trading firm tapped to broker post-Maduro Venezuelan oil sales; former CEO convicted of bribery in Swiss court. (Created: 2026-08-05)
 - [[transitional-national-council]]: Libyan rebel government body formed during the 2011 uprising; cited in the source as the political vehicle through which U.S. taxpayer money was funneled to Al-Qaeda-affiliated rebel groups. (Created: 2026-08-01)
 - [[treasury-department]]: U.S. Department of the Treasury; cited for the October 2008 designation of LIFG members as terrorists under Executive Order 13224. (Created: 2026-08-01)
 - [[trey-gowdy]]: Trey Gowdy was a U.S. (Created: 2026-08-01)
@@ -1240,6 +1244,7 @@
 - [[viktor-pinchuk]]: Ukrainian steel magnate and philanthropist photographed with Chrystia Freeland and named in the corpus among her oligarch contacts. (Created: 2026-08-01)
 - [[viktor-yanukovych]]: Ukrainian President removed in February 2014; cited in the corpus as a "good plutocrat" who fell after choosing the Eurasian Economic Union over the EU in October 2013. (Created: 2026-08-01)
 - [[vincent-munster]]: NIH Virus Ecology Section chief charged with conspiracy to smuggle monkeypox into the US. (Created: 2026-08-03)
+- [[vitol]]: Global commodity trading firm enlisted to market Venezuelan oil after Maduro’s removal, and a defendant in his 2018 lawsuit. (Created: 2026-08-05)
 - [[vivek-ramaswamy]]: Entrepreneur and political figure cited as a foil for the argument that children should dream of bravery rather than software code. (Created: 2026-08-01)
 - [[vladimir-putin]]: President of Russia; one of the three leaders framed as founders of the SCO and of the multipolar alliance. (Created: 2026-08-01)
 - [[volkswagen]] — German automaker undertaking major restructuring amid weak Chinese sales and high energy costs. (Created: 2026-08-04)
@@ -1290,7 +1295,9 @@
 - [[zeev-elkin]]: Israeli Finance Ministry official who said Israel would not fund Gaza reconstruction under Trump's Board of Peace. (Created: 2026-08-03)
 - [[zerohedge]]: Alternative financial and political news site that reported Carlson's FARA claim and its subsequent official denial. (Created: 2026-08-03)
 - [[zhang-yichen]]: Chinese businessman with CCP ties who joined the Carnegie Endowment board and donated between $750,000 and $1.5 million. (Created: 2026-08-02)
+- [[zhang-youxia]]: Chinese Central Military Commission vice chairman reported arrested in January 2026 and accused of leaking nuclear secrets to the US. (Created: 2026-08-05)
 - [[zhaoyan-wang]]: Indicted business partner of Jia Bei Zhu who fled to China and remains a fugitive. (Created: 2026-08-03)
+- [[zhong-shaojun]]: Senior aide to Xi Jinping reported re-arrested in the January 2026 sweep of Chinese military officials. (Created: 2026-08-05)
 - [[zohran-mamdani]]: New York DSA figure invoked as the model the socialist left failed to replicate nationally. (Created: 2026-08-03)
 ## Concepts
 
@@ -1440,6 +1447,7 @@
 - [[badlands-brief-559]]: March 13, 2026 Badlands Brief on the Iran war, Sde Teiman, ABC retraction demand, FBI in Ecuador, and the 260th Brigade. (Created: 2026-08-04)
 - [[badlands-brief-579]]: May 1, 2026 Badlands Brief on the Sinaloa cartel indictments of Mexican officials, a new Comey leaks probe, the UAE's OPEC exit, the FISA 702 stopgap, West Bank extremism and the SPLC donor freeze. (Created: 2026-08-05)
 - [[badlands-brief-58d]]: June 5, 2026 Badlands Brief on the Arizona electors case, the US–Russia Bering Strait tunnel agreement, Republican defections, John Bolton's plea deal, Trump's conciliatory turn toward Iran, and the Israel–Lebanon ceasefire framework. (Created: 2026-08-05)
+- [[badlands-brief-577]]: January 26, 2026 Badlands Brief on the fatal shooting of Alex Pretti in Minneapolis, Scott Bessent at Davos, the Discombobulator and post-Maduro Venezuela, Carney’s retreat from a China trade deal, and the reported purge of Chinese generals. (Created: 2026-08-05)
 - [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
 - [[barratry]]: Medieval common-law offense of habitually fomenting baseless lawsuits, proposed as a remedy against lawfare. (Created: 2026-08-03)

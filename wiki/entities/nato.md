@@ -1,10 +1,10 @@
 ---
 title: NATO
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [agency, foreign-policy]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -38,6 +38,10 @@ NATO's role in the Ukraine conflict connects it to [[william-burns]], who warned
 
 The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that NATO allies flatly refused President [[donald-trump|Donald Trump]]'s calls for an international coalition to secure the [[strait-of-hormuz|Strait of Hormuz]], with multiple European nations declaring the war with [[iran|Iran]] "not our war." French President [[emmanuel-macron|Emmanuel Macron]] said France would never take part in operations to reopen the strait; German Defense Minister [[boris-pistorius|Boris Pistorius]] questioned the point of sending European frigates alongside the U.S. Navy; Spain, Italy and Greece also declined. Trump called the reluctance a "one-way street" but said the United States no longer needed or desired NATO assistance. Contributor [[burning-bright|Burning Bright]] argued that Europe and NATO, "the very entities that spent decades weaponizing energy chokepoints against American interests[,] now find themselves twisting in the very winds they helped generate."
 
+## Article Five and the southern border (January 2026)
+
+In comments reported in the January 26, 2026 [[badlands-brief-577|Badlands Brief]], President [[donald-trump|Donald Trump]] suggested that NATO members could demonstrate the alliance's value by sending troops to help secure the United States' southern border, musing on social media that invoking the alliance's mutual defense obligations under Article Five — traditionally applied to armed attacks on member states — might compel allied forces to assist with border security. Badlands contributor GhostofBasedPatrickHenry read the remark as Trump trolling NATO in response to Republican lawmakers' backing of Venezuelan opposition figure [[maria-corina-machado|María Corina Machado]]. The same edition reports that Trump announced a "framework of a future deal" with Secretary General [[mark-rutte|Mark Rutte]] that temporarily paused tariff actions tied to the [[greenland|Greenland]] dispute, and that NATO allies had warned Trump's Greenland rhetoric undermines long-standing security arrangements and trust.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -57,3 +61,4 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

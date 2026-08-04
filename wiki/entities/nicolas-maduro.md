@@ -1,10 +1,10 @@
 ---
 title: Nicolás Maduro
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [venezuela, regime-change, sanctions, oil, banking]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-285.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -24,6 +24,12 @@ According to Reuters reporting summarised in the Brief, American officials engag
 
 Ghost argues that Maduro's exit was "perfectly timed to coincide with a move against the global banking system." He notes that a civil action brought by Maduro against executives of banks, commodity trading houses, and oil companies — dismissed without prejudice in 2019 over national-security concerns tied to [[donald-trump|Trump]]'s sanctions — can now be resumed following the lifting of sanctions by Treasury Secretary [[scott-bessent|Scott Bessent]]. He suggests discovery in that case could expose money laundering at the highest levels of global finance. Burning Bright, in the same edition, remarks that the "Maduro Regime" remains "completely intact" despite the change at the top.
 
+## Capture and transfer to the United States
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that U.S. forces carried out a military operation in Venezuela on January 3, 2026 that led to the capture of Maduro and his wife [[cilia-flores|Cilia Flores]] and their transfer to the United States to face criminal charges. In a January 25 interview, President [[donald-trump|Donald Trump]] said American forces used a classified device he called the "Discombobulator" to disable Venezuelan defense equipment and prevent the launch of Russian and Chinese missiles during the raid, asserting that the weapon rendered enemy systems inoperative so that no rockets were fired in response.
+
+The Brief adds a financial dimension: [[vitol|Vitol]] and [[trafigura|Trafigura]], the two commodity trading firms Trump reportedly called upon to broker sales of Venezuelan oil after the operation, had both been named as defendants in a lawsuit Maduro filed in U.S. and Swiss courts in March 2018. Acting President [[delcy-rodriguez|Delcy Rodríguez]] stated that Maduro had signed a [[continuity-of-government|Continuity of Government]] order in December 2025 in anticipation of his departure.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -32,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

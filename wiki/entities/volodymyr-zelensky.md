@@ -1,10 +1,10 @@
 ---
 title: Volodymyr Zelensky
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [ukraine, head-of-state, war-economy, drones]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-3d4.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-3d4.md, raw/badlands-brief-577.md]
 confidence: medium
 contested: true
 ---
@@ -31,6 +31,10 @@ Tallying the week, the Brief states that Zelensky had bombed cargo ships from Ru
 
 In May 2026, according to [[badlands-brief-3d4|Badlands Brief: Canadian Separatists & Guerilla Campaigns]], Zelensky and senior Ukrainian officials attended a state reburial ceremony in Kyiv honouring [[andriy-melnyk|Andriy Melnyk]], a wartime leader of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] who collaborated with Nazi Germany. Melnyk, whose remains were repatriated from Luxembourg, was described at the ceremony as a national hero. Israel's Foreign Ministry condemned the event, stating that there is "no place for ignoring historical truth and the memory of the victims murdered by the Nazis and their collaborators," and [[yad-vashem|Yad Vashem]] warned that such honours undermine [[holocaust|Holocaust]] remembrance. The episode was reported as a further deterioration in relations between [[israel|Israel]] and [[ukraine|Ukraine]], echoing a joint Israeli–Polish condemnation of the glorification of Melnyk and [[stepan-bandera|Stepan Bandera]] in 2020.
 
+## Davos speech, January 2026
+
+The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that Zelensky used a speech at the [[world-economic-forum|World Economic Forum]] to criticize the [[european-union|European Union]]'s handling of security and its support for Ukraine, calling the bloc indecisive and saying it must learn to better defend itself, without specifically thanking member states for the nearly €193 billion in military and financial assistance provided since Russia's full-scale invasion in 2022. Italian lawmaker Rossano Sasso of Lega Nord responded that the EU should stop sending military aid and now "deservedly accepts the insults"; Italian Foreign Minister Antonio Tajani called the address "not generous"; and European Commission President Ursula von der Leyen said the EU stands by Ukraine and that its actions "speak louder than words."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -40,3 +44,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)

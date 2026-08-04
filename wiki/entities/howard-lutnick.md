@@ -1,10 +1,10 @@
 ---
 title: Howard Lutnick
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [trump-administration, commerce-department, epstein, senate-testimony]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-577.md]
 confidence: high
 contested: false
 ---
@@ -18,9 +18,14 @@ Democratic senators including [[chris-van-hollen|Chris Van Hollen]], [[chris-coo
 
 Badlands contributor [[burning-bright|Burning Bright]] characterises the pressure on Lutnick as part of a [[media-protectorate|Media Protectorate]] campaign that points "the knives at Donald Trump and some of his key allies in the White House — most notably Commerce Secretary Howard Lutnick," while "rhetorically sacrificing some of their own overseas."
 
+## Davos 2026
+
+In the January 26, 2026 [[badlands-brief-577|Badlands Brief]], contributor [[burning-bright|Burning Bright]] paired Lutnick with Treasury Secretary [[scott-bessent|Scott Bessent]] as the "two lions" President [[donald-trump|Donald Trump]] brought with him into the [[world-economic-forum|World Economic Forum]] at Davos, writing that both are "names the enemy knows well" and that Trump letting them lead was a sign "the Golden Age is accelerating." Lutnick is described as never having been shy about his vision, shared with Trump, for the future and America's dominant role in bringing it about.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
