@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [niger, sahel, africa, security-cooperation, russia]
-sources: [raw/badlands-brief-1c6.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: false
 ---
@@ -15,4 +15,7 @@ Niger is a Sahelian state identified in the [[badlands-brief|Badlands Brief]] as
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1c6)
+This page draws on multiple source articles:
+
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

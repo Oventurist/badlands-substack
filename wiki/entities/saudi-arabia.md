@@ -7,7 +7,7 @@ tags:
   - middle-east
   - saudi-royal-family
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -39,6 +39,10 @@ The essay puts the kingdom's total population at over 32 million, of whom roughl
 
 The same essay treats the November 4, 2017 elevation of [[mohammed-bin-salman]] and the associated detention of roughly forty relatives and officials at the Riyadh Ritz-Carlton — among them [[muhammad-bin-nayef]] and [[alwaleed-bin-talal]] — as the pivotal modern event in the kingdom's history. It reports that [[q]] drew attention to Saudi Arabia at that moment, including a claim that martial law had been declared, and argues against the assumption that the purge was directed by Trump.
 
+## Drone interceptions and the Barakah strike (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Saudi Arabia condemned the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] in the [[united-arab-emirates|UAE]] on May 17, 2026, and reported intercepting three drones approaching from Iraqi airspace in a separate incident amid elevated regional tensions. The Brief notes the kingdom's non-aggression pact with [[iran|Iran]] and its participation in regional de-escalation efforts, and quotes Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s June 2025 statement during the [[twelve-day-war|Twelve Day War]] — "Saudi Arabia stands with its brothers in Iran and will spare no effort to support them" — as evidence of the realignment the drone attacks are said to threaten.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -54,3 +58,4 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

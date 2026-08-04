@@ -4,7 +4,7 @@ created: 2026-08-05
 updated: 2026-08-03
 type: entity
 tags: [iaea, nonproliferation, international-organization, nuclear-policy, safeguards]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5a2.md]
 confidence: high
 contested: false
 ---
@@ -22,9 +22,14 @@ The July 22, 2026 [[badlands-brief-1ae|Badlands Brief]] reports that the U.S.–
 
 The agency also figures in the corpus's coverage of [[iran|Iran]]'s enrichment dispute, where [[abbas-araghchi|Abbas Araghchi]] described Tehran's refusal to accept even temporary limits on enrichment as a matter of national honor.
 
+## The Barakah drone strike (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Director General [[rafael-grossi|Rafael Grossi]] said military activity threatening nuclear safety was "unacceptable" after discussions with UAE officials about the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026. The UAE's nuclear regulator said there was no impact on reactor operations or public safety.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

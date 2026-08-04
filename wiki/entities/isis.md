@@ -8,7 +8,7 @@ tags:
   - syria
   - iraq
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-1c6.md, raw/badlands-brief-509.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-1c6.md, raw/badlands-brief-509.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -28,6 +28,10 @@ The March 10, 2026 [[badlands-brief-509|Badlands Brief]] reproduces a [[departme
 
 Deputy Attorney General [[todd-blanche|Todd Blanche]] said the defendants "allegedly sought to inflict mass casualties in service to ISIS with the hope of exceeding the carnage of the Boston Marathon bombing," while [[fbi|FBI]] Director [[kash-patel|Kash Patel]] commended [[new-york-police-department|NYPD]] officers for preventing injuries or loss of life on the streets of New York. The Brief presents the case alongside the designation of [[afghanistan|Afghanistan]] as a [[state-sponsor-of-wrongful-detention|State Sponsor of Wrongful Detention]] under a heading asking whether the War on Terror is being "reloaded."
 
+## Killing of Abu-Bilal Al-Manuki in West Africa (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Nigerian and U.S. forces carried out a joint counterterrorism operation that killed [[abu-bilal-al-manuki|Abu-Bilal Al-Manuki]], also known as Abu-Mainok, a leader described by the [[associated-press|Associated Press]] as involved in Islamic State organizing and finance and as plotting attacks against the United States and its interests. Nigeria's State House said May 16 that early assessments confirmed Al-Manuki and several lieutenants were killed in a strike on his compound in the Lake Chad Basin; [[reuters|Reuters]], citing the [[nigerian-army|Nigerian Army]], said the strike took place in Metele, Borno State, in close coordination with [[africom|U.S. Africa Command]]. Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] describes Al-Manuki as a former leader of [[boko-haram|Boko Haram]] who had affiliated with Al Qaeda before the Islamic State era, and argues that destroying such proxy groups is "a critical step in stabilizing the region," while predicting the mainstream media will frame the operation as Trump siding with [[ecowas|ECOWAS]] against the [[alliance-of-sahel-states|Alliance of Sahel States]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +39,4 @@ This page draws on multiple source articles:
 - [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

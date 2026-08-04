@@ -4,7 +4,7 @@ created: 2026-08-05
 updated: 2026-08-05
 type: entity
 tags: [iran, president, reformist, islamic-republic]
-sources: [raw/badlands-brief-1ae.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -16,6 +16,13 @@ The July 22, 2026 [[badlands-brief-1ae|Badlands Brief]] does not report on Pezes
 
 Within that framing, Pezeshkian belongs to the faction the corpus treats as genuinely interested in de-escalation, in contrast to the hardline commentators and [[islamic-revolutionary-guard-corps|Revolutionary Guards]]-affiliated media that attacked Araghchi's interview.
 
+## Solidarity with the Muslim world during the Twelve Day War
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that, during the June 2025 [[twelve-day-war|Twelve Day War]] between [[israel|Israel]] and [[iran|Iran]], Pezeshkian and Foreign Minister [[abbas-araghchi|Abbas Araghchi]] expressed solidarity with the Muslim world, with Pezeshkian calling longtime rival [[saudi-arabia|Saudi Arabia]] "our brothers."
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ae)
+This page draws on multiple source articles:
+
+- [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

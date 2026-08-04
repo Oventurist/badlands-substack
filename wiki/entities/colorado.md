@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [colorado, us-states, election-integrity, lawfare, clemency]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-1c6.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -17,9 +17,14 @@ Colorado is a US state that features prominently in the Badlands corpus as the v
 
 Badlands contributor [[ashe-in-america|Ashe in America]] described the state's justice apparatus in strongly critical terms, arguing that Peters is "their most valuable political scalp" and "the absolute last gasp of their carefully created narrative about '[[election-denial|election denialism]]' being dangerous to 'democracy.'"
 
+## Commutation of Tina Peters (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Governor [[jared-polis|Jared Polis]] commuted [[tina-peters|Tina Peters]]' sentence on Friday, May 15, 2026, with Peters expected to be released after serving about two years in prison. Polis said the commutation reflected concerns that Peters, a first-time nonviolent offender, received an unusually severe sentence, and that the decision did not endorse her conduct or false claims about the 2020 election. [[jena-griswold|Secretary of State Jena Griswold]] and other critics said the commutation risks weakening deterrence against election-system tampering and could damage public trust in election administration. [[ashe-in-america|Ashe in America]] reported that the clemency took the form of a reduced sentence and grant of parole, with conditions to be determined by a governor-appointed parole board.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

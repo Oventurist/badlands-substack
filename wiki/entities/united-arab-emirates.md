@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-05
 type: entity
 tags: [gulf-politics, geopolitics, middle-east, sovereign-alliance, diplomacy]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ce.md, raw/badlands-brief-3d4.md, raw/badlands-brief-579.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ce.md, raw/badlands-brief-3d4.md, raw/badlands-brief-579.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: false
 ---
@@ -26,6 +26,12 @@ The May 1, 2026 [[badlands-brief-579|Badlands Brief]] reported that the UAE was 
 
 [[russia|Russia]] publicly downplayed the risk of an immediate price war. Badlands contributor [[burning-bright|Burning Bright]] characterized the exit as a deliberate sovereign policy decision rather than an impulsive wartime defection, arguing that the Emirates were signaling the end of the enforced scarcity model of the [[global-cartel|Global Cartel]] and intended to supply rising world energy demand "on their own terms."
 
+## The Barakah drone strike (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that a drone strike caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026, according to Emirati authorities, who said there were no injuries or radioactive leaks. The UAE defense ministry said three drones entered the country from the western border direction, with two intercepted and one striking an electrical generator outside the plant's inner perimeter in the Al Dhafra region. The UAE blamed [[iran|Iran]] or allied proxy groups for the incident; presidential adviser [[anwar-gargash|Anwar Gargash]] called the strike a "dangerous escalation" that violated international law and norms, and said investigations into the source of the drones were continuing. [[international-atomic-energy-agency|IAEA]] Director General [[rafael-grossi|Rafael Grossi]] said military activity threatening nuclear safety was "unacceptable," while the UAE's nuclear regulator said there was no impact on reactor operations or public safety.
+
+Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] disputes the attribution to Iran, arguing that the drones entered from the west — the direction of [[israel|Israel]] and [[iraq|Iraq]], not Iran — and that Israel "staunchly opposes any Muslim country possessing nuclear technology." He suggests the strike was a provocation intended to derail Saudi-Iranian rapprochement and the UAE's participation in a Saudi-led regional economic integration initiative potentially worth $100 billion, concluding that "somebody is trying to provoke a war between the various Muslim nations" and that the only nation that would benefit is Israel.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -34,3 +40,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

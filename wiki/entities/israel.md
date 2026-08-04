@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [nation, geopolitics, middle-east, conspiracy-narrative]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -47,6 +47,10 @@ The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] centers on [[joe-kent|J
 
 The same edition reports Israel's announcement that it had eliminated Basij commander [[gholamreza-soleimani|Gholamreza Soleimani]] alongside the strike that reportedly killed [[ali-larijani|Ali Larijani]], and speculates that [[russia|Russia]] and [[china|China]] may increasingly view Israel as a threat to regional stability and to global trade and logistics.
 
+## Accused in the Barakah drone strike (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that the [[united-arab-emirates|UAE]] blamed [[iran|Iran]] or allied proxy groups for the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026, but Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues the attack was a false flag implicating Israel. He notes that the drones entered the UAE from the west — the direction of Israel and [[iraq|Iraq]], not Iran — and that Israel "staunchly opposes any Muslim country possessing nuclear technology," making the nuclear plant "the intended target." The commentary also cites the [[wall-street-journal|Wall Street Journal]]'s report that Israel had built and defended a secret base in Iraq during the Iran war, and the reported discovery of two Israeli military bases in remote parts of Iraq by Bedouin shepherd [[awad-al-shammari|Awad al-Shammari]], who was reportedly killed by a helicopter strike after reporting his find. The commentator concludes that "somebody is trying to provoke a war between the various Muslim nations" and that "the only nation that would benefit from such a development would be Israel," arguing that Israel had succeeded in uniting the Islamic world against it during the [[twelve-day-war|Twelve Day War]] and stood to benefit from reversing that realignment.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -67,3 +71,4 @@ This page draws on multiple source articles:
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

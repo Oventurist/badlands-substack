@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [iraq, middle-east, energy, diplomacy, iran]
-sources: [raw/badlands-brief-1c6.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-5a2.md]
 confidence: high
 contested: false
 ---
@@ -19,6 +19,13 @@ The Brief reports that President [[donald-trump|Donald Trump]] hosted newly elec
 
 Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] highlights that Iraq and [[iran|Iran]] — "two bitter enemies who fought the bloodiest war of the 20th century in the 1980's" — were reported by Iranian state media to be working together on regional de-escalation and stabilization, treating the convergence as evidence of a deliberate and accelerating reordering of Middle Eastern alignments.
 
+## Reported Israeli bases and drone incursions (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that the [[wall-street-journal|Wall Street Journal]] disclosed that [[israel|Israel]] built and defended a secret base in Iraq during the Iran war to support operations against Tehran. The Brief also reports the claim that Bedouin shepherd [[awad-al-shammari|Awad al-Shammari]] discovered two Israeli military bases in remote parts of Iraq and was reportedly killed by a helicopter strike after reporting his find. Separately, [[saudi-arabia|Saudi Arabia]] reported intercepting three drones approaching from Iraqi airspace, raising questions in the Brief's commentary about foreign drone activity originating from Iraqi territory.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1c6)
+This page draws on multiple source articles:
+
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

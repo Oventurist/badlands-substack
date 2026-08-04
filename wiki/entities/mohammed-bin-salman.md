@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-04
 type: entity
 tags: [saudi-arabia, house-of-saud, middle-east, q]
-sources: [raw/arabian-nights.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-3d4.md, raw/badlands-brief-323.md]
+sources: [raw/arabian-nights.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-3d4.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -28,6 +28,10 @@ The article gives particular weight to the claim that MBS, then sixteen, watched
 
 The source rejects both the mainstream portrait of MBS as a malevolent autocrat — it characterises Hubbard's analysis on this point as "hot garbage" — and the assumption, which the author says he once held himself, that the 2017 purge was carried out at [[donald-trump]]'s direction. Its position is that MBS "is no agent of Donald Trump," that he was already on his path when Trump took office, and that the two are best understood as "two warriors meeting on the road, each on their own quest to slay the same dragon." An image caption in the article identifies him as "The Punisher," and the legend of Alexander and the Gordian Knot is invoked as the model for his approach to intractable problems. The essay concludes by describing him as "the Prodigal Son of the Islamic world," on a redemption arc intended to liberate the Middle East from what the corpus calls the Puppet Masters.
 
+## Statements during the Twelve Day War (May 2026 brief)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] quotes MBS from June 2025, during the [[twelve-day-war|Twelve Day War]] between [[israel|Israel]] and [[iran|Iran]], as saying: "Saudi Arabia stands with its brothers in Iran and will spare no effort to support them," and "the entire Islamic world is united in backing Iran." Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cites the statements as evidence of the regional realignment that he argues the Barakah drone strike was intended to disrupt.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -38,3 +42,4 @@ This page draws on multiple source articles:
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

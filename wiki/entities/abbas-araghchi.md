@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [diplomat, iran, foreign-ministry, negotiations]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: false
 ---
@@ -21,6 +21,10 @@ The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that after [[ira
 
 Araghchi is also quoted in the Brief as saying that "Ukraine attacked Iran at the behest of [[israel|Israel]] in order to draw Europe deeper into their war" with the Middle East.
 
+## Solidarity with the Muslim world during the Twelve Day War
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that, during the June 2025 [[twelve-day-war|Twelve Day War]] between [[israel|Israel]] and [[iran|Iran]], Araghchi and President [[masoud-pezeshkian|Masoud Pezeshkian]] expressed solidarity with the Muslim world, with Pezeshkian calling longtime rival [[saudi-arabia|Saudi Arabia]] "our brothers."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -30,3 +34,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

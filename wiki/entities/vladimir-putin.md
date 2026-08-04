@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-04
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md]
 confidence: high
 contested: false
 ---
@@ -43,6 +43,10 @@ The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that during Russ
 
 The remarks came amid Moscow's continuing criticism of Western enforcement actions targeting ships associated with Russian trade under international sanctions, and followed reported Ukrainian strikes on shipping in the Black, Mediterranean and [[caspian-sea|Caspian]] Seas. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] emphasizes that in international maritime law pirates were historically branded "the enemies of mankind."
 
+## Beijing visit for the treaty anniversary (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Putin was scheduled to visit Beijing on May 19–20, 2026 for talks with [[xi-jinping|Xi Jinping]], according to a [[kremlin|Kremlin]] announcement released Saturday, May 16. The Kremlin said the visit coincides with the 25th anniversary of the 2001 [[sino-russian-treaty-of-friendship|Sino-Russian Treaty of Friendship]] and will focus on bilateral relations, economic cooperation, and international and regional issues. The trip came less than a week after President [[donald-trump|Donald Trump]] concluded a state visit to [[china|China]] that included meetings with Xi on trade, Taiwan, and the conflict involving [[iran|Iran]]. Chinese state media described the sequence of visits by the US and Russian presidents as unusual and indicative of Beijing's growing diplomatic influence. Ahead of the visit, Xi and Putin exchanged congratulatory messages, with Xi quoted as saying China-Russia cooperation had "continuously deepened and solidified." The Brief notes the two countries have expanded political and economic ties in recent years, particularly after Russia's 2022 invasion of [[ukraine|Ukraine]] increased Moscow's dependence on Chinese trade and energy purchases. Badlands commentator [[burning-bright|Burning Bright]] framed the visit as a "Sovereign Signal" that is "no longer subtle" and "no longer deniable," arguing that the US, China and Russia can absorb shocks but questioning whether "the Collectorate" and "the System" can.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -61,3 +65,4 @@ This page draws on multiple source articles:
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

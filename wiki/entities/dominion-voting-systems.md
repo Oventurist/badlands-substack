@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [election-technology, election-integrity, colorado, litigation]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -22,9 +22,14 @@ Within the Badlands corpus Dominion features primarily through the prosecution o
 
 The Brief also quotes a letter from attorney [[john-c-bonifaz|John C. Bonifaz]] to the [[national-institute-of-standards-and-technology|National Institute of Standards and Technology]] describing Dominion as "Foreign Controlled" and dependent on "Secret Source Code Created and Owned by Smartmatic," and noting Dun & Bradstreet's listing of Dominion as a Toronto-based company with a single listed official, John Poulos, and under $18 million in sales.
 
+## The Mesa County data and the commutation fallout (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that the image of the Dominion voting machine system in [[mesa-county|Mesa County]], Colorado — where [[tina-peters|Tina Peters]] was clerk — that was shown in [[ashe-in-america|Ashe in America]]'s coverage of Peters's clemency, is the same image that circulated among election-denial activists and in the documentary film *2000 Mules*, with Dominion having previously demanded the removal of images of its equipment from the film's promotional materials. The Brief notes that Peters's case involved alleged unauthorized access to Dominion's voting machine systems, and that Secretary of State [[jena-griswold|Jena Griswold]] and others argued after Governor [[jared-polis|Jared Polis]] commuted Peters's sentence that the commutation risks weakening deterrence against election-system tampering.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

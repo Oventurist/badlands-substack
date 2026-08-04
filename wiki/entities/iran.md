@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -45,6 +45,12 @@ The same edition records [[joe-kent|Joe Kent]]'s resignation as director of the 
 
 In May 2026, as documented in [[badlands-brief-3d4|Badlands Brief: Canadian Separatists & Guerilla Campaigns]], President [[donald-trump|Donald Trump]] proposed that Iran's enriched uranium stockpile — which he repeatedly termed "nuclear dust" — be either surrendered to the United States for destruction or, preferably, destroyed in place in coordination with the Islamic Republic under international observation, as part of a framework tied to ceasefire and [[strait-of-hormuz|Strait of Hormuz]] negotiations. Reporting cited by the Brief indicated that US negotiators were weighing several disposal scenarios, including transfer to third countries such as Russia, [[turkey|Turkey]], China or [[pakistan|Pakistan]], or supervised dilution and destruction inside Iran. Iranian officials continued to insist publicly on the country's right to civilian nuclear technology while signalling willingness to reassure the international community that Tehran is not pursuing a weapon. In parallel, Trump urged [[saudi-arabia|Saudi Arabia]], [[qatar|Qatar]], Pakistan, Turkey, [[egypt|Egypt]], [[jordan|Jordan]] and others to sign the [[abraham-accords|Abraham Accords]] simultaneously, presenting a settlement with Iran as the centrepiece of a regional realignment.
 
+## Blame for the Barakah drone strike and the May 2026 warnings
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that the [[united-arab-emirates|UAE]] blamed Iran or allied proxy groups for the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026, in which three drones entered the country from the western border direction — two intercepted and one striking an electrical generator outside the plant's inner perimeter. [[saudi-arabia|Saudi Arabia]] condemned the attack and reported intercepting three drones approaching from Iraqi airspace in a separate incident, amid elevated regional tensions during a fragile ceasefire linked to the broader Iran conflict. President [[donald-trump|Donald Trump]] warned Iran that "the clock is ticking" in a social media post amid stalled negotiations.
+
+Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] challenges the attribution to Iran, noting that Iran lies east of the UAE while Israel and [[iraq|Iraq]] lie to the west, and argues the strike was a false-flag provocation intended to wreck Iran's rapprochement with Saudi Arabia and the UAE. The same edition reports the [[wall-street-journal|Wall Street Journal]]'s disclosure that [[israel|Israel]] built and defended a secret base in Iraq during the Iran war to support operations against Tehran, and recalls Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s June 2025 statement — during the [[twelve-day-war|Twelve Day War]] — that "the entire Islamic world is united in backing Iran."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -67,3 +73,4 @@ This page draws on multiple source articles:
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

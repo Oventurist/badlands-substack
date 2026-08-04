@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-05
 type: entity
 tags: [election-integrity, colorado, clemency, political-prisoner]
-sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: true
 ---
@@ -27,6 +27,12 @@ The Badlands Brief of March 5, 2026 reported a sudden shift in Peters's situatio
 
 Peters's attorney [[john-case|John Case]] responded with a statement to Badlands Media's Ashe Epp thanking the governor, contrasting Peters's imprisonment with Jaquez Lewis's fine and 150 hours of public service, and naming Secretary of State [[jena-griswold|Jena Griswold]], Attorney General [[phil-weiser|Phil Weiser]] and [[dominion-voting-systems|Dominion Voting Systems]]-associated county clerk [[matt-crane|Matt Crane]] as "political enemies" who had publicly demanded that Polis show no mercy. Asked whether a clemency application had been filed, a member of Peters's team said only, "There is no missing paperwork" — which [[ashe-in-america|Ashe in America]] speculated might reflect the legal team's theory that a presidential pardon would suffice. Her commentary also reported, without confirmation, that Peters was or would be charged over a prison altercation the previous month, and characterized Peters as the Colorado legal establishment's "most valuable political scalp" and the last support for the [[election-denial|election denialism]] narrative.
 
+## May 2026 commutation granted
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Governor [[jared-polis|Jared Polis]] commuted Peters' prison sentence, with Peters expected to be released after serving about two years in prison. Polis said the commutation reflected concerns that Peters, a first-time nonviolent offender, received an unusually severe sentence, and that the decision did not endorse her conduct or false claims about the 2020 election. President [[donald-trump|Donald Trump]] had repeatedly called for Peters' release and claimed in 2025 that he had pardoned her, despite state officials saying presidential pardons do not apply to state convictions. Colorado Secretary of State [[jena-griswold|Jena Griswold]] and other critics said the commutation risks weakening deterrence against election-system tampering and could damage public trust in election administration.
+
+[[ashe-in-america|Ashe in America]]'s commentary in the same edition adds that the clemency, granted on Friday May 15, 2026, took the form of a reduced sentence and grant of parole: Polis cut the sentence in half, moved up her eligibility date, and granted parole, with conditions to be determined by a governor-appointed parole board. Ashe reports hugging Peters on the Saturday after the grant and describes Peters' priorities upon release — seeing her 97-year-old mother, reclaiming her health, eating fresh food, restoring her body, and reuniting with her dog Minka. Peters planned to eat a thick steak and a salad with real tomatoes and avocado, and said the first time she slept properly since being incarcerated was the Friday night after the grant of clemency. Asked whether she was coerced into issuing a statement of contrition, Peters said she approved the statement and stands by it. Ashe concludes, "June 1 can't come soon enough for Tina Peters."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -34,3 +40,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 18](https://badlands.substack.com/p/badlands-blitz-episode-18)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)

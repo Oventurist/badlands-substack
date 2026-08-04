@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-04
 type: entity
 tags: [government-agency, immigration, border-security, trafficking]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-1ce.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-1ce.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md]
 confidence: medium
 contested: false
 ---
@@ -20,6 +20,10 @@ The Department of Homeland Security (DHS) is the cabinet department of the Unite
 
 The same edition reports Homeland Security Secretary [[markwayne-mullin|Markwayne Mullin]]'s statement that the department had located approximately 146,000 migrant children who had lost contact with federal authorities after entering as unaccompanied minors, with nearly 300,000 more still unaccounted for and investigators pursuing allegations of severe abuse. The Brief notes that these efforts follow findings by the DHS Inspector General that hundreds of thousands of unaccompanied minors transferred out of federal custody were not consistently tracked through immigration proceedings, fuelling concerns about exploitation and trafficking, and that DHS and the Justice Department had made locating missing children and investigating trafficking networks a major enforcement priority. The Badlands writer [[burning-bright|Burning Bright]] describes the department's posture as that of an administration that has "chosen to fund the hunters rather than the networks."
 
+## The SAVE program and voter-roll checks (May 2026)
+
+The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that the Trump administration has run at least 67 million voter registrations through DHS's [[save-program|SAVE program]], per the [[associated-press|Associated Press]], citing eligibility checks that critics say could lead to valid voters being removed from rolls before the November elections. [[united-states-citizenship-and-immigration-services|USCIS]] said 60 million checks identified about 24,000 potential noncitizens, and AP reported at least 25 states have used SAVE for voter-roll checks since April 2025. The Brief connects the program's expanded use to the [[save-america-act|SAVE Act]] (H.R. 22), which would require documentary proof of U.S. citizenship to register to vote in federal elections.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -29,3 +33,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
