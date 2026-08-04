@@ -20,6 +20,10 @@ Badlands Brief: Conflicts, Cartels, & Clemency notes that CannCon and [[ashe-in-
 
 In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, [[ashe-in-america|Ashe in America]] credits CannCon with the research underpinning her account of American voting-machine provenance, noting that the two had worked on a joint project some years earlier that never came to fruition but whose findings have proven repeatedly useful. CannCon is cited for the observation that [[los-angeles|Los Angeles]] is the only U.S. jurisdiction still using [[smartmatic|Smartmatic]], and for the reconstruction of the chain running from Smartmatic's 2000 Delaware incorporation through [[sequoia-voting-systems|Sequoia Voting Systems]] and the 2010 [[premier-election-solutions|Premier]] divestiture to [[dominion-voting-systems|Dominion Voting Systems]].
 
+## Court TV discovery (July 2026)
+
+The July 14, 2026 Badlands Brief reports that CannCon discovered that the "super secret" video in the [[tyler-robinson|Tyler Robinson]] case — touted as making the trial "over" — was actually the same footage captured in the [[court-tv|Court TV]] stream, which [[candace-owens|Candace Owens]] then played on her show. The Brief's contributor [[ashe-in-america|Ashe in America]] describes the 4K video drama as "very effective engagement farming" and argues the episode is intended to influence the jury pool in the murder case of [[charlie-kirk|Charlie Kirk]].
+
 ## Sources
 
 This page draws on multiple source articles:

@@ -55,6 +55,10 @@ The July 27, 2026 Badlands Brief reports that Secretary of State [[marco-rubio|M
 
 The same edition raises the department in a very different register: responding to allegations by Russian [[state-duma|State Duma]] Deputy Speaker [[anna-kuznetsova|Anna Kuznetsova]] concerning the trafficking and deportation of Ukrainian children, the commentator asks "to what extent is the State Department and [[congress|Congress]] involved" and whether such involvement would explain bipartisan support for [[ukraine|Ukraine]]'s war effort.
 
+## SHIELD statement on Colombia (July 2026)
+
+The July 14, 2026 Badlands Brief reports that the department joined twelve regional partners in a July 10 joint statement issued through the [[shield-of-the-americas|Shield of the Americas]] coalition, voicing alarm over Colombian President [[gustavo-petro|Gustavo Petro]]'s attempts to challenge the outcome of the country's June 21, 2026 election, won by [[abelardo-de-la-espriella|Abelardo de la Espriella]]. The statement declared that the sovereign will of citizens, expressed at the ballot box and certified by electoral authorities, is the sole basis of legitimate government, and rejected any effort to delegitimize the mandate, discredit electoral authorities, or obstruct Colombia's institutional transition. Secretary of State [[marco-rubio|Marco Rubio]] shared the statement publicly. Commentator [[ashe-in-america|Ashe in America]] contrasts the language with the fictional "Electoral Confidence Preservation Act" premise of the [[badlands-jury|Badlands Jury]], arguing that if elections are the sole foundation of legitimate power, discrediting electoral authorities "with basis" requires public hearings.
+
 ## Sources
 
 This page draws on multiple source articles:

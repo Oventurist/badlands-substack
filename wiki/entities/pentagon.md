@@ -24,6 +24,10 @@ The article's larger thesis extends this to the conduct of the wars generally. I
 
 The Badlands Media article A More Perfect (Labor) Union (October 2025) by [[ryan-delarme|Ryan DeLarme]] describes the Department of Defense as playing an integral part in the U.S. labor-influence network. The article states that the DoD "provided cover via NATO-linked training programs that inculcated pro-Western ideologies in foreign labor leaders," and that it "used unions in Asia and Africa for 'hearts and minds' work in Vietnam-era operations." It notes the [[asian-american-free-labor-institute|Asian-American Free Labor Institute (AAFLI)]] "received DoD contracts" to counter communist unions in the Philippines and Indonesia. In the modern period, the article claims the DoD's [[africom|AFRICOM]], "under the guise of 'stability operations,'" coordinates with the Solidarity Center's labor programs in Africa's resource wars to pressure governments to favor U.S. mining contracts. It further states that data gathered by union organizers "feeds directly into CIA and DoD analyses."
 
+## Joint task force on media leaks (July 2026)
+
+The July 14, 2026 Badlands Brief reports that the Pentagon and the [[department-of-justice|Department of Justice]] established a joint task force to identify and prosecute unauthorized disclosures of sensitive information to the news media, with War Secretary [[pete-hegseth|Pete Hegseth]] delegating authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations. The announcement followed the administration's subpoenas to several [[new-york-times|New York Times]] journalists over the outlet's report on President [[donald-trump|Trump]]'s Qatari-donated [[air-force-one|Air Force One]].
+
 ## Sources
 
 This page draws on multiple source articles:

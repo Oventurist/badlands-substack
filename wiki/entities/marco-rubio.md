@@ -21,6 +21,10 @@ The July 27, 2026 Badlands Brief reports that Rubio, as Secretary of State, anno
 
 The initiative is presented as the opening move in a sequence that also included New York City Mayor [[zohran-mamdani|Zohran Mamdani]]'s declaration that he would seek the arrest of [[benjamin-netanyahu|Benjamin Netanyahu]], and [[venezuela|Venezuela]]'s withdrawal from the [[rome-statute|Rome Statute]], which the [[state-department|State Department]] welcomed while calling on other countries to follow suit.
 
+## SHIELD statement on Colombia (July 2026)
+
+The July 14, 2026 Badlands Brief reports that Rubio shared publicly a July 10 joint statement by the [[shield-of-the-americas|Shield of the Americas]] coalition — the United States and twelve regional partners — warning Colombian President [[gustavo-petro|Gustavo Petro]] against challenging the certified results of the June 21, 2026 election won by [[abelardo-de-la-espriella|Abelardo de la Espriella]].
+
 ## Sources
 
 This page draws on multiple source articles:

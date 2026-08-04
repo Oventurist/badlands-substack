@@ -17,6 +17,13 @@ The Brief, citing PBS NewsHour, reports that forensic analysis of the bullet evi
 
 The inconclusive finding generated reports over the following weekend that "the bullet didn't match Tyler Robinson's gun." Fact checkers immediately clarified that "inconclusive" is non-determinative in either direction, a nuance the commentary says "was lost in the noise." Ashe in America places the result alongside the ballistics record in the [[martin-luther-king-jr|Martin Luther King Jr.]] assassination, where the [[house-select-committee-on-assassinations|House Select Committee on Assassinations]] firearms panel likewise could not positively identify or eliminate the recovered bullet as having been fired from the suspected rifle, treating the parallel as grounds for suspicion about both cases.
 
+## Preliminary hearing and the Owens controversy (July 2026)
+
+The July 14, 2026 Badlands Brief reports that evidence from Robinson's preliminary hearing prompted prominent conservative figures to condemn [[candace-owens|Candace Owens]], who had argued Robinson did not act alone in the assassination of [[charlie-kirk|Charlie Kirk]], implicating [[israel|Israel]], Egypt, the US military, [[turning-point-usa|Turning Point USA]] staff, and [[erika-kirk|Erika Kirk]]. Contributor [[ashe-in-america|Ashe in America]] stresses that the hearing was only a probable cause hearing and that the accused deserves his day in court, arguing that the surrounding propaganda campaign — including the supposedly secret "4K video" found to match the [[court-tv|Court TV]] stream — is intended to influence the jury pool.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-282)
+This page draws on multiple source articles:
+
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

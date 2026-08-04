@@ -16,6 +16,13 @@ The article directs readers to Episode 18, "Humanity as a Service; Consciousness
 
 As with other Badlands Media output, the program is offered free of charge, with the network's citizen-journalist collective supported through voluntary paid subscriptions. Badlands notes that its articles and features "represent the opinions of the contributing authors and do not necessarily represent the views of Badlands Media itself."
 
+## Episode 154 with Jonathan Drake (July 2026)
+
+The July 14, 2026 Badlands Brief notes that [[ashe-in-america|Ashe in America]] and [[jonathan-drake|Jonathan Drake]] discussed the [[tyler-robinson|Tyler Robinson]] case, trials and juries, illegitimate international courts, and Colombian elections on Episode 154 of the program, distributed on Rumble.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/artificial-intelligence)
+This page draws on multiple source articles:
+
+- [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

@@ -24,6 +24,10 @@ The fifth GART stop took place in mid-August 2024 in Deadwood, South Dakota. Att
 
 The article promotes GART 6 in Myrtle Beach, South Carolina, scheduled for shortly after the 2024 presidential election. At the time of publication, VIP packages had sold out while general admission tickets remained available. The author also notes that Badlands planned to return to Deadwood the following summer.
 
+## Deadwood GART and the Badlands Jury debut (July 2026)
+
+The July 14, 2026 Badlands Brief reports that at the recent Deadwood GART, [[ashe-in-america|Ashe in America]] and [[jonathan-drake|Jonathan Drake]] debuted the [[badlands-jury|Badlands Jury]] experience, a fictitious trial in which Badlands was indicted for violating the made-up "Electoral Confidence Preservation Act."
+
 ## Sources
 
 This page draws on multiple source articles:

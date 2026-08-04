@@ -24,4 +24,7 @@ The author of "A Glaring Double Standard," [[ryan-delarme|Ryan DeLarme]], writes
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-glaring-double-standard)
+This page draws on multiple source articles:
+
+- [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

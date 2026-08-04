@@ -27,6 +27,10 @@ The article also notes that the [[senate-judiciary-committee|Senate Judiciary Co
 
 In the March 18, 2026 Badlands Brief, the Department responded to [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]] by calling it "completely unnecessary," stating: "Lawmakers have been invited to view the unredacted files for themselves at the Department of Justice, and the Attorney General has always made herself available to speak directly with members of Congress. She continues to have calls and meetings with members of Congress on the [[epstein-files-transparency-act|Epstein Files Transparency Act]], which is why the Department offered to brief the committee tomorrow." The Brief observes that while congressional subpoenas are compulsory, enforcement ultimately rests with the Justice Department itself if they are ignored.
 
+## Joint task force on media leaks (July 2026)
+
+The July 14, 2026 Badlands Brief reports that the DOJ and the [[pentagon|Pentagon]] established a joint task force to identify and prosecute unauthorized disclosures of sensitive information to the news media, announced by War Secretary [[pete-hegseth|Pete Hegseth]]. Hegseth delegated authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations, empowering the office to request and receive all information, records, and support across the department. The announcement followed the administration's subpoenas to several [[new-york-times|New York Times]] journalists after the outlet's report on President [[donald-trump|Trump]]'s new Qatari-donated [[air-force-one|Air Force One]].
+
 ## Sources
 
 This page draws on multiple source articles:

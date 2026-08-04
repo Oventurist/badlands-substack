@@ -48,6 +48,10 @@ In the March 18, 2026 Badlands Brief, Burning Bright claimed authorship of the "
 
 In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, Burning Bright characterizes the [[los-angeles|Los Angeles]] mayoral primary as "the latest, most cartoonish exhibition in a long and accelerating line of successful attempts to subvert American democracy in real time and in full public view," identifying mail-in voting with extended windows and results that "evolve" over days as the familiar mechanics. He writes that [[donald-trump|Donald Trump]] has "called the theft what it is" and that [[elon-musk|Elon Musk]] "has amplified his signal," while the "Media Industrial Complex" responds with the script of "unsubstantiated," "normal process," "conspiracy theory." He argues that Trump's 2024 victory supplied "narrative shielding" for an apparatus now conducting dress rehearsals ahead of the [[2026-united-states-midterm-elections|2026 midterms]], that "participation in that apparatus codifies its legitimacy," and that those who defend American election integrity are "functionally aligned with the preservation of the system as it operates."
 
+## Media leaks task force commentary (July 2026)
+
+In the July 14, 2026 Badlands Brief, Burning Bright frames the joint [[department-of-justice|DOJ]]–[[pentagon|Pentagon]] task force on media leaks through his fifth-generation-warfare lens, arguing that illegal psychological warfare operations have been waged against the American people for generations and that the [[media-industrial-complex|Media Industrial Complex]] "has not just participated in said PsyOps, but been the main vector of psychological control." He argues that the [[donald-trump|Trump]] administration's war on the media and [[military-industrial-complex|military industrial complexes]] — which he treats as one and the same complex — is itself a counter-insurgency operation, best understood as fifth-generation war.
+
 ## Sources
 
 This page draws on multiple source articles:

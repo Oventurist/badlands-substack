@@ -18,6 +18,10 @@ A Swan Song for the MSM describes the Times, along with the [[washington-post|Wa
 
 The Times is also the former employer of [[taylor-lorenz|Taylor Lorenz]], whose social media beat the article presents as the archetype of this "tattletale journalism." The paper's own business coverage is nonetheless cited in the article as the source for BuzzFeed News's 2023 shutdown.
 
+## Subpoenas over the Air Force One report (July 2026)
+
+The July 14, 2026 Badlands Brief reports that the [[donald-trump|Trump]] administration issued subpoenas to several Times journalists after the outlet reported on the president's new Qatari-donated [[air-force-one|Air Force One]], compelling the reporters to testify before a federal grand jury in Manhattan. The subpoenas came days after the [[department-of-justice|DOJ]] and [[pentagon|Pentagon]] established a joint task force on media leaks.
+
 ## Sources
 
 This page draws on multiple source articles:

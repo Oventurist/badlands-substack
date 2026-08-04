@@ -27,6 +27,10 @@ In the same edition, following the reported killing of [[ali-larijani|Ali Larija
 
 The March 24, 2026 Badlands Brief, Alternative Annexations & New(ish) Regime Change, reports that the war with Iran significantly disrupted global oil flows through the strait, and that when asked about reopening it President [[donald-trump|Donald Trump]] suggested he and the Ayatollah might control it together — a remark Iran answered by posting an image of a child's toy steering wheel. [[burning-bright|Burning Bright]] argues that the dynamics being amplified in the strait are "not designed to trap us in more foreign dependence, but to break it," describing a "calibrated crisis" creating conditions for clean disentanglement from Middle Eastern energy leverage and a multipolar realignment in which no nation remains vulnerable to a single chokepoint.
 
+## "Guardian of the Hormuz Strait" (July 2026)
+
+The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] announced on [[truth-social|Truth Social]] that the United States would be known as the "Guardian of the Hormuz Strait," providing security for the waterway while permitting all countries except [[iran|Iran]] and its customers under the [[iranian-blockade|Iranian Blockade]] to continue using it. Trump said the United States would be reimbursed through a proposed 20% fee on all cargo shipped through the strait to cover the costs of providing security, and that the process would begin immediately.
+
 ## Sources
 
 This page draws on multiple source articles:

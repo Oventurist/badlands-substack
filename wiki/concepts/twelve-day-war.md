@@ -17,6 +17,13 @@ The Twelve Day War is the Badlands corpus's name for the brief June 2025 conflic
 
 According to the May 18, 2026 Badlands Brief, contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] quotes Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] from June 2025 — during the Twelve Day War — as saying "Saudi Arabia stands with its brothers in Iran and will spare no effort to support them" and adding that "the entire Islamic world is united in backing Iran." The commentary states that the [[united-arab-emirates|UAE]] joined the collective condemnation of Israel's aggression against Iran, and that Iranian President [[masoud-pezeshkian|Masoud Pezeshkian]] and Foreign Minister [[abbas-araghchi|Abbas Araghchi]] expressed solidarity with the Muslim world, calling longtime rival Saudi Arabia their "brothers." The commentator argues that "Israel had succeeded in uniting the entire Islamic world under a single banner, and that banner was to oppose Israeli aggression."
 
+## Conclusion and aftermath (July 2026)
+
+The July 14, 2026 Badlands Brief recounts that the war was capped off by [[operation-midnight-hammer|Operation Midnight Hammer]], which commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues gave [[iran|Iran]] time to regroup and implement the [[continuity-of-government|Continuity of Government]] protocol in August 2025. The conflict's aftermath, in his account, saw Iran's sweeping purge of suspected [[mossad|Mossad]] infiltrators including former President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]], reportedly placed under house arrest.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-5a2)
+This page draws on multiple source articles:
+
+- [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

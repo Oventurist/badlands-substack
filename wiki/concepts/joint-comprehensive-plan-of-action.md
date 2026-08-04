@@ -30,4 +30,7 @@ Trump's withdrawal from the agreement, accompanied by the "maximum pressure" cam
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+This page draws on multiple source articles:
+
+- [and iran iran so far away](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

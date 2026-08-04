@@ -20,4 +20,7 @@ The complex is also used as a benchmark for what real journalism looks like. The
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+This page draws on multiple source articles:
+
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

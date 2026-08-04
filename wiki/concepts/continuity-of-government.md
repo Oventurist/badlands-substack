@@ -18,6 +18,10 @@ Within the corpus, Continuity of Government is treated not as a dormant continge
 
 In this framing COG is closely bound to the [[devolution|Devolution]] thesis of [[jon-herold|Jon Herold]]: continuity measures are understood to protect red-line national security functions while a public "exposure operation" against what the corpus calls the System of Systems proceeds. The essay's author, [[burning-bright|Burning Bright]], links the same reasoning to [[donald-trump|Donald Trump]]'s remark that "the voting will be much, much different in 2024" and to his warning that conditions will get "much worse" before people see clearly, which the author connects to longstanding "precipice" theories in the community.
 
+## Iranian COG implementation (2025)
+
+The July 14, 2026 Badlands Brief reports that [[iran|Iran]] implemented its own Continuity of Government protocol in August 2025, after it was determined that [[mossad|Mossad]] and the [[cia|CIA]] had likely infiltrated the highest levels of the [[islamic-revolutionary-guard-corps|IRGC]] and intelligence community. The protocol abolished the control hierarchy, removed the Ayatollah from the chain of command, and devolved political and military powers to regional governors and lower-level commanders. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues Iran only had the opportunity to implement the protocol because President [[donald-trump|Donald Trump]]'s [[operation-midnight-hammer|Operation Midnight Hammer]] gave it the time to regroup and prepare for what he describes as the coup attempt.
+
 ## Sources
 
 This page draws on multiple source articles:

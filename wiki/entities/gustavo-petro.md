@@ -29,6 +29,10 @@ Following the May 1, 2026 US indictment of the governor of Sinaloa and nine othe
 
 Petro subsequently disclosed that he and [[nicolas-maduro|Nicolás Maduro]] had discussed a joint military operation against the cartels, and according to the Brief he raised the idea with President [[donald-trump|Donald Trump]] during a White House visit in February 2026 — encouraging the United States to lead an effort targeting not only the Sinaloa Cartel and jungle militant groups but also the bankers laundering their money. Badlands commentary cites this sequence as support for its theory that Petro is a "white hat" cooperating with Trump against the transnational cartel.
 
+## Challenge to the June 2026 election
+
+The July 14, 2026 Badlands Brief reports that Petro attempted to challenge the outcome of the country's June 21, 2026 election, which was won by [[abelardo-de-la-espriella|Abelardo de la Espriella]]. Petro reportedly claimed the real winner was [[ivan-cepeda|Iván Cepeda]] and alleged the result was manipulated using technology from California. The United States and twelve regional partners responded with a July 10 joint statement through the [[shield-of-the-americas|Shield of the Americas]] coalition, rejecting any effort to delegitimize the mandate, discredit electoral authorities, or obstruct [[colombia|Colombia]]'s institutional transition, and urging officials to respect the certified results.
+
 ## Sources
 
 This page draws on multiple source articles:

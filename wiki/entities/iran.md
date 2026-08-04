@@ -51,6 +51,10 @@ The May 18, 2026 Badlands Brief reports that the [[united-arab-emirates|UAE]] bl
 
 Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] challenges the attribution to Iran, noting that Iran lies east of the UAE while Israel and [[iraq|Iraq]] lie to the west, and argues the strike was a false-flag provocation intended to wreck Iran's rapprochement with Saudi Arabia and the UAE. The same edition reports the [[wall-street-journal|Wall Street Journal]]'s disclosure that [[israel|Israel]] built and defended a secret base in Iraq during the Iran war to support operations against Tehran, and recalls Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s June 2025 statement — during the [[twelve-day-war|Twelve Day War]] — that "the entire Islamic world is united in backing Iran."
 
+## Ahmadinejad house arrest and the purge of infiltrators (July 2026)
+
+The July 14, 2026 Badlands Brief reports that former President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]] was reportedly placed under house arrest as Iranian authorities investigated suspected Israeli intelligence infiltration, questioning him over alleged contacts with individuals accused of links to [[mossad|Mossad]]. The arrest came amid a sweeping internal security crackdown following Iran's military confrontation with [[israel|Israel]], with numerous arrests, investigations, and reported executions in espionage-related cases. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the affair as the unravelling of a Mossad infiltration network inside the Iranian government and intelligence community, tying it to the [[continuity-of-government|Continuity of Government]] protocol implemented in August 2025 and to the financial-warfare episode in which operatives were geo-located after Russia helped Iran hack [[elon-musk|Starlink]].
+
 ## Sources
 
 This page draws on multiple source articles:

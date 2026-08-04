@@ -19,6 +19,13 @@ The May 20, 2026 Badlands Brief reports that Hegseth has described the shift tow
 
 Badlands commentator [[burning-bright|Burning Bright]] read the same developments as the revival of [[detroit|Detroit]]'s "Arsenal of Democracy" role, but for "sovereign power projection" rather than what he called abstract globalist adventures.
 
+## Media leaks task force (July 2026)
+
+The July 14, 2026 Badlands Brief reports that Hegseth announced a joint [[department-of-justice|DOJ]]–[[pentagon|Pentagon]] task force to identify and prosecute unauthorized disclosures of sensitive information to the news media, delegating authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations, empowering the office to request and receive all information, records, and support across the department.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-311)
+This page draws on multiple source articles:
+
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
