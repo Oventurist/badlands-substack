@@ -1,10 +1,10 @@
 ---
 title: Joint Comprehensive Plan of Action
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-05
 type: concept
 tags: [iran, nuclear-deal, diplomacy, sanctions, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---

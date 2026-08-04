@@ -1,10 +1,10 @@
 ---
 title: Vladimir Putin
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-05
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: false
 ---
@@ -66,3 +66,4 @@ This page draws on multiple source articles:
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

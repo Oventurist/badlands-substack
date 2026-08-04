@@ -1,10 +1,10 @@
 ---
 title: Qassem Soleimani
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [iran, irgc, assassination, protests]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-3d4.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: false
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

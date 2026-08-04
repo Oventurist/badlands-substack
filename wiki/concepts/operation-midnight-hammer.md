@@ -1,10 +1,10 @@
 ---
 title: Operation Midnight Hammer
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-05
 type: concept
 tags: [iran, military-operation, narrative-warfare, america-first, trump]
-sources: [raw/badlands-brief-52b.md]
+sources: [raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---

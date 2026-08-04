@@ -1,10 +1,10 @@
 ---
 title: Culture of Change
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-05
 type: concept
 tags: [badlands-media, broadcast, commentary, citizen-journalism]
-sources: [raw/artificial-intelligence.md]
+sources: [raw/artificial-intelligence.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: false
 ---

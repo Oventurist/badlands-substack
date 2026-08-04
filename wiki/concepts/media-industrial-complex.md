@@ -1,10 +1,10 @@
 ---
 title: Media Industrial Complex
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [media, propaganda, narrative-warfare, badlands-media, 5gw]
-sources: [raw/badlands-blitz-episode-19.md, raw/badlands-brief-1c6.md]
+sources: [raw/badlands-blitz-episode-19.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [badlands blitz episode 19](https://badlands.substack.com/p/badlands-blitz-episode-19)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

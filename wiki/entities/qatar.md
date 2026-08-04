@@ -1,13 +1,13 @@
 ---
 title: Qatar
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-05
 type: entity
 tags:
   - middle-east
   - al-qaeda
   - diplomacy
-sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-52b.md]
+sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -38,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

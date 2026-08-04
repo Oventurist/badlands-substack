@@ -1,10 +1,10 @@
 ---
 title: Patrick Byrne
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [election-integrity, businessman, 2020-election, overstock]
-sources: [raw/badlands-brief-2c0.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: false
 ---

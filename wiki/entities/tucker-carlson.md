@@ -1,10 +1,10 @@
 ---
 title: "Tucker Carlson"
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-05
 type: entity
 tags: [media, first-amendment, fara, iran, censorship]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-52b.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -44,3 +44,4 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

@@ -1,10 +1,10 @@
 ---
 title: Jeffrey Epstein
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-05
 type: entity
 tags: [epstein, trafficking, blackmail, doj-files, intelligence]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: true
 ---
@@ -42,3 +42,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

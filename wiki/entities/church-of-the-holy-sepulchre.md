@@ -11,7 +11,7 @@ contested: false
 
 # Church of the Holy Sepulchre
 
-The Church of the Holy Sepulchre is a Christian church complex in the Old City of Jerusalem, traditionally recognized as the site of both the crucifixion and the burial of Jesus. It is one of Christianity's holiest sites and, according to the Badlands Brief edition ["Golgotha & The Metaverse"](../concepts/badlands-brief-52b.md), typically draws up to four million visitors annually.
+The Church of the Holy Sepulchre is a Christian church complex in the Old City of Jerusalem, traditionally recognized as the site of both the crucifixion and the burial of Jesus. It is one of Christianity's holiest sites and, according to the Badlands Brief edition ["Golgotha & The Metaverse"](https://badlands.substack.com/p/badlands-brief-52b), typically draws up to four million visitors annually.
 
 ## Layout and tradition
 

@@ -1,10 +1,10 @@
 ---
 title: State Department
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [us-government, foreign-policy, terrorism-designation, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-40d.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-40d.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -71,3 +71,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

@@ -4,7 +4,7 @@ created: 2026-08-05
 updated: 2026-08-05
 type: concept
 tags: [iran, israel, war, middle-east, 2025]
-sources: [raw/badlands-brief-5a2.md]
+sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---

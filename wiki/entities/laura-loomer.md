@@ -1,10 +1,10 @@
 ---
 title: Laura Loomer
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [activist, media, israel, maga]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-2b2.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-2b2.md, raw/badlands-brief-285.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 2b2](https://badlands.substack.com/p/badlands-brief-2b2)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

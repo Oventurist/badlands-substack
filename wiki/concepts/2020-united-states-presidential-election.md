@@ -1,10 +1,10 @@
 ---
 title: 2020 United States Presidential Election
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [election, election-fraud, litigation, 2020]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

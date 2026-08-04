@@ -1,10 +1,10 @@
 ---
 title: Elon Musk
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [person, outlet, censorship, info-war, 5gw, tech]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md, raw/artificial-intelligence.md, raw/badlands-brief-0a2.md, raw/badlands-brief-25c.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/anthony-fauci.md, raw/are-we-entering-the-millennial-reign.md, raw/artificial-intelligence.md, raw/badlands-brief-0a2.md, raw/badlands-brief-25c.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -70,3 +70,4 @@ This page draws on multiple source articles:
 - [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

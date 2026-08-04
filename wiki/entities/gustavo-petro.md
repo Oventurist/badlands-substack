@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-05
 type: entity
 tags: [colombia, assassination-attempt, cartels, sovereign-alliance, venezuela]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-579.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-579.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: false
 ---
@@ -40,3 +40,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
 - [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

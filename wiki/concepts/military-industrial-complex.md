@@ -1,10 +1,10 @@
 ---
 title: Military Industrial Complex
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 type: concept
 tags: [defense, deep-state, media-criticism, war]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---

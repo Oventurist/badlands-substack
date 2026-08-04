@@ -1,10 +1,10 @@
 ---
 title: Kristi Noem
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-05
 type: entity
 tags: [department-of-homeland-security, trump-administration, immigration-enforcement, senate-oversight]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: false
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

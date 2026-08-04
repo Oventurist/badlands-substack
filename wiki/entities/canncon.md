@@ -1,10 +1,10 @@
 ---
 title: CannCon
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [badlands-media, citizen-journalism, election-integrity, commentary]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-25c.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: false
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

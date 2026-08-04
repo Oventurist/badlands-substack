@@ -1,10 +1,10 @@
 ---
 title: Pentagon
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [us-government, military, benghazi, department-of-defense]
-sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

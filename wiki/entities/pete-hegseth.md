@@ -1,10 +1,10 @@
 ---
 title: Pete Hegseth
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [department-of-defense, trump-administration, defense-industrial-base, wartime-footing]
-sources: [raw/badlands-brief-311.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-5ba.md]
 confidence: high
 contested: false
 ---

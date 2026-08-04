@@ -1,10 +1,10 @@
 ---
 title: Truth Social
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [platform, social-media, trump, free-speech]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

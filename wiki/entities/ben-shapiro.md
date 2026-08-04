@@ -1,10 +1,10 @@
 ---
 title: Ben Shapiro
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-05
 type: entity
 tags: [person, conservative-media, free-speech, commentator]
-sources: [raw/a-glaring-double-standard.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---

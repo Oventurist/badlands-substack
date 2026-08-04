@@ -1,10 +1,10 @@
 ---
 title: Lindsey Graham
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-05
 type: entity
 tags: [senator, republican, south-carolina, foreign-policy]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

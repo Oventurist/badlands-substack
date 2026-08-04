@@ -1,10 +1,10 @@
 ---
 title: Charlie Kirk
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [person, conservative-activism, campus, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
@@ -20,3 +20,4 @@ This page draws on multiple source articles:
 
 - [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
+- [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)

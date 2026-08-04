@@ -1,10 +1,10 @@
 ---
 title: Candace Owens
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [candace-owens, commentator, kanye-west, white-lives-matter, israel-question]
-sources: [raw/badlands-brief-282.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md]
 confidence: medium
 contested: true
 ---
