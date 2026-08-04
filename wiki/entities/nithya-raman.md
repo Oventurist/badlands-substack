@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [los-angeles, municipal-politics, 2026-elections, housing-policy]
-sources: [raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-6b4.md]
 confidence: high
 contested: false
 ---
@@ -19,4 +19,7 @@ Badlands commentators treat the outcome less as a judgment on Raman's campaign t
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-25c)
+This page draws on multiple source articles:
+
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 6b4](https://badlands.substack.com/p/badlands-brief-6b4)

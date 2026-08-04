@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [los-angeles, elections, california, homelessness, populism]
-sources: [raw/badlands-brief-3d4.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-6b4.md]
 confidence: medium
 contested: true
 ---
@@ -27,4 +27,7 @@ Local elite reaction has been hostile. [[drew-carey|Drew Carey]] publicly called
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-3d4)
+This page draws on multiple source articles:
+
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 6b4](https://badlands.substack.com/p/badlands-brief-6b4)

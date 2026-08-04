@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [military, israel, conscription, religion]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md]
 confidence: medium
 contested: false
 ---
@@ -54,3 +54,4 @@ This page draws on multiple source articles:
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 6b4](https://badlands.substack.com/p/badlands-brief-6b4)

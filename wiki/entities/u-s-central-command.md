@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, us-government, centcom, middle-east, iran]
-sources: [raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-6b4.md]
 confidence: medium
 contested: false
 ---
@@ -22,4 +22,7 @@ The Brief uses the CENTCOM-reported seizure as the pivot of its analysis of [[do
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-625)
+This page draws on multiple source articles:
+
+- [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 6b4](https://badlands.substack.com/p/badlands-brief-6b4)

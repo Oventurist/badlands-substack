@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-04
 type: entity
 tags: [person, 2024-election, republican-party]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-6b4.md]
 confidence: high
 contested: false
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
+- [badlands brief 6b4](https://badlands.substack.com/p/badlands-brief-6b4)

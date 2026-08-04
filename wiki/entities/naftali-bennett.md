@@ -1,10 +1,10 @@
 ---
 title: Naftali Bennett
 created: 2026-08-03
-updated: 2026-08-06
+updated: 2026-08-04
 type: entity
 tags: [israel, israeli-politics, palestine, elections]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md, raw/badlands-brief-5dc.md, raw/badlands-brief-6a1.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md, raw/badlands-brief-5dc.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6b4.md]
 confidence: medium
 contested: true
 ---
@@ -42,3 +42,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
+- [badlands brief 6b4](https://badlands.substack.com/p/badlands-brief-6b4)
