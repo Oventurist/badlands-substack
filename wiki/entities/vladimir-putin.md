@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md]
 confidence: high
 contested: false
 ---
@@ -60,6 +60,10 @@ The March 27, 2026 Badlands Brief, in commentary by [[ghost-of-based-patrick-hen
 The May 12, 2026 Badlands Brief reports that Putin publicly suggested the Ukraine conflict may be "coming to an end" during Russia's Victory Day events — one of the strongest indications yet from Moscow that negotiations could eventually emerge — amid a fragile US-brokered ceasefire that both Kyiv and Moscow accused the other of violating. Western analysts cited by the Brief argued the Kremlin may be reacting to battlefield attrition, economic strain, and shifting geopolitical realities. Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] rejected the suggestion that Russia is genuinely seeking peace.
 
 Commentator [[burning-bright|Burning Bright]] read Putin's Victory Day address as a shift in the "Narrative Timeline" on the Ukraine theater, carrying "the clear implication that, according to him, the conflict is approaching its terminus on the back of a Trump-brokered détente." He argued the détente "may be translated on the basis of Russia and Ukraine, but it is actually between the emergent Sovereign Alliance and the Western Hegemon," with the apparent de-escalations serving as "off-ramps in one theater being used to grease the rails toward on-ramps in others."
+
+## The "paper tiger" and the Sovereign Pincer (April 2026)
+
+The Badlands Brief of April 2, 2026 quotes [[burning-bright|Burning Bright]]'s reaction to President [[donald-trump|Donald Trump]]'s threat to leave [[nato|NATO]]: "I always knew they were a paper tiger, and Putin knows that too, by the way." Burning Bright's accompanying commentary elaborates that "Putin knows it too," citing the remark as "the codification of truths that have been operating beneath the surface of the Info War for years," and argues that a "Sovereign Pincer" between Trump and Putin — "framed not as opposition, but as coordinated convergence against the true common adversary" — was "closed long ago, forged in backchannels that hummed through the entirety of the first Trump era."
 
 ## Sources
 

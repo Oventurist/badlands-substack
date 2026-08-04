@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
 confidence: medium
 contested: true
 ---
@@ -68,6 +68,12 @@ The Brief of April 20, 2026 reports that [[u-s-central-command|CENTCOM]] said Am
 ## Netanyahu's July 2026 nuclear and chemical weapons claims
 
 The July 8, 2026 Badlands Brief reports that [[benjamin-netanyahu|Benjamin Netanyahu]] stated Iran was on the verge of developing nuclear weapons, which he said helped trigger the recent military conflict involving Israel and the United States, and that the operations significantly set back Iran's nuclear program by destroying much of its infrastructure — including centrifuges and manufacturing facilities — and eliminating 20 of its top nuclear scientists. While conceding that Iran currently lacks the capability to build a nuclear bomb, Netanyahu warned that it still poses a serious long-term danger, with the Brief's headline adding that "Netanyahu and Mossad Media" now claim Iran has chemical weapons and still poses a "mortal danger." Badlands commentary dismisses the claims as the latest excuse for continuing the war, arguing that as long as "the Zionist State of Israel" exists, the war will never end.
+
+## Wind-down address and Pezeshkian's letter (April 2026)
+
+The Badlands Brief of April 2, 2026 leads with President [[donald-trump|Donald Trump]]'s Wednesday evening address to the nation on the wind-down of the war with Iran, recapped by [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] in a Badlands Media special coverage broadcast. The same edition reports Trump's statement that he was "strongly considering" pulling the United States out of [[nato|NATO]], which he tied to allies' refusal to back U.S. military action and maritime operations connected to the war, including pressure around the [[strait-of-hormuz|Strait of Hormuz]].
+
+The edition also reports that Iranian President [[masoud-pezeshkian|Masoud Pezeshkian]] issued an open letter to the American public arguing that Iran is fighting "Israel's proxy war" and urging Americans to reject coordinated "war propaganda," claiming the portrayal of Iran as a threat is driven by "manufactured narratives" from the military-industrial complex and Israeli political interests. Badlands commentary by Burning Bright reads the war as one front in a "Sovereign Pincer" against the "Globalist Western Hegemon."
 
 ## Sources
 

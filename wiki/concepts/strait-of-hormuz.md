@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: concept
 tags: [geography, energy, iran, maritime]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
 confidence: medium
 contested: false
 ---
@@ -39,6 +39,10 @@ The Brief of April 20, 2026 reports fresh incidents in the strait: [[iran|Iran]]
 ## "I just want loyalty": the Ankara summit dispute (July 2026)
 
 The July 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] arrived at the Ankara [[nato|NATO]] summit still seething over European allies' refusal to support the U.S.-led military campaign against [[iran|Iran]] — declining to open air bases for strikes or contribute forces to help reopen the strait — and declared, "I just want loyalty," while refusing to rule out further reductions in the U.S. military footprint in Europe. Secretary-General [[mark-rutte|Mark Rutte]] used the summit to urge members to acknowledge Trump was right about burden-sharing, citing $250 billion in new European defense commitments, and Trump exchanged warm compliments with host [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]].
+
+## April 2026: NATO pressure and the wind-down
+
+The Badlands Brief of April 2, 2026 reports that President [[donald-trump|Donald Trump]] tied his threat to withdraw from [[nato|NATO]] to allies' refusal to back U.S. military action and maritime operations connected to the war with [[iran|Iran]], including pressure around the strait — the latest iteration of the alliance dispute documented since March 2026.
 
 ## Sources
 

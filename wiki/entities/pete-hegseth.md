@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [department-of-defense, trump-administration, defense-industrial-base, wartime-footing]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
 confidence: high
 contested: false
 ---
@@ -26,6 +26,10 @@ The July 14, 2026 Badlands Brief reports that Hegseth announced a joint [[depart
 ## "Shameful" ally refusal and the Europe review (July 2026)
 
 The July 8, 2026 Badlands Brief reports that, ahead of the Ankara [[nato|NATO]] summit, Hegseth described allies' refusal to provide base access for the U.S.-led military campaign against [[iran|Iran]] as "shameful." The same edition reports that the [[pentagon|Pentagon]] had already scaled back some U.S. forces in Europe and launched a six-month review of its presence there, with President [[donald-trump|Donald Trump]] refusing to rule out further reductions in the U.S. military footprint and declaring "I just want loyalty."
+
+## NATO commitment ambiguity (March–April 2026)
+
+The Badlands Brief of April 2, 2026 reports that on March 31 Hegseth declined to reaffirm the U.S. commitment to [[nato|NATO]]'s collective-defense clause, saying that decision was up to President [[donald-trump|Donald Trump]] — one day before Trump told [[the-telegraph|The Telegraph]] he was "strongly considering" pulling the United States out of the alliance and described NATO as a "paper tiger." Hegseth's refusal is presented as part of the administration's escalating pressure on European allies who declined to back U.S. military operations connected to the war with [[iran|Iran]].
 
 ## Sources
 

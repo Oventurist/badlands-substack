@@ -1,10 +1,10 @@
 ---
 title: "Cuba"
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [cuba, latin-america, diplomacy, regime-change]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md, raw/badlands-brief-686.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,10 @@ The commentary observes an apparent reversal of long-standing exile and neoconse
 ## Reported regime-change planning (March 2026)
 
 The March 24, 2026 Badlands Brief, Alternative Annexations & New(ish) Regime Change, reports that a Russian oil tanker, the *Anatoly Kolodkin*, was approaching the Caribbean carrying crude to Cuba as the [[united-states-navy|US Navy]] increased efforts to restrict fuel shipments to the island. Cuba was described as facing a deepening economic crisis of widespread blackouts, shortages, and emigration, with roughly 10 percent of the population having left since COVID-19, while its government acknowledged ongoing discussions with the United States over potential reforms. Citing [[the-atlantic|The Atlantic]], the brief reports that officials familiar with internal planning say Washington is weighing legal and strategic measures to escalate pressure on Cuban leadership, including possible indictments and broader contingency plans, with anonymous officials stating that regime change in Cuba is "lined up."
+
+## Economic cooperation proposal (April 2026)
+
+The Badlands Brief of April 2, 2026 reports that Cuba's senior diplomat to the United States, [[lianys-torres-rivera|Lianys Torres Rivera]], proposed expanded economic cooperation with the Trump administration, offering "mutually beneficial discussions" — while a senior U.S. official said the outreach "sounded like the regime is getting desperate." Torres Rivera said Havana is open to U.S. involvement in Cuba's economic transformation without compromising sovereignty, in the context of ongoing, largely undisclosed talks led on the American side by Secretary of State [[marco-rubio|Marco Rubio]] following a U.S. oil blockade imposed roughly two months earlier and confirmed in mid-March by President [[miguel-diaz-canel|Miguel Díaz-Canel]]. Cuba is seeking relief from sanctions, including easing embargo restrictions, waiving Title III of the [[helms-burton-act|Helms-Burton Act]], and removal from the state sponsors of terrorism list, and pointed to potential cooperation in areas like Alzheimer's research and drug trafficking enforcement. U.S. officials said any deal would require major political and economic changes in Cuba, including privatization and greater financial independence for citizens.
 
 ## Sources
 

@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-06 | Total pages: 1850
+> Last updated: 2026-08-06 | Total pages: 1857
 
 ## Entities
 
@@ -742,6 +742,7 @@
 - [[lehman-brothers]]: Lehman Brothers was a global financial services firm founded in 1850 that filed for bankruptcy on September 15, 2008, triggering the broader global financial crisis. (Created: 2026-08-01)
 - [[leon-panetta]]: Leon Panetta served as Secretary of Defense under President Obama from 2011 to 2013, and previously as Director of the CIA from 2009 to 2011. (Created: 2026-08-01)
 - [[letitia-james]] — New York attorney general whose subpoenas from the Sarcone office were invalidated and whose Virginia indictment collapsed. (Created: 2026-08-03)
+- [[lianys-torres-rivera]] — Cuba's senior diplomat to the United States, who proposed expanded economic cooperation with the Trump administration in 2026. (Created: 2026-08-06)
 - [[liberal-party-of-canada]]: Canadian governing party whose 2011-2014 reorganization under the Canada 2020 banner the corpus treats as the vehicle for Chrystia Freeland's rise. (Created: 2026-08-01)
 - [[libs-of-tiktok]]: Social media account run by Chaya Raichik, doxed by Taylor Lorenz in an episode central to the corpus's media critique. (Created: 2026-08-01)
 - [[libya]]: North African country; framed in the source as a larger and worse money laundering operation than Iraq, toppled by NATO intervention in 2011 with covert U.S. support for Al-Qaeda-affiliated rebels. (Created: 2026-08-01)
@@ -1575,6 +1576,8 @@
 - [[feeding-our-future]]: $250 million pandemic-era Minnesota child nutrition fraud scheme. (Created: 2026-08-03)
 - [[fiat-currency]]: Fiat currency is money whose value is not backed by a physical commodity such as gold, but is instead declared legal tender by government decree. (Created: 2026-08-01)
 - [[fifth-amendment]] — US constitutional protection against self-incrimination, invoked by Anthony Fauci at the Senate Covid origins hearing. (Created: 2026-08-04)
+- [[fifteenth-amendment]] — Reconstruction-era amendment ratified April 1, 1870 prohibiting denial of the vote on account of race, color, or previous servitude. (Created: 2026-08-06)
+- [[finland]]: Nordic nation whose president, after an April 1, 2026 call with Trump, said "a more European NATO" is taking shape. (Created: 2026-08-06)
 - [[first-amendment]]: Constitutional guarantee of press freedom, used as the standard by which the corpus judges modern journalism a failure. (Created: 2026-08-01)
 - [[first-principles]]: Reasoning from foundational, independently verifiable premises; held up by Badlands as a discipline the Truth Community has forgotten. (Created: 2026-08-02)
 - [[first-trump-impeachment]]: The 2019 Ukraine impeachment of Donald Trump, arising from the Ciaramella whistleblower complaint. (Created: 2026-08-05)
@@ -1582,6 +1585,7 @@
 - [[foreign-intelligence-surveillance-act]]: US statute governing foreign-intelligence surveillance, treated in the corpus as a vehicle of domestic abuse. (Created: 2026-08-03)
 - [[forward-defense-zone]]: IDF term for the 5–10 km Israeli-controlled belt inside southern Lebanon, read as the mechanism for annexing the Qana gas field. (Created: 2026-08-06)
 - [[four-freedoms]]: FDR's 1941 universal aims: freedom from want, from fear of war, of speech and of conscience. (Created: 2026-08-01)
+- [[fourteenth-amendment]] — Post-Civil War amendment whose Citizenship Clause ("subject to the jurisdiction thereof") is the battleground of the Trump birthright-citizenship order challenged in Trump v. Barbara. (Created: 2026-08-06)
 - [[frazzledrip]] — Alleged video said to be stored in an "insurance" folder on Anthony Weiner's laptop.
 - [[freedom-of-information-act]]: US public-records statute, treated in the corpus as a mechanism federal agencies delay rather than obey. (Created: 2026-08-04)
 - [[future-of-work]]: Corporate and consultancy term for the automation-driven restructuring of employment, read in the corpus as a design document for a world with fewer jobs than people. (Created: 2026-08-01)
@@ -1601,6 +1605,7 @@
 - [[harlem-riot-of-1935]]: Earliest entry in the corpus chronology of recurring, allegedly manufactured race riots. (Created: 2026-08-01)
 - [[hatch-act]] — 1939 federal law restricting partisan political activity by executive branch employees.
 - [[hegelian-dialectic]]: Manufactured opposition framework used in the corpus to describe the engineered collision between pro-Israel advocacy and the corporate press. (Created: 2026-08-03)
+- [[helms-burton-act]] — 1996 US law codifying the Cuba embargo; its Title III lawsuit provision is at issue in the 2026 US-Cuba talks. (Created: 2026-08-06)
 - [[help-america-vote-act]] — 2002 election-modernization law credited with creating the centralized US elections industry
 - [[helsinki-accords]]: 1975 European security agreements floated by Riyadh as a model for a Middle East non-aggression framework. (Created: 2026-08-04)
 - [[hesder-yeshiva]]: Israeli religious academies combining Torah study with IDF service, whose leaders forced the mixed-gender tank reversal. (Created: 2026-08-03)
@@ -1775,6 +1780,7 @@
 - [[trans-siberian-railway]]: 9,300 km Russian rail spine being modernized and double-tracked alongside the Baikal-Amur Mainline for Eurasian freight. (Created: 2026-08-02)
 - [[tripolar-alliance]]: Burning Bright's framing of the US-Russia-China trinity and narrative 'shielding' amid arms treaty expiry. (Created: 2026-08-03)
 - [[troubled-asset-relief-program]]: 2008 bank bailout program overseen by Special Inspector General Neil Barofsky. (Created: 2026-08-03)
+- [[trump-v-barbara]] — Supreme Court case challenging the Trump executive order limiting birthright citizenship; argued April 1, 2026. (Created: 2026-08-06)
 - [[trumps-discombobulator]]: Burning Bright's framework describing how Trump's alternating war-and-peace messaging forces markets to price actuals rather than stories. (Created: 2026-08-03)
 - [[truth-community]]: The self-identified network of independent researchers and alternative-media audiences opposing institutional narratives, described in 2026 as undergoing a "prime sifting." (Created: 2026-08-02)
 - [[tumbler-ridge-school-shooting]]: February 2026 mass shooting in Canada reported as killing eight, covered as a bonus item in the Badlands Brief. (Created: 2026-08-03)
@@ -1788,6 +1794,7 @@
 - [[united-states-code]]: Codification of federal statutory law, cited for Title 28's corporation definition and Title 26's unknowable bulk. (Created: 2026-08-01)
 - [[united-states-constitution]]: Founding charter treated in the corpus as a restraint written by the founders against their own government, undone by the Sixteenth Amendment in 1913. (Created: 2026-08-02)
 - [[united-states-federal-corporation]]: Claim that 28 U.S.C. 3002(15)(A) defines the United States as a federal corporation. (Created: 2026-08-01)
+- [[united-states-v-wong-kim-ark]] — 1898 Supreme Court precedent anchoring birthright citizenship, the central obstacle to the Trump administration's order. (Created: 2026-08-06)
 - [[venezuela-model]] — Badlands framework describing figurehead removal without occupation as a US intervention template.
 - [[violent-crime-control-and-law-enforcement-act-of-1994]]: Crime bill by Clinton and Biden said to have lengthened non-violent sentences in order to fill private prisons. (Created: 2026-08-01)
 - [[vision-2030]]: Mohammed bin Salman's Saudi economic transformation program, cited as evidence against Saudi appetite for regional war. (Created: 2026-08-04)

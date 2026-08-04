@@ -1,10 +1,10 @@
 ---
 title: "Miguel Diaz-Canel"
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [cuba, politics, diplomacy, latin-america]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-323.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-323.md, raw/badlands-brief-686.md]
 confidence: high
 contested: false
 ---
@@ -16,6 +16,10 @@ Miguel Diaz-Canel is the sitting president of [[cuba|Cuba]] and the first person
 The March 16, 2026 Badlands Brief reports that on a Thursday evening Diaz-Canel announced he would hold an emergency press conference the following morning to disclose something important. At that conference he appeared alongside [[raulito-castro|Raulito Castro]], grandson of [[raul-castro|Raul Castro]], and stated that Cuba was in open negotiations with the Trump administration. No other details were released.
 
 Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] treated the joint appearance as effectively confirming [[axios|Axios]] reporting by [[marc-caputo|Marc Caputo]] that Secretary of State [[marco-rubio|Marco Rubio]] had been holding secret talks with Castro about a leadership transition — implying that Diaz-Canel's own tenure may be the subject of the negotiation he announced.
+
+## Confirmation of the 2026 talks (March–April 2026)
+
+The Badlands Brief of April 2, 2026 reports that the largely undisclosed talks between [[cuba|Cuba]] and the Trump administration — led on the American side by Secretary of State [[marco-rubio|Marco Rubio]] following a U.S. oil blockade imposed roughly two months earlier — were confirmed in mid-March by Díaz-Canel, and that Cuba's senior diplomat [[lianys-torres-rivera|Lianys Torres Rivera]] subsequently proposed expanded economic cooperation with the administration.
 
 ## Sources
 

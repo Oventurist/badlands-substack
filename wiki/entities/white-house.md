@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [us-government, executive-branch, benghazi, chain-of-command]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md]
 confidence: medium
 contested: true
 ---
@@ -29,6 +29,10 @@ The March 27, 2026 Badlands Brief reports that the White House announced that Pr
 ## The China business delegation (May 2026)
 
 The May 12, 2026 Badlands Brief reports, citing a White House official, that a delegation of fifteen high-profile business executives was expected to accompany Trump on his trip to [[china|China]] as the administration pushed for new economic agreements with Beijing. The expected delegation included [[elon-musk|Elon Musk]] (Tesla), [[tim-cook|Tim Cook]] ([[apple-inc|Apple]]), [[larry-fink|Larry Fink]] ([[blackrock|BlackRock]]), [[kelly-ortberg|Kelly Ortberg]] ([[boeing|Boeing]]), [[david-solomon|David Solomon]] ([[goldman-sachs|Goldman Sachs]]), [[stephen-schwarzman|Stephen Schwarzman]] (Blackstone), [[jane-fraser|Jane Fraser]] (Citigroup), [[dina-powell-mccormick|Dina Powell McCormick]] ([[meta-platforms|Meta]]), [[ryan-mcinerney|Ryan McInerney]] (Visa), [[brian-sikes|Brian Sikes]] ([[cargill|Cargill]]), [[chuck-robbins|Chuck Robbins]] (Cisco), [[jim-anderson|Jim Anderson]] (Coherent), [[h-lawrence-culp-jr|H. Lawrence Culp Jr.]] (GE Aerospace), [[jacob-thaysen|Jacob Thaysen]] (Illumina), and [[michael-miebach|Michael Miebach]] (Mastercard). The trip was expected to focus heavily on trade and investment, with the administration aiming to secure business deals and purchase agreements during the [[2026-trump-xi-summit|summit with Xi Jinping]].
+
+## "Sovereign nations" framing and the withdrawal memorandum (January–February 2026)
+
+The Badlands Brief of April 2, 2026 reports that the White House summary of Secretary [[marco-rubio|Marco Rubio]]'s February Munich speech said President [[donald-trump|Donald Trump]]'s foreign policy is one that "brings sovereign nations together in common purpose" and rejects "outdated globalist structures." That "sovereign" framing also appears in Trump's January 7 White House memorandum on withdrawals from international bodies, which said the administration was exiting organizations it viewed as contrary to U.S. interests and sovereignty — the formal policy backdrop to Trump's April 1 statement that he was "strongly considering" pulling the United States out of [[nato|NATO]].
 
 ## Sources
 

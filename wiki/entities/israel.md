@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [nation, geopolitics, middle-east, conspiracy-narrative]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
 confidence: medium
 contested: true
 ---
@@ -63,6 +63,10 @@ The Brief of April 20, 2026 covers the erosion of the U.S.-brokered ceasefire in
 ## The 2026 constitutional crisis and shifting American opinion
 
 The July 8, 2026 Badlands Brief reports that, for the first time in Israeli history, the government of Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] openly declared it will not respect a ruling of the [[israeli-high-court-of-justice|High Court of Justice]], sparking a constitutional crisis, with the court warning of anarchy and societal breakdown. The same edition cites [[times-of-israel|Times of Israel]] polling according to which one third of American Jews say Israel committed a genocide in [[gaza|Gaza]] and only 20% of Americans call the obliteration of Gazan civilization morally justified. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues that "Israel has now become widely recognized in the US as a liability, if not an outright enemy," making the conflict an existential crisis for the Israeli political elite, and predicts a similar "civil war, of sorts" among the American political elite as Israel's influence over U.S. politicians becomes increasingly obvious.
+
+## Pezeshkian's "Israel's proxy war" letter (April 2026)
+
+The Badlands Brief of April 2, 2026 reports that Iranian President [[masoud-pezeshkian|Masoud Pezeshkian]] issued an open letter to the American public questioning whether Washington is truly pursuing an "America First" agenda or instead operating as a proxy for Israel, and accusing Israel of shaping U.S. policy to deflect attention from its actions in the region. Pezeshkian claimed the portrayal of [[iran|Iran]] as a threat is the result of "manufactured narratives" driven by the military-industrial complex and Israeli political interests, and that the U.S. has built extensive military capabilities around Iran despite Tehran posing no direct threat. The letter urged Americans to reject coordinated "war propaganda" surrounding Iran.
 
 ## Sources
 

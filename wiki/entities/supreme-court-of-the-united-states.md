@@ -1,10 +1,10 @@
 ---
 title: Supreme Court of the United States
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [institution, judiciary, case-law, federalism]
-sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-686.md]
 confidence: high
 contested: false
 ---
@@ -25,6 +25,10 @@ The essay "Always Fight Back" cites the Court's intervention in the 2000 preside
 ## Potential role in the Trump election cases
 
 In "Are Jack Smith and Fani Willis in on the Plan?" the Court is presented as a possible backstop should the New York and Georgia courts mishandle the prosecutions of [[donald-trump|Donald Trump]]. The author writes that the cases may reach a just conclusion at trial level, "or, if they are mishandled, perhaps the Supreme Court may weigh in," and adds that if evidence of fraud in the [[2020-united-states-presidential-election|2020 election]] makes it before the Court, "that could open a massive can of worms for the Biden administration."
+
+## Trump v. Barbara and birthright citizenship (April 2026)
+
+The Badlands Brief of April 2, 2026 reports that the Court heard oral arguments in [[trump-v-barbara|Trump v. Barbara]], the legal challenge to President [[donald-trump|Donald Trump]]'s executive order seeking to limit birthright citizenship. The order interprets the [[fourteenth-amendment|Fourteenth Amendment]]'s Citizenship Clause as guaranteeing citizenship only to persons born in the United States and "subject to the jurisdiction thereof." Lower federal courts had blocked the order, finding that the Constitution's text and long-standing precedent — principally [[united-states-v-wong-kim-ark|United States v. Wong Kim Ark]] — protect birthright citizenship regardless of parents' immigration status. Legal analysts cited in the coverage said overturning or narrowing that precedent would require the Court to reinterpret more than a century of constitutional law, and noted the conservative majority's willingness to revisit precedent in other areas while immigration and constitutional-text cases have produced mixed outcomes.
 
 ## Sources
 

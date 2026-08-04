@@ -1,10 +1,10 @@
 ---
 title: Marco Rubio
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [state-department, trump-administration, diplomacy, israel]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md]
 confidence: high
 contested: false
 ---
@@ -24,6 +24,10 @@ The initiative is presented as the opening move in a sequence that also included
 ## SHIELD statement on Colombia (July 2026)
 
 The July 14, 2026 Badlands Brief reports that Rubio shared publicly a July 10 joint statement by the [[shield-of-the-americas|Shield of the Americas]] coalition — the United States and twelve regional partners — warning Colombian President [[gustavo-petro|Gustavo Petro]] against challenging the certified results of the June 21, 2026 election won by [[abelardo-de-la-espriella|Abelardo de la Espriella]].
+
+## "Sovereign nations" framework and the Cuba talks (2026)
+
+The Badlands Brief of April 2, 2026 reports that the [[white-house|White House]] summary of Rubio's February Munich speech described President [[donald-trump|Donald Trump]]'s foreign policy as one that "brings sovereign nations together in common purpose" and rejects "outdated globalist structures" — the "sovereign nations" framing the administration has pushed in place of older alliance language as Trump threatened to leave [[nato|NATO]]. The same edition reports that Rubio is leading the American side of ongoing, largely undisclosed talks with [[cuba|Cuba]] following a U.S. oil blockade imposed roughly two months earlier, in which Havana — through senior diplomat [[lianys-torres-rivera|Lianys Torres Rivera]] — has proposed expanded economic cooperation and seeks easing of embargo restrictions, a Title III waiver of the [[helms-burton-act|Helms-Burton Act]], and removal from the state sponsors of terrorism list.
 
 ## Sources
 

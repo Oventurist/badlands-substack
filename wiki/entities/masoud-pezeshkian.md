@@ -1,10 +1,10 @@
 ---
 title: Masoud Pezeshkian
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [iran, president, reformist, islamic-republic]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-5a2.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-5a2.md, raw/badlands-brief-686.md]
 confidence: medium
 contested: true
 ---
@@ -19,6 +19,10 @@ Within that framing, Pezeshkian belongs to the faction the corpus treats as genu
 ## Solidarity with the Muslim world during the Twelve Day War
 
 The May 18, 2026 Badlands Brief reports that, during the June 2025 [[twelve-day-war|Twelve Day War]] between [[israel|Israel]] and [[iran|Iran]], Pezeshkian and Foreign Minister [[abbas-araghchi|Abbas Araghchi]] expressed solidarity with the Muslim world, with Pezeshkian calling longtime rival [[saudi-arabia|Saudi Arabia]] "our brothers."
+
+## Open letter to the American people (April 2026)
+
+The Badlands Brief of April 2, 2026 reports that Pezeshkian issued an open letter to the American public questioning whether Washington is truly pursuing an "America First" agenda or instead operating as a proxy for [[israel|Israel]], while urging Americans to reject coordinated "war propaganda" surrounding [[iran|Iran]]. He argued that portraying Iran as a threat is the result of "manufactured narratives" driven by the military-industrial complex and Israeli political interests, claiming such messaging is used to justify military presence and conflict, and that the U.S. has built extensive military capabilities around Iran despite Tehran posing no direct threat. Pezeshkian accused Israel of shaping U.S. policy to deflect attention from its actions in the region, maintained that Iran has not sought war and is responding to what he characterized as continued aggression, and pointed to growing frustration within the United States over foreign policy decisions, suggesting ordinary citizens in both countries share an interest in avoiding further escalation.
 
 ## Sources
 
