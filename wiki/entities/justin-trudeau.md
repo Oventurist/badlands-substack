@@ -10,7 +10,7 @@ contested: true
 ---
 # Justin Trudeau
 
-Justin Trudeau is a Canadian politician who led the [[liberal-party-of-canada|Liberal Party of Canada]] to power in 2015 and served as Prime Minister until being succeeded by [[mark-carney|Mark Carney]]. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], Trudeau appears chiefly as the figure around whom [[chrystia-freeland|Chrystia Freeland]] was positioned.
+Justin Trudeau is a Canadian politician who led the [[liberal-party-of-canada|Liberal Party of Canada]] to power in 2015 and served as Prime Minister until being succeeded by [[mark-carney|Mark Carney]]. In the Badlands Media essay A Re Alignment of World Systems, Trudeau appears chiefly as the figure around whom [[chrystia-freeland|Chrystia Freeland]] was positioned.
 
 ## Role in the source
 

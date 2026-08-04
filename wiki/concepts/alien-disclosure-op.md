@@ -10,7 +10,7 @@ contested: true
 ---
 # Alien Disclosure Op
 
-The **Alien Disclosure Op** is the term used in [[badlands-blitz-episode-7|Badlands Blitz Episode 7]] for a disclosure initiative concerning extraterrestrial life attributed to [[donald-trump|Donald Trump]]. The episode, published February 21, 2026, describes it as "Donald Trump's Fake, but kind of Real Alien Disclosure Op."
+The **Alien Disclosure Op** is the term used in Badlands Blitz Episode 7 for a disclosure initiative concerning extraterrestrial life attributed to [[donald-trump|Donald Trump]]. The episode, published February 21, 2026, describes it as "Donald Trump's Fake, but kind of Real Alien Disclosure Op."
 
 ## The formulation
 

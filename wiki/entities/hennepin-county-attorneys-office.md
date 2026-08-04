@@ -15,7 +15,7 @@ The Hennepin County Attorney's Office is the county-level prosecuting authority 
 
 ## Investigation of federal immigration enforcement
 
-The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] reports that the office opened an inquiry into the conduct of federal immigration agents during enforcement operations in Minnesota earlier that year. The office created a public portal through which residents could submit evidence, and stated that it would examine the "potentially unlawful behavior" of [[united-states-border-patrol|Border Patrol]] agents — including the senior official [[gregory-bovino|Gregory Bovino]] — and file charges where warranted.
+The March 3, 2026 Badlands Brief reports that the office opened an inquiry into the conduct of federal immigration agents during enforcement operations in Minnesota earlier that year. The office created a public portal through which residents could submit evidence, and stated that it would examine the "potentially unlawful behavior" of [[united-states-border-patrol|Border Patrol]] agents — including the senior official [[gregory-bovino|Gregory Bovino]] — and file charges where warranted.
 
 The initiative placed the office in direct jurisdictional conflict with the [[department-of-homeland-security|Department of Homeland Security]], which argued that immigration enforcement is exclusively a federal function and that state and county prosecutors lack authority to charge federal officers. The dispute is one of several state-versus-federal confrontations described in the Brief, alongside litigation brought by the attorney general of [[colorado|Colorado]].
 

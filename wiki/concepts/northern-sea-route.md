@@ -14,7 +14,7 @@ The Northern Sea Route is the Arctic shipping corridor along Russia's northern c
 
 ## The 2019 development plan
 
-[[matthew-ehret|Matthew Ehret]]'s [[avoiding-wwiii|Avoiding WWIII]] reports that Russia's Development Plan for the Northern Sea Route seeks to increase annual shipments to 80 million tons by 2024. Beyond ports and new Arctic mining hubs, the plan includes the construction of 40 new vessels — among them additional nuclear icebreakers — along with railways and northern seaports. The article states that the route will cut ten days of shipping time from goods moving between China and Europe.
+[[matthew-ehret|Matthew Ehret]]'s Avoiding WWIII reports that Russia's Development Plan for the Northern Sea Route seeks to increase annual shipments to 80 million tons by 2024. Beyond ports and new Arctic mining hubs, the plan includes the construction of 40 new vessels — among them additional nuclear icebreakers — along with railways and northern seaports. The article states that the route will cut ten days of shipping time from goods moving between China and Europe.
 
 ## Relation to other corridors
 

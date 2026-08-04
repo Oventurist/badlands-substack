@@ -10,7 +10,7 @@ contested: true
 ---
 # Federal Deposit Insurance Corporation
 
-The Federal Deposit Insurance Corporation (FDIC) is the U.S. federal agency that insures deposits held at private banks. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] casts federal deposit insurance not as a consumer protection but as what he calls "a cabal trick" — the device by which private bankers eliminated their public competition.
+The Federal Deposit Insurance Corporation (FDIC) is the U.S. federal agency that insures deposits held at private banks. In A Seismic Shift, [[joe-lange|Joe Lange]] casts federal deposit insurance not as a consumer protection but as what he calls "a cabal trick" — the device by which private bankers eliminated their public competition.
 
 ## Role in ending postal savings
 

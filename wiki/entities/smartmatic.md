@@ -15,7 +15,7 @@ Smartmatic is an election technology company that, in the account presented in t
 
 ## Origins
 
-According to research by [[canncon|CannCon]] summarized by [[ashe-in-america|Ashe in America]] in [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], Smartmatic Corp. was incorporated in Delaware in April 2000 by Alfredo Jose Anzola and headquartered in Boca Raton, Florida, in Palm Beach County — seven months before the disputed 2000 presidential recount in Broward and Palm Beach counties.
+According to research by [[canncon|CannCon]] summarized by [[ashe-in-america|Ashe in America]] in Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, Smartmatic Corp. was incorporated in Delaware in April 2000 by Alfredo Jose Anzola and headquartered in Boca Raton, Florida, in Palm Beach County — seven months before the disputed 2000 presidential recount in Broward and Palm Beach counties.
 
 ## Venezuelan contracts and government investment
 

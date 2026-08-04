@@ -14,7 +14,7 @@ contested: true
 ---
 # National Endowment for Democracy
 
-The National Endowment for Democracy (NED) is a U.S. government-funded grantmaking body created in 1983 to promote democracy abroad. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], NED is described as "the CIA's chief grantmaking body," funding various "CIA-adjacent cut-outs" including the [[international-republican-institute|International Republican Institute (IRI)]], [[national-democratic-institute|National Democratic Institute (NDI)]], [[center-for-international-private-enterprise|Center for International Private Enterprise (CIPE)]], and the AFL-CIO's [[solidarity-center|Solidarity Center]].
+The National Endowment for Democracy (NED) is a U.S. government-funded grantmaking body created in 1983 to promote democracy abroad. In the Badlands Media article A More Perfect (Labor) Union, NED is described as "the CIA's chief grantmaking body," funding various "CIA-adjacent cut-outs" including the [[international-republican-institute|International Republican Institute (IRI)]], [[national-democratic-institute|National Democratic Institute (NDI)]], [[center-for-international-private-enterprise|Center for International Private Enterprise (CIPE)]], and the AFL-CIO's [[solidarity-center|Solidarity Center]].
 
 ## Mandate
 

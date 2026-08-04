@@ -11,7 +11,7 @@ contested: false
 
 # France
 
-France is a European state whose historical and intelligence presence in the Sahel is a recurring theme in [[badlands-brief|Badlands Brief]] coverage of West Africa.
+France is a European state whose historical and intelligence presence in the Sahel is a recurring theme in Badlands Brief coverage of West Africa.
 
 ## Role in the Sahel
 

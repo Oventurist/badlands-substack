@@ -14,7 +14,7 @@ contested: true
 ---
 # Jeb Bush
 
-John Ellis Bush (born 1953), known as Jeb Bush, is an American politician who served as the 43rd governor of Florida from 1999 to 2007 and was a candidate for the Republican presidential nomination in 2016. In the Badlands Media article [[a-family-affair]], Jeb Bush is portrayed as a central node in a multigenerational network of CIA covert operations, drug trafficking, money laundering, and political corruption spanning Venezuela, Mexico, and Florida.
+John Ellis Bush (born 1953), known as Jeb Bush, is an American politician who served as the 43rd governor of Florida from 1999 to 2007 and was a candidate for the Republican presidential nomination in 2016. In the Badlands Media article a family affair, Jeb Bush is portrayed as a central node in a multigenerational network of CIA covert operations, drug trafficking, money laundering, and political corruption spanning Venezuela, Mexico, and Florida.
 
 ## CIA non-official cover at Texas Commerce Bank
 

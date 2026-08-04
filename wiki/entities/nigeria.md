@@ -15,7 +15,7 @@ Nigeria is a West African state and the most populous country on the continent. 
 
 ## Joint counterterrorism operation (May 2026)
 
-According to the May 18, 2026 [[badlands-brief-5a2|Badlands Brief]], Nigerian and U.S. forces carried out a joint counterterrorism operation that killed [[abu-bilal-al-manuki|Abu-Bilal Al-Manuki]], also known as Abu-Mainok, with Nigeria's State House announcing on May 16, 2026 that early assessments confirmed Al-Manuki and several lieutenants were killed in a strike on his compound in the Lake Chad Basin. The strike took place in Metele, Borno State, in close coordination with [[africom|U.S. Africa Command]], according to the [[nigerian-army|Nigerian Army]], which reported the operation ran from about 12:01 a.m. to around 4 a.m. with no casualties or asset losses. President [[bola-tinubu|Bola Tinubu]] and President [[donald-trump|Donald Trump]] both confirmed the killing.
+According to the May 18, 2026 Badlands Brief, Nigerian and U.S. forces carried out a joint counterterrorism operation that killed [[abu-bilal-al-manuki|Abu-Bilal Al-Manuki]], also known as Abu-Mainok, with Nigeria's State House announcing on May 16, 2026 that early assessments confirmed Al-Manuki and several lieutenants were killed in a strike on his compound in the Lake Chad Basin. The strike took place in Metele, Borno State, in close coordination with [[africom|U.S. Africa Command]], according to the [[nigerian-army|Nigerian Army]], which reported the operation ran from about 12:01 a.m. to around 4 a.m. with no casualties or asset losses. President [[bola-tinubu|Bola Tinubu]] and President [[donald-trump|Donald Trump]] both confirmed the killing.
 
 ## The 2014 schoolgirl kidnappings
 

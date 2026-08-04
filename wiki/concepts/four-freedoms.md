@@ -10,7 +10,7 @@ contested: false
 ---
 # Four Freedoms
 
-The Four Freedoms are the universal aims articulated by [[franklin-d-roosevelt|Franklin Roosevelt]] in 1941. As enumerated in the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], they are freedom from want, freedom from fear of war, freedom of speech and freedom of conscience.
+The Four Freedoms are the universal aims articulated by [[franklin-d-roosevelt|Franklin Roosevelt]] in 1941. As enumerated in the Badlands Media article A Gateway to a New World of Cooperation, they are freedom from want, freedom from fear of war, freedom of speech and freedom of conscience.
 
 ## Significance in the source
 

@@ -11,7 +11,7 @@ contested: false
 
 # Argentina
 
-Argentina is a South American republic that appears in the [[badlands-brief|Badlands Brief]] corpus principally through its national football team and through the foreign policy of President [[javier-milei|Javier Milei]].
+Argentina is a South American republic that appears in the Badlands Brief corpus principally through its national football team and through the foreign policy of President [[javier-milei|Javier Milei]].
 
 ## 2026 World Cup final
 

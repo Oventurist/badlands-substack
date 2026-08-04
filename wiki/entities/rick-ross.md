@@ -10,7 +10,7 @@ contested: true
 ---
 # Rick Ross
 
-"Freeway" Rick Ross was a Los Angeles drug dealer who appears in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] as the retail face of a drug pipeline the article attributes to the [[cia|CIA]].
+"Freeway" Rick Ross was a Los Angeles drug dealer who appears in the Badlands Media essay A Journey of Ever changing Truths as the retail face of a drug pipeline the article attributes to the [[cia|CIA]].
 
 [[erik-carlson|Erik Carlson]] describes Ross as "an aspiring young tennis player who couldn't even read" who "became fabulously rich selling drugs in LA." The source places him downstream of an agency operation in which the CIA "smuggled drugs in from South and Central America to sell on the South-Central streets of Los Angeles," having traded guns in Central America for those drugs in the first place.
 

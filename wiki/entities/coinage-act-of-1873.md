@@ -23,7 +23,7 @@ The Coinage Act is presented in the article as the high-water mark of the hard-m
 - [[Andrew Jackson]] — identified as a precursor to gold standard advocacy
 - [[Donald Trump]] — identified as a modern advocate for restoring the gold standard
 - [[Federal Reserve]] — the fiat system the Coinage Act is contrasted against
-- [[1913]] — the year the gold standard era is said to have effectively ended
+- 1913 — the year the gold standard era is said to have effectively ended
 - [[Long Depression]] — the period Rothbard defended as a misunderstood recession
 
 ## Sources

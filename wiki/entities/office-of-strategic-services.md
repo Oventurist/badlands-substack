@@ -14,7 +14,7 @@ contested: true
 ---
 # Office of Strategic Services
 
-The Office of Strategic Services (OSS) was the United States' wartime intelligence agency during World War II and the precursor to the [[cia|CIA]], established in 1942 and dissolved in 1945. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the OSS is identified as the origin point of the U.S. practice of collaborating with American labor unions for covert political purposes.
+The Office of Strategic Services (OSS) was the United States' wartime intelligence agency during World War II and the precursor to the [[cia|CIA]], established in 1942 and dissolved in 1945. In the Badlands Media article A More Perfect (Labor) Union, the OSS is identified as the origin point of the U.S. practice of collaborating with American labor unions for covert political purposes.
 
 ## Role in labor operations
 

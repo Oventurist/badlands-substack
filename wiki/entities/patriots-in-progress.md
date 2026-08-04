@@ -10,7 +10,7 @@ contested: false
 ---
 # Patriots in Progress
 
-**Patriots in Progress** ("PiP") is the pen name of a contributing author to [[badlands-media|Badlands Media]] who also publishes independently at the Substack newsletter Patriots in Progress. The byline is attached to the July 24, 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign? — Eschaton or Coincidence?"]], which received 179 likes.
+**Patriots in Progress** ("PiP") is the pen name of a contributing author to [[badlands-media|Badlands Media]] who also publishes independently at the Substack newsletter Patriots in Progress. The byline is attached to the July 24, 2023 feature "Are We Entering the Millennial Reign? — Eschaton or Coincidence?", which received 179 likes.
 
 ## Style and self-description
 

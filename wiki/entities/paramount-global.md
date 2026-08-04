@@ -10,7 +10,7 @@ contested: true
 ---
 # Paramount Global
 
-Paramount Global is the American mass media conglomerate that owns the Paramount film studio, the Paramount+ streaming service, [[cbs|CBS]] and [[showtime|Showtime]]. In the Badlands Media essay [[a-new-hollywood|A New Hollywood]] (February 6, 2025), contributor [[erik-carlson|Erik Carlson]] presents Paramount Global as the pivot of an ownership shift he believes is reorienting American entertainment toward pro-American, anti-woke storytelling.
+Paramount Global is the American mass media conglomerate that owns the Paramount film studio, the Paramount+ streaming service, [[cbs|CBS]] and [[showtime|Showtime]]. In the Badlands Media essay A New Hollywood (February 6, 2025), contributor [[erik-carlson|Erik Carlson]] presents Paramount Global as the pivot of an ownership shift he believes is reorienting American entertainment toward pro-American, anti-woke storytelling.
 
 According to the article, Paramount Global is run by [[shari-redstone|Sheri Redstone]], described as a [[donald-trump|Trump]] ally, who took over the company from her father [[sumner-redstone|Sumner Redstone]] in 2016; Sumner, also described as a Trump ally, died in 2020. The source states that Paramount Global is in the process of merging with [[skydance-media|Skydance Media]], which will eventually control it.
 
@@ -24,7 +24,7 @@ Recent Paramount+ series cited in the source as evidence of a changed editorial 
 
 ## As successor to National Amusements in the Big Six
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] lists National Amusements - identified in the article as "now Paramount Global" - among the six conglomerates that as of 2017 controlled nearly all mainstream broadcast, print, internet, radio and film output, alongside [[time-warner|Time Warner]], [[comcast|Comcast]], [[walt-disney-company|Disney]], [[sony|Sony]] and [[news-corp|NewsCorp]]. The article cites institutional holder data for Paramount (PARA) in support of its claim that the group's apparent competition is undercut by shared ownership among [[blackrock|BlackRock]], [[vanguard-group|Vanguard]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]].
+A Swan Song for the MSM lists National Amusements - identified in the article as "now Paramount Global" - among the six conglomerates that as of 2017 controlled nearly all mainstream broadcast, print, internet, radio and film output, alongside [[time-warner|Time Warner]], [[comcast|Comcast]], [[walt-disney-company|Disney]], [[sony|Sony]] and [[news-corp|NewsCorp]]. The article cites institutional holder data for Paramount (PARA) in support of its claim that the group's apparent competition is undercut by shared ownership among [[blackrock|BlackRock]], [[vanguard-group|Vanguard]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]].
 
 ## Sources
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Sde Teiman
 
-Sde Teiman is an Israeli military detention facility used to hold detainees captured during the war in Gaza. It became internationally known as the site of an alleged sexual assault on a male Palestinian prisoner by [[israel-defense-forces|IDF]] soldiers, a case reported in the March 13, 2026 [[badlands-brief-559|Badlands Brief]].
+Sde Teiman is an Israeli military detention facility used to hold detainees captured during the war in Gaza. It became internationally known as the site of an alleged sexual assault on a male Palestinian prisoner by [[israel-defense-forces|IDF]] soldiers, a case reported in the March 13, 2026 Badlands Brief.
 
 ## The abuse case
 

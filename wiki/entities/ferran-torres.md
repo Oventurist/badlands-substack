@@ -11,7 +11,7 @@ contested: false
 
 # Ferran Torres
 
-Ferran Torres is a Spanish footballer who scored the decisive goal in the final of the [[2026-fifa-world-cup|2026 FIFA World Cup]]. Entering the match as a substitute, he scored in the 106th minute of extra time at [[metlife-stadium|MetLife Stadium]], giving [[spain|Spain]] a 1–0 victory over [[argentina|Argentina]] and the country's second men's world championship. It was the only goal of the match; [[badlands-brief|Badlands Brief]] coverage notes that Spain had two further goals disallowed, one for offside after Torres's strike and one earlier in the scoreless phase following an Argentine player's fall in the box.
+Ferran Torres is a Spanish footballer who scored the decisive goal in the final of the [[2026-fifa-world-cup|2026 FIFA World Cup]]. Entering the match as a substitute, he scored in the 106th minute of extra time at [[metlife-stadium|MetLife Stadium]], giving [[spain|Spain]] a 1–0 victory over [[argentina|Argentina]] and the country's second men's world championship. It was the only goal of the match; Badlands Brief coverage notes that Spain had two further goals disallowed, one for offside after Torres's strike and one earlier in the scoreless phase following an Argentine player's fall in the box.
 
 ## Sources
 

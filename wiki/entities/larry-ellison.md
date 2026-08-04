@@ -10,7 +10,7 @@ contested: true
 ---
 # Larry Ellison
 
-Larry Ellison is the cofounder of the technology company [[oracle|Oracle]] and, in the Badlands Media essay [[a-new-hollywood|A New Hollywood]], is described as "a well-known and very wealthy [[donald-trump|Trump]] ally and financial supporter." His son [[david-ellison|David Ellison]] runs [[skydance-media|Skydance Media]], the production company merging with [[paramount-global|Paramount Global]] — a chain of ownership the article treats as central to a pro-Trump realignment of Hollywood.
+Larry Ellison is the cofounder of the technology company [[oracle|Oracle]] and, in the Badlands Media essay A New Hollywood, is described as "a well-known and very wealthy [[donald-trump|Trump]] ally and financial supporter." His son [[david-ellison|David Ellison]] runs [[skydance-media|Skydance Media]], the production company merging with [[paramount-global|Paramount Global]] — a chain of ownership the article treats as central to a pro-Trump realignment of Hollywood.
 
 The source notes that Ellison is simultaneously in the news through Project Stargate, Trump's plan for the United States to invest $500 billion in AI infrastructure in partnership with Oracle, OpenAI and SoftBank, and that Trump suggested either [[elon-musk|Elon Musk]] or Ellison buy [[tiktok|TikTok]]. Carlson concludes that "Ellison is a big part of Trump's plan going forward."
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Inter-Services Intelligence
 
-The Inter-Services Intelligence (ISI) is [[pakistan]]'s principal intelligence agency, described in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as "Pakistan's CIA." The article states that "it's an open secret that they are kept on a tight leash by the US, and that they run Pakistan."
+The Inter-Services Intelligence (ISI) is [[pakistan]]'s principal intelligence agency, described in the Badlands Media essay "And Iran, Iran So Far Away" as "Pakistan's CIA." The article states that "it's an open secret that they are kept on a tight leash by the US, and that they run Pakistan."
 
 ## Role in the removal of Imran Khan
 

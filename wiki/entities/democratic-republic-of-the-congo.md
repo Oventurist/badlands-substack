@@ -11,7 +11,7 @@ contested: false
 
 # Democratic Republic of the Congo
 
-The Democratic Republic of the Congo (DRC) is a central African state whose eastern mineral provinces are the site of one of the three major African conflicts tracked by the Badlands corpus. It appears in the [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] in connection with the United States–DRC minerals partnership, the [[m23-movement|M23]] insurgency, and the reported death of former president [[joseph-kabila|Joseph Kabila]].
+The Democratic Republic of the Congo (DRC) is a central African state whose eastern mineral provinces are the site of one of the three major African conflicts tracked by the Badlands corpus. It appears in the January 30, 2026 Badlands Brief in connection with the United States–DRC minerals partnership, the [[m23-movement|M23]] insurgency, and the reported death of former president [[joseph-kabila|Joseph Kabila]].
 
 ## US–DRC minerals partnership
 

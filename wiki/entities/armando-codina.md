@@ -13,7 +13,7 @@ contested: true
 ---
 # Armando Codina
 
-Armando Codina is a Coral Gables Cuban-American real estate investor identified in the Badlands Media article [[a-family-affair]] as one of [[george-hw-bush]]'s earliest financial supporters and as the business partner who gave [[jeb-bush]] his start in Florida real estate without requiring any capital contribution.
+Armando Codina is a Coral Gables Cuban-American real estate investor identified in the Badlands Media article a family affair as one of [[george-hw-bush]]'s earliest financial supporters and as the business partner who gave [[jeb-bush]] his start in Florida real estate without requiring any capital contribution.
 
 ## Partnership with Jeb Bush
 

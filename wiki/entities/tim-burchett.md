@@ -15,7 +15,7 @@ Tim Burchett is a Republican member of the United States House of Representative
 
 ## Remarks on Israeli influence
 
-The May 20, 2026 [[badlands-brief-311|Badlands Brief]] reports that Burchett appeared on the Daily Herold program the previous day and told host Jon that he thinks claims that [[israel|Israel]] disproportionately influences Congress are exaggerated — a position he maintained even after the host raised concerns about the [[lankford-rosen-antisemitism-bill|Lankford–Rosen antisemitism bill]] and its implications for the [[first-amendment|First Amendment]]. Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cited the exchange as evidence that "nobody is coming to save you... from the Republican Party, anyway," arguing that even self-described based Republicans would not resist the [[israel-lobby|Israel lobby]].
+The May 20, 2026 Badlands Brief reports that Burchett appeared on the Daily Herold program the previous day and told host Jon that he thinks claims that [[israel|Israel]] disproportionately influences Congress are exaggerated — a position he maintained even after the host raised concerns about the [[lankford-rosen-antisemitism-bill|Lankford–Rosen antisemitism bill]] and its implications for the [[first-amendment|First Amendment]]. Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cited the exchange as evidence that "nobody is coming to save you... from the Republican Party, anyway," arguing that even self-described based Republicans would not resist the [[israel-lobby|Israel lobby]].
 
 ## Sources
 

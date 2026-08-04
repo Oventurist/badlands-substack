@@ -13,7 +13,7 @@ contested: false
 
 Xinhua is the official state news agency of the People's Republic of [[china|China]].
 
-In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], Xinhua appears alongside China's Ministry of Transport as the channel through which Beijing announced a "special maritime law enforcement operation" east of [[taiwan|Taiwan]], described by Chinese authorities as an exercise of maritime administrative law-enforcement jurisdiction intended to protect national rights and interests.
+In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, Xinhua appears alongside China's Ministry of Transport as the channel through which Beijing announced a "special maritime law enforcement operation" east of [[taiwan|Taiwan]], described by Chinese authorities as an exercise of maritime administrative law-enforcement jurisdiction intended to protect national rights and interests.
 
 ## Sources
 

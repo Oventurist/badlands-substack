@@ -14,7 +14,7 @@ LifeLog was a research program of the Information Processing Techniques Office o
 
 ## Program description
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] quotes Wikipedia's description of the program at length. LifeLog "aimed to compile a massive electronic database of every activity and relationship a person engages in." The intended scope included credit card purchases, websites visited, the content of telephone calls and emails sent and received, scans of faxes and postal mail sent and received, instant messages, books and magazines read, television and radio selections, physical location recorded through wearable GPS sensors, and biomedical data captured through wearable sensors. The stated high-level goal of this logging was to identify "preferences, plans, goals, and other markers of intentionality."
+Erik Carlson's America Has a CIA Run Economy quotes Wikipedia's description of the program at length. LifeLog "aimed to compile a massive electronic database of every activity and relationship a person engages in." The intended scope included credit card purchases, websites visited, the content of telephone calls and emails sent and received, scans of faxes and postal mail sent and received, instant messages, books and magazines read, television and radio selections, physical location recorded through wearable GPS sensors, and biomedical data captured through wearable sensors. The stated high-level goal of this logging was to identify "preferences, plans, goals, and other markers of intentionality."
 
 A second objective was predictive. The program sought to "find meaningful patterns in the timeline, to infer the user's routines, habits, and relationships with other people, organizations, places, and objects, and to exploit these patterns to ease its task."
 
@@ -26,7 +26,7 @@ The program was cancelled on February 4, 2004 following criticism of its privacy
 
 - [[darpa]]
 - [[meta-platforms]]
-- [[america-has-a-cia-run-economy]]
+- america has a cia run economy
 
 ## Sources
 

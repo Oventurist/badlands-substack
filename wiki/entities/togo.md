@@ -15,7 +15,7 @@ Togo is a West African state neighbouring [[burkina-faso|Burkina Faso]]. It ente
 
 ## Damiba arrest
 
-The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] reports that Damiba was detained in Togo amid junta allegations of links to a coup and assassination plot against Captain [[ibrahim-traore|Ibrahim Traoré]]. Togo's justice ministry issued a statement enumerating the charges brought by Burkina Faso's military government: "criminal embezzlement of public funds, illicit enrichment, corruption, aggravated receiving of stolen goods and money laundering."
+The January 30, 2026 Badlands Brief reports that Damiba was detained in Togo amid junta allegations of links to a coup and assassination plot against Captain [[ibrahim-traore|Ibrahim Traoré]]. Togo's justice ministry issued a statement enumerating the charges brought by Burkina Faso's military government: "criminal embezzlement of public funds, illicit enrichment, corruption, aggravated receiving of stolen goods and money laundering."
 
 ## Sources
 

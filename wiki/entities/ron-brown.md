@@ -14,7 +14,7 @@ Ronald H. Brown (1941–1996) was United States Secretary of Commerce under [[bi
 
 ## In the Badlands corpus
 
-The article [[america-for-sale-part-1|America for Sale - Part 1]] treats Brown as the central figure of the Clinton administration's alleged sale of American assets and secrets. It states he received the Commerce appointment because he had been a major fundraiser for Clinton's first presidential campaign, and describes him as the "liaison between China and the Clinton administration."
+The article America for Sale   Part 1 treats Brown as the central figure of the Clinton administration's alleged sale of American assets and secrets. It states he received the Commerce appointment because he had been a major fundraiser for Clinton's first presidential campaign, and describes him as the "liaison between China and the Clinton administration."
 
 ### Investigation and independent counsel
 

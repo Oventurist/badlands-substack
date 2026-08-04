@@ -10,7 +10,7 @@ contested: true
 ---
 # Mark of the Beast
 
-The Mark of the Beast is the mark described in Revelation 13 as being imposed on the forehead or hand and required for participation in commerce. In the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] it is treated as the defining action of [[the-beast|the Beast]] and is examined for candidate real-world fulfilments.
+The Mark of the Beast is the mark described in Revelation 13 as being imposed on the forehead or hand and required for participation in commerce. In the Badlands Media feature "Are We Entering the Millennial Reign?" it is treated as the defining action of [[the-beast|the Beast]] and is examined for candidate real-world fulfilments.
 
 ## What makes it unique
 

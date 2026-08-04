@@ -10,7 +10,7 @@ contested: true
 ---
 # Oleg Deripaska
 
-Oleg Deripaska is a Russian industrialist who built a fortune in the aluminium sector following the privatizations of the 1990s. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is listed among the "contemporary modern oligarchs" produced by post-Soviet liberalization.
+Oleg Deripaska is a Russian industrialist who built a fortune in the aluminium sector following the privatizations of the 1990s. In the Badlands Media essay A Re Alignment of World Systems, he is listed among the "contemporary modern oligarchs" produced by post-Soviet liberalization.
 
 ## Role in the source
 

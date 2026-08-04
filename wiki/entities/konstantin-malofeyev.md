@@ -13,7 +13,7 @@ contested: false
 
 Konstantin Malofeyev is a Russian financier and media proprietor described in press coverage as a leading Russian nationalist.
 
-[[badlands-brief-174|Badlands Brief: Conflicts, Cartels, & Clemency]], citing [[reuters|Reuters]], identifies Malofeyev — along with the war blogger Boris Rozhin — as among the "Russian hardliners" who reacted strongly to the United States joining [[israel|Israel]] in strikes on [[iran|Iran]] in March 2026. According to the Brief, some of these figures had previously viewed President [[donald-trump|Donald Trump]] favorably but afterwards described him as a threat, urging the [[kremlin|Kremlin]] to abandon US-mediated Ukraine peace talks and escalate militarily.
+Badlands Brief: Conflicts, Cartels, & Clemency, citing [[reuters|Reuters]], identifies Malofeyev — along with the war blogger Boris Rozhin — as among the "Russian hardliners" who reacted strongly to the United States joining [[israel|Israel]] in strikes on [[iran|Iran]] in March 2026. According to the Brief, some of these figures had previously viewed President [[donald-trump|Donald Trump]] favorably but afterwards described him as a threat, urging the [[kremlin|Kremlin]] to abandon US-mediated Ukraine peace talks and escalate militarily.
 
 ## Sources
 

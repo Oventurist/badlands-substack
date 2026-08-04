@@ -10,7 +10,7 @@ contested: true
 ---
 # Michael Chomiak
 
-Michael Chomiak was a Ukrainian émigré to Canada and the maternal grandfather of [[chrystia-freeland|Chrystia Freeland]]. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] describes him as a Nazi propagandist and treats his career as formative for the political network from which Freeland emerged.
+Michael Chomiak was a Ukrainian émigré to Canada and the maternal grandfather of [[chrystia-freeland|Chrystia Freeland]]. In the Badlands Media essay A Re Alignment of World Systems, [[matthew-ehret|Matthew Ehret]] describes him as a Nazi propagandist and treats his career as formative for the political network from which Freeland emerged.
 
 ## Account in the source
 

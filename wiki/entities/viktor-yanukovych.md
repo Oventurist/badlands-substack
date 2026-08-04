@@ -10,7 +10,7 @@ contested: true
 ---
 # Viktor Yanukovych
 
-Viktor Yanukovych is a Ukrainian politician who served as President of Ukraine from 2010 until his removal in February 2014. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], his fall is used to illustrate the distinction [[matthew-ehret|Matthew Ehret]] draws between "good" and "bad" plutocrats in the worldview he attributes to [[chrystia-freeland|Chrystia Freeland]].
+Viktor Yanukovych is a Ukrainian politician who served as President of Ukraine from 2010 until his removal in February 2014. In the Badlands Media essay A Re Alignment of World Systems, his fall is used to illustrate the distinction [[matthew-ehret|Matthew Ehret]] draws between "good" and "bad" plutocrats in the worldview he attributes to [[chrystia-freeland|Chrystia Freeland]].
 
 ## Role in the source
 

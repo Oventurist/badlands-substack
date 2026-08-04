@@ -15,7 +15,7 @@ contested: true
 
 ## Rubio's repudiation at Munich
 
-The February 17, 2026 [[badlands-brief-0a2|Badlands Brief]] reports that Secretary of State [[marco-rubio|Marco Rubio]] made the phrase the organizing target of his address to the [[munich-security-conference|Munich Security Conference]], arguing that it named not an insight but a delusion.
+The February 17, 2026 Badlands Brief reports that Secretary of State [[marco-rubio|Marco Rubio]] made the phrase the organizing target of his address to the [[munich-security-conference|Munich Security Conference]], arguing that it named not an insight but a delusion.
 
 In the passage quoted by the Brief, Rubio traced the arc from the conference's 1963 founding — amid a divided Germany, a two-year-old Berlin Wall, and the recent memory of the Cuban Missile Crisis — through the fall of that wall and the reunification of East and West. He then argued that "the euphoria of this triumph led us to a dangerous delusion: that we had entered, quote, 'the end of history;' that every nation would now be a liberal democracy; that the ties formed by trade and by commerce alone would now replace nationhood; that the [[rules-based-international-order|rules-based global order]] – an overused term – would now replace the national interest; and that we would now live in a world without borders where everyone became a citizen of the world."
 

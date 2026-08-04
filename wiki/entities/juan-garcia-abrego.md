@@ -13,7 +13,7 @@ contested: true
 ---
 # Juan García Abrego
 
-Juan García Abrego is the former leader of the [[gulf-cartel]], identified in the Badlands Media article [[a-family-affair]] as the trafficker who transformed the cartel from smugglers into cocaine suppliers and who partnered with the [[cali-cartel]] to restructure Mexican trafficking operations.
+Juan García Abrego is the former leader of the [[gulf-cartel]], identified in the Badlands Media article a family affair as the trafficker who transformed the cartel from smugglers into cocaine suppliers and who partnered with the [[cali-cartel]] to restructure Mexican trafficking operations.
 
 ## Transformation of the Gulf Cartel
 

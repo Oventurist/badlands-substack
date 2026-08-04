@@ -10,7 +10,7 @@ contested: true
 ---
 # UrAsia Energy
 
-UrAsia Energy Ltd. was a Canadian uranium mining company founded by the financier [[frank-giustra|Frank Giustra]]. It is described in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] as the vehicle through which the [[uranium-one|Uranium One]] affair began.
+UrAsia Energy Ltd. was a Canadian uranium mining company founded by the financier [[frank-giustra|Frank Giustra]]. It is described in the Badlands Media essay America for Sale — Part 3 as the vehicle through which the [[uranium-one|Uranium One]] affair began.
 
 According to New York Times reporting quoted in the article, within days of Giustra's September 2005 visit to Almaty, [[kazakhstan|Kazakhstan]] — undertaken aboard his private jet in the company of [[bill-clinton|Bill Clinton]], and including a dinner with president Nursultan Nazarbayev — "Mr. Giustra's fledgling company, UrAsia Energy Ltd., signed a preliminary deal giving it stakes in three uranium mines controlled by the state-run uranium agency Kazatomprom." The Badlands author characterises the arrangement as a sweetheart deal obtained for a kickback, and notes it transformed a small firm into a major player in the uranium industry.
 

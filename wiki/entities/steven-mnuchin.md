@@ -10,7 +10,7 @@ contested: false
 ---
 # Steven Mnuchin
 
-Steven Mnuchin served as Secretary of the [[treasury-department|Treasury]] throughout the administration of [[donald-trump|Donald Trump]]. He appears in the Badlands Media corpus in [[joe-lange|Joe Lange]]'s article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] not as an advocate but as the recipient of the internal advocacy that the article treats as proof of a Trump-era digital currency initiative.
+Steven Mnuchin served as Secretary of the [[treasury-department|Treasury]] throughout the administration of [[donald-trump|Donald Trump]]. He appears in the Badlands Media corpus in [[joe-lange|Joe Lange]]'s article "Are CBDCs The Path To Fear, or Freedom?" not as an advocate but as the recipient of the internal advocacy that the article treats as proof of a Trump-era digital currency initiative.
 
 The documentary basis is what CNBC reported in January 2022 as a 250-page release of Mnuchin's crypto-related email correspondence from his four years at Treasury, obtained by CoinDesk through a Freedom of Information Act request and circulated as "The Mnuchin Files." The correspondence shows [[jared-kushner]] pressing in 2019 for a Fed-issued digital dollar, asking Mnuchin whether he would be open to a small brainstorming group and suggesting the idea "could ultimately change the way we pay out entitlements as well saving us a ton in waste fraud and also in transaction costs."
 

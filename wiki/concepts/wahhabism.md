@@ -10,7 +10,7 @@ contested: true
 ---
 # Wahhabism
 
-Wahhabism is the name given by the outside world to the orthodox interpretation of Islam developed in eighteenth-century Arabia by [[muhammad-ibn-abd-al-wahhab]]. The Badlands Media essay [[arabian-nights]] stresses that al-Wahhab and his followers never adopted a distinguishing moniker for their ideology, and that the label is an external one.
+Wahhabism is the name given by the outside world to the orthodox interpretation of Islam developed in eighteenth-century Arabia by [[muhammad-ibn-abd-al-wahhab]]. The Badlands Media essay arabian nights stresses that al-Wahhab and his followers never adopted a distinguishing moniker for their ideology, and that the label is an external one.
 
 ## Content
 

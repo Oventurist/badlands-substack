@@ -10,7 +10,7 @@ contested: true
 ---
 # United Auto Workers
 
-The United Auto Workers (UAW) is the principal American labor union representing workers in the automobile manufacturing industry. In the Badlands Media corpus it appears chiefly through the essay [[a-time-to-strike|A Time to Strike]] (October 11, 2023) by [[ashe-in-america|Ashe in America]], which treats the union's 2023 walkout against the Detroit automakers as one of the two defining labor actions of that year alongside the [[writers-guild-of-america|Writers Guild of America]] strike.
+The United Auto Workers (UAW) is the principal American labor union representing workers in the automobile manufacturing industry. In the Badlands Media corpus it appears chiefly through the essay A Time to Strike (October 11, 2023) by [[ashe-in-america|Ashe in America]], which treats the union's 2023 walkout against the Detroit automakers as one of the two defining labor actions of that year alongside the [[writers-guild-of-america|Writers Guild of America]] strike.
 
 ## The 2023 strike
 
@@ -22,7 +22,7 @@ Quoting PBS, the article enumerates the union's demands: a 46-percent pay increa
 
 A central irony identified by the source is that automakers continued to cut jobs while the strike was under way. One trigger for the auto and steel walkouts was described as the widespread and ongoing reductions in force in the sector; as the strike continued, another round of layoffs was announced on Monday, October 9, 2023, touching Sodecia Automotive, General Motors and Ford. The article asserts that as much as 62% of some manufacturing workforces had been eliminated in the middle of a strike in which the UAW was demanding a four-day work week — evidence, in the author's framing, that it now takes fewer people to deliver the same products, and that the union's bargaining position rests on a talent model that no longer exists.
 
-The essay quotes [[donald-trump|Donald Trump]]'s statement that "The auto industry is being assassinated," and endorses the claim on the grounds that optimization policies automated manufacturing processes while global sourcing moved surviving jobs offshore. The longer-term threat to autoworkers is located in [[automation|automation]], robotics and [[artificial-intelligence|artificial intelligence]] investments described in [[mckinsey-and-company|McKinsey & Company]]'s [[future-of-work|future of work]] research.
+The essay quotes [[donald-trump|Donald Trump]]'s statement that "The auto industry is being assassinated," and endorses the claim on the grounds that optimization policies automated manufacturing processes while global sourcing moved surviving jobs offshore. The longer-term threat to autoworkers is located in [[automation|automation]], robotics and artificial intelligence investments described in [[mckinsey-and-company|McKinsey & Company]]'s [[future-of-work|future of work]] research.
 
 ## Sources
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # New World Order
 
-The New World Order (NWO) is the term used across the Badlands Media corpus for a projected system of unified world government in which national sovereignty, traditional social structures and individual rights are subordinated to a single supranational authority. It is the organising object of the essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]].
+The New World Order (NWO) is the term used across the Badlands Media corpus for a projected system of unified world government in which national sovereignty, traditional social structures and individual rights are subordinated to a single supranational authority. It is the organising object of the essay AI Can Help Us Expose the NWO.
 
 As presented in [[toronto-protocols|the Toronto Protocols]], the construction of a World Government requires that "all individuals without exception, will be subject to the 'World State' of the 'New Order'." Two preconditions are named: the removal of the family, which is expected to bring with it the loss of ancestral religious teachings, and the levelling of individuals through the elimination of social classes, particularly the middle class. The document insists that these changes must appear to arise from the popular will and retain "the appearance of 'Democracy'."
 

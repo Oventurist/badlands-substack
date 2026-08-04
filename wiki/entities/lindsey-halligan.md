@@ -15,7 +15,7 @@ Lindsey Halligan served as US Attorney in Virginia under the administration of [
 
 ## Consequences of her dismissal
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that Halligan's dismissal led to the invalidation of indictments against both New York Attorney General [[letitia-james|Letitia James]] and former FBI Director [[james-comey|James Comey]]. Attempts to re-indict James in Virginia have since failed.
+The January 9, 2026 Badlands Brief reports that Halligan's dismissal led to the invalidation of indictments against both New York Attorney General [[letitia-james|Letitia James]] and former FBI Director [[james-comey|James Comey]]. Attempts to re-indict James in Virginia have since failed.
 
 Her removal is grouped in the Brief with a series of decisions in New Jersey, Delaware, Nevada, Los Angeles and, most recently, the disqualification of [[john-sarcone|John Sarcone III]] in New York — all rejecting efforts to install US attorneys without [[senate|Senate]] confirmation.
 

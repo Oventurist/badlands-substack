@@ -10,7 +10,7 @@ contested: true
 ---
 # Anatoly Chubais
 
-Anatoly Chubais is a Russian politician and economist who directed the privatization of state assets in Russia during the 1990s. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] names him as one of the monetarist "reformers" who compressed into a single decade a liberalization process that had taken thirty years in the West.
+Anatoly Chubais is a Russian politician and economist who directed the privatization of state assets in Russia during the 1990s. In the Badlands Media essay A Re Alignment of World Systems, [[matthew-ehret|Matthew Ehret]] names him as one of the monetarist "reformers" who compressed into a single decade a liberalization process that had taken thirty years in the West.
 
 ## Role in the source
 

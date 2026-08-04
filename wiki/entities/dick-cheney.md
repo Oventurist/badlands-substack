@@ -14,7 +14,7 @@ Dick Cheney is a former United States Vice President and, in the Badlands corpus
 
 ## In the corpus
 
-[[assad-day-in-damascus]] lists Cheney among the "esteemed individuals" who populated PNAC after its founding in 1997 by [[william-kristol]] and [[robert-kagan]], alongside [[paul-wolfowitz]], [[john-bolton]] and [[donald-rumsfeld]]. The article emphasizes that fourteen of PNAC's twenty-five original signatories received positions in the administration of George W. Bush — Cheney being the most senior among them.
+assad day in damascus lists Cheney among the "esteemed individuals" who populated PNAC after its founding in 1997 by [[william-kristol]] and [[robert-kagan]], alongside [[paul-wolfowitz]], [[john-bolton]] and [[donald-rumsfeld]]. The article emphasizes that fourteen of PNAC's twenty-five original signatories received positions in the administration of George W. Bush — Cheney being the most senior among them.
 
 His inclusion supports the article's central historical claim: that the neoconservative faction had targeted [[syria]], Iraq, Iran and Libya since at least the 1990s, an agenda expressed in [[rebuilding-americas-defenses|Rebuilding America's Defenses]] and echoed in the [[pentagon|Pentagon]] memo described by General [[wesley-clark]].
 

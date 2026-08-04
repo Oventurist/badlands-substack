@@ -10,7 +10,7 @@ contested: true
 ---
 # Agreed Framework
 
-The Agreed Framework was the nuclear accord announced by President [[bill-clinton|Bill Clinton]] on October 18, 1994 between the United States and [[north-korea|North Korea]]. It is treated in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] as the founding transaction in a decades-long pattern of using nuclear diplomacy as cover for commodity deals.
+The Agreed Framework was the nuclear accord announced by President [[bill-clinton|Bill Clinton]] on October 18, 1994 between the United States and [[north-korea|North Korea]]. It is treated in the Badlands Media essay America for Sale — Part 3 as the founding transaction in a decades-long pattern of using nuclear diplomacy as cover for commodity deals.
 
 Quoting the History Channel, the article recalls Clinton's announcement — "This agreement is good for the United States, good for our allies, and good for the safety of the entire world" — and describes the deal as designed "to put the brakes on North Korea's nuclear program" and end years of rising tension, including a near war.
 

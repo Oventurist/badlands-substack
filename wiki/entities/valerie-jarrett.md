@@ -22,7 +22,7 @@ The article does not provide specific details about Jarrett's policy roles, but 
 
 ## "VJ_HA" in America for Sale - Part 1
 
-The December 2024 essay [[america-for-sale-part-1|America for Sale - Part 1]] reads the bracketed notation "[INFILTRATION not invasion][VJ _HA]" in Q drop #4750 (September 23, 2020) as standing for "Valerie Jarrett_[[huma-abedin|Huma Abedin]]." On this reading, Jarrett and Abedin were "both connected to [[prince-alwaleed|Alwaleed]]," with Jarrett serving as [[barack-obama|Obama]]'s "handler" and Abedin as [[hillary-clinton|Hillary Clinton]]'s — an arrangement the author calls "coordinated infiltration" and places within the [[muslim-brotherhood|Muslim Brotherhood]]'s [[civilization-stealth-jihad|civilization/stealth jihad]] strategy.
+The December 2024 essay America for Sale   Part 1 reads the bracketed notation "[INFILTRATION not invasion][VJ _HA]" in Q drop #4750 (September 23, 2020) as standing for "Valerie Jarrett_[[huma-abedin|Huma Abedin]]." On this reading, Jarrett and Abedin were "both connected to [[prince-alwaleed|Alwaleed]]," with Jarrett serving as [[barack-obama|Obama]]'s "handler" and Abedin as [[hillary-clinton|Hillary Clinton]]'s — an arrangement the author calls "coordinated infiltration" and places within the [[muslim-brotherhood|Muslim Brotherhood]]'s [[civilization-stealth-jihad|civilization/stealth jihad]] strategy.
 
 ## Sources
 

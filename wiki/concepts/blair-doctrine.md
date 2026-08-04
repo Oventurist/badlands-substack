@@ -10,7 +10,7 @@ contested: true
 ---
 # Blair Doctrine
 
-The Blair doctrine refers to the doctrine of international community articulated by British Prime Minister Tony Blair at the end of the 1990s, which justified military intervention across state borders on humanitarian grounds. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], it is described as the opening of a new phase of de-nationalization.
+The Blair doctrine refers to the doctrine of international community articulated by British Prime Minister Tony Blair at the end of the 1990s, which justified military intervention across state borders on humanitarian grounds. In the Badlands Media essay A Re Alignment of World Systems, it is described as the opening of a new phase of de-nationalization.
 
 ## Role in the source
 

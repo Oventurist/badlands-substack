@@ -10,7 +10,7 @@ contested: false
 ---
 # Ottoman Empire
 
-The Ottoman Empire appears in the Badlands Media essay [[arabian-nights]] as the imperial power that held the Arabian holy lands from the sixteenth century until the First World War.
+The Ottoman Empire appears in the Badlands Media essay arabian nights as the imperial power that held the Arabian holy lands from the sixteenth century until the First World War.
 
 The source records that the [[banu-hashim|Hashemite]] kingdom of Hejaz had been under Ottoman control since the sixteenth century. It was against this position that Abdullah, the son and successor of [[mohammed-bin-saud]], moved in 1814. The attempt failed: Abdullah and his kinsmen were captured, taken to Istanbul and publicly beheaded, and Abdullah's head was thrown into the waters of the Bosphorus — an event the article treats as the end of the [[emirate-of-diriyah]], the First State of Saud.
 

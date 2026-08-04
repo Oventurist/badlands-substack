@@ -10,7 +10,7 @@ contested: false
 ---
 # Citizen Journalism
 
-Citizen journalism is the practice of ordinary members of the public "playing an active role in the process of collecting, reporting, analyzing, and disseminating news and information," outside the institutional structures of the professional press. It is the organizing identity of [[badlands-media|Badlands Media]] and the central subject of [[a-swan-song-for-the-msm|A Swan Song for the MSM]], the February 2024 essay by [[ryan-delarme|Ryan DeLarme]].
+Citizen journalism is the practice of ordinary members of the public "playing an active role in the process of collecting, reporting, analyzing, and disseminating news and information," outside the institutional structures of the professional press. It is the organizing identity of [[badlands-media|Badlands Media]] and the central subject of A Swan Song for the MSM, the February 2024 essay by [[ryan-delarme|Ryan DeLarme]].
 
 ## Definition
 

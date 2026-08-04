@@ -10,7 +10,7 @@ contested: true
 ---
 # Islamabad Agreement
 
-The "Islamabad agreement" is the name reported for a draft memorandum of understanding between the United States and [[iran|Iran]] described in June 2026 reporting by Axios and summarised in [[badlands-brief-029|the June 12, 2026 Badlands Brief]].
+The "Islamabad agreement" is the name reported for a draft memorandum of understanding between the United States and [[iran|Iran]] described in June 2026 reporting by Axios and summarised in the June 12, 2026 Badlands Brief.
 
 According to the reported framework, the accord would reopen the [[strait-of-hormuz|Strait of Hormuz]] without tolls and provide sanctions relief tied to Iranian compliance, while extending a ceasefire for 60 days — including in Lebanon — during negotiations over Iran's nuclear programme. Iran would commit not to acquire a nuclear weapon and would work toward resolving disputes over its enriched uranium stockpile; one option under discussion was down-blending highly enriched uranium inside Iran under United Nations supervision, though any nuclear-programme measures would require a subsequent and more detailed agreement.
 

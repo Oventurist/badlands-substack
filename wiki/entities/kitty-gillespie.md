@@ -10,7 +10,7 @@ contested: false
 ---
 # Kitty Gillespie
 
-Kitty Gillespie is an Arizona-based writer and contributor to [[badlands-media|Badlands Media]] who also publishes independently at Kitty's Newsletter on Substack. She is the author of the November 22, 2022 article [[an-sos-from-ground-zero|An SOS From Ground Zero]], a first-person account of the disputed administration of the 2022 general election in [[maricopa-county|Maricopa County]].
+Kitty Gillespie is an Arizona-based writer and contributor to [[badlands-media|Badlands Media]] who also publishes independently at Kitty's Newsletter on Substack. She is the author of the November 22, 2022 article An SOS From Ground Zero, a first-person account of the disputed administration of the 2022 general election in [[maricopa-county|Maricopa County]].
 
 ## Background
 
@@ -24,7 +24,7 @@ Her stance is openly partisan and sympathetic to [[kari-lake|Kari Lake]], and sh
 
 ## "Arizona Earthquake!" (December 2022)
 
-Gillespie wrote [[arizona-earthquake|"Arizona Earthquake!"]], published by [[badlands-media|Badlands Media]] on December 12, 2022, a survey of the post-certification election lawsuits filed by Arizona Republican candidates after the [[2022-united-states-midterm-elections|2022 midterm elections]]. The piece reproduces [[liz-harrington|Liz Harrington]]'s summary of [[kari-lake|Kari Lake]]'s 70-page contest, covers the recount in the [[abe-hamadeh|Abe Hamadeh]]–[[kris-mayes|Kris Mayes]] attorney general race and the [[mark-finchem|Mark Finchem]]–[[jeff-zink|Jeff Zink]] suit, and remarks on the apparent silence of [[blake-masters|Blake Masters]]. It closes with her prediction that the case will be rejected by Arizona's courts and eventually decided by the [[supreme-court-of-the-united-states|Supreme Court]].
+Gillespie wrote "Arizona Earthquake!", published by [[badlands-media|Badlands Media]] on December 12, 2022, a survey of the post-certification election lawsuits filed by Arizona Republican candidates after the [[2022-united-states-midterm-elections|2022 midterm elections]]. The piece reproduces [[liz-harrington|Liz Harrington]]'s summary of [[kari-lake|Kari Lake]]'s 70-page contest, covers the recount in the [[abe-hamadeh|Abe Hamadeh]]–[[kris-mayes|Kris Mayes]] attorney general race and the [[mark-finchem|Mark Finchem]]–[[jeff-zink|Jeff Zink]] suit, and remarks on the apparent silence of [[blake-masters|Blake Masters]]. It closes with her prediction that the case will be rejected by Arizona's courts and eventually decided by the [[supreme-court-of-the-united-states|Supreme Court]].
 
 ## Sources
 

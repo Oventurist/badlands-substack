@@ -10,7 +10,7 @@ contested: true
 ---
 # UBS
 
-UBS AG is Switzerland's largest bank, headquartered in Zurich. It appears in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as the central example of a corporation that, in the author's reading, purchased favorable treatment from [[hillary-clinton|Hillary Clinton]]'s [[state-department|State Department]] through payments to the Clintons and the [[clinton-foundation|Clinton Foundation]].
+UBS AG is Switzerland's largest bank, headquartered in Zurich. It appears in the Badlands Media essay America for Sale — Part 2 as the central example of a corporation that, in the author's reading, purchased favorable treatment from [[hillary-clinton|Hillary Clinton]]'s [[state-department|State Department]] through payments to the Clintons and the [[clinton-foundation|Clinton Foundation]].
 
 ## The tax evasion case
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # European Union
 
-The European Union is the supranational political and economic union of European states. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the EU is treated as one of the principal institutional instruments of the post-Soviet unipolar order.
+The European Union is the supranational political and economic union of European states. In the Badlands Media essay A Re Alignment of World Systems, the EU is treated as one of the principal institutional instruments of the post-Soviet unipolar order.
 
 ## Role in the source
 

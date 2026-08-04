@@ -14,7 +14,7 @@ A Memorandum of Notification is the instrument by which a United States presiden
 
 ## Contents as described in the corpus
 
-[[a-dereliction-of-duty|A Dereliction of Duty]], citing the Daily Mail's coverage of the Showtime documentary *The Longest War*, reports that former CIA officers said they were prevented from killing Bin Laden in the build-up to the September 11, 2001 attacks because the memorandum forbade deadly action. Then-CIA station chief in Islamabad [[bob-grenier|Bob Grenier]] is quoted describing a "lethal finding" signed by Clinton under which "we could engage in 'lethal activity' against bin Laden, but the purpose of our attack against bin Laden couldn't be to kill him." The documentary states that the agency could have assassinated the head of [[al-qaeda|Al Qaeda]] before September 11, when it had him cornered, but that its hands were tied.
+A Dereliction of Duty, citing the Daily Mail's coverage of the Showtime documentary *The Longest War*, reports that former CIA officers said they were prevented from killing Bin Laden in the build-up to the September 11, 2001 attacks because the memorandum forbade deadly action. Then-CIA station chief in Islamabad [[bob-grenier|Bob Grenier]] is quoted describing a "lethal finding" signed by Clinton under which "we could engage in 'lethal activity' against bin Laden, but the purpose of our attack against bin Laden couldn't be to kill him." The documentary states that the agency could have assassinated the head of [[al-qaeda|Al Qaeda]] before September 11, when it had him cornered, but that its hands were tied.
 
 ## Interpretation in the corpus
 

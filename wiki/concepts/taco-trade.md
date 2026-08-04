@@ -14,7 +14,7 @@ contested: true
 
 ## Badlands treatment
 
-[[badlands-media|Badlands Media]] rejects the characterization. [[badlands-blitz-episode-14|Badlands Blitz Episode 14]], published April 25, 2026, devotes a segment to "what the 'TACO Tuesday' crowd gets wrong about Donald Trump," with hosts [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] arguing that observers who read Trump's reversals as capitulation misunderstand a deliberate negotiating method in which escalation and withdrawal are both instruments. The announcement does not spell out the argument in detail, presenting it instead as one of the week's items in a broader accountability and [[information-war|information-war]] framing.
+[[badlands-media|Badlands Media]] rejects the characterization. Badlands Blitz Episode 14, published April 25, 2026, devotes a segment to "what the 'TACO Tuesday' crowd gets wrong about Donald Trump," with hosts [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] arguing that observers who read Trump's reversals as capitulation misunderstand a deliberate negotiating method in which escalation and withdrawal are both instruments. The announcement does not spell out the argument in detail, presenting it instead as one of the week's items in a broader accountability and [[information-war|information-war]] framing.
 
 ## Sources
 

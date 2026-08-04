@@ -10,7 +10,7 @@ contested: false
 ---
 # Nimrod
 
-Nimrod is the ancient Babylonian king who, according to the Badlands Media essay [[arabian-nights]], stands as the archetypal antagonist of monotheism. The source states that all three major religions, as well as Greek and Roman historians, describe him as the great-grandson of Noah, a wicked king who claimed to be God, promoted idolatry — including polytheism and blood magic — and constructed the Tower of Babel. In the Quran he is written as having set himself against the will of God.
+Nimrod is the ancient Babylonian king who, according to the Badlands Media essay arabian nights, stands as the archetypal antagonist of monotheism. The source states that all three major religions, as well as Greek and Roman historians, describe him as the great-grandson of Noah, a wicked king who claimed to be God, promoted idolatry — including polytheism and blood magic — and constructed the Tower of Babel. In the Quran he is written as having set himself against the will of God.
 
 Warned by his astrologers that a baby descended from Noah would be born who would end idolatry, Nimrod ordered the slaughter of all newborns in Mesopotamia. The child was [[abraham]], whose mother escaped into the wilderness to give birth.
 

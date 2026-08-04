@@ -13,7 +13,7 @@ contested: true
 ---
 # Mark Guzzetta
 
-Mark Guzzetta is a Republican fundraiser and businessman from Florida identified in the Badlands Media article [[a-family-affair]] as the buyer of IBM's Boca Raton office park through a group called Blue Lake Ltd. in 1997.
+Mark Guzzetta is a Republican fundraiser and businessman from Florida identified in the Badlands Media article a family affair as the buyer of IBM's Boca Raton office park through a group called Blue Lake Ltd. in 1997.
 
 ## IBM Boca Raton office park deal
 

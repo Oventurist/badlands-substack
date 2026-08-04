@@ -14,7 +14,7 @@ Azerbaijan is a republic in the South Caucasus on the western shore of the [[cas
 
 ## United States–facilitated peace process
 
-The February 10, 2026 edition of the [[badlands-brief|Badlands Brief]], "[[badlands-brief-4ec|Criminal Invader Crashouts & Honeypot Hoaxes]]," reported that Vice President [[jd-vance|JD Vance]]'s visit to Armenia — the first by a sitting US vice president or president — followed a United States–facilitated agreement and peace deal between Armenia and Azerbaijan. According to the account, that process included a summit hosted at the [[white-house|White House]] in August 2025 and a transit-corridor accord aimed at advancing regional peace, the corridor question having long been among the most contentious elements of the Armenia–Azerbaijan settlement because of its implications for connectivity between Azerbaijan proper and its Nakhchivan exclave.
+The February 10, 2026 edition of the Badlands Brief, "Criminal Invader Crashouts & Honeypot Hoaxes," reported that Vice President [[jd-vance|JD Vance]]'s visit to Armenia — the first by a sitting US vice president or president — followed a United States–facilitated agreement and peace deal between Armenia and Azerbaijan. According to the account, that process included a summit hosted at the [[white-house|White House]] in August 2025 and a transit-corridor accord aimed at advancing regional peace, the corridor question having long been among the most contentious elements of the Armenia–Azerbaijan settlement because of its implications for connectivity between Azerbaijan proper and its Nakhchivan exclave.
 
 ## Sources
 

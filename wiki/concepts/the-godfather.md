@@ -10,7 +10,7 @@ contested: true
 ---
 # The Godfather
 
-*The Godfather* is the 1969 novel and 1972 film about an Italian-American crime family. In the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]], it is analyzed not as entertainment but as an instrument of narrative management.
+*The Godfather* is the 1969 novel and 1972 film about an Italian-American crime family. In the Badlands Media essay A Journey of Ever changing Truths, it is analyzed not as entertainment but as an instrument of narrative management.
 
 ## The essay's account
 

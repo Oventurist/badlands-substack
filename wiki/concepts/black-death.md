@@ -10,7 +10,7 @@ contested: false
 ---
 # Black Death
 
-The Black Death was the pandemic that culminated around the year 1351 and which, according to the records cited in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], killed anywhere from one tenth to one quarter of the global population.
+The Black Death was the pandemic that culminated around the year 1351 and which, according to the records cited in the Badlands Media feature "Are We Entering the Millennial Reign?", killed anywhere from one tenth to one quarter of the global population.
 
 ## Role in the corpus
 

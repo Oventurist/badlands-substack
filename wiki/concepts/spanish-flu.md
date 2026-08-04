@@ -10,7 +10,7 @@ contested: true
 ---
 # Spanish Flu
 
-The Spanish Flu was the influenza pandemic of 1918, conventionally regarded as the deadliest of the twentieth century. Within the Badlands Media corpus it appears primarily as the subject of a disputed [[donald-trump|Donald Trump]] statement analyzed in [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]].
+The Spanish Flu was the influenza pandemic of 1918, conventionally regarded as the deadliest of the twentieth century. Within the Badlands Media corpus it appears primarily as the subject of a disputed [[donald-trump|Donald Trump]] statement analyzed in A Virus, or a Metaphor?.
 
 ## The 1917 anomaly
 

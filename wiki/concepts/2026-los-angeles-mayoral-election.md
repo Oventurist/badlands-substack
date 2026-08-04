@@ -11,7 +11,7 @@ contested: true
 
 # 2026 Los Angeles Mayoral Election
 
-The 2026 Los Angeles mayoral election is the contest for the mayoralty of [[los-angeles|Los Angeles]], in which incumbent [[karen-bass|Karen Bass]] faces a field that includes former reality-television figure [[spencer-pratt|Spencer Pratt]]. As covered in the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," the race has been reshaped by Pratt's unconventional, low-budget campaign.
+The 2026 Los Angeles mayoral election is the contest for the mayoralty of [[los-angeles|Los Angeles]], in which incumbent [[karen-bass|Karen Bass]] faces a field that includes former reality-television figure [[spencer-pratt|Spencer Pratt]]. As covered in the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," the race has been reshaped by Pratt's unconventional, low-budget campaign.
 
 ## Pratt's insurgent campaign
 

@@ -14,7 +14,7 @@ Ruben Gallego is a Democratic member of the United States House of Representativ
 
 ## The 2022 contest
 
-Gallego defeated Zink in the [[2022-united-states-midterm-elections|2022 midterm elections]]. On December 9, 2022, within the five-day window that followed certification of the results by [[katie-hobbs|Katie Hobbs]], Zink and Finchem filed a joint suit naming Gallego, [[adrian-fontes|Adrian Fontes]], and Hobbs. As described in [[arizona-earthquake|"Arizona Earthquake!"]], the allegations in the complaint are directed at Hobbs's administration of the election rather than at any conduct by Gallego.
+Gallego defeated Zink in the [[2022-united-states-midterm-elections|2022 midterm elections]]. On December 9, 2022, within the five-day window that followed certification of the results by [[katie-hobbs|Katie Hobbs]], Zink and Finchem filed a joint suit naming Gallego, [[adrian-fontes|Adrian Fontes]], and Hobbs. As described in "Arizona Earthquake!", the allegations in the complaint are directed at Hobbs's administration of the election rather than at any conduct by Gallego.
 
 ## Sources
 

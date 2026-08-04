@@ -11,7 +11,7 @@ contested: true
 
 # Tumbler Ridge School Shooting
 
-The Tumbler Ridge school shooting was a mass shooting reported to have taken place in Canada on Wednesday, February 11, 2026, and covered as a bonus item in the February 12, 2026 [[badlands-brief-405|Badlands Brief]] under the headline "Another Trans Shooter Kills 8, Injures Dozens in Canada."
+The Tumbler Ridge school shooting was a mass shooting reported to have taken place in Canada on Wednesday, February 11, 2026, and covered as a bonus item in the February 12, 2026 Badlands Brief under the headline "Another Trans Shooter Kills 8, Injures Dozens in Canada."
 
 ## Reported facts
 

@@ -15,7 +15,7 @@ The Alberta Prosperity Project (APP) is a Canadian independence advocacy organiz
 
 ## Meetings with the State Department
 
-The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]], citing the *Financial Times*, reports that officials from the [[state-department|State Department]] met with APP members three times since April 2025 in Washington, with a fourth delegation planned for the following month. [[jeffrey-rath|Jeffrey Rath]], co-founder and legal counsel for the APP, reportedly attended the meetings and told the *Financial Times*: "The US is extremely enthusiastic about a free and independent Alberta."
+The January 30, 2026 Badlands Brief, citing the *Financial Times*, reports that officials from the [[state-department|State Department]] met with APP members three times since April 2025 in Washington, with a fourth delegation planned for the following month. [[jeffrey-rath|Jeffrey Rath]], co-founder and legal counsel for the APP, reportedly attended the meetings and told the *Financial Times*: "The US is extremely enthusiastic about a free and independent Alberta."
 
 A State Department spokesperson downplayed the contacts: "The department regularly meets with civil society types. As is typical in routine meetings such as these, no commitments were made."
 

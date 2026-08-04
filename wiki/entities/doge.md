@@ -10,7 +10,7 @@ contested: true
 ---
 # DOGE
 
-DOGE — the Department of Government Efficiency — is the cost-cutting initiative of the second [[donald-trump|Trump]] administration. The Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] describes it through an extended analogy to the film *Office Space*.
+DOGE — the Department of Government Efficiency — is the cost-cutting initiative of the second [[donald-trump|Trump]] administration. The Badlands Media essay A Journey of Ever changing Truths describes it through an extended analogy to the film *Office Space*.
 
 [[erik-carlson|Erik Carlson]] invites readers to "think of DOGE as the two 'Bobs' who are brought in to improve efficiency," the consultants who "interview employees, asking them what it is they do, while discovering many within the company literally do nothing, or are redundant, resulting in mass layoffs, resulting in the whole company living in fear."
 

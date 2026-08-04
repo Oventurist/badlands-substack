@@ -10,7 +10,7 @@ contested: true
 ---
 # House of Saud
 
-The House of Saud — Al Saud, where "Al" is a dynastic designation rather than the definite article — is the ruling family of [[saudi-arabia]] and the subject of the Badlands Media essay [[arabian-nights]], subtitled "The Redemption Arc of the House of Saud."
+The House of Saud — Al Saud, where "Al" is a dynastic designation rather than the definite article — is the ruling family of [[saudi-arabia]] and the subject of the Badlands Media essay arabian nights, subtitled "The Redemption Arc of the House of Saud."
 
 ## Origins
 

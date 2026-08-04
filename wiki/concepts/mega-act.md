@@ -11,7 +11,7 @@ contested: true
 
 # MEGA Act (Make Elections Great Again Act)
 
-The MEGA Act, formally the Make Elections Great Again Act, is federal election legislation unveiled by House Republicans on January 29, 2026. As described in the [[badlands-brief-1ce|January 30, 2026 Badlands Brief]], the proposal would establish nationwide standards for federal elections, including voter identification requirements, citizenship verification measures, changes to mail-in voting rules, and restrictions on ballot harvesting.
+The MEGA Act, formally the Make Elections Great Again Act, is federal election legislation unveiled by House Republicans on January 29, 2026. As described in the January 30, 2026 Badlands Brief, the proposal would establish nationwide standards for federal elections, including voter identification requirements, citizenship verification measures, changes to mail-in voting rules, and restrictions on ballot harvesting.
 
 ## Provisions
 

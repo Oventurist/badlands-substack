@@ -10,7 +10,7 @@ contested: false
 ---
 # Belt and Road Initiative
 
-The Belt and Road Initiative (BRI) is China's global infrastructure and development-finance program. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] states that the development programs unveiled by the productive financial architecture of China and its growing array of allies have already unleashed over $3 trillion in large-scale infrastructure investment around the growing Belt and Road Initiative.
+The Belt and Road Initiative (BRI) is China's global infrastructure and development-finance program. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] states that the development programs unveiled by the productive financial architecture of China and its growing array of allies have already unleashed over $3 trillion in large-scale infrastructure investment around the growing Belt and Road Initiative.
 
 ## Relationship to other institutions
 
@@ -20,7 +20,7 @@ The article also notes that Central Asian states such as Kyrgyzstan and Tajikist
 
 ## The BRI as counter-system
 
-In [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] (September 2025), [[matthew-ehret|Matthew Ehret]] presents the Belt and Road Initiative as the operating system through which Russia and China created "a force of opposition to this British-run Deep State design." He states that the initiative "has won over 136 nations" and lists it first among the developments — alongside the resurgence of Pan-African nationalism, the strengthening of the Russian economy under NATO's proxy war, the Iran-Russia-China alliance, the survival of Venezuela and the American return to protectionism — that in his view demonstrate the failure of the unipolar project once served by [[chrystia-freeland|Chrystia Freeland]].
+In A Re Alignment of World Systems (September 2025), [[matthew-ehret|Matthew Ehret]] presents the Belt and Road Initiative as the operating system through which Russia and China created "a force of opposition to this British-run Deep State design." He states that the initiative "has won over 136 nations" and lists it first among the developments — alongside the resurgence of Pan-African nationalism, the strengthening of the Russian economy under NATO's proxy war, the Iran-Russia-China alliance, the survival of Venezuela and the American return to protectionism — that in his view demonstrate the failure of the unipolar project once served by [[chrystia-freeland|Chrystia Freeland]].
 
 ## Sources
 

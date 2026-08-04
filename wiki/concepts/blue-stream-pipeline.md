@@ -14,7 +14,7 @@ Blue Stream is a natural gas pipeline that transports Russian gas to Türkiye ac
 
 ## July 2026 drone strike
 
-According to the July 10, 2026 [[badlands-brief-0bd|Badlands Brief "Mossad Bait & Labor Tackles"]], [[gazprom|Gazprom]] reported that Ukrainian drones targeted the Krasnodarskaya compressor station serving Blue Stream. Gazprom said the attack caused minor damage to a building at the facility but did not interrupt deliveries, as repairs were completed promptly and backup measures maintained supply. [[ukraine|Ukraine]] had not publicly commented at the time of reporting.
+According to the July 10, 2026 Badlands Brief "Mossad Bait & Labor Tackles", [[gazprom|Gazprom]] reported that Ukrainian drones targeted the Krasnodarskaya compressor station serving Blue Stream. Gazprom said the attack caused minor damage to a building at the facility but did not interrupt deliveries, as repairs were completed promptly and backup measures maintained supply. [[ukraine|Ukraine]] had not publicly commented at the time of reporting.
 
 Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] condemned the strike as a threat to critical international energy infrastructure and said Russia expected countries affected by the pipeline, Türkiye among them, to respond.
 

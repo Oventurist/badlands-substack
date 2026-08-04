@@ -10,7 +10,7 @@ contested: true
 ---
 # Italian Mafia
 
-The Italian Mafia — the Italian-American organized crime families of the twentieth century — appears in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] as a real criminal organization whose public stature the article regards as deliberately inflated.
+The Italian Mafia — the Italian-American organized crime families of the twentieth century — appears in the Badlands Media essay A Journey of Ever changing Truths as a real criminal organization whose public stature the article regards as deliberately inflated.
 
 [[erik-carlson|Erik Carlson]] recounts growing up on *The Godfather*, *The Godfather Part II*, *Goodfellas*, and *Casino* and concluding from them that the Italian Mafia ran organized crime in America. He attributes that belief squarely to its source: "Because I was led to believe this by Hollywood."
 

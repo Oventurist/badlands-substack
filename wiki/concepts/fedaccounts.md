@@ -10,7 +10,7 @@ contested: true
 ---
 # FedAccounts
 
-**FedAccounts** is the name given to a policy proposal under which the [[federal-reserve|Federal Reserve]] would offer bank accounts directly to individuals and businesses, rather than only to banks. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] presents the proposal as one of the central mechanisms by which a public banking option would be established across the United States.
+**FedAccounts** is the name given to a policy proposal under which the [[federal-reserve|Federal Reserve]] would offer bank accounts directly to individuals and businesses, rather than only to banks. In A Seismic Shift, [[joe-lange|Joe Lange]] presents the proposal as one of the central mechanisms by which a public banking option would be established across the United States.
 
 ## Origin
 

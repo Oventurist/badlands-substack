@@ -14,7 +14,7 @@ The Institute of Muslim Minority Affairs (IMMA) is the organization that publish
 
 ## In the Badlands corpus
 
-Quoting PJMedia, [[america-for-sale-part-1|America for Sale - Part 1]] states that the IMMA was an entity that Al-Qaeda backer [[abdullah-omar-naseef|Abdullah Omar Naseef]] "established and recruited [[huma-abedin|Abedin]]'s parents to run," and that "[s]ince its founding in the late seventies, the IMMA's main purpose has been to publish the *Journal of Muslim Minority Affairs*." The article presents the IMMA as the institutional vehicle by which Naseef brought Syed and Saleha Abedin to Jeddah to build the journal that would promote the [[muslim-brotherhood|Muslim Brotherhood]]'s perspective in universities worldwide.
+Quoting PJMedia, America for Sale   Part 1 states that the IMMA was an entity that Al-Qaeda backer [[abdullah-omar-naseef|Abdullah Omar Naseef]] "established and recruited [[huma-abedin|Abedin]]'s parents to run," and that "[s]ince its founding in the late seventies, the IMMA's main purpose has been to publish the *Journal of Muslim Minority Affairs*." The article presents the IMMA as the institutional vehicle by which Naseef brought Syed and Saleha Abedin to Jeddah to build the journal that would promote the [[muslim-brotherhood|Muslim Brotherhood]]'s perspective in universities worldwide.
 
 In the article's framing, the IMMA and its journal form the publishing arm of the Brotherhood's "civilization/stealth jihad" strategy — creating academic resources designed to advance acceptance of sharia law and Muslim supremacy in non-Muslim countries.
 

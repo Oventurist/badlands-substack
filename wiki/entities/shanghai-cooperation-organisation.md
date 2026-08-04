@@ -10,7 +10,7 @@ contested: true
 ---
 # Shanghai Cooperation Organisation
 
-The Shanghai Cooperation Organisation (SCO) is a Eurasian political, economic and security organisation. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] describes Russia, China and India as "the three founding nations behind the SCO," represented at its 2025 summit by Presidents [[vladimir-putin|Vladimir Putin]], [[xi-jinping|Xi Jinping]] and Prime Minister [[narendra-modi|Narendra Modi]].
+The Shanghai Cooperation Organisation (SCO) is a Eurasian political, economic and security organisation. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] describes Russia, China and India as "the three founding nations behind the SCO," represented at its 2025 summit by Presidents [[vladimir-putin|Vladimir Putin]], [[xi-jinping|Xi Jinping]] and Prime Minister [[narendra-modi|Narendra Modi]].
 
 ## The 2025 Tianjin summit
 
@@ -27,7 +27,7 @@ The article notes that the summit coincided with armed confrontations launched b
 
 ## Stake in the North-South Transportation Corridor
 
-The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] notes that the Shanghai Cooperation Organization has invested billions in the [[north-south-transportation-corridor|North-South Transportation Corridor]], with [[iran|Iran]] serving as the critical central node connecting Asia to Moscow. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] uses this investment to explain why [[china|China]] and [[russia|Russia]] appear to be encouraging Iran to continue the war rather than seeking stabilization, asking whether the corridor could operate effectively if Iranian infrastructure were destroyed.
+The March 18, 2026 Badlands Brief notes that the Shanghai Cooperation Organization has invested billions in the [[north-south-transportation-corridor|North-South Transportation Corridor]], with [[iran|Iran]] serving as the critical central node connecting Asia to Moscow. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] uses this investment to explain why [[china|China]] and [[russia|Russia]] appear to be encouraging Iran to continue the war rather than seeking stabilization, asking whether the corridor could operate effectively if Iranian infrastructure were destroyed.
 
 ## Sources
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # United States as a Federal Corporation
 
-The claim that "the United States is a federal corporation" is a recurring argument in constitutionalist and sovereignty-oriented commentary, and forms the evidentiary centrepiece of the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023) by [[american-hypnotist|American Hypnotist]].
+The claim that "the United States is a federal corporation" is a recurring argument in constitutionalist and sovereignty-oriented commentary, and forms the evidentiary centrepiece of the Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System" (May 16, 2023) by [[american-hypnotist|American Hypnotist]].
 
 ## The statutory citation
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Mo Gawdat
 
-Mo Gawdat is an Egyptian-born technologist and author, formerly Chief Business Officer of [[google-x|Google X]], the clandestine research-and-development arm of Google. He is the most extensively quoted individual in the July 2023 Badlands Media article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]," where he serves as the article's principal exponent of the view that the AI [[technological-singularity|singularity]] has already arrived.
+Mo Gawdat is an Egyptian-born technologist and author, formerly Chief Business Officer of [[google-x|Google X]], the clandestine research-and-development arm of Google. He is the most extensively quoted individual in the July 2023 Badlands Media article "Artificial Intelligence: Hysteria vs. Reason," where he serves as the article's principal exponent of the view that the AI [[technological-singularity|singularity]] has already arrived.
 
 ## The 2018 interview
 

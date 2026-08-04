@@ -10,7 +10,7 @@ contested: false
 ---
 # Chad
 
-Chad is a landlocked country in north-central Africa, bordering the Sahel region. It appears in the July 30, 2026 [[badlands-brief-414|Badlands Brief]] as the latest state to announce its withdrawal from the [[international-criminal-court|International Criminal Court]].
+Chad is a landlocked country in north-central Africa, bordering the Sahel region. It appears in the July 30, 2026 Badlands Brief as the latest state to announce its withdrawal from the [[international-criminal-court|International Criminal Court]].
 
 ## Withdrawal from the ICC
 

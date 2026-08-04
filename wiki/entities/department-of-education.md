@@ -15,7 +15,7 @@ The United States Department of Education is the federal agency responsible for 
 
 ## Role in the 2026 antisemitism bill
 
-The May 20, 2026 [[badlands-brief-311|Badlands Brief]] reports that the [[lankford-rosen-antisemitism-bill|antisemitism package]] introduced by Senators [[james-lankford|James Lankford]] and [[jacky-rosen|Jacky Rosen]] would require the Department of Education to appoint an antisemitism coordinator and would impose new regulations on colleges receiving federal funding, including mandatory non-discrimination policies and grievance processes. The department is thus positioned as the principal enforcement vehicle for the bill's education provisions, a role that Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argued would extend federal speech regulation onto American campuses in tension with the [[first-amendment|First Amendment]].
+The May 20, 2026 Badlands Brief reports that the [[lankford-rosen-antisemitism-bill|antisemitism package]] introduced by Senators [[james-lankford|James Lankford]] and [[jacky-rosen|Jacky Rosen]] would require the Department of Education to appoint an antisemitism coordinator and would impose new regulations on colleges receiving federal funding, including mandatory non-discrimination policies and grievance processes. The department is thus positioned as the principal enforcement vehicle for the bill's education provisions, a role that Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argued would extend federal speech regulation onto American campuses in tension with the [[first-amendment|First Amendment]].
 
 ## Sources
 

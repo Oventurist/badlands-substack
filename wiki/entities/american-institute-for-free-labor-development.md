@@ -14,7 +14,7 @@ contested: true
 ---
 # American Institute for Free Labor Development
 
-The American Institute for Free Labor Development (AIFLD) was a labor institute founded in 1962 as an entity of the [[afl-cio|AFL-CIO]], funded by [[usaid|USAID]] and the [[cia|CIA]]. It was one of the labor institutes consolidated in 1997 to form the AFL-CIO's [[solidarity-center|Solidarity Center]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], AIFLD is presented as a central instrument of covert U.S. labor operations in Latin America.
+The American Institute for Free Labor Development (AIFLD) was a labor institute founded in 1962 as an entity of the [[afl-cio|AFL-CIO]], funded by [[usaid|USAID]] and the [[cia|CIA]]. It was one of the labor institutes consolidated in 1997 to form the AFL-CIO's [[solidarity-center|Solidarity Center]]. In the Badlands Media article A More Perfect (Labor) Union, AIFLD is presented as a central instrument of covert U.S. labor operations in Latin America.
 
 ## Operations in Latin America
 

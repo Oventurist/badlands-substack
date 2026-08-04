@@ -13,7 +13,7 @@ contested: true
 ---
 # Enron
 
-Enron Corporation was an American energy, commodities, and services company based in Houston, Texas, that filed for bankruptcy in December 2001 after a massive accounting fraud scandal. In the Badlands Media article [[a-family-affair]], Enron is identified as a CIA-connected business whose founder, [[kenneth-lay]], served on the board of [[texas-commerce-bank]].
+Enron Corporation was an American energy, commodities, and services company based in Houston, Texas, that filed for bankruptcy in December 2001 after a massive accounting fraud scandal. In the Badlands Media article a family affair, Enron is identified as a CIA-connected business whose founder, [[kenneth-lay]], served on the board of [[texas-commerce-bank]].
 
 ## Connection to Texas Commerce Bank
 

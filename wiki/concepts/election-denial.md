@@ -14,7 +14,7 @@ contested: true
 
 ## Treatment in the corpus
 
-[[badlands-blitz-episode-17|Badlands Blitz Episode 17]], published May 16, 2026, devotes a segment of the program to what its announcement calls "the rapidly-shifting American narrative on election denial." The source argues that the position has become "more popular and bipartisan than ever before," and the episode's subtitle declares that "Election Deniers Seize the Narrative." The claim implied is one of reversal: a stance that had been used to discredit its holders is presented as having become the dominant frame, adopted across party lines rather than confined to supporters of [[donald-trump|Donald Trump]].
+Badlands Blitz Episode 17, published May 16, 2026, devotes a segment of the program to what its announcement calls "the rapidly-shifting American narrative on election denial." The source argues that the position has become "more popular and bipartisan than ever before," and the episode's subtitle declares that "Election Deniers Seize the Narrative." The claim implied is one of reversal: a stance that had been used to discredit its holders is presented as having become the dominant frame, adopted across party lines rather than confined to supporters of [[donald-trump|Donald Trump]].
 
 This framing is continuous with the corpus's longer-running interest in post-2020 and 2022 election contests, county canvassing procedure, and voting-system certification, in which the assertion is repeatedly made that scrutiny of election administration was suppressed by labeling rather than answered by evidence.
 

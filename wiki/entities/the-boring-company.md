@@ -14,7 +14,7 @@ The Boring Company is a tunnel construction and infrastructure firm founded by [
 
 ## Role in the Bering Strait tunnel proposal
 
-The company enters the Badlands corpus through the proposed [[bering-strait-tunnel|Bering Strait tunnel]] linking Russia's Chukotka region with Alaska. As reported in the June 5, 2026 [[badlands-brief-58d|Badlands Brief]], Kremlin special envoy [[kirill-dmitriev|Kirill Dmitriev]] first introduced the tunnel proposal in October of the previous year and estimated that a conventional build could exceed $65 billion — but suggested that costs could fall below $8 billion if construction methods associated with The Boring Company were used.
+The company enters the Badlands corpus through the proposed [[bering-strait-tunnel|Bering Strait tunnel]] linking Russia's Chukotka region with Alaska. As reported in the June 5, 2026 Badlands Brief, Kremlin special envoy [[kirill-dmitriev|Kirill Dmitriev]] first introduced the tunnel proposal in October of the previous year and estimated that a conventional build could exceed $65 billion — but suggested that costs could fall below $8 billion if construction methods associated with The Boring Company were used.
 
 That cost differential is central to the project's public case: it reframes a scheme long dismissed as prohibitively expensive as a plausible near-term undertaking, and ties an emblematic American private venture to what Badlands writers describe as an emerging Russo-American alignment. The Brief reports that Dmitriev announced an agreement to be signed on June 5, 2026 to continue the tunnel's design phase.
 

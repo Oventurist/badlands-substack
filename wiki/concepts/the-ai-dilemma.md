@@ -10,7 +10,7 @@ contested: false
 ---
 # The AI Dilemma
 
-*The AI Dilemma* is a presentation released in March 2023 by the [[center-for-humane-technology|Center for Humane Technology]] and delivered by [[tristan-harris|Tristan Harris]] and [[aza-raskin|Aza Raskin]]. It is the point of departure for the July 2023 Badlands Media article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]."
+*The AI Dilemma* is a presentation released in March 2023 by the [[center-for-humane-technology|Center for Humane Technology]] and delivered by [[tristan-harris|Tristan Harris]] and [[aza-raskin|Aza Raskin]]. It is the point of departure for the July 2023 Badlands Media article "Artificial Intelligence: Hysteria vs. Reason."
 
 ## Content and setting
 

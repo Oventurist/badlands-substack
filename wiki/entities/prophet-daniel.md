@@ -10,7 +10,7 @@ contested: false
 ---
 # Prophet Daniel
 
-**Daniel** is the Old Testament prophet whose visions supply much of the interpretive scaffolding for the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]]. The article dates his writing to roughly 600 BC.
+**Daniel** is the Old Testament prophet whose visions supply much of the interpretive scaffolding for the Badlands Media feature "Are We Entering the Millennial Reign?". The article dates his writing to roughly 600 BC.
 
 ## The seventieth week
 

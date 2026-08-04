@@ -10,7 +10,7 @@ contested: false
 ---
 # Legal Standing
 
-Standing is the procedural doctrine determining whether a court may hear a case at all, and it occupies a central place in Badlands Media's argument that allegations of fraud in the [[2020-united-states-presidential-election|2020 presidential election]] have never been adjudicated on their merits. The September 2023 essay [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]] devotes two sections to explaining the concept for a lay readership.
+Standing is the procedural doctrine determining whether a court may hear a case at all, and it occupies a central place in Badlands Media's argument that allegations of fraud in the [[2020-united-states-presidential-election|2020 presidential election]] have never been adjudicated on their merits. The September 2023 essay Are Jack Smith and Fani Willis in on the Plan? devotes two sections to explaining the concept for a lay readership.
 
 ## Cause and elements
 

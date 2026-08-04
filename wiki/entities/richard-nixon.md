@@ -14,7 +14,7 @@ Richard Nixon was the 37th President of the United States, whose administration 
 
 ## In the Badlands corpus
 
-The Badlands Media essay [[a-week-to-remember|A Week to Remember]] recounts an episode in which France sought repayment of a loan owed by the United States. According to the article, "Nixon's government said, 'no problem.' They were going to just print up the money and send it to France." France, described in the source as "aware of this ongoing scam," refused fiat dollars and demanded gold instead.
+The Badlands Media essay A Week to Remember recounts an episode in which France sought repayment of a loan owed by the United States. According to the article, "Nixon's government said, 'no problem.' They were going to just print up the money and send it to France." France, described in the source as "aware of this ongoing scam," refused fiat dollars and demanded gold instead.
 
 The essay claims this created a dilemma, "as you can't just create gold out of thin air like you can fiat money," and that the U.S. government responded by passing an amendment making it illegal to pay foreign entities in gold. The author states this measure "stood for 50 years, and was quietly repealed, ironically, a couple of years ago, when the [[brics|BRICS]] nations started talking about creating their own gold-backed currency."
 

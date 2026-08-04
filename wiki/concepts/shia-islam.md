@@ -10,7 +10,7 @@ contested: false
 ---
 # Shia Islam
 
-Shia Islam is the minority branch of Islam, comprising by the estimate given in [[arabian-nights]] roughly 10 to 15 percent of all Muslims and concentrated in modern Iran and throughout the region of Persia.
+Shia Islam is the minority branch of Islam, comprising by the estimate given in arabian nights roughly 10 to 15 percent of all Muslims and concentrated in modern Iran and throughout the region of Persia.
 
 The source traces the division to the disputed interpretation of a single word. [[prophet-muhammad|Muhammad]] once called [[ali-ibn-abi-talib|Ali]] a *Mawla*, an Arabic term variously rendered as "lord," "trustee" or "helper," and had also called him his brother, guardian and successor. On Muhammad's death, some followers concluded that Ali — who had been raised by Muhammad from the age of five and was like a son and brother to him — was his chosen heir, and that therefore only descendants of Ali can qualify to lead Islam. Those adherents are the Shia. The [[sunni-islam|Sunni]] majority instead held that no heir had been named, and elected [[abu-bakr]] to begin the [[rashidun-caliphate]].
 

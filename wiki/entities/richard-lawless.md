@@ -13,7 +13,7 @@ contested: true
 ---
 # Richard Lawless
 
-Richard Lawless is a former 15-year veteran of the [[cia]] who is identified in the Badlands Media article [[a-family-affair]] as a beneficiary of [[jeb-bush]]'s political power while Bush served as Florida's commerce secretary.
+Richard Lawless is a former 15-year veteran of the [[cia]] who is identified in the Badlands Media article a family affair as a beneficiary of [[jeb-bush]]'s political power while Bush served as Florida's commerce secretary.
 
 ## Florida state contracts
 

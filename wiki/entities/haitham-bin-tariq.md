@@ -14,7 +14,7 @@ Haitham bin Tariq Al Said is the Sultan of Oman. Oman has historically served as
 
 ## Role in the regional framework
 
-The March 10, 2026 [[badlands-brief-509|Badlands Brief]] names "Sultan Haitham bin Tariq of Oman" in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], alongside [[mohammed-bin-zayed|Mohammed bin Zayed]] of the [[united-arab-emirates|UAE]], Emir [[tamim-bin-hamad-al-thani|Tamim Al Thani]] of [[qatar|Qatar]], [[hamad-bin-isa-al-khalifa|King Hamad]] of [[bahrain|Bahrain]] and General [[abdel-fattah-el-sisi|Al-Sisi]] of [[egypt|Egypt]]. The commentary asserts that all of these leaders have at some point pledged loyalty to President [[donald-trump|Donald Trump]] and, in doing so, to the common cause of peace, and it credits Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] with assembling the bilateral incentive structures that hold the arrangement together.
+The March 10, 2026 Badlands Brief names "Sultan Haitham bin Tariq of Oman" in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], alongside [[mohammed-bin-zayed|Mohammed bin Zayed]] of the [[united-arab-emirates|UAE]], Emir [[tamim-bin-hamad-al-thani|Tamim Al Thani]] of [[qatar|Qatar]], [[hamad-bin-isa-al-khalifa|King Hamad]] of [[bahrain|Bahrain]] and General [[abdel-fattah-el-sisi|Al-Sisi]] of [[egypt|Egypt]]. The commentary asserts that all of these leaders have at some point pledged loyalty to President [[donald-trump|Donald Trump]] and, in doing so, to the common cause of peace, and it credits Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] with assembling the bilateral incentive structures that hold the arrangement together.
 
 ## Sources
 

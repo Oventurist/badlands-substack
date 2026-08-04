@@ -13,7 +13,7 @@ contested: true
 ---
 # Wayne Madsen Report
 
-The Wayne Madsen Report is an investigative journalism and analysis outlet founded by Wayne Madsen, a former NSA officer and journalist known for publishing claims about CIA covert operations and political corruption. In the Badlands Media article [[a-family-affair]], the Wayne Madsen Report is cited as the source for key claims about [[jeb-bush]]'s CIA non-official cover status at [[texas-commerce-bank]], his letter to CIA operative Robert Gambino, and the history of Texas Commerce Bank's relationship with the Bush family and the CIA.
+The Wayne Madsen Report is an investigative journalism and analysis outlet founded by Wayne Madsen, a former NSA officer and journalist known for publishing claims about CIA covert operations and political corruption. In the Badlands Media article a family affair, the Wayne Madsen Report is cited as the source for key claims about [[jeb-bush]]'s CIA non-official cover status at [[texas-commerce-bank]], his letter to CIA operative Robert Gambino, and the history of Texas Commerce Bank's relationship with the Bush family and the CIA.
 
 ## Key citations
 

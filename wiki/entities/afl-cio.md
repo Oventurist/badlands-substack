@@ -14,7 +14,7 @@ contested: true
 ---
 # AFL-CIO
 
-The American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) is the largest labor federation in the United States. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the AFL-CIO is described as functioning as a covert agent of the U.S. foreign policy establishment through its international arm, the [[solidarity-center|Solidarity Center]], which the article claims uses taxpayer funds to promote political and geopolitical objectives.
+The American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) is the largest labor federation in the United States. In the Badlands Media article A More Perfect (Labor) Union, the AFL-CIO is described as functioning as a covert agent of the U.S. foreign policy establishment through its international arm, the [[solidarity-center|Solidarity Center]], which the article claims uses taxpayer funds to promote political and geopolitical objectives.
 
 ## Origins
 

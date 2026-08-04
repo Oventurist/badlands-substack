@@ -14,7 +14,7 @@ The Litani River is the principal river of [[lebanon|Lebanon]], running through 
 
 ## 2026 escalation
 
-The March 26, 2026 [[badlands-brief-143|Badlands Brief]] reports that Israeli Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] said on March 23 that Israel's border "must be the Litani," signaling support for extending Israeli control northward. The following day, Defense Minister [[israel-katz|Israel Katz]] stated that Israeli forces would occupy territory up to the Litani River and control bridges and a broader "security zone," formalizing an intent to hold a significant portion of southern Lebanon. [[hezbollah|Hezbollah]] characterized any Israeli occupation south of the Litani as an "existential threat" and vowed resistance, while the [[united-nations|United Nations]] warned that a sustained Israeli presence in the area was "very much concerning."
+The March 26, 2026 Badlands Brief reports that Israeli Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] said on March 23 that Israel's border "must be the Litani," signaling support for extending Israeli control northward. The following day, Defense Minister [[israel-katz|Israel Katz]] stated that Israeli forces would occupy territory up to the Litani River and control bridges and a broader "security zone," formalizing an intent to hold a significant portion of southern Lebanon. [[hezbollah|Hezbollah]] characterized any Israeli occupation south of the Litani as an "existential threat" and vowed resistance, while the [[united-nations|United Nations]] warned that a sustained Israeli presence in the area was "very much concerning."
 
 ## Sources
 

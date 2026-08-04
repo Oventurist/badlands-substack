@@ -15,7 +15,7 @@ ServiceNow is a United States enterprise software company. It appears in the cor
 
 ## January 2026 selloff
 
-The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] reports that US software stocks sold off sharply on Thursday, January 29, 2026, with ServiceNow shares falling around 11 percent, amid investor concerns that [[artificial-intelligence|artificial intelligence]] could disrupt traditional software business models. Financial media characterized the move as software stocks entering a bear market. The selloff contrasted with results reported the same day by [[apple-inc|Apple Inc.]], whose first fiscal quarter of 2026 showed strong overall performance driven by rebounding iPhone sales in Greater [[china|China]].
+The January 30, 2026 Badlands Brief reports that US software stocks sold off sharply on Thursday, January 29, 2026, with ServiceNow shares falling around 11 percent, amid investor concerns that artificial intelligence could disrupt traditional software business models. Financial media characterized the move as software stocks entering a bear market. The selloff contrasted with results reported the same day by [[apple-inc|Apple Inc.]], whose first fiscal quarter of 2026 showed strong overall performance driven by rebounding iPhone sales in Greater [[china|China]].
 
 ## Sources
 

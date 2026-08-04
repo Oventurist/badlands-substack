@@ -10,7 +10,7 @@ contested: true
 ---
 # Public Banking
 
-**Public banking** refers to banking institutions owned by a government or by the public collectively rather than by private shareholders, operated to serve depositors and the local economy rather than to maximise profit. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] treats the "public banking option" as one of the two great constitutional safeguards a nation can adopt, alongside citizen-only voter identification.
+**Public banking** refers to banking institutions owned by a government or by the public collectively rather than by private shareholders, operated to serve depositors and the local economy rather than to maximise profit. In A Seismic Shift, [[joe-lange|Joe Lange]] treats the "public banking option" as one of the two great constitutional safeguards a nation can adopt, alongside citizen-only voter identification.
 
 ## The Costa Rican model
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # The Beast
 
-The Beast is the figure introduced in Revelation 13 and, in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], is interpreted less as an individual than as a system. Patriots in Progress writes that regardless of its exact makeup, or whether it can be identified with a single face, the Beast symbolizes "a system of power and control, aligned with Satan, that positions itself as God and demands His worship." Put more bluntly: "the Beast thinks it's large and in charge."
+The Beast is the figure introduced in Revelation 13 and, in the Badlands Media feature "Are We Entering the Millennial Reign?", is interpreted less as an individual than as a system. Patriots in Progress writes that regardless of its exact makeup, or whether it can be identified with a single face, the Beast symbolizes "a system of power and control, aligned with Satan, that positions itself as God and demands His worship." Put more bluntly: "the Beast thinks it's large and in charge."
 
 ## Relationship to the Antichrist
 

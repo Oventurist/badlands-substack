@@ -11,7 +11,7 @@ contested: false
 
 # Tina Smith
 
-Tina Smith is a Democratic United States Senator from Minnesota. She is named in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] among the Democratic lawmakers who planned to skip President [[donald-trump|Donald Trump]]'s 2026 [[state-of-the-union|State of the Union address]] before a joint session of [[congress|Congress]].
+Tina Smith is a Democratic United States Senator from Minnesota. She is named in the February 24, 2026 Badlands Brief among the Democratic lawmakers who planned to skip President [[donald-trump|Donald Trump]]'s 2026 [[state-of-the-union|State of the Union address]] before a joint session of [[congress|Congress]].
 
 ## The 2026 boycott
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Rules-Based International Order
 
-The "rules-based international order" is the phrase used by Western governments to describe the post-1945 system of international norms. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] treats the term with hostility, describing the order as "completely arbitrary" and as fundamentally different from the [[un-charter|UN Charter]].
+The "rules-based international order" is the phrase used by Western governments to describe the post-1945 system of international norms. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] treats the term with hostility, describing the order as "completely arbitrary" and as fundamentally different from the [[un-charter|UN Charter]].
 
 ## The contrast with the UN Charter
 

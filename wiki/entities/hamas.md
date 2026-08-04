@@ -14,7 +14,7 @@ Hamas is the Palestinian Islamist movement that governed the [[gaza|Gaza Strip]]
 
 ## The stalled ceasefire
 
-The February 11, 2026 [[badlands-brief-05f|Badlands Brief]] reports that an Israeli source indicated Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] would inform President [[donald-trump|Donald Trump]] that Phase 2 of the October 2025 U.S.-brokered Gaza ceasefire — which requires Hamas disarmament and Israeli troop withdrawal — "is not moving," owing to Hamas's refusal to relinquish its weapons. Israel argues on this basis that a renewed military operation is needed to enforce demilitarisation in line with Trump's Gaza vision, amid ongoing incidents and IDF strikes on suspected violators.
+The February 11, 2026 Badlands Brief reports that an Israeli source indicated Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] would inform President [[donald-trump|Donald Trump]] that Phase 2 of the October 2025 U.S.-brokered Gaza ceasefire — which requires Hamas disarmament and Israeli troop withdrawal — "is not moving," owing to Hamas's refusal to relinquish its weapons. Israel argues on this basis that a renewed military operation is needed to enforce demilitarisation in line with Trump's Gaza vision, amid ongoing incidents and IDF strikes on suspected violators.
 
 The Brief also reports that Hamas is calling for kinetic escalation from the region against Israel in response to the Israeli Security Cabinet's [[west-bank|West Bank]] measures — which Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] argues "is exactly what Netanyahu wants."
 

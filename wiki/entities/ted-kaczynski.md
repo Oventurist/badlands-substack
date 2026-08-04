@@ -10,7 +10,7 @@ contested: true
 ---
 # Ted Kaczynski
 
-Theodore "Ted" Kaczynski, referred to in the source as Theodor Kaczynski and better known as the Unabomber, is the subject of the Badlands Media feature "On Ted Kaczynski and False Prophets," published October 25, 2025 by [[matthew-ehret|Matthew Ehret]] and highlighted in the November 7, 2025 roundup [[a-look-at-recent-features-84d|"A Look At Recent Features"]].
+Theodore "Ted" Kaczynski, referred to in the source as Theodor Kaczynski and better known as the Unabomber, is the subject of the Badlands Media feature "On Ted Kaczynski and False Prophets," published October 25, 2025 by [[matthew-ehret|Matthew Ehret]] and highlighted in the November 7, 2025 roundup "A Look At Recent Features".
 
 ## Treatment in the Badlands corpus
 

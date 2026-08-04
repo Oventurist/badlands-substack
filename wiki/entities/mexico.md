@@ -15,7 +15,7 @@ Mexico is the United States' southern neighbor and, in the Badlands corpus, a ce
 
 ## Cartel strike rhetoric
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that President [[donald-trump|Donald Trump]] said the United States may begin conducting land strikes against drug cartels operating in Mexico, expanding on earlier statements about using US military force against transnational criminal organizations. Trump argued that cartels running drug operations across the US–Mexico border pose a direct national security threat and claimed the cartels are running the Mexican government. Mexican officials warned against any violation of national sovereignty. No formal military orders were announced and no timeline was released.
+The January 9, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] said the United States may begin conducting land strikes against drug cartels operating in Mexico, expanding on earlier statements about using US military force against transnational criminal organizations. Trump argued that cartels running drug operations across the US–Mexico border pose a direct national security threat and claimed the cartels are running the Mexican government. Mexican officials warned against any violation of national sovereignty. No formal military orders were announced and no timeline was released.
 
 ## Political leadership
 

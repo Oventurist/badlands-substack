@@ -12,7 +12,7 @@ contested: true
 
 Nancy Mace is a Republican member of the United States House of Representatives from South Carolina who, in 2026, ran unsuccessfully for governor of that state. She is treated in the Badlands corpus as an example of a nominally pro-Trump Republican whose loyalty the writers regard as opportunistic.
 
-In [[badlands-brief-029|the June 12, 2026 Badlands Brief]], the commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] describes Mace as having "done a bunch of shady things" years earlier that demonstrated she could not be trusted and was "definitely not a true populist leader," characterising her as a recruit intended "to lure men back into the rocky shoals of the Uniparty."
+In the June 12, 2026 Badlands Brief, the commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] describes Mace as having "done a bunch of shady things" years earlier that demonstrated she could not be trusted and was "definitely not a true populist leader," characterising her as a recruit intended "to lure men back into the rocky shoals of the Uniparty."
 
 ## The 2025 nude-image hearing
 
@@ -25,7 +25,7 @@ Mace finished last in a six-candidate Republican primary for governor of South C
 
 ## Epstein records and the Bondi subpoena (March 2026)
 
-The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that the [[house-committee-on-oversight-and-accountability|House Oversight]] vote leading to the subpoena of Attorney General [[pam-bondi|Pam Bondi]] was prompted by Mace, who raised concerns that the [[department-of-justice|Department of Justice]] had not turned over all records required in relation to the convicted sex offender [[jeffrey-epstein|Jeffrey Epstein]].
+The March 18, 2026 Badlands Brief reports that the [[house-committee-on-oversight-and-accountability|House Oversight]] vote leading to the subpoena of Attorney General [[pam-bondi|Pam Bondi]] was prompted by Mace, who raised concerns that the [[department-of-justice|Department of Justice]] had not turned over all records required in relation to the convicted sex offender [[jeffrey-epstein|Jeffrey Epstein]].
 
 ## Sources
 

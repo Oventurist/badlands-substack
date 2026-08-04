@@ -10,7 +10,7 @@ contested: true
 ---
 # Rhodes Scholarship
 
-The Rhodes Scholarship is a postgraduate award to the University of Oxford established under the will of [[cecil-rhodes|Cecil Rhodes]] and first granted in 1902. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the program is presented not as an academic honour but as the recruitment mechanism of an imperial cadre.
+The Rhodes Scholarship is a postgraduate award to the University of Oxford established under the will of [[cecil-rhodes|Cecil Rhodes]] and first granted in 1902. In the Badlands Media essay A Re Alignment of World Systems, the program is presented not as an academic honour but as the recruitment mechanism of an imperial cadre.
 
 ## The source's characterization
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Boris Yeltsin
 
-Boris Yeltsin (1931–2007) was the first President of the Russian Federation, serving from 1991 to 1999. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], his presidency is presented as the political container within which Russia's sovereign economic powers were dismantled.
+Boris Yeltsin (1931–2007) was the first President of the Russian Federation, serving from 1991 to 1999. In the Badlands Media essay A Re Alignment of World Systems, his presidency is presented as the political container within which Russia's sovereign economic powers were dismantled.
 
 ## Role in the source
 

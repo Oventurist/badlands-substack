@@ -11,7 +11,7 @@ contested: false
 
 # Andre Dickens
 
-Andre Dickens is the mayor of Atlanta, Georgia. He appears in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as the interlocutor in a book tour appearance by California Governor [[gavin-newsom|Gavin Newsom]] that generated national controversy.
+Andre Dickens is the mayor of Atlanta, Georgia. He appears in the February 24, 2026 Badlands Brief as the interlocutor in a book tour appearance by California Governor [[gavin-newsom|Gavin Newsom]] that generated national controversy.
 
 ## The Atlanta book tour exchange
 

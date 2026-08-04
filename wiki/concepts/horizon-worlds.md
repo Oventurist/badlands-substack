@@ -15,7 +15,7 @@ Horizon Worlds is [[meta-platforms|Meta]]'s social virtual-world platform, the c
 
 ## 2026 shutdown reversal
 
-According to the Badlands Brief edition [[badlands-brief-52b|"Golgotha & The Metaverse"]] (March 20, 2026), Meta reversed an earlier announcement that Horizon Worlds would cease to be accessible in virtual reality after June 15. The company instead pivoted its metaverse experiences toward mobile platforms and away from fully immersive virtual worlds toward mixed reality, while committing to continue funding Reality Labs for the foreseeable future.
+According to the Badlands Brief edition "Golgotha & The Metaverse" (March 20, 2026), Meta reversed an earlier announcement that Horizon Worlds would cease to be accessible in virtual reality after June 15. The company instead pivoted its metaverse experiences toward mobile platforms and away from fully immersive virtual worlds toward mixed reality, while committing to continue funding Reality Labs for the foreseeable future.
 
 Meta technology chief Andrew Bosworth said in a social media post: "We will keep Horizon Worlds working in VR for existing games, to support the fans who've reached out. For people who already have games they like that they're using in Horizon Worlds, [they] will be able to download the Horizon Worlds app and use it in VR for the foreseeable future."
 

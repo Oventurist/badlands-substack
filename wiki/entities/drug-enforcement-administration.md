@@ -10,7 +10,7 @@ contested: false
 ---
 # Drug Enforcement Administration
 
-The Drug Enforcement Administration (DEA) is the United States federal agency responsible for administering the controlled substances schedules and enforcing federal drug law. It appears in the [[badlands-brief-0fb|April 24, 2026 Badlands Brief]] as the agency through which the reclassification of medical marijuana is implemented.
+The Drug Enforcement Administration (DEA) is the United States federal agency responsible for administering the controlled substances schedules and enforcing federal drug law. It appears in the April 24, 2026 Badlands Brief as the agency through which the reclassification of medical marijuana is implemented.
 
 ## Role in the 2026 marijuana rescheduling
 

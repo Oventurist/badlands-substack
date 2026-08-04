@@ -12,7 +12,7 @@ contested: false
 
 The United States Marshals Service is the federal law-enforcement agency of the Department of Justice responsible for judicial security, fugitive apprehension, prisoner transport, and the execution of federal court orders.
 
-In the March 13, 2026 [[badlands-brief-559|Badlands Brief]], the Marshals Service is identified as one of the primary partners of the newly activated [[260th-special-purpose-brigade|260th Special Purpose Brigade]] of the [[dc-national-guard|District of Columbia National Guard]], a relationship the source describes as routine: the Marshals regularly work alongside the Guard in the capital on security operations, major events, and emergencies.
+In the March 13, 2026 Badlands Brief, the Marshals Service is identified as one of the primary partners of the newly activated [[260th-special-purpose-brigade|260th Special Purpose Brigade]] of the [[dc-national-guard|District of Columbia National Guard]], a relationship the source describes as routine: the Marshals regularly work alongside the Guard in the capital on security operations, major events, and emergencies.
 
 ## Sources
 

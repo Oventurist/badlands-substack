@@ -14,7 +14,7 @@ contested: true
 
 ## Content
 
-As quoted in [[assad-day-in-damascus]], the report asserts that "the American peace has proven itself peaceful, stable, and durable," while cautioning that "no moment in international politics can be frozen in time: even a global Pax Americana will not preserve itself." To sustain [[pax-americana|Pax Americana]] through the twenty-first century, the report concludes, the global order "must have a secure foundation on unquestioned U.S. military preeminence."
+As quoted in assad day in damascus, the report asserts that "the American peace has proven itself peaceful, stable, and durable," while cautioning that "no moment in international politics can be frozen in time: even a global Pax Americana will not preserve itself." To sustain [[pax-americana|Pax Americana]] through the twenty-first century, the report concludes, the global order "must have a secure foundation on unquestioned U.S. military preeminence."
 
 ## The "new Pearl Harbor" passage
 

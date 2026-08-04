@@ -10,7 +10,7 @@ contested: false
 ---
 # Viktor Orbán
 
-Viktor Orbán is the long-serving prime minister of [[hungary|Hungary]] whose government defined the country's hard-line immigration policy. In the April 17, 2026 [[badlands-brief-07c|Badlands Brief]] he appears as the outgoing leader displaced by [[peter-magyar|Péter Magyar]] in a landslide 2026 election.
+Viktor Orbán is the long-serving prime minister of [[hungary|Hungary]] whose government defined the country's hard-line immigration policy. In the April 17, 2026 Badlands Brief he appears as the outgoing leader displaced by [[peter-magyar|Péter Magyar]] in a landslide 2026 election.
 
 The Brief describes Orbán-era immigration policy as centered on hard border controls, opposition to European asylum quotas, and the framing of migration as a civilizational and security issue — positions that reshaped Hungary's domestic politics and its relationship with Brussels and the [[european-union|European Union]]. It also refers to Orbán's "centralized political system," which Magyar's government is expected to dismantle even while preserving the border regime.
 

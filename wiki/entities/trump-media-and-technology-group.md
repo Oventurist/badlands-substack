@@ -14,7 +14,7 @@ Trump Media and Technology Group is the media company founded by [[donald-trump|
 
 ## The blocked merger
 
-[[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] cites the merger's regulatory fate as part of its argument that Trump has gained nothing from his supposed membership in the [[deep-state|Deep State]]. [[erik-carlson|Erik Carlson]] asks why the [[securities-and-exchange-commission|SEC]] is "taking the unprecedented step of holding up the merger between DWAC and Trump Media, keeping him from growing his media, including injecting money into Truth Social."
+A Virus, or a Metaphor? cites the merger's regulatory fate as part of its argument that Trump has gained nothing from his supposed membership in the [[deep-state|Deep State]]. [[erik-carlson|Erik Carlson]] asks why the [[securities-and-exchange-commission|SEC]] is "taking the unprecedented step of holding up the merger between DWAC and Trump Media, keeping him from growing his media, including injecting money into Truth Social."
 
 In the article's framing, the delay prevented capital from reaching the platform and constrained the growth of Trump's independent media operation at a time when, in the author's account, every mainstream outlet was working to demonize him. The company thus functions in the essay as evidence of institutional hostility rather than of elite protection.
 

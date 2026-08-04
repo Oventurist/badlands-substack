@@ -10,7 +10,7 @@ contested: false
 ---
 # Denmark
 
-Denmark is a Northern European kingdom and [[nato|NATO]] member state whose realm includes the semi-autonomous Arctic territory of [[greenland]]. In the January 19, 2026 [[badlands-brief-02a|Badlands Brief]], Denmark appears as the principal counterparty to American pressure over Greenland's future.
+Denmark is a Northern European kingdom and [[nato|NATO]] member state whose realm includes the semi-autonomous Arctic territory of [[greenland]]. In the January 19, 2026 Badlands Brief, Denmark appears as the principal counterparty to American pressure over Greenland's future.
 
 ## The 2026 tariff confrontation
 

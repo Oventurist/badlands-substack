@@ -12,7 +12,7 @@ contested: false
 
 Julie Johnson is a Democratic member of the United States House of Representatives from Texas.
 
-She appears in the March 4, 2026 [[badlands-brief-165|Badlands Brief]] as an incumbent challenged in the March 3, 2026 Texas primary by former Representative [[collin-allred|Collin Allred]]. The Brief counts the race among the early tests of a Democratic primary season in which more than $64 million had been spent and thirty incumbents faced well-funded opponents in advance of the [[2026-united-states-midterm-elections|2026 midterm elections]].
+She appears in the March 4, 2026 Badlands Brief as an incumbent challenged in the March 3, 2026 Texas primary by former Representative [[collin-allred|Collin Allred]]. The Brief counts the race among the early tests of a Democratic primary season in which more than $64 million had been spent and thirty incumbents faced well-funded opponents in advance of the [[2026-united-states-midterm-elections|2026 midterm elections]].
 
 ## Sources
 

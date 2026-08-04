@@ -14,7 +14,7 @@ contested: true
 ---
 # Cheddi Jagan
 
-Cheddi Jagan (1918–1997) was a Guyanese politician who served as Premier of British Guiana and later President of Guyana. A Marxist-leaning leader, he was a target of U.S. covert operations during the Cold War. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Jagan is cited as a victim of CIA-backed labor sabotage.
+Cheddi Jagan (1918–1997) was a Guyanese politician who served as Premier of British Guiana and later President of Guyana. A Marxist-leaning leader, he was a target of U.S. covert operations during the Cold War. In the Badlands Media article A More Perfect (Labor) Union, Jagan is cited as a victim of CIA-backed labor sabotage.
 
 ## The 1962–63 general strike
 

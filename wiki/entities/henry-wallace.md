@@ -14,7 +14,7 @@ Henry A. Wallace was Vice President of the United States under [[franklin-d-roos
 
 ## Role in the Badlands corpus
 
-In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] pairs Wallace with Roosevelt as the authors of the conception of the [[united-nations|United Nations]] he regards as legitimate: "The UN as envisioned by FDR or Henry Wallace was also never meant to be a world government, but rather a platform for dialogue and harmonization of security and economic interests among civilizations." Wallace therefore stands in the article as a marker of the road not taken in American post-war policy, in contrast to the capture of the [[bretton-woods-system|Bretton Woods institutions]] and the U.S. government that Ehret describes as following the Second World War.
+In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] pairs Wallace with Roosevelt as the authors of the conception of the [[united-nations|United Nations]] he regards as legitimate: "The UN as envisioned by FDR or Henry Wallace was also never meant to be a world government, but rather a platform for dialogue and harmonization of security and economic interests among civilizations." Wallace therefore stands in the article as a marker of the road not taken in American post-war policy, in contrast to the capture of the [[bretton-woods-system|Bretton Woods institutions]] and the U.S. government that Ehret describes as following the Second World War.
 
 ## Sources
 

@@ -15,7 +15,7 @@ The Alliance Fleuve Congo (AFC) is a Rwanda-linked political-military coalition 
 
 ## Opposition to the US–DRC minerals partnership
 
-The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] reports that Nangaa, as AFC leader, publicly denounced the United States–DRC minerals partnership as unconstitutional, a claim rejected by the DRC presidency. Badlands commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] frames the objection as an attack on President [[donald-trump|Donald Trump]] and President [[felix-tshisekedi|Félix Tshisekedi]], and treats the AFC as an instrument of [[rwanda|Rwandan]] influence over Congolese mineral wealth.
+The January 30, 2026 Badlands Brief reports that Nangaa, as AFC leader, publicly denounced the United States–DRC minerals partnership as unconstitutional, a claim rejected by the DRC presidency. Badlands commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] frames the objection as an attack on President [[donald-trump|Donald Trump]] and President [[felix-tshisekedi|Félix Tshisekedi]], and treats the AFC as an instrument of [[rwanda|Rwandan]] influence over Congolese mineral wealth.
 
 ## Sources
 

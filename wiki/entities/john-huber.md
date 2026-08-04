@@ -10,7 +10,7 @@ contested: true
 ---
 # John Huber
 
-John Huber is a former United States Attorney for the District of Utah. The Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] describes him as the prosecutor secretly appointed by Attorney General [[jeff-sessions|Jeff Sessions]] in November 2017 to pursue investigations outside the ordinary channels of the [[department-of-justice|Justice Department]] and the [[fbi|FBI]].
+John Huber is a former United States Attorney for the District of Utah. The Badlands Media essay America for Sale — Part 2 describes him as the prosecutor secretly appointed by Attorney General [[jeff-sessions|Jeff Sessions]] in November 2017 to pursue investigations outside the ordinary channels of the [[department-of-justice|Justice Department]] and the [[fbi|FBI]].
 
 According to the article, Huber's first investigation focused on the [[clinton-foundation|Clinton Foundation]], which the author describes as the center of massive corruption leading to "many crimes and treason." Breitbart, quoting Professor Jonathan Turley, is cited calling Sessions' decision to bring in Huber "brilliant" for combining the powers of the department's inspector general with a prosecutor who can bring charges, seek indictments and obtain results more quickly than a second special counsel.
 

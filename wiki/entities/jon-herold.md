@@ -14,7 +14,7 @@ Jon Herold is an American independent writer and [[badlands-media|Badlands Media
 
 ## Role in the corpus
 
-In the November 2022 essay [[all-assets-deployed|All Assets Deployed]], [[burning-bright|Burning Bright]] directs readers who believe [[donald-trump|Donald Trump]]'s 2024 announcement disproves Devolution to "take another read through Jon Herold's series," and reframes its thesis as a defensive measure protecting red-line national security functions rather than a plan for immediate restoration of power.
+In the November 2022 essay All Assets Deployed, [[burning-bright|Burning Bright]] directs readers who believe [[donald-trump|Donald Trump]]'s 2024 announcement disproves Devolution to "take another read through Jon Herold's series," and reframes its thesis as a defensive measure protecting red-line national security functions rather than a plan for immediate restoration of power.
 
 The same essay notes that Herold, its author, and "several others at Badlands Media advanced plenty of theories and projections heading into the [[2022-united-states-midterm-elections|Midterm Elections]]," including the then-unpopular argument that a crushing and actualized Red Wave might undo the ongoing exposure operation by placing the movement in front of a runaway train and leaving it to take the blame "like a miscast Judas."
 

@@ -15,7 +15,7 @@ Venezuela is a South American state that, in the Badlands corpus, became the foc
 
 ## The Maduro operation and its aftermath
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] treats "the recent US operation involving Venezuela" as the reference event for the region: it prompted criticism from Colombian President [[gustavo-petro|Gustavo Petro]], it was cited by German President [[frank-walter-steinmeier|Frank-Walter Steinmeier]] as evidence that US policy is eroding the global order, and Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] invoked it as a template for a "Maduro-style" operation against Chechen leader [[ramzan-kadyrov|Ramzan Kadyrov]].
+The January 9, 2026 Badlands Brief treats "the recent US operation involving Venezuela" as the reference event for the region: it prompted criticism from Colombian President [[gustavo-petro|Gustavo Petro]], it was cited by German President [[frank-walter-steinmeier|Frank-Walter Steinmeier]] as evidence that US policy is eroding the global order, and Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] invoked it as a template for a "Maduro-style" operation against Chechen leader [[ramzan-kadyrov|Ramzan Kadyrov]].
 
 ## Legal case against Maduro
 
@@ -28,12 +28,12 @@ An EU Commission spokesperson reportedly said the [[european-union|European Unio
 
 ## 2026 World Baseball Classic championship
 
-A bonus item in the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that Venezuela defeated Team USA 3-2 at LoanDepot Park in Miami to win its first [[world-baseball-classic|World Baseball Classic]] title, before a heavily pro-Venezuela crowd drawn from the large Venezuelan immigrant community in South Florida. Maikel Garcia and Wilyer Abreu produced the early runs, Eugenio Suárez the ninth-inning go-ahead double, and Daniel Palencia closed the game out. Manager Omar López praised the squad's unity amid the country's political tensions, saying they played "together with no color, political colors or ideology."
+A bonus item in the March 18, 2026 Badlands Brief reports that Venezuela defeated Team USA 3-2 at LoanDepot Park in Miami to win its first [[world-baseball-classic|World Baseball Classic]] title, before a heavily pro-Venezuela crowd drawn from the large Venezuelan immigrant community in South Florida. Maikel Garcia and Wilyer Abreu produced the early runs, Eugenio Suárez the ninth-inning go-ahead double, and Daniel Palencia closed the game out. Manager Omar López praised the squad's unity amid the country's political tensions, saying they played "together with no color, political colors or ideology."
 
 
 ## Withdrawal from the ICC
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that the United States welcomed Venezuela's decision to withdraw from the [[international-criminal-court|International Criminal Court]] and called on other countries to follow suit, according to a [[state-department|State Department]] statement reported by Anadolu Agency.
+The July 27, 2026 Badlands Brief reports that the United States welcomed Venezuela's decision to withdraw from the [[international-criminal-court|International Criminal Court]] and called on other countries to follow suit, according to a [[state-department|State Department]] statement reported by Anadolu Agency.
 
 [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] records that a group of "Zionist congressmen" traveled to Caracas the preceding weekend to meet interim president [[delcy-rodriguez|Delcy Rodríguez]], who then announced the withdrawal — prompting allegations that she acted on [[israel|Israel]]'s behalf. He offers an alternative explanation: the ICC has investigated the Venezuelan government since [[nicolas-maduro|Nicolás Maduro]] took office in 2014, opened formal investigations after referrals from "NeoCon-aligned governments" in 2018, and received further referrals from [[ecuador|Ecuador]] as recently as the prior year. Because the court denied all Venezuelan requests to close the inquiries, he concludes it intended to indict Maduro and probably Rodríguez and to bring the country under UN control. The State Department's use of the withdrawal as a rallying cry is read as evidence of President [[donald-trump|Donald Trump]]'s ability "to turn the [[deep-state|Deep State]] against itself."
 

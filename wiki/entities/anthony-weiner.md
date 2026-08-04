@@ -15,7 +15,7 @@ Anthony Weiner is a former Democratic member of the [[house-of-representatives|U
 
 ## The laptop and the "insurance" folder
 
-The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] recounts that during Hillary Clinton's congressional testimony in the Epstein inquiries, a member of Congress attempted to ask about the alleged existence of a video called "[[frazzledrip|frazzledrip]]" contained in a folder named "insurance" on Weiner's laptop. According to [[ashe-in-america|Ashe in America]]'s account, Clinton's attorneys intervened before the question could be completed, a reaction she characterized as "outsized for the stimulus" and "eyebrow raising," while conceding it was "not definitive."
+The March 3, 2026 Badlands Brief recounts that during Hillary Clinton's congressional testimony in the Epstein inquiries, a member of Congress attempted to ask about the alleged existence of a video called "[[frazzledrip|frazzledrip]]" contained in a folder named "insurance" on Weiner's laptop. According to [[ashe-in-america|Ashe in America]]'s account, Clinton's attorneys intervened before the question could be completed, a reaction she characterized as "outsized for the stimulus" and "eyebrow raising," while conceding it was "not definitive."
 
 The claim that Weiner's laptop contained a partitioned "insurance" file has circulated in online research communities since 2016, when the device was reported to contain Clinton-related emails. Mainstream reporting has not corroborated the existence of any such video, and the Brief itself presents the matter as an unresolved question rather than an established fact.
 

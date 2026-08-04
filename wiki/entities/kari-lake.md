@@ -14,7 +14,7 @@ Kari Lake is an American broadcaster-turned-politician who was the Republican no
 
 ## The 2022 gubernatorial race
 
-Writing on November 5, 2022 in an article titled "Why Kari Lake Will Lose in Arizona," [[kitty-gillespie|Kitty Gillespie]] predicted Lake's defeat and warned that any manipulation of the governor's race would require flipping the entire Republican down-ballot ticket for the result to be credible. In [[an-sos-from-ground-zero|An SOS From Ground Zero]], published November 22, Gillespie points to statewide totals showing 1,287,322 votes cast for governor against 1,389,215 for State Treasurer as evidence supporting her thesis.
+Writing on November 5, 2022 in an article titled "Why Kari Lake Will Lose in Arizona," [[kitty-gillespie|Kitty Gillespie]] predicted Lake's defeat and warned that any manipulation of the governor's race would require flipping the entire Republican down-ballot ticket for the result to be credible. In An SOS From Ground Zero, published November 22, Gillespie points to statewide totals showing 1,287,322 votes cast for governor against 1,389,215 for State Treasurer as evidence supporting her thesis.
 
 ## Post-election litigation and messaging
 
@@ -28,7 +28,7 @@ On Friday, December 9, 2022, Lake filed a 70-page election contest in [[maricopa
 
 The complaint alleges that illegal votes far exceeded the 17,117-vote margin, that 59% of Maricopa County's 223 vote centers suffered printer and tabulator failures disproportionately harming Election Day voters who favored Lake 3:1, and that a conservative estimate places the resulting suppression of her Election Day vote at between 15,603 and 29,257 votes. It further alleges the absence of chain of custody for some 298,942 early ballots processed through [[runbeck-election-services|Runbeck Election Services]], systematic failures in signature verification, and that Maricopa County added 25,000 ballots to its totals after Election Day. The complaint's conclusion, widely circulated in a Twitter thread by [[liz-harrington|Liz Harrington]], is that maladministration and illegal votes caused Arizona to wrongfully name Hobbs the winner.
 
-The Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]] predicts that Arizona's courts will reject the case at every level and that it will ultimately reach the [[supreme-court-of-the-united-states|Supreme Court]].
+The Badlands Media article "Arizona Earthquake!" predicts that Arizona's courts will reject the case at every level and that it will ultimately reach the [[supreme-court-of-the-united-states|Supreme Court]].
 
 ## Sources
 

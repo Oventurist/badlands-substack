@@ -14,13 +14,13 @@ JD Vance is a United States Senator from Ohio who was selected by [[donald-trump
 
 ## In the Badlands corpus
 
-The Badlands Media essay [[a-week-to-remember|A Week to Remember]] by [[erik-carlson|Erik Carlson]] cites Vance's selection as one of the rapid-fire developments that made mid-July 2024 an extraordinary period in American politics. Listing the sequence of events following the July 13, 2024 assassination attempt at the Butler, Pennsylvania rally, the article notes that "Trump has picked JD Vance as his VP, the RNC occurred, and [[joe-biden|Biden]] has dropped out of the race." Vance's nomination was formalized at the [[republican-national-convention|Republican National Convention]] held days after the shooting.
+The Badlands Media essay A Week to Remember by [[erik-carlson|Erik Carlson]] cites Vance's selection as one of the rapid-fire developments that made mid-July 2024 an extraordinary period in American politics. Listing the sequence of events following the July 13, 2024 assassination attempt at the Butler, Pennsylvania rally, the article notes that "Trump has picked JD Vance as his VP, the RNC occurred, and [[joe-biden|Biden]] has dropped out of the race." Vance's nomination was formalized at the [[republican-national-convention|Republican National Convention]] held days after the shooting.
 
 The article does not analyse Vance's politics or record; he appears as a marker in the compressed timeline the author uses to argue that a "tectonic shift of the narrative" was occurring daily.
 
 ## Big Tech and cryptocurrency connections
 
-In [[are-we-being-distracted|Are We Being Distracted?]] (August 2024), [[erik-carlson|Erik Carlson]] returns to Vance's selection with an economic reading. Rather than following press coverage of who forced [[joe-biden|Biden]] out of the race, readers are urged to "consider why Trump would choose JD Vance as his VP, Vance's connection to Big Tech and Cryptocurrency." The pairing of Vance's nomination with [[donald-trump|Trump]]'s address at the [[bitcoin-2024-conference|Bitcoin Conference]] is offered as evidence that the incoming ticket was oriented toward a restructuring of the American financial system.
+In Are We Being Distracted? (August 2024), [[erik-carlson|Erik Carlson]] returns to Vance's selection with an economic reading. Rather than following press coverage of who forced [[joe-biden|Biden]] out of the race, readers are urged to "consider why Trump would choose JD Vance as his VP, Vance's connection to Big Tech and Cryptocurrency." The pairing of Vance's nomination with [[donald-trump|Trump]]'s address at the [[bitcoin-2024-conference|Bitcoin Conference]] is offered as evidence that the incoming ticket was oriented toward a restructuring of the American financial system.
 
 ## Sources
 

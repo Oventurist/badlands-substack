@@ -10,7 +10,7 @@ contested: true
 ---
 # Pause Giant AI Experiments Open Letter
 
-The open letter of March 22, 2023 called "on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4." Signatories cited in the July 2023 Badlands Media article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" include [[tristan-harris|Tristan Harris]], [[aza-raskin|Aza Raskin]] (rendered "Ava Raskin" in the source), [[yuval-noah-harari|Yuval Noah Harari]], and [[elon-musk|Elon Musk]].
+The open letter of March 22, 2023 called "on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4." Signatories cited in the July 2023 Badlands Media article "Artificial Intelligence: Hysteria vs. Reason" include [[tristan-harris|Tristan Harris]], [[aza-raskin|Aza Raskin]] (rendered "Ava Raskin" in the source), [[yuval-noah-harari|Yuval Noah Harari]], and [[elon-musk|Elon Musk]].
 
 ## The article's objection
 

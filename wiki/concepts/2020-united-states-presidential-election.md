@@ -10,7 +10,7 @@ contested: true
 ---
 # 2020 United States Presidential Election
 
-The 2020 United States presidential election, which resulted in the certification of [[joe-biden|Joe Biden]] as president over the incumbent [[donald-trump|Donald Trump]], is treated throughout the Badlands Media corpus as a contested and, in the view of its contributors, stolen election. The September 2023 essay [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]] approaches the election specifically through the question of whether allegations of fraud have ever received a genuine judicial hearing.
+The 2020 United States presidential election, which resulted in the certification of [[joe-biden|Joe Biden]] as president over the incumbent [[donald-trump|Donald Trump]], is treated throughout the Badlands Media corpus as a contested and, in the view of its contributors, stolen election. The September 2023 essay Are Jack Smith and Fani Willis in on the Plan? approaches the election specifically through the question of whether allegations of fraud have ever received a genuine judicial hearing.
 
 ## The litigation record
 

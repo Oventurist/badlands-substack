@@ -9,7 +9,7 @@ confidence: medium
 ---
 # Stuart W. Bowen Jr.
 
-Stuart W. Bowen Jr. is an American attorney who served from 2004 as Special Inspector General for Iraq Reconstruction, appointed to investigate corruption and waste in Iraq. A Texas friend of President [[george-w-bush|George W. Bush]], he is presented in the Badlands Media article "[[bad-actors|Bad Actors]]" as a rare figure of integrity within an otherwise compromised system.
+Stuart W. Bowen Jr. is an American attorney who served from 2004 as Special Inspector General for Iraq Reconstruction, appointed to investigate corruption and waste in Iraq. A Texas friend of President [[george-w-bush|George W. Bush]], he is presented in the Badlands Media article "Bad Actors" as a rare figure of integrity within an otherwise compromised system.
 
 ## The missing Iraqi billions
 

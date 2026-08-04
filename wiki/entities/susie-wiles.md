@@ -15,7 +15,7 @@ Susie Wiles is an American political operative who serves as White House Chief o
 
 ## Arctic Frost phone records
 
-Wiles features in the [[badlands-brief-40d|February 27, 2026 Badlands Brief]] in connection with the [[arctic-frost|Arctic Frost]] investigation. According to Reuters reporting cited by the Brief, the [[fbi|FBI]] subpoenaed the phone records of Wiles and [[kash-patel|Kash Patel]] during the Biden administration, at a time when both were private citizens rather than federal officials. Patel, now FBI Director, said on Wednesday, February 25, 2026 that those records were located in files labeled "Prohibited."
+Wiles features in the February 27, 2026 Badlands Brief in connection with the [[arctic-frost|Arctic Frost]] investigation. According to Reuters reporting cited by the Brief, the [[fbi|FBI]] subpoenaed the phone records of Wiles and [[kash-patel|Kash Patel]] during the Biden administration, at a time when both were private citizens rather than federal officials. Patel, now FBI Director, said on Wednesday, February 25, 2026 that those records were located in files labeled "Prohibited."
 
 Congressional oversight disclosures indicate that hundreds of Trump-aligned individuals and organizations, including sitting members of [[congress|Congress]], were targeted with subpoenas and data requests under the same investigation. Badlands contributor [[ashe-in-america|Ashe in America]] characterized the collection of records on Wiles, Patel and others as "hard to spin as anything other than political targeting – weaponization of government," and argued that because the former targets of the surveillance now hold the offices responsible for oversight, "the hunted have become the hunters."
 

@@ -13,7 +13,7 @@ contested: true
 ---
 # Center for International Private Enterprise
 
-The Center for International Private Enterprise (CIPE) is a U.S. non-profit organization, an affiliate of the U.S. Chamber of Commerce, that promotes market-based democracy and private enterprise abroad. It is funded by the [[national-endowment-for-democracy|National Endowment for Democracy]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], CIPE is listed among the "CIA-adjacent cut-outs" funded by NED.
+The Center for International Private Enterprise (CIPE) is a U.S. non-profit organization, an affiliate of the U.S. Chamber of Commerce, that promotes market-based democracy and private enterprise abroad. It is funded by the [[national-endowment-for-democracy|National Endowment for Democracy]]. In the Badlands Media article A More Perfect (Labor) Union, CIPE is listed among the "CIA-adjacent cut-outs" funded by NED.
 
 ## Role in the NED network
 

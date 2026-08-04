@@ -11,7 +11,7 @@ contested: false
 
 # Colin McDonald
 
-Colin McDonald is an American federal prosecutor nominated by President [[donald-trump|Donald Trump]] on January 28, 2026 to serve as the first Assistant Attorney General for National Fraud Enforcement, heading a newly created division of the [[department-of-justice|Department of Justice]]. The nomination was reported by [[badlands-media|Badlands Media]] and summarized in the [[badlands-brief-1ce|January 30, 2026 Badlands Brief]].
+Colin McDonald is an American federal prosecutor nominated by President [[donald-trump|Donald Trump]] on January 28, 2026 to serve as the first Assistant Attorney General for National Fraud Enforcement, heading a newly created division of the [[department-of-justice|Department of Justice]]. The nomination was reported by [[badlands-media|Badlands Media]] and summarized in the January 30, 2026 Badlands Brief.
 
 ## Nomination
 

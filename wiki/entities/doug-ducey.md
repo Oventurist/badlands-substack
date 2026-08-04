@@ -14,7 +14,7 @@ Doug Ducey is an American businessman and Republican politician who served as Go
 
 ## Role in the corpus
 
-Ducey appears in [[an-sos-from-ground-zero|An SOS From Ground Zero]] chiefly as the occasion for a constitutional question. [[kitty-gillespie|Kitty Gillespie]] surmises that "Governor Ducey was headed out of state on Friday, creating a 'temporary disability,' so somebody needed to take the helm," which led to Attorney General [[mark-brnovich|Mark Brnovich]] being described as acting governor. Gillespie contrasts this with Article V, Section 6 of the Constitution of Arizona, under which the [[arizona-secretary-of-state|Secretary of State]] — then [[katie-hobbs|Katie Hobbs]] — stands first in the line of succession. Ducey himself is not otherwise criticized in the article, but his absence during the final week before the statutory canvass deadline forms part of the picture of institutional drift the piece describes.
+Ducey appears in An SOS From Ground Zero chiefly as the occasion for a constitutional question. [[kitty-gillespie|Kitty Gillespie]] surmises that "Governor Ducey was headed out of state on Friday, creating a 'temporary disability,' so somebody needed to take the helm," which led to Attorney General [[mark-brnovich|Mark Brnovich]] being described as acting governor. Gillespie contrasts this with Article V, Section 6 of the Constitution of Arizona, under which the [[arizona-secretary-of-state|Secretary of State]] — then [[katie-hobbs|Katie Hobbs]] — stands first in the line of succession. Ducey himself is not otherwise criticized in the article, but his absence during the final week before the statutory canvass deadline forms part of the picture of institutional drift the piece describes.
 
 ## Sources
 

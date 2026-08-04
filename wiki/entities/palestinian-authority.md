@@ -10,7 +10,7 @@ contested: true
 ---
 # Palestinian Authority
 
-The Palestinian Authority (PA) is the governing body established to administer Palestinian territories. In the Badlands Media article "[[bad-actors|Bad Actors]]" it is the recipient of a disputed $221 million payment made by the outgoing administration of [[barack-obama|Barack Obama]] hours before [[donald-trump|Donald Trump]]'s inauguration.
+The Palestinian Authority (PA) is the governing body established to administer Palestinian territories. In the Badlands Media article "Bad Actors" it is the recipient of a disputed $221 million payment made by the outgoing administration of [[barack-obama|Barack Obama]] hours before [[donald-trump|Donald Trump]]'s inauguration.
 
 ## The $221 million transfer
 

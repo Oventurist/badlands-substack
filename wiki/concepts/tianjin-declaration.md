@@ -10,7 +10,7 @@ contested: true
 ---
 # Tianjin Declaration
 
-The Tianjin Declaration is the concluding document of the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]] summit held in Tianjin, China, on August 31 and September 1, 2025. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] presents the declaration as the statement of "immutable principles" underpinning a new financial and security architecture.
+The Tianjin Declaration is the concluding document of the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]] summit held in Tianjin, China, on August 31 and September 1, 2025. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] presents the declaration as the statement of "immutable principles" underpinning a new financial and security architecture.
 
 ## Principles as summarised in the source
 

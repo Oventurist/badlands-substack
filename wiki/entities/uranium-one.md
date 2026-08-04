@@ -10,7 +10,7 @@ contested: true
 ---
 # Uranium One
 
-Uranium One was a uranium mining company, originally South African, that after a 2007 merger with [[urasia-energy|UrAsia Energy Ltd.]] became a major producer with assets in Africa, Australia, [[kazakhstan|Kazakhstan]] and the United States. Its acquisition by the Russian state nuclear agency [[rosatom|Rosatom]] between 2009 and 2013 became one of the most contested episodes of the Obama administration, and is examined at length in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]].
+Uranium One was a uranium mining company, originally South African, that after a 2007 merger with [[urasia-energy|UrAsia Energy Ltd.]] became a major producer with assets in Africa, Australia, [[kazakhstan|Kazakhstan]] and the United States. Its acquisition by the Russian state nuclear agency [[rosatom|Rosatom]] between 2009 and 2013 became one of the most contested episodes of the Obama administration, and is examined at length in the Badlands Media essay America for Sale — Part 3.
 
 ## Formation
 

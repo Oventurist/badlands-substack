@@ -10,7 +10,7 @@ contested: true
 ---
 # NAACP v. USEIP
 
-*NAACP et al. v. USEIP et al.* was a federal civil action filed in the [[us-district-court-for-the-district-of-colorado|United States District Court for the District of Colorado]] on March 9, 2022 and tried in July 2024. It is the subject of the essay [[always-fight-back|"Always Fight Back"]] by [[ashe-in-america|Ashe in America]], one of the named defendants, who represented herself pro se.
+*NAACP et al. v. USEIP et al.* was a federal civil action filed in the [[us-district-court-for-the-district-of-colorado|United States District Court for the District of Colorado]] on March 9, 2022 and tried in July 2024. It is the subject of the essay "Always Fight Back" by [[ashe-in-america|Ashe in America]], one of the named defendants, who represented herself pro se.
 
 ## Parties and claims
 

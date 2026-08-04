@@ -10,7 +10,7 @@ contested: true
 ---
 # 1992 Los Angeles Riots
 
-The 1992 Los Angeles riots followed the acquittal of four [[los-angeles-police-department|LAPD]] officers tried for the 1991 beating of [[rodney-king|Rodney King]]. The Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] treats the episode as a case study in manufactured racial conflict.
+The 1992 Los Angeles riots followed the acquittal of four [[los-angeles-police-department|LAPD]] officers tried for the 1991 beating of [[rodney-king|Rodney King]]. The Badlands Media essay A Journey of Ever changing Truths treats the episode as a case study in manufactured racial conflict.
 
 [[erik-carlson|Erik Carlson]] recounts that the acquittal "sparked mass riots in the Los Angeles area," with violence, destruction, and looting. He cites two images from the unrest that entered public memory: a white truck driver "famously dragged out of his truck and beaten," and inner-city Korean convenience store owners who "protected their stores with rifles from the rooftops." A race riot, in his summary, was occurring, and "any support the black community received following the King beating was now completely gone."
 

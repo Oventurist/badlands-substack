@@ -15,7 +15,7 @@ Clay Higgins is a Republican member of the United States House of Representative
 
 ## Mail ballot legislation
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] identifies Higgins as the sponsor of a federal mail ballot act that commentator [[ashe-in-america|Ashe in America]] urges [[congress|Congress]] to pass. Her argument follows the [[supreme-court-of-the-united-states|Supreme Court]]'s June 2026 ruling that federal law does not prohibit states from counting absentee ballots received after Election Day: because the Court declined to resolve the question judicially, she contends, the remedy properly lies with the legislature. In that framing Higgins' bill is paired with the [[save-america-act|SAVE America Act]] as the legislative route to tightening mail balloting rules, with parallel pressure to be applied on state legislatures by voters directly.
+"Condemnation, Calibration, & Constitutional Boxes" identifies Higgins as the sponsor of a federal mail ballot act that commentator [[ashe-in-america|Ashe in America]] urges [[congress|Congress]] to pass. Her argument follows the [[supreme-court-of-the-united-states|Supreme Court]]'s June 2026 ruling that federal law does not prohibit states from counting absentee ballots received after Election Day: because the Court declined to resolve the question judicially, she contends, the remedy properly lies with the legislature. In that framing Higgins' bill is paired with the [[save-america-act|SAVE America Act]] as the legislative route to tightening mail balloting rules, with parallel pressure to be applied on state legislatures by voters directly.
 
 ## Sources
 

@@ -15,7 +15,7 @@ Jeff Crank is the United States Representative for Colorado's fifth congressiona
 
 ## Co-plaintiff in the Colorado overseas voting suit
 
-As reported in [[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]], Crank joined the [[republican-national-committee|Republican National Committee]] and Douglas County Clerk [[sheri-davis|Sheri Davis]] in suing Colorado Secretary of State [[jena-griswold|Jena Griswold]] over guidance permitting certain never-resident U.S. citizens abroad to register and vote in Colorado under the [[uniformed-and-overseas-citizens-absentee-voting-act|Uniformed and Overseas Citizens Absentee Voting Act]].
+As reported in "Condemnation, Calibration, & Constitutional Boxes", Crank joined the [[republican-national-committee|Republican National Committee]] and Douglas County Clerk [[sheri-davis|Sheri Davis]] in suing Colorado Secretary of State [[jena-griswold|Jena Griswold]] over guidance permitting certain never-resident U.S. citizens abroad to register and vote in Colorado under the [[uniformed-and-overseas-citizens-absentee-voting-act|Uniformed and Overseas Citizens Absentee Voting Act]].
 
 ## Assessment in Badlands commentary
 

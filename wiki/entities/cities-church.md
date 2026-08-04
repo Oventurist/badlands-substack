@@ -10,7 +10,7 @@ contested: false
 ---
 # Cities Church
 
-Cities Church is a Christian congregation in St. Paul, Minnesota. It became a national flashpoint in January 2026 when, according to the [[badlands-brief-144|Badlands Brief]] of January 20, 2026, dozens of left-wing activists stormed the church during a Sunday service.
+Cities Church is a Christian congregation in St. Paul, Minnesota. It became a national flashpoint in January 2026 when, according to the Badlands Brief of January 20, 2026, dozens of left-wing activists stormed the church during a Sunday service.
 
 The demonstrators were reportedly targeting a pastor believed to be connected to the local field office operations of [[immigration-and-customs-enforcement|ICE]], at a time when federal deportation operations in the Minneapolis–St. Paul sanctuary-city region had triggered sustained protests and riots, intensified by the fatal shooting of [[renee-good|Renee Good]] by an ICE agent.
 

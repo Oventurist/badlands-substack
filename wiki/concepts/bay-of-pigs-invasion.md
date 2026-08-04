@@ -22,7 +22,7 @@ The invasion was planned and executed by the [[cia]] under the Eisenhower admini
 
 ## Connection to George H.W. Bush
 
-In the Badlands Media article [[a-family-affair]], the Bay of Pigs invasion is linked to [[george-hw-bush]] through his ownership of [[zapata-offshore]], an oil company that allegedly provided three ships—the *Houston*, *Barbara J*, and *Zapata*—for the invasion. The CIA code-named the operation [[operation-zapata]], which the article interprets as direct acknowledgment of Bush's involvement. The source argues that Bush has been a leader of clandestine operations since the early 1950s and that his role in the Bay of Pigs has been deliberately hidden from the public.
+In the Badlands Media article a family affair, the Bay of Pigs invasion is linked to [[george-hw-bush]] through his ownership of [[zapata-offshore]], an oil company that allegedly provided three ships—the *Houston*, *Barbara J*, and *Zapata*—for the invasion. The CIA code-named the operation [[operation-zapata]], which the article interprets as direct acknowledgment of Bush's involvement. The source argues that Bush has been a leader of clandestine operations since the early 1950s and that his role in the Bay of Pigs has been deliberately hidden from the public.
 
 ## Legacy
 

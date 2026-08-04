@@ -20,7 +20,7 @@ The article frames Shelton's nomination as part of Trump's broader attempt, remi
 - [[Federal Reserve]] — the institution to which Shelton was nominated
 - [[Andrew Jackson]] — the historical figure whose monetary opposition Shelton is said to share
 - [[Coinage Act of 1873]] — the gold standard legislation Shelton allegedly supports
-- [[1913]] — the year of the cabal's consolidation that Shelton's nomination is said to challenge
+- 1913 — the year of the cabal's consolidation that Shelton's nomination is said to challenge
 
 ## Sources
 

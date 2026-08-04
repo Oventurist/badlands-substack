@@ -10,7 +10,7 @@ contested: true
 ---
 # Rapture
 
-The rapture is the belief that both living and dead believers will ascend into heaven to meet Jesus Christ at the Second Coming. It is subjected to sustained reinterpretation in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]].
+The rapture is the belief that both living and dead believers will ascend into heaven to meet Jesus Christ at the Second Coming. It is subjected to sustained reinterpretation in the Badlands Media feature "Are We Entering the Millennial Reign?".
 
 ## Terminology
 

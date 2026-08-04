@@ -10,7 +10,7 @@ contested: true
 ---
 # Automated Clearing House
 
-The Automated Clearing House (ACH) is the electronic network used to clear and settle most routine payments between American financial institutions, including direct deposits, bill payments, and interbank transfers. In [[joe-lange|Joe Lange]]'s article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] it serves as the foil against which the benefits of blockchain-based money are measured.
+The Automated Clearing House (ACH) is the electronic network used to clear and settle most routine payments between American financial institutions, including direct deposits, bill payments, and interbank transfers. In [[joe-lange|Joe Lange]]'s article "Are CBDCs The Path To Fear, or Freedom?" it serves as the foil against which the benefits of blockchain-based money are measured.
 
 The article draws a sharp distinction between electronic currency moving over ACH and digital currency moving over a [[blockchain]]. ACH payments, it notes, do not settle in minutes but can take several days for the transfer to become official, and during that interval the transaction passes through a third party. Lange characterizes that intermediary as being under [[cabal]] control, which he says gives it the power to cancel transactions before they finalize — the same power, in his framing, behind the ability to freeze bank accounts and credit cards.
 

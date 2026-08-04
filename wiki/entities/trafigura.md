@@ -14,7 +14,7 @@ Trafigura is a multinational commodity trading company and one of the largest in
 
 ## Venezuelan oil brokerage
 
-According to the January 26, 2026 [[badlands-brief-577|Badlands Brief]], President [[donald-trump|Donald Trump]] called on Trafigura and Vitol to begin brokering deals with potential buyers of Venezuelan crude as Venezuela's legislature moved to liberalize the sector under Acting President [[delcy-rodriguez|Delcy Rodríguez]], reversing the state-control model established under [[hugo-chavez|Hugo Chávez]].
+According to the January 26, 2026 Badlands Brief, President [[donald-trump|Donald Trump]] called on Trafigura and Vitol to begin brokering deals with potential buyers of Venezuelan crude as Venezuela's legislature moved to liberalize the sector under Acting President [[delcy-rodriguez|Delcy Rodríguez]], reversing the state-control model established under [[hugo-chavez|Hugo Chávez]].
 
 ## Corruption cases
 

@@ -11,7 +11,7 @@ contested: false
 
 # California Senate Bill 73
 
-California Senate Bill 73 is a state law signed by Governor [[gavin-newsom|Gavin Newsom]] in May 2026 that sharply restricts law enforcement access to ballots and election records. It is discussed in the [[badlands-brief-257|Badlands Brief of May 29, 2026]] as a pre-primary measure by the state government.
+California Senate Bill 73 is a state law signed by Governor [[gavin-newsom|Gavin Newsom]] in May 2026 that sharply restricts law enforcement access to ballots and election records. It is discussed in the Badlands Brief of May 29, 2026 as a pre-primary measure by the state government.
 
 ## Provisions
 

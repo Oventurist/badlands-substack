@@ -15,7 +15,7 @@ John Thune is the Majority Leader of the United States [[senate|Senate]].
 
 ## Fraud prosecutor confirmation
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that Vice President [[jd-vance|JD Vance]] announced the creation of a new assistant attorney general position focused on investigating fraud tied to federally backed programs, and that the position will require Senate confirmation. Vance said a nominee was expected within days and added that Thune had pledged swift confirmation. The initiative follows claims that taxpayers lost billions of dollars in [[minnesota|Minnesota]] through the [[minnesota-somali-fraud|Somali-linked fraud]] schemes.
+The January 9, 2026 Badlands Brief reports that Vice President [[jd-vance|JD Vance]] announced the creation of a new assistant attorney general position focused on investigating fraud tied to federally backed programs, and that the position will require Senate confirmation. Vance said a nominee was expected within days and added that Thune had pledged swift confirmation. The initiative follows claims that taxpayers lost billions of dollars in [[minnesota|Minnesota]] through the [[minnesota-somali-fraud|Somali-linked fraud]] schemes.
 
 ## Sources
 

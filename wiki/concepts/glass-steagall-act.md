@@ -10,7 +10,7 @@ contested: true
 ---
 # Glass-Steagall Act
 
-The Glass-Steagall Act was the 1933 United States banking law that separated commercial from speculative investment banking. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], its repeal is treated as a decisive moment in the construction of the post-Cold War financial order.
+The Glass-Steagall Act was the 1933 United States banking law that separated commercial from speculative investment banking. In the Badlands Media essay A Re Alignment of World Systems, its repeal is treated as a decisive moment in the construction of the post-Cold War financial order.
 
 ## Role in the source
 

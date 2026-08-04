@@ -10,7 +10,7 @@ contested: true
 ---
 # Great Tribulation
 
-The Tribulation is the period of divine judgment on a sinful and wicked world described in the [[book-of-revelation|book of Revelation]]. It is examined at length in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], which asks whether the present era qualifies.
+The Tribulation is the period of divine judgment on a sinful and wicked world described in the [[book-of-revelation|book of Revelation]]. It is examined at length in the Badlands Media feature "Are We Entering the Millennial Reign?", which asks whether the present era qualifies.
 
 ## Duration and structure
 

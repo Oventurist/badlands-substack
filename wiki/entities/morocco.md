@@ -15,7 +15,7 @@ Morocco is a North African kingdom and one of the signatory states of the [[abra
 
 ## Membership in the Abraham Accords
 
-In the [[truth-social|Truth Social]] statement reproduced in the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," Trump listed Morocco among the existing Accords members — with the [[united-arab-emirates|United Arab Emirates]], [[bahrain|Bahrain]], [[sudan|Sudan]] and [[kazakhstan|Kazakhstan]] — arguing that participation had produced "a Financial, Economic, and Social BOOM" for those countries even during a period of conflict and war, and that no member had ever suggested leaving or pausing its participation.
+In the [[truth-social|Truth Social]] statement reproduced in the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," Trump listed Morocco among the existing Accords members — with the [[united-arab-emirates|United Arab Emirates]], [[bahrain|Bahrain]], [[sudan|Sudan]] and [[kazakhstan|Kazakhstan]] — arguing that participation had produced "a Financial, Economic, and Social BOOM" for those countries even during a period of conflict and war, and that no member had ever suggested leaving or pausing its participation.
 
 ## Sources
 

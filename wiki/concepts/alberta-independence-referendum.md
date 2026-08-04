@@ -11,7 +11,7 @@ contested: true
 
 # Alberta Independence Referendum
 
-The Alberta independence referendum is a provincial vote scheduled for October 2026, announced by Premier [[danielle-smith|Danielle Smith]]. According to the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," the referendum asks whether the province of [[alberta|Alberta]] should begin the legal process toward a future binding independence vote — that is, it is a preliminary or enabling ballot rather than a direct vote on secession from [[canada|Canada]].
+The Alberta independence referendum is a provincial vote scheduled for October 2026, announced by Premier [[danielle-smith|Danielle Smith]]. According to the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," the referendum asks whether the province of [[alberta|Alberta]] should begin the legal process toward a future binding independence vote — that is, it is a preliminary or enabling ballot rather than a direct vote on secession from [[canada|Canada]].
 
 ## Federal opposition
 

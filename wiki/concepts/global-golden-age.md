@@ -10,7 +10,7 @@ contested: true
 ---
 # Global Golden Age
 
-The **Global Golden Age** is a framing term used in [[badlands-media|Badlands Media]] commentary to describe an anticipated worldwide transition toward restored sovereignty, national renewal and the resolution of long-running conflicts. In [[badlands-blitz-episode-26|Badlands Blitz Episode 26]], published July 25, 2026, hosts [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] discuss what the announcement calls "the advent of the Global Golden Age from some unlikely angles."
+The **Global Golden Age** is a framing term used in [[badlands-media|Badlands Media]] commentary to describe an anticipated worldwide transition toward restored sovereignty, national renewal and the resolution of long-running conflicts. In Badlands Blitz Episode 26, published July 25, 2026, hosts [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] discuss what the announcement calls "the advent of the Global Golden Age from some unlikely angles."
 
 ## Scope of the concept
 

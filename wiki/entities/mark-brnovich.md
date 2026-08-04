@@ -10,7 +10,7 @@ contested: true
 ---
 # Mark Brnovich
 
-Mark Brnovich is an American attorney and Republican politician who served as Attorney General of Arizona from 2015 until January 2023. In the Badlands Media corpus he is a figure of derision: [[kitty-gillespie|Kitty Gillespie]]'s article [[an-sos-from-ground-zero|An SOS From Ground Zero]] characterizes his social media presence as one of "two new comedy shows playing on Twitter" and accuses him of having done "NOTHING to fight election fraud after 2020."
+Mark Brnovich is an American attorney and Republican politician who served as Attorney General of Arizona from 2015 until January 2023. In the Badlands Media corpus he is a figure of derision: [[kitty-gillespie|Kitty Gillespie]]'s article An SOS From Ground Zero characterizes his social media presence as one of "two new comedy shows playing on Twitter" and accuses him of having done "NOTHING to fight election fraud after 2020."
 
 ## Career and 2022 Senate bid
 

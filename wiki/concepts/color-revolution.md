@@ -10,7 +10,7 @@ contested: true
 ---
 # Color Revolution
 
-A color revolution, as the term is used in the Badlands Media corpus, denotes a method of regime change in which "a small group takes over the control of a country by creating propaganda and chaos, through funding violence in the streets, buying off the media, and rigging elections." The definition is given by [[erik-carlson|Erik Carlson]] in [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]].
+A color revolution, as the term is used in the Badlands Media corpus, denotes a method of regime change in which "a small group takes over the control of a country by creating propaganda and chaos, through funding violence in the streets, buying off the media, and rigging elections." The definition is given by [[erik-carlson|Erik Carlson]] in A Virus, or a Metaphor?.
 
 ## The 1917 template
 
@@ -22,7 +22,7 @@ The article's argument is that the same method is being applied to America in th
 
 ## "Come home to roost"
 
-The theme recurs in [[badlands-blitz-episode-4|Badlands Blitz Episode 4]] of [[the-blitz|The Blitz]], published January 31, 2026 under the subtitle "Color Revolutions Come Home to Roost." That episode applies the label directly to domestic American events, treating "the expansion and acceleration of the [[minnesota-color-revolution|Minnesota Color Revolution]]" together with the [[fulton-county-election-raid|Fulton County Election Raid]] and [[canadian-capitulation|Canadian Capitulation]] as convergent evidence of a single "Macro System" nearing dissolution — an argument the hosts describe as a week of [[system-sway|System Sway]].
+The theme recurs in Badlands Blitz Episode 4 of [[the-blitz|The Blitz]], published January 31, 2026 under the subtitle "Color Revolutions Come Home to Roost." That episode applies the label directly to domestic American events, treating "the expansion and acceleration of the [[minnesota-color-revolution|Minnesota Color Revolution]]" together with the [[fulton-county-election-raid|Fulton County Election Raid]] and [[canadian-capitulation|Canadian Capitulation]] as convergent evidence of a single "Macro System" nearing dissolution — an argument the hosts describe as a week of [[system-sway|System Sway]].
 
 ## Sources
 

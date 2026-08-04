@@ -10,7 +10,7 @@ contested: true
 ---
 # Greenland
 
-Greenland is a large Arctic island and a semi-autonomous territory of the Kingdom of [[denmark|Denmark]]. In the January 19, 2026 edition of the [[badlands-brief|Badlands Brief]], [[badlands-brief-02a|"Arctic Escalation and Tropic Trouble for the Financial System"]], Greenland is the subject of the lead item, presented as the focal point of an escalating confrontation between the United States and its European allies.
+Greenland is a large Arctic island and a semi-autonomous territory of the Kingdom of [[denmark|Denmark]]. In the January 19, 2026 edition of the Badlands Brief, "Arctic Escalation and Tropic Trouble for the Financial System", Greenland is the subject of the lead item, presented as the focal point of an escalating confrontation between the United States and its European allies.
 
 ## The 2026 tariff dispute
 
@@ -28,7 +28,7 @@ Denmark's [[joint-arctic-command|Joint Arctic Command]] stated in mid-January 20
 
 ## January 2026 escalation and the Nobel letter
 
-The January 20, 2026 [[badlands-brief-144|Badlands Brief]] describes the dispute as having escalated into "the most serious transatlantic crisis in decades," threatening [[nato|NATO]] cohesion. Trump justified his renewed campaign by citing national security against Russian and Chinese influence in the Arctic, access to rare earth minerals, and historical U.S. interest dating back over 150 years, and threatened additional 10–15% tariffs effective February 1 on the eight countries that had deployed a small military contingent to the island. In a letter to Norwegian Prime Minister [[jonas-gahr-store|Jonas Gahr Støre]] — confirmed by [[norway|Norway]] and shared with other NATO leaders — Trump linked the Nobel Committee's refusal to award him the Peace Prize for "stopping 8 wars" to a change of policy: "I no longer feel an obligation to think purely of peace... but can now think about what is good and proper for the United States." Støre reaffirmed support for Danish sovereignty, and the [[european-union|European Union]] convened an emergency meeting of its 27 ambassadors to coordinate retaliation including potential €93 billion in countermeasures.
+The January 20, 2026 Badlands Brief describes the dispute as having escalated into "the most serious transatlantic crisis in decades," threatening [[nato|NATO]] cohesion. Trump justified his renewed campaign by citing national security against Russian and Chinese influence in the Arctic, access to rare earth minerals, and historical U.S. interest dating back over 150 years, and threatened additional 10–15% tariffs effective February 1 on the eight countries that had deployed a small military contingent to the island. In a letter to Norwegian Prime Minister [[jonas-gahr-store|Jonas Gahr Støre]] — confirmed by [[norway|Norway]] and shared with other NATO leaders — Trump linked the Nobel Committee's refusal to award him the Peace Prize for "stopping 8 wars" to a change of policy: "I no longer feel an obligation to think purely of peace... but can now think about what is good and proper for the United States." Støre reaffirmed support for Danish sovereignty, and the [[european-union|European Union]] convened an emergency meeting of its 27 ambassadors to coordinate retaliation including potential €93 billion in countermeasures.
 
 ## Sources
 

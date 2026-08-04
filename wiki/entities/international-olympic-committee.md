@@ -14,7 +14,7 @@ The International Olympic Committee is the governing body of the modern Olympic 
 
 ## Portrayal in the corpus
 
-In [[erik-carlson|Erik Carlson]]'s August 2024 essay [[are-we-being-distracted|Are We Being Distracted?]], the committee is charged with having staged the [[paris-2024-olympics-opening-ceremony|Paris opening ceremony]] for the purpose of provoking global anger. Carlson writes that the committee "doesn't care about Transgenders or gays; they have been commissioned by their controllers to make people angry," and that transgender participants are "being used to divide, distract and anger the people" on behalf of the [[cabal|Cabal]].
+In [[erik-carlson|Erik Carlson]]'s August 2024 essay Are We Being Distracted?, the committee is charged with having staged the [[paris-2024-olympics-opening-ceremony|Paris opening ceremony]] for the purpose of provoking global anger. Carlson writes that the committee "doesn't care about Transgenders or gays; they have been commissioned by their controllers to make people angry," and that transgender participants are "being used to divide, distract and anger the people" on behalf of the [[cabal|Cabal]].
 
 ## The eligibility argument
 

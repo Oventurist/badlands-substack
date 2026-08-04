@@ -11,7 +11,7 @@ contested: false
 
 # Troubled Asset Relief Program
 
-The Troubled Asset Relief Program (TARP) was the United States government's response to the 2008 financial crisis, under which public funds were used to stabilize the banking system. It is referenced in [[badlands-brief-314|the Badlands Brief of February 4, 2026]] as the program that [[neil-barofsky|Neil Barofsky]] was appointed to oversee as Special Inspector General.
+The Troubled Asset Relief Program (TARP) was the United States government's response to the 2008 financial crisis, under which public funds were used to stabilize the banking system. It is referenced in the Badlands Brief of February 4, 2026 as the program that [[neil-barofsky|Neil Barofsky]] was appointed to oversee as Special Inspector General.
 
 The Brief notes that Barofsky sat "at the heart of the 2008 financial crisis" in that role, and that he also worked on the mortgage fraud investigation in the Southern District of New York associated with the credit default swap market, described in the source as a $55 trillion exposure. He testified in a Senate hearing that "It is extremely unlikely that the taxpayer will see a full return on its TARP investment," in reference to what the Brief characterizes as a $3 trillion bank bailout.
 

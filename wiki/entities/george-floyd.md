@@ -10,7 +10,7 @@ contested: true
 ---
 # George Floyd
 
-George Floyd was the black man whose death in police custody in 2020 triggered nationwide Black Lives Matter protests. In the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]], [[erik-carlson|Erik Carlson]] treats the Floyd incident as the most recent instance of what he argues is a recurring, engineered pattern of racially divisive events.
+George Floyd was the black man whose death in police custody in 2020 triggered nationwide Black Lives Matter protests. In the Badlands Media essay A Journey of Ever changing Truths, [[erik-carlson|Erik Carlson]] treats the Floyd incident as the most recent instance of what he argues is a recurring, engineered pattern of racially divisive events.
 
 The article characterizes the episode as "very [[rodney-king|Rodney King]]-like, resulting in a similar reaction," with BLM protests leading to violence, destruction, and looting. Because the event is close to the present and because so many people now question what they are shown, the source asserts that many readers believe "the Floyd killing was completely staged, or at least, that there's something not right about it."
 

@@ -15,7 +15,7 @@ Børge Brende is a Norwegian politician and international organization executive
 
 ## Resignation over Epstein connections
 
-According to reporting summarized in the [[badlands-brief-40d|February 27, 2026 edition of the Badlands Brief]], documents and releases associated with the Epstein files showed that Brende had dined with Epstein on multiple occasions and exchanged communications with him during 2018 and 2019. Brende maintained that he had been unaware of Epstein's criminal history at the time of those contacts.
+According to reporting summarized in the February 27, 2026 edition of the Badlands Brief, documents and releases associated with the Epstein files showed that Brende had dined with Epstein on multiple occasions and exchanged communications with him during 2018 and 2019. Brende maintained that he had been unaware of Epstein's criminal history at the time of those contacts.
 
 The sequence began roughly three weeks before the resignation, when Brende himself requested an internal investigation into his own conduct following the release of the Epstein files. That internal review reportedly found no further concerns beyond what had already been publicly disclosed. Brende nonetheless chose to step down, saying he did so in order that the Forum could continue its work "without distractions." [[alois-zwinggi|Alois Zwinggi]] was appointed interim chief executive while the organization searches for a permanent successor.
 

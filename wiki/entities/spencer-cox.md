@@ -10,7 +10,7 @@ contested: false
 ---
 # Spencer Cox
 
-Spencer Cox is the Republican Governor of Utah. He is identified in the February 10, 2026 edition of the [[badlands-brief|Badlands Brief]], "[[badlands-brief-4ec|Criminal Invader Crashouts & Honeypot Hoaxes]]," as one of several prominent Republicans staking out a regulatory position on [[artificial-intelligence|artificial intelligence]] distinct from that of President [[donald-trump|Donald Trump]].
+Spencer Cox is the Republican Governor of Utah. He is identified in the February 10, 2026 edition of the Badlands Brief, "Criminal Invader Crashouts & Honeypot Hoaxes," as one of several prominent Republicans staking out a regulatory position on artificial intelligence distinct from that of President [[donald-trump|Donald Trump]].
 
 ## Artificial intelligence position
 

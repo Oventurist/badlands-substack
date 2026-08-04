@@ -10,7 +10,7 @@ contested: true
 ---
 # Fani Willis
 
-Fani Willis is the District Attorney of Fulton County, Georgia, who brought the state racketeering indictment against [[donald-trump|Donald Trump]] and his associates over their efforts to contest the [[2020-united-states-presidential-election|2020 presidential election]] result in Georgia. She is examined in the Badlands Media essay [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]], published September 20, 2023.
+Fani Willis is the District Attorney of Fulton County, Georgia, who brought the state racketeering indictment against [[donald-trump|Donald Trump]] and his associates over their efforts to contest the [[2020-united-states-presidential-election|2020 presidential election]] result in Georgia. She is examined in the Badlands Media essay Are Jack Smith and Fani Willis in on the Plan?, published September 20, 2023.
 
 ## The Fulton County indictment
 

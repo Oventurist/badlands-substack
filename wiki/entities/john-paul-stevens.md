@@ -15,7 +15,7 @@ John Paul Stevens was an Associate Justice of the [[supreme-court-of-the-united-
 
 ## Citation in the 2026 mail ballot dissent
 
-Stevens enters the Badlands corpus through [[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]], which reports that Justice [[samuel-alito|Samuel Alito]], dissenting from the Court's 2026 ruling on Mississippi's late-arriving mail ballots, cited a 2008 Stevens opinion noting the real risk of absentee ballot fraud. The reference is used in the Brief to establish that concern over absentee voting has bipartisan and cross-ideological pedigree on the Court, alongside the 2005 [[jimmy-carter|Carter]]–[[james-baker|Baker]] commission findings.
+Stevens enters the Badlands corpus through "Condemnation, Calibration, & Constitutional Boxes", which reports that Justice [[samuel-alito|Samuel Alito]], dissenting from the Court's 2026 ruling on Mississippi's late-arriving mail ballots, cited a 2008 Stevens opinion noting the real risk of absentee ballot fraud. The reference is used in the Brief to establish that concern over absentee voting has bipartisan and cross-ideological pedigree on the Court, alongside the 2005 [[jimmy-carter|Carter]]–[[james-baker|Baker]] commission findings.
 
 ## Sources
 

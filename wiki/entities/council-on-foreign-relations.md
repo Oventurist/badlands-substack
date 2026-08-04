@@ -14,7 +14,7 @@ The Council on Foreign Relations (CFR) is an American foreign policy think tank 
 
 ## In the media critique
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] states that representatives of the asset managers that jointly own the major media conglomerates — [[blackrock|BlackRock]], [[vanguard-group|Vanguard]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]] — "remain regular fixtures at elitist policy think tanks such as the Council on Foreign Relations and the [[world-economic-forum|World Economic Forum]]." The article uses the CFR as shorthand for what it elsewhere calls "the think tank class," the emissaries of which are said to tell mainstream journalists "what to write and how to frame it," in contrast to the decentralized media where no such intermediaries exist.
+A Swan Song for the MSM states that representatives of the asset managers that jointly own the major media conglomerates — [[blackrock|BlackRock]], [[vanguard-group|Vanguard]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]] — "remain regular fixtures at elitist policy think tanks such as the Council on Foreign Relations and the [[world-economic-forum|World Economic Forum]]." The article uses the CFR as shorthand for what it elsewhere calls "the think tank class," the emissaries of which are said to tell mainstream journalists "what to write and how to frame it," in contrast to the decentralized media where no such intermediaries exist.
 
 ## Sources
 

@@ -13,7 +13,7 @@ contested: true
 ---
 # Medellín Cartel
 
-The Medellín Cartel was a Colombian drug trafficking organization founded by Pablo Escobar and the Ochoa brothers in the 1970s. At its peak in the 1980s, it was the most powerful drug-trafficking organization in the world, responsible for an estimated 80 percent of the global cocaine supply. In the Badlands Media article [[a-family-affair]], the Medellín Cartel is linked to [[jeb-bush]] through money-laundering operations and to the [[cia]] through covert funding of the Nicaraguan Contras.
+The Medellín Cartel was a Colombian drug trafficking organization founded by Pablo Escobar and the Ochoa brothers in the 1970s. At its peak in the 1980s, it was the most powerful drug-trafficking organization in the world, responsible for an estimated 80 percent of the global cocaine supply. In the Badlands Media article a family affair, the Medellín Cartel is linked to [[jeb-bush]] through money-laundering operations and to the [[cia]] through covert funding of the Nicaraguan Contras.
 
 ## Pablo Escobar and leadership
 

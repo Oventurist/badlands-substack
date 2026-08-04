@@ -12,7 +12,7 @@ contested: false
 
 Christian Menefee is a Texas Democrat who challenged incumbent Representative [[al-green|Al Green]] in the congressional primary held on March 3, 2026.
 
-The March 4, 2026 [[badlands-brief-165|Badlands Brief]] cites the Green–Menefee contest as one of the earliest tests of the Democratic Party's internal conflict ahead of the [[2026-united-states-midterm-elections|2026 midterm elections]], a conflict the Brief attributes largely to generational turnover and anti-establishment sentiment within the party base.
+The March 4, 2026 Badlands Brief cites the Green–Menefee contest as one of the earliest tests of the Democratic Party's internal conflict ahead of the [[2026-united-states-midterm-elections|2026 midterm elections]], a conflict the Brief attributes largely to generational turnover and anti-establishment sentiment within the party base.
 
 ## Sources
 

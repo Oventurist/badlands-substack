@@ -10,7 +10,7 @@ contested: true
 ---
 # Automation
 
-Automation — the substitution of machinery, software and robotics for human labor — is treated in the Badlands Media corpus as the underlying force that renders the 2023 strike wave unwinnable. The essay [[a-time-to-strike|A Time to Strike]] (October 11, 2023) argues that global corporations have been making investments in automation, robotics and [[artificial-intelligence|artificial intelligence]] for over a decade, and that the layoffs and bargaining stalemates of 2023 are simply "the return on that investment."
+Automation — the substitution of machinery, software and robotics for human labor — is treated in the Badlands Media corpus as the underlying force that renders the 2023 strike wave unwinnable. The essay A Time to Strike (October 11, 2023) argues that global corporations have been making investments in automation, robotics and artificial intelligence for over a decade, and that the layoffs and bargaining stalemates of 2023 are simply "the return on that investment."
 
 ## In manufacturing
 

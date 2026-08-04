@@ -11,7 +11,7 @@ contested: false
 
 # Kharg Island
 
-Kharg Island is an Iranian island in the northern Persian Gulf and the country's principal crude oil export terminal. The March 16, 2026 [[badlands-brief|Badlands Brief]] describes it as a strategic hub handling about 90 percent of [[iran|Iran]]'s oil shipments, which makes it simultaneously the most valuable and the most exposed node in the Iranian export system.
+Kharg Island is an Iranian island in the northern Persian Gulf and the country's principal crude oil export terminal. The March 16, 2026 Badlands Brief describes it as a strategic hub handling about 90 percent of [[iran|Iran]]'s oil shipments, which makes it simultaneously the most valuable and the most exposed node in the Iranian export system.
 
 ## The 2026 strikes
 

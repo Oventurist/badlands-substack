@@ -18,7 +18,7 @@ The court received [[kari-lake|Kari Lake]]'s 70-page election contest, filed on 
 
 ## Treatment in the corpus
 
-The Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]] treats the court, and the assigned judge in particular, as the decisive variable in the case. [[michael-patrick-leahy|Michael Patrick Leahy]] discussed the judge on Steve Bannon's *War Room*, and the article's author writes that "if there's one thing in America that is more evil than most of the politicians, it's most of the judiciary," adding that Arizona's judiciary "is definitely not exempt." She predicts that the courts will strike the case down at every level until it reaches the [[supreme-court-of-the-united-states|Supreme Court]].
+The Badlands Media article "Arizona Earthquake!" treats the court, and the assigned judge in particular, as the decisive variable in the case. [[michael-patrick-leahy|Michael Patrick Leahy]] discussed the judge on Steve Bannon's *War Room*, and the article's author writes that "if there's one thing in America that is more evil than most of the politicians, it's most of the judiciary," adding that Arizona's judiciary "is definitely not exempt." She predicts that the courts will strike the case down at every level until it reaches the [[supreme-court-of-the-united-states|Supreme Court]].
 
 ## Sources
 

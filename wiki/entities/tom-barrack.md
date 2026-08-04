@@ -10,7 +10,7 @@ contested: false
 ---
 # Tom Barrack
 
-Tom Barrack is a longtime associate of President [[donald-trump|Donald Trump]] who serves as United States ambassador to Turkey and Syria. The [[badlands-brief-0fb|April 24, 2026 Badlands Brief]] describes him as "President Trump's best friend and ambassador to Turkey/Syria."
+Tom Barrack is a longtime associate of President [[donald-trump|Donald Trump]] who serves as United States ambassador to Turkey and Syria. The April 24, 2026 Badlands Brief describes him as "President Trump's best friend and ambassador to Turkey/Syria."
 
 ## Assessment of Hezbollah
 

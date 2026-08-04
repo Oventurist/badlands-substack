@@ -10,7 +10,7 @@ contested: false
 ---
 # John the Apostle
 
-**John the Apostle** is identified in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] as the author of the [[book-of-revelation|book of Revelation]], as well as of the Gospel of John and the epistles 1–3 John.
+**John the Apostle** is identified in the Badlands Media feature "Are We Entering the Millennial Reign?" as the author of the [[book-of-revelation|book of Revelation]], as well as of the Gospel of John and the epistles 1–3 John.
 
 ## Life as described in the corpus
 

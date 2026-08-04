@@ -23,11 +23,11 @@ The source contrasts AFRICOM's prompt awareness with the Obama administration's 
 
 ## Role in Africa's resource wars
 
-The Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]] (October 2025) describes AFRICOM as coordinating with the [[solidarity-center|Solidarity Center]]'s labor programs in mineral-rich African nations. The article states that "the DoD's AFRICOM, under the guise of 'stability operations,' coordinates with these efforts, ensuring unions pressure governments to favor U.S. mining contracts over Chinese ones" in countries such as the Democratic Republic of Congo and Zambia. This is presented as part of the U.S. effort to undermine Chinese-backed labor federations and secure access to mineral resources.
+The Badlands Media article A More Perfect (Labor) Union (October 2025) describes AFRICOM as coordinating with the [[solidarity-center|Solidarity Center]]'s labor programs in mineral-rich African nations. The article states that "the DoD's AFRICOM, under the guise of 'stability operations,' coordinates with these efforts, ensuring unions pressure governments to favor U.S. mining contracts over Chinese ones" in countries such as the Democratic Republic of Congo and Zambia. This is presented as part of the U.S. effort to undermine Chinese-backed labor federations and secure access to mineral resources.
 
 ## Joint operation with Nigerian forces (May 2026)
 
-The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that [[nigeria|Nigerian]] and U.S. forces carried out a joint counterterrorism operation that killed [[abu-bilal-al-manuki|Abu-Bilal Al-Manuki]], also known as Abu-Mainok. [[reuters|Reuters]], citing the [[nigerian-army|Nigerian Army]], said the strike took place in Metele, Borno State, in close coordination with AFRICOM, with the operation beginning about 12:01 a.m. and ending around 4 a.m. with no casualties or asset losses.
+The May 18, 2026 Badlands Brief reports that [[nigeria|Nigerian]] and U.S. forces carried out a joint counterterrorism operation that killed [[abu-bilal-al-manuki|Abu-Bilal Al-Manuki]], also known as Abu-Mainok. [[reuters|Reuters]], citing the [[nigerian-army|Nigerian Army]], said the strike took place in Metele, Borno State, in close coordination with AFRICOM, with the operation beginning about 12:01 a.m. and ending around 4 a.m. with no casualties or asset losses.
 
 ## Related pages
 

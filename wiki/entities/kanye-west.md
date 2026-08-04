@@ -11,7 +11,7 @@ contested: true
 
 # Kanye West
 
-Kanye West, who also performs under the name Ye, is an American rapper, producer and fashion figure treated in the Badlands Media corpus as a central cultural actor in the conflict between Christian expression, Hollywood and what the corpus calls the Deep State establishment. He appears at length in the April 6, 2026 [[badlands-brief-282|Badlands Brief, "Jesus Walks"]], which uses his Easter-weekend comeback concerts as its lead item and title.
+Kanye West, who also performs under the name Ye, is an American rapper, producer and fashion figure treated in the Badlands Media corpus as a central cultural actor in the conflict between Christian expression, Hollywood and what the corpus calls the Deep State establishment. He appears at length in the April 6, 2026 Badlands Brief, "Jesus Walks", which uses his Easter-weekend comeback concerts as its lead item and title.
 
 ## Career and 2026 comeback
 

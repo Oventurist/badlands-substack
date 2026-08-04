@@ -15,7 +15,7 @@ Tucker Carlson is an American conservative broadcaster and commentator, formerly
 
 ## The FARA referral claim
 
-According to the March 16, 2026 edition of the [[badlands-brief|Badlands Brief]], which summarizes a ZeroHedge report of the same date, Carlson said he had learned that the [[cia|CIA]] was preparing a criminal referral concerning his contacts with people in Iran. Carlson characterized the supposed offense as "talking to people in Iran before the war" and stated flatly, "They read my texts." A post attributed to Carlson on X read: "When you discover the CIA has been reading your texts in order to frame you for a crime." The referral was reported to involve the [[foreign-agents-registration-act|Foreign Agents Registration Act]].
+According to the March 16, 2026 edition of the Badlands Brief, which summarizes a ZeroHedge report of the same date, Carlson said he had learned that the [[cia|CIA]] was preparing a criminal referral concerning his contacts with people in Iran. Carlson characterized the supposed offense as "talking to people in Iran before the war" and stated flatly, "They read my texts." A post attributed to Carlson on X read: "When you discover the CIA has been reading your texts in order to frame you for a crime." The referral was reported to involve the [[foreign-agents-registration-act|Foreign Agents Registration Act]].
 
 [[zerohedge|ZeroHedge]] subsequently updated its article to report that "top admin officials" had told [[axios|Axios]] reporter [[marc-caputo|Marc Caputo]] that there was "no CIA investigation of Carlson." The same report noted that activist [[laura-loomer|Laura Loomer]] posted that she would take credit if Carlson were charged, and that she had been "relentless" in contacting GOP representatives, law enforcement and the Justice Department about him.
 
@@ -34,7 +34,7 @@ Badlands commentators explicitly bracket the question of Carlson's own sincerity
 
 ## Planned Joe Kent interview (March 2026)
 
-The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that administration officials were bracing for further fallout from [[joe-kent|Joe Kent]]'s resignation over the [[iran|Iran]] war, including a planned Kent interview with Carlson.
+The March 18, 2026 Badlands Brief reports that administration officials were bracing for further fallout from [[joe-kent|Joe Kent]]'s resignation over the [[iran|Iran]] war, including a planned Kent interview with Carlson.
 
 ## Sources
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Fabian Society
 
-The Fabian Society is a British socialist organization founded in 1884 that advocated gradualist rather than revolutionary social transformation. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] treats the Society as a long-running partner of the [[rhodes-scholarship|Rhodes Scholarship]] network in the service of a re-organized British Empire.
+The Fabian Society is a British socialist organization founded in 1884 that advocated gradualist rather than revolutionary social transformation. In the Badlands Media essay A Re Alignment of World Systems, [[matthew-ehret|Matthew Ehret]] treats the Society as a long-running partner of the [[rhodes-scholarship|Rhodes Scholarship]] network in the service of a re-organized British Empire.
 
 ## Role in the source's argument
 

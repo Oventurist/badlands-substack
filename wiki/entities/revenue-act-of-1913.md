@@ -27,7 +27,7 @@ The Revenue Act is linked in the source to the earlier Populist Party demand for
 - [[Federal Reserve]] — the institution created the same year
 - [[Populist Party]] — earlier advocate of the graduated income tax
 - William Jennings Bryan — Democratic leader who advocated for the income tax
-- [[1913]] — the year of passage
+- 1913 — the year of passage
 
 ## Sources
 

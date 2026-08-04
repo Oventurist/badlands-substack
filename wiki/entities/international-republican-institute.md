@@ -13,7 +13,7 @@ contested: true
 ---
 # International Republican Institute
 
-The International Republican Institute (IRI) is a U.S. non-profit organization founded in 1983 that promotes democracy abroad, closely aligned with the Republican Party and heavily funded by the [[national-endowment-for-democracy|National Endowment for Democracy]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], IRI is listed among the "CIA-adjacent cut-outs" funded by NED.
+The International Republican Institute (IRI) is a U.S. non-profit organization founded in 1983 that promotes democracy abroad, closely aligned with the Republican Party and heavily funded by the [[national-endowment-for-democracy|National Endowment for Democracy]]. In the Badlands Media article A More Perfect (Labor) Union, IRI is listed among the "CIA-adjacent cut-outs" funded by NED.
 
 ## Role in the NED network
 

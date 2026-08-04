@@ -10,7 +10,7 @@ contested: true
 ---
 # Pay to Slay
 
-"Pay to slay" is the informal name for the [[palestinian-authority|Palestinian Authority]]'s program of payments to imprisoned and released Palestinians convicted of terrorism-related offenses, and to the families of those killed carrying out attacks. It is discussed in the Badlands Media article "[[bad-actors|Bad Actors]]" by way of a Newsweek opinion piece.
+"Pay to slay" is the informal name for the [[palestinian-authority|Palestinian Authority]]'s program of payments to imprisoned and released Palestinians convicted of terrorism-related offenses, and to the families of those killed carrying out attacks. It is discussed in the Badlands Media article "Bad Actors" by way of a Newsweek opinion piece.
 
 ## Legal basis
 

@@ -18,13 +18,13 @@ Beyond baseline safeguards, the IAEA's Additional Protocol grants the agency sub
 
 ## Role in the Saudi nuclear debate
 
-The July 22, 2026 [[badlands-brief-1ae|Badlands Brief]] reports that the U.S.–Saudi [[123-agreement|123 Agreement]] omits the Additional Protocol along with the [[gold-standard|Gold Standard]] enrichment prohibition. The combined effect, as the Brief describes it, is that [[saudi-arabia|Saudi Arabia]] would gain a legal pathway to cooperation across the nuclear fuel cycle, including enrichment, without granting the IAEA expanded inspection rights at undeclared sites. That gap is the principal nonproliferation objection raised against the agreement, and it stands in contrast to the [[united-arab-emirates|United Arab Emirates]] arrangement of 2009.
+The July 22, 2026 Badlands Brief reports that the U.S.–Saudi [[123-agreement|123 Agreement]] omits the Additional Protocol along with the [[gold-standard|Gold Standard]] enrichment prohibition. The combined effect, as the Brief describes it, is that [[saudi-arabia|Saudi Arabia]] would gain a legal pathway to cooperation across the nuclear fuel cycle, including enrichment, without granting the IAEA expanded inspection rights at undeclared sites. That gap is the principal nonproliferation objection raised against the agreement, and it stands in contrast to the [[united-arab-emirates|United Arab Emirates]] arrangement of 2009.
 
 The agency also figures in the corpus's coverage of [[iran|Iran]]'s enrichment dispute, where [[abbas-araghchi|Abbas Araghchi]] described Tehran's refusal to accept even temporary limits on enrichment as a matter of national honor.
 
 ## The Barakah drone strike (May 2026)
 
-The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Director General [[rafael-grossi|Rafael Grossi]] said military activity threatening nuclear safety was "unacceptable" after discussions with UAE officials about the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026. The UAE's nuclear regulator said there was no impact on reactor operations or public safety.
+The May 18, 2026 Badlands Brief reports that Director General [[rafael-grossi|Rafael Grossi]] said military activity threatening nuclear safety was "unacceptable" after discussions with UAE officials about the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026. The UAE's nuclear regulator said there was no impact on reactor operations or public safety.
 
 ## Sources
 

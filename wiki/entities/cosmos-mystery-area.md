@@ -10,7 +10,7 @@ contested: false
 ---
 # Cosmos Mystery Area
 
-The Cosmos Mystery Area is a roadside tourist attraction in the Black Hills of South Dakota, of the type generally known as a "gravity hill" or "mystery spot." It is the central setting of the [[badlands-media|Badlands Media]] essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]] (August 30, 2024), whose author visited during the fifth [[great-american-restoration-tour|Great American Restoration Tour]] stop in nearby Deadwood.
+The Cosmos Mystery Area is a roadside tourist attraction in the Black Hills of South Dakota, of the type generally known as a "gravity hill" or "mystery spot." It is the central setting of the [[badlands-media|Badlands Media]] essay "A Mysterious Masterclass in Multi Sensory Deception" (August 30, 2024), whose author visited during the fifth [[great-american-restoration-tour|Great American Restoration Tour]] stop in nearby Deadwood.
 
 ## Origin story and tour
 

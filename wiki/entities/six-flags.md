@@ -11,7 +11,7 @@ contested: false
 
 # Six Flags Great America
 
-Six Flags Great America is an American amusement park cited in the [[badlands-brief|Badlands Brief]] as one of several venues that modified operations because of poor air quality caused by wildfire smoke drifting south from [[canada|Canada]]. The disruption was reported alongside similar changes at [[cedar-point|Cedar Point]] and formed part of the practical case advanced by Senator [[bernie-moreno|Bernie Moreno]] for imposing sanctions, asset freezes, visa restrictions and tariffs on Canada and Canadian officials over forest management failures.
+Six Flags Great America is an American amusement park cited in the Badlands Brief as one of several venues that modified operations because of poor air quality caused by wildfire smoke drifting south from [[canada|Canada]]. The disruption was reported alongside similar changes at [[cedar-point|Cedar Point]] and formed part of the practical case advanced by Senator [[bernie-moreno|Bernie Moreno]] for imposing sanctions, asset freezes, visa restrictions and tariffs on Canada and Canadian officials over forest management failures.
 
 ## Sources
 

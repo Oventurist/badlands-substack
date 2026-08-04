@@ -15,7 +15,7 @@ The Rome Statute is the treaty that established the [[international-criminal-cou
 
 ## Relevance to the Netanyahu arrest debate
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] invokes the Rome Statute in explaining why the debate over arresting Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] on United States soil could not proceed. Reuters is cited for the point that U.S. law provides no domestic mechanism requiring state or local officials to enforce ICC warrants, because the United States is not a party to the statute. New York City Mayor [[zohran-mamdani|Zohran Mamdani]], after saying his administration had reviewed what authority the city possessed, subsequently clarified that the city cannot itself execute an ICC arrest warrant. President [[donald-trump|Donald Trump]] said Netanyahu would not be arrested while visiting the United States, and [[israel|Israel]] rejects the court's jurisdiction outright.
+The July 27, 2026 Badlands Brief invokes the Rome Statute in explaining why the debate over arresting Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] on United States soil could not proceed. Reuters is cited for the point that U.S. law provides no domestic mechanism requiring state or local officials to enforce ICC warrants, because the United States is not a party to the statute. New York City Mayor [[zohran-mamdani|Zohran Mamdani]], after saying his administration had reviewed what authority the city possessed, subsequently clarified that the city cannot itself execute an ICC arrest warrant. President [[donald-trump|Donald Trump]] said Netanyahu would not be arrested while visiting the United States, and [[israel|Israel]] rejects the court's jurisdiction outright.
 
 ## Withdrawal campaign
 

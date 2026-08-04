@@ -10,7 +10,7 @@ contested: true
 ---
 # McKinsey & Company
 
-McKinsey & Company is a global management consulting firm. In the Badlands Media corpus it is treated as a principal architect — not merely an observer — of the labor disruption described in [[a-time-to-strike|A Time to Strike]] (October 11, 2023), where [[ashe-in-america|Ashe in America]] calls it "essentially the world's strategy firm."
+McKinsey & Company is a global management consulting firm. In the Badlands Media corpus it is treated as a principal architect — not merely an observer — of the labor disruption described in A Time to Strike (October 11, 2023), where [[ashe-in-america|Ashe in America]] calls it "essentially the world's strategy firm."
 
 ## Reach
 

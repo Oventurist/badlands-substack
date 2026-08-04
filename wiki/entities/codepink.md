@@ -15,7 +15,7 @@ CodePink Women For Peace is an American anti-war activist organization co-founde
 
 ## Funding from the Singham network
 
-According to [[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]], CodePink received $1,330,000 as one of six key nonprofits in the funding web attributed to [[neville-roy-singham|Neville Roy Singham]]. The Brief describes the organization as founded by Singham's wife and by his ally Medea Benjamin, placing it directly within the family and associational orbit of the network under investigation. The funds are said to have originated in Shanghai and passed through shell companies and the donor-advised philanthropy fund of [[goldman-sachs|Goldman Sachs]] before reaching the nonprofits, which are now subject to subpoenas from the Manhattan federal grand jury convened under U.S. Attorney [[jay-clayton|Jay Clayton]].
+According to "Condemnation, Calibration, & Constitutional Boxes", CodePink received $1,330,000 as one of six key nonprofits in the funding web attributed to [[neville-roy-singham|Neville Roy Singham]]. The Brief describes the organization as founded by Singham's wife and by his ally Medea Benjamin, placing it directly within the family and associational orbit of the network under investigation. The funds are said to have originated in Shanghai and passed through shell companies and the donor-advised philanthropy fund of [[goldman-sachs|Goldman Sachs]] before reaching the nonprofits, which are now subject to subpoenas from the Manhattan federal grand jury convened under U.S. Attorney [[jay-clayton|Jay Clayton]].
 
 ## Sources
 

@@ -15,7 +15,7 @@ Anwar Gargash is a senior Emirati official serving as a presidential adviser in 
 
 ## Response to the Barakah drone strike
 
-According to the May 18, 2026 [[badlands-brief-5a2|Badlands Brief]], Gargash called the drone strike near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026 a "dangerous escalation" and said it violated international law and norms. The UAE blamed [[iran|Iran]] or allied proxy groups for the incident, in which three drones entered the country from the western border direction — two intercepted and one striking an electrical generator outside the plant's inner perimeter in the Al Dhafra region. Emirati officials said investigations into the source of the drones were continuing.
+According to the May 18, 2026 Badlands Brief, Gargash called the drone strike near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026 a "dangerous escalation" and said it violated international law and norms. The UAE blamed [[iran|Iran]] or allied proxy groups for the incident, in which three drones entered the country from the western border direction — two intercepted and one striking an electrical generator outside the plant's inner perimeter in the Al Dhafra region. Emirati officials said investigations into the source of the drones were continuing.
 
 ## Sources
 

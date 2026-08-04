@@ -14,7 +14,7 @@ Tulsi Gabbard is a former member of the United States [[congress|Congress]] and 
 
 ## The 2017 Syria trip
 
-According to [[assad-day-in-damascus]], Gabbard met with [[bashar-al-assad|Bashar al-Assad]] in January 2017 during what she described as a "fact-finding" mission to [[syria]]. The meeting was notable because she was the first member of the U.S. Congress to meet with Assad since the Syrian civil war began in 2011.
+According to assad day in damascus, Gabbard met with [[bashar-al-assad|Bashar al-Assad]] in January 2017 during what she described as a "fact-finding" mission to [[syria]]. The meeting was notable because she was the first member of the U.S. Congress to meet with Assad since the Syrian civil war began in 2011.
 
 ## The reaction
 
@@ -23,7 +23,7 @@ The article states that Gabbard then "committed the most heinous and unforgivabl
 
 ## The Kent resignation (March 2026)
 
-The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] identifies Gabbard as Director of National Intelligence at the time [[joe-kent|Joe Kent]] — director of the [[national-counterterrorism-center|National Counterterrorism Center]] and a top Gabbard aide — resigned in protest of the U.S. war in [[iran|Iran]]. In the hours following Kent's resignation, the Brief reports, Gabbard broke her long silence on the war. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] suggested that after the campaign against Kent, "it appears that Tulsi Gabbard may be their next target."
+The March 18, 2026 Badlands Brief identifies Gabbard as Director of National Intelligence at the time [[joe-kent|Joe Kent]] — director of the [[national-counterterrorism-center|National Counterterrorism Center]] and a top Gabbard aide — resigned in protest of the U.S. war in [[iran|Iran]]. In the hours following Kent's resignation, the Brief reports, Gabbard broke her long silence on the war. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] suggested that after the campaign against Kent, "it appears that Tulsi Gabbard may be their next target."
 
 ## Sources
 

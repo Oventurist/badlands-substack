@@ -10,7 +10,7 @@ contested: false
 ---
 # Rashidun Caliphate
 
-The Rashidun — "Rightly Guided" — Caliphate was the polity governed by the four companions of [[prophet-muhammad|Muhammad]] who were sequentially elected to lead the Muslim community after his death. The Badlands Media essay [[arabian-nights]] treats it as the immediate consequence of Muhammad's failure to dictate a line of succession.
+The Rashidun — "Rightly Guided" — Caliphate was the polity governed by the four companions of [[prophet-muhammad|Muhammad]] who were sequentially elected to lead the Muslim community after his death. The Badlands Media essay arabian nights treats it as the immediate consequence of Muhammad's failure to dictate a line of succession.
 
 Most of Muhammad's followers supported his most trusted companion, [[abu-bakr]]. Over the following thirty years, Abu Bakr and three other trusted companions were each elected by their peers to rule. During that period, the source states, the empire expanded from modern-day Libya to India and became the most powerful military, cultural and economic force in West Asia. The Quran was written under Abu Bakr.
 

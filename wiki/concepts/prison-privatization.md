@@ -10,7 +10,7 @@ contested: true
 ---
 # Prison Privatization
 
-Prison privatization — the transfer of prison operations to private companies operating for profit — is presented in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] as the economic engine behind a cluster of 1980s and 1990s events that the article regards as coordinated.
+Prison privatization — the transfer of prison operations to private companies operating for profit — is presented in the Badlands Media essay A Journey of Ever changing Truths as the economic engine behind a cluster of 1980s and 1990s events that the article regards as coordinated.
 
 [[erik-carlson|Erik Carlson]] dates the shift to the presidency of [[bill-clinton|Bill Clinton]], writing that "under President Bill Clinton, the prison system was becoming privatized," which "meant that private companies would start to run America's prison system for a profit." The difficulty he identifies is that crime was simultaneously declining, so that "the people who benefitted from prisons being full needed the trend to change course."
 

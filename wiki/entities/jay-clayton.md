@@ -15,7 +15,7 @@ Jay Clayton is the United States Attorney for the Southern District of New York,
 
 ## The Singham grand jury probe
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] identifies Clayton as the prosecutor who initiated the federal grand jury investigation in Manhattan into [[neville-roy-singham|Neville Roy Singham]]'s funding network, with authorization from Acting Attorney General [[todd-blanche|Todd Blanche]]. The inquiry examines possible wire fraud, bank fraud, money laundering and related violations connected to roughly $278 million routed from Shanghai into American nonprofits and media organizations, and has produced subpoenas for bank records and financial documents from entities in the network, including the donor-advised philanthropy fund of [[goldman-sachs|Goldman Sachs]].
+"Condemnation, Calibration, & Constitutional Boxes" identifies Clayton as the prosecutor who initiated the federal grand jury investigation in Manhattan into [[neville-roy-singham|Neville Roy Singham]]'s funding network, with authorization from Acting Attorney General [[todd-blanche|Todd Blanche]]. The inquiry examines possible wire fraud, bank fraud, money laundering and related violations connected to roughly $278 million routed from Shanghai into American nonprofits and media organizations, and has produced subpoenas for bank records and financial documents from entities in the network, including the donor-advised philanthropy fund of [[goldman-sachs|Goldman Sachs]].
 
 ## Sources
 

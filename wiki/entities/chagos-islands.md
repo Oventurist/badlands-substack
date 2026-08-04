@@ -15,7 +15,7 @@ The Chagos Islands, or Chagos Archipelago, are a group of seven atolls comprisin
 
 ## Sovereignty dispute
 
-As summarized in [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], the islands have been controlled by the [[united-kingdom|United Kingdom]], which separated them from [[mauritius|Mauritius]] in 1965 — a separation the [[international-court-of-justice|International Court of Justice]] found unlawful in a 2019 advisory opinion. In May 2025 London approved a plan to transfer the archipelago to Mauritius while retaining access to Diego Garcia through a 99-year lease.
+As summarized in Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, the islands have been controlled by the [[united-kingdom|United Kingdom]], which separated them from [[mauritius|Mauritius]] in 1965 — a separation the [[international-court-of-justice|International Court of Justice]] found unlawful in a 2019 advisory opinion. In May 2025 London approved a plan to transfer the archipelago to Mauritius while retaining access to Diego Garcia through a 99-year lease.
 
 ## Reported American purchase proposal
 

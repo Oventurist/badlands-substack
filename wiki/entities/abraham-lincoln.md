@@ -10,7 +10,7 @@ contested: false
 ---
 # Abraham Lincoln
 
-Abraham Lincoln was the sixteenth President of the United States. In the Badlands Media corpus he appears in the historical survey contained in [[always-fight-back|"Always Fight Back"]], which uses the elections of 1860 and 1864 to argue that disputed and unprecedented elections are a recurring feature of American history.
+Abraham Lincoln was the sixteenth President of the United States. In the Badlands Media corpus he appears in the historical survey contained in "Always Fight Back", which uses the elections of 1860 and 1864 to argue that disputed and unprecedented elections are a recurring feature of American history.
 
 The article states that the 1860 election "tore the nation apart," with South Carolina voting to secede just weeks after Lincoln's victory, and emphasizes that Lincoln's name was eliminated from the ballot in ten Southern states, effectively denying him the opportunity to win their electoral votes. The author remarks that this "sounds familiar," drawing an implicit parallel to twenty-first-century efforts to remove candidates from state ballots, and notes that the election was reported as unprecedented at the time.
 

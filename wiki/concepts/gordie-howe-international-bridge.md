@@ -12,7 +12,7 @@ contested: false
 
 The Gordie Howe International Bridge is a $4.6 billion crossing linking Windsor, Ontario with Detroit, Michigan, scheduled to open in early 2026.
 
-The February 11, 2026 [[badlands-brief-05f|Badlands Brief]] reports that President [[donald-trump|Donald Trump]] threatened to block the bridge's opening, posting on social media that the project featured "virtually no US content" and accusing [[canada|Canada]] of benefiting unfairly while offering "Absolutely NOTHING" in return. He tied the issue to Canadian trade plans with China, warning that these could trigger 100% tariffs, a potential ban on ice hockey in Canada, and elimination of the Stanley Cup.
+The February 11, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] threatened to block the bridge's opening, posting on social media that the project featured "virtually no US content" and accusing [[canada|Canada]] of benefiting unfairly while offering "Absolutely NOTHING" in return. He tied the issue to Canadian trade plans with China, warning that these could trigger 100% tariffs, a potential ban on ice hockey in Canada, and elimination of the Stanley Cup.
 
 Canadian Prime Minister [[mark-carney|Mark Carney]] described a positive conversation with Trump and emphasised that Canada had fully funded construction, that ownership is shared with the state of Michigan, and that steel and workers from both countries were involved — presenting the project as a model of cooperation. Local officials and former lawmakers noted that the project's origins date to Trump's first term.
 

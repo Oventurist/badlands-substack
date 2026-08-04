@@ -15,7 +15,7 @@ Daniel Richman is a Columbia Law School professor and a longtime associate of fo
 
 ## Role in the 2026 classified leaks investigation
 
-According to the May 1, 2026 [[badlands-brief-579|Badlands Brief]], relaying Bloomberg Law reporting, federal prosecutors in the Eastern District of Virginia revived an investigation focused on Comey's alleged transmission of classified documents to Richman. The probe, which had stalled after an initial review the previous year, was said to have regained traction after [[todd-blanche|Todd Blanche]] was elevated to acting attorney general, with a small group of EDVA prosecutors meeting regularly with officials in the deputy attorney general's office.
+According to the May 1, 2026 Badlands Brief, relaying Bloomberg Law reporting, federal prosecutors in the Eastern District of Virginia revived an investigation focused on Comey's alleged transmission of classified documents to Richman. The probe, which had stalled after an initial review the previous year, was said to have regained traction after [[todd-blanche|Todd Blanche]] was elevated to acting attorney general, with a small group of EDVA prosecutors meeting regularly with officials in the deputy attorney general's office.
 
 No final decision on venue had been reached at the time of publication. Options under consideration included the Eastern District of Virginia, where Comey resides, and New York, where Richman is based. The timing of any potential indictment likewise remained unclear, and Richman himself had not been reported as a charged party.
 

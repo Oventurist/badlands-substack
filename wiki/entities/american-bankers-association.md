@@ -10,7 +10,7 @@ contested: true
 ---
 # American Bankers Association
 
-The American Bankers Association (ABA) is the principal trade association and lobbying body of the United States banking industry. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] casts it as the leading opponent of a public banking option and quotes its own policy analysis at length as an inadvertent confirmation of the threat such an option would pose to Wall Street.
+The American Bankers Association (ABA) is the principal trade association and lobbying body of the United States banking industry. In A Seismic Shift, [[joe-lange|Joe Lange]] casts it as the leading opponent of a public banking option and quotes its own policy analysis at length as an inadvertent confirmation of the threat such an option would pose to Wall Street.
 
 ## Position on FedAccounts
 

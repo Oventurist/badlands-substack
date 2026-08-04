@@ -11,7 +11,7 @@ contested: false
 
 # Enzo Fernández
 
-Enzo Fernández is an Argentine footballer whose dismissal from the final of the [[2026-fifa-world-cup|2026 FIFA World Cup]] is a focal point of the [[badlands-brief|Badlands Brief]]'s account of the match.
+Enzo Fernández is an Argentine footballer whose dismissal from the final of the [[2026-fifa-world-cup|2026 FIFA World Cup]] is a focal point of the Badlands Brief's account of the match.
 
 ## Sending off in the 2026 final
 

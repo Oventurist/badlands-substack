@@ -14,7 +14,7 @@ contested: true
 ---
 # Augusto Pinochet
 
-Augusto Pinochet (1915–2006) was a Chilean military officer and general who came to power in the September 11, 1973 coup that overthrew President [[salvador-allende|Salvador Allende]], ruling Chile as a dictator for seventeen years until 1990. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Pinochet's crackdown is described as having been aided by AFL-CIO-funded labor operations.
+Augusto Pinochet (1915–2006) was a Chilean military officer and general who came to power in the September 11, 1973 coup that overthrew President [[salvador-allende|Salvador Allende]], ruling Chile as a dictator for seventeen years until 1990. In the Badlands Media article A More Perfect (Labor) Union, Pinochet's crackdown is described as having been aided by AFL-CIO-funded labor operations.
 
 ## Role in the 1973 coup
 

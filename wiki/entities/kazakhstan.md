@@ -10,7 +10,7 @@ contested: true
 ---
 # Kazakhstan
 
-Kazakhstan is the Central Asian republic whose uranium reserves the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] identifies as the true origin of the [[uranium-one|Uranium One]] affair — a dimension the author argues is largely absent from mainstream accounts focused on American uranium.
+Kazakhstan is the Central Asian republic whose uranium reserves the Badlands Media essay America for Sale — Part 3 identifies as the true origin of the [[uranium-one|Uranium One]] affair — a dimension the author argues is largely absent from mainstream accounts focused on American uranium.
 
 According to New York Times reporting quoted in the article, "the path to a Russian acquisition of American uranium deposits began in 2005 in Kazakhstan, where the Canadian mining financier [[frank-giustra|Frank Giustra]] orchestrated his first big uranium deal, with Mr. Clinton at his side." Giustra and [[bill-clinton|Bill Clinton]] flew aboard Giustra's private jet to Almaty and dined with the authoritarian president Nursultan A. Nazarbayev. Clinton publicly endorsed Nazarbayev's bid to head an international elections monitoring group — described by the Times as "a propaganda coup" that undercut American foreign policy and criticism of Kazakhstan's poor human rights record, including from his wife, then a senator.
 

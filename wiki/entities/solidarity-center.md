@@ -14,7 +14,7 @@ contested: true
 ---
 # Solidarity Center
 
-The Solidarity Center is the international arm of the [[afl-cio|AFL-CIO]], established in 1997 as a channel for U.S. government influence over foreign labor movements. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], it is described as NED/CIA influence over labor unions — a geopolitical instrument whose staffers act as "conduits between American unions and their foreign counterparts while serving as the AFL-CIO's eyes and ears on the ground in other nations."
+The Solidarity Center is the international arm of the [[afl-cio|AFL-CIO]], established in 1997 as a channel for U.S. government influence over foreign labor movements. In the Badlands Media article A More Perfect (Labor) Union, it is described as NED/CIA influence over labor unions — a geopolitical instrument whose staffers act as "conduits between American unions and their foreign counterparts while serving as the AFL-CIO's eyes and ears on the ground in other nations."
 
 ## Formation
 

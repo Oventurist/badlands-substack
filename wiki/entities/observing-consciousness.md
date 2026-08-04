@@ -16,7 +16,7 @@ Observing Consciousness is the pen name of a writer who contributes long-form fe
 
 Observing Consciousness is the author of an ongoing series titled "Hijacked Consciousness," described in Badlands editorial copy as "a series on the Hijacking of the Human Operating System, and what's being done about it." The series is sequential, with each installment directing new readers to begin with Part 1.
 
-Two installments are catalogued in the August 15, 2025 roundup [[a-look-at-recent-features|"A Look At Recent Features"]]: "Hijacked Consciousness - The Silent War," published August 2, 2025 as the fourth article in the series, and "Hijacked Consciousness - Resonance Field," published August 9, 2025 as the fifth.
+Two installments are catalogued in the August 15, 2025 roundup "A Look At Recent Features": "Hijacked Consciousness - The Silent War," published August 2, 2025 as the fourth article in the series, and "Hijacked Consciousness - Resonance Field," published August 9, 2025 as the fifth.
 
 ## Themes
 
@@ -25,7 +25,7 @@ The series title indicates a framing in which human perception and cognition are
 ## Related pages
 
 - [[badlands-media]]
-- [[a-look-at-recent-features]]
+- a look at recent features
 
 ## Sources
 

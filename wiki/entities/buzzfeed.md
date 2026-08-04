@@ -14,7 +14,7 @@ BuzzFeed is an American digital media company whose news division, BuzzFeed News
 
 ## The Steele Dossier
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] identifies BuzzFeed as "the outlet responsible for breaking the Steele Dossier," which the article characterizes as "one of the most notorious instances of fake news." The 2017 publication of the unverified dossier alleging ties between [[donald-trump|Donald Trump]] and Russia is treated in the corpus as a defining example of the corporate press circulating establishment-sourced material without verification.
+A Swan Song for the MSM identifies BuzzFeed as "the outlet responsible for breaking the Steele Dossier," which the article characterizes as "one of the most notorious instances of fake news." The 2017 publication of the unverified dossier alleging ties between [[donald-trump|Donald Trump]] and Russia is treated in the corpus as a defining example of the corporate press circulating establishment-sourced material without verification.
 
 ## Closure of the news division
 

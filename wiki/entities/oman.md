@@ -15,7 +15,7 @@ Oman is a sultanate on the southeastern coast of the Arabian Peninsula, long dis
 
 ## Role in the Iran nuclear negotiations
 
-The Badlands Brief edition [[badlands-brief-52b|"Golgotha & The Metaverse"]] (March 20, 2026) describes Oman as a participant in the negotiations that preceded the outbreak of the Iran–Israel war. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] recounts that the Omani Foreign Minister, who had attended the meetings, publicly stated that Iran had agreed to "zero enriched uranium stockpiling" — a concession that, in his account, nobody expected Iran to make.
+The Badlands Brief edition "Golgotha & The Metaverse" (March 20, 2026) describes Oman as a participant in the negotiations that preceded the outbreak of the Iran–Israel war. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] recounts that the Omani Foreign Minister, who had attended the meetings, publicly stated that Iran had agreed to "zero enriched uranium stockpiling" — a concession that, in his account, nobody expected Iran to make.
 
 That statement came a day after the British National Security Advisor, also present at the talks, described an "unbelievable" Iranian offer that appeared likely to produce a settlement. According to the Brief's account, a few hours after Iran purportedly agreed to those terms, Tehran was bombed and the war began — a sequence GhostofBasedPatrickHenry presents as evidence that a viable diplomatic track was deliberately foreclosed.
 

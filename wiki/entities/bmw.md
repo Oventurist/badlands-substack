@@ -10,7 +10,7 @@ contested: false
 ---
 # BMW
 
-BMW is a German luxury automobile and motorcycle manufacturer headquartered in Munich, long treated as one of the emblems of German engineering. In the July 30, 2026 [[badlands-brief-414|Badlands Brief]] the company appears as the leading case study in a broader account of German industrial decline.
+BMW is a German luxury automobile and motorcycle manufacturer headquartered in Munich, long treated as one of the emblems of German engineering. In the July 30, 2026 Badlands Brief the company appears as the leading case study in a broader account of German industrial decline.
 
 ## 2026 workforce reductions
 

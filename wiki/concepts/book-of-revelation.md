@@ -10,7 +10,7 @@ contested: true
 ---
 # Book of Revelation
 
-The book of Revelation is the final book of the Christian New Testament, an apocalyptic vision attributed to the apostle John. In the Badlands Media corpus it is the organizing text of the July 2023 feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] by Patriots in Progress, which walks through its major sections in order and proposes that its prophecies may be unfolding in the present day.
+The book of Revelation is the final book of the Christian New Testament, an apocalyptic vision attributed to the apostle John. In the Badlands Media corpus it is the organizing text of the July 2023 feature "Are We Entering the Millennial Reign?" by Patriots in Progress, which walks through its major sections in order and proposes that its prophecies may be unfolding in the present day.
 
 ## Character of the text
 

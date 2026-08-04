@@ -10,11 +10,11 @@ contested: false
 ---
 # The Narrative
 
-**The Narrative** is a recurring program produced by [[badlands-media|Badlands Media]] and distributed through the outlet's Substack channel. It is presented in the corpus as a companion to [[the-blitz|The Blitz]], the outlet's weekly recap of the Monday-through-Friday [[badlands-brief|Badlands Brief]], and as the longer-form venue in which the themes raised in the weekly recap are developed at greater length.
+**The Narrative** is a recurring program produced by [[badlands-media|Badlands Media]] and distributed through the outlet's Substack channel. It is presented in the corpus as a companion to [[the-blitz|The Blitz]], the outlet's weekly recap of the Monday-through-Friday Badlands Brief, and as the longer-form venue in which the themes raised in the weekly recap are developed at greater length.
 
 ## Relationship to The Blitz
 
-The clearest description of the program in the corpus comes from [[badlands-blitz-episode-16|Badlands Blitz Episode 16]], published May 9, 2026, in which [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] are said to "preview the next episode of _The Narrative_" by revisiting the week's news through the framing of "the long, sometimes-slow—and now quite rapidly accelerating—march for American Justice and Accountability." The arrangement indicates that episodes of The Narrative are organized around sustained interpretive frames rather than around the news cycle, with The Blitz serving as both weekly summary and trailer for the upcoming installment.
+The clearest description of the program in the corpus comes from Badlands Blitz Episode 16, published May 9, 2026, in which [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] are said to "preview the next episode of _The Narrative_" by revisiting the week's news through the framing of "the long, sometimes-slow—and now quite rapidly accelerating—march for American Justice and Accountability." The arrangement indicates that episodes of The Narrative are organized around sustained interpretive frames rather than around the news cycle, with The Blitz serving as both weekly summary and trailer for the upcoming installment.
 
 ## Analytical orientation
 

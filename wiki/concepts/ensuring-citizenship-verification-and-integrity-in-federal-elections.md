@@ -14,7 +14,7 @@ contested: true
 
 ## Provisions
 
-As described in the [[badlands-brief-323|Badlands Brief of May 15, 2026]], the order contains three principal directives. It instructs the [[department-of-homeland-security|Department of Homeland Security]] to develop a "state citizenship list," a federal reference resource for determining voter eligibility. It directs the [[department-of-justice|Justice Department]] to prioritize prosecution of state and local officials who distribute ballots to ineligible voters. And it calls on the [[united-states-postal-service|United States Postal Service]] to draft rules requiring states to provide voter registration lists in order to have mail-in ballots processed.
+As described in the Badlands Brief of May 15, 2026, the order contains three principal directives. It instructs the [[department-of-homeland-security|Department of Homeland Security]] to develop a "state citizenship list," a federal reference resource for determining voter eligibility. It directs the [[department-of-justice|Justice Department]] to prioritize prosecution of state and local officials who distribute ballots to ineligible voters. And it calls on the [[united-states-postal-service|United States Postal Service]] to draft rules requiring states to provide voter registration lists in order to have mail-in ballots processed.
 
 ## Implementation
 

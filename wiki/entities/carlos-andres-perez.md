@@ -13,7 +13,7 @@ contested: true
 ---
 # Carlos Andrés Pérez
 
-Carlos Andrés Pérez Rodríguez (1922–2010), known as CAP or "El Gocho," was a Venezuelan politician who served as president from 1974 to 1979 and again from 1989 to 1993. In the Badlands Media article [[a-family-affair]], he is portrayed as a corrupt leader installed or supported by CIA-linked networks, whose presidency facilitated oil-boom embezzlement and who later fled to miami, the same city where [[jeb-bush]] established his base after Venezuela.
+Carlos Andrés Pérez Rodríguez (1922–2010), known as CAP or "El Gocho," was a Venezuelan politician who served as president from 1974 to 1979 and again from 1989 to 1993. In the Badlands Media article a family affair, he is portrayed as a corrupt leader installed or supported by CIA-linked networks, whose presidency facilitated oil-boom embezzlement and who later fled to miami, the same city where [[jeb-bush]] established his base after Venezuela.
 
 ## First presidency and oil boom
 

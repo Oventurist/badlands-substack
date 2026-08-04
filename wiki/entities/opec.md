@@ -15,7 +15,7 @@ The Organization of the Petroleum Exporting Countries (OPEC) is the intergovernm
 
 ## The 2026 UAE exit
 
-The May 1, 2026 [[badlands-brief-579|Badlands Brief]] reported that the [[united-arab-emirates|United Arab Emirates]] was set to exit OPEC that day, describing the departure as a major strategic fracture in the global oil order that weakens the cartel's ability to control supply and defend price floors. The exit came after nearly six decades of Emirati membership.
+The May 1, 2026 Badlands Brief reported that the [[united-arab-emirates|United Arab Emirates]] was set to exit OPEC that day, describing the departure as a major strategic fracture in the global oil order that weakens the cartel's ability to control supply and defend price floors. The exit came after nearly six decades of Emirati membership.
 
 [[russia|Russia]] publicly downplayed the risk of an immediate price war, arguing that Iran-war disruptions and constraints in the [[strait-of-hormuz|Strait of Hormuz]] still dominated market conditions. Analysts cited in the reporting argued the real impact would arrive after the war: once Gulf exports normalized, the UAE would be free to ramp production outside quota limits, potentially forcing [[saudi-arabia|Saudi Arabia]] and other members into a market-share fight. Abu Dhabi had already invested heavily to expand capacity from roughly 3.4 million barrels per day toward 5 million by 2027.
 

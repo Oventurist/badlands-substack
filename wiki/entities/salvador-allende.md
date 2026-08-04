@@ -14,7 +14,7 @@ contested: true
 ---
 # Salvador Allende
 
-Salvador Allende (1908–1973) was a Chilean physician and socialist politician who served as President of Chile from 1970 until his overthrow and death in the September 11, 1973 military coup led by General [[augusto-pinochet|Augusto Pinochet]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Allende's overthrow is presented as a key episode of [[afl-cio|AFL-CIO]]-involvement in covert U.S. regime change.
+Salvador Allende (1908–1973) was a Chilean physician and socialist politician who served as President of Chile from 1970 until his overthrow and death in the September 11, 1973 military coup led by General [[augusto-pinochet|Augusto Pinochet]]. In the Badlands Media article A More Perfect (Labor) Union, Allende's overthrow is presented as a key episode of [[afl-cio|AFL-CIO]]-involvement in covert U.S. regime change.
 
 ## The 1973 Chilean coup
 

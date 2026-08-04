@@ -14,7 +14,7 @@ Starbucks is an American coffeehouse chain. In the Badlands corpus it serves as 
 
 ## The drive-through observation
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] recounts that in the years immediately preceding the Covid lockdowns, the author noticed how many Starbucks stores without drive-throughs were being replaced by stores with them, and that almost all newly built locations included a drive-through. He pairs this with the company's simultaneous push toward ordering ahead, a feature that "allows one to minimize the interactions they have with anyone in the store." Carlson asks pointedly, "How did they foresee what was coming?"
+Erik Carlson's America Has a CIA Run Economy recounts that in the years immediately preceding the Covid lockdowns, the author noticed how many Starbucks stores without drive-throughs were being replaced by stores with them, and that almost all newly built locations included a drive-through. He pairs this with the company's simultaneous push toward ordering ahead, a feature that "allows one to minimize the interactions they have with anyone in the store." Carlson asks pointedly, "How did they foresee what was coming?"
 
 ## Removal of seating
 

@@ -14,7 +14,7 @@ The Bitcoin Conference of late July 2024 was the venue at which [[donald-trump|D
 
 ## The speech in the corpus
 
-[[erik-carlson|Erik Carlson]]'s essay [[are-we-being-distracted|Are We Being Distracted?]] asks what Trump was doing "when all this Olympic distraction was occurring" and answers that he was speaking at the Bitcoin Conference. According to the article, Trump "clearly stated that he saw Bitcoin as an important part of the American economy going forward" and that he wants the United States to stockpile it.
+[[erik-carlson|Erik Carlson]]'s essay Are We Being Distracted? asks what Trump was doing "when all this Olympic distraction was occurring" and answers that he was speaking at the Bitcoin Conference. According to the article, Trump "clearly stated that he saw Bitcoin as an important part of the American economy going forward" and that he wants the United States to stockpile it.
 
 Carlson is careful about the scope of the claim. He states that Trump was not telling the public to buy as much Bitcoin as possible, nor predicting that Bitcoin would replace the U.S. dollar. Rather, "Bitcoin would be used to strengthen the US Dollar" — a strategic reserve held by the federal government from which, in the author's phrasing, "every American benefits" regardless of whether they hold any cryptocurrency themselves. Carlson twice disclaims any intent to give investment advice, describing the episode instead as "an example of what is happening behind the scenes."
 

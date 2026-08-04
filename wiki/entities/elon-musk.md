@@ -39,24 +39,24 @@ Musk is linked in the source to the **Trusted News Initiative** and the **Online
 
 ## TikTok
 
-The February 2025 essay [[a-new-hollywood|A New Hollywood]] notes that, around the rollout of [[project-stargate|Project Stargate]], [[donald-trump|Trump]] suggested that either Musk or [[larry-ellison|Larry Ellison]] buy [[tiktok|TikTok]].
+The February 2025 essay A New Hollywood notes that, around the rollout of [[project-stargate|Project Stargate]], [[donald-trump|Trump]] suggested that either Musk or [[larry-ellison|Larry Ellison]] buy [[tiktok|TikTok]].
 
 ## Alignment with Trump in 2025
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] names Musk as the most supportive of the big-technology chief executives who endorsed or ceased opposing [[donald-trump]], describing him as "the most supportive, both vocally and financially." The essay closes with the image of Musk seated at the inauguration alongside [[mark-zuckerberg]] and [[jeff-bezos]] -- a scene Carlson says he will not allow to make his "blood boil," given his view that the American economy cannot be destroyed in order to obtain justice against the [[deep-state|Deep State]].
+Erik Carlson's America Has a CIA Run Economy names Musk as the most supportive of the big-technology chief executives who endorsed or ceased opposing [[donald-trump]], describing him as "the most supportive, both vocally and financially." The essay closes with the image of Musk seated at the inauguration alongside [[mark-zuckerberg]] and [[jeff-bezos]] -- a scene Carlson says he will not allow to make his "blood boil," given his view that the American economy cannot be destroyed in order to obtain justice against the [[deep-state|Deep State]].
 
 ## "Prosecute/Fauci"
 
-[[j-b-white|J.B. White]]'s December 2022 column [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]] cites Musk's tweet announcing that his pronouns were "Prosecute/Fauci" as the immediate prompt for the piece, reading it as a signal that long-anticipated accountability for [[anthony-fauci|Anthony Fauci]] was near. The same column treats the [[twitter-files|Twitter Files]], released under Musk's ownership of the platform, as an ongoing process of revelation exposing coordinated suppression of competing narratives.
+[[j-b-white|J.B. White]]'s December 2022 column "Anthony Fauci: Soldier for the Communist Cause" cites Musk's tweet announcing that his pronouns were "Prosecute/Fauci" as the immediate prompt for the piece, reading it as a signal that long-anticipated accountability for Anthony Fauci was near. The same column treats the [[twitter-files|Twitter Files]], released under Musk's ownership of the platform, as an ongoing process of revelation exposing coordinated suppression of competing narratives.
 
 ## Population collapse
 
-The July 2023 Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] cites Musk as a prominent voice raising the alarm about population collapse. [[patriots-in-progress|Patriots in Progress]] introduces Musk's data on declining birth rates as corroboration for his argument that the cumulative demographic damage of abortion, disease, sterilization, infertility, war and the [[covid-19-vaccines|Covid vaccine]] campaign may amount to the mortality described in Revelation's fourth seal and sixth trumpet - the death of one quarter and one third of humanity.
+The July 2023 Badlands Media feature "Are We Entering the Millennial Reign?" cites Musk as a prominent voice raising the alarm about population collapse. [[patriots-in-progress|Patriots in Progress]] introduces Musk's data on declining birth rates as corroboration for his argument that the cumulative demographic damage of abortion, disease, sterilization, infertility, war and the [[covid-19-vaccines|Covid vaccine]] campaign may amount to the mortality described in Revelation's fourth seal and sixth trumpet - the death of one quarter and one third of humanity.
 
 
 ## Amplification of election-fraud claims (June 2026)
 
-In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], [[burning-bright|Burning Bright]] writes that after [[donald-trump|Donald Trump]] characterized the [[los-angeles|Los Angeles]] mayoral primary result as a theft, "Elon Musk has amplified his signal," prompting what the commentary describes as the standard institutional response of dismissing such claims as "unsubstantiated," "normal process," and "conspiracy theory."
+In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, [[burning-bright|Burning Bright]] writes that after [[donald-trump|Donald Trump]] characterized the [[los-angeles|Los Angeles]] mayoral primary result as a theft, "Elon Musk has amplified his signal," prompting what the commentary describes as the standard institutional response of dismissing such claims as "unsubstantiated," "normal process," and "conspiracy theory."
 
 ## Sources
 

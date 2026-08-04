@@ -15,7 +15,7 @@ The Caspian Sea is the landlocked body of water bordered by [[russia|Russia]], [
 
 ## The July 2026 strike
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that Iran accused [[ukraine|Ukraine]] of attacking an Iranian commercial vessel in the Caspian Sea, killing one sailor and wounding another. Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] said Ukraine had conducted long-range strikes against vessels involved in military cargo shipments linked to Iran, as well as against a warship. Iran summoned Ukraine's chargé d'affaires in Tehran to protest and said it would pursue the matter through diplomatic channels. Foreign Minister [[abbas-araghchi|Abbas Araghchi]] raised the incident with EU foreign policy chief [[kaja-kallas|Kaja Kallas]] and Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]], calling it a violation of international law that "cannot go unanswered."
+The July 27, 2026 Badlands Brief reports that Iran accused [[ukraine|Ukraine]] of attacking an Iranian commercial vessel in the Caspian Sea, killing one sailor and wounding another. Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] said Ukraine had conducted long-range strikes against vessels involved in military cargo shipments linked to Iran, as well as against a warship. Iran summoned Ukraine's chargé d'affaires in Tehran to protest and said it would pursue the matter through diplomatic channels. Foreign Minister [[abbas-araghchi|Abbas Araghchi]] raised the incident with EU foreign policy chief [[kaja-kallas|Kaja Kallas]] and Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]], calling it a violation of international law that "cannot go unanswered."
 
 ## Geographic argument
 

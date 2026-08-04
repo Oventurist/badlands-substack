@@ -11,7 +11,7 @@ contested: true
 
 # Yair Lapid
 
-Yair Lapid is an Israeli politician, former television news anchor, and leader of the opposition to [[benjamin-netanyahu|Benjamin Netanyahu]]'s government. He appears in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as one of two favorites — alongside [[naftali-bennett|Naftali Bennett]] — to win the Israeli prime ministerial election scheduled for October.
+Yair Lapid is an Israeli politician, former television news anchor, and leader of the opposition to [[benjamin-netanyahu|Benjamin Netanyahu]]'s government. He appears in the February 24, 2026 Badlands Brief as one of two favorites — alongside [[naftali-bennett|Naftali Bennett]] — to win the Israeli prime ministerial election scheduled for October.
 
 ## Position on war with Iran
 

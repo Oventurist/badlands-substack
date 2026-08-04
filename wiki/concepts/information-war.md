@@ -10,7 +10,7 @@ contested: true
 ---
 # Information War
 
-"The info war" is the term used across [[badlands-media|Badlands Media]] commentary for what its writers describe as an ongoing contest over public perception waged through mass media, institutional authority and narrative management. The concept is developed at length in the August 30, 2024 essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]], which treats a South Dakota gravity-hill attraction as a working model of how such deception operates.
+"The info war" is the term used across [[badlands-media|Badlands Media]] commentary for what its writers describe as an ongoing contest over public perception waged through mass media, institutional authority and narrative management. The concept is developed at length in the August 30, 2024 essay "A Mysterious Masterclass in Multi Sensory Deception", which treats a South Dakota gravity-hill attraction as a working model of how such deception operates.
 
 ## Anatomy of a deception
 
@@ -26,13 +26,13 @@ A companion quotation from an attendee identified as Diane extends the analogy t
 
 ## Identification as the terrain of the war
 
-The essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) offers a compact definition of the stakes: "in a war that is named for Information itself, knowing who is whom and what is what IS the war itself." Its author, [[burning-bright|Burning Bright]], describes the conflict as "the most complex Fifth-Generation Psychological and Information War ever waged both against AND for the American people, and the people of the would-be sovereign world," and argues that because much is necessarily obscured, hostile "assets" will be activated at moments when the [[maga|MAGA]] base appears to be fracturing.
+The essay All Assets Deployed (November 16, 2022) offers a compact definition of the stakes: "in a war that is named for Information itself, knowing who is whom and what is what IS the war itself." Its author, [[burning-bright|Burning Bright]], describes the conflict as "the most complex Fifth-Generation Psychological and Information War ever waged both against AND for the American people, and the people of the would-be sovereign world," and argues that because much is necessarily obscured, hostile "assets" will be activated at moments when the [[maga|MAGA]] base appears to be fracturing.
 
 The essay's practical counsel is one of information hygiene: to "pay attention to those who scream the loudest while guarding your mind from the very same," to apply "resolute, determined discernment and realism to our projections," and to avoid mistaking an incomplete advance for a defeat, since focusing on the enemy's gloating risks missing "the forward ground that was taken, and the battlements that might be erected therein."
 
 ## Relation to the Shadow War
 
-The announcement for [[badlands-blitz-episode-25|Badlands Blitz Episode 25]] (July 18, 2026) pairs the Information War with the [[shadow-war|Shadow War]] as two coupled theatres of a single conflict, arguing that Donald Trump's election fraud speech of the preceding Thursday marked "the beginnings of a true phase shift in both the Shadow War and the Information War at once." The formulation treats narrative combat as distinct from, but synchronised with, covert operational activity.
+The announcement for Badlands Blitz Episode 25 (July 18, 2026) pairs the Information War with the [[shadow-war|Shadow War]] as two coupled theatres of a single conflict, arguing that Donald Trump's election fraud speech of the preceding Thursday marked "the beginnings of a true phase shift in both the Shadow War and the Information War at once." The formulation treats narrative combat as distinct from, but synchronised with, covert operational activity.
 
 ## Sources
 

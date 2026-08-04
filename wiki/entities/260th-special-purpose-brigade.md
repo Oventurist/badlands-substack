@@ -10,7 +10,7 @@ contested: false
 ---
 # 260th Special Purpose Brigade
 
-The 260th Special Purpose Brigade is a unit of the [[dc-national-guard|District of Columbia National Guard]], activated in March 2026 and described in the [[badlands-brief-559|Badlands Brief]] of March 13, 2026 as the Army's only brigade dedicated to coordinating military support to civil authorities and protecting critical infrastructure in the nation's capital.
+The 260th Special Purpose Brigade is a unit of the [[dc-national-guard|District of Columbia National Guard]], activated in March 2026 and described in the Badlands Brief of March 13, 2026 as the Army's only brigade dedicated to coordinating military support to civil authorities and protecting critical infrastructure in the nation's capital.
 
 ## Formation and mission
 

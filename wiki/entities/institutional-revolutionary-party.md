@@ -13,7 +13,7 @@ contested: true
 ---
 # Institutional Revolutionary Party
 
-The Institutional Revolutionary Party (Spanish: Partido Revolucionario Institucional, PRI) is a Mexican political party that held continuous power in Mexico from 1929 to 2000, and again from 2012 to 2018. In the Badlands Media article [[a-family-affair]], the PRI is identified as the ruling party apparatus through which the salinas family operated, and whose officials were involved in cover-ups of political murders and drug trafficking.
+The Institutional Revolutionary Party (Spanish: Partido Revolucionario Institucional, PRI) is a Mexican political party that held continuous power in Mexico from 1929 to 2000, and again from 2012 to 2018. In the Badlands Media article a family affair, the PRI is identified as the ruling party apparatus through which the salinas family operated, and whose officials were involved in cover-ups of political murders and drug trafficking.
 
 ## Role in the Salinas regime
 

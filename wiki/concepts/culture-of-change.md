@@ -10,7 +10,7 @@ contested: false
 ---
 # Culture of Change
 
-*Culture of Change* is a [[badlands-media|Badlands Media]] program hosted by [[ashe-in-america|Ashe in America]], broadcast on Sundays at 6:00 PM Eastern. It is referenced in her July 2023 article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" as the venue for extended discussion of the themes raised in that piece.
+*Culture of Change* is a [[badlands-media|Badlands Media]] program hosted by [[ashe-in-america|Ashe in America]], broadcast on Sundays at 6:00 PM Eastern. It is referenced in her July 2023 article "Artificial Intelligence: Hysteria vs. Reason" as the venue for extended discussion of the themes raised in that piece.
 
 The article directs readers to Episode 18, "Humanity as a Service; Consciousness as Code," in which Ashe and her co-host CannCon "dig into and debate all of this and more" — the emerging AI threat, the [[technological-singularity|singularity]], and [[reality-collapse|reality collapse]]. The episode was distributed on Rumble.
 

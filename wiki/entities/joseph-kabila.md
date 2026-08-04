@@ -15,7 +15,7 @@ Joseph Kabila is the former President of the [[democratic-republic-of-the-congo|
 
 ## Treason conviction
 
-According to commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] in the [[badlands-brief-1ce|January 30, 2026 Badlands Brief]], Kabila was accused in 2025 of aiding and abetting the rebels that crossed into eastern Congo from [[rwanda|Rwanda]] and seized control of mining towns. He was charged with treason; the prosecutor sought the death penalty, which was granted, and Kabila was convicted in absentia of the failed coup.
+According to commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] in the January 30, 2026 Badlands Brief, Kabila was accused in 2025 of aiding and abetting the rebels that crossed into eastern Congo from [[rwanda|Rwanda]] and seized control of mining towns. He was charged with treason; the prosecutor sought the death penalty, which was granted, and Kabila was convicted in absentia of the failed coup.
 
 ## Gertler relationship
 

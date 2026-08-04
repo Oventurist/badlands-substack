@@ -14,7 +14,7 @@ contested: true
 ---
 # Raul Salinas
 
-Raul Salinas de Gortari is the older brother of former Mexican President [[carlos-salinas]]. In the Badlands Media article [[a-family-affair]], he is identified as the "intellectual author" of the September 1994 assassination of José Francisco Ruiz Massieu, secretary general of the [[institutional-revolutionary-party]] (PRI), and as a key financial operator for the [[gulf-cartel]].
+Raul Salinas de Gortari is the older brother of former Mexican President [[carlos-salinas]]. In the Badlands Media article a family affair, he is identified as the "intellectual author" of the September 1994 assassination of José Francisco Ruiz Massieu, secretary general of the [[institutional-revolutionary-party]] (PRI), and as a key financial operator for the [[gulf-cartel]].
 
 ## José Francisco Ruiz Massieu murder
 

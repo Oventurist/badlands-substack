@@ -13,7 +13,7 @@ contested: true
 ---
 # American Federation of Labor
 
-The American Federation of Labor (AFL) was a national federation of labor unions in the United States, founded in 1886, that merged with the [[congress-of-industrial-organizations|Congress of Industrial Organizations]] in December 1955 to form the [[afl-cio|AFL-CIO]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the AFL is presented as the earlier institutional vehicle through which American organized labor was integrated into covert U.S. foreign policy.
+The American Federation of Labor (AFL) was a national federation of labor unions in the United States, founded in 1886, that merged with the [[congress-of-industrial-organizations|Congress of Industrial Organizations]] in December 1955 to form the [[afl-cio|AFL-CIO]]. In the Badlands Media article A More Perfect (Labor) Union, the AFL is presented as the earlier institutional vehicle through which American organized labor was integrated into covert U.S. foreign policy.
 
 ## Role in covert operations
 

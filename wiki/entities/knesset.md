@@ -10,7 +10,7 @@ contested: true
 ---
 # Knesset
 
-The Knesset is Israel's national legislature, described in the Badlands corpus as the "Israeli Congress." In the March 13, 2026 edition of the [[badlands-brief|Badlands Brief]], [[badlands-brief-559|"Narrative Warfare For Your Safety"]], the Knesset appears as a direct participant in the controversy over the alleged sexual assault of a Palestinian detainee at the [[sde-teiman|Sde Teiman]] facility.
+The Knesset is Israel's national legislature, described in the Badlands corpus as the "Israeli Congress." In the March 13, 2026 edition of the Badlands Brief, "Narrative Warfare For Your Safety", the Knesset appears as a direct participant in the controversy over the alleged sexual assault of a Palestinian detainee at the [[sde-teiman|Sde Teiman]] facility.
 
 ## Role in the Sde Teiman case
 

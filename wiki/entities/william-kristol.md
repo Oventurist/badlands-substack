@@ -14,7 +14,7 @@ William Kristol is an American neoconservative commentator and co-founder of the
 
 ## In the corpus
 
-[[assad-day-in-damascus]] names Kristol and [[robert-kagan]] as "the gruesome duo" who created PNAC in 1997, a think tank the article describes as maintaining strong ties to the [[american-enterprise-institute|American Enterprise Institute]]. Under their direction PNAC assembled a roster including [[dick-cheney]], [[paul-wolfowitz]], [[john-bolton]] and [[donald-rumsfeld]], fourteen of whose twenty-five original signatories went on to serve in the George W. Bush administration.
+assad day in damascus names Kristol and [[robert-kagan]] as "the gruesome duo" who created PNAC in 1997, a think tank the article describes as maintaining strong ties to the [[american-enterprise-institute|American Enterprise Institute]]. Under their direction PNAC assembled a roster including [[dick-cheney]], [[paul-wolfowitz]], [[john-bolton]] and [[donald-rumsfeld]], fourteen of whose twenty-five original signatories went on to serve in the George W. Bush administration.
 
 The organization Kristol co-founded is presented in the corpus as the source of the doctrine of [[pax-americana|Pax Americana]] and of the strategic case, laid out in [[rebuilding-americas-defenses|Rebuilding America's Defenses]], for regime change in Libya, Iraq, Iran and [[syria]].
 

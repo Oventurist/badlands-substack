@@ -10,7 +10,7 @@ contested: false
 ---
 # Bandung Conference
 
-The Bandung Conference of 1955 was the gathering of Asian and African states in Bandung, Indonesia, from which the Five Principles of Peaceful Coexistence emerged. The Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]] states that these principles restated the universal freedoms of [[franklin-d-roosevelt|Franklin Roosevelt]]'s [[four-freedoms|Four Freedoms]] and the [[un-charter|UN Charter]], and that Bandung "set the tone for the [[non-aligned-movement|Non-Aligned Movement]]."
+The Bandung Conference of 1955 was the gathering of Asian and African states in Bandung, Indonesia, from which the Five Principles of Peaceful Coexistence emerged. The Badlands Media article A Gateway to a New World of Cooperation states that these principles restated the universal freedoms of [[franklin-d-roosevelt|Franklin Roosevelt]]'s [[four-freedoms|Four Freedoms]] and the [[un-charter|UN Charter]], and that Bandung "set the tone for the [[non-aligned-movement|Non-Aligned Movement]]."
 
 ## Function in the article's argument
 

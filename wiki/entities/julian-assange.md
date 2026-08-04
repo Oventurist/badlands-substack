@@ -14,7 +14,7 @@ Julian Assange is the Australian publisher and founder of WikiLeaks, whose discl
 
 ## In the Badlands corpus
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] cites Assange, with [[gary-webb|Gary Webb]], as an exemplar of the journalistic function that the [[first-amendment|First Amendment]] was written to protect — "a mechanism to confront, undermine, subvert and check institutions of authority and the most powerful people in our country." The article contrasts his record of exposing corruption within the [[cia|CIA]], the [[fbi|FBI]], Wall Street and the [[military-industrial-complex|military industrial complex]] with the output of credentialed corporate journalists such as [[taylor-lorenz|Taylor Lorenz]], arguing that institutional employment is no guarantee of journalism and that its absence is no bar to it.
+A Swan Song for the MSM cites Assange, with [[gary-webb|Gary Webb]], as an exemplar of the journalistic function that the [[first-amendment|First Amendment]] was written to protect — "a mechanism to confront, undermine, subvert and check institutions of authority and the most powerful people in our country." The article contrasts his record of exposing corruption within the [[cia|CIA]], the [[fbi|FBI]], Wall Street and the [[military-industrial-complex|military industrial complex]] with the output of credentialed corporate journalists such as [[taylor-lorenz|Taylor Lorenz]], arguing that institutional employment is no guarantee of journalism and that its absence is no bar to it.
 
 ## Sources
 

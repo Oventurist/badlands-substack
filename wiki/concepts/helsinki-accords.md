@@ -14,7 +14,7 @@ The Helsinki Accords are the 1975 Final Act of the Conference on Security and Co
 
 ## As a Middle East model
 
-The [[badlands-brief-323|Badlands Brief of May 15, 2026]] reports, citing *[[financial-times|Financial Times]]*, that [[saudi-arabia|Saudi Arabia]] has pointed to the 1970s Helsinki process as a possible framework for a Middle East non-aggression pact with [[iran]]. The appeal of the analogy, as described by diplomats in the report, lies in its combination of conflict reduction with expanded economic cooperation among states that remain ideological adversaries — a fit for postwar planning once the US–[[israel|Israeli]] conflict with Tehran ends.
+The Badlands Brief of May 15, 2026 reports, citing *[[financial-times|Financial Times]]*, that [[saudi-arabia|Saudi Arabia]] has pointed to the 1970s Helsinki process as a possible framework for a Middle East non-aggression pact with [[iran]]. The appeal of the analogy, as described by diplomats in the report, lies in its combination of conflict reduction with expanded economic cooperation among states that remain ideological adversaries — a fit for postwar planning once the US–[[israel|Israeli]] conflict with Tehran ends.
 
 Arab diplomats quoted in the reporting believed most Muslim and Arab nations would support such a concept, while identifying the inclusion of Israel as the major obstacle given regional anger over military operations in [[gaza]], [[lebanon]] and [[syria]]. The proposal sits alongside Saudi efforts to deepen coordination with [[pakistan]], [[turkey]] and [[egypt]], and Pakistani interest in enlarging the Saudi–Pakistan defense pact to include [[qatar]] and Turkey.
 

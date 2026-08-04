@@ -10,7 +10,7 @@ contested: true
 ---
 # Benjamin West
 
-Benjamin West (born 1737) was an American-born painter who became a founding member and later president of the [[royal-academy-of-arts|English Royal Academy of Fine Arts]] and history painter to [[king-george-iii|King George III]]. In the Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]], [[matthew-ehret|Matthew Ehret]] presents him as "the greatest living painter during his lifetime" and "a man of untold anomalies" who functioned as a republican incubator and coordinator inside the cultural heart of the British Empire.
+Benjamin West (born 1737) was an American-born painter who became a founding member and later president of the [[royal-academy-of-arts|English Royal Academy of Fine Arts]] and history painter to [[king-george-iii|King George III]]. In the Badlands Media essay A New American Renaissance, [[matthew-ehret|Matthew Ehret]] presents him as "the greatest living painter during his lifetime" and "a man of untold anomalies" who functioned as a republican incubator and coordinator inside the cultural heart of the British Empire.
 
 ## Origins
 

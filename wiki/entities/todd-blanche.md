@@ -10,7 +10,7 @@ contested: false
 ---
 # Todd Blanche
 
-Todd Blanche is a senior United States law enforcement official who, in the [[badlands-brief-0fb|April 24, 2026 Badlands Brief]], appears as Acting Attorney General announcing the federal reclassification of state-licensed medical marijuana.
+Todd Blanche is a senior United States law enforcement official who, in the April 24, 2026 Badlands Brief, appears as Acting Attorney General announcing the federal reclassification of state-licensed medical marijuana.
 
 ## Rescheduling of medical marijuana
 

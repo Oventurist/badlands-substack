@@ -11,7 +11,7 @@ contested: false
 
 # Egypt
 
-Egypt is an Arab republic and a leading state in Middle Eastern diplomacy. It appears in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as one of the governments that publicly condemned remarks by US Ambassador to Israel [[mike-huckabee|Mike Huckabee]].
+Egypt is an Arab republic and a leading state in Middle Eastern diplomacy. It appears in the February 24, 2026 Badlands Brief as one of the governments that publicly condemned remarks by US Ambassador to Israel [[mike-huckabee|Mike Huckabee]].
 
 ## Response to the Huckabee remarks
 

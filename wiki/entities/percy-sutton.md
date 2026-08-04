@@ -10,7 +10,7 @@ contested: true
 ---
 # Percy Sutton
 
-Percy Sutton (1920–2009) was an American attorney, civil rights figure, broadcasting executive, and Democratic politician who served as Manhattan Borough President. He founded Inner City Broadcasting. In the Badlands Media article "[[bad-actors|Bad Actors]]" he appears as the source of a 2008 claim linking [[barack-obama|Barack Obama]] to [[khalid-al-mansour|Khalid al-Mansour]].
+Percy Sutton (1920–2009) was an American attorney, civil rights figure, broadcasting executive, and Democratic politician who served as Manhattan Borough President. He founded Inner City Broadcasting. In the Badlands Media article "Bad Actors" he appears as the source of a 2008 claim linking [[barack-obama|Barack Obama]] to [[khalid-al-mansour|Khalid al-Mansour]].
 
 ## The 2008 NY1 interview
 

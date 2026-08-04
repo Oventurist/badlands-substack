@@ -11,7 +11,7 @@ contested: false
 
 # Sean Duffy
 
-Sean Duffy is the United States Secretary of Transportation in the second [[donald-trump|Trump]] administration. He appears in the February 12, 2026 [[badlands-brief-405|Badlands Brief]] as the administration official who publicly confirmed and characterized a reported cartel drone incursion into US airspace near El Paso, Texas.
+Sean Duffy is the United States Secretary of Transportation in the second [[donald-trump|Trump]] administration. He appears in the February 12, 2026 Badlands Brief as the administration official who publicly confirmed and characterized a reported cartel drone incursion into US airspace near El Paso, Texas.
 
 ## Statement on the El Paso drone incursion
 

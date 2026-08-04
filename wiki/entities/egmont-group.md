@@ -11,7 +11,7 @@ contested: true
 
 # Egmont Group
 
-The Egmont Group is the international body that links national financial intelligence units, allowing governments to share information on suspicious financial transactions and financial crime. It appears in [[badlands-brief-314|the Badlands Brief of February 4, 2026]] in the commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], who encountered a reference to it while reading the [[department-of-the-treasury|Treasury Department]] document imposing October 2025 sanctions on Colombian President [[gustavo-petro|Gustavo Petro]].
+The Egmont Group is the international body that links national financial intelligence units, allowing governments to share information on suspicious financial transactions and financial crime. It appears in the Badlands Brief of February 4, 2026 in the commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], who encountered a reference to it while reading the [[department-of-the-treasury|Treasury Department]] document imposing October 2025 sanctions on Colombian President [[gustavo-petro|Gustavo Petro]].
 
 According to that account, [[colombia|Colombia]]'s membership was suspended after Petro shared privileged information about a targeted group that he had obtained through official channels, an act said to have compromised the organization's integrity. The commentator frames this critically, describing the Egmont Group as evidence that "the Deep State literally has an international intelligence unit that tracks all the financial crime information that is shared between governments," and one that passes suspicious activity reports on to the [[fbi|FBI]] and [[department-of-justice|Justice Department]].
 

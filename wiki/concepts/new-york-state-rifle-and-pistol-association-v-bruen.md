@@ -15,7 +15,7 @@ contested: false
 
 ## Consequences
 
-The Bruen framework has forced courts to evaluate modern gun laws against historical analogues, producing a wave of challenges to categorical possession bans. The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] reports one such case reaching the Supreme Court: a challenge to the federal statute prohibiting "unlawful users" of controlled substances from possessing firearms. According to the Brief, the challenge arose after lower courts questioned whether the statute could be reconciled with Bruen, and at oral argument several justices asked whether historical analogues exist that would justify disarming individuals based solely on current drug use, while the federal government argued that active drug users are comparable to groups historically subject to disarmament.
+The Bruen framework has forced courts to evaluate modern gun laws against historical analogues, producing a wave of challenges to categorical possession bans. The March 3, 2026 Badlands Brief reports one such case reaching the Supreme Court: a challenge to the federal statute prohibiting "unlawful users" of controlled substances from possessing firearms. According to the Brief, the challenge arose after lower courts questioned whether the statute could be reconciled with Bruen, and at oral argument several justices asked whether historical analogues exist that would justify disarming individuals based solely on current drug use, while the federal government argued that active drug users are comparable to groups historically subject to disarmament.
 
 ## Sources
 

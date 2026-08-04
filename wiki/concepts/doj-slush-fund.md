@@ -10,7 +10,7 @@ contested: true
 ---
 # DOJ Settlement Slush Fund
 
-The "DOJ settlement slush fund" refers to a practice, alleged by the [[house-judiciary-committee|House Judiciary Committee]] under chairman [[bob-goodlatte|Bob Goodlatte]], whereby the [[department-of-justice|Department of Justice]] during the [[barack-obama|Obama]] administration directed money from settlements with financial institutions to outside activist organizations rather than to the United States Treasury. It is treated at length in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]].
+The "DOJ settlement slush fund" refers to a practice, alleged by the [[house-judiciary-committee|House Judiciary Committee]] under chairman [[bob-goodlatte|Bob Goodlatte]], whereby the [[department-of-justice|Department of Justice]] during the [[barack-obama|Obama]] administration directed money from settlements with financial institutions to outside activist organizations rather than to the United States Treasury. It is treated at length in the Badlands Media essay America for Sale — Part 2.
 
 ## The congressional findings
 

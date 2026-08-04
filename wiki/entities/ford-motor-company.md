@@ -15,7 +15,7 @@ Ford Motor Company is an American automaker headquartered in the [[detroit|Detro
 
 ## 2026 defense mobilization announcement
 
-According to the May 20, 2026 [[badlands-brief-311|Badlands Brief]], Ford announced it was exploring how its commercial vehicles — including F-Series and Ranger trucks and its Pro Power Onboard technology — could quickly and cost-effectively supply North American and European militaries with mobility, transport, and field-power solutions. The company explicitly invoked its World War II record of producing hundreds of thousands of aircraft, trucks, and engines.
+According to the May 20, 2026 Badlands Brief, Ford announced it was exploring how its commercial vehicles — including F-Series and Ranger trucks and its Pro Power Onboard technology — could quickly and cost-effectively supply North American and European militaries with mobility, transport, and field-power solutions. The company explicitly invoked its World War II record of producing hundreds of thousands of aircraft, trucks, and engines.
 
 The move is described as aligning with broader Trump administration talks with automakers including [[general-motors|GM]] and [[oshkosh-corporation|Oshkosh]] to convert idle civilian capacity into defense output — a shift Defense Secretary [[pete-hegseth|Pete Hegseth]] characterized as placing the industrial base on a "wartime footing" amid stockpiles depleted by conflicts across Eurasia.
 

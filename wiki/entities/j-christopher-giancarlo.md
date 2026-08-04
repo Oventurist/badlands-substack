@@ -10,7 +10,7 @@ contested: false
 ---
 # J. Christopher Giancarlo
 
-J. Christopher Giancarlo is an American lawyer and former regulator who chaired the [[commodity-futures-trading-commission|Commodity Futures Trading Commission]] and founded the [[digital-dollar-project|Digital Dollar Project]]. He is known in cryptocurrency circles as "Crypto Dad," a nickname earned through his testimony before [[congress]] and used as the title of his book. In [[joe-lange|Joe Lange]]'s article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] he is presented, alongside [[jared-kushner]], as one of the two central figures behind the American push for a [[central-bank-digital-currency|central bank digital currency]].
+J. Christopher Giancarlo is an American lawyer and former regulator who chaired the [[commodity-futures-trading-commission|Commodity Futures Trading Commission]] and founded the [[digital-dollar-project|Digital Dollar Project]]. He is known in cryptocurrency circles as "Crypto Dad," a nickname earned through his testimony before [[congress]] and used as the title of his book. In [[joe-lange|Joe Lange]]'s article "Are CBDCs The Path To Fear, or Freedom?" he is presented, alongside [[jared-kushner]], as one of the two central figures behind the American push for a [[central-bank-digital-currency|central bank digital currency]].
 
 ## Career
 

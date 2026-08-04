@@ -10,7 +10,7 @@ contested: true
 ---
 # Declan Kelly
 
-Declan Kelly is an Irish-American businessman, co-founder and former chief executive of [[teneo|Teneo]], and served as [[hillary-clinton|Hillary Clinton]]'s economic envoy to Northern Ireland during her tenure as Secretary of State. The Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] treats his appointment as a case study in the blending of official position and private commercial interest.
+Declan Kelly is an Irish-American businessman, co-founder and former chief executive of [[teneo|Teneo]], and served as [[hillary-clinton|Hillary Clinton]]'s economic envoy to Northern Ireland during her tenure as Secretary of State. The Badlands Media essay America for Sale — Part 2 treats his appointment as a case study in the blending of official position and private commercial interest.
 
 ## Appointment as special envoy
 

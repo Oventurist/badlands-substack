@@ -10,7 +10,7 @@ contested: true
 ---
 # Khalid al-Mansour
 
-Khalid Abdullah Tariq al-Mansour, also known as Donald Warden, is an African-American Muslim attorney, author, and activist described in the Badlands Media article "[[bad-actors|Bad Actors]]" as a key adviser to Saudi billionaire [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] and as the intermediary who helped secure [[barack-obama|Barack Obama]]'s admission to Harvard Law School.
+Khalid Abdullah Tariq al-Mansour, also known as Donald Warden, is an African-American Muslim attorney, author, and activist described in the Badlands Media article "Bad Actors" as a key adviser to Saudi billionaire [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] and as the intermediary who helped secure [[barack-obama|Barack Obama]]'s admission to Harvard Law School.
 
 ## Rise and Saudi connections
 

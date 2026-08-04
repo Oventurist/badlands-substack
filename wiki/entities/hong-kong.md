@@ -14,7 +14,7 @@ contested: true
 ---
 # Hong Kong
 
-Hong Kong is a Special Administrative Region of China that experienced large-scale pro-democracy protests in 2019–2020. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Hong Kong is presented as a case study of labor unions being used to destabilize Beijing's control.
+Hong Kong is a Special Administrative Region of China that experienced large-scale pro-democracy protests in 2019–2020. In the Badlands Media article A More Perfect (Labor) Union, Hong Kong is presented as a case study of labor unions being used to destabilize Beijing's control.
 
 ## The 2019–2020 protests
 

@@ -15,7 +15,7 @@ The United States Border Patrol is the uniformed federal law enforcement arm of 
 
 ## Scrutiny of agent conduct
 
-The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] describes two strands of scrutiny facing the agency. In the first, Hennepin County Attorney [[mary-moriarty|Mary Moriarty]] in [[minnesota|Minnesota]] opened an investigation into the conduct of Border Patrol agents involved in enforcement actions earlier in the year, naming senior official [[gregory-bovino|Gregory Bovino]], and invited the public to submit evidence through a dedicated portal. DHS replied that immigration enforcement is a federal responsibility and that state prosecutors lack authority to charge federal officers.
+The March 3, 2026 Badlands Brief describes two strands of scrutiny facing the agency. In the first, Hennepin County Attorney [[mary-moriarty|Mary Moriarty]] in [[minnesota|Minnesota]] opened an investigation into the conduct of Border Patrol agents involved in enforcement actions earlier in the year, naming senior official [[gregory-bovino|Gregory Bovino]], and invited the public to submit evidence through a dedicated portal. DHS replied that immigration enforcement is a federal responsibility and that state prosecutors lack authority to charge federal officers.
 
 In the second, a nearly blind refugee from [[myanmar|Myanmar]], Nurul Amin Shah Alam, was found dead in Buffalo, New York, five days after being released by the Border Patrol following a misdemeanor plea deal. The agency said its agents had dropped the man at a coffee shop near his last known address after determining he could not be deported. The circumstances of his death were reported to be under investigation.
 

@@ -14,7 +14,7 @@ The Bill and Melinda Gates Foundation is the philanthropic organization establis
 
 ## In the Badlands account
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] recalls that "by the late 1990s, Bill Gates was one of the most hated men in the world." The founding of the foundation in 2000 is described as having transformed that standing almost immediately: "in no time, he was considered one of the world's greatest philanthropists."
+Erik Carlson's America Has a CIA Run Economy recalls that "by the late 1990s, Bill Gates was one of the most hated men in the world." The founding of the foundation in 2000 is described as having transformed that standing almost immediately: "in no time, he was considered one of the world's greatest philanthropists."
 
 The essay's sharpest observation concerns the financial reality behind the perception. "While the world believed he was giving away all his money," Carlson writes, "his net worth doubled in a year." The foundation is therefore positioned in the corpus alongside the essay's other claims about [[microsoft]] — including the rumor that Gates's mother hired IBM engineers to produce the company's early software — as part of an argument that the public image of the technology industry's founders was constructed rather than earned.
 

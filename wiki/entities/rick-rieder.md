@@ -15,7 +15,7 @@ Rick Rieder is Chief Investment Officer for Global Fixed Income and Chief Bond I
 
 ## 2026 Fed chair candidacy
 
-According to the [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] and commentary by [[ashe-in-america|Ashe in America]], the shortlist was vetted by Treasury Secretary [[scott-bessent|Scott Bessent]] and also included [[kevin-warsh|Kevin Warsh]], [[kevin-hassett|Kevin Hassett]] and [[christopher-waller|Christopher Waller]]. Some reports on Thursday, January 29, 2026 alleged that Rieder had been informed he would not receive the nomination. His inclusion is notable within the corpus because of BlackRock's recurring role as an emblem of asset-manager influence over public institutions.
+According to the January 30, 2026 Badlands Brief and commentary by [[ashe-in-america|Ashe in America]], the shortlist was vetted by Treasury Secretary [[scott-bessent|Scott Bessent]] and also included [[kevin-warsh|Kevin Warsh]], [[kevin-hassett|Kevin Hassett]] and [[christopher-waller|Christopher Waller]]. Some reports on Thursday, January 29, 2026 alleged that Rieder had been informed he would not receive the nomination. His inclusion is notable within the corpus because of BlackRock's recurring role as an emblem of asset-manager influence over public institutions.
 
 ## Sources
 

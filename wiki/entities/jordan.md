@@ -11,7 +11,7 @@ contested: false
 
 # Jordan
 
-Jordan is an Arab kingdom bordering [[israel|Israel]] and a party to longstanding regional diplomacy over Palestine. It appears in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as one of the governments that condemned remarks by US Ambassador [[mike-huckabee|Mike Huckabee]].
+Jordan is an Arab kingdom bordering [[israel|Israel]] and a party to longstanding regional diplomacy over Palestine. It appears in the February 24, 2026 Badlands Brief as one of the governments that condemned remarks by US Ambassador [[mike-huckabee|Mike Huckabee]].
 
 ## Response to the Huckabee remarks
 

@@ -11,7 +11,7 @@ contested: true
 
 # Israel Lobby
 
-The "Israel Lobby" is the term used in Badlands commentary for the network of advocacy organizations, donors, elected officials, and media figures said to press US policy toward maximal support for [[israel|Israel]]. In the February 24, 2026 [[badlands-brief-285|Badlands Brief]], [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] invokes the concept as the principal obstacle to President [[donald-trump|Donald Trump]]'s regional peace efforts.
+The "Israel Lobby" is the term used in Badlands commentary for the network of advocacy organizations, donors, elected officials, and media figures said to press US policy toward maximal support for [[israel|Israel]]. In the February 24, 2026 Badlands Brief, [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] invokes the concept as the principal obstacle to President [[donald-trump|Donald Trump]]'s regional peace efforts.
 
 ## Argument advanced in the Brief
 

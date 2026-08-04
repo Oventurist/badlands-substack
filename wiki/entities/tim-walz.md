@@ -17,7 +17,7 @@ Tim Walz is the governor of [[minnesota|Minnesota]]. He appears in the Badlands 
 
 Following the January 7, 2026 fatal shooting of [[renee-nicole-good|Renee Nicole Good]] during an operation involving [[immigration-and-customs-enforcement|US Immigration and Customs Enforcement]], and the protests that escalated the next day, Walz authorized the Guard "to be staged and ready to support local and state law enforcement if needed."
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] quotes his statement: "Minnesotans have met this moment. Thousands of people have peacefully made their voices heard. Minnesota: thank you. We saw powerful peace... We have every reason to believe that peace will hold. Yesterday, I directed the National Guard to be ready should they be needed. They remain ready in the event they are needed to help keep the peace, ensure public safety, and allow for peaceful demonstrations."
+The January 9, 2026 Badlands Brief quotes his statement: "Minnesotans have met this moment. Thousands of people have peacefully made their voices heard. Minnesota: thank you. We saw powerful peace... We have every reason to believe that peace will hold. Yesterday, I directed the National Guard to be ready should they be needed. They remain ready in the event they are needed to help keep the peace, ensure public safety, and allow for peaceful demonstrations."
 
 ## Executive Order 26-01
 
@@ -29,7 +29,7 @@ The commentator [[ashe-in-america|Ashe in America]] reads the order as an act of
 
 ## Response to the Pretti shooting
 
-The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that Walz, as Governor of Minnesota, joined Minneapolis Mayor [[jacob-frey|Jacob Frey]] in sharply rebuking the federal immigration operation in which U.S. citizen [[alex-pretti|Alex Jeffrey Pretti]] was fatally shot on January 24, 2026, decrying the operation as excessive and calling for the withdrawal of federal agents and for accountability. President [[donald-trump|Donald Trump]] responded by accusing Minnesota officials of "inciting insurrection" and tying them to allegations of large-scale "theft and fraud."
+The January 26, 2026 Badlands Brief reports that Walz, as Governor of Minnesota, joined Minneapolis Mayor [[jacob-frey|Jacob Frey]] in sharply rebuking the federal immigration operation in which U.S. citizen [[alex-pretti|Alex Jeffrey Pretti]] was fatally shot on January 24, 2026, decrying the operation as excessive and calling for the withdrawal of federal agents and for accountability. President [[donald-trump|Donald Trump]] responded by accusing Minnesota officials of "inciting insurrection" and tying them to allegations of large-scale "theft and fraud."
 
 ## Sources
 

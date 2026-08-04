@@ -10,7 +10,7 @@ contested: true
 ---
 # José "Pepe" Figueres
 
-José "Pepe" Figueres, known as "Don Pepe," was a Costa Rican leader whom [[joe-lange|Joe Lange]] presents across his Badlands Media writing as a model statesman who protected his country from capture by a global cabal. He is introduced in Lange's earlier article "The Illusion of Democracy" and returns as the organising example of [[a-seismic-shift|A Seismic Shift]].
+José "Pepe" Figueres, known as "Don Pepe," was a Costa Rican leader whom [[joe-lange|Joe Lange]] presents across his Badlands Media writing as a model statesman who protected his country from capture by a global cabal. He is introduced in Lange's earlier article "The Illusion of Democracy" and returns as the organising example of A Seismic Shift.
 
 ## The two safeguards
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Softwar
 
-*Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin* is a thesis and book by United States Space Force Major [[jason-lowery|Jason Lowery]], cited in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]].
+*Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin* is a thesis and book by United States Space Force Major [[jason-lowery|Jason Lowery]], cited in the Badlands Media feature "Are We Entering the Millennial Reign?".
 
 ## Argument as cited
 

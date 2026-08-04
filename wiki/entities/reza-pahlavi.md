@@ -15,7 +15,7 @@ Reza Pahlavi is the son of the deposed Shah of Iran and the figure most frequent
 
 ## Trump's rejection
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that President [[donald-trump|Donald Trump]], appearing on the Hugh Hewitt Show, said he did not think Pahlavi would be an appropriate pick to lead Iran. The Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] contrasts this with Trump's October 2024 campaign appearance on the Patrick Bet-David podcast, where he was asked whether he would support regime change in Iran.
+The January 9, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]], appearing on the Hugh Hewitt Show, said he did not think Pahlavi would be an appropriate pick to lead Iran. The Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] contrasts this with Trump's October 2024 campaign appearance on the Patrick Bet-David podcast, where he was asked whether he would support regime change in Iran.
 
 ## Badlands assessment
 

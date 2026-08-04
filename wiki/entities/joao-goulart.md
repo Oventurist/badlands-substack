@@ -13,7 +13,7 @@ contested: true
 ---
 # João Goulart
 
-João Goulart (1919–1976) was a Brazilian politician who served as President of Brazil from 1961 until his overthrow in the 1964 military coup. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Goulart is cited as a head of government brought down with assistance from U.S.-trained labor operatives.
+João Goulart (1919–1976) was a Brazilian politician who served as President of Brazil from 1961 until his overthrow in the 1964 military coup. In the Badlands Media article A More Perfect (Labor) Union, Goulart is cited as a head of government brought down with assistance from U.S.-trained labor operatives.
 
 ## The 1964 Brazilian coup
 

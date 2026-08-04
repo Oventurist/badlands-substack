@@ -10,7 +10,7 @@ contested: true
 ---
 # Sanctions
 
-Sanctions are coercive economic measures — trade embargoes, asset freezes and exclusion from the international banking system — imposed by states on other states, entities or individuals. In the Badlands Media corpus, particularly [[america-for-sale-part-3|America for Sale — Part 3]] by [[joe-lange|Joe Lange]], sanctions are treated not as instruments of punishment but as a deliberate mechanism of covert finance.
+Sanctions are coercive economic measures — trade embargoes, asset freezes and exclusion from the international banking system — imposed by states on other states, entities or individuals. In the Badlands Media corpus, particularly America for Sale — Part 3 by [[joe-lange|Joe Lange]], sanctions are treated not as instruments of punishment but as a deliberate mechanism of covert finance.
 
 ## The "sanctions are a scam" thesis
 

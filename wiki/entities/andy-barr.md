@@ -15,7 +15,7 @@ Andy Barr is a Republican member of the United States House of Representatives f
 
 ## 2026 Senate primary
 
-The May 20, 2026 [[badlands-brief-311|Badlands Brief]] reports that Barr, endorsed by President [[donald-trump|Donald Trump]], won the Republican nomination for the open Kentucky Senate seat on the same primary day that Trump-backed challenger [[ed-gallrein|Ed Gallrein]] defeated Representative [[thomas-massie|Thomas Massie]] in the state's 4th Congressional District. The Brief treats the pairing of results as evidence that Trump's influence over Kentucky Republican politics extended well beyond the Massie race and reflected a broader consolidation of presidential control over the Republican Party.
+The May 20, 2026 Badlands Brief reports that Barr, endorsed by President [[donald-trump|Donald Trump]], won the Republican nomination for the open Kentucky Senate seat on the same primary day that Trump-backed challenger [[ed-gallrein|Ed Gallrein]] defeated Representative [[thomas-massie|Thomas Massie]] in the state's 4th Congressional District. The Brief treats the pairing of results as evidence that Trump's influence over Kentucky Republican politics extended well beyond the Massie race and reflected a broader consolidation of presidential control over the Republican Party.
 
 ## Sources
 

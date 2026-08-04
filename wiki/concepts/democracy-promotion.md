@@ -14,7 +14,7 @@ contested: true
 ---
 # Democracy Promotion
 
-"Democracy promotion" is the term used by Western governments and organizations to describe policies aimed at fostering democratic governance abroad. In the Badlands Media corpus, and specifically in the article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the term is presented critically — as code for conforming nations to the will of the international foreign policy establishment.
+"Democracy promotion" is the term used by Western governments and organizations to describe policies aimed at fostering democratic governance abroad. In the Badlands Media corpus, and specifically in the article A More Perfect (Labor) Union, the term is presented critically — as code for conforming nations to the will of the international foreign policy establishment.
 
 ## Critical framing in the corpus
 

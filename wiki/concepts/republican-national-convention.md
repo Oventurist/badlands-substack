@@ -14,7 +14,7 @@ The Republican National Convention is the quadrennial gathering at which the Rep
 
 ## In the Badlands corpus
 
-The Badlands Media essay [[a-week-to-remember|A Week to Remember]] cites the convention as one element of an extraordinarily compressed political sequence. Summarising the period, [[erik-carlson|Erik Carlson]] writes: "Since the rally in Butler, Trump has picked [[jd-vance|JD Vance]] as his VP, the RNC occurred, and [[joe-biden|Biden]] has dropped out of the race."
+The Badlands Media essay A Week to Remember cites the convention as one element of an extraordinarily compressed political sequence. Summarising the period, [[erik-carlson|Erik Carlson]] writes: "Since the rally in Butler, Trump has picked [[jd-vance|JD Vance]] as his VP, the RNC occurred, and [[joe-biden|Biden]] has dropped out of the race."
 
 The article uses this concentration of events — a shooting, a running-mate selection, a nominating convention, and the withdrawal of the sitting president from his own re-election campaign, all within roughly ten days — to establish its opening premise that "with every new day, a tectonic shift of the narrative occurs."
 

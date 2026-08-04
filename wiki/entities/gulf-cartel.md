@@ -14,7 +14,7 @@ contested: true
 ---
 # Gulf Cartel
 
-The Gulf Cartel is a Mexican criminal organization based in Matamoros, Tamaulipas, historically involved in drug trafficking, money laundering, and political corruption. In the Badlands Media article [[a-family-affair]], the Gulf Cartel is identified as the drug-trafficking partner of the salinas family in Mexico and as a key beneficiary of [[nafta]]-facilitated border movement.
+The Gulf Cartel is a Mexican criminal organization based in Matamoros, Tamaulipas, historically involved in drug trafficking, money laundering, and political corruption. In the Badlands Media article a family affair, the Gulf Cartel is identified as the drug-trafficking partner of the salinas family in Mexico and as a key beneficiary of [[nafta]]-facilitated border movement.
 
 ## Leadership and transformation
 

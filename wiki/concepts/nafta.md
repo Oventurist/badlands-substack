@@ -14,7 +14,7 @@ contested: true
 ---
 # NAFTA
 
-The North American Free Trade Agreement (NAFTA) was a trade agreement between the United States, Canada, and Mexico that eliminated most tariffs and trade barriers among the three countries. In the Badlands Media article [[a-family-affair]], NAFTA is framed not primarily as a trade deal but as a mechanism designed to facilitate drug trafficking across the southern border and increase CIA profits through the [[gulf-cartel]].
+The North American Free Trade Agreement (NAFTA) was a trade agreement between the United States, Canada, and Mexico that eliminated most tariffs and trade barriers among the three countries. In the Badlands Media article a family affair, NAFTA is framed not primarily as a trade deal but as a mechanism designed to facilitate drug trafficking across the southern border and increase CIA profits through the [[gulf-cartel]].
 
 ## Bush family and Salinas family partnership
 
@@ -30,7 +30,7 @@ The article notes that NAFTA was presented to the public as a free-trade agreeme
 
 ## NAFTA as a pillar of the unipolar order
 
-The Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] treats NAFTA as one of the founding instruments of the post-Soviet unipolar order, created alongside the [[european-union|European Union]] and followed by the [[world-trade-organization|World Trade Organization]] and the 1999 repeal of [[glass-steagall-act|Glass-Steagall]]. Together, [[matthew-ehret|Matthew Ehret]] argues, these converted the trans-Atlantic into "a cage of 'post-sovereign nations' that no longer had actual control of their own powers of credit generation." The same essay counts among the signs of that order's decline the fact that "NAFTA has been seriously challenged by a restoration of protectionism in the USA."
+The Badlands Media essay A Re Alignment of World Systems treats NAFTA as one of the founding instruments of the post-Soviet unipolar order, created alongside the [[european-union|European Union]] and followed by the [[world-trade-organization|World Trade Organization]] and the 1999 repeal of [[glass-steagall-act|Glass-Steagall]]. Together, [[matthew-ehret|Matthew Ehret]] argues, these converted the trans-Atlantic into "a cage of 'post-sovereign nations' that no longer had actual control of their own powers of credit generation." The same essay counts among the signs of that order's decline the fact that "NAFTA has been seriously challenged by a restoration of protectionism in the USA."
 
 ## Sources
 

@@ -14,7 +14,7 @@ contested: true
 ---
 # Mario Ruiz Massieu
 
-Mario Ruiz Massieu is the brother of José Francisco Ruiz Massieu, the Mexican politician assassinated in September 1994, and a former special prosecutor whose actions are examined in the Badlands Media article [[a-family-affair]] as part of a high-level cover-up tied to the salinas family and the [[gulf-cartel]].
+Mario Ruiz Massieu is the brother of José Francisco Ruiz Massieu, the Mexican politician assassinated in September 1994, and a former special prosecutor whose actions are examined in the Badlands Media article a family affair as part of a high-level cover-up tied to the salinas family and the [[gulf-cartel]].
 
 ## Appointment as special prosecutor
 

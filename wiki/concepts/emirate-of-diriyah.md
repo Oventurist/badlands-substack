@@ -10,7 +10,7 @@ contested: false
 ---
 # Emirate of Diriyah
 
-The Emirate of Diriyah, called in [[arabian-nights]] the First State of Saud, was the polity founded by [[mohammed-bin-saud]] in the Najd region of central Arabia and consolidated through the 1744 [[pact-of-diriyah]] with [[muhammad-ibn-abd-al-wahhab]].
+The Emirate of Diriyah, called in arabian nights the First State of Saud, was the polity founded by [[mohammed-bin-saud]] in the Najd region of central Arabia and consolidated through the 1744 [[pact-of-diriyah]] with [[muhammad-ibn-abd-al-wahhab]].
 
 ## Foundation and extent
 

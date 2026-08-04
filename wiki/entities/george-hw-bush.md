@@ -14,7 +14,7 @@ contested: true
 ---
 # George H.W. Bush
 
-George H.W. Bush (1924–2018) was the 41st President of the United States, serving from 1989 to 1993, and previously the director of central intelligence from 1976 to 1977. In the Badlands Media article [[a-family-affair]], he is portrayed as a lifelong CIA operative whose pre-political career was deeply embedded in covert operations, drug trafficking infrastructure, and money-laundering networks.
+George H.W. Bush (1924–2018) was the 41st President of the United States, serving from 1989 to 1993, and previously the director of central intelligence from 1976 to 1977. In the Badlands Media article a family affair, he is portrayed as a lifelong CIA operative whose pre-political career was deeply embedded in covert operations, drug trafficking infrastructure, and money-laundering networks.
 
 ## Early career and Zapata Offshore
 

@@ -11,7 +11,7 @@ contested: true
 
 # Burkina Faso
 
-Burkina Faso is a landlocked Sahelian state governed by a military administration under Captain [[ibrahim-traore|Ibrahim Traoré]]. The [[badlands-brief|Badlands Brief]] covers the country as a focal point of confrontation between Sahelian governments and Western powers.
+Burkina Faso is a landlocked Sahelian state governed by a military administration under Captain [[ibrahim-traore|Ibrahim Traoré]]. The Badlands Brief covers the country as a focal point of confrontation between Sahelian governments and Western powers.
 
 ## Allegations against Western intelligence
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # System Sway
 
-**System Sway** is a term used by [[badlands-media|Badlands Media]] commentators, and invoked prominently in [[badlands-blitz-episode-4|Badlands Blitz Episode 4]], to describe periods in which the visible instability of established institutions becomes legible as movement within a single underlying structure.
+**System Sway** is a term used by [[badlands-media|Badlands Media]] commentators, and invoked prominently in Badlands Blitz Episode 4, to describe periods in which the visible instability of established institutions becomes legible as movement within a single underlying structure.
 
 In the January 31, 2026 episode of [[the-blitz|The Blitz]], the host characterises the preceding week as "absolutely full of System Sway," explaining that seemingly unrelated news stories — the [[minnesota-color-revolution|Minnesota Color Revolution]], the [[fulton-county-election-raid|Fulton County Election Raid]] and the pattern of [[canadian-capitulation|Canadian Capitulation]] — "are converging to illuminate the same Macro System, and its inevitable dissolution."
 

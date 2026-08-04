@@ -10,7 +10,7 @@ contested: false
 ---
 # Bedouin
 
-The Bedouin — *badawī* in Arabic, meaning "desert dweller" — are the nomadic tribes of the Arabian peninsula, the Levant, Africa, and modern Syria and Iraq. The Badlands Media essay [[arabian-nights]] devotes a substantial section to them, treating them as the cultural and military substrate of Arabian history.
+The Bedouin — *badawī* in Arabic, meaning "desert dweller" — are the nomadic tribes of the Arabian peninsula, the Levant, Africa, and modern Syria and Iraq. The Badlands Media essay arabian nights devotes a substantial section to them, treating them as the cultural and military substrate of Arabian history.
 
 ## Origins and demography
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Yegor Gaidar
 
-Yegor Gaidar (1956–2009) was a Russian economist and acting Prime Minister who led the early 1990s program of price liberalization and market reform in the Russian Federation. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is named alongside [[anatoly-chubais|Anatoly Chubais]] as a monetarist "reformer" operating under [[boris-yeltsin|Boris Yeltsin]].
+Yegor Gaidar (1956–2009) was a Russian economist and acting Prime Minister who led the early 1990s program of price liberalization and market reform in the Russian Federation. In the Badlands Media essay A Re Alignment of World Systems, he is named alongside [[anatoly-chubais|Anatoly Chubais]] as a monetarist "reformer" operating under [[boris-yeltsin|Boris Yeltsin]].
 
 ## Role in the source
 

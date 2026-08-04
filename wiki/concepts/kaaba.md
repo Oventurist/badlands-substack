@@ -10,7 +10,7 @@ contested: false
 ---
 # Kaaba
 
-The Kaaba is the stone sanctuary at Mecca that Islam considers mankind's first house of worship. In the Badlands Media essay [[arabian-nights]] it functions as the physical anchor of the region's sacred history.
+The Kaaba is the stone sanctuary at Mecca that Islam considers mankind's first house of worship. In the Badlands Media essay arabian nights it functions as the physical anchor of the region's sacred history.
 
 The source states that [[abraham]], after his exile from Mesopotamia by [[nimrod]], settled in Mecca and constructed a stone sanctuary on the same foundation where his ancestor Adam, of the Garden in *Genesis*, had built one as a place to worship the one God. Elsewhere the article describes the structure as built by Abraham and his son Ishmael and regarded as a sacred relic.
 

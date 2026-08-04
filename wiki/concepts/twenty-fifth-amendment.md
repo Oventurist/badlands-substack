@@ -17,7 +17,7 @@ The Twenty-Fifth Amendment to the [[united-states-constitution|United States Con
 
 In the Badlands corpus the amendment appears chiefly as a proposed instrument for removing [[donald-trump|Donald Trump]] from office during his first term, and as a marker within the [[q|Q]] posting record.
 
-The February 17, 2026 [[badlands-brief-0a2|Badlands Brief]] recounts that [[new-york-times|The New York Times]] reported in September 2018 that Deputy Attorney General [[rod-rosenstein|Rod Rosenstein]] had discussed invoking the amendment against Trump. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] notes that Q posted about the amendment for the first time on September 21, 2018 — the day the story was first reported — linking the *Times* article, and hours later reposting the same link together with an article about [[omarosa-manigault-newman|Omarosa Manigault Newman]] conspiring against Trump. Q would go on to reference the amendment many times.
+The February 17, 2026 Badlands Brief recounts that [[new-york-times|The New York Times]] reported in September 2018 that Deputy Attorney General [[rod-rosenstein|Rod Rosenstein]] had discussed invoking the amendment against Trump. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] notes that Q posted about the amendment for the first time on September 21, 2018 — the day the story was first reported — linking the *Times* article, and hours later reposting the same link together with an article about [[omarosa-manigault-newman|Omarosa Manigault Newman]] conspiring against Trump. Q would go on to reference the amendment many times.
 
 ## The Bannon–Epstein exchange
 

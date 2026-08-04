@@ -14,7 +14,7 @@ The Monroe Doctrine is the American foreign-policy declaration, announced during
 
 ## Authorship and original intent
 
-[[matthew-ehret|Matthew Ehret]]'s essay [[avoiding-wwiii|Avoiding WWIII]] attributes the drafting of the doctrine to [[john-quincy-adams|John Quincy Adams]], who is quoted as understanding that it could work only if America ventured "not abroad, in search of monsters to destroy." On this reading the doctrine was conceived as a shield for republican systems in the Americas against the hereditary empires of France, England, Russia and Spain, not as a licence for hemispheric domination.
+[[matthew-ehret|Matthew Ehret]]'s essay Avoiding WWIII attributes the drafting of the doctrine to [[john-quincy-adams|John Quincy Adams]], who is quoted as understanding that it could work only if America ventured "not abroad, in search of monsters to destroy." On this reading the doctrine was conceived as a shield for republican systems in the Americas against the hereditary empires of France, England, Russia and Spain, not as a licence for hemispheric domination.
 
 ## Abuse and inversion
 

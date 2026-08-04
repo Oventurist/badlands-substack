@@ -10,7 +10,7 @@ contested: true
 ---
 # Sonia Sotomayor
 
-Sonia Sotomayor is an Associate Justice of the [[supreme-court-of-the-united-states|Supreme Court of the United States]] and a member of the Court's liberal wing. She appears in the April 17, 2026 [[badlands-brief-07c|Badlands Brief]] as the subject of a rare public apology issued to a fellow justice.
+Sonia Sotomayor is an Associate Justice of the [[supreme-court-of-the-united-states|Supreme Court of the United States]] and a member of the Court's liberal wing. She appears in the April 17, 2026 Badlands Brief as the subject of a rare public apology issued to a fellow justice.
 
 ## The 2026 immigration dissent and apology
 

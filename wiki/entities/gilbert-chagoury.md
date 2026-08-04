@@ -10,7 +10,7 @@ contested: true
 ---
 # Gilbert Chagoury
 
-Gilbert Chagoury is a Nigerian-Lebanese businessman and construction magnate described in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] as a close ally and business partner of the commodities trader [[marc-rich|Marc Rich]] and one of the largest private benefactors of the Clinton network.
+Gilbert Chagoury is a Nigerian-Lebanese businessman and construction magnate described in the Badlands Media essay America for Sale — Part 3 as a close ally and business partner of the commodities trader [[marc-rich|Marc Rich]] and one of the largest private benefactors of the Clinton network.
 
 Quoting the New York Post, the article notes that Nigerian media declared in 1999 that the "Gilbert Chagoury-Marc Rich alliance remains a formidable foe," and that the two sold oil together on international markets. In 2000 Chagoury was convicted in Geneva of money laundering and of aiding a criminal organization in connection with the billions of dollars stolen from Nigeria during the rule of dictator Gen. Sani Abacha. The conviction was subsequently expunged in a plea deal — an outcome the Badlands author suggests [[bill-clinton|Bill Clinton]] or [[hillary-clinton|Hillary Clinton]] may have had a hand in.
 

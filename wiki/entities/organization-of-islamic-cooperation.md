@@ -11,7 +11,7 @@ contested: false
 
 # Organization of Islamic Cooperation
 
-The Organization of Islamic Cooperation (OIC) is an intergovernmental body of Muslim-majority states, described in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as comprising 57 nations. It appears in that edition as one of the regional bodies that publicly condemned remarks by US Ambassador to Israel [[mike-huckabee|Mike Huckabee]].
+The Organization of Islamic Cooperation (OIC) is an intergovernmental body of Muslim-majority states, described in the February 24, 2026 Badlands Brief as comprising 57 nations. It appears in that edition as one of the regional bodies that publicly condemned remarks by US Ambassador to Israel [[mike-huckabee|Mike Huckabee]].
 
 ## Condemnation of the Huckabee remarks
 

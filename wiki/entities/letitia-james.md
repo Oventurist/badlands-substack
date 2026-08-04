@@ -15,7 +15,7 @@ Letitia James is the Attorney General of New York State and a longtime legal adv
 
 ## Subpoenas quashed
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that US District Judge [[lorna-schofield|Lorna Schofield]] invalidated subpoenas issued to James by the office of [[john-sarcone|John Sarcone III]], whom she simultaneously disqualified as US Attorney for the Northern District of New York on the ground that he had been serving unlawfully. Schofield's opinion criticized the Executive branch for skirting congressional restraints and using that power "to subject political adversaries to criminal investigations."
+The January 9, 2026 Badlands Brief reports that US District Judge [[lorna-schofield|Lorna Schofield]] invalidated subpoenas issued to James by the office of [[john-sarcone|John Sarcone III]], whom she simultaneously disqualified as US Attorney for the Northern District of New York on the ground that he had been serving unlawfully. Schofield's opinion criticized the Executive branch for skirting congressional restraints and using that power "to subject political adversaries to criminal investigations."
 
 ## Virginia indictments
 

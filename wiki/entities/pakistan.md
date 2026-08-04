@@ -10,7 +10,7 @@ contested: true
 ---
 # Pakistan
 
-Pakistan is a nuclear-armed South Asian state treated in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as one of the theatres in which the struggle over [[iran]] "ripples out and affects the whole geopolitical chessboard."
+Pakistan is a nuclear-armed South Asian state treated in the Badlands Media essay "And Iran, Iran So Far Away" as one of the theatres in which the struggle over [[iran]] "ripples out and affects the whole geopolitical chessboard."
 
 ## Regime change and the ouster of Imran Khan
 

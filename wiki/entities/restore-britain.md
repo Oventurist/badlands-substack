@@ -15,7 +15,7 @@ Restore Britain is a British political group that drew attention in March 2026 f
 
 ## Platform
 
-According to the Badlands Brief edition [[badlands-brief-52b|"Golgotha & The Metaverse"]] (March 20, 2026), which summarized reporting from ZeroHedge, the platform includes the mass deportation of migrants, expanded law-and-order measures, and sweeping cultural policy changes. Specific reported proposals include deporting large numbers of migrants, restricting practices deemed incompatible with British law, and pursuing significantly tougher criminal penalties — with some reported positions described as extreme punitive measures.
+According to the Badlands Brief edition "Golgotha & The Metaverse" (March 20, 2026), which summarized reporting from ZeroHedge, the platform includes the mass deportation of migrants, expanded law-and-order measures, and sweeping cultural policy changes. Specific reported proposals include deporting large numbers of migrants, restricting practices deemed incompatible with British law, and pursuing significantly tougher criminal penalties — with some reported positions described as extreme punitive measures.
 
 ## Reception and legal obstacles
 

@@ -13,7 +13,7 @@ contested: true
 
 Matt Crane is a [[colorado|Colorado]] election-administration figure associated with the state's county clerks' association.
 
-In [[badlands-brief-174|Badlands Brief: Conflicts, Cartels, & Clemency]], Crane is named by [[tina-peters|Tina Peters]]'s attorney [[john-case|John Case]] — who calls him a "[[dominion-voting-systems|Dominion Voting Systems]] shill" — as one of three officials, along with Secretary of State [[jena-griswold|Jena Griswold]] and Attorney General [[phil-weiser|Phil Weiser]], who publicly urged Governor [[jared-polis|Jared Polis]] to deny Peters clemency. The characterization is a partisan one advanced by Peters's legal team.
+In Badlands Brief: Conflicts, Cartels, & Clemency, Crane is named by [[tina-peters|Tina Peters]]'s attorney [[john-case|John Case]] — who calls him a "[[dominion-voting-systems|Dominion Voting Systems]] shill" — as one of three officials, along with Secretary of State [[jena-griswold|Jena Griswold]] and Attorney General [[phil-weiser|Phil Weiser]], who publicly urged Governor [[jared-polis|Jared Polis]] to deny Peters clemency. The characterization is a partisan one advanced by Peters's legal team.
 
 ## Sources
 

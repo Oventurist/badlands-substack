@@ -10,7 +10,7 @@ contested: true
 ---
 # Brett Kavanaugh
 
-Brett Kavanaugh is an Associate Justice of the [[supreme-court-of-the-united-states|Supreme Court of the United States]], appointed during the first Trump administration. He appears in the April 17, 2026 [[badlands-brief-07c|Badlands Brief]] as the recipient of a rare public apology from Justice [[sonia-sotomayor|Sonia Sotomayor]].
+Brett Kavanaugh is an Associate Justice of the [[supreme-court-of-the-united-states|Supreme Court of the United States]], appointed during the first Trump administration. He appears in the April 17, 2026 Badlands Brief as the recipient of a rare public apology from Justice [[sonia-sotomayor|Sonia Sotomayor]].
 
 ## The immigration case and apology
 

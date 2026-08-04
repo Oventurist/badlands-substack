@@ -14,7 +14,7 @@ Josh Hawley is a Republican United States Senator from Missouri, associated with
 
 ## Artificial intelligence policy
 
-In the February 10, 2026 edition of the [[badlands-brief|Badlands Brief]], "[[badlands-brief-4ec|Criminal Invader Crashouts & Honeypot Hoaxes]]," Hawley is described as having taken the most aggressive stance of any prominent Republican against [[artificial-intelligence|artificial intelligence]] deregulation. According to a Politico report summarized in the Brief, Hawley has criticized AI as a threat to workers and to social order, and has condemned a [[donald-trump|Trump]] administration executive order that seeks to preempt state-level AI regulation.
+In the February 10, 2026 edition of the Badlands Brief, "Criminal Invader Crashouts & Honeypot Hoaxes," Hawley is described as having taken the most aggressive stance of any prominent Republican against artificial intelligence deregulation. According to a Politico report summarized in the Brief, Hawley has criticized AI as a threat to workers and to social order, and has condemned a [[donald-trump|Trump]] administration executive order that seeks to preempt state-level AI regulation.
 
 Politico placed Hawley alongside Florida Governor [[ron-desantis|Ron DeSantis]] and Utah Governor [[spencer-cox|Spencer Cox]] as figures breaking from Trump's deregulatory approach, and framed the emerging division as one that could become a defining Republican issue in 2028, potentially fracturing the party's coalition of working-class voters, social conservatives, and business-aligned interests.
 

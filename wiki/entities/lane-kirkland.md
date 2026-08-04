@@ -14,7 +14,7 @@ contested: true
 ---
 # Lane Kirkland
 
-Lane Kirkland (1922–1999) was an American labor leader who served as president of the [[afl-cio|AFL-CIO]] from 1979 to 1995. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], his tenure is described as a period that "deepened the ties between labor and intelligence."
+Lane Kirkland (1922–1999) was an American labor leader who served as president of the [[afl-cio|AFL-CIO]] from 1979 to 1995. In the Badlands Media article A More Perfect (Labor) Union, his tenure is described as a period that "deepened the ties between labor and intelligence."
 
 ## Role in covert operations
 

@@ -14,7 +14,7 @@ Alphonse "Al" Capone was the Chicago organized-crime boss who became the most fa
 
 ## Use in Trump's lawfare rhetoric
 
-The January 26, 2026 [[badlands-brief-577|Badlands Brief]] quotes remarks Trump delivered in Iowa in November 2023 and repeated throughout the 2024 campaign: "And by the way, I've been indicted more times than Alphonse Capone. He's the most vicious of all gangsters. If he took you to dinner, and if you didn't look proper, if you laughed a little bit, he might think you're laughing at him, it's dangerous to laugh – he'd kill you immediately. He was indicted one time. I was indicted four times." The comparison is used to argue that the number of prosecutions brought against Trump exceeded those brought against the archetypal American criminal, supporting the contention that the cases were weaponized government and lawfare rather than ordinary law enforcement.
+The January 26, 2026 Badlands Brief quotes remarks Trump delivered in Iowa in November 2023 and repeated throughout the 2024 campaign: "And by the way, I've been indicted more times than Alphonse Capone. He's the most vicious of all gangsters. If he took you to dinner, and if you didn't look proper, if you laughed a little bit, he might think you're laughing at him, it's dangerous to laugh – he'd kill you immediately. He was indicted one time. I was indicted four times." The comparison is used to argue that the number of prosecutions brought against Trump exceeded those brought against the archetypal American criminal, supporting the contention that the cases were weaponized government and lawfare rather than ordinary law enforcement.
 
 ## Prohibition as a precedent for federal overreach
 

@@ -15,7 +15,7 @@ contested: true
 
 ## The 2026 hearing exchange
 
-The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] describes what [[ashe-in-america|Ashe in America]] called "the weirdest part" of the released congressional testimony: as a congresswoman — identified in the Brief as [[lauren-boebert|Lauren Boebert]] — began to ask Hillary Clinton about the existence of the frazzledrip video in the "insurance" folder on Weiner's laptop, Clinton's attorneys intervened before the question could be completed.
+The March 3, 2026 Badlands Brief describes what [[ashe-in-america|Ashe in America]] called "the weirdest part" of the released congressional testimony: as a congresswoman — identified in the Brief as [[lauren-boebert|Lauren Boebert]] — began to ask Hillary Clinton about the existence of the frazzledrip video in the "insurance" folder on Weiner's laptop, Clinton's attorneys intervened before the question could be completed.
 
 Ashe wrote that she stood by her reaction that "the response was outsized for the stimulus. Not definitive, but eyebrow raising," and judged from the attorneys' conduct that Boebert "was over the target." The Brief does not assert that the video exists; its claim is narrower — that the question was asked at all, and that the reaction to it was notable.
 

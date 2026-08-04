@@ -10,7 +10,7 @@ contested: true
 ---
 # British Intelligence
 
-British Intelligence is treated in the Badlands Media essay [[arabian-nights]] as the primary external actor shaping the modern Middle East, and as the institutional parent of the intelligence services that followed it.
+British Intelligence is treated in the Badlands Media essay arabian nights as the primary external actor shaping the modern Middle East, and as the institutional parent of the intelligence services that followed it.
 
 The source states that British Intelligence — and later what it calls its protégés, the [[cia]] and [[mossad]] — have spent at least the past two hundred years manipulating the region "with the most nefarious intent," as they have done elsewhere. It adds an important qualification: that these manipulations were often gamesmanship between competing players within the British imperial hierarchy itself, jockeying to improve their own positions at one another's expense, rather than the execution of a single unified plan. The essay attributes to this history the fact that the Middle East has, in its assessment, one of the most complicated, tragic and convoluted histories in the world, second only to Russia's.
 

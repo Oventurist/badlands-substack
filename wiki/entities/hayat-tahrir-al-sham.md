@@ -14,7 +14,7 @@ Hayat Tahrir al-Sham (HTS) is the Syrian militant coalition that led the Novembe
 
 ## The 2024 offensive
 
-According to [[assad-day-in-damascus]], HTS and allied factions launched a significant and apparently unexpected offensive on November 27, 2024, quickly capturing Aleppo and then driving south. By December 8 they controlled Hama, Homs and Damascus. The article asks how "rebels who suddenly overthrew a well-armed government in a matter of days" could have done so without foreign backing, concluding that they are "clearly backed by foreign influences with money, arms and motives that go far beyond simply 'bringing freedom to the Syrian people.'"
+According to assad day in damascus, HTS and allied factions launched a significant and apparently unexpected offensive on November 27, 2024, quickly capturing Aleppo and then driving south. By December 8 they controlled Hama, Homs and Damascus. The article asks how "rebels who suddenly overthrew a well-armed government in a matter of days" could have done so without foreign backing, concluding that they are "clearly backed by foreign influences with money, arms and motives that go far beyond simply 'bringing freedom to the Syrian people.'"
 
 ## Al-Qaeda lineage and rebranding
 

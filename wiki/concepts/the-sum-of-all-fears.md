@@ -10,7 +10,7 @@ contested: true
 ---
 # The Sum of All Fears
 
-*The Sum of All Fears* is a Tom Clancy novel, later adapted as a film, that the Badlands Media corpus identifies as one of the works most frequently referenced in the [[q-anon|Q]] drops. In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] summarizes the premise and offers a geopolitical reading of why Q would cite it repeatedly.
+*The Sum of All Fears* is a Tom Clancy novel, later adapted as a film, that the Badlands Media corpus identifies as one of the works most frequently referenced in the [[q-anon|Q]] drops. In A Virus, or a Metaphor?, [[erik-carlson|Erik Carlson]] summarizes the premise and offers a geopolitical reading of why Q would cite it repeatedly.
 
 ## Premise as summarized
 

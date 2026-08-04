@@ -14,7 +14,7 @@ Shehbaz Sharif is the Prime Minister of [[pakistan|Pakistan]]. In the Badlands M
 
 ## Position during the 2026 Iran crisis
 
-The March 10, 2026 [[badlands-brief-509|Badlands Brief]] reports, in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], that Sharif "has just come out in support of [[iran|Iran]]" during the escalating conflict, and characterizes this as notable "despite historical differences and a deep love for President Trump that Sharif has tearfully expressed on many occasions."
+The March 10, 2026 Badlands Brief reports, in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], that Sharif "has just come out in support of [[iran|Iran]]" during the escalating conflict, and characterizes this as notable "despite historical differences and a deep love for President Trump that Sharif has tearfully expressed on many occasions."
 
 Sharif is grouped in that commentary with [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]] of [[turkey|Türkiye]] and Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] of [[saudi-arabia|Saudi Arabia]] as "strongmen" who, the writer argues, will not be maneuvered into a regional war against their neighbors, and whose loyalty to Trump is framed as loyalty to "the common cause of peace."
 

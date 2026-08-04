@@ -12,7 +12,7 @@ contested: false
 
 Eli Cohen is an Israeli politician and member of [[likud|Likud]] serving as Energy Minister in the government of [[benjamin-netanyahu|Benjamin Netanyahu]].
 
-The February 11, 2026 [[badlands-brief-05f|Badlands Brief]] quotes Cohen praising the Israeli Security Cabinet's approval of measures extending Israeli control in the [[west-bank|West Bank]] as establishing "de facto sovereignty" that rules out a Palestinian state. His characterisation is set against President [[donald-trump|Donald Trump]]'s contrary position — "I am against annexation" — and against the article's observation that the measures violate the [[oslo-accords|Oslo Accords]] and have drawn United States concern over regional stability.
+The February 11, 2026 Badlands Brief quotes Cohen praising the Israeli Security Cabinet's approval of measures extending Israeli control in the [[west-bank|West Bank]] as establishing "de facto sovereignty" that rules out a Palestinian state. His characterisation is set against President [[donald-trump|Donald Trump]]'s contrary position — "I am against annexation" — and against the article's observation that the measures violate the [[oslo-accords|Oslo Accords]] and have drawn United States concern over regional stability.
 
 ## Sources
 

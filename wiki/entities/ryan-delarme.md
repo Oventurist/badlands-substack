@@ -10,7 +10,7 @@ contested: false
 ---
 # Ryan DeLarme
 
-Ryan DeLarme is a writer and contributor to [[badlands-media|Badlands Media]], publishing long-form feature articles on the outlet's Substack. He is identified in the November 7, 2025 Badlands News Brief roundup [[a-look-at-recent-features-84d|"A Look At Recent Features"]] as the author of two of the seven features highlighted there.
+Ryan DeLarme is a writer and contributor to [[badlands-media|Badlands Media]], publishing long-form feature articles on the outlet's Substack. He is identified in the November 7, 2025 Badlands News Brief roundup "A Look At Recent Features" as the author of two of the seven features highlighted there.
 
 ## Work
 
@@ -22,11 +22,11 @@ Taken together, the two features position DeLarme within the Badlands contributo
 
 ## Iran coverage
 
-The August 15, 2025 roundup [[a-look-at-recent-features|"A Look At Recent Features"]] lists DeLarme's feature "And Iran, Iran So Far Away," published July 24, 2025 and described as "a direct continuation of The Deep Politics of the '12-Day War,'" his earlier treatment of the June 2025 Israel-Iran conflict.
+The August 15, 2025 roundup "A Look At Recent Features" lists DeLarme's feature "And Iran, Iran So Far Away," published July 24, 2025 and described as "a direct continuation of The Deep Politics of the '12-Day War,'" his earlier treatment of the June 2025 Israel-Iran conflict.
 
 ## A Swan Song for the MSM (2024)
 
-DeLarme is the author of [[a-swan-song-for-the-msm|A Swan Song for the MSM]], published by [[badlands-media|Badlands Media]] on February 21, 2024 and subtitled "The Citizen Journalist Will Write Its Epitaph." The essay argues that the [[mainstream-media|corporate press]] is in terminal decline, documents the 2023-24 wave of layoffs across the industry, traces the common institutional ownership of the "Big Six" conglomerates, and presents [[citizen-journalism|citizen journalism]] as the successor to a failed profession. It uses [[taylor-lorenz|Taylor Lorenz]] as its central case study and introduces the term [[censorship-industrial-complex|Censorship Industrial Complex]] to the corpus. The piece closes with the Badlands slogan "We are the news now," and directs readers to DeLarme's own newsletter, the Post-Liberal.
+DeLarme is the author of A Swan Song for the MSM, published by [[badlands-media|Badlands Media]] on February 21, 2024 and subtitled "The Citizen Journalist Will Write Its Epitaph." The essay argues that the [[mainstream-media|corporate press]] is in terminal decline, documents the 2023-24 wave of layoffs across the industry, traces the common institutional ownership of the "Big Six" conglomerates, and presents [[citizen-journalism|citizen journalism]] as the successor to a failed profession. It uses [[taylor-lorenz|Taylor Lorenz]] as its central case study and introduces the term [[censorship-industrial-complex|Censorship Industrial Complex]] to the corpus. The piece closes with the Badlands slogan "We are the news now," and directs readers to DeLarme's own newsletter, the Post-Liberal.
 
 ## Sources
 

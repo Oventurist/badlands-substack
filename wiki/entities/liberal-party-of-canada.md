@@ -10,7 +10,7 @@ contested: true
 ---
 # Liberal Party of Canada
 
-The Liberal Party of Canada is one of Canada's two historically dominant federal political parties, in government under [[justin-trudeau|Justin Trudeau]] from 2015 and subsequently under [[mark-carney|Mark Carney]]. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the party is portrayed as the vehicle through which a transnational network placed [[chrystia-freeland|Chrystia Freeland]] at the centre of Canadian government.
+The Liberal Party of Canada is one of Canada's two historically dominant federal political parties, in government under [[justin-trudeau|Justin Trudeau]] from 2015 and subsequently under [[mark-carney|Mark Carney]]. In the Badlands Media essay A Re Alignment of World Systems, the party is portrayed as the vehicle through which a transnational network placed [[chrystia-freeland|Chrystia Freeland]] at the centre of Canadian government.
 
 ## Reorganization, 2011–2014
 

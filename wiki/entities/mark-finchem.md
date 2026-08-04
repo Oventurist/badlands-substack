@@ -14,7 +14,7 @@ Mark Finchem is an Arizona Republican and "America First" politician who ran for
 
 ## The 2022 contest
 
-On the afternoon of Friday, December 9, 2022 — the last day of the five-day window that opened when [[katie-hobbs|Katie Hobbs]] certified the general election on December 5 — Finchem joined congressional candidate [[jeff-zink|Jeff Zink]] in filing a lawsuit to overturn the results of the November election. As reported by *Arizona's Family* and summarized in [[arizona-earthquake|"Arizona Earthquake!"]], the suit named Fontes, Zink's opponent Rep. [[ruben-gallego|Ruben Gallego]], and Hobbs.
+On the afternoon of Friday, December 9, 2022 — the last day of the five-day window that opened when [[katie-hobbs|Katie Hobbs]] certified the general election on December 5 — Finchem joined congressional candidate [[jeff-zink|Jeff Zink]] in filing a lawsuit to overturn the results of the November election. As reported by *Arizona's Family* and summarized in "Arizona Earthquake!", the suit named Fontes, Zink's opponent Rep. [[ruben-gallego|Ruben Gallego]], and Hobbs.
 
 The Finchem–Zink complaint alleges that Hobbs abused her power by failing to have Arizona's tabulation machines properly certified and by threatening the boards of supervisors in Mohave and Cochise counties with criminal charges if they declined to certify the election. It further argues that Hobbs should have recused herself from her duties as Secretary of State while running for governor, and that her office abused its power when it flagged misinformation on a Twitter account in January 2021.
 

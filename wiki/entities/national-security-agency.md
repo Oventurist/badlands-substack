@@ -10,7 +10,7 @@ contested: false
 ---
 # National Security Agency
 
-The National Security Agency (NSA) is the United States signals-intelligence agency. In the April 17, 2026 [[badlands-brief-07c|Badlands Brief]] it appears as one of the principal users of [[section-702|Section 702]] of the [[foreign-intelligence-surveillance-act|Foreign Intelligence Surveillance Act]].
+The National Security Agency (NSA) is the United States signals-intelligence agency. In the April 17, 2026 Badlands Brief it appears as one of the principal users of [[section-702|Section 702]] of the [[foreign-intelligence-surveillance-act|Foreign Intelligence Surveillance Act]].
 
 The Brief states that Section 702 allows U.S. intelligence agencies — including the NSA and the [[fbi|FBI]] — to conduct warrantless surveillance targeting foreign individuals abroad, while the program can also incidentally collect communications involving Americans. This dual character is what makes it, in the source's description, one of the most powerful and controversial post-9/11 surveillance authorities.
 

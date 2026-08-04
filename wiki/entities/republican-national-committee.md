@@ -15,7 +15,7 @@ The Republican National Committee (RNC) is the national governing body of the Un
 
 ## Election litigation in 2026
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] places the RNC on both sides of the June 2026 election-law news cycle. It was the losing challenger in the [[supreme-court-of-the-united-states|Supreme Court]] case over Mississippi's mail ballot law, in which a 5–4 majority written by Justice [[amy-coney-barrett|Amy Coney Barrett]] held that federal law does not prevent states from counting absentee ballots postmarked by Election Day but received afterward.
+"Condemnation, Calibration, & Constitutional Boxes" places the RNC on both sides of the June 2026 election-law news cycle. It was the losing challenger in the [[supreme-court-of-the-united-states|Supreme Court]] case over Mississippi's mail ballot law, in which a 5–4 majority written by Justice [[amy-coney-barrett|Amy Coney Barrett]] held that federal law does not prevent states from counting absentee ballots postmarked by Election Day but received afterward.
 
 In the same period the RNC, joined by Douglas County Clerk [[sheri-davis|Sheri Davis]] and Representative Jeff Crank, filed suit in Denver District Court against Colorado Secretary of State [[jena-griswold|Jena Griswold]], challenging state guidance under the [[uniformed-and-overseas-citizens-absentee-voting-act|Uniformed and Overseas Citizens Absentee Voting Act]] that allows some never-resident citizens abroad to vote in Colorado on the basis of a relative's prior residency.
 

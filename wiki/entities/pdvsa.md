@@ -10,7 +10,7 @@ contested: false
 ---
 # PDVSA
 
-Petróleos de Venezuela, S.A. (PDVSA) is Venezuela's state-owned oil company. It appears in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]] as the source of the embezzled funds at the centre of the [[matthias-krull|Matthias Krull]] money-laundering case.
+Petróleos de Venezuela, S.A. (PDVSA) is Venezuela's state-owned oil company. It appears in the January 19, 2026 Badlands Brief as the source of the embezzled funds at the centre of the [[matthias-krull|Matthias Krull]] money-laundering case.
 
 According to [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]]'s commentary, Krull — arrested in 2018 by [[donald-trump|Trump]]'s Justice Department — was laundering billions of dollars embezzled from PDVSA, as well as money for drug cartels. His cooperation reportedly led to substantial asset forfeitures at banks and financial institutions including [[credit-suisse|Credit Suisse]], with the recovered funds owed to the government of Venezuela.
 

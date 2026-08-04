@@ -11,7 +11,7 @@ contested: true
 
 # AI Data Center Compact
 
-The AI data center compact is a voluntary agreement reportedly being drafted by the second [[donald-trump|Trump]] administration under which the largest American technology companies would publicly commit to bearing the infrastructure costs of their artificial intelligence data centers. It is described in the February 12, 2026 [[badlands-brief-405|Badlands Brief]] on the basis of *[[politico|Politico]]* reporting.
+The AI data center compact is a voluntary agreement reportedly being drafted by the second [[donald-trump|Trump]] administration under which the largest American technology companies would publicly commit to bearing the infrastructure costs of their artificial intelligence data centers. It is described in the February 12, 2026 Badlands Brief on the basis of *[[politico|Politico]]* reporting.
 
 ## Reported contents
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Kim Clement
 
-**Kim Clement** was a Christian prophet whose prophecies are cited in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] as one of the "unique" data points supporting its eschatological hypothesis. He died on November 23, 2016.
+**Kim Clement** was a Christian prophet whose prophecies are cited in the Badlands Media feature "Are We Entering the Millennial Reign?" as one of the "unique" data points supporting its eschatological hypothesis. He died on November 23, 2016.
 
 ## Prophecies as described in the corpus
 

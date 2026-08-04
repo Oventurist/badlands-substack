@@ -15,7 +15,7 @@ Stéphane Dujarric is the spokesman for the Secretary-General of the [[united-na
 
 ## Threat to US voting rights
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that Dujarric is threatening to revoke the United States' right to vote at the UN because Washington has not been paying its dues. The Brief places the threat in the context of President [[donald-trump|Donald Trump]]'s withdrawal of the United States from 66 international organizations, half of them UN bodies including the climate change platform. The Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] treats the confrontation as further evidence of the disintegration of the [[rules-based-international-order|rules-based international order]], responding with the single word: "Accelerate!"
+The January 9, 2026 Badlands Brief reports that Dujarric is threatening to revoke the United States' right to vote at the UN because Washington has not been paying its dues. The Brief places the threat in the context of President [[donald-trump|Donald Trump]]'s withdrawal of the United States from 66 international organizations, half of them UN bodies including the climate change platform. The Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] treats the confrontation as further evidence of the disintegration of the [[rules-based-international-order|rules-based international order]], responding with the single word: "Accelerate!"
 
 ## Sources
 

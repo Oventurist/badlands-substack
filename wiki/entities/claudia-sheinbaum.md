@@ -15,7 +15,7 @@ Claudia Sheinbaum is the president of [[mexico|Mexico]] and the purported proté
 
 ## Contrast with López Obrador
 
-In the January 9, 2026 [[badlands-brief-094|Badlands Brief]], the commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] writes that although Obrador was "a hardcore commie," he respected Trump, got along with him, and deployed 29,000 Mexican troops to the border to secure it from the Mexican side. Sheinbaum, by contrast, "seems to sing a different tune." The author reports sensing frustration from Trump in dealing with her, noting that the United States had yet to finalize a bilateral trade deal with her government.
+In the January 9, 2026 Badlands Brief, the commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] writes that although Obrador was "a hardcore commie," he respected Trump, got along with him, and deployed 29,000 Mexican troops to the border to secure it from the Mexican side. Sheinbaum, by contrast, "seems to sing a different tune." The author reports sensing frustration from Trump in dealing with her, noting that the United States had yet to finalize a bilateral trade deal with her government.
 
 ## The cartel dispute
 
@@ -31,12 +31,12 @@ The same edition notes what it calls an "interesting wrinkle": Sheinbaum's publi
 
 ## Denial of the El Paso drone incursion
 
-The February 12, 2026 [[badlands-brief-405|Badlands Brief]] reports that Sheinbaum rejected accounts of cartel-linked drones crossing into US airspace near El Paso, Texas. Quoted by *[[newsweek|Newsweek]]*, she said: "There is no information about the use of drones on the border." Her denial followed confirmation from the Trump administration that the [[federal-aviation-administration|FAA]] and the [[department-of-war|Department of War]] had disabled the drones, and stood against the account of Representative [[tony-gonzales|Tony Gonzales]], who described daily drone incursions by criminal organizations as routine border life. The Brief's commentary treats the discrepancy as evidence for its recurring contention that the Mexican state and the cartels are difficult to separate.
+The February 12, 2026 Badlands Brief reports that Sheinbaum rejected accounts of cartel-linked drones crossing into US airspace near El Paso, Texas. Quoted by *[[newsweek|Newsweek]]*, she said: "There is no information about the use of drones on the border." Her denial followed confirmation from the Trump administration that the [[federal-aviation-administration|FAA]] and the [[department-of-war|Department of War]] had disabled the drones, and stood against the account of Representative [[tony-gonzales|Tony Gonzales]], who described daily drone incursions by criminal organizations as routine border life. The Brief's commentary treats the discrepancy as evidence for its recurring contention that the Mexican state and the cartels are difficult to separate.
 
 
 ## Response to the May 2026 indictments
 
-After US federal prosecutors charged the governor of Sinaloa and nine other current and former Mexican officials with conspiring with the [[sinaloa-cartel|Sinaloa Cartel]], Sheinbaum publicly defended the accused governors and demanded that the United States produce proof of their crimes. The May 1, 2026 [[badlands-brief-579|Badlands Brief]] placed this response in the context of President [[donald-trump|Donald Trump]]'s earlier accusation that Sheinbaum is a "cartel puppet," and her public rejection of American offers to send US soldiers into [[mexico|Mexico]] to dismantle the cartels. Badlands commentary read the pattern as evidence that Mexico, rather than [[venezuela|Venezuela]], is the real target of US counter-cartel operations in Latin America.
+After US federal prosecutors charged the governor of Sinaloa and nine other current and former Mexican officials with conspiring with the [[sinaloa-cartel|Sinaloa Cartel]], Sheinbaum publicly defended the accused governors and demanded that the United States produce proof of their crimes. The May 1, 2026 Badlands Brief placed this response in the context of President [[donald-trump|Donald Trump]]'s earlier accusation that Sheinbaum is a "cartel puppet," and her public rejection of American offers to send US soldiers into [[mexico|Mexico]] to dismantle the cartels. Badlands commentary read the pattern as evidence that Mexico, rather than [[venezuela|Venezuela]], is the real target of US counter-cartel operations in Latin America.
 
 ## Sources
 

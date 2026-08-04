@@ -10,7 +10,7 @@ contested: true
 ---
 # Mainstream Media
 
-"Mainstream media" (MSM), also called **centralized media** in the Badlands corpus, refers to the news output of the small number of corporate conglomerates that have dominated broadcast, print, internet, radio and film. The term and its opposite, decentralized media, are defined at length in [[a-swan-song-for-the-msm|A Swan Song for the MSM]].
+"Mainstream media" (MSM), also called **centralized media** in the Badlands corpus, refers to the news output of the small number of corporate conglomerates that have dominated broadcast, print, internet, radio and film. The term and its opposite, decentralized media, are defined at length in A Swan Song for the MSM.
 
 ## The Big Six
 
@@ -32,7 +32,7 @@ The 2024 article documents an industry-wide contraction — layoffs at the [[los
 
 ## The "Media Industrial Complex"
 
-The Badlands Media essay [[all-assets-deployed|All Assets Deployed]] (November 16, 2022) refers to the establishment press as the "Media Industrial Complex," describing it as an institution that "has been tearing at" [[donald-trump|Donald Trump]] "for the better part of eight years" and that had already branded his supporters as election-denying extremists before his [[mar-a-lago|Mar-a-Lago]] announcement. The essay argues that dissenting voices within the [[maga|MAGA]] coalition risk advancing "the same divisive, defeating and directed rhetoric the Media Industrial Complex has been vomiting all along," making media narrative and intra-movement discord two faces of the same [[information-war|information war]].
+The Badlands Media essay All Assets Deployed (November 16, 2022) refers to the establishment press as the "Media Industrial Complex," describing it as an institution that "has been tearing at" [[donald-trump|Donald Trump]] "for the better part of eight years" and that had already branded his supporters as election-denying extremists before his [[mar-a-lago|Mar-a-Lago]] announcement. The essay argues that dissenting voices within the [[maga|MAGA]] coalition risk advancing "the same divisive, defeating and directed rhetoric the Media Industrial Complex has been vomiting all along," making media narrative and intra-movement discord two faces of the same [[information-war|information war]].
 
 ## Sources
 

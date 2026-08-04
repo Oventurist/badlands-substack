@@ -14,7 +14,7 @@ Devolution is a theory developed by the writer [[jon-herold|Jon Herold]], publis
 
 ## Core claim
 
-As summarized in the Badlands Media essay [[all-assets-deployed|All Assets Deployed]], Devolution is frequently misunderstood by both supporters and critics. The essay's author, [[burning-bright|Burning Bright]], offers a corrective framing: "Devolution is not meant to take our country BACK from those who have subverted it; it is meant to protect red-line National Security functions so that we HAVE a country to take back when this painful, entirely necessary exposure operation regarding the System of Systems and the subversive enemy of humanity plays out … however long it takes."
+As summarized in the Badlands Media essay All Assets Deployed, Devolution is frequently misunderstood by both supporters and critics. The essay's author, [[burning-bright|Burning Bright]], offers a corrective framing: "Devolution is not meant to take our country BACK from those who have subverted it; it is meant to protect red-line National Security functions so that we HAVE a country to take back when this painful, entirely necessary exposure operation regarding the System of Systems and the subversive enemy of humanity plays out … however long it takes."
 
 In this reading, Devolution is a defensive continuity arrangement rather than a mechanism for immediate restoration of power. It operates in parallel with a broader [[continuity-of-government|Continuity of Government]] posture.
 

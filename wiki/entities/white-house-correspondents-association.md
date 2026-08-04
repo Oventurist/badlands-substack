@@ -15,7 +15,7 @@ The White House Correspondents' Association (WHCA) is the organization of journa
 
 ## The rescheduled 2026 dinner
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that President [[donald-trump|Donald Trump]] attended the rescheduled WHCA Dinner on July 24 at the Waldorf Astoria in Washington, D.C. The event had been postponed following an April shooting that disrupted the original dinner. The association said it intended to complete the interrupted program, including journalism awards and a performance by mentalist Oz Pearlman. The [[united-states-secret-service|Secret Service]] said it had implemented a strengthened security plan following the April attack.
+The July 27, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] attended the rescheduled WHCA Dinner on July 24 at the Waldorf Astoria in Washington, D.C. The event had been postponed following an April shooting that disrupted the original dinner. The association said it intended to complete the interrupted program, including journalism awards and a performance by mentalist Oz Pearlman. The [[united-states-secret-service|Secret Service]] said it had implemented a strengthened security plan following the April attack.
 
 Trump's speech ran more than an hour according to ABC News as cited in the Brief, alternating between calls for cooperation with the press and criticism of journalists and political opponents, and concluding with the president putting on a red "Trump 2028" hat as part of a joke about another presidential campaign. He described the audience as "the really largest group of Trump derangement syndrome people ever put together at one time."
 

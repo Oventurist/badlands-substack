@@ -14,7 +14,7 @@ The **Censorship Industrial Complex** (CIC) is the term used in the Badlands Med
 
 ## Origin of the concept in the corpus
 
-In [[a-swan-song-for-the-msm|A Swan Song for the MSM]] (February 2024), DeLarme argues that the Western establishment fears nothing more than the success of a capable and honest decentralized media, because "a self-organizing industry of citizen journalists operating on principle would render the mainstream obsolete." The CIC is presented as the institutional response to that threat. The author flags it as a subject meriting its own dedicated essay rather than treating it exhaustively.
+In A Swan Song for the MSM (February 2024), DeLarme argues that the Western establishment fears nothing more than the success of a capable and honest decentralized media, because "a self-organizing industry of citizen journalists operating on principle would render the mainstream obsolete." The CIC is presented as the institutional response to that threat. The author flags it as a subject meriting its own dedicated essay rather than treating it exhaustively.
 
 ## Interpretation
 

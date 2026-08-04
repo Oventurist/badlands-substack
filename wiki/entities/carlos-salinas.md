@@ -14,7 +14,7 @@ contested: true
 ---
 # Carlos Salinas
 
-Carlos Salinas de Gortari (born 1948) served as the 60th President of Mexico from 1988 to 1994. In the Badlands Media article [[a-family-affair]], he is portrayed as a central figure in a corruption network linking the salinas family to drug trafficking, political cover-ups, and the [[nafta]] agreement, which the source argues was designed to facilitate drug smuggling across the southern border and increase [[cia]] profits.
+Carlos Salinas de Gortari (born 1948) served as the 60th President of Mexico from 1988 to 1994. In the Badlands Media article a family affair, he is portrayed as a central figure in a corruption network linking the salinas family to drug trafficking, political cover-ups, and the [[nafta]] agreement, which the source argues was designed to facilitate drug smuggling across the southern border and increase [[cia]] profits.
 
 ## Presidency and NAFTA
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Samuel F. B. Morse
 
-Samuel F. B. Morse was an American painter and inventor of the electric telegraph, trained in England by [[benjamin-west|Benjamin West]] at the [[royal-academy-of-arts|English Royal Academy of Fine Arts]]. The Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]] by [[matthew-ehret|Matthew Ehret]] identifies him as one of West's most accomplished students, and specifically as one who mastered West's technique of embedding Platonic ironies and anomalies in his paintings.
+Samuel F. B. Morse was an American painter and inventor of the electric telegraph, trained in England by [[benjamin-west|Benjamin West]] at the [[royal-academy-of-arts|English Royal Academy of Fine Arts]]. The Badlands Media essay A New American Renaissance by [[matthew-ehret|Matthew Ehret]] identifies him as one of West's most accomplished students, and specifically as one who mastered West's technique of embedding Platonic ironies and anomalies in his paintings.
 
 The article places Morse in a scientific lineage descending from [[benjamin-franklin|Benjamin Franklin]]'s 1752 discovery of atmospheric electricity: Franklin's work, it argues, directly gave rise to Morse's advances in electrical communication, which were developed with the help of scientists around the Humboldt brothers, including Carl F. Gauss, Wilhelm Weber and Ampère, and alongside Joseph Henry and Franklin's descendant Alexander Dallas Bache in what the source calls the Göttingen-Philadelphia complex of genius.
 

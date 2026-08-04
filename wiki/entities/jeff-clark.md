@@ -14,7 +14,7 @@ Jeffrey "Jeff" Clark is a former Assistant Attorney General of the United States
 
 ## The Georgia memo
 
-According to the account in the [[badlands-brief-323|Badlands Brief of May 15, 2026]], Clark drafted an internal memorandum setting out his personal legal theory about election irregularities in Georgia. [[ashe-in-america|Ashe in America]] writes that this is not in dispute, that all parties in the subsequent federal filing concede Clark believed the substance of his memo, and that the memo was never finalized or sent. Despite those admissions, the [[district-of-columbia-bar|DC bar]] disciplinary authorities recommended disbarment over what they characterized as dishonest conduct tied to the draft letter, following a hearing that Ashe in America and [[canncon|CannCon]] covered and described as "sad and demoralizing."
+According to the account in the Badlands Brief of May 15, 2026, Clark drafted an internal memorandum setting out his personal legal theory about election irregularities in Georgia. [[ashe-in-america|Ashe in America]] writes that this is not in dispute, that all parties in the subsequent federal filing concede Clark believed the substance of his memo, and that the memo was never finalized or sent. Despite those admissions, the [[district-of-columbia-bar|DC bar]] disciplinary authorities recommended disbarment over what they characterized as dishonest conduct tied to the draft letter, following a hearing that Ashe in America and [[canncon|CannCon]] covered and described as "sad and demoralizing."
 
 ## Justice Department suit
 

@@ -10,7 +10,7 @@ contested: false
 ---
 # Kalshi
 
-Kalshi is a regulated prediction market platform that allows users to trade contracts on politics, elections, sports, and current events. It features in the [[badlands-brief-0fb|April 24, 2026 Badlands Brief]] as the subject of the first insider trading enforcement action in its history.
+Kalshi is a regulated prediction market platform that allows users to trade contracts on politics, elections, sports, and current events. It features in the April 24, 2026 Badlands Brief as the subject of the first insider trading enforcement action in its history.
 
 ## 2026 insider trading bans
 

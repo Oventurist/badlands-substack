@@ -10,7 +10,7 @@ contested: false
 ---
 # John Reimberg
 
-John Reimberg is the interior minister of [[ecuador|Ecuador]] under President [[daniel-noboa|Daniel Noboa]]. He is quoted in the March 13, 2026 [[badlands-brief-559|Badlands Brief]] on the opening of the first [[fbi|FBI]] office in the country.
+John Reimberg is the interior minister of [[ecuador|Ecuador]] under President [[daniel-noboa|Daniel Noboa]]. He is quoted in the March 13, 2026 Badlands Brief on the opening of the first [[fbi|FBI]] office in the country.
 
 Reimberg said the key change brought about by the new office is the permanent presence of FBI agents working directly with a newly formed unit within Ecuador's national police, supporting investigations into drug and weapons trafficking, money laundering, and terrorism financing.
 

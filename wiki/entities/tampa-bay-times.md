@@ -12,7 +12,7 @@ contested: false
 ---
 # Tampa Bay Times
 
-The Tampa Bay Times is an American daily newspaper published in St. Petersburg, Florida, known for investigative journalism and local political reporting. In the Badlands Media article [[a-family-affair]], the Tampa Bay Times is cited for detailed reporting on [[miguel-recarey]]'s Medicare fraud scheme and [[jeb-bush]]'s involvement, as well as on Jeb Bush's Florida real estate dealings with [[richard-lawless]] and [[armando-codina]].
+The Tampa Bay Times is an American daily newspaper published in St. Petersburg, Florida, known for investigative journalism and local political reporting. In the Badlands Media article a family affair, the Tampa Bay Times is cited for detailed reporting on [[miguel-recarey]]'s Medicare fraud scheme and [[jeb-bush]]'s involvement, as well as on Jeb Bush's Florida real estate dealings with [[richard-lawless]] and [[armando-codina]].
 
 ## Key citations
 

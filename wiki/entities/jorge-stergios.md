@@ -12,7 +12,7 @@ contested: true
 ---
 # Jorge Stergios
 
-Jorge Stergios is identified in the Badlands Media article [[a-family-affair]] as the "bagman" for [[mario-ruiz-massieu]], responsible for transporting cash proceeds from drug trafficking from Mexico to [[texas-commerce-bank]] in Houston.
+Jorge Stergios is identified in the Badlands Media article a family affair as the "bagman" for [[mario-ruiz-massieu]], responsible for transporting cash proceeds from drug trafficking from Mexico to [[texas-commerce-bank]] in Houston.
 
 ## Role in money laundering
 

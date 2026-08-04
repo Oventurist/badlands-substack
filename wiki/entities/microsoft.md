@@ -14,7 +14,7 @@ Microsoft is an American software and cloud computing corporation co-founded by 
 
 ## Market position
 
-[[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] lists Microsoft among the five largest American companies by market capitalization in 2010, 2020, and 2025 — the only firm besides [[apple-inc|Apple]] to appear on all three of the modern lists in the essay's table. In the 2025 ranking it is placed third, behind Apple and [[nvidia]].
+America Has a CIA Run Economy lists Microsoft among the five largest American companies by market capitalization in 2010, 2020, and 2025 — the only firm besides [[apple-inc|Apple]] to appear on all three of the modern lists in the essay's table. In the 2025 ranking it is placed third, behind Apple and [[nvidia]].
 
 ## Origins and the Gates rumor
 
@@ -22,7 +22,7 @@ The essay repeats a rumor that Gates's mother "hired engineers from IBM to come 
 
 ## Trump-era realignment
 
-Microsoft is named among the companies that donated one million dollars to [[donald-trump]]'s inaugural fund, a group Carlson describes as uniformly massive, big-tech, and heavily invested in [[artificial-intelligence|AI]]. The essay also notes that Gates is planning to fund nuclear power plants to supply electricity for Microsoft's AI operations, listing this among recent developments the author reads as constructive.
+Microsoft is named among the companies that donated one million dollars to [[donald-trump]]'s inaugural fund, a group Carlson describes as uniformly massive, big-tech, and heavily invested in AI. The essay also notes that Gates is planning to fund nuclear power plants to supply electricity for Microsoft's AI operations, listing this among recent developments the author reads as constructive.
 
 ## Sources
 

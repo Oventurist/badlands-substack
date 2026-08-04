@@ -13,7 +13,7 @@ contested: true
 ---
 # Congress of Industrial Organizations
 
-The Congress of Industrial Organizations (CIO) was a federation of industrial unions in the United States, founded in the 1930s, that merged with the [[american-federation-of-labor|American Federation of Labor]] in December 1955 to form the [[afl-cio|AFL-CIO]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the CIO is portrayed as the more progressive of the two bodies that nonetheless joined in the covert use of labor for political ends.
+The Congress of Industrial Organizations (CIO) was a federation of industrial unions in the United States, founded in the 1930s, that merged with the [[american-federation-of-labor|American Federation of Labor]] in December 1955 to form the [[afl-cio|AFL-CIO]]. In the Badlands Media article A More Perfect (Labor) Union, the CIO is portrayed as the more progressive of the two bodies that nonetheless joined in the covert use of labor for political ends.
 
 ## Role in covert operations
 

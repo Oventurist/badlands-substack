@@ -10,7 +10,7 @@ contested: true
 ---
 # Erik Prince
 
-Erik Prince is the American founder of the private military company Blackwater and a recurring figure in United States covert and quasi-official operations abroad. He features in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]] in connection with Venezuela.
+Erik Prince is the American founder of the private military company Blackwater and a recurring figure in United States covert and quasi-official operations abroad. He features in the January 19, 2026 Badlands Brief in connection with Venezuela.
 
 ## Venezuela advocacy, 2026
 

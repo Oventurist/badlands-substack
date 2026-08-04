@@ -31,7 +31,7 @@ The article's central charge is that Weiss's free speech advocacy was conditiona
 
 ## Referenced at the 2026 Correspondents' Dinner
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] records that during his speech at the rescheduled [[white-house-correspondents-association|White House Correspondents' Association]] Dinner, President [[donald-trump|Donald Trump]] delivered what [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] called "this banger of a joke calling Bari Weiss a gay dictator over [[cbs|CBS News]]." The reference places Weiss in an editorial leadership role at CBS News as of mid-2026.
+The July 27, 2026 Badlands Brief records that during his speech at the rescheduled [[white-house-correspondents-association|White House Correspondents' Association]] Dinner, President [[donald-trump|Donald Trump]] delivered what [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] called "this banger of a joke calling Bari Weiss a gay dictator over [[cbs|CBS News]]." The reference places Weiss in an editorial leadership role at CBS News as of mid-2026.
 
 ## Sources
 

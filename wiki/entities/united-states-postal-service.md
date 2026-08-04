@@ -10,7 +10,7 @@ contested: true
 ---
 # United States Postal Service
 
-The United States Postal Service (USPS) is the federal agency responsible for mail delivery throughout the United States. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] treats it as a pivotal institution in what he describes as a plan by President [[donald-trump|Donald Trump]] to return power to the American people, arguing that the Postal Service will serve two functions: protecting elections and transforming the banking system.
+The United States Postal Service (USPS) is the federal agency responsible for mail delivery throughout the United States. In A Seismic Shift, [[joe-lange|Joe Lange]] treats it as a pivotal institution in what he describes as a plan by President [[donald-trump|Donald Trump]] to return power to the American people, arguing that the Postal Service will serve two functions: protecting elections and transforming the banking system.
 
 ## Constitutional service obligation
 
@@ -36,7 +36,7 @@ Business Insider reported in 2020 that the Postal Service had filed a patent for
 
 ## As an argument against income tax
 
-The Badlands Media essay [[a-week-to-remember|A Week to Remember]] cites the Postal Service in questioning the standard justifications for the [[federal-income-tax|federal income tax]]. If income tax pays to fix roads and run the postal service, the article asks, "why are we also paying gas tax, car tabs and postage?"
+The Badlands Media essay A Week to Remember cites the Postal Service in questioning the standard justifications for the [[federal-income-tax|federal income tax]]. If income tax pays to fix roads and run the postal service, the article asks, "why are we also paying gas tax, car tabs and postage?"
 
 It also recalls [[donald-trump|Trump]]'s position "that Amazon should deliver their own packages, and our taxes shouldn't be used to subsidize them through the USPS," observing that Amazon now runs a large delivery fleet of its own "and the company seems to be doing just fine."
 

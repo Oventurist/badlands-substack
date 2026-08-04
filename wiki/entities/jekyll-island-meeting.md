@@ -32,7 +32,7 @@ The plans developed at Jekyll Island were, according to the article, later used 
 - Benjamin Strong — attendee representing J. P. Morgan
 - [[Federal Reserve]] — the system allegedly planned at Jekyll Island
 - [[federal-reserve|Federal Reserve Act]] — legislation based on the Jekyll Island plan
-- [[1913]] — the year the Jekyll Island plan was enacted into law
+- 1913 — the year the Jekyll Island plan was enacted into law
 - [[Pujo Committee]] — the committee that investigated the banking monopoly created by the Federal Reserve
 - [[Populist Party]] — the party whose leaders allegedly convinced Aldrich to convene the meeting
 

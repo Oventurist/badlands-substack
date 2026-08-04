@@ -10,7 +10,7 @@ contested: true
 ---
 # O. J. Simpson
 
-O. J. Simpson was the American football star whose 1994–1995 murder trial dominated American television. The Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] uses the case as a component of its argument that the mid-1990s saw a deliberate campaign to deepen racial division in the United States.
+O. J. Simpson was the American football star whose 1994–1995 murder trial dominated American television. The Badlands Media essay A Journey of Ever changing Truths uses the case as a component of its argument that the mid-1990s saw a deliberate campaign to deepen racial division in the United States.
 
 According to [[erik-carlson|Erik Carlson]], Simpson "allegedly killed his ex-wife and a man he believed to be her lover" in 1994 — the same year that President [[bill-clinton|Bill Clinton]] and Senator [[joe-biden|Joe Biden]] advanced the Crime Bill of 1994, a coincidence the article treats as significant rather than accidental. Americans watched the white Ford Bronco make its slow-speed police chase along the Los Angeles freeways, and the source notes as an aside that more pizzas were delivered on that day than on any other day in American history.
 

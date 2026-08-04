@@ -15,7 +15,7 @@ PizzaGate is the name given to a body of allegations that emerged in late 2016 f
 
 ## Congressional testimony, 2026
 
-The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] reports that [[hillary-clinton|Hillary Clinton]], testifying before a congressional committee in connection with inquiries tied to [[jeffrey-epstein|Jeffrey Epstein]], answered questions concerning her awareness of Epstein, of PizzaGate, and of related matters. The Brief identifies Representative [[lauren-boebert|Lauren Boebert]] as the member who raised the PizzaGate line of questioning, together with questions about the alleged "[[frazzledrip|frazzledrip]]" video.
+The March 3, 2026 Badlands Brief reports that [[hillary-clinton|Hillary Clinton]], testifying before a congressional committee in connection with inquiries tied to [[jeffrey-epstein|Jeffrey Epstein]], answered questions concerning her awareness of Epstein, of PizzaGate, and of related matters. The Brief identifies Representative [[lauren-boebert|Lauren Boebert]] as the member who raised the PizzaGate line of questioning, together with questions about the alleged "[[frazzledrip|frazzledrip]]" video.
 
 [[ashe-in-america|Ashe in America]] wrote that she "never thought Hillary would ever be asked directly about any of this, so the fact that she was asked the question at all is sort of astounding," and credited Boebert with putting "the main questions on the minds of many Americans" on the record. The Brief presents the questioning itself, rather than any answer obtained, as the notable development.
 

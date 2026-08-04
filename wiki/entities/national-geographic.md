@@ -14,7 +14,7 @@ contested: false
 
 ## Decline
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] names National Geographic among the "widely recognized media organizations" that had "either experienced significant workforce reductions or have been forced to the verge of extinction" over the weeks preceding February 2024. Its appearance in the list is used to argue that even titles with enormous brand equity and conglomerate backing are unable to sustain the traditional [[mainstream-media|centralized media]] model.
+A Swan Song for the MSM names National Geographic among the "widely recognized media organizations" that had "either experienced significant workforce reductions or have been forced to the verge of extinction" over the weeks preceding February 2024. Its appearance in the list is used to argue that even titles with enormous brand equity and conglomerate backing are unable to sustain the traditional [[mainstream-media|centralized media]] model.
 
 ## Sources
 

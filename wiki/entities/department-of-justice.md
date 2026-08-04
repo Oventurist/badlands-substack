@@ -10,7 +10,7 @@ contested: true
 ---
 # Department of Justice
 
-The United States Department of Justice (DOJ) is the federal executive department responsible for the enforcement of federal law and the administration of justice. In the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]], the department appears in two contrasting roles: as an institution allegedly weaponized under [[barack-obama|Barack Obama]], and as the vehicle through which Attorney General [[jeff-sessions|Jeff Sessions]] is said to have quietly launched investigations that bypassed the department's own compromised leadership.
+The United States Department of Justice (DOJ) is the federal executive department responsible for the enforcement of federal law and the administration of justice. In the Badlands Media essay America for Sale — Part 2, the department appears in two contrasting roles: as an institution allegedly weaponized under [[barack-obama|Barack Obama]], and as the vehicle through which Attorney General [[jeff-sessions|Jeff Sessions]] is said to have quietly launched investigations that bypassed the department's own compromised leadership.
 
 ## Alleged weaponization under Obama
 
@@ -25,7 +25,7 @@ The article also notes that the [[senate-judiciary-committee|Senate Judiciary Co
 
 ## Response to the Epstein subpoena (March 2026)
 
-In the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], the Department responded to [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]] by calling it "completely unnecessary," stating: "Lawmakers have been invited to view the unredacted files for themselves at the Department of Justice, and the Attorney General has always made herself available to speak directly with members of Congress. She continues to have calls and meetings with members of Congress on the [[epstein-files-transparency-act|Epstein Files Transparency Act]], which is why the Department offered to brief the committee tomorrow." The Brief observes that while congressional subpoenas are compulsory, enforcement ultimately rests with the Justice Department itself if they are ignored.
+In the March 18, 2026 Badlands Brief, the Department responded to [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]] by calling it "completely unnecessary," stating: "Lawmakers have been invited to view the unredacted files for themselves at the Department of Justice, and the Attorney General has always made herself available to speak directly with members of Congress. She continues to have calls and meetings with members of Congress on the [[epstein-files-transparency-act|Epstein Files Transparency Act]], which is why the Department offered to brief the committee tomorrow." The Brief observes that while congressional subpoenas are compulsory, enforcement ultimately rests with the Justice Department itself if they are ignored.
 
 ## Sources
 

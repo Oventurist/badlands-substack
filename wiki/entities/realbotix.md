@@ -10,7 +10,7 @@ contested: false
 ---
 # Realbotix
 
-Realbotix is a Las Vegas–based robotics company that manufactures humanlike AI-powered humanoid robots. It became the subject of national attention in July 2026 when the [[salamanca-city-central-school-district|Salamanca City Central School District]] in western New York approved a nearly $60,000 purchase of a Realbotix robot for classroom use, as reported in the July 30, 2026 [[badlands-brief-414|Badlands Brief]].
+Realbotix is a Las Vegas–based robotics company that manufactures humanlike AI-powered humanoid robots. It became the subject of national attention in July 2026 when the [[salamanca-city-central-school-district|Salamanca City Central School District]] in western New York approved a nearly $60,000 purchase of a Realbotix robot for classroom use, as reported in the July 30, 2026 Badlands Brief.
 
 ## The "Sally" robot
 

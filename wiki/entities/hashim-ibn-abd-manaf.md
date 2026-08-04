@@ -10,7 +10,7 @@ contested: false
 ---
 # Hashim ibn Abd Manaf
 
-Hashim is the Meccan leader from whom the [[banu-hashim]] take their name, and the great-grandfather of [[prophet-muhammad|Muhammad]]. The Badlands Media essay [[arabian-nights]] introduces him as a Bedouin warrior who entered the town of Mecca more than 1,500 years ago.
+Hashim is the Meccan leader from whom the [[banu-hashim]] take their name, and the great-grandfather of [[prophet-muhammad|Muhammad]]. The Badlands Media essay arabian nights introduces him as a Bedouin warrior who entered the town of Mecca more than 1,500 years ago.
 
 ## Background
 

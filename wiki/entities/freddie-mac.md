@@ -11,7 +11,7 @@ contested: false
 
 # Freddie Mac
 
-Freddie Mac is the US government-sponsored enterprise whose weekly survey of mortgage rates is the standard benchmark cited in American housing coverage. It appears in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as the source of data behind a reported milestone in mortgage pricing.
+Freddie Mac is the US government-sponsored enterprise whose weekly survey of mortgage rates is the standard benchmark cited in American housing coverage. It appears in the February 24, 2026 Badlands Brief as the source of data behind a reported milestone in mortgage pricing.
 
 ## The sub-6% milestone
 

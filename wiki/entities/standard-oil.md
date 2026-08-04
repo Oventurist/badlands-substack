@@ -13,7 +13,7 @@ Standard Oil was the Rockefeller petroleum monopoly dissolved by order of the [[
 
 ## The 1911 breakup
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] states that in 1911 the Rockefeller monopoly was broken up after the Supreme Court ruled that Standard Oil was in violation of the federal anti-trust laws, and that the company was divided into 34 separate entities.
+Erik Carlson's America Has a CIA Run Economy states that in 1911 the Rockefeller monopoly was broken up after the Supreme Court ruled that Standard Oil was in violation of the federal anti-trust laws, and that the company was divided into 34 separate entities.
 
 ## As a model for big tech
 

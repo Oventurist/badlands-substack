@@ -10,7 +10,7 @@ contested: true
 ---
 # League for Social Reconstruction
 
-The League for Social Reconstruction was a Canadian organization founded in 1932, during the depths of the Great Depression. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] identifies it with a self-professed "[[fabian-society|Fabian Society]] of Canada."
+The League for Social Reconstruction was a Canadian organization founded in 1932, during the depths of the Great Depression. In the Badlands Media essay A Re Alignment of World Systems, [[matthew-ehret|Matthew Ehret]] identifies it with a self-professed "[[fabian-society|Fabian Society]] of Canada."
 
 ## Account in the source
 

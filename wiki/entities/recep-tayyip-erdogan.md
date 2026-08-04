@@ -14,7 +14,7 @@ Recep Tayyip Erdoğan is the President of [[turkey|Türkiye]]. He enters the Bad
 
 ## The Ankara NATO summit
 
-According to the July 10, 2026 [[badlands-brief-0bd|Badlands Brief "Mossad Bait & Labor Tackles"]], Trump travelled to Türkiye days earlier to attend the [[nato|NATO]] summit, where he "repeated high praise for President Erdogan and Turkey." Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] writes that this praise "triggered widespread rebuke and condemnation among the Israeli Diaspora and Mossad Media assets," and treats it as the proximate context for a Ukrainian drone strike on the Krasnodarskaya compressor station serving the [[blue-stream-pipeline|Blue Stream]] gas pipeline to Türkiye.
+According to the July 10, 2026 Badlands Brief "Mossad Bait & Labor Tackles", Trump travelled to Türkiye days earlier to attend the [[nato|NATO]] summit, where he "repeated high praise for President Erdogan and Turkey." Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] writes that this praise "triggered widespread rebuke and condemnation among the Israeli Diaspora and Mossad Media assets," and treats it as the proximate context for a Ukrainian drone strike on the Krasnodarskaya compressor station serving the [[blue-stream-pipeline|Blue Stream]] gas pipeline to Türkiye.
 
 ## Position in the Badlands geopolitical thesis
 

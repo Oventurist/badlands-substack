@@ -14,7 +14,7 @@ The Project for a New American Century (PNAC) is a neoconservative think tank fo
 
 ## Founding and membership
 
-According to [[assad-day-in-damascus]], PNAC was created in 1997 by [[william-kristol]] and [[robert-kagan]] — the latter identified as the husband of [[victoria-nuland]] — and maintained strong ties to the "storied neocon hotbed" of the [[american-enterprise-institute|American Enterprise Institute]]. Its membership included [[dick-cheney]], [[paul-wolfowitz]], [[john-bolton]] and [[donald-rumsfeld]], among others. Of the 25 original signatories, the article states, 14 were given positions in the administration of George W. Bush.
+According to assad day in damascus, PNAC was created in 1997 by [[william-kristol]] and [[robert-kagan]] — the latter identified as the husband of [[victoria-nuland]] — and maintained strong ties to the "storied neocon hotbed" of the [[american-enterprise-institute|American Enterprise Institute]]. Its membership included [[dick-cheney]], [[paul-wolfowitz]], [[john-bolton]] and [[donald-rumsfeld]], among others. Of the 25 original signatories, the article states, 14 were given positions in the administration of George W. Bush.
 
 ## Doctrine
 

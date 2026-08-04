@@ -10,7 +10,7 @@ contested: true
 ---
 # Petro Poroshenko
 
-Petro Poroshenko is a Ukrainian businessman and politician who served as President of Ukraine from 2014 to 2019. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is listed among the oligarchs created by the privatization and liberalization reforms applied to Ukraine and other Warsaw Pact countries in the 1990s.
+Petro Poroshenko is a Ukrainian businessman and politician who served as President of Ukraine from 2014 to 2019. In the Badlands Media essay A Re Alignment of World Systems, he is listed among the oligarchs created by the privatization and liberalization reforms applied to Ukraine and other Warsaw Pact countries in the 1990s.
 
 ## Role in the source
 

@@ -15,7 +15,7 @@ Alternative for Germany, commonly abbreviated AfD (from the German *Alternative 
 
 ## Electoral performance and the firewall
 
-As reported in the March 24, 2026 edition of the Badlands Brief, [[badlands-brief-50d|Alternative Annexations & New(ish) Regime Change]], the AfD posted gains in recent German state elections, particularly in the country's eastern regions. Despite these gains, the party remains excluded from governing coalitions, as mainstream parties continue to enforce a longstanding refusal to cooperate with it. German domestic intelligence authorities have classified the AfD as "right-wing extremists," and mainstream German parties have maintained what is commonly termed a "firewall" policy — declining to form coalitions or governing alliances with the AfD regardless of its vote totals. The source notes that despite the firewall, the party continues to increase its vote share.
+As reported in the March 24, 2026 edition of the Badlands Brief, Alternative Annexations & New(ish) Regime Change, the AfD posted gains in recent German state elections, particularly in the country's eastern regions. Despite these gains, the party remains excluded from governing coalitions, as mainstream parties continue to enforce a longstanding refusal to cooperate with it. German domestic intelligence authorities have classified the AfD as "right-wing extremists," and mainstream German parties have maintained what is commonly termed a "firewall" policy — declining to form coalitions or governing alliances with the AfD regardless of its vote totals. The source notes that despite the firewall, the party continues to increase its vote share.
 
 ## Badlands interpretation
 

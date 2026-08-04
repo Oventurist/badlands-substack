@@ -10,7 +10,7 @@ contested: false
 ---
 # Spatial Disorientation
 
-Spatial disorientation is an aviation phenomenon in which a pilot's bodily senses supply an incorrect picture of the aircraft's attitude, altitude or motion. The [[federal-aviation-administration|Federal Aviation Administration]]'s *Pilot's Handbook of Aeronautical Knowledge*, quoted in the Badlands Media essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]], defines it as "a condition in which a pilot's perception of direction, altitude, or speed is misleading or incorrect, usually due to conflicting sensory information," occurring "when a pilot cannot accurately interpret their aircraft's position relative to the Earth."
+Spatial disorientation is an aviation phenomenon in which a pilot's bodily senses supply an incorrect picture of the aircraft's attitude, altitude or motion. The [[federal-aviation-administration|Federal Aviation Administration]]'s *Pilot's Handbook of Aeronautical Knowledge*, quoted in the Badlands Media essay "A Mysterious Masterclass in Multi Sensory Deception", defines it as "a condition in which a pilot's perception of direction, altitude, or speed is misleading or incorrect, usually due to conflicting sensory information," occurring "when a pilot cannot accurately interpret their aircraft's position relative to the Earth."
 
 ## Training response
 

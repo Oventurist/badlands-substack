@@ -21,7 +21,7 @@ Governor [[tim-walz|Tim Walz]] named her explicitly in [[executive-order-26-01|E
 
 ## Treatment in the corpus
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] frames the case as an attempted "[[george-floyd|George Floyd]] 2.0 moment." [[ashe-in-america|Ashe in America]] describes the emerging public portrait — "the new George Floyd is a lesbian poet" — and argues the story, while compelling, functions as a distraction from the [[minnesota-somali-fraud|Minnesota Somali fraud]] hearings. [[burning-bright|Burning Bright]] similarly calls the episode "distraction theater" erupting in the same battlespace as the fraud revelations.
+The January 9, 2026 Badlands Brief frames the case as an attempted "[[george-floyd|George Floyd]] 2.0 moment." [[ashe-in-america|Ashe in America]] describes the emerging public portrait — "the new George Floyd is a lesbian poet" — and argues the story, while compelling, functions as a distraction from the [[minnesota-somali-fraud|Minnesota Somali fraud]] hearings. [[burning-bright|Burning Bright]] similarly calls the episode "distraction theater" erupting in the same battlespace as the fraud revelations.
 
 ## Sources
 

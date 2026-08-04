@@ -15,7 +15,7 @@ The Permanent Joint Board on Defense (PJBD) is a bilateral military consultation
 
 ## 2026 U.S. suspension
 
-The May 20, 2026 [[badlands-brief-311|Badlands Brief]] reports that the United States suspended its participation in the board. [[elbridge-colby|Elbridge Colby]], Under Secretary of Defense for Policy, announced via social media that the [[department-of-defense|Department of Defense]] was pausing involvement "to reassess how this forum benefits shared North American defense," citing Canada's failure to make "credible progress on its defense commitments."
+The May 20, 2026 Badlands Brief reports that the United States suspended its participation in the board. [[elbridge-colby|Elbridge Colby]], Under Secretary of Defense for Policy, announced via social media that the [[department-of-defense|Department of Defense]] was pausing involvement "to reassess how this forum benefits shared North American defense," citing Canada's failure to make "credible progress on its defense commitments."
 
 The decision came amid tensions over Canadian defense spending and remarks by Prime Minister [[mark-carney|Mark Carney]], including his [[world-economic-forum|World Economic Forum]] address declaring the U.S.-led global order over. Canada had recently met [[nato|NATO]]'s 2 percent of GDP target with $63 billion in investments for ships, F-35s, submarines, and Arctic infrastructure, and pledged 3.5 percent by 2035, but U.S. officials considered this insufficient. Analysts characterized the pause as largely symbolic and political, with core operational cooperation — [[norad|NORAD]] modernization, intelligence sharing, and border security — expected to continue unaffected.
 

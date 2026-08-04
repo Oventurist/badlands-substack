@@ -10,7 +10,7 @@ contested: true
 ---
 # USPS Board of Governors
 
-The Board of Governors of the [[united-states-postal-service|United States Postal Service]] is the nine-member body, appointed by the President, that oversees the agency and selects the Postmaster General. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] treats the board's history between 2014 and 2020 as a key piece of evidence that President [[donald-trump|Donald Trump]] deliberately took control of the Postal Service.
+The Board of Governors of the [[united-states-postal-service|United States Postal Service]] is the nine-member body, appointed by the President, that oversees the agency and selects the Postmaster General. In A Seismic Shift, [[joe-lange|Joe Lange]] treats the board's history between 2014 and 2020 as a key piece of evidence that President [[donald-trump|Donald Trump]] deliberately took control of the Postal Service.
 
 ## Loss of quorum
 

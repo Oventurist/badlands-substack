@@ -13,7 +13,7 @@ The National Aeronautics and Space Administration (NASA) is the civilian space a
 
 ## The Tang and Velcro anecdote
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] recalls hearing as a child that Tang and Velcro were invented by NASA. The essay notes that in fact they were not, but that "NASA wanted to seem more important to the American society, so they never really corrected people."
+Erik Carlson's America Has a CIA Run Economy recalls hearing as a child that Tang and Velcro were invented by NASA. The essay notes that in fact they were not, but that "NASA wanted to seem more important to the American society, so they never really corrected people."
 
 The point of the anecdote is comparative. NASA, Carlson argues, allowed the public to over-credit it in order to enhance its own standing. [[darpa]]'s creations, by contrast, "have been sold to Americans much differently" — attributed not to the agency at all but to private founders with carefully constructed origin stories. The difference in public relations strategy is used to support the essay's argument that the true provenance of major consumer technologies has been deliberately obscured.
 

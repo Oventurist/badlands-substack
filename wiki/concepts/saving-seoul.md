@@ -10,11 +10,11 @@ contested: false
 ---
 # Saving Seoul
 
-*Saving Seoul* is the first book in the Sword Punk Trilogy, published by [[burning-bright|Burning Bright]] Publishing, the imprint associated with [[badlands-media|Badlands Media]]. It is promoted within the [[badlands-brief|Badlands Brief]] as a work of original fiction produced from inside the Badlands community rather than through conventional publishing.
+*Saving Seoul* is the first book in the Sword Punk Trilogy, published by [[burning-bright|Burning Bright]] Publishing, the imprint associated with [[badlands-media|Badlands Media]]. It is promoted within the Badlands Brief as a work of original fiction produced from inside the Badlands community rather than through conventional publishing.
 
 ## Publication and formats
 
-According to the March 10, 2026 [[badlands-brief-509|Badlands Brief]], the novel followed a limited edition leatherbound hardcover release and became available in digital and audio formats. The audiobook was produced in partnership with Soundbooth Theater and is described in the promotional copy as "not some AI read aloud crap" but "a full-on audio theater production, featuring a cast of professional actors, original music and high-end studio polish." The publisher presents it as "the best vision for the Sword Punk aesthetic in the best package for this audience."
+According to the March 10, 2026 Badlands Brief, the novel followed a limited edition leatherbound hardcover release and became available in digital and audio formats. The audiobook was produced in partnership with Soundbooth Theater and is described in the promotional copy as "not some AI read aloud crap" but "a full-on audio theater production, featuring a cast of professional actors, original music and high-end studio polish." The publisher presents it as "the best vision for the Sword Punk aesthetic in the best package for this audience."
 
 ## Story
 

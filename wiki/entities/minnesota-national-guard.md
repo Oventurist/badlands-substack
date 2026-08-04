@@ -21,7 +21,7 @@ Under the order the Guard serves in a support role focused on protecting propert
 
 ## Contested framing
 
-In the January 9, 2026 [[badlands-brief-094|Badlands Brief]], [[ashe-in-america|Ashe in America]] reads the deployment as directed against Washington rather than against rioters, writing that Walz "appears to be mobilizing the Minnesota National Guard to fight federal agents." The order's own language, which blames "the federal government's surge of masked immigration officials in Minnesota" for increased tensions, is cited as support for that reading.
+In the January 9, 2026 Badlands Brief, [[ashe-in-america|Ashe in America]] reads the deployment as directed against Washington rather than against rioters, writing that Walz "appears to be mobilizing the Minnesota National Guard to fight federal agents." The order's own language, which blames "the federal government's surge of masked immigration officials in Minnesota" for increased tensions, is cited as support for that reading.
 
 ## Sources
 

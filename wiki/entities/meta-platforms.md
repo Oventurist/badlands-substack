@@ -14,7 +14,7 @@ Meta Platforms, the parent company of Facebook, is an American social media corp
 
 ## The LifeLog claim
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] observes that [[darpa-lifelog|DARPA's LifeLog program]] — designed to compile a database of every activity and relationship in a person's life, including purchases, websites visited, call and email content, messages, reading and viewing habits, GPS location, and biomedical data — was cancelled on February 4, 2004, and that February 4, 2004 was also the day Facebook started up. The essay further asserts that "much of the early funding of FaceBook came from CIA shell companies," and alludes to the company's founder mythology with the image of "a hoody wearing tech nerd from Harvard" whose origin story was reinforced by a film.
+Erik Carlson's America Has a CIA Run Economy observes that [[darpa-lifelog|DARPA's LifeLog program]] — designed to compile a database of every activity and relationship in a person's life, including purchases, websites visited, call and email content, messages, reading and viewing habits, GPS location, and biomedical data — was cancelled on February 4, 2004, and that February 4, 2004 was also the day Facebook started up. The essay further asserts that "much of the early funding of FaceBook came from CIA shell companies," and alludes to the company's founder mythology with the image of "a hoody wearing tech nerd from Harvard" whose origin story was reinforced by a film.
 
 ## Market position
 

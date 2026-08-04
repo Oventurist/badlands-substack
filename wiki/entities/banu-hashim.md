@@ -10,7 +10,7 @@ contested: false
 ---
 # Banu Hashim
 
-The Banu Hashim — *banu* meaning clan — are the descendants of [[hashim-ibn-abd-manaf|Hashim]] and [[prophet-muhammad|Muhammad]], known in English as the Hashemites. The Badlands Media essay [[arabian-nights]] introduces them as a dynasty that will be central to its promised sequel on the First World War.
+The Banu Hashim — *banu* meaning clan — are the descendants of [[hashim-ibn-abd-manaf|Hashim]] and [[prophet-muhammad|Muhammad]], known in English as the Hashemites. The Badlands Media essay arabian nights introduces them as a dynasty that will be central to its promised sequel on the First World War.
 
 ## Position in Arabian society
 

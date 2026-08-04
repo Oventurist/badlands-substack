@@ -10,7 +10,7 @@ contested: true
 ---
 # Sixteen Year Plan
 
-The "sixteen year plan" is a term drawn from the [[q|Q]] drops and used extensively in the Badlands Media corpus, notably in the article "[[bad-actors|Bad Actors]]," to describe an alleged scheme to destroy the United States and the [[united-states-constitution|Constitution]] over sixteen years — eight years under [[barack-obama|Barack Obama]] followed by eight under an anticipated [[hillary-clinton|Hillary Clinton]] presidency.
+The "sixteen year plan" is a term drawn from the [[q|Q]] drops and used extensively in the Badlands Media corpus, notably in the article "Bad Actors," to describe an alleged scheme to destroy the United States and the [[united-states-constitution|Constitution]] over sixteen years — eight years under [[barack-obama|Barack Obama]] followed by eight under an anticipated [[hillary-clinton|Hillary Clinton]] presidency.
 
 ## Content of the alleged plan
 

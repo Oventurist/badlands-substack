@@ -10,7 +10,7 @@ contested: true
 ---
 # Tom Donilon
 
-Tom Donilon is an American national security official and financier described in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as "another card-carrying deep state operator" involved in the [[joint-comprehensive-plan-of-action|Iran Deal]].
+Tom Donilon is an American national security official and financier described in the Badlands Media essay "And Iran, Iran So Far Away" as "another card-carrying deep state operator" involved in the [[joint-comprehensive-plan-of-action|Iran Deal]].
 
 ## Political career
 

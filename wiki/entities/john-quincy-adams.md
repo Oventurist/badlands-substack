@@ -14,7 +14,7 @@ John Quincy Adams (1767–1848) was the sixth President of the United States and
 
 ## The Monroe Doctrine
 
-[[matthew-ehret|Matthew Ehret]]'s essay [[avoiding-wwiii|Avoiding WWIII]] credits Adams with drafting the [[monroe-doctrine|Monroe Doctrine]], extending the ideas of [[george-washington|George Washington]] about avoiding foreign entanglements. Adams is quoted for the principle that the doctrine could function only if America went "not abroad, in search of monsters to destroy" — a formula the article treats as the touchstone distinguishing legitimate continental development from imperial adventurism.
+[[matthew-ehret|Matthew Ehret]]'s essay Avoiding WWIII credits Adams with drafting the [[monroe-doctrine|Monroe Doctrine]], extending the ideas of [[george-washington|George Washington]] about avoiding foreign entanglements. Adams is quoted for the principle that the doctrine could function only if America went "not abroad, in search of monsters to destroy" — a formula the article treats as the touchstone distinguishing legitimate continental development from imperial adventurism.
 
 ## Anti-slavery and the Whig tradition
 

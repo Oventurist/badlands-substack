@@ -15,7 +15,7 @@ Seedance 2.0 is a generative artificial-intelligence video tool released in Chin
 
 ## Release and viral outputs
 
-According to the February 17, 2026 [[badlands-brief-0a2|Badlands Brief]], clips generated with the model circulated widely online within days of release. The clips featured recognizably realistic portrayals of Hollywood actors and characters, including sequences interpreted by viewers as resembling scenes from big-budget productions.
+According to the February 17, 2026 Badlands Brief, clips generated with the model circulated widely online within days of release. The clips featured recognizably realistic portrayals of Hollywood actors and characters, including sequences interpreted by viewers as resembling scenes from big-budget productions.
 
 ## Studio response
 

@@ -24,7 +24,7 @@ The source claims the Long Depression "was doing more damage to the rich and pow
 - [[Murray Rothbard]] — cited for his argument that the Long Depression was a misunderstood recession
 - [[David Ames Wells]] — cited for his observations on the period's economic changes
 - [[Gold Standard]] — the monetary system that defined the period
-- [[1913]] — the year the gold standard era is said to have effectively ended
+- 1913 — the year the gold standard era is said to have effectively ended
 
 ## Sources
 

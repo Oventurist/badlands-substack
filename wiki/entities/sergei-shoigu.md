@@ -14,7 +14,7 @@ Sergei Shoigu is a senior Russian official, long-serving Minister of Defence, wh
 
 ## The Siberian masterplan
 
-[[matthew-ehret|Matthew Ehret]]'s [[avoiding-wwiii|Avoiding WWIII]] cites Shoigu's "grand masterplan for Siberia" as the leading practical expression of Russia's version of [[manifest-destiny|Manifest Destiny]], beginning with the construction of five new cities each housing between 500,000 and one million citizens. The article presents this alongside the modernization of the [[trans-siberian-railway|Trans-Siberian Railway]] and the [[northern-sea-route|Northern Sea Route]] development plan as evidence that Russian eastward development has begun to spring into life despite monetarist obstacles inside the Russian central bank.
+[[matthew-ehret|Matthew Ehret]]'s Avoiding WWIII cites Shoigu's "grand masterplan for Siberia" as the leading practical expression of Russia's version of [[manifest-destiny|Manifest Destiny]], beginning with the construction of five new cities each housing between 500,000 and one million citizens. The article presents this alongside the modernization of the [[trans-siberian-railway|Trans-Siberian Railway]] and the [[northern-sea-route|Northern Sea Route]] development plan as evidence that Russian eastward development has begun to spring into life despite monetarist obstacles inside the Russian central bank.
 
 Shoigu's plan is framed within [[vladimir-putin|Vladimir Putin]]'s Far Eastern Vision, which the article argues has increasingly merged since 2018 with China's [[polar-silk-road|Polar Silk Road]] and the wider [[belt-and-road-initiative|Belt and Road Initiative]].
 

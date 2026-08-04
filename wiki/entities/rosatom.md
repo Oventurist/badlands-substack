@@ -10,7 +10,7 @@ contested: false
 ---
 # Rosatom
 
-Rosatom is the Russian state nuclear energy corporation. In the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] it appears as the acquirer of [[uranium-one|Uranium One]] and therefore of roughly one-fifth of United States uranium production capacity.
+Rosatom is the Russian state nuclear energy corporation. In the Badlands Media essay America for Sale — Part 3 it appears as the acquirer of [[uranium-one|Uranium One]] and therefore of roughly one-fifth of United States uranium production capacity.
 
 The purchase was executed through Rosatom's subsidiary ARMZ. As the article notes, the [[nuclear-regulatory-commission|Nuclear Regulatory Commission]] announced in a November 2010 press release that ARMZ "had been approved to take ownership of the Uranium One mining firm and its American assets," while simultaneously declaring that "no uranium produced at either facility may be exported." The Russians assumed control gradually in three separate transactions between 2009 and 2013.
 

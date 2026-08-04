@@ -14,7 +14,7 @@ True the Vote is a Houston-based election-integrity organization that grew out o
 
 ## Role in the corpus
 
-True the Vote appears in [[an-sos-from-ground-zero|An SOS From Ground Zero]] by way of a quoted [[talking-points-memo|Talking Points Memo]] article of August 22, 2019, which described [[verify-the-vote|Verify the Vote]] — the Arizona group for which [[jennifer-wright|Jennifer Wright]] once worked — as "a partner of the more well-known Houston-based group, True the Vote," and noted that "in addition to its poll watcher campaign, True the Vote also advocates for restrictive election laws like voter ID."
+True the Vote appears in An SOS From Ground Zero by way of a quoted [[talking-points-memo|Talking Points Memo]] article of August 22, 2019, which described [[verify-the-vote|Verify the Vote]] — the Arizona group for which [[jennifer-wright|Jennifer Wright]] once worked — as "a partner of the more well-known Houston-based group, True the Vote," and noted that "in addition to its poll watcher campaign, True the Vote also advocates for restrictive election laws like voter ID."
 
 [[kitty-gillespie|Kitty Gillespie]] cites this passage approvingly rather than critically, treating Wright's connection to the True the Vote network as evidence of her suitability to investigate [[maricopa-county|Maricopa County]]: "Sounds like our kind of gal!"
 

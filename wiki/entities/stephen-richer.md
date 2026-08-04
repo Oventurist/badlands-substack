@@ -14,7 +14,7 @@ Stephen Richer is the Maricopa County Recorder, the official responsible for vot
 
 ## Role in the Lake contest
 
-Richer is named in his official capacity as [[maricopa-county|Maricopa County]] Recorder alongside [[katie-hobbs|Katie Hobbs]], the members of the [[maricopa-county-board-of-supervisors|Maricopa County Board of Supervisors]], and elections director Scott Jarrett. The article [[arizona-earthquake|"Arizona Earthquake!"]] reports the complaint's allegation, relayed by Liz Harrington, that Hobbs and Richer "colluded with the federal government to censor Americans and infringe on their First Amendment rights."
+Richer is named in his official capacity as [[maricopa-county|Maricopa County]] Recorder alongside [[katie-hobbs|Katie Hobbs]], the members of the [[maricopa-county-board-of-supervisors|Maricopa County Board of Supervisors]], and elections director Scott Jarrett. The article "Arizona Earthquake!" reports the complaint's allegation, relayed by Liz Harrington, that Hobbs and Richer "colluded with the federal government to censor Americans and infringe on their First Amendment rights."
 
 The source treats a further point as a disqualifying conflict of interest: that the county recorder administering the election had founded a political action committee whose stated sole mission was to stop Lake and [[mark-finchem|Mark Finchem]]. In the article's framing, this makes Richer's oversight of the count inseparable from a declared political objective against two of the candidates on the ballot.
 

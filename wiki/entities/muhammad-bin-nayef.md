@@ -10,7 +10,7 @@ contested: true
 ---
 # Muhammad bin Nayef
 
-Muhammad bin Nayef, referred to in the Badlands Media essay [[arabian-nights]] simply as Nayef, was the crown prince of [[saudi-arabia]] displaced by [[mohammed-bin-salman]].
+Muhammad bin Nayef, referred to in the Badlands Media essay arabian nights simply as Nayef, was the crown prince of [[saudi-arabia]] displaced by [[mohammed-bin-salman]].
 
 The source describes the moves made by MBS and [[king-salman]] to depose "the would-be Crown Prince, and the prince/minister in charge of the Saudi military, both cousins of MBS," who were arrested and stripped of all their powers. Nayef, it states, was charged with treason and later accused of plotting to murder King Salman.
 

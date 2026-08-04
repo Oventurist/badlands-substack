@@ -14,7 +14,7 @@ The Indian Removal Act of 1830 was the federal statute, signed by President [[an
 
 ## Role in the expansion of the slave power
 
-[[matthew-ehret|Matthew Ehret]]'s [[avoiding-wwiii|Avoiding WWIII]] describes the Act as an instrument of what he calls the southern perversion of [[manifest-destiny|Manifest Destiny]], promoted by Jackson, Jefferson Davis and Albert Pike, which envisioned expanded black slavery and Native Americans crushed under the heel of a supposedly superior white race and cordoned into "cage-like plantations or reservations, never to have a say in their own destiny."
+[[matthew-ehret|Matthew Ehret]]'s Avoiding WWIII describes the Act as an instrument of what he calls the southern perversion of [[manifest-destiny|Manifest Destiny]], promoted by Jackson, Jefferson Davis and Albert Pike, which envisioned expanded black slavery and Native Americans crushed under the heel of a supposedly superior white race and cordoned into "cage-like plantations or reservations, never to have a say in their own destiny."
 
 The article states that the Act emptied out valuable lands that were quickly handed to southern cotton planters, who in turn expanded the influx of black slaves from Africa. This vastly increased the tension between free and slave states and, in Ehret's account, led inevitably to the Civil War of 1861–65. Its execution against the Cherokee is described as the genocidal [[trail-of-tears|Trail of Tears]], with the emptied land given to "cotton planting oligarchs loyal only to their profits, 'way of life' and the British Empire."
 

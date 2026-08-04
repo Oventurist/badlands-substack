@@ -10,7 +10,7 @@ contested: false
 ---
 # Eurasian Economic Union
 
-The Eurasian Economic Union (EAEU) is a regional economic integration bloc centred on Russia and neighbouring post-Soviet states. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] describes the [[belt-and-road-initiative|Belt and Road Initiative]] as tied increasingly to the Eurasian Economic Union, which he says "is quickly preparing the groundwork for a fully integrated new financial architecture founded upon real world values."
+The Eurasian Economic Union (EAEU) is a regional economic integration bloc centred on Russia and neighbouring post-Soviet states. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] describes the [[belt-and-road-initiative|Belt and Road Initiative]] as tied increasingly to the Eurasian Economic Union, which he says "is quickly preparing the groundwork for a fully integrated new financial architecture founded upon real world values."
 
 ## Financial architecture
 
@@ -18,7 +18,7 @@ The article attributes the design principles of this architecture to [[sergey-gl
 
 ## Ukraine's 2013 choice
 
-The essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] recounts that [[viktor-yanukovych|Viktor Yanukovych]] declined "to sacrifice Ukraine on the altar of the collapsing [[european-union|European Union]]" and instead chose to throw "Ukraine's destiny into the Eurasian Economic Union in October 2013." In [[matthew-ehret|Matthew Ehret]]'s reading of [[chrystia-freeland|Chrystia Freeland]]'s taxonomy of plutocrats, that decision transferred Yanukovych from the category of acceptable oligarchs to the unacceptable, and preceded what the article calls "the 2014 coup in Ukraine."
+The essay A Re Alignment of World Systems recounts that [[viktor-yanukovych|Viktor Yanukovych]] declined "to sacrifice Ukraine on the altar of the collapsing [[european-union|European Union]]" and instead chose to throw "Ukraine's destiny into the Eurasian Economic Union in October 2013." In [[matthew-ehret|Matthew Ehret]]'s reading of [[chrystia-freeland|Chrystia Freeland]]'s taxonomy of plutocrats, that decision transferred Yanukovych from the category of acceptable oligarchs to the unacceptable, and preceded what the article calls "the 2014 coup in Ukraine."
 
 ## Sources
 

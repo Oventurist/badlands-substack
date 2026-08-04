@@ -14,14 +14,14 @@ Keir Starmer is the Prime Minister of the United Kingdom, cited in the Badlands 
 
 ## In the corpus
 
-[[assad-day-in-damascus]] reports that Starmer offered remarks echoing those of [[joe-biden]] — "more of the same" — while he was, in the author's words, "coincidentally, abroad in Dubai meeting with the GOOD dictators and autocrats of the United Arab Emirates." The juxtaposition is used to illustrate the article's claim that Western objections to authoritarian rule are selective, since the same governments that condemn Assad maintain warm relations with allied autocracies in the Gulf, Egypt and Saudi Arabia.
+assad day in damascus reports that Starmer offered remarks echoing those of [[joe-biden]] — "more of the same" — while he was, in the author's words, "coincidentally, abroad in Dubai meeting with the GOOD dictators and autocrats of the United Arab Emirates." The juxtaposition is used to illustrate the article's claim that Western objections to authoritarian rule are selective, since the same governments that condemn Assad maintain warm relations with allied autocracies in the Gulf, Egypt and Saudi Arabia.
 
 The article summarizes his position sardonically: "Yes, Keir Starmer is 'very pleased' that [[al-qaeda]] is running the show in [[syria]]" — a reference to the al-Qaeda lineage of [[hayat-tahrir-al-sham]], the coalition that took Damascus.
 
 
 ## Epstein-related staff departures (February 2026)
 
-The February 10, 2026 [[badlands-brief-4ec|Badlands Brief]] reported that Starmer had lost senior aides — including chief of staff [[morgan-mcsweeney|Morgan McSweeney]] and communications director [[tim-allan|Tim Allan]] — amid scrutiny tied to associations with the late financier [[jeffrey-epstein|Jeffrey Epstein]]. Media reporting cited by the Brief, including in *The Economist*, described Starmer as under pressure over questions of judgment, vetting, and institutional accountability. No charges were reported against Starmer or his staff. The Brief presented the British departures alongside the stalled United States congressional inquiry as twin fronts of continuing transatlantic [[epstein-narrative|Epstein-related]] fallout.
+The February 10, 2026 Badlands Brief reported that Starmer had lost senior aides — including chief of staff [[morgan-mcsweeney|Morgan McSweeney]] and communications director [[tim-allan|Tim Allan]] — amid scrutiny tied to associations with the late financier [[jeffrey-epstein|Jeffrey Epstein]]. Media reporting cited by the Brief, including in *The Economist*, described Starmer as under pressure over questions of judgment, vetting, and institutional accountability. No charges were reported against Starmer or his staff. The Brief presented the British departures alongside the stalled United States congressional inquiry as twin fronts of continuing transatlantic [[epstein-narrative|Epstein-related]] fallout.
 
 ## Sources
 

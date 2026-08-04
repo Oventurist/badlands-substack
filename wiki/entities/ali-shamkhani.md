@@ -11,7 +11,7 @@ contested: false
 
 # Ali Shamkhani
 
-Ali Shamkhani is a senior adviser to Iran's supreme leader [[ali-khamenei|Ali Khamenei]] and a long-standing figure in the Islamic Republic's national security establishment. He appears in the February 12, 2026 [[badlands-brief-405|Badlands Brief]] as the official articulating Tehran's red line in the renewed nuclear negotiations with Washington.
+Ali Shamkhani is a senior adviser to Iran's supreme leader [[ali-khamenei|Ali Khamenei]] and a long-standing figure in the Islamic Republic's national security establishment. He appears in the February 12, 2026 Badlands Brief as the official articulating Tehran's red line in the renewed nuclear negotiations with Washington.
 
 Speaking on Wednesday at an event marking the 47th anniversary of the Islamic revolution, and reported by *Al Jazeera*, Shamkhani said that "the Islamic Republic's missile capabilities are non-negotiable." The statement came as US and [[iran|Iranian]] officials held indirect nuclear talks in Oman with a further round expected, and as [[reuters|Reuters]] reported Iran maintaining that its ballistic missile program lies outside the scope of any agreement.
 

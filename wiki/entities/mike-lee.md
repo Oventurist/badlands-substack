@@ -11,7 +11,7 @@ contested: false
 
 # Mike Lee
 
-Mike Lee is a Republican United States Senator from Utah. In the March 18, 2026 [[badlands-brief|Badlands Brief]] he appears as the sponsor of the [[save-america-act|SAVE Act]], the election-integrity bill that President [[donald-trump|Donald Trump]] described as "one of the most IMPORTANT & CONSEQUENTIAL pieces of legislation in the history of Congress, and America itself."
+Mike Lee is a Republican United States Senator from Utah. In the March 18, 2026 Badlands Brief he appears as the sponsor of the [[save-america-act|SAVE Act]], the election-integrity bill that President [[donald-trump|Donald Trump]] described as "one of the most IMPORTANT & CONSEQUENTIAL pieces of legislation in the history of Congress, and America itself."
 
 ## Defense of the SAVE Act
 

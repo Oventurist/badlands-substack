@@ -10,7 +10,7 @@ contested: true
 ---
 # Mohammed bin Saud
 
-Mohammed bin Saud Al Muqrin was the eighteenth-century emir of Diriyah and the founder of the [[house-of-saud]] as a political dynasty. The Badlands Media essay [[arabian-nights]] refers to him by the same initials as the modern crown prince, MBS, deliberately drawing the parallel between the two.
+Mohammed bin Saud Al Muqrin was the eighteenth-century emir of Diriyah and the founder of the [[house-of-saud]] as a political dynasty. The Badlands Media essay arabian nights refers to him by the same initials as the modern crown prince, MBS, deliberately drawing the parallel between the two.
 
 ## Background
 

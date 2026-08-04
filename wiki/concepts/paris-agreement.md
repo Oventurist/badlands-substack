@@ -10,7 +10,7 @@ contested: true
 ---
 # Paris Agreement
 
-The Paris Agreement is the 2015 international climate treaty committing signatories to emissions reduction targets. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the American withdrawal from the accords is presented as evidence of a broader realignment away from what the author calls a Malthusian depopulation agenda.
+The Paris Agreement is the 2015 international climate treaty committing signatories to emissions reduction targets. In the Badlands Media essay A Re Alignment of World Systems, the American withdrawal from the accords is presented as evidence of a broader realignment away from what the author calls a Malthusian depopulation agenda.
 
 ## Role in the source
 

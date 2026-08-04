@@ -14,7 +14,7 @@ Italy is a founding member of [[nato|NATO]] and of the [[european-union|European
 
 ## Energy policy divisions
 
-In coverage of the [[european-energy-crisis|European energy crisis]] summarized in the [[badlands-brief-195|Badlands Brief of May 5, 2026]], officials aligned with Italian leadership were among those calling for a reconsideration of restrictions on [[russia|Russian]] energy imports in order to stabilize supply, with the Italian deputy prime minister publicly urging a return to Russian energy purchases.
+In coverage of the [[european-energy-crisis|European energy crisis]] summarized in the Badlands Brief of May 5, 2026, officials aligned with Italian leadership were among those calling for a reconsideration of restrictions on [[russia|Russian]] energy imports in order to stabilize supply, with the Italian deputy prime minister publicly urging a return to Russian energy purchases.
 
 ## Opposition to United States troop drawdowns
 

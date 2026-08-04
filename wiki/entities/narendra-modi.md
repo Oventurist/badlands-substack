@@ -10,7 +10,7 @@ contested: false
 ---
 # Narendra Modi
 
-Narendra Modi is the Prime Minister of India. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] identifies him — referred to in the text as one of the "Presidents Modi, Xi and Putin" — as one of the three leaders representing the founding nations of the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]] at its Tianjin summit of August 31 to September 1, 2025.
+Narendra Modi is the Prime Minister of India. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] identifies him — referred to in the text as one of the "Presidents Modi, Xi and Putin" — as one of the three leaders representing the founding nations of the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]] at its Tianjin summit of August 31 to September 1, 2025.
 
 ## Role in the Badlands corpus
 

@@ -13,7 +13,7 @@ contested: true
 ---
 # World Federation of Trade Unions
 
-The World Federation of Trade Unions (WFTU) was an international labor association founded after World War II as a short-lived attempt at a global labor union that included Soviet affiliates. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the WFTU figures as an early casualty of U.S. covert labor operations.
+The World Federation of Trade Unions (WFTU) was an international labor association founded after World War II as a short-lived attempt at a global labor union that included Soviet affiliates. In the Badlands Media article A More Perfect (Labor) Union, the WFTU figures as an early casualty of U.S. covert labor operations.
 
 ## Sabotage by the AFL
 

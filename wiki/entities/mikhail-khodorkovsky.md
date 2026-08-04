@@ -10,7 +10,7 @@ contested: true
 ---
 # Mikhail Khodorkovsky
 
-Mikhail Khodorkovsky is a Russian businessman, formerly head of the Yukos oil company, who was imprisoned in Russia and subsequently lived in exile in London. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he appears among the oligarchs produced by post-Soviet privatization and among the contacts of [[chrystia-freeland|Chrystia Freeland]].
+Mikhail Khodorkovsky is a Russian businessman, formerly head of the Yukos oil company, who was imprisoned in Russia and subsequently lived in exile in London. In the Badlands Media essay A Re Alignment of World Systems, he appears among the oligarchs produced by post-Soviet privatization and among the contacts of [[chrystia-freeland|Chrystia Freeland]].
 
 ## Role in the source
 

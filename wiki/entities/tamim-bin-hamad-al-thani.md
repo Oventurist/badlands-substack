@@ -11,7 +11,7 @@ contested: true
 
 # Tamim bin Hamad Al Thani
 
-Tamim bin Hamad Al Thani is the Emir of [[qatar|Qatar]]. In the February 24, 2026 [[badlands-brief-285|Badlands Brief]] he is discussed in connection with the first Washington meeting of President [[donald-trump|Donald Trump]]'s [[board-of-peace|Board of Peace]].
+Tamim bin Hamad Al Thani is the Emir of [[qatar|Qatar]]. In the February 24, 2026 Badlands Brief he is discussed in connection with the first Washington meeting of President [[donald-trump|Donald Trump]]'s [[board-of-peace|Board of Peace]].
 
 ## The Loomer and Levin dispute
 

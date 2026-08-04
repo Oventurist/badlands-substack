@@ -10,7 +10,7 @@ contested: false
 ---
 # Bank of North Dakota
 
-The Bank of North Dakota (BND) is a state-owned bank headquartered in Bismarck, North Dakota, which opened its doors on July 28, 1919. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] presents it as the only publicly owned bank in the continental United States and as the surviving American proof that a public banking option works.
+The Bank of North Dakota (BND) is a state-owned bank headquartered in Bismarck, North Dakota, which opened its doors on July 28, 1919. In A Seismic Shift, [[joe-lange|Joe Lange]] presents it as the only publicly owned bank in the continental United States and as the surviving American proof that a public banking option works.
 
 ## Origins
 

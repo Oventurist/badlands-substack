@@ -14,7 +14,7 @@ Tristan Harris is an American technology critic and co-founder of the [[center-f
 
 ## The AI Dilemma presentation
 
-According to the July 2023 Badlands Media article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" by [[ashe-in-america|Ashe in America]], Harris and Raskin delivered their presentation at a private gathering in San Francisco on March 9, 2023, before an audience of leading technologists and decision-makers, and before the public launch of GPT-4. The recorded version had been viewed more than 2.7 million times by the time of the article's publication.
+According to the July 2023 Badlands Media article "Artificial Intelligence: Hysteria vs. Reason" by [[ashe-in-america|Ashe in America]], Harris and Raskin delivered their presentation at a private gathering in San Francisco on March 9, 2023, before an audience of leading technologists and decision-makers, and before the public launch of GPT-4. The recorded version had been viewed more than 2.7 million times by the time of the article's publication.
 
 The article characterizes the objective of the presentation as two-fold: raising the collective understanding of AI researchers and the general viewing public, and framing the public conversation "in a societally constructive way." Harris and Raskin conclude by urging AI researchers to pause, to slow the public release of new systems, and to consider the future of humanity before proceeding. The source describes this appeal as "a nice thought, even though it's incredibly naïve," on the grounds that the proposed solution "requires a complete rewrite of human nature."
 

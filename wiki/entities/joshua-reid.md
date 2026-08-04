@@ -11,7 +11,7 @@ contested: false
 
 # Joshua Reid
 
-Joshua Reid is a commentator and host within the [[badlands-media|Badlands Media]] collective, part of the network of independent broadcasters and citizen journalists whose analysis is aggregated in the [[badlands-brief|Badlands Brief]].
+Joshua Reid is a commentator and host within the [[badlands-media|Badlands Media]] collective, part of the network of independent broadcasters and citizen journalists whose analysis is aggregated in the Badlands Brief.
 
 ## Mention in the May 2026 Comey debate
 

@@ -10,7 +10,7 @@ contested: false
 ---
 # Declaration of Independence
 
-The Declaration of Independence is the 1776 founding document of the United States. In the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023) it serves as the article's touchstone for both American values and the ultimate source of governmental authority.
+The Declaration of Independence is the 1776 founding document of the United States. In the Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System" (May 16, 2023) it serves as the article's touchstone for both American values and the ultimate source of governmental authority.
 
 ## Role in the article
 

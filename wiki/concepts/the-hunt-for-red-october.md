@@ -14,7 +14,7 @@ contested: true
 
 ## The conventional reading
 
-In [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]], [[erik-carlson|Erik Carlson]] notes that anyone who has followed Q has encountered the phrase, and that the Q team "has posted many references to this story." His own earlier interpretation, held for years, was that the plot represents [[donald-trump|Donald Trump]] and his defection from a corrupt system — an attempt to bring truth to the public while under attack from all sides. The article allows that this may still be one valid meaning.
+In A Virus, or a Metaphor?, [[erik-carlson|Erik Carlson]] notes that anyone who has followed Q has encountered the phrase, and that the Q team "has posted many references to this story." His own earlier interpretation, held for years, was that the plot represents [[donald-trump|Donald Trump]] and his defection from a corrupt system — an attempt to bring truth to the public while under attack from all sides. The article allows that this may still be one valid meaning.
 
 ## The title as the message
 

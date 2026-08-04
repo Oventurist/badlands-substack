@@ -17,7 +17,7 @@ José Francisco Ruiz Massieu was a Mexican politician who served as secretary ge
 
 ## Assassination
 
-According to [[the-washington-post]] and Mexican court records cited in the Badlands Media article [[a-family-affair]], Federal Judge Ricardo Ojeda Bohorquez concluded that evidence "logically and judicially interwoven" proved [[raul-salinas]] was the "intellectual author" of the killing. Ruiz Massieu had previously been married to Adriana Salinas, sister of Raul and [[carlos-salinas]].
+According to [[the-washington-post]] and Mexican court records cited in the Badlands Media article a family affair, Federal Judge Ricardo Ojeda Bohorquez concluded that evidence "logically and judicially interwoven" proved [[raul-salinas]] was the "intellectual author" of the killing. Ruiz Massieu had previously been married to Adriana Salinas, sister of Raul and [[carlos-salinas]].
 
 ## Political role
 

@@ -14,7 +14,7 @@ Truth Social is the social media platform operated by [[trump-media-and-technolo
 
 ## Capitalization and the SEC
 
-[[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] refers to Truth Social in the context of the delayed DWAC merger, arguing that the [[securities-and-exchange-commission|SEC]]'s hold prevented Trump from "injecting money into Truth Social" and from growing his media operations more broadly. [[erik-carlson|Erik Carlson]] presents this as one of several indications that Trump is a target of, rather than a beneficiary of, entrenched institutional power.
+A Virus, or a Metaphor? refers to Truth Social in the context of the delayed DWAC merger, arguing that the [[securities-and-exchange-commission|SEC]]'s hold prevented Trump from "injecting money into Truth Social" and from growing his media operations more broadly. [[erik-carlson|Erik Carlson]] presents this as one of several indications that Trump is a target of, rather than a beneficiary of, entrenched institutional power.
 
 ## Relevance to Trump's messaging
 

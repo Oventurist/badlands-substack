@@ -11,7 +11,7 @@ contested: false
 
 # United States Navy SEALs
 
-The United States Navy SEALs are the US Navy's special operations forces. They appear in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] in connection with US–Mexican security cooperation against the cartels.
+The United States Navy SEALs are the US Navy's special operations forces. They appear in the February 24, 2026 Badlands Brief in connection with US–Mexican security cooperation against the cartels.
 
 ## Proposed training mission in Mexico
 

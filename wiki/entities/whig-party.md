@@ -14,7 +14,7 @@ The Whig Party was an American political party of the mid-nineteenth century. In
 
 ## Role in the American System tradition
 
-[[matthew-ehret|Matthew Ehret]]'s [[avoiding-wwiii|Avoiding WWIII]] states that for decades the patriotic grouping seeking to reclaim the nation from the oligarchical slave power rallied primarily around the Whig Party of [[john-quincy-adams|John Quincy Adams]]. Its program centred on reviving Alexander Hamilton's national bank, re-launching protective tariffs, and funding internal improvements — the policy complex the corpus elsewhere calls the American System.
+[[matthew-ehret|Matthew Ehret]]'s Avoiding WWIII states that for decades the patriotic grouping seeking to reclaim the nation from the oligarchical slave power rallied primarily around the Whig Party of [[john-quincy-adams|John Quincy Adams]]. Its program centred on reviving Alexander Hamilton's national bank, re-launching protective tariffs, and funding internal improvements — the policy complex the corpus elsewhere calls the American System.
 
 ## Two victories, two deaths
 

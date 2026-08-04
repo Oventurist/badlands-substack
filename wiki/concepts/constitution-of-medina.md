@@ -10,7 +10,7 @@ contested: false
 ---
 # Constitution of Medina
 
-The Constitution of Medina was a document written by [[prophet-muhammad|Muhammad]] in the year 622. The Badlands Media essay [[arabian-nights]] describes it as historic and corroborated by multiple sources, and treats it as the strongest available refutation of the modern narrative that Islam is inherently hostile to other faiths.
+The Constitution of Medina was a document written by [[prophet-muhammad|Muhammad]] in the year 622. The Badlands Media essay arabian nights describes it as historic and corroborated by multiple sources, and treats it as the strongest available refutation of the modern narrative that Islam is inherently hostile to other faiths.
 
 The source characterises it as a formalised agreement between Muhammad's followers and the Jewish clans that had historically ruled Medina. It established Medina as a *haram* — a sanctuary — prohibiting violence between clans and guaranteeing religious freedom for all non-Muslims, and specifically for Jews.
 

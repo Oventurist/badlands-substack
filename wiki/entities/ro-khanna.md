@@ -12,7 +12,7 @@ contested: false
 
 Ro Khanna is a Democratic member of the United States House of Representatives from California.
 
-The February 11, 2026 [[badlands-brief-05f|Badlands Brief]] reports that, among the congressional actions following the [[department-of-justice|Department of Justice]]'s early-February 2026 release of millions of pages of [[jeffrey-epstein|Epstein]]-related documents, Khanna publicly named individuals drawn from the unredacted files. The Brief groups this with the [[senate|Senate]] questioning of Commerce Secretary [[howard-lutnick|Howard Lutnick]] and with [[ghislaine-maxwell|Ghislaine Maxwell]]'s offer to testify in exchange for clemency as the principal legislative-branch responses to the release.
+The February 11, 2026 Badlands Brief reports that, among the congressional actions following the [[department-of-justice|Department of Justice]]'s early-February 2026 release of millions of pages of [[jeffrey-epstein|Epstein]]-related documents, Khanna publicly named individuals drawn from the unredacted files. The Brief groups this with the [[senate|Senate]] questioning of Commerce Secretary [[howard-lutnick|Howard Lutnick]] and with [[ghislaine-maxwell|Ghislaine Maxwell]]'s offer to testify in exchange for clemency as the principal legislative-branch responses to the release.
 
 ## Sources
 

@@ -15,7 +15,7 @@ Napster was a peer-to-peer file-sharing service whose rise and legal suppression
 
 ## Use as analogy in the Seedance dispute
 
-The February 17, 2026 [[badlands-brief-0a2|Badlands Brief]] invokes Napster as the governing analogy for the conflict between Hollywood studios and [[bytedance|ByteDance]] over the AI video model [[seedance-2-0|Seedance 2.0]]. Writing on the dispute, [[ashe-in-america|Ashe in America]] declared, "It's Napster all over again."
+The February 17, 2026 Badlands Brief invokes Napster as the governing analogy for the conflict between Hollywood studios and [[bytedance|ByteDance]] over the AI video model [[seedance-2-0|Seedance 2.0]]. Writing on the dispute, [[ashe-in-america|Ashe in America]] declared, "It's Napster all over again."
 
 Her argument runs as follows. The studios — principally the [[walt-disney-company|Walt Disney Company]] and [[paramount-pictures|Paramount]] — will attempt to enforce traditional governing rights, centralize power, and remain the monopolistic players in an industry that is transforming regardless. Music piracy, she notes, permanently changed the world's relationship with music: consumers no longer visit record stores or buy CDs, and instead carry access to all recorded music in their pockets. The relationship with film is already shifting in parallel, with theater attendance in decline and award-show ratings — as a measure of public interest — near or at record lows. In her assessment people no longer care much about studios or even actors, "but they do love the characters."
 

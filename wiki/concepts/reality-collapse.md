@@ -10,7 +10,7 @@ contested: true
 ---
 # Reality Collapse
 
-"Reality collapse" is the term used in the July 2023 Badlands Media article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" to name the central danger of artificial intelligence: not an autonomous machine turning on humanity, but the destruction of shared, verifiable reality by humans wielding the machine as a tool.
+"Reality collapse" is the term used in the July 2023 Badlands Media article "Artificial Intelligence: Hysteria vs. Reason" to name the central danger of artificial intelligence: not an autonomous machine turning on humanity, but the destruction of shared, verifiable reality by humans wielding the machine as a tool.
 
 ## Mediated comprehension
 

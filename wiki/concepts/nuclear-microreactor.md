@@ -15,7 +15,7 @@ A nuclear microreactor is a small, transportable fission reactor designed to del
 
 ## First air transport demonstration
 
-According to the February 17, 2026 [[badlands-brief-0a2|Badlands Brief]], the United States conducted its first air transport of a nuclear microreactor prototype as part of a Defense Department demonstration program tied to the [[pentagon|Pentagon]]'s effort to develop small, transportable reactors capable of powering remote or military sites. The demonstration established that the reactor system can be safely moved by aircraft.
+According to the February 17, 2026 Badlands Brief, the United States conducted its first air transport of a nuclear microreactor prototype as part of a Defense Department demonstration program tied to the [[pentagon|Pentagon]]'s effort to develop small, transportable reactors capable of powering remote or military sites. The demonstration established that the reactor system can be safely moved by aircraft.
 
 The Department of Energy framed the test on X as continuation of a policy line begun by executive order: "On May 23, 2025, President Donald Trump signed an executive order to deploy advanced nuclear reactor technologies for national security purposes. Yesterday, we took the next step toward achieving this historic mission." Energy Secretary [[chris-wright|Chris Wright]] wrote that "President Trump promised the American people that he would unleash American energy dominance," describing the joint operation with the Department of War as "the next chapter for U.S. energy."
 

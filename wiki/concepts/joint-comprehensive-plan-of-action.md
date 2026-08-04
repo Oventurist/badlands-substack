@@ -10,7 +10,7 @@ contested: true
 ---
 # Joint Comprehensive Plan of Action
 
-The Joint Comprehensive Plan of Action (JCPOA), commonly called the Iran Nuclear Deal, is the 2015 agreement between [[iran]] and world powers that traded restrictions on the Iranian nuclear program for relief from international sanctions. In the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] it is treated not primarily as an arms-control instrument but as "one of the most consequential geopolitical maneuvers in recent history" — the pivot on which a factional war inside the Western ruling class turned.
+The Joint Comprehensive Plan of Action (JCPOA), commonly called the Iran Nuclear Deal, is the 2015 agreement between [[iran]] and world powers that traded restrictions on the Iranian nuclear program for relief from international sanctions. In the Badlands Media essay "And Iran, Iran So Far Away" it is treated not primarily as an arms-control instrument but as "one of the most consequential geopolitical maneuvers in recent history" — the pivot on which a factional war inside the Western ruling class turned.
 
 ## The "cookie jar" framing
 

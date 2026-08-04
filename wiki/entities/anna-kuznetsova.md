@@ -15,7 +15,7 @@ Anna Kuznetsova is a Deputy Speaker of the Russian [[state-duma|State Duma]], th
 
 ## Allegations regarding Ukrainian children
 
-In an interview published on Saturday, July 25, 2026 and summarized in the July 27 [[badlands-brief-245|Badlands Brief]], Kuznetsova alleged that Ukrainian children have been trafficked through the darknet for prices between $30,000 and $50,000, and that law enforcement agencies in France and other European countries had documented dozens of cases involving the use of Ukrainian children as slave labor. She further stated that preliminary data indicated more than 60,000 Ukrainian children had been deported without legal representatives, including to [[european-union|European Union]] countries.
+In an interview published on Saturday, July 25, 2026 and summarized in the July 27 Badlands Brief, Kuznetsova alleged that Ukrainian children have been trafficked through the darknet for prices between $30,000 and $50,000, and that law enforcement agencies in France and other European countries had documented dozens of cases involving the use of Ukrainian children as slave labor. She further stated that preliminary data indicated more than 60,000 Ukrainian children had been deported without legal representatives, including to [[european-union|European Union]] countries.
 
 In a separate report drawn from the same interview, Kuznetsova said that mines she alleged were laid by Ukrainian forces in border areas had killed more than 50 Ukrainian children and injured more than 120, and that more than 15 children inside Russia had been injured by detonations involving Ukrainian antipersonnel mines.
 

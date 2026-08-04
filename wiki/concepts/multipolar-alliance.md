@@ -10,7 +10,7 @@ contested: true
 ---
 # Multipolar Alliance
 
-"Multipolar alliance" is the term used across [[matthew-ehret|Matthew Ehret]]'s writing, and in the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], for the grouping of states organised around Russia, China, India and their partners that seeks a world order based on sovereign equality and win-win development rather than on the [[rules-based-international-order|rules-based international order]].
+"Multipolar alliance" is the term used across [[matthew-ehret|Matthew Ehret]]'s writing, and in the Badlands Media article A Gateway to a New World of Cooperation, for the grouping of states organised around Russia, China, India and their partners that seeks a world order based on sovereign equality and win-win development rather than on the [[rules-based-international-order|rules-based international order]].
 
 ## Institutions
 
@@ -22,7 +22,7 @@ According to the source, the common theme of the alliance is "the common good, c
 
 ## Alaska summit coverage
 
-[[matthew-ehret|Matthew Ehret]]'s August 12, 2025 feature "Trump, Putin, Alaska and the Future of Multipolarity," listed in the roundup [[a-look-at-recent-features|"A Look At Recent Features"]], ties the future of the multipolar order directly to the August 15, 2025 Alaska meeting between [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]].
+[[matthew-ehret|Matthew Ehret]]'s August 12, 2025 feature "Trump, Putin, Alaska and the Future of Multipolarity," listed in the roundup "A Look At Recent Features", ties the future of the multipolar order directly to the August 15, 2025 Alaska meeting between [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]].
 
 ## Sources
 

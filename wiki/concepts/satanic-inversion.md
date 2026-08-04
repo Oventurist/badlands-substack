@@ -10,7 +10,7 @@ contested: true
 ---
 # Satanic Principle of Inversion
 
-The satanic principle of inversion is the idea, recurrent in the Badlands Media corpus, that the adversary's characteristic method is the reversal of moral categories: presenting what is good as oppressive and what is destructive as liberating. It is a central analytical device in [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]].
+The satanic principle of inversion is the idea, recurrent in the Badlands Media corpus, that the adversary's characteristic method is the reversal of moral categories: presenting what is good as oppressive and what is destructive as liberating. It is a central analytical device in AI Can Help Us Expose the NWO.
 
 [[justin-deschamps|Justin Deschamps]] explains that he framed his prompts to [[chatgpt|ChatGPT]] around inversion partly because the group described in [[toronto-protocols|the Toronto Protocols]] identified itself as the "6.6.6." He repeatedly instructed the model to "include the use of the satanic principle of inversion as a warfare tactic" and to "interweave the use of the articulated satanic principle of inversion throughout these plans where it is relevant."
 

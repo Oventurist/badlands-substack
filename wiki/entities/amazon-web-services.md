@@ -14,7 +14,7 @@ Amazon Web Services (AWS) is the cloud computing division of [[amazon]]. In the 
 
 ## The CIA contract
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] states that one of AWS's first big contracts was with the CIA, and dates the award to early 2013 at a value of $600 million. The essay presents this alongside two other assertions of the same kind — that much of Facebook's early funding came from CIA shell companies, and that Google Earth originated as an old CIA satellite handed to the company — as instances in which intelligence capability was transferred into or purchased from the private technology sector.
+Erik Carlson's America Has a CIA Run Economy states that one of AWS's first big contracts was with the CIA, and dates the award to early 2013 at a value of $600 million. The essay presents this alongside two other assertions of the same kind — that much of Facebook's early funding came from CIA shell companies, and that Google Earth originated as an old CIA satellite handed to the company — as instances in which intelligence capability was transferred into or purchased from the private technology sector.
 
 The article draws particular attention to the timing: the contract was awarded in early 2013, and in August 2013 [[jeff-bezos]] purchased [[washington-post|The Washington Post]] for $250 million, a paper the essay describes as CIA-run.
 

@@ -11,7 +11,7 @@ contested: true
 
 # Ze'ev Elkin
 
-Ze'ev Elkin is an Israeli cabinet minister associated with the Finance Ministry. He appears in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as one of several Israeli officials whose public statements [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] presents as evidence of disrespect toward President [[donald-trump|Donald Trump]].
+Ze'ev Elkin is an Israeli cabinet minister associated with the Finance Ministry. He appears in the February 24, 2026 Badlands Brief as one of several Israeli officials whose public statements [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] presents as evidence of disrespect toward President [[donald-trump|Donald Trump]].
 
 ## Statement on Gaza reconstruction
 

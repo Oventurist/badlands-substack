@@ -10,7 +10,7 @@ contested: true
 ---
 # The Toronto Protocols
 
-The Toronto Protocols, originally published in French as "Les Protocoles de Toronto," are a collection of documents leaked by the Canadian journalist [[serge-monast|Serge Monast]]. As described in the Badlands Media essay [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], one English translation characterises the material as "a document compiled by a clique of senior financiers who met in Canada in 1967 and then in 1985." The group behind the meetings is said to have identified itself as the "6.6.6."
+The Toronto Protocols, originally published in French as "Les Protocoles de Toronto," are a collection of documents leaked by the Canadian journalist [[serge-monast|Serge Monast]]. As described in the Badlands Media essay AI Can Help Us Expose the NWO, one English translation characterises the material as "a document compiled by a clique of senior financiers who met in Canada in 1967 and then in 1985." The group behind the meetings is said to have identified itself as the "6.6.6."
 
 [[justin-deschamps|Justin Deschamps]] describes the collection as "a very candid resource to investigate the warfare being waged by what the documents themselves allege is a globalist, satanic cabal," and values it as an accurate information set for mapping the adversary's campaign from a military standpoint. Because of the "6.6.6." self-designation, he built his prompts to [[chatgpt|ChatGPT]] around the satanic principle of inversion.
 

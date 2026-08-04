@@ -10,7 +10,7 @@ contested: false
 ---
 # Postal Savings System
 
-The United States Postal Savings System was a public savings option operated through the United States Postal Service from 1911 until 1967. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] treats it as the strongest historical precedent for a nationwide public banking option and as a system deliberately dismantled in the interests of private bankers.
+The United States Postal Savings System was a public savings option operated through the United States Postal Service from 1911 until 1967. In A Seismic Shift, [[joe-lange|Joe Lange]] treats it as the strongest historical precedent for a nationwide public banking option and as a system deliberately dismantled in the interests of private bankers.
 
 ## Creation and operation
 

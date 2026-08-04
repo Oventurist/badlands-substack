@@ -15,7 +15,7 @@ Jim Jordan is a member of the United States [[congress|Congress]] and chairman o
 
 ## Referral of Jack Smith
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that Jordan, in his capacity as House Judiciary Committee chairman, referred former Special Counsel [[jack-smith|Jack Smith]] to the [[department-of-justice|Justice Department]] for possible criminal investigation. The referral concerned testimony related to Smith's office's access to the text messages of members of Congress. The Brief presents this referral alongside a separate request by the [[center-to-advance-security-in-america|Center to Advance Security in America]] that the security clearances of former members of Smith's team be reviewed, framing the two actions as parallel tracks of accountability pressure on the special counsel's office.
+The July 27, 2026 Badlands Brief reports that Jordan, in his capacity as House Judiciary Committee chairman, referred former Special Counsel [[jack-smith|Jack Smith]] to the [[department-of-justice|Justice Department]] for possible criminal investigation. The referral concerned testimony related to Smith's office's access to the text messages of members of Congress. The Brief presents this referral alongside a separate request by the [[center-to-advance-security-in-america|Center to Advance Security in America]] that the security clearances of former members of Smith's team be reviewed, framing the two actions as parallel tracks of accountability pressure on the special counsel's office.
 
 ## Sources
 

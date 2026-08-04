@@ -10,7 +10,7 @@ contested: true
 ---
 # Safeguarding Venezuelan Oil Revenue (Executive Order)
 
-"Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People" is an executive order signed by [[donald-trump|President Donald Trump]] on January 9, 2026, six days after the United States military operation that captured Venezuelan President [[nicolas-maduro|Nicolás Maduro]]. It is reported in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]].
+"Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People" is an executive order signed by [[donald-trump|President Donald Trump]] on January 9, 2026, six days after the United States military operation that captured Venezuelan President [[nicolas-maduro|Nicolás Maduro]]. It is reported in the January 19, 2026 Badlands Brief.
 
 ## Provisions and stated purpose
 

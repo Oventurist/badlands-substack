@@ -15,7 +15,7 @@ Oshkosh Corporation is an American manufacturer of specialty trucks and military
 
 ## Role in 2026 defense production talks
 
-The May 20, 2026 [[badlands-brief-311|Badlands Brief]] identifies Oshkosh, alongside [[ford-motor-company|Ford]] and [[general-motors|GM]], as a participant in Trump administration talks aimed at converting idle civilian manufacturing capacity into defense output. Defense Secretary [[pete-hegseth|Pete Hegseth]] described the broader shift as placing the industrial base on a "wartime footing" in response to stockpiles depleted by conflicts across Eurasia.
+The May 20, 2026 Badlands Brief identifies Oshkosh, alongside [[ford-motor-company|Ford]] and [[general-motors|GM]], as a participant in Trump administration talks aimed at converting idle civilian manufacturing capacity into defense output. Defense Secretary [[pete-hegseth|Pete Hegseth]] described the broader shift as placing the industrial base on a "wartime footing" in response to stockpiles depleted by conflicts across Eurasia.
 
 ## Sources
 

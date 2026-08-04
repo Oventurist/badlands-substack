@@ -15,7 +15,7 @@ The National Liberation Army, known by its Spanish acronym ELN, is a Colombian a
 
 ## Historical associations
 
-According to the January 9, 2026 [[badlands-brief-094|Badlands Brief]], the ELN operated in cooperation with [[pablo-escobar|Pablo Escobar]] and the [[medellin-cartel|Medellín Cartel]] during the height of the Colombian cocaine trade.
+According to the January 9, 2026 Badlands Brief, the ELN operated in cooperation with [[pablo-escobar|Pablo Escobar]] and the [[medellin-cartel|Medellín Cartel]] during the height of the Colombian cocaine trade.
 
 ## Petro's proxy disclosure
 

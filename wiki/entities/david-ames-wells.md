@@ -18,7 +18,7 @@ According to the article, Wells explained how deflation gave more power to the p
 - [[Coinage Act of 1873]] — the legislation that established the gold standard period Wells observed
 - [[Murray Rothbard]] — another cited observer of the same period
 - [[Long Depression]] — the period during which Wells made his observations
-- [[1913]] — the year that ended the era Wells described
+- 1913 — the year that ended the era Wells described
 
 ## Sources
 

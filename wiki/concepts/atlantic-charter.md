@@ -10,7 +10,7 @@ contested: true
 ---
 # Atlantic Charter
 
-The Atlantic Charter was the joint statement of war and post-war aims issued by [[franklin-d-roosevelt|Franklin Roosevelt]] and Winston Churchill in 1941. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] cites the Charter as one of the documents whose spirit rests on Roosevelt's [[four-freedoms|Four Freedoms]], alongside the [[un-charter|UN Charter]] and the original [[bretton-woods-system|Bretton Woods]] design.
+The Atlantic Charter was the joint statement of war and post-war aims issued by [[franklin-d-roosevelt|Franklin Roosevelt]] and Winston Churchill in 1941. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] cites the Charter as one of the documents whose spirit rests on Roosevelt's [[four-freedoms|Four Freedoms]], alongside the [[un-charter|UN Charter]] and the original [[bretton-woods-system|Bretton Woods]] design.
 
 ## The revised charter
 

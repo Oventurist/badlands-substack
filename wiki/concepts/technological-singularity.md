@@ -10,7 +10,7 @@ contested: true
 ---
 # Technological Singularity
 
-The technological singularity is the hypothetical future point at which the technical capabilities and rate of expansion of an artificial intelligence become uncontrollable and irreversible. The concept is treated at length in the July 2023 Badlands Media article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" by [[ashe-in-america|Ashe in America]], which argues that the threshold may already have been crossed.
+The technological singularity is the hypothetical future point at which the technical capabilities and rate of expansion of an artificial intelligence become uncontrollable and irreversible. The concept is treated at length in the July 2023 Badlands Media article "Artificial Intelligence: Hysteria vs. Reason" by [[ashe-in-america|Ashe in America]], which argues that the threshold may already have been crossed.
 
 ## Origins
 

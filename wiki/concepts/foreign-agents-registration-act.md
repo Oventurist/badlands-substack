@@ -15,7 +15,7 @@ The Foreign Agents Registration Act (FARA) is a United States statute requiring 
 
 ## The Carlson referral
 
-FARA enters the corpus through the March 16, 2026 [[badlands-brief|Badlands Brief]], which reports that broadcaster [[tucker-carlson|Tucker Carlson]] said he had learned the [[cia|CIA]] was preparing a criminal referral under the statute concerning his communications with individuals in [[iran|Iran]] before the outbreak of war. Carlson described the alleged offense as "talking to people in Iran before the war" and said "They read my texts."
+FARA enters the corpus through the March 16, 2026 Badlands Brief, which reports that broadcaster [[tucker-carlson|Tucker Carlson]] said he had learned the [[cia|CIA]] was preparing a criminal referral under the statute concerning his communications with individuals in [[iran|Iran]] before the outbreak of war. Carlson described the alleged offense as "talking to people in Iran before the war" and said "They read my texts."
 
 The episode makes explicit the corpus's central objection to the statute as applied: journalistic contact with foreign nationals, an ordinary precondition of reporting, can be recast as agency on behalf of a foreign power. Former CIA officer [[john-kiriakou|John Kiriakou]] expressed concern for Carlson's safety, Republican Congressman [[max-miller|Max Miller]] called for his investigation and imprisonment as an Iranian agent, and activist [[laura-loomer|Laura Loomer]] said she had lobbied representatives, law enforcement and the Justice Department about him. Administration officials later told [[axios|Axios]] there was no CIA investigation.
 

@@ -15,7 +15,7 @@ The Advisory Committee on Immunization Practices (ACIP) is the federal advisory 
 
 ## 2026 reduction of routine recommendations
 
-According to the May 20, 2026 [[badlands-brief-311|Badlands Brief]], ACIP recently reduced its routine vaccine recommendations from 17 diseases to 11 under the Trump administration. The change prompted New York to decouple state policy from ACIP: Governor [[kathy-hochul|Kathy Hochul]] signed legislation requiring health insurers to cover all vaccines recommended by the New York State Commissioner of Health instead, alongside a second bill expanding pharmacist authority to administer COVID-19 vaccines to children ages 2 to 18. The same legislation preserved state authority over school immunization schedules and newborn vaccination protocols, an assertion of state control that supporters framed as safeguarding public health tools and critics characterized as resistance to national policy adjustments.
+According to the May 20, 2026 Badlands Brief, ACIP recently reduced its routine vaccine recommendations from 17 diseases to 11 under the Trump administration. The change prompted New York to decouple state policy from ACIP: Governor [[kathy-hochul|Kathy Hochul]] signed legislation requiring health insurers to cover all vaccines recommended by the New York State Commissioner of Health instead, alongside a second bill expanding pharmacist authority to administer COVID-19 vaccines to children ages 2 to 18. The same legislation preserved state authority over school immunization schedules and newborn vaccination protocols, an assertion of state control that supporters framed as safeguarding public health tools and critics characterized as resistance to national policy adjustments.
 
 ## Sources
 

@@ -11,7 +11,7 @@ contested: true
 
 # Abraham Accords
 
-The Abraham Accords are a series of normalisation agreements between [[israel|Israel]] and several Muslim-majority states, originally brokered during [[donald-trump|Donald Trump]]'s first presidency. As described in the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," Trump listed the existing membership as the [[united-arab-emirates|United Arab Emirates]], [[bahrain|Bahrain]], [[morocco|Morocco]], [[sudan|Sudan]] and [[kazakhstan|Kazakhstan]].
+The Abraham Accords are a series of normalisation agreements between [[israel|Israel]] and several Muslim-majority states, originally brokered during [[donald-trump|Donald Trump]]'s first presidency. As described in the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," Trump listed the existing membership as the [[united-arab-emirates|United Arab Emirates]], [[bahrain|Bahrain]], [[morocco|Morocco]], [[sudan|Sudan]] and [[kazakhstan|Kazakhstan]].
 
 ## Proposed expansion, May 2026
 

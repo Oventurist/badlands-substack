@@ -15,7 +15,7 @@ Rule 41(g) of the Federal Rules of Criminal Procedure provides a mechanism by wh
 
 ## Use in the Fulton County records dispute
 
-The February 17, 2026 [[badlands-brief-0a2|Badlands Brief]] reports that the [[naacp|NAACP]] and other non-governmental organizations invoked Rule 41(g) in an emergency motion filed in the US District Court for the Northern District of Georgia, seeking court-imposed restrictions on how the [[fbi|FBI]] and the [[department-of-justice|Department of Justice]] may use election materials seized from [[fulton-county|Fulton County]] in January during the [[fulton-county-election-raid|Fulton County election records seizure]].
+The February 17, 2026 Badlands Brief reports that the [[naacp|NAACP]] and other non-governmental organizations invoked Rule 41(g) in an emergency motion filed in the US District Court for the Northern District of Georgia, seeking court-imposed restrictions on how the [[fbi|FBI]] and the [[department-of-justice|Department of Justice]] may use election materials seized from [[fulton-county|Fulton County]] in January during the [[fulton-county-election-raid|Fulton County election records seizure]].
 
 The filing does not directly challenge the validity of the search warrant. Instead, the plaintiffs argue that Fulton County voters hold protectable privacy and constitutional interests in their personal voter data — including Social Security numbers, dates of birth, driver's license numbers, and ballot-related information — and therefore qualify as "persons aggrieved" within the meaning of the rule. This theory extends the rule beyond its typical application to the owner of seized property, reaching individuals whose personal information is contained within records held by a government body.
 

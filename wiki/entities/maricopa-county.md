@@ -10,7 +10,7 @@ contested: true
 ---
 # Maricopa County
 
-Maricopa County is the most populous county in Arizona and encompasses the Phoenix metropolitan area, the "Valley of the Sun." Because it contains a majority of the state's voters, its election administration has an outsized effect on statewide outcomes, and in the Badlands Media corpus it is treated as the central battleground of American election-integrity disputes — the "ground zero" of [[kitty-gillespie|Kitty Gillespie]]'s November 22, 2022 article [[an-sos-from-ground-zero|An SOS From Ground Zero]].
+Maricopa County is the most populous county in Arizona and encompasses the Phoenix metropolitan area, the "Valley of the Sun." Because it contains a majority of the state's voters, its election administration has an outsized effect on statewide outcomes, and in the Badlands Media corpus it is treated as the central battleground of American election-integrity disputes — the "ground zero" of [[kitty-gillespie|Kitty Gillespie]]'s November 22, 2022 article An SOS From Ground Zero.
 
 ## Election administration in 2022
 
@@ -30,13 +30,13 @@ The corpus presents Maricopa County officials — most of them nominally Republi
 
 ## The 2022 election contests
 
-Maricopa County is the focus of the December 2022 election litigation described in [[arizona-earthquake|"Arizona Earthquake!"]]. Its recorder [[stephen-richer|Stephen Richer]], elections director [[scott-jarrett|Scott Jarrett]], and [[maricopa-county-board-of-supervisors|Board of Supervisors]] were all named as defendants in [[kari-lake|Kari Lake]]'s contest, which was filed in [[maricopa-county-superior-court|Maricopa County Superior Court]].
+Maricopa County is the focus of the December 2022 election litigation described in "Arizona Earthquake!". Its recorder [[stephen-richer|Stephen Richer]], elections director [[scott-jarrett|Scott Jarrett]], and [[maricopa-county-board-of-supervisors|Board of Supervisors]] were all named as defendants in [[kari-lake|Kari Lake]]'s contest, which was filed in [[maricopa-county-superior-court|Maricopa County Superior Court]].
 
 The complaint alleges that 59% of the county's 223 vote centers experienced printer and tabulator failures on Election Day, that at least 34 centers had breakdowns after 3 p.m., that hundreds of thousands of early ballots passed through [[runbeck-election-services|Runbeck Election Services]] without chain of custody, that signature verification standards were routinely reversed by supervising managers, and that 25,000 ballots were added to county totals after Election Day.
 
 ## FBI investigation (2026)
 
-According to the March 10, 2026 [[badlands-brief-509|Badlands Brief]], the [[fbi|FBI]] obtained election-related records tied to Maricopa County as part of a federal criminal investigation into election administration running from 2020 through 2024. The records were obtained via a grand jury subpoena seeking "terabytes of data" and other materials connected to voting systems and election procedures; the scope of the subpoena and the specific materials obtained were not publicly disclosed.
+According to the March 10, 2026 Badlands Brief, the [[fbi|FBI]] obtained election-related records tied to Maricopa County as part of a federal criminal investigation into election administration running from 2020 through 2024. The records were obtained via a grand jury subpoena seeking "terabytes of data" and other materials connected to voting systems and election procedures; the scope of the subpoena and the specific materials obtained were not publicly disclosed.
 
 The Brief reports that the inquiry followed concerns raised by [[house-administration-committee|House Administration Committee]] observers who inspected the county's third-party ballot processing contractor, [[runbeck-election-services|Runbeck Election Services]], during the 2024 election, and that Rep. [[abe-hamadeh|Abe Hamadeh]] (R-AZ) had asked the [[department-of-justice|Department of Justice]] to investigate. President [[donald-trump|Donald Trump]] amplified the report on [[truth-social|Truth Social]] with the comment "Great!!!" Commentary by [[ashe-in-america|Ashe in America]] recalls a 2021 timeline she compiled of occasions on which the county obstructed the Maricopa audit, and concludes: "This conduct is now being investigated. We're closer than we've ever been."
 

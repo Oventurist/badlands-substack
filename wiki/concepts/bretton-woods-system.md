@@ -10,7 +10,7 @@ contested: true
 ---
 # Bretton Woods System
 
-The Bretton Woods system was the international monetary order established at the 1944 conference of the same name, alongside the [[international-monetary-fund|International Monetary Fund]] and the [[world-bank|World Bank]]. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] presents it as one of the great post-war attempts, alongside the [[united-nations|United Nations]], to build a system capable of preventing another plunge into war.
+The Bretton Woods system was the international monetary order established at the 1944 conference of the same name, alongside the [[international-monetary-fund|International Monetary Fund]] and the [[world-bank|World Bank]]. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] presents it as one of the great post-war attempts, alongside the [[united-nations|United Nations]], to build a system capable of preventing another plunge into war.
 
 ## Original design
 

@@ -15,7 +15,7 @@ The North American Aerospace Defense Command (NORAD) is the binational U.S.–[[
 
 ## Role in the 2026 defense board dispute
 
-In the May 20, 2026 [[badlands-brief-311|Badlands Brief]], NORAD appears as one of the channels of U.S.–Canada defense cooperation expected to continue despite the American suspension of participation in the [[permanent-joint-board-on-defense|Permanent Joint Board on Defense]]. Analysts quoted in the source described the pause announced by [[elbridge-colby|Elbridge Colby]] as largely symbolic and political, noting that core operational cooperation — including NORAD modernization, intelligence sharing, and border security — would proceed unaffected. Canada's recent defense investments, including ships, F-35s, submarines, and Arctic infrastructure, are directly relevant to that modernization effort.
+In the May 20, 2026 Badlands Brief, NORAD appears as one of the channels of U.S.–Canada defense cooperation expected to continue despite the American suspension of participation in the [[permanent-joint-board-on-defense|Permanent Joint Board on Defense]]. Analysts quoted in the source described the pause announced by [[elbridge-colby|Elbridge Colby]] as largely symbolic and political, noting that core operational cooperation — including NORAD modernization, intelligence sharing, and border security — would proceed unaffected. Canada's recent defense investments, including ships, F-35s, submarines, and Arctic infrastructure, are directly relevant to that modernization effort.
 
 ## Sources
 

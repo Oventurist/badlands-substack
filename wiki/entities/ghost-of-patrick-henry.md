@@ -10,7 +10,7 @@ contested: false
 ---
 # Ghost of Patrick Henry
 
-Ghost of Patrick Henry, styled simply "Ghost," is a pseudonymous contributor to [[badlands-media]] and the author of the essay [[arabian-nights]], published August 2, 2023. The article's footer directs readers to follow him on Twitter as @GhostofBPH and on Truth Social as @Ghostof_PatrickHenry. He has also written for the outlet's "Patriot Chronicles" series, including a piece on Francis Marion, the Swamp Fox.
+Ghost of Patrick Henry, styled simply "Ghost," is a pseudonymous contributor to [[badlands-media]] and the author of the essay arabian nights, published August 2, 2023. The article's footer directs readers to follow him on Twitter as @GhostofBPH and on Truth Social as @Ghostof_PatrickHenry. He has also written for the outlet's "Patriot Chronicles" series, including a piece on Francis Marion, the Swamp Fox.
 
 The Arabian Nights essay is unusually autobiographical for the corpus. The author identifies himself as a millennial and a peer in age of [[mohammed-bin-salman]], and dates his political commitments to supporting [[donald-trump]] "from the moment he stepped on that escalator." He recounts that the May 2017 [[sword-dance]] in Riyadh fell on his birthday, a week before his wedding in the Dominican Republic.
 
@@ -22,13 +22,13 @@ The author states that his interest in Saudi Arabia began with the emergence of 
 
 ## The Blitz
 
-GhostofBasedPatrickHenry co-hosted [[badlands-blitz-episode-1|the debut episode]] of [[the-blitz|The Blitz]] on January 10, 2026, appearing with the show's announcing author to explain the program's intent before turning to the previous week's news. He is one of three contributors — with [[ashe-in-america|Ashe in America]] — who rotate as hosts of the weekly recap of the [[badlands-brief|Badlands Brief]].
+GhostofBasedPatrickHenry co-hosted the debut episode of [[the-blitz|The Blitz]] on January 10, 2026, appearing with the show's announcing author to explain the program's intent before turning to the previous week's news. He is one of three contributors — with [[ashe-in-america|Ashe in America]] — who rotate as hosts of the weekly recap of the Badlands Brief.
 
-He returned to the program for [[badlands-blitz-episode-11|Episode 11]], "Iran, NATO and the Invisible Enemy," on March 21, 2026, appearing alongside [[burning-bright|Burning Bright]] to discuss the Iran War, the [[sovereign-alliance|Sovereign Alliance]], the [[invisible-enemy|Invisible Enemy]], and the risks of sorting the figures around [[donald-trump|Donald Trump]] into white hats and black hats.
+He returned to the program for Episode 11, "Iran, NATO and the Invisible Enemy," on March 21, 2026, appearing alongside [[burning-bright|Burning Bright]] to discuss the Iran War, the [[sovereign-alliance|Sovereign Alliance]], the [[invisible-enemy|Invisible Enemy]], and the risks of sorting the figures around [[donald-trump|Donald Trump]] into white hats and black hats.
 
-He appeared again on [[badlands-blitz-episode-13|Episode 13]], "Is the Real Fake War Ending ... Or Only Just Beginning?", published April 18, 2026, once more paired with Burning Bright. The two spent the full hour on President Donald Trump's "Friday morning blitzkrieg of the Info War battlespace" and on the argument that the ending of the war with [[iran|Iran]] had been decided before it was fought.
+He appeared again on Episode 13, "Is the Real Fake War Ending ... Or Only Just Beginning?", published April 18, 2026, once more paired with Burning Bright. The two spent the full hour on President Donald Trump's "Friday morning blitzkrieg of the Info War battlespace" and on the argument that the ending of the war with [[iran|Iran]] had been decided before it was fought.
 
-On May 2, 2026 he co-hosted [[badlands-blitz-episode-15|Episode 15]], "Dissolution of the Global Cartel," again with Burning Bright. The pair used the dispute between the Trump administration and the [[congress|United States Congress]] over the Iran War to ask when a war is and is not happening, before turning to the episode's central argument that the Middle East and South America are linked fronts in the dismantling of the [[global-cartel|Global Cartel]] on kinetic, financial and energy grounds.
+On May 2, 2026 he co-hosted Episode 15, "Dissolution of the Global Cartel," again with Burning Bright. The pair used the dispute between the Trump administration and the [[congress|United States Congress]] over the Iran War to ask when a war is and is not happening, before turning to the episode's central argument that the Middle East and South America are linked fronts in the dismantling of the [[global-cartel|Global Cartel]] on kinetic, financial and energy grounds.
 
 ## Sources
 

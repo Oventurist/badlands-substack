@@ -10,7 +10,7 @@ contested: false
 ---
 # Pact of Diriyah
 
-The Pact of Diriyah was the 1744 alliance between [[mohammed-bin-saud]], emir of the farming settlement of Diriyah, and the exiled preacher [[muhammad-ibn-abd-al-wahhab]]. As described in [[arabian-nights]], it fused political and military authority with religious authority and became the foundation of the [[house-of-saud]] and of the [[emirate-of-diriyah]], the First State of Saud.
+The Pact of Diriyah was the 1744 alliance between [[mohammed-bin-saud]], emir of the farming settlement of Diriyah, and the exiled preacher [[muhammad-ibn-abd-al-wahhab]]. As described in arabian nights, it fused political and military authority with religious authority and became the foundation of the [[house-of-saud]] and of the [[emirate-of-diriyah]], the First State of Saud.
 
 ## Terms
 

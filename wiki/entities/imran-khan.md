@@ -10,7 +10,7 @@ contested: true
 ---
 # Imran Khan
 
-Imran Khan is the former Prime Minister of [[pakistan]] whose 2022 removal from office is presented in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as one of the foreign policy moves that accompanied the Biden administration's realignment toward [[iran]].
+Imran Khan is the former Prime Minister of [[pakistan]] whose 2022 removal from office is presented in the Badlands Media essay "And Iran, Iran So Far Away" as one of the foreign policy moves that accompanied the Biden administration's realignment toward [[iran]].
 
 ## Background
 

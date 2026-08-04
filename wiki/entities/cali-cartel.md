@@ -13,7 +13,7 @@ contested: true
 ---
 # Cali Cartel
 
-The Cali Cartel was a Colombian drug trafficking organization based in the city of Cali, founded by the Rodríguez Orejuela brothers and José Santacruz-Londono. At its height in the 1990s, it controlled an estimated 80 percent of the global cocaine market. In the Badlands Media article [[a-family-affair]], the Cali Cartel is identified as the Colombian partner that restructured its deal with the [[gulf-cartel]], allowing the Mexican organization to transform from smugglers into cocaine suppliers.
+The Cali Cartel was a Colombian drug trafficking organization based in the city of Cali, founded by the Rodríguez Orejuela brothers and José Santacruz-Londono. At its height in the 1990s, it controlled an estimated 80 percent of the global cocaine market. In the Badlands Media article a family affair, the Cali Cartel is identified as the Colombian partner that restructured its deal with the [[gulf-cartel]], allowing the Mexican organization to transform from smugglers into cocaine suppliers.
 
 ## Restructuring the Gulf Cartel deal
 

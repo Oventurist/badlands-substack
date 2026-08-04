@@ -14,7 +14,7 @@ George Washington (1732–1799) was commander of the Continental Army and the fi
 
 ## Continental naming and continental purpose
 
-[[matthew-ehret|Matthew Ehret]]'s [[avoiding-wwiii|Avoiding WWIII]] notes that Washington, together with [[benjamin-franklin|Benjamin Franklin]], explicitly insisted that America's first army and legislature be called "Continental" rather than the "army of the 13 colonies" or the "congress of the 13 colonies." The article reads this as a deliberate statement of continental republican intent at a time when the Americas were dominated by the hereditary imperial systems of France, England, Russia and Spain, which controlled everything outside the thirteen colonies.
+[[matthew-ehret|Matthew Ehret]]'s Avoiding WWIII notes that Washington, together with [[benjamin-franklin|Benjamin Franklin]], explicitly insisted that America's first army and legislature be called "Continental" rather than the "army of the 13 colonies" or the "congress of the 13 colonies." The article reads this as a deliberate statement of continental republican intent at a time when the Americas were dominated by the hereditary imperial systems of France, England, Russia and Spain, which controlled everything outside the thirteen colonies.
 
 ## Warnings against empire
 

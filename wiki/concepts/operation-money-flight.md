@@ -11,7 +11,7 @@ contested: true
 
 # Operation Money Flight
 
-Operation Money Flight is the [[department-of-justice|Justice Department]] investigation into the laundering of funds embezzled from Venezuela's state oil company [[pdvsa|PDVSA]]. It is described in [[badlands-brief-314|the Badlands Brief of February 4, 2026]] as the operation that arrested investment banker [[mathias-krull|Mathias Krull]] in July 2018 after determining that he had laundered $1.2 billion in PDVSA funds.
+Operation Money Flight is the [[department-of-justice|Justice Department]] investigation into the laundering of funds embezzled from Venezuela's state oil company [[pdvsa|PDVSA]]. It is described in the Badlands Brief of February 4, 2026 as the operation that arrested investment banker [[mathias-krull|Mathias Krull]] in July 2018 after determining that he had laundered $1.2 billion in PDVSA funds.
 
 ## Connection to the Maduro lawsuit
 

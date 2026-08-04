@@ -21,7 +21,7 @@ Bowen kept the discovery and the Brick Tracker investigation secret, never discu
 
 ## Interpretation in the corpus
 
-The Badlands Media article "[[bad-actors|Bad Actors]]" treats the Lebanon destination as significant because Lebanon is the base of [[hezbollah|Hezbollah]] and the place where [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] was raised and retains family connections, presenting the episode as evidence that U.S. policy was funding the very terrorist networks it claimed to be fighting.
+The Badlands Media article "Bad Actors" treats the Lebanon destination as significant because Lebanon is the base of [[hezbollah|Hezbollah]] and the place where [[alwaleed-bin-talal|Prince Alwaleed bin Talal]] was raised and retains family connections, presenting the episode as evidence that U.S. policy was funding the very terrorist networks it claimed to be fighting.
 
 ## Sources
 

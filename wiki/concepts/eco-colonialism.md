@@ -14,7 +14,7 @@ Eco-colonialism is the term used in the Badlands Media corpus for a form of mode
 
 ## Origins in reservation policy
 
-In [[avoiding-wwiii|Avoiding WWIII]], [[matthew-ehret|Matthew Ehret]] argues that the racist ghettoization of natives in tribal reservations has segregated First Nation tribes from the rest of society for generations, locking them into cycles of dependence, poverty, substance abuse, and rates of infant mortality and suicide magnitudes higher than the national average. He cites [[william-gilpin|William Gilpin]]'s description of reservations as "like blocks of stone in the wall of a jail against the frontier line."
+In Avoiding WWIII, [[matthew-ehret|Matthew Ehret]] argues that the racist ghettoization of natives in tribal reservations has segregated First Nation tribes from the rest of society for generations, locking them into cycles of dependence, poverty, substance abuse, and rates of infant mortality and suicide magnitudes higher than the national average. He cites [[william-gilpin|William Gilpin]]'s description of reservations as "like blocks of stone in the wall of a jail against the frontier line."
 
 ## Human ecosystems management
 

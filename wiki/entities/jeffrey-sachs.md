@@ -10,7 +10,7 @@ contested: true
 ---
 # Jeffrey Sachs
 
-Jeffrey Sachs is an American economist known for his role in advising post-communist governments on rapid market transition. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is identified with the [[imf|International Monetary Fund]] and named as a Western participant in the liberalization of the former Soviet bloc.
+Jeffrey Sachs is an American economist known for his role in advising post-communist governments on rapid market transition. In the Badlands Media essay A Re Alignment of World Systems, he is identified with the [[imf|International Monetary Fund]] and named as a Western participant in the liberalization of the former Soviet bloc.
 
 ## Role in the source
 

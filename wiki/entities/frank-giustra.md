@@ -10,7 +10,7 @@ contested: true
 ---
 # Frank Giustra
 
-Frank Giustra is a Canadian mining financier and philanthropist, and a longtime associate of [[bill-clinton|Bill Clinton]]. In the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]], he is identified as the man who "got the ball rolling" on what became the [[uranium-one|Uranium One]] transaction.
+Frank Giustra is a Canadian mining financier and philanthropist, and a longtime associate of [[bill-clinton|Bill Clinton]]. In the Badlands Media essay America for Sale — Part 3, he is identified as the man who "got the ball rolling" on what became the [[uranium-one|Uranium One]] transaction.
 
 According to New York Times reporting quoted in the article, "the path to a Russian acquisition of American uranium deposits began in 2005 in Kazakhstan, where the Canadian mining financier Frank Giustra orchestrated his first big uranium deal, with Mr. Clinton at his side." The two flew aboard Giustra's private jet to Almaty, [[kazakhstan|Kazakhstan]], and dined with the authoritarian president Nursultan Nazarbayev. The Times noted that Clinton "handed the Kazakh president a propaganda coup" by endorsing Nazarbayev's bid to head an international elections monitoring group, undercutting American foreign policy and criticism of Kazakhstan's human rights record — including criticism by his wife, then a senator.
 

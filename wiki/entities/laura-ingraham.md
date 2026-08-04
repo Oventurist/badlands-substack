@@ -14,7 +14,7 @@ Laura Ingraham is an American television host and commentator for [[fox-news|Fox
 
 ## Questioning of Graham's meetings with Netanyahu
 
-According to the March 10, 2026 [[badlands-brief-509|Badlands Brief]], Ingraham used a Fox News segment to press Sen. [[ted-cruz|Ted Cruz]] (R-TX) about what she characterized as "secret meetings" between Sen. [[lindsey-graham|Lindsey Graham]] (R-SC) and Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], meetings that took place alongside Graham's discussions with Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] amid debate over possible military strikes on [[iran|Iran]]. Cruz answered that such meetings are routine diplomatic engagement by members of [[congress|Congress]].
+According to the March 10, 2026 Badlands Brief, Ingraham used a Fox News segment to press Sen. [[ted-cruz|Ted Cruz]] (R-TX) about what she characterized as "secret meetings" between Sen. [[lindsey-graham|Lindsey Graham]] (R-SC) and Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], meetings that took place alongside Graham's discussions with Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] amid debate over possible military strikes on [[iran|Iran]]. Cruz answered that such meetings are routine diplomatic engagement by members of [[congress|Congress]].
 
 The Brief's commentary presents Ingraham's questioning, and Cruz's difficulty answering it, as evidence that the case for war with Iran was becoming untenable even before a friendly audience.
 

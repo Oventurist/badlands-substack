@@ -10,7 +10,7 @@ contested: true
 ---
 # Michael Horowitz
 
-Michael Horowitz is the Inspector General of the United States [[department-of-justice|Department of Justice]]. In the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]], he is presented as the investigative half of a two-part strategy devised by Attorney General [[jeff-sessions|Jeff Sessions]] to work around a compromised [[fbi|FBI]] and Justice Department.
+Michael Horowitz is the Inspector General of the United States [[department-of-justice|Department of Justice]]. In the Badlands Media essay America for Sale — Part 2, he is presented as the investigative half of a two-part strategy devised by Attorney General [[jeff-sessions|Jeff Sessions]] to work around a compromised [[fbi|FBI]] and Justice Department.
 
 The article states that Sessions assigned Horowitz to conduct investigations instead of the FBI, stressing that the Inspector General's office is independent, that an IG office oversees every federal agency, and that IGs have "a broad reach to investigate all corruption involving our government." Q drop 1517 is quoted for the formulation "IG started long before Huber setting stage" and "Think: IG = FBI."
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Canada 2020
 
-Canada 2020 is a Canadian progressive think tank closely associated with the Liberal Party of Canada. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], it is described as the organizational banner under which the Liberal Party was reorganized between 2011 and 2014 in preparation for taking power.
+Canada 2020 is a Canadian progressive think tank closely associated with the Liberal Party of Canada. In the Badlands Media essay A Re Alignment of World Systems, it is described as the organizational banner under which the Liberal Party was reorganized between 2011 and 2014 in preparation for taking power.
 
 ## Role in the source
 

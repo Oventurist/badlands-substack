@@ -13,7 +13,7 @@ contested: false
 
 James Talarico is a Texas state representative and Democratic politician who won his party's nomination for the United States Senate seat from [[texas|Texas]] in the March 2026 primary.
 
-According to [[badlands-brief-174|Badlands Brief: Conflicts, Cartels, & Clemency]], Talarico defeated Representative [[jasmine-crockett|Jasmine Crockett]] of Texas's 30th congressional district in a closely watched contest, and advances to the general election for the seat held by Republican Senator [[john-cornyn|John Cornyn]]. Cornyn himself faced a May 26 Republican runoff against Texas Attorney General [[ken-paxton|Ken Paxton]], meaning Talarico's general-election opponent remained undetermined at the time of the Brief.
+According to Badlands Brief: Conflicts, Cartels, & Clemency, Talarico defeated Representative [[jasmine-crockett|Jasmine Crockett]] of Texas's 30th congressional district in a closely watched contest, and advances to the general election for the seat held by Republican Senator [[john-cornyn|John Cornyn]]. Cornyn himself faced a May 26 Republican runoff against Texas Attorney General [[ken-paxton|Ken Paxton]], meaning Talarico's general-election opponent remained undetermined at the time of the Brief.
 
 ## Sources
 

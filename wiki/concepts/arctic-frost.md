@@ -15,7 +15,7 @@ Arctic Frost is the codename of a [[fbi|Federal Bureau of Investigation]] invest
 
 ## Scope and disclosures
 
-As reported in the [[badlands-brief-40d|February 27, 2026 Badlands Brief]], the FBI subpoenaed the phone records of [[kash-patel|Kash Patel]] and [[susie-wiles|Susie Wiles]] under Arctic Frost at a time when both were private citizens. Patel subsequently became FBI Director and Wiles became White House Chief of Staff. Speaking on Wednesday, February 25, 2026, Patel said the records had been found in files labeled "Prohibited," a designation that drew additional attention to how the material had been handled internally.
+As reported in the February 27, 2026 Badlands Brief, the FBI subpoenaed the phone records of [[kash-patel|Kash Patel]] and [[susie-wiles|Susie Wiles]] under Arctic Frost at a time when both were private citizens. Patel subsequently became FBI Director and Wiles became White House Chief of Staff. Speaking on Wednesday, February 25, 2026, Patel said the records had been found in files labeled "Prohibited," a designation that drew additional attention to how the material had been handled internally.
 
 Congressional oversight disclosures indicate that hundreds of Trump-aligned individuals and groups, including sitting members of [[congress|Congress]], were targeted with subpoenas and data requests under the investigation. The breadth of those requests generated scrutiny over both the investigation's scope and its methods, and the Senate Judiciary Committee established a dedicated public record of the matter.
 

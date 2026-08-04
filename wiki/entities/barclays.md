@@ -12,7 +12,7 @@ contested: false
 ---
 # Barclays
 
-Barclays is a British multinational universal bank headquartered in London. In the Badlands Media article [[a-family-affair]], Barclays is identified as the firm that acquired Lehman Brothers' North American operations after the investment bank's September 2008 bankruptcy, and as the employer of [[jeb-bush]] as an adviser following the collapse.
+Barclays is a British multinational universal bank headquartered in London. In the Badlands Media article a family affair, Barclays is identified as the firm that acquired Lehman Brothers' North American operations after the investment bank's September 2008 bankruptcy, and as the employer of [[jeb-bush]] as an adviser following the collapse.
 
 ## Acquisition of Lehman Brothers
 

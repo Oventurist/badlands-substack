@@ -10,7 +10,7 @@ contested: true
 ---
 # Chrystia Freeland
 
-Chrystia Freeland is a Canadian journalist and politician who served as Canada's Minister of Foreign Affairs, Minister of Finance and Deputy Prime Minister. She is the central subject of the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] by [[matthew-ehret|Matthew Ehret]], which treats her removal from the Canadian cabinet in September 2025 as a marker of a broader shift in global power relations.
+Chrystia Freeland is a Canadian journalist and politician who served as Canada's Minister of Foreign Affairs, Minister of Finance and Deputy Prime Minister. She is the central subject of the Badlands Media essay A Re Alignment of World Systems by [[matthew-ehret|Matthew Ehret]], which treats her removal from the Canadian cabinet in September 2025 as a marker of a broader shift in global power relations.
 
 ## Departure from cabinet
 

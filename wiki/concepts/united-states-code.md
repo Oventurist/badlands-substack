@@ -10,7 +10,7 @@ contested: false
 ---
 # United States Code
 
-The United States Code is the codification of the general and permanent federal statutory law of the United States, organised into numbered titles. In the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] it functions both as the authoritative text to which the author appeals and as an exhibit in his argument that the law has grown beyond the reach of the citizens bound by it.
+The United States Code is the codification of the general and permanent federal statutory law of the United States, organised into numbered titles. In the Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System" it functions both as the authoritative text to which the author appeals and as an exhibit in his argument that the law has grown beyond the reach of the citizens bound by it.
 
 ## Role in the article's argument
 

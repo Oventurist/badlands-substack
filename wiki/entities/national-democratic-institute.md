@@ -13,7 +13,7 @@ contested: true
 ---
 # National Democratic Institute
 
-The National Democratic Institute (NDI) is a U.S. non-profit organization founded in 1983 that promotes democracy abroad, closely aligned with the Democratic Party and heavily funded by the [[national-endowment-for-democracy|National Endowment for Democracy]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], NDI is listed among the "CIA-adjacent cut-outs" funded by NED.
+The National Democratic Institute (NDI) is a U.S. non-profit organization founded in 1983 that promotes democracy abroad, closely aligned with the Democratic Party and heavily funded by the [[national-endowment-for-democracy|National Endowment for Democracy]]. In the Badlands Media article A More Perfect (Labor) Union, NDI is listed among the "CIA-adjacent cut-outs" funded by NED.
 
 ## Role in the NED network
 

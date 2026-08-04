@@ -14,7 +14,7 @@ contested: true
 
 ## Trump administration interest
 
-[[badlands-blitz-episode-14|Badlands Blitz Episode 14]], published April 25, 2026, closes its list of topics with the suggestion that "there might be much more to [[donald-trump|Trump]]'s overtures toward Spirit Airlines than meets the eye." Hosts [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] present the administration's interest in the struggling carrier as carrying a strategic dimension beyond the surface rationale of preserving jobs or maintaining domestic airline capacity. The announcement does not specify what that dimension is, leaving the argument to the episode itself; the framing is consistent with the program's general practice of reading ostensibly commercial interventions as moves within a larger structural realignment.
+Badlands Blitz Episode 14, published April 25, 2026, closes its list of topics with the suggestion that "there might be much more to [[donald-trump|Trump]]'s overtures toward Spirit Airlines than meets the eye." Hosts [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] present the administration's interest in the struggling carrier as carrying a strategic dimension beyond the surface rationale of preserving jobs or maintaining domestic airline capacity. The announcement does not specify what that dimension is, leaving the argument to the episode itself; the framing is consistent with the program's general practice of reading ostensibly commercial interventions as moves within a larger structural realignment.
 
 ## Sources
 

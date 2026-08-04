@@ -10,7 +10,7 @@ contested: true
 ---
 # Jewish Mafia
 
-The "Jewish Mafia" is the term used in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] for the organized crime network the article places above the [[italian-mafia|Italian Mafia]] and below the [[cia|CIA]] in American organized crime.
+The "Jewish Mafia" is the term used in the Badlands Media essay A Journey of Ever changing Truths for the organized crime network the article places above the [[italian-mafia|Italian Mafia]] and below the [[cia|CIA]] in American organized crime.
 
 ## Structure as described
 

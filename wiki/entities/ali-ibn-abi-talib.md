@@ -10,7 +10,7 @@ contested: false
 ---
 # Ali ibn Abi Talib
 
-Ali was the fourth caliph of the [[rashidun-caliphate]] and, in the account given by the Badlands Media essay [[arabian-nights]], the first Muslim.
+Ali was the fourth caliph of the [[rashidun-caliphate]] and, in the account given by the Badlands Media essay arabian nights, the first Muslim.
 
 His father adopted [[prophet-muhammad|Muhammad]] when Muhammad was orphaned as a child, making Ali effectively Muhammad's step-brother; Muhammad in turn raised Ali from the age of five. When Muhammad emerged from one of his meditative excursions into the caves around Mecca claiming that the archangel Gabriel — the same being who, Muhammad said, had visited Mary on the night of Jesus's birth — had brought him a message from God, it was the ten-year-old Ali who believed him when nobody else would.
 

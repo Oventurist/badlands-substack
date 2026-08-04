@@ -22,7 +22,7 @@ The article notes that the Wilson administration engaged in extensive lobbying t
 - [[Revenue Act of 1913]] — signed by Wilson on October 3, 1913
 - [[Sixteenth Amendment]] — ratified during Wilson's presidency
 - Oscar Underwood — moved the Revenue Act through the House
-- [[1913]] — the pivotal year of Wilson's legislative actions
+- 1913 — the pivotal year of Wilson's legislative actions
 
 ## Sources
 

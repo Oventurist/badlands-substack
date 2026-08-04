@@ -10,7 +10,7 @@ contested: false
 ---
 # Abu Bakr
 
-Abu Bakr was the closest companion of [[prophet-muhammad|Muhammad]] and the first of the four elected caliphs of the [[rashidun-caliphate]]. The Badlands Media essay [[arabian-nights]] notes that "Abu Bakr" is a *kunya* meaning "the father of camels."
+Abu Bakr was the closest companion of [[prophet-muhammad|Muhammad]] and the first of the four elected caliphs of the [[rashidun-caliphate]]. The Badlands Media essay arabian nights notes that "Abu Bakr" is a *kunya* meaning "the father of camels."
 
 When Muhammad died without dictating a line of succession, most of his followers supported Abu Bakr. The source records that for thirty years Abu Bakr and three other trusted companions were sequentially elected by their peers to rule the Rashidun — "Rightly Guided" — Caliphate, during which the empire grew from modern-day Libya to India and became the most powerful military, cultural and economic force in West Asia. Under Abu Bakr, the source states, the Quran was written.
 

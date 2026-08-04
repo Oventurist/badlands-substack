@@ -14,7 +14,7 @@ Angela Merkel served as Chancellor of [[germany|Germany]] from 2005 to 2021 and 
 
 ## The 2018 G7 exchange with Trump
 
-The [[badlands-brief-195|Badlands Brief of May 5, 2026]] recalls that President [[donald-trump|Donald Trump]] warned Merkel — whom the Brief refers to as German prime minister — and other European leaders about the risks of energy dependence on [[russia|Russia]] at the [[group-of-seven|Group of Seven]] summit held in Canada on June 9, 2018, an encounter widely remembered for the photograph that became a popular meme. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cited the episode as evidence that the [[european-energy-crisis|European energy crisis]] was foreseen and self-inflicted, criticizing the combination of dependence on a neighbor, provocation of conflict with that neighbor, and reliance on the United States taxpayer to fund European defense.
+The Badlands Brief of May 5, 2026 recalls that President [[donald-trump|Donald Trump]] warned Merkel — whom the Brief refers to as German prime minister — and other European leaders about the risks of energy dependence on [[russia|Russia]] at the [[group-of-seven|Group of Seven]] summit held in Canada on June 9, 2018, an encounter widely remembered for the photograph that became a popular meme. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cited the episode as evidence that the [[european-energy-crisis|European energy crisis]] was foreseen and self-inflicted, criticizing the combination of dependence on a neighbor, provocation of conflict with that neighbor, and reliance on the United States taxpayer to fund European defense.
 
 ## Sources
 

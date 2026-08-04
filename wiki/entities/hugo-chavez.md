@@ -13,7 +13,7 @@ contested: false
 ---
 # Hugo Chávez
 
-Hugo Rafael Chávez Frías (1954–2013) was a Venezuelan politician who served as president of Venezuela from 1999 until his death in 2013. In the Badlands Media article [[a-family-affair]], he is mentioned as the Venezuelan president whose election prompted former president [[carlos-andres-perez]]—who had fled to miami—to become one of his most vehement opponents.
+Hugo Rafael Chávez Frías (1954–2013) was a Venezuelan politician who served as president of Venezuela from 1999 until his death in 2013. In the Badlands Media article a family affair, he is mentioned as the Venezuelan president whose election prompted former president [[carlos-andres-perez]]—who had fled to miami—to become one of his most vehement opponents.
 
 ## Connection to Carlos Andrés Pérez
 
@@ -26,7 +26,7 @@ Chávez was a left-wing populist who implemented socialist policies in Venezuela
 
 ## Smartmatic and the 2004 recall referendum
 
-[[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]] recounts that [[smartmatic|Smartmatic]] won its first contract with [[venezuela|Venezuela]] in 2004 ahead of the recall referendum on Chávez, months after receiving investment from the Venezuelan government. A government financing agency had invested more than $200,000 in [[bitza|Bitza]], a smaller company owned by some of the same people, receiving a 28 percent stake and a board seat occupied by an official who had previously advised Chávez on elections technology. [[john-c-bonifaz|John C. Bonifaz]]'s letter to the [[national-institute-of-standards-and-technology|National Institute of Standards and Technology]] later described Smartmatic as "a Foreign Controlled Company With Ties to The Venezuelan Government Led by Hugo Chavez."
+Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi recounts that [[smartmatic|Smartmatic]] won its first contract with [[venezuela|Venezuela]] in 2004 ahead of the recall referendum on Chávez, months after receiving investment from the Venezuelan government. A government financing agency had invested more than $200,000 in [[bitza|Bitza]], a smaller company owned by some of the same people, receiving a 28 percent stake and a board seat occupied by an official who had previously advised Chávez on elections technology. [[john-c-bonifaz|John C. Bonifaz]]'s letter to the [[national-institute-of-standards-and-technology|National Institute of Standards and Technology]] later described Smartmatic as "a Foreign Controlled Company With Ties to The Venezuelan Government Led by Hugo Chavez."
 
 ## Sources
 

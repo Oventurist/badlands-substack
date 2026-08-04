@@ -14,7 +14,7 @@ contested: true
 ---
 # Myanmar
 
-Myanmar (Burma) is a country in Southeast Asia that experienced a military coup in February 2021, toppling the elected civilian government of Aung San Suu Kyi. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Myanmar is presented as a case study of labor unions being used by U.S. agencies against a government perceived as too close to China.
+Myanmar (Burma) is a country in Southeast Asia that experienced a military coup in February 2021, toppling the elected civilian government of Aung San Suu Kyi. In the Badlands Media article A More Perfect (Labor) Union, Myanmar is presented as a case study of labor unions being used by U.S. agencies against a government perceived as too close to China.
 
 ## Post-2021 coup operations
 

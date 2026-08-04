@@ -14,7 +14,7 @@ William Gilpin (1813–1894) was an American statesman, ally of [[abraham-lincol
 
 ## Anti-slavery politics and Anglophobia
 
-[[matthew-ehret|Matthew Ehret]]'s [[avoiding-wwiii|Avoiding WWIII]] lists Gilpin among the wiser anti-slavery voices — with [[benjamin-franklin|Benjamin Franklin]], John Jay, [[john-quincy-adams|John Quincy Adams]], Lincoln, Charles Sumner and William Seward — whom an Anglophile [[deep-state|Deep State]] repeatedly subverted. Gilpin developed a reputation as an Anglophobe suspicious of British Imperial intrigue, working closely with patriots seeking to reclaim the nation from the oligarchical slave power.
+[[matthew-ehret|Matthew Ehret]]'s Avoiding WWIII lists Gilpin among the wiser anti-slavery voices — with [[benjamin-franklin|Benjamin Franklin]], John Jay, [[john-quincy-adams|John Quincy Adams]], Lincoln, Charles Sumner and William Seward — whom an Anglophile [[deep-state|Deep State]] repeatedly subverted. Gilpin developed a reputation as an Anglophobe suspicious of British Imperial intrigue, working closely with patriots seeking to reclaim the nation from the oligarchical slave power.
 
 ## The Cosmopolitan Railway
 

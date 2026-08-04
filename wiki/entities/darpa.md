@@ -14,7 +14,7 @@ The Defense Advanced Research Projects Agency (DARPA) is the research and develo
 
 ## Role in the Badlands account
 
-Erik Carlson's January 2025 essay [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] describes DARPA as an agency whose creations, funded with U.S. tax dollars, "often find their way into American society and the American economy." The internet is named as probably the biggest and most important such technology, one that ended up "in every American's office, home and pocket."
+Erik Carlson's January 2025 essay America Has a CIA Run Economy describes DARPA as an agency whose creations, funded with U.S. tax dollars, "often find their way into American society and the American economy." The internet is named as probably the biggest and most important such technology, one that ended up "in every American's office, home and pocket."
 
 The essay draws a contrast with [[nasa]]'s public relations. Carlson recalls being told as a child that Tang and Velcro were NASA inventions; they were not, but NASA allegedly declined to correct the misconception because it wanted to appear more important. DARPA products, by contrast, were said to be sold to the public through carefully constructed founder mythologies — a hooded Harvard undergraduate, two friends in a garage, a man selling books from a one-person office — sometimes reinforced by feature films that fixed the origin stories in the public mind.
 
@@ -26,7 +26,7 @@ The most specific example offered is [[darpa-lifelog|LifeLog]], a project of DAR
 
 ## Related pages
 
-- [[america-has-a-cia-run-economy]]
+- america has a cia run economy
 - [[darpa-lifelog]]
 - [[cia]]
 - [[department-of-defense]]

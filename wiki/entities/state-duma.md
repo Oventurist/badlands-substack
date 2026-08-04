@@ -15,7 +15,7 @@ The State Duma is the lower house of the Federal Assembly of [[russia|Russia]]. 
 
 ## Kuznetsova's allegations
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] centers a segment on remarks by Duma Deputy Speaker [[anna-kuznetsova|Anna Kuznetsova]], who alleged the trafficking of Ukrainian children on the darknet for $30,000 to $50,000, documented cases of Ukrainian children used as slave labor in France and other European countries, and the deportation of more than 60,000 Ukrainian children without legal representatives. She also alleged casualties among children from mines she attributed to Ukrainian forces. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] emphasized the speaker's rank within the Russian state — "one of the highest elected officials in the Russian government" — as the reason the claims warranted serious investigation.
+The July 27, 2026 Badlands Brief centers a segment on remarks by Duma Deputy Speaker [[anna-kuznetsova|Anna Kuznetsova]], who alleged the trafficking of Ukrainian children on the darknet for $30,000 to $50,000, documented cases of Ukrainian children used as slave labor in France and other European countries, and the deportation of more than 60,000 Ukrainian children without legal representatives. She also alleged casualties among children from mines she attributed to Ukrainian forces. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] emphasized the speaker's rank within the Russian state — "one of the highest elected officials in the Russian government" — as the reason the claims warranted serious investigation.
 
 ## Sources
 

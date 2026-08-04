@@ -11,7 +11,7 @@ contested: true
 
 # Nayib Bukele
 
-Nayib Bukele is the president of El Salvador, known internationally for a sweeping crackdown on gang and cartel networks. He appears in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] within [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s commentary on the killing of [[el-mencho|El Mencho]] in Jalisco.
+Nayib Bukele is the president of El Salvador, known internationally for a sweeping crackdown on gang and cartel networks. He appears in the February 24, 2026 Badlands Brief within [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s commentary on the killing of [[el-mencho|El Mencho]] in Jalisco.
 
 ## Role in the hemispheric anti-cartel argument
 

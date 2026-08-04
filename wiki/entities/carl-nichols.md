@@ -15,7 +15,7 @@ Carl Nichols is a judge of the United States District Court for the District of 
 
 ## Ruling on the voter citizenship executive order
 
-As reported in the [[badlands-brief-257|Badlands Brief of May 29, 2026]], Nichols cleared the executive order to move forward by ruling that Democratic plaintiffs had failed to demonstrate [[legal-standing|legal standing]] or sufficient harm to justify a preliminary injunction. He found that the order does not directly require the plaintiffs to take any action and that no federal agency had yet implemented steps under it capable of causing them injury.
+As reported in the Badlands Brief of May 29, 2026, Nichols cleared the executive order to move forward by ruling that Democratic plaintiffs had failed to demonstrate [[legal-standing|legal standing]] or sufficient harm to justify a preliminary injunction. He found that the order does not directly require the plaintiffs to take any action and that no federal agency had yet implemented steps under it capable of causing them injury.
 
 Nichols rejected as speculative the plaintiffs' argument that the order would disenfranchise millions of voters, noting that the order itself mandates procedures allowing individuals to access, review, and correct information contained in any state-by-state citizenship lists used to maintain voter rolls. He likewise dismissed privacy objections to interagency sharing of basic voter data such as name, age, and residence, holding that such sharing does not rise to the level of injury required for Article III standing.
 

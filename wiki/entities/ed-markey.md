@@ -11,7 +11,7 @@ contested: false
 
 # Ed Markey
 
-Ed Markey is a Democratic United States Senator from Massachusetts. He is named in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] as one of the lawmakers who planned to skip President [[donald-trump|Donald Trump]]'s 2026 [[state-of-the-union|State of the Union address]] to a joint session of [[congress|Congress]].
+Ed Markey is a Democratic United States Senator from Massachusetts. He is named in the February 24, 2026 Badlands Brief as one of the lawmakers who planned to skip President [[donald-trump|Donald Trump]]'s 2026 [[state-of-the-union|State of the Union address]] to a joint session of [[congress|Congress]].
 
 ## The 2026 boycott
 

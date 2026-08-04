@@ -14,7 +14,7 @@ Ihor Kolomoisky is a Ukrainian oligarch and banker, described in the Badlands co
 
 ## Business empire
 
-According to commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] in the April 21, 2026 [[badlands-brief-1ef|Badlands Brief]], Kolomoisky built his wealth during the 1990s following the collapse of the Soviet Union. Working with a small group of partners, he created PrivatBank and the umbrella holding company Privat Group, which on paper owned thousands of companies concentrated in energy and raw materials. The commentary asserts that most of these companies turned out to be fake entities forming part of a money-laundering scheme.
+According to commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] in the April 21, 2026 Badlands Brief, Kolomoisky built his wealth during the 1990s following the collapse of the Soviet Union. Working with a small group of partners, he created PrivatBank and the umbrella holding company Privat Group, which on paper owned thousands of companies concentrated in energy and raw materials. The commentary asserts that most of these companies turned out to be fake entities forming part of a money-laundering scheme.
 
 ## Maidan, militias, and Zelenskyy
 

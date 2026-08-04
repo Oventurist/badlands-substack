@@ -14,7 +14,7 @@ The New York City Police Department (NYPD) is the municipal police force of New 
 
 ## Role in the 2026 ISIS explosives case
 
-The March 10, 2026 [[badlands-brief-509|Badlands Brief]] reproduces [[department-of-justice|Department of Justice]] statements announcing charges against two [[isis|ISIS]] supporters accused of attempting to detonate explosive devices during protests. [[fbi|FBI]] Director [[kash-patel|Kash Patel]] specifically commended "the brave NYPD officers who took action to prevent injuries or loss of life on the streets of New York."
+The March 10, 2026 Badlands Brief reproduces [[department-of-justice|Department of Justice]] statements announcing charges against two [[isis|ISIS]] supporters accused of attempting to detonate explosive devices during protests. [[fbi|FBI]] Director [[kash-patel|Kash Patel]] specifically commended "the brave NYPD officers who took action to prevent injuries or loss of life on the streets of New York."
 
 Deputy Attorney General [[todd-blanche|Todd Blanche]] likewise thanked "the brave law enforcement officers who ran into harm's way to apprehend these individuals and disarm the explosives before anyone was harmed," while Attorney General [[pam-bondi|Pamela Bondi]] said law enforcement officers "will remain vigilant, as they were when these devices were brought to a protest." According to the Brief, prosecutors alleged the defendants sought to inflict mass casualties in service to ISIS "with the hope of exceeding the carnage of the Boston Marathon bombing."
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Antichrist
 
-The Antichrist is a figure of Christian eschatology discussed in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] alongside, and often conflated with, [[the-beast|the Beast]] of Revelation 13.
+The Antichrist is a figure of Christian eschatology discussed in the Badlands Media feature "Are We Entering the Millennial Reign?" alongside, and often conflated with, [[the-beast|the Beast]] of Revelation 13.
 
 ## Definition and distinctions
 

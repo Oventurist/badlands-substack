@@ -10,7 +10,7 @@ contested: true
 ---
 # Pardongate
 
-Pardongate is the name given to the controversy over the clemency [[bill-clinton|Bill Clinton]] granted on January 20, 2001, his final day as president. As recounted in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]], Clinton issued 140 pardons and 36 commutations that day, a volume the author argues was "a purposeful distraction" intended to reduce scrutiny of a single highly controversial act.
+Pardongate is the name given to the controversy over the clemency [[bill-clinton|Bill Clinton]] granted on January 20, 2001, his final day as president. As recounted in the Badlands Media essay America for Sale — Part 3, Clinton issued 140 pardons and 36 commutations that day, a volume the author argues was "a purposeful distraction" intended to reduce scrutiny of a single highly controversial act.
 
 That act was the pardon of the fugitive commodities trader [[marc-rich|Marc Rich]], who had been indicted by the Justice Department in 1983 for tax evasion, racketeering and wire fraud and was, at the time, the largest tax evader in American history, owing roughly $50 million. The pardon, the article notes, "created a firestorm that launched congressional and criminal investigations" and outraged Americans across party lines, including Democrats.
 

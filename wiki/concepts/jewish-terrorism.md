@@ -11,7 +11,7 @@ contested: true
 
 # Jewish Terrorism
 
-"Jewish terrorism" is the term used in Israeli security discourse — and adopted in Badlands commentary — for politically or religiously motivated violence committed by Israeli Jewish civilians, particularly settlers in the [[west-bank|West Bank]], against Palestinians, Christians, and at times Israeli institutions and citizens. The May 1, 2026 [[badlands-brief-579|Badlands Brief]] treats the phenomenon as a rising internal threat that Israel's own security establishment has begun to acknowledge publicly.
+"Jewish terrorism" is the term used in Israeli security discourse — and adopted in Badlands commentary — for politically or religiously motivated violence committed by Israeli Jewish civilians, particularly settlers in the [[west-bank|West Bank]], against Palestinians, Christians, and at times Israeli institutions and citizens. The May 1, 2026 Badlands Brief treats the phenomenon as a rising internal threat that Israel's own security establishment has begun to acknowledge publicly.
 
 ## IDF warning
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Jeff Sessions
 
-Jeff Sessions is a former United States Senator from Alabama who served as Attorney General during the first term of [[donald-trump|Donald Trump]]. Widely criticized by Trump supporters at the time for recusing himself from the Russia investigation, Sessions is reinterpreted in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as the architect of a covert prosecutorial strategy.
+Jeff Sessions is a former United States Senator from Alabama who served as Attorney General during the first term of [[donald-trump|Donald Trump]]. Widely criticized by Trump supporters at the time for recusing himself from the Russia investigation, Sessions is reinterpreted in the Badlands Media essay America for Sale — Part 2 as the architect of a covert prosecutorial strategy.
 
 ## Ending the DOJ "slush fund"
 

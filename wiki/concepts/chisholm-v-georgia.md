@@ -10,7 +10,7 @@ contested: false
 ---
 # Chisholm v. Georgia
 
-*Chisholm, Ex'r v. Georgia* is an early decision of the [[supreme-court-of-the-united-states|Supreme Court of the United States]], cited in the [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023) as authority for the proposition that the authority of the several states — and therefore of the federal government they created — originates with the people.
+*Chisholm, Ex'r v. Georgia* is an early decision of the [[supreme-court-of-the-united-states|Supreme Court of the United States]], cited in the Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System" (May 16, 2023) as authority for the proposition that the authority of the several states — and therefore of the federal government they created — originates with the people.
 
 ## The quoted passage
 

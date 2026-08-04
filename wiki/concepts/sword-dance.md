@@ -10,7 +10,7 @@ contested: true
 ---
 # Sword Dance
 
-The Sword Dance refers to the traditional Saudi *ardah* performed with [[donald-trump]] during his May 2017 visit to Riyadh. The Badlands Media essay [[arabian-nights]] calls it "infamous" and "an event that has become iconic in our movement, analyzed ad nauseum by the most brilliant minds among us," noting that it was spotlighted by [[q]] — described in the article as "the most notorious Anon of them all."
+The Sword Dance refers to the traditional Saudi *ardah* performed with [[donald-trump]] during his May 2017 visit to Riyadh. The Badlands Media essay arabian nights calls it "infamous" and "an event that has become iconic in our movement, analyzed ad nauseum by the most brilliant minds among us," noting that it was spotlighted by [[q]] — described in the article as "the most notorious Anon of them all."
 
 For the essay's author, the pseudonymous [[ghost-of-patrick-henry]], the event carried personal significance: it fell on his birthday, exactly one week before his wedding in the Dominican Republic. He describes sitting on the beach in the days afterward, reading the headlines of what he calls the apoplectic mainstream press and feeling vindicated for having supported Trump from the moment he descended the escalator. The passage frames the period as one in which "he was winning. We were winning," and America was recovering from the Obama and Bush years.
 

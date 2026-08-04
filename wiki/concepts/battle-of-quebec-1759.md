@@ -10,7 +10,7 @@ contested: true
 ---
 # Battle of Quebec (1759)
 
-The Battle of Quebec, fought at the Plains of Abraham on September 13, 1759 during the Seven Years' War, ended in French defeat and the death of the young British general James Wolfe. It is the subject of [[benjamin-west|Benjamin West]]'s 1770 painting *The Death of General Wolfe* and is analyzed at length in the Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]].
+The Battle of Quebec, fought at the Plains of Abraham on September 13, 1759 during the Seven Years' War, ended in French defeat and the death of the young British general James Wolfe. It is the subject of [[benjamin-west|Benjamin West]]'s 1770 painting *The Death of General Wolfe* and is analyzed at length in the Badlands Media essay A New American Renaissance.
 
 ## Strategic significance in the source's reading
 

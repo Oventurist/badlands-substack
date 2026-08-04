@@ -13,7 +13,7 @@ The Church Committee was a United States congressional committee, led by Senator
 
 ## The 1975 hearings
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] states that in 1975 it was discovered through the Church Committee that the [[cia|Central Intelligence Agency]] had manipulated and controlled the American media since 1960, and possibly earlier. The essay describes the committee as grilling CIA Director [[william-colby]] under oath, and credits those hearings with revealing the existence of [[operation-mockingbird|Operation Mockingbird]] — the placement of agency assets inside media companies.
+Erik Carlson's America Has a CIA Run Economy states that in 1975 it was discovered through the Church Committee that the [[cia|Central Intelligence Agency]] had manipulated and controlled the American media since 1960, and possibly earlier. The essay describes the committee as grilling CIA Director [[william-colby]] under oath, and credits those hearings with revealing the existence of [[operation-mockingbird|Operation Mockingbird]] — the placement of agency assets inside media companies.
 
 ## Significance in the corpus
 

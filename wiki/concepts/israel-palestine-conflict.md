@@ -10,7 +10,7 @@ contested: true
 ---
 # Israel–Palestine Conflict
 
-The Israel–Palestine conflict is the long-running territorial and political struggle between Israelis and Palestinians in the Middle East. In the Badlands Media corpus it is treated less as a subject of geopolitical analysis than as a case study in mass persuasion, most directly in the October 2023 essay [[a-hypnotists-take-on-israel-palestine|"A Hypnotist's Take on Israel, Palestine, and Q"]], published shortly after the escalation of hostilities in October of that year.
+The Israel–Palestine conflict is the long-running territorial and political struggle between Israelis and Palestinians in the Middle East. In the Badlands Media corpus it is treated less as a subject of geopolitical analysis than as a case study in mass persuasion, most directly in the October 2023 essay "A Hypnotist's Take on Israel, Palestine, and Q", published shortly after the escalation of hostilities in October of that year.
 
 ## Framing in the corpus
 

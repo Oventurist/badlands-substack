@@ -11,7 +11,7 @@ contested: true
 
 # Ryan Macias
 
-Ryan Macias is an election-administration consultant who figures in the reporting by [[ashe-in-america|Ashe in America]] published in [[badlands-brief-314|the Badlands Brief of February 4, 2026]].
+Ryan Macias is an election-administration consultant who figures in the reporting by [[ashe-in-america|Ashe in America]] published in the Badlands Brief of February 4, 2026.
 
 According to that account, Macias attended a meeting of Colorado county clerks, and Ashe in America broke the news of his presence while the meeting was still under way. She reports that Colorado clerks subsequently received "a talking-to" from [[matt-crane|Matt Crane]], whom she describes as their handler, and that sources familiar with the reprimand told her the clerks are no longer permitted to post to social media during their meetings on the grounds that it is unsafe. She stresses that she never disclosed the meeting's location — only that Macias was in attendance — and attributes the reprimand to embarrassment rather than genuine security concerns.
 

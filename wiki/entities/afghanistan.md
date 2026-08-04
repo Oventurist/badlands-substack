@@ -14,7 +14,7 @@ Afghanistan is a landlocked country in South and Central Asia, governed since 20
 
 ## State Sponsor of Wrongful Detention designation
 
-The March 10, 2026 [[badlands-brief-509|Badlands Brief]] reports that on March 9, 2026, Secretary of State [[marco-rubio|Marco Rubio]] announced that the United States had designated Afghanistan as a "[[state-sponsor-of-wrongful-detention|State Sponsor of Wrongful Detention]]." According to the source, the designation was made in response to the Taliban's detention of US nationals and other foreign citizens on grounds considered unjustified or politically motivated.
+The March 10, 2026 Badlands Brief reports that on March 9, 2026, Secretary of State [[marco-rubio|Marco Rubio]] announced that the United States had designated Afghanistan as a "[[state-sponsor-of-wrongful-detention|State Sponsor of Wrongful Detention]]." According to the source, the designation was made in response to the Taliban's detention of US nationals and other foreign citizens on grounds considered unjustified or politically motivated.
 
 The Brief explains that the designation is a [[state-department|State Department]] classification used to identify governments that detain foreign nationals to gain diplomatic leverage or concessions, and that it permits the US government to increase diplomatic pressure and coordinate efforts to secure the release of detained Americans. Afghanistan's designation follows other countries labeled under the same framework.
 

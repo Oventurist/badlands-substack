@@ -10,7 +10,7 @@ contested: true
 ---
 # Roman Abramovich
 
-Roman Abramovich is a Russian businessman who accumulated a fortune in oil and metals in the wake of the 1990s privatizations and later became widely known in Britain as the owner of Chelsea Football Club. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is named among the oligarchs created by post-Soviet shock therapy.
+Roman Abramovich is a Russian businessman who accumulated a fortune in oil and metals in the wake of the 1990s privatizations and later became widely known in Britain as the owner of Chelsea Football Club. In the Badlands Media essay A Re Alignment of World Systems, he is named among the oligarchs created by post-Soviet shock therapy.
 
 ## Role in the source
 

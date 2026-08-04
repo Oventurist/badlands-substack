@@ -12,7 +12,7 @@ contested: true
 ---
 # Robert Gambino
 
-Robert Gambino is identified in the Badlands Media article [[a-family-affair]] as a CIA operative who trained [[jeb-bush]] while Bush was employed at [[texas-commerce-bank]].
+Robert Gambino is identified in the Badlands Media article a family affair as a CIA operative who trained [[jeb-bush]] while Bush was employed at [[texas-commerce-bank]].
 
 ## Training of Jeb Bush
 

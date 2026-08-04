@@ -10,7 +10,7 @@ contested: false
 ---
 # J. E. Dyer
 
-J. E. Dyer is a commentator who publishes at The Optimistic Conservative. She is quoted at length in [[anthony-fauci|"Anthony Fauci: Soldier for the Communist Cause"]], where [[j-b-white|J.B. White]] credits a Dyer column of December 16, 2022 with concisely illuminating the tool he regards as most favoured by what he calls the Deep State/Marxist/Communist/Fascist/Socialist continuum: censorship.
+J. E. Dyer is a commentator who publishes at The Optimistic Conservative. She is quoted at length in "Anthony Fauci: Soldier for the Communist Cause", where [[j-b-white|J.B. White]] credits a Dyer column of December 16, 2022 with concisely illuminating the tool he regards as most favoured by what he calls the Deep State/Marxist/Communist/Fascist/Socialist continuum: censorship.
 
 ## Argument on censorship and gaslighting
 

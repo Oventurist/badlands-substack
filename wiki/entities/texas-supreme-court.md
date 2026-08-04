@@ -13,7 +13,7 @@ contested: false
 
 The Texas Supreme Court is the court of last resort for civil matters in the state of [[texas|Texas]].
 
-[[badlands-brief-174|Badlands Brief: Conflicts, Cartels, & Clemency]] reports that during the March 2026 primary elections a [[dallas-county|Dallas County]] judge ordered polling locations to remain open beyond their scheduled closing time after voters reported being turned away or confused about assigned precinct locations. The Texas Supreme Court subsequently blocked the extension of voting hours. The intervention became a focal point of Representative [[jasmine-crockett|Jasmine Crockett]]'s claim that voters had been "disenfranchised" in the primary she lost to [[james-talarico|James Talarico]].
+Badlands Brief: Conflicts, Cartels, & Clemency reports that during the March 2026 primary elections a [[dallas-county|Dallas County]] judge ordered polling locations to remain open beyond their scheduled closing time after voters reported being turned away or confused about assigned precinct locations. The Texas Supreme Court subsequently blocked the extension of voting hours. The intervention became a focal point of Representative [[jasmine-crockett|Jasmine Crockett]]'s claim that voters had been "disenfranchised" in the primary she lost to [[james-talarico|James Talarico]].
 
 ## Sources
 

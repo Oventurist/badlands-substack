@@ -15,7 +15,7 @@ Lisa Cook is a governor of the [[federal-reserve|Federal Reserve]] whose attempt
 
 ## The removal case
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that later that month the Supreme Court would hear the case involving Trump and Cook, in which Cook urged the Court to prevent the president from removing her. The case is commonly framed as a test of Federal Reserve independence.
+The January 9, 2026 Badlands Brief reports that later that month the Supreme Court would hear the case involving Trump and Cook, in which Cook urged the Court to prevent the president from removing her. The case is commonly framed as a test of Federal Reserve independence.
 
 ## Badlands framing
 

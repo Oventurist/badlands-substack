@@ -10,7 +10,7 @@ contested: true
 ---
 # Sergei Kurzin
 
-Sergei Kurzin is a Russian investor and engineer who, according to New York Post reporting quoted in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]], "worked for [[marc-rich|Marc Rich]] in the 1990s, traveling around Russia looking for suitable investment opportunities in the crumbled former Soviet Union."
+Sergei Kurzin is a Russian investor and engineer who, according to New York Post reporting quoted in the Badlands Media essay America for Sale — Part 3, "worked for [[marc-rich|Marc Rich]] in the 1990s, traveling around Russia looking for suitable investment opportunities in the crumbled former Soviet Union."
 
 An engineer by training, Kurzin went on to participate in lucrative deals in [[kazakhstan|Kazakhstan]] and elsewhere, "including the lucrative [[uranium-one|Uranium One]] deal that involved [[bill-clinton|Bill Clinton]] and [[frank-giustra|Frank Giustra]]." The article places him in the original UrAsia uranium venture in Kazakhstan as well as in the eventual sale of Uranium One to Russia, describing him as the Clintons' and Giustra's "Russian partner."
 

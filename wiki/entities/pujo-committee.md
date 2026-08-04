@@ -28,7 +28,7 @@ The Pujo Committee is presented in the article as evidence that the cabal's cont
 - Jacob H. Schiff — singled out in the Pujo Report
 - Benjamin Strong Jr — singled out in the Pujo Report
 - William Rockefeller — singled out in the Pujo Report
-- [[1913]] — the year of both the Federal Reserve Act and the Pujo Committee investigation
+- 1913 — the year of both the Federal Reserve Act and the Pujo Committee investigation
 
 ## Sources
 

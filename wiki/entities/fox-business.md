@@ -13,7 +13,7 @@ contested: false
 ---
 # Fox Business
 
-Fox Business is an American cable and satellite business news television channel owned by Fox News Media. In the Badlands Media article [[a-family-affair]], Fox Business is cited for detailed reporting on [[jeb-bush]]'s advisory role at [[lehman-brothers]] and his participation in "Project Verde," the failed effort to secure a bailout from Mexican billionaire [[carlos-slim]] in 2008.
+Fox Business is an American cable and satellite business news television channel owned by Fox News Media. In the Badlands Media article a family affair, Fox Business is cited for detailed reporting on [[jeb-bush]]'s advisory role at [[lehman-brothers]] and his participation in "Project Verde," the failed effort to secure a bailout from Mexican billionaire [[carlos-slim]] in 2008.
 
 ## Key citations
 

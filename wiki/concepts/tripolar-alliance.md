@@ -11,7 +11,7 @@ contested: true
 
 # Tripolar Alliance
 
-The Tripolar Alliance is a term used by Badlands contributor [[burning-bright|Burning Bright]] in [[badlands-brief-314|the Badlands Brief of February 4, 2026]] to describe what he calls the "Trinity" of the United States, [[russia|Russia]] and [[china|China]] — [[donald-trump|Trump]], [[vladimir-putin|Putin]] and [[xi-jinping|Xi]] — operating as the largest of the "Regions of Responsibility" he sees being established across the international system.
+The Tripolar Alliance is a term used by Badlands contributor [[burning-bright|Burning Bright]] in the Badlands Brief of February 4, 2026 to describe what he calls the "Trinity" of the United States, [[russia|Russia]] and [[china|China]] — [[donald-trump|Trump]], [[vladimir-putin|Putin]] and [[xi-jinping|Xi]] — operating as the largest of the "Regions of Responsibility" he sees being established across the international system.
 
 ## The shielding thesis
 

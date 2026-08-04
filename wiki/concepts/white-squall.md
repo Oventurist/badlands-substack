@@ -10,7 +10,7 @@ contested: true
 ---
 # White Squall
 
-*White Squall* is a seafaring film that Badlands Media contributor [[american-hypnotist|American Hypnotist]] reads as an extended narrative metaphor — in Q parlance, a "comm" — for the movement surrounding [[donald-trump|Donald Trump]] and [[q|Q]]. The author had previously devoted a full essay to the film, and returns to it in the closing section of [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]] under the heading "Possible Fulfillment of a Comm? White Squall Revisited."
+*White Squall* is a seafaring film that Badlands Media contributor [[american-hypnotist|American Hypnotist]] reads as an extended narrative metaphor — in Q parlance, a "comm" — for the movement surrounding [[donald-trump|Donald Trump]] and [[q|Q]]. The author had previously devoted a full essay to the film, and returns to it in the closing section of Are Jack Smith and Fani Willis in on the Plan? under the heading "Possible Fulfillment of a Comm? White Squall Revisited."
 
 ## Plot as metaphor
 

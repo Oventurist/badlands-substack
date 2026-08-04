@@ -13,7 +13,7 @@ contested: false
 
 Minoru Kihara is the Chief Cabinet Secretary of [[japan|Japan]].
 
-In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], Kihara is quoted addressing objections from [[china|China]] and [[taiwan|Taiwan]] to planned maritime delimitation talks between Tokyo and Manila, stating that any agreement reached between Japan and the [[philippines|Philippines]] would not be legally binding on third parties.
+In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, Kihara is quoted addressing objections from [[china|China]] and [[taiwan|Taiwan]] to planned maritime delimitation talks between Tokyo and Manila, stating that any agreement reached between Japan and the [[philippines|Philippines]] would not be legally binding on third parties.
 
 ## Sources
 

@@ -13,7 +13,7 @@ contested: true
 ---
 # Matthew Woll
 
-Matthew Woll was an American labor leader who served as a key figure in the [[american-federation-of-labor|American Federation of Labor (AFL)]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Woll is depicted as a staunch anti-communist who viewed organized labor as a frontline in the ideological battle against Soviet influence in Europe.
+Matthew Woll was an American labor leader who served as a key figure in the [[american-federation-of-labor|American Federation of Labor (AFL)]]. In the Badlands Media article A More Perfect (Labor) Union, Woll is depicted as a staunch anti-communist who viewed organized labor as a frontline in the ideological battle against Soviet influence in Europe.
 
 ## Role in covert operations
 

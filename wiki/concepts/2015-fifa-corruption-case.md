@@ -11,7 +11,7 @@ contested: false
 
 # 2015 FIFA Corruption Case
 
-The 2015 FIFA corruption case refers to the criminal proceedings in which several officials of [[fifa|FIFA]], world football's governing body, were arrested in a large-scale corruption scandal involving money laundering. The case is cited in the [[badlands-brief|Badlands Brief]] as background context for suspicion of FIFA's institutional integrity.
+The 2015 FIFA corruption case refers to the criminal proceedings in which several officials of [[fifa|FIFA]], world football's governing body, were arrested in a large-scale corruption scandal involving money laundering. The case is cited in the Badlands Brief as background context for suspicion of FIFA's institutional integrity.
 
 ## Use in Badlands commentary
 

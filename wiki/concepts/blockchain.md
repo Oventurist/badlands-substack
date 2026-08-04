@@ -10,7 +10,7 @@ contested: false
 ---
 # Blockchain
 
-Blockchain is the distributed ledger technology underlying [[bitcoin]] and, in the account given by [[joe-lange|Joe Lange]] in [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]], the technical foundation of every digital currency including [[central-bank-digital-currency|central bank digital currencies]]. The article treats it as the decisive variable in the transition away from what it calls the global debt slavery system.
+Blockchain is the distributed ledger technology underlying [[bitcoin]] and, in the account given by [[joe-lange|Joe Lange]] in "Are CBDCs The Path To Fear, or Freedom?", the technical foundation of every digital currency including [[central-bank-digital-currency|central bank digital currencies]]. The article treats it as the decisive variable in the transition away from what it calls the global debt slavery system.
 
 ## Technical description
 

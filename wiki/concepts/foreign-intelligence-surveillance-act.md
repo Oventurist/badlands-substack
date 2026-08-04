@@ -10,7 +10,7 @@ contested: true
 ---
 # Foreign Intelligence Surveillance Act
 
-The Foreign Intelligence Surveillance Act (FISA) is the United States statute governing electronic surveillance conducted for foreign-intelligence purposes. In the Badlands Media corpus it is treated primarily as a vehicle of domestic surveillance abuse, and it recurs in the April 17, 2026 [[badlands-brief-07c|Badlands Brief]] in connection with the fight over renewal of [[section-702|Section 702]].
+The Foreign Intelligence Surveillance Act (FISA) is the United States statute governing electronic surveillance conducted for foreign-intelligence purposes. In the Badlands Media corpus it is treated primarily as a vehicle of domestic surveillance abuse, and it recurs in the April 17, 2026 Badlands Brief in connection with the fight over renewal of [[section-702|Section 702]].
 
 The Brief reports that President [[donald-trump|Donald Trump]] is urging [[congress|Congress]] to extend Section 702 ahead of a looming expiration deadline, calling on Republican lawmakers to unify behind what he described as a critical national security tool. The article frames this as "a sharp reversal from Trump's earlier criticism of FISA authorities," a criticism grounded in what the source calls past misuse of the statute, including improper surveillance of Americans and of political figures.
 

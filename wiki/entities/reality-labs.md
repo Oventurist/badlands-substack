@@ -15,7 +15,7 @@ Reality Labs is the division of [[meta-platforms|Meta]] responsible for the comp
 
 ## Financial position
 
-As reported in the Badlands Brief edition [[badlands-brief-52b|"Golgotha & The Metaverse"]] (March 20, 2026), Reality Labs has accumulated tens of billions of dollars in losses. Meta leadership has consistently defended the division's spending as a long-term investment rather than a near-term profit center.
+As reported in the Badlands Brief edition "Golgotha & The Metaverse" (March 20, 2026), Reality Labs has accumulated tens of billions of dollars in losses. Meta leadership has consistently defended the division's spending as a long-term investment rather than a near-term profit center.
 
 ## 2026 strategic pivot
 

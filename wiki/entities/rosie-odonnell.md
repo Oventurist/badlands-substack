@@ -15,7 +15,7 @@ Rosie O'Donnell is an American comedian and television personality whose long-ru
 
 ## 2026 Truth Social remarks
 
-O'Donnell is named in the [[truth-social|Truth Social]] post that Trump published after his 2026 [[state-of-the-union|State of the Union]] address, reproduced in the [[badlands-brief-40d|February 27, 2026 Badlands Brief]]. Trump referred to "Crazy Rosie O'Donnell, who is right now in Ireland trying to figure out how to come back into our beautiful United States," and compared her unfavorably with the actor [[robert-de-niro|Robert De Niro]], remarking that "the only difference between De Niro and Rosie is that she is probably somewhat smarter than him, which isn't saying much." The comment appeared alongside Trump's criticism of Representatives [[ilhan-omar|Ilhan Omar]] and [[rashida-tlaib|Rashida Tlaib]].
+O'Donnell is named in the [[truth-social|Truth Social]] post that Trump published after his 2026 [[state-of-the-union|State of the Union]] address, reproduced in the February 27, 2026 Badlands Brief. Trump referred to "Crazy Rosie O'Donnell, who is right now in Ireland trying to figure out how to come back into our beautiful United States," and compared her unfavorably with the actor [[robert-de-niro|Robert De Niro]], remarking that "the only difference between De Niro and Rosie is that she is probably somewhat smarter than him, which isn't saying much." The comment appeared alongside Trump's criticism of Representatives [[ilhan-omar|Ilhan Omar]] and [[rashida-tlaib|Rashida Tlaib]].
 
 ## Sources
 

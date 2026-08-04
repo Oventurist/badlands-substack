@@ -13,7 +13,7 @@ contested: false
 
 Steve Toth is a Texas state representative who defeated four-term United States Representative [[dan-crenshaw|Dan Crenshaw]] in the Republican primary for Texas's 2nd congressional district in March 2026.
 
-[[badlands-brief-174|Badlands Brief: Conflicts, Cartels, & Clemency]] describes the Toth–Crenshaw result as among the most notable upsets of the [[texas|Texas]] primaries, offered as evidence that incumbents backed by establishment networks were vulnerable heading into the 2026 midterm cycle.
+Badlands Brief: Conflicts, Cartels, & Clemency describes the Toth–Crenshaw result as among the most notable upsets of the [[texas|Texas]] primaries, offered as evidence that incumbents backed by establishment networks were vulnerable heading into the 2026 midterm cycle.
 
 ## Sources
 

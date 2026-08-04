@@ -23,7 +23,7 @@ The article makes the striking claim that in 1910, leaders of the Populist Party
 - William Jennings Bryan — Democratic leader who mirrored the Populist Party's income tax demands
 - [[Sixteenth Amendment]] — the constitutional vehicle for the income tax the Populists sought
 - [[Revenue Act of 1913]] — the legislation implementing the income tax
-- [[1913]] — the year of the cabal's alleged consolidation
+- 1913 — the year of the cabal's alleged consolidation
 
 ## Sources
 

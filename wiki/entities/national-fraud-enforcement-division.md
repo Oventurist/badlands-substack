@@ -15,7 +15,7 @@ The National Fraud Enforcement Division is a new division of the United States [
 
 ## Creation and leadership
 
-Trump announced the division and the nomination of [[colin-mcdonald|Colin McDonald]] as its first Assistant Attorney General late on January 28, 2026, describing it as "a new Division at the Department of Justice, which I created to catch and stop FRAUDSTERS that have been STEALING from the American People." The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] notes that the role is described as targeting large-scale misuse of federal funds and related financial crimes, and that primary reporting did not limit it to election fraud, although election-related financial crimes may fall within its scope.
+Trump announced the division and the nomination of [[colin-mcdonald|Colin McDonald]] as its first Assistant Attorney General late on January 28, 2026, describing it as "a new Division at the Department of Justice, which I created to catch and stop FRAUDSTERS that have been STEALING from the American People." The January 30, 2026 Badlands Brief notes that the role is described as targeting large-scale misuse of federal funds and related financial crimes, and that primary reporting did not limit it to election fraud, although election-related financial crimes may fall within its scope.
 
 ## Stated impetus
 

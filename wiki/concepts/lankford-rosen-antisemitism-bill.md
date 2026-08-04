@@ -15,7 +15,7 @@ The Lankford–Rosen antisemitism bill is a sweeping bipartisan legislative pack
 
 ## Provisions
 
-According to the May 20, 2026 [[badlands-brief-311|Badlands Brief]], the bill would require the [[department-of-education|Department of Education]] to appoint an antisemitism coordinator and would impose new regulations on colleges receiving federal funding, including mandatory non-discrimination policies and grievance processes. It would boost nonprofit security grants for Jewish communities to $1 billion and create a dedicated grant program for places of worship. It would also mandate that online platforms disclose how they moderate and respond to antisemitic content.
+According to the May 20, 2026 Badlands Brief, the bill would require the [[department-of-education|Department of Education]] to appoint an antisemitism coordinator and would impose new regulations on colleges receiving federal funding, including mandatory non-discrimination policies and grievance processes. It would boost nonprofit security grants for Jewish communities to $1 billion and create a dedicated grant program for places of worship. It would also mandate that online platforms disclose how they moderate and respond to antisemitic content.
 
 ## Development and backing
 

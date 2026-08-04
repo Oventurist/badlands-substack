@@ -15,7 +15,7 @@ The American Bar Association (ABA) is the professional association of American l
 
 ## Accreditation authority under challenge
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that Rep. [[brandon-gill|Brandon Gill]], R-Texas, said he intends to pursue legislation that would remove the ABA's authority to accredit U.S. law schools. Gill, who chairs the [[house-oversight-committee|House Oversight Committee]]'s Task Force on Defending Constitutional Rights and Exposing Institutional Abuse, said lawmakers were examining federal legislation that could reduce the ABA's accreditation role while leaving individual states free to decide whether to continue working with the organization. Gill has alleged that the ABA has exercised significant influence over law school admissions, curricula and continuing legal education.
+The July 27, 2026 Badlands Brief reports that Rep. [[brandon-gill|Brandon Gill]], R-Texas, said he intends to pursue legislation that would remove the ABA's authority to accredit U.S. law schools. Gill, who chairs the [[house-oversight-committee|House Oversight Committee]]'s Task Force on Defending Constitutional Rights and Exposing Institutional Abuse, said lawmakers were examining federal legislation that could reduce the ABA's accreditation role while leaving individual states free to decide whether to continue working with the organization. Gill has alleged that the ABA has exercised significant influence over law school admissions, curricula and continuing legal education.
 
 ## Diversity, equity and inclusion requirements
 

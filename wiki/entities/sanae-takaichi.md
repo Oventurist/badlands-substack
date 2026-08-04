@@ -13,7 +13,7 @@ contested: false
 
 Sanae Takaichi is the Prime Minister of [[japan|Japan]].
 
-In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]], Takaichi appears as co-announcer, alongside Philippine President [[ferdinand-marcos-jr|Ferdinand Marcos Jr.]], of plans agreed at a May 28 summit in Tokyo to begin maritime delimitation talks concerning the two countries' exclusive economic zones and continental shelves. The announcement drew objections from [[china|China]], whose Foreign Ministry spokeswoman [[mao-ning|Mao Ning]] insisted that any such negotiations over waters east of [[taiwan|Taiwan]] must involve Beijing, and preceded a Chinese "special maritime law enforcement operation" in the same area.
+In Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi, Takaichi appears as co-announcer, alongside Philippine President [[ferdinand-marcos-jr|Ferdinand Marcos Jr.]], of plans agreed at a May 28 summit in Tokyo to begin maritime delimitation talks concerning the two countries' exclusive economic zones and continental shelves. The announcement drew objections from [[china|China]], whose Foreign Ministry spokeswoman [[mao-ning|Mao Ning]] insisted that any such negotiations over waters east of [[taiwan|Taiwan]] must involve Beijing, and preceded a Chinese "special maritime law enforcement operation" in the same area.
 
 ## Sources
 

@@ -15,7 +15,7 @@ Frank-Walter Steinmeier is the President of [[germany|Germany]] and one of the E
 
 ## Warnings about the global order
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that Steinmeier said US policy under Trump is helping erode the global order, pointing to the operation against [[venezuela|Venezuela]]'s [[nicolas-maduro|Nicolás Maduro]] among developments he described as destabilizing. He warned "against turning global politics into 'a den of robbers.'"
+The January 9, 2026 Badlands Brief reports that Steinmeier said US policy under Trump is helping erode the global order, pointing to the operation against [[venezuela|Venezuela]]'s [[nicolas-maduro|Nicolás Maduro]] among developments he described as destabilizing. He warned "against turning global politics into 'a den of robbers.'"
 
 ## Badlands response
 

@@ -11,7 +11,7 @@ contested: true
 
 # Sheldon Whitehouse
 
-Sheldon Whitehouse is a Democratic United States Senator identified in [[badlands-brief-314|the Badlands Brief of February 4, 2026]] as the originator of the congressional investigation into Nazi-era accounts at [[credit-suisse|Credit Suisse]].
+Sheldon Whitehouse is a Democratic United States Senator identified in the Badlands Brief of February 4, 2026 as the originator of the congressional investigation into Nazi-era accounts at [[credit-suisse|Credit Suisse]].
 
 ## Role in the Credit Suisse inquiry
 

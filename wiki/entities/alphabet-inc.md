@@ -14,7 +14,7 @@ Alphabet Inc. is the holding company of Google, the dominant American search and
 
 ## Market position
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] lists Alphabet among the top five American companies by market capitalization in both 2020 and 2025, placing it fourth in each year.
+Erik Carlson's America Has a CIA Run Economy lists Alphabet among the top five American companies by market capitalization in both 2020 and 2025, placing it fourth in each year.
 
 ## Search engines and CIA control
 

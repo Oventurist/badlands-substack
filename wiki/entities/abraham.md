@@ -10,7 +10,7 @@ contested: false
 ---
 # Abraham
 
-Abraham is the patriarch common to Judaism, Christianity and Islam, and in the Badlands Media essay [[arabian-nights]] the founder of the [[kaaba]] and the ancestor of both [[hashim-ibn-abd-manaf|Hashim]] and [[prophet-muhammad|Muhammad]].
+Abraham is the patriarch common to Judaism, Christianity and Islam, and in the Badlands Media essay arabian nights the founder of the [[kaaba]] and the ancestor of both [[hashim-ibn-abd-manaf|Hashim]] and [[prophet-muhammad|Muhammad]].
 
 ## Birth and the confrontation with Nimrod
 

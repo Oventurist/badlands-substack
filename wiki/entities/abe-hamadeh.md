@@ -20,7 +20,7 @@ His race was simultaneously subject to an automatic recount. "At 511 votes out o
 
 ## Treatment in the corpus
 
-The Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]] speculates that Hamadeh will win the recount, and frames the prospect of an America First attorney general serving as the state's top law enforcement official inside a Hobbs administration as a dramatic development in the unfolding political conflict in Arizona.
+The Badlands Media article "Arizona Earthquake!" speculates that Hamadeh will win the recount, and frames the prospect of an America First attorney general serving as the state's top law enforcement official inside a Hobbs administration as a dramatic development in the unfolding political conflict in Arizona.
 
 ## Sources
 

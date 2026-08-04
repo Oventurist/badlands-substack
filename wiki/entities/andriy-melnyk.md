@@ -11,7 +11,7 @@ contested: true
 
 # Andriy Melnyk
 
-Andriy Melnyk (also rendered Andrey Melnik) was a leader of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] (OUN), the wartime Ukrainian nationalist movement that collaborated with Nazi Germany during the Second World War. He co-founded the OUN in 1929 alongside [[stepan-bandera|Stepan Bandera]], and, as noted in the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," was born an Austro-Hungarian citizen of German/Cossack descent in the western regions of what is now [[ukraine|Ukraine]].
+Andriy Melnyk (also rendered Andrey Melnik) was a leader of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] (OUN), the wartime Ukrainian nationalist movement that collaborated with Nazi Germany during the Second World War. He co-founded the OUN in 1929 alongside [[stepan-bandera|Stepan Bandera]], and, as noted in the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," was born an Austro-Hungarian citizen of German/Cossack descent in the western regions of what is now [[ukraine|Ukraine]].
 
 ## 2026 state reburial and international reaction
 

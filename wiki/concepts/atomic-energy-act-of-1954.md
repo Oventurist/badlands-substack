@@ -18,7 +18,7 @@ Section 123 of the Act is the provision that governs cooperation with foreign pa
 
 ## Relevance in the corpus
 
-The statute enters the Badlands corpus through the July 22, 2026 [[badlands-brief-1ae|Badlands Brief]], where [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] explains that the document the Trump administration was sending to Congress on [[saudi-arabia|Saudi Arabia]] "is the 123 Agreement, referring to Section 123 of the US Atomic Energy Act of 1954, which would allow US contractors to work in Saudi Arabia to develop their nuclear reactor and infrastructure." The Act thus supplies the legal architecture within which the debate over Saudi enrichment rights, the [[gold-standard|Gold Standard]], and [[international-atomic-energy-agency|IAEA]] inspections is conducted.
+The statute enters the Badlands corpus through the July 22, 2026 Badlands Brief, where [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] explains that the document the Trump administration was sending to Congress on [[saudi-arabia|Saudi Arabia]] "is the 123 Agreement, referring to Section 123 of the US Atomic Energy Act of 1954, which would allow US contractors to work in Saudi Arabia to develop their nuclear reactor and infrastructure." The Act thus supplies the legal architecture within which the debate over Saudi enrichment rights, the [[gold-standard|Gold Standard]], and [[international-atomic-energy-agency|IAEA]] inspections is conducted.
 
 ## Sources
 

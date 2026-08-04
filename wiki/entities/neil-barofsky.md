@@ -11,7 +11,7 @@ contested: false
 
 # Neil Barofsky
 
-Neil Barofsky is an American lawyer and former federal prosecutor who serves as the independent investigator examining Nazi-era accounts at [[credit-suisse|Credit Suisse]]. His work is the basis of the February 2026 announcement by Senator [[chuck-grassley|Chuck Grassley]] that 890 previously undisclosed accounts with potential links to the Nazi regime had been uncovered, as described in [[badlands-brief-314|the Badlands Brief of February 4, 2026]].
+Neil Barofsky is an American lawyer and former federal prosecutor who serves as the independent investigator examining Nazi-era accounts at [[credit-suisse|Credit Suisse]]. His work is the basis of the February 2026 announcement by Senator [[chuck-grassley|Chuck Grassley]] that 890 previously undisclosed accounts with potential links to the Nazi regime had been uncovered, as described in the Badlands Brief of February 4, 2026.
 
 ## Career before the Credit Suisse probe
 

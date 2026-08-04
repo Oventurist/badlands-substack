@@ -10,7 +10,7 @@ contested: true
 ---
 # Marc Rich
 
-Marc Rich, born Marcel Reich (1934–2013), was a commodities trader and international financier, widely regarded as the dominant oil trader of the late twentieth century and, after his 1983 indictment in the United States, one of the world's most famous fugitives. He is a central figure in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]], which uses his career to argue that [[sanctions|economic sanctions]] function as a covert profit and laundering mechanism rather than a punishment.
+Marc Rich, born Marcel Reich (1934–2013), was a commodities trader and international financier, widely regarded as the dominant oil trader of the late twentieth century and, after his 1983 indictment in the United States, one of the world's most famous fugitives. He is a central figure in the Badlands Media essay America for Sale — Part 3, which uses his career to argue that [[sanctions|economic sanctions]] function as a covert profit and laundering mechanism rather than a punishment.
 
 ## Indictment and career
 

@@ -10,7 +10,7 @@ contested: false
 ---
 # PwC
 
-PwC (PricewaterhouseCoopers) is a multinational professional-services and consulting firm. It appears in the July 2023 Badlands Media article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" as one of four institutions cited to demonstrate that, despite public calls for a development pause, the global corporate and governance establishment was proceeding at full speed on artificial intelligence.
+PwC (PricewaterhouseCoopers) is a multinational professional-services and consulting firm. It appears in the July 2023 Badlands Media article "Artificial Intelligence: Hysteria vs. Reason" as one of four institutions cited to demonstrate that, despite public calls for a development pause, the global corporate and governance establishment was proceeding at full speed on artificial intelligence.
 
 The article quotes PwC's June 2023 AI practice materials:
 

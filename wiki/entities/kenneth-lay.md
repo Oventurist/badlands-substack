@@ -14,7 +14,7 @@ contested: true
 ---
 # Kenneth Lay
 
-Kenneth Lee Lay (1942–2006) was an American businessman and the founder, chairman, and chief executive officer of Enron Corporation. In the Badlands Media article [[a-family-affair]], Lay is identified as a board member of [[texas-commerce-bank]] in the 1980s and as the founder of a "CIA-connected" energy company.
+Kenneth Lee Lay (1942–2006) was an American businessman and the founder, chairman, and chief executive officer of Enron Corporation. In the Badlands Media article a family affair, Lay is identified as a board member of [[texas-commerce-bank]] in the 1980s and as the founder of a "CIA-connected" energy company.
 
 ## Enron and Texas Commerce Bank
 

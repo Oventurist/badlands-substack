@@ -15,7 +15,7 @@ Gavin Newsom is the Governor of California. In the Badlands Media corpus he appe
 
 ## Senate Bill 73
 
-As reported in the [[badlands-brief-257|Badlands Brief of May 29, 2026]], Newsom signed [[california-senate-bill-73|Senate Bill 73]], a measure sharply restricting law enforcement access to ballots and election records ahead of the California primaries. Newsom said the measure was intended to "clarify the rules of engagement," noting that violations can carry criminal penalties, fines, and up to three years in jail. Commentary by [[ashe-in-america|Ashe in America]] argued that, given the weakness of existing ballot chain-of-custody practice, the law risked criminalizing status quo election administration.
+As reported in the Badlands Brief of May 29, 2026, Newsom signed [[california-senate-bill-73|Senate Bill 73]], a measure sharply restricting law enforcement access to ballots and election records ahead of the California primaries. Newsom said the measure was intended to "clarify the rules of engagement," noting that violations can carry criminal penalties, fines, and up to three years in jail. Commentary by [[ashe-in-america|Ashe in America]] argued that, given the weakness of existing ballot chain-of-custody practice, the law risked criminalizing status quo election administration.
 
 ## Tax on anti-weaponization fund payouts
 

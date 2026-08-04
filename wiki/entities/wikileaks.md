@@ -10,7 +10,7 @@ contested: false
 ---
 # WikiLeaks
 
-WikiLeaks is the publishing organisation known for releasing large caches of classified and private documents. In the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] it appears as the source of the evidence underpinning the article's account of [[bill-clinton|Bill Clinton]]'s 2009 mission to [[north-korea|North Korea]].
+WikiLeaks is the publishing organisation known for releasing large caches of classified and private documents. In the Badlands Media essay America for Sale — Part 3 it appears as the source of the evidence underpinning the article's account of [[bill-clinton|Bill Clinton]]'s 2009 mission to [[north-korea|North Korea]].
 
 According to [[buzzfeed|BuzzFeed News]], quoted in the article, a memo describing the meeting between Clinton and [[kim-jong-il|Kim Jong Il]] was "discovered attached to an email sent to [[john-podesta|John Podesta]], who accompanied Clinton on his mission." Podesta, a former White House chief of staff under Clinton and then head of the Center for American Progress, was at the time of publication serving as campaign chair for [[hillary-clinton|Hillary Clinton]]'s presidential campaign. BuzzFeed noted that "WikiLeaks has been slowly publishing emails from Podesta's account, which researchers believe was hacked by Russian hackers."
 

@@ -14,7 +14,7 @@ Kristi Noem is the Secretary of Homeland Security in the second [[donald-trump|T
 
 ## March 2026 Senate Judiciary testimony
 
-Noem is the central figure of a segment in the March 4, 2026 [[badlands-brief-165|Badlands Brief]], which reports that she faced sharp bipartisan criticism during a [[senate-judiciary-committee|Senate Judiciary Committee]] hearing on March 3, 2026, over the administration's mass deportation operations and departmental spending. She testified for nearly five hours.
+Noem is the central figure of a segment in the March 4, 2026 Badlands Brief, which reports that she faced sharp bipartisan criticism during a [[senate-judiciary-committee|Senate Judiciary Committee]] hearing on March 3, 2026, over the administration's mass deportation operations and departmental spending. She testified for nearly five hours.
 
 Noem defended aggressive ICE and CBP activity in Minnesota, including [[operation-metro-surge|Operation Metro Surge]], during which two U.S. citizen protesters — [[renee-good|Renee Good]] on January 7 and [[alex-pretti|Alex Pretti]] on January 24 — were fatally shot amid clashes in Minneapolis and St. Paul. She blamed "violent protesters" for the chaos; Democrats accused officers of excessive force and accused Noem of wrongly labeling the victims "domestic terrorists."
 

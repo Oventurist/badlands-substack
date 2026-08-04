@@ -14,7 +14,7 @@ The Bering Strait tunnel is a proposed 200 km rail tunnel connecting Russia and 
 
 ## Nineteenth-century roots
 
-The idea is traced in [[matthew-ehret|Matthew Ehret]]'s [[avoiding-wwiii|Avoiding WWIII]] to the world land-bridge conception of [[william-gilpin|William Gilpin]], the Lincoln ally and Colorado governor who published *The Cosmopolitan Railway* in 1890 as an extension of the American transcontinental rail model into Eurasia.
+The idea is traced in [[matthew-ehret|Matthew Ehret]]'s Avoiding WWIII to the world land-bridge conception of [[william-gilpin|William Gilpin]], the Lincoln ally and Colorado governor who published *The Cosmopolitan Railway* in 1890 as an extension of the American transcontinental rail model into Eurasia.
 
 ## Modern proposals
 
@@ -26,7 +26,7 @@ On September 26, 2020, President [[donald-trump|Donald Trump]] announced federal
 
 ## The 2026 US–Russia design agreement
 
-The June 5, 2026 [[badlands-brief-58d|Badlands Brief]] reports that Kremlin special envoy [[kirill-dmitriev|Kirill Dmitriev]] announced that Russia and the United States would sign an agreement on June 5, 2026 to move forward with the design phase of the tunnel, connecting Russia's Chukotka region with Alaska. "Regarding the tunnel. We will have news tomorrow: we are signing an agreement to continue the tunnel design. The tunnel will be built," Dmitriev said, describing the project as one of the most significant infrastructure initiatives envisioned between the two countries. Dmitriev first reintroduced the idea in October 2025, estimating that a conventional build could exceed $65 billion while suggesting costs could fall below $8 billion if construction methods associated with [[elon-musk|Elon Musk]]'s [[the-boring-company|The Boring Company]] were used.
+The June 5, 2026 Badlands Brief reports that Kremlin special envoy [[kirill-dmitriev|Kirill Dmitriev]] announced that Russia and the United States would sign an agreement on June 5, 2026 to move forward with the design phase of the tunnel, connecting Russia's Chukotka region with Alaska. "Regarding the tunnel. We will have news tomorrow: we are signing an agreement to continue the tunnel design. The tunnel will be built," Dmitriev said, describing the project as one of the most significant infrastructure initiatives envisioned between the two countries. Dmitriev first reintroduced the idea in October 2025, estimating that a conventional build could exceed $65 billion while suggesting costs could fall below $8 billion if construction methods associated with [[elon-musk|Elon Musk]]'s [[the-boring-company|The Boring Company]] were used.
 
 Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] framed the signing as "marking the formal emergence of the Sovereign Alliance in the public zeitgeist," recalling that [[john-f-kennedy|John F. Kennedy]] and [[nikita-khrushchev|Nikita Khrushchev]] had once attempted to bridge the continents before that project was shuttered by what he describes as the insurgency that seized the United States government in 1963. He credited [[vladimir-putin|Vladimir Putin]] with restraint through the process and predicted that "the Putin–Trump Tunnel will forever change the world."
 

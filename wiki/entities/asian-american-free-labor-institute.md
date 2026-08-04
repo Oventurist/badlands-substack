@@ -14,7 +14,7 @@ contested: true
 ---
 # Asian-American Free Labor Institute
 
-The Asian-American Free Labor Institute (AAFLI) was an international labor institute, an arm of the [[afl-cio|AFL-CIO]] active in Asia, and one of the institutes consolidated in 1997 into the AFL-CIO's [[solidarity-center|Solidarity Center]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], AAFLI is presented as an instrument of U.S. covert labor operations in Asia, closely tied to the [[pentagon|Department of Defense]].
+The Asian-American Free Labor Institute (AAFLI) was an international labor institute, an arm of the [[afl-cio|AFL-CIO]] active in Asia, and one of the institutes consolidated in 1997 into the AFL-CIO's [[solidarity-center|Solidarity Center]]. In the Badlands Media article A More Perfect (Labor) Union, AAFLI is presented as an instrument of U.S. covert labor operations in Asia, closely tied to the [[pentagon|Department of Defense]].
 
 ## Operations in Asia
 

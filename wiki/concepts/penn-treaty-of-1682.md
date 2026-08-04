@@ -10,7 +10,7 @@ contested: false
 ---
 # Penn Treaty of 1682
 
-The Penn Treaty of 1682 was the agreement between [[william-penn|William Penn]] and the Delaware natives of Pennsylvania, commemorated in a 1771 painting by [[benjamin-west|Benjamin West]] and examined at length in the Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]].
+The Penn Treaty of 1682 was the agreement between [[william-penn|William Penn]] and the Delaware natives of Pennsylvania, commemorated in a 1771 painting by [[benjamin-west|Benjamin West]] and examined at length in the Badlands Media essay A New American Renaissance.
 
 ## Circumstances
 

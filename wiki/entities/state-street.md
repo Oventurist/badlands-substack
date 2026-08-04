@@ -14,7 +14,7 @@ State Street Corporation is a major American financial services and asset manage
 
 ## Role in the media ownership argument
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] lists State Street among the world's largest institutional investors whose overlapping holdings in [[time-warner|Time Warner]], [[comcast|Comcast]], [[walt-disney-company|Disney]], [[sony|Sony]], [[paramount-global|Paramount Global]] and [[news-corp|NewsCorp]] mean that the apparent rivalry between mainstream outlets conceals a common ownership structure. The article connects these firms to elite policy bodies including the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[world-economic-forum|World Economic Forum]], concluding that the Big Six operate as the propaganda arm of a single establishment.
+A Swan Song for the MSM lists State Street among the world's largest institutional investors whose overlapping holdings in [[time-warner|Time Warner]], [[comcast|Comcast]], [[walt-disney-company|Disney]], [[sony|Sony]], [[paramount-global|Paramount Global]] and [[news-corp|NewsCorp]] mean that the apparent rivalry between mainstream outlets conceals a common ownership structure. The article connects these firms to elite policy bodies including the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[world-economic-forum|World Economic Forum]], concluding that the Big Six operate as the propaganda arm of a single establishment.
 
 ## Sources
 

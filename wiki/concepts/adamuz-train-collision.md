@@ -10,7 +10,7 @@ contested: false
 ---
 # Adamuz Train Collision
 
-The Adamuz train collision was a fatal high-speed rail accident near Adamuz, in the southern Spanish province of Córdoba, on the evening of Sunday, January 18, 2026. It is reported as a bonus item in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]].
+The Adamuz train collision was a fatal high-speed rail accident near Adamuz, in the southern Spanish province of Córdoba, on the evening of Sunday, January 18, 2026. It is reported as a bonus item in the January 19, 2026 Badlands Brief.
 
 According to the account, two high-speed passenger trains derailed and collided at about 7:45 p.m. local time, killing at least 39 people and injuring more than 120. The rear of an Iryo service travelling from Málaga to Madrid derailed and crossed onto the opposite track, slamming into an oncoming Renfe train running from Madrid to Huelva, according to rail operator Adif and government officials.
 

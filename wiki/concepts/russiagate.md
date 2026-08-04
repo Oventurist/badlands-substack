@@ -18,7 +18,7 @@ The Badlands treatment holds that Russiagate was constructed by elements of the 
 
 ## Unraveling
 
-[[badlands-blitz-episode-14|Badlands Blitz Episode 14]], published April 25, 2026, devotes a substantial segment to what its announcement calls "the unraveling of the Russiagate Hoax," presenting it as one of several developments in a week of "white pills" and as evidence of a "dawning age of American accountability." The episode links the unraveling directly to the indictment reported against the [[southern-poverty-law-center|Southern Poverty Law Center]], with hosts [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] treating the two stories as parts of a single accountability sequence reaching institutions long thought immune from consequence.
+Badlands Blitz Episode 14, published April 25, 2026, devotes a substantial segment to what its announcement calls "the unraveling of the Russiagate Hoax," presenting it as one of several developments in a week of "white pills" and as evidence of a "dawning age of American accountability." The episode links the unraveling directly to the indictment reported against the [[southern-poverty-law-center|Southern Poverty Law Center]], with hosts [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] treating the two stories as parts of a single accountability sequence reaching institutions long thought immune from consequence.
 
 ## Sources
 

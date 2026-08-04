@@ -11,7 +11,7 @@ contested: true
 
 # Martin Luther King Jr.
 
-Martin Luther King Jr. was the American civil rights leader assassinated on April 4, 1968. In the Badlands Media corpus he appears principally as a forensic and political parallel to the assassination of [[charlie-kirk|Charlie Kirk]], in the April 6, 2026 [[badlands-brief-282|Badlands Brief, "Jesus Walks"]], published shortly after the anniversary of his death.
+Martin Luther King Jr. was the American civil rights leader assassinated on April 4, 1968. In the Badlands Media corpus he appears principally as a forensic and political parallel to the assassination of [[charlie-kirk|Charlie Kirk]], in the April 6, 2026 Badlands Brief, "Jesus Walks", published shortly after the anniversary of his death.
 
 ## The autopsy and ballistics record
 

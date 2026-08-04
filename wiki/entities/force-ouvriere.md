@@ -14,7 +14,7 @@ contested: true
 ---
 # Force Ouvrière
 
-Force Ouvrière (Workers' Force) is a French trade union confederation founded in 1948 as a breakaway from the communist-led CGT. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Force Ouvrière is cited as an example of a non-communist European labor rivalry funded by the [[cia|CIA]] to split labor federations along Cold War lines.
+Force Ouvrière (Workers' Force) is a French trade union confederation founded in 1948 as a breakaway from the communist-led CGT. In the Badlands Media article A More Perfect (Labor) Union, Force Ouvrière is cited as an example of a non-communist European labor rivalry funded by the [[cia|CIA]] to split labor federations along Cold War lines.
 
 ## Funding by the CIA
 

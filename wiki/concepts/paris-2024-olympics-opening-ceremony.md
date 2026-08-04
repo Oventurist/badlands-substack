@@ -10,7 +10,7 @@ contested: true
 ---
 # Paris 2024 Olympics Opening Ceremony
 
-The opening ceremony of the 2024 Summer Olympics in Paris, staged on a Friday evening in late July 2024, generated international controversy over a tableau widely read as a parody of the Last Supper. In the Badlands Media corpus the ceremony is treated not primarily as an aesthetic or religious scandal but as a deliberate instrument of distraction and division, an interpretation set out in [[erik-carlson|Erik Carlson]]'s essay [[are-we-being-distracted|Are We Being Distracted?]].
+The opening ceremony of the 2024 Summer Olympics in Paris, staged on a Friday evening in late July 2024, generated international controversy over a tableau widely read as a parody of the Last Supper. In the Badlands Media corpus the ceremony is treated not primarily as an aesthetic or religious scandal but as a deliberate instrument of distraction and division, an interpretation set out in [[erik-carlson|Erik Carlson]]'s essay Are We Being Distracted?.
 
 ## The engineered-outrage reading
 

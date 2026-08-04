@@ -14,7 +14,7 @@ The Petrodollar refers to the arrangement, dating from the early 1970s, under wh
 
 ## Origins as described in the corpus
 
-The Badlands Media essay [[a-week-to-remember|A Week to Remember]] dates the Petrodollar to the same early-1970s window in which the United States abandoned gold settlement with foreign creditors. The source characterises the agreement as coerced: "When I say 'agreed', it was more like someone pulling up their shirt a little to show the gun tucked into their belt and saying, 'are we cool?'"
+The Badlands Media essay A Week to Remember dates the Petrodollar to the same early-1970s window in which the United States abandoned gold settlement with foreign creditors. The source characterises the agreement as coerced: "When I say 'agreed', it was more like someone pulling up their shirt a little to show the gun tucked into their belt and saying, 'are we cool?'"
 
 ## Consequences
 
@@ -29,7 +29,7 @@ The end of the Petrodollar is presented alongside the [[brics|BRICS]] push for a
 
 ## Displacement by yuan-for-gold oil sales
 
-Joe Lange's article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] describes the petrodollar arrangement — the deal making [[saudi-arabia|Saudi Arabia]], the world's largest oil producer, accept only dollars for oil — as one of the two pillars that made the dollar the "Keystone" of global finance and the instrument by which foreign policy could be dictated and non-compliant states punished. It credits [[china|China]] with beginning the reversal by opening the [[shanghai-petroleum-and-natural-gas-exchange|Shanghai Petroleum and Natural Gas Exchange]] in March 2018, allowing producers to sell oil for yuan convertible immediately into gold on the [[shanghai-gold-exchange|Shanghai Gold Exchange]], and asserts that the [[brics]] nations have thereby "ripped control of the world's oil supply away from the [[cabal]]."
+Joe Lange's article "Are CBDCs The Path To Fear, or Freedom?" describes the petrodollar arrangement — the deal making [[saudi-arabia|Saudi Arabia]], the world's largest oil producer, accept only dollars for oil — as one of the two pillars that made the dollar the "Keystone" of global finance and the instrument by which foreign policy could be dictated and non-compliant states punished. It credits [[china|China]] with beginning the reversal by opening the [[shanghai-petroleum-and-natural-gas-exchange|Shanghai Petroleum and Natural Gas Exchange]] in March 2018, allowing producers to sell oil for yuan convertible immediately into gold on the [[shanghai-gold-exchange|Shanghai Gold Exchange]], and asserts that the [[brics]] nations have thereby "ripped control of the world's oil supply away from the [[cabal]]."
 
 ## Sources
 

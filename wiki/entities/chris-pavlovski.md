@@ -14,7 +14,7 @@ contested: true
 
 ## Response to Media Matters Smear Campaign
 
-The Badlands article *[[a-cancer-on-modern-journalism|A Cancer on Modern Journalism]]* (November 29, 2023) documents Pavlovski's response to a [[Media Matters]] campaign targeting Rumble in March 2023. The source reports that Media Matters published an article claiming "Ads for Netflix are appearing next to Holocaust denial videos on Rumble." Pavlovski responded by publishing a statement asserting that Media Matters had run the exact same kind of hit job on Rumble as it later ran on X.
+The Badlands article *A Cancer on Modern Journalism* (November 29, 2023) documents Pavlovski's response to a [[Media Matters]] campaign targeting Rumble in March 2023. The source reports that Media Matters published an article claiming "Ads for Netflix are appearing next to Holocaust denial videos on Rumble." Pavlovski responded by publishing a statement asserting that Media Matters had run the exact same kind of hit job on Rumble as it later ran on X.
 
 The source provides traffic data for the Holocaust denial video referenced in the Media Matters article, showing that the video received zero engagement until the day the Media Matters article was published, at which point it rose to roughly five views and peaked at thirty views the following day. The article notes that the Media Matters employee was "the only human who saw the instance of this video with the Netflix ad," with an average watch time of 00:01:10.
 

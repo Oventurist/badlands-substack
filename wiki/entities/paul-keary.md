@@ -10,7 +10,7 @@ contested: true
 ---
 # Paul Keary
 
-Paul Keary is an American consultant and the third founding partner of [[teneo|Teneo]], alongside [[declan-kelly|Declan Kelly]] and [[doug-band|Doug Band]]. He is described in *Politico* reporting quoted by the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as a longtime associate of Kelly's.
+Paul Keary is an American consultant and the third founding partner of [[teneo|Teneo]], alongside [[declan-kelly|Declan Kelly]] and [[doug-band|Doug Band]]. He is described in *Politico* reporting quoted by the Badlands Media essay America for Sale — Part 2 as a longtime associate of Kelly's.
 
 ## Role in Teneo's formation
 

@@ -10,7 +10,7 @@ contested: false
 ---
 # Polymarket
 
-Polymarket is a prediction market platform on which users trade contracts tied to political, electoral, and current-events outcomes. It is referenced in the [[badlands-brief-0fb|April 24, 2026 Badlands Brief]] alongside [[kalshi|Kalshi]] as one of the two major venues drawing regulatory and legislative attention in 2026.
+Polymarket is a prediction market platform on which users trade contracts tied to political, electoral, and current-events outcomes. It is referenced in the April 24, 2026 Badlands Brief alongside [[kalshi|Kalshi]] as one of the two major venues drawing regulatory and legislative attention in 2026.
 
 ## Regulatory scrutiny
 

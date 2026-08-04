@@ -14,7 +14,7 @@ Program Electronic Review Management, universally abbreviated PERM, is the [[uni
 
 ## Inclusion in the 2026 OIG investigation
 
-The July 10, 2026 [[badlands-brief-0bd|Badlands Brief "Mossad Bait & Labor Tackles"]] reports that the Department of Labor's [[office-of-inspector-general|Office of Inspector General]] launched a major investigation into fraud and human trafficking tied to both the [[h-1b-visa|H-1B visa]] and PERM systems. Because PERM certification rests on employer attestations about recruitment and prevailing wages, it is structurally vulnerable to falsified filings, and the OIG press release warned that such abuses "undermine the integrity of Department of Labor programs designed to address genuine labor shortages."
+The July 10, 2026 Badlands Brief "Mossad Bait & Labor Tackles" reports that the Department of Labor's [[office-of-inspector-general|Office of Inspector General]] launched a major investigation into fraud and human trafficking tied to both the [[h-1b-visa|H-1B visa]] and PERM systems. Because PERM certification rests on employer attestations about recruitment and prevailing wages, it is structurally vulnerable to falsified filings, and the OIG press release warned that such abuses "undermine the integrity of Department of Labor programs designed to address genuine labor shortages."
 
 Inspector General [[anthony-desposito|Anthony P. D'Esposito]] insisted the conduct at issue was not merely administrative, describing "the exploitation of vulnerable workers, forced labor, the displacement of American workers, and abusive human trafficking." The OIG accompanied the investigation with a nationwide campaign encouraging US and foreign workers to report suspected abuses of these programmes.
 

@@ -15,7 +15,7 @@ The Organization of Ukrainian Nationalists (OUN) was a Ukrainian nationalist mov
 
 ## Wartime collaboration
 
-According to the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," the OUN allied with the Nazis in the 1930s and ran pogroms on their behalf against Jewish communities in the east. Critics including Israeli and Polish officials point to documented collaboration between OUN factions and Nazi Germany, including involvement in atrocities against Jews and Poles. Many Ukrainians, by contrast, regard OUN figures as anti-Soviet independence fighters.
+According to the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," the OUN allied with the Nazis in the 1930s and ran pogroms on their behalf against Jewish communities in the east. Critics including Israeli and Polish officials point to documented collaboration between OUN factions and Nazi Germany, including involvement in atrocities against Jews and Poles. Many Ukrainians, by contrast, regard OUN figures as anti-Soviet independence fighters.
 
 ## Contemporary controversy
 

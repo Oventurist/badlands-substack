@@ -15,7 +15,7 @@ King Abdullah II is the monarch of [[jordan|Jordan]], a Hashemite kingdom border
 
 ## 2026 Abraham Accords initiative
 
-As reported in the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," King Abdullah II was among the regional leaders with whom [[donald-trump|Donald Trump]] held discussions on a comprehensive settlement with [[iran|Iran]]. In his subsequent [[truth-social|Truth Social]] statement, Trump argued that it should be "mandatory" for the countries involved — including Jordan — to sign simultaneously onto the [[abraham-accords|Abraham Accords]], presenting membership as having produced substantial economic and social benefits for existing signatories such as the [[united-arab-emirates|United Arab Emirates]] and [[bahrain|Bahrain]].
+As reported in the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," King Abdullah II was among the regional leaders with whom [[donald-trump|Donald Trump]] held discussions on a comprehensive settlement with [[iran|Iran]]. In his subsequent [[truth-social|Truth Social]] statement, Trump argued that it should be "mandatory" for the countries involved — including Jordan — to sign simultaneously onto the [[abraham-accords|Abraham Accords]], presenting membership as having produced substantial economic and social benefits for existing signatories such as the [[united-arab-emirates|United Arab Emirates]] and [[bahrain|Bahrain]].
 
 ## Sources
 

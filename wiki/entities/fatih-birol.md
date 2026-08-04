@@ -14,7 +14,7 @@ Fatih Birol is the executive director of the [[international-energy-agency|Inter
 
 ## Warning on European jet fuel
 
-As recounted in the [[badlands-brief-195|Badlands Brief of May 5, 2026]] by contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], Birol said roughly two weeks before publication that [[european-union|Europe]] had about six weeks of jet fuel supply before it would begin to see shortages. The remark was cited as corroboration of broader warnings about tightening refined-fuel inventories across the continent during the [[european-energy-crisis|European energy crisis]].
+As recounted in the Badlands Brief of May 5, 2026 by contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], Birol said roughly two weeks before publication that [[european-union|Europe]] had about six weeks of jet fuel supply before it would begin to see shortages. The remark was cited as corroboration of broader warnings about tightening refined-fuel inventories across the continent during the [[european-energy-crisis|European energy crisis]].
 
 ## Sources
 

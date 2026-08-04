@@ -15,7 +15,7 @@ The 2026 FIFA World Cup was the men's world football championship hosted in the 
 
 ## The final
 
-Substitute [[ferran-torres|Ferran Torres]] scored the only goal in the 106th minute. Spain dominated possession and shot volume; according to statistics circulated in the [[badlands-brief|Badlands Brief]], Argentina had not registered a single shot on goal as late as the period after halftime and still had none at the point when [[enzo-fernandez|Enzo Fernández]] received his first caution. Argentina finished with ten players after Fernández was dismissed on a second yellow card in extra time and could not find an equalizer.
+Substitute [[ferran-torres|Ferran Torres]] scored the only goal in the 106th minute. Spain dominated possession and shot volume; according to statistics circulated in the Badlands Brief, Argentina had not registered a single shot on goal as late as the period after halftime and still had none at the point when [[enzo-fernandez|Enzo Fernández]] received his first caution. Argentina finished with ten players after Fernández was dismissed on a second yellow card in extra time and could not find an equalizer.
 
 Two additional Spanish goals were disallowed — one for offside after the winning goal had been scored, and one earlier in the scoreless phase of the match after an Argentine player went to ground and a foul was awarded. After the final whistle, the *Daily Mirror* reported a confrontation involving Argentina midfielder [[leandro-paredes|Leandro Paredes]] and several Spain players; Badlands commentary described Argentine defender [[nahuel-molina|Nahuel Molina]] punching the Spanish captain, triggering a brawl.
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Teneo
 
-Teneo, formally Teneo Holdings, is a multinational C-suite advisory firm and investment bank founded in June 2011 by [[doug-band|Doug Band]], [[declan-kelly|Declan Kelly]] and [[paul-keary|Paul Keary]]. In the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]], [[joe-lange|Joe Lange]] treats Teneo as the commercial hinge of an alleged pay-for-play network connecting the [[state-department|State Department]] under Secretary [[hillary-clinton|Hillary Clinton]] to the [[clinton-foundation|Clinton Foundation]].
+Teneo, formally Teneo Holdings, is a multinational C-suite advisory firm and investment bank founded in June 2011 by [[doug-band|Doug Band]], [[declan-kelly|Declan Kelly]] and [[paul-keary|Paul Keary]]. In the Badlands Media essay America for Sale — Part 2, [[joe-lange|Joe Lange]] treats Teneo as the commercial hinge of an alleged pay-for-play network connecting the [[state-department|State Department]] under Secretary [[hillary-clinton|Hillary Clinton]] to the [[clinton-foundation|Clinton Foundation]].
 
 ## Founding
 

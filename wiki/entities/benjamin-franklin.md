@@ -10,7 +10,7 @@ contested: true
 ---
 # Benjamin Franklin
 
-Benjamin Franklin was an American statesman, scientist and organizer of the American Revolution. In the Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]], [[matthew-ehret|Matthew Ehret]] treats Franklin less as a single figure than as the hub of a transatlantic network — the "Pennsylvania Philosophical Society" circle — that cultivated talent, science and republican politics for decades before independence.
+Benjamin Franklin was an American statesman, scientist and organizer of the American Revolution. In the Badlands Media essay A New American Renaissance, [[matthew-ehret|Matthew Ehret]] treats Franklin less as a single figure than as the hub of a transatlantic network — the "Pennsylvania Philosophical Society" circle — that cultivated talent, science and republican politics for decades before independence.
 
 ## Patron of Benjamin West
 

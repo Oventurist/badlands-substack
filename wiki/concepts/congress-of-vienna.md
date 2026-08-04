@@ -10,7 +10,7 @@ contested: false
 ---
 # Congress of Vienna
 
-The Congress of Vienna of 1815 was the conference that reorganised Europe after two decades of Napoleonic warfare. The Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]] describes it as "a weak attempt at another conference" following the [[peace-of-westphalia|Peace of Westphalia]], arising only after the Napoleonic wars had "decimated Europe."
+The Congress of Vienna of 1815 was the conference that reorganised Europe after two decades of Napoleonic warfare. The Badlands Media article A Gateway to a New World of Cooperation describes it as "a weak attempt at another conference" following the [[peace-of-westphalia|Peace of Westphalia]], arising only after the Napoleonic wars had "decimated Europe."
 
 ## Function in the article's argument
 

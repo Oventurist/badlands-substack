@@ -15,7 +15,7 @@ Esmail Qaani is the commander of the Quds Force, the external operations branch 
 
 ## Alleged links to the Al-Saadi plot
 
-According to the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," analysts and former Iraqi officials described the accused terror suspect [[mohammad-baqer-al-saadi|Mohammad Baqer Saad Dawood Al-Saadi]] as closely tied first to Soleimani and later to Qaani. Al-Saadi, alleged to be a senior operative of both the IRGC and [[kataib-hizballah|Kata'ib Hizballah]], stands accused of plotting to assassinate [[ivanka-trump|Ivanka Trump]] in retaliation for the Soleimani strike.
+According to the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," analysts and former Iraqi officials described the accused terror suspect [[mohammad-baqer-al-saadi|Mohammad Baqer Saad Dawood Al-Saadi]] as closely tied first to Soleimani and later to Qaani. Al-Saadi, alleged to be a senior operative of both the IRGC and [[kataib-hizballah|Kata'ib Hizballah]], stands accused of plotting to assassinate [[ivanka-trump|Ivanka Trump]] in retaliation for the Soleimani strike.
 
 ## Sources
 

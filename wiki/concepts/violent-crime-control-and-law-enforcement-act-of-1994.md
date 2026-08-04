@@ -10,7 +10,7 @@ contested: true
 ---
 # Violent Crime Control and Law Enforcement Act of 1994
 
-The Violent Crime Control and Law Enforcement Act of 1994, referred to in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] simply as "the Crime Bill of 1994," is presented by the article as legislation designed to supply inmates to a newly privatized prison system.
+The Violent Crime Control and Law Enforcement Act of 1994, referred to in the Badlands Media essay A Journey of Ever changing Truths simply as "the Crime Bill of 1994," is presented by the article as legislation designed to supply inmates to a newly privatized prison system.
 
 According to [[erik-carlson|Erik Carlson]], the bill was produced by "politicians like President [[bill-clinton|Clinton]] and Senator [[joe-biden|Joe Biden]]" and "increased sentences for non-violent criminals … aka drug dealers." The stated motive is economic: under Clinton the prison system was becoming privatized, meaning private companies would run American prisons for profit, but "the only problem was that crime was really starting to drop," and "the people who benefitted from prisons being full needed the trend to change course."
 

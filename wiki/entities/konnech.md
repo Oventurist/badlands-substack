@@ -15,7 +15,7 @@ Konnech is an election-technology vendor supplying poll-worker management softwa
 
 ## The Konnech scandal in Badlands commentary
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] recounts an episode in which [[ashe-in-america|Ashe in America]] contacted her Douglas County, Colorado clerk's office, then run by [[sheri-davis|Sheri Davis]], to ask about the Konnech matter. She reports being told that everything was fine because the vendor had stated there were no Chinese servers in the county's elections. Ashe argues that this response answered a question no one had asked: the allegation, she writes, concerned Chinese *access* to election data rather than the physical siting of servers, and in her account the available evidence supported that claim. The exchange is presented in the corpus as a case study in how local election officials deflect vendor-related security questions.
+"Condemnation, Calibration, & Constitutional Boxes" recounts an episode in which [[ashe-in-america|Ashe in America]] contacted her Douglas County, Colorado clerk's office, then run by [[sheri-davis|Sheri Davis]], to ask about the Konnech matter. She reports being told that everything was fine because the vendor had stated there were no Chinese servers in the county's elections. Ashe argues that this response answered a question no one had asked: the allegation, she writes, concerned Chinese *access* to election data rather than the physical siting of servers, and in her account the available evidence supported that claim. The exchange is presented in the corpus as a case study in how local election officials deflect vendor-related security questions.
 
 ## Sources
 

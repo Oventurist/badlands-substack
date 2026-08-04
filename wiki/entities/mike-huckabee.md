@@ -11,7 +11,7 @@ contested: true
 
 # Mike Huckabee
 
-Mike Huckabee is the US Ambassador to [[israel|Israel]] and a former Arkansas governor. In the February 24, 2026 [[badlands-brief-285|Badlands Brief]], he is the central figure of a diplomatic controversy that the edition's headline renders as "Tuckabee," a portmanteau of Huckabee and [[tucker-carlson|Tucker Carlson]].
+Mike Huckabee is the US Ambassador to [[israel|Israel]] and a former Arkansas governor. In the February 24, 2026 Badlands Brief, he is the central figure of a diplomatic controversy that the edition's headline renders as "Tuckabee," a portmanteau of Huckabee and [[tucker-carlson|Tucker Carlson]].
 
 ## The Nile-to-Euphrates remarks
 
@@ -26,7 +26,7 @@ A US Embassy spokesperson responded that Huckabee's comments did not reflect any
 
 ## Criticism over attacks on Christians in Israel
 
-The May 1, 2026 [[badlands-brief-579|Badlands Brief]] sharply criticized Huckabee's handling of reported violence against Christians in Israel and the [[west-bank|West Bank]]. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] wrote that for months Huckabee had been "trotted out by the Israelis" to deny that such attacks were occurring at all, and predicted he would continue to ignore mounting evidence — including the assault on a French nun at a Jerusalem biblical site — calling him "a tremendous coward who is devoid of any principles" who had "chosen to turn his back on Jesus and on America." The criticism formed part of a wider Badlands argument about [[jewish-terrorism|Jewish terrorism]] and the silence of [[christian-zionism|Christian Zionist]] officials.
+The May 1, 2026 Badlands Brief sharply criticized Huckabee's handling of reported violence against Christians in Israel and the [[west-bank|West Bank]]. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] wrote that for months Huckabee had been "trotted out by the Israelis" to deny that such attacks were occurring at all, and predicted he would continue to ignore mounting evidence — including the assault on a French nun at a Jerusalem biblical site — calling him "a tremendous coward who is devoid of any principles" who had "chosen to turn his back on Jesus and on America." The criticism formed part of a wider Badlands argument about [[jewish-terrorism|Jewish terrorism]] and the silence of [[christian-zionism|Christian Zionist]] officials.
 
 ## Sources
 

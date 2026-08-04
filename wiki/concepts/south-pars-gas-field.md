@@ -15,7 +15,7 @@ South Pars is an enormous offshore natural gas field in the Persian Gulf lying b
 
 ## 2026 strikes
 
-According to the Badlands Brief edition [[badlands-brief-52b|"Golgotha & The Metaverse"]] (March 20, 2026), [[israel|Israel]] struck the gas field, prompting [[donald-trump|Donald Trump]] to post on Truth Social blaming Israel for the attack and stating that Israel had acted "without American coordination." Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] subsequently confirmed at a press conference that Israel "acted alone," and said he would comply with Trump's request to refrain from additional attacks on the field.
+According to the Badlands Brief edition "Golgotha & The Metaverse" (March 20, 2026), [[israel|Israel]] struck the gas field, prompting [[donald-trump|Donald Trump]] to post on Truth Social blaming Israel for the attack and stating that Israel had acted "without American coordination." Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] subsequently confirmed at a press conference that Israel "acted alone," and said he would comply with Trump's request to refrain from additional attacks on the field.
 
 Trump paired that framing with a conditional warning: that further attacks on the field would cease unless Iran again struck Qatar, and that any renewed Iranian action would draw an overwhelming — in Badlands contributor [[burning-bright|Burning Bright]]'s characterization, "entirely hypothetical" — U.S. response on Trump's own terms.
 

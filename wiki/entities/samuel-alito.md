@@ -15,7 +15,7 @@ Samuel Alito is an Associate Justice of the [[supreme-court-of-the-united-states
 
 ## Dissent in the Mississippi mail ballot case (2026)
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] reports that Alito dissented from the Court's 5–4 June 2026 decision upholding Mississippi's law counting absentee ballots that arrive up to five business days after Election Day if postmarked on or before it. He warned that the ruling "leaves open opportunities for voter fraud" and could weaken public trust in elections.
+"Condemnation, Calibration, & Constitutional Boxes" reports that Alito dissented from the Court's 5–4 June 2026 decision upholding Mississippi's law counting absentee ballots that arrive up to five business days after Election Day if postmarked on or before it. He warned that the ruling "leaves open opportunities for voter fraud" and could weaken public trust in elections.
 
 In support, Alito cited the 2005 bipartisan commission led by [[jimmy-carter|Jimmy Carter]] and [[james-baker|James Baker]], which identified absentee voting as a major potential avenue of fraud, and a 2008 opinion by Justice [[john-paul-stevens|John Paul Stevens]] acknowledging the real risk of absentee ballot fraud. Alito wrote that the majority "opens Pandora's box," generating uncertainty about whether mailed ballots are ever final and about how states may regulate ballot handling under election-day rules. His dissent is cited approvingly in election-integrity commentary within the Badlands corpus even by writers such as [[ashe-in-america|Ashe in America]], who nonetheless regard the majority's refusal to legislate from the bench as structurally sound.
 

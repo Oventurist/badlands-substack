@@ -11,7 +11,7 @@ contested: false
 
 # Jalisco New Generation Cartel
 
-The Jalisco New Generation Cartel (Cártel de Jalisco Nueva Generación, CJNG) is a Mexican criminal organization based in Jalisco state. The February 24, 2026 [[badlands-brief-285|Badlands Brief]] reports on the killing of its alleged leader, Nemesio Oseguera Cervantes, known as [[el-mencho|El Mencho]], by Mexican military forces during a weekend operation in Jalisco.
+The Jalisco New Generation Cartel (Cártel de Jalisco Nueva Generación, CJNG) is a Mexican criminal organization based in Jalisco state. The February 24, 2026 Badlands Brief reports on the killing of its alleged leader, Nemesio Oseguera Cervantes, known as [[el-mencho|El Mencho]], by Mexican military forces during a weekend operation in Jalisco.
 
 ## Retaliation after the raid
 

@@ -15,7 +15,7 @@ Kevin Hassett is an American economist serving as Director of the [[national-eco
 
 ## Statements on the cost of the Iran war
 
-As reported in the March 16, 2026 [[badlands-brief|Badlands Brief]], Hassett said the war with Iran had cost roughly $12 billion to that point. He stated that the administration currently had the funding it needed but might seek additional money from [[congress|Congress]].
+As reported in the March 16, 2026 Badlands Brief, Hassett said the war with Iran had cost roughly $12 billion to that point. He stated that the administration currently had the funding it needed but might seek additional money from [[congress|Congress]].
 
 In an extended quotation carried by the Brief, Hassett argued that American energy production insulates the United States from Iranian pressure:
 

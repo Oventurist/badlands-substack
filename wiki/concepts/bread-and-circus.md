@@ -10,7 +10,7 @@ contested: true
 ---
 # Bread and Circus
 
-"Bread and circus" (from the Latin *panem et circenses*) is the classical formula for pacifying a population by supplying it with food and entertainment in place of political power. In the Badlands Media corpus it functions as an interpretive key for reading contemporary news cycles, most explicitly in [[erik-carlson|Erik Carlson]]'s August 2024 essay [[are-we-being-distracted|Are We Being Distracted?]].
+"Bread and circus" (from the Latin *panem et circenses*) is the classical formula for pacifying a population by supplying it with food and entertainment in place of political power. In the Badlands Media corpus it functions as an interpretive key for reading contemporary news cycles, most explicitly in [[erik-carlson|Erik Carlson]]'s August 2024 essay Are We Being Distracted?.
 
 ## The Roman precedent
 

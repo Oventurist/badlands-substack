@@ -19,7 +19,7 @@ In [[new-york-state-rifle-and-pistol-association-v-bruen|New York State Rifle & 
 
 ## The drug-user possession ban
 
-The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] reports as a bonus item that the Supreme Court heard argument on a federal statute barring any person who is an "unlawful user" of a controlled substance from possessing a firearm. Several justices expressed skepticism about the statute's breadth, and multiple members of the Court asked during oral argument whether historical analogues exist that would justify broadly disarming individuals based solely on current drug use. The federal government defended the law, arguing that persons actively using illegal drugs may pose heightened safety risks comparable to groups historically subject to disarmament. The Brief's headline framing — "Crazies Keeping Their Guns (Maybe)" — reflects the expectation that the Court may narrow or invalidate the prohibition.
+The March 3, 2026 Badlands Brief reports as a bonus item that the Supreme Court heard argument on a federal statute barring any person who is an "unlawful user" of a controlled substance from possessing a firearm. Several justices expressed skepticism about the statute's breadth, and multiple members of the Court asked during oral argument whether historical analogues exist that would justify broadly disarming individuals based solely on current drug use. The federal government defended the law, arguing that persons actively using illegal drugs may pose heightened safety risks comparable to groups historically subject to disarmament. The Brief's headline framing — "Crazies Keeping Their Guns (Maybe)" — reflects the expectation that the Court may narrow or invalidate the prohibition.
 
 ## Sources
 

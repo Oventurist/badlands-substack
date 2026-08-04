@@ -10,7 +10,7 @@ contested: true
 ---
 # Invisible Enemy
 
-**The Invisible Enemy** is a term used within the [[badlands-media|Badlands Media]] corpus to describe the adversary that the outlet's writers hold responsible for the wars, financial crises, and information operations they cover — an adversary defined precisely by its refusal to appear as a named state, army, or political party. In [[badlands-blitz-episode-11|Badlands Blitz Episode 11]], subtitled "Iran, NATO and the Invisible Enemy," hosts [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] use "the spiraling narrative of the Iran War to map the strategic pincer that appears to be in the offing by the [[sovereign-alliance|Sovereign Alliance]] against the true Invisible Enemy."
+**The Invisible Enemy** is a term used within the [[badlands-media|Badlands Media]] corpus to describe the adversary that the outlet's writers hold responsible for the wars, financial crises, and information operations they cover — an adversary defined precisely by its refusal to appear as a named state, army, or political party. In Badlands Blitz Episode 11, subtitled "Iran, NATO and the Invisible Enemy," hosts [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] use "the spiraling narrative of the Iran War to map the strategic pincer that appears to be in the offing by the [[sovereign-alliance|Sovereign Alliance]] against the true Invisible Enemy."
 
 ## Meaning in the corpus
 

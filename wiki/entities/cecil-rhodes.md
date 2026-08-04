@@ -10,7 +10,7 @@ contested: true
 ---
 # Cecil Rhodes
 
-Cecil Rhodes (1853–1902) was a British mining magnate and imperialist in southern Africa whose will established the [[rhodes-scholarship|Rhodes Scholarship]]. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] treats Rhodes as the author of a still-operative design for a re-organized British Empire staffed by trained cadre.
+Cecil Rhodes (1853–1902) was a British mining magnate and imperialist in southern Africa whose will established the [[rhodes-scholarship|Rhodes Scholarship]]. In the Badlands Media essay A Re Alignment of World Systems, [[matthew-ehret|Matthew Ehret]] treats Rhodes as the author of a still-operative design for a re-organized British Empire staffed by trained cadre.
 
 ## The 1877 confession of faith
 

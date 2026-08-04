@@ -15,7 +15,7 @@ Kaitlan Collins is an American television journalist covering the White House, a
 
 ## Target of the 2026 Correspondents' Dinner roast
 
-Collins appears in the July 27, 2026 [[badlands-brief-245|Badlands Brief]] within [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s list of highlights from Trump's July 24 speech at the rescheduled [[white-house-correspondents-association|White House Correspondents' Association]] Dinner, where she was among the individuals the president made fun of. Her inclusion sits within the Brief's broader framing of the evening, in which [[burning-bright|Burning Bright]] argues that Trump turned an event historically favorable to the [[media-industrial-complex|Media Industrial Complex]] into a roast of the press itself.
+Collins appears in the July 27, 2026 Badlands Brief within [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s list of highlights from Trump's July 24 speech at the rescheduled [[white-house-correspondents-association|White House Correspondents' Association]] Dinner, where she was among the individuals the president made fun of. Her inclusion sits within the Brief's broader framing of the evening, in which [[burning-bright|Burning Bright]] argues that Trump turned an event historically favorable to the [[media-industrial-complex|Media Industrial Complex]] into a roast of the press itself.
 
 ## Sources
 

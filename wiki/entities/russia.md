@@ -10,7 +10,7 @@ contested: true
 ---
 # Russia
 
-Russia appears in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as both an opponent of the [[joint-comprehensive-plan-of-action|Iran nuclear deal]] and the target of the undeclared "second cold war" the article attributes to the Western foreign policy establishment.
+Russia appears in the Badlands Media essay "And Iran, Iran So Far Away" as both an opponent of the [[joint-comprehensive-plan-of-action|Iran nuclear deal]] and the target of the undeclared "second cold war" the article attributes to the Western foreign policy establishment.
 
 ## Opposition to sanctions relief on Iran
 
@@ -22,14 +22,14 @@ The 2014 coup and the attempts to reclaim Crimea and the Donbass region of Ukrai
 
 ## The second cold war
 
-The article asserts that "the wizards behind [[nato]] have been engaged in an undeclared second cold war with Russia, all while being in bed with [[china]]." [[william-burns]] is presented as part of that establishment, having produced diplomatic analysis concerning Russia in 2008 — the subject of the Badlands essay [[a-bright-red-line|A Bright Red Line]]. When [[donald-trump]] took office he reversed the working consensus from maximum pressure on Russia to maximum pressure on Iran and China, a maneuver the author believes "put the crosshairs on Trump's back."
+The article asserts that "the wizards behind [[nato]] have been engaged in an undeclared second cold war with Russia, all while being in bed with [[china]]." [[william-burns]] is presented as part of that establishment, having produced diplomatic analysis concerning Russia in 2008 — the subject of the Badlands essay A Bright Red Line. When [[donald-trump]] took office he reversed the working consensus from maximum pressure on Russia to maximum pressure on Iran and China, a maneuver the author believes "put the crosshairs on Trump's back."
 
 Russia also figures in the removal of [[imran-khan]]: the article identifies Khan's "aggressively neutral" stance toward Russia, and his threats to block Pakistani arms shipments to Ukraine, as primary reasons a target was placed on his back. [[pakistan]] is described as indispensable to the United States as an ally against Russia, as it was in the 1980s against the Soviets.
 
 
 ## Encouraging Iran to continue the war (March 2026)
 
-Citing a [[zerohedge|ZeroHedge]] report, the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] states that Russia is pushing [[iran|Iran]] to stay in the fight, signaling that Moscow sees continuation of the conflict either as a negotiating chip or as an earnest proxy war against [[israel|Israel]], which has been attacking Russian allies in the Middle East since the October 7th attack. Together with [[china|China]], Russia is described as feeding intelligence to Iran to keep it competitive — behavior the Brief argues contradicts the presumption that both powers want Persian Gulf stabilization, and which it explains by their interest in preventing a strategic defeat that would discredit the [[sovereign-alliance|Sovereign Alliance]] and endanger the [[north-south-transportation-corridor|North-South Transportation Corridor]].
+Citing a [[zerohedge|ZeroHedge]] report, the March 18, 2026 Badlands Brief states that Russia is pushing [[iran|Iran]] to stay in the fight, signaling that Moscow sees continuation of the conflict either as a negotiating chip or as an earnest proxy war against [[israel|Israel]], which has been attacking Russian allies in the Middle East since the October 7th attack. Together with [[china|China]], Russia is described as feeding intelligence to Iran to keep it competitive — behavior the Brief argues contradicts the presumption that both powers want Persian Gulf stabilization, and which it explains by their interest in preventing a strategic defeat that would discredit the [[sovereign-alliance|Sovereign Alliance]] and endanger the [[north-south-transportation-corridor|North-South Transportation Corridor]].
 
 ## Sources
 

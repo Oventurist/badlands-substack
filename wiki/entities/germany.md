@@ -11,7 +11,7 @@ contested: false
 
 # Germany
 
-Germany is a leading member state of the [[european-union|European Union]] and, in the January 9, 2026 [[badlands-brief-094|Badlands Brief]], one of the loudest European voices warning that the United States is eroding the postwar international system.
+Germany is a leading member state of the [[european-union|European Union]] and, in the January 9, 2026 Badlands Brief, one of the loudest European voices warning that the United States is eroding the postwar international system.
 
 ## The Steinmeier intervention
 

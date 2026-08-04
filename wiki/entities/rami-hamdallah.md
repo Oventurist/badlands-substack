@@ -9,7 +9,7 @@ confidence: medium
 ---
 # Rami Hamdallah
 
-Rami Hamdallah is a Palestinian academic and politician who served as Prime Minister of the [[palestinian-authority|Palestinian Authority]]. He appears in the Badlands Media article "[[bad-actors|Bad Actors]]" in two connected contexts.
+Rami Hamdallah is a Palestinian academic and politician who served as Prime Minister of the [[palestinian-authority|Palestinian Authority]]. He appears in the Badlands Media article "Bad Actors" in two connected contexts.
 
 In 2013, as prime minister, Hamdallah amended the Palestinian Authority's prisoner-payment legislation — the [[pay-to-slay|"pay to slay"]] framework — to offer additional benefits to prisoners upon their release. Under the amended law, any male ex-prisoner incarcerated for ten or more years, and every female ex-prisoner who served five, became entitled to a position within the PA.
 

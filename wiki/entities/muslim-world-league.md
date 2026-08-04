@@ -14,7 +14,7 @@ The Muslim World League (MWL) is a Saudi-funded international Islamic organizati
 
 ## In the Badlands corpus
 
-[[america-for-sale-part-1|America for Sale - Part 1]] notes that [[abdullah-omar-naseef|Abdullah Omar Naseef]] served as Secretary-General of the Muslim World League from 1983 to 1993, calling the post "a critical leadership post in the Brotherhood's Saudi-funded effort to spread Islamic supremacist ideology globally." Quoting PJMedia, the article ties the League to two intertwined enterprises: terror financing on the one hand, and on the other the underwriting of efforts "to indoctrinate young Muslims at educational institutions."
+America for Sale   Part 1 notes that [[abdullah-omar-naseef|Abdullah Omar Naseef]] served as Secretary-General of the Muslim World League from 1983 to 1993, calling the post "a critical leadership post in the Brotherhood's Saudi-funded effort to spread Islamic supremacist ideology globally." Quoting PJMedia, the article ties the League to two intertwined enterprises: terror financing on the one hand, and on the other the underwriting of efforts "to indoctrinate young Muslims at educational institutions."
 
 The MWL thus appears in the article as the institutional backdrop to Naseef's patronage of the [[institute-of-muslim-minority-affairs|Institute of Muslim Minority Affairs]] and the *[[journal-of-muslim-minority-affairs|Journal of Muslim Minority Affairs]]*, and to the broader "civilization/stealth jihad" strategy the article attributes to the Brotherhood.
 

@@ -11,7 +11,7 @@ contested: false
 
 # RateFi
 
-RateFi is a US-based mortgage lender reported in the February 24, 2026 [[badlands-brief-285|Badlands Brief]] to have launched a crypto-backed mortgage qualification product.
+RateFi is a US-based mortgage lender reported in the February 24, 2026 Badlands Brief to have launched a crypto-backed mortgage qualification product.
 
 ## Crypto-backed qualification
 

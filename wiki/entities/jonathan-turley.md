@@ -14,7 +14,7 @@ Jonathan Turley is an American legal scholar and constitutional law commentator 
 
 ## Commentary on Democratic war-powers positions
 
-The bonus item of the March 10, 2026 [[badlands-brief-509|Badlands Brief]] summarizes a March 8, 2026 post by Turley addressing Democratic leaders' difficulty explaining their past support for unilateral presidential war powers. The Brief reports that Democratic lawmakers were facing questions about earlier statements endorsing broad presidential authority to conduct military operations without new congressional approval, scrutiny that arose amid contemporaneous debate over whether the president must seek authorization from [[congress|Congress]] before potential military action against [[iran|Iran]]. Turley noted that several of the same leaders had previously backed expansive executive war powers during earlier administrations.
+The bonus item of the March 10, 2026 Badlands Brief summarizes a March 8, 2026 post by Turley addressing Democratic leaders' difficulty explaining their past support for unilateral presidential war powers. The Brief reports that Democratic lawmakers were facing questions about earlier statements endorsing broad presidential authority to conduct military operations without new congressional approval, scrutiny that arose amid contemporaneous debate over whether the president must seek authorization from [[congress|Congress]] before potential military action against [[iran|Iran]]. Turley noted that several of the same leaders had previously backed expansive executive war powers during earlier administrations.
 
 The Brief presents his observation without elaboration, using it as a coda to an edition otherwise devoted to what its contributors describe as competing war narratives.
 

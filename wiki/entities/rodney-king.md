@@ -10,7 +10,7 @@ contested: true
 ---
 # Rodney King
 
-Rodney King was the black motorist whose 1991 beating by LAPD officers, captured on camcorder, became one of the defining media events of late twentieth-century America. He appears in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] as the author's principal worked example of how a seemingly settled truth can dissolve under further examination.
+Rodney King was the black motorist whose 1991 beating by LAPD officers, captured on camcorder, became one of the defining media events of late twentieth-century America. He appears in the Badlands Media essay A Journey of Ever changing Truths as the author's principal worked example of how a seemingly settled truth can dissolve under further examination.
 
 ## The 1991 beating
 

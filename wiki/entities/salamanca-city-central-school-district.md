@@ -14,7 +14,7 @@ The Salamanca City Central School District is a small rural public school distri
 
 ## The Realbotix pilot
 
-As reported in the July 30, 2026 [[badlands-brief-414|Badlands Brief]], the district's board approved a purchase of nearly $60,000 from the Las Vegas company [[realbotix|Realbotix]] for a stationary humanoid robot named "Sally," intended to support high school robotics and technology students. The district's existing use of WozEd, a curriculum developed by Apple co-founder [[steve-wozniak|Steve Wozniak]], was cited as a reason Realbotix was considered a natural fit.
+As reported in the July 30, 2026 Badlands Brief, the district's board approved a purchase of nearly $60,000 from the Las Vegas company [[realbotix|Realbotix]] for a stationary humanoid robot named "Sally," intended to support high school robotics and technology students. The district's existing use of WozEd, a curriculum developed by Apple co-founder [[steve-wozniak|Steve Wozniak]], was cited as a reason Realbotix was considered a natural fit.
 
 ## Backlash and suspension
 

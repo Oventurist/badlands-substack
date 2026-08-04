@@ -10,7 +10,7 @@ contested: true
 ---
 # FIFA
 
-FIFA is the international governing body of association football and the organizer of the World Cup. It appears in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as a donor to the [[clinton-foundation|Clinton Foundation]] and as the subject of a corruption scandal the author believes was never fully traced back to the Clinton network.
+FIFA is the international governing body of association football and the organizer of the World Cup. It appears in the Badlands Media essay America for Sale — Part 2 as a donor to the [[clinton-foundation|Clinton Foundation]] and as the subject of a corruption scandal the author believes was never fully traced back to the Clinton network.
 
 ## The U.S. World Cup bid
 

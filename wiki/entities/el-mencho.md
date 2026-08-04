@@ -11,7 +11,7 @@ contested: false
 
 # El Mencho
 
-Nemesio Oseguera Cervantes, known as "El Mencho," was the alleged leader of the [[jalisco-new-generation-cartel|Jalisco New Generation Cartel]] (CJNG). According to the February 24, 2026 [[badlands-brief-285|Badlands Brief]], he was killed by Mexican military forces during an operation in Jalisco state over the preceding weekend.
+Nemesio Oseguera Cervantes, known as "El Mencho," was the alleged leader of the [[jalisco-new-generation-cartel|Jalisco New Generation Cartel]] (CJNG). According to the February 24, 2026 Badlands Brief, he was killed by Mexican military forces during an operation in Jalisco state over the preceding weekend.
 
 ## The Jalisco operation
 

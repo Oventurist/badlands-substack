@@ -14,7 +14,7 @@ Abu Mohammad al-Jolani is the leader of [[hayat-tahrir-al-sham]], the coalition 
 
 ## Media rehabilitation
 
-[[assad-day-in-damascus]] observes that al-Jolani "is being depicted as a 'blazer-wearing revolutionary,'" a framing the article calls "certainly more disarming to Western audiences than 'radical jihadist.'" The transformation is presented as the same "narrative switcheroo" applied in earlier conflicts, in which fighters whose ideology would otherwise alarm Western publics are given sympathetic packaging.
+assad day in damascus observes that al-Jolani "is being depicted as a 'blazer-wearing revolutionary,'" a framing the article calls "certainly more disarming to Western audiences than 'radical jihadist.'" The transformation is presented as the same "narrative switcheroo" applied in earlier conflicts, in which fighters whose ideology would otherwise alarm Western publics are given sympathetic packaging.
 
 ## Background and designation
 

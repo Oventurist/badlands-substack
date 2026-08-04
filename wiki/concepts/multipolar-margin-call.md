@@ -14,7 +14,7 @@ The "Multipolar Margin Call" is an analytical thesis advanced by Badlands contri
 
 ## Mechanism
 
-In the version restated in the [[badlands-brief-323|Badlands Brief of May 15, 2026]], the thesis is reinforced by the [[strait-of-hormuz|Strait of Hormuz]] squeeze: Xi offering to help reopen the waterway, both sides agreeing it must remain open, and China signaling it will buy more American oil to reduce reliance on "the old collectivist chokepoints." The result is described as a pincer in which energy and capital are pulled out of the "globalist circulatory system" and redirected into "sovereign arteries," with Regions of Responsibility hardening and appeals to borderless governance "dashed on the rocks of pragmatic nationalism."
+In the version restated in the Badlands Brief of May 15, 2026, the thesis is reinforced by the [[strait-of-hormuz|Strait of Hormuz]] squeeze: Xi offering to help reopen the waterway, both sides agreeing it must remain open, and China signaling it will buy more American oil to reduce reliance on "the old collectivist chokepoints." The result is described as a pincer in which energy and capital are pulled out of the "globalist circulatory system" and redirected into "sovereign arteries," with Regions of Responsibility hardening and appeals to borderless governance "dashed on the rocks of pragmatic nationalism."
 
 ## Relationship to Sovereign Disentanglement
 

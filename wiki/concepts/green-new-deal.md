@@ -10,7 +10,7 @@ contested: true
 ---
 # Green New Deal
 
-The Green New Deal is the name given to programs proposing to restructure national economies around decarbonization. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], [[matthew-ehret|Matthew Ehret]] treats the "Green New Deal framework" as the operating system of a projected system of global government.
+The Green New Deal is the name given to programs proposing to restructure national economies around decarbonization. In the Badlands Media essay A Re Alignment of World Systems, [[matthew-ehret|Matthew Ehret]] treats the "Green New Deal framework" as the operating system of a projected system of global government.
 
 ## The source's argument
 

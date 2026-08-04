@@ -15,7 +15,7 @@ Jimmy Carter was the thirty-ninth President of the United States, serving from 1
 
 ## The 2005 Carter–Baker commission
 
-In the Badlands corpus Carter appears chiefly as co-chair, with former Secretary of State [[james-baker|James Baker]], of the 2005 bipartisan federal commission on election reform. As reported in [[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]], Justice [[samuel-alito|Samuel Alito]] cited that commission in his 2026 dissent from the [[supreme-court-of-the-united-states|Supreme Court]]'s ruling on Mississippi's late-arriving mail ballots, noting the commission's conclusion that absentee voting constitutes a major potential vector for fraud. The Carter–Baker finding is frequently invoked in election-integrity argument precisely because of Carter's Democratic and internationalist credentials, which make the warning difficult to dismiss as partisan.
+In the Badlands corpus Carter appears chiefly as co-chair, with former Secretary of State [[james-baker|James Baker]], of the 2005 bipartisan federal commission on election reform. As reported in "Condemnation, Calibration, & Constitutional Boxes", Justice [[samuel-alito|Samuel Alito]] cited that commission in his 2026 dissent from the [[supreme-court-of-the-united-states|Supreme Court]]'s ruling on Mississippi's late-arriving mail ballots, noting the commission's conclusion that absentee voting constitutes a major potential vector for fraud. The Carter–Baker finding is frequently invoked in election-integrity argument precisely because of Carter's Democratic and internationalist credentials, which make the warning difficult to dismiss as partisan.
 
 ## Sources
 

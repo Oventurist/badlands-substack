@@ -10,7 +10,7 @@ contested: false
 ---
 # Louis DeJoy
 
-Louis DeJoy is an American businessman who was selected as Postmaster General of the [[united-states-postal-service|United States Postal Service]]. In [[a-seismic-shift|A Seismic Shift]], [[joe-lange|Joe Lange]] presents his appointment as evidence that President [[donald-trump|Donald Trump]] took deliberate control of the Postal Service as part of a wider plan to restructure American elections and banking.
+Louis DeJoy is an American businessman who was selected as Postmaster General of the [[united-states-postal-service|United States Postal Service]]. In A Seismic Shift, [[joe-lange|Joe Lange]] presents his appointment as evidence that President [[donald-trump|Donald Trump]] took deliberate control of the Postal Service as part of a wider plan to restructure American elections and banking.
 
 ## Selection
 

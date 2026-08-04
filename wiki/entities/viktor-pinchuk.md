@@ -10,7 +10,7 @@ contested: true
 ---
 # Viktor Pinchuk
 
-Viktor Pinchuk is a Ukrainian businessman, steel magnate and philanthropist. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is named both as a product of Ukraine's 1990s privatizations and as a personal contact of [[chrystia-freeland|Chrystia Freeland]].
+Viktor Pinchuk is a Ukrainian businessman, steel magnate and philanthropist. In the Badlands Media essay A Re Alignment of World Systems, he is named both as a product of Ukraine's 1990s privatizations and as a personal contact of [[chrystia-freeland|Chrystia Freeland]].
 
 ## Role in the source
 

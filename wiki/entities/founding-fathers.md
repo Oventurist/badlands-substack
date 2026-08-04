@@ -14,7 +14,7 @@ The **Founding Fathers** are the statesmen, delegates and revolutionaries who le
 
 ## Contested memory
 
-[[badlands-blitz-episode-10|Badlands Blitz Episode 10]] treats that use of the founders as itself a problem. Among the three questions organizing the episode, [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] ask "what do people get wrong when it comes to remembering the Founding Fathers." The question is posed alongside discussion of the [[truth-community|Truth Community]]'s internal "sifting," implying that a flattened or hagiographic memory of the revolutionary generation — one that erases their factionalism, hesitancy and mutual hostility — encourages present-day activists to expect a unanimity that never existed and to read disagreement within their own ranks as betrayal. The source states the question rather than resolving it, leaving the argument to the recorded conversation.
+Badlands Blitz Episode 10 treats that use of the founders as itself a problem. Among the three questions organizing the episode, [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] ask "what do people get wrong when it comes to remembering the Founding Fathers." The question is posed alongside discussion of the [[truth-community|Truth Community]]'s internal "sifting," implying that a flattened or hagiographic memory of the revolutionary generation — one that erases their factionalism, hesitancy and mutual hostility — encourages present-day activists to expect a unanimity that never existed and to read disagreement within their own ranks as betrayal. The source states the question rather than resolving it, leaving the argument to the recorded conversation.
 
 ## Sources
 

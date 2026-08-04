@@ -10,7 +10,7 @@ contested: false
 ---
 # Morgan Ricks
 
-Morgan Ricks is an American legal scholar and former Treasury official identified in [[a-seismic-shift|A Seismic Shift]] as one of the originators of the [[fedaccounts|FedAccounts]] proposal. [[joe-lange|Joe Lange]] introduces him as "one of the people that worked at the treasury and came up with FedAccounts" who went on to write further on the subject.
+Morgan Ricks is an American legal scholar and former Treasury official identified in A Seismic Shift as one of the originators of the [[fedaccounts|FedAccounts]] proposal. [[joe-lange|Joe Lange]] introduces him as "one of the people that worked at the treasury and came up with FedAccounts" who went on to write further on the subject.
 
 The FedAccounts proposal was advanced in 2018 by three researchers, two of whom had worked in the [[treasury-department|Treasury Department]], and would give all individuals and businesses in the United States the option of holding an account directly with the [[federal-reserve|Federal Reserve]] rather than with a private bank or credit union.
 

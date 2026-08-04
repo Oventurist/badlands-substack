@@ -10,7 +10,7 @@ contested: false
 ---
 # State Sponsor of Wrongful Detention
 
-"State Sponsor of Wrongful Detention" is a [[state-department|United States Department of State]] classification used to identify governments that detain foreign nationals in order to gain diplomatic leverage or concessions. As described in the March 10, 2026 [[badlands-brief-509|Badlands Brief]], the designation allows the US government to increase diplomatic pressure on the designated state and to coordinate efforts to secure the release of detained Americans.
+"State Sponsor of Wrongful Detention" is a [[state-department|United States Department of State]] classification used to identify governments that detain foreign nationals in order to gain diplomatic leverage or concessions. As described in the March 10, 2026 Badlands Brief, the designation allows the US government to increase diplomatic pressure on the designated state and to coordinate efforts to secure the release of detained Americans.
 
 ## Designation of Afghanistan
 

@@ -15,7 +15,7 @@ The Center for European Policy Analysis (CEPA), referred to in the source as the
 
 ## Analysis of the Putin–Xi relationship
 
-As summarized in the May 20, 2026 [[badlands-brief-311|Badlands Brief]], CEPA argued that the relationship between [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] has evolved far beyond a tactical "marriage of convenience" into a mature alliance rooted in a "shared consciousness." The analysis noted that since 2012 the two leaders have met nearly 50 times — more than any other world leader has met Xi — culminating in their February 2022 "no limits" friendship declaration issued days before Russia's full-scale invasion of Ukraine.
+As summarized in the May 20, 2026 Badlands Brief, CEPA argued that the relationship between [[vladimir-putin|Vladimir Putin]] and [[xi-jinping|Xi Jinping]] has evolved far beyond a tactical "marriage of convenience" into a mature alliance rooted in a "shared consciousness." The analysis noted that since 2012 the two leaders have met nearly 50 times — more than any other world leader has met Xi — culminating in their February 2022 "no limits" friendship declaration issued days before Russia's full-scale invasion of Ukraine.
 
 CEPA's account holds that Beijing has sustained Moscow's war effort through dual-use exports, coordinated information operations, and economic lifelines, that both powers back [[iran|Iran]], and that they pursue a vision privileging state power over individual liberty while seeking to reorder the international system against the West. On that basis CEPA and allied institutions urged the Trump administration to abandon hopes of splitting the pair and instead strengthen democratic alliances to counter what they termed a "meta threat."
 

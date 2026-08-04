@@ -15,7 +15,7 @@ Boko Haram is a militant Islamist organization based in northeastern [[nigeria|N
 
 ## Role in the Sahel conflict narrative
 
-According to the May 18, 2026 [[badlands-brief-5a2|Badlands Brief]], the commentary notes that "before ISIS was around, it was Boko Haram operating in the region, and they affiliated themselves with Al Qaeda. (Another CIA-created terrorist organization.)" The group's most prominent exploit cited in the Brief is the 2014 kidnapping of hundreds of schoolgirls in Nigeria, described by the commentator as girls who were "most likely trafficked as sex slaves"; 110 of these girls were rescued in Nigeria in March 2018, in the same area where U.S. Special Forces were operating at the time of the [[tongo-tongo-ambush|Tongo Tongo Ambush]].
+According to the May 18, 2026 Badlands Brief, the commentary notes that "before ISIS was around, it was Boko Haram operating in the region, and they affiliated themselves with Al Qaeda. (Another CIA-created terrorist organization.)" The group's most prominent exploit cited in the Brief is the 2014 kidnapping of hundreds of schoolgirls in Nigeria, described by the commentator as girls who were "most likely trafficked as sex slaves"; 110 of these girls were rescued in Nigeria in March 2018, in the same area where U.S. Special Forces were operating at the time of the [[tongo-tongo-ambush|Tongo Tongo Ambush]].
 
 ## Link to Abu-Bilal Al-Manuki
 

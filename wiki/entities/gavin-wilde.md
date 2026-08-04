@@ -10,7 +10,7 @@ contested: true
 ---
 # Gavin Wilde
 
-Gavin Wilde is a former United States intelligence official and think tank analyst who, according to reporting summarized in the [[badlands-brief-195|Badlands Brief of May 5, 2026]], has emerged as a newly disclosed witness before congressional investigators examining how assessments of Russian election interference were developed and communicated.
+Gavin Wilde is a former United States intelligence official and think tank analyst who, according to reporting summarized in the Badlands Brief of May 5, 2026, has emerged as a newly disclosed witness before congressional investigators examining how assessments of Russian election interference were developed and communicated.
 
 ## Intelligence career
 

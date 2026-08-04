@@ -15,7 +15,7 @@ Poland is a Central European state, a member of [[nato|NATO]] and the European U
 
 ## Border measures and the 2026 "powder keg"
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] reports that Poland has continued strengthening security measures along its border with [[germany|Germany]], even as Germany prepares legislation that could restore mandatory military service if voluntary recruitment falls short. The Brief situates these moves alongside [[russia|Russia]]'s claim to be expanding operations in western Ukraine, its accusation that NATO is supporting Ukrainian strikes on Russian airfields, and Russian allegations of links between Ukrainian forces and Mexican drug cartels.
+"Condemnation, Calibration, & Constitutional Boxes" reports that Poland has continued strengthening security measures along its border with [[germany|Germany]], even as Germany prepares legislation that could restore mandatory military service if voluntary recruitment falls short. The Brief situates these moves alongside [[russia|Russia]]'s claim to be expanding operations in western Ukraine, its accusation that NATO is supporting Ukrainian strikes on Russian airfields, and Russian allegations of links between Ukrainian forces and Mexican drug cartels.
 
 Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] treats the combination as a "constellation of insanity and satire" — Poland fortifying against a fellow NATO member, Germany reviving conscription — arguing that Eastern Europe is turning itself into a powder keg because of Ukraine, and that states nominally on the same side appear to be in an arms race against one another.
 

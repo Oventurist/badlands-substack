@@ -10,7 +10,7 @@ contested: true
 ---
 # Clinton Global Initiative
 
-The Clinton Global Initiative (CGI) is the international convening arm of the [[clinton-foundation|Clinton Foundation]], created by [[doug-band|Doug Band]] during his service as counselor to [[bill-clinton|Bill Clinton]]. Both Wikipedia and *The Atlantic*, quoted in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]], credit Band with originating the idea and with assisting in the Foundation's launch; Breitbart likewise describes him as having assisted in creating CGI.
+The Clinton Global Initiative (CGI) is the international convening arm of the [[clinton-foundation|Clinton Foundation]], created by [[doug-band|Doug Band]] during his service as counselor to [[bill-clinton|Bill Clinton]]. Both Wikipedia and *The Atlantic*, quoted in the Badlands Media essay America for Sale — Part 2, credit Band with originating the idea and with assisting in the Foundation's launch; Breitbart likewise describes him as having assisted in creating CGI.
 
 ## Membership and sponsorship
 
@@ -22,7 +22,7 @@ The article, drawing on *Nonprofit Quarterly*, reports that [[fifa|FIFA]] gave t
 
 ## The Chagoury pledge
 
-[[america-for-sale-part-3|America for Sale — Part 3]] reports that in 2009 the Nigerian businessman [[gilbert-chagoury|Gilbert Chagoury]] — a convicted money launderer and close business partner of the commodities trader [[marc-rich|Marc Rich]] — pledged $1 billion to the Clinton Global Initiative. In the same year CGI gave Chagoury's company an award for sustainable development, and in 2013 [[bill-clinton|Bill Clinton]] appeared at a public ceremony in Nigeria for one of his projects. The article stresses that CGI was the brainchild of [[doug-band|Doug Band]] and that "almost all of the money flowing through the Clinton Global Initiative went through Doug Band," concluding that CGI "put the whole world up for sale."
+America for Sale — Part 3 reports that in 2009 the Nigerian businessman [[gilbert-chagoury|Gilbert Chagoury]] — a convicted money launderer and close business partner of the commodities trader [[marc-rich|Marc Rich]] — pledged $1 billion to the Clinton Global Initiative. In the same year CGI gave Chagoury's company an award for sustainable development, and in 2013 [[bill-clinton|Bill Clinton]] appeared at a public ceremony in Nigeria for one of his projects. The article stresses that CGI was the brainchild of [[doug-band|Doug Band]] and that "almost all of the money flowing through the Clinton Global Initiative went through Doug Band," concluding that CGI "put the whole world up for sale."
 
 ## Sources
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Bank of England
 
-The Bank of England is the central bank of the United Kingdom. It appears in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]] in connection with an unusual public warning about the financial consequences of extraterrestrial disclosure.
+The Bank of England is the central bank of the United Kingdom. It appears in the January 19, 2026 Badlands Brief in connection with an unusual public warning about the financial consequences of extraterrestrial disclosure.
 
 The Brief cites reporting by The Independent that the Bank suddenly announced a warning that financial markets could collapse if the United States government decided to announce the existence of aliens. The warning was attributed to senior analyst Helen McCaw. [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] notes that the article itself acknowledges the disclosure trend has been years in the making, and asks why McCaw would "decide to panic over this development at this exact moment in time," concluding: "It can't be a coincidence."
 

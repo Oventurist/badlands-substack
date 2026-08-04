@@ -10,7 +10,7 @@ contested: true
 ---
 # Mohammed bin Salman
 
-Mohammed bin Salman, commonly abbreviated MBS, is the Crown Prince of [[saudi-arabia]] and the central figure of the Badlands Media essay [[arabian-nights]]. Prior to his elevation he served for five years as Saudi defence minister, with responsibility for the military. He is the son of king salman and the grandson of Abdulaziz bin Abdul Rahman Al Saud, founder of the modern kingdom.
+Mohammed bin Salman, commonly abbreviated MBS, is the Crown Prince of [[saudi-arabia]] and the central figure of the Badlands Media essay arabian nights. Prior to his elevation he served for five years as Saudi defence minister, with responsibility for the military. He is the son of king salman and the grandson of Abdulaziz bin Abdul Rahman Al Saud, founder of the modern kingdom.
 
 ## The 2017 consolidation
 
@@ -30,7 +30,7 @@ The source rejects both the mainstream portrait of MBS as a malevolent autocrat 
 
 ## Statements during the Twelve Day War (May 2026 brief)
 
-The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] quotes MBS from June 2025, during the [[twelve-day-war|Twelve Day War]] between [[israel|Israel]] and [[iran|Iran]], as saying: "Saudi Arabia stands with its brothers in Iran and will spare no effort to support them," and "the entire Islamic world is united in backing Iran." Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cites the statements as evidence of the regional realignment that he argues the Barakah drone strike was intended to disrupt.
+The May 18, 2026 Badlands Brief quotes MBS from June 2025, during the [[twelve-day-war|Twelve Day War]] between [[israel|Israel]] and [[iran|Iran]], as saying: "Saudi Arabia stands with its brothers in Iran and will spare no effort to support them," and "the entire Islamic world is united in backing Iran." Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] cites the statements as evidence of the regional realignment that he argues the Barakah drone strike was intended to disrupt.
 
 ## Sources
 

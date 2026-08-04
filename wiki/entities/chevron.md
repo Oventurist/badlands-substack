@@ -10,7 +10,7 @@ contested: true
 ---
 # Chevron
 
-Chevron is an American multinational energy corporation named in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as one of the Western oil majors with a vested interest in lifting sanctions on [[iran]].
+Chevron is an American multinational energy corporation named in the Badlands Media essay "And Iran, Iran So Far Away" as one of the Western oil majors with a vested interest in lifting sanctions on [[iran]].
 
 The article states that Chevron, along with [[exxonmobil|Exxon]], [[bp|British Petroleum]] and [[shell|Royal Dutch Shell]], donates to the [[atlantic-council]], and that through this funding the energy firms hold influence over the [[state-department]], the [[cia]] and the [[pentagon]], enabling them to lobby for policies that would open Iran to Western investment.
 

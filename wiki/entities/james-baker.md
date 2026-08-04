@@ -13,7 +13,7 @@ contested: true
 ---
 # James Baker
 
-James Addison Baker III (born 1930) is an American attorney and political figure who served in high-level positions in the administrations of Presidents Gerald Ford, Ronald Reagan, and George H.W. Bush. In the Badlands Media article [[a-family-affair]], Baker is identified as the close friend and political ally of [[george-hw-bush]] whose family founded [[texas-commerce-bank]], and through whom George H.W. Bush arranged for his son [[jeb-bush]] to be hired as a CIA non-official cover officer.
+James Addison Baker III (born 1930) is an American attorney and political figure who served in high-level positions in the administrations of Presidents Gerald Ford, Ronald Reagan, and George H.W. Bush. In the Badlands Media article a family affair, Baker is identified as the close friend and political ally of [[george-hw-bush]] whose family founded [[texas-commerce-bank]], and through whom George H.W. Bush arranged for his son [[jeb-bush]] to be hired as a CIA non-official cover officer.
 
 ## Family connection to Texas Commerce Bank
 

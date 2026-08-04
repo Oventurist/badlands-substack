@@ -10,7 +10,7 @@ contested: true
 ---
 # Deep State Burn Cards
 
-**Deep State Burn Cards** is a phrase appearing in the subtitle of [[badlands-blitz-episode-7|Badlands Blitz Episode 7]], published by [[badlands-media|Badlands Media]] on February 21, 2026: "Donald Trump, Deep State Burn Cards & the Return of Honor Culture."
+**Deep State Burn Cards** is a phrase appearing in the subtitle of Badlands Blitz Episode 7, published by [[badlands-media|Badlands Media]] on February 21, 2026: "Donald Trump, Deep State Burn Cards & the Return of Honor Culture."
 
 ## Meaning
 

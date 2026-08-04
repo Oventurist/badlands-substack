@@ -14,7 +14,7 @@ The **Sovereign Alliance** is a term used in the [[badlands-media|Badlands Media
 
 ## Appearance in the corpus
 
-The term appears in [[badlands-blitz-episode-11|Badlands Blitz Episode 11]], "Iran, NATO and the Invisible Enemy," published March 21, 2026. In that episode [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] use "the spiraling narrative of the Iran War to map the strategic pincer that appears to be in the offing by the Sovereign Alliance against the true Invisible Enemy." The image of a *pincer* is the operative one: the alliance is described as maneuvering on more than one axis at once, so that a conflict presented publicly as a war over [[iran|Iran]] — with [[nato|NATO]] positioned as one of the principal instruments involved — functions in the hosts' reading as a stage of a broader encirclement.
+The term appears in Badlands Blitz Episode 11, "Iran, NATO and the Invisible Enemy," published March 21, 2026. In that episode [[burning-bright|Burning Bright]] and [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] use "the spiraling narrative of the Iran War to map the strategic pincer that appears to be in the offing by the Sovereign Alliance against the true Invisible Enemy." The image of a *pincer* is the operative one: the alliance is described as maneuvering on more than one axis at once, so that a conflict presented publicly as a war over [[iran|Iran]] — with [[nato|NATO]] positioned as one of the principal instruments involved — functions in the hosts' reading as a stage of a broader encirclement.
 
 ## Interpretive character
 
@@ -23,7 +23,7 @@ Because the alliance is by definition unannounced, its membership in the corpus 
 
 ## Iran as a test of the alliance (March 2026)
 
-In the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] uses the Sovereign Alliance concept to explain why [[china|China]] and [[russia|Russia]] appear to be encouraging [[iran|Iran]] to keep fighting. He describes the alliance as "this political network" built worldwide by Beijing and Moscow, "dependent on power projection in order to challenge the Unipolar Hegemony," and argues that a strategic defeat for Iran would discredit it: "if China and Russia can't protect Iran and keep it sovereign, then what chance do smaller countries with lesser military capabilities have? Why would they join the Sovereign Alliance?" He also raises the alliance's material stake in the [[north-south-transportation-corridor|North-South Transportation Corridor]].
+In the March 18, 2026 Badlands Brief, contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] uses the Sovereign Alliance concept to explain why [[china|China]] and [[russia|Russia]] appear to be encouraging [[iran|Iran]] to keep fighting. He describes the alliance as "this political network" built worldwide by Beijing and Moscow, "dependent on power projection in order to challenge the Unipolar Hegemony," and argues that a strategic defeat for Iran would discredit it: "if China and Russia can't protect Iran and keep it sovereign, then what chance do smaller countries with lesser military capabilities have? Why would they join the Sovereign Alliance?" He also raises the alliance's material stake in the [[north-south-transportation-corridor|North-South Transportation Corridor]].
 
 ## Sources
 

@@ -14,7 +14,7 @@ contested: true
 ---
 # Ukraine
 
-Ukraine is a country in Eastern Europe whose 2014 Maidan uprising and subsequent trajectory toward [[nato|NATO]] are examined in the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]] as a case study of labor unions being used as geopolitical pawns.
+Ukraine is a country in Eastern Europe whose 2014 Maidan uprising and subsequent trajectory toward [[nato|NATO]] are examined in the Badlands Media article A More Perfect (Labor) Union as a case study of labor unions being used as geopolitical pawns.
 
 ## The 2014 Maidan uprising
 
@@ -27,7 +27,7 @@ The article also notes that leaked and declassified State Department cables from
 
 ## Biolab claims (A Virus, or a Metaphor?)
 
-The July 2023 essay [[a-virus-or-a-metaphor|A Virus, or a Metaphor?]] names Ukraine as a site of alleged bioweapon development. [[erik-carlson|Erik Carlson]] writes that beyond the laboratory work he attributes to [[barack-obama|Barack Obama]] and [[anthony-fauci|Anthony Fauci]] in North Carolina and later [[wuhan-institute-of-virology|Wuhan]], "other bioweapons were being created in other biolabs around the world as well, specifically in Ukraine, and possibly Taiwan." The article separately notes that in the plot of [[the-sum-of-all-fears|The Sum of All Fears]], the Nazi conspirators unleash a bioweapon on Ukraine as part of their effort to provoke war between Russia and the United States.
+The July 2023 essay A Virus, or a Metaphor? names Ukraine as a site of alleged bioweapon development. [[erik-carlson|Erik Carlson]] writes that beyond the laboratory work he attributes to [[barack-obama|Barack Obama]] and Anthony Fauci in North Carolina and later [[wuhan-institute-of-virology|Wuhan]], "other bioweapons were being created in other biolabs around the world as well, specifically in Ukraine, and possibly Taiwan." The article separately notes that in the plot of [[the-sum-of-all-fears|The Sum of All Fears]], the Nazi conspirators unleash a bioweapon on Ukraine as part of their effort to provoke war between Russia and the United States.
 
 ## Sources
 

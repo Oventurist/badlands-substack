@@ -10,7 +10,7 @@ contested: false
 ---
 # District of Columbia National Guard
 
-The District of Columbia National Guard is the National Guard component of the US capital. Unlike the Guard of any state, it reports directly to the President of the United States rather than to a governor — a structural feature emphasized in the March 13, 2026 [[badlands-brief-559|Badlands Brief]].
+The District of Columbia National Guard is the National Guard component of the US capital. Unlike the Guard of any state, it reports directly to the President of the United States rather than to a governor — a structural feature emphasized in the March 13, 2026 Badlands Brief.
 
 ## Activation of the 260th Special Purpose Brigade
 

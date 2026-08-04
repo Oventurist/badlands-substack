@@ -15,7 +15,7 @@ Mohammad Baqer Saad Dawood Al-Saadi is an Iraqi national, aged 32 at the time of
 
 ## Alleged plot against Ivanka Trump
 
-As reported in the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," Al-Saadi is alleged to have plotted to assassinate [[ivanka-trump|Ivanka Trump]] in retaliation for President [[donald-trump|Donald Trump]]'s ordering of the 2020 drone strike that killed [[qassem-soleimani|Qasem Soleimani]] in Baghdad. He allegedly obtained a blueprint of her Florida home and posted a map of the area surrounding the residence she shares with [[jared-kushner|Jared Kushner]], accompanied by a threat claiming that neither "palaces nor the Secret Service" would protect Americans and that operatives were in a "stage of surveillance and analysis." Sources told the [[new-york-post|New York Post]] the plot was intended to "burn down the house of Trump."
+As reported in the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," Al-Saadi is alleged to have plotted to assassinate [[ivanka-trump|Ivanka Trump]] in retaliation for President [[donald-trump|Donald Trump]]'s ordering of the 2020 drone strike that killed [[qassem-soleimani|Qasem Soleimani]] in Baghdad. He allegedly obtained a blueprint of her Florida home and posted a map of the area surrounding the residence she shares with [[jared-kushner|Jared Kushner]], accompanied by a threat claiming that neither "palaces nor the Secret Service" would protect Americans and that operatives were in a "stage of surveillance and analysis." Sources told the [[new-york-post|New York Post]] the plot was intended to "burn down the house of Trump."
 
 ## Alleged network and charges
 

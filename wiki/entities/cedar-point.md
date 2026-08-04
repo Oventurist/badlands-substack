@@ -11,7 +11,7 @@ contested: false
 
 # Cedar Point
 
-Cedar Point is an Ohio amusement park cited in the [[badlands-brief|Badlands Brief]] as one of the venues that modified operations because of unhealthy air quality produced by wildfire smoke from [[canada|Canada]]. The closure or curtailment of activity at Cedar Point and [[six-flags|Six Flags Great America]] was reported as a tangible domestic consequence of the smoke episode affecting the Great Lakes, Ohio Valley, Mid-Atlantic and Northeast, and was invoked in support of Senator [[bernie-moreno|Bernie Moreno]]'s proposed sanctions legislation against the Canadian government.
+Cedar Point is an Ohio amusement park cited in the Badlands Brief as one of the venues that modified operations because of unhealthy air quality produced by wildfire smoke from [[canada|Canada]]. The closure or curtailment of activity at Cedar Point and [[six-flags|Six Flags Great America]] was reported as a tangible domestic consequence of the smoke episode affecting the Great Lakes, Ohio Valley, Mid-Atlantic and Northeast, and was invoked in support of Senator [[bernie-moreno|Bernie Moreno]]'s proposed sanctions legislation against the Canadian government.
 
 ## Sources
 

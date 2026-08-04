@@ -13,7 +13,7 @@ contested: false
 
 Gideon Saar is an Israeli politician serving as Foreign Minister of [[israel|Israel]] during the 2026 war with [[iran|Iran]].
 
-The March 16, 2026 [[badlands-brief|Badlands Brief]], summarizing Times of Israel reporting, quotes Saar as saying that only the Iranian people can ultimately bring down their government, while adding that outside assistance may be necessary for them to do so. His formulation is presented in the Brief alongside Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s acknowledgement that he does not know whether Iranians will oust their leadership, and together the two statements are read as an admission of uncertainty at the top of the Israeli government about the regime-change objective of the campaign.
+The March 16, 2026 Badlands Brief, summarizing Times of Israel reporting, quotes Saar as saying that only the Iranian people can ultimately bring down their government, while adding that outside assistance may be necessary for them to do so. His formulation is presented in the Brief alongside Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s acknowledgement that he does not know whether Iranians will oust their leadership, and together the two statements are read as an admission of uncertainty at the top of the Israeli government about the regime-change objective of the campaign.
 
 ## Sources
 

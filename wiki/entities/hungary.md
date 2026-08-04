@@ -10,7 +10,7 @@ contested: false
 ---
 # Hungary
 
-Hungary is a central European nation-state and member of the [[european-union|European Union]] whose migration policy features in the April 17, 2026 [[badlands-brief-07c|Badlands Brief]] as a case of political continuity amid leadership change.
+Hungary is a central European nation-state and member of the [[european-union|European Union]] whose migration policy features in the April 17, 2026 Badlands Brief as a case of political continuity amid leadership change.
 
 Under [[viktor-orban|Viktor Orbán]], Hungary built one of Europe's most restrictive border regimes: physical barriers along its frontiers, refusal of EU asylum quotas, and a public framing of migration as a civilizational and security threat. These positions reshaped Hungarian domestic politics and placed Budapest in sustained conflict with Brussels.
 

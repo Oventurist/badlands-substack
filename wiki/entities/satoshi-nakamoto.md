@@ -10,7 +10,7 @@ contested: true
 ---
 # Satoshi Nakamoto
 
-**Satoshi Nakamoto** is the pseudonym used by the anonymous person or group who created [[bitcoin]]. The Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] treats Satoshi's origin story as carrying theological resonance.
+**Satoshi Nakamoto** is the pseudonym used by the anonymous person or group who created [[bitcoin]]. The Badlands Media feature "Are We Entering the Millennial Reign?" treats Satoshi's origin story as carrying theological resonance.
 
 ## The record as summarized
 

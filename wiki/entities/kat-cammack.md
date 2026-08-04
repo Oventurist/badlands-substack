@@ -14,7 +14,7 @@ Kat Cammack is a Republican member of the U.S. House of Representatives from Flo
 
 ## H.Res. 500
 
-As described in the July 22, 2026 [[badlands-brief-1ae|Badlands Brief]], Cammack called for an immediate House vote on the resolution, which she had introduced earlier. H.Res. 500 would amend House rules to require criminal background checks for all House employees. It would additionally mandate public disclosure — filed with the Clerk of the House and made available to the public — of any payments, contracts, or agreements with foreign governments in the three years prior to employment, as well as any foreign citizenship or nationality held by the employee. The requirements would apply both to current staff and to new hires.
+As described in the July 22, 2026 Badlands Brief, Cammack called for an immediate House vote on the resolution, which she had introduced earlier. H.Res. 500 would amend House rules to require criminal background checks for all House employees. It would additionally mandate public disclosure — filed with the Clerk of the House and made available to the public — of any payments, contracts, or agreements with foreign governments in the three years prior to employment, as well as any foreign citizenship or nationality held by the employee. The requirements would apply both to current staff and to new hires.
 
 Cammack's stated rationale is that congressional staff routinely handle sensitive personal information yet face no mandatory background checks of the kind required for executive-branch employees, and that repeated efforts to advance the measure have stalled.
 

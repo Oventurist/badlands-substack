@@ -15,7 +15,7 @@ Executive Order 26-01 is an order issued by Minnesota Governor [[tim-walz|Tim Wa
 
 ## Provisions
 
-As summarized in the January 9, 2026 [[badlands-brief-094|Badlands Brief]], the order:
+As summarized in the January 9, 2026 Badlands Brief, the order:
 
 - provides the ability for the Minnesota National Guard to protect critical infrastructure and to assist local law enforcement with additional tasks as requested, alongside additional state law enforcement resources including 85 members of the Minnesota State Patrol's Mobile Response Team mobilized in the Twin Cities;
 - authorizes the Adjutant General to place National Guard personnel, equipment, and facilities on state active duty to coordinate and support public safety and security services in [[minnesota|Minnesota]], with the Guard serving in a support role focused on protecting property, safeguarding critical infrastructure, and allowing local law enforcement to remain focused on community safety and investigative responsibilities;

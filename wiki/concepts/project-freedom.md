@@ -14,7 +14,7 @@ Project Freedom is the name given by President [[donald-trump|Donald Trump]] to 
 
 ## Announcement and initial operations
 
-According to the [[badlands-brief-195|Badlands Brief of May 5, 2026]], Trump announced the operation on Truth Social as clashes with [[iran|Iranian]] forces escalated. United States naval and air assets engaged Iranian drones and small boats near the strait, destroying multiple vessels while attempting to secure safe passage for commercial shipping and to move stranded ships through the waterway, which handles a significant share of global oil traffic.
+According to the Badlands Brief of May 5, 2026, Trump announced the operation on Truth Social as clashes with [[iran|Iranian]] forces escalated. United States naval and air assets engaged Iranian drones and small boats near the strait, destroying multiple vessels while attempting to secure safe passage for commercial shipping and to move stranded ships through the waterway, which handles a significant share of global oil traffic.
 
 Iranian state-linked sources claimed that their forces had struck a United States warship during the confrontation. The [[pentagon|Pentagon]] rejected that assertion, stating that no American vessels were hit and that United States forces had successfully repelled the attacks. Reports from the region indicated that some commercial ships were damaged or targeted during the exchange while others transited under United States protection; the situation was described as fluid.
 

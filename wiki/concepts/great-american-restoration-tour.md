@@ -14,7 +14,7 @@ The Great American Restoration Tour, abbreviated GART, is a travelling live-even
 
 ## Character of the events
 
-In the essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]], the author describes GART as "unlike any other 'conference' out there, because it's a relatively small, accessible event, where Badlands hosts and our brilliant audience come together for a few days to get to know each other, laugh and learn, and experience the local area," adding that she would "prefer to call it a festival as opposed to a conference." Returning attendees, she writes, come to value the unscheduled "off-book" portions of the weekend as much as the programmed panels.
+In the essay "A Mysterious Masterclass in Multi Sensory Deception", the author describes GART as "unlike any other 'conference' out there, because it's a relatively small, accessible event, where Badlands hosts and our brilliant audience come together for a few days to get to know each other, laugh and learn, and experience the local area," adding that she would "prefer to call it a festival as opposed to a conference." Returning attendees, she writes, come to value the unscheduled "off-book" portions of the weekend as much as the programmed panels.
 
 ## GART 5: Deadwood
 

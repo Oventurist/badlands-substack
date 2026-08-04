@@ -13,7 +13,7 @@ contested: true
 ---
 # Edward Stettinius
 
-Edward Stettinius (1900–1949) was an American businessman and government official who served as U.S. Secretary of State from 1944 to 1945 under President Franklin D. Roosevelt and as the first United States Ambassador to the United Nations. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Stettinius is cited as an official who explicitly coordinated U.S. labor policy in post-war Europe.
+Edward Stettinius (1900–1949) was an American businessman and government official who served as U.S. Secretary of State from 1944 to 1945 under President Franklin D. Roosevelt and as the first United States Ambassador to the United Nations. In the Badlands Media article A More Perfect (Labor) Union, Stettinius is cited as an official who explicitly coordinated U.S. labor policy in post-war Europe.
 
 ## Role in labor coordination
 

@@ -12,7 +12,7 @@ contested: false
 ---
 # The Washington Post
 
-The Washington Post is an American daily newspaper founded in 1877, known for its investigative journalism and political reporting. In the Badlands Media article [[a-family-affair]], The Washington Post is cited as the source for the Mexican court verdict convicting [[raul-salinas]] as the intellectual author of the September 1994 murder of [[jose-francisco-ruiz-massieu]], and for details about [[mario-ruiz-massieu]]'s role as special prosecutor and subsequent cover-up.
+The Washington Post is an American daily newspaper founded in 1877, known for its investigative journalism and political reporting. In the Badlands Media article a family affair, The Washington Post is cited as the source for the Mexican court verdict convicting [[raul-salinas]] as the intellectual author of the September 1994 murder of [[jose-francisco-ruiz-massieu]], and for details about [[mario-ruiz-massieu]]'s role as special prosecutor and subsequent cover-up.
 
 ## Key citations
 

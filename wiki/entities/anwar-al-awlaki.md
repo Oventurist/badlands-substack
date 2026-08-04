@@ -14,7 +14,7 @@ Anwar al-Awlaki was an American-born Islamic cleric and [[al-qaeda|al-Qaeda]] op
 
 ## In the Badlands corpus
 
-[[america-for-sale-part-1|America for Sale - Part 1]] cites al-Awlaki twice, both times in connection with the [[muslim-students-association|Muslim Students Association]]. *Newsweek*, quoted in the article, notes that critics pointed to [[huma-abedin|Huma Abedin]]'s service on the board of the MSA chapter at [[george-washington-university|George Washington University]] which, "a few years after she left, was advised by Al-Qaeda-affiliated cleric Anwar al-Awlaki."
+America for Sale   Part 1 cites al-Awlaki twice, both times in connection with the [[muslim-students-association|Muslim Students Association]]. *Newsweek*, quoted in the article, notes that critics pointed to [[huma-abedin|Huma Abedin]]'s service on the board of the MSA chapter at [[george-washington-university|George Washington University]] which, "a few years after she left, was advised by Al-Qaeda-affiliated cleric Anwar al-Awlaki."
 
 PJMedia, also quoted, gives more detail: in 2001 the GWU chapter's spiritual guide "was … Anwar al-Awlaki, the al-Qaeda operative who was then ministering to some of the eventual 9/11 suicide-hijackers." The same passage notes that al-Awlaki had himself led the MSA chapter at Colorado State University in the early 1990s, and cites Patrick Poole for the proposition that he was "far from the only jihadist to hone his supremacist ideology in the MSA's friendly confines." The article uses this history to argue that MSA chapters served as incubators for both terrorism and governmental infiltration.
 

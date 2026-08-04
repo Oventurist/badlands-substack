@@ -15,7 +15,7 @@ Lorna Schofield is a United States District Judge and an appointee of President 
 
 ## The Sarcone ruling
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that Schofield disqualified [[john-sarcone|John Sarcone III]] as US Attorney for the Northern District of New York and invalidated subpoenas his office had issued to New York Attorney General [[letitia-james|Letitia James]]. In a 24-page opinion she wrote that Sarcone had been serving unlawfully, adding: "When the Executive branch of government skirts restraints put in place by Congress and then uses that power to subject political adversaries to criminal investigations, it acts without lawful authority."
+The January 9, 2026 Badlands Brief reports that Schofield disqualified [[john-sarcone|John Sarcone III]] as US Attorney for the Northern District of New York and invalidated subpoenas his office had issued to New York Attorney General [[letitia-james|Letitia James]]. In a 24-page opinion she wrote that Sarcone had been serving unlawfully, adding: "When the Executive branch of government skirts restraints put in place by Congress and then uses that power to subject political adversaries to criminal investigations, it acts without lawful authority."
 
 The decision belongs to a broader line of rulings rejecting attempts by the administration of [[donald-trump|Donald Trump]] to install US attorneys without [[senate|Senate]] confirmation.
 

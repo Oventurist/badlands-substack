@@ -14,7 +14,7 @@ Mark Zuckerberg is the founder and chief executive of [[meta-platforms|Meta Plat
 
 ## In the Badlands account
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] places Zuckerberg within a group of big-tech founders whose origin stories the author regards as manufactured — the essay's reference to "a hoody wearing tech nerd from Harvard" is a transparent allusion to him, and the article argues that films were made to solidify such stories in the public mind. Under this framing Facebook is a civilian rebranding of [[darpa-lifelog|DARPA's LifeLog]] program, funded in its early stages by [[cia]] shell companies, with Zuckerberg serving as its assigned public face.
+Erik Carlson's America Has a CIA Run Economy places Zuckerberg within a group of big-tech founders whose origin stories the author regards as manufactured — the essay's reference to "a hoody wearing tech nerd from Harvard" is a transparent allusion to him, and the article argues that films were made to solidify such stories in the public mind. Under this framing Facebook is a civilian rebranding of [[darpa-lifelog|DARPA's LifeLog]] program, funded in its early stages by [[cia]] shell companies, with Zuckerberg serving as its assigned public face.
 
 ## Realignment
 

@@ -14,7 +14,7 @@ Muhammad ibn Abd al-Wahhab, known simply as al-Wahhab, was the eighteenth-centur
 
 ## Background and doctrine
 
-According to [[arabian-nights]], he was born to a family of jurists — Islamic judges — in the Najd region of central Arabia and raised under a strict orthodox reading of Islam. By the early 1700s, roughly 1,100 years after the death of the Prophet, the source describes Arabian religious life as having circled back to pre-Islamic idolatry: nominal Muslims who had deviated from the hadiths, worshipped hundreds of secular idols, and practised ancient occult magic and mysticism.
+According to arabian nights, he was born to a family of jurists — Islamic judges — in the Najd region of central Arabia and raised under a strict orthodox reading of Islam. By the early 1700s, roughly 1,100 years after the death of the Prophet, the source describes Arabian religious life as having circled back to pre-Islamic idolatry: nominal Muslims who had deviated from the hadiths, worshipped hundreds of secular idols, and practised ancient occult magic and mysticism.
 
 Al-Wahhab had a firebrand personality and a passion for what he understood not as innovation but as restoration. He rejected *taqlid*, conformity or group-think, in favour of *ijtihad*, independent legal reasoning derived from research of scripture, as the basis for re-establishing societal norms. The source notes that neither he nor his followers ever gave their ideology a name.
 

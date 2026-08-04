@@ -21,7 +21,7 @@ The Second Bank is framed in the article as the first major battleground in the 
 - [[Andrew Jackson]] — opposed the Second Bank
 - [[Federal Reserve]] — the institution the Second Bank is said to have prefigured
 - [[federal-reserve|Federal Reserve Act]] — the 1913 legislation that realized what Jackson opposed
-- [[1913]] — the year Jackson's opposition was ultimately overcome
+- 1913 — the year Jackson's opposition was ultimately overcome
 - [[Jekyll Island meeting]] — the secret meeting that planned the Federal Reserve
 - [[Coinage Act of 1873]] — established the gold standard Jackson favored
 

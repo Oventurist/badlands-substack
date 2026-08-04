@@ -12,7 +12,7 @@ contested: false
 
 United States Southern Command (SOUTHCOM) is the unified combatant command of the [[pentagon|Department of Defense]] responsible for military operations in Central and South America and the Caribbean.
 
-The March 4, 2026 [[badlands-brief-165|Badlands Brief]] notes a SOUTHCOM press release announcing that Ecuadorian and United States military forces had launched joint operations against narco-terrorists in Ecuador. The commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] links the announcement to Colombian President [[gustavo-petro|Gustavo Petro]]'s statements that he had discussed joint anti-cartel operations with President [[donald-trump|Donald Trump]] and that Ecuador had become the new hub of cartel operations, as well as to Petro's claim that the real cartel leadership resides not in the jungles but in major cities, working through banks and corporations.
+The March 4, 2026 Badlands Brief notes a SOUTHCOM press release announcing that Ecuadorian and United States military forces had launched joint operations against narco-terrorists in Ecuador. The commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] links the announcement to Colombian President [[gustavo-petro|Gustavo Petro]]'s statements that he had discussed joint anti-cartel operations with President [[donald-trump|Donald Trump]] and that Ecuador had become the new hub of cartel operations, as well as to Petro's claim that the real cartel leadership resides not in the jungles but in major cities, working through banks and corporations.
 
 ## Joint operations in Ecuador (March 2026)
 

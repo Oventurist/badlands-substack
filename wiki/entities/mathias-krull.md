@@ -11,7 +11,7 @@ contested: false
 
 # Mathias Krull
 
-Mathias Krull is a German-born investment banker arrested by U.S. authorities in July 2018 as part of the Justice Department's [[operation-money-flight|Operation Money Flight]]. According to [[badlands-brief-314|the Badlands Brief of February 4, 2026]], investigators determined that Krull had laundered $1.2 billion embezzled from Venezuela's state oil company [[pdvsa|PDVSA]].
+Mathias Krull is a German-born investment banker arrested by U.S. authorities in July 2018 as part of the Justice Department's [[operation-money-flight|Operation Money Flight]]. According to the Badlands Brief of February 4, 2026, investigators determined that Krull had laundered $1.2 billion embezzled from Venezuela's state oil company [[pdvsa|PDVSA]].
 
 Krull subsequently became a cooperating witness for the [[department-of-justice|Department of Justice]] in exchange for clemency on a ten-year prison sentence. The Brief notes that he appears in a 2022 [[occrp|Organized Crime and Corruption Reporting Project]] investigation, part of the Suisse Secrets project, offering insight into former PDVSA official [[nervis-villalobos|Nervis Villalobos]] and the use of [[credit-suisse|Credit Suisse]] accounts to conceal money embezzled and laundered from PDVSA.
 

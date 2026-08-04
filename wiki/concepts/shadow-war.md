@@ -14,7 +14,7 @@ contested: true
 
 ## Usage
 
-The paired framing is explicit in the announcement for [[badlands-blitz-episode-25|Badlands Blitz Episode 25]] (July 18, 2026), which describes Donald Trump's election fraud speech of the preceding Thursday as marking "the beginnings of a true phase shift in both the Shadow War and the Information War at once." The construction treats the two as distinct but coupled theatres, so that a sufficiently significant public event — in this case a speech — can register simultaneously as a covert-layer development and as a narrative-layer one. The same announcement links the Shadow War to the fortunes of what it calls the "[[deep-state|Deep State]] cabal," presenting the covert theatre as the arena in which that alleged network is engaged.
+The paired framing is explicit in the announcement for Badlands Blitz Episode 25 (July 18, 2026), which describes Donald Trump's election fraud speech of the preceding Thursday as marking "the beginnings of a true phase shift in both the Shadow War and the Information War at once." The construction treats the two as distinct but coupled theatres, so that a sufficiently significant public event — in this case a speech — can register simultaneously as a covert-layer development and as a narrative-layer one. The same announcement links the Shadow War to the fortunes of what it calls the "[[deep-state|Deep State]] cabal," presenting the covert theatre as the arena in which that alleged network is engaged.
 
 ## Character of the concept
 

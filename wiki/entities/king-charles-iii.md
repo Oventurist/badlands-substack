@@ -15,7 +15,7 @@ Charles III is the King of the United Kingdom and, in his capacity as Canadian h
 
 ## Alberta independence commentary
 
-In the [[badlands-brief-1ce|January 30, 2026 Badlands Brief]], contributor [[ashe-in-america|Ashe in America]] frames the [[alberta-prosperity-project|Alberta Prosperity Project]]'s campaign as an effort to win independence "from Britain" rather than merely from Ottawa, and concludes that President [[donald-trump|Donald Trump]] "should call King Charles and make a deal." The remark reflects the corpus's treatment of Canada as a Crown-administered "globalist proxy state" rather than a fully independent polity.
+In the January 30, 2026 Badlands Brief, contributor [[ashe-in-america|Ashe in America]] frames the [[alberta-prosperity-project|Alberta Prosperity Project]]'s campaign as an effort to win independence "from Britain" rather than merely from Ottawa, and concludes that President [[donald-trump|Donald Trump]] "should call King Charles and make a deal." The remark reflects the corpus's treatment of Canada as a Crown-administered "globalist proxy state" rather than a fully independent polity.
 
 ## Sources
 

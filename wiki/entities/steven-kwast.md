@@ -10,7 +10,7 @@ contested: false
 ---
 # Steven Kwast
 
-General Kwast — retired United States Air Force officer Steven Kwast — appears in [[badlands-media|Badlands Media]] coverage as a speaker and attendee at the network's live events. He is a recurring figure in the August 30, 2024 essay [[a-mysterious-masterclass-in-multi|"A Mysterious Masterclass in Multi Sensory Deception"]], which describes him attending the fifth [[great-american-restoration-tour|Great American Restoration Tour]] stop in Deadwood, South Dakota, accompanied by his wife, Joni.
+General Kwast — retired United States Air Force officer Steven Kwast — appears in [[badlands-media|Badlands Media]] coverage as a speaker and attendee at the network's live events. He is a recurring figure in the August 30, 2024 essay "A Mysterious Masterclass in Multi Sensory Deception", which describes him attending the fifth [[great-american-restoration-tour|Great American Restoration Tour]] stop in Deadwood, South Dakota, accompanied by his wife, Joni.
 
 ## Role in the Deadwood essay
 

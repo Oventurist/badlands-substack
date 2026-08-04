@@ -10,7 +10,7 @@ contested: false
 ---
 # Distributed Ledger
 
-A distributed ledger is a database that is consensually shared and synchronized across multiple sites, institutions, or geographies and accessible to multiple people. The definition used in the Badlands Media corpus is quoted directly from Investopedia in [[joe-lange|Joe Lange]]'s article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]].
+A distributed ledger is a database that is consensually shared and synchronized across multiple sites, institutions, or geographies and accessible to multiple people. The definition used in the Badlands Media corpus is quoted directly from Investopedia in [[joe-lange|Joe Lange]]'s article "Are CBDCs The Path To Fear, or Freedom?".
 
 According to that definition, a distributed ledger allows transactions to have public "witnesses": the participant at each node of the network can access the recordings shared across the network and can own an identical copy of it, and any changes or additions are reflected and copied to all participants within seconds or minutes. It stands in contrast to the centralized ledger used by most companies, which is described as more prone to cyber attacks and fraud because it has a single point of failure. [[blockchain]] is identified as a type of distributed ledger, and the type used by [[bitcoin]].
 

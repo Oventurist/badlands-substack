@@ -22,7 +22,7 @@ The source notes that Aldrich's daughter married a Rockefeller, framing this fam
 - [[federal-reserve|Federal Reserve Act]] — legislation based on Aldrich's National Monetary Commission recommendations
 - [[Populist Party]] — the party that allegedly convinced Aldrich to transform the monetary system
 - Rockefeller family — connected to Aldrich through his daughter's marriage
-- [[1913]] — the year Aldrich's recommendations were enacted
+- 1913 — the year Aldrich's recommendations were enacted
 
 ## Sources
 

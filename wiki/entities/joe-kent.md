@@ -15,7 +15,7 @@ Joe Kent is an American combat veteran, former congressional candidate and, as o
 
 ## Resignation over the Iran war
 
-According to the March 18, 2026 [[badlands-brief|Badlands Brief]], Kent submitted a strongly worded resignation letter stating that he could not in good conscience support the conflict. He declared that "Iran posed no imminent threat to our nation" and asserted that the war had been started because of pressure from [[israel|Israel]] and its powerful American lobby. Kent accused high-ranking Israeli officials and influential American media outlets of conducting a misinformation campaign that undermined Trump's "[[america-first|America First]]" foreign policy, drawing an explicit comparison with the tactics used to draw the United States into the [[iraq-war|Iraq War]]. He urged Trump to return to the non-interventionist approach of his 2016, 2020 and 2024 campaigns and of his first term.
+According to the March 18, 2026 Badlands Brief, Kent submitted a strongly worded resignation letter stating that he could not in good conscience support the conflict. He declared that "Iran posed no imminent threat to our nation" and asserted that the war had been started because of pressure from [[israel|Israel]] and its powerful American lobby. Kent accused high-ranking Israeli officials and influential American media outlets of conducting a misinformation campaign that undermined Trump's "[[america-first|America First]]" foreign policy, drawing an explicit comparison with the tactics used to draw the United States into the [[iraq-war|Iraq War]]. He urged Trump to return to the non-interventionist approach of his 2016, 2020 and 2024 campaigns and of his first term.
 
 ## Military background
 

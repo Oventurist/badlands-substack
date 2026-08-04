@@ -15,7 +15,7 @@ The United States Census Bureau is the federal statistical agency of the Departm
 
 ## November 2025 trade report
 
-The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] reports that the Census Bureau and BEA released the trade figures on Thursday, January 29, 2026, showing the US trade deficit increased 94.6 percent from October to November 2025 amid ongoing trade and tariff negotiations. Financial media noted that the October 2025 deficit had been the lowest since 2009, making the November jump a reversal from an unusually low base. The release came the same week that President [[donald-trump|Donald Trump]] said he would name a successor to Federal Reserve Chair [[jerome-powell|Jerome Powell]].
+The January 30, 2026 Badlands Brief reports that the Census Bureau and BEA released the trade figures on Thursday, January 29, 2026, showing the US trade deficit increased 94.6 percent from October to November 2025 amid ongoing trade and tariff negotiations. Financial media noted that the October 2025 deficit had been the lowest since 2009, making the November jump a reversal from an unusually low base. The release came the same week that President [[donald-trump|Donald Trump]] said he would name a successor to Federal Reserve Chair [[jerome-powell|Jerome Powell]].
 
 ## Sources
 

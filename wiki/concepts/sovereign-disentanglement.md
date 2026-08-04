@@ -14,7 +14,7 @@ contested: true
 
 ## Use in Badlands Blitz Episode 12
 
-The concept is named as one of the three central subjects of [[badlands-blitz-episode-12|Badlands Blitz Episode 12]], where [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] pair it with [[narrative-warfare|Narrative Warfare]] and [[first-principles|First Principles]] as ideas that the source argues have been forgotten both in the wider world and within the [[truth-community|Truth Community]]. Taken with the episode's framing of the confused reporting around [[iran|Iran]] and [[ali-khamenei|Ayatollah Ali Khamenei]], the implication drawn is that entanglement and narrative confusion reinforce one another: a public unable to establish what is actually happening is a public poorly placed to evaluate whether its own state is acting in its own interest.
+The concept is named as one of the three central subjects of Badlands Blitz Episode 12, where [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] pair it with [[narrative-warfare|Narrative Warfare]] and [[first-principles|First Principles]] as ideas that the source argues have been forgotten both in the wider world and within the [[truth-community|Truth Community]]. Taken with the episode's framing of the confused reporting around [[iran|Iran]] and [[ali-khamenei|Ayatollah Ali Khamenei]], the implication drawn is that entanglement and narrative confusion reinforce one another: a public unable to establish what is actually happening is a public poorly placed to evaluate whether its own state is acting in its own interest.
 
 ## Sources
 

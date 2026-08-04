@@ -10,7 +10,7 @@ contested: false
 ---
 # King Salman
 
-Salman bin Abdulaziz Al Saud is the King of [[saudi-arabia]] and the father of Crown Prince [[mohammed-bin-salman]]. He appears in the Badlands Media essay [[arabian-nights]] chiefly in relation to the 2017 succession.
+Salman bin Abdulaziz Al Saud is the King of [[saudi-arabia]] and the father of Crown Prince [[mohammed-bin-salman]]. He appears in the Badlands Media essay arabian nights chiefly in relation to the 2017 succession.
 
 The source describes the moves made by MBS and his father to depose the would-be crown prince [[muhammad-bin-nayef]] and the prince and minister then in charge of the Saudi military, both cousins of MBS, who were arrested and stripped of all powers. Nayef was charged with treason and later accused of plotting to murder King Salman.
 

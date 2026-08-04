@@ -14,7 +14,7 @@ The Maidan Coup is the Badlands corpus's designation for the 2014 upheaval in [[
 
 ## Oligarchic leadership and armed formations
 
-The April 21, 2026 [[badlands-brief-1ef|Badlands Brief]] describes [[ihor-kolomoisky|Ihor Kolomoisky]], then the richest man in Ukraine, as "a vocal public leader of the Maidan Coup in 2014." Following the change of government he was appointed governor of Dnipropetrovsk Oblast, and used his wealth to create the Donbass Battalion while channeling money and resources into the already-formed [[azov-battalion|Azov Battalion]] and other volunteer militias. In the corpus's account, the coup thus directly produced a network of privately financed paramilitary formations, and set in motion the chain of events that led to Kolomoisky recruiting the actor [[volodymyr-zelensky|Volodymyr Zelenskyy]] to run for president — and to Zelenskyy later imprisoning him for corruption and revoking his citizenship.
+The April 21, 2026 Badlands Brief describes [[ihor-kolomoisky|Ihor Kolomoisky]], then the richest man in Ukraine, as "a vocal public leader of the Maidan Coup in 2014." Following the change of government he was appointed governor of Dnipropetrovsk Oblast, and used his wealth to create the Donbass Battalion while channeling money and resources into the already-formed [[azov-battalion|Azov Battalion]] and other volunteer militias. In the corpus's account, the coup thus directly produced a network of privately financed paramilitary formations, and set in motion the chain of events that led to Kolomoisky recruiting the actor [[volodymyr-zelensky|Volodymyr Zelenskyy]] to run for president — and to Zelenskyy later imprisoning him for corruption and revoking his citizenship.
 
 ## Sources
 

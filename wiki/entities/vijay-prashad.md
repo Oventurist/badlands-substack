@@ -15,7 +15,7 @@ Vijay Prashad is a historian and activist described in the Badlands Media corpus
 
 ## Position in the Singham network
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] lists Tricontinental as one of six key nonprofits receiving money in the network attributed to [[neville-roy-singham|Neville Roy Singham]], with $16,760,000 flowing to the organization. That funding, according to the source, originated in Shanghai and passed through intermediaries including shell companies and the donor-advised philanthropy fund of [[goldman-sachs|Goldman Sachs]] before reaching the recipient nonprofits, which are now subject to subpoenas issued by the Manhattan grand jury inquiry led by U.S. Attorney [[jay-clayton|Jay Clayton]].
+"Condemnation, Calibration, & Constitutional Boxes" lists Tricontinental as one of six key nonprofits receiving money in the network attributed to [[neville-roy-singham|Neville Roy Singham]], with $16,760,000 flowing to the organization. That funding, according to the source, originated in Shanghai and passed through intermediaries including shell companies and the donor-advised philanthropy fund of [[goldman-sachs|Goldman Sachs]] before reaching the recipient nonprofits, which are now subject to subpoenas issued by the Manhattan grand jury inquiry led by U.S. Attorney [[jay-clayton|Jay Clayton]].
 
 ## Sources
 

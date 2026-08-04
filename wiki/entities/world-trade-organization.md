@@ -10,7 +10,7 @@ contested: true
 ---
 # World Trade Organization
 
-The World Trade Organization (WTO) is the intergovernmental body governing international trade rules, established in 1995 as successor to the General Agreement on Tariffs and Trade. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the WTO is named as one of the architectural components of the post-Cold War unipolar order.
+The World Trade Organization (WTO) is the intergovernmental body governing international trade rules, established in 1995 as successor to the General Agreement on Tariffs and Trade. In the Badlands Media essay A Re Alignment of World Systems, the WTO is named as one of the architectural components of the post-Cold War unipolar order.
 
 ## Role in the source
 

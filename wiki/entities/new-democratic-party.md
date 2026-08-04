@@ -10,7 +10,7 @@ contested: true
 ---
 # New Democratic Party
 
-The New Democratic Party (NDP) is a Canadian social-democratic political party. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the NDP appears both as an institutional descendant of a Depression-era Fabian project and as the party of [[bob-rae|Bob Rae]].
+The New Democratic Party (NDP) is a Canadian social-democratic political party. In the Badlands Media essay A Re Alignment of World Systems, the NDP appears both as an institutional descendant of a Depression-era Fabian project and as the party of [[bob-rae|Bob Rae]].
 
 ## Origins as described in the source
 

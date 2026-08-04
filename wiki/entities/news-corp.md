@@ -14,7 +14,7 @@ News Corp is the media holding company associated with [[rupert-murdoch|Rupert M
 
 ## Role in the Big Six
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] names "Rupert Murdoch's NewsCorp" as one of the six conglomerates that dominated all mainstream media as of 2017, together with [[time-warner|Time Warner]], [[comcast|Comcast]], [[walt-disney-company|Disney]], [[sony|Sony]] and National Amusements (now [[paramount-global|Paramount Global]]). The article cites shareholder data for News Corp (NWS) to support its claim of common institutional ownership across the group, arguing that the conservative-coded Murdoch properties and the liberal-coded outlets they appear to oppose are "two heads on the same wretched snake."
+A Swan Song for the MSM names "Rupert Murdoch's NewsCorp" as one of the six conglomerates that dominated all mainstream media as of 2017, together with [[time-warner|Time Warner]], [[comcast|Comcast]], [[walt-disney-company|Disney]], [[sony|Sony]] and National Amusements (now [[paramount-global|Paramount Global]]). The article cites shareholder data for News Corp (NWS) to support its claim of common institutional ownership across the group, arguing that the conservative-coded Murdoch properties and the liberal-coded outlets they appear to oppose are "two heads on the same wretched snake."
 
 ## Sources
 

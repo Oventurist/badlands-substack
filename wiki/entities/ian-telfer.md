@@ -10,7 +10,7 @@ contested: true
 ---
 # Ian Telfer
 
-Ian Telfer is a Canadian mining executive who became chairman of [[uranium-one|Uranium One]] after its 2007 merger with [[frank-giustra|Frank Giustra]]'s [[urasia-energy|UrAsia Energy]], and who is central to the donation trail examined in the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]].
+Ian Telfer is a Canadian mining executive who became chairman of [[uranium-one|Uranium One]] after its 2007 merger with [[frank-giustra|Frank Giustra]]'s [[urasia-energy|UrAsia Energy]], and who is central to the donation trail examined in the Badlands Media essay America for Sale — Part 3.
 
 Public disclosures by the [[clinton-foundation|Clinton Foundation]], which was required to name all contributors to avoid the perception of conflicts of interest during [[hillary-clinton|Hillary Clinton]]'s tenure at the [[state-department|State Department]], listed Telfer as the only Uranium One official to give, at "no more than $250,000, and that was in 2007, before talk of a Rosatom deal began percolating," according to the New York Times.
 

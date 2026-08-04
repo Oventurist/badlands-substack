@@ -15,7 +15,7 @@ Christopher Waller is a Governor of the [[federal-reserve|Federal Reserve]], app
 
 ## 2026 Fed chair candidacy
 
-The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]], drawing on commentary by [[ashe-in-america|Ashe in America]], described Waller as the candidate "seen as providing continuity," in contrast to the frontrunner [[kevin-warsh|Kevin Warsh]]. The shortlist, vetted by Treasury Secretary [[scott-bessent|Scott Bessent]], also included [[kevin-hassett|Kevin Hassett]] and [[rick-rieder|Rick Rieder]]. All of the candidates were reported to favor interest rate cuts, the central dispute between Trump and Powell, whose term as chair expires May 15, 2026.
+The January 30, 2026 Badlands Brief, drawing on commentary by [[ashe-in-america|Ashe in America]], described Waller as the candidate "seen as providing continuity," in contrast to the frontrunner [[kevin-warsh|Kevin Warsh]]. The shortlist, vetted by Treasury Secretary [[scott-bessent|Scott Bessent]], also included [[kevin-hassett|Kevin Hassett]] and [[rick-rieder|Rick Rieder]]. All of the candidates were reported to favor interest rate cuts, the central dispute between Trump and Powell, whose term as chair expires May 15, 2026.
 
 ## Sources
 

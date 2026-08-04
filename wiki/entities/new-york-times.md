@@ -14,7 +14,7 @@ contested: true
 
 ## In the Badlands critique
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] describes the Times, along with the [[washington-post|Washington Post]] and [[the-atlantic|The Atlantic]], as "mainstream, historically spook-friendly outlets" that "tend to hire people who are already naturally inclined to support the narratives handed down from on high." The article argues that such staff "live and die by the modern liberal orthodoxy," and that their primary skillset consists of "venomously seeking out anyone on the internet who deviates from this orthodoxy, and doing whatever they can to ruin said persons life."
+A Swan Song for the MSM describes the Times, along with the [[washington-post|Washington Post]] and [[the-atlantic|The Atlantic]], as "mainstream, historically spook-friendly outlets" that "tend to hire people who are already naturally inclined to support the narratives handed down from on high." The article argues that such staff "live and die by the modern liberal orthodoxy," and that their primary skillset consists of "venomously seeking out anyone on the internet who deviates from this orthodoxy, and doing whatever they can to ruin said persons life."
 
 The Times is also the former employer of [[taylor-lorenz|Taylor Lorenz]], whose social media beat the article presents as the archetype of this "tattletale journalism." The paper's own business coverage is nonetheless cited in the article as the source for BuzzFeed News's 2023 shutdown.
 

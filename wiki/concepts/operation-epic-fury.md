@@ -11,7 +11,7 @@ contested: true
 
 # Operation Epic Fury
 
-Operation Epic Fury is the name used in the [[badlands-brief-52f|Badlands Brief]] of March 3, 2026 for the coordinated United States and Israeli air and missile campaign against [[iran|Iran]] launched at the end of February 2026.
+Operation Epic Fury is the name used in the Badlands Brief of March 3, 2026 for the coordinated United States and Israeli air and missile campaign against [[iran|Iran]] launched at the end of February 2026.
 
 ## Course of the campaign
 
@@ -28,7 +28,7 @@ The Brief also notes speculation, drawing on remarks by retired Israeli general 
 
 ## Energy objectives and the end of OPEC
 
-The May 1, 2026 [[badlands-brief-579|Badlands Brief]] framed the disintegration of [[opec|OPEC]] as an explicit geopolitical objective of Epic Fury. Reporting on the [[united-arab-emirates|United Arab Emirates]]' exit from the cartel that day, the Brief argued that the operation's aims extended beyond military pressure to breaking [[iran|Iran]]'s leverage, weakening cartel coordination among oil producers, and driving postwar oil prices lower. Analysts noted that once Gulf exports normalize after the [[strait-of-hormuz|Strait of Hormuz]] theater resolves, the UAE would be free to ramp production outside quota limits, potentially forcing [[saudi-arabia|Saudi Arabia]] into a market-share fight. Contributor [[burning-bright|Burning Bright]] presented this as part of a broader program of sovereign disentanglement from the [[global-cartel|Global Cartel]].
+The May 1, 2026 Badlands Brief framed the disintegration of [[opec|OPEC]] as an explicit geopolitical objective of Epic Fury. Reporting on the [[united-arab-emirates|United Arab Emirates]]' exit from the cartel that day, the Brief argued that the operation's aims extended beyond military pressure to breaking [[iran|Iran]]'s leverage, weakening cartel coordination among oil producers, and driving postwar oil prices lower. Analysts noted that once Gulf exports normalize after the [[strait-of-hormuz|Strait of Hormuz]] theater resolves, the UAE would be free to ramp production outside quota limits, potentially forcing [[saudi-arabia|Saudi Arabia]] into a market-share fight. Contributor [[burning-bright|Burning Bright]] presented this as part of a broader program of sovereign disentanglement from the [[global-cartel|Global Cartel]].
 
 ## Sources
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Babylon
 
-Babylon, in the [[book-of-revelation|book of Revelation]], is the corrupt world city whose fall is announced by an angel. In the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]], [[patriots-in-progress|Patriots in Progress]] reads the Babylon passages as "simply a more detailed look into the [[the-beast|Beast]] system during [[great-tribulation|the Tribulation]]."
+Babylon, in the [[book-of-revelation|book of Revelation]], is the corrupt world city whose fall is announced by an angel. In the Badlands Media feature "Are We Entering the Millennial Reign?", [[patriots-in-progress|Patriots in Progress]] reads the Babylon passages as "simply a more detailed look into the [[the-beast|Beast]] system during [[great-tribulation|the Tribulation]]."
 
 ## Cause of the fall
 

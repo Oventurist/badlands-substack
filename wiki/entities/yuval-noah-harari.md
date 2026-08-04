@@ -14,7 +14,7 @@ Yuval Noah Harari — rendered "Noah Yuval Harari" in the source — is an Israe
 
 ## The "last human election" claim
 
-The July 2023 article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" cites Harari's prediction that 2024 will be "the last human election," and that the capabilities of advanced technology will produce a [[reality-collapse|reality collapse]] so substantial that political leaders will thereafter be selected by machines.
+The July 2023 article "Artificial Intelligence: Hysteria vs. Reason" cites Harari's prediction that 2024 will be "the last human election," and that the capabilities of advanced technology will produce a [[reality-collapse|reality collapse]] so substantial that political leaders will thereafter be selected by machines.
 
 Author [[ashe-in-america|Ashe in America]] rejects the prediction as "silly," but on inverted grounds: she argues that political leaders "are already selected by machines," and that the disclosure of AI's capabilities and its potential election use cases constitutes "a further indictment of everyone who peddled the 'safest and most secure elections in history' nonsense in the wake of 2020."
 

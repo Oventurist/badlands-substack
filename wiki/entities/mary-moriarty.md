@@ -15,7 +15,7 @@ Mary Moriarty is the Hennepin County Attorney in [[minnesota|Minnesota]], the el
 
 ## Investigation of federal immigration agents
 
-According to the March 3, 2026 [[badlands-brief-52f|Badlands Brief]], Moriarty launched an investigation into the conduct of federal immigration agents operating in Minnesota, including a senior [[united-states-border-patrol|US Border Patrol]] official. She announced that the [[hennepin-county-attorneys-office|Hennepin County Attorney's Office]] had created a public portal for the submission of evidence and would probe the "potentially unlawful behavior" of Border Patrol agents, naming [[gregory-bovino|Gregory Bovino]] among the subjects, and would pursue charges where appropriate.
+According to the March 3, 2026 Badlands Brief, Moriarty launched an investigation into the conduct of federal immigration agents operating in Minnesota, including a senior [[united-states-border-patrol|US Border Patrol]] official. She announced that the [[hennepin-county-attorneys-office|Hennepin County Attorney's Office]] had created a public portal for the submission of evidence and would probe the "potentially unlawful behavior" of Border Patrol agents, naming [[gregory-bovino|Gregory Bovino]] among the subjects, and would pursue charges where appropriate.
 
 The [[department-of-homeland-security|Department of Homeland Security]] responded by asserting that immigration enforcement is a federal responsibility and that state prosecutors lack the authority to charge federal officers acting in their official capacity — a position that implicates the doctrine of federal supremacy and officer immunity.
 

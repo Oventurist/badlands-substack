@@ -15,7 +15,7 @@ The Epstein Files Transparency Act is federal legislation requiring the United S
 
 ## The February 2026 production letter
 
-According to the February 17, 2026 [[badlands-brief-0a2|Badlands Brief]], the DOJ transmitted a formal production letter stating that it had complied with the Act and describing a review and redaction process aimed at protecting victim-identifying information and other material required by law.
+According to the February 17, 2026 Badlands Brief, the DOJ transmitted a formal production letter stating that it had complied with the Act and describing a review and redaction process aimed at protecting victim-identifying information and other material required by law.
 
 The department reported identifying more than 6 million pages as potentially responsive. On the day of the production it released over 3 million responsive pages, together with more than 2,000 videos and 180,000 images; combined with prior releases, nearly 3.5 million pages had been produced. Approximately 200,000 pages were withheld or redacted on the basis of privileges including deliberative process, attorney work product, and attorney-client privilege.
 
@@ -30,7 +30,7 @@ The disclosures were also associated with resignations and investigations across
 
 ## Compliance dispute and the Bondi subpoena (March 2026)
 
-The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that [[house-committee-on-oversight-and-accountability|House Oversight]] Chair [[james-comer|James Comer]] subpoenaed Attorney General [[pam-bondi|Pam Bondi]] for an April 14 deposition on the [[department-of-justice|Department of Justice]]'s compliance with the Act, citing more than 65,000 missing documents, over 2,000 unreleased videos and problematic redactions. The Department replied that lawmakers had been invited to review the unredacted files in person and that Bondi continued to hold calls and meetings with members of Congress on the transparency law.
+The March 18, 2026 Badlands Brief reports that [[house-committee-on-oversight-and-accountability|House Oversight]] Chair [[james-comer|James Comer]] subpoenaed Attorney General [[pam-bondi|Pam Bondi]] for an April 14 deposition on the [[department-of-justice|Department of Justice]]'s compliance with the Act, citing more than 65,000 missing documents, over 2,000 unreleased videos and problematic redactions. The Department replied that lawmakers had been invited to review the unredacted files in person and that Bondi continued to hold calls and meetings with members of Congress on the transparency law.
 
 ## Sources
 

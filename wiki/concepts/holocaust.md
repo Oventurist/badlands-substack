@@ -11,7 +11,7 @@ contested: false
 
 # Holocaust
 
-The Holocaust was the genocide carried out by the Nazi regime under [[adolf-hitler|Adolf Hitler]], resulting in the deaths of approximately six million Jewish people. It provides the historical context for the Swiss banking segment of [[badlands-brief-314|the Badlands Brief of February 4, 2026]].
+The Holocaust was the genocide carried out by the Nazi regime under [[adolf-hitler|Adolf Hitler]], resulting in the deaths of approximately six million Jewish people. It provides the historical context for the Swiss banking segment of the Badlands Brief of February 4, 2026.
 
 ## Relevance to the Credit Suisse investigation
 

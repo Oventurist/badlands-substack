@@ -13,7 +13,7 @@ contested: false
 
 The Reconstruction Act of 1867, the first of the Reconstruction Acts passed by Congress following the American Civil War, placed the former Confederate states under federal military authority pending their readmission to the Union on terms set by Congress. It divided the affected states into five military districts, each commanded by a United States Army officer, and conditioned the restoration of civil government on the adoption of new state constitutions and the ratification of the Fourteenth Amendment.
 
-The statute's operative language, quoted in the March 3, 2026 [[badlands-brief-52f|Badlands Brief]], reads: "Be it enacted . . . That said rebel States shall be divided into military districts and made subject to the military authority of the United States as hereinafter prescribed, and for that purpose Virginia shall constitute the first district; North Carolina and South Carolina the second district; Georgia, Alabama, and Florida the third district; Mississippi and Arkansas the fourth district; and Louisiana and Texas the fifth district."
+The statute's operative language, quoted in the March 3, 2026 Badlands Brief, reads: "Be it enacted . . . That said rebel States shall be divided into military districts and made subject to the military authority of the United States as hereinafter prescribed, and for that purpose Virginia shall constitute the first district; North Carolina and South Carolina the second district; Georgia, Alabama, and Florida the third district; Mississippi and Arkansas the fourth district; and Louisiana and Texas the fifth district."
 
 ## Invocation in 2026 commentary
 

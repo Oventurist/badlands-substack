@@ -12,7 +12,7 @@ contested: false
 
 Tom Emmer is a Republican member of the United States House of Representatives from Minnesota and serves as House Majority Whip.
 
-In the [[badlands-brief-144|Badlands Brief]] of January 20, 2026, Emmer is named as one of the Republicans leading investigations into the [[minnesota-somali-fraud|Minnesota Somali welfare fraud scandal]] in his home state, alongside [[james-comer|James Comer]] and [[rand-paul|Rand Paul]]. The Brief reports that the group describes the fraud as a deliberate, coordinated scheme with electoral consequences, and that whistleblowers — including Minnesota state workers — submitted affidavits claiming they had warned Governor [[tim-walz|Tim Walz]] and Attorney General [[keith-ellison|Keith Ellison]] about the problem without result, allegations both officials deny.
+In the Badlands Brief of January 20, 2026, Emmer is named as one of the Republicans leading investigations into the [[minnesota-somali-fraud|Minnesota Somali welfare fraud scandal]] in his home state, alongside [[james-comer|James Comer]] and [[rand-paul|Rand Paul]]. The Brief reports that the group describes the fraud as a deliberate, coordinated scheme with electoral consequences, and that whistleblowers — including Minnesota state workers — submitted affidavits claiming they had warned Governor [[tim-walz|Tim Walz]] and Attorney General [[keith-ellison|Keith Ellison]] about the problem without result, allegations both officials deny.
 
 ## Sources
 

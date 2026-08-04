@@ -14,7 +14,7 @@ Syria is the Middle Eastern state whose government collapsed in December 2024 fo
 
 ## The 2024 collapse
 
-As described in [[assad-day-in-damascus]], rebel forces led by [[hayat-tahrir-al-sham]] launched an offensive on November 27, 2024, capturing Aleppo — Syria's second-largest city — before advancing south. By December 8, 2024 they had taken Hama, Homs and Damascus, and President [[bashar-al-assad|Bashar al-Assad]] reportedly resigned and departed for Moscow. The speed of the advance is attributed to the withdrawal of Syrian government forces, possibly reflecting the absence of support from [[russia]] and [[iran]], both preoccupied elsewhere.
+As described in assad day in damascus, rebel forces led by [[hayat-tahrir-al-sham]] launched an offensive on November 27, 2024, capturing Aleppo — Syria's second-largest city — before advancing south. By December 8, 2024 they had taken Hama, Homs and Damascus, and President [[bashar-al-assad|Bashar al-Assad]] reportedly resigned and departed for Moscow. The speed of the advance is attributed to the withdrawal of Syrian government forces, possibly reflecting the absence of support from [[russia]] and [[iran]], both preoccupied elsewhere.
 
 ## Internal composition
 

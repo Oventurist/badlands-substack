@@ -15,7 +15,7 @@ The Economic Community of West African States (ECOWAS) is a regional political a
 
 ## The Sahel rebellion
 
-According to the May 18, 2026 [[badlands-brief-5a2|Badlands Brief]], contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] describes the [[alliance-of-sahel-states|Alliance of Sahel States]] (AES) as having been "in rebellion against the UN-affiliated Economic Community of West African States (ECOWAS) since 2022," when Captain [[ibrahim-traore|Ibrahim Traore]] led a military coup against his own commander, who had overthrown the government of [[burkina-faso|Burkina Faso]] just eight months earlier. A map included in the Brief shows the former member states of Burkina Faso, [[mali|Mali]] and [[niger|Niger]] now constituting the AES.
+According to the May 18, 2026 Badlands Brief, contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] describes the [[alliance-of-sahel-states|Alliance of Sahel States]] (AES) as having been "in rebellion against the UN-affiliated Economic Community of West African States (ECOWAS) since 2022," when Captain [[ibrahim-traore|Ibrahim Traore]] led a military coup against his own commander, who had overthrown the government of [[burkina-faso|Burkina Faso]] just eight months earlier. A map included in the Brief shows the former member states of Burkina Faso, [[mali|Mali]] and [[niger|Niger]] now constituting the AES.
 
 ## Badlands critique of ECOWAS
 

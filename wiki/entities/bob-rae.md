@@ -10,7 +10,7 @@ contested: true
 ---
 # Bob Rae
 
-Bob Rae is a Canadian politician who served as the [[new-democratic-party|New Democratic Party]] Premier of Ontario from 1990 to 1995 before later joining the Liberal Party of Canada. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is described as a Rhodes Scholar who acted as gatekeeper for [[chrystia-freeland|Chrystia Freeland]]'s entry into federal politics.
+Bob Rae is a Canadian politician who served as the [[new-democratic-party|New Democratic Party]] Premier of Ontario from 1990 to 1995 before later joining the Liberal Party of Canada. In the Badlands Media essay A Re Alignment of World Systems, he is described as a Rhodes Scholar who acted as gatekeeper for [[chrystia-freeland|Chrystia Freeland]]'s entry into federal politics.
 
 ## Role in Freeland's rise
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Office of Inspector General
 
-An Office of Inspector General (OIG) is the independent oversight and audit body attached to a U.S. federal agency. In [[a-seismic-shift|A Seismic Shift]], the OIG of the [[united-states-postal-service|United States Postal Service]] is presented as the author of a white paper mapping out how the Postal Service could return to financial services, and [[joe-lange|Joe Lange]] notes that "Q has mentioned several times the importance of the OIG (Office of Inspector General) offices being used in the background as part of the plan."
+An Office of Inspector General (OIG) is the independent oversight and audit body attached to a U.S. federal agency. In A Seismic Shift, the OIG of the [[united-states-postal-service|United States Postal Service]] is presented as the author of a white paper mapping out how the Postal Service could return to financial services, and [[joe-lange|Joe Lange]] notes that "Q has mentioned several times the importance of the OIG (Office of Inspector General) offices being used in the background as part of the plan."
 
 ## The postal financial services white paper
 

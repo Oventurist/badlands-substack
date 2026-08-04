@@ -10,7 +10,7 @@ contested: true
 ---
 # War Economy
 
-"War economy" in the Badlands Media corpus denotes the reorganization of national industrial capacity around defense production as a durable peacetime condition rather than a temporary wartime measure. The concept is developed at length in the April 17, 2026 [[badlands-brief-07c|Badlands Brief]].
+"War economy" in the Badlands Media corpus denotes the reorganization of national industrial capacity around defense production as a durable peacetime condition rather than a temporary wartime measure. The concept is developed at length in the April 17, 2026 Badlands Brief.
 
 ## The reported shift
 
@@ -20,7 +20,7 @@ The source attributes the shift in part to lessons from supply shortages earlier
 
 ## Burning Bright's interpretation
 
-[[burning-bright|Burning Bright]] reframes the trend as deliberate rather than ominous. In his account, visible escalation across Ukraine, [[iran|Iran]], and relations among the United States, Russia, and [[china|China]] supplies sovereign leaders — "[[donald-trump|Trump]] foremost among them" — with the public consent required to strip funding from "old parasitic systems" and redirect it into a war economy reimagined for the 21st century. He cites the simultaneous American and Chinese push into [[nuclear-fusion|nuclear fusion]] as competitive convergence supplying energy for scaling [[artificial-intelligence|AI]] systems, and reads Ukraine's rapid pivot to autonomous ground platforms and drone swarms as evidence that the conflict "was never quite as 'real' in the kinetic sense as we were led to believe," functioning instead as cover for accelerated manufacturing and sovereign supply-chain buildout. His conclusion: "we're getting the aftermath of a war economy without the war."
+[[burning-bright|Burning Bright]] reframes the trend as deliberate rather than ominous. In his account, visible escalation across Ukraine, [[iran|Iran]], and relations among the United States, Russia, and [[china|China]] supplies sovereign leaders — "[[donald-trump|Trump]] foremost among them" — with the public consent required to strip funding from "old parasitic systems" and redirect it into a war economy reimagined for the 21st century. He cites the simultaneous American and Chinese push into [[nuclear-fusion|nuclear fusion]] as competitive convergence supplying energy for scaling AI systems, and reads Ukraine's rapid pivot to autonomous ground platforms and drone swarms as evidence that the conflict "was never quite as 'real' in the kinetic sense as we were led to believe," functioning instead as cover for accelerated manufacturing and sovereign supply-chain buildout. His conclusion: "we're getting the aftermath of a war economy without the war."
 
 ## Sources
 

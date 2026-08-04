@@ -10,7 +10,7 @@ contested: false
 ---
 # Lawrence Petroni
 
-Lawrence Petroni is the Acting Chargé d'Affaires at the United States embassy in [[ecuador|Ecuador]], quoted in the March 13, 2026 [[badlands-brief-559|Badlands Brief]] on the establishment of the first [[fbi|FBI]] office in the country.
+Lawrence Petroni is the Acting Chargé d'Affaires at the United States embassy in [[ecuador|Ecuador]], quoted in the March 13, 2026 Badlands Brief on the establishment of the first [[fbi|FBI]] office in the country.
 
 Petroni said the agreement and the creation of a trusted FBI unit would expand the ability of US and Ecuadorian authorities to "identify, dismantle, and bring to justice those who traffic drugs, launder money, smuggle weapons, and finance terrorism." The embassy, in a statement posted on X, described the office as "another strategic and operational milestone in security." As a [[state-department|State Department]] officer heading the mission, Petroni represents the diplomatic channel through which the FBI's legal attaché presence abroad is arranged.
 

@@ -15,7 +15,7 @@ Rwanda is a central African state treated in the Badlands corpus as the external
 
 ## Role in the Congo conflict
 
-The [[badlands-brief-1ce|January 30, 2026 Badlands Brief]] describes the [[alliance-fleuve-congo|Alliance Fleuve Congo]], led by [[corneille-nangaa|Corneille Nangaa]], as "Rwanda-linked," and reports that militias crossing into eastern Congo from Rwanda have seized mining towns. Former Congolese president [[joseph-kabila|Joseph Kabila]] was convicted in absentia of treason for aiding these forces.
+The January 30, 2026 Badlands Brief describes the [[alliance-fleuve-congo|Alliance Fleuve Congo]], led by [[corneille-nangaa|Corneille Nangaa]], as "Rwanda-linked," and reports that militias crossing into eastern Congo from Rwanda have seized mining towns. Former Congolese president [[joseph-kabila|Joseph Kabila]] was convicted in absentia of treason for aiding these forces.
 
 ## Sanctions and alignment
 

@@ -14,7 +14,7 @@ A "stand down order" is a military or security instruction directing personnel n
 
 ## The Benghazi stand down
 
-The most literal usage concerns the night of September 11, 2012 at the [[cia|CIA]] annex in [[benghazi|Benghazi]]. [[a-dereliction-of-duty|A Dereliction of Duty]] quotes former Special Forces officer [[kris-paronto|Kris Paronto]], one of the contractors who fought that night, telling Politico: "There is no sensationalism in that: We were told to 'stand down.' Those words were used verbatim — 100 percent. … If the truth of it affects someone's political career? Well, I'm sorry. It happens." Paronto describes hearing calls for help on the radio from [[state-department|State Department]] diplomats and recalls that after [[john-tiegen|John "Tig" Tiegen]] told the base chief the team was "losing the initiative," the words "stand down" were spoken before the team disobeyed and departed anyway.
+The most literal usage concerns the night of September 11, 2012 at the [[cia|CIA]] annex in [[benghazi|Benghazi]]. A Dereliction of Duty quotes former Special Forces officer [[kris-paronto|Kris Paronto]], one of the contractors who fought that night, telling Politico: "There is no sensationalism in that: We were told to 'stand down.' Those words were used verbatim — 100 percent. … If the truth of it affects someone's political career? Well, I'm sorry. It happens." Paronto describes hearing calls for help on the radio from [[state-department|State Department]] diplomats and recalls that after [[john-tiegen|John "Tig" Tiegen]] told the base chief the team was "losing the initiative," the words "stand down" were spoken before the team disobeyed and departed anyway.
 
 ## The Clinton memorandum
 

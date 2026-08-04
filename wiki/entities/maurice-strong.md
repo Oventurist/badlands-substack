@@ -10,7 +10,7 @@ contested: true
 ---
 # Maurice Strong
 
-Maurice Strong (1929–2015) was a Canadian businessman and United Nations environmental official, a central organizer of the modern international environmental movement. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he is presented as an early implementer in Canada of the policy framework the article calls the Green New Deal.
+Maurice Strong (1929–2015) was a Canadian businessman and United Nations environmental official, a central organizer of the modern international environmental movement. In the Badlands Media essay A Re Alignment of World Systems, he is presented as an early implementer in Canada of the policy framework the article calls the Green New Deal.
 
 ## Ontario Hydro
 

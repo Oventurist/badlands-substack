@@ -13,7 +13,7 @@ contested: true
 ---
 # Philip Murray
 
-Philip Murray was an American labor leader who served as president of the [[congress-of-industrial-organizations|Congress of Industrial Organizations (CIO)]]. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], Murray is presented as a "pragmatic strategist" who nevertheless shared AFL leader [[matthew-woll|Matthew Woll]]'s view of organized labor as a frontline in the Cold War ideological battle.
+Philip Murray was an American labor leader who served as president of the [[congress-of-industrial-organizations|Congress of Industrial Organizations (CIO)]]. In the Badlands Media article A More Perfect (Labor) Union, Murray is presented as a "pragmatic strategist" who nevertheless shared AFL leader [[matthew-woll|Matthew Woll]]'s view of organized labor as a frontline in the Cold War ideological battle.
 
 ## Role in covert operations
 

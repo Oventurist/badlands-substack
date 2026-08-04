@@ -15,7 +15,7 @@ The Ministry of Defence (MoD) is the United Kingdom government department respon
 
 ## Epstein flight records review
 
-The [[badlands-brief-40d|February 27, 2026 Badlands Brief]] reports that the Ministry launched a review of military flight records after revelations that the private jet of [[jeffrey-epstein|Jeffrey Epstein]] may have landed at RAF bases, including RAF Northolt and RAF Marham. The review raised the question of whether British military airfields were used in connection with Epstein's criminal activities.
+The February 27, 2026 Badlands Brief reports that the Ministry launched a review of military flight records after revelations that the private jet of [[jeffrey-epstein|Jeffrey Epstein]] may have landed at RAF bases, including RAF Northolt and RAF Marham. The review raised the question of whether British military airfields were used in connection with Epstein's criminal activities.
 
 Healey ordered officials to search more than two decades of ministry records for evidence that Epstein used RAF facilities to traffic women into the United Kingdom. Police were reported to be independently examining related flight logs and civilian airport movements. The Brief presents the review as part of a wider set of European institutional reckonings with the Epstein files, alongside the resignation of [[borge-brende|Børge Brende]] from the [[world-economic-forum|World Economic Forum]].
 

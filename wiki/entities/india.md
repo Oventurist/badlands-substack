@@ -10,7 +10,7 @@ contested: true
 ---
 # India
 
-India appears in the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] as a nuclear-armed South Asian power caught between the two factions of the Western ruling class.
+India appears in the Badlands Media essay "And Iran, Iran So Far Away" as a nuclear-armed South Asian power caught between the two factions of the Western ruling class.
 
 The article asserts that after overthrowing the democratically elected government of [[imran-khan]] in [[pakistan]], [[joe-biden]] "then tried to regime change [[narendra-modi|Modi]] in India," a pattern the author suggests can be viewed through the lens of a Biden partnership with [[china]]. [[donald-trump]]'s relationship with Modi is described as the opposite — "fantastic and growing" — with Trump clearly wanting to build up India in order to create a wedge between it and China.
 

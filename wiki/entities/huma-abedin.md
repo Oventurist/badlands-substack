@@ -14,13 +14,13 @@ Huma Abedin is an American political staffer long associated with Hillary Clinto
 
 ## In the Badlands corpus
 
-The Badlands Media essay [[a-week-to-remember|A Week to Remember]] by [[erik-carlson|Erik Carlson]] cites the announcement of Abedin's engagement to [[alex-soros|Alex Soros]] as a potentially meaningful event within the July 2024 upheaval. The author asks readers whether they "caught that Alex Soros and Huma Abedin recently announced their engagement," and compares the union to dynastic marriage among royal houses: a mechanism by which powerful families "keep peace and consolidate power."
+The Badlands Media essay A Week to Remember by [[erik-carlson|Erik Carlson]] cites the announcement of Abedin's engagement to [[alex-soros|Alex Soros]] as a potentially meaningful event within the July 2024 upheaval. The author asks readers whether they "caught that Alex Soros and Huma Abedin recently announced their engagement," and compares the union to dynastic marriage among royal houses: a mechanism by which powerful families "keep peace and consolidate power."
 
 The article treats the engagement as ambiguous evidence — either an attempt to "calm the mayhem between the [[cabal|Cabal]] Families" or a symptom of the power grab that the author believes produced the mayhem in the first place. It forms part of the essay's argument that the [[deep-state|Deep State]] response to the events of July 2024 was fractured rather than coordinated.
 
 ## "America for Sale" and the Muslim Brotherhood thesis
 
-The December 2024 essay [[america-for-sale-part-1|America for Sale - Part 1]] by [[joe-lange|Joe Lange]] devotes its second half to Abedin, presenting her as "the other INTERN" of 1996 — the year of the [[monica-lewinsky|Lewinsky]] affair and the China technology transfers.
+The December 2024 essay America for Sale   Part 1 by [[joe-lange|Joe Lange]] devotes its second half to Abedin, presenting her as "the other INTERN" of 1996 — the year of the [[monica-lewinsky|Lewinsky]] affair and the China technology transfers.
 
 ### Career
 
@@ -34,7 +34,7 @@ The author concludes that Abedin "was a Muslim Brotherhood plant from the beginn
 
 ## Teneo and the State Department (America for Sale - Part 2)
 
-[[america-for-sale-part-2|America for Sale — Part 2]] builds its argument around Q drop 71 of November 4, 2017 — "FOLLOW HUMA. Who connects HRC/CF to SA?" — posted the day before [[prince-alwaleed|Prince Alwaleed bin Talal]]'s arrest in Saudi Arabia. [[joe-lange|Joe Lange]] presents Abedin as the liaison connecting [[hillary-clinton|Hillary Clinton]], the [[clinton-foundation|Clinton Foundation]], the [[muslim-brotherhood|Muslim Brotherhood]] and Alwaleed, noting that her family's move to Jeddah placed her in Alwaleed's home city while her Michigan birth made her an American citizen.
+America for Sale — Part 2 builds its argument around Q drop 71 of November 4, 2017 — "FOLLOW HUMA. Who connects HRC/CF to SA?" — posted the day before [[prince-alwaleed|Prince Alwaleed bin Talal]]'s arrest in Saudi Arabia. [[joe-lange|Joe Lange]] presents Abedin as the liaison connecting [[hillary-clinton|Hillary Clinton]], the [[clinton-foundation|Clinton Foundation]], the [[muslim-brotherhood|Muslim Brotherhood]] and Alwaleed, noting that her family's move to Jeddah placed her in Alwaleed's home city while her Michigan birth made her an American citizen.
 
 The article's central new claim concerns [[teneo|Teneo]]. Quoting *The Washington Times*, it reports that while still working at the [[state-department|State Department]] Abedin was paid by Teneo Holdings to help stage a September 20, 2012 reception at the Essex House in New York City — days after the [[benghazi|Benghazi]] attack — at which [[bill-clinton|Bill Clinton]], [[george-w-bush|George W. Bush]] and [[tony-blair|Tony Blair]] spoke before potential Teneo clients. She earned a $15,000-a-month consulting fee from the firm over a seven-month period while simultaneously drawing pay as a "special government employee" advising Clinton. The same status, the paper reported, allowed her to consult for the Clinton Foundation, where she assessed the charity's programs to prepare for Clinton's return to it in early 2013.
 

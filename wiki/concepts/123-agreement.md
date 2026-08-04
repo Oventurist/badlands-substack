@@ -14,7 +14,7 @@ A "123 Agreement" is a bilateral civil nuclear cooperation agreement concluded b
 
 ## Congressional review mechanism
 
-Once the executive branch submits a completed 123 Agreement, Congress has roughly 90 days of continuous session to review it. The agreement takes effect unless Congress affirmatively blocks it, which requires a joint resolution of disapproval — and, because the president may veto that resolution, a two-thirds majority in both chambers to make the block stick. The structure heavily favors enactment, a point emphasized in the July 22, 2026 [[badlands-brief-1ae|Badlands Brief]].
+Once the executive branch submits a completed 123 Agreement, Congress has roughly 90 days of continuous session to review it. The agreement takes effect unless Congress affirmatively blocks it, which requires a joint resolution of disapproval — and, because the president may veto that resolution, a two-thirds majority in both chambers to make the block stick. The structure heavily favors enactment, a point emphasized in the July 22, 2026 Badlands Brief.
 
 ## The Gold Standard and the Additional Protocol
 

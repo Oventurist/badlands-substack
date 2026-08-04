@@ -15,7 +15,7 @@ The Church of the Holy Sepulchre is a Christian church complex in the Old City o
 
 ## Layout and tradition
 
-As described in [[badlands-brief-52b|the March 2026 Brief]], the church encloses both the traditional site of the crucifixion and the empty tomb within a single large complex, the two locations separated by only a few dozen meters. Contributor [[ashe-in-america|Ashe in America]] anchored the tradition in John 19:41: "At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid."
+As described in the March 2026 Brief, the church encloses both the traditional site of the crucifixion and the empty tomb within a single large complex, the two locations separated by only a few dozen meters. Contributor [[ashe-in-america|Ashe in America]] anchored the tradition in John 19:41: "At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid."
 
 ## 2026 closure
 
@@ -25,7 +25,7 @@ Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] noted that
 
 ## Related pages
 
-- [[badlands-brief-52b|Badlands Brief: Golgotha & The Metaverse]]
+- Badlands Brief: Golgotha & The Metaverse
 - [[israel|Israel]]
 - [[iran|Iran]]
 

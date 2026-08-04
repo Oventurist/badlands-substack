@@ -15,7 +15,7 @@ Ed Gallrein is a Republican politician and former U.S. Navy SEAL who defeated in
 
 ## 2026 primary victory
 
-As reported in the May 20, 2026 [[badlands-brief-311|Badlands Brief]], Gallrein won the primary after President [[donald-trump|Donald Trump]] personally endorsed him, campaigned in Kentucky on his behalf, and repeatedly attacked Massie on social media as "a bad guy" and "an obstructionist and a fool." The contest became the most expensive U.S. House primary in history.
+As reported in the May 20, 2026 Badlands Brief, Gallrein won the primary after President [[donald-trump|Donald Trump]] personally endorsed him, campaigned in Kentucky on his behalf, and repeatedly attacked Massie on social media as "a bad guy" and "an obstructionist and a fool." The contest became the most expensive U.S. House primary in history.
 
 Gallrein campaigned on loyalty to Trump and on his military background, in contrast to Massie's self-presentation as an independent "[[america-first|America First]]" voice who had opposed some Trump priorities, including certain foreign aid votes and tax legislation. He is described as heavily favored to win the general election in the deeply Republican district against Democrat Melissa Strange.
 

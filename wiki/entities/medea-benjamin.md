@@ -15,7 +15,7 @@ Medea Benjamin is an American anti-war activist and a co-founder of [[codepink|C
 
 ## Association with the Singham network
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] describes Benjamin as an ally of [[neville-roy-singham|Neville Roy Singham]] and as a co-founder of CodePink along with Singham's wife. The Brief reports that CodePink received $1,330,000 within a funding structure said to have moved roughly $278 million from Shanghai into American nonprofits, media outlets and activist groups, and that the organizations concerned are now within the scope of the Manhattan grand jury investigation into possible wire fraud, bank fraud and money laundering.
+"Condemnation, Calibration, & Constitutional Boxes" describes Benjamin as an ally of [[neville-roy-singham|Neville Roy Singham]] and as a co-founder of CodePink along with Singham's wife. The Brief reports that CodePink received $1,330,000 within a funding structure said to have moved roughly $278 million from Shanghai into American nonprofits, media outlets and activist groups, and that the organizations concerned are now within the scope of the Manhattan grand jury investigation into possible wire fraud, bank fraud and money laundering.
 
 ## Sources
 

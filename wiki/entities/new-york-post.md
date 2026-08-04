@@ -11,7 +11,7 @@ contested: false
 
 # New York Post
 
-The *New York Post* is a US newspaper frequently cited in [[badlands-media|Badlands Media]] coverage as a source for political and national security reporting. In the February 24, 2026 [[badlands-brief-285|Badlands Brief]] it supplies two of the edition's reported items.
+The *New York Post* is a US newspaper frequently cited in [[badlands-media|Badlands Media]] coverage as a source for political and national security reporting. In the February 24, 2026 Badlands Brief it supplies two of the edition's reported items.
 
 ## Reporting cited in the Brief
 

@@ -10,7 +10,7 @@ contested: false
 ---
 # The Starfish and the Spider
 
-*The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations* is a 2008 book by Ori Brafman examining decentralised organisations and their resilience against centralised opponents. It is cited by [[ashe-in-america|Ashe in America]] in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]] as a framework for understanding contemporary fights over artificial-intelligence regulation.
+*The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations* is a 2008 book by Ori Brafman examining decentralised organisations and their resilience against centralised opponents. It is cited by [[ashe-in-america|Ashe in America]] in the January 19, 2026 Badlands Brief as a framework for understanding contemporary fights over artificial-intelligence regulation.
 
 Ashe notes that the book explores the turn-of-the-century period in which the internet democratised information in ways that blindsided central authorities, when Napster and related file-sharing "piracy" of music and video content produced mass legislation and litigation that expanded piracy further and led to a showdown over internet censorship. Craigslist also features in the book, and the author invokes the Apache and other historical examples to support his assertions about the power of the people in business transformation.
 

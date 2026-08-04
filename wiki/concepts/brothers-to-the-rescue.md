@@ -15,7 +15,7 @@ Brothers to the Rescue (Hermanos al Rescate) was a Miami-based organization of C
 
 ## Relevance to 2026 policy
 
-The [[badlands-brief-257|Badlands Brief of May 29, 2026]] reports that a [[department-of-justice|Justice Department]] indictment of [[raul-castro|Raúl Castro]] over the 1996 Brothers to the Rescue shootdowns forms one component of the second [[donald-trump|Trump]] administration's escalating pressure campaign against the Cuban government. The indictment is listed alongside secondary sanctions on [[gaesa|GAESA]], the cutoff of Venezuelan oil shipments to the island, and the termination of a GAESA executive's U.S. green card as measures within the strategy described internally as "[[accelerationism|accelerationism]]." The revival of the 1996 case thus serves both a prosecutorial and a narrative function, attaching personal legal jeopardy to the surviving leadership of the Cuban revolution.
+The Badlands Brief of May 29, 2026 reports that a [[department-of-justice|Justice Department]] indictment of [[raul-castro|Raúl Castro]] over the 1996 Brothers to the Rescue shootdowns forms one component of the second [[donald-trump|Trump]] administration's escalating pressure campaign against the Cuban government. The indictment is listed alongside secondary sanctions on [[gaesa|GAESA]], the cutoff of Venezuelan oil shipments to the island, and the termination of a GAESA executive's U.S. green card as measures within the strategy described internally as "[[accelerationism|accelerationism]]." The revival of the 1996 case thus serves both a prosecutorial and a narrative function, attaching personal legal jeopardy to the surviving leadership of the Cuban revolution.
 
 ## Sources
 

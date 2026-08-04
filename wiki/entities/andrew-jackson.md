@@ -23,11 +23,11 @@ The article identifies Andrew Jackson as [[Donald Trump]]'s favorite US Presiden
 - [[Judy Shelton]] — Trump's Fed nominee whose views aligned with Jackson's hard-money stance
 - [[Federal Reserve]] — the system Jackson allegedly fought against
 - [[Coinage Act of 1873]] — established the gold standard Jackson favored
-- [[1913]] — the year the cabal achieved what Jackson opposed
+- 1913 — the year the cabal achieved what Jackson opposed
 
 ## Assessment in "Avoiding WWIII"
 
-A far more hostile assessment appears in [[avoiding-wwiii|Avoiding WWIII]] by [[matthew-ehret|Matthew Ehret]], which calls Jackson "a force of pure destruction." In this account Jackson "paid the debt" only by cutting all infrastructure projects and unleashing mass speculation, producing the devastating bank panic of 1837 that drove the nation into discord and depression. Ehret describes him as an unrepentant racist who promoted a southern perversion of [[manifest-destiny|Manifest Destiny]] alongside Jefferson Davis and Albert Pike, envisioning expanded black slavery and Native Americans confined to plantations and reservations.
+A far more hostile assessment appears in Avoiding WWIII by [[matthew-ehret|Matthew Ehret]], which calls Jackson "a force of pure destruction." In this account Jackson "paid the debt" only by cutting all infrastructure projects and unleashing mass speculation, producing the devastating bank panic of 1837 that drove the nation into discord and depression. Ehret describes him as an unrepentant racist who promoted a southern perversion of [[manifest-destiny|Manifest Destiny]] alongside Jefferson Davis and Albert Pike, envisioning expanded black slavery and Native Americans confined to plantations and reservations.
 
 Jackson's [[indian-removal-act|Indian Removal Act]] of 1830 and the resulting [[trail-of-tears|Trail of Tears]] are presented as direct services to the slavocracy, emptying southern lands of the Cherokee and handing them to cotton oligarchs loyal to the British Empire. Ehret dates the acceleration of the slave power's growth to Jackson's presidency and that of "his handler" Martin Van Buren, and cites historian Michael Kirsch's 2012 study *How Andrew Jackson Destroyed the United States*. The killing of the [[second-bank-of-the-united-states|Second National Bank]] in 1836 is likewise treated as the opening of six decades in which every president who tried to revive the nationalist system — [[william-henry-harrison|Harrison]], [[zachary-taylor|Taylor]], [[abraham-lincoln|Lincoln]], Garfield and McKinley — died in office.
 

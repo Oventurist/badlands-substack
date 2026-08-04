@@ -10,7 +10,7 @@ contested: true
 ---
 # Millennial Reign
 
-The Millennial Reign, or thousand-year reign, is the period described at the close of the [[book-of-revelation|book of Revelation]] during which Christ rules and Satan is bound. It gives its name to the July 2023 Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] by Patriots in Progress.
+The Millennial Reign, or thousand-year reign, is the period described at the close of the [[book-of-revelation|book of Revelation]] during which Christ rules and Satan is bound. It gives its name to the July 2023 Badlands Media feature "Are We Entering the Millennial Reign?" by Patriots in Progress.
 
 ## Scriptural basis
 

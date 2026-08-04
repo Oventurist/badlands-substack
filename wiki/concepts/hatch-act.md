@@ -15,7 +15,7 @@ The Hatch Act is a United States federal statute, enacted in 1939, that restrict
 
 ## Invocation in 2026 commentary
 
-The March 3, 2026 [[badlands-brief-52f|Badlands Brief]] invokes the Act by way of its absence at the state level. Discussing the wave of state lawsuits against the Trump administration, [[ashe-in-america|Ashe in America]] noted that [[colorado|Colorado]]'s attorney general — a candidate for governor — had brought "near or beyond 55 lawsuits against the administration" as attorney general while citing them as campaign accomplishments, remarking: "Apparently there's not a Hatch Act at the state level." She made a comparable argument about the investigation of federal immigration agents opened by Hennepin County Attorney [[mary-moriarty|Mary Moriarty]] in [[minnesota|Minnesota]], describing it as a use of "the People's resources" for political ends.
+The March 3, 2026 Badlands Brief invokes the Act by way of its absence at the state level. Discussing the wave of state lawsuits against the Trump administration, [[ashe-in-america|Ashe in America]] noted that [[colorado|Colorado]]'s attorney general — a candidate for governor — had brought "near or beyond 55 lawsuits against the administration" as attorney general while citing them as campaign accomplishments, remarking: "Apparently there's not a Hatch Act at the state level." She made a comparable argument about the investigation of federal immigration agents opened by Hennepin County Attorney [[mary-moriarty|Mary Moriarty]] in [[minnesota|Minnesota]], describing it as a use of "the People's resources" for political ends.
 
 ## Sources
 

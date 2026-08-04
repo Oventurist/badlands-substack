@@ -15,7 +15,7 @@ The Munich Security Conference is an annual gathering of defense and foreign-pol
 
 ## The 2026 Rubio address
 
-The February 17, 2026 [[badlands-brief-0a2|Badlands Brief]] reports on Secretary of State [[marco-rubio|Marco Rubio]]'s remarks at the conference, in which he set out the administration's foreign-policy approach with emphasis on national sovereignty, border security, and greater [[nato|NATO]] burden-sharing.
+The February 17, 2026 Badlands Brief reports on Secretary of State [[marco-rubio|Marco Rubio]]'s remarks at the conference, in which he set out the administration's foreign-policy approach with emphasis on national sovereignty, border security, and greater [[nato|NATO]] burden-sharing.
 
 Rubio opened by recalling the conference's founding context: a continent "divided against itself," with the line between communism and freedom running through the heart of Germany, the first barbed fences of the Berlin Wall erected two years earlier, and the Cuban Missile Crisis only months past — leaving Americans and Europeans "staring down the barrel of a new global catastrophe" with the potential for destruction "more apocalyptic and final than anything before in the history of mankind." He described Soviet communism on the march with "thousands of years of Western civilization" in the balance, and attributed the eventual victory to shared purpose: "We were unified not just by what we were fighting against; we were unified by what we were fighting for."
 

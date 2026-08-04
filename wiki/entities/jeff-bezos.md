@@ -14,7 +14,7 @@ Jeff Bezos is the founder of [[amazon]] and the owner of [[washington-post|The W
 
 ## Amazon, AWS, and the Post
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] alludes to Bezos through the founder image of "a guy selling books online out of a small, one-person office," offered as an example of a constructed origin story. The essay's central factual claim about him concerns 2013: [[amazon-web-services|Amazon Web Services]] was awarded a $600 million CIA contract in early 2013, and in August of the same year Bezos bought The Washington Post — which the article calls a "CIA run newspaper" — for $250 million.
+Erik Carlson's America Has a CIA Run Economy alludes to Bezos through the founder image of "a guy selling books online out of a small, one-person office," offered as an example of a constructed origin story. The essay's central factual claim about him concerns 2013: [[amazon-web-services|Amazon Web Services]] was awarded a $600 million CIA contract in early 2013, and in August of the same year Bezos bought The Washington Post — which the article calls a "CIA run newspaper" — for $250 million.
 
 ## Realignment under Trump
 

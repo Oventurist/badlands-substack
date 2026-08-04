@@ -14,7 +14,7 @@ contested: true
 
 ## The escalation argument
 
-[[erik-carlson|Erik Carlson]]'s essay [[are-we-being-distracted|Are We Being Distracted?]] sets out the reasoning as a chain: "Tax-free tips lead to a capped income tax, which leads to the abolishment of income tax, which leads to the destruction of the financial system as we know it." Each step is presented as making the next politically thinkable, so that a narrow carve-out for service workers becomes the wedge that eventually removes the [[federal-income-tax|federal income tax]] altogether.
+[[erik-carlson|Erik Carlson]]'s essay Are We Being Distracted? sets out the reasoning as a chain: "Tax-free tips lead to a capped income tax, which leads to the abolishment of income tax, which leads to the destruction of the financial system as we know it." Each step is presented as making the next politically thinkable, so that a narrow carve-out for service workers becomes the wedge that eventually removes the [[federal-income-tax|federal income tax]] altogether.
 
 ## As a signal to the Deep State
 

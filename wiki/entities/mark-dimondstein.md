@@ -10,7 +10,7 @@ contested: false
 ---
 # Mark Dimondstein
 
-Mark Dimondstein is the president of the [[american-postal-workers-union|American Postal Workers Union]] (APWU) and, in [[a-seismic-shift|A Seismic Shift]], the author of an opinion piece in The Hill advocating the expansion of [[united-states-postal-service|Postal Service]] banking. [[joe-lange|Joe Lange]] describes him as making "a lot of great points" and as reminding readers that postal banking was a safeguard for many years in the United States and protected the American people's savings accounts.
+Mark Dimondstein is the president of the [[american-postal-workers-union|American Postal Workers Union]] (APWU) and, in A Seismic Shift, the author of an opinion piece in The Hill advocating the expansion of [[united-states-postal-service|Postal Service]] banking. [[joe-lange|Joe Lange]] describes him as making "a lot of great points" and as reminding readers that postal banking was a safeguard for many years in the United States and protected the American people's savings accounts.
 
 ## Argument in The Hill
 

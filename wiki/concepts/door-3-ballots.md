@@ -14,7 +14,7 @@ contested: true
 
 ## Procedure as described to voters
 
-[[kitty-gillespie|Kitty Gillespie]] recounts in [[an-sos-from-ground-zero|An SOS From Ground Zero]] that at her polling place the receptacle was labeled "BOX 3" rather than "Door 3," and that she and her husband were instructed to use it because no working tabulation machine was available. Poll workers reassured them that the ballots would be escorted to MCTEC by both a Republican and a Democrat. Gillespie found the assurance hollow, noting that partisan escort provides no guarantee where "RINOs or DINOs" may be involved, and writes that her "radar instantly went up."
+[[kitty-gillespie|Kitty Gillespie]] recounts in An SOS From Ground Zero that at her polling place the receptacle was labeled "BOX 3" rather than "Door 3," and that she and her husband were instructed to use it because no working tabulation machine was available. Poll workers reassured them that the ballots would be escorted to MCTEC by both a Republican and a Democrat. Gillespie found the assurance hollow, noting that partisan escort provides no guarantee where "RINOs or DINOs" may be involved, and writes that her "radar instantly went up."
 
 ## Allegations of statutory non-compliance
 

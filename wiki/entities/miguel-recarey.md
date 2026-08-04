@@ -13,7 +13,7 @@ contested: true
 ---
 # Miguel Recarey
 
-Miguel Recarey is a Cuban-American businessman identified in the Badlands Media article [[a-family-affair]] as the perpetrator of the largest Medicare fraud case in U.S. history up to that time, and as a close associate of [[jeb-bush]] whose escape from prosecution the source attributes to shadow government protection.
+Miguel Recarey is a Cuban-American businessman identified in the Badlands Media article a family affair as the perpetrator of the largest Medicare fraud case in U.S. history up to that time, and as a close associate of [[jeb-bush]] whose escape from prosecution the source attributes to shadow government protection.
 
 ## International Medical Centers fraud
 

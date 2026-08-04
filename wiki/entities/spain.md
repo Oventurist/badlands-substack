@@ -14,7 +14,7 @@ Spain is a member of [[nato|NATO]] and the [[european-union|European Union]] and
 
 ## Potential United States troop reductions
 
-The [[badlands-brief-195|Badlands Brief of May 5, 2026]] reports that President [[donald-trump|Donald Trump]] has signaled he is considering reducing or repositioning United States forces stationed in parts of Europe, specifically including Spain and [[italy|Italy]], amid ongoing disputes over defense spending and alliance burden-sharing. European officials warned that such a drawdown could weaken deterrence at a moment of heightened geopolitical tension, a concern compounded by the simultaneous [[european-energy-crisis|European energy crisis]].
+The Badlands Brief of May 5, 2026 reports that President [[donald-trump|Donald Trump]] has signaled he is considering reducing or repositioning United States forces stationed in parts of Europe, specifically including Spain and [[italy|Italy]], amid ongoing disputes over defense spending and alliance burden-sharing. European officials warned that such a drawdown could weaken deterrence at a moment of heightened geopolitical tension, a concern compounded by the simultaneous [[european-energy-crisis|European energy crisis]].
 
 ## Sources
 

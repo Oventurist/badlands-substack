@@ -10,7 +10,7 @@ contested: true
 ---
 # Bob Goodlatte
 
-Bob Goodlatte is a former Republican congressman from Virginia who chaired the [[house-judiciary-committee|House Judiciary Committee]]. The Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] presents him, alongside [[trey-gowdy|Trey Gowdy]], as one of the principal congressional investigators of alleged [[barack-obama|Obama]]-era corruption and as a key figure in what the author calls the coming prosecution phase.
+Bob Goodlatte is a former Republican congressman from Virginia who chaired the [[house-judiciary-committee|House Judiciary Committee]]. The Badlands Media essay America for Sale — Part 2 presents him, alongside [[trey-gowdy|Trey Gowdy]], as one of the principal congressional investigators of alleged [[barack-obama|Obama]]-era corruption and as a key figure in what the author calls the coming prosecution phase.
 
 ## The DOJ settlement "slush fund"
 

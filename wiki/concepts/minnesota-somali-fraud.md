@@ -15,7 +15,7 @@ contested: true
 
 ## Congressional hearings
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] refers to "the sobering Minnesota Somali fraud hearings" and their statistics, which [[ashe-in-america|Ashe in America]] calls "rough." Watching Representative [[brandon-gill|Brandon Gill]] question witnesses, she objects to the five-minute format: "Five minutes can only be for show. Campaign clips. Five minutes is an unserious amount of time for the People's representatives' pursuit of truth."
+The January 9, 2026 Badlands Brief refers to "the sobering Minnesota Somali fraud hearings" and their statistics, which [[ashe-in-america|Ashe in America]] calls "rough." Watching Representative [[brandon-gill|Brandon Gill]] question witnesses, she objects to the five-minute format: "Five minutes can only be for show. Campaign clips. Five minutes is an unserious amount of time for the People's representatives' pursuit of truth."
 
 ## Federal response
 
@@ -27,7 +27,7 @@ The Brief reports that Vice President [[jd-vance|JD Vance]] announced the creati
 
 ## Scale and congressional investigations (January 2026)
 
-The January 20, 2026 [[badlands-brief-144|Badlands Brief]] reports that prosecutors and investigators estimate up to half of $18–20 billion in federally funded welfare spending over recent years was lost to fraud, concentrated in Medicaid — where 86% of Somalis in Minnesota reportedly receive free healthcare — as well as food stamps, housing, childcare, and the $250 million pandemic-era child nutrition scheme [[feeding-our-future|Feeding Our Future]]. House Oversight Chairman [[james-comer|James Comer]], Senate Homeland Security Chairman [[rand-paul|Rand Paul]] and House Majority Whip [[tom-emmer|Tom Emmer]] are described as leading investigations that characterize the fraud as a "coordinated effort" and "scam" to manipulate elections, congressional apportionment and federal funding in blue states. Whistleblowers including Minnesota state workers submitted affidavits claiming they had warned Governor [[tim-walz|Tim Walz]] and Attorney General [[keith-ellison|Keith Ellison]] without result; both deny the claims. Probes were expanding to California, New York and Illinois.
+The January 20, 2026 Badlands Brief reports that prosecutors and investigators estimate up to half of $18–20 billion in federally funded welfare spending over recent years was lost to fraud, concentrated in Medicaid — where 86% of Somalis in Minnesota reportedly receive free healthcare — as well as food stamps, housing, childcare, and the $250 million pandemic-era child nutrition scheme [[feeding-our-future|Feeding Our Future]]. House Oversight Chairman [[james-comer|James Comer]], Senate Homeland Security Chairman [[rand-paul|Rand Paul]] and House Majority Whip [[tom-emmer|Tom Emmer]] are described as leading investigations that characterize the fraud as a "coordinated effort" and "scam" to manipulate elections, congressional apportionment and federal funding in blue states. Whistleblowers including Minnesota state workers submitted affidavits claiming they had warned Governor [[tim-walz|Tim Walz]] and Attorney General [[keith-ellison|Keith Ellison]] without result; both deny the claims. Probes were expanding to California, New York and Illinois.
 
 ## Denaturalization push
 

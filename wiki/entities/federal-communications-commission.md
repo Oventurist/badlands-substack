@@ -15,7 +15,7 @@ The Federal Communications Commission (FCC) is the United States regulatory agen
 
 ## Response to the license-revocation proposal
 
-As reported in the [[badlands-brief|Badlands Brief]], FCC Commissioner [[anna-gomez|Anna Gomez]] stated the day after the address that Trump's proposal was unconstitutional and that broadcasters are not subject to FCC penalties for choosing not to air a presidential speech. Reuters additionally reported that legal experts said broadcasters retain [[first-amendment|First Amendment]] discretion over programming decisions and that revoking a broadcast license would require a formal administrative process rather than presidential direction. The networks at issue were [[abc|ABC]] and [[nbc|NBC]], which streamed the speech digitally without interrupting their schedules, and [[cnn|CNN]], which declined to air it on its main channel; [[cbs|CBS]] and [[fox-news|Fox News]] carried it live.
+As reported in the Badlands Brief, FCC Commissioner [[anna-gomez|Anna Gomez]] stated the day after the address that Trump's proposal was unconstitutional and that broadcasters are not subject to FCC penalties for choosing not to air a presidential speech. Reuters additionally reported that legal experts said broadcasters retain [[first-amendment|First Amendment]] discretion over programming decisions and that revoking a broadcast license would require a formal administrative process rather than presidential direction. The networks at issue were [[abc|ABC]] and [[nbc|NBC]], which streamed the speech digitally without interrupting their schedules, and [[cnn|CNN]], which declined to air it on its main channel; [[cbs|CBS]] and [[fox-news|Fox News]] carried it live.
 
 ## Sources
 

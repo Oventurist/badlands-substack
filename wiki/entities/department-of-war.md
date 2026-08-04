@@ -11,7 +11,7 @@ contested: false
 
 # Department of War
 
-The Department of War (DOW) is the name used in the second [[donald-trump|Trump]] administration for the American military establishment historically and legally organized as the [[department-of-defense|Department of Defense]] and headquartered at the [[pentagon|Pentagon]]. The February 12, 2026 [[badlands-brief-405|Badlands Brief]] refers to the department under this name in reporting a counter-drone operation on the southern border.
+The Department of War (DOW) is the name used in the second [[donald-trump|Trump]] administration for the American military establishment historically and legally organized as the [[department-of-defense|Department of Defense]] and headquartered at the [[pentagon|Pentagon]]. The February 12, 2026 Badlands Brief refers to the department under this name in reporting a counter-drone operation on the southern border.
 
 ## El Paso counter-drone operation
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # North Korea
 
-North Korea, formally the Democratic People's Republic of Korea, appears in the Badlands Media essay [[america-for-sale-part-2|America for Sale — Part 2]] as the destination of a secret 2009 mission by former president [[bill-clinton|Bill Clinton]] that the author believes concealed a larger purpose.
+North Korea, formally the Democratic People's Republic of Korea, appears in the Badlands Media essay America for Sale — Part 2 as the destination of a secret 2009 mission by former president [[bill-clinton|Bill Clinton]] that the author believes concealed a larger purpose.
 
 ## The 2009 hostage mission
 
@@ -24,7 +24,7 @@ Q drop 227 (November 24, 2017) consisted solely of a photograph, which [[joe-lan
 
 ## The Agreed Framework and the 2009 hostage trip
 
-[[america-for-sale-part-3|America for Sale — Part 3]] argues that North Korea's status as an enemy state was "a charade." It recounts the 1994 [[agreed-framework|Agreed Framework]], under which Pyongyang was to shut its Yongbyon reactor in exchange for American oil and two "light fuel" plants, and asserts that North Korea broke the deal almost immediately while the promised oil freed cash for weapons development. The article claims the oil was to be sourced from [[iran|Iran]], which [[bill-clinton|Bill Clinton]] placed under severe [[sanctions|sanctions]] five months later, plausibly via the sanctions-busting trader [[marc-rich|Marc Rich]], who had traded with Kim Il Sung.
+America for Sale — Part 3 argues that North Korea's status as an enemy state was "a charade." It recounts the 1994 [[agreed-framework|Agreed Framework]], under which Pyongyang was to shut its Yongbyon reactor in exchange for American oil and two "light fuel" plants, and asserts that North Korea broke the deal almost immediately while the promised oil freed cash for weapons development. The article claims the oil was to be sourced from [[iran|Iran]], which [[bill-clinton|Bill Clinton]] placed under severe [[sanctions|sanctions]] five months later, plausibly via the sanctions-busting trader [[marc-rich|Marc Rich]], who had traded with Kim Il Sung.
 
 The essay then revisits Clinton's August 2009 trip to secure the release of two journalists held by [[kim-jong-il|Kim Jong Il]]. A memo published among [[john-podesta|John Podesta]]'s emails by [[wikileaks|WikiLeaks]] recorded Kim inviting Clinton to "return often, officially and unofficially" and to holiday in the DPRK — evidence, the author argues, that the hostages were a cover story for a deal, possibly involving uranium secured through the [[uranium-one|Uranium One]] network.
 

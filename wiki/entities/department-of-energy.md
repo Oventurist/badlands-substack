@@ -15,7 +15,7 @@ The United States Department of Energy is the cabinet-level federal agency respo
 
 ## Advanced nuclear deployment under the second Trump administration
 
-According to the February 17, 2026 [[badlands-brief-0a2|Badlands Brief]], the department partnered with the Department of War on the first air transport of a [[nuclear-microreactor|nuclear microreactor]] prototype, part of a Defense Department demonstration program overseen by the [[pentagon|Pentagon]] and aimed at developing small, transportable reactors capable of powering remote or military locations. The demonstration established that the reactor system could be safely moved by aircraft.
+According to the February 17, 2026 Badlands Brief, the department partnered with the Department of War on the first air transport of a [[nuclear-microreactor|nuclear microreactor]] prototype, part of a Defense Department demonstration program overseen by the [[pentagon|Pentagon]] and aimed at developing small, transportable reactors capable of powering remote or military locations. The demonstration established that the reactor system could be safely moved by aircraft.
 
 Posting on X, the department situated the test within a policy line begun the previous year: "On May 23, 2025, President Donald Trump signed an executive order to deploy advanced nuclear reactor technologies for national security purposes. Yesterday, we took the next step toward achieving this historic mission." Secretary Wright separately framed the event as a fulfillment of President [[donald-trump|Donald Trump]]'s promise of American energy dominance. The Brief presents the milestone against a backdrop of intensifying nuclear rhetoric following the expiration of the [[new-start-treaty|New START Treaty]].
 

@@ -14,7 +14,7 @@ Crossfire Hurricane was the code name of the counterintelligence investigation o
 
 ## Origins and aftermath
 
-As summarized in the [[badlands-brief-195|Badlands Brief of May 5, 2026]], the investigation's origins and handling have been the subject of successive reviews, most prominently the probe conducted by Special Counsel [[john-durham|John Durham]], whose final report in 2023 criticized aspects of the FBI's handling of intelligence but stopped short of establishing a criminal conspiracy involving senior officials.
+As summarized in the Badlands Brief of May 5, 2026, the investigation's origins and handling have been the subject of successive reviews, most prominently the probe conducted by Special Counsel [[john-durham|John Durham]], whose final report in 2023 criticized aspects of the FBI's handling of intelligence but stopped short of establishing a criminal conspiracy involving senior officials.
 
 The Brief describes the [[2017-intelligence-community-assessment|January 2017 Intelligence Community Assessment]] as part of Crossfire Hurricane, noting that United States intelligence agencies had concluded that [[russia|Russia]] interfered in the 2016 election primarily through cyber operations and influence campaigns aimed at undermining confidence in the electoral process and harming Democratic candidate [[hillary-clinton|Hillary Clinton]].
 

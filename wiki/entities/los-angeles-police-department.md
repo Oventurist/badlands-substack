@@ -10,7 +10,7 @@ contested: true
 ---
 # Los Angeles Police Department
 
-The Los Angeles Police Department (LAPD) is the municipal police force of Los Angeles, California. It appears in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] chiefly through the 1991 beating of [[rodney-king|Rodney King]] by its officers.
+The Los Angeles Police Department (LAPD) is the municipal police force of Los Angeles, California. It appears in the Badlands Media essay A Journey of Ever changing Truths chiefly through the 1991 beating of [[rodney-king|Rodney King]] by its officers.
 
 [[erik-carlson|Erik Carlson]] describes his initial reaction to the footage as outrage at officers who had "given their oath to protect and serve" and who "appeared to be trying to kill a man," and concludes that whatever job pressures may have contributed, they "probably shouldn't be cops any longer." He also records the mitigating circumstances reported at the time — that King was intoxicated, speeding, and resisting arrest.
 

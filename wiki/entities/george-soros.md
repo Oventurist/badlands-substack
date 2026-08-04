@@ -10,7 +10,7 @@ contested: true
 ---
 # George Soros
 
-George Soros is a Hungarian-American financier and philanthropist, founder of the Open Society Foundations. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], he appears as a member of the class of plutocrats that [[chrystia-freeland|Chrystia Freeland]] identified with, and as one of her personal allies.
+George Soros is a Hungarian-American financier and philanthropist, founder of the Open Society Foundations. In the Badlands Media essay A Re Alignment of World Systems, he appears as a member of the class of plutocrats that [[chrystia-freeland|Chrystia Freeland]] identified with, and as one of her personal allies.
 
 ## Role in the source
 

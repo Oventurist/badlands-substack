@@ -23,7 +23,7 @@ The source notes that as a result of the blockade, Belhaj was placed on a terror
 
 ## Clinton Foundation donations and the 2022 World Cup (America for Sale - Part 2)
 
-[[america-for-sale-part-2|America for Sale — Part 2]] cites *Nonprofit Quarterly* reporting that the Qatar 2022 Supreme Committee — the body established to build stadiums and other facilities for Qatar's hosting of the 2022 World Cup — gave between $250,000 and $500,000 as a [[clinton-global-initiative|Clinton Global Initiative]] sponsor in 2013, and that the government of Qatar has given the [[clinton-foundation|Clinton Foundation]] between $1 million and $5 million. The same report suggests the Supreme Committee was not acting as an independent voluntary organization, since the Qatari government was spending heavily to secure the [[fifa|FIFA]] World Cup nod.
+America for Sale — Part 2 cites *Nonprofit Quarterly* reporting that the Qatar 2022 Supreme Committee — the body established to build stadiums and other facilities for Qatar's hosting of the 2022 World Cup — gave between $250,000 and $500,000 as a [[clinton-global-initiative|Clinton Global Initiative]] sponsor in 2013, and that the government of Qatar has given the [[clinton-foundation|Clinton Foundation]] between $1 million and $5 million. The same report suggests the Supreme Committee was not acting as an independent voluntary organization, since the Qatari government was spending heavily to secure the [[fifa|FIFA]] World Cup nod.
 
 [[joe-lange|Joe Lange]] observes that Qatar received the bid and the Clinton Foundation received the money, while much of FIFA's leadership was later arrested on U.S. corruption charges without the Clintons' role being examined.
 

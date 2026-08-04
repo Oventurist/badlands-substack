@@ -12,7 +12,7 @@ contested: false
 ---
 # The Guardian
 
-The Guardian is a British daily newspaper founded in 1821, known for its liberal editorial stance and investigative journalism. In the Badlands Media article [[a-family-affair]], The Guardian is cited as the source for details about [[mario-ruiz-massieu]]'s cash deposits at [[texas-commerce-bank]], his arrest in Newark, and the U.S. government's contention that nearly $10 million in drug proceeds had been deposited in Houston.
+The Guardian is a British daily newspaper founded in 1821, known for its liberal editorial stance and investigative journalism. In the Badlands Media article a family affair, The Guardian is cited as the source for details about [[mario-ruiz-massieu]]'s cash deposits at [[texas-commerce-bank]], his arrest in Newark, and the U.S. government's contention that nearly $10 million in drug proceeds had been deposited in Houston.
 
 ## Key citation
 

@@ -13,7 +13,7 @@ contested: false
 ---
 # Carlos Slim
 
-Carlos Slim Helú (born 1940) is a Mexican business magnate, investor, and philanthropist who was the richest person in the world from 2010 to 2013 according to Forbes. In the Badlands Media article [[a-family-affair]], he is identified as a longtime friend of [[jeb-bush]] and as a potential savior of [[lehman-brothers]] who declined to inject capital into the failing bank in 2008.
+Carlos Slim Helú (born 1940) is a Mexican business magnate, investor, and philanthropist who was the richest person in the world from 2010 to 2013 according to Forbes. In the Badlands Media article a family affair, he is identified as a longtime friend of [[jeb-bush]] and as a potential savior of [[lehman-brothers]] who declined to inject capital into the failing bank in 2008.
 
 ## Connection to Jeb Bush
 

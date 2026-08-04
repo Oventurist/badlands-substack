@@ -18,7 +18,7 @@ The article invokes Rothbard's argument to support its broader claim that the go
 - [[Coinage Act of 1873]] — the legislation whose gold standard Rothbard defended
 - [[Long Depression]] — the period Rothbard characterized as a misunderstood recession
 - [[David Ames Wells]] — contemporary observer of the period whose observations are also cited
-- [[1913]] — the year that ended the gold standard period Rothbard discussed
+- 1913 — the year that ended the gold standard period Rothbard discussed
 
 ## Sources
 

@@ -10,7 +10,7 @@ contested: true
 ---
 # Nicolás Maduro
 
-Nicolás Maduro is the Venezuelan politician who served as President of Venezuela until his capture in a United States military operation on January 3, 2026. His removal and its aftermath form the third major item of the January 19, 2026 [[badlands-brief-02a|Badlands Brief]].
+Nicolás Maduro is the Venezuelan politician who served as President of Venezuela until his capture in a United States military operation on January 3, 2026. His removal and its aftermath form the third major item of the January 19, 2026 Badlands Brief.
 
 ## Capture and aftermath
 
@@ -26,7 +26,7 @@ Ghost argues that Maduro's exit was "perfectly timed to coincide with a move aga
 
 ## Capture and transfer to the United States
 
-The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that U.S. forces carried out a military operation in Venezuela on January 3, 2026 that led to the capture of Maduro and his wife [[cilia-flores|Cilia Flores]] and their transfer to the United States to face criminal charges. In a January 25 interview, President [[donald-trump|Donald Trump]] said American forces used a classified device he called the "Discombobulator" to disable Venezuelan defense equipment and prevent the launch of Russian and Chinese missiles during the raid, asserting that the weapon rendered enemy systems inoperative so that no rockets were fired in response.
+The January 26, 2026 Badlands Brief reports that U.S. forces carried out a military operation in Venezuela on January 3, 2026 that led to the capture of Maduro and his wife [[cilia-flores|Cilia Flores]] and their transfer to the United States to face criminal charges. In a January 25 interview, President [[donald-trump|Donald Trump]] said American forces used a classified device he called the "Discombobulator" to disable Venezuelan defense equipment and prevent the launch of Russian and Chinese missiles during the raid, asserting that the weapon rendered enemy systems inoperative so that no rockets were fired in response.
 
 The Brief adds a financial dimension: [[vitol|Vitol]] and [[trafigura|Trafigura]], the two commodity trading firms Trump reportedly called upon to broker sales of Venezuelan oil after the operation, had both been named as defendants in a lawsuit Maduro filed in U.S. and Swiss courts in March 2018. Acting President [[delcy-rodriguez|Delcy Rodríguez]] stated that Maduro had signed a [[continuity-of-government|Continuity of Government]] order in December 2025 in anticipation of his departure.
 

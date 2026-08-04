@@ -10,7 +10,7 @@ contested: true
 ---
 # International Monetary Fund
 
-The International Monetary Fund (IMF) is the Bretton Woods institution charged with monitoring the international monetary system and lending to states in balance-of-payments difficulty. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], the IMF appears as a vehicle of the liberalization applied to the former Soviet bloc.
+The International Monetary Fund (IMF) is the Bretton Woods institution charged with monitoring the international monetary system and lending to states in balance-of-payments difficulty. In the Badlands Media essay A Re Alignment of World Systems, the IMF appears as a vehicle of the liberalization applied to the former Soviet bloc.
 
 ## Role in the source
 

@@ -12,7 +12,7 @@ contested: false
 
 Stephen Hawking (1942–2018) was a British theoretical physicist and cosmologist. He appears in the Badlands Media corpus as a late-career witness to the risks of self-improving artificial intelligence.
 
-The July 2023 article "[[artificial-intelligence|Artificial Intelligence: Hysteria vs. Reason]]" quotes Hawking's last televised interview, given to Piers Morgan in 2017:
+The July 2023 article "Artificial Intelligence: Hysteria vs. Reason" quotes Hawking's last televised interview, given to Piers Morgan in 2017:
 
 > "The great danger from artificial intelligence is if we let it self-design for then it can improve itself rapidly and we may lose control."
 

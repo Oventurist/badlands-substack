@@ -15,7 +15,7 @@ Operation Midnight Hammer is the codename for a United States military operation
 
 ## Interpretation in Badlands commentary
 
-In the Badlands Brief edition [[badlands-brief-52b|"Golgotha & The Metaverse"]] (March 20, 2026), contributor [[burning-bright|Burning Bright]] cited Midnight Hammer as a precedent for Trump's handling of the later [[south-pars-gas-field|South Pars]] escalation. In his reading, during Midnight Hammer Trump "publicly blessed the pro-Israel optics every NeoCon, Zionist and legacy hawk demanded while making it crystal clear that he, and only he was calling the shots."
+In the Badlands Brief edition "Golgotha & The Metaverse" (March 20, 2026), contributor [[burning-bright|Burning Bright]] cited Midnight Hammer as a precedent for Trump's handling of the later [[south-pars-gas-field|South Pars]] escalation. In his reading, during Midnight Hammer Trump "publicly blessed the pro-Israel optics every NeoCon, Zionist and legacy hawk demanded while making it crystal clear that he, and only he was calling the shots."
 
 Burning Bright argued that this gave the [[america-first|America First]] base "the unmistakable scent of America First leverage while denying the forever-war machine of its desired script" — a maneuver he named **Narrative Disarmament** at the time. He described a version of the same dialectic re-emerging, on a delay, during the operation he refers to as Epic Fury, in which the resignation of [[joe-kent|Joe Kent]] and Trump's hardening public stance toward [[israel|Israel]] functioned together to clarify alignments within the MAGA coalition.
 

@@ -14,7 +14,7 @@ Vitol is one of the largest independent commodity trading houses in the world, s
 
 ## Role in the post-Maduro Venezuelan oil trade
 
-The January 26, 2026 [[badlands-brief-577|Badlands Brief]] reports that President [[donald-trump|Donald Trump]] called on Vitol and its competitor [[trafigura|Trafigura]] — described as two of the largest commodity trading firms in the world — to begin brokering deals with potential buyers of Venezuelan oil. The move accompanied legislative action in Caracas, championed by Acting President [[delcy-rodriguez|Delcy Rodríguez]], to end decades of rigid state control of the oil sector by granting private and foreign companies greater operational autonomy, lowering royalty and tax requirements, and providing for international arbitration.
+The January 26, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] called on Vitol and its competitor [[trafigura|Trafigura]] — described as two of the largest commodity trading firms in the world — to begin brokering deals with potential buyers of Venezuelan oil. The move accompanied legislative action in Caracas, championed by Acting President [[delcy-rodriguez|Delcy Rodríguez]], to end decades of rigid state control of the oil sector by granting private and foreign companies greater operational autonomy, lowering royalty and tax requirements, and providing for international arbitration.
 
 ## Litigation and corruption exposure
 

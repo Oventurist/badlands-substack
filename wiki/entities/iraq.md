@@ -11,7 +11,7 @@ contested: false
 
 # Iraq
 
-Iraq is a Middle Eastern state that appears in the [[badlands-brief|Badlands Brief]] as a pivot of the regional realignment its contributors track.
+Iraq is a Middle Eastern state that appears in the Badlands Brief as a pivot of the regional realignment its contributors track.
 
 ## 2026 realignment
 
@@ -21,7 +21,7 @@ Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] highlights
 
 ## Reported Israeli bases and drone incursions (May 2026)
 
-The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that the [[wall-street-journal|Wall Street Journal]] disclosed that [[israel|Israel]] built and defended a secret base in Iraq during the Iran war to support operations against Tehran. The Brief also reports the claim that Bedouin shepherd [[awad-al-shammari|Awad al-Shammari]] discovered two Israeli military bases in remote parts of Iraq and was reportedly killed by a helicopter strike after reporting his find. Separately, [[saudi-arabia|Saudi Arabia]] reported intercepting three drones approaching from Iraqi airspace, raising questions in the Brief's commentary about foreign drone activity originating from Iraqi territory.
+The May 18, 2026 Badlands Brief reports that the [[wall-street-journal|Wall Street Journal]] disclosed that [[israel|Israel]] built and defended a secret base in Iraq during the Iran war to support operations against Tehran. The Brief also reports the claim that Bedouin shepherd [[awad-al-shammari|Awad al-Shammari]] discovered two Israeli military bases in remote parts of Iraq and was reportedly killed by a helicopter strike after reporting his find. Separately, [[saudi-arabia|Saudi Arabia]] reported intercepting three drones approaching from Iraqi airspace, raising questions in the Brief's commentary about foreign drone activity originating from Iraqi territory.
 
 ## Sources
 

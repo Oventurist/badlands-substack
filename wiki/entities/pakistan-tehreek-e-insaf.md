@@ -10,7 +10,7 @@ contested: true
 ---
 # Pakistan Tehreek-e-Insaf
 
-Pakistan Tehreek-e-Insaf (PTI), commonly rendered in English as the Pakistan Movement for Justice, is the political party founded by the former international cricket star [[imran-khan]] and the vehicle through which he rose to become prime minister of [[pakistan]]. In the Badlands Media essay [[and-iran-iran-so-far-away|"And Iran, Iran So Far Away"]] the party appears as the institutional expression of Khan's populist challenge to Pakistan's entrenched military and intelligence establishment.
+Pakistan Tehreek-e-Insaf (PTI), commonly rendered in English as the Pakistan Movement for Justice, is the political party founded by the former international cricket star [[imran-khan]] and the vehicle through which he rose to become prime minister of [[pakistan]]. In the Badlands Media essay "And Iran, Iran So Far Away" the party appears as the institutional expression of Khan's populist challenge to Pakistan's entrenched military and intelligence establishment.
 
 ## Role in the corpus
 
@@ -25,7 +25,7 @@ The party's leader was removed by a parliamentary no-confidence vote in April 20
 - [[imran-khan]]
 - [[inter-services-intelligence]]
 - [[pakistan]]
-- [[and-iran-iran-so-far-away]]
+- and iran iran so far away
 
 ## Sources
 

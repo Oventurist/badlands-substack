@@ -10,7 +10,7 @@ contested: false
 ---
 # Prophet Muhammad
 
-Muhammad, the founder of Islam, appears in the Badlands Media essay [[arabian-nights]] as the grandson of [[hashim-ibn-abd-manaf|Hashim]] and the figure who, in the article's words, "would forever change the world."
+Muhammad, the founder of Islam, appears in the Badlands Media essay arabian nights as the grandson of [[hashim-ibn-abd-manaf|Hashim]] and the figure who, in the article's words, "would forever change the world."
 
 ## Lineage and setting
 

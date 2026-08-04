@@ -10,7 +10,7 @@ contested: false
 ---
 # Druzhba Pipeline
 
-The Druzhba pipeline is a major oil transport system carrying Russian and Central Asian crude westward into Central Europe. It is divided into a southern branch, which supplies [[hungary|Hungary]] and Slovakia, and a northern branch, which serves [[germany|Germany]] and Poland. The [[badlands-brief-0fb|April 24, 2026 Badlands Brief]] treats the pipeline as the central node of what its authors call a European pincer.
+The Druzhba pipeline is a major oil transport system carrying Russian and Central Asian crude westward into Central Europe. It is divided into a southern branch, which supplies [[hungary|Hungary]] and Slovakia, and a northern branch, which serves [[germany|Germany]] and Poland. The April 24, 2026 Badlands Brief treats the pipeline as the central node of what its authors call a European pincer.
 
 ## Southern branch repairs and the Hungarian election
 

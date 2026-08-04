@@ -14,7 +14,7 @@ Jeffrey Epstein was an American financier convicted in 2008 of soliciting a mino
 
 ## The February 2026 document release
 
-The February 11, 2026 [[badlands-brief-05f|Badlands Brief]] reports that in early February 2026 the [[department-of-justice|Department of Justice]] released millions of additional pages of documents related to Epstein's federal investigations, including previously redacted materials, prompting widespread political scrutiny.
+The February 11, 2026 Badlands Brief reports that in early February 2026 the [[department-of-justice|Department of Justice]] released millions of additional pages of documents related to Epstein's federal investigations, including previously redacted materials, prompting widespread political scrutiny.
 
 Among the disclosures was a 2019 [[fbi|FBI]] interview with former Palm Beach police chief [[michael-reiter|Michael Reiter]], which detailed a 2006 phone call from [[donald-trump|Donald Trump]]. In that call Trump reportedly said that "everyone" in New York and Palm Beach knew Epstein was engaging in illegal activities with teenage girls, praised the police for "stopping him," described [[ghislaine-maxwell|Ghislaine Maxwell]] as "evil" and his "operative," and said that he had left Epstein's presence upon seeing teenagers and had subsequently banned Epstein from Mar-a-Lago.
 
@@ -29,7 +29,7 @@ The Brief highlights an email in the release in which Epstein refers to Trump as
 
 ## The 2026 subpoena fight
 
-The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that [[house-committee-on-oversight-and-accountability|House Oversight]] lawmakers highlighted more than 65,000 missing documents, over 2,000 unreleased videos, and problematic redactions in the Epstein material that in some cases appear to shield his associates while exposing victim identities — the grievances behind Chairman [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]]. Contributor [[ashe-in-america|Ashe in America]] wrote that legacy media reporting ties the "missing files" claims to sexual assault allegations against President [[donald-trump|Donald Trump]], making the hearings a vehicle for "public character assassinations" ahead of the midterms.
+The March 18, 2026 Badlands Brief reports that [[house-committee-on-oversight-and-accountability|House Oversight]] lawmakers highlighted more than 65,000 missing documents, over 2,000 unreleased videos, and problematic redactions in the Epstein material that in some cases appear to shield his associates while exposing victim identities — the grievances behind Chairman [[james-comer|James Comer]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]]. Contributor [[ashe-in-america|Ashe in America]] wrote that legacy media reporting ties the "missing files" claims to sexual assault allegations against President [[donald-trump|Donald Trump]], making the hearings a vehicle for "public character assassinations" ahead of the midterms.
 
 ## Sources
 

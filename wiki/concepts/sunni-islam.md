@@ -10,7 +10,7 @@ contested: false
 ---
 # Sunni Islam
 
-Sunni Islam is the majority branch of Islam, comprising by the estimate given in [[arabian-nights]] some 85 to 90 percent of all Muslims. Its defining position, as the source presents it, is that [[prophet-muhammad|Muhammad]] did not appoint an heir and intended the Muslim community to choose from among themselves the leader most capable of uniting the people under the sacred *hadiths* — the guidance given by Muhammad on how to live a pious life.
+Sunni Islam is the majority branch of Islam, comprising by the estimate given in arabian nights some 85 to 90 percent of all Muslims. Its defining position, as the source presents it, is that [[prophet-muhammad|Muhammad]] did not appoint an heir and intended the Muslim community to choose from among themselves the leader most capable of uniting the people under the sacred *hadiths* — the guidance given by Muhammad on how to live a pious life.
 
 This principle was expressed in the elective succession of [[abu-bakr]] and the other three companions who led the [[rashidun-caliphate]]. Sunni Muslims also apply the phrase *Ahl al-Bayt*, "People of the House [of the Prophet]," more broadly than the [[shia-islam|Shia]], extending it to all members of the [[banu-hashim]].
 

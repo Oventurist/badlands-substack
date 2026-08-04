@@ -15,7 +15,7 @@ NBC is an American broadcast television network named alongside [[abc|ABC]] by P
 
 ## The 2026 broadcast license dispute
 
-According to the [[badlands-brief|Badlands Brief]], NBC did not interrupt its primary broadcast schedule for the address but streamed it on its digital news platform, as did ABC; [[cnn|CNN]] declined to carry it on its main channel, while [[cbs|CBS]] and [[fox-news|Fox News]] aired it live. Trump alleged that the refusal was part of a "plot." Reuters reported that the address contained renewed claims about election security and alleged Chinese interference that U.S. intelligence has not substantiated. [[federal-communications-commission|FCC]] Commissioner [[anna-gomez|Anna Gomez]] subsequently called the license-revocation proposal unconstitutional, and legal experts noted broadcasters' [[first-amendment|First Amendment]] discretion over programming decisions.
+According to the Badlands Brief, NBC did not interrupt its primary broadcast schedule for the address but streamed it on its digital news platform, as did ABC; [[cnn|CNN]] declined to carry it on its main channel, while [[cbs|CBS]] and [[fox-news|Fox News]] aired it live. Trump alleged that the refusal was part of a "plot." Reuters reported that the address contained renewed claims about election security and alleged Chinese interference that U.S. intelligence has not substantiated. [[federal-communications-commission|FCC]] Commissioner [[anna-gomez|Anna Gomez]] subsequently called the license-revocation proposal unconstitutional, and legal experts noted broadcasters' [[first-amendment|First Amendment]] discretion over programming decisions.
 
 ## Sources
 

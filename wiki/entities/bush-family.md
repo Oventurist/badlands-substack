@@ -18,7 +18,7 @@ The Bush family is an American political family centered on [[george-hw-bush]] (
 
 ## George H.W. Bush and the CIA
 
-According to the source [[a-family-affair]], [[george-hw-bush]] was a leading CIA figure from the early 1950s onward, long before his official appointment as CIA director in 1976. The article links him to the [[bay-of-pigs-invasion]] through his ownership of [[zapata-offshore]], a company whose ships were loaned to the CIA for the 1961 operation and whose name was adopted as the invasion's code name, [[operation-zapata]]. The source notes that Bush consistently denied CIA membership prior to 1976.
+According to the source a family affair, [[george-hw-bush]] was a leading CIA figure from the early 1950s onward, long before his official appointment as CIA director in 1976. The article links him to the [[bay-of-pigs-invasion]] through his ownership of [[zapata-offshore]], a company whose ships were loaned to the CIA for the 1961 operation and whose name was adopted as the invasion's code name, [[operation-zapata]]. The source notes that Bush consistently denied CIA membership prior to 1976.
 
 ## Texas National Bank and Texas Commerce Bank
 

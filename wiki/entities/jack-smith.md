@@ -10,7 +10,7 @@ contested: true
 ---
 # Jack Smith
 
-Jack Smith is the United States Special Counsel who brought the federal criminal indictment against [[donald-trump|Donald Trump]] arising from the aftermath of the [[2020-united-states-presidential-election|2020 presidential election]]. In the Badlands Media corpus he appears principally in the September 2023 essay [[are-jack-smith-and-fani-willis-in|Are Jack Smith and Fani Willis in on the Plan?]], where his prosecution is treated less as a legal threat to Trump than as a potential opening for Trump's defense.
+Jack Smith is the United States Special Counsel who brought the federal criminal indictment against [[donald-trump|Donald Trump]] arising from the aftermath of the [[2020-united-states-presidential-election|2020 presidential election]]. In the Badlands Media corpus he appears principally in the September 2023 essay Are Jack Smith and Fani Willis in on the Plan?, where his prosecution is treated less as a legal threat to Trump than as a potential opening for Trump's defense.
 
 ## The federal indictment
 
@@ -25,7 +25,7 @@ The essay entertains the possibility that Smith is a knowing participant in what
 
 ## Security clearance review of his investigative team
 
-The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that the [[center-to-advance-security-in-america|Center to Advance Security in America]] asked Acting Director of National Intelligence [[william-pulte|William Pulte]] to review the security clearances of former members of Smith's investigative team, and to revoke them if an official review determined the allegations warranted such action.
+The July 27, 2026 Badlands Brief reports that the [[center-to-advance-security-in-america|Center to Advance Security in America]] asked Acting Director of National Intelligence [[william-pulte|William Pulte]] to review the security clearances of former members of Smith's investigative team, and to revoke them if an official review determined the allegations warranted such action.
 
 The request relies on internal [[department-of-justice|Justice Department]] communications released by [[senate-judiciary-committee|Senate Judiciary Committee]] Chairman [[chuck-grassley|Chuck Grassley]]. As described in the reporting, the records allege that members of Smith's office granted access to classified information without the required "need-to-know" authorization, and that concerns were raised internally about security procedures involving a Sensitive Compartmented Information Facility. The Brief frames the episode as ironic given that Smith's office prosecuted President [[donald-trump|Donald Trump]] for the alleged mishandling of classified information.
 

@@ -11,11 +11,11 @@ contested: false
 
 # Modernity News
 
-Modernity News is an alternative online news outlet whose reporting is frequently aggregated by right-leaning and independent media, including the [[badlands-brief|Badlands Brief]].
+Modernity News is an alternative online news outlet whose reporting is frequently aggregated by right-leaning and independent media, including the Badlands Brief.
 
 ## Coverage of the Los Angeles mayoral race
 
-In the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," Modernity News is cited as the outlet that framed [[spencer-pratt|Spencer Pratt]]'s sidewalk power-washing stunts as a guerrilla campaign advertisement against incumbent mayor [[karen-bass|Karen Bass]] in the [[2026-los-angeles-mayoral-election|2026 Los Angeles mayoral election]]. The framing turned on the observation that the dirtier the street, the stronger the contrast created by Pratt's stencilled slogans.
+In the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," Modernity News is cited as the outlet that framed [[spencer-pratt|Spencer Pratt]]'s sidewalk power-washing stunts as a guerrilla campaign advertisement against incumbent mayor [[karen-bass|Karen Bass]] in the [[2026-los-angeles-mayoral-election|2026 Los Angeles mayoral election]]. The framing turned on the observation that the dirtier the street, the stronger the contrast created by Pratt's stencilled slogans.
 
 ## Sources
 

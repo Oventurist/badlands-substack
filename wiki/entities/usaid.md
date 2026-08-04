@@ -14,7 +14,7 @@ contested: true
 ---
 # USAID
 
-The United States Agency for International Development (USAID) is the U.S. federal agency responsible for administering civilian foreign aid and development assistance. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], USAID is identified as one of the two principal funders (alongside the [[national-endowment-for-democracy|NED]]) of the AFL-CIO's [[solidarity-center|Solidarity Center]].
+The United States Agency for International Development (USAID) is the U.S. federal agency responsible for administering civilian foreign aid and development assistance. In the Badlands Media article A More Perfect (Labor) Union, USAID is identified as one of the two principal funders (alongside the [[national-endowment-for-democracy|NED]]) of the AFL-CIO's [[solidarity-center|Solidarity Center]].
 
 ## Role in labor operations
 

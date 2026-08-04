@@ -14,13 +14,13 @@ Kash Patel is an American lawyer, former federal prosecutor and national securit
 
 ## Role in the corpus
 
-In the Badlands Media essay [[all-assets-deployed|All Assets Deployed]], published November 16, 2022, [[burning-bright|Burning Bright]] writes that Trump's presidential announcement at [[mar-a-lago|Mar-a-Lago]] "was projected by Kash Patel and other close allies to the former—and current, to many of us—leader of this nation to light the media world on fire." The author judges that the announcement achieved precisely this effect, though not because it was unexpected: rather, he argues, because [[con-inc|Con Inc.]] and the "DeSantis over Trump" faction would use a demoralized base as an opening to widen divisions within the movement.
+In the Badlands Media essay All Assets Deployed, published November 16, 2022, [[burning-bright|Burning Bright]] writes that Trump's presidential announcement at [[mar-a-lago|Mar-a-Lago]] "was projected by Kash Patel and other close allies to the former—and current, to many of us—leader of this nation to light the media world on fire." The author judges that the announcement achieved precisely this effect, though not because it was unexpected: rather, he argues, because [[con-inc|Con Inc.]] and the "DeSantis over Trump" faction would use a demoralized base as an opening to widen divisions within the movement.
 
 Patel's advance framing of the announcement is treated in the essay as evidence that the event was a deliberate strategic move within an ongoing [[information-war|information war]], rather than an improvised or defensive gesture.
 
 ## FBI records litigation (March 2026)
 
-The March 24, 2026 Badlands Brief, [[badlands-brief-50d|Alternative Annexations & New(ish) Regime Change]], reports that a Freedom of Information Act lawsuit against the [[fbi|FBI]] seeks internal Bureau communications involving Patel as Director and former Deputy Director [[dan-bongino|Dan Bongino]] concerning the discovery of as many as 1.9 million pages of records stored in safes inside a [[sensitive-compartmented-information-facility|Sensitive Compartmented Information Facility]] at headquarters, along with directives on how those materials were handled.
+The March 24, 2026 Badlands Brief, Alternative Annexations & New(ish) Regime Change, reports that a Freedom of Information Act lawsuit against the [[fbi|FBI]] seeks internal Bureau communications involving Patel as Director and former Deputy Director [[dan-bongino|Dan Bongino]] concerning the discovery of as many as 1.9 million pages of records stored in safes inside a [[sensitive-compartmented-information-facility|Sensitive Compartmented Information Facility]] at headquarters, along with directives on how those materials were handled.
 
 ## Sources
 

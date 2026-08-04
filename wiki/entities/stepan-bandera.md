@@ -11,7 +11,7 @@ contested: true
 
 # Stepan Bandera
 
-Stepan Bandera was a Ukrainian nationalist leader and, with [[andriy-melnyk|Andriy Melnyk]], a founder of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] (OUN) in 1929. As described in the Badlands Brief edition "[[badlands-brief-3d4|Canadian Separatists & Guerilla Campaigns]]," Bandera was born an Austro-Hungarian citizen of German/Cossack descent in the western regions of modern [[ukraine|Ukraine]], territories that had belonged to the Austro-Hungarian (Hapsburg) Empire and the Polish-Lithuanian Commonwealth rather than the Russian Empire.
+Stepan Bandera was a Ukrainian nationalist leader and, with [[andriy-melnyk|Andriy Melnyk]], a founder of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] (OUN) in 1929. As described in the Badlands Brief edition "Canadian Separatists & Guerilla Campaigns," Bandera was born an Austro-Hungarian citizen of German/Cossack descent in the western regions of modern [[ukraine|Ukraine]], territories that had belonged to the Austro-Hungarian (Hapsburg) Empire and the Polish-Lithuanian Commonwealth rather than the Russian Empire.
 
 ## Contested memory
 

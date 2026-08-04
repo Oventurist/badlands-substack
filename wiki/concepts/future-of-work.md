@@ -10,7 +10,7 @@ contested: true
 ---
 # Future of Work
 
-"Future of work" is the term used by global corporations, consultancies and international bodies for the projected restructuring of employment by automation, artificial intelligence and digital platforms. In the Badlands Media corpus the phrase is treated not as neutral forecasting but as a program: a design document for a labor market with, in the words of [[a-time-to-strike|A Time to Strike]] (October 11, 2023), "fewer jobs than people."
+"Future of work" is the term used by global corporations, consultancies and international bodies for the projected restructuring of employment by automation, artificial intelligence and digital platforms. In the Badlands Media corpus the phrase is treated not as neutral forecasting but as a program: a design document for a labor market with, in the words of A Time to Strike (October 11, 2023), "fewer jobs than people."
 
 ## The corporate discussion
 
@@ -22,7 +22,7 @@ The article's contention is that the firms publishing these projections are also
 
 ## Consequences described
 
-The source lists concrete manifestations: software replacing entire skill sets that once required full-time employees; predictive analytics and generative [[artificial-intelligence|artificial intelligence]] displacing whole disciplines because machines reach output faster and more accurately than humans; and robots assembling where humans once stood. It links these to continuing layoffs at automakers even during the [[united-auto-workers|United Auto Workers]] strike, and to the short 18-month term of the 2023 [[writers-guild-of-america|Writers Guild of America]] contract, which the author expects to leave studios with greater leverage at its expiry. The optimization of traditional work, she concludes, "is not going to stop," and the transformation is "full steam ahead." See also [[automation|automation]] and the [[great-reset|Great Reset]].
+The source lists concrete manifestations: software replacing entire skill sets that once required full-time employees; predictive analytics and generative artificial intelligence displacing whole disciplines because machines reach output faster and more accurately than humans; and robots assembling where humans once stood. It links these to continuing layoffs at automakers even during the [[united-auto-workers|United Auto Workers]] strike, and to the short 18-month term of the 2023 [[writers-guild-of-america|Writers Guild of America]] contract, which the author expects to leave studios with greater leverage at its expiry. The optimization of traditional work, she concludes, "is not going to stop," and the transformation is "full steam ahead." See also [[automation|automation]] and the [[great-reset|Great Reset]].
 
 ## Sources
 

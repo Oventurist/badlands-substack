@@ -15,7 +15,7 @@ John Healey is a British Labour politician serving as Secretary of State for Def
 
 ## Review of Epstein flight records
 
-Healey features in the bonus item of the [[badlands-brief-40d|February 27, 2026 Badlands Brief]], which reports that he ordered officials to search more than two decades of Ministry of Defence records for evidence that [[jeffrey-epstein|Jeffrey Epstein]] used RAF facilities to traffic women into the United Kingdom. The directive followed revelations that Epstein's private jet may have landed at RAF bases including RAF Northolt and RAF Marham, raising questions about whether those sites were connected to his criminal activities. Police were already examining related flight logs and airport movements when the ministerial review was announced.
+Healey features in the bonus item of the February 27, 2026 Badlands Brief, which reports that he ordered officials to search more than two decades of Ministry of Defence records for evidence that [[jeffrey-epstein|Jeffrey Epstein]] used RAF facilities to traffic women into the United Kingdom. The directive followed revelations that Epstein's private jet may have landed at RAF bases including RAF Northolt and RAF Marham, raising questions about whether those sites were connected to his criminal activities. Police were already examining related flight logs and airport movements when the ministerial review was announced.
 
 ## Sources
 

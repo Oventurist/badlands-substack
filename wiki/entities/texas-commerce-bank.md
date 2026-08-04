@@ -14,7 +14,7 @@ contested: true
 ---
 # Texas Commerce Bank
 
-Texas Commerce Bank was a Houston-based bank that emerged from the 1964 merger of the National Bank of Commerce and [[texas-national-bank]]. In the Badlands Media article [[a-family-affair]], it is characterized as a CIA-controlled financial institution from its inception, later used for drug money laundering by the salinas family and the [[gulf-cartel]].
+Texas Commerce Bank was a Houston-based bank that emerged from the 1964 merger of the National Bank of Commerce and [[texas-national-bank]]. In the Badlands Media article a family affair, it is characterized as a CIA-controlled financial institution from its inception, later used for drug money laundering by the salinas family and the [[gulf-cartel]].
 
 ## Origins and CIA connections
 

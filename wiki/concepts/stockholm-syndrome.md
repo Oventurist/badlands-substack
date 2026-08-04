@@ -14,7 +14,7 @@ contested: true
 
 ## Use in "America's Greatest Threat"
 
-[[erik-carlson|Erik Carlson]]'s essay [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) argues that "Americans in general suffer from Stockholm Syndrome, where one empathizes with and defends the people who are holding them captive." The claim is developed in two directions.
+[[erik-carlson|Erik Carlson]]'s essay America's Greatest Threat (April 24, 2024) argues that "Americans in general suffer from Stockholm Syndrome, where one empathizes with and defends the people who are holding them captive." The claim is developed in two directions.
 
 The first is electoral: Americans "vote for the people who want more control over them," regarding that control as both necessary and beneficial to the nation, while those who question the controllers, the level of control, or its means are "ostracized and ridiculed, fined, jailed, killed or censored — removed from society, from all positions of power and influence."
 

@@ -11,7 +11,7 @@ contested: false
 
 # Planet Labs
 
-Planet Labs is a California-based commercial satellite imagery company that operates a large constellation of Earth-observation satellites. It appears in the Badlands Media corpus through the April 6, 2026 [[badlands-brief-282|Badlands Brief, "Jesus Walks"]], which reports that the firm told customers it would indefinitely withhold satellite imagery of [[iran|Iran]] and surrounding conflict areas following a request from the U.S. government.
+Planet Labs is a California-based commercial satellite imagery company that operates a large constellation of Earth-observation satellites. It appears in the Badlands Media corpus through the April 6, 2026 Badlands Brief, "Jesus Walks", which reports that the firm told customers it would indefinitely withhold satellite imagery of [[iran|Iran]] and surrounding conflict areas following a request from the U.S. government.
 
 According to the source, the government asked satellite imagery providers to impose an indefinite restriction on such images. The measure expanded a prior Planet Labs policy that delayed release of Middle East imagery by fourteen days; the new restriction applies retroactively to imagery dating back to March 9, 2026 and is to remain in place until the conflict ends. The company said the restriction is intended to prevent adversaries from using satellite imagery for military purposes against the United States and its allies. The conflict in question began on February 28, 2026 with U.S. and Israeli attacks on Iran, after which Tehran struck [[israel|Israel]] and U.S. bases in Gulf states.
 

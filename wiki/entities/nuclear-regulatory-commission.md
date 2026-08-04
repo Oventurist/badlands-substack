@@ -10,7 +10,7 @@ contested: true
 ---
 # Nuclear Regulatory Commission
 
-The Nuclear Regulatory Commission (NRC) is the independent United States agency responsible for licensing and regulating civilian nuclear materials, including the export of uranium. In the Badlands Media essay [[america-for-sale-part-3|America for Sale — Part 3]] the NRC is presented as an agency that gave [[congress|Congress]] and the public false assurances about the [[uranium-one|Uranium One]] transaction.
+The Nuclear Regulatory Commission (NRC) is the independent United States agency responsible for licensing and regulating civilian nuclear materials, including the export of uranium. In the Badlands Media essay America for Sale — Part 3 the NRC is presented as an agency that gave [[congress|Congress]] and the public false assurances about the [[uranium-one|Uranium One]] transaction.
 
 Following approval of the sale of Uranium One's American assets to ARMZ, a subsidiary of Russia's [[rosatom|Rosatom]], the NRC declared in a November 2010 press release that "No uranium produced at either facility may be exported." A year later, then-Chairman Gregory Jaczko repeated the assurance in a letter to Senator John Barrasso, the Wyoming Republican in whose state Uranium One operated mines, writing that "Neither Uranium One Inc. nor AMRZ holds a specific NRC export license. In order to export uranium from the United States, Uranium One Inc. or ARMZ would need to apply for and obtain a specific NRC license authorizing the exports of uranium for use in reactor fuel."
 

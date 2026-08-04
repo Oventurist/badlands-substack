@@ -15,7 +15,7 @@ The Nigerian Army is the land warfare branch of the armed forces of [[nigeria|Ni
 
 ## Operation against Abu-Bilal Al-Manuki
 
-According to the May 18, 2026 [[badlands-brief-5a2|Badlands Brief]], [[reuters|Reuters]], citing the Nigerian Army, reported that the strike killing [[abu-bilal-al-manuki|Abu-Bilal Al-Manuki]] took place in Metele, Borno State, in close coordination with [[africom|U.S. Africa Command]]. The Nigerian Army said the operation — part of a joint effort with U.S. forces — began about 12:01 a.m. and ended around 4 a.m. Saturday with no casualties or asset losses. The operation killed Al-Manuki and several lieutenants in a strike on his compound in the Lake Chad Basin, according to Nigeria's State House.
+According to the May 18, 2026 Badlands Brief, [[reuters|Reuters]], citing the Nigerian Army, reported that the strike killing [[abu-bilal-al-manuki|Abu-Bilal Al-Manuki]] took place in Metele, Borno State, in close coordination with [[africom|U.S. Africa Command]]. The Nigerian Army said the operation — part of a joint effort with U.S. forces — began about 12:01 a.m. and ended around 4 a.m. Saturday with no casualties or asset losses. The operation killed Al-Manuki and several lieutenants in a strike on his compound in the Lake Chad Basin, according to Nigeria's State House.
 
 ## Sources
 

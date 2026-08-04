@@ -13,7 +13,7 @@ contested: false
 
 The World Baseball Classic (WBC) is an international baseball tournament contested by national teams.
 
-The March 18, 2026 [[badlands-brief|Badlands Brief]] carried a bonus item on the 2026 final, in which [[venezuela|Venezuela]] defeated Team USA 3-2 on Tuesday night at LoanDepot Park in Miami to claim the country's first WBC title. The game was played before a heavily pro-Venezuela crowd energized by the large Venezuelan immigrant community in South Florida.
+The March 18, 2026 Badlands Brief carried a bonus item on the 2026 final, in which [[venezuela|Venezuela]] defeated Team USA 3-2 on Tuesday night at LoanDepot Park in Miami to claim the country's first WBC title. The game was played before a heavily pro-Venezuela crowd energized by the large Venezuelan immigrant community in South Florida.
 
 ## The 2026 final
 

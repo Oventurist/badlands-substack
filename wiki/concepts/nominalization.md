@@ -10,7 +10,7 @@ contested: false
 ---
 # Nominalization
 
-In hypnosis and neuro-linguistic persuasion, a **nominalization** is an intangible noun — a word that names something which cannot be physically located, handled, or measured. The Badlands Media essay [[a-hypnotists-take-on-israel-palestine|"A Hypnotist's Take on Israel, Palestine, and Q"]] treats the nominalization as one of the two central instruments of modern propaganda, alongside hypnotic repetition.
+In hypnosis and neuro-linguistic persuasion, a **nominalization** is an intangible noun — a word that names something which cannot be physically located, handled, or measured. The Badlands Media essay "A Hypnotist's Take on Israel, Palestine, and Q" treats the nominalization as one of the two central instruments of modern propaganda, alongside hypnotic repetition.
 
 ## Definition and test
 

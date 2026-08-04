@@ -15,7 +15,7 @@ Chechnya is a republic within the [[russia|Russian Federation]], led by [[ramzan
 
 ## Role in the 2026 world-order dispute
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] places Chechnya at the center of Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]]'s call for the United States to conduct "some sort of operation" to remove Kadyrov, modeled on the capture of [[venezuela|Venezuela]]'s [[nicolas-maduro|Nicolás Maduro]], as a means of pressuring President [[vladimir-putin|Vladimir Putin]] over the war in [[ukraine|Ukraine]].
+The January 9, 2026 Badlands Brief places Chechnya at the center of Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]]'s call for the United States to conduct "some sort of operation" to remove Kadyrov, modeled on the capture of [[venezuela|Venezuela]]'s [[nicolas-maduro|Nicolás Maduro]], as a means of pressuring President [[vladimir-putin|Vladimir Putin]] over the war in [[ukraine|Ukraine]].
 
 ## In the Badlands corpus
 

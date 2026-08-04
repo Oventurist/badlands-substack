@@ -10,7 +10,7 @@ contested: false
 ---
 # Apostle Paul
 
-**Paul the Apostle** is cited in the Badlands Media feature [[are-we-entering-the-millennial-reign|"Are We Entering the Millennial Reign?"]] as the scriptural source of two of its central subjects: the [[rapture]] and the [[antichrist]].
+**Paul the Apostle** is cited in the Badlands Media feature "Are We Entering the Millennial Reign?" as the scriptural source of two of its central subjects: the [[rapture]] and the [[antichrist]].
 
 ## The "caught up" passage
 

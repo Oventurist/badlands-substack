@@ -10,7 +10,7 @@ contested: false
 ---
 # Barratry
 
-Barratry is an old common-law offense dating back to medieval England. As defined in the June 4, 2026 [[badlands-brief-2c0|Badlands Brief]], "at its core, it means habitually inciting, promoting, or fomenting lawsuits and legal disputes in which the instigator has no legitimate interest."
+Barratry is an old common-law offense dating back to medieval England. As defined in the June 4, 2026 Badlands Brief, "at its core, it means habitually inciting, promoting, or fomenting lawsuits and legal disputes in which the instigator has no legitimate interest."
 
 ## Invocation in Badlands commentary
 

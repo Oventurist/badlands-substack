@@ -11,7 +11,7 @@ contested: false
 
 # State of the Union
 
-The State of the Union (SOTU) is the annual address delivered by the US president to a joint session of [[congress|Congress]]. The February 24, 2026 [[badlands-brief-285|Badlands Brief]] covers the 2026 address by President [[donald-trump|Donald Trump]], scheduled for 9 PM ET that evening, describing it as taking place amid ongoing political and policy challenges including tariff disputes and international tensions.
+The State of the Union (SOTU) is the annual address delivered by the US president to a joint session of [[congress|Congress]]. The February 24, 2026 Badlands Brief covers the 2026 address by President [[donald-trump|Donald Trump]], scheduled for 9 PM ET that evening, describing it as taking place amid ongoing political and policy challenges including tariff disputes and international tensions.
 
 ## The 2026 address
 

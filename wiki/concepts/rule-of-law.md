@@ -10,7 +10,7 @@ contested: true
 ---
 # Rule of Law
 
-The rule of law is the principle that a society is governed by knowable, generally applicable rules rather than by arbitrary power. The [[a-startling-contradiction-at-the|Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System"]] (May 16, 2023) devotes a section, headed "True Rule of Law," to arguing that the United States no longer satisfies this standard.
+The rule of law is the principle that a society is governed by knowable, generally applicable rules rather than by arbitrary power. The Badlands Media article "A Startling Contradiction at the Heart of 'Our' Legal System" (May 16, 2023) devotes a section, headed "True Rule of Law," to arguing that the United States no longer satisfies this standard.
 
 ## The article's definition
 

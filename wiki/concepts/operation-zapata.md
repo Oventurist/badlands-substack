@@ -13,7 +13,7 @@ contested: true
 ---
 # Operation Zapata
 
-Operation Zapata was the CIA code name for the 1961 Bay of Pigs invasion, a failed military operation aimed at overthrowing Fidel Castro's government in Cuba. In the Badlands Media article [[a-family-affair]], the operation's name is highlighted as evidence of [[george-hw-bush]]'s direct involvement, since his oil company [[zapata-offshore]] shared the name and allegedly provided ships and financing for the invasion.
+Operation Zapata was the CIA code name for the 1961 Bay of Pigs invasion, a failed military operation aimed at overthrowing Fidel Castro's government in Cuba. In the Badlands Media article a family affair, the operation's name is highlighted as evidence of [[george-hw-bush]]'s direct involvement, since his oil company [[zapata-offshore]] shared the name and allegedly provided ships and financing for the invasion.
 
 ## CIA code name
 

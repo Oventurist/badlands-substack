@@ -10,7 +10,7 @@ contested: false
 ---
 # UN Charter
 
-The Charter of the United Nations is the founding treaty of the [[united-nations|United Nations]], adopted in 1945. In the Badlands Media article [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] treats the Charter as the authoritative basis of international law and as a document standing in direct opposition to the [[rules-based-international-order|rules-based international order]].
+The Charter of the United Nations is the founding treaty of the [[united-nations|United Nations]], adopted in 1945. In the Badlands Media article A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] treats the Charter as the authoritative basis of international law and as a document standing in direct opposition to the [[rules-based-international-order|rules-based international order]].
 
 ## Content as characterised in the source
 

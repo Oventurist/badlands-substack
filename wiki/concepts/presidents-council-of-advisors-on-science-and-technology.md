@@ -14,7 +14,7 @@ The President's Council of Advisors on Science and Technology (PCAST) is a feder
 
 ## March 2026 appointments
 
-The [[white-house|White House]] announced a slate of appointments to PCAST in March 2026, reported in the March 26 [[badlands-brief-143|Badlands Brief]]. Appointees were tasked with advising on [[artificial-intelligence|artificial intelligence]], national security technology, economic competitiveness, and scientific research priorities, with the announcement framing the council's role as guiding policy on emerging technologies and maintaining US leadership in science and innovation.
+The [[white-house|White House]] announced a slate of appointments to PCAST in March 2026, reported in the March 26 Badlands Brief. Appointees were tasked with advising on artificial intelligence, national security technology, economic competitiveness, and scientific research priorities, with the announcement framing the council's role as guiding policy on emerging technologies and maintaining US leadership in science and innovation.
 
 The named appointees were [[marc-andreessen|Marc Andreessen]], [[sergey-brin|Sergey Brin]], [[safra-catz|Safra Catz]], [[michael-dell|Michael Dell]], [[jacob-dewitte|Jacob DeWitte]], [[fred-ehrsam|Fred Ehrsam]], [[larry-ellison|Larry Ellison]], [[david-friedberg|David Friedberg]], [[jensen-huang|Jensen Huang]], [[john-martinis|John Martinis]], [[bob-mumgaard|Bob Mumgaard]], [[lisa-su|Lisa Su]], and [[mark-zuckerberg|Mark Zuckerberg]].
 

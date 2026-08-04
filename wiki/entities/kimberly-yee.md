@@ -10,7 +10,7 @@ contested: false
 ---
 # Kimberly Yee
 
-Kimberly Yee is an American Republican politician who serves as Treasurer of the State of Arizona. Her decisive re-election in November 2022 forms the statistical pivot of [[kitty-gillespie|Kitty Gillespie]]'s argument in [[an-sos-from-ground-zero|An SOS From Ground Zero]].
+Kimberly Yee is an American Republican politician who serves as Treasurer of the State of Arizona. Her decisive re-election in November 2022 forms the statistical pivot of [[kitty-gillespie|Kitty Gillespie]]'s argument in An SOS From Ground Zero.
 
 ## The 2022 State Treasurer result
 

@@ -10,7 +10,7 @@ contested: false
 ---
 # Tom Liddy
 
-Tom Liddy is an American attorney who served as Civil Division Chief of the [[maricopa-county-attorneys-office|Maricopa County Attorney's Office]], in which capacity he was the county's chief civil lawyer during the disputed 2022 general election. He is the son of [[g-gordon-liddy|G. Gordon Liddy]], the Watergate conspirator and later radio host, and was himself a radio talk show host before entering county service — [[kitty-gillespie|Kitty Gillespie]] notes in [[an-sos-from-ground-zero|An SOS From Ground Zero]] that she "worked with Tom back in the day when he was a radio talk show host," adding only, "No comment."
+Tom Liddy is an American attorney who served as Civil Division Chief of the [[maricopa-county-attorneys-office|Maricopa County Attorney's Office]], in which capacity he was the county's chief civil lawyer during the disputed 2022 general election. He is the son of [[g-gordon-liddy|G. Gordon Liddy]], the Watergate conspirator and later radio host, and was himself a radio talk show host before entering county service — [[kitty-gillespie|Kitty Gillespie]] notes in An SOS From Ground Zero that she "worked with Tom back in the day when he was a radio talk show host," adding only, "No comment."
 
 ## The 2022 election
 

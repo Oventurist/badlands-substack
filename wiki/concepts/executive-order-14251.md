@@ -17,7 +17,7 @@ Executive Order 14251 is a presidential directive issued by [[donald-trump|Donal
 
 Federal employee unions challenged the order, arguing that it constituted retaliation against them in violation of the First Amendment, and obtained a preliminary injunction from a district court that blocked its implementation.
 
-According to the [[badlands-brief-40d|February 27, 2026 Badlands Brief]], a three-judge panel of the [[us-court-of-appeals-for-the-ninth-circuit|US Court of Appeals for the Ninth Circuit]] vacated that injunction. The panel held that the unions were unlikely to succeed on the merits of their retaliation claim, and that the injunction had therefore been wrongly imposed. The ruling cleared the way for the order's implementation while the underlying litigation continues.
+According to the February 27, 2026 Badlands Brief, a three-judge panel of the [[us-court-of-appeals-for-the-ninth-circuit|US Court of Appeals for the Ninth Circuit]] vacated that injunction. The panel held that the unions were unlikely to succeed on the merits of their retaliation claim, and that the injunction had therefore been wrongly imposed. The ruling cleared the way for the order's implementation while the underlying litigation continues.
 
 Badlands contributor [[ashe-in-america|Ashe in America]] characterized the decision bluntly, writing that "collective bargaining in national security agencies is dead," and grouped it with the failure of a preservationist lawsuit against the White House ballroom construction as attacks on the president's agenda that were thwarted that week.
 

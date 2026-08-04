@@ -10,7 +10,7 @@ contested: true
 ---
 # Endangerment Finding
 
-The endangerment finding is the 2009 determination by the [[environmental-protection-agency|Environmental Protection Agency]] that greenhouse gases such as carbon dioxide endanger public health and welfare. As described in the February 11, 2026 [[badlands-brief-05f|Badlands Brief]], it is a landmark scientific and legal determination that provides the foundational basis under the [[clean-air-act|Clean Air Act]] for regulating emissions from vehicles, power plants, oil-and-gas facilities and other sources.
+The endangerment finding is the 2009 determination by the [[environmental-protection-agency|Environmental Protection Agency]] that greenhouse gases such as carbon dioxide endanger public health and welfare. As described in the February 11, 2026 Badlands Brief, it is a landmark scientific and legal determination that provides the foundational basis under the [[clean-air-act|Clean Air Act]] for regulating emissions from vehicles, power plants, oil-and-gas facilities and other sources.
 
 ## The 2026 rescission
 
@@ -24,7 +24,7 @@ The Brief reports that the [[donald-trump|Trump]] administration prepared a fina
 
 ## Repeal in the narrative war over energy
 
-The February 12, 2026 [[badlands-brief-405|Badlands Brief]] revisits the repeal, with [[burning-bright|Burning Bright]] describing it as "the largest act of deregulation in American history": the full rescission of the Obama-era finding that branded greenhouse gases a threat to public health and served as "the legal cornerstone propping up decades of EPA climate mandates." He records that motor vehicle emission standards were eliminated and that compliance programs, credit schemes and reporting obligations were "ripped out root and stem."
+The February 12, 2026 Badlands Brief revisits the repeal, with [[burning-bright|Burning Bright]] describing it as "the largest act of deregulation in American history": the full rescission of the Obama-era finding that branded greenhouse gases a threat to public health and served as "the legal cornerstone propping up decades of EPA climate mandates." He records that motor vehicle emission standards were eliminated and that compliance programs, credit schemes and reporting obligations were "ripped out root and stem."
 
 He characterizes the response of what he calls the [[media-protectorate|Media Protectorate]] as immediate and predictable, with environmental groups warning of millions endangered and Democratic strongholds vowing legal warfare, producing an overnight frame of [[donald-trump|Trump]] as an existential threat rolling back settled science for fossil-fuel oligarchs. He labels this the "Hegelian Nightmare in its purest form," in which progress is recast as planetary suicide and abundance as greed. Crucially, he argues, the repeal dominated surface coverage on the same day that quieter counter-deployments emerged — the reported [[ai-data-center-compact|AI data center compact]] with major technology firms and a poll showing Democrats with a double-digit advantage on energy costs — which he reads as coordinated narrative operations against the administration's energy acceleration agenda.
 

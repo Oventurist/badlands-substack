@@ -15,7 +15,7 @@ Ramzan Kadyrov is the leader of [[chechnya|Chechnya]], a republic of the [[russi
 
 ## Zelensky's proposal
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] reports that Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] said the United States should intensify pressure on Russia and suggested Washington could pursue "some sort of operation" to remove Kadyrov, drawing an explicit parallel to the US operation that captured [[venezuela|Venezuela]]'s [[nicolas-maduro|Nicolás Maduro]]. Zelensky portrayed the idea as a way to raise the cost for Moscow and push Putin to reconsider continuing the war in [[ukraine|Ukraine]].
+The January 9, 2026 Badlands Brief reports that Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] said the United States should intensify pressure on Russia and suggested Washington could pursue "some sort of operation" to remove Kadyrov, drawing an explicit parallel to the US operation that captured [[venezuela|Venezuela]]'s [[nicolas-maduro|Nicolás Maduro]]. Zelensky portrayed the idea as a way to raise the cost for Moscow and push Putin to reconsider continuing the war in [[ukraine|Ukraine]].
 
 ## Response
 

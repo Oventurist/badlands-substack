@@ -14,12 +14,12 @@ Tina Peters is a former county clerk in Colorado who became a prominent figure i
 
 ## Commutation
 
-According to the announcement for [[badlands-blitz-episode-18|Badlands Blitz Episode 18]], published May 23, 2026, the commutation of Peters' sentence was a leading subject of that week's discussion, with the episode's subtitle rendering the development as "Tina Peters Coming Out." The source treats the commutation as a significant and welcome turn in a case its authors had followed closely, and pairs it in the same episode with commentary on what the post calls "the coming ban on antisemitism and other speech laws" — an implicit framing of both matters as questions of state power over dissenting citizens. The source does not specify the authority that granted the commutation, its date, or its terms.
+According to the announcement for Badlands Blitz Episode 18, published May 23, 2026, the commutation of Peters' sentence was a leading subject of that week's discussion, with the episode's subtitle rendering the development as "Tina Peters Coming Out." The source treats the commutation as a significant and welcome turn in a case its authors had followed closely, and pairs it in the same episode with commentary on what the post calls "the coming ban on antisemitism and other speech laws" — an implicit framing of both matters as questions of state power over dissenting citizens. The source does not specify the authority that granted the commutation, its date, or its terms.
 
 ## Related pages
 
 - [[the-blitz|The Blitz]]
-- [[badlands-brief|Badlands Brief]]
+- Badlands Brief
 
 ## March 2026 clemency fight
 
@@ -29,7 +29,7 @@ Peters's attorney [[john-case|John Case]] responded with a statement to Badlands
 
 ## May 2026 commutation granted
 
-The May 18, 2026 [[badlands-brief-5a2|Badlands Brief]] reports that Governor [[jared-polis|Jared Polis]] commuted Peters' prison sentence, with Peters expected to be released after serving about two years in prison. Polis said the commutation reflected concerns that Peters, a first-time nonviolent offender, received an unusually severe sentence, and that the decision did not endorse her conduct or false claims about the 2020 election. President [[donald-trump|Donald Trump]] had repeatedly called for Peters' release and claimed in 2025 that he had pardoned her, despite state officials saying presidential pardons do not apply to state convictions. Colorado Secretary of State [[jena-griswold|Jena Griswold]] and other critics said the commutation risks weakening deterrence against election-system tampering and could damage public trust in election administration.
+The May 18, 2026 Badlands Brief reports that Governor [[jared-polis|Jared Polis]] commuted Peters' prison sentence, with Peters expected to be released after serving about two years in prison. Polis said the commutation reflected concerns that Peters, a first-time nonviolent offender, received an unusually severe sentence, and that the decision did not endorse her conduct or false claims about the 2020 election. President [[donald-trump|Donald Trump]] had repeatedly called for Peters' release and claimed in 2025 that he had pardoned her, despite state officials saying presidential pardons do not apply to state convictions. Colorado Secretary of State [[jena-griswold|Jena Griswold]] and other critics said the commutation risks weakening deterrence against election-system tampering and could damage public trust in election administration.
 
 [[ashe-in-america|Ashe in America]]'s commentary in the same edition adds that the clemency, granted on Friday May 15, 2026, took the form of a reduced sentence and grant of parole: Polis cut the sentence in half, moved up her eligibility date, and granted parole, with conditions to be determined by a governor-appointed parole board. Ashe reports hugging Peters on the Saturday after the grant and describes Peters' priorities upon release — seeing her 97-year-old mother, reclaiming her health, eating fresh food, restoring her body, and reuniting with her dog Minka. Peters planned to eat a thick steak and a salad with real tomatoes and avocado, and said the first time she slept properly since being incarcerated was the Friday night after the grant of clemency. Asked whether she was coerced into issuing a statement of contrition, Peters said she approved the statement and stands by it. Ashe concludes, "June 1 can't come soon enough for Tina Peters."
 

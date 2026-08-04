@@ -10,7 +10,7 @@ contested: true
 ---
 # The Honeypot Hoax
 
-"The Honeypot Hoax" is an essay by the Badlands Media contributor [[burning-bright|Burning Bright]], published on his Substack and cited in the February 10, 2026 edition of the [[badlands-brief|Badlands Brief]], "[[badlands-brief-4ec|Criminal Invader Crashouts & Honeypot Hoaxes]]." The essay advances an interpretation of the [[epstein-narrative|Epstein narrative]] in which the storyline surrounding the late financier [[jeffrey-epstein|Jeffrey Epstein]] has been deliberately contaminated, converting what was once a promising line of inquiry for independent researchers into a trap.
+"The Honeypot Hoax" is an essay by the Badlands Media contributor [[burning-bright|Burning Bright]], published on his Substack and cited in the February 10, 2026 edition of the Badlands Brief, "Criminal Invader Crashouts & Honeypot Hoaxes." The essay advances an interpretation of the [[epstein-narrative|Epstein narrative]] in which the storyline surrounding the late financier [[jeffrey-epstein|Jeffrey Epstein]] has been deliberately contaminated, converting what was once a promising line of inquiry for independent researchers into a trap.
 
 ## Argument
 

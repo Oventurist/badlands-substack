@@ -14,7 +14,7 @@ The Armed Forces Institute of Pathology (AFIP) was a U.S. military medical insti
 
 ## In the Badlands corpus
 
-[[america-for-sale-part-1|America for Sale - Part 1]] presents AFIP both as the source of the physical anomaly in the [[ron-brown|Ron Brown]] case and as the institution that suppressed discussion of it. The article states that while Brown's body was being processed at AFIP, "a perfectly round .45 inch inwardly beveling hole was discovered in the top of his head."
+America for Sale   Part 1 presents AFIP both as the source of the physical anomaly in the [[ron-brown|Ron Brown]] case and as the institution that suppressed discussion of it. The article states that while Brown's body was being processed at AFIP, "a perfectly round .45 inch inwardly beveling hole was discovered in the top of his head."
 
 Lt. Col. [[steve-cogswell|Steve Cogswell]], an AFIP deputy medical examiner, questioned the official finding that Brown died of multiple blunt-force trauma, basing his doubts on x-rays and photographs and noting that original x-rays showed possible metal fragments in the brain consistent with a high-velocity gunshot wound. The two head x-rays were missing from Brown's file; Cogswell suspected they were never placed in it. On December 5, 1997, AFIP imposed a gag order on Cogswell, requiring him to route all press inquiries through its public affairs office.
 

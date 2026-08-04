@@ -10,7 +10,7 @@ contested: true
 ---
 # Meyer Lansky
 
-Meyer Lansky was an American organized crime figure identified in the Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] as the man who "sat at the top of the Jewish Mafia" — an organization the article places above the Italian Mafia in the hierarchy of American organized crime.
+Meyer Lansky was an American organized crime figure identified in the Badlands Media essay A Journey of Ever changing Truths as the man who "sat at the top of the Jewish Mafia" — an organization the article places above the Italian Mafia in the hierarchy of American organized crime.
 
 ## Organization
 

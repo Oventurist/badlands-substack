@@ -10,7 +10,7 @@ contested: true
 ---
 # Gangster Rap
 
-Gangster rap is the hip-hop subgenre that emerged in the late 1980s. The Badlands Media essay [[a-journey-of-ever-changing-truths|A Journey of Ever-changing Truths]] presents its rise not as an organic artistic development but as an intelligence operation.
+Gangster rap is the hip-hop subgenre that emerged in the late 1980s. The Badlands Media essay A Journey of Ever changing Truths presents its rise not as an organic artistic development but as an intelligence operation.
 
 [[erik-carlson|Erik Carlson]] dates the shift to about five years before the [[oj-simpson|O. J. Simpson]] trial, describing "a drastic change in rap music" in which "rappers rapping about positivity, unity and ending violence shifted to rapping about shooting cops and selling drugs. Gangster rap was born."
 

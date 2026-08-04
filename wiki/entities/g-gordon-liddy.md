@@ -14,7 +14,7 @@ George Gordon Liddy (1930–2021) was an American lawyer, former FBI agent, and 
 
 ## Relevance to the corpus
 
-Liddy enters the Badlands Media corpus through his son, [[tom-liddy|Tom Liddy]], Civil Division Chief of the [[maricopa-county-attorneys-office|Maricopa County Attorney's Office]] during the disputed 2022 general election. In a sidebar to [[an-sos-from-ground-zero|An SOS From Ground Zero]], [[kitty-gillespie|Kitty Gillespie]] writes: "Yes, Tom Liddy is G. Gordon Liddy's son. Yes, THAT G. Gordon Liddy from Watergate," and declines to elaborate — a rhetorical gesture inviting readers to draw their own inference about political lineage and the handling of election disputes in [[maricopa-county|Maricopa County]].
+Liddy enters the Badlands Media corpus through his son, [[tom-liddy|Tom Liddy]], Civil Division Chief of the [[maricopa-county-attorneys-office|Maricopa County Attorney's Office]] during the disputed 2022 general election. In a sidebar to An SOS From Ground Zero, [[kitty-gillespie|Kitty Gillespie]] writes: "Yes, Tom Liddy is G. Gordon Liddy's son. Yes, THAT G. Gordon Liddy from Watergate," and declines to elaborate — a rhetorical gesture inviting readers to draw their own inference about political lineage and the handling of election disputes in [[maricopa-county|Maricopa County]].
 
 ## Sources
 

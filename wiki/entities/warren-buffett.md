@@ -10,7 +10,7 @@ contested: true
 ---
 # Warren Buffett
 
-Warren Buffett is an American investor and chairman of Berkshire Hathaway. He appears in the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] as one of the plutocrats [[chrystia-freeland|Chrystia Freeland]] is said to have counted among the ideologically compatible wing of the new global elite.
+Warren Buffett is an American investor and chairman of Berkshire Hathaway. He appears in the Badlands Media essay A Re Alignment of World Systems as one of the plutocrats [[chrystia-freeland|Chrystia Freeland]] is said to have counted among the ideologically compatible wing of the new global elite.
 
 ## Role in the source
 

@@ -21,7 +21,7 @@ The article characterizes Bush as "one of [[prince-alwaleed|Prince Alwaleed]]'s 
 
 ## The 2000 recount and HAVA
 
-The essay [[always-fight-back|"Always Fight Back"]] recounts that in 2000 broadcast media prematurely called Florida for [[al-gore|Al Gore]], that recounts awarded the state to Bush, and that the [[supreme-court-of-the-united-states|Supreme Court]] ended the dispute by halting the Florida recount on equal-protection grounds. The article treats the episode as a mainstream, fully legitimate example of contesting an election outcome, and notes that the controversy led directly to the [[help-america-vote-act|Help America Vote Act]], signed in 2002, which in the author's view centralized U.S. elections around private vendors with little meaningful oversight.
+The essay "Always Fight Back" recounts that in 2000 broadcast media prematurely called Florida for [[al-gore|Al Gore]], that recounts awarded the state to Bush, and that the [[supreme-court-of-the-united-states|Supreme Court]] ended the dispute by halting the Florida recount on equal-protection grounds. The article treats the episode as a mainstream, fully legitimate example of contesting an election outcome, and notes that the controversy led directly to the [[help-america-vote-act|Help America Vote Act]], signed in 2002, which in the author's view centralized U.S. elections around private vendors with little meaningful oversight.
 
 ## Sources
 

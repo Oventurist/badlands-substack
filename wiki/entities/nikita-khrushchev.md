@@ -14,7 +14,7 @@ Nikita Khrushchev was the leader of the Soviet Union during the early 1960s and 
 
 ## The Kennedy–Khrushchev continental link
 
-The June 5, 2026 [[badlands-brief-58d|Badlands Brief]], commenting on the announced US–Russia agreement to continue design work on the [[bering-strait-tunnel|Bering Strait tunnel]], recalls through contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] that "JFK and Nikita Khrushchev once attempted to bridge our continents, and that project was shuttered by the insurgents who seized control of the country and subjugated our people."
+The June 5, 2026 Badlands Brief, commenting on the announced US–Russia agreement to continue design work on the [[bering-strait-tunnel|Bering Strait tunnel]], recalls through contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] that "JFK and Nikita Khrushchev once attempted to bridge our continents, and that project was shuttered by the insurgents who seized control of the country and subjugated our people."
 
 The reference situates the 2026 tunnel agreement — negotiated by Kremlin special envoy [[kirill-dmitriev|Kirill Dmitriev]] and promoted in the Brief as "the Putin–Trump Tunnel" — as the resumption of an initiative interrupted by the assassination of Kennedy in November 1963. In this reading, Khrushchev's cooperation with Kennedy prefigures the Russo-American alignment that Badlands writers describe as emerging under [[vladimir-putin|Vladimir Putin]] and [[donald-trump|Donald Trump]].
 

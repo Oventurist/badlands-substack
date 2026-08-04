@@ -14,7 +14,7 @@ The Countering Foreign Propaganda and Disinformation Act of 2016 was U.S. legisl
 
 ## Statutory purpose
 
-As quoted in [[a-swan-song-for-the-msm|A Swan Song for the MSM]], the mandate was "to direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States, its allies, and partner nations."
+As quoted in A Swan Song for the MSM, the mandate was "to direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States, its allies, and partner nations."
 
 ## Badlands interpretation
 

@@ -14,7 +14,7 @@ TurkStream is a natural gas pipeline that carries Russian gas through Türkiye a
 
 ## Role in the July 2026 escalation
 
-The July 10, 2026 [[badlands-brief-0bd|Badlands Brief "Mossad Bait & Labor Tackles"]] introduces TurkStream while reporting a Ukrainian drone strike on the Krasnodarskaya compressor station serving Blue Stream. [[gazprom|Gazprom]] said that strike caused only minor damage and did not interrupt deliveries, but Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] framed the attack as a threat to critical international energy infrastructure and said [[russia|Russia]] expected the affected countries, including [[turkey|Türkiye]], to respond.
+The July 10, 2026 Badlands Brief "Mossad Bait & Labor Tackles" introduces TurkStream while reporting a Ukrainian drone strike on the Krasnodarskaya compressor station serving Blue Stream. [[gazprom|Gazprom]] said that strike caused only minor damage and did not interrupt deliveries, but Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] framed the attack as a threat to critical international energy infrastructure and said [[russia|Russia]] expected the affected countries, including [[turkey|Türkiye]], to respond.
 
 Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] singles out TurkStream, along with the island of [[cyprus|Cyprus]] and Türkiye's Aegean west coast, as places to watch for further escalation in his hypothesis that [[ukraine|Ukraine]]'s strike was undertaken on behalf of [[israel|Israel]] as part of a broader push to bring European states into conflict with Türkiye. Because TurkStream serves European customers directly, damage to it would carry consequences well beyond the Russia–Türkiye relationship.
 

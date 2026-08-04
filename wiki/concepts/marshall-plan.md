@@ -14,7 +14,7 @@ contested: true
 ---
 # Marshall Plan
 
-The Marshall Plan (officially the European Recovery Program) was a United States initiative, announced in 1947, that provided large-scale economic aid to help rebuild Western European economies after World War II. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], the Marshall Plan's labor provisions are cited as a mechanism that conditioned aid on anti-leftist union reforms.
+The Marshall Plan (officially the European Recovery Program) was a United States initiative, announced in 1947, that provided large-scale economic aid to help rebuild Western European economies after World War II. In the Badlands Media article A More Perfect (Labor) Union, the Marshall Plan's labor provisions are cited as a mechanism that conditioned aid on anti-leftist union reforms.
 
 ## Labor provisions
 

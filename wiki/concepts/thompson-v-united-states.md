@@ -10,7 +10,7 @@ contested: false
 ---
 # Thompson v. United States
 
-*Thompson v. United States* is a [[supreme-court-of-the-united-states|Supreme Court]] decision cited in the June 4, 2026 [[badlands-brief-2c0|Badlands Brief]] for its holding that the federal statute governing statements to banks applies only to false statements, and not to statements that are merely misleading.
+*Thompson v. United States* is a [[supreme-court-of-the-united-states|Supreme Court]] decision cited in the June 4, 2026 Badlands Brief for its holding that the federal statute governing statements to banks applies only to false statements, and not to statements that are merely misleading.
 
 ## Effect on the SPLC prosecution
 

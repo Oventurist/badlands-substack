@@ -15,7 +15,7 @@ Sheri Davis is the County Clerk of Douglas County, Colorado, responsible for loc
 
 ## Co-plaintiff in the 2026 overseas voting suit
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] reports that Davis joined the [[republican-national-committee|Republican National Committee]] and Representative Jeff Crank as a co-plaintiff in the Denver District Court challenge to Secretary of State [[jena-griswold|Jena Griswold]]'s guidance under the [[uniformed-and-overseas-citizens-absentee-voting-act|Uniformed and Overseas Citizens Absentee Voting Act]].
+"Condemnation, Calibration, & Constitutional Boxes" reports that Davis joined the [[republican-national-committee|Republican National Committee]] and Representative Jeff Crank as a co-plaintiff in the Denver District Court challenge to Secretary of State [[jena-griswold|Jena Griswold]]'s guidance under the [[uniformed-and-overseas-citizens-absentee-voting-act|Uniformed and Overseas Citizens Absentee Voting Act]].
 
 ## Criticism from Ashe in America
 

@@ -16,7 +16,7 @@ The "autopen scandal" is the term used across the Badlands corpus for the conten
 
 The claim rests on two linked premises. The first is that Biden was cognitively incapable of exercising the office — a premise that Badlands writers argue was effectively conceded by Special Counsel [[robert-hur|Robert Hur]], whose report described Biden as a "well-meaning elderly man with a poor memory" in explaining the decision not to charge him over classified documents. The second is that a large volume of consequential acts, including pardons for members of Biden's own family, issued under his signature during that period.
 
-If both are accepted, the conclusion drawn in the corpus is that some other set of actors was directing the presidency. As [[ashe-in-america|Ashe in America]] put it in the July 22, 2026 [[badlands-brief-1ae|Badlands Brief]], "the dementia-ridden scrotus puppet is not the primary perp in that. The people running him are." She characterizes the affair as "massively seditious and treasonous."
+If both are accepted, the conclusion drawn in the corpus is that some other set of actors was directing the presidency. As [[ashe-in-america|Ashe in America]] put it in the July 22, 2026 Badlands Brief, "the dementia-ridden scrotus puppet is not the primary perp in that. The people running him are." She characterizes the affair as "massively seditious and treasonous."
 
 ## Relationship to the Hur recordings litigation
 

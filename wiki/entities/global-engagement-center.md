@@ -14,7 +14,7 @@ The Global Engagement Center (GEC) was an office of the U.S. [[state-department|
 
 ## Mandate
 
-[[a-swan-song-for-the-msm|A Swan Song for the MSM]] quotes the center's official mission: "To direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States, its allies, and partner nations."
+A Swan Song for the MSM quotes the center's official mission: "To direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States, its allies, and partner nations."
 
 ## Badlands interpretation
 

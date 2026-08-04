@@ -14,7 +14,7 @@ contested: true
 
 ## The argument in "America's Greatest Threat"
 
-[[erik-carlson|Erik Carlson]]'s [[americas-greatest-threat|America's Greatest Threat]] (April 24, 2024) states plainly that "taxes are a key component of creating and maintaining debt slaves." The essay's premise is that a government able to print money at will does not need tax revenue: "Any time the government needs money, they can print it and pass on the inflation to the American people." Taxation therefore serves a disciplinary rather than a fiscal function — "control, control, control."
+[[erik-carlson|Erik Carlson]]'s America's Greatest Threat (April 24, 2024) states plainly that "taxes are a key component of creating and maintaining debt slaves." The essay's premise is that a government able to print money at will does not need tax revenue: "Any time the government needs money, they can print it and pass on the inflation to the American people." Taxation therefore serves a disciplinary rather than a fiscal function — "control, control, control."
 
 Carlson catalogues the layers of extraction. Income is taxed federally and, in most states, again at state level; purchases generate sales tax; property is taxed; investments and savings are taxed. "A dollar is taxed when you earn it, when you spend it and when you save it. The same dollar is taxed multiple times." Above all these sits [[inflation|inflation]], described as "the biggest tax of all — the tax that comes from the [[federal-reserve|Federal Reserve]] printing money out of nothing, backed by nothing, diluting down the purchasing power of existing money."
 

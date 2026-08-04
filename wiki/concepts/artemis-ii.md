@@ -11,7 +11,7 @@ contested: true
 
 # Artemis II
 
-Artemis II is the [[nasa|NASA]] mission that carried a crew of four astronauts around the Moon in 2026, the first crewed flight to lunar distance since the Apollo program. It is discussed in the April 6, 2026 [[badlands-brief-282|Badlands Brief, "Jesus Walks"]], which reports NASA's release of the first images of Earth captured from lunar distance during the flight.
+Artemis II is the [[nasa|NASA]] mission that carried a crew of four astronauts around the Moon in 2026, the first crewed flight to lunar distance since the Apollo program. It is discussed in the April 6, 2026 Badlands Brief, "Jesus Walks", which reports NASA's release of the first images of Earth captured from lunar distance during the flight.
 
 ## Mission profile
 

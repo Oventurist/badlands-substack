@@ -14,7 +14,7 @@ The National Oceanic and Atmospheric Administration (NOAA) is the United States 
 
 ## Appearance in the corpus
 
-NOAA enters the Badlands Media corpus through the July 10, 2026 [[badlands-brief-0bd|Badlands Brief "Mossad Bait & Labor Tackles"]], which reports that [[david-legates|David Legates]] — a former NOAA official who has questioned aspects of mainstream climate modeling — was appointed to lead a newly established [[white-house|White House]] climate office. Administration officials said the office would review federal climate science and policy to ensure analyses are objective and free from political bias, while critics argued the move could reshape how climate research informs policymaking and weaken existing climate initiatives.
+NOAA enters the Badlands Media corpus through the July 10, 2026 Badlands Brief "Mossad Bait & Labor Tackles", which reports that [[david-legates|David Legates]] — a former NOAA official who has questioned aspects of mainstream climate modeling — was appointed to lead a newly established [[white-house|White House]] climate office. Administration officials said the office would review federal climate science and policy to ensure analyses are objective and free from political bias, while critics argued the move could reshape how climate research informs policymaking and weaken existing climate initiatives.
 
 Because NOAA produces much of the underlying data and modeling that federal climate policy relies upon, the Brief's framing places the agency implicitly at the centre of the dispute over the [[climate-change-narrative|climate change narrative]] and the administration's proposed overhaul of the federal research grant system.
 

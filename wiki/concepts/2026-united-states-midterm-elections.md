@@ -10,7 +10,7 @@ contested: true
 ---
 # 2026 United States Midterm Elections
 
-The 2026 United States midterm elections are the congressional elections scheduled for November 2026, which will determine control of the House and Senate for the final two years of [[donald-trump|Donald Trump]]'s presidency. They are the subject of the second item in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]].
+The 2026 United States midterm elections are the congressional elections scheduled for November 2026, which will determine control of the House and Senate for the final two years of [[donald-trump|Donald Trump]]'s presidency. They are the subject of the second item in the January 19, 2026 Badlands Brief.
 
 ## Trump's remarks
 

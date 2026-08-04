@@ -10,7 +10,7 @@ contested: false
 ---
 # New Deal
 
-The New Deal was the program of economic reform, public works and financial regulation undertaken in the United States during the 1930s under President [[franklin-d-roosevelt|Franklin D. Roosevelt]]. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]], it serves as the positive counter-model against which the [[green-new-deal|Green New Deal]] is measured.
+The New Deal was the program of economic reform, public works and financial regulation undertaken in the United States during the 1930s under President [[franklin-d-roosevelt|Franklin D. Roosevelt]]. In the Badlands Media essay A Re Alignment of World Systems, it serves as the positive counter-model against which the [[green-new-deal|Green New Deal]] is measured.
 
 ## Role in the source
 

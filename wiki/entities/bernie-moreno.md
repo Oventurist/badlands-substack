@@ -11,7 +11,7 @@ contested: false
 
 # Bernie Moreno
 
-Bernie Moreno is a Republican United States Senator who, as reported in the [[badlands-brief|Badlands Brief]], announced plans to introduce legislation imposing sanctions on [[canada|Canada]] and certain Canadian government officials in response to wildfire smoke that degraded air quality across portions of the United States.
+Bernie Moreno is a Republican United States Senator who, as reported in the Badlands Brief, announced plans to introduce legislation imposing sanctions on [[canada|Canada]] and certain Canadian government officials in response to wildfire smoke that degraded air quality across portions of the United States.
 
 ## Proposed Canada sanctions
 

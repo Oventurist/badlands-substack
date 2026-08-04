@@ -14,7 +14,7 @@ Donald Rumsfeld was United States Secretary of Defense under George W. Bush and 
 
 ## In the corpus
 
-[[assad-day-in-damascus]] names Rumsfeld among the figures who populated PNAC following its 1997 founding by [[william-kristol]] and [[robert-kagan]], listing him with [[dick-cheney]], [[paul-wolfowitz]] and [[john-bolton]]. Fourteen of the group's twenty-five original signatories, the article notes, went on to serve in the Bush administration.
+assad day in damascus names Rumsfeld among the figures who populated PNAC following its 1997 founding by [[william-kristol]] and [[robert-kagan]], listing him with [[dick-cheney]], [[paul-wolfowitz]] and [[john-bolton]]. Fourteen of the group's twenty-five original signatories, the article notes, went on to serve in the Bush administration.
 
 As the civilian head of the [[pentagon|Pentagon]] after September 11, 2001, Rumsfeld presided over the department in which General [[wesley-clark]] says he encountered the memo outlining a plan to "take out seven countries in five years," beginning with Iraq and continuing to [[syria]] — the sequence the article uses to interpret the 2024 fall of [[bashar-al-assad|Bashar al-Assad]].
 

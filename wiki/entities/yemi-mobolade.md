@@ -10,7 +10,7 @@ contested: true
 ---
 # Yemi Mobolade
 
-Yemi Mobolade is the mayor of [[colorado-springs|Colorado Springs]], Colorado, elected in 2023. He is discussed in the June 4, 2026 [[badlands-brief-2c0|Badlands Brief]] by [[ashe-in-america|Ashe in America]], who describes him as "the commie mayor of Colorado Springs" and notes that he was elected in "one of the reddest cities in Colorado after a supposed cross burning in front of his campaign sign."
+Yemi Mobolade is the mayor of [[colorado-springs|Colorado Springs]], Colorado, elected in 2023. He is discussed in the June 4, 2026 Badlands Brief by [[ashe-in-america|Ashe in America]], who describes him as "the commie mayor of Colorado Springs" and notes that he was elected in "one of the reddest cities in Colorado after a supposed cross burning in front of his campaign sign."
 
 ## The cross-burning case
 

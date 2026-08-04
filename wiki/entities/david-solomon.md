@@ -15,7 +15,7 @@ David Solomon is the Chairman and Chief Executive Officer of [[goldman-sachs|Gol
 
 ## Meeting with the Treasury Secretary (2026)
 
-[[badlands-brief-169|"Condemnation, Calibration, & Constitutional Boxes"]] reports that sources indicate Treasury Secretary [[scott-bessent|Scott Bessent]] met with Solomon earlier in 2026 in New York. Bessent reportedly delivered a direct message urging the bank's cooperation with federal investigators and warning of potential scrutiny of the role played by Goldman's donor-advised philanthropy fund in moving more than $110 million of [[neville-roy-singham|Neville Roy Singham]]'s money into United States nonprofits. The meeting is presented in the corpus as an example of executive-branch pressure applied outside formal legal process in parallel with the Manhattan grand jury inquiry overseen by U.S. Attorney [[jay-clayton|Jay Clayton]].
+"Condemnation, Calibration, & Constitutional Boxes" reports that sources indicate Treasury Secretary [[scott-bessent|Scott Bessent]] met with Solomon earlier in 2026 in New York. Bessent reportedly delivered a direct message urging the bank's cooperation with federal investigators and warning of potential scrutiny of the role played by Goldman's donor-advised philanthropy fund in moving more than $110 million of [[neville-roy-singham|Neville Roy Singham]]'s money into United States nonprofits. The meeting is presented in the corpus as an example of executive-branch pressure applied outside formal legal process in parallel with the Manhattan grand jury inquiry overseen by U.S. Attorney [[jay-clayton|Jay Clayton]].
 
 ## Sources
 

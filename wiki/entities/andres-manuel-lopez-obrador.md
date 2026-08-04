@@ -15,7 +15,7 @@ Andrés Manuel López Obrador, frequently abbreviated AMLO and referred to in th
 
 ## Relationship with Trump
 
-The January 9, 2026 [[badlands-brief-094|Badlands Brief]] characterizes Obrador as "a hardcore commie" who nevertheless "seemed to respect Trump and certainly got along with him." The commentary by [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] recalls that President [[donald-trump|Donald Trump]] "always talked about how Obrador deployed those 29,000 Mexican troops to the border to protect it from the Mexican side, among other things."
+The January 9, 2026 Badlands Brief characterizes Obrador as "a hardcore commie" who nevertheless "seemed to respect Trump and certainly got along with him." The commentary by [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] recalls that President [[donald-trump|Donald Trump]] "always talked about how Obrador deployed those 29,000 Mexican troops to the border to protect it from the Mexican side, among other things."
 
 ## Contrast with his successor
 

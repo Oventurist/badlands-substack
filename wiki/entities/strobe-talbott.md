@@ -10,7 +10,7 @@ contested: true
 ---
 # Strobe Talbott
 
-Strobe Talbott is an American journalist and diplomat who served as Deputy Secretary of State during the Clinton administration with particular responsibility for Russia policy. In the Badlands Media essay [[a-re-alignment-of-world-systems|A Re-Alignment of World Systems]] he is identified as a Rhodes Scholar and as one of the Western managers of post-Soviet liberalization.
+Strobe Talbott is an American journalist and diplomat who served as Deputy Secretary of State during the Clinton administration with particular responsibility for Russia policy. In the Badlands Media essay A Re Alignment of World Systems he is identified as a Rhodes Scholar and as one of the Western managers of post-Soviet liberalization.
 
 ## Role in the source
 

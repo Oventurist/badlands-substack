@@ -10,7 +10,7 @@ contested: true
 ---
 # Great Reset
 
-The "Great Reset" is the term used in the Badlands Media corpus for a proposed reorganisation of global governance and economics that critics associate with technocratic supranational management. In [[a-gateway-to-a-new-world-of-cooperation|A Gateway to a New World of Cooperation]], [[matthew-ehret|Matthew Ehret]] describes it as an "anti-humanist Great Reset or transhumanist New World Order" and treats it as the alternative to the cooperative settlement he advocates.
+The "Great Reset" is the term used in the Badlands Media corpus for a proposed reorganisation of global governance and economics that critics associate with technocratic supranational management. In A Gateway to a New World of Cooperation, [[matthew-ehret|Matthew Ehret]] describes it as an "anti-humanist Great Reset or transhumanist New World Order" and treats it as the alternative to the cooperative settlement he advocates.
 
 ## Content as described in the source
 
@@ -22,16 +22,16 @@ Ehret concludes that, judging by the profiles, words and performance of the lead
 
 ## Labor, depopulation and the Reset in A Time to Strike
 
-[[a-time-to-strike|A Time to Strike]] (October 2023) invokes the Great Reset as the framework explaining American labor conditions. Noting that dual-income households have been a majority for two decades, that birth rates have fallen roughly 20% over the past decade, and that pension systems are effectively insolvent, [[ashe-in-america|Ashe in America]] writes that these conditions "did not come about organically" and that "doubling the tax base and reducing the population, while bankrupting the system kind of sounds like laying groundwork for the Great Rest to the New World Order." The essay connects this to the [[future-of-work|future of work]] planning of [[mckinsey-and-company|McKinsey & Company]], strategic partner of the [[world-economic-forum|World Economic Forum]].
+A Time to Strike (October 2023) invokes the Great Reset as the framework explaining American labor conditions. Noting that dual-income households have been a majority for two decades, that birth rates have fallen roughly 20% over the past decade, and that pension systems are effectively insolvent, [[ashe-in-america|Ashe in America]] writes that these conditions "did not come about organically" and that "doubling the tax base and reducing the population, while bankrupting the system kind of sounds like laying groundwork for the Great Rest to the New World Order." The essay connects this to the [[future-of-work|future of work]] planning of [[mckinsey-and-company|McKinsey & Company]], strategic partner of the [[world-economic-forum|World Economic Forum]].
 
 ## As an input to the ChatGPT experiment
 
-In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], [[justin-deschamps|Justin Deschamps]] asked [[chatgpt|ChatGPT]] to "use Klaus Schwab's 'Great Reset' as an additional plan for the consortium to utilize," incorporating it into the fictional Global Harmony Consortium's programme alongside [[esg|ESG]] scoring, the [[climate-change-narrative|climate change narrative]] and the institutional weight of the [[world-economic-forum|World Economic Forum]].
+In AI Can Help Us Expose the NWO, [[justin-deschamps|Justin Deschamps]] asked [[chatgpt|ChatGPT]] to "use Klaus Schwab's 'Great Reset' as an additional plan for the consortium to utilize," incorporating it into the fictional Global Harmony Consortium's programme alongside [[esg|ESG]] scoring, the [[climate-change-narrative|climate change narrative]] and the institutional weight of the [[world-economic-forum|World Economic Forum]].
 
 
 ## Competing resets
 
-Joe Lange's June 2023 article [[are-cbdcs-the-path-to-fear-or-freedom|"Are CBDCs The Path To Fear, or Freedom?"]] frames the Great Reset as inevitable but contested. With global debt in the hundreds of trillions and countries unable to service the interest, the article holds that a reset was always coming; the open question is "whose Great Reset will succeed" — [[donald-trump|Trump]]'s plan or the [[cabal]]'s, financial freedom for the people or total control of them. The article's answer is that the fiat system is being deliberately bankrupted while the [[brics]] bloc builds a replacement, the world returns to a [[gold-standard|gold standard]], and [[central-bank-digital-currency|CBDCs]] provide the technical means to complete the transition quickly.
+Joe Lange's June 2023 article "Are CBDCs The Path To Fear, or Freedom?" frames the Great Reset as inevitable but contested. With global debt in the hundreds of trillions and countries unable to service the interest, the article holds that a reset was always coming; the open question is "whose Great Reset will succeed" — [[donald-trump|Trump]]'s plan or the [[cabal]]'s, financial freedom for the people or total control of them. The article's answer is that the fiat system is being deliberately bankrupted while the [[brics]] bloc builds a replacement, the world returns to a [[gold-standard|gold standard]], and [[central-bank-digital-currency|CBDCs]] provide the technical means to complete the transition quickly.
 
 ## Sources
 

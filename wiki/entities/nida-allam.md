@@ -12,7 +12,7 @@ contested: false
 
 Nida Allam is a progressive Democratic candidate in North Carolina who challenged incumbent Representative [[valerie-foushee|Valerie Foushee]] in the primary held on March 3, 2026.
 
-According to the March 4, 2026 [[badlands-brief-165|Badlands Brief]], Allam's candidacy was backed by [[bernie-sanders|Bernie Sanders]] and formed part of a wave of insurgent primary challenges preceding the [[2026-united-states-midterm-elections|2026 midterm elections]]. The Brief groups her with challengers whose refusal to pledge support to House Minority Leader [[hakeem-jeffries|Hakeem Jeffries]] alarmed party leaders.
+According to the March 4, 2026 Badlands Brief, Allam's candidacy was backed by [[bernie-sanders|Bernie Sanders]] and formed part of a wave of insurgent primary challenges preceding the [[2026-united-states-midterm-elections|2026 midterm elections]]. The Brief groups her with challengers whose refusal to pledge support to House Minority Leader [[hakeem-jeffries|Hakeem Jeffries]] alarmed party leaders.
 
 ## Sources
 

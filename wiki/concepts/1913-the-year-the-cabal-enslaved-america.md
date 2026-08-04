@@ -9,11 +9,11 @@ confidence: medium
 ---
 # 1913: The Year the Cabal Enslaved America
 
-"[[1913]]: The Year the Cabal Enslaved America" is a Badlands Media article (published November 29, 2022) that frames the year [[1913]] as the moment a small circle of financiers — which the article calls the "[[cabal]]" — consolidated permanent control over the American monetary and tax systems. The piece traces a narrative from the Founding Fathers' "hard money" tradition through the creation of the [[Federal Reserve]], the federal income tax, and the "Money Trust" documented by the [[Pujo Committee]], arguing that these developments deliberately transferred power from citizens to bankers.
+"1913: The Year the Cabal Enslaved America" is a Badlands Media article (published November 29, 2022) that frames the year 1913 as the moment a small circle of financiers — which the article calls the "[[cabal]]" — consolidated permanent control over the American monetary and tax systems. The piece traces a narrative from the Founding Fathers' "hard money" tradition through the creation of the [[Federal Reserve]], the federal income tax, and the "Money Trust" documented by the [[Pujo Committee]], arguing that these developments deliberately transferred power from citizens to bankers.
 
 ## The hard-money tradition and its enemies
 
-The article argues that prior to [[1913]], the United States operated under a "hard money" system of tradable coins established by the Founders, in which "the value of money was worth astronomically more than it is today, and few had to worry about loans or debt." It characterizes the 1800s economy as a battle between this hard-money tradition and the bankers' "paper money" system. Banks, the article explains, began by letting their own bank notes trade openly, creating a parallel economy to the official hard-money one and "paving the way for what we refer to today as fractional reserve lending." In the article's telling, the only way to stop this was for citizens to demand their gold back en masse, making the abolition of the [[gold standard]] a Bankers' priority.
+The article argues that prior to 1913, the United States operated under a "hard money" system of tradable coins established by the Founders, in which "the value of money was worth astronomically more than it is today, and few had to worry about loans or debt." It characterizes the 1800s economy as a battle between this hard-money tradition and the bankers' "paper money" system. Banks, the article explains, began by letting their own bank notes trade openly, creating a parallel economy to the official hard-money one and "paving the way for what we refer to today as fractional reserve lending." In the article's telling, the only way to stop this was for citizens to demand their gold back en masse, making the abolition of the [[gold standard]] a Bankers' priority.
 
 ## Andrew Jackson and the Second Bank
 
@@ -35,9 +35,9 @@ Together, the article states, these men "represented about one quarter of the wo
 
 ## The 1913 package: the Fed, the IRS, and the income tax
 
-The [[federal-reserve|Federal Reserve Act]] was passed by the 63rd United States Congress and signed into law by President [[Woodrow Wilson]] on December 23, 1913, creating the [[Federal Reserve]] System. The article frames this as one part of a simultaneous [[1913]] "package":
+The [[federal-reserve|Federal Reserve Act]] was passed by the 63rd United States Congress and signed into law by President [[Woodrow Wilson]] on December 23, 1913, creating the [[Federal Reserve]] System. The article frames this as one part of a simultaneous 1913 "package":
 
-- The [[Sixteenth Amendment]] was ratified in [[1913]].
+- The [[Sixteenth Amendment]] was ratified in 1913.
 - The [[Revenue Act of 1913]] dramatically lowered tariffs and implemented a federal income tax. Representative Oscar Underwood moved the bill through the House; it won Senate approval after extensive Wilson-administration lobbying. Wilson signed it into law on October 3, 1913, establishing the [[Internal Revenue Service]] (IRS).
 - The article argues that together, the Fed removed citizens' ability to redeem currency for gold while the income tax gave the state a permanent claim on earnings — a combination it describes as having "enslaved every American to the [[fiat-currency|fiat monetary system]]."
 

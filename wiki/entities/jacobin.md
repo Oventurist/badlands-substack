@@ -13,7 +13,7 @@ contested: false
 ---
 # Jacobin
 
-*Jacobin* is an American socialist magazine that publishes analysis of labor, politics, and the economy. In the Badlands Media article [[a-more-perfect-labor-union|A More Perfect (Labor) Union]], *Jacobin* is cited as a source documenting the [[cia|CIA]]'s partnership with the [[afl-cio|AFL-CIO]] — the so-called "AFL-CIA" relationship.
+*Jacobin* is an American socialist magazine that publishes analysis of labor, politics, and the economy. In the Badlands Media article A More Perfect (Labor) Union, *Jacobin* is cited as a source documenting the [[cia|CIA]]'s partnership with the [[afl-cio|AFL-CIO]] — the so-called "AFL-CIA" relationship.
 
 ## Cited in the article
 

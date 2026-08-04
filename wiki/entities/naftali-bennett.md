@@ -11,7 +11,7 @@ contested: true
 
 # Naftali Bennett
 
-Naftali Bennett is an Israeli politician and former prime minister who, in the July 27, 2026 [[badlands-brief-245|Badlands Brief]], is described as an opposition leader and the favorite to defeat [[benjamin-netanyahu|Benjamin Netanyahu]] in the upcoming October election.
+Naftali Bennett is an Israeli politician and former prime minister who, in the July 27, 2026 Badlands Brief, is described as an opposition leader and the favorite to defeat [[benjamin-netanyahu|Benjamin Netanyahu]] in the upcoming October election.
 
 ## Positioning relative to Netanyahu
 

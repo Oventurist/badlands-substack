@@ -10,7 +10,7 @@ contested: true
 ---
 # King George III
 
-George III was King of Great Britain during the American Revolution and the principal patron of the painter [[benjamin-west|Benjamin West]]. The Badlands Media essay [[a-new-american-renaissance|A New American Renaissance]] by [[matthew-ehret|Matthew Ehret]] argues against the "simplistic dopy evil image of the king that has been passed down to us through pop culture," presenting him instead as a divided figure.
+George III was King of Great Britain during the American Revolution and the principal patron of the painter [[benjamin-west|Benjamin West]]. The Badlands Media essay A New American Renaissance by [[matthew-ehret|Matthew Ehret]] argues against the "simplistic dopy evil image of the king that has been passed down to us through pop culture," presenting him instead as a divided figure.
 
 ## Relationship with West
 

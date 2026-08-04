@@ -10,7 +10,7 @@ contested: true
 ---
 # Sovereign Signal
 
-**Sovereign Signal** is a recurring interpretive term in the [[badlands-media|Badlands Media]] corpus, used most often on [[the-blitz|The Blitz]] to name the meaningful pattern the hosts claim to extract from the surrounding torrent of news. The formulation is built on the signal-versus-noise metaphor: in [[badlands-blitz-episode-5|Badlands Blitz Episode 5]] the host writes that he and co-host [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] "wade through the noise and find Sovereign Signal galore," with the parenthetical aside "(As if you're surprised.)" indicating that the discovery of such signal is a standing expectation of the program rather than an occasional finding.
+**Sovereign Signal** is a recurring interpretive term in the [[badlands-media|Badlands Media]] corpus, used most often on [[the-blitz|The Blitz]] to name the meaningful pattern the hosts claim to extract from the surrounding torrent of news. The formulation is built on the signal-versus-noise metaphor: in Badlands Blitz Episode 5 the host writes that he and co-host [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] "wade through the noise and find Sovereign Signal galore," with the parenthetical aside "(As if you're surprised.)" indicating that the discovery of such signal is a standing expectation of the program rather than an occasional finding.
 
 ## Usage
 

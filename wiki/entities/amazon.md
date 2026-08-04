@@ -14,7 +14,7 @@ Amazon is an American e-commerce and cloud computing corporation founded by [[je
 
 ## Market position and the Covid lockdowns
 
-Erik Carlson's [[america-has-a-cia-run-economy|America Has a CIA-Run Economy]] lists Amazon among the top five American companies by market capitalization in both 2020 and 2025. The essay argues that the consolidation of the American economy during Covid was designed rather than organic: smaller companies "went belly up while the mega corporations became even bigger." Carlson notes that some observers referred to the period as "the Amazon pandemic" because of the volume of business the company did during lockdowns and the market share it captured as smaller competitors failed.
+Erik Carlson's America Has a CIA Run Economy lists Amazon among the top five American companies by market capitalization in both 2020 and 2025. The essay argues that the consolidation of the American economy during Covid was designed rather than organic: smaller companies "went belly up while the mega corporations became even bigger." Carlson notes that some observers referred to the period as "the Amazon pandemic" because of the volume of business the company did during lockdowns and the market share it captured as smaller competitors failed.
 
 The article also places Amazon within its account of the origin mythology of big tech, alluding to the founder story of "a guy selling books online out of a small, one-person office" as one of the narratives constructed to obscure state involvement.
 

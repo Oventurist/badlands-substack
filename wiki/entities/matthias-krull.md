@@ -10,7 +10,7 @@ contested: true
 ---
 # Matthias Krull
 
-Matthias Krull is a private banker arrested in 2018 by the United States Department of Justice under [[donald-trump|President Trump]] for laundering money embezzled from Venezuela's state oil company, [[pdvsa|PDVSA]]. He appears in the January 19, 2026 [[badlands-brief-02a|Badlands Brief]] as the pivot of [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]]'s argument that the Venezuela operation is fundamentally an assault on the global banking system.
+Matthias Krull is a private banker arrested in 2018 by the United States Department of Justice under [[donald-trump|President Trump]] for laundering money embezzled from Venezuela's state oil company, [[pdvsa|PDVSA]]. He appears in the January 19, 2026 Badlands Brief as the pivot of [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]]'s argument that the Venezuela operation is fundamentally an assault on the global banking system.
 
 According to Ghost's account, Krull was laundering billions of dollars embezzled from PDVSA and was also laundering money for drug cartels. He pleaded guilty to all charges and agreed to cooperate fully in exchange for clemency on his ten-year prison sentence, ultimately having roughly 65% of it removed.
 

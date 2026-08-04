@@ -15,7 +15,7 @@ Steve Bannon is an American political strategist and media figure who served as 
 
 ## The 2018 text exchange with Jeffrey Epstein
 
-The February 17, 2026 [[badlands-brief-0a2|Badlands Brief]] reports, citing *The Independent*, that Bannon and [[jeffrey-epstein|Jeffrey Epstein]] discussed invoking the 25th Amendment against President Trump during Trump's first term. The exchange is dated to New Year's Eve 2018, shortly after control of the House of Representatives changed hands in the midterm elections. In the quoted messages, Bannon wrote, "Going to blow him up right out of the box–WH has zero plan to punch back–Fort Apache with no cavalry in sight…"; Epstein replied, "He is really borderline. Not sure what he may do."; and Bannon answered, "I think it's beyond borderline — 25 amendment."
+The February 17, 2026 Badlands Brief reports, citing *The Independent*, that Bannon and [[jeffrey-epstein|Jeffrey Epstein]] discussed invoking the 25th Amendment against President Trump during Trump's first term. The exchange is dated to New Year's Eve 2018, shortly after control of the House of Representatives changed hands in the midterm elections. In the quoted messages, Bannon wrote, "Going to blow him up right out of the box–WH has zero plan to punch back–Fort Apache with no cavalry in sight…"; Epstein replied, "He is really borderline. Not sure what he may do."; and Bannon answered, "I think it's beyond borderline — 25 amendment."
 
 The disclosure prompted widespread claims that Bannon had sought Trump's removal from office.
 
@@ -30,7 +30,7 @@ The commentator [[burning-bright|Burning Bright]] separately observed that Banno
 
 ## Defense of Joe Kent (March 2026)
 
-According to the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], [[joe-kent|Joe Kent]] became a nationally recognized figure by appearing on Bannon's *War Room* "countless times" during the Biden administration. After Kent resigned as director of the [[national-counterterrorism-center|National Counterterrorism Center]] over the [[iran|Iran]] war, Bannon defended him by citing his Middle East deployment history and called for an investigation into the claim in Kent's resignation letter that [[israel|Israel]] controls U.S. foreign policy. The Brief also reproduces a post by Bannon's social media liaison on the matter.
+According to the March 18, 2026 Badlands Brief, [[joe-kent|Joe Kent]] became a nationally recognized figure by appearing on Bannon's *War Room* "countless times" during the Biden administration. After Kent resigned as director of the [[national-counterterrorism-center|National Counterterrorism Center]] over the [[iran|Iran]] war, Bannon defended him by citing his Middle East deployment history and called for an investigation into the claim in Kent's resignation letter that [[israel|Israel]] controls U.S. foreign policy. The Brief also reproduces a post by Bannon's social media liaison on the matter.
 
 ## Sources
 

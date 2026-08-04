@@ -10,7 +10,7 @@ contested: false
 ---
 # Writers Guild of America
 
-The Writers Guild of America (WGA) is the labor union representing screenwriters in American film and television. It appears in the Badlands Media corpus principally in [[a-time-to-strike|A Time to Strike]] (October 11, 2023), which treats the guild's 2023 walkout against the studios as the opening act of that year's strike wave and as a test case for how organized labor confronts [[artificial-intelligence|artificial intelligence]].
+The Writers Guild of America (WGA) is the labor union representing screenwriters in American film and television. It appears in the Badlands Media corpus principally in A Time to Strike (October 11, 2023), which treats the guild's 2023 walkout against the studios as the opening act of that year's strike wave and as a test case for how organized labor confronts artificial intelligence.
 
 ## The 2023 strike and settlement
 

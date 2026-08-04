@@ -10,7 +10,7 @@ contested: false
 ---
 # American Postal Workers Union
 
-The American Postal Workers Union (APWU) is the labor union representing employees of the [[united-states-postal-service|United States Postal Service]]. In [[a-seismic-shift|A Seismic Shift]], the union appears through its president, [[mark-dimondstein|Mark Dimondstein]], who authored an opinion piece in The Hill arguing for the revival and expansion of postal banking.
+The American Postal Workers Union (APWU) is the labor union representing employees of the [[united-states-postal-service|United States Postal Service]]. In A Seismic Shift, the union appears through its president, [[mark-dimondstein|Mark Dimondstein]], who authored an opinion piece in The Hill arguing for the revival and expansion of postal banking.
 
 The union's position, as presented in the article, is that the banking system's existence depends entirely on federal support — deposit insurance, loan guarantees and interest-rate setting — and that the history of the [[postal-savings-system|Postal Savings System]] should therefore be the starting point for any debate about the future of American banking. Dimondstein describes postal banking as an essential public service and "an old idea whose time has come again," and extends the argument to the creation of [[fedaccounts|FedAccounts]] at the [[federal-reserve|Federal Reserve]] for individuals and small businesses.
 

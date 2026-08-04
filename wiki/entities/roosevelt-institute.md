@@ -10,7 +10,7 @@ contested: false
 ---
 # Roosevelt Institute
 
-The Roosevelt Institute is an American progressive think tank. In [[a-seismic-shift|A Seismic Shift]] it is cited as the principal source for the history of the [[postal-savings-system|Postal Savings System]], through its 2022 report "Banking for All."
+The Roosevelt Institute is an American progressive think tank. In A Seismic Shift it is cited as the principal source for the history of the [[postal-savings-system|Postal Savings System]], through its 2022 report "Banking for All."
 
 The quoted passages establish three points used by [[joe-lange|Joe Lange]]. First, that during much of the twentieth century Americans without access to traditional banks did not need to rely on predatory nonbank businesses, because for more than fifty years the United States operated "a hugely popular and secure public option through the Postal Service" — created in 1911, before the [[federal-reserve|Federal Reserve]] was founded — which relied on local banks to manage accounts and allowed all Americans to make deposits into no-cost savings accounts at post offices, with deposits earning interest and the original $500 limit raised to $2,500 by 1918.
 

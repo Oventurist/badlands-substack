@@ -10,7 +10,7 @@ contested: false
 ---
 # Patrick Gunnels
 
-Patrick Gunnels is a [[badlands-media|Badlands Media]] host and commentator. He is identified in [[anthony-fauci|J.B. White's December 2022 column]] as the co-host, alongside [[j-b-white|J.B. White]], of the Badlands programme Trash Talk.
+Patrick Gunnels is a [[badlands-media|Badlands Media]] host and commentator. He is identified in J.B. White's December 2022 column as the co-host, alongside [[j-b-white|J.B. White]], of the Badlands programme Trash Talk.
 
 ## Reading Epic Threads
 

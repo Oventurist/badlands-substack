@@ -14,7 +14,7 @@ The United States Secret Service is the federal agency responsible for the prote
 
 ## Aftermath of the Butler attempt
 
-The Badlands Media essay [[a-week-to-remember|A Week to Remember]] describes the institutional fallout in the days after the shooting. Its director, [[kimberly-cheatle|Kimberly Cheatle]], appeared before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]] roughly ten days after the attempt, and resigned the following day.
+The Badlands Media essay A Week to Remember describes the institutional fallout in the days after the shooting. Its director, [[kimberly-cheatle|Kimberly Cheatle]], appeared before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]] roughly ten days after the attempt, and resigned the following day.
 
 The article draws particular attention to Cheatle's remark during that hearing that Representative [[sheila-jackson-lee|Sheila Jackson Lee]], who had died days earlier, "was engaged in oversight of the Secret Service." [[erik-carlson|Erik Carlson]] uses this detail to raise questions about the relationship between the agency's congressional oversight, the failure at Butler, and the rapid sequence of deaths and resignations that followed. The essay does not otherwise examine the Secret Service's operational conduct on the day of the rally.
 

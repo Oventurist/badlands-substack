@@ -14,7 +14,7 @@ contested: true
 
 ## The argument
 
-In the July 10, 2026 [[badlands-brief-0bd|Badlands Brief "Mossad Bait & Labor Tackles"]], Burning Bright observes that US stock futures rose and oil prices fell despite renewed US strikes on [[iran|Iranian]] targets and Iranian retaliation against US facilities in the Gulf, with concerns easing over disruption to the [[strait-of-hormuz|Strait of Hormuz]]. He calls this "actually shocking," noting that only three months earlier "every Truth Social post by Trump was being met with 72 hours of total market chaos."
+In the July 10, 2026 Badlands Brief "Mossad Bait & Labor Tackles", Burning Bright observes that US stock futures rose and oil prices fell despite renewed US strikes on [[iran|Iranian]] targets and Iranian retaliation against US facilities in the Gulf, with concerns easing over disruption to the [[strait-of-hormuz|Strait of Hormuz]]. He calls this "actually shocking," noting that only three months earlier "every Truth Social post by Trump was being met with 72 hours of total market chaos."
 
 His explanation is that Trump is "increasingly forcing futures markets and oil markets to price in ACTUALS" — supply and demand dynamics rather than "the STORIES about those things." By "crying wolf on war AND peace every week for six months," Trump and what the author calls the so-called Iranian Regime have placed the collective Mindscape, and the markets that derive their financial value from it, "in a clarifying pincer." He adds that the resulting "unstable stability" probably also owes something to Trump's direct threats against the US oil cartel.
 

@@ -11,7 +11,7 @@ contested: false
 
 # Austin Tucker Martin
 
-Austin Tucker Martin was a 21-year-old man from North Carolina who, according to the February 24, 2026 [[badlands-brief-285|Badlands Brief]], breached the secure perimeter of President [[donald-trump|Donald Trump]]'s [[mar-a-lago|Mar-a-Lago]] resort in Palm Beach, Florida while armed, and was shot and killed by law enforcement.
+Austin Tucker Martin was a 21-year-old man from North Carolina who, according to the February 24, 2026 Badlands Brief, breached the secure perimeter of President [[donald-trump|Donald Trump]]'s [[mar-a-lago|Mar-a-Lago]] resort in Palm Beach, Florida while armed, and was shot and killed by law enforcement.
 
 ## The incident
 

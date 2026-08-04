@@ -11,7 +11,7 @@ contested: true
 
 # Ibrahim Traoré
 
-Captain Ibrahim Traoré is the military leader of [[burkina-faso|Burkina Faso]] and one of the figures the [[badlands-brief|Badlands Brief]] treats as a credible voice against Western intelligence operations in Africa.
+Captain Ibrahim Traoré is the military leader of [[burkina-faso|Burkina Faso]] and one of the figures the Badlands Brief treats as a credible voice against Western intelligence operations in Africa.
 
 ## Chemical poisoning allegation
 
