@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [first-lady, artificial-intelligence, white-house, critical-thinking]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md]
 confidence: high
 contested: false
 ---
@@ -18,4 +18,7 @@ The January 19, 2026 [[badlands-brief-02a|Badlands Brief]] reports that the Offi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

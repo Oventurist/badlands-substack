@@ -1,10 +1,10 @@
 ---
 title: "Democratic Republic of the Congo"
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-03
 type: entity
 tags: [africa, minerals, m23, conflict, sovereign-alliance]
-sources: [raw/badlands-brief-1ce.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-2c5.md]
 confidence: high
 contested: false
 ---
@@ -29,4 +29,7 @@ GhostofBasedPatrickHenry links the Congolese situation to broader minerals reali
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ce)
+This page draws on multiple source articles:
+
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)

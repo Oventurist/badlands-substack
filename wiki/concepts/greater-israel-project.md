@@ -1,10 +1,10 @@
 ---
 title: Greater Israel Project
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [israel, middle-east, geopolitics, regime-change]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ The article does not develop the concept at length, treating it instead as one o
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/assad-day-in-damascus)
+This page draws on multiple source articles:
+
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

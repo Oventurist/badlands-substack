@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [cuba, communism, latin-america, politics]
-sources: [raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-2c5.md]
 confidence: medium
 contested: false
 ---
@@ -17,4 +17,7 @@ In the March 16, 2026 [[badlands-brief|Badlands Brief]], Raul Castro appears ind
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-095)
+This page draws on multiple source articles:
+
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)

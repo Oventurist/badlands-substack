@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [gaza, israel-palestine, ceasefire, hamas, board-of-peace]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md]
 confidence: high
 contested: false
 ---
@@ -18,4 +18,7 @@ Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] adds th
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

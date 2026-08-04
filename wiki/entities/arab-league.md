@@ -1,10 +1,10 @@
 ---
 title: Arab League
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [middle-east, international-organizations, arabia]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: false
 ---
@@ -16,4 +16,7 @@ The map is presented as deliberately simplified and admittedly biased by the aut
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/arabian-nights)
+This page draws on multiple source articles:
+
+- [arabian nights](https://badlands.substack.com/p/arabian-nights)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

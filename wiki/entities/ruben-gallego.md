@@ -1,10 +1,10 @@
 ---
 title: Ruben Gallego
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [person, arizona, democrat, congress, 2022-midterms]
-sources: [raw/arizona-earthquake.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ Gallego defeated Zink in the [[2022-united-states-midterm-elections|2022 midterm
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/arizona-earthquake)
+This page draws on multiple source articles:
+
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

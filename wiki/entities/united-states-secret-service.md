@@ -1,10 +1,10 @@
 ---
 title: United States Secret Service
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [agency, security, oversight, protective-detail]
-sources: [raw/a-week-to-remember.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-285.md]
 confidence: high
 contested: false
 ---
@@ -20,4 +20,7 @@ The article draws particular attention to Cheatle's remark during that hearing t
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-week-to-remember)
+This page draws on multiple source articles:
+
+- [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

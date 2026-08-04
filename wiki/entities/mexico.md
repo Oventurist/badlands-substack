@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [mexico, cartels, border-security, latin-america, deep-state]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: true
 ---
@@ -31,4 +31,7 @@ The [[sinaloa-cartel|Sinaloa Cartel]] is described in the same edition as the pr
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

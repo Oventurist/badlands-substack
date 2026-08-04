@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [ngo, civil-society, hate-group-designation, accountability, indictment]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-2c0.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-2c0.md, raw/badlands-brief-2c5.md]
 confidence: medium
 contested: true
 ---
@@ -34,3 +34,4 @@ This page draws on multiple source articles:
 
 - [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
 - [badlands brief 2c0](https://badlands.substack.com/p/badlands-brief-2c0)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)

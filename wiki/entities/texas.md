@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [texas, us-states, elections, redistricting]
-sources: [raw/badlands-brief-174.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-2c5.md]
 confidence: high
 contested: true
 ---
@@ -19,4 +19,7 @@ Badlands contributor [[ashe-in-america|Ashe in America]] read the results as evi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-174)
+This page draws on multiple source articles:
+
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)

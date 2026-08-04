@@ -1,10 +1,10 @@
 ---
 title: Bitcoin
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [cryptocurrency, blockchain, decentralization, financial-system]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: true
 ---
@@ -39,3 +39,4 @@ This page draws on multiple source articles:
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 - [are we being distracted](https://badlands.substack.com/p/are-we-being-distracted)
 - [are we entering the millennial reign](https://badlands.substack.com/p/are-we-entering-the-millennial-reign)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [antiwar-movement, activists, codepink, foreign-funding]
-sources: [raw/badlands-brief-169.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-2c5.md]
 confidence: medium
 contested: true
 ---
@@ -19,4 +19,7 @@ Medea Benjamin is an American anti-war activist and a co-founder of [[codepink|C
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-169)
+This page draws on multiple source articles:
+
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)

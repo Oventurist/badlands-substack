@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [republican-party, texas, us-senate, 2026-elections]
-sources: [raw/badlands-brief-174.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-2c5.md]
 confidence: high
 contested: false
 ---
@@ -17,4 +17,7 @@ John Cornyn is the long-serving Republican United States Senator from [[texas|Te
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-174)
+This page draws on multiple source articles:
+
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)

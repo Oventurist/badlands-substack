@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [person, congress, speaker, republicans]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: true
 ---
@@ -20,3 +20,4 @@ This page draws on multiple source articles:
 
 - [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

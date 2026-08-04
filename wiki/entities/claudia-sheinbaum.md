@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [mexico, cartels, deep-state, latin-america]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: true
 ---
@@ -31,4 +31,7 @@ The same edition notes what it calls an "interesting wrinkle": Sheinbaum's publi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

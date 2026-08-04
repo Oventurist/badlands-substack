@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [israel, israeli-politics, palestine, elections]
-sources: [raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: true
 ---
@@ -23,4 +23,7 @@ The Brief cites an interview in which Bennett describes himself as "ten degrees 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-245)
+This page draws on multiple source articles:
+
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

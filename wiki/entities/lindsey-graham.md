@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [senator, republican, south-carolina, foreign-policy]
-sources: [raw/badlands-brief-029.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,8 @@ Lindsey Graham is the senior United States Senator from South Carolina, a Republ
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-029)
+This page draws on multiple source articles:
+
+- [badlands brief 029](https://badlands.substack.com/p/badlands-brief-029)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

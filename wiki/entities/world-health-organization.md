@@ -1,10 +1,10 @@
 ---
 title: World Health Organization
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [international-organization, public-health, globalism, covid-19]
-sources: [raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md]
 confidence: medium
 contested: true
 ---
@@ -16,4 +16,7 @@ In [[ai-can-help-us-expose-the-nwo|AI Can Help Us Expose the NWO]], [[justin-des
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+This page draws on multiple source articles:
+
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)

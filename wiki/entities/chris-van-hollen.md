@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [senate, democratic-party, maryland, epstein, oversight]
-sources: [raw/badlands-brief-05f.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md]
 confidence: high
 contested: false
 ---
@@ -16,4 +16,7 @@ The February 11, 2026 [[badlands-brief-05f|Badlands Brief]] names Van Hollen amo
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

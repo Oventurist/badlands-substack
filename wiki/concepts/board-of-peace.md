@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [gaza, ceasefire, governance, trump-administration, davos]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-285.md]
 confidence: medium
 contested: false
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

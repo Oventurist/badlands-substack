@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [california, governor, election-law, taxation, democratic-party]
-sources: [raw/badlands-brief-257.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-brief-285.md]
 confidence: high
 contested: false
 ---
@@ -25,4 +25,7 @@ The Brief's commentary characterized the proposal as self-refuting: if a Califor
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-257)
+This page draws on multiple source articles:
+
+- [badlands brief 257](https://badlands.substack.com/p/badlands-brief-257)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)

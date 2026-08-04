@@ -1,10 +1,10 @@
 ---
 title: Mar-a-Lago
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [place, florida, trump, campaign]
-sources: [raw/all-assets-deployed.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md]
 confidence: high
 contested: false
 ---
@@ -20,4 +20,8 @@ The essay characterizes the speech as containing no "massive BOOMs" but several 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/all-assets-deployed)
+This page draws on multiple source articles:
+
+- [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
