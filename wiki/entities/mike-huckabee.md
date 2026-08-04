@@ -1,10 +1,10 @@
 ---
 title: Mike Huckabee
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [israel, diplomacy, us-foreign-policy, christian-zionism]
-sources: [raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md]
 confidence: medium
 contested: true
 ---
@@ -23,6 +23,14 @@ A US Embassy spokesperson responded that Huckabee's comments did not reflect any
 
 [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues that the co-signed Saudi statement, which he describes as endorsed by states from every continent and by members of NATO, [[brics|BRICS]], the EU, the Arab League, the Organization of Islamic Cooperation, and the Shanghai Cooperation Organization, shows that Huckabee "has succeeded not only in uniting the Muslim World, but what seems like the entire free world, against Israel." He treats the episode as evidence of the [[greater-israel-project|Greater Israel]] concept moving from fringe rhetoric into open diplomatic speech, noting that Israeli opposition leader [[yair-lapid|Yair Lapid]] separately expressed sympathy in Hebrew for the vision Huckabee described.
 
+
+## Criticism over attacks on Christians in Israel
+
+The May 1, 2026 [[badlands-brief-579|Badlands Brief]] sharply criticized Huckabee's handling of reported violence against Christians in Israel and the [[west-bank|West Bank]]. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] wrote that for months Huckabee had been "trotted out by the Israelis" to deny that such attacks were occurring at all, and predicted he would continue to ignore mounting evidence — including the assault on a French nun at a Jerusalem biblical site — calling him "a tremendous coward who is devoid of any principles" who had "chosen to turn his back on Jesus and on America." The criticism formed part of a wider Badlands argument about [[jewish-terrorism|Jewish terrorism]] and the silence of [[christian-zionism|Christian Zionist]] officials.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-285)
+This page draws on multiple source articles:
+
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)

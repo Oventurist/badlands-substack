@@ -1,10 +1,10 @@
 ---
 title: Operation Epic Fury
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-05
 type: concept
 tags: [iran-war, military-operation, israel, regime-change]
-sources: [raw/badlands-brief-52f.md]
+sources: [raw/badlands-brief-52f.md, raw/badlands-brief-579.md]
 confidence: medium
 contested: true
 ---
@@ -25,6 +25,14 @@ Iran responded with missile and drone attacks on US and allied positions across 
 
 The Brief also notes speculation, drawing on remarks by retired Israeli general [[benny-gantz|Benny Gantz]], that a ground invasion by Israel or the United States remains possible, potentially via the [[davids-corridor|David's Corridor]] route and with [[kurds|Kurdish]] assistance.
 
+
+## Energy objectives and the end of OPEC
+
+The May 1, 2026 [[badlands-brief-579|Badlands Brief]] framed the disintegration of [[opec|OPEC]] as an explicit geopolitical objective of Epic Fury. Reporting on the [[united-arab-emirates|United Arab Emirates]]' exit from the cartel that day, the Brief argued that the operation's aims extended beyond military pressure to breaking [[iran|Iran]]'s leverage, weakening cartel coordination among oil producers, and driving postwar oil prices lower. Analysts noted that once Gulf exports normalize after the [[strait-of-hormuz|Strait of Hormuz]] theater resolves, the UAE would be free to ramp production outside quota limits, potentially forcing [[saudi-arabia|Saudi Arabia]] into a market-share fight. Contributor [[burning-bright|Burning Bright]] presented this as part of a broader program of sovereign disentanglement from the [[global-cartel|Global Cartel]].
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-52f)
+This page draws on multiple source articles:
+
+- [badlands brief 52f](https://badlands.substack.com/p/badlands-brief-52f)
+- [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)

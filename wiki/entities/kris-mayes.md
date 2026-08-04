@@ -1,10 +1,10 @@
 ---
 title: Kris Mayes
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-05
 type: entity
 tags: [person, arizona, democrat, attorney-general, 2022-midterms]
-sources: [raw/arizona-earthquake.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-58d.md]
 confidence: medium
 contested: false
 ---
@@ -18,6 +18,17 @@ As of the December 5, 2022 certification of the [[2022-united-states-midterm-ele
 
 The Badlands Media article [[arizona-earthquake|"Arizona Earthquake!"]], citing *The Hill*, treats Mayes's lead as provisional and predicts that Hamadeh will prevail once the recount is complete.
 
+## The 2020 electors prosecution
+
+As attorney general, Mayes pursued criminal charges against Arizona's alternate Republican electors from the [[2020-united-states-presidential-election|2020 presidential election]]. A judge dismissed the resulting indictment after finding that prosecutors had failed to present the grand jury with the precise statutory language tied to the alleged conduct.
+
+The June 5, 2026 [[badlands-brief-58d|Badlands Brief]] reports that after the [[arizona-supreme-court|Arizona Supreme Court]] rejected an appeal in the case, Mayes announced plans to seek a new indictment and restart the prosecution. Her spokesperson Richie Taylor said, "The Arizona Attorney General's Office will return this case to the grand jury," declining to comment further.
+
+Badlands contributor [[ashe-in-america|Ashe in America]] characterized the decision as "a regime puppet outing themselves," arguing that Mayes is "doubling down on weaponized government at a time when weaponized government is more acknowledged than ever." She contends that a majority of the electoral franchise no longer believes the 2020 vote totals were genuine, and that on those grounds the conduct of the so-called "fake electors" was justifiable.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/arizona-earthquake)
+This page draws on multiple source articles:
+
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)
+- [badlands brief 58d](https://badlands.substack.com/p/badlands-brief-58d)

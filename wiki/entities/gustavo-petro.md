@@ -1,10 +1,10 @@
 ---
 title: Gustavo Petro
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [colombia, assassination-attempt, cartels, sovereign-alliance, venezuela]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-579.md]
 confidence: high
 contested: false
 ---
@@ -22,6 +22,13 @@ Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] writes 
 
 At the same press conference Petro called out the Colombian billionaire banker [[luis-carlos-sarmiento|Luis Carlos Sarmiento]], worth roughly $10 billion, telling him he could "go F yourself" if he intended to stand in the way of a pipeline project with Venezuela that Petro had discussed with Trump. The author calls Petro "just about the most flippantly defiant world leader since… Nicolas Maduro," and casts him as an example of the "benevolent strongmen" who, in his framing, will form the patchwork of the [[sovereign-alliance|Sovereign Alliance]] and the foundation for the [[global-golden-age|Golden Age]].
 
+
+## Vindication narrative after the Sinaloa indictments
+
+Following the May 1, 2026 US indictment of the governor of Sinaloa and nine other Mexican officials, the [[badlands-brief-579|Badlands Brief]] argued that Petro's long-standing warnings about Mexico had been vindicated. The Brief recalled that a year earlier, at a press conference with his generals, Petro accused the [[sinaloa-cartel|Sinaloa Cartel]] of running the [[national-liberation-army|National Liberation Army]] (ELN) and other armed groups in [[colombia|Colombia]] to secure cocaine smuggling routes into [[mexico|Mexico]], describing Sinaloa as the "head of the snake" of the Colombian drug trade.
+
+Petro subsequently disclosed that he and [[nicolas-maduro|Nicolás Maduro]] had discussed a joint military operation against the cartels, and according to the Brief he raised the idea with President [[donald-trump|Donald Trump]] during a White House visit in February 2026 — encouraging the United States to lead an effort targeting not only the Sinaloa Cartel and jungle militant groups but also the bankers laundering their money. Badlands commentary cites this sequence as support for its theory that Petro is a "white hat" cooperating with Trump against the transnational cartel.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -32,3 +39,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
+- [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)

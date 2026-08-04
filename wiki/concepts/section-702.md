@@ -1,10 +1,10 @@
 ---
 title: Section 702
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-05
 type: concept
 tags: [surveillance, fisa, civil-liberties, congress]
-sources: [raw/badlands-brief-07c.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-579.md]
 confidence: medium
 contested: true
 ---
@@ -20,6 +20,16 @@ The push is described as colliding with bipartisan resistance. Civil-liberties a
 
 The Brief notes that Trump's position marks a sharp reversal from his earlier criticism of FISA authorities, and that the renewal debate proceeds amid unresolved concerns over past misuse, including improper surveillance of Americans and political figures.
 
+
+## 45-day extension (May 2026)
+
+The May 1, 2026 [[badlands-brief-579|Badlands Brief]] reported that the House and Senate approved a 45-day extension of Section 702, preserving the federal government's warrantless surveillance authority just hours before it was set to expire. The stopgap followed the Senate's rejection of a House-passed three-year extension that had included a [[central-bank-digital-currency|central bank digital currency]] ban drawing bipartisan opposition. The short-term measure passed 261-111 and went to President [[donald-trump|Donald Trump]] for signature.
+
+Badlands contributor [[ashe-in-america|Ashe in America]] focused less on the surveillance authority than on the CBDC provision, questioning why a Republican-controlled House would attempt to attach a central bank digital currency to a Department of Homeland Security funding package after Trump had promised there would never be one, and characterizing [[congress|Congress]] as illegitimate usurpers whose actions contradict the will of their constituents.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-07c)
+This page draws on multiple source articles:
+
+- [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)

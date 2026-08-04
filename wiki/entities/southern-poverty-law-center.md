@@ -1,10 +1,10 @@
 ---
 title: Southern Poverty Law Center
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-05
 type: entity
 tags: [ngo, civil-society, hate-group-designation, accountability, indictment]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-2c0.md, raw/badlands-brief-2c5.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-2c0.md, raw/badlands-brief-2c5.md, raw/badlands-brief-579.md]
 confidence: medium
 contested: true
 ---
@@ -28,6 +28,11 @@ The updated indictment reportedly removes language referring to "false or mislea
 
 In commentary accompanying that report, Ashe in America speculates about whether the SPLC was involved in the staged cross burning that preceded the 2023 election of [[yemi-mobolade|Yemi Mobolade]] as mayor of [[colorado-springs|Colorado Springs]], arguing that "when supply for racism outweighed demand, racism had to be manufactured." She further states that she and her colleagues are tracking the SPLC connections of the people and entities that filed what she calls fabricated claims under the [[ku-klux-klan-act-of-1871|Ku Klux Klan Act]] against them in 2022, and proposes reviving the common-law offense of [[barratry|barratry]] "beginning with the SPLC and their collaborators."
 
+
+## Asset manager donation freeze (May 2026)
+
+The May 1, 2026 [[badlands-brief-579|Badlands Brief]] reported that [[fidelity-investments|Fidelity Investments]] and [[vanguard-group|Vanguard Group]] had paused charitable contributions to the SPLC following a federal indictment involving an individual allegedly connected to the organization. The SPLC itself had not been charged as an organization, but the association prompted a reassessment by donors wary of legal and public-relations fallout. The Brief characterized the freeze as a signal of reputational-risk concern among major financial institutions and suggested broader implications as large asset managers face pressure to justify both their political neutrality and their charitable affiliations.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +40,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 14](https://badlands.substack.com/p/badlands-blitz-episode-14)
 - [badlands brief 2c0](https://badlands.substack.com/p/badlands-brief-2c0)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
