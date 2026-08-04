@@ -1,10 +1,10 @@
 ---
 title: Lauren Boebert
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [colorado, republican-party, congress, primary-elections]
-sources: [raw/badlands-brief-311.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md]
 confidence: medium
 contested: true
 ---
@@ -19,4 +19,7 @@ In the May 20, 2026 [[badlands-brief-311|Badlands Brief]], [[ashe-in-america|Ash
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-311)
+This page draws on multiple source articles:
+
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 52f](https://badlands.substack.com/p/badlands-brief-52f)

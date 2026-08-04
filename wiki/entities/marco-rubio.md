@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-04
 type: entity
 tags: [state-department, trump-administration, diplomacy, israel]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md]
 confidence: high
 contested: false
 ---
@@ -35,3 +35,4 @@ This page draws on multiple source articles:
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)
+- [badlands brief 52f](https://badlands.substack.com/p/badlands-brief-52f)

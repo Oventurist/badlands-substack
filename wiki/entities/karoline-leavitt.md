@@ -1,10 +1,10 @@
 ---
 title: Karoline Leavitt
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-04
 type: entity
 tags: [white-house, press-secretary, trump-administration, elections]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-559.md]
 confidence: high
 contested: false
 ---
@@ -19,6 +19,11 @@ In the January 19, 2026 [[badlands-brief-02a|Badlands Brief]], Leavitt is report
 
 In the March 18, 2026 [[badlands-brief-1cd|Badlands Brief]], White House Press Secretary Leavitt is reported to have rejected the claims in [[joe-kent|Joe Kent]]'s resignation letter — that [[iran|Iran]] posed no imminent threat and that the war was driven by [[israel|Israel]] and its American lobby — as "insulting and laughable."
 
+
+## March 2026: demand for an ABC News retraction
+
+In the March 13, 2026 [[badlands-brief-559|Badlands Brief]], Leavitt is reported to have called on [[abc|ABC News]] to retract earlier reporting that the [[fbi|FBI]] had warned of an Iranian drone attack on California in retaliation for US actions. ABC, citing law-enforcement sources, had reported that the FBI assessed Iran had considered or aspired to conduct drone attacks in California and that investigators were examining intelligence indicating Iran had explored launching drones from ships or other platforms near the US West Coast. Leavitt said the report was inaccurate and demanded a correction or retraction, arguing it misrepresented intelligence about potential Iranian retaliation. No attack occurred, and officials said monitoring of potential threats continued.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -26,3 +31,4 @@ This page draws on multiple source articles:
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)

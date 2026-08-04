@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-04
 type: entity
 tags: [military, israel, conscription, religion]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-50d.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md]
 confidence: medium
 contested: false
 ---
@@ -23,6 +23,13 @@ The Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] obs
 
 The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reproduces an IDF post announcing the killing of [[ali-larijani|Ali Larijani]], Secretary of the [[supreme-national-security-council|Supreme National Security Council]], together with the announcement that Basij commander [[gholamreza-soleimani|Gholamreza Soleimani]] had been eliminated in the same wave of strikes. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] observes that [[iran|Iran]] was not quick to affirm the IDF's claim and by many reports initially denied it.
 
+
+## March 2026: Sde Teiman prosecution dropped and strikes on Tehran
+
+The March 13, 2026 [[badlands-brief-559|Badlands Brief]] reports that Israeli military prosecutors dropped charges against several IDF soldiers accused of sexually assaulting a male Palestinian detainee at the [[sde-teiman|Sde Teiman]] facility, citing evidentiary issues after months of investigation. Commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] describes leaked security footage showing soldiers using ballistic shields to block camera views during the assault, official reports of sodomy with objects including a knife causing injuries requiring surgery, and the subsequent firing and prosecution of the IDF lawyers who leaked the material. When four soldiers were arrested, settlers led by [[knesset|Knesset]] members and National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] stormed the base holding them, and IDF personnel had to repel them physically. Only [[meir-shitrit|Meir Shitrit]] appeared unmasked in the Israeli media coverage that followed.
+
+The same edition reports that the IDF said it struck dozens of sites in Tehran as part of a campaign to deepen the blow against the Iranian regime, while Iranian official [[ali-larijani|Ali Larijani]] said the war would not end until Iran's enemies were made "sorry for their grave miscalculation."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -32,3 +39,4 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
+- [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)

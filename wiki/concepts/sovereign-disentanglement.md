@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-04
 type: concept
 tags: [sovereignty, globalism, badlands-media, geopolitics, narrative-warfare]
-sources: [raw/badlands-blitz-episode-12.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md]
+sources: [raw/badlands-blitz-episode-12.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md, raw/badlands-brief-52f.md]
 confidence: medium
 contested: true
 ---
@@ -23,3 +23,4 @@ This page draws on multiple source articles:
 - [badlands blitz episode 12](https://badlands.substack.com/p/badlands-blitz-episode-12)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
+- [badlands brief 52f](https://badlands.substack.com/p/badlands-brief-52f)

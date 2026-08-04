@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-04
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md]
 confidence: medium
 contested: true
 ---
@@ -44,6 +44,15 @@ The February 12, 2026 [[badlands-brief-405|Badlands Brief]] reports that Netanya
 
 The Brief notes that Netanyahu has previously sought firm measures against Iranian nuclear weapons capability and that Israeli officials have raised concerns about Iran's ballistic missile program and support for regional armed groups — a position complicated the same week by [[ali-shamkhani|Ali Shamkhani]]'s statement that Iranian missile capabilities are "non-negotiable." [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] comments that after considerable build-up the meeting produced no video, photographs, announcement or formal statement, calling it a "tough look for Netanyahu," who "flew all that way and walked away with nothing," though he concludes that "no news is good news."
 
+
+## March 2026: pardon request and the Iran war
+
+The March 13, 2026 [[badlands-brief-559|Badlands Brief]] reports that the Israeli Justice Ministry unit responsible for reviewing clemency requests did not recommend granting Netanyahu a pardon, meaning any request would face internal opposition within the justice system. Netanyahu remained on trial for bribery, fraud, and breach of trust, charges he denies; Israeli law permits presidential pardons but typically after conviction rather than during an ongoing trial. In the same period Netanyahu said he did not know whether Iranians would overthrow their leadership and warned that Israel could target Iran's Supreme Leader if escalation continued, while Foreign Minister [[gideon-saar|Gideon Saar]] said only Iranians could bring down their government but might need outside help.
+
+[[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argued that the pending charges function as a Sword of Damocles forcing Netanyahu to press the [[greater-israel-project|Greater Israel]] agenda before an October election, since either territorial expansion or a victory over [[iran|Iran]] would secure his position. He contended Netanyahu was not winning: citing [[haaretz|Haaretz]], he reported that nearly a dozen Iranian smart missiles penetrated the [[iron-dome|Iron Dome]] and struck central Israel overnight, and that [[steve-witkoff|Steve Witkoff]] had reportedly sought a ceasefire from Iran on Israel's behalf only to be refused. The commentary concludes that Netanyahu can neither de-escalate nor effectively escalate — "Trump has put Bibi in check" — and raises the possibility of unconventional weapons or false flags in the United States.
+
+The same edition states that Netanyahu welcomed the dropping of charges against the [[israel-defense-forces|IDF]] soldiers accused of assaulting a Palestinian detainee at [[sde-teiman|Sde Teiman]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -63,3 +72,4 @@ This page draws on multiple source articles:
 - [badlands brief 405](https://badlands.substack.com/p/badlands-brief-405)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
+- [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)

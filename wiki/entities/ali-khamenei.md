@@ -1,10 +1,10 @@
 ---
 title: Ali Khamenei
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [person, iran, supreme-leader, ayatollah, geopolitics]
-sources: [raw/badlands-blitz-episode-12.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-blitz-episode-12.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-52f.md]
 confidence: medium
 contested: true
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 52f](https://badlands.substack.com/p/badlands-brief-52f)

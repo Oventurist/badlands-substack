@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-04
 type: entity
 tags: [fbi, record-labels, gangster-rap, cointelpro-style-operations]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,13 @@ The March 24, 2026 Badlands Brief, [[badlands-brief-50d|Alternative Annexations 
 
 The underlying lawsuit was filed in August 2025 after the Bureau failed to fulfill a June FOIA request, and also seeks internal communications involving Director [[kash-patel|Kash Patel]] and former Deputy Director [[dan-bongino|Dan Bongino]] about the discovery and handling of the records. [[ashe-in-america|Ashe in America]] characterized the episode as the FBI having "bought themselves another year of obstruction."
 
+
+## March 2026: Ecuador office and the California drone dispute
+
+The March 13, 2026 [[badlands-brief-559|Badlands Brief]] covers two FBI stories. The bureau opened its first office in [[ecuador|Ecuador]], embedding agents with a newly created unit of Ecuador's national police to work drug and weapons trafficking, money laundering, and terrorism-financing cases under President [[daniel-noboa|Daniel Noboa]]'s anti-crime campaign; interior minister [[john-reimberg|John Reimberg]] and Acting Chargé d'Affaires [[lawrence-petroni|Lawrence Petroni]] described the permanent presence as a milestone. [[ashe-in-america|Ashe in America]] traced the overseas posture to the Special Intelligence Service of 1940 and the Legal Attaché program of the 1980s, emphasizing that the FBI has no independent law-enforcement authority abroad and must work through host governments — which she read as evidence of continuity between the bureau and the [[cia|CIA]].
+
+Separately, White House press secretary [[karoline-leavitt|Karoline Leavitt]] demanded that [[abc|ABC News]] retract reporting that the FBI had warned Iran might launch drone attacks on California in retaliation for US strikes, calling the account an inaccurate characterization of the underlying intelligence.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -41,3 +48,4 @@ This page draws on multiple source articles:
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
+- [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
