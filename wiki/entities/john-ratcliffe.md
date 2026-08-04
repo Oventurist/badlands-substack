@@ -1,10 +1,10 @@
 ---
 title: John Ratcliffe
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [cia, intelligence, venezuela, diplomacy, trump-administration]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md]
 confidence: medium
 contested: false
 ---
@@ -18,4 +18,7 @@ According to CBS News reporting summarised in the Brief, Ratcliffe travelled to 
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

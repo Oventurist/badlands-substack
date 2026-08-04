@@ -1,10 +1,10 @@
 ---
 title: The Atlantic
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [outlet, magazine, mainstream-media, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md]
 confidence: medium
 contested: true
 ---
@@ -22,3 +22,4 @@ This page draws on multiple source articles:
 
 - [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

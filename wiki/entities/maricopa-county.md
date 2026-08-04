@@ -1,10 +1,10 @@
 ---
 title: Maricopa County
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-04
 type: entity
 tags: [arizona, county, elections, election-integrity, institution]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-brief-509.md]
 confidence: medium
 contested: true
 ---
@@ -34,9 +34,16 @@ Maricopa County is the focus of the December 2022 election litigation described 
 
 The complaint alleges that 59% of the county's 223 vote centers experienced printer and tabulator failures on Election Day, that at least 34 centers had breakdowns after 3 p.m., that hundreds of thousands of early ballots passed through [[runbeck-election-services|Runbeck Election Services]] without chain of custody, that signature verification standards were routinely reversed by supervising managers, and that 25,000 ballots were added to county totals after Election Day.
 
+## FBI investigation (2026)
+
+According to the March 10, 2026 [[badlands-brief-509|Badlands Brief]], the [[fbi|FBI]] obtained election-related records tied to Maricopa County as part of a federal criminal investigation into election administration running from 2020 through 2024. The records were obtained via a grand jury subpoena seeking "terabytes of data" and other materials connected to voting systems and election procedures; the scope of the subpoena and the specific materials obtained were not publicly disclosed.
+
+The Brief reports that the inquiry followed concerns raised by [[house-administration-committee|House Administration Committee]] observers who inspected the county's third-party ballot processing contractor, [[runbeck-election-services|Runbeck Election Services]], during the 2024 election, and that Rep. [[abe-hamadeh|Abe Hamadeh]] (R-AZ) had asked the [[department-of-justice|Department of Justice]] to investigate. President [[donald-trump|Donald Trump]] amplified the report on [[truth-social|Truth Social]] with the comment "Great!!!" Commentary by [[ashe-in-america|Ashe in America]] recalls a 2021 timeline she compiled of occasions on which the county obstructed the Maricopa audit, and concludes: "This conduct is now being investigated. We're closer than we've ever been."
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
 - [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)
+- [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)

@@ -1,10 +1,10 @@
 ---
 title: Taiwan
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [east-asia, maritime-disputes, china, geopolitics]
-sources: [raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md]
 confidence: high
 contested: false
 ---
@@ -19,4 +19,7 @@ Taiwan objected to a planned maritime delimitation negotiation between Japan and
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-25c)
+This page draws on multiple source articles:
+
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

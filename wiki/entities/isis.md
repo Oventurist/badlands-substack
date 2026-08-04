@@ -8,7 +8,7 @@ tags:
   - syria
   - iraq
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-1c6.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-brief-1c6.md, raw/badlands-brief-509.md]
 confidence: medium
 contested: true
 ---
@@ -22,9 +22,16 @@ The article asserts that [[benghazi|Benghazi]] became a training hub for ISIS fi
 
 According to the article, the entire operation was by design: arm and train terrorists, let them conquer territory, and use the resulting perpetual war as a mechanism for continued theft of taxpayer funds. The source claims that [[donald-trump|Donald Trump]] ended this dynamic by defeating ISIS and ending the wars, which is why the enemy views him as an existential threat.
 
+## 2026 US explosives prosecutions
+
+The March 10, 2026 [[badlands-brief-509|Badlands Brief]] reproduces a [[department-of-justice|Department of Justice]] announcement charging two ISIS supporters with attempting to detonate explosive devices during protests. Attorney General [[pam-bondi|Pamela Bondi]] described it as "an alleged ISIS-inspired act of terrorism that could have killed American citizens" and said the government "will not allow ISIS's poisonous, anti-American ideology to threaten this nation."
+
+Deputy Attorney General [[todd-blanche|Todd Blanche]] said the defendants "allegedly sought to inflict mass casualties in service to ISIS with the hope of exceeding the carnage of the Boston Marathon bombing," while [[fbi|FBI]] Director [[kash-patel|Kash Patel]] commended [[new-york-police-department|NYPD]] officers for preventing injuries or loss of life on the streets of New York. The Brief presents the case alongside the designation of [[afghanistan|Afghanistan]] as a [[state-sponsor-of-wrongful-detention|State Sponsor of Wrongful Detention]] under a heading asking whether the War on Terror is being "reloaded."
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [a conflict of interest](https://badlands.substack.com/p/a-conflict-of-interest)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)

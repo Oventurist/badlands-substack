@@ -7,7 +7,7 @@ tags:
   - middle-east
   - saudi-royal-family
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md]
 confidence: medium
 contested: true
 ---
@@ -53,3 +53,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

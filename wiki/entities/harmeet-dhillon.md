@@ -1,10 +1,10 @@
 ---
 title: Harmeet Dhillon
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [person, attorney, election-integrity, republican, civil-rights, department-of-justice]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md]
 confidence: medium
 contested: false
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 
 - [an sos from ground zero](https://badlands.substack.com/p/an-sos-from-ground-zero)
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

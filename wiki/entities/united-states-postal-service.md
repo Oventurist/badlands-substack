@@ -1,10 +1,10 @@
 ---
 title: United States Postal Service
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-04
 type: entity
 tags: [us-government, postal-service, public-banking, elections]
-sources: [raw/a-seismic-shift.md, raw/a-week-to-remember.md]
+sources: [raw/a-seismic-shift.md, raw/a-week-to-remember.md, raw/badlands-brief-323.md]
 confidence: medium
 contested: true
 ---
@@ -46,3 +46,4 @@ This page draws on multiple source articles:
 
 - [a seismic shift](https://badlands.substack.com/p/a-seismic-shift)
 - [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

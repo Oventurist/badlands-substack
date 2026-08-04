@@ -1,10 +1,10 @@
 ---
 title: "Cuba"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [cuba, latin-america, diplomacy, regime-change]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 257](https://badlands.substack.com/p/badlands-brief-257)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

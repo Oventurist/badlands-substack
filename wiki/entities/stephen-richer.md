@@ -1,10 +1,10 @@
 ---
 title: Stephen Richer
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-04
 type: entity
 tags: [person, arizona, maricopa-county, elections, republican]
-sources: [raw/arizona-earthquake.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-509.md]
 confidence: medium
 contested: true
 ---
@@ -22,4 +22,7 @@ The wider set of allegations in which Richer's office is implicated concerns ear
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/arizona-earthquake)
+This page draws on multiple source articles:
+
+- [arizona earthquake](https://badlands.substack.com/p/arizona-earthquake)
+- [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)

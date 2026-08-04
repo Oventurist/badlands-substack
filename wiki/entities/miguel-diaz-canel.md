@@ -1,10 +1,10 @@
 ---
 title: "Miguel Diaz-Canel"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [cuba, politics, diplomacy, latin-america]
-sources: [raw/badlands-brief-095.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-323.md]
 confidence: high
 contested: false
 ---
@@ -19,4 +19,7 @@ Badlands commentator [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] treated
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-095)
+This page draws on multiple source articles:
+
+- [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)

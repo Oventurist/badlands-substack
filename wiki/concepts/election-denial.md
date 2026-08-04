@@ -1,10 +1,10 @@
 ---
 title: Election Denial
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-04
 type: concept
 tags: [election-integrity, narrative-warfare, media-framing, badlands-media]
-sources: [raw/badlands-blitz-episode-17.md, raw/badlands-brief-174.md]
+sources: [raw/badlands-blitz-episode-17.md, raw/badlands-brief-174.md, raw/badlands-brief-323.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [badlands blitz episode 17](https://badlands.substack.com/p/badlands-blitz-episode-17)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
