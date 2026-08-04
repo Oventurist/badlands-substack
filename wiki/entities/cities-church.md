@@ -22,4 +22,7 @@ The January 23, 2026 Badlands Brief reports that Attorney General [[pam-bondi|Pa
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-144)
+This page draws on multiple source articles:
+
+- [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

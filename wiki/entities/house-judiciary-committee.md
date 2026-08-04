@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

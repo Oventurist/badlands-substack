@@ -22,4 +22,7 @@ The January 23, 2026 Badlands Brief reports that Blair was a named participant i
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-2)
+This page draws on multiple source articles:
+
+- [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

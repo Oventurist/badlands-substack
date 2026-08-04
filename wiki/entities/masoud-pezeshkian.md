@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

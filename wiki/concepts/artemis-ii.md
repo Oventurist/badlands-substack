@@ -29,4 +29,7 @@ The Badlands Brief of April 2, 2026 reports the launch of Artemis II on the even
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-282)
+This page draws on multiple source articles:
+
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

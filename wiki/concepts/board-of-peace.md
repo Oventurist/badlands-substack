@@ -45,3 +45,4 @@ This page draws on multiple source articles:
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

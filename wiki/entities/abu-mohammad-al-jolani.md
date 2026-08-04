@@ -26,4 +26,7 @@ The January 23, 2026 Badlands Brief reports that Saudi Arabia and Turkey had jus
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/assad-day-in-damascus)
+This page draws on multiple source articles:
+
+- [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

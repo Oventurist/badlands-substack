@@ -22,4 +22,7 @@ The January 23, 2026 Badlands Brief reports that the [[house-committee-on-oversi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-414)
+This page draws on multiple source articles:
+
+- [badlands brief 414](https://badlands.substack.com/p/badlands-brief-414)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

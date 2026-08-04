@@ -102,3 +102,4 @@ This page draws on multiple source articles:
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

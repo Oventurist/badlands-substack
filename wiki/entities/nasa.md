@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

@@ -20,4 +20,7 @@ The January 23, 2026 Badlands Brief quotes Badlands contributor [[ghost-of-based
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+This page draws on multiple source articles:
+
+- [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

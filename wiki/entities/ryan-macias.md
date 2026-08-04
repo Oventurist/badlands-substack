@@ -23,4 +23,7 @@ The January 23, 2026 Badlands Brief adds a further Georgia detail to Macias's fi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-314)
+This page draws on multiple source articles:
+
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

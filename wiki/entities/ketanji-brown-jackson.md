@@ -21,4 +21,7 @@ The Badlands Brief of April 2, 2026 reports that during oral argument in [[trump
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-174)
+This page draws on multiple source articles:
+
+- [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

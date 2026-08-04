@@ -43,3 +43,4 @@ This page draws on multiple source articles:
 
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

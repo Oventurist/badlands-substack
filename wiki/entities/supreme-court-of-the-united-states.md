@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [institution, judiciary, case-law, federalism]
-sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-686.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-686.md, raw/badlands-brief-6a1.md]
 confidence: high
 contested: false
 ---
@@ -30,6 +30,12 @@ In "Are Jack Smith and Fani Willis in on the Plan?" the Court is presented as a 
 
 The Badlands Brief of April 2, 2026 reports that the Court heard oral arguments in [[trump-v-barbara|Trump v. Barbara]], the legal challenge to President [[donald-trump|Donald Trump]]'s executive order seeking to limit birthright citizenship. The order interprets the [[fourteenth-amendment|Fourteenth Amendment]]'s Citizenship Clause as guaranteeing citizenship only to persons born in the United States and "subject to the jurisdiction thereof." Lower federal courts had blocked the order, finding that the Constitution's text and long-standing precedent — principally [[united-states-v-wong-kim-ark|United States v. Wong Kim Ark]] — protect birthright citizenship regardless of parents' immigration status. Legal analysts cited in the coverage said overturning or narrowing that precedent would require the Court to reinterpret more than a century of constitutional law, and noted the conservative majority's willingness to revisit precedent in other areas while immigration and constitutional-text cases have produced mixed outcomes.
 
+## End of the 2025–26 term: the Carter Page denial and the six-person jury grant (June 2026)
+
+The Badlands Brief of June 16, 2026 covers the Court in two capacities. First, it declined to revive [[carter-page|Carter Page]]'s lawsuit against the [[fbi|FBI]]. Page, a former [[donald-trump|Trump]] campaign adviser, had sought damages arising from surveillance conducted during the [[crossfire-hurricane|Crossfire Hurricane]] investigation, arguing that the government relied on flawed information in obtaining its FISA warrants; the denial leaves the lower-court rulings against him in place. [[ashe-in-america|Ashe in America]] frames the outcome as denying Page "a chance to argue again that the government was weaponized against him," while noting that it returns FISA abuse to public debate as [[congress|Congress]] struggles to pass a FISA extension.
+
+Second, citing SCOTUSblog, the Brief reports that as the Court entered the final weeks of its term — continuing to release major opinions while building next term's docket — it agreed on Monday to hear three new cases, including a challenge to whether the Constitution requires twelve-person juries in criminal trials. The case arises from Florida, one of six states that still permit smaller juries in certain criminal cases, and could prompt the Court to revisit [[williams-v-florida|*Williams v. Florida*]] (1970), which held that the [[sixth-amendment|Sixth Amendment]] does not require twelve jurors. Several current justices, [[neil-gorsuch|Neil Gorsuch]] among them, have signaled interest in reexamining that precedent on the ground that the Founding-era understanding of a jury may have required twelve members. Argument is expected in the term beginning in October, with several high-profile decisions from the current term still pending — making the final weeks of June, in the Brief's description, one of the most closely watched periods on the Court's calendar.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -42,3 +48,5 @@ This page draws on multiple source articles:
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)

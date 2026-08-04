@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [a week to remember](https://badlands.substack.com/p/a-week-to-remember)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

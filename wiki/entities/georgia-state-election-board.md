@@ -22,4 +22,7 @@ Rossi's presentation centered on a report run at 12:06 p.m. and emailed at 12:13
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-05f)
+This page draws on multiple source articles:
+
+- [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

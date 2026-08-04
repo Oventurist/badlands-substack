@@ -69,3 +69,4 @@ This page draws on multiple source articles:
 - [bad actors](https://badlands.substack.com/p/bad-actors)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 52f](https://badlands.substack.com/p/badlands-brief-52f)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

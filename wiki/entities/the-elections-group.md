@@ -21,4 +21,7 @@ The January 23, 2026 Badlands Brief returns to the organization in the context o
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-314)
+This page draws on multiple source articles:
+
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

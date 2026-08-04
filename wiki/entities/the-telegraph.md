@@ -24,4 +24,7 @@ The Badlands Brief of April 2, 2026 reports that President [[donald-trump|Donald
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-143)
+This page draws on multiple source articles:
+
+- [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

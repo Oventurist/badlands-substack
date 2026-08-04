@@ -22,4 +22,7 @@ The January 23, 2026 Badlands Brief reports that Faisal bin Farhan appeared on s
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ae)
+This page draws on multiple source articles:
+
+- [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

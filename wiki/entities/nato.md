@@ -73,3 +73,4 @@ This page draws on multiple source articles:
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

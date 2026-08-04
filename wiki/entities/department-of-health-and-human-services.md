@@ -23,4 +23,7 @@ The January 23, 2026 Badlands Brief reports that the United States officially wi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

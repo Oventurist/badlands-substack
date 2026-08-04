@@ -42,3 +42,4 @@ This page draws on multiple source articles:
 - [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

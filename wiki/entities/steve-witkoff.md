@@ -25,4 +25,7 @@ The January 23, 2026 Badlands Brief reports that Witkoff was a named participant
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-169)
+This page draws on multiple source articles:
+
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

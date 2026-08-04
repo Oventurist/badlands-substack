@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [ai can help us expose the nwo](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

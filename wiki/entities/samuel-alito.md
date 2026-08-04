@@ -25,4 +25,7 @@ The Badlands Brief of April 2, 2026 quotes Alito's questioning during oral argum
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-169)
+This page draws on multiple source articles:
+
+- [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

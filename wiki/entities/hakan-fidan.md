@@ -25,4 +25,7 @@ The January 23, 2026 Badlands Brief reports that Fidan appeared on stage with Sa
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-52b)
+This page draws on multiple source articles:
+
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

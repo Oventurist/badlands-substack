@@ -120,3 +120,4 @@ This page draws on multiple source articles:
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

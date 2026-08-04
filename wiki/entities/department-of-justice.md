@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md]
 confidence: medium
 contested: true
 ---
@@ -56,6 +56,14 @@ The January 23, 2026 Badlands Brief reports that the Justice Department requeste
 
 The same edition reports that federal authorities, investigating potential civil rights and other charges, arrested Nekima Levy Armstrong and Chauntyll Louisa Allen in connection with the attack on [[cities-church|Cities Church]] in St. Paul, Minnesota, at the direction of Attorney General [[pam-bondi|Pam Bondi]], with [[homeland-security-investigations|Homeland Security Investigations]] and [[fbi|FBI]] agents executing the arrests. The DOJ's Civil Rights Division had previously opened the church investigation under the [[ku-klux-klan-act-of-1871|Ku Klux Klan Act]] and the FACE Act.
 
+## Multiple weaponization cases and the school board memo disclosures (June 2026)
+
+The Badlands Brief of June 16, 2026 groups four departmental developments of a single week under the heading "DOJ Pursuing Multiple Cases of Weaponization of Government." A federal judge overseeing the criminal case against former [[fbi|FBI]] Director [[james-comey|James Comey]] barred the filing of amicus briefs, limiting outside participation. The [[supreme-court-of-the-united-states|Supreme Court]] declined to revive [[carter-page|Carter Page]]'s lawsuit against the FBI over surveillance conducted during [[crossfire-hurricane|Crossfire Hurricane]], leaving lower-court rulings against him in place. California Governor [[gavin-newsom|Gavin Newsom]] announced that his state faces a Department investigation, which he called politically motivated, while the [[white-house|White House]] said there are multiple investigations into Newsom and his wife including as to their taxes.
+
+Fourth, newly released Department documents show internal concerns among officials regarding the 2021 memorandum that directed federal law-enforcement attention toward threats against school board members and educators. The records indicate that some officials raised questions about how the memo could affect parents speaking out at local school board meetings — an issue that became a major political controversy during the Biden administration.
+
+[[ashe-in-america|Ashe in America]] writes that "every one of these cases involves weaponized government," and draws a parallel between the school board disclosures and comparable recent reporting on the [[mar-a-lago-raid|Mar-a-Lago raid]], in which internal warnings were likewise said to have been raised and ignored. She concludes that "the public is prepped to realize weaponized government is a sweeping grand conspiracy, indeed. Maybe it has been for a long time." See [[weaponization-of-government|weaponization of government]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -76,3 +84,5 @@ This page draws on multiple source articles:
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)

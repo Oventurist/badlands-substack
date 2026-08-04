@@ -23,4 +23,7 @@ US Ambassador to Israel [[mike-huckabee|Mike Huckabee]] responded on X, rejectin
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-282)
+This page draws on multiple source articles:
+
+- [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

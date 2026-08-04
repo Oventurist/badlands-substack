@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

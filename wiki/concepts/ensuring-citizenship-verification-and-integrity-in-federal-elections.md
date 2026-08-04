@@ -28,4 +28,7 @@ The Badlands Brief of April 2, 2026 confirms the order was issued on Tuesday, Ma
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-323)
+This page draws on multiple source articles:
+
+- [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
+- [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)

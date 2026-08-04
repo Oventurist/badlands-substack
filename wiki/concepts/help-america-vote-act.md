@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 
 - [always fight back](https://badlands.substack.com/p/always-fight-back)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

@@ -53,3 +53,4 @@ This page draws on multiple source articles:
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)

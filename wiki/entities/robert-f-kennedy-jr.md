@@ -36,4 +36,7 @@ The January 23, 2026 Badlands Brief reports that Kennedy, as Health and Human Se
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+This page draws on multiple source articles:
+
+- [5gw counter offensive the censorship](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+- [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
