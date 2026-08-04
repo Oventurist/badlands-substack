@@ -28,9 +28,11 @@ OUTPUT_DIR = os.path.expanduser(f"~/AppData/Local/hermes/cron/output/{INGEST_ID}
 PROJ = "C:/Users/14053/hermes-projects/badlands-substack"
 LOG = os.path.join(PROJ, "logs", "ingest-timings.log")
 
-ARTICLE_RE = re.compile(r"Ingested \*\*([^*]+\.md)\*\*")
+ARTICLE_RE = re.compile(r"(?:Ingested|Ingest complete for) \*\*([^*]+\.md)\*\*")
 RAW_RE = re.compile(r"raw/([a-zA-Z0-9-]+\.md)")
+BACKTICK_RE = re.compile(r"`([a-zA-Z0-9-]+\.md)`")
 SILENT_RE = re.compile(r"^\[SILENT\]\s*$", re.M)
+FAILED_MARKERS = ("(FAILED)", "## Error")
 
 
 def fmt_hms(secs):
@@ -45,13 +47,19 @@ def article_of(path):
         txt = open(path, encoding="utf-8", errors="replace").read()
     except Exception:
         return ""
-    # Only the actual agent response matters — the prompt itself mentions
-    # "[SILENT]" as an instruction, which would otherwise be a false positive.
+    # Failed runs have no "## Response" section — only the prompt + an error.
+    # Scanning the whole file would match placeholder text from the prompt
+    # itself (e.g. "raw/ART.md" in the instructions), which is NOT an article.
+    if any(m in txt for m in FAILED_MARKERS) or "## Response" not in txt:
+        return "FAILED"
     resp = txt.split("## Response", 1)[-1]
     m = ARTICLE_RE.search(resp)
     if m:
         return m.group(1)
     m = RAW_RE.search(resp)
+    if m:
+        return m.group(1)
+    m = BACKTICK_RE.search(resp)
     if m:
         return m.group(1)
     return "SILENT" if SILENT_RE.search(resp) else ""
