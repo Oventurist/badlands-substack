@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [person, trump-administration, cbdc, crypto]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -24,3 +24,4 @@ This page draws on multiple source articles:
 
 - [are cbdcs the path to fear or freedom](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

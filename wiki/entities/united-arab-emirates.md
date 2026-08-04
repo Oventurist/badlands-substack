@@ -1,10 +1,10 @@
 ---
 title: United Arab Emirates
 created: 2026-08-03
-updated: 2026-08-06
+updated: 2026-08-03
 type: entity
 tags: [gulf-politics, geopolitics, middle-east, sovereign-alliance, diplomacy]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ce.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ce.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: false
 ---
@@ -25,3 +25,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

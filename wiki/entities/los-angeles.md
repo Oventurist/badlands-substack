@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [california, municipal-politics, election-integrity, 2026-elections]
-sources: [raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-3d4.md]
 confidence: high
 contested: false
 ---
@@ -23,4 +23,7 @@ Los Angeles is the largest city in California and, in the Badlands corpus, a foc
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-25c)
+This page draws on multiple source articles:
+
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

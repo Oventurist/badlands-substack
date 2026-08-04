@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [middle-east, diplomacy, arab-league, israel]
-sources: [raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-3d4.md]
 confidence: high
 contested: false
 ---
@@ -19,4 +19,7 @@ After Huckabee told [[tucker-carlson|Tucker Carlson]] that [[israel|Israel]] hol
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-285)
+This page draws on multiple source articles:
+
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

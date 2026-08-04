@@ -1,10 +1,10 @@
 ---
 title: Kazakhstan
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags: [kazakhstan, uranium, mining, clinton-network]
-sources: [raw/america-for-sale-part-3.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ Kazakhstan recurs later in the donation record: [[ian-telfer|Ian Telfer]] gave $
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-for-sale-part-3)
+This page draws on multiple source articles:
+
+- [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

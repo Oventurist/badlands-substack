@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [qatar, middle-east, diplomacy, board-of-peace]
-sources: [raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -19,4 +19,7 @@ According to [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], Trump us
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-285)
+This page draws on multiple source articles:
+
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

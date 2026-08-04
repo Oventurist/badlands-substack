@@ -1,10 +1,10 @@
 ---
 title: Bolshevik Revolution
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [bolshevik-revolution, russia, communism, city-of-london, 1917]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -31,3 +31,4 @@ This page draws on multiple source articles:
 
 - [a journey of ever changing truths](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 - [a virus or a metaphor](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

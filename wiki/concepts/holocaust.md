@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [world-war-ii, nazi-germany, genocide, restitution, banking]
-sources: [raw/badlands-brief-314.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-brief-3d4.md]
 confidence: high
 contested: false
 ---
@@ -23,4 +23,7 @@ Credit Suisse and [[ubs|UBS]] had previously reached a global settlement in 1999
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-314)
+This page draws on multiple source articles:
+
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

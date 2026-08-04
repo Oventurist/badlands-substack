@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [canada, central-banking, green-finance, british-empire]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -24,6 +24,12 @@ Carney is identified in the article as an Oxford-trained investment banker at Go
 
 The essay argues that Carney is pursuing a new Canadian agenda oriented toward friendship with China, in which Freeland's anti-China hawkishness had no place, but cautions that China should not trust this "new Canada." Ehret contends that Canada remains a chess piece in a British imperial strategy aimed at weakening the Russian-Chinese alliance, and closes by asking whether Carney "will be able to salvage the decaying British Empire and the dream of [[cecil-rhodes|Cecil Rhodes]] to recapture the USA in the 21st century." The article also notes that Canadian taxpayers had given $22 billion to the Ukraine proxy war since February 2022, indicating that Canada's anti-Russian position had not ended under Carney.
 
+## Warning to Alberta separatists (May 2026)
+
+In May 2026, as reported in [[badlands-brief-3d4|Badlands Brief: Canadian Separatists & Guerilla Campaigns]], Carney warned separatists in [[alberta|Alberta]] not to repeat what he called the "dangerous bluff" of [[brexit|Brexit]]. He invoked his firsthand experience as governor of the [[bank-of-england|Bank of England]] during the United Kingdom's 2016 vote to leave the [[european-union|European Union]], telling Alberta voters to be wary of arguments that separation is merely a negotiating tactic with Ottawa. Many Britons, he argued, were told they could vote for a "soft" exit and negotiate the terms later, only to face years of political and economic fallout.
+
+The intervention followed Premier [[danielle-smith|Danielle Smith]]'s announcement of an October referendum on beginning the legal process toward a future binding independence vote. Critics noted the irony of the warning: Carney had been one of the most prominent establishment voices opposing Brexit in 2016, when pro-Brexit conservatives accused him of running "Project Fear." Badlands commentator [[ashe-in-america|Ashe in America]] characterised him as "the crown's man," still "white knuckling the status quo in the midst of awakening."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +39,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [turkey, head-of-state, nato, middle-east, diplomacy]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-0bd.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -24,5 +24,6 @@ The same commentary places Erdoğan among the Muslim regional leaders with whom 
 
 This page draws on multiple source articles:
 
-- [badlands brief 0bd](https://badlands.substack.com/p/badlands-brief-0bd)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 0bd](https://badlands.substack.com/p/badlands-brief-0bd)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

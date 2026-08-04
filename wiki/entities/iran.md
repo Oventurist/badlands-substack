@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -41,6 +41,10 @@ The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports the deaths of [
 
 The same edition records [[joe-kent|Joe Kent]]'s resignation as director of the [[national-counterterrorism-center|National Counterterrorism Center]], in which he argued that "Iran posed no imminent threat to our nation," and reports [[nato|NATO]] members' refusal to join a U.S.-led coalition against Iran in the strait.
 
+## "Nuclear dust" disposal proposal (May 2026)
+
+In May 2026, as documented in [[badlands-brief-3d4|Badlands Brief: Canadian Separatists & Guerilla Campaigns]], President [[donald-trump|Donald Trump]] proposed that Iran's enriched uranium stockpile — which he repeatedly termed "nuclear dust" — be either surrendered to the United States for destruction or, preferably, destroyed in place in coordination with the Islamic Republic under international observation, as part of a framework tied to ceasefire and [[strait-of-hormuz|Strait of Hormuz]] negotiations. Reporting cited by the Brief indicated that US negotiators were weighing several disposal scenarios, including transfer to third countries such as Russia, [[turkey|Turkey]], China or [[pakistan|Pakistan]], or supervised dilution and destruction inside Iran. Iranian officials continued to insist publicly on the country's right to civilian nuclear technology while signalling willingness to reassure the international community that Tehran is not pursuing a weapon. In parallel, Trump urged [[saudi-arabia|Saudi Arabia]], [[qatar|Qatar]], Pakistan, Turkey, [[egypt|Egypt]], [[jordan|Jordan]] and others to sign the [[abraham-accords|Abraham Accords]] simultaneously, presenting a settlement with Iran as the centrepiece of a regional realignment.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -59,6 +63,7 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
-- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

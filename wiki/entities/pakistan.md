@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [pakistan, geopolitics, nuclear, regime-change, south-asia]
-sources: [raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-brief-07c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -29,3 +29,4 @@ This page draws on multiple source articles:
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

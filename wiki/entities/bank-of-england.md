@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [central-banking, united-kingdom, financial-stability, disclosure]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ Ghost places the warning in the context of what he describes as a simultaneous A
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

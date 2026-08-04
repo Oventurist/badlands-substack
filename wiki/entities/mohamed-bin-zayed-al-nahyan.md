@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [united-arab-emirates, gulf-politics, psyop, geopolitics, heads-of-state]
-sources: [raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -21,4 +21,7 @@ The Badlands contributor GhostofBasedPatrickHenry described X users spending a d
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-0a2)
+This page draws on multiple source articles:
+
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [ukraine, head-of-state, war-economy, drones]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -27,6 +27,10 @@ The July 27, 2026 [[badlands-brief-245|Badlands Brief]] reports that Zelensky sa
 
 Tallying the week, the Brief states that Zelensky had bombed cargo ships from Russia, [[turkey|Turkey]] and Iran across the Black, Mediterranean and Caspian Seas, including an attack the previous week on 13 ships in the Black Sea that killed a sailor and involved at least one Turkish vessel. The commentary predicts that this pattern makes a Russia–Turkey–Iran naval alliance "all but a certainty."
 
+## State honours for Andriy Melnyk (May 2026)
+
+In May 2026, according to [[badlands-brief-3d4|Badlands Brief: Canadian Separatists & Guerilla Campaigns]], Zelensky and senior Ukrainian officials attended a state reburial ceremony in Kyiv honouring [[andriy-melnyk|Andriy Melnyk]], a wartime leader of the [[organization-of-ukrainian-nationalists|Organization of Ukrainian Nationalists]] who collaborated with Nazi Germany. Melnyk, whose remains were repatriated from Luxembourg, was described at the ceremony as a national hero. Israel's Foreign Ministry condemned the event, stating that there is "no place for ignoring historical truth and the memory of the victims murdered by the Nazis and their collaborators," and [[yad-vashem|Yad Vashem]] warned that such honours undermine [[holocaust|Holocaust]] remembrance. The episode was reported as a further deterioration in relations between [[israel|Israel]] and [[ukraine|Ukraine]], echoing a joint Israeli–Polish condemnation of the glorification of Melnyk and [[stepan-bandera|Stepan Bandera]] in 2020.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +39,4 @@ This page draws on multiple source articles:
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [europe, supranational, sovereignty, unipolarity]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-3d4.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

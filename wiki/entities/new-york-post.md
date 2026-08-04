@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [media, journalism, cartels, reporting]
-sources: [raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-3d4.md]
 confidence: high
 contested: false
 ---
@@ -19,4 +19,7 @@ The Post is credited with reporting that the Trump administration quietly secure
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-285)
+This page draws on multiple source articles:
+
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)

@@ -1,10 +1,10 @@
 ---
 title: Brexit
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: concept
 tags: [populism, united-kingdom, anti-establishment, politics]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-3d4.md]
 confidence: high
 contested: false
 ---
@@ -18,4 +18,7 @@ Brexit was the United Kingdom's referendum decision to withdraw from the [[europ
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+This page draws on multiple source articles:
+
+- [a swan song for the msm](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+- [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
