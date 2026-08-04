@@ -1,10 +1,10 @@
 ---
 title: Israel Defense Forces
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [military, israel, conscription, religion]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-50d.md]
 confidence: medium
 contested: false
 ---
@@ -31,3 +31,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
+- [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)

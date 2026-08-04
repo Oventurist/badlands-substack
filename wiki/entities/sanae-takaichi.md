@@ -1,10 +1,10 @@
 ---
 title: Sanae Takaichi
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [japan, east-asia, maritime-disputes, heads-of-government]
-sources: [raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-52b.md]
 confidence: high
 contested: false
 ---
@@ -17,4 +17,7 @@ In [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friend
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-25c)
+This page draws on multiple source articles:
+
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

@@ -1,10 +1,10 @@
 ---
 title: Kash Patel
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [person, trump-ally, national-security, media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md, raw/badlands-brief-40d.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md]
 confidence: medium
 contested: false
 ---
@@ -18,6 +18,10 @@ In the Badlands Media essay [[all-assets-deployed|All Assets Deployed]], publish
 
 Patel's advance framing of the announcement is treated in the essay as evidence that the event was a deliberate strategic move within an ongoing [[information-war|information war]], rather than an improvised or defensive gesture.
 
+## FBI records litigation (March 2026)
+
+The March 24, 2026 Badlands Brief, [[badlands-brief-50d|Alternative Annexations & New(ish) Regime Change]], reports that a Freedom of Information Act lawsuit against the [[fbi|FBI]] seeks internal Bureau communications involving Patel as Director and former Deputy Director [[dan-bongino|Dan Bongino]] concerning the discovery of as many as 1.9 million pages of records stored in safes inside a [[sensitive-compartmented-information-facility|Sensitive Compartmented Information Facility]] at headquarters, along with directives on how those materials were handled.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -25,3 +29,4 @@ This page draws on multiple source articles:
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)

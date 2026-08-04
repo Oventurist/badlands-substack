@@ -1,10 +1,10 @@
 ---
 title: Joe Kent
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-04
 type: entity
 tags: [intelligence, iran-war, america-first, resignation, veterans]
-sources: [raw/badlands-brief-1cd.md]
+sources: [raw/badlands-brief-1cd.md, raw/badlands-brief-52b.md]
 confidence: medium
 contested: true
 ---
@@ -29,4 +29,7 @@ Bannon, on whose War Room program Kent became a nationally recognized figure dur
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1cd)
+This page draws on multiple source articles:
+
+- [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

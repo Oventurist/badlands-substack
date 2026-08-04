@@ -1,10 +1,10 @@
 ---
 title: "Litani River"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: concept
 tags: [lebanon, geography, israel, hezbollah, border]
-sources: [raw/badlands-brief-143.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-brief-50d.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ The March 26, 2026 [[badlands-brief-143|Badlands Brief]] reports that Israeli Fi
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-143)
+This page draws on multiple source articles:
+
+- [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
+- [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)

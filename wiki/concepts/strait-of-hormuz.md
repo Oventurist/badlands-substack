@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-04
 type: concept
 tags: [geography, energy, iran, maritime]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md]
 confidence: medium
 contested: false
 ---
@@ -23,6 +23,10 @@ The March 18, 2026 [[badlands-brief-1cd|Badlands Brief]] reports that [[nato|NAT
 
 In the same edition, following the reported killing of [[ali-larijani|Ali Larijani]] and Basij commander [[gholamreza-soleimani|Gholamreza Soleimani]], [[iran|Iran]] escalated into what it called a "new phase of oil war," launching drone swarms against energy infrastructure including the Shah field in the UAE, Iraq's Majnoon field and targets in Saudi Arabia, while Iranian officials continued to assert control over the strait and warned that its security situation had permanently changed.
 
+## March 2026: disrupted flows and the disentanglement thesis
+
+The March 24, 2026 Badlands Brief, [[badlands-brief-50d|Alternative Annexations & New(ish) Regime Change]], reports that the war with Iran significantly disrupted global oil flows through the strait, and that when asked about reopening it President [[donald-trump|Donald Trump]] suggested he and the Ayatollah might control it together — a remark Iran answered by posting an image of a child's toy steering wheel. [[burning-bright|Burning Bright]] argues that the dynamics being amplified in the strait are "not designed to trap us in more foreign dependence, but to break it," describing a "calibrated crisis" creating conditions for clean disentanglement from Middle Eastern energy leverage and a multipolar realignment in which no nation remains vulnerable to a single chokepoint.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -40,3 +44,5 @@ This page draws on multiple source articles:
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)
+- [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

@@ -1,10 +1,10 @@
 ---
 title: Mark Zuckerberg
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [big-tech, social-media, free-speech, executive]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

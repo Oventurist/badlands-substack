@@ -1,10 +1,10 @@
 ---
 title: FBI
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [fbi, record-labels, gangster-rap, cointelpro-style-operations]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-40d.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md]
 confidence: medium
 contested: true
 ---
@@ -20,6 +20,12 @@ The claimed purpose was economic and carceral rather than cultural: with crime r
 
 [[america-for-sale-part-2|America for Sale — Part 2]] asserts that the FBI and the [[department-of-justice|Justice Department]] "were completely corrupt at the higher levels" when [[donald-trump|Donald Trump]] took office, and that rather than waiting for them to be cleaned out, Attorney General [[jeff-sessions|Jeff Sessions]] routed criminal investigations around the bureau entirely. In the article's account, Inspector General [[michael-horowitz|Michael Horowitz]] and his staff of 470 investigators took the investigative role that would normally fall to the FBI, while U.S. Attorney [[john-huber|John Huber]] took the prosecutorial role that would normally fall to Main Justice. Q drop 1517 is quoted for the shorthand "IG = FBI, Huber = DOJ (no DC)." [[joe-lange|Joe Lange]] argues that while the public narrative war focused on exposing the corrupt FBI and DOJ, the real investigations proceeded in the background beyond their reach.
 
+## 1.9 million pages discovered in a headquarters SCIF (March 2026)
+
+The March 24, 2026 Badlands Brief, [[badlands-brief-50d|Alternative Annexations & New(ish) Regime Change]], reports that the Bureau identified as many as 1.9 million pages of records responsive to a [[freedom-of-information-act|Freedom of Information Act]] lawsuit, stored inside a secured room at FBI headquarters. A [[department-of-justice|Department of Justice]] filing described the material as held in multiple safes within a [[sensitive-compartmented-information-facility|Sensitive Compartmented Information Facility]], totalling between roughly 950,000 and 1.9 million pages. The Bureau said the records must be digitized and reviewed before responsiveness could be determined, projecting a ten-to-twelve-month process with classification review likely required. The cache reportedly includes legacy records tied largely to two closed investigations plus more recent files connected to active probes and prior Special Counsel matters; some legacy material falls under the authority of the Department of Justice Office of Inspector General and requires consultation with that office before release.
+
+The underlying lawsuit was filed in August 2025 after the Bureau failed to fulfill a June FOIA request, and also seeks internal communications involving Director [[kash-patel|Kash Patel]] and former Deputy Director [[dan-bongino|Dan Bongino]] about the discovery and handling of the records. [[ashe-in-america|Ashe in America]] characterized the episode as the FBI having "bought themselves another year of obstruction."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -31,6 +37,7 @@ This page draws on multiple source articles:
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
-- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
+- [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)

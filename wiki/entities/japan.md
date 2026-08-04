@@ -1,10 +1,10 @@
 ---
 title: Japan
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [east-asia, maritime-disputes, geopolitics, philippines]
-sources: [raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-52b.md]
 confidence: high
 contested: false
 ---
@@ -17,4 +17,7 @@ According to [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trum
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-25c)
+This page draws on multiple source articles:
+
+- [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

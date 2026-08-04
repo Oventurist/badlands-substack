@@ -1,10 +1,10 @@
 ---
 title: Turkey
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [nation-state, weapons-smuggling, syria, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-3d4.md]
+sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-3d4.md, raw/badlands-brief-52b.md]
 confidence: medium
 contested: true
 ---
@@ -27,3 +27,4 @@ This page draws on multiple source articles:
 - [a dereliction of duty](https://badlands.substack.com/p/a-dereliction-of-duty)
 - [assad day in damascus](https://badlands.substack.com/p/assad-day-in-damascus)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

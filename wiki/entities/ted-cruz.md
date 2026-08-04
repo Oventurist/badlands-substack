@@ -4,7 +4,7 @@ created: 2026-08-04
 updated: 2026-08-04
 type: entity
 tags: [politician, us-senate, texas, republican-party, foreign-policy]
-sources: [raw/badlands-brief-509.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-52b.md]
 confidence: medium
 contested: false
 ---
@@ -20,4 +20,7 @@ The Brief's commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-509)
+This page draws on multiple source articles:
+
+- [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

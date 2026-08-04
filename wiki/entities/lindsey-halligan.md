@@ -1,10 +1,10 @@
 ---
 title: Lindsey Halligan
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [us-attorney, virginia, prosecutions, appointments]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md]
 confidence: high
 contested: false
 ---
@@ -21,4 +21,7 @@ Her removal is grouped in the Brief with a series of decisions in New Jersey, De
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-094)
+This page draws on multiple source articles:
+
+- [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)

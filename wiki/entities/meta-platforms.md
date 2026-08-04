@@ -1,10 +1,10 @@
 ---
 title: Meta Platforms
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-04
 type: entity
 tags: [big-tech, social-media, surveillance, free-speech]
-sources: [raw/america-has-a-cia-run-economy.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md]
 confidence: medium
 contested: true
 ---
@@ -26,4 +26,7 @@ The article notes that Zuckerberg has agreed to open Meta's platforms to more fr
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+This page draws on multiple source articles:
+
+- [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+- [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
