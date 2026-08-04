@@ -1,10 +1,10 @@
 ---
 title: Mark Carney
 created: 2026-08-01
-updated: 2026-08-06
+updated: 2026-08-03
 type: entity
 tags: [canada, central-banking, green-finance, british-empire]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,4 @@ This page draws on multiple source articles:
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

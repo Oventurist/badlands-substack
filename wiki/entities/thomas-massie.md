@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [congress, republican-party, epstein-files, oversight, kentucky]
-sources: [raw/badlands-brief-0a2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-311.md]
 confidence: high
 contested: false
 ---
@@ -23,4 +23,7 @@ His criticism placed him alongside Rep. [[nancy-mace|Nancy Mace]] among Republic
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-0a2)
+This page draws on multiple source articles:
+
+- [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

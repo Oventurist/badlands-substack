@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [banking, switzerland, money-laundering, venezuela, insolvency]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-314.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ Ghost frames Credit Suisse as one node in what he suspects is a broader structur
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-02a)
+This page draws on multiple source articles:
+
+- [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)

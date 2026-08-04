@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [organization, bank, switzerland, tax-evasion]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-02a.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-02a.md, raw/badlands-brief-314.md]
 confidence: medium
 contested: true
 ---
@@ -32,3 +32,4 @@ This page draws on multiple source articles:
 
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)

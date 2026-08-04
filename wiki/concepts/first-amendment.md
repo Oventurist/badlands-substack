@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: concept
 tags: [constitution, free-speech, press-freedom, law]
-sources: [raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-1c6.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-1c6.md, raw/badlands-brief-311.md]
 confidence: high
 contested: false
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 - [always fight back](https://badlands.substack.com/p/always-fight-back)
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

@@ -1,39 +1,34 @@
-import sys, re, os, json, datetime
-WIKI = r"C:/Users/14053/hermes-projects/badlands-substack/wiki"
-SRC = "raw/badlands-brief-1cd.md"
-TODAY = "2026-08-05"
+import sys, re, io, os, json
+
+BASE = r"C:/Users/14053/hermes-projects/badlands-substack/wiki"
+RAW = "raw/badlands-brief-311.md"
+TODAY = "2026-08-03"
 
 def merge(relpath, section):
-    p = os.path.join(WIKI, relpath)
-    with open(p, encoding="utf-8") as f:
+    p = os.path.join(BASE, relpath)
+    with io.open(p, encoding="utf-8") as f:
         t = f.read()
-    m = re.match(r"^---\n(.*?)\n---\n", t, re.S)
+    nl = "\r\n" if "\r\n" in t else "\n"
+    t2 = t.replace("\r\n", "\n")
+    m = re.match(r"^---\n(.*?)\n---\n", t2, re.S)
     if not m:
         print("NO FRONTMATTER", relpath); return
     fm = m.group(1)
-    # sources
-    sm = re.search(r"^sources:\s*\[(.*?)\]\s*$", fm, re.M)
-    if sm:
-        items = [x.strip() for x in sm.group(1).split(",") if x.strip()]
-        if SRC not in items:
-            items.append(SRC)
-        fm2 = fm[:sm.start()] + "sources: [" + ", ".join(items) + "]" + fm[sm.end():]
-    else:
-        print("SOURCES NOT INLINE:", relpath)
-        return
-    fm2 = re.sub(r"^updated:.*$", "updated: " + TODAY, fm2, flags=re.M)
-    body = t[m.end():].rstrip("\n")
-    # insert before trailing "## Sources" section if present
-    idx = body.rfind("\n## Sources")
-    if idx != -1:
-        newbody = body[:idx] + "\n\n" + section.strip() + "\n" + body[idx:]
-    else:
-        newbody = body + "\n\n" + section.strip() + "\n"
-    with open(p, "w", encoding="utf-8", newline="\n") as f:
-        f.write("---\n" + fm2 + "\n---\n" + newbody + "\n")
+    sm = re.search(r"^sources: \[(.*?)\]$", fm, re.M)
+    if not sm:
+        print("BAD SOURCES", relpath); return
+    items = [x.strip() for x in sm.group(1).split(",") if x.strip()]
+    if RAW not in items:
+        items.append(RAW)
+    fm2 = fm[:sm.start()] + "sources: [" + ", ".join(items) + "]" + fm[sm.end():]
+    fm2 = re.sub(r"^updated: .*$", "updated: " + TODAY, fm2, flags=re.M)
+    body = t2[m.end():].rstrip("\n")
+    out = "---\n" + fm2 + "\n---\n" + body + "\n\n" + section.strip() + "\n"
+    with io.open(p, "w", encoding="utf-8", newline=nl) as f:
+        f.write(out)
     print("merged", relpath)
 
 if __name__ == "__main__":
-    data = json.load(open(sys.argv[1], encoding="utf-8"))
-    for rel, sec in data.items():
-        merge(rel, sec)
+    data = json.load(io.open(sys.argv[1], encoding="utf-8"))
+    for k, v in data.items():
+        merge(k, v)

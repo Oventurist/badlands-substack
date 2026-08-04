@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: true
 ---
@@ -61,3 +61,4 @@ This page draws on multiple source articles:
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

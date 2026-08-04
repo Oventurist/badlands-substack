@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [israel, greater-israel, finance, middle-east]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 - [badlands brief 0fb](https://badlands.substack.com/p/badlands-brief-0fb)
 - [badlands brief 143](https://badlands.substack.com/p/badlands-brief-143)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [israel, us-foreign-policy, lobbying, information-war]
-sources: [raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: true
 ---
@@ -21,4 +21,7 @@ From this the author concludes that the figures involved "are not earnestly seek
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-285)
+This page draws on multiple source articles:
+
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

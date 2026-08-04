@@ -1,10 +1,10 @@
 ---
 title: Canada
 created: 2026-08-03
-updated: 2026-08-06
+updated: 2026-08-03
 type: entity
 tags: [canada, trade, tariffs, infrastructure, us-relations]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ce.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md]
 confidence: high
 contested: false
 ---
@@ -23,3 +23,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

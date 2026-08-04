@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [nuclear-weapons, arms-control, russia, geopolitics]
-sources: [raw/badlands-blitz-episode-5.md, raw/badlands-brief-0a2.md]
+sources: [raw/badlands-blitz-episode-5.md, raw/badlands-brief-0a2.md, raw/badlands-brief-314.md]
 confidence: medium
 contested: false
 ---
@@ -22,3 +22,4 @@ This page draws on multiple source articles:
 
 - [badlands blitz episode 5](https://badlands.substack.com/p/badlands-blitz-episode-5)
 - [badlands brief 0a2](https://badlands.substack.com/p/badlands-brief-0a2)
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)

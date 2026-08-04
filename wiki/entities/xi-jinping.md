@@ -1,10 +1,10 @@
 ---
 title: Xi Jinping
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-03
 type: entity
 tags: [china, head-of-state, multipolarity, belt-and-road, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md]
 confidence: high
 contested: false
 ---
@@ -26,3 +26,4 @@ This page draws on multiple source articles:
 - [avoiding wwiii](https://badlands.substack.com/p/avoiding-wwiii)
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

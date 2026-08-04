@@ -1,10 +1,10 @@
 ---
 title: Anti-Defamation League
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-03
 type: entity
 tags: [organization, censorship, info-war, 5gw, media-criticism]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-glaring-double-standard.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-glaring-double-standard.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: true
 ---
@@ -43,3 +43,4 @@ This page draws on multiple source articles:
 
 - [5gw counter offensive the censorship](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 - [a glaring double standard](https://badlands.substack.com/p/a-glaring-double-standard)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

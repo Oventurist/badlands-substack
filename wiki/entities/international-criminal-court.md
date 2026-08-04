@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [international-law, icc, israel, hungary, war-crimes]
-sources: [raw/badlands-brief-1ef.md, raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: false
 ---
@@ -35,3 +35,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

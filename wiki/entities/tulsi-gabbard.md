@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [congress, syria, antiwar, dni, media-smear]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md]
 confidence: medium
 contested: true
 ---
@@ -33,3 +33,4 @@ This page draws on multiple source articles:
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)

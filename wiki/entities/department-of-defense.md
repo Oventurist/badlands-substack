@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [military, government-agency, technology, federal-government]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md, raw/badlands-brief-311.md]
 confidence: high
 ---
 # United States Department of Defense
@@ -23,3 +23,4 @@ This page draws on multiple source articles:
 
 - [america has a cia run economy](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 - [badlands brief 07c](https://badlands.substack.com/p/badlands-brief-07c)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

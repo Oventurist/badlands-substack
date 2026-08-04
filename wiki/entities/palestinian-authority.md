@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [palestine, foreign-aid, pay-to-slay, gaza, governance]
-sources: [raw/bad-actors.md, raw/badlands-brief-05f.md]
+sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: true
 ---
@@ -30,3 +30,4 @@ This page draws on multiple source articles:
 
 - [bad actors](https://badlands.substack.com/p/bad-actors)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

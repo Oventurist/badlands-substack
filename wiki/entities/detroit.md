@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [michigan, elections, ballots, department-of-justice]
-sources: [raw/badlands-brief-1ef.md]
+sources: [raw/badlands-brief-1ef.md, raw/badlands-brief-311.md]
 confidence: medium
 contested: false
 ---
@@ -20,4 +20,7 @@ Detroit officials responded with concerns about the logistical challenges and im
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ef)
+This page draws on multiple source articles:
+
+- [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)

@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [person, senator, senate-judiciary, oversight]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md]
 confidence: medium
 contested: true
 ---
@@ -36,3 +36,4 @@ This page draws on multiple source articles:
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [automotive, detroit, automation, labor]
-sources: [raw/badlands-brief-2b2.md]
+sources: [raw/badlands-brief-2b2.md, raw/badlands-brief-311.md]
 confidence: high
 contested: false
 ---
@@ -24,4 +24,7 @@ The machines are described as collaborative robots, or "cobots," intended to wor
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-2b2)
+This page draws on multiple source articles:
+
+- [badlands brief 2b2](https://badlands.substack.com/p/badlands-brief-2b2)
+- [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
