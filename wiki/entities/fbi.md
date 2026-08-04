@@ -1,10 +1,10 @@
 ---
 title: FBI
 created: 2026-08-01
-updated: 2026-08-06
+updated: 2026-08-04
 type: entity
 tags: [fbi, record-labels, gangster-rap, cointelpro-style-operations]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-695.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md]
 confidence: medium
 contested: true
 ---
@@ -54,3 +54,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)

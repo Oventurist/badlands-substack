@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-06 | Total pages: 1870
+> Last updated: 2026-08-04 | Total pages: 1872
 
 ## Entities
 
@@ -167,6 +167,7 @@
 - [[boko-haram]]: Nigerian jihadist group, Al Qaeda affiliate and ISIS predecessor, notorious for the 2014 mass kidnapping of schoolgirls. (Created: 2026-08-05)
 - [[bola-tinubu]]: President of Nigeria who announced the killing of Abu-Bilal Al-Manuki in a joint operation with US forces. (Created: 2026-08-05)
 - [[borge-brende]] — Norwegian politician who resigned as World Economic Forum president and CEO over Epstein ties.
+- [[boris-johnson]] — Former UK Prime Minister, credited in the corpus with derailing the 2022 Russia-Ukraine peace talks.
 - [[boris-pistorius]]: German Defense Minister who questioned sending European frigates to the Strait of Hormuz and declined Trump's coalition. (Created: 2026-08-05)
 - [[boris-yeltsin]]: First President of the Russian Federation (1991-1999), under whom the corpus says Russia's sovereign economic powers were dismantled by shock therapy. (Created: 2026-08-01)
 - [[bp]]: British Petroleum; Atlantic Council funder and BlackRock holding said to have stood to gain from the reopening of Iran. (Created: 2026-08-02)
@@ -1393,6 +1394,7 @@
 - [[123-agreement]]: Bilateral U.S. civil nuclear cooperation agreement under Section 123 of the Atomic Energy Act. (Created: 2026-08-05)
 - [[1913-the-year-the-cabal-enslaved-america]]: Badlands article framing 1913 as the cabal's capture of U.S. money & tax systems. (Updated: 2026-08-01)
 - [[2015-fifa-corruption-case]] — Money-laundering arrests of FIFA officials cited as context for 2026 suspicions
+- [[2021-school-board-memo]] — 2021 DOJ directive on threats to school boards; internal warnings about targeting parents were overridden.
 - [[2017-intelligence-community-assessment]]: The 2017 US intelligence assessment on Russian election interference, central to the criminal probe of John Brennan. (Created: 2026-08-03)
 - [[2020-united-states-presidential-election]]: The contested 2020 election; the corpus stresses that 50 of 55 related lawsuits were dismissed on standing rather than on the evidence. (Created: 2026-08-02)
 - [[2022-united-states-midterm-elections]]: November 8, 2022 U.S. midterms; the expected 'Red Wave' that did not materialize, read in the corpus as both fraud and a strategically fortunate outcome. (Created: 2026-08-02)
