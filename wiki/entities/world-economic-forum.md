@@ -1,10 +1,10 @@
 ---
 title: World Economic Forum
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [globalism, technocracy, davos, great-reset]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-577.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-577.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -33,6 +33,10 @@ In AI Can Help Us Expose the NWO, the WEF is one of the NGOs and initiatives [[j
 ## Davos 2026
 
 The January 26, 2026 Badlands Brief covers the January 2026 meeting of the Forum as the arena in which Treasury Secretary [[scott-bessent|Scott Bessent]] attempted to calm markets and allied governments amid President [[donald-trump|Donald Trump]]'s tariff threats and the administration's pressure campaign over [[greenland|Greenland]]. Bessent urged European counterparts not to retaliate, dismissed talk of European governments selling U.S. Treasury holdings as leverage, and told attendees to "take a deep breath." The same meeting featured a speech by Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] criticizing the [[european-union|European Union]]'s indecisiveness on security, which drew rebukes from Italian politicians who noted the bloc's nearly €193 billion in assistance to Ukraine since 2022. Badlands contributor [[burning-bright|Burning Bright]] characterized the forum as "the den of vipers" into which Trump walked "with two lions beside him," Bessent and [[howard-lutnick|Howard Lutnick]].
+
+## The Board of Peace ratification (January 2026)
+
+The January 23, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] used the Forum's January 2026 annual meeting in Davos to host the signing ceremony ratifying the Charter of the [[board-of-peace|Board of Peace]], summoning attending world leaders to the table to sign. Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] framed the episode as Trump having "successfully strong-armed the World Economic Forum — an organization founded by [[klaus-schwab|Klaus Schwab]] in 1971 under the guidance of Henry Kissinger, for the purpose of planning and managing the subjugation of the human race" — into hosting "the founding of an organization that stands in direct opposition to the WEF's core mission." The ceremony featured [[jared-kushner|Jared Kushner]]'s presentation of the multi-phase reconstruction plan for [[gaza|Gaza]] and the joint appearance of Saudi Foreign Minister [[faisal-bin-farhan|Faisal bin Farhan]] and Turkish Foreign Minister [[hakan-fidan|Hakan Fidan]].
 
 ## Sources
 

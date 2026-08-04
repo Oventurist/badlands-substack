@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [us-government, executive-branch, benghazi, chain-of-command]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -33,6 +33,10 @@ The May 12, 2026 Badlands Brief reports, citing a White House official, that a d
 ## "Sovereign nations" framing and the withdrawal memorandum (January–February 2026)
 
 The Badlands Brief of April 2, 2026 reports that the White House summary of Secretary [[marco-rubio|Marco Rubio]]'s February Munich speech said President [[donald-trump|Donald Trump]]'s foreign policy is one that "brings sovereign nations together in common purpose" and rejects "outdated globalist structures." That "sovereign" framing also appears in Trump's January 7 White House memorandum on withdrawals from international bodies, which said the administration was exiting organizations it viewed as contrary to U.S. interests and sovereignty — the formal policy backdrop to Trump's April 1 statement that he was "strongly considering" pulling the United States out of [[nato|NATO]].
+
+## The WHO exit and the Board of Peace (January 2026)
+
+The January 23, 2026 Badlands Brief reports two White House communications on X. The first announced the effective US exit from the [[world-health-organization|World Health Organization]]: "EFFECTIVE TODAY: The United States has exited the World Health Organization. This fulfills President Trump's commitment under an executive order signed one year ago, following the WHO's mishandling of COVID-19 and its ongoing lack of reform, accountability, & transparency." The second marked the ratification of the Charter of the [[board-of-peace|Board of Peace]] at Davos, with the White House posting video and slides of President [[donald-trump|Donald Trump]]'s signing ceremony and [[jared-kushner|Jared Kushner]]'s presentation of the multi-phase reconstruction plan for [[gaza|Gaza]].
 
 ## Sources
 

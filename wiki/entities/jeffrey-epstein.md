@@ -1,10 +1,10 @@
 ---
 title: Jeffrey Epstein
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, blackmail, doj-files, intelligence]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md, raw/badlands-brief-695.md]
 confidence: high
 contested: true
 ---
@@ -34,6 +34,10 @@ The March 18, 2026 Badlands Brief reports that [[house-committee-on-oversight-an
 ## The "Epstein binder" reference (July 2026)
 
 The July 14, 2026 Badlands Brief notes that the "super secret" video in the [[tyler-robinson|Tyler Robinson]] case was "from the same crew that did the Epstein binder thing," a remark by [[ashe-in-america|Ashe in America]] connecting the trial-drama production to the earlier Epstein materials.
+
+## The Clinton contempt vote (January 2026)
+
+The January 23, 2026 Badlands Brief reports that the [[house-committee-on-oversight-and-accountability|House Oversight Committee]] voted on Wednesday, January 21, 2026 to hold [[bill-clinton|Bill]] and [[hillary-clinton|Hillary Clinton]] in [[contempt-of-congress|contempt of Congress]] after they did not appear for depositions related to the committee's Jeffrey Epstein probe. The measure still requires approval by the full House before any referral to the [[department-of-justice|Justice Department]].
 
 ## Sources
 

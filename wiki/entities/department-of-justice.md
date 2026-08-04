@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -49,6 +49,12 @@ The Brief of April 20, 2026, citing [[just-the-news|Just the News]], reports tha
 ## Enforcement of the COVID origins reckoning (July 2026)
 
 The July 8, 2026 Badlands Brief reports that enforcement of the actions against scientists affiliated with the [[national-institute-of-allergy-and-infectious-diseases|National Institute of Allergy and Infectious Diseases]] over COVID-19 research has shifted toward the Department of Justice. The actions include the debarment referral of [[ralph-baric|Ralph Baric]], the indictment and armed arrest of [[david-morens|David Morens]], the removal of [[jeffrey-taubenberger|Jeffrey Taubenberger]] as acting NIAID head, the May 2026 indictment of [[vincent-munster|Vincent Munster]] over mpox samples, and Senator [[rand-paul|Rand Paul]]'s July 7, 2026 subpoena of [[anthony-fauci|Anthony Fauci]] to testify before the [[senate|Senate]].
+
+## The Georgia voter-registration request and the Cities Church arrests (January 2026)
+
+The January 23, 2026 Badlands Brief reports that the Justice Department requested Georgia voter registration information from Secretary of State [[brad-raffensperger|Brad Raffensperger]], a request the [[georgia-senate-ethics-committee|Georgia Senate Ethics Committee]] endorsed via Resolution 563 on January 22, 2026, citing the [[national-voter-registration-act|National Voter Registration Act]], the [[help-america-vote-act|Help America Vote Act]], and the [[civil-rights-act-of-1960|Civil Rights Act of 1960]]. The request came days after the [[georgia-state-election-board|Georgia State Election Board]] hearing in which investigator [[joe-rossi|Joe Rossi]] presented evidence of alleged manipulation of the [[2020-united-states-presidential-election|2020 election]] count and asked the board to commit to criminal referrals.
+
+The same edition reports that federal authorities, investigating potential civil rights and other charges, arrested Nekima Levy Armstrong and Chauntyll Louisa Allen in connection with the attack on [[cities-church|Cities Church]] in St. Paul, Minnesota, at the direction of Attorney General [[pam-bondi|Pam Bondi]], with [[homeland-security-investigations|Homeland Security Investigations]] and [[fbi|FBI]] agents executing the arrests. The DOJ's Civil Rights Division had previously opened the church investigation under the [[ku-klux-klan-act-of-1871|Ku Klux Klan Act]] and the FACE Act.
 
 ## Sources
 

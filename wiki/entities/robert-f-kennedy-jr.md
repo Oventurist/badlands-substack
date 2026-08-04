@@ -1,10 +1,10 @@
 ---
 title: Robert F. Kennedy Jr.
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-06
 type: entity
 tags: [person, election-integrity, censorship, info-war, 5gw, controversy]
-sources: [raw/5gw-counter-offensive-the-censorship.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -29,6 +29,10 @@ Within the Badlands corpus, Kennedy is positioned as a victim of the quadrennial
 - [[5th-generation-warfare]]
 - [[russell-brand]]
 - [[online-safety-bill]]
+
+## The WHO withdrawal joint statement (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Kennedy, as Health and Human Services Secretary, co-signed the joint statement with Secretary of State [[marco-rubio|Marco Rubio]] announcing the termination of US membership in the [[world-health-organization|World Health Organization]], effective January 22, 2026. The statement declared that the WHO "abandoned its core mission and acted repeatedly against the interests of the United States," "obstructed the timely and accurate sharing of critical information that could have saved American lives," and "refuses to hand over the American flag that hung in front of it, arguing it has not approved our withdrawal and, in fact, claims that we owe it compensation." It said future US engagement with the WHO would be "limited strictly to effectuate our withdrawal and to safeguard the health and safety of the American people."
 
 ## Sources
 

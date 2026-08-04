@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md]
 confidence: high
 contested: false
 ---
@@ -64,6 +64,12 @@ Commentator [[burning-bright|Burning Bright]] read Putin's Victory Day address a
 ## The "paper tiger" and the Sovereign Pincer (April 2026)
 
 The Badlands Brief of April 2, 2026 quotes [[burning-bright|Burning Bright]]'s reaction to President [[donald-trump|Donald Trump]]'s threat to leave [[nato|NATO]]: "I always knew they were a paper tiger, and Putin knows that too, by the way." Burning Bright's accompanying commentary elaborates that "Putin knows it too," citing the remark as "the codification of truths that have been operating beneath the surface of the Info War for years," and argues that a "Sovereign Pincer" between Trump and Putin — "framed not as opposition, but as coordinated convergence against the true common adversary" — was "closed long ago, forged in backchannels that hummed through the entirety of the first Trump era."
+
+## The Davos meeting with Witkoff and Kushner (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Putin met with American envoys [[steve-witkoff|Steve Witkoff]] and [[jared-kushner|Jared Kushner]] during the week of the [[world-economic-forum|World Economic Forum]] meeting in Davos. Kremlin aide [[yuri-ushakov|Yuri Ushakov]] told reporters the talks were "substantive, constructive and very frank," and Russian media reported that the first meeting of a Russia-US-Ukraine working group on security issues would be held in Abu Dhabi on January 23, 2026.
+
+The Brief places the meeting in the context of President [[donald-trump|Donald Trump]]'s ratification of the [[board-of-peace|Board of Peace]] charter at Davos, an organization Putin had not yet joined as of publication. Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] predicted that when Putin does join, the rhetoric between him and Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] would not be "excessively cordial."
 
 ## Sources
 

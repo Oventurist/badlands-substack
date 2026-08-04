@@ -1,10 +1,10 @@
 ---
 title: United States Congress
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [us-government, legislature, appropriations, lobbying]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/all-assets-deployed.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-3.md, raw/americas-greatest-threat.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -54,6 +54,10 @@ The essay also argues that congressional service was never intended as a career.
 The March 18, 2026 Badlands Brief presents Congress as the central obstacle to President [[donald-trump|Donald Trump]]'s legislative agenda. Trump urged the body to pass the [[save-america-act|SAVE Act]], warning that "only sick, demented, or deranged people in the House or Senate could vote against" it. Contributor [[ashe-in-america|Ashe in America]] argued that the institution "is actively fighting against the most important and consequential piece of legislation ever to exist" and is "illegitimate and invested in its demise," concluding that Trump is "revealing the apex parody of governance: The United States Congress."
 
 In the same edition she notes that Congress costs Americans between $16.7 million and $21.7 million per day when in session, and contrasts its inability to pass the SAVE Act with the [[house-committee-on-oversight-and-accountability|Oversight Committee]]'s subpoena of Attorney General [[pam-bondi|Pam Bondi]], which she characterizes as generating campaign-ad soundbites at public expense.
+
+## The Clinton contempt measure (January 2026)
+
+The January 23, 2026 Badlands Brief reports that the [[house-committee-on-oversight-and-accountability|House Oversight Committee]] voted to hold [[bill-clinton|Bill]] and [[hillary-clinton|Hillary Clinton]] in [[contempt-of-congress|contempt of Congress]] over their failure to appear for depositions in the [[jeffrey-epstein|Jeffrey Epstein]] probe, and notes the measure still requires approval by the full House before any referral to the [[department-of-justice|Justice Department]].
 
 ## Sources
 

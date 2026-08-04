@@ -1,10 +1,10 @@
 ---
 title: Contempt of Congress
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: concept
 tags: [congress, oversight, criminal-law, subpoena, enforcement]
-sources: [raw/badlands-brief-414.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-695.md]
 confidence: high
 contested: false
 ---
@@ -15,6 +15,10 @@ Contempt of Congress is the offence of obstructing the work of the United States
 The charge features in the July 30, 2026 Badlands Brief as the mechanism Senator [[rand-paul|Rand Paul]] indicated he would pursue against Anthony Fauci after Fauci invoked the [[fifth-amendment|Fifth Amendment]] and declined to answer questions at a [[senate|Senate]] hearing on Covid origins. Paul told the hearing that the chairman had denied Fauci's assertion of privilege and directed him to answer, that "it's against the law to obstruct an investigation of congress," and that "there will be repercussions to your refusal to testify today."
 
 The Brief identified contempt of Congress as "the charge that put [[steve-bannon|Steve Bannon]] and [[peter-navarro|Peter Navarro]] behind bars," citing those prosecutions as evidence the statute is enforceable in practice. [[ashe-in-america|Ashe in America]]'s commentary suggested Fauci could be jailed on a contempt charge while the separate [[autopen-scandal|Autopen]] question over the validity of his pardon is litigated, potentially carrying the matter to the [[supreme-court-of-the-united-states|Supreme Court]].
+
+## The Clinton contempt vote (January 2026)
+
+The January 23, 2026 Badlands Brief reports that the [[house-committee-on-oversight-and-accountability|House Oversight Committee]] voted on Wednesday, January 21, 2026 to hold [[bill-clinton|Bill]] and [[hillary-clinton|Hillary Clinton]] in contempt of Congress after they did not appear for depositions related to the committee's [[jeffrey-epstein|Jeffrey Epstein]] probe. The measure still requires approval by the full House before any referral to the [[department-of-justice|Justice Department]].
 
 ## Sources
 

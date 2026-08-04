@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [gaza, israel-palestine, ceasefire, hamas, board-of-peace]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md]
 confidence: high
 contested: false
 ---
@@ -24,6 +24,12 @@ The Brief of April 20, 2026 reports that Finance Minister [[bezalel-smotrich|Smo
 ## American opinion polling on the genocide question (July 2026)
 
 The July 8, 2026 Badlands Brief cites [[times-of-israel|Times of Israel]] polling according to which one third of all American Jews say that [[israel|Israel]] committed a genocide in Gaza, and only 20% of all Americans say Israel did not commit a genocide and that the "complete obliteration of the Gazan civilization" was morally justified. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues the polling's accuracy is irrelevant — "you can sense it in the air that the winds have changed" — and that Israel has become widely recognized in the U.S. as a liability, making the war an existential crisis for the Israeli political elite.
+
+## The Kushner reconstruction plan and the Gulf turn (January 2026)
+
+The January 23, 2026 Badlands Brief reports that [[jared-kushner|Jared Kushner]] presented a multi-phase reconstruction and economic plan for Gaza at the [[board-of-peace|Board of Peace]] charter ratification ceremony in Davos, aimed at raising Gaza's GDP and increasing average annual household incomes over the next decade. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] described the "Master Plan for Gaza" — first revealed around September 2025 — as "simply a color block site diagram" showing intended land use rather than design work, and noted Kushner's closing callout telling Israelis to stop persecuting pro-Palestine activists online and "give Trump 30 days."
+
+The same edition reports, citing the Times of Israel, that Arab Gulf governments were souring on the direction of the Gaza peace project after Israel withheld over $4 billion in tax revenues from the [[palestinian-authority|Palestinian Authority]], with Turkey and Qatar described as filling the vacuum created by Israel's snub of the PA. The UAE was nonetheless slated to hold a seat on the [[gaza-executive-board|Gaza Executive Board]] alongside Saudi and Emirati representatives on the Board of Peace.
 
 ## Sources
 

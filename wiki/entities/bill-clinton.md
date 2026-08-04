@@ -1,13 +1,13 @@
 ---
 title: Bill Clinton
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags:
   - president
   - cia
   - stand-down
-sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -50,6 +50,10 @@ The essay also revisits [[pardongate|Pardongate]], the 140 pardons and 36 commut
 In August 2009 Clinton travelled to North Korea with [[doug-band|Doug Band]] and [[john-podesta|John Podesta]] to secure the release of two American journalists held by [[kim-jong-il|Kim Jong Il]]. A memo later published among Podesta's emails by [[wikileaks|WikiLeaks]] recorded Kim asking "that President Clinton return often, officially and unofficially," and Clinton expressing a wish to visit a seaside location depicted in a guest-house painting. The article treats the hostages as a cover story for a commercial deal.
 
 Finally, the essay credits Clinton with originating the [[uranium-one|Uranium One]] transaction: in September 2005 he flew aboard [[frank-giustra|Frank Giustra]]'s private jet to Almaty, [[kazakhstan|Kazakhstan]], endorsed president Nursultan Nazarbayev's bid to lead an international election monitoring body, and within days Giustra's [[urasia-energy|UrAsia Energy]] obtained stakes in three Kazatomprom uranium mines. Giustra subsequently donated $31.3 million to the [[clinton-foundation|Clinton Foundation]]. Clinton was later paid $500,000 for a Moscow speech by a Russian investment bank promoting Uranium One stock.
+
+## Clinton contempt vote (January 2026)
+
+The January 23, 2026 Badlands Brief reports that the [[house-committee-on-oversight-and-accountability|House Oversight Committee]] voted on Wednesday, January 21, 2026 to hold Bill and [[hillary-clinton|Hillary Clinton]] in [[contempt-of-congress|contempt of Congress]] after they did not appear for depositions related to the committee's [[jeffrey-epstein|Jeffrey Epstein]] probe. The measure still requires approval by the full House before any referral to the [[department-of-justice|Justice Department]].
 
 ## Sources
 

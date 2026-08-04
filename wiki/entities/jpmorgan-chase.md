@@ -11,7 +11,7 @@ contested: true
 
 # JPMorgan Chase
 
-JPMorgan Chase is the largest United States bank by assets and one of the country's "too big to fail" financial institutions. In the Badlands corpus it appears as the defendant in President [[donald-trump|Donald Trump]]'s $5 billion lawsuit over alleged political [[debanking]], filed on Thursday, January 22, 2026.
+JPMorgan Chase is the largest United States bank by assets and one of the country's "too big to fail" financial institutions. In the Badlands corpus it appears as the defendant in President [[donald-trump|Donald Trump]]'s $5 billion lawsuit over alleged political debanking, filed on Thursday, January 22, 2026.
 
 ## The debanking lawsuit
 

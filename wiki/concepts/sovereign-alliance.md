@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: concept
 tags: [5gw, geopolitics, sovereignty, badlands-media]
-sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-311.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-3.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-311.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -33,6 +33,10 @@ The Brief of April 20, 2026 develops the Alliance's strategic position: the "Glo
 ## The Ankara summit and the multipolar order (July 2026)
 
 The July 8, 2026 Badlands Brief reports contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s reading of President [[donald-trump|Donald Trump]]'s Ankara [[nato|NATO]] summit performance — prioritizing [[recep-tayyip-erdogan|Erdoğan]]'s [[turkey|Türkiye]] over the European allies — as "evidence of the Sovereign Alliance and its legitimacy, as it endeavors to supplant the Unipolar Hegemony with a new Multipolar World Order." The same edition records [[burning-bright|Burning Bright]]'s framing of Secretary-General [[mark-rutte|Mark Rutte]]'s remarks as acknowledgment that "we are moving from a hegemonic world to a multipolar one," with the five powers of the [[new-axis|New Axis]] (the US, Russia, China, Iran and North Korea) as its principal poles.
+
+## Disclosure at Davos (January 2026)
+
+The January 23, 2026 Badlands Brief includes a commentary by [[burning-bright|Burning Bright]] — excerpted from his essay "A Multipolar War" — arguing that on the back of Donald Trump's "Narrative Blitzkrieg on the Hegemon" at the [[world-economic-forum|World Economic Forum]], "the Sovereign Alliance is real. And it's beginning to be disclosed. Very slowly... and then all at once." Burning Bright quotes The Guardian's headline that "Trump and Putin are carrying out a pincer movement on Europe's democracies" as an inverted confirmation of the thesis he first advanced in "Righteous Russia, Part 0" — "an alliance of East and West" forming "a nationalistic, sovereign pincer for the Globalist Deep State to be caught in." He argues the establishment's own framing now concedes the alliance's reality, that "the enemy has been accelerated to the point where they're making our argument for us," and that the back-and-forth "engineered whiplash" that follows Trumpian deployments is "a feature, and not a bug of the engineered chaos of the Info War."
 
 ## Sources
 

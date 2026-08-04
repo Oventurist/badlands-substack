@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [state-department, trump-administration, diplomacy, israel]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md]
 confidence: high
 contested: false
 ---
@@ -28,6 +28,12 @@ The July 14, 2026 Badlands Brief reports that Rubio shared publicly a July 10 jo
 ## "Sovereign nations" framework and the Cuba talks (2026)
 
 The Badlands Brief of April 2, 2026 reports that the [[white-house|White House]] summary of Rubio's February Munich speech described President [[donald-trump|Donald Trump]]'s foreign policy as one that "brings sovereign nations together in common purpose" and rejects "outdated globalist structures" — the "sovereign nations" framing the administration has pushed in place of older alliance language as Trump threatened to leave [[nato|NATO]]. The same edition reports that Rubio is leading the American side of ongoing, largely undisclosed talks with [[cuba|Cuba]] following a U.S. oil blockade imposed roughly two months earlier, in which Havana — through senior diplomat [[lianys-torres-rivera|Lianys Torres Rivera]] — has proposed expanded economic cooperation and seeks easing of embargo restrictions, a Title III waiver of the [[helms-burton-act|Helms-Burton Act]], and removal from the state sponsors of terrorism list.
+
+## Board of Peace and the WHO withdrawal (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Rubio was a named participant in the [[board-of-peace|Board of Peace]] at the charter ratification ceremony in Davos, alongside [[jared-kushner|Jared Kushner]], [[steve-witkoff|Steve Witkoff]], and [[tony-blair|Tony Blair]]. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] noted that Rubio "later explained how useless these kinds of transnational organizations typically are, even when you have two earnest sides trying to reach agreement."
+
+The same edition reports that Rubio, as Secretary of State, co-signed the joint statement with Health and Human Services Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] on the termination of US membership in the [[world-health-organization|World Health Organization]], which took effect January 22, 2026. The statement said the WHO "abandoned its core mission and acted repeatedly against the interests of the United States," and that "even on our way out of the organization, the WHO tarnished and trashed everything that America has done for it," including refusing to hand over the American flag that hung in front of its headquarters.
 
 ## Sources
 

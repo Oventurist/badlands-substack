@@ -1,10 +1,10 @@
 ---
 title: Pam Bondi
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [attorney-general, department-of-justice, appointments, prosecutions]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-695.md]
 confidence: high
 contested: false
 ---
@@ -36,6 +36,10 @@ The July 27, 2026 Badlands Brief recalls that in the previous year Bondi, as Att
 ## February 2026 congressional testimony
 
 The February 12, 2026 Badlands Brief reports as a bonus item that Bondi testified before [[congress|Congress]] on Wednesday, February 11, 2026, in a hearing the Brief describes as contentious. Lawmakers questioned her about the [[department-of-justice|Justice Department]]'s handling of the [[jeffrey-epstein|Jeffrey Epstein]] matter, and the session also covered broader Justice Department oversight and policy issues. Following the hearing, Epstein survivors spoke publicly in response to her testimony, according to NBC video reporting cited by the Brief.
+
+## The Cities Church arrests (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Bondi announced the arrest of two individuals in connection with the coordinated attack on [[cities-church|Cities Church]] in St. Paul, [[minnesota|Minnesota]], identifying Nekima Levy Armstrong and Chauntyll Louisa Allen as taken into custody "at her direction." Bondi said [[homeland-security-investigations|Homeland Security Investigations]] and [[fbi|FBI]] agents executed the arrests in Minnesota, and that Armstrong allegedly played a key role in organizing the attack on the church, which had targeted a pastor said to be linked to [[immigration-and-customs-enforcement|ICE]]. Federal officials said they were investigating potential civil rights and other charges related to the incident.
 
 ## Sources
 

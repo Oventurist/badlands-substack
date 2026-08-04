@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [israel, diplomacy, us-foreign-policy, christian-zionism]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-625.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -32,6 +32,12 @@ The May 1, 2026 Badlands Brief sharply criticized Huckabee's handling of reporte
 ## April 2026: "running cover"
 
 The Brief of April 20, 2026 argues that the conduct of the [[israel-defense-forces|IDF]] and Israeli settlers has descended into a "might makes right" ethos, and that the worst part is that "Christians like Mike Huckabee are running cover for them" — portraying the former governor and ambassador as an apologist for abuses the Brief catalogs under the heading of "Jewish terrorism" in [[israel|Israel]]'s campaigns in [[gaza|Gaza]] and [[lebanon|Lebanon]].
+
+## Response to the Patriarchs of Jerusalem (January 2026)
+
+The January 23, 2026 Badlands Brief reports that the [[patriarchs-and-heads-of-churches-in-jerusalem|Patriarchs and Heads of the Churches in Jerusalem]] issued a public statement on January 17, 2026 describing [[christian-zionism|Christian Zionism]] as a "damaging" ideology that "misleads the public, sows confusion, and harms the unity of our flock," and warned of political actors "in Israel and beyond who seek to push a political agenda which may harm the Christian presence in the Holy Land and the wider Middle East."
+
+Huckabee responded to the Patriarchs on X with his own statement: "I love my brothers and sisters in Christ from traditional, liturgical churches and respect their views, but I do not feel any sect of the Christian faith should claim exclusivity in speaking for Christians worldwide or assume there is only one viewpoint regarding faith in the Holy Land… If God can or would break His covenant with the Jews, then what hope would Christians have that He would keep His covenant with us?" He argued that labels such as "Christian Zionism" are "too often used in a pejorative manner to disparage free-church believers," and that "a Zionist simply accepts that the Jewish people have a right to live in their ancient, indigenous, and Biblical homeland." Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] published the Patriarchs' letter and described the exchange as "an awkward situation for Pastor Huckabee."
 
 ## Sources
 

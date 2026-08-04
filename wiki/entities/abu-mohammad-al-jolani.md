@@ -1,10 +1,10 @@
 ---
 title: Abu Mohammad al-Jolani
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-06
 type: entity
 tags: [syria, jihadism, hts, terrorism-designation]
-sources: [raw/assad-day-in-damascus.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -19,6 +19,10 @@ assad day in damascus observes that al-Jolani "is being depicted as a 'blazer-we
 ## Background and designation
 
 The article notes that this is "the same al-Jolani who spent 5 years in Abu Ghraib and other prisons" and who remains on a [[state-department|State Department]] wanted list as a "Specially Designated Global Terrorist," carrying a reward of up to $10 million for information on his whereabouts — a designation issued while he led the al-Nusrah Front. The article's implicit point is the incongruity between his formal status as a designated global terrorist and his simultaneous celebration in outlets such as [[new-york-times|The New York Times]].
+
+## The Syria peace deal (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Saudi Arabia and Turkey had just aided President [[donald-trump|Donald Trump]] in negotiating a peace deal with Syrian President Al Jolani, per Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], who cited the joint appearance of the Saudi and Turkish foreign ministers at the [[board-of-peace|Board of Peace]] charter ratification ceremony in Davos as evidence the two countries were ready to "fully bury the hatchet and work together."
 
 ## Sources
 

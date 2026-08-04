@@ -1,10 +1,10 @@
 ---
 title: United Nations
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [international-organization, libya, sanctions, security-council]
-sources: [raw/a-conflict-of-interest.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-311.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-311.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -27,6 +27,10 @@ The article stresses that the UN as envisioned by [[franklin-d-roosevelt|Frankli
 ## In the Toronto Protocols narrative
 
 The essay AI Can Help Us Expose the NWO states that the meetings recorded in [[toronto-protocols|the Toronto Protocols]] "explicitly make clear their intention to use globalist institutions such as the United Nations." On that basis [[justin-deschamps|Justin Deschamps]] added the UN, together with the [[world-health-organization|World Health Organization]] and the [[world-economic-forum|World Economic Forum]], to the fictional scenario he developed with [[chatgpt|ChatGPT]], in which the bodies serve as vehicles for advancing a [[new-world-order|New World Order]].
+
+## The Board of Peace and the US WHO exit (January 2026)
+
+The January 23, 2026 Badlands Brief reports that observers noticed the logo of the [[board-of-peace|Board of Peace]] — the organization President [[donald-trump|Donald Trump]] ratified at Davos as an "official international organization" chaired by himself — is "merely a rebranding of the United Nations," and that Trump affirmed a few days earlier the UN "may" end up being replaced by the Board of Peace. The Brief also reports that the one-year notice period for the US withdrawal from the [[world-health-organization|World Health Organization]] — a UN specialized agency — was triggered by Trump's executive order notifying the UN of the US intent to exit on his first day in office, with the withdrawal taking effect January 22, 2026.
 
 ## Sources
 

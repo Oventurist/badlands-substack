@@ -1,10 +1,10 @@
 ---
 title: Minnesota
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [minnesota, immigration-enforcement, fraud, protests]
-sources: [raw/badlands-brief-094.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-695.md]
 confidence: high
 contested: false
 ---
@@ -28,6 +28,10 @@ The state is also the epicenter of the [[minnesota-somali-fraud|Somali-linked fr
 ## Historical resonance
 
 Badlands writers repeatedly note that Minneapolis is the same city where the [[george-floyd|George Floyd]] events of 2020 detonated, and read the January 2026 unrest as an attempted rerun of that playbook.
+
+## The Cities Church arrests (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Attorney General [[pam-bondi|Pam Bondi]] announced the arrest of Nekima Levy Armstrong and Chauntyll Louisa Allen in connection with the coordinated attack on [[cities-church|Cities Church]] in St. Paul, with [[homeland-security-investigations|Homeland Security Investigations]] and [[fbi|FBI]] agents executing the arrests "at her direction." Armstrong allegedly played a key role in organizing the attack, which targeted a pastor said to be linked to [[immigration-and-customs-enforcement|ICE]].
 
 ## Sources
 

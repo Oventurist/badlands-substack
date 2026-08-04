@@ -1,10 +1,10 @@
 ---
 title: Jack Smith
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [person, prosecutor, department-of-justice, indictment]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-245.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-245.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -30,6 +30,12 @@ The July 27, 2026 Badlands Brief reports that the [[center-to-advance-security-i
 The request relies on internal [[department-of-justice|Justice Department]] communications released by [[senate-judiciary-committee|Senate Judiciary Committee]] Chairman [[chuck-grassley|Chuck Grassley]]. As described in the reporting, the records allege that members of Smith's office granted access to classified information without the required "need-to-know" authorization, and that concerns were raised internally about security procedures involving a Sensitive Compartmented Information Facility. The Brief frames the episode as ironic given that Smith's office prosecuted President [[donald-trump|Donald Trump]] for the alleged mishandling of classified information.
 
 Separately, [[house-judiciary-committee|House Judiciary Committee]] Chairman [[jim-jordan|Jim Jordan]] referred Smith to the Justice Department for possible criminal investigation over testimony related to his office's access to the text messages of members of [[congress|Congress]]. As of publication, no action by the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] had been announced.
+
+## Testimony before the House Judiciary Committee (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Smith testified publicly on Thursday, January 22, 2026 before the [[house-judiciary-committee|House Judiciary Committee]], defending his Trump investigations and saying prosecutors had developed "proof beyond a reasonable doubt" of criminal activity and that "No one should be above the law."
+
+During the five-hour hearing, Republican lawmakers questioned Smith about his oath of office, his office's use of subpoena powers, his handling of Republican lawmakers' phone toll records, and the January 6 committee. Contributor [[ashe-in-america|Ashe in America]] noted that Smith "repeatedly relied on the authority of GA Secretary of State [[brad-raffensperger|Brad Raffensperger]] for his unprecedented treatment of President Trump," and that Raffensperger was the only witness Smith mentioned — an observation she linked to Raffensperger having been implicated the previous day, at the [[georgia-state-election-board|Georgia State Election Board]] hearing, for allegedly lying to the President on January 2, 2021. Ashe also alleged that Smith "likely swore himself in and signed his own oath outside the presence of witnesses," describing the episode as part of "a Grand Treasonous Conspiracy… ongoing against the President since 2016."
 
 ## Sources
 

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: concept
 tags: [gaza, ceasefire, governance, trump-administration, davos]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: false
 ---
@@ -26,6 +26,16 @@ Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] f
 ## April 2026: Trump's prohibition and Smotrich's defiance
 
 The Brief of April 20, 2026 reports [[donald-trump|Trump]]'s [[truth-social|Truth Social]] post declaring that Israel is "PROHIBITED" from further bombing in [[lebanon|Lebanon]] after the U.S.-brokered ceasefire — remarks that reportedly surprised [[benjamin-netanyahu|Netanyahu]] — while [[bezalel-smotrich|Smotrich]] renewed calls for the [[israel-defense-forces|IDF]] to reoccupy all of [[gaza|Gaza]] and establish new settlements there, "going against President Trump and the Board of Peace."
+
+## Charter ratification at Davos (January 2026)
+
+The January 23, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] formally ratified the "Charter of the Board of Peace" in a signing ceremony during the [[world-economic-forum|World Economic Forum]] annual meeting in Davos, establishing the Board as an "official international organization" with Trump serving as Chairman. "The first steps toward a brighter day for the Middle East, and a much safer future for the world are unfolding right before your very eyes," Trump said at the ceremony.
+
+Trump stated that permanent members would pay $1 billion each and that no other permanent [[united-nations|UN Security Council]] member besides the United States had committed at that point. Named participants included [[marco-rubio|Marco Rubio]], [[jared-kushner|Jared Kushner]], [[steve-witkoff|Steve Witkoff]], and [[tony-blair|Tony Blair]]. [[benjamin-netanyahu|Benjamin Netanyahu]] accepted an invitation to join despite prior objections to the composition of the [[gaza-executive-board|Gaza Executive Board]], according to Israeli media citing unnamed Israeli officials. [[vladimir-putin|Vladimir Putin]] had not yet joined the Board; Kremlin aide [[yuri-ushakov|Yuri Ushakov]] described Putin's meeting with Witkoff and Kushner as "substantive, constructive and very frank," and Russian media reported the first meeting of a Russia-US-Ukraine working group on security issues would be held in Abu Dhabi on January 23.
+
+At the ceremony Kushner presented a multi-phase reconstruction and economic plan for [[gaza|Gaza]] aimed at raising the Strip's GDP and increasing average annual household incomes over the next decade. Reuters reported that some major US allies balked at the proposal, though the Brief notes those reports appear to link back to an October 2025 UN paper. Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] highlighted the appearance of Saudi Foreign Minister [[faisal-bin-farhan|Faisal bin Farhan]] and Turkish Foreign Minister [[hakan-fidan|Hakan Fidan]] together on stage — a "strategic symbol," in his telling, since the two countries had just aided Trump in negotiating a peace deal with Syrian President [[abu-mohammad-al-jolani|Al Jolani]]. The commentator also observed that the Board's logo is widely read as a rebranding of the United Nations, which Trump had affirmed days earlier "may" end up being replaced by the Board of Peace.
+
+The same Brief reports, citing the Times of Israel, that Arab Gulf leaders were souring on the direction of the Gaza peace project after learning Israel had withheld over $4 billion in collected tax revenue from the [[palestinian-authority|Palestinian Authority]] (the Brief's own text states the figure as $4 million), and that while Saudi Arabia and the UAE would still have representatives on the Board of Peace — and the UAE on the Gaza Executive Board — their appetite for deeper financial investment in Gaza had "decreased significantly."
 
 ## Sources
 

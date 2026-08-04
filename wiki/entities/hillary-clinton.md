@@ -1,14 +1,14 @@
 ---
 title: Hillary Clinton
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags:
   - secretary-of-state
   - libya
   - cia
   - taxpayer-theft
-sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/bad-actors.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/bad-actors.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-695.md]
 confidence: medium
 contested: true
 ---
@@ -51,6 +51,10 @@ America for Sale — Part 3 examines Clinton's role as Secretary of State in the
 The [[state-department|State Department]] was among the agencies required to approve the transfer of a company controlling roughly 20 percent of American uranium production capacity, yet Clinton maintained she had nothing to do with the decision. The New York Times reported that as the Russians assumed control between 2009 and 2013, $2.35 million in undisclosed donations reached the [[clinton-foundation|Clinton Foundation]] from the family foundation of Uranium One chairman [[ian-telfer|Ian Telfer]], despite her agreement with the Obama White House to publicly identify all donors; further millions came from people tied to Uranium One and [[urasia-energy|UrAsia Energy]], including [[sergei-kurzin|Sergei Kurzin]]. The article contrasts her later accusations that Russia helped Donald Trump win in 2016 with her earlier approval of Russian control over a large share of the world's uranium.
 
 The same essay notes that her husband's August 2009 hostage mission to [[north-korea|North Korea]] occurred while she headed the State Department, which it calls "not a coincidence."
+
+## Clinton contempt vote (January 2026)
+
+The January 23, 2026 Badlands Brief reports that the [[house-committee-on-oversight-and-accountability|House Oversight Committee]] voted on Wednesday, January 21, 2026 to hold Hillary and [[bill-clinton|Bill Clinton]] in [[contempt-of-congress|contempt of Congress]] after they did not appear for depositions related to the committee's [[jeffrey-epstein|Jeffrey Epstein]] probe. The measure still requires approval by the full House before any referral to the [[department-of-justice|Justice Department]].
 
 ## Sources
 

@@ -1,10 +1,10 @@
 ---
 title: Hamas
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [gaza, israel-palestine, ceasefire, october-7, qatar]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md, raw/badlands-brief-695.md]
 confidence: high
 contested: true
 ---
@@ -21,6 +21,10 @@ The Brief also reports that Hamas is calling for kinetic escalation from the reg
 ## The funding allegation
 
 The same commentary advances a contested claim drawn from a newly released Israeli government report: that Netanyahu knew of Hamas's plan to invade southern Israel as early as 2018. On this account, Netanyahu possessed that knowledge when he arranged for Hamas to receive tens of millions of dollars per month after the [[palestinian-authority|Palestinian Authority]] cut the group off financially. The author states that Netanyahu appealed to [[qatar|Qatar]] warning of a humanitarian crisis if cash were not sent to Gaza, that Qatar provided the money, and that Netanyahu's people walked it into Gaza and distributed it to prominent families with known ties to Hamas — concluding that "if all of this is true, then that means that Netanyahu knowingly funded October 7th."
+
+## The disarmament deal with Trump (January 2026)
+
+The January 23, 2026 Badlands Brief reports that Hamas "cut a deal with Trump and will disarm," a development Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] used to invert the corpus's earlier framing of Hamas as the obstacle to peace: "We've long been told that Hamas would end up being the turd in the punch bowl, yet they just announced that they have cut a deal with Trump and will disarm." In the commentator's reading, it is instead Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s government that will "never allow this peace to stand," as Arab Gulf governments sour on the [[board-of-peace|Board of Peace]] project over Israel's withholding of tax revenues from the [[palestinian-authority|Palestinian Authority]].
 
 ## Sources
 
