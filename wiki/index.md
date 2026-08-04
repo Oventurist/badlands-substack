@@ -1394,9 +1394,9 @@
 - [[123-agreement]]: Bilateral U.S. civil nuclear cooperation agreement under Section 123 of the Atomic Energy Act. (Created: 2026-08-05)
 - [[1913-the-year-the-cabal-enslaved-america]]: Badlands article framing 1913 as the cabal's capture of U.S. money & tax systems. (Updated: 2026-08-01)
 - [[2015-fifa-corruption-case]] — Money-laundering arrests of FIFA officials cited as context for 2026 suspicions
-- [[2021-school-board-memo]] — 2021 DOJ directive on threats to school boards; internal warnings about targeting parents were overridden.
 - [[2017-intelligence-community-assessment]]: The 2017 US intelligence assessment on Russian election interference, central to the criminal probe of John Brennan. (Created: 2026-08-03)
 - [[2020-united-states-presidential-election]]: The contested 2020 election; the corpus stresses that 50 of 55 related lawsuits were dismissed on standing rather than on the evidence. (Created: 2026-08-02)
+- [[2021-school-board-memo]] — 2021 DOJ directive on threats to school boards; internal warnings about targeting parents were overridden.
 - [[2022-united-states-midterm-elections]]: November 8, 2022 U.S. midterms; the expected 'Red Wave' that did not materialize, read in the corpus as both fraud and a strategically fortunate outcome. (Created: 2026-08-02)
 - [[2024-united-states-presidential-election]]: The November 2024 contest in which Donald Trump defeated Kamala Harris, returning him to office. (Created: 2026-08-06)
 - [[2026-colombian-presidential-election]]: June 21, 2026 Colombian election won by Abelardo de la Espriella; Petro's challenge drew a joint Shield of the Americas statement. (Created: 2026-08-05)
