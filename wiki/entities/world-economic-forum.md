@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-03
 type: entity
 tags: [globalism, technocracy, davos, great-reset]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: true
 ---
@@ -41,3 +41,4 @@ This page draws on multiple source articles:
 - [artificial intelligence](https://badlands.substack.com/p/artificial-intelligence)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

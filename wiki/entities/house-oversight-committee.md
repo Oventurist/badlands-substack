@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [congress, oversight, institutional-abuse, american-bar-association]
-sources: [raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: false
 ---
@@ -19,4 +19,7 @@ The July 27, 2026 [[badlands-brief-245|Badlands Brief]] identifies Rep. [[brando
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-245)
+This page draws on multiple source articles:
+
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

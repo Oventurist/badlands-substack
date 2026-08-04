@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [person, prosecutor, georgia, rico, indictment]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-05f.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-05f.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: true
 ---
@@ -28,3 +28,4 @@ This page draws on multiple source articles:
 
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 - [badlands brief 05f](https://badlands.substack.com/p/badlands-brief-05f)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

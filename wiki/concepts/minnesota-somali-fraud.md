@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [minnesota, fraud, welfare-programs, congressional-hearings, immigration]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: true
 ---
@@ -39,3 +39,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

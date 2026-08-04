@@ -1,13 +1,13 @@
 ---
 title: Bill Clinton
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags:
   - president
   - cia
   - stand-down
-sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: true
 ---
@@ -60,3 +60,4 @@ This page draws on multiple source articles:
 - [america for sale part 1](https://badlands.substack.com/p/america-for-sale-part-1)
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [congress, presidency, political-ritual, golden-age]
-sources: [raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-40d.md]
 confidence: high
 contested: false
 ---
@@ -23,4 +23,7 @@ Multiple House and Senate Democrats planned to skip the speech, attending altern
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-285)
+This page draws on multiple source articles:
+
+- [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

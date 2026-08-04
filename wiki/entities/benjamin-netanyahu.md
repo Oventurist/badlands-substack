@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md]
 confidence: medium
 contested: true
 ---
@@ -38,6 +38,12 @@ The Brief also uses Netanyahu as a foil for a broader argument about Israeli pol
 
 [[badlands-brief-25c|Badlands Brief: Elections are Fake; as is Trump's Friendship with Bibi]] reports that Netanyahu canceled what would have been Israel's largest strike on [[iran|Iran]] since the April ceasefire after discussions with President [[donald-trump|Donald Trump]], who warned that Israel could be "on your own very soon" if it expanded operations. Following the intervention Netanyahu said Israel would "hold fire" against Iran while reserving the right to respond if attacked. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] presents the episode as evidence that Trump intends to abandon Netanyahu and leave Israel to face Iran and [[hezbollah|Hezbollah]] alone, and speculates that the "lunatics" Trump once referred to in describing negotiations may have been Netanyahu's cabinet. He also cites [[mark-levin|Mark Levin]]'s complaint — "I don't know why he keeps bashing the Prime Minister of Israel!" — as a sign of a rupture between Trump and Netanyahu's American defenders.
 
+## February 2026 Washington meeting
+
+The February 12, 2026 [[badlands-brief-405|Badlands Brief]] reports that Netanyahu met President [[donald-trump|Donald Trump]] in Washington on Wednesday, February 11, 2026, for closed-door talks covering [[iran|Iran]]'s nuclear program and regional security. It was the seventh meeting between the two since Trump returned to office, and no joint press conference followed. Trump wrote on [[truth-social|Truth Social]] that the meeting was "very good" but that "there was nothing definitive reached other than I insisted that negotiations with Iran continue," adding that a deal would be his preference and recalling that Iran's earlier refusal led to the strike he called "Midnight Hammer." He also said the two discussed progress in Gaza and declared "There is truly PEACE in the Middle East."
+
+The Brief notes that Netanyahu has previously sought firm measures against Iranian nuclear weapons capability and that Israeli officials have raised concerns about Iran's ballistic missile program and support for regional armed groups — a position complicated the same week by [[ali-shamkhani|Ali Shamkhani]]'s statement that Iranian missile capabilities are "non-negotiable." [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] comments that after considerable build-up the meeting produced no video, photographs, announcement or formal statement, calling it a "tough look for Netanyahu," who "flew all that way and walked away with nothing," though he concludes that "no news is good news."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -54,3 +60,4 @@ This page draws on multiple source articles:
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 311](https://badlands.substack.com/p/badlands-brief-311)
+- [badlands brief 405](https://badlands.substack.com/p/badlands-brief-405)

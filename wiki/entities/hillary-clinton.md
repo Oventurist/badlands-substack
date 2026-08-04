@@ -1,14 +1,14 @@
 ---
 title: Hillary Clinton
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 type: entity
 tags:
   - secretary-of-state
   - libya
   - cia
   - taxpayer-theft
-sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/bad-actors.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-swan-song-for-the-msm.md, raw/always-fight-back.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/bad-actors.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: true
 ---
@@ -63,3 +63,4 @@ This page draws on multiple source articles:
 - [america for sale part 2](https://badlands.substack.com/p/america-for-sale-part-2)
 - [america for sale part 3](https://badlands.substack.com/p/america-for-sale-part-3)
 - [bad actors](https://badlands.substack.com/p/bad-actors)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

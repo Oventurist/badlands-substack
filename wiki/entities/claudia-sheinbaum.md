@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [mexico, cartels, deep-state, latin-america]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-285.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-285.md, raw/badlands-brief-405.md]
 confidence: medium
 contested: true
 ---
@@ -29,9 +29,14 @@ The Badlands commentary advances the interpretive claim that "Mexico is the real
 
 The same edition notes what it calls an "interesting wrinkle": Sheinbaum's public defense of [[nicolas-maduro|Nicolás Maduro]], including her request that he be given a fair trial. The commentary links this to reports that the US case against Maduro rests on the testimony of a single Venezuelan general operating under a plea deal for clemency.
 
+## Denial of the El Paso drone incursion
+
+The February 12, 2026 [[badlands-brief-405|Badlands Brief]] reports that Sheinbaum rejected accounts of cartel-linked drones crossing into US airspace near El Paso, Texas. Quoted by *[[newsweek|Newsweek]]*, she said: "There is no information about the use of drones on the border." Her denial followed confirmation from the Trump administration that the [[federal-aviation-administration|FAA]] and the [[department-of-war|Department of War]] had disabled the drones, and stood against the account of Representative [[tony-gonzales|Tony Gonzales]], who described daily drone incursions by criminal organizations as routine border life. The Brief's commentary treats the discrepancy as evidence for its recurring contention that the Mexican state and the cartels are difficult to separate.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
+- [badlands brief 405](https://badlands.substack.com/p/badlands-brief-405)

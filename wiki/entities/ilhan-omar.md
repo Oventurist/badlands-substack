@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [congress, minnesota, democratic-party, somalia, immigration]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-25c.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-25c.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: true
 ---
@@ -25,3 +25,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 144](https://badlands.substack.com/p/badlands-brief-144)
 - [badlands brief 25c](https://badlands.substack.com/p/badlands-brief-25c)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

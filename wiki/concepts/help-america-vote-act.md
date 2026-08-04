@@ -1,10 +1,10 @@
 ---
 title: Help America Vote Act
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 type: concept
 tags: [legislation, election-administration, voting-technology, centralization]
-sources: [raw/always-fight-back.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: true
 ---
@@ -18,4 +18,7 @@ This framing supports the essay's larger contention that questioning election ad
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/always-fight-back)
+This page draws on multiple source articles:
+
+- [always fight back](https://badlands.substack.com/p/always-fight-back)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

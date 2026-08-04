@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-03
 type: entity
 tags: [person, trump-ally, national-security, media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md, raw/badlands-brief-40d.md]
 confidence: medium
 contested: false
 ---
@@ -24,3 +24,4 @@ This page draws on multiple source articles:
 
 - [all assets deployed](https://badlands.substack.com/p/all-assets-deployed)
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)

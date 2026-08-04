@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: entity
 tags: [attorney-general, department-of-justice, appointments, prosecutions]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md]
 confidence: high
 contested: false
 ---
@@ -33,6 +33,10 @@ The Justice Department called the subpoena "completely unnecessary," stating tha
 
 The July 27, 2026 [[badlands-brief-245|Badlands Brief]] recalls that in the previous year Bondi, as Attorney General, sent a letter to the [[american-bar-association|American Bar Association]] revoking its preferred access to the judicial nomination process. [[ashe-in-america|Ashe in America]] quotes the letter: "While the ABA is free to comment on judicial nominations along with other activist organizations, there is no justification for treating the ABA differently from such other activist organizations and the Department of Justice will not do so." The item is presented as an antecedent to Rep. [[brandon-gill|Brandon Gill]]'s 2026 effort to strip the ABA of its authority to accredit law schools.
 
+## February 2026 congressional testimony
+
+The February 12, 2026 [[badlands-brief-405|Badlands Brief]] reports as a bonus item that Bondi testified before [[congress|Congress]] on Wednesday, February 11, 2026, in a hearing the Brief describes as contentious. Lawmakers questioned her about the [[department-of-justice|Justice Department]]'s handling of the [[jeffrey-epstein|Jeffrey Epstein]] matter, and the session also covered broader Justice Department oversight and policy issues. Following the hearing, Epstein survivors spoke publicly in response to her testimony, according to NBC video reporting cited by the Brief.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -42,3 +46,5 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 405](https://badlands.substack.com/p/badlands-brief-405)
+- [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
