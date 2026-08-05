@@ -1,10 +1,10 @@
 ---
 title: Benjamin Netanyahu
 created: 2026-08-02
-updated: 2026-08-06
+updated: 2026-02-13
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md, raw/badlands-brief-733.md]
 confidence: medium
 contested: true
 ---
@@ -100,6 +100,14 @@ Israeli reports in mid-July 2026 that Netanyahu would travel to Washington the f
 
 The commentary framed this as a repeat of the previous year's UN General Assembly visit, when Netanyahu effectively announced his own White House meeting before Washington had. Trump responded then by hosting Turkish President [[recep-tayyip-erdogan]] the day before Netanyahu's General Assembly address, signing a nuclear trade deal with Turkey, and receiving Netanyahu without band, diplomats, or color guard — while using the visit to unveil the twenty-point Gaza peace plan. On this occasion, by contrast, White House staff ensured the press learned of the second attempt to force a meeting while denying any meeting had ever been on the President's schedule.
 
+## Washington visit without an Iran breakthrough (February 2026)
+
+Netanyahu returned to [[israel]] in February 2026 after a closed-door meeting with [[donald-trump]] in Washington focused on [[iran]]'s nuclear program. Speaking on the tarmac at Joint Base Andrews, he called it "a short but important visit" and described a "close, genuine, and open relationship" with Trump. He relayed that "the president believes the Iranians already understand who they are dealing with ... the conditions he is setting, combined with their understanding that they made a mistake last time by not reaching an agreement, could lead them to accept terms that would make it possible to achieve a good deal." No new agreement, joint framework, or public policy shift was announced.
+
+Separately, Trump attacked Israeli President [[isaac-herzog]] for refusing to pardon Netanyahu, saying Herzog "should be ashamed" and calling him "disgraceful." Around the same time, reports indicated the United States was repositioning the [[uss-gerald-r-ford]] carrier strike group from [[venezuela]] to the Middle East.
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the empty-handed departure as a major failure for Netanyahu, whose only consolation was avoiding public humiliation in the White House. In his framing, Netanyahu's Israel has become "a cornered animal" poised to square off against the world as the Old Guard digs in, and Trump's pardon pressure — whichever way Herzog rules — leaves Trump with additional leverage. The extended metaphor compares the maneuver to ancestral mammoth hunts: corral the beast into a choke point through deception and optics, then decide what to do with it.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -127,3 +135,4 @@ This page draws on multiple source articles:
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 - [badlands brief 6f4](https://badlands.substack.com/p/badlands-brief-6f4)
+- [badlands brief 733](https://badlands.substack.com/p/badlands-brief-733)

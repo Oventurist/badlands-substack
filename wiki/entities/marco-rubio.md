@@ -1,10 +1,10 @@
 ---
 title: Marco Rubio
 created: 2026-08-03
-updated: 2026-08-06
+updated: 2026-02-13
 type: entity
 tags: [state-department, trump-administration, diplomacy, israel]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md, raw/badlands-brief-733.md]
 confidence: high
 contested: false
 ---
@@ -35,6 +35,14 @@ The January 23, 2026 Badlands Brief reports that Rubio was a named participant i
 
 The same edition reports that Rubio, as Secretary of State, co-signed the joint statement with Health and Human Services Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] on the termination of US membership in the [[world-health-organization|World Health Organization]], which took effect January 22, 2026. The statement said the WHO "abandoned its core mission and acted repeatedly against the interests of the United States," and that "even on our way out of the organization, the WHO tarnished and trashed everything that America has done for it," including refusing to hand over the American flag that hung in front of its headquarters.
 
+## "A new era in geopolitics" (February 2026)
+
+Speaking to reporters in February 2026, Rubio declared that "the old world is gone," adding: "The world is changing very fast right in front of us ... We live in a new era in geopolitics, and it's going to require all of us to sort of re-examine what that looks like and what our role is going to be." The [[state-department|Department of State]] amplified the remarks by posting video of them on X.
+
+*Badlands Brief* contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the statement as a near-verbatim articulation of the Badlands thesis — "It almost feels as if we wrote that statement for Rubio" — and read it as a formal, overdue acknowledgment that the postwar status quo is being dismantled. His commentary dwelt on the psychological cost of that transition: Americans have been conditioned to believe any rise in a foreign ally or competitor means the fall of the American Dream, even though that dream "died long ago for large swaths of the country."
+
+Rubio also featured in Trump's Venezuela messaging the same week, with the President saying "Marco Rubio, and all of our Representatives, are doing a fantastic job" while warning that no one outside State Department approval — specifically naming [[harry-sargeant-iii]] — is authorized to represent the United States.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -53,3 +61,4 @@ This page draws on multiple source articles:
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 733](https://badlands.substack.com/p/badlands-brief-733)

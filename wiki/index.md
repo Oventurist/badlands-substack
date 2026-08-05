@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-06 | Total pages: 1953
+> Last updated: 2026-08-06 | Total pages: 1962
 
 ## Entities
 
@@ -362,6 +362,7 @@
 - [[diosdado-cabello]]: Venezuelan Interior Minister, under U.S. sanctions and indictment, warned by American officials against deploying security forces on the opposition. (Created: 2026-08-03)
 - [[district-of-columbia-bar]]: DC attorney disciplinary authority sued by DOJ over its prosecution of Jeff Clark. (Created: 2026-08-04)
 - [[dmitri-peskov]] — Kremlin spokesman on Putin's contacts with the new Iranian supreme leader
+- [[dmitry-medvedev]]: Former Russian president who warned that a U.S. ground war in Iran could mirror Vietnam with "fatal consequences." (Created: 2026-08-06)
 - [[dmitry-peskov]]: Kremlin spokesman who condemned the Ukrainian drone strike on the Krasnodarskaya compressor station as a threat to international energy infrastructure. (Created: 2026-08-03)
 - [[doge]]: Department of Government Efficiency, compared in the corpus to the efficiency consultants of the film Office Space. (Created: 2026-08-01)
 - [[dominion-voting-systems]]: Voting technology company central to the election-fraud claims underlying the Tina Peters prosecution. (Created: 2026-08-05)
@@ -458,6 +459,7 @@
 - [[freddie-mac]]: US government-sponsored mortgage enterprise whose data showed the 30-year fixed rate falling to 5.99% in February 2026. (Created: 2026-08-03)
 - [[free-speech-for-people]] — Legal advocacy group; counsel for plaintiffs in NAACP v. USEIP and organizer of a 2017 Trump impeachment campaign
 - [[fti-consulting]]: Business advisory firm Declan Kelly left in 2009 under a two-year noncompete that delayed Teneo’s launch to 2011. (Created: 2026-08-02)
+- [[future-investment-initiative]]: Saudi PIF-affiliated global investment forum whose February 2026 Miami summit featured a keynote by Donald Trump. (Created: 2026-08-06)
 - [[g-gordon-liddy]]: Watergate operative and later radio host; father of Maricopa County Civil Division Chief Tom Liddy. (Created: 2026-08-02)
 - [[gaesa]]: Cuba’s military-industrial conglomerate and central target of the May 2026 secondary sanctions executive order. (Created: 2026-08-03)
 - [[gary-webb]]: Investigative journalist invoked, with Julian Assange, as the standard of real journalism against which Taylor Lorenz is measured. (Created: 2026-08-01)
@@ -504,7 +506,9 @@
 - [[hanoch-milwidsky]]: Likud MK quoted in the Knesset debate over abuse of Palestinian detainees. (Created: 2026-08-04)
 - [[hapag-lloyd]]: German container line that suspended Cuba operations after the 2026 GAESA secondary sanctions. (Created: 2026-08-03)
 - [[harmeet-dhillon]]: Republican attorney named in the corpus among the lawyers fighting for election integrity in Arizona after the 2022 election. (Created: 2026-08-02)
+- [[harry-sargeant-iii]]: Oil businessman publicly disavowed by Trump in February 2026 as having no authority to represent the US in Venezuela. (Created: 2026-08-06)
 - [[harvard-university-muslim-alumni]]: Harvard alumni association identified in the corpus as the referent of “HUMA” in Q drop #111 and linked to Prince Alwaleed’s alleged funding of Obama’s education. (Created: 2026-08-02)
+- [[isaac-herzog]]: Israeli president whose refusal to pardon Benjamin Netanyahu drew public condemnation from Trump. (Created: 2026-08-06)
 - [[hasan-piker]]: Democratic socialist streamer subpoenaed in the Treasury probe of the 2026 Cuba aid convoy. (Created: 2026-08-03)
 - [[hashim-ibn-abd-manaf]]: Meccan warrior and great-grandfather of Muhammad, namesake of the Banu Hashim, remembered as "he who feeds the starving." (Created: 2026-08-02)
 - [[hassan-rouhani]]: Iranian president (2013-2021) whose tenure marked Iran's pivot toward Russia, the nuclear deal with the Obama administration, and 2018 central banker arrests. (Created: 2026-08-05)
@@ -763,6 +767,7 @@
 - [[larry-ellison]]: Oracle cofounder and wealthy Trump ally; father of David Ellison and a named partner in Project Stargate. (Created: 2026-08-01)
 - [[larry-fink]]: BlackRock chairman and CEO, expected on the 2026 China business delegation with Trump. (Created: 2026-08-06)
 - [[latham-and-watkins]] — Law firm where Ruemmler was a partner during her Epstein association.
+- [[latin-patriarchate-of-jerusalem]]: Roman Catholic diocesan structure for the Holy Land whose leadership was barred from the Holy Sepulchre on Palm Sunday 2026. (Created: 2026-08-06)
 - [[laura-ingraham]] — Fox News host who pressed Ted Cruz over Lindsey Graham's meetings with Netanyahu. (Created: 2026-08-04)
 - [[laura-loomer]]: Right-wing activist described as subverting Trump’s Iran deal by citing Netanyahu’s office. (Created: 2026-08-03)
 - [[lauren-boebert]]: Colorado Republican congresswoman named as a possible next primary target after Massie's defeat. (Created: 2026-08-03)
@@ -791,6 +796,7 @@
 - [[lisa-cook]] — Federal Reserve governor whose attempted removal by Trump reached the Supreme Court as an Article II test case. (Created: 2026-08-03)
 - [[lisa-su]]: Chair and CEO of AMD; 2026 PCAST appointee. (Created: 2026-08-03)
 - [[liu-zhenli]]: Chinese general reported arrested in the January 2026 PLA purge. (Created: 2026-08-05)
+- [[liz-cheney]]: Former Wyoming congresswoman whose name Trump uses as shorthand for Republicans destroyed for breaking with him. (Created: 2026-08-06)
 - [[liz-harrington]]: Conservative spokeswoman whose December 2022 Twitter thread summarizing Kari Lake's 70-page complaint forms the evidentiary core of the Badlands article. (Created: 2026-08-02)
 - [[louise-lucas]]: President pro tempore of the Virginia Senate whose Portsmouth office was raided by the FBI in a May 2026 bribery probe. (Created: 2026-08-04)
 - [[loral-corporation]]: American satellite and defense electronics firm at the center of the alleged 1990s transfer of missile guidance technology to China. (Created: 2026-08-02)
@@ -1048,6 +1054,7 @@
 - [[phil-weiser]]: Colorado attorney general named among the officials demanding Governor Polis deny clemency to Tina Peters. (Created: 2026-08-05)
 - [[philip-murray]]: CIO president and pragmatic strategist who, alongside Matthew Woll, sought to leverage labor's strength to advance Western imperialism and counter Soviet influence in Europe. (Created: 2026-08-01)
 - [[philippines]]: Southeast Asian state negotiating maritime delimitation with Japan over waters east of Taiwan. (Created: 2026-08-03)
+- [[pierbattista-pizzaballa]]: Cardinal and Latin Patriarch of Jerusalem, blocked by Israeli police from celebrating Palm Sunday Mass at the Holy Sepulchre in March 2026. (Created: 2026-08-06)
 - [[pierre-al-rahi]]: Lebanese Christian priest killed by an errant IDF tank round at Qlayaa in March 2026. (Created: 2026-08-03)
 - [[pierre-beaudry]]: Canadian-born historian whose pioneering studies of Benjamin West underpin the essay "A New American Renaissance." (Created: 2026-08-01)
 - [[pinchas-wallerstein]]: Founder of the modern Israeli Settler Movement who called the rise of Jewish terrorism "treason" in a 2026 Haaretz interview. (Created: 2026-08-06)
@@ -1776,6 +1783,7 @@
 - [[operation-zapata]]: Operation Zapata was the CIA code name for the 1961 Bay of Pigs invasion, a failed military operation aimed at overthrowing Fidel Castro's government in Cuba. (Created: 2026-08-01)
 - [[pact-of-diriyah]]: 1744 alliance of Mohammed bin Saud and al-Wahhab fusing political and religious authority, and rejecting taxation. (Created: 2026-08-02)
 - [[palisades-fire]]: Los Angeles wildfire whose aftermath shaped the 2026 mayoral race. (Created: 2026-08-03)
+- [[palm-sunday]]: Christian feast opening Holy Week, at the center of the March 2026 dispute over clergy access to the Church of the Holy Sepulchre. (Created: 2026-08-06)
 - [[pardongate]]: The controversy over Bill Clinton's 140 last-day pardons, read in the corpus as cover for the single pardon of fugitive trader Marc Rich. (Created: 2026-08-02)
 - [[paris-2024-olympics-opening-ceremony]]: July 2024 Olympic ceremony whose Last Supper tableau the corpus reads as engineered outrage designed to divide and distract. (Created: 2026-08-02)
 - [[paris-agreement]]: 2015 climate treaty whose American rejection the corpus reads as a turn away from the Malthusian depopulation agenda. (Created: 2026-08-01)
@@ -1813,6 +1821,7 @@
 - [[rules-based-international-order]]: Western formula the corpus contrasts unfavourably with the UN Charter, characterised as arbitrary and unipolar. (Created: 2026-08-01)
 - [[russiagate]]: The 2016-era Trump–Russia collusion investigations, described throughout the corpus as a manufactured "hoax" now unraveling. (Created: 2026-08-02)
 - [[russian-reset]]: The Obama administration's 2009 diplomatic overture to Russia, described in the corpus as narrative preparation clearing the path for the Uranium One sale. (Created: 2026-08-02)
+- [[safeguard-american-voter-eligibility-act]]: House-passed bill requiring documentary proof of citizenship to register to vote in federal elections. (Created: 2026-08-06)
 - [[safeguarding-venezuelan-oil-revenue]]: Trump's January 9, 2026 executive order shielding Venezuelan oil revenue from seizure, read as an attack on creditor banks. (Created: 2026-08-03)
 - [[sanctions]]: Economic sanctions, presented in the corpus not as punishment but as a deliberate mechanism creating closed financial systems for covert CIA finance. (Created: 2026-08-02)
 - [[satanic-inversion]]: The reversal of moral categories — good presented as oppressive, destruction as liberation — identified as the cabal's signature method. (Created: 2026-08-02)

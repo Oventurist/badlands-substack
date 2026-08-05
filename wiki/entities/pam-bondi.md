@@ -1,10 +1,10 @@
 ---
 title: Pam Bondi
 created: 2026-08-03
-updated: 2026-08-06
+updated: 2026-02-13
 type: entity
 tags: [attorney-general, department-of-justice, appointments, prosecutions]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-695.md, raw/badlands-brief-6f0.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-695.md, raw/badlands-brief-6f0.md, raw/badlands-brief-733.md]
 confidence: high
 contested: false
 ---
@@ -48,6 +48,12 @@ The June 8, 2026 Badlands Brief recalls the [[department-of-justice|DOJ]] letter
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+## House Judiciary hearing and Trump's defense (February 2026)
+
+Bondi testified at a fiery [[house-judiciary-committee]] hearing in February 2026 on the [[jeffrey-epstein]] matter. Afterward, [[donald-trump]] defended her on Truth Social, writing that "AG Pam Bondi, under intense fire from the Trump Deranged Radical Left Lunatics, was fantastic at yesterday's Hearing on the never ending saga of Jeffrey Epstein," and asserting that the proceeding had "conclusively" exonerated him while proving "SLIMEBALL Democrats, many of them big Donors and Politicians" guilty. The same post attacked Representative [[thomas-massie]] as a "Sanctimonious RINO" in "'Wacky' [[liz-cheney]] territory," touting challenger [[ed-gallrein]]. Both Bondi and the legislators drew criticism for their conduct during the hearing.
+
+*Badlands Brief* contributor [[burning-bright|Burning Bright]] argued that whatever the underlying truth, the [[epstein-narrative|Epstein story]] has been weaponized for distraction and division, washing from the news cycle a cascade of state-level corruption revelations, a raid and investigation touching a core pillar of the [[2020-united-states-presidential-election|2020 election]] dispute, and the MAGA leadership's pivot against the globalist superstate.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -62,3 +68,4 @@ This page draws on multiple source articles:
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 733](https://badlands.substack.com/p/badlands-brief-733)
