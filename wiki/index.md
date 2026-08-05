@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-05 | Total pages: 1951
+> Last updated: 2026-08-06 | Total pages: 1953
 
 ## Entities
 
@@ -1144,6 +1144,7 @@
 - [[rupert-murdoch]]: Media proprietor behind News Corp and Fox News, placed inside rather than opposite the centralized media system. (Created: 2026-08-01)
 - [[russell-brand]]: British comedian and activist targeted by coordinated de-platforming efforts following sexual abuse allegations in September 2023. (Created: 2026-08-01)
 - [[russia]]: Great power described as opposing the Iran deal, since Western-partnered Iranian gas was intended to supplant Russian supply to Europe. (Created: 2026-08-02)
+- [[russia-day]]: Russian national holiday of 12 June, the occasion of Putin's 2026 "Collective West" address. (Created: 2026-08-06)
 - [[rwanda]] — Central African state described as sponsor of the M23 insurgency and target of proposed congressional sanctions. (Created: 2026-08-06)
 - [[ryan-delarme]]: Badlands Media contributor and feature writer, author of "The Venezuelan Squeeze" and "A More Perfect (Labor) Union". (Created: 2026-08-01)
 - [[ryan-long]]: Comedian whose October 2023 skit is cited as evidence of the breakdown of partisan scripts around Israel-Palestine. (Created: 2026-08-01)
@@ -1352,6 +1353,7 @@
 - [[united-states-citizenship-and-immigration-services]]: DHS component whose citizenship records underpin the proposed federal state citizenship list. (Created: 2026-08-04)
 - [[united-states-department-of-agriculture]]: Federal department that joined the DOJ antitrust probe of the big four beef packers in 2026. (Created: 2026-08-05)
 - [[united-states-department-of-labor]]: U.S. cabinet department whose Office of Inspector General opened the 2026 H-1B and PERM fraud and trafficking investigation. (Created: 2026-08-03)
+- [[united-states-mens-national-soccer-team]]: USMNT, whose 4–1 World Cup win over Paraguay was framed as evidence of resurgent American spirit. (Created: 2026-08-06)
 - [[united-states-navy]]: Maritime service branch, shown restricting fuel shipments to Cuba amid reported regime-change planning. (Created: 2026-08-04)
 - [[united-states-postal-service]]: Federal mail agency framed in the corpus as the vehicle for both election security (blockchain voting patent) and a revived public banking option. (Created: 2026-08-01)
 - [[united-states-secret-service]]: Federal protective agency whose failure at Butler on July 13, 2024 led to its director's resignation. (Created: 2026-08-02)

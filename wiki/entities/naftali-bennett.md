@@ -1,10 +1,10 @@
 ---
 title: Naftali Bennett
 created: 2026-08-03
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [israel, israeli-politics, palestine, elections]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md, raw/badlands-brief-5dc.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6b4.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-285.md, raw/badlands-brief-5dc.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6b4.md, raw/badlands-brief-708.md]
 confidence: medium
 contested: true
 ---
@@ -34,6 +34,10 @@ The Badlands Brief of June 16, 2026 assigns Bennett a second and much earlier ro
 
 The same edition reproduces a Bennett statement in the context of Jewish and Israeli objections to the emerging US–Iran agreement, using it as evidence for the argument that Netanyahu's likely successor is no less committed to confrontation with [[iran|Iran]]: "most, if not all, of the Israeli political spectrum is pro-war with Iran."
 
+## Response to the 2026 U.S.–Iran deal
+
+Reacting to the U.S.–Iran framework announced in June 2026, Bennett told The Times of Israel that Israel faced "an existential moment," warning that another four years under the incumbent government would leave the country without an economy, a society, or international standing. He said that if elected he would advance his [[octopus-doctrine|Octopus Doctrine]], a multiyear plan to accelerate the collapse of Iran's government while preventing it from acquiring nuclear weapons, and outlined a Haredi policy ending state funding for schools that refuse to teach the core curriculum and cancelling certain benefits for those who neither serve in the military nor work. His remarks accompanied criticism from opposition leader [[yair-lapid|Yair Lapid]] and from National Security Minister [[itamar-ben-gvir|Itamar Ben Gvir]], who argued Israel was not a party to the agreement.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -43,3 +47,4 @@ This page draws on multiple source articles:
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
 - [badlands brief 6b4](https://badlands.substack.com/p/badlands-brief-6b4)
+- [badlands brief 708](https://badlands.substack.com/p/badlands-brief-708)

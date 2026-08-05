@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [congress, syria, antiwar, dni, media-smear]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md, raw/badlands-brief-6f0.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md]
 confidence: medium
 contested: true
 ---
@@ -30,6 +30,12 @@ The March 18, 2026 Badlands Brief identifies Gabbard as Director of National Int
 The June 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] selected [[william-pulte|Bill Pulte]] to serve as acting Director of National Intelligence following Gabbard's announced departure, scheduled to take effect June 30, 2026, and that Trump indicated he does not plan to nominate Pulte on a permanent basis after the acting appointment concludes.
 
 
+## Biolab declassification (June 2026)
+
+In mid-June 2026 Gabbard's [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] released a statement announcing newly declassified evidence concerning the [[us-funded-global-biolab-program|U.S.-funded global biolab program]] — a network of more than 120 biological laboratories in over 30 countries, including facilities in Ukraine. ODNI asserted that some sites had conducted research on hazardous pathogens, including work it characterized as [[gain-of-function-research|gain-of-function research]], and that at least one U.S.-funded Ukrainian laboratory had been assessed as vulnerable to attack, seizure, or damage during the Russia–Ukraine war. Gabbard directed increased intelligence collection on the overseas facilities to identify their locations, pathogens, and ongoing activities. [[rt|RT]] reported that accompanying documents described 40 laboratories in Ukraine and listed anthrax, avian influenza, Ebola, plague, and tuberculosis.
+
+Badlands contributor [[ashe-in-america|Ashe in America]] noted that she had first learned of the biolabs from [[victoria-nuland|Victoria Nuland]]'s 2022 Senate testimony, criticized legacy media for continuing to treat the subject as a conspiracy theory after disclosure, and acknowledged the familiar complaint about "drip drip" disclosure while arguing that "reruns are first runs for many."
+
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
 ## Sources
@@ -42,3 +48,4 @@ This page draws on multiple source articles:
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 708](https://badlands.substack.com/p/badlands-brief-708)

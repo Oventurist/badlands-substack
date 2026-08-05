@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [russia, head-of-state, multipolarity, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-look-at-recent-features.md, raw/a-re-alignment-of-world-systems.md, raw/a-virus-or-a-metaphor.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-245.md, raw/badlands-brief-311.md, raw/badlands-brief-50d.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-708.md]
 confidence: high
 contested: false
 ---
@@ -84,6 +84,10 @@ In the same edition, [[burning-bright|Burning Bright]] treats Putin's assertion 
 
 Putin and [[donald-trump|Donald Trump]] held a roughly 90-minute phone call described by both sides as "productive" and "businesslike." Putin proposed a temporary ceasefire in [[ukraine|Ukraine]] tied to Russia's May 9 Victory Day commemorations and offered assistance on issues related to [[iran|Iran]]'s nuclear program, while warning of broader global consequences if the Iran conflict expanded. Trump said he encouraged Putin to end the Ukraine war first. Major disagreements remained over territorial demands and ceasefire conditions. Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited the call as evidence of the [[sovereign-alliance|Sovereign Alliance]], suggesting Kremlin positions serve as a reliable proxy for Trump's private views.
 
+## Russia Day 2026 remarks
+
+Speaking on 12 June 2026 at a meeting marking [[russia-day|Russia Day]], Putin declared that Russia was standing against the so-called [[collective-west|Collective West]] "single-handedly," and that no external force could impose a strategic defeat on Moscow. He characterized the Ukraine war as a highly technological conflict in which all NATO states were uniformly intensifying their efforts against Russia, restated that Russia had not started the war — attributing it to a Western-orchestrated coup in Ukraine, the resulting need to protect Crimea's population, and Ukrainian air attacks on Donetsk — and drew parallels to the European coalitions assembled against Russia under Napoleon and Hitler. Badlands writer [[burning-bright|Burning Bright]] read the statement as confirmation of his long-running thesis that Russia forms the animating core of the [[sovereign-alliance|Sovereign Alliance]], noting that Putin's "Collective West" vocabulary matched that of his own *Righteous Russia* series and that [[donald-trump|Donald Trump]] had begun directing similar rhetoric at the same bloc while disentangling the Iran conflict.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -110,3 +114,4 @@ This page draws on multiple source articles:
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
+- [badlands brief 708](https://badlands.substack.com/p/badlands-brief-708)
