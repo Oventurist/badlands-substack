@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, peoples-liberation-army, central-military-commission, purge]
-sources: [raw/badlands-brief-577.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-71c.md]
 confidence: medium
 contested: true
 ---
@@ -20,4 +20,7 @@ In the commentary's reading, the arrests represent [[xi-jinping|Xi Jinping]] mov
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-577)
+This page draws on multiple source articles:
+
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
+- [badlands brief 71c](https://badlands.substack.com/p/badlands-brief-71c)

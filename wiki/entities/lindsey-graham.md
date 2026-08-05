@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-05
 type: entity
 tags: [senator, republican, south-carolina, foreign-policy]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-5ba.md, raw/badlands-brief-71c.md]
 confidence: medium
 contested: true
 ---
@@ -33,3 +33,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 71c](https://badlands.substack.com/p/badlands-brief-71c)

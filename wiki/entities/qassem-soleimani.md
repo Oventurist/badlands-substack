@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-05
 type: entity
 tags: [iran, irgc, assassination, protests]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-71c.md]
 confidence: high
 contested: false
 ---
@@ -25,6 +25,12 @@ Soleimani's killing was cited as the motive in an alleged assassination plot dis
 
 In the July 14, 2026 Badlands Brief, [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] claims that [[david-barnea|David Barnea]], who was assigned to "track" Soleimani before becoming [[mossad|Mossad]] director, was actually Soleimani's handler and that the general was a Mossad mole — hence, in his telling, why President [[donald-trump|Donald Trump]] killed him and why Barnea called Trump the night before the operation in an attempt to prevent it.
 
+## Iranian institutional rebuilding (January 2026)
+
+The January 28, 2026 Badlands Brief extends the compromise thesis to Iran's own institutional behavior. Reporting that the [[supreme-national-security-council|Supreme National Security Council]] was undergoing structural change with a stated focus on the "separation of defense and security affairs from each other," alongside an explicit effort to rebuild the country's intelligence and security institutions, prompted GhostofBasedPatrickHenry to ask whether Tehran had concluded it was penetrated at the apex through Soleimani and his alleged Mossad handler [[david-barnea|David Barnea]].
+
+In that reading, the wider set of emergency measures adopted in Tehran — approval of a National Defense Council under Article 176 of the Iranian Constitution, the designation of successors for senior military and civilian officials to prevent leadership gaps, and the delegation of expanded powers to provincial governors by President [[masoud-pezeshkian|Masoud Pezeshkian]] — amounts to a [[continuity-of-government|continuity of government]] architecture resembling [[jon-herold|Jon Herold]]'s [[devolution|devolution]] theory. The measures were adopted as the [[pentagon|Pentagon]] weighed precision strikes on senior Iranian commanders and a blockade of Iranian oil exports, with the [[uss-abraham-lincoln|USS Abraham Lincoln]] strike group deployed to the region. The 2020 strike that killed Soleimani is, in this framing, the paradigm case of the decapitation risk those protocols are designed to absorb.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -32,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 71c](https://badlands.substack.com/p/badlands-brief-71c)

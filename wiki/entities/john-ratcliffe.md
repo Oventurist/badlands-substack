@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-04
 type: entity
 tags: [cia, intelligence, venezuela, diplomacy, trump-administration]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md]
 confidence: medium
 contested: false
 ---
@@ -22,3 +22,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 02a](https://badlands.substack.com/p/badlands-brief-02a)
 - [badlands brief 323](https://badlands.substack.com/p/badlands-brief-323)
+- [badlands brief 71c](https://badlands.substack.com/p/badlands-brief-71c)

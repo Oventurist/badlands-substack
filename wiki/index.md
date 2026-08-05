@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-04 | Total pages: 1948
+> Last updated: 2026-08-05 | Total pages: 1951
 
 ## Entities
 
@@ -871,6 +871,7 @@
 - [[michael-dell]]: Founder of Dell Technologies; 2026 PCAST appointee. (Created: 2026-08-03)
 - [[michael-dimino]]: Deputy Assistant Secretary of War for the Middle East who considers Israel a US security liability; named as a target of alleged Israeli intelligence collection. (Created: 2026-08-06)
 - [[michael-flynn]]: Retired lieutenant general cited in the corpus for calling central bank digital currencies the Mark of the Beast. (Created: 2026-08-02)
+- [[michael-pretti]]: Father of Alex Pretti; family source on his son's radicalization and Colorado ties. (Created: 2026-08-05)
 - [[michael-horowitz]]: DOJ Inspector General with a staff of 470 investigators, assigned in the corpus’s account to investigate in place of a compromised FBI. (Created: 2026-08-02)
 - [[michael-miebach]]: Mastercard president and CEO, expected on the 2026 China business delegation with Trump. (Created: 2026-08-06)
 - [[michael-patrick-leahy]]: CEO and editor-in-chief of Star News Digital Media, publisher of The Arizona Sun Times; discussed the Lake lawsuit on Steve Bannon's War Room. (Created: 2026-08-02)
@@ -965,6 +966,7 @@
 - [[new-york-times]]: Newspaper of record described in the corpus as a historically spook-friendly outlet that hires writers aligned with establishment narratives. (Created: 2026-08-01)
 - [[news-corp]]: Rupert Murdoch's media holding company, one of the Big Six conglomerates. (Created: 2026-08-01)
 - [[newsweek]]: American news magazine cited for Sheinbaum's denial of the El Paso drone incursion and Tony Gonzales's response. (Created: 2026-08-03)
+- [[newt-gingrich]]: Former House Speaker invoked as the emblem of Republican calls for a "middle ground" on immigration enforcement. (Created: 2026-08-05)
 - [[nick-shirly]] — Independent video journalist whose footage documented alleged Somali fraud in Minnesota.
 - [[nicolas-maduro]]: Venezuelan president captured in a U.S. military operation on January 3, 2026; plaintiff in a revived suit against global bank executives. (Created: 2026-08-03)
 - [[nida-allam]]: Sanders-backed North Carolina challenger to Rep. Valerie Foushee in March 2026. (Created: 2026-08-03)
@@ -1371,6 +1373,7 @@
 - [[usaid]]: U.S. Agency for International Development; cited in the corpus as a principal funder of AFL-CIO labor institutes (AIFLD, the Solidarity Center) used for covert labor influence abroad. (Created: 2026-08-01)
 - [[useip]] — United States Election Integrity Plan, the Colorado canvassing group sued for alleged voter intimidation
 - [[usps-board-of-governors]]: Nine-member USPS oversight board that stood empty when Trump took office in 2017, allowing him to appoint it in full and install Louis DeJoy. (Created: 2026-08-01)
+- [[uss-abraham-lincoln]]: Nimitz-class carrier deployed against Iran in January 2026 as part of Trump's "beautiful armada." (Created: 2026-08-05)
 - [[uss-gerald-r-ford]]: Largest warship ever built; its May 2026 Atlantic transit was read as proof the Iran deal was already done. (Created: 2026-08-04)
 - [[uss-spruance]]: US Navy destroyer that intercepted the Iranian-flagged cargo vessel M/V Touska in the north Arabian Sea in April 2026. (Created: 2026-08-06)
 - [[valerie-foushee]]: North Carolina Democratic congresswoman challenged by Nida Allam in March 2026. (Created: 2026-08-03)
