@@ -45,6 +45,20 @@ def mark_done(slug):
     subprocess.run(QUEUE + ["done", slug], capture_output=True, text=True, cwd=PROJ)
 
 
+def pages_citing(slug):
+    """Count wiki pages whose content references the raw article slug."""
+    import glob
+    n = 0
+    for p in glob.glob(str(PROJ / "wiki" / "entities" / "*.md")) + \
+             glob.glob(str(PROJ / "wiki" / "concepts" / "*.md")):
+        try:
+            if slug in open(p, encoding="utf-8", errors="replace").read():
+                n += 1
+        except OSError:
+            pass
+    return n
+
+
 def run_worker(model, provider, max_articles, worker_id, stats):
     done_count = 0
     while max_articles is None or done_count < max_articles:
@@ -68,16 +82,24 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                 capture_output=True, text=True, timeout=2400, cwd=str(PROJ))
             dt = time.time() - t0
             out = r.stdout or ""
-            ok = "done:" in out.lower() and r.returncode == 0
-            # trust the LLM's own done marker only if it names the slug
+            # success = exit 0 AND the report names the CLAIMED slug AND pages
+            # actually cite that slug (guards against the model ingesting a
+            # different article than the one we claimed)
+            report_slug = None
+            for line in out.lower().splitlines():
+                if line.startswith("done:"):
+                    report_slug = line.split(":")[1].strip().split()[0]
+                    break
+            ok = (r.returncode == 0 and report_slug == slug
+                  and pages_citing(slug) > 0)
             if ok:
                 mark_done(slug)
                 stats["done"] += 1
                 done_count += 1
-                log(f"worker{worker_id}: OK {slug} in {dt:.0f}s -> {out.strip().splitlines()[-1][:60]}")
+                log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({pages_citing(slug)} pages cite it)")
             else:
                 stats["failed"] += 1
-                log(f"worker{worker_id}: FAIL {slug} in {dt:.0f}s rc={r.returncode}")
+                log(f"worker{worker_id}: FAIL {slug} in {dt:.0f}s rc={r.returncode} report={report_slug} cited={pages_citing(slug)}")
                 log(f"  stderr: {(r.stderr or '')[-200:].strip()}")
                 log(f"  stdout tail: {out[-200:].strip()}")
                 # failed article: release its claim so another worker can retry

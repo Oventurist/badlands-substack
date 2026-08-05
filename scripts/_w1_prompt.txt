@@ -23,25 +23,21 @@ CITATION RULES (Wikipedia-style numbered inline citations — MANDATORY):
 - Do NOT invent citation numbers for articles not in the page's sources frontmatter.
 
 INGEST PROCEDURE (run every tick):
-1) python C:/Users/14053/hermes-projects/badlands-substack/scripts/wiki_queue.py claim
-   - If it prints "DONE" (or the queue is empty), do nothing and exit.
-   - Else it prints an absolute path to a raw article, e.g. C:/.../raw/ART.md — this article is now ATOMICALLY CLAIMED by you (no other worker can take it).
-2) Read that raw article fully.
-3) Create/Update pages (all under wiki/, absolute paths, kebab slugs):
+1) The article to ingest is given at the bottom of this prompt ("CURRENT ARTICLE TO INGEST"). DO NOT run wiki_queue.py claim — the article is already claimed for you. Read that raw article fully.
+2) Create/Update pages (all under wiki/, absolute paths, kebab slugs):
    NOTE: Do NOT create a separate "article page" (wiki/concepts/SLUG.md). The original article is preserved in raw/<slug>.md, and every entity/concept page links back to it via its `sources:` frontmatter + References section.
    ENTITY/CONCEPT PAGES for each notable person/org/law/event/institution in the article: wiki/entities/ or wiki/concepts/ SLUG.md. One page per entity. Same frontmatter style (type: entity or concept). Comprehensive prose, not stubs. This is the PRIMARY deliverable.
    ENTITY SELECTION RULE (IMPORTANT): do NOT limit yourself to proper names and acronyms. Create pages for ANY institution, agency, or generic-but-central entity that the article treats as a significant actor — including generic government bodies such as "State Department", "Pentagon", "Congress", "White House", "Senate", "CIA", "Federal Reserve", regulatory agencies, courts, and international bodies — IF the article discusses that entity's role substantively. When in doubt, create the page.
    - IF THE PAGE ALREADY EXISTS: UPDATE it. CRITICAL — WRITE GATE: before reading/writing ANY existing page, run `python C:/Users/14053/hermes-projects/badlands-substack/scripts/wiki_page_lock.py acquire <slug>`; if it exits 0, read the page, MERGE this article's new information (append new sections or enrich existing ones, adding [n] citations for this article), then run `python C:/Users/14053/hermes-projects/badlands-substack/scripts/wiki_page_lock.py release <slug>`. If acquire exits 1 (page busy with another worker), WAIT a few seconds and retry — do NOT skip or overwrite.
      CRITICAL: append this article's basename (as `raw/<basename>.md`) to the existing `sources:` frontmatter list if not already present, bump `updated:` date, and add the new article to the ## References list with its next number. Do NOT overwrite/destroy existing content.
    - IF THE PAGE DOES NOT EXIST: create it fresh (no lock needed).
-4) WIKILINK RULE (prevents broken links):
+3) WIKILINK RULE (prevents broken links):
    - ONLY wrap a mention in [[slug]] if a page file for that slug ALREADY EXISTS or you are CREATING it in this same run.
    - If you mention an entity you are NOT creating a page for, write it as PLAIN TEXT (no brackets). Never leave a [[link]] to a nonexistent page.
    - Weave links INLINE into the prose where the name is mentioned. Use [[slug|Display Text]] when display differs from slug.
-5) MARK DONE + UNLOCK: python C:/Users/14053/hermes-projects/badlands-substack/scripts/wiki_queue.py done <basename.md>  (this also clears the claim lock)
-6) FINAL REPORT: respond with ONE line only: "done: <raw-slug> -> created N, updated M". Do NOT write a verbose multi-line report — it wastes output tokens.
+4) FINAL REPORT: respond with ONE line only: "done: <raw-slug> -> created N, updated M". Do NOT run wiki_queue.py done — the driver handles queue bookkeeping. Do NOT write a verbose multi-line report — it wastes output tokens.
 
 QUALITY BAR: real Wikipedia cadence, full coverage of the source, inline [n] citations on every substantive claim, ## References section at the bottom of every page, inline links only to existing/created pages, kebab-case filenames only, always merge into existing pages under the page lock and append sources. Canonical sources: [raw/...] inline form ONLY.
 
 
-CURRENT ARTICLE TO INGEST: C:\Users\14053\hermes-projects\badlands-substack\raw\badlands-brief-7bf.md
+CURRENT ARTICLE TO INGEST: C:\Users\14053\hermes-projects\badlands-substack\raw\badlands-brief-7b5.md
