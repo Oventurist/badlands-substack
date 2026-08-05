@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md]
 confidence: medium
 contested: true
 ---
@@ -92,6 +92,14 @@ The Brief recalls that exactly one month earlier, on May 9, Netanyahu told [[yad
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+## July 2026: the cancelled Washington trip
+
+Israeli reports in mid-July 2026 that Netanyahu would travel to Washington the following week for a meeting with President [[donald-trump]] collided with senior [[white-house]] officials telling [[axios]] that no such meeting had been scheduled. One official described the Israeli reporting as an apparent attempt to "will the meeting into existence." According to Axios, Netanyahu had been seeking a meeting for more than two weeks — a marked departure from the quick access he had enjoyed earlier in the year — amid reported policy disagreements over [[iran]], [[syria]], [[lebanon]], and proposed US arms sales to [[turkey]]. Netanyahu's office subsequently cancelled the planned trip, citing changes to the funeral schedule for Senator [[lindsey-graham]]. No rescheduled meeting was announced.
+
+[[ghostofbasedpatrickhenry]] read the episode as confirmation of a long-running Badlands thesis that the Trump–Netanyahu friendship is a charade and that Trump has been baiting Netanyahu into an indefensible position. He dated the rupture to Netanyahu's Fox News appearance the day before Trump flew to Turkey for the NATO summit, in which the prime minister rebuked the decision to sell Turkey F-35 fighter jets; according to [[barak-ravid]]'s White House sources, Trump was "pissed off" that Netanyahu had weighed in.
+
+The commentary framed this as a repeat of the previous year's UN General Assembly visit, when Netanyahu effectively announced his own White House meeting before Washington had. Trump responded then by hosting Turkish President [[recep-tayyip-erdogan]] the day before Netanyahu's General Assembly address, signing a nuclear trade deal with Turkey, and receiving Netanyahu without band, diplomats, or color guard — while using the visit to unveil the twenty-point Gaza peace plan. On this occasion, by contrast, White House staff ensured the press learned of the second attempt to force a meeting while denying any meeting had ever been on the President's schedule.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -118,3 +126,4 @@ This page draws on multiple source articles:
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 6f4](https://badlands.substack.com/p/badlands-brief-6f4)

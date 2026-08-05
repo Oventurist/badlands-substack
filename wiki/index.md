@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-06 | Total pages: 1902
+> Last updated: 2026-08-04 | Total pages: 1921
 
 ## Entities
 
@@ -38,26 +38,26 @@
 - [[airbus]]: European aerospace consortium based in France; used in the corpus as a foil to Boeing's decline, illustrating an alleged shift of Deep State power to Europe. (Created: 2026-08-02)
 - [[al-gore]]: U.S. Vice President 1993-2001 and climate advocate; named in the corpus as a participant in the Western management of post-Soviet Perestroika and a close friend of Chrystia Freeland. (Created: 2026-08-01)
 - [[al-green]]: Texas Democratic congressman challenged by Christian Menefee in the March 3, 2026 primary. (Created: 2026-08-03)
-- [[al-qaeda-in-the-islamic-maghreb]]: North African Al Qaeda affiliate identified by Investors Business Daily, and by the Badlands corpus, as the force that attacked the U.S. consulate in Benghazi using arms seized from the Libyan army. (Created: 2026-08-01)
 - [[al-jazeera]]: Qatar-based international news network cited for Ali Shamkhani's remarks on Iran's missile program. (Created: 2026-08-03)
+- [[al-qaeda-in-the-islamic-maghreb]]: North African Al Qaeda affiliate identified by Investors Business Daily, and by the Badlands corpus, as the force that attacked the U.S. consulate in Benghazi using arms seized from the Libyan army. (Created: 2026-08-01)
 - [[al-qaeda]]: Militant Islamist organization founded by Osama Bin Laden; the source claims its Libyan affiliate was knowingly supported by the U.S. government under the cover of regime change. (Created: 2026-08-01)
 - [[alan-dershowitz]]: American attorney and Israel advocate reported to have urged Netanyahu to defy Trump and continue the war. (Created: 2026-08-03)
 - [[alan-wilson]]: South Carolina attorney general and 2026 gubernatorial run-off candidate endorsed by Nancy Mace against Trump-backed Pamela Evette. (Created: 2026-08-03)
 - [[alawites]]: Syrian religious community from which Bashar al-Assad hails; cited as evidence that Syrians were not unanimously joyful at his fall. (Created: 2026-08-02)
 - [[alberta-prosperity-project]] — Alberta independence group that met three times with the US State Department and seeks a $500 billion US credit line. (Created: 2026-08-06)
 - [[alberta]] — Canadian province supplying 80% of Canada's oil and 60% of its natural gas; focus of the 2026 independence campaign. (Created: 2026-08-06)
+- [[alejandro-brito]]: Attorney who filed Trump's $5 billion lawsuit against JPMorgan Chase in Florida state court in Miami over the 2021 closure of Trump Organization accounts. (Created: 2026-08-06)
 - [[alex-pretti]]: U.S. citizen protester fatally shot on January 24, 2026 during Operation Metro Surge in Minnesota. (Created: 2026-08-03)
 - [[alex-soros]]: Chair of the Open Society Foundations; his announced engagement to Huma Abedin is read in the corpus as a dynastic alliance among "Cabal families." (Created: 2026-08-02)
 - [[alexandria-ocasio-cortez]]: Progressive New York congresswoman backing insurgent challengers in the 2026 Democratic primaries. (Created: 2026-08-03)
-- [[alejandro-brito]]: Attorney who filed Trump's $5 billion lawsuit against JPMorgan Chase in Florida state court in Miami over the 2021 closure of Trump Organization accounts. (Created: 2026-08-06)
 - [[ali-abdollahi]]: Commander of Iran's Khatam al-Anbiya Central Headquarters, who warned the US and Israel against strikes during Khamenei's funeral. (Created: 2026-08-03)
 - [[ali-al-zaidi]] — Newly elected Iraqi prime minister hosted at the White House in July 2026
 - [[ali-ibn-abi-talib]]: Fourth Rashidun caliph and, in the source's account, the first Muslim; the dispute over his succession produced the Sunni-Shia split. (Created: 2026-08-02)
 - [[ali-khamenei]]: Supreme Leader of Iran; subject of the contradictory "fake and gay, but also real" narratives dissected in Badlands Blitz Episode 12. (Created: 2026-08-02)
 - [[ali-larijani]]: Senior Iranian official who said the 2026 war would not end before Iran's enemies were made "sorry for their grave miscalculation." (Created: 2026-08-03)
-- [[ali-shamkhani]]: Senior adviser to Iran's supreme leader who declared the Islamic Republic's missile capabilities "non-negotiable." (Created: 2026-08-03)
 - [[ali-sait-akin]]: Turkish Consul General in Benghazi; the last known official to meet Ambassador Christopher Stevens, roughly one hour before the September 11, 2012 assault. (Created: 2026-08-01)
 - [[ali-sallabi]]: Muslim Brotherhood preacher who negotiated Abdelhakim Belhaj's release from Libyan prison in 2009. (Created: 2026-08-01)
+- [[ali-shamkhani]]: Senior adviser to Iran's supreme leader who declared the Islamic Republic's missile capabilities "non-negotiable." (Created: 2026-08-03)
 - [[alliance-fleuve-congo]] — Rwanda-linked Congolese coalition led by Corneille Nangaa that denounced the US-DRC minerals partnership. (Created: 2026-08-06)
 - [[alois-zwinggi]] — Swiss WEF executive named interim chief executive of the World Economic Forum in February 2026.
 - [[alphabet-inc]]: Holding company of Google; named in the corpus among the five dominant U.S. firms and alleged to have received Google Earth as a repurposed CIA satellite. (Created: 2026-08-02)
@@ -176,6 +176,7 @@
 - [[bp]]: British Petroleum; Atlantic Council funder and BlackRock holding said to have stood to gain from the reopening of Iran. (Created: 2026-08-02)
 - [[brad-karp]] — Paul Weiss chairman who resigned amid the February 2026 Epstein disclosures
 - [[brandon-gill]] — US congressman whose five-minute questioning at the Minnesota Somali fraud hearings prompted Badlands criticism of the format. (Created: 2026-08-03)
+- [[brazil]] — Largest South American economy; target of the July 2026 Section 301 tariff action.
 - [[brenda-lee-brown-armstrong]]: California signature collector indicted in May 2026 for paying homeless people on Skid Row to register to vote. (Created: 2026-08-04)
 - [[bret-baier]] — News anchor to whom MBS stated his desire for nuclear weapons
 - [[brett-kavanaugh]]: Supreme Court associate justice who received a rare public apology from Sonia Sotomayor over a 2026 immigration dissent. (Created: 2026-08-03)
@@ -224,8 +225,8 @@
 - [[chagos-islands]]: Indian Ocean archipelago at the centre of a UK-Mauritius sovereignty transfer and a reported US purchase proposal. (Created: 2026-08-03)
 - [[charlie-kirk]]: Founder of Turning Point USA and conservative campus figure cited in the corpus as a target of the campus deplatforming dynamic. (Created: 2026-08-01)
 - [[charlotte-sweeney]] — US District Judge for Colorado who entered Rule 52(c) judgment against the NAACP v. USEIP plaintiffs
-- [[chauntyll-louisa-allen]]: Individual arrested in January 2026 at Attorney General Pam Bondi's direction in connection with the coordinated attack on Cities Church in St. Paul, Minnesota. (Created: 2026-08-06)
 - [[chatgpt]]: OpenAI's conversational large language model; the instrument of Justin Deschamps's experiment mapping the Toronto Protocols as a military campaign. (Created: 2026-08-02)
+- [[chauntyll-louisa-allen]]: Individual arrested in January 2026 at Attorney General Pam Bondi's direction in connection with the coordinated attack on Cities Church in St. Paul, Minnesota. (Created: 2026-08-06)
 - [[chaya-raichik]]: Conservative social media personality who runs Libs of TikTok; amplified StopAntisemitism firings while herself condemning doxxing, described by the corpus as a "blatant hypocrite." (Created: 2026-08-01)
 - [[chechnya]] — Russian republic led by Ramzan Kadyrov, named by Zelensky as a target for a “Maduro-style” US operation. (Created: 2026-08-03)
 - [[cheddi-jagan]]: Marxist-leaning Guyanese premier whose 1962-63 government was destabilized by a CIA-funded three-month general strike organized through AFL-CIO labor institutes. (Created: 2026-08-01)
@@ -273,8 +274,8 @@
 - [[colin-mcdonald]] — Federal prosecutor nominated in January 2026 as the first Assistant Attorney General for National Fraud Enforcement. (Created: 2026-08-06)
 - [[collin-allred]]: Former Texas congressman who challenged Rep. Julie Johnson in the March 2026 primary. (Created: 2026-08-03)
 - [[colombia]] — South American state whose president Gustavo Petro is treated in the corpus as the righteous actor against the cartels. (Created: 2026-08-03)
-- [[colorado]]: US state at the center of the Tina Peters prosecution, the Jaquez Lewis sentencing disparity and Governor Jared Polis's clemency deliberations. (Created: 2026-08-05)
 - [[colorado-springs]]: Colorado city where a staged 2023 cross burning preceded Yemi Mobolade’s mayoral win. (Created: 2026-08-03)
+- [[colorado]]: US state at the center of the Tina Peters prosecution, the Jaquez Lewis sentencing disparity and Governor Jared Polis's clemency deliberations. (Created: 2026-08-05)
 - [[combating-terrorism-center]]: Research center at West Point whose study of foreign fighters in Iraq is cited as military proof that the Libyan Islamic Fighting Group had joined Al-Qaeda. (Created: 2026-08-01)
 - [[comcast]]: Telecommunications and media conglomerate, owner of NBCUniversal and one of the Big Six. (Created: 2026-08-01)
 - [[commodity-futures-trading-commission]]: U.S. derivatives regulator, led from 2017 by blockchain advocate J. Christopher Giancarlo, under whose oversight Bitcoin futures launched in December 2017. (Created: 2026-08-02)
@@ -302,11 +303,11 @@
 - [[dan-crenshaw]]: Four-term Republican congressman from Texas's 2nd district, defeated in the March 2026 primary by state Representative Steve Toth. (Created: 2026-08-05)
 - [[dan-gertler]] — Israeli mining financier said to have bribed his way into a relationship with Congolese president Joseph Kabila. (Created: 2026-08-06)
 - [[daniel-goldman]]: New York Democrat who noted the Clinton depositions set a precedent for congressional inquiries. (Created: 2026-08-03)
-- [[daniel-richman]]: Columbia Law professor and Comey associate at the center of the revived 2026 classified-leaks investigation. (Created: 2026-08-05)
 - [[daniel-noboa]]: President of Ecuador leading a military-backed campaign against organized crime. (Created: 2026-08-04)
 - [[daniel-pearson]]: Miami attorney appointed independent counsel to investigate Commerce Secretary Ron Brown’s finances; the inquiry ended with Brown’s death in April 1996. (Created: 2026-08-02)
-- [[danny-danon]]: Israel's Ambassador to the United Nations, condemned in the corpus for appearing to propose lists of Americans who criticize his government. (Created: 2026-08-05)
+- [[daniel-richman]]: Columbia Law professor and Comey associate at the center of the revived 2026 classified-leaks investigation. (Created: 2026-08-05)
 - [[danielle-smith]] — Premier of Alberta who announced an October 2026 independence-process referendum
+- [[danny-danon]]: Israel's Ambassador to the United Nations, condemned in the corpus for appearing to propose lists of Americans who criticize his government. (Created: 2026-08-05)
 - [[darpa]]: Defense Advanced Research Projects Agency; presented in the corpus as the taxpayer-funded origin of technologies later rebranded as private consumer products. (Created: 2026-08-02)
 - [[david-ames-wells]]: Observer cited for documenting technological advancements and deflation-era productivity from 1870–1890. (Created: 2026-08-01)
 - [[david-barnea]]: Outgoing Mossad director; Badlands commentary alleges his Mossad deeply infiltrated Iran's government and that Qassem Soleimani was his mole. (Created: 2026-08-05)
@@ -416,7 +417,6 @@
 - [[farc]]: Colombian militia group whose leaders Neil Barofsky prosecuted on narcotics charges. (Created: 2026-08-03)
 - [[fatih-birol]]: Executive director of the International Energy Agency who warned of imminent European jet fuel shortages. (Created: 2026-08-05)
 - [[fbi]]: Federal Bureau of Investigation; alleged alongside the CIA to have run record labels and engineered the rise of gangster rap. (Created: 2026-08-01)
-- [[fidelity-investments]]: US asset manager and donor-advised-fund giant that paused SPLC contributions in May 2026 after a federal indictment. (Created: 2026-08-05)
 - [[february-17-brigade]]: Elite Libyan military unit commanded by Abdelhakim Belhaj during the 2011 revolution; cited in the source as the group assigned to security at the Benghazi consulate that did nothing to stop the 2012 attack. (Created: 2026-08-01)
 - [[federal-aviation-administration]]: U.S. civil aviation regulator whose Pilot's Handbook supplies the definition of spatial disorientation cited in Badlands commentary. (Created: 2026-08-01)
 - [[federal-communications-commission]] — US broadcast regulator at the center of the license-revocation dispute
@@ -429,8 +429,10 @@
 - [[ferdinand-marcos-jr]]: President of the Philippines, co-announcer of the 2026 Japan-Philippines maritime delimitation talks. (Created: 2026-08-03)
 - [[ferran-torres]] — Spanish substitute who scored the winning goal in the 2026 final
 - [[fidel-castro]]: Cuban revolutionary who took power in 1959; chronological anchor for the corpus's account of the 2026 Cuban succession talks. (Created: 2026-08-03)
+- [[fidelity-investments]]: US asset manager and donor-advised-fund giant that paused SPLC contributions in May 2026 after a federal indictment. (Created: 2026-08-05)
 - [[fifa]]: International football governing body; Clinton Global Initiative donor whose leadership was arrested on U.S. corruption charges in 2015. (Created: 2026-08-02)
 - [[financial-times]]: London-based financial newspaper credited with reporting Saudi Arabia's proposed non-aggression pact with Iran. (Created: 2026-08-04)
+- [[fire-point]] — Ukrainian drone manufacturer linked in commentary to Timur Mindich.
 - [[first-choice-womens-resource-centers]]: New Jersey crisis pregnancy center network that won a 2026 Supreme Court ruling allowing a federal challenge to a state subpoena. (Created: 2026-08-06)
 - [[food-and-drug-administration]]: US regulator to which Jia Bei Zhu was convicted of making a false statement in the Universal Meditech case. (Created: 2026-08-03)
 - [[force-ouvriere]]: French trade union founded in 1948 as a breakaway from the communist CGT; cited in the corpus as a non-communist rival funded by CIA millions to split European labor along Cold War lines. (Created: 2026-08-01)
@@ -496,8 +498,8 @@
 - [[harmeet-dhillon]]: Republican attorney named in the corpus among the lawyers fighting for election integrity in Arizona after the 2022 election. (Created: 2026-08-02)
 - [[harvard-university-muslim-alumni]]: Harvard alumni association identified in the corpus as the referent of “HUMA” in Q drop #111 and linked to Prince Alwaleed’s alleged funding of Obama’s education. (Created: 2026-08-02)
 - [[hasan-piker]]: Democratic socialist streamer subpoenaed in the Treasury probe of the 2026 Cuba aid convoy. (Created: 2026-08-03)
-- [[hassan-rouhani]]: Iranian president (2013-2021) whose tenure marked Iran's pivot toward Russia, the nuclear deal with the Obama administration, and 2018 central banker arrests. (Created: 2026-08-05)
 - [[hashim-ibn-abd-manaf]]: Meccan warrior and great-grandfather of Muhammad, namesake of the Banu Hashim, remembered as "he who feeds the starving." (Created: 2026-08-02)
+- [[hassan-rouhani]]: Iranian president (2013-2021) whose tenure marked Iran's pivot toward Russia, the nuclear deal with the Obama administration, and 2018 central banker arrests. (Created: 2026-08-05)
 - [[hayat-tahrir-al-sham]]: Syrian militant coalition that toppled Bashar al-Assad in December 2024; described in the corpus as a rebranded al-Qaeda backed by foreign money and arms. (Created: 2026-08-02)
 - [[heather-honey]]: DHS election-integrity official and Cleta Mitchell protege implementing the 2026 citizenship-verification order. (Created: 2026-08-04)
 - [[hennepin-county-attorneys-office]] — Minnesota county prosecuting authority investigating federal immigration agents in 2026.
@@ -521,11 +523,12 @@
 - [[hugo-chavez]]: Hugo Rafael Chávez Frías (1954–2013) was a Venezuelan politician who served as president of Venezuela from 1999 until his death in 2013. (Created: 2026-08-01)
 - [[huma-abedin]]: Longtime Hillary Clinton aide whose engagement to Alex Soros the corpus treats as a possible consolidation among Cabal families. (Created: 2026-08-02)
 - [[human-artistry-campaign]] — Creative-industry advocacy coalition opposing generative AI use of copyrighted works
-- [[hunter-biden]]: Son of Joe Biden; awarded $1.7 million in punitive damages in his defamation suit against Patrick Byrne over Iranian bribery claims. (Created: 2026-08-05)
 - [[hungary]]: Central European EU member state whose hard-line border regime persisted through the 2026 change of government. (Created: 2026-08-03)
+- [[hunter-biden]]: Son of Joe Biden; awarded $1.7 million in punitive damages in his defamation suit against Patrick Byrne over Iranian bribery claims. (Created: 2026-08-05)
 - [[ian-telfer]]: Canadian chairman of Uranium One whose Fernwood Foundation made millions in undisclosed donations to the Clinton Foundation during the Russian acquisition. (Created: 2026-08-02)
 - [[ibrahim-traore]] — Burkinabè military leader alleging Western chemical poisoning offers
 - [[idit-silman]] — Israeli environmental protection minister who reclassified Nile crocodiles
+- [[igor-kolomoisky]] — Disgraced Ukrainian oligarch whose media empire launched Zelenskyy's career.
 - [[ihor-kolomoisky]] — Ukrainian oligarch, PrivatBank founder, Maidan leader and militia financier who recruited Zelenskyy. (Created: 2026-08-03)
 - [[ilham-aliyev]] — President of Azerbaijan, named among regional leaders aligned with Trump-era Middle East diplomacy. (Created: 2026-08-04)
 - [[ilhan-omar]]: Somali-born Minnesota Democratic congresswoman targeted by Trump over the Minnesota Somali fraud scandal. (Created: 2026-08-03)
@@ -586,6 +589,7 @@
 - [[james-talarico]]: Texas state representative who won the March 2026 Democratic US Senate primary, defeating Jasmine Crockett. (Created: 2026-08-05)
 - [[jamie-dimon]]: JPMorgan Chase CEO named as a defendant in Trump's $5 billion debanking lawsuit. (Created: 2026-08-06)
 - [[jamie-raskin]]: Maryland Democrat who called the DOJ's Epstein file release a potential cover-up. (Created: 2026-08-03)
+- [[jamieson-greer]] — US Trade Representative who announced the 25% Brazil tariffs.
 - [[jane-fraser]]: Citigroup CEO, expected on the 2026 China business delegation with Trump. (Created: 2026-08-06)
 - [[janet-reno]]: Attorney General under Bill Clinton; flagged Ron Brown’s unreported payments in 1995 and received the case back at DOJ after his death. (Created: 2026-08-02)
 - [[janet-yellen]]: Federal Reserve chair 2014-2018, disparaged in the corpus as an inherited holdover Trump had to keep for two years. (Created: 2026-08-02)
@@ -613,11 +617,12 @@
 - [[jekyll-island-meeting]]: 1910 secret gathering where seven bankers and politicians allegedly drafted the Federal Reserve blueprint. (Created: 2026-08-01)
 - [[jen-psaki]]: Former White House Press Secretary turned MSNBC host, cited as an example of the state of cable punditry. (Created: 2026-08-01)
 - [[jena-griswold]]: Colorado Secretary of State sued by the RNC in 2026 over overseas voter registration guidance. (Created: 2026-08-03)
-- [[jenny-racicot]]: Former romantic partner of Graham Platner whose public sexual assault allegation threw his 2026 Maine Senate campaign into turmoil. (Created: 2026-08-06)
 - [[jennifer-wright]]: Arizona assistant attorney general in the Election Integrity Unit; author of the November 19, 2022 letter demanding an accounting from Maricopa County. (Created: 2026-08-02)
+- [[jenny-racicot]]: Former romantic partner of Graham Platner whose public sexual assault allegation threw his 2026 Maine Senate campaign into turmoil. (Created: 2026-08-06)
 - [[jensen-huang]]: Nvidia co-founder and CEO; 2026 PCAST appointee. (Created: 2026-08-03)
 - [[jeremy-bash]]: Department of Defense Chief of Staff under Leon Panetta; his "spinning up as we speak" message is cited as proof that forces were available on the night of Benghazi. (Created: 2026-08-01)
 - [[jerome-powell]]: Fed chairman appointed by Trump in 2018 who raised rates aggressively, preceding a 20% market drop and 2019 cuts. (Created: 2026-08-02)
+- [[jerusalem-post]] — Israeli newspaper that reported Eyal Zamir's "10 red flags" collapse warning to the security cabinet. (Created: 2026-08-06)
 - [[jesse-strang]]: Suspect named in reporting on the February 2026 Tumbler Ridge school shooting in Canada. (Created: 2026-08-03)
 - [[jesuits]]: Religious order presented in the corpus as controllers of French North America and as running slander and manipulation operations against settler-native relations. (Created: 2026-08-01)
 - [[jewish-mafia]]: Organized crime network headed by Meyer Lansky, placed above the Italian Mafia and below the CIA in the corpus hierarchy. (Created: 2026-08-01)
@@ -627,7 +632,6 @@
 - [[jim-jordan]]: House Judiciary Committee chairman who referred Jack Smith to the Justice Department for possible criminal investigation. (Created: 2026-08-03)
 - [[jimmy-carter]]: Former president and co-chair of the 2005 Carter-Baker commission cited in Alito's mail ballot dissent. (Created: 2026-08-03)
 - [[joao-goulart]]: Brazilian president (1961-64) overthrown in the 1964 coup; the corpus claims AIFLD alumni in the metalworkers' union provided CIA and DoD intelligence justifying the intervention. (Created: 2026-08-01)
-- [[jerusalem-post]] — Israeli newspaper that reported Eyal Zamir's "10 red flags" collapse warning to the security cabinet. (Created: 2026-08-06)
 - [[joe-biden]]: U.S. Senator and later 46th President; named as co-author of the 1994 Crime Bill that filled newly privatized prisons. (Created: 2026-08-01)
 - [[joe-digenova]]: Trump ally and counselor to acting AG Todd Blanche supervising the grand conspiracy probe. (Created: 2026-08-03)
 - [[joe-kent]]: Director of the National Counterterrorism Center who resigned in March 2026 as the first senior Trump official to quit over the Iran war. (Created: 2026-08-05)
@@ -654,8 +658,8 @@
 - [[john-reimberg]]: Ecuador's interior minister, on the permanent FBI presence in the country. (Created: 2026-08-04)
 - [[john-roberts]]: Chief Justice who joined the 5-4 majority upholding Mississippi's late mail ballot law. (Created: 2026-08-03)
 - [[john-sarcone]] — US Attorney for the Northern District of New York disqualified in January 2026 for serving unlawfully. (Created: 2026-08-03)
-- [[john-solomon]]: Investigative journalist and founder of Just the News; central figure of the RICO Grande accountability narrative. (Created: 2026-08-06)
 - [[john-singleton-copley]]: American painter and West student whose 1781 death-of-Chatham painting juxtaposed the scene with the 1588 defeat of the Spanish Armada. (Created: 2026-08-01)
+- [[john-solomon]]: Investigative journalist and founder of Just the News; central figure of the RICO Grande accountability narrative. (Created: 2026-08-06)
 - [[john-the-apostle]]: Exiled apostle credited with the book of Revelation, the Gospel of John and 1-3 John. (Created: 2026-08-02)
 - [[john-thune]] — Senate Majority Leader who pledged swift confirmation of the new fraud-focused assistant attorney general. (Created: 2026-08-03)
 - [[john-tiegen]]: Former Marine and CIA Global Response Staff contractor at the Benghazi annex who pressed the base chief to move before the alleged stand-down order was given. (Created: 2026-08-01)
@@ -677,10 +681,10 @@
 - [[joseph-digenova]] — Trump 2020 election attorney appointed to lead the DOJ criminal investigation into John Brennan. (Created: 2026-08-03)
 - [[joseph-kabila]] — Former DRC president convicted of treason in absentia and reportedly killed on January 25, 2026. (Created: 2026-08-06)
 - [[josh-hawley]] — Missouri Republican senator and the party's most aggressive critic of AI deregulation. (Created: 2026-08-04)
-- [[jpmorgan-chase]]: Largest US bank by assets; sued by Trump for $5 billion over the alleged 2021 political termination of Trump Organization accounts and placement on an internal banking blacklist. (Created: 2026-08-06)
-- [[journal-of-muslim-minority-affairs]]: Academic journal founded in Jeddah, described in the corpus as a Muslim Brotherhood propaganda organ at which Huma Abedin was assistant editor for twelve years. (Created: 2026-08-02)
 - [[joshua-reid]]: Badlands Media host invoked by audience members during the May 2026 dispute over the Comey "8647" indictment. (Created: 2026-08-05)
+- [[journal-of-muslim-minority-affairs]]: Academic journal founded in Jeddah, described in the corpus as a Muslim Brotherhood propaganda organ at which Huma Abedin was assistant editor for twelve years. (Created: 2026-08-02)
 - [[joy-reid]]: MSNBC host cited as emblematic of partisan, substance-free cable programming. (Created: 2026-08-01)
+- [[jpmorgan-chase]]: Largest US bank by assets; sued by Trump for $5 billion over the alleged 2021 political termination of Trump Organization accounts and placement on an internal banking blacklist. (Created: 2026-08-06)
 - [[juan-garcia-abrego]]: Juan García Abrego is the former leader of the gulf-cartel, identified in the Badlands Media article a-family-affair as the trafficker who transformed the cartel from smugglers into cocaine suppliers and who partnered with the cali-cartel to restructure Mexican trafficking operations. (Created: 2026-08-01)
 - [[judicial-watch]]: Conservative legal watchdog credited with documenting the sale of seats on Commerce Department trade missions and with subpoenaing Ron Brown’s records. (Created: 2026-08-02)
 - [[judy-shelton]]: Trump's Federal Reserve nominee; identified as an advocate for restoring the gold standard. (Created: 2026-08-01)
@@ -702,6 +706,7 @@
 - [[kash-patel]]: Former Trump administration national security official and close Trump ally, cited as having projected that the 2024 announcement would 'light the media world on fire.' (Created: 2026-08-02)
 - [[kat-cammack]]: Florida Republican and sponsor of H.Res. 500 requiring criminal background checks for House employees. (Created: 2026-08-05)
 - [[kataib-hizballah]] — Iraqi Iran-aligned militia tied to the alleged Ivanka Trump plot
+- [[kathryn-ruemmler]] — Former Obama White House counsel questioned over her Epstein ties.
 - [[kathy-hochul]]: New York governor who signed 2026 laws preserving state authority over vaccine policy. (Created: 2026-08-03)
 - [[katie-hobbs]]: Arizona Secretary of State and 2022 Democratic gubernatorial nominee, criticized in the corpus for certifying an election in which she was a candidate. (Created: 2026-08-02)
 - [[kazakhstan]]: Central Asian republic whose Kazatomprom uranium mines, secured by UrAsia Energy in 2005, are identified as the true origin of the Uranium One affair. (Created: 2026-08-02)
@@ -732,7 +737,6 @@
 - [[kirill-dmitriev]]: Russian Special Envoy to the US who confirmed Putin's acceptance of the Board of Peace invitation. (Created: 2026-08-03)
 - [[kirsty-coventry]] — IOC President who announced the 2026 policy limiting women's Olympic events to biological females via SRY-gene screening. (Created: 2026-08-06)
 - [[kitty-gillespie]]: Arizona-based Badlands Media contributor and Substack author of the November 2022 Maricopa County election articles. (Created: 2026-08-02)
-- [[kristen-welker]]: NBC News journalist and Meet the Press moderator whom Trump walked out on in June 2026 over elections being fake. (Created: 2026-08-06)
 - [[klaus-schwab]]: Founder of the World Economic Forum and author of the Great Reset; supplied to ChatGPT as an input in the AI/NWO mapping exercise. (Created: 2026-08-02)
 - [[knesset]]: Israel's national legislature, a participant in the Sde Teiman detainee-abuse controversy. (Created: 2026-08-04)
 - [[kobe-bryant]]: American basketball player whose 2020 helicopter crash is cited as a case of spatial disorientation. (Created: 2026-08-01)
@@ -741,12 +745,15 @@
 - [[kremlin]]: Russian executive seat that condemned the US strikes on Iran while continuing diplomatic dialogue with Washington. (Created: 2026-08-05)
 - [[kris-mayes]]: Arizona Democrat who won the 2022 attorney general race by 511 votes, triggering an automatic recount. (Created: 2026-08-02)
 - [[kris-paronto]]: Former Special Forces officer and CIA contractor; cited in the source as a witness to stand-down orders during the Benghazi attack who defied them to participate in the rescue effort. (Created: 2026-08-01)
+- [[kristen-welker]]: NBC News journalist and Meet the Press moderator whom Trump walked out on in June 2026 over elections being fake. (Created: 2026-08-06)
 - [[kristi-noem]]: Homeland Security Secretary who faced bipartisan criticism at the March 3, 2026 Senate Judiciary hearing. (Created: 2026-08-03)
 - [[ku-klux-klan]]: White-supremacist organization whose regalia and cross burnings feature in the SPLC indictment. (Created: 2026-08-03)
 - [[kurds]]: Middle Eastern ethnic group whose armed groups intercepted US weapons intended for Iranian protesters in 2026. (Created: 2026-08-03)
+- [[kvartal-95-studio]] — Ukrainian production company founded by Zelenskyy; co-owned by Timur Mindich.
 - [[lane-kirkland]]: AFL-CIO president (1979-1995) whose tenure, the corpus argues, deepened ties between labor and intelligence, including training Salvadoran death-squad affiliates via AIFLD. (Created: 2026-08-01)
 - [[larry-ellison]]: Oracle cofounder and wealthy Trump ally; father of David Ellison and a named partner in Project Stargate. (Created: 2026-08-01)
 - [[larry-fink]]: BlackRock chairman and CEO, expected on the 2026 China business delegation with Trump. (Created: 2026-08-06)
+- [[latham-and-watkins]] — Law firm where Ruemmler was a partner during her Epstein association.
 - [[laura-ingraham]] — Fox News host who pressed Ted Cruz over Lindsey Graham's meetings with Netanyahu. (Created: 2026-08-04)
 - [[laura-loomer]]: Right-wing activist described as subverting Trump’s Iran deal by citing Netanyahu’s office. (Created: 2026-08-03)
 - [[lauren-boebert]]: Colorado Republican congresswoman named as a possible next primary target after Massie's defeat. (Created: 2026-08-03)
@@ -778,10 +785,10 @@
 - [[liz-harrington]]: Conservative spokeswoman whose December 2022 Twitter thread summarizing Kari Lake's 70-page complaint forms the evidentiary core of the Badlands article. (Created: 2026-08-02)
 - [[loral-corporation]]: American satellite and defense electronics firm at the center of the alleged 1990s transfer of missile guidance technology to China. (Created: 2026-08-02)
 - [[lorna-schofield]] — US District Judge who disqualified John Sarcone III and quashed his subpoenas to Letitia James. (Created: 2026-08-03)
-- [[los-angeles]]: California city, the last US jurisdiction using Smartmatic, and site of the contested 2026 mayoral primary. (Created: 2026-08-03)
 - [[los-angeles-city-council]]: Los Angeles legislative body whose Housing and Homelessness Committee granted funds to shelters later tied to voter-registration clusters. (Created: 2026-08-04)
 - [[los-angeles-police-department]]: Municipal police force whose officers beat Rodney King in 1991 and were acquitted in 1992, triggering the LA riots. (Created: 2026-08-01)
 - [[los-angeles-times]]: Daily newspaper that laid off 115 staff and eliminated its DC bureau in January 2024; the corpus's leading example of newsroom collapse. (Created: 2026-08-01)
+- [[los-angeles]]: California city, the last US jurisdiction using Smartmatic, and site of the contested 2026 mayoral primary. (Created: 2026-08-03)
 - [[louis-dejoy]]: Postmaster General selected in 2020 by a Trump-appointed USPS Board of Governors; the first chosen from outside the organization. (Created: 2026-08-01)
 - [[lululemon]]: Athletic apparel retailer cited as an example of corporate compliance with a supposed Communist plot to destroy American commerce after firing employees who called 911 during a theft. (Created: 2026-08-01)
 - [[lyndon-b-johnson]]: President who succeeded JFK in 1963; named in Badlands commentary as a participant in the alleged coup that seized the US government. (Created: 2026-08-05)
@@ -876,8 +883,8 @@
 - [[minnesota-national-guard]] — State military force placed on active duty by Executive Order 26-01 amid the January 2026 Minneapolis unrest. (Created: 2026-08-03)
 - [[minnesota]] — US state at the convergence of the ICE shooting protests, the Somali fraud hearings, and the federal funding freeze. (Created: 2026-08-03)
 - [[minoru-kihara]]: Japanese Chief Cabinet Secretary who said Tokyo-Manila maritime agreements bind no third parties. (Created: 2026-08-03)
-- [[mo-gawdat]]: Former Chief Business Officer of Google X; the corpus's leading voice for the claim that the AI singularity has already passed. (Created: 2026-08-02)
 - [[mitt-romney]]: 2012 Republican presidential nominee and Utah senator; employed John Bolton as a foreign policy adviser. (Created: 2026-08-05)
+- [[mo-gawdat]]: Former Chief Business Officer of Google X; the corpus's leading voice for the claim that the AI singularity has already passed. (Created: 2026-08-02)
 - [[modernity-news]] — Outlet that framed Spencer Pratt's sidewalk stencils as a guerrilla campaign ad
 - [[mohamed-bin-zayed-al-nahyan]] — President of the United Arab Emirates, subject of February 2026 death rumors
 - [[mohammad-baqer-al-saadi]] — Iraqi national accused of plotting to assassinate Ivanka Trump
@@ -885,6 +892,7 @@
 - [[mohammed-bin-saud]]: Eighteenth-century emir of Diriyah and founder of the House of Saud through his pact with al-Wahhab. (Created: 2026-08-02)
 - [[mohammed-bin-zayed]] — President of the United Arab Emirates and ruler of Abu Dhabi. (Created: 2026-08-04)
 - [[mojtaba-khamenei]]: New supreme leader of Iran; Araghchi said he had never met him and read his appointment as policy continuity. (Created: 2026-08-05)
+- [[molly-ball]] — TIME journalist who authored the 2021 "shadow campaign" article.
 - [[monica-lewinsky]]: White House intern whose affair with Bill Clinton the corpus treats as a media shield for the administration’s graver scandals. (Created: 2026-08-02)
 - [[morgan-mcsweeney]] — Chief of staff to Keir Starmer who departed amid Epstein-related scrutiny in February 2026. (Created: 2026-08-04)
 - [[morgan-ricks]]: Former Treasury official and co-originator of the FedAccounts proposal, which pairs Federal Reserve retail accounts with the Postal Service branch network. (Created: 2026-08-01)
@@ -915,7 +923,6 @@
 - [[nasa]]: U.S. civilian space agency, cited in the corpus for allowing the false Tang and Velcro invention myths to stand. (Created: 2026-08-02)
 - [[natalie-winters]] — War Room correspondent whose reporting tied Fauci to a stealth mRNA vaccine startup and federal funding. (Created: 2026-08-04)
 - [[national-archives]]: U.S. records agency from which Sandy Berger removed and destroyed classified documents on the Clinton administration's 1999 counterterrorism response. (Created: 2026-08-01)
-- [[national-institute-of-allergy-and-infectious-diseases]]: NIH institute run by Fauci for nearly 40 years; institutional center of the 2026 COVID origins reckoning of debarments, indictments and subpoenas. (Created: 2026-08-06)
 - [[national-beef]]: Foreign-owned US beef processor named as a national security concern in the 2026 antitrust probe. (Created: 2026-08-05)
 - [[national-counterterrorism-center]]: U.S. intelligence body under the DNI, headed by Joe Kent until his March 2026 resignation over the Iran war. (Created: 2026-08-05)
 - [[national-democratic-institute]]: U.S. pro-democracy nonprofit aligned with the Democratic Party and funded by the NED; grouped in the corpus among NED's CIA-adjacent cut-outs. (Created: 2026-08-01)
@@ -923,6 +930,7 @@
 - [[national-endowment-for-democracy]]: U.S. government-funded grantmaking body created in 1983, described in the corpus as 'the CIA's chief grantmaking body' and a central node of the deep government and of covert labor influence. (Created: 2026-08-01)
 - [[national-fraud-enforcement-division]] — New DOJ division created by Trump in January 2026 to prosecute fraud against federal programs. (Created: 2026-08-06)
 - [[national-geographic]]: Legacy magazine listed among the outlets pushed to the verge of extinction by 2024. (Created: 2026-08-01)
+- [[national-institute-of-allergy-and-infectious-diseases]]: NIH institute run by Fauci for nearly 40 years; institutional center of the 2026 COVID origins reckoning of debarments, indictments and subpoenas. (Created: 2026-08-06)
 - [[national-institute-of-standards-and-technology]]: US federal standards agency, recipient of the 2010 Bonifaz letter on Dominion and Smartmatic. (Created: 2026-08-03)
 - [[national-institutes-of-health]]: US biomedical research agency whose Rocky Mountain Laboratory staff were charged with monkeypox smuggling. (Created: 2026-08-03)
 - [[national-liberation-army]] — Colombian armed group (ELN) active since 1963, disclosed by Petro as a Sinaloa Cartel proxy. (Created: 2026-08-03)
@@ -942,10 +950,10 @@
 - [[new-democratic-party]]: Canadian social-democratic party, renamed from the Cooperative Commonwealth Federation in 1961; traced in the corpus to a 1932 Fabian project founded by Rhodes Scholars. (Created: 2026-08-01)
 - [[new-jersey]]: US state whose investigations of pro-life pregnancy centers produced the 2026 First Choice ruling. (Created: 2026-08-06)
 - [[new-york-police-department]] — New York City police force credited with preventing a 2026 ISIS-inspired bombing attempt. (Created: 2026-08-04)
-- [[newsweek]]: American news magazine cited for Sheinbaum's denial of the El Paso drone incursion and Tony Gonzales's response. (Created: 2026-08-03)
 - [[new-york-post]]: New York tabloid whose reporting claimed roughly 100 cartel leaders were transferred to US custody before the El Mencho raid. (Created: 2026-08-03)
 - [[new-york-times]]: Newspaper of record described in the corpus as a historically spook-friendly outlet that hires writers aligned with establishment narratives. (Created: 2026-08-01)
 - [[news-corp]]: Rupert Murdoch's media holding company, one of the Big Six conglomerates. (Created: 2026-08-01)
+- [[newsweek]]: American news magazine cited for Sheinbaum's denial of the El Paso drone incursion and Tony Gonzales's response. (Created: 2026-08-03)
 - [[nick-shirly]] — Independent video journalist whose footage documented alleged Somali fraud in Minnesota.
 - [[nicolas-maduro]]: Venezuelan president captured in a U.S. military operation on January 3, 2026; plaintiff in a revived suit against global bank executives. (Created: 2026-08-03)
 - [[nida-allam]]: Sanders-backed North Carolina challenger to Rep. Valerie Foushee in March 2026. (Created: 2026-08-03)
@@ -974,6 +982,7 @@
 - [[office-of-inspector-general]]: Federal agency oversight body; the USPS OIG white paper on postal financial services is treated in the corpus as a blueprint for public banking. (Created: 2026-08-01)
 - [[office-of-strategic-services]]: U.S. WWII intelligence agency and CIA precursor; identified in the corpus as the origin point of U.S. collaboration with labor unions for covert political ends. (Created: 2026-08-01)
 - [[office-of-the-director-of-national-intelligence]]: US intelligence coordinating body asked to review the Jack Smith team's security clearances. (Created: 2026-08-03)
+- [[office-of-the-united-states-trade-representative]] — US agency running Section 301 investigations and tariff actions.
 - [[ohio-organizing-collaborative]]: Ohio civic-engagement network at the center of a widening 2026 federal voter-mobilization probe. (Created: 2026-08-04)
 - [[oj-simpson]]: Football star whose 1994-95 murder trial is described as mass mind control deepening American racial division. (Created: 2026-08-01)
 - [[okeefe-media-group]]: Undercover journalism outfit founded by James O'Keefe, source of the 2026 Los Angeles registration footage. (Created: 2026-08-04)
@@ -981,8 +990,8 @@
 - [[oman]] - Gulf sultanate and mediator whose foreign minister reported Iran's agreement to zero enriched uranium stockpiling before the bombing of Tehran. (Created: 2026-08-04)
 - [[omarosa-manigault-newman]] — Apprentice contestant and former White House official read by Badlands as a Trump chaos agent
 - [[online-safety-bill]]: UK legislation passed in September 2023 establishing a regulatory framework for internet services; framed by the source as the institutional foundation for a coordinated censorship offensive. (Created: 2026-08-01)
-- [[openai]]: AI laboratory behind ChatGPT; named partner in Trump's $500 billion Project Stargate. (Created: 2026-08-01)
 - [[opec]]: Oil producers' cartel, framed in the corpus as the energy throttle of the Global Cartel and fractured by the UAE's May 2026 exit. (Created: 2026-08-05)
+- [[openai]]: AI laboratory behind ChatGPT; named partner in Trump's $500 billion Project Stargate. (Created: 2026-08-01)
 - [[oracle]]: Technology company cofounded by Larry Ellison; Project Stargate partner and source of the Ellison family fortune behind Skydance. (Created: 2026-08-01)
 - [[organization-of-islamic-cooperation]]: 57-nation intergovernmental body that condemned Huckabee's February 2026 remarks. (Created: 2026-08-03)
 - [[organization-of-ukrainian-nationalists]] — 1929 Ukrainian nationalist movement that collaborated with Nazi Germany
@@ -1160,6 +1169,7 @@
 - [[sergey-brin]]: Google co-founder and 2026 PCAST appointee. (Created: 2026-08-03)
 - [[sergey-glazyev]]: Russian economist credited with outlining the new Eurasian financial architecture anchored in physical values rather than speculation. (Created: 2026-08-01)
 - [[sergey-lavrov]]: Russian Foreign Minister consulted by Iran over the Caspian Sea strike on an Iranian vessel. (Created: 2026-08-03)
+- [[sergii-koretskyi]] — Former Naftogaz CEO confirmed as Ukraine's prime minister in July 2026.
 - [[servicenow]] — US enterprise software firm whose 11% one-day drop led the January 2026 AI-driven software selloff. (Created: 2026-08-06)
 - [[seth-moulton]]: Massachusetts congressman described in the corpus as both "a CIA stooge and a Young Global Leader at the World Economic Forum"; named among the "deep state" supporters of the Antisemitism Awareness Act. (Created: 2026-08-01)
 - [[seth-rich]] — DNC staffer invoked by Ashe in America in the Fulton County voter-data dispute
@@ -1170,12 +1180,12 @@
 - [[shari-redstone]]: Media executive running Paramount Global, described as a Trump ally who took over from her father in 2016. (Created: 2026-08-01)
 - [[shehbaz-sharif]] — Prime Minister of Pakistan who voiced support for Iran during the 2026 crisis. (Created: 2026-08-04)
 - [[sheila-jackson-lee]]: Texas congresswoman engaged in Secret Service oversight who died six days after the Butler assassination attempt. (Created: 2026-08-02)
-- [[shield-of-the-americas]]: Coalition of the United States and twelve regional partners that issued the July 2026 joint statement rejecting Gustavo Petro's election challenge in Colombia. (Created: 2026-08-05)
 - [[sheldon-adelson]]: Casino magnate and Republican donor said to have secured John Bolton’s appointment to the Trump cabinet. (Created: 2026-08-03)
 - [[sheldon-whitehouse]]: Democratic senator who initiated the congressional investigation into Credit Suisse's Nazi-era banking. (Created: 2026-08-03)
 - [[shell]]: Royal Dutch Shell; Atlantic Council funder and BlackRock holding with an interest in the Iran deal. (Created: 2026-08-02)
 - [[sheri-davis]]: Douglas County, Colorado clerk and co-plaintiff in the RNC suit, criticized as a fraud denier. (Created: 2026-08-03)
 - [[sherritt-international]]: Canadian mining company and largest foreign investor in Cuba; suspended operations under the 2026 sanctions. (Created: 2026-08-03)
+- [[shield-of-the-americas]]: Coalition of the United States and twelve regional partners that issued the July 2026 joint statement rejecting Gustavo Petro's election challenge in Colombia. (Created: 2026-08-05)
 - [[showtime]]: Premium television network owned by Paramount Global; producer of the CIA drama The Agency. (Created: 2026-08-01)
 - [[sigal-chattah]]: First Assistant US Attorney in Nevada who dropped federal firearms charges against Ori Solomon. (Created: 2026-08-03)
 - [[simon-esler]]: Substack writer credited with assisting Justin Deschamps on the essay AI Can Help Us Expose the NWO. (Created: 2026-08-02)
@@ -1225,6 +1235,7 @@
 - [[strobe-talbott]]: Rhodes Scholar and Clinton-era Deputy Secretary of State, named in the corpus among the Western managers of post-Soviet liberalization. (Created: 2026-08-01)
 - [[stuart-w-bowen-jr]]: Special Inspector General for Iraq Reconstruction who traced $1.2–1.6 billion of missing Iraqi cash to a bunker in Lebanon. (Created: 2026-08-02)
 - [[sudan]] — African state counted by Trump among Abraham Accords members
+- [[suhas-subramanyam]] — Virginia Democrat on House Oversight who criticized Ruemmler's Epstein ties.
 - [[sumner-redstone]]: Late media magnate and Trump ally who handed control of Paramount to his daughter in 2016; died in 2020. (Created: 2026-08-01)
 - [[sun-tzu]]: Ancient Chinese strategist and author of The Art of War; invoked in the corpus as a key to Trump's use of feigned weakness. (Created: 2026-08-02)
 - [[supreme-court-of-the-united-states]]: Highest US federal court, cited in the corpus for Chisholm v. Georgia and the people-to-states chain of authority. (Created: 2026-08-01)
@@ -1271,6 +1282,7 @@
 - [[time-magazine]]: News weekly that laid off roughly 15 percent of its unionized editorial staff in January 2024. (Created: 2026-08-01)
 - [[time-warner]]: Media conglomerate, former owner of CNN, listed first among the Big Six. (Created: 2026-08-01)
 - [[times-of-israel]]: English-language Israeli newspaper cited for reporting on US–Iran talks in Pakistan. (Created: 2026-08-03)
+- [[timur-mindich]] — Ukrainian businessman tied to Zelenskyy, Kvartal 95, and Fire Point.
 - [[tina-peters]]: Former Colorado county clerk prosecuted over election-equipment data; her sentence commutation was a lead topic of Badlands Blitz Episode 18. (Created: 2026-08-02)
 - [[tina-smith]]: Minnesota Democratic senator listed among those skipping the 2026 State of the Union. (Created: 2026-08-03)
 - [[todd-blanche]]: Acting Attorney General who announced the 2026 reclassification of state-licensed medical marijuana to Schedule III. (Created: 2026-08-03)
@@ -1349,6 +1361,7 @@
 - [[vanguard-group]]: Index fund giant named among the institutional owners of all six mainstream media conglomerates. (Created: 2026-08-01)
 - [[venezuela]] — South American state whose president Nicolas Maduro was captured in a US operation treated as the hinge of the world-order debate. (Created: 2026-08-03)
 - [[verify-the-vote]]: Arizona poll-monitoring group where Jennifer Wright once worked, affiliated with True the Vote. (Created: 2026-08-02)
+- [[verkhovna-rada]] — Ukraine's parliament, which confirmed the July 2026 cabinet reshuffle.
 - [[victor-ostrovsky]]: Former Mossad officer cited for the claim that Israel withheld warning of the 1983 Beirut barracks bombing. (Created: 2026-08-03)
 - [[victoria-nuland]]: U.S. diplomat and ambassador to NATO during the Bush administration; identified as an advocate for NATO expansion to Ukraine. (Created: 2026-08-01)
 - [[vijay-prashad]]: Marxist historian and founder of Tricontinental, a Singham-funded nonprofit. (Created: 2026-08-03)
@@ -1364,10 +1377,10 @@
 - [[wael-jalaidan]]: Former University of Arizona MSA leader said to have helped Osama bin Laden found al-Qaeda and to have co-founded the Rabita Trust. (Created: 2026-08-02)
 - [[wagner-group]]: Russian private military company credited in the corpus with training Sahel forces in Syria. (Created: 2026-08-03)
 - [[wall-street-journal]]: American business newspaper cited for reporting Pentagon outreach to automakers to boost weapons production. (Created: 2026-08-03)
-- [[waverly-crenshaw]]: US District Judge who dismissed the Kilmar Abrego Garcia human-smuggling case on vindictive-prosecution grounds in May 2026. (Created: 2026-08-06)
 - [[walt-disney-company]]: Entertainment conglomerate and Big Six member, owner of ABC News and National Geographic. (Created: 2026-08-01)
 - [[warren-buffett]]: American investor grouped in the corpus among the technocratic-friendly plutocrats of Chrystia Freeland's schema. (Created: 2026-08-01)
 - [[washington-post]]: Bezos-owned newspaper, Taylor Lorenz's employer at the time of writing, cited for layoffs despite billionaire ownership. (Created: 2026-08-01)
+- [[waverly-crenshaw]]: US District Judge who dismissed the Kilmar Abrego Garcia human-smuggling case on vindictive-prosecution grounds in May 2026. (Created: 2026-08-06)
 - [[wesley-clark]]: Retired general who disclosed a post-9/11 Pentagon memo planning to "take out seven countries in five years." (Created: 2026-08-02)
 - [[whig-party]]: Party of John Quincy Adams that carried the national bank, tariff and internal-improvements program; its two presidents, Harrison and Taylor, both died in office. (Created: 2026-08-02)
 - [[white-house-correspondents-association]]: Association of White House press corps journalists, host of the rescheduled July 2026 dinner. (Created: 2026-08-03)
@@ -1402,6 +1415,7 @@
 - [[yair-lapid]]: Israeli opposition leader who pledged support for Netanyahu in a war with Iran and voiced sympathy for Greater Israel claims. (Created: 2026-08-03)
 - [[yechiel-leiter]]: Israeli Ambassador to the United States who said the June 2026 strikes on Iran targeted missile launch sites, not energy facilities. (Created: 2026-08-06)
 - [[yemi-mobolade]]: Mayor of Colorado Springs elected in 2023 after a staged cross burning at his campaign sign. (Created: 2026-08-03)
+- [[yulia-svyrydenko]] — Ukrainian prime minister replaced by Sergii Koretskyi in July 2026.
 - [[yuri-bezmenov]]: Soviet defector whose account of multigenerational ideological subversion frames the corpus's model of slow-motion cultural warfare. (Created: 2026-08-02)
 - [[yuri-ushakov]]: Kremlin foreign policy aide who described the Putin-Witkoff-Kushner talks at Davos as "substantive, constructive and very frank" and confirmed the first Russia-US-Ukraine working group meeting in Abu Dhabi. (Created: 2026-08-06)
 - [[yuval-noah-harari]]: Israeli historian associated with the World Economic Forum; cited for the prediction that 2024 would be the last human election. (Created: 2026-08-02)
@@ -1414,6 +1428,7 @@
 - [[zhaoyan-wang]]: Indicted business partner of Jia Bei Zhu who fled to China and remains a fugitive. (Created: 2026-08-03)
 - [[zhong-shaojun]]: Senior aide to Xi Jinping reported re-arrested in the January 2026 sweep of Chinese military officials. (Created: 2026-08-05)
 - [[zohran-mamdani]]: New York DSA figure invoked as the model the socialist left failed to replicate nationally. (Created: 2026-08-03)
+
 ## Concepts
 
 - [[123-agreement]]: Bilateral U.S. civil nuclear cooperation agreement under Section 123 of the Atomic Energy Act. (Created: 2026-08-05)
@@ -1460,9 +1475,9 @@
 - [[adamuz-train-collision]]: January 18, 2026 high-speed rail collision near Cordoba, Spain, killing at least 39 and injuring more than 120. (Created: 2026-08-03)
 - [[additional-protocol]] — IAEA safeguards framework omitted from the draft Saudi nuclear agreement
 - [[agenda-2030]] — UN sustainable development framework treated in the corpus as the timetable of the globalist project. (Created: 2026-08-03)
-- [[ai-data-center-compact]] — Reported voluntary agreement making Big Tech bear the full infrastructure cost of AI data centers. (Created: 2026-08-03)
 - [[agreed-framework]]: Clinton's October 1994 nuclear accord with North Korea, framed in the corpus as an oil-for-nothing arrangement that accelerated rather than halted proliferation. (Created: 2026-08-02)
 - [[ai-can-help-us-expose-the-nwo]]: January 2024 Badlands essay by Justin Deschamps documenting his use of ChatGPT to map the warfare described in the Toronto Protocols. (Created: 2026-08-02)
+- [[ai-data-center-compact]] — Reported voluntary agreement making Big Tech bear the full infrastructure cost of AI data centers. (Created: 2026-08-03)
 - [[air-force-one]]: Presidential aircraft call sign; Trump's new Air Force One was donated by Qatar, sparking media subpoenas after NYT reporting. (Created: 2026-08-05)
 - [[alberta-independence-referendum]] — Alberta's proposed vote on starting a legal path to independence
 - [[alien-disclosure-op]]: Trump-attributed extraterrestrial disclosure initiative read as staged yet partly genuine. (Created: 2026-08-03)
@@ -1524,8 +1539,8 @@
 - [[badlands-blitz-episode-7]]: Seventh episode of The Blitz, February 21, 2026, on the Epstein Web, Trump's alien disclosure op and US-Iran. (Created: 2026-08-03)
 - [[badlands-blitz-episode-8]]: Eighth episode of The Blitz, February 28, 2026, hosted by Ashe in America and GhostofBasedPatrickHenry while Burning Bright dug out from a blizzard. (Created: 2026-08-03)
 - [[badlands-blitz-episode-9]]: Ninth episode of The Blitz, March 7, 2026, subtitled "The New World Order is Dying … The New World is Beginning," with Burning Bright and GhostofBasedPatrickHenry. (Created: 2026-08-03)
-- [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[badlands-jury]]: Badlands Media civic-education experience debuted at Deadwood GART, staging a fictitious trial over a made-up "Electoral Confidence Preservation Act." (Created: 2026-08-05)
+- [[badlands-news-brief]]: Recurring Badlands Media newsletter aggregating news and contributor features, closing with the slogan "We are the news now." (Created: 2026-08-01)
 - [[bandung-conference]]: 1955 Asian-African gathering that produced the Five Principles of Peaceful Coexistence and set the tone for the Non-Aligned Movement. (Created: 2026-08-01)
 - [[barratry]]: Medieval common-law offense of habitually fomenting baseless lawsuits, proposed as a remedy against lawfare. (Created: 2026-08-03)
 - [[battle-of-quebec-1759]]: The 1759 Plains of Abraham battle, subject of West's "The Death of General Wolfe" and framed as the opening of the road to American independence. (Created: 2026-08-01)
@@ -1562,8 +1577,8 @@
 - [[chisholm-v-georgia]]: Early Supreme Court case quoted for the claim that state authority derives from the deliberate choice of the people. (Created: 2026-08-01)
 - [[christian-zionism]]: Evangelical current treating support for Israel as religious duty; identified in the corpus as Kanye West's harshest critics. (Created: 2026-08-03)
 - [[citizen-journalism]]: Public citizens collecting, reporting and disseminating news outside mainstream institutions; the organizing identity of Badlands Media. (Created: 2026-08-01)
-- [[civilization-stealth-jihad]]: Term for the Muslim Brotherhood strategy of advancing sharia through university recruitment and institutional infiltration rather than armed force — “infiltration, not invasion.” (Created: 2026-08-02)
 - [[civil-rights-act-of-1960]]: Federal statute cited, alongside the NVRA and HAVA, as obligating Georgia's compliance with the DOJ's 2026 request for voter registration information. (Created: 2026-08-06)
+- [[civilization-stealth-jihad]]: Term for the Muslim Brotherhood strategy of advancing sharia through university recruitment and institutional infiltration rather than armed force — “infiltration, not invasion.” (Created: 2026-08-02)
 - [[climate-change-narrative]]: The corpus's term for environmental crisis rhetoric understood as a driver of collectivism, ESG enforcement and lost national sovereignty. (Created: 2026-08-02)
 - [[color-revolution]]: Regime change by propaganda, funded street violence, bought media and rigged elections; the corpus's classification of the 1917 Bolshevik uprising. (Created: 2026-08-02)
 - [[communism]]: Ideology framed in the corpus as a contrived virus unleashed on America from within, and as a tool wielded by the Cabal rather than the enemy itself. (Created: 2026-08-02)
@@ -1615,8 +1630,8 @@
 - [[fednow]]: The Federal Reserve's instant peer-to-peer payment platform, distinguished in the corpus from a digital currency but treated as part of the same plan. (Created: 2026-08-02)
 - [[feeding-our-future]]: $250 million pandemic-era Minnesota child nutrition fraud scheme. (Created: 2026-08-03)
 - [[fiat-currency]]: Fiat currency is money whose value is not backed by a physical commodity such as gold, but is instead declared legal tender by government decree. (Created: 2026-08-01)
-- [[fifth-amendment]] — US constitutional protection against self-incrimination, invoked by Anthony Fauci at the Senate Covid origins hearing. (Created: 2026-08-04)
 - [[fifteenth-amendment]] — Reconstruction-era amendment ratified April 1, 1870 prohibiting denial of the vote on account of race, color, or previous servitude. (Created: 2026-08-06)
+- [[fifth-amendment]] — US constitutional protection against self-incrimination, invoked by Anthony Fauci at the Senate Covid origins hearing. (Created: 2026-08-04)
 - [[filibuster]]: Senate debate rule Trump demanded be terminated in June 2026 to force through the SAVE America Act. (Created: 2026-08-04)
 - [[finland]]: Nordic nation whose president, after an April 1, 2026 call with Trump, said "a more European NATO" is taking shape. (Created: 2026-08-06)
 - [[first-amendment]]: Constitutional guarantee of press freedom, used as the standard by which the corpus judges modern journalism a failure. (Created: 2026-08-01)
@@ -1636,6 +1651,7 @@
 - [[glass-steagall-act]]: 1933 U.S. law separating commercial from speculative banking; its 1999 repeal is blamed in the corpus for a $700 trillion derivatives bubble. (Created: 2026-08-01)
 - [[global-cartel]]: Badlands term for a transnational narcotics, financial and energy structure said to be dismantled across the Middle East and South America. (Created: 2026-08-02)
 - [[global-golden-age]]: Badlands framing term for an anticipated worldwide transition to restored sovereignty and resolved conflicts. (Created: 2026-08-03)
+- [[global-initiative-against-far-left-political-terrorism]] — 65-nation initiative launched by Rubio, Miller, and Bessent in July 2026.
 - [[gold-standard]]: Monetary system backed by gold; framed as the perfect hard-money era from 1873–1933 that bankers destroyed. (Created: 2026-08-01)
 - [[great-american-restoration-tour]]: Badlands Media's travelling multi-day live event series pairing panels with informal local excursions. (Created: 2026-08-01)
 - [[great-reset]]: Technocratic supranational reorganisation the corpus opposes, said to require rewriting the UN Charter. (Created: 2026-08-01)
@@ -1664,8 +1680,8 @@
 - [[iron-dome]]: Israel's missile defense system, reported penetrated by Iranian smart missiles in March 2026. (Created: 2026-08-04)
 - [[islamabad-agreement]]: Reported 2026 US-Iran memorandum of understanding mediated by Qatar and Pakistan. (Created: 2026-08-03)
 - [[israel-lobby]]: Network of pro-Israel advocacy in US politics, described in the corpus as pushing for war with Iran. (Created: 2026-08-03)
-- [[jewish-terrorism]]: Term for settler and Israeli civilian extremist violence that the IDF warned in 2026 could spark a Palestinian uprising. (Created: 2026-08-05)
 - [[israel-palestine-conflict]]: Middle East conflict treated in the corpus as a case study in mass persuasion and as a solvent of partisan tribal loyalty. (Created: 2026-08-01)
+- [[jewish-terrorism]]: Term for settler and Israeli civilian extremist violence that the IDF warned in 2026 could spark a Palestinian uprising. (Created: 2026-08-05)
 - [[joint-comprehensive-plan-of-action]]: The 2015 Iran nuclear deal, described as one of the most consequential geopolitical maneuvers in recent history and the issue that split the Western ruling class. (Created: 2026-08-02)
 - [[kaaba]]: Stone sanctuary at Mecca, held in the corpus to have been built by Abraham on Adam's foundation. (Created: 2026-08-02)
 - [[kansas-nebraska-act]]: 1854 statute that opened territories west of the Mississippi to slavery and, in the corpus, vastly expanded the slave power. (Created: 2026-08-02)
@@ -1695,6 +1711,7 @@
 - [[millennial-reign]]: Thousand-year reign of Christ following Satan's binding, paralleled in the corpus with Bitcoin's keys and timechain. (Created: 2026-08-02)
 - [[minnesota-color-revolution]]: Badlands label for Minnesota unrest read as domestic application of color revolution methodology. (Created: 2026-08-03)
 - [[minnesota-somali-fraud]] — Investigations and hearings into alleged multibillion-dollar fraud against federally backed programs in Minnesota. (Created: 2026-08-03)
+- [[misprision-of-treason]] — Federal offense of concealing known treason; framing device for the IC withholding story.
 - [[monroe-doctrine]]: Anti-colonial hemispheric doctrine drafted by John Quincy Adams, whose original defensive intent the corpus contrasts with later imperial abuse. (Created: 2026-08-02)
 - [[multipolar-alliance]]: Term for the grouping of states around Russia, China and India pursuing sovereignty-based, win-win development. (Created: 2026-08-01)
 - [[multipolar-margin-call]]: Burning Bright's thesis that the US-China trade war is the engine of sovereign economic decoupling. (Created: 2026-08-04)
@@ -1707,10 +1724,10 @@
 - [[narrative-warfare]]: Conflict waged through the construction and collapse of stories about events rather than the events themselves. (Created: 2026-08-02)
 - [[national-voter-registration-act]] — Federal statute on voter registration records underpinning the DOJ's 29-state litigation.
 - [[neo-marxism]]: The transposition of Marxist class conflict into identity and environmental categories, pursued through institutions rather than revolution. (Created: 2026-08-02)
+- [[new-axis]]: Burning Bright's term for the US, Russia, China, Iran and North Korea as the poles of a multipolar order; The Guardian's "Axis of Upheaval". (Created: 2026-08-06)
 - [[new-deal]]: 1930s U.S. program of protectionism, bank regulation and state credit, offered in the corpus as the sovereignty-empowering counter-model to the Green New Deal. (Created: 2026-08-01)
 - [[new-start-treaty]]: US–Russia strategic arms control treaty whose end anchored Badlands Blitz Episode 5's "escalation as de-escalation" question. (Created: 2026-08-03)
 - [[new-world-order]]: Projected system of unified world government subordinating national sovereignty, traditional family structures and individual rights. (Created: 2026-08-02)
-- [[new-axis]]: Burning Bright's term for the US, Russia, China, Iran and North Korea as the poles of a multipolar order; The Guardian's "Axis of Upheaval". (Created: 2026-08-06)
 - [[new-york-state-rifle-and-pistol-association-v-bruen]] — Supreme Court decision establishing the historical-tradition test for firearm regulation.
 - [[nominalization]]: Hypnosis term for an intangible noun; framed as one of the two main pillars of modern propaganda alongside hypnotic repetition. (Created: 2026-08-01)
 - [[north-south-transportation-corridor]]: SCO-funded trade route linking Asia to Moscow via Iran, cited as a reason Russia and China back Tehran. (Created: 2026-08-05)
@@ -1774,6 +1791,7 @@
 - [[saving-seoul]] — First book in the Sword Punk Trilogy, published by Burning Bright with a Soundbooth Theater audio production. (Created: 2026-08-04)
 - [[scam-act]]: Stop Citizenship Abuse and Misrepresentation Act, a 2026 bill expanding denaturalization powers. (Created: 2026-08-03)
 - [[second-amendment]] — Constitutional provision on the right to keep and bear arms.
+- [[section-301]] — Trade Act enforcement provision authorizing tariffs against unfair foreign practices.
 - [[section-702]]: FISA provision authorizing warrantless surveillance of foreign targets abroad, at the center of the 2026 renewal fight. (Created: 2026-08-03)
 - [[secure-america-act]]: June 2026 immigration and border-security package providing roughly $70 billion in enforcement funding. (Created: 2026-08-03)
 - [[seedance-2-0]] — ByteDance generative video model at the center of the Disney and Paramount IP dispute
@@ -1820,6 +1838,7 @@
 - [[timber-sycamore]]: CIA program that armed and trained anti-Assad groups in Syria, terminated in 2017 under Trump. (Created: 2026-08-02)
 - [[tongo-tongo-ambush]]: 2017 Niger ambush that killed four US soldiers, cited in the corpus as an inside setup by bad actors in the Pentagon and CIA. (Created: 2026-08-05)
 - [[toronto-protocols]]: French-language documents leaked by Serge Monast, alleging a financier clique's plan to abolish the family and build a World Government. (Created: 2026-08-02)
+- [[trade-act-of-1974]] — Statute creating the USTR and the Section 301 enforcement mechanism.
 - [[trail-of-tears]]: Forced removal of the Cherokee under the Indian Removal Act, described in the corpus as genocidal and as a service to the slavocracy. (Created: 2026-08-02)
 - [[trans-siberian-railway]]: 9,300 km Russian rail spine being modernized and double-tracked alongside the Baikal-Amur Mainline for Eurasian freight. (Created: 2026-08-02)
 - [[tripolar-alliance]]: Burning Bright's framing of the US-Russia-China trinity and narrative 'shielding' amid arms treaty expiry. (Created: 2026-08-03)
@@ -1851,9 +1870,11 @@
 - [[wayne-madsen-report]]: The Wayne Madsen Report is an investigative journalism and analysis outlet founded by Wayne Madsen, a former NSA officer and journalist known for publishing claims about CIA covert operations and political corruption. (Created: 2026-08-01)
 - [[weaponization-of-government]]: Corpus term for the alleged political deployment of federal law enforcement, and the DOJ review of it. (Created: 2026-08-03)
 - [[weaponization-of-the-federal-government]]: Trump-era term and executive order targeting political use of federal legal machinery, extended in 2026 to bar ethics proceedings. (Created: 2026-08-04)
+- [[white-house-election-integrity-portal]] — July 2026 declassification repository on election security and foreign threats.
 - [[white-squall]]: Seafaring film read in the corpus as a Q comm and narrative metaphor for the Trump movement, ending with the captain's trial and vindication. (Created: 2026-08-02)
 - [[world-baseball-classic]]: International baseball tournament; Venezuela beat Team USA 3-2 for its first title in 2026. (Created: 2026-08-05)
 - [[wwg1wga]]: "Where We Go One, We Go All" — the signature slogan of the Q movement and a recurring sign-off in the corpus. (Created: 2026-08-02)
+
 ## Comparisons
 <!-- Side-by-side analyses. -->
 
