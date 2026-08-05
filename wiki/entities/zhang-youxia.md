@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, peoples-liberation-army, central-military-commission, purge, red-families]
-sources: [raw/badlands-brief-577.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-71c.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,15 @@ GhostofBasedPatrickHenry situates the reported arrests within a "Good Twin and E
 
 These claims originate in unverified social-media reporting relayed by a partisan commentary outlet and should be treated as contested.
 
+## Formal investigation, January 2026
+
+The January 28, 2026 Badlands Brief reports the official Chinese announcement of investigations into Zhang, then 75, and General [[liu-zhenli|Liu Zhenli]] for "serious violations of discipline and law," a formulation commonly indicating corruption. The probes were revealed over the weekend of January 25–26, 2026, with the *People's Liberation Army Daily* accusing the pair of "seriously betraying" the Communist Party's trust, "trampling on and undermining" the [[central-military-commission|Central Military Commission]], and threatening the authority of its chairman, [[xi-jinping|Xi Jinping]].
+
+The purges reduced the CMC to Xi and one other member, leaving senior [[peoples-liberation-army|PLA]] ranks in disarray. Unverified reports cited by the [[wall-street-journal|Wall Street Journal]] alleged Zhang leaked core nuclear weapons data to the United States and accepted bribes; other explanations advanced included factional infighting and Zhang's own accumulation of power. Badlands contributor [[burning-bright|Burning Bright]] reads the removal as the culmination of Xi's [[tigers-and-flies|Tigers and Flies]] campaign and as consolidation rather than instability.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-577)
+This page draws on multiple source articles:
+
+- [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
+- [badlands brief 71c](https://badlands.substack.com/p/badlands-brief-71c)

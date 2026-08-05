@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ice, immigration, dhs, voter-rolls]
-sources: [raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-5dc.md, raw/badlands-brief-71c.md]
 confidence: medium
 contested: false
 ---
@@ -18,6 +18,13 @@ The March 27, 2026 Badlands Brief reports, citing CBS News, that the [[departmen
 
 Lyons is identified as the official expected to submit the request for access to the data. Officials were additionally considering building a system that would let federal investigators cross-reference voter registration records with DHS immigration databases, allowing direct query-based matching between the two systems.
 
+## Contempt proceedings in Minnesota, January 2026
+
+The January 28, 2026 Badlands Brief reports that Chief U.S. District Judge [[patrick-schiltz|Patrick Schiltz]] ordered Lyons, as acting ICE Director, to appear in person in [[minneapolis|Minneapolis]] federal court on January 30, 2026 at 1:00 p.m. to show cause why he should not be held in contempt. The order stemmed from ICE's failure to comply with a January 14, 2026 directive requiring a bond hearing or release within seven days for detainee [[juan-tobay-robles|Juan Tobay Robles]]. Schiltz described the violation as one of "dozens of court orders" ignored by the agency in recent weeks and wrote that "The Court's patience is at an end." The hearing was to be canceled if Robles were released beforehand.
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-5dc)
+This page draws on multiple source articles:
+
+- [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 71c](https://badlands.substack.com/p/badlands-brief-71c)
