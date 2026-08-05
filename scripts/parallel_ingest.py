@@ -16,6 +16,7 @@ Usage:
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 import time
@@ -26,6 +27,14 @@ PROJ = Path(__file__).resolve().parent.parent
 WORKER_PROMPT = Path(__file__).resolve().parent / "worker_prompt_v2.txt"
 QUEUE = ["python", str(PROJ / "scripts" / "wiki_queue.py")]
 LOG = PROJ / "logs" / "parallel-ingest.log"
+
+# Rate-limit / overload signals: when the PROVIDER is throttling us, all
+# workers should back off (exponential) rather than hammer and make it worse.
+RATE_LIMIT_RE = re.compile(r"429|503|rate\s*limit|too\s*many\s*requests|overloaded|temporarily\s*unavailable", re.I)
+
+# Backoff ladder (seconds) applied per worker on repeated provider-throttle
+# failures: 30s -> 60s -> 120s -> 240s -> 480s (capped).
+BACKOFF_LADDER = [30, 60, 120, 240, 480]
 
 
 def log(msg):
@@ -62,10 +71,14 @@ def pages_citing(slug):
 def run_worker(model, provider, max_articles, worker_id, stats):
     done_count = 0
     failed_recent = {}  # slug -> last-fail timestamp (avoid hot loops)
+    backoff_idx = 0     # current rung on the rate-limit backoff ladder
+    consecutive_rl = 0  # consecutive provider-throttle failures
     while max_articles is None or done_count < max_articles:
         article = claim_article()
         if not article:
             log(f"worker{worker_id}: queue empty, done ({done_count} articles)")
+            stats[f"worker{worker_id}_queue_empty"] = True
+            stats[f"worker{worker_id}_done"] = True
             break
         slug = os.path.basename(article)
         # skip articles this worker failed very recently (re-claimed by others)
@@ -88,6 +101,7 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                 capture_output=True, text=True, timeout=2400, cwd=str(PROJ))
             dt = time.time() - t0
             out = r.stdout or ""
+            err = r.stderr or ""
             # success = exit 0 AND the report names the CLAIMED slug AND pages
             # actually cite that slug (guards against the model ingesting a
             # different article than the one we claimed). Use the LAST done:
@@ -103,22 +117,41 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                 mark_done(slug)
                 stats["done"] += 1
                 done_count += 1
+                backoff_idx = 0
+                consecutive_rl = 0
                 log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({pages_citing(slug)} pages cite it)")
             else:
+                # classify the failure: provider throttle vs permanent.
+                # NOTE: hermes writes provider errors (503/429/connection) to its
+                # own log, not stdout/stderr — so an rc=1 with EMPTY output is
+                # almost always a transient provider failure, not a content one.
+                is_rl = bool(RATE_LIMIT_RE.search(err + out[-2000:])) or (
+                    r.returncode != 0 and not out.strip() and not err.strip())
+                if is_rl:
+                    consecutive_rl += 1
+                    # exponential backoff on the ladder
+                    wait = BACKOFF_LADDER[min(backoff_idx, len(BACKOFF_LADDER) - 1)]
+                    backoff_idx += 1
+                else:
+                    consecutive_rl = 0
+                    wait = 30
                 stats["failed"] += 1
                 failed_recent[slug] = time.time()
-                log(f"worker{worker_id}: FAIL {slug} in {dt:.0f}s rc={r.returncode} report={report_slug} cited={pages_citing(slug)}")
-                log(f"  stderr: {(r.stderr or '')[-200:].strip()}")
+                log(f"worker{worker_id}: FAIL {slug} in {dt:.0f}s rc={r.returncode} "
+                    f"report={report_slug} cited={pages_citing(slug)} "
+                    f"rate_limit={is_rl} backoff={wait}s")
+                log(f"  stderr: {err[-200:].strip()}")
                 log(f"  stdout tail: {out[-200:].strip()}")
                 # failed article: release its claim so another worker can retry
                 subprocess.run(QUEUE + ["unlock", slug], capture_output=True, text=True, cwd=PROJ)
-                # avoid hot-looping on a permanently-failing article
-                time.sleep(30)
+                # back off (exponentially on rate limits) before next claim
+                time.sleep(wait)
         except subprocess.TimeoutExpired:
             stats["failed"] += 1
             failed_recent[slug] = time.time()
             log(f"worker{worker_id}: TIMEOUT {slug} after 2400s")
             subprocess.run(QUEUE + ["unlock", slug], capture_output=True, text=True, cwd=PROJ)
+            time.sleep(30)
         finally:
             try:
                 pf.unlink()
@@ -168,11 +201,41 @@ def _run(args):
         p.start()
         procs.append(p)
 
-    # monitor until all workers finish
+    # monitor: respawn any worker that dies (provider blips can kill a hermes
+    # child hard), and keep going until the queue is drained. Never exit on
+    # worker failures — a worker that can't claim (queue empty) finishes
+    # itself; we only finish when all slots are dead AND queue is exhausted.
     try:
-        while any(p.is_alive() for p in procs):
+        while True:
             time.sleep(30)
-            log(f"STATUS: done={stats['done']} failed={stats['failed']} finished={stats['workers_finished']}/{args.workers}")
+            # respawn dead workers
+            for i, p in enumerate(procs):
+                if not p.is_alive() and not stats.get(f"worker{i}_done", False):
+                    # check if it exited because queue is empty
+                    if not stats.get(f"worker{i}_queue_empty", False):
+                        log(f"worker{i}: process died unexpectedly — respawning")
+                        np = ctx.Process(target=run_worker,
+                                         args=(args.model, args.provider, args.articles, i, stats))
+                        np.start()
+                        procs[i] = np
+            alive = sum(1 for p in procs if p.is_alive())
+            log(f"STATUS: done={stats['done']} failed={stats['failed']} "
+                f"alive={alive}/{args.workers} finished={stats['workers_finished']}")
+            # all workers finished AND queue exhausted -> done
+            if alive == 0 and stats['workers_finished'] >= args.workers:
+                break
+            # all workers dead but some never reported finished (crashed) and
+            # queue still has work -> keep respawning; if truly stuck, break
+            # after the respawn loop above has had its chance (10+ cycles)
+            if alive == 0:
+                dead = [p for p in procs if not p.is_alive()]
+                if len(dead) == len(procs):
+                    # give respawned workers a moment; if still all dead, stop
+                    # only if queue reports DONE
+                    import subprocess as _sp
+                    chk = _sp.run(QUEUE + ["next"], capture_output=True, text=True, cwd=PROJ)
+                    if "DONE" in chk.stdout:
+                        break
     except KeyboardInterrupt:
         log("interrupted — killing workers")
         for p in procs:
