@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: concept
 tags: [gaza, ceasefire, governance, trump-administration, davos]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-695.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-144.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-695.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: false
 ---
@@ -37,6 +37,14 @@ At the ceremony Kushner presented a multi-phase reconstruction and economic plan
 
 The same Brief reports, citing the Times of Israel, that Arab Gulf leaders were souring on the direction of the Gaza peace project after learning Israel had withheld over $4 billion in collected tax revenue from the [[palestinian-authority|Palestinian Authority]] (the Brief's own text states the figure as $4 million), and that while Saudi Arabia and the UAE would still have representatives on the Board of Peace — and the UAE on the Gaza Executive Board — their appetite for deeper financial investment in Gaza had "decreased significantly."
 
+## First meeting in Washington (February 19, 2026)
+
+The February 20, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] convened the first meeting of the Board of Peace in Washington on February 19, 2026. "What we're doing is very simple: peace. It's called the Board of Peace. ... We have a first year like probably no other ever," Trump said. The meeting was minimally reported by legacy media; [[cbs|CBS]] noted that "few Western nations joined the board," with Britain and Germany sending their ambassadors to Washington as observers while Canada and France shunned the meeting entirely. Named attendees in the reports included [[israel|Israel]], [[egypt|Egypt]], [[jordan|Jordan]], and [[qatar|Qatar]], with representatives from over 40 countries present according to [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]].
+
+Trump pledged that the US would contribute $10 billion to the board, while Qatar, [[saudi-arabia|Saudi Arabia]] and the [[united-arab-emirates|United Arab Emirates]] each promised at least $1 billion — $17 billion total in pledges for Gaza relief, which the commentator calls "an interesting figure." "Together we can achieve the dream of bringing lasting harmony to a region tortured by centuries of war, suffering," Trump said, adding "We will help Gaza. We will straighten it out."
+
+The President also used the remarks to signal a ten-day window on [[iran|Iran]], stating "Now we may have to take it a step further, or we may not... You're going to be finding out over the next, probably, 10 days." Plans announced around the meeting included a base for the [[international-stabilization-force|International Stabilization Force]] in southern Gaza to house 5,000 soldiers and other personnel.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -46,3 +54,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [nation, geopolitics, middle-east, conspiracy-narrative]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6f0.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -75,6 +75,11 @@ On June 8, 2026, [[iran|Iran]] launched 11 ballistic missiles at Israel — the 
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+
+## Missile stockpiles and the Global Sumud Flotilla (May 2026)
+
+The May 22, 2026 Badlands Brief reports that Israel conserved its own interceptor stockpile while the US carried much of the missile-defense burden during the war with [[iran|Iran]], with the [[pentagon|Pentagon]] assessing it had fired more than 200 [[thaad|THAAD]] interceptors — roughly half the American inventory — along with large numbers of SM-3 and SM-6 naval missiles. Israel denied claims it was dangerously low on interceptors, saying operations were coordinated closely with Washington. The same Brief covers Israel's interception of the [[global-sumud-flotilla|Global Sumud Flotilla]] and the controversy over National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s video of detained activists, which drew the "true Nazi" accusation from Colombian President [[gustavo-petro|Gustavo Petro]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -101,3 +106,4 @@ This page draws on multiple source articles:
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

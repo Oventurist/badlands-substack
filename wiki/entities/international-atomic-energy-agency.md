@@ -1,10 +1,10 @@
 ---
 title: International Atomic Energy Agency
 created: 2026-08-05
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [iaea, nonproliferation, international-organization, nuclear-policy, safeguards]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5a2.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-5a2.md, raw/badlands-brief-740.md]
 confidence: high
 contested: false
 ---
@@ -26,6 +26,10 @@ The agency also figures in the corpus's coverage of [[iran|Iran]]'s enrichment d
 
 The May 18, 2026 Badlands Brief reports that Director General [[rafael-grossi|Rafael Grossi]] said military activity threatening nuclear safety was "unacceptable" after discussions with UAE officials about the drone strike that caused a fire near the [[barakah-nuclear-power-plant|Barakah nuclear power plant]] on May 17, 2026. The UAE's nuclear regulator said there was no impact on reactor operations or public safety.
 
+## Iran monitoring concerns (February 2026)
+
+The February 20, 2026 Badlands Brief reports that Director General [[rafael-grossi|Rafael Grossi]] stated that the diplomatic window regarding Iran's nuclear program is narrowing, publicly expressing concern about monitoring and verification challenges related to Iran's nuclear activities. The statement came amid the Trump administration's military build-up against [[iran|Iran]] and its reported ten-day window for a peace deal.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +37,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

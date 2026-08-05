@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [gaza, israel-palestine, ceasefire, hamas, board-of-peace]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-740.md]
 confidence: high
 contested: false
 ---
@@ -31,6 +31,10 @@ The January 23, 2026 Badlands Brief reports that [[jared-kushner|Jared Kushner]]
 
 The same edition reports, citing the Times of Israel, that Arab Gulf governments were souring on the direction of the Gaza peace project after Israel withheld over $4 billion in tax revenues from the [[palestinian-authority|Palestinian Authority]], with Turkey and Qatar described as filling the vacuum created by Israel's snub of the PA. The UAE was nonetheless slated to hold a seat on the [[gaza-executive-board|Gaza Executive Board]] alongside Saudi and Emirati representatives on the Board of Peace.
 
+## Board of Peace pledges and the ISF base (February 2026)
+
+The February 20, 2026 Badlands Brief reports that at the first [[board-of-peace|Board of Peace]] meeting in Washington on February 19, 2026, President [[donald-trump|Donald Trump]] pledged $10 billion in US funding for Gaza relief while [[qatar|Qatar]], [[saudi-arabia|Saudi Arabia]] and the [[united-arab-emirates|United Arab Emirates]] each promised at least $1 billion — roughly $17 billion in total pledges. "Together we can achieve the dream of bringing lasting harmony to a region tortured by centuries of war, suffering," Trump said. "We will help Gaza. We will straighten it out." The Brief also reports Trump announced plans for a base in southern Gaza to house 5,000 soldiers and other personnel of the [[international-stabilization-force|International Stabilization Force]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -40,3 +44,4 @@ This page draws on multiple source articles:
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

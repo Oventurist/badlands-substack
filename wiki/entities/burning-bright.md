@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: false
 ---
@@ -77,6 +77,11 @@ Commenting on [[william-pulte|Bill Pulte]]'s selection as acting Director of Nat
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+
+## Multipolar World Declaration commentary (May 2026)
+
+In the May 22, 2026 Badlands Brief, Burning Bright presented the [[vladimir-putin|Putin]]–[[xi-jinping|Xi]] Multipolar World Declaration as confirmation of his "Sovereign Alliance" thesis — that the alliance between Trump's America, Xi's China and Putin's Russia wages faux narrative wars while leveraging real power vectors against the "Global Cartel" of the Western world. He noted that "Multipolar World" was the headline chosen by the Kremlin itself in its official readout, concluding: "The Multipolar World is coming. Which means the Sovereign Alliance is real.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -129,3 +134,4 @@ This page draws on multiple source articles:
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

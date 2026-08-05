@@ -1,10 +1,10 @@
 ---
 title: Gustavo Petro
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [colombia, assassination-attempt, cartels, sovereign-alliance, venezuela]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-579.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-579.md, raw/badlands-brief-5ba.md, raw/badlands-brief-739.md]
 confidence: high
 contested: false
 ---
@@ -33,6 +33,11 @@ Petro subsequently disclosed that he and [[nicolas-maduro|Nicolás Maduro]] had 
 
 The July 14, 2026 Badlands Brief reports that Petro attempted to challenge the outcome of the country's June 21, 2026 election, which was won by [[abelardo-de-la-espriella|Abelardo de la Espriella]]. Petro reportedly claimed the real winner was [[ivan-cepeda|Iván Cepeda]] and alleged the result was manipulated using technology from California. The United States and twelve regional partners responded with a July 10 joint statement through the [[shield-of-the-americas|Shield of the Americas]] coalition, rejecting any effort to delegitimize the mandate, discredit electoral authorities, or obstruct [[colombia|Colombia]]'s institutional transition, and urging officials to respect the certified results.
 
+
+## Ben-Gvir "true Nazi" remark (May 2026)
+
+The May 22, 2026 Badlands Brief reports that Petro accused Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] of acting "like a true Nazi" after Ben-Gvir posted video of detained Gaza flotilla activists, including Colombians, kneeling and handcuffed following Israel's interception of the [[global-sumud-flotilla|Global Sumud Flotilla]]. Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] praised Petro's "tremendous amount of courage" in his public statements on Israel, noting Petro has purportedly survived at least one attempt on his life.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -45,3 +50,4 @@ This page draws on multiple source articles:
 - [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
 - [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

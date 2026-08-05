@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [us-government, foreign-policy, terrorism-designation, libya]
-sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-40d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/assad-day-in-damascus.md, raw/badlands-brief-02a.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-40d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -63,6 +63,10 @@ The July 14, 2026 Badlands Brief reports that the department joined twelve regio
 
 The Badlands Brief of April 2, 2026 reports that the department's official account posted on X about President [[donald-trump|Donald Trump]]'s threat to leave [[nato|NATO]], which Trump tied to NATO allies' refusal to back U.S. military action and maritime operations connected to the war with [[iran|Iran]], including pressure around the [[strait-of-hormuz|Strait of Hormuz]]. The same edition reports that Secretary of State [[marco-rubio|Marco Rubio]] is leading the American side of ongoing talks with [[cuba|Cuba]] — following a U.S. oil blockade imposed roughly two months earlier — in which Havana has proposed expanded economic cooperation.
 
+## Cuba reporting and the "new diplomatic mission" argument (February 2026)
+
+The February 20, 2026 Badlands Brief reports an allegation that Secretary of State [[marco-rubio|Marco Rubio]] is withholding information from President [[donald-trump|Donald Trump]] about [[cuba|Cuba]]. Commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] calls the story "probably nonsense" but argues that if true it would fit a pattern of the department frustrating Trump's major decisions, asking: "Can the State Department (read: [[cia|CIA]]) ever again be trusted? Probably not. So it would seem then that an entirely new diplomatic mission be created, which no affiliation to the [S]tate Department." The same commentary credits Trump's business-world envoy [[steve-witkoff|Steve Witkoff]] — rather than the department — with negotiating world peace.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -81,3 +85,4 @@ This page draws on multiple source articles:
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

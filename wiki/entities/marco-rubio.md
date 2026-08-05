@@ -1,10 +1,10 @@
 ---
 title: Marco Rubio
 created: 2026-08-03
-updated: 2026-02-13
+updated: 2026-08-06
 type: entity
 tags: [state-department, trump-administration, diplomacy, israel]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md, raw/badlands-brief-733.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1ce.md, raw/badlands-brief-245.md, raw/badlands-brief-4ec.md, raw/badlands-brief-509.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-686.md, raw/badlands-brief-695.md, raw/badlands-brief-733.md, raw/badlands-brief-740.md]
 confidence: high
 contested: false
 ---
@@ -43,6 +43,10 @@ Speaking to reporters in February 2026, Rubio declared that "the old world is go
 
 Rubio also featured in Trump's Venezuela messaging the same week, with the President saying "Marco Rubio, and all of our Representatives, are doing a fantastic job" while warning that no one outside State Department approval — specifically naming [[harry-sargeant-iii]] — is authorized to represent the United States.
 
+## Alleged withholding of Cuba information (February 2026)
+
+The February 20, 2026 Badlands Brief reports an allegation, flagged in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], that Rubio is withholding information from President [[donald-trump|Donald Trump]] regarding [[cuba|Cuba]]. The commentator calls the story "probably nonsense," but notes that if the mainstream reporting were true it "would align with the pattern that the [[state-department|State Department]] has been frustrating efforts to accomplish President Trump's major policing decisions," and asks whether the department — "read: [[cia|CIA]]" — can ever again be trusted.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -62,3 +66,4 @@ This page draws on multiple source articles:
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 733](https://badlands.substack.com/p/badlands-brief-733)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [media, finance, alternative-media, information-war]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-625.md, raw/badlands-brief-740.md]
 confidence: high
 contested: false
 ---
@@ -25,6 +25,10 @@ The March 18, 2026 Badlands Brief cites a ZeroHedge article, "Not Our War: Allie
 
 The Brief of April 20, 2026 cites a ZeroHedge opinion article, credited to Matt Margolis via PJMedia and published under the "Tyler Durden" pseudonym, that criticized the [[the-atlantic|Atlantic]]'s report on FBI Director [[kash-patel|Kash Patel]] and argued the magazine could face legal consequences, citing attorney Jesse Binnall's statements disputing the claims.
 
+## February 2026: the Atlantic measles story and the Iran build-up
+
+The February 20, 2026 Badlands Brief cites ZeroHedge reporting on two items. First, ZeroHedge covered the fabrication controversy around *[[the-atlantic|The Atlantic]]*'s fictional measles essay under the headline "The Atlantic Busted Fabricating Dead Kid Measles Story," following [[laura-hazard-owen|Laura Hazard Owen]]'s exposé. Second, ZeroHedge reported on the Trump-assembled armada threatening [[iran|Iran]] — "two aircraft carriers, a dozen warships, hundreds of jets, and advanced air defenses" — with over 150 US military cargo flights delivering weapons to the Middle East that month and a surge of aircraft still headed to the region, "some say the build-up is already nearing Iraq war levels." The same ZeroHedge piece carried [[rafael-grossi|Rafael Grossi]]'s pessimistic outlook that the diplomatic window on Iran's nuclear program is closing.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -32,3 +36,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [outlet, magazine, mainstream-media, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -25,6 +25,12 @@ The Brief of April 20, 2026 covers the Atlantic's report alleging that FBI Direc
 
 The July 8, 2026 Badlands Brief reports that *The Atlantic* published a piece lamenting that justice is coming for the scientists of the [[national-institute-of-allergy-and-infectious-diseases|National Institute of Allergy and Infectious Diseases]], quoted as observing: "The precise timing of these cases, which have all come to light since April, may be a coincidence. Yet all five are centered on a small community of scientists affiliated with the National Institute of Allergy and Infectious Diseases, which Fauci ran for nearly 40 years." Badlands commentary (Ashe in America) reads the magazine as one of the pandemic era's complicit "central narrative deployers," recalling its October 2022 "desperate plea for amnesty," and frames the prosecutions — the debarment of [[ralph-baric|Ralph Baric]], the indictment of [[david-morens|David Morens]], the removal of [[jeffrey-taubenberger|Jeffrey Taubenberger]], the indictment of [[vincent-munster|Vincent Munster]] and Senator [[rand-paul|Rand Paul]]'s subpoena of [[anthony-fauci|Anthony Fauci]] — as the "Justice Phase" preceding a "Golden Age."
 
+## February 2026: the measles fiction controversy
+
+The February 20, 2026 Badlands Brief reports that *The Atlantic* published a fictional article by staff writer [[elizabeth-bruenig|Elizabeth Bruenig]] about an unvaccinated child dying from measles, written from the perspective of a mother whose two unvaccinated children fell ill and whose 11-month-old dies. The piece read as a first-hand account but was a work of fiction: an editor's note appended at the end stated that "this story is based on extensive reporting and interviews with physicians, including those who have cared directly for patients with measles." [[laura-hazard-owen|Laura Hazard Owen]] of [[niemanlab|NiemanLab]] was the first to flag publicly that the piece was fiction, and multiple journalists questioned its truthfulness, which reportedly led to the disclaimer. [[zerohedge|ZeroHedge]] covered the controversy under the headline "The Atlantic Busted Fabricating Dead Kid Measles Story."
+
+Badlands commentator [[ashe-in-america|Ashe in America]] argues that Bruenig invented a dead child — a "composite narrative character" constructed from medical literature — and that "inventing dead, unvaxxed children to drive social change is not journalism, new or old. It's emotionally manipulative propaganda," invoking the [[new-journalism|New Journalism]] movement and recalling the magazine's [[pandemic-amnesty|"Pandemic Amnesty"]] essay on Covid.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 50d](https://badlands.substack.com/p/badlands-brief-50d)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

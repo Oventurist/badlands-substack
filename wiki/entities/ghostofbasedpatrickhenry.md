@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands, commentator, nato, russia, geopolitics]
-sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
+sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: false
 ---
@@ -28,9 +28,15 @@ In the June 8, 2026 Brief, GhostofBasedPatrickHenry documents the now-routine ph
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+
+## May 2026 Brief commentary
+
+In the May 22, 2026 Badlands Brief, GhostofBasedPatrickHenry commented on the missile-stockpile reporting, asking why the US would "bankrupt ourselves to ensure that another country prospers" and calling the demand that US taxpayers subsidize the IDF "a parasitic relationship." On the [[global-sumud-flotilla|Global Sumud Flotilla]] video, he called [[itamar-ben-gvir|Itamar Ben-Gvir]]'s decision to post it an example of "hubris" among Israeli leaders, invoked the [[yitzhak-kroizer|Yitzhak Kroizer]] remarks at the [[knesset|Knesset]], and praised Colombian President [[gustavo-petro|Gustavo Petro]]'s courage.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

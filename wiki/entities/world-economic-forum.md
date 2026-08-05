@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [globalism, technocracy, davos, great-reset]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-577.md, raw/badlands-brief-695.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-swan-song-for-the-msm.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-05f.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -38,6 +38,11 @@ The January 26, 2026 Badlands Brief covers the January 2026 meeting of the Forum
 
 The January 23, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] used the Forum's January 2026 annual meeting in Davos to host the signing ceremony ratifying the Charter of the [[board-of-peace|Board of Peace]], summoning attending world leaders to the table to sign. Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] framed the episode as Trump having "successfully strong-armed the World Economic Forum — an organization founded by [[klaus-schwab|Klaus Schwab]] in 1971 under the guidance of Henry Kissinger, for the purpose of planning and managing the subjugation of the human race" — into hosting "the founding of an organization that stands in direct opposition to the WEF's core mission." The ceremony featured [[jared-kushner|Jared Kushner]]'s presentation of the multi-phase reconstruction plan for [[gaza|Gaza]] and the joint appearance of Saudi Foreign Minister [[faisal-bin-farhan|Faisal bin Farhan]] and Turkish Foreign Minister [[hakan-fidan|Hakan Fidan]].
 
+
+## "Great Migration" framing (May 2026)
+
+In the May 22, 2026 Badlands Brief, contributor [[ashe-in-america|Ashe in America]] attributed the "Great Migration" — the mass-migration pressures behind the [[unite-the-kingdom|Unite the Kingdom]] rally and European neighborhood patrols — to "a transformational change program pushed by the World Economic Forum and their partners over the past two decades.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -52,3 +57,4 @@ This page draws on multiple source articles:
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

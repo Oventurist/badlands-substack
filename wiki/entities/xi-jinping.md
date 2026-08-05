@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [china, head-of-state, multipolarity, belt-and-road, sco]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/avoiding-wwiii.md, raw/badlands-brief-02a.md, raw/badlands-brief-174.md, raw/badlands-brief-311.md, raw/badlands-brief-5a2.md, raw/badlands-brief-577.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-739.md]
 confidence: high
 contested: false
 ---
@@ -38,6 +38,11 @@ The May 12, 2026 Badlands Brief reports that US media outlets framed the upcomin
 
 The same edition reports that a delegation of American business executives — including [[elon-musk|Elon Musk]], [[tim-cook|Tim Cook]] and [[larry-fink|Larry Fink]] — was expected to accompany President [[donald-trump|Donald Trump]] to [[china|China]] as the administration pushed for new economic agreements with Beijing. Badlands commentator [[burning-bright|Burning Bright]] read the convergence of Washington, Moscow and Beijing as the "Sovereign Alliance" operating in the open, with the summit serving as cover for coordinated interests against the "Globalist Hegemon."
 
+
+## Multipolar World Declaration with Putin (May 2026)
+
+The May 22, 2026 Badlands Brief reports that Xi and Russian President [[vladimir-putin|Vladimir Putin]] signed a joint declaration in Beijing calling for a "multipolar world" and criticizing destabilizing US foreign and nuclear policies, framing Russia and China as defenders of a new international order less dominated by the United States and Western alliances. The summit produced more than 40 agreements and came just days after Trump's own visit to Beijing, underscoring Xi's effort to position China as a central balancing power between major blocs. Both leaders condemned "hegemonism" and criticized US missile defense initiatives, including Trump's proposed [[golden-dome|Golden Dome]] system. The summit also exposed limits in the partnership, with Putin reportedly failing to secure final Chinese approval for the [[power-of-siberia-2|Power of Siberia 2]] gas pipeline over pricing and dependency concerns.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -51,3 +56,4 @@ This page draws on multiple source articles:
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

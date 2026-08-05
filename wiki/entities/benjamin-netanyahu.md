@@ -1,10 +1,10 @@
 ---
 title: Benjamin Netanyahu
 created: 2026-08-02
-updated: 2026-02-13
+updated: 2026-08-06
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md, raw/badlands-brief-733.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md, raw/badlands-brief-733.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -108,6 +108,11 @@ Separately, Trump attacked Israeli President [[isaac-herzog]] for refusing to pa
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the empty-handed departure as a major failure for Netanyahu, whose only consolation was avoiding public humiliation in the White House. In his framing, Netanyahu's Israel has become "a cornered animal" poised to square off against the world as the Old Guard digs in, and Trump's pardon pressure — whichever way Herzog rules — leaves Trump with additional leverage. The extended metaphor compares the maneuver to ancestral mammoth hunts: corral the beast into a choke point through deception and optics, then decide what to do with it.
 
+
+## Global Sumud Flotilla interception (May 2026)
+
+The May 22, 2026 Badlands Brief reports that Netanyahu defended Israel's interception of the [[global-sumud-flotilla|Global Sumud Flotilla]], a convoy reportedly carrying about 430 international volunteers trying to reach Gaza with humanitarian aid, but distanced himself from National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s treatment of the detainees — who appeared kneeling and handcuffed in a video Ben-Gvir posted — and ordered their deportations expedited. Colombian President [[gustavo-petro|Gustavo Petro]] accused Ben-Gvir of acting "like a true Nazi.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -136,3 +141,4 @@ This page draws on multiple source articles:
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 - [badlands brief 6f4](https://badlands.substack.com/p/badlands-brief-6f4)
 - [badlands brief 733](https://badlands.substack.com/p/badlands-brief-733)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

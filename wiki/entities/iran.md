@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -91,6 +91,14 @@ President [[donald-trump|Donald Trump]] said on June 4, 2026 that the United Sta
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+
+## Missile-defense burden during the Iran war (May 2026)
+
+The May 22, 2026 Badlands Brief reports that the US carried much of the missile-defense burden during the Iran war, expending more than 200 [[thaad|THAAD]] interceptors — roughly half the American inventory — along with large numbers of SM-3 and SM-6 naval missiles, while [[israel|Israel]] conserved its own stockpile. Analysts said the conflict exposed a major vulnerability in Western missile-defense production capacity, and critics argued the war strained US readiness for other potential conflicts, especially in the Indo-Pacific.
+## Ten-day deadline and the armada (February 2026)
+
+The February 20, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]], at the first [[board-of-peace|Board of Peace]] meeting in Washington on February 19, 2026, signaled a short window for his peace deal with Iran: "Now we may have to take it a step further, or we may not... You're going to be finding out over the next, probably, 10 days." The Brief cites [[zerohedge|ZeroHedge]] reporting on the military build-up: an armada of two aircraft carriers, a dozen warships, hundreds of jets and advanced air defenses, with over 150 US military cargo flights delivering weapons to the Middle East that month, a surge of aircraft still inbound, and commentary that "the build-up is already nearing Iraq war levels." [[rafael-grossi|Rafael Grossi]] said the diplomatic window on Iran's nuclear program is narrowing, citing monitoring and verification challenges. The Brief notes the build-up came "as the US pulls out of the region's wars" — read by Badlands commentary as the policing phase of the [[great-american-restoration-tour|Great American Restoration Tour]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -121,3 +129,5 @@ This page draws on multiple source articles:
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, prime-minister, syria, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-67a.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-67a.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -27,6 +27,11 @@ The February 10, 2026 Badlands Brief reported that Starmer had lost senior aides
 
 The July 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]], arriving at the Ankara [[nato|NATO]] summit still angry over European allies' refusal to support the U.S.-led military campaign against [[iran|Iran]], dismissed Starmer as weak and posted memes targeting Italian Prime Minister [[giorgia-meloni|Giorgia Meloni]], while declaring "I just want loyalty" and refusing to rule out further reductions in the U.S. military footprint in Europe.
 
+
+## Unite the Kingdom rally (May 2026)
+
+The May 22, 2026 Badlands Brief reports that Starmer condemned the [[unite-the-kingdom|Unite the Kingdom]] rally in London — organized by [[tommy-robinson|Tommy Robinson]] and drawing tens of thousands of demonstrators — as promoting "hatred and division." Police reported dozens of arrests, including several tied to alleged hate-crime offenses. Vice President [[jd-vance|JD Vance]] publicly backed the rally's activists, saying it was "OK to defend your culture.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -36,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

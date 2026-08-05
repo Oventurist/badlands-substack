@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [us-government, law-enforcement, oversight, weaponization]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -64,6 +64,11 @@ Fourth, newly released Department documents show internal concerns among officia
 
 [[ashe-in-america|Ashe in America]] writes that "every one of these cases involves weaponized government," and draws a parallel between the school board disclosures and comparable recent reporting on the [[mar-a-lago-raid|Mar-a-Lago raid]], in which internal warnings were likewise said to have been raised and ignored. She concludes that "the public is prepped to realize weaponized government is a sweeping grand conspiracy, indeed. Maybe it has been for a long time." See [[weaponization-of-government|weaponization of government]].
 
+
+## Monaco referral and Lineberger indictment (May 2026)
+
+The May 22, 2026 Badlands Brief reports that the [[american-accountability-foundation|American Accountability Foundation]] referred former Deputy Attorney General [[lisa-monaco|Lisa Monaco]] to the Justice Department, accusing her of shielding [[microsoft|Microsoft]] from cybersecurity enforcement actions before joining the company in 2025. The group asked DOJ inspectors general to investigate whether Monaco and other officials violated ethics, recusal, or revolving-door restrictions, and whether Microsoft could face liability under the [[false-claims-act|False Claims Act]]. Separately, former federal prosecutor [[carmen-lineberger|Carmen Lineberger]] was indicted for allegedly emailing herself a sealed, unreleased portion of [[jack-smith|Special Counsel Jack Smith]]'s report on the [[donald-trump|Trump]] classified-documents investigation, disguising the file under names like "Bundt_Cake_Recipe.pdf.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -86,3 +91,4 @@ This page draws on multiple source articles:
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

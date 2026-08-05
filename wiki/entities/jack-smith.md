@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [person, prosecutor, department-of-justice, indictment]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-245.md, raw/badlands-brief-695.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-245.md, raw/badlands-brief-695.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -37,6 +37,11 @@ The January 23, 2026 Badlands Brief reports that Smith testified publicly on Thu
 
 During the five-hour hearing, Republican lawmakers questioned Smith about his oath of office, his office's use of subpoena powers, his handling of Republican lawmakers' phone toll records, and the January 6 committee. Contributor [[ashe-in-america|Ashe in America]] noted that Smith "repeatedly relied on the authority of GA Secretary of State [[brad-raffensperger|Brad Raffensperger]] for his unprecedented treatment of President Trump," and that Raffensperger was the only witness Smith mentioned — an observation she linked to Raffensperger having been implicated the previous day, at the [[georgia-state-election-board|Georgia State Election Board]] hearing, for allegedly lying to the President on January 2, 2021. Ashe also alleged that Smith "likely swore himself in and signed his own oath outside the presence of witnesses," describing the episode as part of "a Grand Treasonous Conspiracy… ongoing against the President since 2016."
 
+
+## Lineberger indictment over the report leak (May 2026)
+
+The May 22, 2026 Badlands Brief reports that former federal prosecutor [[carmen-lineberger|Carmen Lineberger]] was indicted for allegedly sending herself a sealed, unreleased portion of Smith's report concerning the classified-documents investigation into [[donald-trump|Donald Trump]]. According to the indictment, Lineberger allegedly emailed the report from her [[department-of-justice|DOJ]] account to a personal account and disguised the file under names like "Bundt_Cake_Recipe.pdf.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -44,3 +49,4 @@ This page draws on multiple source articles:
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

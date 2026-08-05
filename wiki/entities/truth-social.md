@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [platform, social-media, trump, free-speech]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -38,6 +38,10 @@ The May 12, 2026 Badlands Brief publishes in full a Truth Social statement in wh
 
 The Brief of April 20, 2026 quotes [[donald-trump|Trump]]'s Truth Social post after the U.S.-brokered ceasefire in [[lebanon|Lebanon]] took effect: "Israel will not be bombing Lebanon any longer. They are PROHIBITED from doing so by the U.S.A. Enough is enough!" The post reportedly surprised [[benjamin-netanyahu|Netanyahu]] and his advisers, with the Israeli ambassador to the U.S. scrambling for clarification.
 
+## February 2026: the alien and UAP declassification post
+
+The February 20, 2026 Badlands Brief quotes in full a Truth Social post in which President [[donald-trump|Donald Trump]] announced: "Based on the tremendous interest shown, I will be directing the Secretary of War, and other relevant Departments and Agencies, to begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters. GOD BLESS AMERICA!" The post came hours after Trump's [[air-force-one|Air Force One]] exchange with [[peter-doocy|Peter Doocy]] about [[barack-obama|Barack Obama]]'s aliens remarks, in which Trump joked about declassifying to "get him out of trouble." Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the move as Trump "rugging" an Obama-driven aliens psyop by declassifying everything, with the implication that suppressed technologies will be revealed as part of the "alien culture."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -51,3 +55,4 @@ This page draws on multiple source articles:
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

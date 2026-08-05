@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [us-government, military, benghazi, department-of-defense]
-sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f0.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -39,6 +39,11 @@ The July 8, 2026 Badlands Brief reports that the Pentagon had scaled back some U
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+
+## Missile-defense expenditure in the Iran war (May 2026)
+
+According to the May 22, 2026 Badlands Brief, citing [[the-washington-post|The Washington Post]], the Pentagon assessed that the US fired more than 200 [[thaad|THAAD]] interceptors — roughly half the American inventory — along with large numbers of SM-3 and SM-6 naval missiles while carrying much of the missile-defense burden for [[israel|Israel]] during the war with [[iran|Iran]]. Analysts said the conflict exposed a major vulnerability in Western missile-defense production capacity, since systems like THAAD and Patriot are expensive and slow to replace. Critics argued the war strained US readiness for other potential conflicts, especially in the Indo-Pacific, while supporters said the joint missile-defense effort prevented far greater regional escalation and civilian casualties. Israel denied claims it was dangerously low on interceptors, saying its operations were coordinated closely with Washington throughout the conflict.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -52,3 +57,4 @@ This page draws on multiple source articles:
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

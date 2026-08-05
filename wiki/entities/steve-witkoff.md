@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, trump-administration, special-envoy, iran, qatar]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-695.md, raw/badlands-brief-6f0.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-695.md, raw/badlands-brief-6f0.md, raw/badlands-brief-740.md]
 confidence: high
 contested: false
 ---
@@ -30,6 +30,10 @@ The January 23, 2026 Badlands Brief reports that Witkoff was a named participant
 
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
 
+## February 2026: business-envoy peacemaking and the State Department critique
+
+The February 20, 2026 Badlands Brief carries commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] on the first [[board-of-peace|Board of Peace]] meeting in Washington, observing that "it's POTUS'S friends (Witkoff) from business that seem to be negotiating world peace, ostensibly" — in contrast to an alleged pattern of the [[state-department|State Department]] frustrating President [[donald-trump|Donald Trump]]'s major decisions, including a reported allegation that Secretary of State [[marco-rubio|Marco Rubio]] was withholding information from the President about [[cuba|Cuba]].
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -37,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

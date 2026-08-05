@@ -1,10 +1,10 @@
 ---
 title: Sergey Lavrov
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, foreign-ministry, iran]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-405.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: false
 ---
@@ -25,9 +25,14 @@ In a speech to the Russian parliament on Wednesday, February 11, 2026, reported 
 
 [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] treats the speech as confirmation of what he calls "The War of Sovereignty," a coordinated subversive campaign he attributes to a unipolar hegemony and maps as "Conflict A." He identifies the [[alliance-of-sahel-states|Alliance of Sahel States]] under Burkinabè President Captain [[ibrahim-traore|Ibrahim Traoré]] as the target, credits the Russian military and the [[wagner-group|Wagner Group]] with having trained those forces in Syria, and speculates about a Russian redeployment to the Sahel.
 
+## Cuba as a "brotherly nation" (February 2026)
+
+The February 20, 2026 Badlands Brief reports that Lavrov referred to [[cuba|Cuba]] as a "brotherly nation" in public remarks while criticizing US sanctions on the island. The remarks came as Cuba faced worsening blackouts and waste accumulation from large-scale power outages tied to strain on its electrical grid, with President [[donald-trump|Donald Trump]] describing the country as "a failed nation" that lacks jet fuel.
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 405](https://badlands.substack.com/p/badlands-brief-405)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

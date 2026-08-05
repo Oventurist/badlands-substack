@@ -1,10 +1,10 @@
 ---
 title: FBI
 created: 2026-08-01
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [fbi, record-labels, gangster-rap, cointelpro-style-operations]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-559.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-739.md]
 confidence: medium
 contested: true
 ---
@@ -37,6 +37,11 @@ Separately, White House press secretary [[karoline-leavitt|Karoline Leavitt]] de
 
 The January 23, 2026 Badlands Brief reports that FBI agents, together with [[homeland-security-investigations|Homeland Security Investigations]], executed the arrests of Nekima Levy Armstrong and Chauntyll Louisa Allen in [[minnesota|Minnesota]] in connection with the coordinated attack on [[cities-church|Cities Church]] in St. Paul. Attorney General [[pam-bondi|Pam Bondi]] announced the arrests, stating the pair were taken into custody "at her direction" and that Armstrong allegedly played a key role in organizing the attack. Federal officials said they were investigating potential civil rights and other charges related to the incident.
 
+
+## Milwaukee 2020 election probe (May 2026)
+
+The May 22, 2026 Badlands Brief reports that the FBI is preparing to interview multiple [[milwaukee-police-department|Milwaukee Police Department]] officers as part of its investigation into Wisconsin's 2020 election, citing the Milwaukee Journal Sentinel. The interviews are expected to focus on officers stationed at Milwaukee's central count facility and polling places on Election Night, and investigators are examining an incident in which former [[milwaukee-election-commission|Milwaukee Election Commission]] Executive Director [[claire-woodall|Claire Woodall]] briefly left a flash drive inside a voting machine. Federal agents have also spoken with [[wisconsin-elections-commission|Wisconsin Elections Commission]] Deputy Administrator [[robert-kehoe|Robert Kehoe]], attempted to question a top Milwaukee County election official at her home, and contacted at least two individuals involved in administering Milwaukee's 2020 election. Milwaukee's 2020 ballots still exist despite standard retention timelines, partly due to ongoing litigation.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -55,3 +60,4 @@ This page draws on multiple source articles:
 - [badlands brief 559](https://badlands.substack.com/p/badlands-brief-559)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
+- [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)

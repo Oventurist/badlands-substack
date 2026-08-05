@@ -7,7 +7,7 @@ tags:
   - middle-east
   - al-qaeda
   - diplomacy
-sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-conflict-of-interest.md, raw/america-for-sale-part-2.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -43,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)
