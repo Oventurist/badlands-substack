@@ -1,10 +1,10 @@
 ---
 title: American Bar Association
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [legal-profession, accreditation, dei, ngo, institutional-capture]
-sources: [raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -25,6 +25,16 @@ Gill's comments followed a House hearing at which ABA President [[michelle-behnk
 
 [[ashe-in-america|Ashe in America]] recounts that in the previous year Attorney General [[pam-bondi|Pam Bondi]] sent a letter to the ABA stripping its preferred access to the judicial nomination process, quoting Bondi's statement that "while the ABA is free to comment on judicial nominations along with other activist organizations, there is no justification for treating the ABA differently from such other activist organizations and the Department of Justice will not do so." Her commentary characterizes professional associations and NGOs as "the connective tissue of the corrupt and subversive shadow control," and identifies the ABA as "the center of the beast when it comes to controlling lawyers and judges and the institution of law itself." This framing is interpretive and contested.
 
+## Bar associations "ending themselves" (June 2026)
+
+The June 8, 2026 Badlands Brief returns to the assault on bar associations. [[ed-martin|Ed Martin]] is quoted declaring "The Bar Associations are ending themselves. Soon, they will be like the Guilds of Florence" — a reference to the medieval Florentine guilds abolished by decree in 1770 after popular uprising. [[ashe-in-america|Ashe in America]] amplifies the remark, recalling the [[pam-bondi|Pam Bondi]] [[department-of-justice|DOJ]] letter stating that "while the ABA is free to comment on judicial nominations along with other activist organizations, there is no justification for treating the ABA differently from such other activist organizations and the Department of Justice will not do so," and listing [[jeff-clark|Jeff Clark]], John Eastman, Rachel Alexander and Brian Blehm as figures targeted by bar-association authority. Ashe characterizes the professional associations as an unaccountable "expert class" that acts "more like unions when the attorney or law firm conduct confirms their political biases." The complaint that prompted the commentary was an ethics filing against Acting Attorney General [[todd-blanche|Todd Blanche]] over the dismissed [[kilmar-abrego-garcia|Kilmar Abrego Garcia]] case.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-245)
+This page draws on multiple source articles:
+
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

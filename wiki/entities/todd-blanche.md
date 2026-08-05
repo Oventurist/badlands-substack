@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [justice-department, drug-policy, trump-administration]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1ef.md, raw/badlands-brief-618.md, raw/badlands-brief-6bf.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1ef.md, raw/badlands-brief-618.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: false
 ---
@@ -27,6 +27,13 @@ The May 12, 2026 Badlands Brief reports that defense attorneys for the man accus
 
 As Acting Attorney General, Blanche stated that [[donald-trump|Donald Trump]] had no role in directing or initiating any prosecution involving [[james-comey|James Comey]], saying the matter is being handled independently through the [[department-of-justice|Department of Justice]] and rejecting claims that the case was politically driven by the [[white-house|White House]]. He reiterated that prosecutorial decisions rest on evidence and standard DOJ procedures rather than presidential direction.
 
+## Ethics complaint over the Abrego Garcia case (May–June 2026)
+
+A public interest group filed an ethics complaint against Blanche after U.S. District Judge [[waverly-crenshaw|Waverly Crenshaw]] dismissed the Tennessee criminal case against [[kilmar-abrego-garcia|Kilmar Abrego Garcia]], according to a May 31, 2026 commentary by [[jonathan-turley|Jonathan Turley]]; the underlying complaint PDF could not be accessed in-browser and was not used to establish independent facts. Crenshaw dismissed the human-smuggling case on May 22, 2026 after granting Abrego Garcia's motion alleging vindictive prosecution, finding the government had not rebutted a presumption of vindictiveness, per [[abc|ABC News]]. [[ed-martin|Ed Martin]]'s accompanying commentary — "The Bar Associations are ending themselves" — frames the complaint within the broader assault on the [[american-bar-association|bar associations]].
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -37,3 +44,4 @@ This page draws on multiple source articles:
 - [badlands brief 1ef](https://badlands.substack.com/p/badlands-brief-1ef)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: false
 ---
@@ -74,6 +74,13 @@ On the April 1 launch of [[artemis-ii|Artemis II]], she asks on Badlands Daily w
 
 In the Badlands Brief of April 30, 2026, Ashe in America treated [[louisiana-v-callais|Louisiana v. Callais]] as a signal that [[critical-race-theory|critical race theory]] is legally dead, describing the ruling as the end of race-based manipulation of electoral maps and a defeat for the Eisen–Elias progressive litigation effort; she had discussed the case's place in the wider [[voting-rights-act-of-1965|Voting Rights Act]] ecosystem on that week's episode of [[culture-of-change|Culture of Change]] before the decision landed, and previewed her reaction on the Devolution Power Hour. She also highlighted the companion ruling for [[first-choice-womens-resource-centers|First Choice Women's Resource Centers]], which she said flew under the radar, condemning [[new-jersey|New Jersey]]'s treatment of pro-life pregnancy centers and framing the outcome as evidence that the weaponization of government is being dismantled.
 
+## June 2026 Brief comments
+
+In the June 8, 2026 Badlands Brief, Ashe comments on [[ed-martin|Ed Martin]]'s declaration that bar associations are "ending themselves," on President [[donald-trump|Donald Trump]]'s walkout on [[kristen-welker|Kristen Welker]] of [[meet-the-press|Meet the Press]] over "fake elections," and on the plan to invite the [[election-truth-alliance|Election Truth Alliance]] onto [[why-we-vote|Why We Vote]]. He argues that continuing to pretend elections are real harms the America First agenda and that Trump's remarks to Welker were "true and justified," and characterizes the professional associations as an unaccountable "expert class" that acts "more like unions when the attorney or law firm conduct confirms their political biases," citing the [[pam-bondi|Pam Bondi]] [[department-of-justice|DOJ]] letter on the [[american-bar-association|ABA]].
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -127,3 +134,4 @@ This page draws on multiple source articles:
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

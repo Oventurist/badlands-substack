@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [us-government, military, benghazi, department-of-defense]
-sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -32,6 +32,13 @@ The July 14, 2026 Badlands Brief reports that the Pentagon and the [[department-
 
 The July 8, 2026 Badlands Brief reports that the Pentagon had scaled back some U.S. forces in Europe and launched a six-month review of its presence there ahead of the Ankara [[nato|NATO]] summit, with War Secretary [[pete-hegseth|Pete Hegseth]] describing allies' refusal to provide base access for the U.S.-led campaign against [[iran|Iran]] as "shameful." President [[donald-trump|Donald Trump]] refused to rule out further reductions in the U.S. military footprint, declaring "I just want loyalty" after allies declined to open air bases for strikes or contribute forces to help reopen the [[strait-of-hormuz|Strait of Hormuz]].
 
+## Israeli espionage threat assessment (June 2026)
+
+[[nbc-news|NBC News]] and the [[new-york-times|New York Times]] reported that the Pentagon's [[defense-intelligence-agency|Defense Intelligence Agency]] elevated its assessment of the threat posed by Israeli espionage to "critical," in a seven-page document with an accompanying chart evaluating Israeli intelligence-gathering capabilities. The assessment allegedly identified concerns about Israeli efforts to gather information on U.S. administration deliberations on [[iran|Iran]] and [[lebanon|Lebanon]], naming [[steve-witkoff|Steve Witkoff]], [[elbridge-colby|Elbridge Colby]] and [[michael-dimino|Michael DiMino]] among officials allegedly targeted by intelligence collection. The Pentagon declined comment; a [[white-house|White House]] official told NBC News that "the entire story is false," and a spokesperson for the Israeli Embassy in Washington dismissed the allegations as politically motivated. The reporting surfaced amid broader tensions between the Trump administration and the Israeli government over Iran and developments in Lebanon.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -44,3 +51,4 @@ This page draws on multiple source articles:
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

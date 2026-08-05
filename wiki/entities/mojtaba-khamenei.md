@@ -4,7 +4,7 @@ created: 2026-08-05
 updated: 2026-08-06
 type: entity
 tags: [iran, supreme-leader, succession, islamic-republic]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-58d.md, raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-58d.md, raw/badlands-brief-5dc.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -26,6 +26,13 @@ Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] c
 
 The March 27, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] said in an interview on [[fox-news|Fox News]]' "The Five" that the [[cia|CIA]] had told him Khamenei is gay, referencing recent intelligence claims. Trump acknowledged the agency relayed the information but indicated uncertainty, noting that others have made similar claims, and reminisced about his support from gay voters in the 2024 election. The reporting connects the claim to broader geopolitical narratives and internal Iranian power dynamics. Badlands contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] observes that Trump made the remarks after weeks of speculation over whether Khamenei was even alive or real, since no footage of him appearing in public had surfaced, concluding that "it feels like we are getting trolled by Trump."
 
+## June 8, 2026 Brief
+
+The June 8, 2026 Badlands Brief repeats Trump's conciliatory posture toward Khamenei in the context of the Iranian missile attack on [[israel|Israel]]: while not currently seeking a meeting with the Supreme Leader, President [[donald-trump|Donald Trump]] said he would consider one if a deal is reached and would approach it respectfully, and reiterated that [[iran|Iran]] has already agreed not to obtain nuclear weapons, describing that commitment as the central issue in the ongoing discussions. The Brief presents Trump's remarks as evidence that Iran's strikes "did not kick at all" and would not deter his pursuit of a deal.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -34,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
 - [badlands brief 58d](https://badlands.substack.com/p/badlands-brief-58d)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

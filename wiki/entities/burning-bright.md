@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [person, writer, substack, badlands-media, 5gw]
-sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md]
+sources: [raw/all-assets-deployed.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-21.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-24.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-26.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: false
 ---
@@ -70,6 +70,13 @@ In the Badlands Brief of April 2, 2026, Burning Bright comments on President [[d
 
 Writing on the April 2026 Treasury sanctions, Burning Bright argued that [[donald-trump|Donald Trump]] "is using one cartel to break another." The Hollywood heel-turn against Tehran, he wrote, is real only as Narrative cover; on the Actual level Trump is at war not with Iran but with the Western Hegemon — the energy infrastructure and financial rails of the globalist machine. He read [[operation-economic-fury|Operation Economic Fury]], run by [[scott-bessent|Scott Bessent]] (his "Wolf of Main Street"), as an assault on the [[shadow-banking|shadow banking]] architecture he traces to Prussian origins fused with British imperial precedent, with the "Iranian proxy" label serving as a politically palatable veil for dismantling the network itself.
 
+## On the ODNI purge (June 2026)
+
+Commenting on [[william-pulte|Bill Pulte]]'s selection as acting Director of National Intelligence, Burning Bright argues that whether Trump's appointments register as prudent or dangerous depends on what the architect believes the institution is ultimately for: those who read the project as restoration see erratic disruption, while those who recognize "the architecture of a controlled demolition and constitutional reset" see the [[office-of-the-director-of-national-intelligence|ODNI]] as a post-9/11 layer that "concentrated power and, over time became a node in a narrative war for domestic political enforcement." The commentary concludes that an acting director drawn from outside the intelligence guild, given license to reduce headcount and operating scope before a permanent hand takes over, "is not a bug in Trump's restoration. It is the feature required when the institution itself has become part of the problem it was meant to solve.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -121,3 +128,4 @@ This page draws on multiple source articles:
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

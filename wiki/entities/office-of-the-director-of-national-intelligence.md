@@ -1,10 +1,10 @@
 ---
 title: Office of the Director of National Intelligence
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [intelligence-community, security-clearances, federal-government]
-sources: [raw/badlands-brief-245.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: false
 ---
@@ -19,6 +19,16 @@ In the July 27, 2026 Badlands Brief, ODNI appears as the addressee of a watchdog
 
 The Badlands commentary surrounding the item treats the persistence of clearances held by former officials as a structural problem rather than an administrative oversight, with [[ashe-in-america|Ashe in America]] arguing that post-government clearance retention "seems to invite foreign influence and espionage" by enabling consulting work and speaking fees premised on continued access.
 
+## Trump's purge directive (June 2026)
+
+The June 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] told the [[wall-street-journal|Wall Street Journal]] he had privately instructed acting Director of National Intelligence [[william-pulte|William Pulte]] to "start the process" of firing employees as part of an effort to reshape the U.S. intelligence community, calling the ODNI, which oversees 18 U.S. intelligence agencies and units, "unnecessary and/or too big." Trump told [[reuters|Reuters]]: "I'd like to see it smaller. I think there are a lot of people in there that shouldn't be there." Pulte was selected following the announced departure of [[tulsi-gabbard|Tulsi Gabbard]], scheduled to take effect June 30, 2026, and Trump indicated he does not plan to nominate Pulte permanently. [[burning-bright|Burning Bright]]'s commentary reads the pick as a feature of "controlled demolition": an acting director drawn from outside the intelligence guild, given explicit license to reduce headcount and operating scope before a permanent hand takes over.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-245)
+This page draws on multiple source articles:
+
+- [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

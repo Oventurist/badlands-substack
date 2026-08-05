@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [attorney-general, department-of-justice, appointments, prosecutions]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-695.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-695.md, raw/badlands-brief-6f0.md]
 confidence: high
 contested: false
 ---
@@ -41,6 +41,13 @@ The February 12, 2026 Badlands Brief reports as a bonus item that Bondi testifie
 
 The January 23, 2026 Badlands Brief reports that Bondi announced the arrest of two individuals in connection with the coordinated attack on [[cities-church|Cities Church]] in St. Paul, [[minnesota|Minnesota]], identifying Nekima Levy Armstrong and Chauntyll Louisa Allen as taken into custody "at her direction." Bondi said [[homeland-security-investigations|Homeland Security Investigations]] and [[fbi|FBI]] agents executed the arrests in Minnesota, and that Armstrong allegedly played a key role in organizing the attack on the church, which had targeted a pastor said to be linked to [[immigration-and-customs-enforcement|ICE]]. Federal officials said they were investigating potential civil rights and other charges related to the incident.
 
+## DOJ letter on the ABA (2026)
+
+The June 8, 2026 Badlands Brief recalls the [[department-of-justice|DOJ]] letter from Bondi stating the administration's position on the [[american-bar-association|American Bar Association]]: "while the ABA is free to comment on judicial nominations along with other activist organizations, there is no justification for treating the ABA differently from such other activist organizations and the Department of Justice will not do so." The letter is cited in Badlands commentary on bar associations "ending themselves.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -54,3 +61,4 @@ This page draws on multiple source articles:
 - [badlands brief 40d](https://badlands.substack.com/p/badlands-brief-40d)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

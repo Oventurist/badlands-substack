@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [journalism, axios, israel, middle-east]
-sources: [raw/badlands-brief-2b2.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-2b2.md, raw/badlands-brief-625.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: false
 ---
@@ -19,9 +19,17 @@ In the July 6, 2026 Badlands Brief, Ravid is named as the Axios reporter to whom
 
 The Brief of April 20, 2026 cites Ravid's [[axios|Axios]] reporting that [[benjamin-netanyahu|Netanyahu]] and his advisers were surprised by [[donald-trump|Trump]]'s [[truth-social|Truth Social]] post stating Israel is "PROHIBITED" from further bombing in [[lebanon|Lebanon]], remarks not expected in Jerusalem, and that the Israeli ambassador to the U.S. scrambled for clarification.
 
+## June 2026 reporting
+
+The June 8, 2026 Badlands Brief highlights Ravid's privileged access to President [[donald-trump|Donald Trump]], whose phone calls to the [[axios|Axios]] journalist are now happening "every few weeks." Ravid reported that two separate sources at the [[white-house|White House]] confirmed the United States played no part in, and gave no blessing to, Israel's strike on Beirut that provoked [[iran|Iran]]'s missile attack, and — via Axios — that Trump urged Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] not to retaliate against Iran after the June 8 attack.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 2b2](https://badlands.substack.com/p/badlands-brief-2b2)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

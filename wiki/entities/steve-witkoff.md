@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, trump-administration, special-envoy, iran, qatar]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-695.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-695.md, raw/badlands-brief-6f0.md]
 confidence: high
 contested: false
 ---
@@ -23,9 +23,17 @@ Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] r
 
 The January 23, 2026 Badlands Brief reports that Witkoff was a named participant in the [[board-of-peace|Board of Peace]] at its charter ratification ceremony in Davos, alongside [[jared-kushner|Jared Kushner]], [[marco-rubio|Marco Rubio]], and [[tony-blair|Tony Blair]]. The Brief also reports that Witkoff and Kushner met with Russian President [[vladimir-putin|Vladimir Putin]]; Kremlin aide [[yuri-ushakov|Yuri Ushakov]] told reporters the talks were "substantive, constructive and very frank." According to Russian media, the first meeting of a Russia-US-Ukraine working group on security issues was to be held in Abu Dhabi on January 23, 2026. Putin had not yet joined the Board of Peace as of publication.
 
+## Reported Israeli intelligence targeting (June 2026)
+
+[[nbc-news|NBC News]] and the [[new-york-times|New York Times]] reported that the [[defense-intelligence-agency|Defense Intelligence Agency]] named Witkoff among U.S. officials allegedly targeted by Israeli intelligence collection on administration deliberations over [[iran|Iran]] and [[lebanon|Lebanon]]; the [[white-house|White House]] called the story entirely false and the Israeli Embassy in Washington dismissed the allegations as politically motivated.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
 
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

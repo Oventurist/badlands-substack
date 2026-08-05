@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -83,6 +83,15 @@ The Badlands Brief of June 16, 2026 reports that Netanyahu largely avoided direc
 
 The commentary advances a specific theory of leverage: that President [[donald-trump|Donald Trump]] wanted Netanyahu as "his man in the arena" precisely because Netanyahu's circumstances — described as a "messiah complex + facing multiple felony charges and over 15 years in prison" — are "opportunities to exploit and control Bibi." Because the optics of losing Trump's public support would, in this reading, be enough to end Netanyahu's political career, he must "figure out how to maintain his warrior reputation without losing Trump, which is probably an impossible task." Citing [[naftali-bennett|Naftali Bennett]]'s posture, the author concludes that "most, if not all, of the Israeli political spectrum is pro-war with Iran." These are interpretive claims by the commentator.
 
+## June 2026: defying Trump over Iran
+
+The Badlands Brief of June 8, 2026 reports that Netanyahu struck [[iran|Iran]] in defiance of President [[donald-trump|Donald Trump]]'s explicit urging not to retaliate for the Iranian ballistic-missile attack that day. [[axios|Axios]], citing a senior U.S. official and an Israeli source, reported that Trump had urged Netanyahu against retaliation, and Trump told the [[financial-times|Financial Times]] that Netanyahu would have "no choice" but to accept any agreement the United States negotiates with Iran: "I call the shots. I call all the shots. He doesn't call the shots." The [[israel-defense-forces|Israeli Air Force]] carried out strikes on military targets in central and western Iran on June 8, with Israeli Ambassador [[yechiel-leiter|Yechiel Leiter]] saying the operation focused on missile launch sites and related infrastructure and did not target energy facilities.
+
+The Brief recalls that exactly one month earlier, on May 9, Netanyahu told [[yad-vashem|Yad Vashem]] that "If Israel is forced to stand alone - Israel will stand alone," and argues that with Israeli election season underway, "the knives are out for Bibi": his political opponents are calling him weak for capitulating to Trump and failing to finish the job with [[hezbollah|Hezbollah]] and Iran. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the dynamic as Trump baiting Netanyahu into standing alone using Game Theory, and notes that the strike on Beirut that provoked Iran's attack was, per two [[white-house|White House]] sources reported by [[barak-ravid|Barak Ravid]], neither played a part in nor blessed by the United States.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -108,3 +117,4 @@ This page draws on multiple source articles:
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

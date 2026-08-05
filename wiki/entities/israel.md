@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [nation, geopolitics, middle-east, conspiracy-narrative]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-glaring-double-standard.md, raw/a-hypnotists-take-on-israel-palestine.md, raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -68,6 +68,13 @@ The July 8, 2026 Badlands Brief reports that, for the first time in Israeli hist
 
 The Badlands Brief of April 2, 2026 reports that Iranian President [[masoud-pezeshkian|Masoud Pezeshkian]] issued an open letter to the American public questioning whether Washington is truly pursuing an "America First" agenda or instead operating as a proxy for Israel, and accusing Israel of shaping U.S. policy to deflect attention from its actions in the region. Pezeshkian claimed the portrayal of [[iran|Iran]] as a threat is the result of "manufactured narratives" driven by the military-industrial complex and Israeli political interests, and that the U.S. has built extensive military capabilities around Iran despite Tehran posing no direct threat. The letter urged Americans to reject coordinated "war propaganda" surrounding Iran.
 
+## June 2026: war restart and the American rift
+
+On June 8, 2026, [[iran|Iran]] launched 11 ballistic missiles at Israel — the first direct Iranian attack since the April 8 ceasefire — in retaliation for Israel's strike on Beirut, the capital of [[lebanon|Lebanon]]. The [[israel-defense-forces|Israeli Air Force]] struck military targets in central and western Iran the same day; Israeli Ambassador [[yechiel-leiter|Yechiel Leiter]] said the operation focused on missile launch sites and related infrastructure and did not target energy facilities. Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] defied President [[donald-trump|Donald Trump]]'s urging not to retaliate, with Trump telling the [[financial-times|Financial Times]] that Netanyahu "won't have any choice" but to accept a US-negotiated agreement with Iran. The Brief also notes reporting by [[nbc-news|NBC News]] and the [[new-york-times|New York Times]] that the [[defense-intelligence-agency|Defense Intelligence Agency]] elevated the Israeli espionage threat to "critical" — a story a [[white-house|White House]] official called entirely false, and which the Israeli Embassy in Washington dismissed as politically motivated.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -93,3 +100,4 @@ This page draws on multiple source articles:
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

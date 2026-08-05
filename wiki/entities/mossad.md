@@ -1,10 +1,10 @@
 ---
 title: Mossad
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [mossad, israel, intelligence, deep-state, city-of-london]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-174.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-brief-174.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -18,6 +18,13 @@ Mossad is the Israeli national intelligence service. It appears in the Badlands 
 
 The July 14, 2026 Badlands Brief reports that former Iranian President [[mahmoud-ahmadinejad|Mahmoud Ahmadinejad]] was reportedly placed under house arrest amid allegations of contact with individuals accused of links to Mossad, part of a sweeping internal security crackdown following Israel's conflict with [[iran|Iran]]. Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] treats the report as validation of his long-running theory that Mossad under outgoing director [[david-barnea|David Barnea]] had deeply infiltrated the Iranian government, speculating that [[qassem-soleimani|Qassem Soleimani]] was a Mossad mole and that the [[continuity-of-government|Continuity of Government]] protocol implemented in Iran in August 2025 was a response to Mossad and [[cia|CIA]] penetration of the [[islamic-revolutionary-guard-corps|IRGC]].
 
+## Alleged collection on US officials (June 2026)
+
+The [[defense-intelligence-agency|Defense Intelligence Agency]] reportedly elevated the threat posed by Israeli espionage to "critical," alleging Israeli efforts to gather information about U.S. administration deliberations on [[iran|Iran]] and [[lebanon|Lebanon]] and naming [[steve-witkoff|Steve Witkoff]], [[elbridge-colby|Elbridge Colby]] and [[michael-dimino|Michael DiMino]] among targeted officials — reporting that a [[white-house|White House]] official called entirely false and the Israeli Embassy dismissed as politically motivated. [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] argues that Mossad spying on DiMino, a senior Pentagon official who holds that [[israel|Israel]] is a security liability for the United States, would make sense.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -26,3 +33,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 282](https://badlands.substack.com/p/badlands-brief-282)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

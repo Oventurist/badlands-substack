@@ -1,10 +1,10 @@
 ---
 title: Jonathan Turley
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-06
 type: entity
 tags: [legal-scholar, constitutional-law, commentator, war-powers]
-sources: [raw/badlands-brief-509.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md]
 confidence: high
 contested: false
 ---
@@ -18,6 +18,16 @@ The bonus item of the March 10, 2026 Badlands Brief summarizes a March 8, 2026 p
 
 The Brief presents his observation without elaboration, using it as a coda to an edition otherwise devoted to what its contributors describe as competing war narratives.
 
+## Blanche ethics complaint commentary (May 2026)
+
+A May 31, 2026 commentary by Turley reported that a public interest group filed an ethics complaint against Acting Attorney General [[todd-blanche|Todd Blanche]] after a federal judge dismissed the Tennessee criminal case against [[kilmar-abrego-garcia|Kilmar Abrego Garcia]]; the underlying complaint PDF could not be accessed in-browser and was not used to establish independent facts.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-509)
+This page draws on multiple source articles:
+
+- [badlands brief 509](https://badlands.substack.com/p/badlands-brief-509)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

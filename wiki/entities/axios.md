@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, washington, cuba]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-6f0.md]
 confidence: high
 contested: false
 ---
@@ -24,6 +24,13 @@ The May 12, 2026 Badlands Brief reports that Axios was among the US outlets fram
 
 The Brief of April 20, 2026 cites [[barak-ravid|Barak Ravid]] of Axios reporting that [[benjamin-netanyahu|Netanyahu]] and his advisers were surprised by [[donald-trump|Trump]]'s public remarks barring Israel from further bombing in [[lebanon|Lebanon]], which were not expected in Jerusalem, and that the Israeli ambassador to the U.S. scrambled to get clarification.
 
+## June 2026 Iran–Israel reporting
+
+Axios, citing a senior U.S. official and an Israeli source, reported that President [[donald-trump|Donald Trump]] urged Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] not to retaliate against [[iran|Iran]] following the June 8, 2026 missile attack, and reported that Iran launched 11 ballistic missiles toward [[israel|Israel]] — the first direct Iranian attack since the April 8 ceasefire. A U.S. defense official told Axios that American forces did not participate in the Israeli strikes on Iran. Axios's [[barak-ravid|Barak Ravid]] also reported that two separate [[white-house|White House]] sources confirmed the United States played no part in, and gave no blessing to, Israel's strike on Beirut that provoked the Iranian attack.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -31,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 095](https://badlands.substack.com/p/badlands-brief-095)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

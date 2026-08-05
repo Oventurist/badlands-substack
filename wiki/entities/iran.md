@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -80,6 +80,17 @@ The edition also reports that Iranian President [[masoud-pezeshkian|Masoud Pezes
 
 Alongside the [[iranian-blockade|naval blockade]] begun in April 2026, which has intercepted or redirected dozens of vessels and choked oil exports to the point that storage facilities approach capacity, the US [[department-of-the-treasury|Treasury]] under [[scott-bessent|Scott Bessent]] sanctioned 35 individuals and entities in Iran's [[shadow-banking|shadow banking]] network under [[operation-economic-fury|Operation Economic Fury]]. Diplomacy stalled as [[donald-trump|Donald Trump]] rejected Iran-backed proposals and demanded that nuclear issues be settled first. [[vladimir-putin|Vladimir Putin]] offered assistance on the nuclear file during his April 29 call with Trump and warned of global consequences if the conflict widened.
 
+## June 8, 2026 missile attack on Israel
+
+On June 8, 2026, Iran launched 11 ballistic missiles toward [[israel|Israel]], according to Israeli officials cited by [[axios|Axios]] — the first direct Iranian attack since the April 8 ceasefire. The attack was retaliation for Israel's strike on Beirut, the capital of [[lebanon|Lebanon]]; two [[white-house|White House]] sources told [[barak-ravid|Barak Ravid]] that the United States played no part in, and gave no blessing to, that operation. Iran warned that further Israeli attacks could prompt additional responses, raising concerns about broader regional escalation. The [[israel-defense-forces|Israeli Air Force]] carried out strikes on military targets in central and western Iran the same day.
+
+## Nuclear file and the entombed stockpile (June 2026)
+
+President [[donald-trump|Donald Trump]] said on June 4, 2026 that the United States does not need a formal agreement to obtain Iran's enriched uranium — a shift from earlier negotiations in which surrendering the stockpile was reported as a central element of a potential deal — describing the material as effectively "entombed" at damaged nuclear sites and claiming any recovery operation would be difficult and risky. Trump said Iran has already agreed not to obtain nuclear weapons and indicated he would consider a respectful meeting with Supreme Leader [[mojtaba-khamenei|Ayatollah Mojtaba Khamenei]] if a deal is reached.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -109,3 +120,4 @@ This page draws on multiple source articles:
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

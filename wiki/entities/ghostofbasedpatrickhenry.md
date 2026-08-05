@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands, commentator, nato, russia, geopolitics]
-sources: [raw/badlands-brief-6bf.md]
+sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: false
 ---
@@ -21,6 +21,16 @@ Commenting on [[donald-trump|Donald Trump]]'s suggestion that the United States 
 
 On the roughly 90-minute April 2026 call between Trump and [[vladimir-putin|Vladimir Putin]], he argued the two presidents have obviously been working together behind the scenes for a long time, citing a 55-second clip in which Trump said the [[iran|Iran]] and [[ukraine|Ukraine]] wars were on the same timeline, stated that Ukraine had already been militarily defeated, and attacked legacy media for propagandizing otherwise. His heuristic: to learn what Trump really thinks about a geopolitical question — Gaza and Israel, NATO and the EU, Venezuela, Iran — look at what Putin, Sergey Lavrov and the Kremlin are saying. He concludes that the [[sovereign-alliance|Sovereign Alliance]] "is real, and the implications cannot be overstated."
 
+## June 2026 Brief comments
+
+In the June 8, 2026 Brief, GhostofBasedPatrickHenry documents the now-routine phone calls between President [[donald-trump|Donald Trump]] and [[barak-ravid|Barak Ravid]], presenting Trump's "I call the shots" interview with the [[financial-times|Financial Times]] as evidence that Trump is baiting Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] into standing alone using Game Theory — the same dynamic flagged in Netanyahu's [[yad-vashem|Yad Vashem]] speech. He also analyzes the [[pentagon|Pentagon]]/[[defense-intelligence-agency|DIA]] Israeli-espionage story as a possible narrative deployment whose timing "cannot be ignored," and notes that Badlands has tracked [[michael-dimino|Michael DiMino]] since his January 20, 2025 Pentagon swearing-in, calling him a plausible Mossad target given his position that [[israel|Israel]] is a security liability for the United States.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-6bf)
+This page draws on multiple source articles:
+
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

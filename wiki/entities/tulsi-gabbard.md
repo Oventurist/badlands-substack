@@ -1,10 +1,10 @@
 ---
 title: Tulsi Gabbard
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [congress, syria, antiwar, dni, media-smear]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-2c5.md, raw/badlands-brief-314.md, raw/badlands-brief-6f0.md]
 confidence: medium
 contested: true
 ---
@@ -25,6 +25,13 @@ The article states that Gabbard then "committed the most heinous and unforgivabl
 
 The March 18, 2026 Badlands Brief identifies Gabbard as Director of National Intelligence at the time [[joe-kent|Joe Kent]] — director of the [[national-counterterrorism-center|National Counterterrorism Center]] and a top Gabbard aide — resigned in protest of the U.S. war in [[iran|Iran]]. In the hours following Kent's resignation, the Brief reports, Gabbard broke her long silence on the war. Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] suggested that after the campaign against Kent, "it appears that Tulsi Gabbard may be their next target."
 
+## Departure from ODNI (June 2026)
+
+The June 8, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] selected [[william-pulte|Bill Pulte]] to serve as acting Director of National Intelligence following Gabbard's announced departure, scheduled to take effect June 30, 2026, and that Trump indicated he does not plan to nominate Pulte on a permanent basis after the acting appointment concludes.
+
+
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -34,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 1cd](https://badlands.substack.com/p/badlands-brief-1cd)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 314](https://badlands.substack.com/p/badlands-brief-314)
+- [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)

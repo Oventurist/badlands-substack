@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-06 | Total pages: 1893
+> Last updated: 2026-08-06 | Total pages: 1902
 
 ## Entities
 
@@ -323,6 +323,7 @@
 - [[dc-national-guard]]: National Guard component of Washington, DC, reporting directly to the President. (Created: 2026-08-04)
 - [[de-la-rue]]: British security printing firm that sold Sequoia Voting Systems to Smartmatic in 2005 at a $19 million loss. (Created: 2026-08-03)
 - [[declan-kelly]]: Teneo co-founder and Hillary Clinton’s unpaid economic envoy to Northern Ireland, who earned $2.4 million from Dow Chemical while serving. (Created: 2026-08-02)
+- [[defense-intelligence-agency]]: Pentagon's military intelligence agency, reported in June 2026 to have elevated its assessment of Israeli espionage to "critical" in a disputed seven-page assessment naming US officials as collection targets. (Created: 2026-08-06)
 - [[delcy-rodriguez]]: Acting President of Venezuela after the January 2026 capture of Maduro; met CIA Director John Ratcliffe in Caracas. (Created: 2026-08-03)
 - [[democracy-forward]]: Left-leaning legal advocacy group whose head joined Schumer’s 2026 midterm scenario-planning sessions. (Created: 2026-08-03)
 - [[democratic-national-committee]]: National fundraising body of the Democratic Party; alleged beneficiary of the sale of seats on Commerce Department trade missions in 1996. (Created: 2026-08-02)
@@ -381,6 +382,7 @@
 - [[elbridge-colby]]: Under Secretary of Defense for Policy who announced the 2026 suspension of the US-Canada defense board. (Created: 2026-08-03)
 - [[election-assistance-commission]]: Federal body accrediting voting-system test laboratories; cited via the cyber expert whose nine years of EAC security testing underpin the Lake complaint's machine-failure claims. (Created: 2026-08-02)
 - [[election-systems-and-software]]: US voting equipment vendor forced by the DOJ in 2010 to divest Premier Election Solutions to Dominion. (Created: 2026-08-03)
+- [[election-truth-alliance]]: Organization described in the corpus as the left's new "election denier" movement, invited onto Badlands' Why We Vote program. (Created: 2026-08-06)
 - [[eli-lilly]] — Pharmaceutical company reported to be acquiring the stealth mRNA startup Fauci joined, for up to $1.55 billion. (Created: 2026-08-04)
 - [[elissa-slotkin]]: Michigan Democrat described in the corpus as "a CIA analyst turned Democrat politician" and a supporter of the Antisemitism Awareness Act from the "deep state." (Created: 2026-08-01)
 - [[ellen-brown]]: Author of Banking on the People and chair of the Public Banking Institute, quoted on public banking's capacity to fund infrastructure without unsustainable debt. (Created: 2026-08-01)
@@ -717,6 +719,7 @@
 - [[khalid-bin-salman]] — Saudi defense minister and younger brother of MBS
 - [[kharg-island]]: Iranian oil export terminal handling ~90% of the country's shipments; struck by US forces in March 2026 with oil infrastructure spared. (Created: 2026-08-03)
 - [[khawaja-asif]]: Pakistani Defence Minister criticized by Lindsey Graham amid the 2026 Iran negotiations. (Created: 2026-08-03)
+- [[kilmar-abrego-garcia]]: El Salvador citizen whose Tennessee human-smuggling case was dismissed on vindictive-prosecution grounds, prompting an ethics complaint against Acting AG Todd Blanche. (Created: 2026-08-06)
 - [[kim-clement]]: Christian prophet cited for a decade of Trump prophecies, including "Trump shall become a trumpet." (Created: 2026-08-02)
 - [[kim-jong-il]]: North Korean leader who, per the corpus, personally requested Bill Clinton’s 2009 hostage-release visit to Pyongyang. (Created: 2026-08-02)
 - [[kimberly-cheatle]]: Secret Service director who testified before the Oversight Committee after the Butler shooting and resigned the following day. (Created: 2026-08-02)
@@ -729,6 +732,7 @@
 - [[kirill-dmitriev]]: Russian Special Envoy to the US who confirmed Putin's acceptance of the Board of Peace invitation. (Created: 2026-08-03)
 - [[kirsty-coventry]] — IOC President who announced the 2026 policy limiting women's Olympic events to biological females via SRY-gene screening. (Created: 2026-08-06)
 - [[kitty-gillespie]]: Arizona-based Badlands Media contributor and Substack author of the November 2022 Maricopa County election articles. (Created: 2026-08-02)
+- [[kristen-welker]]: NBC News journalist and Meet the Press moderator whom Trump walked out on in June 2026 over elections being fake. (Created: 2026-08-06)
 - [[klaus-schwab]]: Founder of the World Economic Forum and author of the Great Reset; supplied to ChatGPT as an input in the AI/NWO mapping exercise. (Created: 2026-08-02)
 - [[knesset]]: Israel's national legislature, a participant in the Sde Teiman detainee-abuse controversy. (Created: 2026-08-04)
 - [[kobe-bryant]]: American basketball player whose 2020 helicopter crash is cited as a case of spatial disorientation. (Created: 2026-08-01)
@@ -828,6 +832,7 @@
 - [[medea-benjamin]]: CodePink co-founder and Singham ally named in the 2026 funding investigation. (Created: 2026-08-03)
 - [[medellin-cartel]]: The Medellín Cartel was a Colombian drug trafficking organization founded by Pablo Escobar and the Ochoa brothers in the 1970s. (Created: 2026-08-01)
 - [[media-matters]]: Left-leaning nonprofit and Democratic Party activist group identified in the Badlands corpus as a central pillar of the censorship regime, founded by David Brock to police information flows and pressure platforms. (Created: 2026-08-01)
+- [[meet-the-press]]: NBC's Sunday public-affairs program, longest-running show in American television history, site of Trump's June 2026 walkout on Kristen Welker. (Created: 2026-08-06)
 - [[megyn-kelly]]: American journalist and former anchor who faced backlash for standing by Candace Owens amid the conservative rift over the Tyler Robinson case. (Created: 2026-08-05)
 - [[meir-shitrit]]: IDF soldier arrested over the Sde Teiman assault; the only one to appear unmasked on Israeli TV. (Created: 2026-08-04)
 - [[mel-gibson]]: American-Australian actor and director named by Trump as an ambassador to Hollywood. (Created: 2026-08-01)
@@ -847,6 +852,7 @@
 - [[michael-atkinson]]: Intelligence Community Inspector General who advanced the Ukraine whistleblower complaint that triggered Trump's first impeachment. (Created: 2026-08-05)
 - [[michael-chomiak]]: Ukrainian emigre to Canada and grandfather of Chrystia Freeland, described in the corpus as a Nazi propagandist whose network was cultivated by Anglo-American intelligence. (Created: 2026-08-01)
 - [[michael-dell]]: Founder of Dell Technologies; 2026 PCAST appointee. (Created: 2026-08-03)
+- [[michael-dimino]]: Deputy Assistant Secretary of War for the Middle East who considers Israel a US security liability; named as a target of alleged Israeli intelligence collection. (Created: 2026-08-06)
 - [[michael-flynn]]: Retired lieutenant general cited in the corpus for calling central bank digital currencies the Mark of the Beast. (Created: 2026-08-02)
 - [[michael-horowitz]]: DOJ Inspector General with a staff of 470 investigators, assigned in the corpus’s account to investigate in place of a compromised FBI. (Created: 2026-08-02)
 - [[michael-miebach]]: Mastercard president and CEO, expected on the 2026 China business delegation with Trump. (Created: 2026-08-06)
@@ -886,6 +892,7 @@
 - [[mossad]]: Israeli intelligence service, described as middle management beneath MI6 and the City of London. (Created: 2026-08-01)
 - [[mount-hermon]]: Highest point in the Levant on the Lebanon-Syria border; key IDF capture objective in the 2026 Greater Israel campaign. (Created: 2026-08-06)
 - [[mouza-moustafa]]: Syrian-American lobbyist; framed in the source as the go-between for John McCain and ISIS leader Abu Bakr al Baghdadi, using lobbying groups as fronts to channel U.S. taxpayer money to terrorist organizations. (Created: 2026-08-01)
+- [[ms-13]]: Transnational gang founded in Los Angeles; the Abrego Garcia indictment alleged membership in the group. (Created: 2026-08-06)
 - [[msnbc]]: Cable news network owned via Comcast, singled out for the programs of Joy Reid and Jen Psaki. (Created: 2026-08-01)
 - [[muammar-gaddafi]]: Leader of Libya from 1969 until his death in 2011; framed in the source as a target of covert U.S. regime change because he fought terrorists rather than funding them. (Created: 2026-08-01)
 - [[muhammad-bin-nayef]]: Displaced Saudi crown prince, charged with treason and accused of plotting to kill King Salman. (Created: 2026-08-02)
@@ -1357,6 +1364,7 @@
 - [[wael-jalaidan]]: Former University of Arizona MSA leader said to have helped Osama bin Laden found al-Qaeda and to have co-founded the Rabita Trust. (Created: 2026-08-02)
 - [[wagner-group]]: Russian private military company credited in the corpus with training Sahel forces in Syria. (Created: 2026-08-03)
 - [[wall-street-journal]]: American business newspaper cited for reporting Pentagon outreach to automakers to boost weapons production. (Created: 2026-08-03)
+- [[waverly-crenshaw]]: US District Judge who dismissed the Kilmar Abrego Garcia human-smuggling case on vindictive-prosecution grounds in May 2026. (Created: 2026-08-06)
 - [[walt-disney-company]]: Entertainment conglomerate and Big Six member, owner of ABC News and National Geographic. (Created: 2026-08-01)
 - [[warren-buffett]]: American investor grouped in the corpus among the technocratic-friendly plutocrats of Chrystia Freeland's schema. (Created: 2026-08-01)
 - [[washington-post]]: Bezos-owned newspaper, Taylor Lorenz's employer at the time of writing, cited for layoffs despite billionaire ownership. (Created: 2026-08-01)
@@ -1392,6 +1400,7 @@
 - [[xinjiang]]: Chinese autonomous region and BRI hub; the corpus cites hundredfold GDP growth since 1979 and 24,400 mosques against Western cultural-genocide claims. (Created: 2026-08-02)
 - [[yad-vashem]] — Israel's Holocaust remembrance authority, critic of Ukrainian honours for Melnyk
 - [[yair-lapid]]: Israeli opposition leader who pledged support for Netanyahu in a war with Iran and voiced sympathy for Greater Israel claims. (Created: 2026-08-03)
+- [[yechiel-leiter]]: Israeli Ambassador to the United States who said the June 2026 strikes on Iran targeted missile launch sites, not energy facilities. (Created: 2026-08-06)
 - [[yemi-mobolade]]: Mayor of Colorado Springs elected in 2023 after a staged cross burning at his campaign sign. (Created: 2026-08-03)
 - [[yuri-bezmenov]]: Soviet defector whose account of multigenerational ideological subversion frames the corpus's model of slow-motion cultural warfare. (Created: 2026-08-02)
 - [[yuri-ushakov]]: Kremlin foreign policy aide who described the Putin-Witkoff-Kushner talks at Davos as "substantive, constructive and very frank" and confirmed the first Russia-US-Ukraine working group meeting in Abu Dhabi. (Created: 2026-08-06)
