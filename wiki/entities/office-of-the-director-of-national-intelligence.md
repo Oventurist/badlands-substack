@@ -1,15 +1,19 @@
 ---
 title: Office of the Director of National Intelligence
 created: 2026-08-03
-updated: 2026-08-06
+updated: 2026-08-04
 type: entity
 tags: [intelligence-community, security-clearances, federal-government]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-6f0.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-6f0.md, raw/badlands-brief-70c.md]
 confidence: medium
 contested: false
 ---
 
 # Office of the Director of National Intelligence
+
+## Acting leadership under William Pulte (June 2026)
+
+The June 3, 2026 Badlands Brief reported that President [[donald-trump|Donald Trump]] appointed [[william-pulte|William J. Pulte]] as Acting Director of National Intelligence while allowing him to retain his posts as director of the [[federal-housing-finance-agency|Federal Housing Finance Agency]] and chairman of [[fannie-mae|Fannie Mae]] and [[freddie-mac|Freddie Mac]]. Badlands contributor [[ashe-in-america|Ashe in America]] used the occasion to describe ODNI's institutional function as a clearing house within an intelligence community of eighteen agencies — including the Space Force element — and questioned whether such a role could be discharged part-time. She suggested the arrangement might be workable only if [[tulsi-gabbard|Tulsi Gabbard]]'s tenure had genuinely modernized the community's people, processes, and technology.
 
 The Office of the Director of National Intelligence (ODNI) is the United States federal body that coordinates the intelligence community and holds authority over the granting and revocation of security clearances across intelligence agencies.
 
@@ -32,3 +36,4 @@ This page draws on multiple source articles:
 
 - [badlands brief 245](https://badlands.substack.com/p/badlands-brief-245)
 - [badlands brief 6f0](https://badlands.substack.com/p/badlands-brief-6f0)
+- [badlands brief 70c](https://badlands.substack.com/p/badlands-brief-70c)

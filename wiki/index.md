@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-04 | Total pages: 1939
+> Last updated: 2026-08-04 | Total pages: 1948
 
 ## Entities
 
@@ -421,6 +421,7 @@
 - [[fajr-libya]]: Militia coalition in post-Gaddafi Libya; framed in the source as part of the Islamist network that took control after the 2011 NATO intervention. (Created: 2026-08-01)
 - [[fang-fang]]: Suspected Chinese intelligence operative who cultivated California politicians; corpus shorthand for congressional penetration. (Created: 2026-08-05)
 - [[fani-willis]]: Fulton County, Georgia District Attorney whose 41-count RICO indictment of Donald Trump the corpus reads as resting on unprovable claims about his state of mind. (Created: 2026-08-02)
+- [[fannie-mae]] — US government-sponsored mortgage enterprise chaired by William Pulte alongside his acting DNI role. (Created: 2026-08-04)
 - [[farc]]: Colombian militia group whose leaders Neil Barofsky prosecuted on narcotics charges. (Created: 2026-08-03)
 - [[fatih-birol]]: Executive director of the International Energy Agency who warned of imminent European jet fuel shortages. (Created: 2026-08-05)
 - [[fbi]]: Federal Bureau of Investigation; alleged alongside the CIA to have run record labels and engineered the rise of gangster rap. (Created: 2026-08-01)
@@ -1055,6 +1056,7 @@
 - [[polymarket]]: Prediction market platform cited alongside Kalshi amid growing legislative scrutiny of election betting. (Created: 2026-08-03)
 - [[populist-party]]: Late-19th-century party that demanded a graduated income tax and allegedly convinced Aldrich to pursue central banking. (Created: 2026-08-01)
 - [[porsche]] — German sports-car manufacturer listed among firms cutting costs during the German auto downturn. (Created: 2026-08-04)
+- [[power-forward-communities]] — Nonprofit with $100 in prior-year revenue that received a $2 billion EPA decarbonization grant. (Created: 2026-08-04)
 - [[prairieland-detention-center]]: ICE facility in Alvarado, Texas, site of the July 4, 2025 attack that produced the first federal Antifa cell convictions. (Created: 2026-08-03)
 - [[premier-election-solutions]]: Former Diebold voting subsidiary whose DOJ-ordered divestiture handed Dominion its market share. (Created: 2026-08-03)
 - [[prince-alwaleed]]: Saudi businessman and member of the Saudi royal family; framed in the source as a key node in the covert network that diverted Iraqi reconstruction cash to terrorist organizations. (Created: 2026-08-01)
@@ -1220,6 +1222,7 @@
 - [[spencer-pratt]]: Reality TV personality eliminated from the 2026 Los Angeles mayoral primary amid fraud allegations. (Created: 2026-08-03)
 - [[spirit-airlines]]: Distressed American ultra-low-cost carrier whose courtship by Trump the Blitz hosts read as strategically motivated. (Created: 2026-08-02)
 - [[sports-illustrated]]: Sports magazine whose staff was laid off in early 2024; the article's example of a media death certificate already signed. (Created: 2026-08-01)
+- [[stacey-abrams]] — Georgia Democratic figure whose affiliated nonprofit received a $2 billion EPA green energy grant. (Created: 2026-08-04)
 - [[standard-oil]]: Rockefeller monopoly broken into 34 entities by the Supreme Court in 1911; invoked as the antitrust template for today's big tech. (Created: 2026-08-02)
 - [[starbucks]]: Coffeehouse chain used in the corpus as the leading illustration of the deliberate engineering of social atomization. (Created: 2026-08-02)
 - [[state-department]]: U.S. foreign affairs department; cited for its own designation of the Libyan Islamic Fighting Group as Al-Qaeda. (Created: 2026-08-01)
@@ -1435,6 +1438,7 @@
 - [[yuval-noah-harari]]: Israeli historian associated with the World Economic Forum; cited for the prediction that 2024 would be the last human election. (Created: 2026-08-02)
 - [[zachary-taylor]]: Twelfth US president and second Whig, who died in office in 1850 with the cause officially given as "too many cherries and cold milk." (Created: 2026-08-02)
 - [[zapata-offshore]]: Zapata Off-Shore Company, originally Zapata Petroleum Corporation, was an oil company founded in Houston in 1953 by george-hw-bush and J. (Created: 2026-08-01)
+- [[zaporozhye-nuclear-power-plant]] — Europe's largest nuclear plant, Rosatom-operated and struck by a drone on its sixth power unit in May 2026. (Created: 2026-08-04)
 - [[zeev-elkin]]: Israeli Finance Ministry official who said Israel would not fund Gaza reconstruction under Trump's Board of Peace. (Created: 2026-08-03)
 - [[zerohedge]]: Alternative financial and political news site that reported Carlson's FARA claim and its subsequent official denial. (Created: 2026-08-03)
 - [[zhang-yichen]]: Chinese businessman with CCP ties who joined the Carnegie Endowment board and donated between $750,000 and $1.5 million. (Created: 2026-08-02)
@@ -1675,6 +1679,7 @@
 - [[great-tribulation]]: Period of divine judgment described in 7 seals, 7 trumpets and 7 bowls, tested in the corpus against present-day events. (Created: 2026-08-02)
 - [[greater-israel-project]]: Alleged strategy of regional Israeli dominance through the destabilization of neighbouring states, invoked as a beneficiary of Assad's fall. (Created: 2026-08-02)
 - [[green-new-deal]]: Climate-restructuring framework described in the corpus as the operating system of a projected global government tied to low energy flux density and depopulation. (Created: 2026-08-01)
+- [[greenhouse-gas-reduction-fund]] — $20 billion EPA grant program routed through nonprofit cutouts and frozen amid self-dealing referrals. (Created: 2026-08-04)
 - [[h-1b-visa]]: U.S. specialty-occupation guest worker visa, a recurring flashpoint in the America First labor debate and subject of a 2026 fraud investigation. (Created: 2026-08-03)
 - [[harlem-riot-of-1935]]: Earliest entry in the corpus chronology of recurring, allegedly manufactured race riots. (Created: 2026-08-01)
 - [[hatch-act]] — 1939 federal law restricting partisan political activity by executive branch employees.
@@ -1682,6 +1687,7 @@
 - [[helms-burton-act]] — 1996 US law codifying the Cuba embargo; its Title III lawsuit provision is at issue in the 2026 US-Cuba talks. (Created: 2026-08-06)
 - [[help-america-vote-act]] — 2002 election-modernization law credited with creating the centralized US elections industry
 - [[helsinki-accords]]: 1975 European security agreements floated by Riyadh as a model for a Middle East non-aggression framework. (Created: 2026-08-04)
+- [[henry-nowak-case]] — 2025 Southampton stabbing and the Hampshire Police response that sparked UK outrage. (Created: 2026-08-04)
 - [[hesder-yeshiva]]: Israeli religious academies combining Torah study with IDF service, whose leaders forced the mixed-gender tank reversal. (Created: 2026-08-03)
 - [[hollywood]]: The American entertainment industry as a conditioning apparatus, and the claim that its ownership is changing hands. (Created: 2026-08-01)
 - [[holocaust]]: Nazi genocide of six million Jews, the historical backdrop to the Credit Suisse account disclosures. (Created: 2026-08-03)
@@ -1690,6 +1696,7 @@
 - [[immigration-and-nationality-act]]: Federal statute held by a unanimous Supreme Court in March 2026 to require deferential appellate review of immigration agencies' factual findings in asylum cases. (Created: 2026-08-05)
 - [[indian-removal-act]]: 1830 statute signed by Andrew Jackson authorizing the forced relocation of eastern Native nations and the transfer of their land to cotton planters. (Created: 2026-08-02)
 - [[inflation]]: Described in the corpus as "the biggest financial scam of them all" — an engineered wealth transfer produced by Federal Reserve money creation. (Created: 2026-08-02)
+- [[inflation-reduction-act]] — 2022 law funding the green energy grants later frozen and referred for prosecution by the EPA. (Created: 2026-08-04)
 - [[information-war]]: Badlands term for the ongoing contest over public perception, framed as truth mixed with deception and countered by collective triangulation. (Created: 2026-08-01)
 - [[invisible-enemy]]: Badlands term for the unnamed transnational adversary said to stand behind publicly declared wars and narratives. (Created: 2026-08-02)
 - [[iranian-blockade]]: Restriction barring Iran and its customers from the Strait of Hormuz under Trump's "Guardian of the Hormuz Strait" announcement. (Created: 2026-08-05)
@@ -1830,7 +1837,9 @@
 - [[sp-500]]: Capitalization-weighted index of the 500 largest U.S. companies, used in the corpus to demonstrate unprecedented market concentration. (Created: 2026-08-02)
 - [[spanish-flu]]: 1918 influenza pandemic that Trump repeatedly dated to 1917, read in the corpus as a deliberate pointer to the Bolshevik uprising. (Created: 2026-08-02)
 - [[spatial-disorientation]]: FAA-defined aviation condition in which conflicting sensory information misleads a pilot; used analogically for media deception. (Created: 2026-08-01)
+- [[scarcity-paradigm]] — Burning Bright's term for the engineered narrative of energy limits underpinning globalist policy. (Created: 2026-08-04)
 - [[stand-down-order]]: Umbrella concept in the corpus covering the alleged Benghazi order, the 1998 Clinton memorandum on Bin Laden, and Obama's White House battlefield approval requirement. (Created: 2026-08-01)
+- [[starobelsk-drone-attack]] — May 2026 Ukrainian drone strike on a Lugansk dormitory that triggered a mass Russian retaliation. (Created: 2026-08-04)
 - [[state-of-the-union]]: Annual US presidential address to a joint session of Congress; the 2026 edition was billed as the first of the "Golden Age." (Created: 2026-08-03)
 - [[state-sponsor-of-wrongful-detention]] — State Department designation for governments detaining foreign nationals for diplomatic leverage. (Created: 2026-08-04)
 - [[stockholm-syndrome]]: Psychological condition of captives defending their captors, applied in the corpus as a diagnosis of the American electorate. (Created: 2026-08-02)
