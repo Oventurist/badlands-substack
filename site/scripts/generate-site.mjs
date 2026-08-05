@@ -25,7 +25,10 @@ const OUT = {
   articles: path.join(DOCS, "articles"),
 };
 
-const WIKILINK = /\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g;
+// WIKILINK matches Obsidian [[slug]] / [[slug|text]]. A [[...]] that is
+// immediately followed by "(" is already a markdown link (e.g. the clickable
+// citation form [[1]](https://...)) and must NOT be rewritten.
+const WIKILINK = /\[\[([^\]|#]+)(?:\|([^\]]+))?\]\](?!\()/g;
 
 async function collectPages() {
   const pages = {}; // slug -> { section, title, file }
