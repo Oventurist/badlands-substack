@@ -61,12 +61,18 @@ def pages_citing(slug):
 
 def run_worker(model, provider, max_articles, worker_id, stats):
     done_count = 0
+    failed_recent = {}  # slug -> last-fail timestamp (avoid hot loops)
     while max_articles is None or done_count < max_articles:
         article = claim_article()
         if not article:
             log(f"worker{worker_id}: queue empty, done ({done_count} articles)")
             break
         slug = os.path.basename(article)
+        # skip articles this worker failed very recently (re-claimed by others)
+        if slug in failed_recent and time.time() - failed_recent[slug] < 600:
+            subprocess.run(QUEUE + ["unlock", slug], capture_output=True, text=True, cwd=PROJ)
+            time.sleep(5)
+            continue
         log(f"worker{worker_id}: claimed {slug}")
         # build the per-article prompt: base + article path
         prompt = open(WORKER_PROMPT, encoding="utf-8").read()
@@ -90,7 +96,7 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                 if line.startswith("done:"):
                     report_slug = line.split(":")[1].strip().split()[0]
                     break
-            ok = (r.returncode == 0 and report_slug == slug
+            ok = (r.returncode == 0 and report_slug == slug.replace(".md", "")
                   and pages_citing(slug) > 0)
             if ok:
                 mark_done(slug)
@@ -99,6 +105,7 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                 log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({pages_citing(slug)} pages cite it)")
             else:
                 stats["failed"] += 1
+                failed_recent[slug] = time.time()
                 log(f"worker{worker_id}: FAIL {slug} in {dt:.0f}s rc={r.returncode} report={report_slug} cited={pages_citing(slug)}")
                 log(f"  stderr: {(r.stderr or '')[-200:].strip()}")
                 log(f"  stdout tail: {out[-200:].strip()}")
@@ -108,7 +115,8 @@ def run_worker(model, provider, max_articles, worker_id, stats):
                 time.sleep(30)
         except subprocess.TimeoutExpired:
             stats["failed"] += 1
-            log(f"worker{worker_id}: TIMEOUT {slug} after 1800s")
+            failed_recent[slug] = time.time()
+            log(f"worker{worker_id}: TIMEOUT {slug} after 2400s")
             subprocess.run(QUEUE + ["unlock", slug], capture_output=True, text=True, cwd=PROJ)
         finally:
             try:
