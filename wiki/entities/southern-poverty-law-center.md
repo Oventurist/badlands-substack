@@ -1,10 +1,10 @@
 ---
 title: Southern Poverty Law Center
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-04
 type: entity
 tags: [ngo, civil-society, hate-group-designation, accountability, indictment]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-2c0.md, raw/badlands-brief-2c5.md, raw/badlands-brief-579.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-2c0.md, raw/badlands-brief-2c5.md, raw/badlands-brief-579.md, raw/badlands-brief-707.md]
 confidence: medium
 contested: true
 ---
@@ -33,6 +33,12 @@ In commentary accompanying that report, Ashe in America speculates about whether
 
 The May 1, 2026 Badlands Brief reported that [[fidelity-investments|Fidelity Investments]] and [[vanguard-group|Vanguard Group]] had paused charitable contributions to the SPLC following a federal indictment involving an individual allegedly connected to the organization. The SPLC itself had not been charged as an organization, but the association prompted a reassessment by donors wary of legal and public-relations fallout. The Brief characterized the freeze as a signal of reputational-risk concern among major financial institutions and suggested broader implications as large asset managers face pressure to justify both their political neutrality and their charitable affiliations.
 
+## Federal indictment (April 2026)
+
+The April 22, 2026 Badlands Brief reported that the [[department-of-justice|Justice Department]] had returned an 11-count federal indictment against the SPLC in Montgomery, Alabama, charging wire fraud, bank fraud, and conspiracy to commit money laundering. Prosecutors alleged that the organization defrauded donors by secretly funneling more than $3 million between 2014 and 2023 to paid informants and leaders inside the [[ku-klux-klan|Ku Klux Klan]], neo-Nazi groups, and other extremist organizations it publicly claimed to monitor and oppose. Acting Attorney General [[todd-blanche|Todd Blanche]] said the SPLC "was not dismantling these groups. It was instead manufacturing the extremism it purports to oppose by paying sources to stoke racial hatred." The informant program reportedly had roots in the 1980s, ran for years before being discontinued, and produced intelligence that was in part shared with law enforcement. CEO [[bryan-fair|Bryan Fair]] confirmed the probe and indictment and vowed the organization would not be intimidated.
+
+[[ashe-in-america|Ashe in America]] framed the case as an object lesson in unaccountable nonprofits — the SPLC is a tax-exempt 501(c)(3) — acting as "social monitors and mini attorneys general" policing First Amendment-protected belief and advocacy. She cited the N.Y.U. Review of Law & Social Change article "Voters Strike Back: Litigating Against Modern Voter Intimidation" as a template for using litigation to build precedent against political opponents, calling it the playbook behind the case brought against her and her codefendants. She also noted the [[naacp|NAACP]] publicly defending the SPLC, and repeated the claim that the SPLC was behind the Unite the Right rally, describing the organization as "an institutional Jussie Smollett at scale."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -41,3 +47,4 @@ This page draws on multiple source articles:
 - [badlands brief 2c0](https://badlands.substack.com/p/badlands-brief-2c0)
 - [badlands brief 2c5](https://badlands.substack.com/p/badlands-brief-2c5)
 - [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
+- [badlands brief 707](https://badlands.substack.com/p/badlands-brief-707)
