@@ -1,10 +1,10 @@
 ---
 title: Itamar Ben Gvir
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-06
 type: entity
 tags: [israel, national-security-ministry, prisons, palestinians]
-sources: [raw/badlands-brief-1c6.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-708.md]
 confidence: high
 contested: false
 ---
@@ -17,4 +17,7 @@ Ben Gvir has said the concept was inspired by Florida's [[alligator-alcatraz|"Al
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1c6)
+This page draws on multiple source articles:
+
+- [badlands brief 1c6](https://badlands.substack.com/p/badlands-brief-1c6)
+- [badlands brief 708](https://badlands.substack.com/p/badlands-brief-708)
