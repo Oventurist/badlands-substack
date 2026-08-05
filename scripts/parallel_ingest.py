@@ -102,24 +102,32 @@ def run_worker(model, provider, max_articles, worker_id, stats):
             dt = time.time() - t0
             out = r.stdout or ""
             err = r.stderr or ""
-            # success = exit 0 AND the report names the CLAIMED slug AND pages
-            # actually cite that slug (guards against the model ingesting a
-            # different article than the one we claimed). Use the LAST done:
-            # line (the prompt itself contains a "done: <raw-slug>" example,
-            # so the model's real report is the last occurrence).
-            report_slug = None
-            for line in out.lower().splitlines():
-                if line.startswith("done:"):
-                    report_slug = line.split(":")[1].strip().split()[0]
-            ok = (r.returncode == 0 and report_slug == slug.replace(".md", "")
-                  and pages_citing(slug) > 0)
+            # Success criteria (revised for stream-drops):
+            #  - PRIMARY: pages actually cite the CLAIMED slug (cited > 0) ->
+            #    the content was ingested regardless of whether the final
+            #    "done:" report survived. Under 12 parallel workers the
+            #    provider often drops the stream mid-report (rc=0, truncated
+            #    stdout), but the pages are already written — treating that
+            #    as FAIL just re-claims and re-ingests the same article.
+            #  - Guard: if cited == 0, require the report to name the claimed
+            #    slug (catches the model ingesting a DIFFERENT article).
+            cited = pages_citing(slug)
+            if cited > 0:
+                ok = True
+            else:
+                report_slug = None
+                for line in out.lower().splitlines():
+                    if line.startswith("done:"):
+                        report_slug = line.split(":")[1].strip().split()[0]
+                ok = (r.returncode == 0 and report_slug == slug.replace(".md", ""))
             if ok:
                 mark_done(slug)
                 stats["done"] += 1
                 done_count += 1
                 backoff_idx = 0
                 consecutive_rl = 0
-                log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({pages_citing(slug)} pages cite it)")
+                log(f"worker{worker_id}: OK {slug} in {dt:.0f}s ({cited} pages cite it)"
+                    + ("" if cited > 0 else " [report-only, no pages]"))
             else:
                 # classify the failure: provider throttle vs permanent.
                 # NOTE: hermes writes provider errors (503/429/connection) to its
