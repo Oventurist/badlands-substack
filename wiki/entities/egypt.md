@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [middle-east, diplomacy, arab-league, israel]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-625.md, raw/badlands-brief-740.md]
 confidence: high
 contested: false
 ---
@@ -22,6 +22,10 @@ After Huckabee told [[tucker-carlson|Tucker Carlson]] that [[israel|Israel]] hol
 
 The Brief of April 20, 2026 reports that Egypt joined [[turkey|Turkey]], [[pakistan|Pakistan]], and [[saudi-arabia|Saudi Arabia]] at the [[antalya-diplomacy-forum|Antalya Diplomacy Forum]] to discuss the [[iran|Iran]] situation, and identifies Egypt as "the traditional military power in the Middle East" within the emerging security architecture that could check the [[israel-defense-forces|IDF]]'s campaign.
 
+## Board of Peace observer and ISF training role (February 2026)
+
+The February 20, 2026 Badlands Brief reports that Egypt was a named attendee of the first [[board-of-peace|Board of Peace]] meeting in Washington on February 19, 2026, and that, with [[jordan|Jordan]], Egypt will provide training support for the [[international-stabilization-force|International Stabilization Force]] deployed in [[gaza|Gaza]]. Badlands commentary also notes the speculation, attributed to [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], that a war against [[iran|Iran]] would be followed by action against Egypt.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -29,3 +33,4 @@ This page draws on multiple source articles:
 - [badlands brief 285](https://badlands.substack.com/p/badlands-brief-285)
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

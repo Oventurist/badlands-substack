@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, regime-change, iran]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md, raw/badlands-brief-733.md, raw/badlands-brief-739.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ef.md, raw/badlands-brief-245.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-311.md, raw/badlands-brief-405.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-559.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-695.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6f0.md, raw/badlands-brief-6f4.md, raw/badlands-brief-733.md, raw/badlands-brief-739.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -113,6 +113,10 @@ Separately, Trump attacked Israeli President [[isaac-herzog]] for refusing to pa
 
 The May 22, 2026 Badlands Brief reports that Netanyahu defended Israel's interception of the [[global-sumud-flotilla|Global Sumud Flotilla]], a convoy reportedly carrying about 430 international volunteers trying to reach Gaza with humanitarian aid, but distanced himself from National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s treatment of the detainees — who appeared kneeling and handcuffed in a video Ben-Gvir posted — and ordered their deportations expedited. Colombian President [[gustavo-petro|Gustavo Petro]] accused Ben-Gvir of acting "like a true Nazi.
 
+## Opposition to Turkish ISF participation (February 2026)
+
+The February 20, 2026 Badlands Brief reports that as [[turkey|Turkey]] volunteered soldiers and police for the [[international-stabilization-force|International Stabilization Force]] in [[gaza|Gaza]], Netanyahu and other Israeli officials "emphatically stated" that Turkish participation "will never be allowed" — even as President [[donald-trump|Donald Trump]] said he wants the demographic represented in the force. The same Brief reports that Netanyahu and Israeli officials were alarmed earlier in the month over Trump's statement that he was terminating the 2015 nuclear deal and would release the remaining Iranian assets.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -142,3 +146,4 @@ This page draws on multiple source articles:
 - [badlands brief 6f4](https://badlands.substack.com/p/badlands-brief-6f4)
 - [badlands brief 733](https://badlands.substack.com/p/badlands-brief-733)
 - [badlands brief 739](https://badlands.substack.com/p/badlands-brief-739)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

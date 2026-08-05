@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, blackmail, doj-files, intelligence]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md, raw/badlands-brief-695.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-285.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md, raw/badlands-brief-695.md, raw/badlands-brief-740.md]
 confidence: high
 contested: true
 ---
@@ -39,6 +39,12 @@ The July 14, 2026 Badlands Brief notes that the "super secret" video in the [[ty
 
 The January 23, 2026 Badlands Brief reports that the [[house-committee-on-oversight-and-accountability|House Oversight Committee]] voted on Wednesday, January 21, 2026 to hold [[bill-clinton|Bill]] and [[hillary-clinton|Hillary Clinton]] in [[contempt-of-congress|contempt of Congress]] after they did not appear for depositions related to the committee's Jeffrey Epstein probe. The measure still requires approval by the full House before any referral to the [[department-of-justice|Justice Department]].
 
+## The Prince Andrew arrest (February 2026)
+
+The February 20, 2026 Badlands Brief reports the arrest of [[prince-andrew|Andrew Mountbatten]], formerly known as Prince Andrew, on suspicion of [[misconduct-in-public-office|misconduct in public office]], three days after the public release of the Epstein File. The arrest — on his 66th birthday — followed years of scrutiny over his ties to Epstein, which included accuser [[virginia-giuffre|Virginia Roberts Giuffre]], reported in the Brief to have died by suicide the previous year; her family's statement after the arrest declared: "At last. Today, our broken hearts have been lifted at the news that no one is above the law, not even royalty."
+
+Badlands contributor [[burning-bright|Burning Bright]] reads the arrest as the deployment of a "burn card" — the [[deep-state|Deep State]] sacrificing a "high-profile, thoroughly entangled liability" to cauterize visible wounds while preserving the deeper "honeypot network" — an admission of the Epstein web's existence "in the most limited, theatrical and carefully-calibrated fashion possible," but one that permanently cedes narrative territory under his Overton's Goalpost template.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -52,3 +58,4 @@ This page draws on multiple source articles:
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 695](https://badlands.substack.com/p/badlands-brief-695)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

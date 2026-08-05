@@ -31,6 +31,10 @@ America for Sale — Part 2 cites *Nonprofit Quarterly* reporting that the Qatar
 
 The July 14, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]]'s new [[air-force-one|Air Force One]] was donated by Qatar, and that the administration's subpoenas to [[new-york-times|New York Times]] journalists followed the outlet's reporting on the aircraft. The same edition notes, via the Times of Israel, that a Qatari delegation was in [[iran|Iran]] aiming to boost its mediation role after the war with Israel, and that Qatar's advanced radar systems figure in [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]]'s speculation about a plot to destroy them.
 
+## Board of Peace pledge (February 2026)
+
+The February 20, 2026 Badlands Brief reports that Qatar was a named attendee of the first [[board-of-peace|Board of Peace]] meeting in Washington on February 19, 2026, and pledged at least $1 billion toward Gaza relief alongside the US ($10 billion), [[saudi-arabia|Saudi Arabia]] and the [[united-arab-emirates|United Arab Emirates]] ($1 billion each) — roughly $17 billion in total pledges. The Brief's commentary also notes the [[international-stabilization-force|International Stabilization Force]] is planned to draw personnel from countries including Qatar's Gulf partners, with Turkey and Qatar previously described as filling the vacuum created by Israel's snub of the [[palestinian-authority|Palestinian Authority]].
+
 ## Sources
 
 This page draws on multiple source articles:

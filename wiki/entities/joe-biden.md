@@ -1,10 +1,10 @@
 ---
 title: Joe Biden
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [joe-biden, crime-bill, senate, prison-privatization]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-1ae.md, raw/badlands-brief-5ba.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-time-to-strike.md, raw/a-week-to-remember.md, raw/all-assets-deployed.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-1ae.md, raw/badlands-brief-5ba.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -38,6 +38,10 @@ The November 2022 essay All Assets Deployed refers to "the occupation of the Whi
 
 The July 14, 2026 Badlands Brief reports on the defamation lawsuit in which [[patrick-byrne|Patrick Byrne]] claimed that [[hunter-biden|Hunter Biden]] sought a bribe from [[iran|Iran]] in exchange for influencing Biden to release $8 billion in frozen Iranian assets and reduce pressure during nuclear negotiations — claims a federal judge found defamatory, awarding Hunter Biden $1.7 million in punitive damages.
 
+## East Palestine "betrayal" framing (February 2026)
+
+The February 20, 2026 Badlands Brief reports that President [[donald-trump|Donald Trump]] announced a $10 million [[economic-development-administration|Economic Development Administration]] grant for [[east-palestine|East Palestine]], Ohio — the site of the February 2023 [[norfolk-southern|Norfolk Southern]] derailment — along with a long-term health study for residents, in a Truth Social post declaring that East Palestine had been "disgracefully betrayed and forgotten about by Crooked Joe Biden." Biden's administration had come under criticism for its response to the derailment and its handling of the chemical release.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -49,3 +53,4 @@ This page draws on multiple source articles:
 - [are jack smith and fani willis in](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 - [badlands brief 1ae](https://badlands.substack.com/p/badlands-brief-1ae)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

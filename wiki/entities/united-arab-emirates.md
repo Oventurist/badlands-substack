@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-05
 type: entity
 tags: [gulf-politics, geopolitics, middle-east, sovereign-alliance, diplomacy]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ce.md, raw/badlands-brief-3d4.md, raw/badlands-brief-579.md, raw/badlands-brief-5a2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ce.md, raw/badlands-brief-3d4.md, raw/badlands-brief-579.md, raw/badlands-brief-5a2.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: false
 ---
@@ -32,6 +32,10 @@ The May 18, 2026 Badlands Brief reports that a drone strike caused a fire near t
 
 Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] disputes the attribution to Iran, arguing that the drones entered from the west — the direction of [[israel|Israel]] and [[iraq|Iraq]], not Iran — and that Israel "staunchly opposes any Muslim country possessing nuclear technology." He suggests the strike was a provocation intended to derail Saudi-Iranian rapprochement and the UAE's participation in a Saudi-led regional economic integration initiative potentially worth $100 billion, concluding that "somebody is trying to provoke a war between the various Muslim nations" and that the only nation that would benefit is Israel.
 
+## Board of Peace pledge (February 2026)
+
+The February 20, 2026 Badlands Brief reports that the UAE was a named attendee of the first [[board-of-peace|Board of Peace]] meeting in Washington on February 19, 2026, and pledged at least $1 billion toward Gaza relief alongside the US ($10 billion), [[qatar|Qatar]] and [[saudi-arabia|Saudi Arabia]]. The pledge follows the UAE's earlier role in Gaza governance, including its seat on the Gaza Executive Board and the [[international-stabilization-force|International Stabilization Force]] plans that draw personnel from regional partners.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -41,3 +45,4 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, kayfabe, q-anon]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-740.md]
 confidence: high
 contested: false
 ---
@@ -44,6 +44,12 @@ In the July 14, 2026 Badlands Brief, GhostofBasedPatrickHenry writes two long co
 
 In the Brief of April 20, 2026, GhostofBasedPatrickHenry argues that despite the optics, [[donald-trump|Trump]] is "diffusing the Greater Israel Empire before it can establish itself as the hegemony in the Middle East," resolving the U.S.-[[iran|Iran]] conflict while [[israel|Israel]] continues fighting [[hezbollah|Hezbollah]] and the [[islamic-revolutionary-guard-corps|IRGC]]. He analyzes the [[israel-defense-forces|IDF]]'s updated Lebanon maps: the short-term goals are capturing [[mount-hermon|Mount Hermon]] (the highest point in the Levant, overlooking Damascus) and creating a [[forward-defense-zone|"Forward Defense Zone"]] toward Tyre to shift the maritime boundary and annex the [[qana-gas-field|Qana Gas Field]]. He identifies the [[antalya-diplomacy-forum|Antalya Diplomacy Forum]] meeting of Turkey, Egypt, Pakistan, and Saudi Arabia as the emergence of the new Middle East "security architecture" (with Iran expected to join), backed by Russia, China, and Europe, and concludes Trump is "waging a war against Israel, using Iran as his proxy." He also joined [[steven-kwast|General Kwast]] on Space Revolution to coin [[geospatial-politics|GeoSpatial Politics]], and co-hosted [[the-blitz|Badlands Blitz]] Episode 13.
 
+## Commentary in Badlands Brief 740 (February 20, 2026)
+
+The February 20, 2026 Badlands Brief carries two substantial commentaries by GhostofBasedPatrickHenry. The first reads the [[peter-doocy|Doocy]]/[[barack-obama|Obama]] aliens exchange — which prompted President [[donald-trump|Donald Trump]]'s Truth Social declassification directive to the Secretary of War — as a "controlled opposition dynamic" designed to trap Trump in a dialectic about classified materials "right on the heels of the Epstein File deployment." He argues the psyop is being "rugged": "You cannot rug the People with psyops when they've already seen the Matrix. You can only tell the truth at this point," suggesting that with everything declassified, suppressed technologies will be revealed as part of the "alien culture" and the Golden Age.
+
+The second commentary analyzes the first [[board-of-peace|Board of Peace]] meeting, listing its participants ([[israel|Israel]], [[egypt|Egypt]], [[jordan|Jordan]], [[qatar|Qatar]], over 40 countries), the $17 billion in pledges, the [[international-stabilization-force|ISF]] composition (32,000 personnel; 12,000 police, 20,000 troops; Indonesia, [[morocco|Morocco]], [[kazakhstan|Kazakhstan]], Kosovo, Albania; training by Egypt and Jordan), [[turkey|Turkey]]'s volunteered soldiers and police (with Netanyahu's "never be allowed" objection), the southern Gaza base for 5,000, and speculation that a war with [[iran|Iran]] would be followed by action against Egypt. He also raises the allegation that Secretary of State [[marco-rubio|Marco Rubio]] is withholding information from Trump about [[cuba|Cuba]] — "probably nonsense," but emblematic — and asks: "Can the State Department (read: [[cia|CIA]]) ever again be trusted? Probably not," proposing "an entirely new diplomatic mission... which no affiliation to the [S]tate Department," noting that "it's POTUS'S friends ([[steve-witkoff|Witkoff]]) from business that seem to be negotiating world peace, ostensibly."
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -69,3 +75,4 @@ This page draws on multiple source articles:
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

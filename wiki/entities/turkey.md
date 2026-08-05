@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [nation-state, weapons-smuggling, syria, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-3d4.md, raw/badlands-brief-52b.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md]
+sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-3d4.md, raw/badlands-brief-52b.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -29,6 +29,10 @@ The Brief of April 20, 2026 reports that Turkey hosted [[egypt|Egypt]], [[pakist
 
 The July 8, 2026 Badlands Brief reports that Turkey hosted the [[nato|NATO]] summit in Ankara, where President [[donald-trump|Donald Trump]] and President [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]] exchanged warm compliments "much to the chagrin of the rest of the so-called alliance," with Trump saying the only reason he attended was that the summit was hosted by his "dear friend." Contributor [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] reads the episode as evidence that Trump is prioritizing the relationship with Turkey over the relationship with Europe — predicting similar treatment for other Muslim nations of the Middle East, including [[iran|Iran]] — and as evidence of the [[sovereign-alliance|Sovereign Alliance]] endeavoring to supplant the unipolar hegemony with a new multipolar world order, with Turkey "the stronger partner at the moment."
 
+## ISF volunteers and the Board of Peace (February 2026)
+
+The February 20, 2026 Badlands Brief reports that [[turkey|Turkey]] has volunteered soldiers and police for the [[international-stabilization-force|International Stabilization Force]] in [[gaza|Gaza]] — a contribution President [[donald-trump|Donald Trump]] said he wants represented in the force — while Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] and other Israeli officials "emphatically stated" that Turkish participation "will never be allowed." Turkey's earlier mediation role, alongside [[qatar|Qatar]], in filling the vacuum created by Israel's snub of the [[palestinian-authority|Palestinian Authority]] is also noted in the Brief.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -39,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

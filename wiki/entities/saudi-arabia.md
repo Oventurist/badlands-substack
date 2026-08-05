@@ -7,7 +7,7 @@ tags:
   - middle-east
   - saudi-royal-family
   - cia
-sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md, raw/badlands-brief-625.md, raw/badlands-brief-71c.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-week-to-remember.md, raw/arabian-nights.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-1c6.md, raw/badlands-brief-285.md, raw/badlands-brief-3d4.md, raw/badlands-brief-4ec.md, raw/badlands-brief-323.md, raw/badlands-brief-5a2.md, raw/badlands-brief-625.md, raw/badlands-brief-71c.md, raw/badlands-brief-740.md]
 confidence: medium
 contested: true
 ---
@@ -48,6 +48,10 @@ The May 18, 2026 Badlands Brief reports that Saudi Arabia condemned the drone st
 
 The Brief of April 20, 2026 reports that Saudi Arabia joined [[turkey|Turkey]], [[egypt|Egypt]], and [[pakistan|Pakistan]] at the [[antalya-diplomacy-forum|Antalya Diplomacy Forum]] to discuss the [[iran|Iran]] situation, and describes the Kingdom as "the lynchpin that has brought them all together (along with the US)" in the emerging Middle East security architecture.
 
+## Board of Peace pledge (February 2026)
+
+The February 20, 2026 Badlands Brief reports that Saudi Arabia was a named attendee of the first [[board-of-peace|Board of Peace]] meeting in Washington on February 19, 2026, and pledged at least $1 billion toward Gaza relief alongside the US ($10 billion), [[qatar|Qatar]] and the [[united-arab-emirates|United Arab Emirates]] ($1 billion each). The Brief's commentary notes the [[international-stabilization-force|International Stabilization Force]] plans call for thousands of personnel from countries including Saudi Arabia's Gulf partners.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -66,3 +70,4 @@ This page draws on multiple source articles:
 - [badlands brief 5a2](https://badlands.substack.com/p/badlands-brief-5a2)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 71c](https://badlands.substack.com/p/badlands-brief-71c)
+- [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)
