@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [institution, judiciary, case-law, federalism]
-sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-686.md, raw/badlands-brief-6a1.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/always-fight-back.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-686.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md]
 confidence: high
 contested: false
 ---
@@ -36,6 +36,11 @@ The Badlands Brief of June 16, 2026 covers the Court in two capacities. First, i
 
 Second, citing SCOTUSblog, the Brief reports that as the Court entered the final weeks of its term — continuing to release major opinions while building next term's docket — it agreed on Monday to hear three new cases, including a challenge to whether the Constitution requires twelve-person juries in criminal trials. The case arises from Florida, one of six states that still permit smaller juries in certain criminal cases, and could prompt the Court to revisit [[williams-v-florida|*Williams v. Florida*]] (1970), which held that the [[sixth-amendment|Sixth Amendment]] does not require twelve jurors. Several current justices, [[neil-gorsuch|Neil Gorsuch]] among them, have signaled interest in reexamining that precedent on the ground that the Founding-era understanding of a jury may have required twelve members. Argument is expected in the term beginning in October, with several high-profile decisions from the current term still pending — making the final weeks of June, in the Brief's description, one of the most closely watched periods on the Court's calendar.
 
+
+## April 2026 term: Callais and First Choice
+
+In late April 2026 the Court issued two decisions covered in the Badlands Brief. In [[louisiana-v-callais|Louisiana v. Callais]] it held 6–3, in an opinion by Justice [[samuel-alito|Samuel Alito]], that Louisiana's congressional map creating a second majority-Black district was an unconstitutional racial gerrymander, holding that Section 2 of the [[voting-rights-act-of-1965|Voting Rights Act of 1965]] permits but does not compel race-conscious redistricting; Justice [[clarence-thomas|Clarence Thomas]] concurred separately, arguing the Act should not reach districting claims at all. Days earlier the Court ruled that [[first-choice-womens-resource-centers|First Choice Women's Resource Centers]] may pursue a federal lawsuit challenging a subpoena from New Jersey Attorney General [[matthew-platkin|Matthew Platkin]], finding that an official demand for private donor information injures [[first-amendment|First Amendment]] associational rights, without reaching the subpoena's merits.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -50,3 +55,4 @@ This page draws on multiple source articles:
 - [badlands brief 174](https://badlands.substack.com/p/badlands-brief-174)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

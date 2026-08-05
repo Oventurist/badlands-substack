@@ -1,10 +1,10 @@
 ---
 title: Scott Bessent
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [treasury, sanctions, venezuela, banking, trump-administration]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-1ce.md, raw/badlands-brief-577.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-1ce.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md]
 confidence: medium
 contested: false
 ---
@@ -22,6 +22,11 @@ The January 26, 2026 Badlands Brief describes Bessent as playing a central diplo
 
 Badlands contributor [[burning-bright|Burning Bright]] used the occasion to argue that Trump entered Davos "with two lions beside him" — Bessent and Commerce Secretary [[howard-lutnick|Howard Lutnick]] — and cast Bessent as not merely the architect of Trump's "Golden Age" agenda but "the prime harbinger of the old System's demolition," recalling Bessent's early-2024 statement that he envisioned a "Global Economic Re-Ordering" and wanted to be part of it.
 
+
+## Operation Economic Fury (April 2026)
+
+Bessent's [[department-of-the-treasury|Treasury Department]] executed the April 2026 sanctions round under [[operation-economic-fury|Operation Economic Fury]], designating 35 individuals and entities in [[iran|Iran]]'s [[shadow-banking|shadow banking]] network. Badlands writer [[burning-bright|Burning Bright]], who had dubbed him "The Wolf of Main Street" in 2025, read the action as the real signal beneath the Iran narrative — an attack on the financial rails of the wider globalist architecture rather than on Tehran alone.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -30,3 +35,4 @@ This page draws on multiple source articles:
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

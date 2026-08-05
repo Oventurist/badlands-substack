@@ -2,7 +2,7 @@
 
 > Content catalog for the Badlands Media article corpus.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-04 | Total pages: 1884
+> Last updated: 2026-08-06 | Total pages: 1893
 
 ## Entities
 
@@ -33,6 +33,7 @@
 - [[africom]]: U.S. Africa Command (AFRICOM); cited in the source as having learned of the Benghazi attack within 30 minutes and prepared to deploy forces, but never receiving the order to proceed. (Created: 2026-08-01)
 - [[ahmed-al-sharaa]] — President of Syria who met Trump at the Ankara NATO summit
 - [[aileen-cannon]] — US District Judge for the Southern District of Florida, the venue for the Brennan probe. (Created: 2026-08-03)
+- [[aimee-huber]]: Executive director of First Choice Women’s Resource Centers, quoted after the 2026 Supreme Court ruling. (Created: 2026-08-06)
 - [[aipac]]: Pro-Israel lobby whose endorsements became a liability in 2026 Democratic primaries. (Created: 2026-08-03)
 - [[airbus]]: European aerospace consortium based in France; used in the corpus as a foil to Boeing's decline, illustrating an alleged shift of Deep State power to Europe. (Created: 2026-08-02)
 - [[al-gore]]: U.S. Vice President 1993-2001 and climate advocate; named in the corpus as a participant in the Western management of post-Soviet Perestroika and a close friend of Chrystia Freeland. (Created: 2026-08-01)
@@ -254,6 +255,7 @@
 - [[city-of-london]]: One-square-mile London financial district identified in the Badlands corpus as the seat of the Cabal and the true summit of global power. (Created: 2026-08-01)
 - [[civil-military-coordination-centre]]: US-established headquarters at Kiryat Gat for the International Stabilization Force; Smotrich called for its dismantling. (Created: 2026-08-03)
 - [[civil-rights-division]] — DOJ component enforcing federal voting statutes, lead in the 2026 voter roll lawsuits.
+- [[clarence-thomas]]: Supreme Court justice whose Louisiana v. Callais concurrence would bar Voting Rights Act challenges to districting entirely. (Created: 2026-08-06)
 - [[claude-kwe]]: Cameroon national and NIH research fellow charged in the 2026 Detroit monkeypox smuggling case. (Created: 2026-08-03)
 - [[claudia-sheinbaum]] — President of Mexico, cast in the corpus as a less cooperative successor to Obrador and an alleged Deep State damage-control agent. (Created: 2026-08-03)
 - [[clay-higgins]]: Louisiana Republican congressman sponsoring the federal mail ballot act urged by Badlands commentators. (Created: 2026-08-03)
@@ -427,6 +429,7 @@
 - [[fidel-castro]]: Cuban revolutionary who took power in 1959; chronological anchor for the corpus's account of the 2026 Cuban succession talks. (Created: 2026-08-03)
 - [[fifa]]: International football governing body; Clinton Global Initiative donor whose leadership was arrested on U.S. corruption charges in 2015. (Created: 2026-08-02)
 - [[financial-times]]: London-based financial newspaper credited with reporting Saudi Arabia's proposed non-aggression pact with Iran. (Created: 2026-08-04)
+- [[first-choice-womens-resource-centers]]: New Jersey crisis pregnancy center network that won a 2026 Supreme Court ruling allowing a federal challenge to a state subpoena. (Created: 2026-08-06)
 - [[food-and-drug-administration]]: US regulator to which Jia Bei Zhu was convicted of making a false statement in the Universal Meditech case. (Created: 2026-08-03)
 - [[force-ouvriere]]: French trade union founded in 1948 as a breakaway from the communist CGT; cited in the corpus as a non-communist rival funded by CIA millions to split European labor along Cold War lines. (Created: 2026-08-01)
 - [[ford-motor-company]]: Automaker exploring military supply of commercial vehicles in the 2026 defense mobilization push. (Created: 2026-08-03)
@@ -463,6 +466,7 @@
 - [[gholamreza-soleimani]]: Longtime commander of Iran's Basij militia, reported killed by Israel in the March 2026 strike wave. (Created: 2026-08-05)
 - [[ghost-of-based-patrick-henry]] — Pseudonymous Badlands contributor and author of the Book of Trump series
 - [[ghost-of-patrick-henry]]: Pseudonymous Badlands Media contributor and author of the Arabian Nights series on Saudi Arabia. (Created: 2026-08-02)
+- [[ghostofbasedpatrickhenry]]: Badlands contributor writing on NATO, the Trump–Putin call, and the Sovereign Alliance. (Created: 2026-08-06)
 - [[gideon-saar]]: Israeli Foreign Minister who said only Iranians can bring down their government, but that outside help may be necessary. (Created: 2026-08-03)
 - [[gilbert-chagoury]]: Nigerian-Lebanese businessman, Marc Rich business partner and convicted money launderer who pledged $1 billion to the Clinton Global Initiative in 2009. (Created: 2026-08-02)
 - [[gina-carano]]: Actress fired by Disney in 2021 over an Instagram post; cited by the corpus as a right-wing "cancel culture" case conservatives failed to apply consistently to Israel critics. (Created: 2026-08-01)
@@ -812,6 +816,7 @@
 - [[mathias-krull]]: Investment banker arrested in Operation Money Flight for laundering $1.2 billion in PDVSA funds. (Created: 2026-08-03)
 - [[matt-crane]]: Colorado county clerk and election official described by Tina Peters's attorney as a Dominion Voting Systems 'shill' opposing clemency. (Created: 2026-08-05)
 - [[matthew-ehret]]: Canadian writer and historian, editor-in-chief of The Canadian Patriot Review and Badlands Media contributor; author of the Tianjin summit analysis. (Created: 2026-08-01)
+- [[matthew-platkin]]: New Jersey attorney general whose donor-records subpoena to First Choice reached the Supreme Court. (Created: 2026-08-06)
 - [[matthew-trump]] - Badlands Media contributor who covered Meta's metaverse reversal in the March 2026 Brief. (Created: 2026-08-04)
 - [[matthew-woll]]: AFL leader and staunch anti-communist who the corpus suggests may have been a British intelligence contact, holding posts in two British intelligence fronts. (Created: 2026-08-01)
 - [[matthias-krull]]: Private banker arrested in 2018 for laundering billions embezzled from PDVSA; his cooperation triggered bank asset forfeitures. (Created: 2026-08-03)
@@ -928,6 +933,7 @@
 - [[nevada]]: US state and setting of the 2026 Las Vegas biolab case and its Clark County hazardous waste charge. (Created: 2026-08-03)
 - [[neville-roy-singham]]: China-based tech tycoon under federal grand jury investigation over a $278 million funding network. (Created: 2026-08-03)
 - [[new-democratic-party]]: Canadian social-democratic party, renamed from the Cooperative Commonwealth Federation in 1961; traced in the corpus to a 1932 Fabian project founded by Rhodes Scholars. (Created: 2026-08-01)
+- [[new-jersey]]: US state whose investigations of pro-life pregnancy centers produced the 2026 First Choice ruling. (Created: 2026-08-06)
 - [[new-york-police-department]] — New York City police force credited with preventing a 2026 ISIS-inspired bombing attempt. (Created: 2026-08-04)
 - [[newsweek]]: American news magazine cited for Sheinbaum's denial of the El Paso drone incursion and Tony Gonzales's response. (Created: 2026-08-03)
 - [[new-york-post]]: New York tabloid whose reporting claimed roughly 100 cartel leaders were transferred to US custody before the El Mencho raid. (Created: 2026-08-03)
@@ -1664,6 +1670,7 @@
 - [[litani-river]]: Lebanon's principal river, invoked in 2026 as the line of proposed Israeli control. (Created: 2026-08-03)
 - [[long-depression]]: Period following the Coinage Act of 1873; the source claims it was actually a prosperity era mislabeled by bankers. (Created: 2026-08-01)
 - [[los-angeles-riots-1992]]: Riots following the acquittal of four LAPD officers in the Rodney King case, framed as engineered racial division. (Created: 2026-08-01)
+- [[louisiana-v-callais]]: 2026 Supreme Court decision striking Louisiana’s second majority-Black district and narrowing race-based redistricting. (Created: 2026-08-06)
 - [[maga]]: The 'Make America Great Again' slogan, base and online community; framed in the corpus as the principal target of adversarial information operations. (Created: 2026-08-02)
 - [[maidan-coup]] — Corpus term for the 2014 Ukrainian regime change led publicly by oligarch Ihor Kolomoisky. (Created: 2026-08-03)
 - [[mainstream-media]]: The centralized corporate press: six conglomerates with common institutional owners, described as the propaganda arm of the establishment. (Created: 2026-08-01)
@@ -1704,6 +1711,7 @@
 - [[nuclear-renaissance]] — Burning Bright's framing of a global revival of civil nuclear power accelerated by engineered energy crises. (Created: 2026-08-04)
 - [[nuestra-america-convoy]]: March 2026 humanitarian aid convoy to Havana that triggered a Treasury sanctions probe. (Created: 2026-08-03)
 - [[october-7]] — October 7, 2023 Hamas attack on Israel that triggered the Gaza war and the reservist mobilization straining the IDF. (Created: 2026-08-06)
+- [[operation-economic-fury]]: US Treasury pressure campaign sanctioning Iran’s shadow banking network during the 2026 conflict. (Created: 2026-08-06)
 - [[operation-epic-fury]] — Name used in Badlands commentary for the 2026 US–Israeli air campaign against Iran.
 - [[operation-metro-surge]]: Federal immigration enforcement surge in Minneapolis–St. Paul linked to two fatal shootings of U.S. citizen protesters. (Created: 2026-08-03)
 - [[operation-midnight-hammer]] - US military operation against Iran cited in Badlands commentary as a template for Trump's "Narrative Disarmament". (Created: 2026-08-04)
@@ -1761,6 +1769,7 @@
 - [[secure-america-act]]: June 2026 immigration and border-security package providing roughly $70 billion in enforcement funding. (Created: 2026-08-03)
 - [[seedance-2-0]] — ByteDance generative video model at the center of the Disney and Paramount IP dispute
 - [[sensitive-compartmented-information-facility]]: Accredited secure room for classified material; site of the FBI's undisclosed 1.9-million-page record cache. (Created: 2026-08-04)
+- [[shadow-banking]]: Shell-company and exchange-house networks used to move funds outside regulated banking; central to the 2026 Iran sanctions. (Created: 2026-08-06)
 - [[shadow-war]]: Term for the covert operational layer of the conflict Badlands writers describe, paired with the Information War as its narrative counterpart. (Created: 2026-08-03)
 - [[sharia-law]]: Islamic religious law, presented in the corpus as the stated objective of the Muslim Brotherhood’s infiltration of Western institutions. (Created: 2026-08-02)
 - [[shia-islam]]: Minority branch holding that only Ali's descendants may lead Islam; concentrated in Iran and Persia. (Created: 2026-08-02)

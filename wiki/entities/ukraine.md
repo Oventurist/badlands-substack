@@ -8,7 +8,7 @@ tags:
   - hybrid-warfare
   - labor-unions
   - nato
-sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md, raw/badlands-brief-1ef.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/a-virus-or-a-metaphor.md, raw/badlands-brief-07c.md, raw/badlands-brief-169.md, raw/badlands-brief-1ef.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5dc.md, raw/badlands-brief-618.md, raw/badlands-brief-6bf.md]
 confidence: medium
 contested: true
 ---
@@ -39,6 +39,11 @@ The March 27, 2026 Badlands Brief reports that the United States has linked long
 
 The May 12, 2026 Badlands Brief reports that [[vladimir-putin|Vladimir Putin]] suggested during Russia's Victory Day events that the conflict may be "coming to an end," a suggestion President [[volodymyr-zelensky|Volodymyr Zelensky]] rejected, while both Kyiv and Moscow accused each other of violating the fragile US-brokered ceasefire.
 
+
+## Victory Day ceasefire proposal (April 2026)
+
+During their roughly 90-minute call on April 29, 2026, [[vladimir-putin|Vladimir Putin]] proposed to [[donald-trump|Donald Trump]] a temporary ceasefire in Ukraine tied to Russia's May 9 Victory Day celebrations. Trump said he pressed Putin to end the war outright and, in remarks afterward, stated that Ukraine had already been militarily defeated and that the Ukraine and [[iran|Iran]] wars were on the same timeline. Disagreements over territorial demands and the conditions for a lasting ceasefire remained unresolved.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -51,3 +56,4 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

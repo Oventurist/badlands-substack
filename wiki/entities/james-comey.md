@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [fbi, prosecutions, lawfare, department-of-justice]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md]
 confidence: high
 contested: false
 ---
@@ -30,6 +30,11 @@ The Badlands Brief of June 16, 2026 reports that the federal judge overseeing th
 
 [[ashe-in-america|Ashe in America]] places the ruling among four contemporaneous items she says all "involve weaponized government," and states the Comey matter in inverted form: "Comey claims the government is being weaponized against him because the government is investigating Comey's weaponization of the government against President Trump and his supporters." The other items in the sequence are the [[supreme-court-of-the-united-states|Supreme Court]]'s refusal to revive [[carter-page|Carter Page]]'s FBI lawsuit, the [[department-of-justice|Justice Department]] investigation of [[gavin-newsom|Gavin Newsom]], and the release of internal DOJ warnings over the 2021 school board memorandum. See [[weaponization-of-government|weaponization of government]].
 
+
+## Indictment and the Blanche denial (April 2026)
+
+Reporting that Comey had been indicted prompted scrutiny over whether the prosecution was connected to [[donald-trump|Donald Trump]]'s longstanding public criticism of the former [[fbi|FBI]] director. Acting Attorney General [[todd-blanche|Blanche]] publicly denied that Trump directed or initiated the case, saying it was being handled independently through the [[department-of-justice|Department of Justice]] under standard procedures.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -38,3 +43,4 @@ This page draws on multiple source articles:
 - [badlands brief 52b](https://badlands.substack.com/p/badlands-brief-52b)
 - [badlands brief 579](https://badlands.substack.com/p/badlands-brief-579)
 - [badlands brief 6a1](https://badlands.substack.com/p/badlands-brief-6a1)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

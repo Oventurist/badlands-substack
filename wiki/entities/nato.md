@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [agency, foreign-policy]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-577.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-24.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-095.md, raw/badlands-brief-0a2.md, raw/badlands-brief-169.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-282.md, raw/badlands-brief-311.md, raw/badlands-brief-577.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md]
 confidence: medium
 contested: true
 ---
@@ -52,6 +52,11 @@ The Badlands Brief of April 2, 2026 reports that President [[donald-trump|Donald
 
 Trump described NATO as a "paper tiger." The administration has simultaneously promoted a "sovereign nations" framework over older alliance language: the [[white-house|White House]] summary of Secretary [[marco-rubio|Marco Rubio]]'s February Munich speech said Trump's foreign policy "brings sovereign nations together in common purpose" and rejects "outdated globalist structures," and the January 7 White House memorandum on withdrawals from international organizations framed exits from bodies "contrary to the interests of the United States" in sovereignty terms. [[finland|Finland]]'s president said after speaking with Trump on April 1 that "a more European NATO" is taking shape, underscoring that European leaders are already discussing a security architecture with less reliance on Washington. Contributor [[burning-bright|Burning Bright]] commented: "I always knew they were a paper tiger, and Putin knows that too, by the way."
 
+
+## Burden-sharing dispute over Germany (April 2026)
+
+[[donald-trump|Donald Trump]]'s April 2026 suggestion that the United States could draw down its forces in [[germany|Germany]] following criticism from Chancellor [[friedrich-merz|Friedrich Merz]] reopened the alliance burden-sharing debate, with Trump reiterating that continued deployments depend on allied support and questioning what the US gets from membership. Badlands commentary was harsher still: [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called NATO "a parasite that contributes nothing of value to the world," arguing that its principal function is to prevent [[russia|Russia]] and the United States from becoming allies.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -74,3 +79,4 @@ This page draws on multiple source articles:
 - [badlands brief 577](https://badlands.substack.com/p/badlands-brief-577)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

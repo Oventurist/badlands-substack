@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [iran, military, irgc, nuclear, strait-of-hormuz]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5ba.md, raw/badlands-brief-625.md, raw/badlands-brief-6bf.md]
 confidence: high
 contested: false
 ---
@@ -25,6 +25,11 @@ The July 14, 2026 Badlands Brief reports that the [[continuity-of-government|Con
 
 The Brief of April 20, 2026 notes that [[israel|Israel]] will continue fighting both [[hezbollah|Hezbollah]] and the IRGC, and that all public rhetoric from Israeli leaders indicates they will not stop waging war on [[iran|Iran]] until the government is toppled — an objective the commentary calls increasingly impossible, with Iran "now demonstrating" the most powerful military in the region.
 
+
+## Targeted by Operation Economic Fury (April 2026)
+
+US Treasury sanctions issued under [[operation-economic-fury|Operation Economic Fury]] in April 2026 named 35 individuals and entities in [[iran|Iran]]'s [[shadow-banking|shadow banking]] network described as funneling tens of billions of dollars to the IRGC and its proxy forces through shell companies, exchange houses and front operations.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -33,3 +38,4 @@ This page draws on multiple source articles:
 - [badlands brief 3d4](https://badlands.substack.com/p/badlands-brief-3d4)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

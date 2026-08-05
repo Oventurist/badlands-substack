@@ -4,7 +4,7 @@ created: 2026-08-02
 updated: 2026-08-06
 type: entity
 tags: [iran, sanctions, oil, nuclear, closed-financial-system]
-sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md]
+sources: [raw/america-for-sale-part-3.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ef.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-5a2.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md]
 confidence: medium
 contested: true
 ---
@@ -75,6 +75,11 @@ The Badlands Brief of April 2, 2026 leads with President [[donald-trump|Donald T
 
 The edition also reports that Iranian President [[masoud-pezeshkian|Masoud Pezeshkian]] issued an open letter to the American public arguing that Iran is fighting "Israel's proxy war" and urging Americans to reject coordinated "war propaganda," claiming the portrayal of Iran as a threat is driven by "manufactured narratives" from the military-industrial complex and Israeli political interests. Badlands commentary by Burning Bright reads the war as one front in a "Sovereign Pincer" against the "Globalist Western Hegemon."
 
+
+## Economic Fury and the April 2026 squeeze
+
+Alongside the [[iranian-blockade|naval blockade]] begun in April 2026, which has intercepted or redirected dozens of vessels and choked oil exports to the point that storage facilities approach capacity, the US [[department-of-the-treasury|Treasury]] under [[scott-bessent|Scott Bessent]] sanctioned 35 individuals and entities in Iran's [[shadow-banking|shadow banking]] network under [[operation-economic-fury|Operation Economic Fury]]. Diplomacy stalled as [[donald-trump|Donald Trump]] rejected Iran-backed proposals and demanded that nuclear issues be settled first. [[vladimir-putin|Vladimir Putin]] offered assistance on the nuclear file during his April 29 call with Trump and warned of global consequences if the conflict widened.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -103,3 +108,4 @@ This page draws on multiple source articles:
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 67a](https://badlands.substack.com/p/badlands-brief-67a)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

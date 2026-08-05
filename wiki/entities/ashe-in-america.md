@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-06
 type: entity
 tags: [journalist, badlands-media, substack, commentary]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/a-time-to-strike.md, raw/always-fight-back.md, raw/artificial-intelligence.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-10.md, raw/badlands-blitz-episode-12.md, raw/badlands-blitz-episode-14.md, raw/badlands-blitz-episode-16.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-2.md, raw/badlands-blitz-episode-20.md, raw/badlands-blitz-episode-22.md, raw/badlands-blitz-episode-23.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-029.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-095.md, raw/badlands-brief-165.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-195.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1cd.md, raw/badlands-brief-1ce.md, raw/badlands-brief-1ef.md, raw/badlands-brief-25c.md, raw/badlands-brief-282.md, raw/badlands-brief-285.md, raw/badlands-brief-2c5.md, raw/badlands-brief-311.md, raw/badlands-brief-323.md, raw/badlands-brief-3d4.md, raw/badlands-brief-40d.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-52b.md, raw/badlands-brief-5ba.md, raw/badlands-brief-618.md, raw/badlands-brief-625.md, raw/badlands-brief-686.md, raw/badlands-brief-6bf.md]
 confidence: medium
 contested: false
 ---
@@ -69,6 +69,11 @@ In the Badlands Brief of April 2, 2026, Ashe in America contributes several comm
 
 On the April 1 launch of [[artemis-ii|Artemis II]], she asks on Badlands Daily who decided on "a sudden manned moon mission on April Fool's Day," calling the launch "the most real thing to happen since we bombed Iran via video bowling and Wii Golf." She also notes President [[donald-trump|Donald Trump]]'s new executive order on elections, [[ensuring-citizenship-verification-and-integrity-in-federal-elections|"Ensuring Citizenship Verification and Integrity in Federal Elections"]], and, on criticism of the President, writes: "Don't forget who the real enemy is."
 
+
+## Commentary on the April 2026 Supreme Court rulings
+
+In the Badlands Brief of April 30, 2026, Ashe in America treated [[louisiana-v-callais|Louisiana v. Callais]] as a signal that [[critical-race-theory|critical race theory]] is legally dead, describing the ruling as the end of race-based manipulation of electoral maps and a defeat for the Eisen–Elias progressive litigation effort; she had discussed the case's place in the wider [[voting-rights-act-of-1965|Voting Rights Act]] ecosystem on that week's episode of [[culture-of-change|Culture of Change]] before the decision landed, and previewed her reaction on the Devolution Power Hour. She also highlighted the companion ruling for [[first-choice-womens-resource-centers|First Choice Women's Resource Centers]], which she said flew under the radar, condemning [[new-jersey|New Jersey]]'s treatment of pro-life pregnancy centers and framing the outcome as evidence that the weaponization of government is being dismantled.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -121,3 +126,4 @@ This page draws on multiple source articles:
 - [badlands brief 618](https://badlands.substack.com/p/badlands-brief-618)
 - [badlands brief 625](https://badlands.substack.com/p/badlands-brief-625)
 - [badlands brief 686](https://badlands.substack.com/p/badlands-brief-686)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)

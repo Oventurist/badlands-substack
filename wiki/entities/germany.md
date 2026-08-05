@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-06
 type: entity
 tags: [germany, europe, world-order, transatlantic-relations]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-5dc.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-5dc.md, raw/badlands-brief-6bf.md]
 confidence: high
 contested: false
 ---
@@ -21,6 +21,11 @@ German President [[frank-walter-steinmeier|Frank-Walter Steinmeier]] said US pol
 
 The March 27, 2026 Badlands Brief, in commentary by [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]], describes Germany as suffering prolonged stagnation and deindustrialization — weak industrial output and high energy costs — with the commentator arguing that the "Prussian Proxy" (the [[european-union|European Union]]) is on the losing end of the multipolar realignment.
 
+
+## US troop presence questioned (April 2026)
+
+After Chancellor [[friedrich-merz|Friedrich Merz]] criticized US policy in the Iran conflict, [[donald-trump|Donald Trump]] indicated the United States could reconsider its military presence in Germany. The country hosts tens of thousands of American troops and is a key component of [[nato|NATO]]'s European defense posture and logistics network; any reduction would represent a significant shift in US force positioning on the continent. The remarks came amid broader tensions over the Iran war and renewed debate over alliance obligations and defense spending.
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -28,3 +33,4 @@ This page draws on multiple source articles:
 - [badlands brief 094](https://badlands.substack.com/p/badlands-brief-094)
 - [badlands brief 169](https://badlands.substack.com/p/badlands-brief-169)
 - [badlands brief 5dc](https://badlands.substack.com/p/badlands-brief-5dc)
+- [badlands brief 6bf](https://badlands.substack.com/p/badlands-brief-6bf)
