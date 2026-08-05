@@ -23,6 +23,7 @@ The February 20, 2026 Badlands Brief reports that King Charles issued a statemen
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-brief-1ce)
+This page draws on multiple source articles:
 
+- [badlands brief 1ce](https://badlands.substack.com/p/badlands-brief-1ce)
 - [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)

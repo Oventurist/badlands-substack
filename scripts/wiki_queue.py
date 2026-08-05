@@ -11,6 +11,7 @@ Source of truth: articles/ (master). raw/ is the ingest-ready copy.
 import glob
 import os
 import sys
+import time
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent.parent  # scripts/.. -> project root
@@ -38,6 +39,25 @@ def main():
             if b not in done and b not in locked:
                 print(p)
                 return
+        print("DONE")
+    elif cmd == "claim":
+        # ATOMIC claim for parallel workers: pick the first unprocessed article
+        # AND create its lock in one O_EXCL step, so two workers can never claim
+        # the same article. Returns the path, or 'DONE'.
+        done = processed()
+        for p in sorted(glob.glob(str(RAW / "*.md"))):
+            b = os.path.basename(p)
+            if b in done:
+                continue
+            lf = PROC.parent / f".inprogress-{b}"
+            try:
+                fd = os.open(lf, os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+                os.write(fd, f"pid={os.getpid()} time={time.time():.0f}\n".encode())
+                os.close(fd)
+                print(p)
+                return
+            except FileExistsError:
+                continue  # claimed by another worker; try next
         print("DONE")
     elif cmd == "lock":
         b = os.path.basename(sys.argv[2])

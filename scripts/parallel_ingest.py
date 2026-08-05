@@ -1,0 +1,135 @@
+#!/usr/bin/env python
+"""Parallel wiki ingest driver.
+
+Spawns N worker processes. Each worker loops: atomically claim an article
+from the queue, run the LLM (hermes -z with worker_prompt_v2.txt) to ingest
+it, mark done, repeat until the queue is empty.
+
+Gates:
+- article claims: wiki_queue.py claim (O_EXCL, atomic)
+- page writes:    wiki_page_lock.py (per-page O_EXCL locks with TTL)
+
+Usage:
+  python parallel_ingest.py --workers 8 --model deepseek-v4-flash-0731 --provider nous
+  python parallel_ingest.py --workers 8 --articles 50   # dry run with limit
+"""
+import argparse
+import json
+import os
+import subprocess
+import sys
+import time
+from datetime import datetime
+from pathlib import Path
+
+PROJ = Path(__file__).resolve().parent.parent
+WORKER_PROMPT = Path(__file__).resolve().parent / "worker_prompt_v2.txt"
+QUEUE = ["python", str(PROJ / "scripts" / "wiki_queue.py")]
+LOG = PROJ / "logs" / "parallel-ingest.log"
+
+
+def log(msg):
+    line = f"[{datetime.now().strftime('%H:%M:%S')}] {msg}"
+    print(line, flush=True)
+    with open(LOG, "a", encoding="utf-8") as f:
+        f.write(line + "\n")
+
+
+def claim_article():
+    r = subprocess.run(QUEUE + ["claim"], capture_output=True, text=True, cwd=PROJ)
+    out = r.stdout.strip()
+    return out if out and out != "DONE" else None
+
+
+def mark_done(slug):
+    subprocess.run(QUEUE + ["done", slug], capture_output=True, text=True, cwd=PROJ)
+
+
+def run_worker(model, provider, max_articles, worker_id, stats):
+    done_count = 0
+    while max_articles is None or done_count < max_articles:
+        article = claim_article()
+        if not article:
+            log(f"worker{worker_id}: queue empty, done ({done_count} articles)")
+            break
+        slug = os.path.basename(article)
+        log(f"worker{worker_id}: claimed {slug}")
+        # build the per-article prompt: base + article path
+        prompt = open(WORKER_PROMPT, encoding="utf-8").read()
+        prompt += f"\n\nCURRENT ARTICLE TO INGEST: {article}"
+        # write prompt to a temp file (avoid argv limits) and run
+        pf = PROJ / "scripts" / f"_w{worker_id}_prompt.txt"
+        pf.write_text(prompt, encoding="utf-8")
+        t0 = time.time()
+        try:
+            r = subprocess.run(
+                ["hermes", "-z", prompt, "-m", model, "--provider", provider,
+                 "-t", "terminal,file", "--no-restore-cwd", "--yolo"],
+                capture_output=True, text=True, timeout=2400, cwd=str(PROJ))
+            dt = time.time() - t0
+            out = r.stdout or ""
+            ok = "done:" in out.lower() and r.returncode == 0
+            # trust the LLM's own done marker only if it names the slug
+            if ok:
+                mark_done(slug)
+                stats["done"] += 1
+                done_count += 1
+                log(f"worker{worker_id}: OK {slug} in {dt:.0f}s -> {out.strip().splitlines()[-1][:60]}")
+            else:
+                stats["failed"] += 1
+                log(f"worker{worker_id}: FAIL {slug} in {dt:.0f}s rc={r.returncode}")
+                log(f"  stderr: {(r.stderr or '')[-200:].strip()}")
+                log(f"  stdout tail: {out[-200:].strip()}")
+                # failed article: release its claim so another worker can retry
+                subprocess.run(QUEUE + ["unlock", slug], capture_output=True, text=True, cwd=PROJ)
+                # avoid hot-looping on a permanently-failing article
+                time.sleep(30)
+        except subprocess.TimeoutExpired:
+            stats["failed"] += 1
+            log(f"worker{worker_id}: TIMEOUT {slug} after 1800s")
+            subprocess.run(QUEUE + ["unlock", slug], capture_output=True, text=True, cwd=PROJ)
+        finally:
+            try:
+                pf.unlink()
+            except OSError:
+                pass
+        # small stagger so parallel claims don't all hit the same instant
+        time.sleep(2)
+    stats["workers_finished"] += 1
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--workers", type=int, default=12)
+    ap.add_argument("--model", default="deepseek-v4-flash-0731")
+    ap.add_argument("--provider", default="nous")
+    ap.add_argument("--articles", type=int, default=None, help="cap total articles (testing)")
+    args = ap.parse_args()
+
+    # fresh log for this run
+    LOG.parent.mkdir(parents=True, exist_ok=True)
+    with open(LOG, "w", encoding="utf-8") as f:
+        f.write(f"# parallel ingest run {datetime.now().isoformat()}\n")
+
+    import multiprocessing as mp
+    stats = mp.Manager().dict(done=0, failed=0, workers_finished=0)
+    ctx = mp.get_context("spawn")
+    procs = []
+    for w in range(args.workers):
+        p = ctx.Process(target=run_worker, args=(args.model, args.provider, args.articles, w, stats))
+        p.start()
+        procs.append(p)
+
+    # monitor until all workers finish
+    while any(p.is_alive() for p in procs):
+        time.sleep(30)
+        log(f"STATUS: done={stats['done']} failed={stats['failed']} finished={stats['workers_finished']}/{args.workers}")
+
+    for p in procs:
+        p.join(timeout=10)
+    log(f"RUN COMPLETE: done={stats['done']} failed={stats['failed']}")
+    print(f"\n=== FINAL: done={stats['done']} failed={stats['failed']} ===")
+
+
+if __name__ == "__main__":
+    main()

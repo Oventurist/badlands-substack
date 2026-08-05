@@ -1,10 +1,10 @@
 ---
 title: Kristi Noem
 created: 2026-08-03
-updated: 2026-08-05
+updated: 2026-08-06
 type: entity
 tags: [department-of-homeland-security, trump-administration, immigration-enforcement, senate-oversight]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-5ba.md, raw/badlands-brief-7ed.md]
 confidence: high
 contested: false
 ---
@@ -28,6 +28,12 @@ Ashe in America frames Noem's position structurally: Noem, who reports to Trump,
 
 The July 14, 2026 Badlands Brief notes that speculation about President [[donald-trump|Trump]]'s Thursday "Speech to the Nation" on declassified [[2020-united-states-presidential-election|2020 election]] intelligence was used by some as a vehicle to mock Noem, whom [[ashe-in-america|Ashe in America]] defends as she expresses encouragement about the announcement.
 
+## Replacement at DHS and move to Shield of the Americas (March 2026)
+
+On March 6, 2026, President [[donald-trump|Donald Trump]] announced that Noem would be replaced as Secretary of Homeland Security by Oklahoma Senator [[markwayne-mullin|Markwayne Mullin]], effective March 31, 2026.[4] In the announcement Trump said Noem "has served us well, and has had numerous and spectacular results (especially on the Border!)," and stated that she would be moving to serve as Special Envoy for [[shield-of-the-americas|The Shield of the Americas]], a new security initiative in the Western Hemisphere to be announced in Doral, Florida.[4]
+
+The reshuffle generated immediate speculation within the Badlands audience. Contributor [[jon-herold|Jon Herold]] asked whether Trump had "rugpull[ed]" the [[save-america-act|Save America Act]] by removing a Republican senator from the chamber, noting the irony if the bill reached a floor vote timed to March 31.[4] Herold also described a hostile exchange with a reader who framed the move as a firing and accused him of being disappointed that Noem had not been dismissed outright, before deleting the posts and unfollowing him.[4]
+
 ## Sources
 
 This page draws on multiple source articles:
@@ -35,3 +41,4 @@ This page draws on multiple source articles:
 - [badlands brief 165](https://badlands.substack.com/p/badlands-brief-165)
 - [badlands brief 4ec](https://badlands.substack.com/p/badlands-brief-4ec)
 - [badlands brief 5ba](https://badlands.substack.com/p/badlands-brief-5ba)
+- [badlands brief 7ed](https://badlands.substack.com/p/badlands-brief-7ed)

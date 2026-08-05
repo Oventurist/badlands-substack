@@ -1,0 +1,13 @@
+# parallel ingest run 2026-08-05T07:55:26.908214
+[07:55:29] worker1: claimed badlands-brief-7bf.md
+[07:55:29] worker0: claimed badlands-brief-7c0.md
+[07:55:58] STATUS: done=0 failed=0 finished=0/2
+[07:56:28] STATUS: done=0 failed=0 finished=0/2
+[07:56:58] STATUS: done=0 failed=0 finished=0/2
+[07:57:28] STATUS: done=0 failed=0 finished=0/2
+[07:57:58] STATUS: done=0 failed=0 finished=0/2
+[07:58:28] STATUS: done=0 failed=0 finished=0/2
+[07:58:58] STATUS: done=0 failed=0 finished=0/2
+[07:59:28] STATUS: done=0 failed=0 finished=0/2
+[07:59:58] STATUS: done=0 failed=0 finished=0/2
+[08:00:28] STATUS: done=0 failed=0 finished=0/2

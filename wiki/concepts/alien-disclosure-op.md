@@ -26,6 +26,7 @@ Badlands commentator [[ghost-of-based-patrick-henry|GhostofBasedPatrickHenry]] r
 
 ## Sources
 
-[Original article](https://badlands.substack.com/p/badlands-blitz-episode-7)
+This page draws on multiple source articles:
 
+- [badlands blitz episode 7](https://badlands.substack.com/p/badlands-blitz-episode-7)
 - [badlands brief 740](https://badlands.substack.com/p/badlands-brief-740)
