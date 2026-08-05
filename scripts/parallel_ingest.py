@@ -90,12 +90,13 @@ def run_worker(model, provider, max_articles, worker_id, stats):
             out = r.stdout or ""
             # success = exit 0 AND the report names the CLAIMED slug AND pages
             # actually cite that slug (guards against the model ingesting a
-            # different article than the one we claimed)
+            # different article than the one we claimed). Use the LAST done:
+            # line (the prompt itself contains a "done: <raw-slug>" example,
+            # so the model's real report is the last occurrence).
             report_slug = None
             for line in out.lower().splitlines():
                 if line.startswith("done:"):
                     report_slug = line.split(":")[1].strip().split()[0]
-                    break
             ok = (r.returncode == 0 and report_slug == slug.replace(".md", "")
                   and pages_citing(slug) > 0)
             if ok:
@@ -136,6 +137,23 @@ def main():
     ap.add_argument("--articles", type=int, default=None, help="cap total articles (testing)")
     args = ap.parse_args()
 
+    # single-instance guard: refuse to start if another driver is running
+    lockfile = PROJ / "scripts" / ".parallel-ingest.lock"
+    if lockfile.exists():
+        print("ERROR: another parallel_ingest run appears active "
+              f"({lockfile}). Remove it if stale.", file=sys.stderr)
+        sys.exit(1)
+    lockfile.write_text(f"pid={os.getpid()} started={time.time():.0f}\n", encoding="utf-8")
+    try:
+        _run(args)
+    finally:
+        try:
+            lockfile.unlink()
+        except OSError:
+            pass
+
+
+def _run(args):
     # fresh log for this run
     LOG.parent.mkdir(parents=True, exist_ok=True)
     with open(LOG, "w", encoding="utf-8") as f:
@@ -151,9 +169,17 @@ def main():
         procs.append(p)
 
     # monitor until all workers finish
-    while any(p.is_alive() for p in procs):
-        time.sleep(30)
-        log(f"STATUS: done={stats['done']} failed={stats['failed']} finished={stats['workers_finished']}/{args.workers}")
+    try:
+        while any(p.is_alive() for p in procs):
+            time.sleep(30)
+            log(f"STATUS: done={stats['done']} failed={stats['failed']} finished={stats['workers_finished']}/{args.workers}")
+    except KeyboardInterrupt:
+        log("interrupted — killing workers")
+        for p in procs:
+            p.terminate()
+        for p in procs:
+            p.join(timeout=10)
+        raise
 
     for p in procs:
         p.join(timeout=10)
