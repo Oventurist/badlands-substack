@@ -1,3 +1,0 @@
-## Commentary in "Cartels, Crucibles, & Convictions" (August 2025)
-
-Reacting to the New York appellate court's ruling that the $527 million civil fraud penalty against [[donald-trump|Donald Trump]] was excessive, Herold asked when Judge [[arthur-engoron|Arthur Engoron]] — whom he called "this gremlin" — would "get held accountable for allowing the excessive fine in the first place."[{n}] On the Wednesday edition of the Devolution Power Hour he and [[burning-bright|Burning Bright]] examined newly revealed evidence of [[department-of-justice|DOJ]] corruption, arguing that investigations into the [[clinton-foundation|Clinton Foundation]] were deliberately shut down to protect political elites.[{n}]

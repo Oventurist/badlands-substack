@@ -30,3 +30,5 @@ site/docs/.vitepress/config.mjs
 site/docs/.vitepress/theme/
 site/docs/graph.md
 site/docs/public/
+.tmp144/
+.hermes/

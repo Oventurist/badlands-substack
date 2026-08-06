@@ -1,3 +1,0 @@
-## Russian allegations against Ukraine in Africa (2025)
-
-At an August 2025 Security Council briefing on threats to international peace and security, Russia's deputy representative [[dmitry-polyansky|Dmitry Polyansky]] alleged that [[ukraine|Ukraine]]'s special services, including the Defense Intelligence of Ukraine, were supplying weapons, drones and training to militants staging coordinated attacks on governments in Africa's Sahel region, and called for an investigation.[{n}] Polyansky commended the work of the UN Office of Counter-Terrorism and the Counter-Terrorism Committee Executive Directorate while criticizing the UN Secretary-General's latest report on the threat posed by [[isis|Islamic State]] in Africa.[{n}]

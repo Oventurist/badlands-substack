@@ -1,3 +1,0 @@
-## Testimony on the 2016 leak authorization
-
-Declassified memos reported in August 2025 recorded that federal prosecutors gathered evidence from Baker, then FBI general counsel, and from James Rybicki, then chief of staff to [[james-comey|James Comey]], indicating that Comey had authorized the leak of classified information to reporters just before the 2016 election.[{n}] The evidence, collected in interviews by U.S. Postal Inspection Service agents concerning material leaked to *The New York Times* in October 2016, did not result in criminal charges, and the memos were said to call into question Comey's testimony to [[congress|Congress]].[{n}]

@@ -1,5 +1,0 @@
-## Clinton Foundation criminal probe (2019)
-
-Under President [[donald-trump|Donald Trump]]'s first administration, the IRS opened a criminal tax investigation into the [[clinton-foundation|Clinton Foundation]] and its dealings with other players on the global charity stage, only to abruptly stop working with whistleblowers in the spring of 2019, according to IRS memos and internal emails obtained under the Freedom of Information Act and reviewed by Just the News.[{n}] One memo records agents saying "Can't talk about the CF" as they cut off contact with two whistleblowers, one of them a decorated former federal money laundering analyst who had testified before [[congress|Congress]] about terrorism financing.[{n}] Badlands presented the documents as evidence that [[department-of-justice|DOJ]] and IRS investigations were deliberately shut down to protect political elites.[{n}]
-
-Badlands contributor GMONEY, commenting in the same edition on Federal Reserve policy, wrote that "the Abolish the IRS movement can only succeed when enough of us stop voluntarily participating in outright theft."[{n}]
