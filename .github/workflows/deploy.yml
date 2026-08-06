@@ -58,14 +58,17 @@ jobs:
           node scripts/generate-site.mjs
 
           echo "=== build entities half ==="
-          mv docs/concepts docs/concepts.hidden
+          # dot-prefixed so VitePress ignores the hidden dir during this
+          # half's build (a non-dot name like concepts.hidden gets scanned
+          # and double-builds the whole site — 22K pages, 4.5GB artifact).
+          mv docs/concepts docs/.concepts
           npx vitepress build docs --outDir dist-entities
-          mv docs/concepts.hidden docs/concepts
+          mv docs/.concepts docs/concepts
 
           echo "=== build concepts half ==="
-          mv docs/entities docs/entities.hidden
+          mv docs/entities docs/.entities
           npx vitepress build docs --outDir dist-concepts
-          mv docs/entities.hidden docs/entities
+          mv docs/.entities docs/entities
 
           echo "=== merge halves ==="
           mkdir -p dist-final
