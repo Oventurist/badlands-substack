@@ -13,12 +13,15 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the
-# run in-progress and the latest queued — the wiki rebuild pushes hourly,
-# and only the newest build matters.
+# Only one build at a time (parallel 10K-page builds would OOM the runner).
+# NOTE: cancel-in-progress MUST be false — with hourly wiki pushes and
+# ~45-min builds, canceling the in-progress run on each new push means a
+# build never finishes (every push kills the previous one). Queued builds
+# run serially instead; each deploys when done, and the last one carries
+# the newest wiki state.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
