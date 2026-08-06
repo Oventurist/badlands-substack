@@ -74,6 +74,21 @@ def run_worker(model, provider, max_articles, worker_id, stats):
     backoff_idx = 0     # current rung on the rate-limit backoff ladder
     consecutive_rl = 0  # consecutive provider-throttle failures
     while max_articles is None or done_count < max_articles:
+        # honor the failure-watchdog cooldown: if the provider is throttling
+        # fleet-wide, sleep instead of claiming (avoids hammering the API)
+        cd = PROJ / "scripts" / ".rate-limit-cooldown"
+        if cd.exists():
+            try:
+                ts = float(cd.read_text(encoding="utf-8").strip())
+                if time.time() - ts < 600:  # 10-min cooldown window
+                    remain = int(600 - (time.time() - ts))
+                    log(f"worker{worker_id}: rate-limit cooldown active, sleeping {remain}s")
+                    time.sleep(min(remain, 120))
+                else:
+                    cd.unlink(missing_ok=True)
+            except Exception:
+                pass
+
         article = claim_article()
         if not article:
             log(f"worker{worker_id}: queue empty, done ({done_count} articles)")

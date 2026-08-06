@@ -26,17 +26,27 @@ def processed():
         return {line.strip() for line in f if line.strip()}
 
 
+def quarantined():
+    """Slugs the failure watchdog has flagged as problem articles."""
+    qf = HERE / "wiki" / ".quarantine.txt"
+    if not qf.exists():
+        return set()
+    with open(qf, encoding="utf-8") as f:
+        return {line.strip() for line in f if line.strip()}
+
+
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "next"
     if cmd == "next":
         done = processed()
+        q = quarantined()
         # skip anything claimed by a lock file (in-progress from a crashed/prior run)
         locked = set()
         for lf in glob.glob(str(PROC.parent / ".inprogress-*")):
             locked.add(lf.split(".inprogress-")[1])
         for p in sorted(glob.glob(str(RAW / "*.md"))):
             b = os.path.basename(p)
-            if b not in done and b not in locked:
+            if b not in done and b not in locked and b not in q:
                 print(p)
                 return
         print("DONE")
@@ -45,9 +55,10 @@ def main():
         # AND create its lock in one O_EXCL step, so two workers can never claim
         # the same article. Returns the path, or 'DONE'.
         done = processed()
+        q = quarantined()
         for p in sorted(glob.glob(str(RAW / "*.md"))):
             b = os.path.basename(p)
-            if b in done:
+            if b in done or b in q:
                 continue
             lf = PROC.parent / f".inprogress-{b}"
             try:
