@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, wire-service, journalism, legacy-media]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ Reuters reported exclusively in November 2025 that the [[department-of-governmen
 
 Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] accused Reuters of disseminating "lies and propaganda" about Russian intentions in order to undermine President [[donald-trump|Donald Trump]]'s diplomacy and promote escalation.[6] Reuters separately reported on Trump's December 2025 executive order [[ensuring-american-space-superiority|"Ensuring American Space Superiority"]] and the restructuring of the [[national-space-council|National Space Council]].[6]
 
+## July 2024 reporting
+
+Reuters reported on July 23, 2024 that [[donald-trump|Donald Trump]] would host Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] that Friday at Mar-a-Lago in Palm Beach, Florida — their first meeting since the end of Trump's presidency — and covered Trump's posting of a letter from Palestinian President [[mahmoud-abbas|Mahmoud Abbas]] wishing him "strength and safety" after the rally shooting.[7] The same week, a Reuters/[[ipsos|Ipsos]] poll showing [[kamala-harris|Kamala Harris]] leading Trump 44%–42% drew criticism from [[zerohedge|ZeroHedge]] over its partisan sample composition.[7]
+
 ## References
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
@@ -45,3 +49,4 @@ Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] accused Reuter
 4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 5. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+7. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

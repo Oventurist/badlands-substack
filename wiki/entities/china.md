@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, energy, oil, geopolitics, sovereign-alliance]
-sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-ea6.md]
 confidence: medium
 ---
 
@@ -91,6 +91,12 @@ On Monday, May 12, 2025, the United States and China agreed in Geneva to lower t
 
 Badlands commentary treated the episode skeptically, with [[chris-paul|Chris Paul]] arguing that "China isn't the enemy, the people in Geneva are," and noting the near-identical set of China-related deals Trump had secured in 2020 and 2025 — a trade deal, an agreement with [[xi-jinping|Xi]] to stop the fentanyl trade, and a plan for TikTok.[12]
 
+## Accusations of aiding Russia's war machine (September 2024)
+
+On Tuesday, September 10, 2024, U.S. Deputy Secretary of State [[kurt-campbell|Kurt Campbell]] said after meetings with European Union and NATO counterparts in Brussels that Beijing is giving Moscow "very substantial" help to beef up its war machine, and that in return [[russia|Russia]] is handing over closely guarded military technology on submarines and missiles.[13] Washington had previously focused on Beijing's supply of dual-use technologies applicable to military or civilian purposes, but now stated unambiguously that China is aiding the Russian military, which needs technology to sustain production under international sanctions in its war on [[ukraine|Ukraine]].[13] "These are not dual-use capabilities," Campbell said. "These are basically being applied directly to the Russian war machine."[13]
+
+[[burning-bright|Burning Bright]] argued that the Media Industrial Complex would use such statements to cast an emergent Russia–China–Iran military triumvirate as a "New Axis" posing an existential threat to the Globalist West, noting that Russia had announced its "Ocean 2024" global military exercises which China would join, while both backed Iran publicly amid spiraling Israel chaos.[13] He predicted [[donald-trump|Donald Trump]] would allow this narrative before codifying peace and trade deals already settled.[13]
+
 ## References
 1. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -104,3 +110,4 @@ Badlands commentary treated the episode skeptically, with [[chris-paul|Chris Pau
 10. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 11. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 12. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+13. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

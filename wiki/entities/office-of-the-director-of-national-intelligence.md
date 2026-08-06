@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, odni, gabbard, declassification]
-sources: [raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-brief-ea5.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-f14.md]
 confidence: medium
 ---
 
@@ -86,3 +86,9 @@ The [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], signed on March
 11. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 12. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 13. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## 2024 election security finding
+
+On Friday, September 6, 2024, ODNI announced that it had not "observed" any foreign interference in the 2024 election.[14] The finding was published by its [[foreign-malign-influence-center|Foreign Malign Influence Center]] in a two-page report stating that the intelligence community "has not observed any foreign actor seeking to interfere in the conduct of the 2024 elections," while noting that Russia "poses the most active foreign influence threat" to the election.[14] The report was first reported by Natalie Winters of the Steve Bannon WarRoom podcast and was widely read as undercutting warnings about foreign influence issued days earlier by Attorney General [[merrick-garland|Merrick Garland]], warnings critics said had been used to smear conservative pundits.[14]
+
+14. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14

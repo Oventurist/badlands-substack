@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, trump, russia, books]
-sources: [raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-860.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ Trump campaign spokesman [[steven-cheung|Steven Cheung]] told Axios that the boo
 
 Badlands contributor GhostofBasedPatrickHenry treated the book's release as "a hell of a narrative deployment," arguing that the portrait of easy Trump–Putin fraternity was, if anything, flattering to Trump and consistent with the Badlands concept of a "Sovereign Alliance" of national leaders.[1] The commentary suggested the Cheung statement had plainly been dictated by Trump himself, and read the Graham material as "a shot across the bow" at the South Carolina senator.[1] The quoted Biden remark about Netanyahu was described as believable, on the theory that Biden is kept peripheral to policy while figures such as [[antony-blinken|Antony Blinken]] and [[jake-sullivan|Jake Sullivan]] are "in" on events.[1]
 
+## Trump lawsuit over "The Trump Tapes" (2023)
+
+In late January 2023, former President [[donald-trump|Donald Trump]] sued Woodward, along with publisher [[simon-and-schuster|Simon & Schuster]] and its parent [[paramount-global|Paramount Global]], seeking at least $49,980,000 over the sale of audio recordings of Woodward's interviews with him.[2] Trump asserted that he had never consented to the public sale of the tapes, and the damages figure rested on an estimate that the audiobook "The Trump Tapes" had sold more than two million copies at $24.99 apiece.[2]
+
+Badlands Media contributor [[chris-paul|Chris Paul]] wrote that Woodward and his partners had recorded Trump for the purpose of writing a book and then "doctored and sold the recordings," changing both the words and their context.[2] Paul argued that the most interesting element of the [[trump-v-woodward-lawsuit|lawsuit]] was the conversation deliberately left out of the released audio, which in his account amounted to a total refutation of the basis for the Ukraine impeachment effort.[2]
+
 ## References
 1. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+2. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

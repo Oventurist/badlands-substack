@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lawfare, new-york, trump-investigations, civil-fraud-case]
-sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -44,6 +44,18 @@ Michael Cohen, as Donald Trump's former personal attorney, made the alleged 2016
 
 When Justice [[juan-merchan|Juan M. Merchan]] loosened the gag order in [[donald-trump|Donald Trump]]'s Manhattan criminal case on June 25, 2024, the ruling expressly freed Trump to complain publicly about prosecution witnesses including his former fixer Michael D. Cohen.[6]
 
+## May 2024 testimony collapse and theft admission
+
+On Monday, May 20, 2024, during the first criminal trial of an American president, Cohen — billed as the prosecution's star witness — admitted on the stand to stealing from the [[trump-organization|Trump Organization]], and the prosecution rested its case that day.[7] Badlands contributor [[ashe-in-america|Ashe in America]] noted that Cohen had earlier been shown to have been complaining about a 14-year-old prankster at the moment he claimed to be speaking with Trump about the [[stormy-daniels|Stormy Daniels]] payoff, and that a secret recording framed as Trump discussing a hush-money payment likewise failed to support his account.[7] After the recording fell flat, outlets pivoted to claiming the tape confirmed a "Mafia code," which Ashe characterized as the media lying about Cohen's lie.[7] Ashe argued Cohen admitted stealing because he "felt entitled to money that wasn't his," and called the spectacle "so hilarious and nonsensical, it almost doesn't seem real."[7]
+
+## Cross-examination by Todd Blanche, May 2024
+
+On May 16, 2024, Cohen was subjected to a punishing cross-examination by Trump defense attorney [[todd-blanche|Todd Blanche]] in the Manhattan "hush money" trial, an exchange described as having his "knees chopped out."[8] Blanche pressed Cohen over a pivotal October 2016 phone call that prosecutors used to connect Trump to the approval of reimbursements for the payment to [[stormy-daniels|Stormy Daniels]] during the 2016 election, accusing Cohen of lying about having spoken to Trump to reassure him that the payment was being handled.[8] Blanche then produced text messages contradicting the account, showing that Cohen had in fact spoken with Trump's bodyguard [[keith-schiller|Keith Schiller]].[8]
+
+Cohen appeared blindsided and wavered in his recollection before blurting out, "I believe I was telling the truth!"[8] Blanche further confronted Cohen over his testimony to Congress that he had not wanted to work in the [[trump-administration|Trump administration]], contrasting it with 2016 conversations in which Cohen expressed disappointment at being overlooked for the role of chief of staff.[8] Cohen also lied about having sought a pardon from Trump, an error his attorneys later had to correct by public statement.[8]
+
+The collapse startled commentators at [[cnn|CNN]], where host [[anderson-cooper|Anderson Cooper]] said, "It was incredible ... lawyers want to build a box around the witness & slam it shut — that's what Todd Blanche did to Cohen ... it was an extraordinary cross ... Cohen was cornered in ... a lie."[8] Badlands contributor [[burning-bright|Burning Bright]] framed the episode as the moment the prosecution's star witness was publicly shown to have lied, and read the wider lawfare campaign as Trump baiting the media into "one last gasp" of breathless predictions of his downfall.[8]
+
 ## References
 1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 2. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
@@ -51,3 +63,5 @@ When Justice [[juan-merchan|Juan M. Merchan]] loosened the gag order in [[donald
 4. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 5. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
 6. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+7. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+8. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, hostages, bill-clinton, 2009, diplomacy]
-sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md]
+sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -99,3 +99,15 @@ Badlands contributor Burning Bright read the episode through [[donald-trump|Dona
 9. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 10. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 11. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+12. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+
+## Suspected hypersonic warhead test (January 2025)
+
+On Monday, January 6, 2025, North Korea fired a ballistic missile with a suspected hypersonic warhead into the East Sea, according to South Korea's Joint Chiefs of Staff.[12] The weapon was launched from the Pyongyang area at around noon and travelled roughly 1,100 kilometres before landing in the water.[12] The JCS noted that the flight was shorter than that of a typical intermediate-range ballistic missile, which can travel 3,000 to 5,500 kilometres, but an official suggested it could carry a hypersonic warhead similar to those tested by North Korea in 2024; such missiles are valued for high speed that makes interception harder.[12] Yonhap News Agency reported that a weapon of this type could potentially strike US military bases on [[guam|Guam]], about 3,400 kilometres from Pyongyang.[12] North Korea had not confirmed the launch.[12]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] rejected the report outright, arguing that North Korean hypersonic capability would hardly be shocking given the country's alignment with Iran, Russia and China, and that Western commentators are invested in portraying the Global South as primitive.[12] He recalled prior Badlands reporting that [[kim-jong-un|Kim Jong Un]] had followed [[donald-trump|Trump]]'s advice in converting a beach historically used for missile testing into a luxury tourism resort, and mocked both the Guam strike scenario and unverified claims of North Korean troops deployed in Ukraine, closing with the hope that Trump would invite Kim to the inauguration — a suggestion tied to Dennis Rodman's description of the North Korean leader as a "big kid" who wants to travel and have a good time.[12]
+
+## Beijing debut of Kim Ju-ae and succession speculation (2025)
+
+The appearance of [[kim-jong-un|Kim Jong-un]]'s daughter [[kim-ju-ae|Kim Ju-ae]] in China ahead of [[xi-jinping|Xi Jinping]]'s September 2025 "victory day" parade fueled speculation that she is being groomed to become the first female ruler of North Korea.[13] State media photos showed her stepping off her father's heavily armoured train in Beijing to be greeted by Chinese officials.[13] If she is her father's preferred successor, as many analysts believe, she would be the fourth member of the Kim family to rule the country since its founding by Kim Il-sung in 1948.[13] The same week, President [[donald-trump|Donald Trump]] accused China, Russia and North Korea of conspiring against the United States.[13]
+13. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

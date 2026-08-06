@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, labor, h-1b, guest-workers, america-first]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9cd.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -51,3 +51,12 @@ Amid renewed debate over the program at the start of 2025, Teamsters Union Presi
 3. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 5. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
+
+## Musk's call for "major reform" (December 2024)
+
+On Sunday, December 29, 2024, in what Breitbart described as a surprising reversal, [[elon-musk|Elon Musk]] labeled the H-1B visa system "broken" and said it needed significant changes, despite having loudly defended the program in the preceding days.[6] The Tesla chief had clashed with supporters of [[donald-trump|Donald Trump]] over H-1B visas and immigration.[6] Responding to a post on X, the platform he owns, Musk said he had been "very clear" that the current program is dysfunctional and requires a major overhaul, and proposed an "easy fix": significantly raising the minimum salary requirement and adding a yearly cost for maintaining the visa, "making it materially more expensive to hire from overseas than domestically."[6]
+
+Badlands commentary framed the episode as an operation observed in real time, arguing that Trump's tariffs enforce game theory at the manufacturing level and that the same logic should and would be applied to employment: firms unable to survive by hiring and training Americans should relocate abroad, though tech companies given the choice would choose the United States every time.[6] The commentary held that when oligarchs speak of a skill gap they mean skill per dollar — profits — counting on foreign workers to undercut Americans while remitting earnings abroad, and that the remedy is "mutually assured sovereign game theory" incentivizing each nation to produce from within.[6] Being America First, the piece concluded, means being American first.[6]
+
+A related report that [[susie-wiles|Susie Wiles]] had ordered all intended nominees to stop posting on social media was read as a signal that Trump did not share Musk's enthusiasm for the program.[6]
+6. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

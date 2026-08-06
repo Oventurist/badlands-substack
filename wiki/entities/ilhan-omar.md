@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, minnesota, democratic-party, immigration]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-25c.md, raw/badlands-brief-40d.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-cff.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-25c.md, raw/badlands-brief-40d.md, raw/badlands-brief-b82.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -59,3 +59,9 @@ In August 2025, [[guhaad-hashi-said|Guhaad Hashi Said]], a former associate and 
 5. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 6. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 7. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
+
+## 2024 remarks on Somalia and dual loyalty
+
+Badlands contributor [[ashe-in-america|Ashe in America]] revisited a 2024 statement attributed to Omar in which she said, "We Somalis must have that confidence in ourselves that we are able to do what we want to do. ... We live in this country, we pay taxes in this country, and we have a real voice in this country. This is a country in which one of your own sits in Congress to represent your interests. ... As long as I'm in Congress, Somalia will never be at risk of its waters being stolen by Ethiopia or others. The U.S. will not dare to support anyone against us, to steal our land or our oceans."[8] Ashe noted that captions circulating with the videos had been described as misleading while the translation itself was assessed as accurate, and argued the statement evidenced dual loyalty, since Omar sits in [[congress|Congress]] to represent all constituents of her district rather than the interests of Somalia.[8] She added that Omar was reportedly under investigation for immigration fraud, though the statute of limitations posed an obstacle, and connected the issue to Governor [[tim-walz|Tim Walz]]'s December 2025 pledge to welcome more Somali immigrants to Minnesota.[8]
+
+8. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

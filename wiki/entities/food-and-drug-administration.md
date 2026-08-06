@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agency, fda, medical-devices, regulation]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f61.md]
 confidence: low
 ---
 
@@ -111,6 +111,14 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that PETA was sim
 
 In December 2023 [[america-first-legal|America First Legal]] sued the FDA and the [[department-of-health-and-human-services|Department of Health and Human Services]] for failing to turn over documents concerning the government's suppression of the COVID-19 treatments [[hydroxychloroquine|hydroxychloroquine]] and [[ivermectin|ivermectin]].[21] AFL had filed [[freedom-of-information-act|Freedom of Information Act]] requests with both agencies in August and September 2022 and received tracking numbers, but neither agency produced responsive records.[21] The requests sought to establish when and why officials, including [[anthony-fauci|Anthony Fauci]], discouraged the two drugs.[21] Badlands commentary accused the FDA and other agencies of "obscuring, obfuscating and even withholding valuable information from the public" that might have saved lives.[21]
 
+## Simplification of COVID-19 vaccine dosing (2023)
+
+In a change authorized in 2023 and reported by AAP News, the FDA moved all mRNA COVID-19 vaccines to bivalent formulations and provided that most unvaccinated people would need only a single dose, while unvaccinated young children would continue to require multiple doses.[22] The agency simultaneously authorized an additional bivalent booster dose for vaccinated people who were immunocompromised or at least 65 years old.[22] Badlands contributor [[johnny-q|Johnny Q]] treated the simplification, alongside contemporaneous reporting on immune exhaustion and vaccinated-attendee outbreaks, as a concession that "we were all duped as a society," calling for "transparency and accountability, not employee mandates, kids kept home from school, churches closed, and Covid passports."[22]
+
+## Criticism in the 2023 Newsweek scientific mea culpa
+
+A January 2023 [[newsweek|Newsweek]] opinion essay identified the FDA, together with the [[centers-for-disease-control-and-prevention|CDC]] and the [[world-health-organization|WHO]], as having repeatedly overstated the evidence and misled the public about its own views and policies during the COVID-19 response, including on vaccine effectiveness and safety, especially among the young.[23] The author described these as scientific mistakes apparent at the time rather than only in hindsight.[23]
+
 ## References
 
 
@@ -135,3 +143,11 @@ In December 2023 [[america-first-legal|America First Legal]] sued the FDA and th
 19. Badlands Brief — "The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
 20. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 21. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+22. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+23. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+
+## Concession on ivermectin prescribing (August 2023)
+
+During oral arguments on August 8, 2023 before the [[us-court-of-appeals-for-the-fifth-circuit|U.S. Court of Appeals for the 5th Circuit]], Ashley Cheung Honold, a [[us-department-of-justice|Department of Justice]] lawyer representing the FDA, told the court that "FDA explicitly recognizes that doctors do have the authority to prescribe ivermectin to treat COVID."[24] The government was defending the agency's repeated public exhortations against taking [[ivermectin|ivermectin]] for COVID-19, including its viral August 21, 2021 post on X reading "You are not a horse. You are not a cow. Seriously, y'all. Stop it," which linked to an FDA consumer page advising against the drug.[24] The case had been brought by three doctors who alleged the agency unlawfully interfered with their practice of medicine; a federal judge dismissed it in 2022 and the doctors appealed, with their attorney Jared Kelson arguing that once the FDA approves a human drug it has no authority to interfere within the doctor-patient relationship.[24]
+
+24. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

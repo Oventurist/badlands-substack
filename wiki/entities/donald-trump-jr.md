@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-family, politics, media]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-dae.md]
 confidence: medium
 ---
 
@@ -36,6 +36,14 @@ Donald Trump Jr. voiced strong opposition to the prospect of [[nikki-haley|Nikki
 
 Trump Jr. co-wrote an op-ed with [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] published in The Hill in September 2024 calling for negotiations with Moscow to end the Ukraine war and prevent nuclear devastation.[6] The authors argued that permitting Ukraine to strike deep inside Russia with NATO-provided long-range weapons would leave no remaining step before a nuclear exchange, that no vital American interest was at stake, and that risking such a conflict for "full-spectrum dominance" was madness.[6] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] praised the piece as getting to the heart of the issue.[6]
 
+## Greenland visit (January 2025)
+
+On January 7, 2025, Trump Jr. arrived in [[greenland|Greenland]] for what was described as a personal visit, coming as his father renewed his suggestion that the Danish territory should become part of the United States.[7] The trip drew wide coverage because President-elect [[donald-trump|Donald Trump]] had repeatedly floated buying the island — writing on Truth Social in December 2024 that the US should take control of it "for purposes of National security and Freedom" — while [[denmark|Denmark]] and Greenland firmly rejected the idea.[7]
+
+## UFC 309 appearance
+
+Trump Jr. was part of his father's entourage at [[ufc-309|UFC 309]] at Madison Square Garden in November 2024, walking in behind the president-elect with [[elon-musk|Elon Musk]], [[mike-johnson|Mike Johnson]], [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] and [[tulsi-gabbard|Tulsi Gabbard]].[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 2. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
@@ -43,3 +51,5 @@ Trump Jr. co-wrote an op-ed with [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] p
 4. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 5. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 6. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+7. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+8. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae

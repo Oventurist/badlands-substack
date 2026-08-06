@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sahel, africa, wagner-group, counterterrorism, russia]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -34,8 +34,13 @@ A spokesman for Ukraine's [[main-directorate-of-intelligence|GUR]], [[andrey-yus
 
 Ahead of the Russian defence delegation's visit to [[burkina-faso|Burkina Faso]] in late August 2023, the group — headlined by the [[wagner-group|Wagner Group]] — was in the Malian capital Bamako, where Reuters reported Wagner militants were assisting the army against Islamist militants.[4] Mali had fallen to a coup in August 2020, when a group of Malian colonels ousted President Ibrahim Boubacar Keïta following anti-government protests, corruption allegations and contested legislative elections.[4]
 
+## Nuclear energy cooperation with Russia (2025)
+
+On Tuesday, June 24, 2025, the Russian state nuclear corporation [[rosatom|Rosatom]] announced that Russia and Mali had agreed to expand cooperation in the peaceful use of nuclear energy, in a deal spanning infrastructure development, joint healthcare and agriculture projects, and the training of Malian specialists.[5] The agreement followed a meeting the previous day between President [[vladimir-putin|Vladimir Putin]] and Mali's interim president General [[assimi-goita|Assimi Goita]], at which Putin highlighted geological exploration, natural resources, energy, logistics and humanitarian fields as areas for cooperation.[5] It built on a memorandum on nuclear cooperation signed in October 2023.[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that some 45 percent of Mali's population lacks access to electricity and suggested the Sahel states could become the definitive case study in how quickly a nuclear energy program can transform a society.[5] See [[russia-mali-nuclear-energy-agreement|the Russia–Mali nuclear energy agreement]].[5]
+
 ## References
 1. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 2. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 3. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 4. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+5. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

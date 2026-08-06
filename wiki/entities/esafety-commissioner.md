@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [censorship, australia, regulators, free-speech, social-media]
-sources: [raw/badlands-news-brief-2db.md]
+sources: [raw/badlands-news-brief-2db.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ The demand backfired: the offending post was re-shared in a different format and
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] treated the case as evidence that censorship had reached "the forefront of the Collective Mind in 2024," with Musk positioned "at the tip of the spear" of pushback against the [[censorship-industrial-complex|Censorship Industrial Complex]].[1] In that reading Musk was operating as a proxy on the Culture War front, backing or engaging in legal campaigns against government-connected and government-funded institutions and pushing back on both foreign and domestic administrative overreach.[1] The lawsuits, Burning Bright argued, were educating "the Normie Layers of the Collective Mind" as to the systemic nature of censorship, setting precedents capable of bringing "the whole house of cards down."[1]
 
+## The 2024 X litigation
+
+Under the Online Safety Act (2021), the eSafety Commissioner — [[julie-inman-grant|Julie Inman Grant]] — has authority to order removal of "class 1 material" within Australia under threat of hefty fines.[2] In April 2024 eSafety obtained a temporary injunction compelling [[x-corp|X]] to remove footage of the Wakeley church stabbing, an alleged religiously motivated terror attack, and argued that X had not gone far enough because Australian geo-blocking can be bypassed with a VPN.[2]
+
+X countered that eSafety was effectively seeking a global content ban outside the Australian regulator's jurisdiction.[2] Following a hearing on Friday 10 May 2024 and an extension of the expiring injunction to allow time for judgment, Justice [[geoffrey-kennett|Geoffrey Kennett]] refused the extension on 13 May 2024, stating that the application to extend was refused; eSafety said the matter would return for a case management hearing on Wednesday 15 May 2024.[2]
+
 ## References
 1. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
+2. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

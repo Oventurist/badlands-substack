@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, governor, pardon, self-defense]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-b19.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-db1.md]
 confidence: medium
 ---
 
@@ -57,3 +57,6 @@ The dispute came to a boiling point at [[eagle-pass-border-standoff|Eagle Pass]]
 5. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
 6. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43
 7. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+## Blame for the 2024 migrant influx
+Reporting on the [[cbp-one-parole-flights|CBP One parole flights]] program in March 2024 noted that large immigrant-receiving cities and much of the media laid blame for the migrant influx on Abbott's Texas busing program, even as [[customs-and-border-protection|CBP]] itself had flown 320,000 inadmissible aliens into roughly 43 U.S. airports during 2023.[8]
+8. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1

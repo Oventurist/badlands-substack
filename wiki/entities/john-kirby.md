@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, spokesman, pentagon, white-house]
-sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-ac7.md]
+sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-d6a.md]
 confidence: medium
 ---
 
@@ -60,6 +60,12 @@ At a White House press briefing in late June 2023, amid revelations that the [[j
 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] described the briefing as "the perfect physical manifestation of the current state of panic and disarray" in the [[deep-state|Deep State]], writing that Kirby and Jean-Pierre "can barely hold it together in the face of the slightest scrutiny."[8]
 
+## February 2024 Russia sanctions announcement
+
+On the morning of Tuesday, February 20, 2024, Kirby announced that the [[white-house|White House]] would unveil a new "major sanctions" package that Friday "to hold Russia accountable" for the death of Russian opposition politician [[alexei-navalny|Alexei Navalny]].[9] "Whatever story the Russian government decides to tell the world, it's clear that President [[vladimir-putin|Putin]] and his government are responsible for Mr. Navalny's death," Kirby said, adding that the package would be announced "at President [[joe-biden|Biden]]'s direction."[9] He declined to detail its contents but noted the sanctions would also serve to hold Russia accountable for its ongoing war with Ukraine.[9]
+
+Badlands contributor [[burning-bright|Burning Bright]] argued the announcement provided "the illusion of mandate" for sanctions that would not work, pointing to Russia's rising GDP and strengthening currency, and framed the episode as an application of the [[hegelian-dialectic|Hegelian Dialectic]] following Putin's interview with [[tucker-carlson|Tucker Carlson]].[9]
+
 ## References
 1. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -69,3 +75,4 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] described the briefing as "th
 6. Badlands Brief — "Orange Man Reruns & Scandals Galore", URL: https://badlands.substack.com/p/badlands-news-brief-536
 7. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 8. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
+9. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

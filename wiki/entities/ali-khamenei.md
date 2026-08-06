@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, supreme-leader, iran-war, middle-east]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-d21.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -94,3 +94,9 @@ As Iran waited on high alert in late January 2024 to see how [[joe-biden|Joe Bid
 12. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 13. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 14. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+
+
+## Response to the June 2025 Israeli campaign
+During Israel's [[operation-rising-lion|Operation Rising Lion]] air campaign in June 2025, Khamenei said Iran would not surrender and warned that any US military intervention would bring irreparable consequences.[15] His statement came as President [[donald-trump|Donald Trump]] publicly repeated a demand for Iran's unconditional surrender while reportedly approving attack plans without issuing a final order.[15]
+
+15. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

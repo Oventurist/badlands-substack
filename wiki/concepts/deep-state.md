@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, narrative, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dae.md]
 confidence: medium
 ---
 
@@ -75,6 +75,18 @@ In the March 21, 2023 [[badlands-news-brief|Badlands News Brief]], [[burning-bri
 
 In the March 21, 2023 [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] argued that whatever COVID ultimately was — a virus, a bioweapon or a PsyOp — its net effects were catastrophic to the world and Deep State elements were responsible, and that being forced to declassify material it had previously withheld indicated the Deep State was losing ground in the Mind War.[11] In the same issue [[justin-deschamps|Justin Deschamps]] wrote that the premise that [[xi-jinping|Xi Jinping]] and [[vladimir-putin|Vladimir Putin]] were cooperating in a global white hat sting operation against the Deep State had not been invalidated, arguing the globalist agenda requires pandemics, superpower wars and collapses in food, energy and finance that a Sino-Russian bloc could refuse to participate in.[11]
 
+## Badlands commentary, August 2024
+
+The August 23, 2024 Badlands News Brief cast the Deep State as the target of converging pressure: [[donald-trump|Donald Trump]]'s campaign announcement that he would seek the death penalty for child rapists and traffickers, and [[vladimir-putin|Vladimir Putin]]'s speeches accusing Western elites of satanism and of trying to normalize pedophilia.[12] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] also charged the intelligence community with "pure, unadulterated sociopathy" for mocking Trump's refusal of intelligence briefings after years of public threats against him and its silence following the attempt on his life.[12]
+
+## Assange as a Deep State adversary (2024 commentary)
+
+Writing in February 2024, Badlands contributor [[simon-esler|Simon Esler]] placed [[julian-assange|Julian Assange]] at the centre of the power struggle between [[donald-trump|Donald Trump]] and the Deep State, arguing that Assange destroyed the narrative blaming Russians for the DNC hack that exposed [[hillary-clinton|Hillary Clinton]] and had undermined deep state operations by exposing corruption within the [[five-eyes|Five Eyes]] networks.[13] Esler argued that a judge with a long history of work for intelligence agencies is precisely the sort of figure Assange might have exposed, making the assignment of Justice [[jeremy-johnson|Jeremy Johnson]] to the extradition appeal especially dangerous.[13]
+
+## The 2024 transition vetting fight
+
+Reporting on the [[trump-transition-fbi-background-check-bypass|Trump transition's bypass of FBI background checks]] in November 2024 tied the decision to the president-elect's deep mistrust of the national security establishment, which he derides as the Deep State.[14] Sources said Trump had privately questioned the need for law enforcement background checks at all, and national security attorney Dan Meyer said the incoming administration wanted not to coordinate norms but "to hammer the norm."[14] Badlands Media concluded its commentary on the episode with the line "Deep State most affected."[14]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
@@ -87,3 +99,6 @@ In the March 21, 2023 [[badlands-news-brief|Badlands News Brief]], [[burning-bri
 9. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 10. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 11. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+12. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+13. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+14. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae

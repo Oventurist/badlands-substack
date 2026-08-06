@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, regime-change, proxy-war, middle-east]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-98d.md, raw/badlands-brief-a9f.md, raw/badlands-brief-eea.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-c18.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-98d.md, raw/badlands-brief-a9f.md, raw/badlands-brief-eea.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-ea6.md]
 confidence: medium
 ---
 
@@ -75,6 +75,16 @@ Badlands framed Syria's geography as the underlying reason for its destruction.[
 
 On the evening of Tuesday, 10 October 2023, the Syrian Army fired missiles toward the Israeli-occupied [[golan-heights|Golan Heights]], an attack confirmed by the Israeli Defense Force.[10] Commentators said the strike raised the risk of a broader conflict spiralling outward, given the earlier exchange of fire in northern Lebanon between [[israel|Israel]] and likely [[hezbollah|Hezbollah]] positions.[10] [[al-jazeera|Al Jazeera]] senior correspondent Zeina Khodr described the mortar and rocket fire from Syria as a message to Israel from a new front and raised the prospect of a "multi front assault."[10] The exchange occurred within an hour of President [[joe-biden|Joe Biden]] announcing that the United States would begin "surging" defense aid to Israel.[10]
 
+## Damascus church suicide bombing (2025)
+
+Syria's health ministry said at least 25 people were killed and 63 wounded in a suicide bombing at the Greek Orthodox Church of the Prophet Elias in the Dweila neighbourhood of Damascus.[11] According to the interior ministry, a man opened fire during an evening service before detonating an explosive vest, and the attacker was affiliated with [[islamic-state|Islamic State]], though the group made no immediate claim.[11] See [[2025-damascus-church-suicide-bombing|the 2025 Damascus church suicide bombing]].[11]
+
+## Saudi embassy reopening (September 2024)
+
+On Monday, September 9, 2024, the embassy of [[saudi-arabia|Saudi Arabia]] reopened in Damascus after twelve years of severed ties, with Saudi Chargé d'affaires Abdullah al-Haris vowing at the ceremony to promote Damascus–Riyadh ties and calling the moment significant in the history of the two countries' relations.[13] Syria's Assistant Minister of Foreign Affairs and Expatriates Ayman Raad said the step, following the reopening of the Syrian embassy in Riyadh the previous October, would help bolster bilateral relations and improve joint Arab initiatives.[13] Ties had been cut at the start of the war on Syria, as the West sought through regional proxies to overthrow President [[bashar-al-assad|Bashar al-Assad]]; for over a year regional Arab states had moved to mend ties after his government maintained legitimacy and regained most of its territory.[13]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that the reconciliation of Damascus and Riyadh demonstrates that "the Middle East is healing," with generations of tribal strife exploited and exacerbated by western oligarchs being resolved and hatchets buried, and that peace in the region is happening in spite of every effort to thwart it.[13] He tied Syria's twelve-year isolation to [[hillary-clinton|Hillary Clinton]]'s role in having the country expelled from the [[arab-league|Arab League]], and traced the origins of the [[isis|ISIS]] insurgency inside Syria to weapons taken from [[muammar-gaddafi|Muammar Gaddafi]]'s armory after his overthrow and sent to "freedom fighters."[13]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "There is “Nothing Bigger” Than Tonight’s Election Speech", URL: https://badlands.substack.com/p/badlands-brief-98d
@@ -87,3 +97,11 @@ On the evening of Tuesday, 10 October 2023, the Syrian Army fired missiles towar
 
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 10. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+11. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+
+## Saudi settlement of World Bank arrears (April 2025)
+
+In April 2025, Reuters reported that [[saudi-arabia|Saudi Arabia]] planned to pay off Syria's debt to the [[world-bank|World Bank]], a move that could unlock international financing for reconstruction.[12] Approximately $15 million in arrears had to be cleared before the institution could issue grants and other assistance, and continuing US sanctions made international transactions difficult.[12] Syria's change of power in late 2024 — when [[hayat-tahrir-al-sham|Hayat Tahrir al-Sham]] took Damascus and ousted [[bashar-al-assad|Bashar Assad]], with [[ahmed-al-sharaa|Ahmed al-Sharaa]] becoming president and forming a transitional government in March 2025 — was the precondition for the shift.[12] Badlands commentary observed that Syria had been under heavy sanctions since 2004 yet its economy thrived until the rise of ISIS in 2011, and linked the sanctions' timing to Assad's plan for an international rail network connecting Iran to Turkey, Egypt, and Saudi Arabia with Aleppo as the hub.[12] See [[saudi-payment-of-syrias-world-bank-debt|Saudi payment of Syria's World Bank debt]].[12]
+
+12. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+13. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

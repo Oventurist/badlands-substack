@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, judiciary-committee, oversight, declassification, treason]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f7d.md]
 confidence: medium
 ---
 
@@ -97,6 +97,10 @@ Grassley said he had obtained the material "through legally protected whistleblo
 
 In the inaugural issue of [[capitol-times-magazine|Capitol Times Magazine]] in June 2023, [[patrick-byrne|Patrick Byrne]] wrote that in 2006 the Senate Judiciary Committee's chairman told him that the committee's power "transcended everything else within government," that systemic corruption was taking over the U.S. government, and that the country needed him to disrupt it.[17] Byrne named a bipartisan group of senators who engaged him for that purpose, a group he said included Grassley.[17]
 
+## Secret Service oversight (July 2024)
+
+At the Senate hearing of July 30, 2024 into the attempted assassination of [[donald-trump|Donald Trump]] at Butler, Pennsylvania, Grassley went hard at the communication failures that marked the [[united-states-secret-service|Secret Service]] response on July 13, questioning Acting Director [[ronald-rowe|Ronald Rowe]] and FBI Deputy Director [[paul-abbate|Paul Abbate]].[21]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -115,3 +119,43 @@ In the inaugural issue of [[capitol-times-magazine|Capitol Times Magazine]] in J
 15. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 16. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 17. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+
+## Staff claims about the Hunter Biden prosecution
+
+In June 2023, [[mike-davis|Mike Davis]], identified as Grassley's former Chief Counsel on the Senate Judiciary Committee, publicized the claim that federal prosecutor [[derek-hines|Derek Hines]] had been special counsel to former FBI Director [[louis-freeh|Louis Freeh]] before Freeh gave $100,000 to trusts for two of [[joe-biden|Joe Biden]]'s grandchildren — a conflict raised against the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]].[18]
+
+18. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+
+## Burisma FD-1023 recordings
+
+Ahead of [[christopher-wray|Christopher Wray]]'s [[2023-wray-house-judiciary-testimony|July 2023 House Judiciary testimony]], Grassley said secret recordings between the owner of [[burisma|Burisma]] and the Bidens "were allegedly kept as a sort of insurance policy for the foreign national in case he got into a tight spot," and that the FD-1023 also indicated then-Vice President [[joe-biden|Joe Biden]] may have been involved in Burisma employing [[hunter-biden|Hunter Biden]].[19] He added that the FBI made Congress review a redacted unclassified document inside a classified facility, which "goes to show you the disrespect the FBI has for Congress."[19]
+
+19. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## Denial of a second Patel hearing (February 2025)
+
+As chairman of the Senate Judiciary Committee, Grassley swiftly denied a request by committee Democrats for a second hearing to question [[kash-patel|Kash Patel]], President [[donald-trump|Donald Trump]]'s nominee to lead the [[fbi|FBI]], in February 2025.[20] The Democrats had argued that Patel would put fealty to the president ahead of his duties as director and accused him of helping, from outside the federal government, to orchestrate the agency's recent leadership shakeup.[20] The nomination advanced regardless, with the [[united-states-senate|Senate]] voting 48-45 on February 18 to take it up in Executive Session.[20]
+
+20. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+21. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+
+## Iran-backed assassination plot disclosures (September 2024)
+
+On Thursday, September 5, 2024, Grassley released FBI records showing that Iranian-backed plotters had sought to assassinate former President [[donald-trump|Donald Trump]] and other prominent American political figures in relation to the killing of [[qasem-soleimani|Qasem Soleimani]], head of the Quds Force of Iran's Islamic Revolutionary Guard Corps.[22] The records, provided to Grassley through legally protected whistleblower disclosures, indicated that Iran potentially targeted "politicians, military people or bureaucrats," including President [[joe-biden|Joe Biden]], Trump, and former candidate [[nikki-haley|Nikki Haley]].[22]
+
+"Bad actors are determined to wreak havoc on our country, and American political leaders across both parties are sitting squarely in the crosshairs," Grassley said in an accompanying statement, adding that in an "extraordinarily heightened threat environment" federal agencies should be "laser focused on building up public trust and reassuring the American people of their efforts to carry out their protective missions."[22] He pledged that he would not stop pressing for answers "until Congress and the American people are afforded the transparency they deserve."[22]
+
+22. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
+
+## Patel–Schiff hearing (September 2025)
+
+As chairman of the [[senate-judiciary-committee|Senate Judiciary Committee]], Grassley presided over the September 2025 hearing at which FBI Director [[kash-patel|Kash Patel]] and Senator [[adam-schiff|Adam Schiff]] fell into a shouting match over the transfer of [[ghislaine-maxwell|Ghislaine Maxwell]] to a lower-security prison facility.[23] According to Badlands commentary on the exchange, Grassley at one point appeared to cut Schiff's microphone and allow Patel to continue yelling at him unopposed.[23]
+
+## FD-1023 floor disclosure (June 2023)
+
+On June 12, 2023, Grassley read on the Senate floor from a largely unredacted version of the FBI's [[fd-1023-confidential-human-source-form|FD-1023 confidential human source form]], revealing that the foreign national who allegedly bribed [[joe-biden|Joe Biden]] and [[hunter-biden|Hunter Biden]] claimed to possess 17 audio recordings of his conversations with them.[24] He specified fifteen recordings of calls with Hunter Biden and two with then-Vice President Joe Biden, and said the recordings had allegedly been kept "as a sort of insurance policy for the foreign national in case he got into a tight spot."[24]
+
+Grassley added that the FBI record indicated then-Vice President Biden "may have been involved in Burisma employing Hunter Biden," referring to [[burisma|Burisma]] and its owner [[mykola-zlochevsky|Mykola Zlochevsky]].[24] Badlands commentators responded with the refrain "Trust Grassley," criticized the FBI's redactions to the document sent to Congress as lacking any plausible national-security justification, and read the disclosure alongside [[donald-trump|Donald Trump]]'s federal indictment as evidence that investigations were converging.[24]
+
+23. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+24. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d

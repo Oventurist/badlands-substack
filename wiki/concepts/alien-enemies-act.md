@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [immigration, law, deportation]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b0d.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -65,6 +65,16 @@ Trump had invoked the Act earlier that month and within hours deported more than
 
 In a filing to Boasberg's court the same Monday, the administration declared it was done entertaining what Badlands called unconstitutional theater, arguing that the case concerns "the President's plenary authority, derived from Article II and the mandate of the electorate, and reinforced by longstanding statute, to remove from the homeland designated terrorists participating in a state-sponsored invasion of, and predatory incursion into, the United States," and that the state secrets privilege forecloses further demands for details.[8] [[ashe-in-america|Ashe in America]] argued the federal district courts were "rapidly spiraling into illegitimacy," noting they depend on the Executive Branch to enforce their own orders, and pointed to the contemporaneous Riley v. Bondi oral arguments before the [[supreme-court-of-the-united-states|Supreme Court]] as another drain on judicial resources.[8]
 
+## Boasberg litigation and the DOJ complaint
+
+Chief Judge James Boasberg was overseeing litigation over Trump's invocation of the Alien Enemies Act to deport suspected criminal migrants when the Justice Department filed a misconduct complaint against him in July 2025 over public comments about the administration.[9]
+
+## Haines ruling (May 2025)
+
+On Tuesday, May 13, 2025, a federal judge in Pennsylvania ruled that President [[donald-trump|Donald Trump]] and his administration may use the Alien Enemies Act of 1798 to deport Venezuelan citizens accused of gang membership, provided the government offers "sufficient notice and due process."[10] Judge Stephanie Haines held that the government must give "greater notice" to individuals subject to removal under the Act.[10] The petitioner, a Venezuelan citizen in immigration detention, had sought a preliminary injunction against Trump's mid-March proclamation designating [[tren-de-aragua|Tren de Aragua]] a foreign terrorist organization and authorizing AEA removals of alleged members, arguing the proclamation violated the statute and that the due process provided was insufficient.[10] Haines granted the injunction in part and denied it in part: she denied it insofar as she found that presidents may issue an AEA proclamation to remove alien members of foreign terrorist organizations, but granted it insofar as the administration was not providing sufficient notice to those subject to removal.[10]
+
+Badlands host Ashe in America identified this ruling as the operative legal signal amid contemporaneous sympathetic immigration coverage, arguing that Trump possesses the authority to remove unlawful criminal entrants regardless of individual sob stories.[10]
+
 ## References
 
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -75,3 +85,5 @@ In a filing to Boasberg's court the same Monday, the administration declared it 
 6. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 7. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 8. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
+9. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+10. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

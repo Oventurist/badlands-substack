@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nvidia, ai, semiconductors, big-tech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-ac6.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-df2.md]
 confidence: medium
 ---
 
@@ -52,3 +52,11 @@ A November 2025 13F filing revealed that roughly 80% of the put positions held b
 4. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 5. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 6. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6
+
+## $500 billion US AI infrastructure commitment (April 2025)
+
+On Monday, April 14, 2025, Nvidia said it would produce up to $500 billion of AI infrastructure in the United States within the following four years, as the technology industry moved to bolster its domestic manufacturing footprint in the face of [[donald-trump|Trump]]'s trade policy and his desire to onshore more US heavy industry.[7] As part of the commitment to the AI supply chain, Nvidia said it was building two new supercomputer manufacturing plants in Texas in partnership with contract manufacturers [[foxconn|Foxconn]] and [[wistron|Wistron]].[7] The company expected to mass-produce supercomputers at those sites within 12 to 15 months, and said its latest Blackwell AI chips were already in production at [[tsmc|TSMC]]'s plant in Phoenix.[7]
+
+Badlands commentary framed the announcement in terms of national security, arguing that the fact the United States does not make its own technology is among its greatest supply chain vulnerabilities, and connecting the concern to arguments against electronic voting equipment.[7] The commentary noted that more than $3 trillion in announced investments in America were focused on building technology domestically.[7]
+
+7. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, information-war, great-awakening, psychology]
-sources: [raw/badlands-news-brief-11b.md, raw/badlands-news-brief-491.md]
+sources: [raw/badlands-news-brief-11b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-f54.md]
 confidence: low
 ---
 
@@ -22,7 +22,12 @@ A corollary of the template is that narrative seeding for such subjects is inter
 
 Badlands writer [[burning-bright|Burning Bright]] invoked the template in March 2024 to describe the federal raids on [[sean-combs|Sean "Diddy" Combs]], writing that "the Shark Fin Template strikes again where it concerns the Darkest Path in the Info War" — the continued exposure of coordinated, systemic sex trafficking by elites.[2] He argued that although the rollout can frustrate truthers, the darkest path never fully disappears from the Mind War and returns "with a vengeance," sweeping normies into the drama with unusual intensity.[2]
 
+## Application to NXIVM (July 2023)
+
+When the [[allison-mack|Allison Mack]] and [[nxivm|NXIVM]] story resurfaced in July 2023 with Mack's release from federal prison, [[burning-bright|Burning Bright]] invoked the Shark Fin template to explain its recurrence, describing it as part of "the Darkest Path that makes up the foundation of the System of Systems."[3] He restated the template as the proposition that some of the most important stories underlying the Information War — stories destined to play a large part in the flood phase of the [[great-awakening|Great Awakening]] — glide just beneath the surface but surface periodically, slicing through the narrative noise to remind the collective mind of their presence and inevitability.[3] He added that anons had been shown a glimpse of the truth years earlier and that the "Epstein Deployment (whomever's it was)" was "the biggest Narrative Seed of all time," concluding that "in the end, it all comes back around to the children."[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Congressional Chaos, Acceleration & Escalation", URL: https://badlands.substack.com/p/badlands-news-brief-11b
 2. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
+3. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54

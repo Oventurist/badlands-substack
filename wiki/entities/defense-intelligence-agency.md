@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, pentagon, counterintelligence, israel]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-af7.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -38,6 +38,9 @@ Numerous outlets reported on June 25, 2025 on an early Defense Intelligence Agen
 
 Coverage of [[michael-flynn|Michael Flynn]]'s March 2023 malicious prosecution lawsuit identified him as the former head of the Agency under the Obama administration before he became national security adviser to President [[donald-trump|Donald Trump]].[5] The suit, filed against the [[department-of-justice|Department of Justice]] and the [[fbi|FBI]], alleges that the counterintelligence investigation opened against him in August 2016 over supposed ties to Russia was baseless and politically motivated.[5]
 
+## Assessment of the June 2025 Iran strikes
+
+A preliminary classified U.S. report, disclosed publicly on June 24, 2025, found that the American bombing of three nuclear sites in [[iran|Iran]] had set the country's nuclear program back by only a few months.[6] Officials familiar with the early findings said the strikes sealed off the entrances to two of the facilities but did not collapse their underground buildings.[6] Before the attack, U.S. intelligence agencies had assessed that a rush to a bomb would take Iran about three months; after the U.S. bombing run and days of Israeli air attacks, the Defense Intelligence Agency estimated the delay at less than six months.[6] The report further concluded that much of Iran's stockpile of enriched uranium had been moved before the strikes — which destroyed little of the nuclear material — possibly to secret locations.[6] See [[2025-dia-assessment-of-the-iran-strikes|the 2025 DIA assessment of the Iran strikes]].[6]
 
 ## References
 1. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
@@ -45,3 +48,4 @@ Coverage of [[michael-flynn|Michael Flynn]]'s March 2023 malicious prosecution l
 3. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 4. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 5. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+6. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

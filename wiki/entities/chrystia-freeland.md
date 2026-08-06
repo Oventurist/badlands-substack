@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, rhodes-scholars, ukraine, oligarchs, liberal-party, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-89f.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d76.md]
 confidence: medium
 ---
 
@@ -72,3 +72,15 @@ On January 23, 2024, the day Federal Court Justice [[richard-mosley|Richard Mosl
 3. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
 4. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
 5. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+
+## December 2024 resignation
+
+Freeland's abrupt departure in December 2024 — quitting on a Monday as head of finance and deputy prime minister — was described by Politico as the "bombshell exit" that helped trigger a cabinet shakeup announced later that week by Prime Minister [[justin-trudeau|Justin Trudeau]].[6] The resignation opened a week of turmoil in Ottawa that opponents likened to "a gong show at the bottom of a dumpster fire, wrapped up in a cluster," and preceded calls from Liberal MPs at an emergency caucus meeting for Trudeau to step down.[6]
+
+6. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+
+## Scorched-earth resignation letter
+
+Freeland's Monday, December 16, 2024 resignation letter was characterized as "scorched earth," leaving Prime Minister [[justin-trudeau|Justin Trudeau]] in an even more precarious position as his administration teetered on the verge of collapse.[7] She had publicly opposed Trudeau's plan for short-term spending on voter-pleasing measures such as tax breaks that would worsen the country's budget deficit.[7] "Our country today faces a grave challenge," Freeland, then 56, wrote, referring to President-elect [[donald-trump|Donald Trump]]'s threat of tariffs; "that means keeping our fiscal powder dry today, so we have the reserves we may need for a coming tariff war. That means eschewing costly political gimmicks, which we can ill afford and which make Canadians doubt that we recognize the gravity of the moment."[7] Badlands writer Burning Bright described her as a "globalist stalwart" whose very public resignation fed rumours that Trudeau himself was set to resign as prime minister.[7]
+
+7. Badlands News Brief — "Russia Responds as the Fake News Gets Even Faker", URL: https://badlands.substack.com/p/badlands-news-brief-d76

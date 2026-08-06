@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, conservative-media, television]
-sources: [raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-bf6.md]
+sources: [raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -28,3 +28,14 @@ Newsmax aired an interview late on Monday, April 24, 2023 in which former presid
 1. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 2. Badlands Brief — "Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 3. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+
+## Dershowitz interview on a possible Trump conviction (March 2023)
+
+In a Sunday interview on Newsmax in March 2023, attorney [[alan-dershowitz|Alan Dershowitz]] said he expected [[donald-trump|Donald Trump]] to be indicted and convicted in New York City because of what he described as the city's unfair legal system, but argued that Trump could still be reelected in 2024 and run the country "from prison."[4] The remarks were widely recirculated, including in the [[badlands-news-brief|Badlands News Brief]], as the anticipated [[trump-hush-money-case|Manhattan hush-money indictment]] dominated coverage.[4]
+
+4. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+5. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+
+## Dominion defamation settlement
+
+In August 2025 Newsmax agreed to settle the defamation case brought against it by [[dominion-voting-systems|Dominion Voting Systems]] for $67 million, the most recent of several large settlements the voting-machine company won from news organizations after the 2020 election.[5] It followed Fox News Channel's $787.5 million settlement of a similar suit in 2023, and the settlements were recalled in coverage of Dominion's October 2025 sale and rebranding as [[liberty-vote|Liberty Vote]].[5]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, european-union, regulation, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-e8f.md]
 confidence: low
 ---
 
@@ -51,3 +51,9 @@ Senior U.S. officials joined the criticism: Secretary of State [[marco-rubio|Mar
 4. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 5. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 6. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+
+## The December 2025 fine on X
+
+In December 2025 the [[european-commission|European Commission]] announced a €120 million ($140 million) fine against X for several violations of the Digital Services Act, singling out the "deceptive" design of the platform's blue checkmark for verified accounts, "non-compliance with transparency obligations," and its failure to provide researchers with access to public data.[7] The penalty drew an angry response from [[elon-musk|Elon Musk]], who replied "Bulls***" under a Commission post about the fine and then called for the [[european-union|European Union]] itself to be abolished and sovereignty returned to individual countries.[7] Several top Trump administration officials joined the criticism, consistent with the administration's position that regulation of American tech platforms in Europe amounts to an attack on free speech.[7]
+
+7. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, white-house, education]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ Appearing on ABC's "The View" on Wednesday, May 29, 2024, Biden said Americans "
 
 [[ashe-in-america|Ashe in America]] responded that the "rights" invoked were "the emotional fever dream of the progressive left," arguing that the genuinely inalienable rights of speech, arms, privacy, movement, assembly, free exchange and representation were no longer secure in 2024, and characterizing the First Lady as gaslighting left-leaning women into "saving democracy by destroying the Republic."[6]
 
+## Death of Linda Stevenson (December 2025)
+
+On Sunday, December 28, 2025, [[bill-stevenson|Bill Stevenson]], Jill Biden's first husband, called 911 to report a domestic dispute at his Oak Hill home in Delaware and was present when officers arrived.[8] Police found his wife, 64-year-old Linda Stevenson, unresponsive in the living room and pronounced her dead at the scene after attempting life-saving measures; dispatch audio referenced "cardiac arrest."[8]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
@@ -46,3 +50,10 @@ Appearing on ABC's "The View" on Wednesday, May 29, 2024, Biden said Americans "
 4. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 5. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 6. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+
+## 2020 campaign and the LaRosa episode
+
+A December 2024 Wall Street Journal investigation recounted that during the 2020 presidential primary, Jill Biden campaigned so extensively across Iowa that she held events in more counties than her husband — a fact her then-press secretary, Michael LaRosa, touted to a local reporter.[7] LaRosa was quickly chided by his superior: riding through the state's cornfields in a minivan, [[anthony-bernal|Anthony Bernal]], then a deputy campaign manager and her chief of staff, pressed him to contact the reporter again and play down any comparison between the appearances of [[joe-biden|Joe Biden]], then 77, and his wife, who is eight years younger.[7] Her energetic schedule, LaRosa recalled being told, only highlighted her husband's more plodding pace: "The more you talk her up, the more you make him look bad."[7] The Journal framed the small correction as foreshadowing how Biden's closest aides would manage the limitations of the oldest president in U.S. history throughout his four years in office.[7]
+
+7. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+8. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

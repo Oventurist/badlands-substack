@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bangladesh, color-revolution, usaid, ngos, regime-change]
-sources: [raw/badlands-news-brief-b4d.md]
+sources: [raw/badlands-news-brief-b4d.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -26,6 +26,14 @@ Chowdhury characterized the unrest not as a spontaneous youth revolt but as a "c
 
 In the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] wrote that such events are "rarely (never?) a spontaneous youth revolt," and suggested Benghazi as the next case deserving similar scrutiny.[1] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded to the item by reiterating that the next major geopolitical event would be the [[2025-trump-putin-budapest-summit-announcement|Trump–Putin summit]].[1]
 
+
+## Hasina's flight and the military's intervention
+
+On Monday, August 5, 2024, Prime Minister [[sheikh-hasina|Sheikh Hasina]] resigned and reportedly fled Bangladesh after protesters stormed her official residence following weeks of deadly anti-government demonstrations.[2] Crowds celebrated the end of her fifteen years in power by climbing on tanks and scaling an imposing statue of her father, the independence leader Sheikh Mujibur Rahman, in Dhaka, striking its head with an axe.[2] Images showed flames rising from vehicles near the residence and protesters inside smashing walls and looting the contents; earlier the same day the military and police had attacked demonstrators rallying in the area, according to a journalist working for CNN in Dhaka.[2]
+
+In a national address, army chief General Waker-uz-Zaman confirmed the resignation and said the military would form an interim government.[2] Addressing the protesters, largely young Bangladeshis and students, he pledged: "Whatever demands you have we will fulfil and bring back peace to the nation, please help us in this, stay away from violence," adding that "the military will not fire at anyone, the police will not fire at anyone, I have given orders."[2]
+
 ## References
 
 1. Badlands Brief — "Tariff Take Home, Shutdown Stalls, & Unconstitutionally Compelled Speech", URL: https://badlands.substack.com/p/badlands-news-brief-b4d
+2. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

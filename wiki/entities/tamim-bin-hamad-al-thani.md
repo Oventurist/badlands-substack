@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, monarchy, gulf-states]
-sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -34,9 +34,31 @@ Badlands commentary presented the agreement as the culmination of a reconciliati
 
 Badlands commentary credited the Qatari Emir, alongside Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]], with calling the September 2025 United Nations meeting at which President [[donald-trump|Donald Trump]] pledged to Arab and Muslim leaders that he would not allow [[benjamin-netanyahu|Benjamin Netanyahu]] to annex the West Bank.[5]
 
+
+## Air Force One Meeting with Trump (October 2025)
+
+In late October 2025 the Emir boarded Air Force One with Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani during [[donald-trump|President Donald Trump]]'s unplanned refueling stop at Al Udeid Air Base, as Trump traveled to the ASEAN summit in Malaysia.[6] The two discussed the Israel-Hamas hostage deal and efforts to maintain stability in Gaza, where [[qatar|Qatar]] has acted as a mediator.[6] Sheikh Tamim explained the gesture warmly: "As soon as I found out that he's coming to refuel, I said I wouldn't allow him to take off without saying hello."[6] Asked whether he had ever done such a thing before, he replied, "Never, first time."[6]
+
+Trump praised him as "one of the great rulers of the world, not just the Middle East," and credited Qatari leadership as "a very big factor" in securing what he called peace in the Middle East.[6] Badlands commentary highlighted the two leaders holding hands in an embrace and recalled Tamim's September 2017 White House visit, at which Trump revealed a long-standing personal friendship — commentary linked this to Qatari assistance to Jared Kushner's family real estate business in 2008 at the request of Tom Barrack — arguing that Trump's stop was overt support for a friend under a coordinated pressure campaign.[6]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 5. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+6. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+
+## Strategic partnership with India (February 2025)
+
+On February 18, 2025, the Amir held wide-ranging talks at Hyderabad House in New Delhi with Indian Prime Minister [[narendra-modi|Narendra Modi]], at which the two leaders agreed to elevate relations to the [[india-qatar-strategic-partnership|India-Qatar Strategic Partnership]], with a focus on trade, energy, investments, innovation, technology, food security, culture and people-to-people ties.[7] The two sides signed a revised agreement on the avoidance of double taxation and prevention of fiscal evasion, along with five memoranda of understanding, and exchanged views on regional and global issues including the Israel-Hamas conflict and Afghanistan.[7] Modi described the Amir as "my brother" in a post on X.[7]
+
+Badlands commentary noted that [[donald-trump|Donald Trump]] has since 2017 described Tamim as a long-time friend and has emphasized [[qatar|Qatar]]'s critical role in facilitating the Gaza ceasefire secured by US Special Envoy [[steve-witkoff|Steve Witkoff]] the day before Trump took office.[7]
+
+7. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+
+## 2025 Doha summit with Trump
+
+In May 2025 Tamim hosted [[donald-trump|Donald Trump]] in Doha for the first state visit by a US president to [[qatar|Qatar]], part of the [[2025-trump-gulf-tour|2025 Trump Gulf tour]].[8] After talks between the two leaders, Tamim said Qatar and the United States had taken their relationship to "another level" following the signing of deals to boost defense and trade ties, including record-breaking [[boeing|Boeing]] aircraft purchases.[8] Badlands commentary characterized the accompanying [[sword-dance|Ardah]] ceremony as a public pledge of allegiance by the Qataris, under Trump's longtime friend Tamim, to Trump and the [[sovereign-alliance|Sovereign Alliance]], calling it an enormous milestone in Arab diplomacy.[8]
+
+8. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

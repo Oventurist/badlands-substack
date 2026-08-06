@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, nuclear, israel-iran-conflict, 2024]
-sources: [raw/badlands-news-brief-4b3.md]
+sources: [raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ An unconfirmed report held that the IRGC stated Iran would target Israeli nuclea
 
 ## References
 1. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
+
+
+## Damage in the June 2025 Israeli campaign
+The first wave of Israeli attacks in [[operation-rising-lion|Operation Rising Lion]], launched overnight into June 13, 2025, damaged the Natanz uranium enrichment plant and killed leading Iranian nuclear scientists.[2] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] justified the strikes by warning that Iran could otherwise produce a nuclear weapon within a year or even a few months.[2]
+
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

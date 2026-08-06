@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meme-stocks, gamestop, retail-investing, finance]
-sources: [raw/badlands-news-brief-3e8.md]
+sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -26,5 +26,14 @@ E*Trade and its owner [[morgan-stanley|Morgan Stanley]] were reported to be cons
 
 Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] framed the episode as a persuasion battleground in the information war, arguing that while tens of millions of ordinary investors had been "red pilled" as to the rigged nature of the financial system, the retail "Apes" were still reacting within a system whose rules the establishment controls.[1] The commentary held that the solution was defection from the rigged game entirely toward something sound, gesturing at decentralized, finite and fungible money — "maybe, probably [[bitcoin|Bitcoin]]."[1] The item also noted a reaction from [[dave-portnoy|Dave Portnoy]] of Barstool Sports.[1]
 
+## Return to social media, May 2024
+
+After going silent on X since June 2021, Gill — known as "Roaring Kitty" — returned on the evening of Sunday 12 May 2024 with a meme post that went viral, drawing more than 8.5 million views, 14,000 reposts and 51,000 likes.[2] Reddit's GameStop message board erupted, with one user writing, "My god it's him, he's really back. To give a hedgefund bitch a heart attack. To make a million apes insomniac. It's the guy... who's not a cat ;-)."[2]
+
+Gill had led an army of meme-traders against hedge funds shorting [[gamestop|GameStop]], notably Melvin Capital, during the 2021 squeeze.[2] Following his return, GME rose 110 percent on the day, reaching its highest level since August 2022, and [[goldman-sachs|Goldman Sachs]] flow-of-funds strategist Scott Rubner told clients he was "starting to see some real FOMO start to develop" as message boards went crazy.[2]
+
+[[badlands-media|Badlands Media]] commentary from [[chris-paul|Chris Paul]] argued that GameStop functions as a cover story and narrative seeding vehicle, a refresher on [[naked-short-selling|naked short selling]] ahead of the Nunes/$DJT narrative, while [[burning-bright|Burning Bright]] noted he had previously theorized on DEFECTED that the GME squeeze was seeding for a DJT squeeze to follow.[2]
+
 ## References
 1. Badlands Brief — "Fauci Squirms, Pollsters Panic & Elections Erupt", URL: https://badlands.substack.com/p/badlands-news-brief-3e8
+2. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

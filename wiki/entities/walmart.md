@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [retail, corporations, tariffs, trade]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-8f1.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -28,8 +28,12 @@ On November 16, 2023 Walmart, the world's largest retailer, reported third-quart
 
 Badlands contributor [[ashe-in-america|Ashe in America]] argued that the results, while not as bad as feared, might be directional for consumer spending and hoped Americans were "reclaiming their personal supply chains from the globalists" ahead of the holiday shopping season, urging readers to shop at Badlands Marketplace or local Main Street businesses instead of Walmart.[3]
 
-## References
+## Context of the 2024 corporate DEI retreat
 
+Walmart's retreat from [[diversity-equity-and-inclusion|DEI]] followed a broader wave in which commentator [[robby-starbuck|Robby Starbuck]]'s campaign pushed Harley-Davidson Inc., Tractor Supply Co. and Deere & Co. to reverse or eliminate such programs during 2024, before Starbuck turned to Jack Daniel's parent Brown-Forman Corp. that August.[4]
+
+## References
 1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 2. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
 3. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
+4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

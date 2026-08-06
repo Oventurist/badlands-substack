@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, government-shutdown, federal-workforce]
-sources: [raw/badlands-news-brief-4cf.md]
+sources: [raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ In her bench ruling, Illston said the administration appeared to have "taken adv
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
+
+
+## Injunction on the State Department disinformation office (June 2025)
+On June 13, 2025, U.S. District Judge Susan Illston issued an injunction temporarily blocking the Trump administration from shutting down the [[state-department|State Department]]'s [[foreign-information-manipulation-and-interference-office|Foreign Information Manipulation and Interference Office]] (FIMI), formerly the [[global-engagement-center|Global Engagement Center]].[2] The ruling halted layoffs at the office and required the department to seek court approval before making further changes.[2] Illston sided with the office's employees, who claimed that their firings violated federal workforce protections; the closure had followed President [[donald-trump|Donald Trump]]'s April executive order on duplicative functions and an announcement by Secretary of State [[marco-rubio|Marco Rubio]].[2]
+
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

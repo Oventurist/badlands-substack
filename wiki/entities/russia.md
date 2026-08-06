@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, syria, ukraine, geopolitics]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a38.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -103,6 +103,10 @@ As many Western companies left the country or suspended operations following the
 
 On April 11, 2024, Russia launched a major missile and suicide-drone offensive against [[ukraine|Ukraine]]'s power grid and underground natural gas storage sites.[17] Bloomberg reported that Russia air-launched six hypersonic Kinzhal missiles at critical infrastructure near Kyiv and around Lviv, none of which Ukrainian air defenses intercepted; of 42 slower conventional missiles, 18 were downed, and only one of 40 drones.[17] Energy Minister [[german-galushchenko|German Galushchenko]] said power plants near Kyiv and in the Kharkiv, Zaporizhzhia and Lviv regions were damaged, and President [[volodymyr-zelensky|Volodymyr Zelensky]] reported damage to a plant in Odesa; six missiles struck the [[trypilska-power-plant|Trypilska plant]] south of Kyiv, the largest in the region.[17] Badlands commentary argued that [[vladimir-putin|Vladimir Putin]] was deliberately targeting critical infrastructure to force Ukraine to the negotiating table, and that the penetration of U.S. and [[nato|NATO]]-supplied defenses by hypersonic weapons should alarm [[israel|Israel]] given [[iran|Iran]]'s similar capabilities.[17]
 
+## Banking integration with Iran (2023)
+
+In January 2023, Russia and [[iran|Iran]] integrated their interbank communication and transfer systems, linking 52 Iranian and 106 Russian banks through the Russian Financial Message Transfer System in an effort to bypass sanctions on their financial infrastructure.[18] Badlands contributor [[patriots-in-progress|Patriots in Progress]] framed the [[iran-russia-banking-integration|move]] as a response to [[swift|SWIFT]]'s historical use as an instrument of political coercion and as part of a broader strategy, alongside [[brics|BRICS]] currency-basket discussions, that could ultimately end the [[petrodollar|petrodollar]] system.[18]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -121,3 +125,4 @@ On April 11, 2024, Russia launched a major missile and suicide-drone offensive a
 15. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 16. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 17. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+18. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

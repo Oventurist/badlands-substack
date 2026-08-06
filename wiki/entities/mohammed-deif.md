@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hamas, gaza, icc, israel]
-sources: [raw/badlands-news-brief-677.md]
+sources: [raw/badlands-news-brief-677.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ Borrell emphasized that the mandate of the ICC as an independent international i
 
 The simultaneous listing of Hamas commanders alongside sitting Israeli officials was central to commentary in the [[badlands-news-brief|Badlands News Brief]], which read the move as evidence that globalist institutions were beginning to be turned against the very actors who had built them.[1]
 
+## Named in the ICC warrant applications (May 2024)
+
+ICC prosecutor [[karim-khan|Karim Khan]]'s May 20, 2024 filing sought an arrest warrant for Mohammed Diab Ibrahim al-Masri, the leader of the Izzedine al-Qassam Brigades better known as Mohammed Deif, alongside fellow [[hamas]] leaders [[yahya-sinwar|Yehiya Sinwar]] and [[ismail-haniyeh|Ismail Haniyeh]] and Israeli leaders [[benjamin-netanyahu|Benjamin Netanyahu]] and [[yoav-gallant|Yoav Gallant]].[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+2. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

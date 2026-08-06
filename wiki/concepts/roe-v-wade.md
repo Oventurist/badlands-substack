@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, abortion, federalism, states-rights]
-sources: [raw/badlands-news-brief-670.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-f53.md]
 confidence: medium
 ---
 
@@ -21,3 +21,8 @@ That framing was used to explain why figures such as [[ted-lieu|Ted Lieu]] and [
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+2. Badlands Brief — "Trumpian Taboos, Muskian Censorship & Saudi Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-f53
+
+## Trump's April 2024 invocation
+
+In an April 8, 2024 video posted to Truth Social, former President [[donald-trump|Donald Trump]] said he was "proudly the person responsible" for the Supreme Court's overturning of Roe, which he said took abortion "out of the federal hands and brought it into the hearts, minds, and vote of the people in each state."[2] He used the reversal as the basis for declining to endorse a federal ban, arguing the states should determine policy by vote or legislation — a position denounced by a major anti-abortion rights organization as insufficient.[2] Badlands commentators treated the episode as a test of federalism: [[burning-bright|Burning Bright]] argued Trump had not solved the problem but returned it to "the free market battlefield," removing the ability of activists to default to "Muh Roe v. Wade."[2] See [[2024-trump-abortion-states-position|2024 Trump abortion position statement]].[2]

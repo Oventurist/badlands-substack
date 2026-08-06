@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [culture, music, hollywood, antisemitism-controversy, christianity]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -80,6 +80,16 @@ When West finally released his debut album, *The College Dropout*, in February 2
 
 On October 29, 2019, West appeared on a CBS late-night segment in which celebrities normally ride in a car and sing karaoke with the host; instead, West negotiated to charter a commercial flight filled with the gospel choir assembled for his album [[jesus-is-king|Jesus Is King]], which also toured with him for gospel concerts staged as church services in pursuit of his stated aim of making Christianity appealing to young people again.[8] The Badlands writer observed that only an artist of West's fame and clout could have negotiated such an arrangement with a network, and expressed hope that West was "still around, somewhere."[8]
 
+## Yeezy adult-entertainment reports (April 2024)
+
+In April 2024 a representative for West informed TMZ that the rapper hoped to add an adult entertainment branch to his Yeezy empire, possibly that summer, reportedly in communication with adult film producer Mike Moz, formerly married to [[stormy-daniels|Stormy Daniels]].[9] The reports came five years after West had said he suffered from an addiction to pornography and expressed regret at how often he watched it, claiming adult entertainment had destroyed his family.[9] Coverage noted that he was more recently thought to have been behind the revealing outfits worn publicly by his wife Bianca Censori.[9]
+
+Badlands commentary treated the announcement as either a sign that West needed help — possibly back on the medication cycles he had accused Harvey Pasternak of imposing on him — or as another instance of his disruptive unpredictability.[9] The writer noted a longstanding thesis that West has a special relationship with [[donald-trump|Donald Trump]], including the claim that Trump intervened after Pasternak had West institutionalized following his November 2016 concert interruption in which he called out Hillary Clinton and Barack Obama and pledged support for Trump.[9]
+
+The commentary drew a parallel to 2018, when reports of West exploring an entry into the porn industry coincided with his designing wardrobe for the Pornhub awards, his public meetings with Trump, his professed reconnection to Jesus, and work on the gospel album *Jesus is King*, which went to number one and led to a worldwide gospel tour and a campaign to make Christianity appealing to young people.[9] West had also posted publicly that pornography had destroyed his family but that Jesus would heal everything, and called for its removal from all platforms, describing pornography as a product of pedophilia.[9]
+
+The same commentary argued that the antisemitism campaign against West began when he and Candace Owens wore "White Lives Matter" shirts at the Paris Fashion Show in October 2022, a period in which West was also conspicuously wearing and naming Balenciaga apparel just as the Balenciaga photoshoot scandal was unfolding — including the black mask worn during his appearance on Alex Jones's show.[9] The writer pointed to the 2018 song "Violent Crimes" as evidence of West's preoccupation with protecting his daughters from exploitation, and to his repeated public expressions of dread that his mother-in-law would one day exploit them for money and clout.[9] The timing was noted as significant: the announcement came the same day Trump went to trial over hush-money payments to Stormy Daniels, with West's prospective partner being Daniels's ex-husband.[9]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
@@ -89,3 +99,4 @@ On October 29, 2019, West appeared on a CBS late-night segment in which celebrit
 6. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 7. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 8. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+9. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

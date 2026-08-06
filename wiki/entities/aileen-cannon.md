@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, florida, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-d24.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d74.md]
 confidence: medium
 ---
 
@@ -135,3 +135,9 @@ On 20 June 2023, Cannon set the first court date in [[donald-trump|Donald Trump]
 18. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 19. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
 20. Badlands Brief — "Badlands News Brief: Wanker War Hawks, Out-of-Work Wind Mills, & the Biggest, Fastest Battleships", URL: https://badlands.substack.com/p/badlands-news-brief-bfe
+21. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+22. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+
+## Injunction against the special counsel report (January 2025)
+
+On Tuesday, January 7, 2025, Cannon — the federal judge who oversaw the classified documents case against President-elect [[donald-trump|Donald Trump]] — issued an order temporarily blocking release of [[jack-smith|Jack Smith]]'s special counsel report on his investigation.[22] The injunction was to last until three days after the 11th U.S. Circuit Court of Appeals ruled on a pending request to block the report over a separate matter involving Trump co-defendants [[walt-nauta|Walt Nauta]] and [[carlos-de-oliveira|Carlos De Oliveira]], "unless the Eleventh Circuit orders otherwise."[22] Lawyers for Nauta and De Oliveira had filed their motion the previous night, citing Cannon's earlier ruling that Smith's appointment was unconstitutional.[22]

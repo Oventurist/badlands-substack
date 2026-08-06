@@ -1,10 +1,10 @@
 ---
-title: International Criminal Court
+title: "International Criminal Court"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [icc, international-law, sovereignty, rome-statute, united-nations]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-414.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-b65.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-414.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -68,6 +68,17 @@ On Thursday, November 21, 2024, the ICC issued arrest warrants for Israeli Prime
 
 Israel and the United States condemned the ruling — the first time the court had issued arrest warrants for officials of a democratic state — as biased or beyond the ICC's mandate, while the European Union, France, Ireland and several other countries said they would honor the warrants.[9] As a practical matter the warrants meant Netanyahu and Gallant would likely be unable to travel to most European countries and many of the ICC's 120-plus member states, though they could still travel to the United States, which is not a member, as well as to various Middle Eastern states; some states have simply ignored ICC warrants, as there is no effective enforcement mechanism.[9] Badlands commentary noted that [[benny-gantz|Benny Gantz]] was not among those indicted and predicted that [[aipac|AIPAC]]-aligned members of Congress would rush to denounce the United Nations over the ruling.[9]
 
+
+## Distinction from the ICJ and the Khan warrants (May 2024)
+
+Badlands writers repeatedly stressed the distinction between the ICC and the [[international-court-of-justice|International Court of Justice]]: the ICJ was established in 1945 to mediate disputes between sovereign states, whereas the ICC was created in the early 2000s — in the Badlands telling, at the instigation of [[george-soros|George Soros]] — for the purpose of prosecuting troublesome leaders of sovereign nations.[10] Both operate out of The Hague and are often conflated in press coverage.[10] The commentary argued that an international forum for peaceful mediation is unobjectionable so long as it cannot impose its will on sovereign states, and that the ICC represents the weaponization of that concept.[10]
+
+In May 2024 ICC chief prosecutor [[karim-khan|Karim Khan]] requested arrest warrants for Israeli leaders, including [[benjamin-netanyahu|Benjamin Netanyahu]], alongside Hamas officials.[10] Khan subsequently reported receiving pressure from elected officials of UN member states, one of whom allegedly told him bluntly: "This court was built for [prosecuting] African nations and thugs like Putin," and not for Netanyahu and western democracies.[10]
+
+## Warrant applications against Israeli and Hamas leaders (May 2024)
+
+On May 20, 2024, chief prosecutor [[karim-khan|Karim Khan]] applied for arrest warrants against Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], Defense Minister [[yoav-gallant|Yoav Gallant]] and three [[hamas]] leaders, an action described as historic because it was the first time the Hague-based court had targeted the national leader of a close US ally.[12] Although [[israel]] is not a signatory to the Rome Statute upon which the court is founded, commentators noted that the warrants, if issued, would nonetheless stigmatize the country's senior leadership; the ICC remains the only permanent international court empowered to prosecute individuals for genocide, crimes against humanity and war crimes, with enforcement resting on its 124 member states.[12] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that the ICC is a [[george-soros|George Soros]] creation of the early 2000s and found it "poetic and ironic" that the institution was now being used against members of the globalist hegemony, adding that the court had shown "even-handedness" by pursuing the political and military leaders of both Israel and Hamas.[12]
+
 ## References
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 2. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
@@ -78,3 +89,13 @@ Israel and the United States condemned the ruling — the first time the court h
 7. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
 8. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 9. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65
+10. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+
+## Custody of Rodrigo Duterte (March 2025)
+
+On Wednesday, March 12, 2025, the ICC took former Philippine President [[rodrigo-duterte|Rodrigo Duterte]] into custody following his arrest in Manila on murder charges linked to his "war on drugs," in which thousands of purported dealers and users were killed.[11] The court said Duterte had been "surrendered to the custody of the International Criminal Court" after being "arrested by the authorities of the Republic of the Philippines...for charges of murder as a crime against humanity."[11] The 79-year-old arrived at Rotterdam airport on a chartered plane and was transferred to a detention unit on the Dutch coast, with an initial appearance before an ICC judge in The Hague expected within days; he could become the first Asian former head of state to go on trial at the court.[11] The arrest warrant alleges that as president Duterte created, funded and armed the death squads that carried out the killings.[11]
+
+Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] disputed the court's legitimacy, noting that the same body pursuing Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] has been unable to take him into custody, and suggesting the selectivity reflected shared institutional interests rather than impartial justice.[11]
+
+11. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+12. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

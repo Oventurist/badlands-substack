@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, israel, middle-east]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ce5.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e37.md]
 confidence: low
 ---
 
@@ -46,6 +46,18 @@ Ravid later explained on air that Trump's blockage of those settlements is exact
 
 In July 2024, Ravid reported for Axios that Netanyahu's years-long effort to mend relations with Trump may have shown progress in the wake of the assassination attempt against Trump, citing a Netanyahu aide who described at least four meetings between Netanyahu allies and Trump over three years — including one in which an ally read passages from Netanyahu's book praising Trump at Mar-a-Lago.[6] Badlands commentary treated Ravid's byline as significant, noting that he was the same journalist who had drawn out Trump's candid 2021 remarks.[6]
 
+## Reporting on the Trump–Netanyahu relationship (February 2025)
+
+Axios correspondent Ravid reported in February 2025 on the strains beneath the public relationship between President [[donald-trump|Donald Trump]] and Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], writing that Trump had realized at a relatively early stage that Netanyahu was dragging his feet on peace with the Palestinians but kept most of his bitterness private because the public "bromance" was good politics.[8] Ravid recounted that the relationship suffered a severe blow when Netanyahu congratulated Joe Biden on winning the 2020 election — "F-ck him," Trump told him of Netanyahu three months after leaving office — and that the two did not speak for almost four years, with Trump also criticizing Netanyahu after the October 7 attack before hosting him at Mar-a-Lago in summer 2024.[8] A U.S. source close to Trump told Ravid that although relations had improved, "Trump still does not like Bibi, does not trust Bibi."[8]
+
+Ravid's reporting also documented the shock inside Washington at Trump's declaration that the United States could "take over" Gaza, noting that very few on Trump's team knew in advance and that Israeli far-right figures praised the displacement plan as a "green light" for full occupation and settlement building, which a source close to Trump said was not his intention.[8] He reported Saudi displeasure at Trump's claim that the kingdom would not condition normalization with Israel on Palestinian statehood, quoting a U.S. source that "the Saudi crown prince doesn't want to be seen as being part of what Trump is talking about," and another describing Trump as "a disruptor" who "wanted to challenge the discourse."[8]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] observed that Ravid is "not just Trump's go-to Israeli journalist, but he's also former Israeli Military Intelligence," and treated his output as part of an active psywar battlefield.[8]
+
+## Reporting on a US–Saudi security agreement (2024)
+
+In November 2024, Ravid reported for Axios that the United States and Saudi Arabia were discussing a possible security agreement that would not involve a broader deal with Israel — a step back from the full defense treaty previously under negotiation, but one that Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and the White House hoped to conclude before [[joe-biden|Joe Biden]] left office in January 2025.[9] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that [[donald-trump|Donald Trump]] regularly uses Ravid for interviews and to deploy his own narratives inside Israel, and treated the report as a narrative that had been "cooking for quite some time" without thawing.[9]
+
 ## References
 
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
@@ -60,3 +72,5 @@ In July 2024, Ravid reported for Axios that Netanyahu's years-long effort to men
 Ravid confirmed the involvement of Trump hostage envoy [[adam-boehler|Adam Boehler]] in the negotiations that led to the [[taliban|Taliban]]'s release of American detainee [[george-glezmann|George Glezmann]] in March 2025.[7] His confirmation was cited in Badlands commentary arguing that mainstream coverage had understated Boehler's role in the episode.[7]
 
 7. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
+8. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+9. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37

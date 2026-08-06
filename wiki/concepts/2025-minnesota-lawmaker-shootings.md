@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [minnesota, political-violence, assassination, 2025]
-sources: [raw/badlands-news-brief-69d.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-f1f.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ The shootings occurred on the same weekend as the [[2025-army-250th-birthday-mil
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
+
+## Arrest and charges
+
+After a 43-hour manhunt and intense search, authorities arrested [[vance-boelter]], 57, a Minnesota man accused of shooting two state Democratic lawmakers and their spouses; he faced both federal and state charges in connection with the killings of [[melissa-hortman|Melissa Hortman]] and her husband, Mark.[2] He was also accused of shooting Democratic state Senator [[john-hoffman|John Hoffman]] and his wife, Yvette, both of whom survived the attack, and of going to the homes of two other unnamed state lawmakers that morning "with the intent to kill them," according to authorities.[2] Boelter was apprehended Sunday night in a wooded area near where he lives, Minnesota Governor [[tim-walz|Tim Walz]] said at a news conference, after authorities deployed hundreds of detectives and 20 SWAT teams to assist with the arrest and capture.[2]
+
+2. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f

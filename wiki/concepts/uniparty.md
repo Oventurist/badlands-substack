@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, politics, uniparty]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md]
 confidence: medium
 ---
 
@@ -74,6 +74,10 @@ Writing in January 2024, [[burning-bright|Burning Bright]] described "Proxy Cand
 
 The August 2024 letter in which more than 200 former staffers to George H. W. Bush, [[george-w-bush|George W. Bush]], [[john-mccain|John McCain]] and [[mitt-romney|Mitt Romney]] endorsed [[kamala-harris|Kamala Harris]] was treated by Badlands Media as a clean demonstration of the concept, with contributor Chris Paul writing that "the greatest thing the Uniparty ever did for the world was convince it they absolutely did exist."[12] A companion analysis by Burning Bright described the [[2024-democratic-national-convention|Democratic National Convention]] as bicameral in nature — a success for both the Uniparty establishment and for patriots — in which the establishment cast "one final spell of illusion" by parading legacy figures to assert that Harris was "a real candidate deposing a real president in a real election," while the resulting clarity meant "the WHOLE world agrees where the battle lines are drawn."[12]
 
+## Endless war critique (February 2024)
+
+After the United States vetoed a [[united-nations-security-council|UN Security Council]] ceasefire resolution on Gaza days after pressing for more taxpayer funding for the war in Ukraine, Badlands contributor [[burning-bright|Burning Bright]] wrote that the macro picture seeping into the collective mind is that the Uniparty establishment "will stop at nothing to perpetuate its endless war machine, even to the chagrin of the rest of the supposedly-civilized world."[13]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Badlands Blitz Episode 23", URL: https://badlands.substack.com/p/badlands-blitz-episode-23
@@ -87,3 +91,4 @@ The August 2024 letter in which more than 200 former staffers to George H. W. Bu
 10. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
 11. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 12. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
+13. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

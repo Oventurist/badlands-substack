@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, kahanism, west-bank, sanctions, extremism]
-sources: [raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ac3.md]
+sources: [raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ As leader of the [[lehava|Lehava]] movement, Gopstein in 2015 called for the exp
 
 Ben-Gvir and Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] are described as loyal followers of the teachings of [[meir-kahane|Meir Kahane]], the late mentor whose movement Gopstein took over after Kahane was assassinated in New York City in 1990.[2] Badlands commentary situates this network within a broader Israeli oligarchy that includes [[dan-gertler|Dan Gertler]], and argues that Kahanist hostility to [[donald-trump|Donald Trump]] dates to Trump's demand, fifteen days into his first term, that Netanyahu halt illegal settlement construction in the West Bank — a practice sponsored and spearheaded by Kahane's followers.[2]
 
+## Association with Ben-Gvir
+
+Badlands commentary in July 2024 described Gopstein as the mentor of Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]], noting that Ben-Gvir had acted as his defence lawyer against criminal charges of incitement after Gopstein in 2015 called for the burning of churches and the expulsion of Christians from the Holy Land.[3]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 2. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3
+3. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

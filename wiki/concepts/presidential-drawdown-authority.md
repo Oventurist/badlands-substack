@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, foreign-aid, congress, pentagon, 2023]
-sources: [raw/badlands-news-brief-9de.md]
+sources: [raw/badlands-news-brief-9de.md, raw/badlands-news-brief-f2b.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ In May 2023 the Pentagon acknowledged that it had assigned a higher-than-warrant
 
 [[ashe-in-america|Ashe in America]] wrote that the new tranche amounted to throwing good money after bad, coming a day after Badlands had reported that Ukraine's counteroffensive had failed to yield significant gains.[1] Her central objection was structural: because drawdown transfers are distributed without congressional approval while the underlying cost falls on taxpayers, she characterised the arrangement as "taxation without representation."[1]
 
+## June 2023 $500 million package
+
+On Tuesday, June 27, 2023, the Biden administration announced a new $500 million military aid package for Ukraine delivered via Presidential Drawdown Authority, meaning the shipments came directly from [[pentagon|Pentagon]] stockpiles.[2] The announcement came just after the [[new-york-times|New York Times]] reported that Ukrainian forces had failed to capitalise on the weekend turmoil caused by the [[wagner-group|Wagner Group]] uprising in Russia, with American officials and independent analysts saying there did not "seem to be any immediate defensive gaps to exploit" in Russian lines and that front lines were "likely to remain unchanged."[2] It also followed a tally that roughly 17 percent of the Bradley fighting vehicles already supplied to Ukraine had been damaged or destroyed.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
+2. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b

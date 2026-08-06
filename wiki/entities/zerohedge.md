@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, finance]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-625.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md]
 confidence: low
 ---
 
@@ -141,6 +141,30 @@ In April 2023, ZeroHedge published Michael Every of [[rabobank|Rabobank]] under 
 
 ZeroHedge supplied two of the items in the March 21, 2023 [[badlands-news-brief|Badlands News Brief]]: a report on the [[2023-xi-jinping-state-visit-to-russia|Xi–Putin Moscow meeting]] and Putin's statement that he was open to a negotiating process on Ukraine, and a report, citing Bloomberg, that US officials were studying how to guarantee all $18 trillion in US bank deposits.[26] In the latter the outlet noted its own March 12 tweet had anticipated the development, catalogued [[bill-ackman|Bill Ackman]]'s reversal from demanding "shock and awe" rate hikes to urging a pause, and posed the rhetorical question "what does the Treasury know that we don't" while conceding the likely answer was nothing, since bank crises are non-linear.[26]
 
+## February 2024 coverage
+
+ZeroHedge reported in February 2024 on [[elon-musk|Elon Musk]]'s X Spaces disclosure that [[neuralink|Neuralink]]'s first human patient had made a full recovery and could control a computer mouse by thought.[30] It also covered [[nikki-haley|Nikki Haley]]'s vow to remain in the Republican presidential primary against [[donald-trump|Donald Trump]] ahead of the South Carolina contest, arguing that her purpose in staying was to prevent the right from consolidating behind Trump before November.[30]
+
+## Coverage of the Jack Daniel's DEI story (2024)
+
+ZeroHedge reported in August 2024 that Jack Daniel's parent company Brown-Forman Corp. had cut woke training ahead of an expose by commentator [[robby-starbuck|Robby Starbuck]], quoting his claim that "they must have been tipped off by us going through employee LinkedIn pages."[31] The outlet framed the story within its argument that "the toxic woke mind virus has infected corporate America, transforming companies into left-wing activists," and noted that Starbuck's crusade had already pushed Harley-Davidson Inc., Tractor Supply Co. and Deere & Co. to roll back [[diversity-equity-and-inclusion|DEI]] programs.[31]
+
+## Reporting on the CJR Russiagate review (2023)
+
+In late January 2023, ZeroHedge reported the [[columbia-journalism-review|Columbia Journalism Review]]'s scathing indictment of the [[new-york-times|New York Times]] for yellow journalism during the Trump-Russia saga, summarizing the finding as the paper having operated in bad faith and adding that the same was true of the press as a whole.[32] The item was carried in the [[badlands-news-brief|Badlands News Brief]] with commentary from [[burning-bright|Burning Bright]] on [[russiagate-hoax|Russiagate]] accountability.[32]
+
+## July 2024 polling coverage
+
+ZeroHedge reported the Forbes/[[harrisx|HarrisX]] survey of July 19–21, 2024 showing [[kamala-harris|Kamala Harris]] trailing [[donald-trump|Donald Trump]] by 11 points among likely voters, a worse margin than [[joe-biden|Joe Biden]]'s 10-point deficit, under the headline "Stumbling Out Of The Gate."[33] It separately covered a Reuters/[[ipsos|Ipsos]] "shock poll" showing Harris leading Trump 44%–42%, noting the catch that the sample contained 426 Democratic voters against 376 Republicans and 341 independents — an oversampling pattern the outlet said pollsters had also used in 2016 and 2020.[33]
+
+## Coverage of the Cohen cross-examination
+
+ZeroHedge reported on the May 16, 2024 cross-examination in which [[donald-trump|Donald Trump]]'s defense attorney [[todd-blanche|Todd Blanche]] "dog walked" star witness [[michael-cohen|Michael Cohen]] through what it described as lie after lie, leaving [[cnn|CNN]] pundits aghast.[36] The piece detailed Blanche's use of text messages showing Cohen had spoken with Trump bodyguard [[keith-schiller|Keith Schiller]] rather than Trump, Cohen's contradicted congressional testimony about wanting no administration role, and his false denial of having sought a pardon.[36]
+
+## November 2023 coverage
+
+ZeroHedge reporting was cited twice in the Badlands News Brief of November 15, 2023: for its account of the Senate hearing in which Senator [[markwayne-mullin|Markwayne Mullin]] challenged [[teamsters|Teamsters]] president [[sean-obrien|Sean O'Brien]] to a fight, and for its analysis of the [[october-2023-cpi-report|October 2023 CPI report]], which missed expectations across the board with core inflation at its lowest level since September 2021.[37]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -169,3 +193,27 @@ ZeroHedge supplied two of the items in the March 21, 2023 [[badlands-news-brief|
 25. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
 26. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 27. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+28. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
+## Coverage of the Sound of Freedom review controversy (July 2023)
+In July 2023 ZeroHedge published an item headlined "'Why Do You Support Child Trafficking?' Rolling Stone Slammed Over Negative 'Sound Of Freedom' Review," which characterised [[rolling-stone|Rolling Stone]] as "pedo-loving propagandists" and accused the magazine of seemingly defending child traffickers through its treatment of [[sound-of-freedom|Sound of Freedom]].[28] The piece linked the review to an earlier controversy in which the magazine's boss was said to have removed child pornography accusations after a journalist associate was raided by the FBI.[28] It described reviewer [[miles-klee|Miles Klee]] as a "pothead journalist," summarised his attacks on [[jim-caviezel|Jim Caviezel]] and on claims about [[adrenochrome|adrenochrome]] harvesting, and observed that the film was inspired by the real work of [[tim-ballard|Tim Ballard]] and [[operation-underground-railroad|Operation Underground Railroad]].[28] ZeroHedge closed by noting the film's 99 percent user rating on [[rotten-tomatoes|Rotten Tomatoes]] against 75 percent from professional reviewers.[28]
+## June 2023 coverage of Tucker Carlson on the Bidens
+ZeroHedge reported on 20 June 2023 that [[tucker-carlson|Tucker Carlson]] had "savaged" the Biden family hours after the announcement that [[hunter-biden|Hunter Biden]] would receive what it called a slap on the wrist, noting Carlson's emphasis that none of the charges touched influence peddling and citing an FBI source's account of a $10 million payment from [[burisma|Burisma]].[29] The outlet quoted Carlson's conclusion that "racketeering, money laundering, wire fraud" were among the crimes the Bidens appeared to have committed.[29]
+29. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+30. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+31. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+32. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+33. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## September 2023 items
+
+Two ZeroHedge pieces were excerpted in the September 20, 2023 Badlands News Brief. The first reported CBS News/YouGov and Harvard Harris polling showing [[donald-trump|Donald Trump]] beating [[joe-biden|Joe Biden]] nationally — including 57% to 42% among independents — and relayed [[realclearpolitics|RealClearPolitics]]'s question "What happened to the DeSantis campaign?", noting that [[ron-desantis|Ron DeSantis]] had briefly fallen behind [[vivek-ramaswamy|Vivek Ramaswamy]] among bettors and stood at 14.9% in the RCP Average.[34] The second covered the agreement between Gen. [[mark-milley|Mark Milley]] and [[nato|NATO]] Secretary-General [[jens-stoltenberg|Jens Stoltenberg]] that the West must "prepare ourselves for a long war in Ukraine," including Milley's assessment that over 200,000 Russian troops remained in occupied Ukraine.[34]
+
+34. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## SVB insider loans report (March 2023)
+
+In March 2023, ZeroHedge published an analysis of Bloomberg reporting on [[silicon-valley-bank|Silicon Valley Bank]], arguing that insiders had not only been dumping shares at speed but had simultaneously been "loading up on loans from the bank at a scale that makes a mockery of any regulatory oversight."[35] The outlet noted that loans to officers, directors and principal shareholders and their related interests more than tripled from the third quarter of 2022 to $219 million in the final quarter of that year, a record dollar amount going back over 20 years, and observed that the terms, recipients and collateral would likely never be disclosed.[35] It added that if the loans had been collateralized by SVB shares, the borrowers would be left to repay debts that survive the bank's liquidation with worthless collateral.[35] The item was excerpted in the [[badlands-news-brief|Badlands News Brief]].[35]
+
+35. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+36. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+37. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

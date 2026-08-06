@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, public-opinion, elections, media]
-sources: [raw/badlands-news-brief-3df.md, raw/badlands-news-brief-617.md]
+sources: [raw/badlands-news-brief-3df.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-dfa.md]
 confidence: medium
 ---
 
@@ -28,6 +28,16 @@ The Harvard CAPS/Harris poll released on Sunday, July 23, 2023, with data collec
 
 On the horse race, the poll found Trump comfortably defeating his Republican challengers and leading [[joe-biden|Joe Biden]] by five points and [[kamala-harris|Kamala Harris]] by nine, with [[ron-desantis|Ron DeSantis]] in a dead heat against both Democrats.[2] In a hypothetical Biden-less Democratic primary, Harris drew 44 percent to Kennedy's 22 percent.[2] Badlands commentator Ashe in America urged readers to treat the results with skepticism given the sponsoring institution.[2]
 
+## December 2023 poll on Hunter Biden contempt
+
+A Harvard CAPS/Harris poll released in December 2023 found that 71 percent of Americans believed [[hunter-biden|Hunter Biden]] should be prosecuted for contempt of Congress after he defied a subpoena, with support crossing party lines: 54 percent of Democrats, 89 percent of Republicans and 72 percent of independents.[3] Legal commentator [[jonathan-turley|Jonathan Turley]] wrote that the numbers showed the concerted media effort to excuse the defiance had failed and that the public correctly saw the act as a federal crime.[3]
+
+## July 2023 presidential favorability survey
+
+A Harvard-Harris survey released on July 23, 2023 and conducted July 19-20 among 2,068 registered voters found [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] with the highest favorability rating of any presidential candidate, at 47 percent favorable against 26 percent unfavorable.[4] The poll placed [[donald-trump|Donald Trump]] at 45 percent favorable and 49 percent unfavorable, [[ron-desantis|Ron DeSantis]] at 40 and 37 percent, and [[joe-biden|Joe Biden]] at 39 and 53 percent.[4] It also showed Trump winning the Republican primary and beating Biden 45 to 40 percent in a general election, and leading Vice President [[kamala-harris|Kamala Harris]] 47 to 38 percent, while offering no head-to-head test of Trump against Kennedy.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Media Spin Cycle Continues ... As We Defect", URL: https://badlands.substack.com/p/badlands-news-brief-3df
 2.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+3. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+4. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa

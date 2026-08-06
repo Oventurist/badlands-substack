@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, media-trust, survey]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-5a7.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -46,6 +46,10 @@ Badlands contributor Ashe in America cited the February reading as evidence that
 
 Badlands commentary in July 2023 drew on a series of Rasmussen findings to argue that a supermajority of Americans rejected official narratives: an April 2023 poll finding 65% of likely US voters thought undercover government agents likely helped provoke the January 6 riot (46% "very likely"); 63% saying on July 17 that the country was heading in the wrong direction; 62% expressing distrust of elections on April 20; 88% on May 22 rejecting the claim that the economy was strong; and a June survey showing [[joe-biden|Joe Biden]] roughly ten points underwater on approval.[7]
 
+## July 2024 poll on Biden's resignation
+
+A Rasmussen survey reported in late July 2024 found that a majority of Americans wanted [[joe-biden|Joe Biden]] to resign the presidency with immediate effect: 76 percent of likely voters approved of his decision to stop seeking another term, and 52 percent said he was not capable of finishing his term.[8] Badlands commentary defended the pollster's credibility, observing that Rasmussen had been relatively consistent on public opinion since 2020 and had tracked an upward trend of public awakening over the years, and noted that NYT/Siena polling the previous week had recorded an even higher figure of 87 percent approving Biden's withdrawal.[8]
+
 ## References
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -54,3 +58,4 @@ Badlands commentary in July 2023 drew on a series of Rasmussen findings to argue
 5. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 6. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 7. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
+8. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, blockchain, cryptocurrency, badlands-media]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md]
 confidence: high
 ---
 
@@ -83,6 +83,10 @@ Bitcoin reclaimed the $100,000 level in May 2025 and surged to $106,000 on a Sun
 
 Having fallen below $112,000 days earlier, bitcoin returned above $117,000 late in U.S. trading on Thursday, August 7, 2025, retaking the range it had held for most of July.[14] The crypto market was first lifted overnight by news of President [[donald-trump|Donald Trump]]'s intention to sign an executive order allowing crypto and other alternative assets in 401(k) retirement plans.[14] The later push above $117,000 followed the nomination of [[stephen-miran|Stephen Miran]] to the [[federal-reserve|Federal Reserve]] Board of Governors, a figure presumed to share at least part of the president's dovish view of interest rates.[14]
 
+## February 2024 rally and Coinbase outage
+
+Bitcoin topped $60,000 on Wednesday, February 28, 2024 for the first time since 2021, reaching a collective market capitalization of nearly $1.2 trillion.[15] Shortly after noon Eastern that day it lost about $2,800, or over 4%, in a matter of minutes as reports spread on X of a [[coinbase|Coinbase]] glitch that showed users zero balances.[15] Badlands contributor [[ashe-in-america|Ashe in America]] noted that BTC was north of $62,000 later that day after passing $64,000 earlier, and doubted the narrative that investors had sold within minutes purely in reaction to the exchange outage.[15]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -99,3 +103,4 @@ Having fallen below $112,000 days earlier, bitcoin returned above $117,000 late 
 12. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 13. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 14. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+15. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f

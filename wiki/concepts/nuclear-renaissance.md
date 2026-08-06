@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [energy, nuclear, macro, trump, ai]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-a20.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-748.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-a20.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-d8c.md, raw/badlands-news-brief-dcb.md]
 confidence: low
 ---
 
@@ -59,6 +59,12 @@ Badlands commentary described this as a "convergence of nuclear narratives," arg
 
 On May 22, 2025, the [[white-house|White House]] promoted a package of four executive orders on nuclear power as a "HUGE Day for the Nuclear Industry," with Secretary [[doug-burgum|Doug Burgum]] saying the action was "going to turn the clock back on over 50 years of overregulation of an industry," each order attacking a separate constraint that had held the sector back.[6] The administration listed the nuclear renaissance among its accomplishments for the week alongside the [[one-big-beautiful-bill-act|One, Big, Beautiful Bill]], the [[take-it-down-act|Take It Down Act]], and [[golden-dome|Golden Dome]].[6] [[burning-bright|Burning Bright]] read the signing as literal confirmation of a coming "Golden Age," tying it to a "Timeline War" begun in the 1950s and to remarks by Lt. Gen. [[steve-kwast|Steve Kwast]] that American energy independence and dominance is "a power card" giving Trump strategic room to usher in further changes.[6]
 
+## White House nuclear push, May 2024
+
+On May 29, 2024, the [[white-house|White House]] announced what it called the largest sustained push to accelerate civil nuclear deployment in the United States in nearly five decades, a step ZeroHedge framed as likely to upset environmentalists funded by non-governmental organizations.[7] The administration argued that nuclear power was critical to reaching 100% carbon pollution-free electricity by 2035 rather than relying solely on solar and wind for the grid — a consideration sharpened by the reliable power requirements of AI data centers.[7] The official statement said that "alongside renewable power sources like wind and solar, a new generation of nuclear reactors is now capturing the attention of a wide range of stakeholders for nuclear energy's ability to produce clean, reliable energy and meet the needs of a fast-growing economy," and that decarbonizing the power system, which accounts for a quarter of national greenhouse gas emissions, represented a pivotal challenge.[7] The centerpiece was a new working group, "Nuclear Power Project Management and Delivery."[7]
+
+[[burning-bright|Burning Bright]] described the announcement as the Biden administration — "also known as Trump's Devo Term" — restarting a nuclear energy push that [[dwight-eisenhower|Dwight Eisenhower]] had championed before decades of engineered nuclear warmongering curtailed it.[7] He argued that growing community awareness of the need to transition away from the [[green-new-deal|Green New Deal]] toward a "Tesla-envisioned" retro-futurist nuclear America had accelerated the informational timeline, concluding: "They took it from us. We're taking it back."[7] He treated the concurrent convergence of [[elon-musk|Elon Musk]] and [[donald-trump|Donald Trump]] — reported by Bloomberg as discussions over cryptocurrency policy and a possible Musk speaking slot at the Republican convention — as a further signal in the War of Stories concerning energy and decentralization.[7]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -67,3 +73,11 @@ On May 22, 2025, the [[white-house|White House]] promoted a package of four exec
 4. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
 5. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 6. Badlands Brief — "Badlands News Brief: Remembrance, Razor Blade Throat, & Ukrainian Drone Assassins", URL: https://badlands.substack.com/p/badlands-news-brief-748
+7. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c
+
+## AI data centers and the 2024 inflection point (December 2024)
+
+A December 2024 Forbes analysis argued that while the United States has lost ground to China in batteries, EVs, solar, wind, and critical minerals processing, it still ranks first globally in artificial intelligence — and that maintaining that lead hinges on powering the massive data centers driving AI development.[8] With Europe largely conceding on innovation, as evidenced by the Draghi report and an industry exodus from Germany, the piece held that an alliance between tech entrepreneurs and the energy industry could secure both economic prosperity and environmental sustainability if executed strategically.[8] Maintaining U.S. AI leadership requires clean firm power, and 2024 was described as marking a monumental shift for nuclear — the start of a long-awaited renaissance.[8]
+
+Badlands commentary framed this as the mainstreaming of an energy renaissance it had long anticipated, including "known but suppressed realities of nuclear power," and drew a parallel between the nuclear story arc and AI: an inevitable arms race, with the distinction that "nukes can't create more nukes, but AIs can create more AIs."[8] Following the agreement by [[joe-biden|Joe Biden]] and [[xi-jinping|Xi Jinping]] that humans rather than AI should control nuclear weapons, the commentary observed that the AI and nuclear narratives were "no longer flirting, they're in bed," with AI likely to play some role in nuclear command while itself requiring nuclear power to run.[8]
+8. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

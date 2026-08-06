@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, elections, nationalism, europe]
-sources: [raw/badlands-brief-50d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-c18.md]
+sources: [raw/badlands-brief-50d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-dae.md]
 confidence: medium
 ---
 
@@ -103,6 +103,10 @@ In October 2023 [[christian-democratic-union|Christian Democratic Union]] MP [[m
 
 At the time the AfD was the second most popular party in Germany, standing at 21 percent in Politico's poll of polls behind only the CDU, with some surveys placing it as high as 23 percent and approximately 30 percent of German voters saying they could imagine voting for the party.[16] [[burning-bright|Burning Bright]] framed the episode as a "weekly reminder that the Awakening is worldwide," noting the party was founded only in 2013 and had surged every year since 2018 amid rising immigration, associated crime, and inflation he attributed to Western sanctions on Russia imposed since 2022, all under the leftist government of Chancellor [[olaf-scholz|Olaf Scholz]].[16] He described rival MPs calling for a party to be banned "in order to protect Democracy" as evidence of "Clown World," concluding that "the awakening happens very slowly ... and then all at once."[16]
 
+## 2024 surge and exclusion motion
+
+In November 2024 the AfD climbed to 19.5 percent in Insa-Consulere polling published by Bild, a gain of 1.5 points since October and firmly second behind the CDU/CSU at 32.5 percent.[17] The rise coincided with an [[afd-ban-effort|effort by 112 Bundestag members]] from across the political spectrum to exclude the party from the February 23 snap election on the grounds that it is "anti-democratic," a motion submitted to the [[bundestag|Bundestag]] president with the potential to reach Germany's Constitutional Court.[17] Party leader [[alice-weidel|Alice Weidel]] polled at 17 percent as a prospective chancellor, and at 27 percent in eastern Germany.[17]
+
 ## References
 1. Badlands Brief — "Alternative Annexations & New(ish) Regime Change", URL: https://badlands.substack.com/p/badlands-brief-50d
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -120,3 +124,4 @@ At the time the AfD was the second most popular party in Germany, standing at 21
 14. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 15. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 16. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+17. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, bank-failure, 2023, systemic-risk]
-sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-ea7.md]
 confidence: medium
 ---
 
@@ -54,6 +54,10 @@ The downfall of Silicon Valley Bank and [[first-republic-bank|First Republic Ban
 
 The downfall of Silicon Valley Bank and [[first-republic-bank|First Republic Bank]] rattled financial markets and prompted the [[federal-reserve|Federal Reserve]], the [[us-department-of-the-treasury|Treasury]] and the [[federal-deposit-insurance-corporation|FDIC]] to shore up the banking sector with special loans and guarantees of uninsured deposits at the failed institutions.[7] Economist [[daniel-lacalle|Daniel Lacalle]] told [[the-epoch-times|The Epoch Times]] that the failures were a symptom of a broader problem the central bank could not fix, and that repeated liquidity injections simply create new bubbles.[7] The episode also drove bank lobbying for a temporary blanket deposit guarantee, described at [[2023-proposal-to-guarantee-all-us-bank-deposits|the 2023 proposal to guarantee all US bank deposits]].[7]
 
+## Insider loans before the collapse
+
+Bloomberg reporting relayed by [[zerohedge|ZeroHedge]] in March 2023 found that SVB's loans to "insiders" — officers, directors and principal shareholders, and their related interests — more than tripled from the third quarter of 2022 to $219 million in the final three months of that year, a record dollar amount going back over 20 years.[8] ZeroHedge argued that insiders had not only been dumping shares at speed but simultaneously loading up on loans from the bank at a scale that "makes a mockery of any regulatory oversight," while noting that the terms, recipients and collateral of the loans would likely never be disclosed.[8] It also observed that if the loans had been collateralized by SVB shares, those shares were now worthless, leaving the loan-heavy C-suite obliged to find cash to repay debts that do not disappear with the bank's liquidation.[8]
+
 ## References
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
 2. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
@@ -62,3 +66,4 @@ The downfall of Silicon Valley Bank and [[first-republic-bank|First Republic Ban
 5. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
 6. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
 7. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+8. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7

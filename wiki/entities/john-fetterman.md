@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, pennsylvania, democrat, government-shutdown, israel]
-sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c19.md]
+sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-d7a.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -54,6 +54,16 @@ On Sunday, October 29, 2023, a man was forcibly removed from a Fetterman campaig
 
 [[burning-bright|Burning Bright]] commented that despite intense tension within the [[truth-community|Truth Community]] over the Israel chaos, the worst response available to individuals or the decentralized collective was to shame or discourage the earnest asking of questions of any party on the game board.[8] He noted that when reactions by Establishment figures mirror sentiments expressed by supposed America First journalists in what Badlands calls Con Inc., [[just-human|Just Human]]'s appeal that "Understanding > Reacting" was made for such times.[8]
 
+## Shutdown pay votes (October 2025)
+
+Fetterman crossed party lines on Thursday, October 23, 2025, along with Georgia Democrats [[jon-ossoff|Jon Ossoff]] and [[raphael-warnock|Raphael Warnock]], to vote for the Republican-sponsored [[shutdown-fairness-act-of-2025|Shutdown Fairness Act of 2025]], which would have paid active-duty military members and other essential federal employees during the [[october-2025-government-shutdown|October 2025 government shutdown]]; Democrats blocked it 54-45.[9] Fetterman — along with Sens. [[catherine-cortez-masto|Catherine Cortez Masto]] and [[angus-king|Angus King]] — had also been voting with Republicans to reopen the government.[9]
+
+## Defense of the Trump meeting on "The View" (January 2025)
+
+Appearing on ABC's "The View" on Monday, January 27, 2025, Fetterman defended his highly publicized visit to [[mar-a-lago|Mar-a-Lago]] to meet [[donald-trump|Donald Trump]] ahead of the inauguration, which had drawn backlash from members of his party, saying that working with the president was part of his job.[10] The senator, who has expressed a willingness to reach across the aisle, praised Trump as "kind" and "cordial."[10] "I think overall it was a positive experience. I mean, he was — he was kind. He was cordial. It wasn't in a — in any kind of theater, it wasn't trying to get your picture taken to put something out on social media. It was really just a conversation," Fetterman recalled.[10]
+
+Badlands host [[canncon|CannCon]] was unmoved, writing that whether Fetterman "might switch parties" or had said nice things about Trump was immaterial, and that there was "no way this is the best person PA could have elected" to serve among the 100 members of the [[us-senate|United States Senate]].[10]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 2. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
@@ -63,3 +73,11 @@ On Sunday, October 29, 2023, a man was forcibly removed from a Fetterman campaig
 6. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 7. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 8. Badlands Brief — "Another Trump Trial Begins ... Regime Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-c19
+9. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+10. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a
+
+## Response to splitting Ukraine and Israel aid (October 2023)
+
+When Republicans in [[us-congress|Congress]] pushed in October 2023 to separate additional Ukraine funding from Israel aid, Fetterman posted a two-word reply on X: "F*ck that."[11] He did not elaborate.[11] Badlands contributor [[ashe-in-america|Ashe in America]] cited the post — describing him as "the ever-eloquent Senator John Fetterman (D-PA)" — as an illustration of a Congress she argued was uniformly committed to escalation on at least two fronts.[11]
+
+11. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

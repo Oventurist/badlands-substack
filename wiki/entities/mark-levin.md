@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, pro-israel, first-amendment, talk-radio]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-25c.md, raw/badlands-brief-285.md, raw/badlands-brief-774.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -76,6 +76,10 @@ The same commentary contended that ever since Trump's May visit to the Gulf Arab
 
 In June 2025, Levin amplified a *Jerusalem Post* story in which Christian Zionist leader [[laurie-cardoza-moore|Laurie Cardoza-Moore]] said [[tucker-carlson|Tucker Carlson]] had called to "beg" her for a public apology after she branded him an antisemite, posting it with what Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described as a smug and unmemorable remark.[13] Levin was said to be gloating over Cardoza-Moore's request that President [[donald-trump|Donald Trump]] permanently ban Carlson from the [[white-house|White House]].[13] GhostofBasedPatrickHenry used the episode to argue that Levin and Cardoza-Moore exemplified an unbridled hubris among defenders of Israel that was metastasizing into totalitarianism, restating the Badlands position that "the NeoCons are Leftists, and always have been" and that they would destroy the life of anyone who defied them.[13] He closed the segment by sharing a clip of Carlson making fun of Levin.[13]
 
+## Reaction to the Israel–Iran ceasefire (June 2025)
+
+When President [[donald-trump|Donald Trump]] announced the ceasefire ending the [[twelve-day-war|Twelve Day War]] and revealed on Truth Social that he had been coordinating with both Iran and Qatar, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] singled out Levin's sour response as emblematic of neoconservative disappointment, writing that "WW3 is cancelled. NeoCons RUGGED. (Again.)"[14] He argued that Levin, rather than being excited about the peace announcement, is "a blood-sucking jackal who worships death and destruction" who "is only happy when there is a constant state of war."[14] As further evidence, he cited a post in which Levin called an Iraq War veteran an expletive for suggesting the United States should not launch another ground invasion in the Middle East.[14]
+
 ## References
 
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
@@ -91,3 +95,10 @@ In June 2025, Levin amplified a *Jerusalem Post* story in which Christian Zionis
 11. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168
 12. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
 13. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+14. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+
+
+## Reaction to potential Iran talks (June 2025)
+Badlands commentary in June 2025 predicted that if President [[donald-trump|Donald Trump]] followed through on hosting Iranian officials at the White House during the Israel-Iran war, "Mark Levin's head may actually explode" — using Levin as shorthand for the pro-escalation commentariat likely to oppose any negotiated outcome.[15]
+
+15. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

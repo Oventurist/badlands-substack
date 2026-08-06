@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, conservative-media]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d6a.md]
 confidence: high
 ---
 
@@ -28,8 +28,19 @@ The Epoch Times published an interview in March 2023 with fund manager and econo
 
 The Epoch Times published an interview in March 2023 with fund manager and economist [[daniel-lacalle|Daniel Lacalle]], who argued that ordinary Americans would see their wealth repeatedly chipped away as the monetary system degrades and requires progressively more intervention to perpetuate itself, though it might take "a very long time" for the system to break.[4] The piece framed the failures of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]] as symptoms of a problem the [[federal-reserve|Federal Reserve]] cannot fix.[4]
 
+## Coverage of the Sulzberger interview (February 2024)
+
+In February 2024 The Epoch Times reported that [[new-york-times|New York Times]] publisher [[arthur-greg-sulzberger|Arthur Greg Sulzberger]] had defended his paper's coverage of President [[joe-biden|Joe Biden]]'s age, saying it had made the [[white-house|White House]] "extremely upset."[6] The piece drew on Sulzberger's interview with Oxford University's Reuters Institute for the Study of Journalism and was picked up by ZeroHedge.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 3. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 4. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## June 2023 COVID-19 vaccination study coverage
+
+On 20 June 2023 The Epoch Times reported on a *JAMA Network Open* study finding that every attendee of a Berlin health conference known to have been infected with COVID-19 afterward had been vaccinated, detailing the survey response rates and the 14 percent positivity figure among those tested.[5] The report was picked up by Badlands Media and used as the basis for commentary by [[justin-deschamps|Justin Deschamps]].[5] See [[2023-berlin-health-conference-covid-19-outbreak-study|2023 Berlin health conference COVID-19 outbreak study]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+6. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

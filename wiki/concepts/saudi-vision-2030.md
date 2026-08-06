@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [saudi-arabia, economy, infrastructure, mbs]
-sources: [raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -24,3 +24,10 @@ At the [[saudi-us-investment-forum|Saudi-US Investment Forum]] in Riyadh on May 
 
 1. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 2. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+
+## Lithium extraction as proof of concept (December 2024)
+
+Badlands commentary in December 2024 presented Saudi Arabia's discovery of lithium in its oil fields as "proof" of the plan's viability.[3] The Vision's crux, as described, is that Saudi Arabia will transition away from dependence on oil for its wealth, eliminate radical elements of Islam from its society, develop new economic sectors — namely tourism and technology — and elevate living standards, positioning the Kingdom as a future leader of the emerging multipolar sovereign world.[3] Commentators noted that President Obama had laughed in Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s face when he shared the Vision as Defense Minister in the Oval Office in April 2016.[3]
+
+The delivery mechanism identified was technology developed at [[king-abdullah-university-of-science-and-technology|King Abdullah University of Science and Technology]] with investment from [[saudi-aramco|Aramco]] and [[maaden|Ma'aden]], deployed by the startup [[lihytech|LiHyTech]], which extracted lithium from oilfield brine at far higher yields than typical brine.[3] A second feedstock is desalination wastewater: Saudi Arabia leads the world in desalination, its citizens consume twice the global average of potable water daily, the government announced an $80 billion investment in 2016 to double desalination energy efficiency by 2025, and it has continued spending billions on new plants to serve one of the world's youngest populations.[3] The result could see the kingdom leverage its oil and gas infrastructure to become a leading lithium producer and a technology-sector power as well as an energy one.[3]
+3. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

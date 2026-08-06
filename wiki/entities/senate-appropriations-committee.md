@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, senate, appropriations, federal-spending, oversight]
-sources: [raw/badlands-news-brief-1c8.md]
+sources: [raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -18,5 +18,11 @@ In March 2025 the committee's leadership publicly challenged the [[trump-adminis
 
 The appropriators argued that the statute requires the administration to spend all emergency money or none of it, and does not allow the president to select which appropriated funds to release.[1] The clash was characterized as an early salvo in a broader struggle between [[us-congress|Congress]] and the executive over ultimate control of federal spending.[1] See [[2025-emergency-spending-impoundment-dispute|2025 emergency spending impoundment dispute]].[1]
 
+## 2026 appropriations bill and the CPB
+
+The Senate Appropriations Committee's 2026 appropriations bill eliminated funding for the Corporation for Public Broadcasting for the first time in over 50 years, contributing to the CPB's August 2025 decision to wind down operations.[2]
+
 ## References
+
 1. Badlands Brief — "Myanmar's Mayhem, Musk's Marxists, & the Military's Secret Memo", URL: https://badlands.substack.com/p/badlands-news-brief-1c8
+2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

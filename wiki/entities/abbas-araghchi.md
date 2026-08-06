@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, diplomacy, foreign-minister, nuclear]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-245.md, raw/badlands-brief-1c6.md, raw/badlands-brief-52f.md, raw/badlands-brief-9f2.md, raw/badlands-brief-abf.md, raw/badlands-brief-8db.md, raw/badlands-brief-c5b.md, raw/badlands-brief-c07.md, raw/badlands-brief-cd8.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ac8.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-245.md, raw/badlands-brief-1c6.md, raw/badlands-brief-52f.md, raw/badlands-brief-9f2.md, raw/badlands-brief-abf.md, raw/badlands-brief-8db.md, raw/badlands-brief-c5b.md, raw/badlands-brief-c07.md, raw/badlands-brief-cd8.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -112,3 +112,9 @@ On October 9, 2024, Araghchi met Saudi Crown Prince [[mohammed-bin-salman|Mohamm
 13. Badlands Brief — "Epstein Fallout & Middle East Madness", URL: https://badlands.substack.com/p/badlands-brief-eea
 14. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 15. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+
+
+## Reaction to Israeli strikes on nuclear sites (June 2025)
+Speaking on Sunday, June 15, 2025, Araghchi said Israel had "crossed a new red line in international law" by attacking Iranian nuclear sites during [[operation-rising-lion|Operation Rising Lion]], and that Iran was launching missiles and drones at Israel in response.[16] He insisted that the Iranian nuclear programme was peaceful and that his country's doctrine was "rooted in our belief in the prohibition and illegitimacy of nuclear weapons," while noting that Israel is widely believed to possess nuclear weapons it neither confirms nor denies.[16]
+
+16. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

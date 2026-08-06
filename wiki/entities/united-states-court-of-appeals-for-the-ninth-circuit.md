@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, national-guard, california, litigation]
-sources: [raw/badlands-news-brief-540.md]
+sources: [raw/badlands-news-brief-540.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ A three-judge panel of the court — two of its members appointed by Trump and o
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] observed that California and Newsom "got less than a day of celebrating their win against Trump" before the appellate stay, and noted that the Guard would therefore remain under federal control through the weekend's [[no-kings-protests|No Kings]] demonstrations.[1]
 
+## Administrative stay in the Portland National Guard case (October 2025)
+
+In October 2025 the Ninth Circuit temporarily lifted a lower court order blocking the deployment of Oregon [[national-guard|National Guard]] troops to Portland, while a broader ban on any state's National Guard entering the city remained in force.[2] The administrative stay applied only to U.S. District Judge [[karin-immergut|Karin Immergut]]'s Saturday ruling halting Oregon's deployment; the court explicitly did not assess either side's arguments, stating that the move preserved the status quo while it deliberated.[2]
+
+"The administrative stay will best preserve the status quo," the court wrote, noting that Oregon troops had been federalized but not deployed before the initial order.[2] The panel scheduled arguments for Thursday on whether to extend the stay, in a dispute Badlands commentary expected to reach the Supreme Court.[2] See [[oregon-national-guard-deployment-lawsuit|Oregon National Guard deployment lawsuit]].[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
+2. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

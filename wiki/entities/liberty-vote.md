@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, litigation, dominion]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-497.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -30,6 +30,16 @@ Badlands contributor [[ashe-in-america|Ashe in America]] described the arrangeme
 
 Attendees of a Colorado county clerks' meeting with the Liberty Vote CEO — a long-time Dominion regional representative — reportedly heard that the biggest, and possibly only, reason for the change was branding and reputation management to combat the industry's crisis of public trust, summarized as "Same team, same service, different name."[2] Open questions raised included whether Dominion and KNOWiNK relationship managers would be merged, whether a reduction in force would follow, how client portfolios overlap, and whether Liberty Vote would ever become more than a branded holding company.[2] The provisional conclusion was that the practical level of change to elections resulting from the ownership change appeared low, pending verifiable information on the roadmap for legal structure, governance, management, and technical architecture.[2]
 
+## Announcement of the sale
+
+The renaming and sale were announced publicly on Thursday, October 9, 2025, when the new owners disclosed that [[dominion-voting-systems|Dominion Voting Systems]] — the company at the center of controversy following the 2020 election — had been renamed "Liberty Vote" and sold to new ownership late the previous month.[4] The purchaser was Republican [[scott-leiendecker|Scott Leiendecker]], a former director of elections for the city of St. Louis and the creator of [[knowink|KNOWiNK]], the largest provider of electronic poll books; the sale, finalized in September, made him the sole private owner, and the price was not disclosed.[4]
+
+In a statement Leiendecker said "Liberty Vote signals a new chapter for American elections—one where trust is rebuilt from the ground up," adding that the company was "committed to delivering election technology that prioritizes paper-based transparency, security, and simplicity so that voters can be assured that every ballot is filled-in accurately and fairly counted."[4]
+
+Coverage noted that Dominion, heavily criticized after the 2020 election, had since won several large settlements from news organizations — most recently $67 million from [[newsmax|Newsmax]] in August 2025, following [[fox-dominion-defamation-settlement|Fox News Channel's $787.5 million settlement]] in 2023.[4]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] said her initial reaction to the purchase by the creator of KNOWiNK and the Liberty Vote rebranding was that it was not good, a reaction shared by co-host CannCon.[4] She allowed that a reading existed in which a trustworthy owner now held physical custody of all the Dominion source code, but judged that the least likely outcome on the available information.[4] She also questioned the implication that the new company would not use the same technology — asking what, in that case, was actually being bought — and criticized Raheem Kassam for attending White House meetings on election source code and vendor activity and then boasting about it online while accusing a colleague of bad faith, concluding that "trust is earned."[4]
+
 ## Outreach to county clerks and equipment decommissioning
 
 Following the acquisition, Liberty Vote's chief executive began engaging county election officials directly.[3] The El Paso County Clerk in Colorado told constituents in October 2025 that Liberty Vote was working with the [[election-assistance-commission|Election Assistance Commission]] to decommission all old Dominion equipment so that it could not be voted on, information he said he learned on a conference call of large-county clerks with the Liberty Vote CEO, with a further call expected for clerks from all counties.[3] The clerk added that Idaho Labs was under consideration as an independent third-party election auditor unaffiliated with any state or federal government, and that all manufacturing and all source code were returning to the United States.[3] Badlands contributor [[ashe-in-america|Ashe in America]] reported that Colorado officials including [[jena-griswold|Jena Griswold]] and [[matt-crane|Matt Crane]] were said to have been blindsided by the sale, which she read as evidence that internal changes had already occurred.[3] See [[liberty-vote-acquisition-of-dominion-voting-systems|Liberty Vote acquisition of Dominion Voting Systems]].[3]
@@ -38,3 +48,4 @@ Following the acquisition, Liberty Vote's chief executive began engaging county 
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Satellite Secrets, Spanish Sanctions, & Enslaved Scammers", URL: https://badlands.substack.com/p/badlands-news-brief-398
 3. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
+4. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mergers, hollywood, streaming]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -52,3 +52,11 @@ Paramount said it bypassed the board because it was "pursuing an inferior propos
 3. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 4. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
 5. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+
+## Ellison acquisition interest (September 2025)
+
+In September 2025, [[david-ellison|David Ellison]] was reported to be mulling a deal then worth more than $70 billion to acquire Warner Bros. Discovery in its entirety, only five weeks after his [[skydance-media|Skydance Media]] completed an $8 billion takeover of [[paramount-global|Paramount Global]] and while the merged company was still cutting upwards of 2,000 jobs.[6] Variety framed the timing as an attempt to beat rival suitors to the punch.[6]
+
+Badlands contributor [[burning-bright|Burning Bright]] argued that an Ellison-backed bid would place cultural assets including [[hbo|HBO]], [[cnn|CNN]], Cartoon Network, DC, Harry Potter and Game of Thrones under sovereign-aligned ownership, describing the establishment's hysteria over the prospective acquisitions as evidence that incumbents feared losing their grip on American storytelling and narrative control.[6]
+
+6. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

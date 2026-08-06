@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, third-party, 2024-election, conventions]
-sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-a21.md]
+sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-d68.md]
 confidence: low
 ---
 
@@ -26,7 +26,13 @@ At the [[2024-libertarian-national-convention|2024 national convention]], descri
 
 [[donald-trump|Donald Trump]] addressed the convention and negotiated portions of the platform in real time from the stage, drawing boos and profanity from delegates.[2] Badlands contributor [[ashe-in-america|Ashe in America]] wrote that Libertarians spent the following Monday "trying to convince everyone they're actually relevant after proving over the weekend that they are, in fact, not," argued that the party had face-planted after being given its biggest spotlight ever, and characterized it as remaining "the party of open borders and societal licentiousness."[2] She added that Libertarians were afterward fighting each other on social media, with some asking Trump to make good on the cabinet and senior post positions they had booed at the convention.[2]
 
+
+## The 2024 convention and the Trump address
+
+The party's [[2024-libertarian-national-convention|2024 national convention]] in Washington, D.C. became a flashpoint when it invited Donald Trump — the opposing 2024 Republican nominee — to speak while the party was simultaneously nominating its own candidate against him.[3] Trump was booed, heckled and cheered; his ticket-buying supporters chanting "WE WANT TRUMP" were drowned out by delegates chanting "END THE FED," and disputes over front-row seating, despite chairwoman [[angela-mcardle|Angela McArdle]]'s assurances that delegates would be seated first, escalated from verbal battles into fisticuffs.[3] [[vivek-ramaswamy|Vivek Ramaswamy]] used his own convention remarks to call for a "libertarian-nationalist alliance" with the America First wing of the Republican Party, drawing mostly boos, and debated the party's vice presidential nominee Clint Russell.[3]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Biden Bungles Rafah as Trump Trials Collapse", URL: https://badlands.substack.com/p/badlands-news-brief-0c1
 2. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
+3. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68

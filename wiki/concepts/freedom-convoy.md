@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [canada, protest, covid-mandates, emergencies-act, lawfare]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-ea1.md]
 confidence: medium
 ---
 
@@ -32,7 +32,19 @@ On January 23, 2024 the Federal Court ruled that the Liberal government's decisi
 
 [[ashe-in-america|Ashe in America]] wrote that the convoy's organizers had been "quickly declared enemies of the state," with assets frozen, characters assassinated and livelihoods destroyed for peacefully protesting government policy, and that the ruling confirmed that treatment was unjust — a victory for liberty worth celebrating "even if it's Canadian."[2]
 
+## Conviction of Pat King (November 2024)
+
+On Saturday, November 23, 2024, [[pat-king|Pat King]], one of the leaders of the 2022 trucker protests, was convicted on five charges for organizing the demonstrations against Canadian COVID-19 policies.[3] Justice Charles Hackland ruled that "Mr. King was not merely engaging in political speech... Rather, he was inciting the protesters to continue their ongoing blockade of downtown Ottawa."[3] Badlands Media stressed that the blockade was an entirely peaceful protest that caused no damage and did no harm other than frustrate the government of [[justin-trudeau|Justin Trudeau]], and that inciting protesters to keep protesting peacefully would be protected speech and assembly under the US First Amendment, a protection Canada lacks.[3] King faced up to five years, a penalty Badlands contrasted with the expected leniency toward the rioters at the [[2024-montreal-nato-summit-riots|Montreal NATO summit]] the previous night.[3]
+
+## Invoked in the 2024 US trucker boycott
+
+In February 2024 the Freedom Convoy was invoked as a precedent when American truckers announced they would refuse loads bound for New York City in protest of the [[trump-new-york-civil-fraud-judgment|$355 million civil fraud judgment]] against [[donald-trump|Donald Trump]].[4] Badlands contributor [[simon-esler|Simon Esler]], a Canadian, wrote that watching Canada's truckers stand up to what he called the globalist tyranny enacted by [[justin-trudeau|Justin Trudeau]] had been one of the most inspiring and patriotic experiences of his life.[4]
+
+Esler documented how Marxist commentators processed the convoy, quoting Marxist.ca's claim that angry, distrustful truck drivers had been won over by fringe anti-vaccine movements because they felt powerless, and that the vaccine mandate was merely an easy target while the true cause of their difficulties was employers keeping wages low.[4] He argued this analysis was blind to the fact that working people had developed a nuanced understanding of [[lawfare|lawfare]] as a cover for election interference, that the awakening was identifying and rejecting elite power in a way Neo-Marxist groups astroturfed by figures such as [[george-soros|George Soros]] had failed to, and that worker-led uprisings against corruption were being carried out by devoutly anti-communist citizens.[4] He also recalled that Canadian elites and media were sufficiently alarmed by the convoy to construct a narrative claiming that honking was a dogwhistle for "Hail Hitler."[4]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 2. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+3. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
+4. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1

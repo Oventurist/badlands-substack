@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, venezuela, election-integrity, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-f18.md]
 confidence: medium
 ---
 
@@ -75,6 +75,10 @@ Taking advantage of New York's broad journalistic protections, Fox countersued u
 
 A federal judge ruled in 2025 that MyPillow founder Mike Lindell had defamed Smartmatic with 'false statements' alleging that the company's machines helped rig the 2020 presidential election, one of several legal disputes still surrounding Lindell as he weighed a run for governor of Minnesota.[7]
 
+## Fox News public records lawsuit (January 2025)
+
+In late January 2025, [[fox-news|Fox News]] sued Los Angeles County to obtain public records concerning the county's relationship with Smartmatic, filing days after a New York-based appeals court declined to dismiss Smartmatic's $2.7 billion defamation suit against the network over allegedly false claims about rigging of the 2020 election.[8] The complaint alleges evidence of corruption between county officials and Smartmatic employees during the bidding process for voting technology, describing the two as "entities with recent and extensive allegations of corruption in government contracts" and asserting that Fox had "already uncovered evidence showing personal benefits, including some undisclosed, flowing from Smartmatic to one County official."[8] See [[fox-news-lawsuit-against-los-angeles-county|the lawsuit]].[8]
+
 ## References
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
 2. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
@@ -83,3 +87,4 @@ A federal judge ruled in 2025 that MyPillow founder Mike Lindell had defamed Sma
 5. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 6. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 7. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+8. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

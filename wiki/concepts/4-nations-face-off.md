@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hockey, nhl, usa, canada, nationalism, sports]
-sources: [raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-f23.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Connor McDavid opened the scoring for Canada with a backhander, but the tone had
 
 [[burning-bright|Burning Bright]] framed the American victory as retribution against Canada in mock-menacing terms, declaring that the United States would now be taking "the one thing you hold more dear than your nation state … Hockey."[1] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] pre-empted objections that the event was mere "bread and circus," arguing the tournament's political charge — the booing of the anthem and the underdog upset — made it a genuine expression of national feeling.[1] Coverage of the game was drawn from [[barstool-sports|Barstool Sports]].[1]
 
+## 2025 championship game and political overtones
+
+Canada beat Team USA 3-2 in overtime in the 4 Nations Face-Off championship game in Boston, Massachusetts, on Thursday, February 20, 2025, a thriller in which political tensions spilled into the arena.[2] Moments after the win, Canadian Prime Minister [[justin-trudeau|Justin Trudeau]] took a swipe at President [[donald-trump|Donald Trump]]'s call for Canada's annexation as the 51st U.S. state, writing on X: "You can't take our country — and you can't take our game."[2] Trump had said on Truth Social earlier that day that he was calling Team USA to spur them toward victory over Canada, which "with FAR LOWER TAXES AND MUCH STRONGER SECURITY, will someday, maybe soon, become our cherished, and very important, Fifty First State."[2] Ahead of the game U.S. fans booed Canada's national anthem, after Canadian fans had booed the "Star-Spangled Banner" before Team USA's win in Montreal the previous week.[2] [[badlands-media|Badlands]] contributor [[burning-bright|Burning Bright]] called Trump's Canada messaging a marker of cultivated power and asked whether Canadian statehood would be settled by an exhibition hockey game, while [[ashe-in-america|Ashe in America]] said she welcomed any Canadian assertion of sovereignty the result might inspire.[2]
+
 ## References
 1. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+2. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

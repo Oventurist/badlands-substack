@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, united-states, iran, strait-of-hormuz]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-be1.md, raw/badlands-brief-b82.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a21.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-be1.md, raw/badlands-brief-b82.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -54,3 +54,11 @@ On May 25, 2024 CENTCOM issued a press release, titled "High Sea States Impact A
 6. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
 7. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
 8. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
+
+## October 2023 drone attacks on Iraq and Syria bases
+
+CENTCOM told NBC News on Tuesday, October 24, 2023, that two dozen American military personnel had been wounded the previous week in a series of drone attacks on American bases in Iraq and Syria.[9] [[pentagon|The Pentagon]] had confirmed the attacks the week before, but the casualty count had not previously been disclosed.[9]
+
+According to CENTCOM, twenty American personnel sustained minor injuries on October 18 when at least two one-way attack drones targeted the [[al-tanf-garrison|al-Tanf military base]] in southern Syria; one drone was shot down, all wounded personnel returned to duty, and no military installations were damaged.[9] That same day, four American personnel suffered minor injuries in two separate drone attacks on U.S. and coalition forces at [[ain-al-asad-airbase|al-Asad base]] in western Iraq.[9]
+
+9. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

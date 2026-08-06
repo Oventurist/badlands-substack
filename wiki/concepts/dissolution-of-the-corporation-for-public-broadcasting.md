@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, public-broadcasting, defunding, congress]
-sources: [raw/badlands-brief-e3b.md]
+sources: [raw/badlands-brief-e3b.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -22,5 +22,11 @@ The board cited sustained political attacks and an inability to fulfill its mand
 
 [[ashe-in-america|Ashe in America]] wrote that CPB was calling it quits because a few months of relying on audience funding proved impossible, arguing government content is incapable of competing and that CPB, after decades of functioning as a "leftist mood ring," had lost public trust long before it lost public funding.[1] She questioned when the collapse would extend to CPB's local sister stations, noting a personal interest in those in Colorado.[1]
 
+## August 2025 announcement details
+
+The CPB confirmed on Friday, August 1, 2025 that it would wind down, citing elimination of its funding by the Trump administration and Congress; a majority of staff positions were to conclude when the fiscal year ended September 30, 2025, with a small transition team remaining through January 2026 for an orderly closeout.[2] Badlands commentator Ashe in America argued that defenders' warnings about rural weather and emergency notifications masked a deeper fear that defunding would reveal there was no market for what she called global communist propaganda.[2]
+
 ## References
+
 1. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
+2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, narrative, information-war, credibility]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-bf6.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Badlands commentary in the same edition extended the critique to specific outlet
 
 The near-simultaneous removal of [[tucker-carlson|Tucker Carlson]] from [[fox-news|Fox News]] and [[don-lemon|Don Lemon]] from [[cnn|CNN]] on April 24, 2023, one day after [[nbcuniversal|NBCUniversal]] parted with chief executive [[jeff-shell|Jeff Shell]], was presented by [[badlands-media|Badlands Media]] as a visible operation of the Media Industrial Complex rather than a run of coincidences.[2] [[burning-bright|Burning Bright]] described the complex as caught in a pincer move over the departure of the most-watched host in American cable news, and argued the paired firings served to conflate Fox and CNN as equivalent corporate media entities, to expose Fox to loyal MAGA viewers, and to continue the shared ratings-collapse cascade that is further decentralizing information dissemination.[2]
 
+## Venezuela coverage as a trial run (2024)
+
+Badlands commentary in July 2024 identified the coverage of Venezuela's disputed election as an exercise of the Media Industrial Complex: the same outlets that had demonised MAGA and [[donald-trump|Donald Trump]] for disputing the 2020 U.S. election, calling him an "authoritarian regime leader" and "American strongman," were now confidently proclaiming the Venezuelan election stolen and describing [[nicolas-maduro|Nicolás Maduro]] in identical terms.[3] Newsweek's confident prediction of a mass Venezuelan exodus to the southern U.S. border was read as laying groundwork for a color revolution to move north just in time for the November U.S. elections, a dynamic summarised as "a trial run."[3]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+3. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

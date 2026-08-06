@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [impeachment, congress, biden-family, oversight]
-sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-ccd.md]
+sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d8f.md]
 confidence: medium
 ---
 
@@ -80,6 +80,12 @@ In August 2024, House Republicans concluded their months-long inquiry with a 292
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the report to argue against indulging cynicism while remaining sober about the work ahead, framing the immediate task as "smoking out the enemy" so that networks could be traced and misdeeds exposed.[10] He questioned whether the current Republican roster contained real fighters rather than practitioners of the blustering and bloviating he recalled from the first Trump administration, and raised the possibility that some members of Congress were being blackmailed, citing the [[jeffrey-epstein|Jeffrey Epstein]] scandal.[10] His closing question was whether the report amounted to another sternly worded letter or the beginning of a more aggressive disclosure operation, and he urged readers to evaluate which congressional seats needed replacing with honest actors.[10]
 
+## Hunter Biden deposition and the move to public hearings
+
+[[hunter-biden|Hunter Biden]] sat for a closed-door deposition before the [[house-oversight-committee|House Oversight]] and [[house-judiciary-committee|Judiciary]] Committees on February 28, 2024, denying that his father was involved in his business dealings and calling the inquiry a "baseless and destructive political charade."[11] Republicans had moved toward a contempt of Congress referral in January 2024 before he agreed to testify voluntarily, describing his testimony as a "critical component" of an inquiry centered on allegations that President [[joe-biden|Joe Biden]] profited from his family's foreign business dealings while vice president.[11]
+
+Afterward, Oversight Chairman [[james-comer|James Comer]] told reporters it had been "a great deposition for us," said it "proved several bits of our evidence," flagged "contradictory statements that I think need further review," and announced that the inquiry would move to a public hearing phase.[11] Representative [[matt-gaetz|Matt Gaetz]], speaking during a mid-hearing break, argued that "it is a mirage to believe that Hunter Biden was engaged in international business. This was a bribe masquerading as an international business transaction — nothing more, nothing less."[11]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
@@ -92,3 +98,4 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatric
 8. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb
 9. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b
 10. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd
+11. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, taliban, state-department, detention, counterterrorism]
-sources: [raw/badlands-brief-509.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-f61.md]
 confidence: low
 ---
 
@@ -25,3 +25,9 @@ The designation was presented in the March 10, 2026 [[badlands-brief|Badlands Br
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
+
+## Collapse of opium production under the Taliban
+
+Afghanistan, which until recently produced 90% of the world's heroin, saw opium cultivation collapse after the ruling [[taliban|Taliban]] government prohibited poppy farming in April 2022, citing religious belief and the social costs of opioid addiction.[2] Geospatial analysis by Alcis found national poppy production down roughly 80% within a year, and satellite imagery of Helmand Province — which produces more than half the crop — showed a 99% drop, leaving fewer than 1,000 hectares under cultivation.[2] Farmers shifted to wheat, helping stave off the worst of a famine that U.S. sanctions helped create, though the United Nations warned that six million Afghans remained close to starvation.[2] The result raised questions about the seriousness of two decades of U.S. counter-narcotics efforts in the country and prompted warnings that shrinking heroin supply could accelerate [[fentanyl-crisis|fentanyl]] use in the United States.[2] See [[taliban-opium-eradication-campaign|Taliban opium eradication campaign]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

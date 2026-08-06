@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, space-force, greenland, trump-administration]
-sources: [raw/badlands-news-brief-cf2.md]
+sources: [raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-df2.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Chief Pentagon Spokesman Sean Parnell circulated the statement, writing that "Ac
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to \"Space\"", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
+
+## Removal from command (April 2025)
+
+Defense Secretary [[pete-hegseth|Pete Hegseth]] fired Space Force Colonel Susannah Meyers, commander of [[pituffik-space-base|Pituffik Space Base]] in [[greenland|Greenland]], on Thursday, April 10, 2025, hours after a report that she had sent an email to the entire base criticizing Vice President [[jd-vance|JD Vance]] following his visit there the previous month.[2] The [[united-states-space-force|Space Force]] said she was removed by Colonel Kenneth Klock, commander of Space Base Delta 1, for "loss of confidence in her ability to lead," adding that "commanders are expected to adhere to the highest standards of conduct, especially as it relates to remaining nonpartisan in the performance of their duties," and that Colonel Shawn Lee had assumed command.[2] Chief Pentagon Spokesman [[sean-parnell|Sean Parnell]] posted the statement, adding that "actions to undermine the chain of command or to subvert President Trump's agenda will not be tolerated at the Department of Defense."[2]
+
+2. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2

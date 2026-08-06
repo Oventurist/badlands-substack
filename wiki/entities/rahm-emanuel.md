@@ -1,10 +1,10 @@
 ---
-title: Rahm Emanuel
+title: "Rahm Emanuel"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, media, cnn, obama-administration, biden-administration]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-3a5.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-ddb.md]
 confidence: medium
 ---
 
@@ -24,6 +24,15 @@ Badlands contributor [[chris-paul|Chris Paul]] framed the CNN hire in terms of t
 
 In March 2025 commentary on [[endeavor|Endeavor]] and the [[2028-los-angeles-olympics|2028 Los Angeles Olympics]], Badlands contributor Chris Paul noted that Endeavor is run by Emanuel's brother [[ari-emanuel|Ari Emanuel]], and described Rahm as Barack Obama's former Chief of Staff and Ambassador to Japan under what he called the fake and illegitimate Biden administration.[2] The commentary also referenced their brother [[ezekiel-emanuel|Ezekiel Emanuel]] and the family's connection to the [[irgun|Irgun]].[2]
 
+## Reported 2028 presidential ambitions
+
+In March 2025, with the 2028 general election still 1,336 days away, Emanuel was reported to be plotting a White House run.[3] The former Chicago mayor — also Barack Obama's first chief of staff and a Democratic congressman for six years — told Politico that he was gearing up to replace President [[donald-trump|Donald Trump]] once Trump is termed out.[3]
+
+Emanuel, 65, had most recently served as U.S. ambassador to Japan during [[joe-biden|Joe Biden]]'s presidency, and embarked on a media tour after returning stateside.[3] That included a column in The Washington Post urging Ukraine not to strike a mineral deal, a role as political commentator at [[cnn|CNN]] where he criticised Trump for making America "predatory" in its foreign policy, and an appearance on Bill Maher's show faulting his own party for prioritising social issues while the country's education shortcomings went unaddressed.[3] "In seventh grade, if I had known I could've said the word 'they' and gotten in the girls' bathroom, I would've done it," he told Maher. "We literally are a superpower, we're facing off against China with 1.4 billion people, and two-thirds of our children can't read eighth grade level."[3]
+
+Badlands contributor [[chris-paul|Chris Paul]] used the report to revisit the family's network of influence: brother [[ari-emanuel|Ari Emanuel]] was Trump's former talent agent, owns the UFC, and runs a firm representing much of the "talent" in mainstream media; brother [[ezekiel-emanuel|Ezekiel Emanuel]] has argued people should die at 75 to avoid becoming a strain on the system; and their father belonged to an Israeli paramilitary organization.[3]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
+3. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, voting-rights-act]
-sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-c9d.md]
+sources: [raw/badlands-brief-6bf.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8c.md]
 confidence: medium
 ---
 
@@ -51,7 +51,16 @@ In a concurring opinion to the Court's July 1, 2024 presidential-immunity decisi
 
 Thomas authored the majority opinion in [[garland-v-cargill|Garland v. Cargill]], decided 6–3 on June 14, 2024, invalidating the [[bureau-of-alcohol-tobacco-firearms-and-explosives|ATF]] rule that classified bump stocks as machineguns.[9] He wrote that Congress has long restricted access to machineguns, a category defined by the ability to "shoot, automatically more than one shot . . . by a single function of the trigger," and that semiautomatic firearms requiring shooters to reengage the trigger for every shot are not machineguns.[9] Concluding that a [[bump-stock-ban|bump stock]] does not convert a semiautomatic rifle into a machinegun, Thomas held that the agency had exceeded its statutory authority under §5845(b).[9]
 
+## Immunity concurrence cited in 2025
+
+Badlands commentary on the 2025 Office of Special Counsel investigation of Jack Smith invoked Thomas's concurring opinion in the presidential immunity ruling, which questioned the legality of Smith's appointment and reasoned that a private citizen cannot criminally prosecute anyone, let alone a former president.[10]
+
+## Harlan Crow property reports and the 2024 Senate hearing
+
+News reports detailing a close relationship between Thomas and Dallas billionaire conservative donor [[harlan-crow|Harlan Crow]] prompted Senate scrutiny of Supreme Court ethics.[11] According to the nonprofit investigative organization ProPublica, Crow purchased three properties belonging to Thomas and his family in a transaction worth more than $100,000 that Thomas never reported.[11] Senate Judiciary Committee Chairman [[dick-durbin|Dick Durbin]] invited Chief Justice [[john-roberts|John Roberts]] to testify at a hearing on ethical standards at the court, citing a "steady stream of revelations" about justices "falling short of ethical standards expected of other federal judges"; Roberts declined and instead supplied a statement of ethics reaffirmed by all nine justices.[11]
+
 ## References
+
 1. Badlands Brief — "SCOTUS: You Can Be Neither Racist Nor Unilaterally Murdery", URL: https://badlands.substack.com/p/badlands-brief-6bf
 2. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
 3. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
@@ -61,3 +70,5 @@ Thomas authored the majority opinion in [[garland-v-cargill|Garland v. Cargill]]
 7. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf
 8. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 9. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d
+10. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+11. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c

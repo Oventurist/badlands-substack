@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, donald-trump, new-york, courts]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-bd6.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ee7.md]
 confidence: high
 ---
 
@@ -82,6 +82,14 @@ Closing arguments in the $370 million civil fraud trial took place on Thursday, 
 
 [[ashe-in-america|Ashe in America]] described the proceeding as "the Letitia James witch hunt about inflated business valuations where there has been no injury or harm either alleged or proven," and predicted Engoron's findings of fact would amount to declaring Trump satanic and his conclusions of law to liability for "eleventy billion dollars."[13] She wrote that CNN's record of the day showed more of the same, with the prosecution granted poetic license and wide berth while Trump and his attorneys were cut off mid-thought, and noted that Engoron was expected to rule by January 31 on the accompanying charges having already ruled on the top-line count.[13] She added that Trump would be back in court the following week for another round with [[e-jean-carroll|E. Jean Carroll]], framing the sequence as election interference rather than serious law.[13]
 
+## November 2023 Trump testimony
+
+Trump took the stand in the case on Monday, November 6, 2023, in a session from which no cameras were allowed.[14] The state's examination was conducted by [[kevin-wallace|Kevin Wallace]] of the attorney general's office, who opened by asking Trump to confirm that he had led the Trump Organization between May 1, 1981 and January 19, 2017.[14] Trump answered by describing Wallace as one of "every Democratic district attorney, attorney general and US Attorney who were coming after me from fifteen sides, all different cases, all Trump haters," and characterized the effort as "Weaponization."[14]
+
+On the substance, Trump testified that banks had not treated his statements of financial condition as a significant factor, saying they "just weren't a very important element in banks' decision-making process" and that this would be explained "as this crazy trial goes along."[14] He further claimed that his brand added millions of dollars in value to his holdings, remarking, "I became president because of my brand."[14] Judge [[arthur-engoron|Arthur Engoron]] told the former president to "just answer the questions, no speeches," and twice asked defense counsel [[christopher-kise|Christopher Kise]], "Can you control your client?"[14] Kise objected that the state was asking "questions that call for narratives."[14]
+
+Commentary from [[burning-bright|Burning Bright]] argued that despite the camera ban the trial generated headlines rivalling Trump's rallies and public appearances, and that the proliferation of simultaneous prosecutions had made it "almost comically difficult to keep track of WHICH Trump Trial we're discussing."[14] In that reading the litigation was not an interruption of the 2024 campaign but its central vehicle: "The Trial(s) of Donald Trump isn't interfering with his campaign. It IS his campaign."[14]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
@@ -97,3 +105,4 @@ Closing arguments in the $370 million civil fraud trial took place on Thursday, 
 11. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
 12. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 13. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
+14. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7

@@ -4,13 +4,19 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, republican-party, kentucky]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d06.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-de8.md, raw/badlands-news-brief-e81.md, raw/badlands-news-brief-eca.md, raw/badlands-news-brief-f54.md]
 confidence: medium
 ---
 
 # James Comer
 
 James Comer is a Republican member of the U.S. House of Representatives from Kentucky and Chairman of the House Oversight Committee.[1]
+
+## Biden family foreign payments memorandum (May 2023)
+
+On May 10, 2023, Comer unveiled a House Oversight Committee memorandum alleging that the family of [[joe-biden|Joe Biden]], their business associates and their companies had received over $10 million from foreign nationals' companies, and had sought to conceal it.[29] The memorandum described a web of more than 20 companies — most of them limited liability companies formed during Biden's vice presidency, at least 15 after he took office in 2009 and several owned or co-owned by [[hunter-biden|Hunter Biden]] — receiving payments ranging from $5,000 to $3 million, including roughly $1 million in previously undisclosed Romanian-linked payments tied to alleged influence peddling.[29]
+
+Comer said the transactions "appear to conceal the source of the funds and reduce the conspicuousness of the total amounts made into the Biden bank accounts," and that "Chinese nationals and companies with significant ties to Chinese intelligence and the [[chinese-communist-party|Chinese Communist Party]] hid the source of the funds by layering domestic limited liability companies."[29] The committee said it wanted to establish what legitimate business the family was in.[29] [[burning-bright|Burning Bright]] argued that Comer had by then seeded four well-sourced narratives: influence peddling by the Biden family and by extension the Obama administration, foreign interference in the executive branch, collusion between big banks, intelligence agencies and the Bidens, and media suppression.[29] See [[biden-family-foreign-payments|Biden family foreign payments]].[29]
 
 ## Minnesota Somali welfare fraud investigation
 
@@ -133,6 +139,16 @@ On Thursday, June 13, 2024, Comer, as chair of the [[house-oversight-committee|H
 
 In June 2023, House Oversight Chairman Comer prevailed in a confrontation with FBI Director [[christopher-wray|Chris Wray]], who agreed on Friday, June 2 to turn over to Congress a document describing an alleged $5 million criminal bribery plot involving [[joe-biden|Joe Biden]].[27] Members were expected to review the document the following Monday.[27] Comer recounted to [[maria-bartiromo|Maria Bartiromo]] that Wray had told him he did not have the document until Comer informed him that he had already seen it.[27] Commentary in the [[badlands-news-brief|Badlands News Brief]] presented the reversal as evidence that the FBI had finally conceded the existence of bribery evidence after weeks of stonewalling, even as the media disputed its legal significance.[27]
 
+## Reaction to the Hunter Biden deposition (February 2024)
+
+After [[hunter-biden|Hunter Biden]]'s closed-door deposition before the [[house-oversight-committee|House Oversight Committee]] on February 28, 2024, Chairman Comer said the next step would be public hearings.[28] "I think this was a great deposition for us. It proved several bits of our evidence that we've been conducting throughout this investigation," he said in a press briefing, adding that "there were also some contradictory statements that I think need further review… So, this [[biden-impeachment-inquiry|impeachment inquiry]] will now go to the next phase, which will be a public hearing."[28]
+
+## "Hopeful" of new Biden findings (July 2023)
+
+Speaking to Fox News on Wednesday, July 5, 2023, Comer said he was "hopeful" that more of the [[house-oversight-committee|House Oversight and Reform Committee]]'s "disturbing findings" in its investigation of the Biden family's alleged criminal scheme would be revealed the following week.[32] He said that six of the twelve banks pursued by House Republicans had provided records that Republicans believed proved [[joe-biden|President Joe Biden]] and his family received millions of dollars from foreign agents, adding: "Bank records don't lie. People make a big issue out of taxes, people cheat on their taxes all the time. But it's hard to cheat on bank records."[32] The Kentucky Republican had said the previous week that he believed the Biden family took in over $20 million from foreign sources in a scheme of "creating policy for money."[32]
+
+[[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] responded that the disclosures had reached the point of "so what," arguing that the [[hunter-biden-laptop|Biden Laptop Report]] had already been published and delivered repeatedly to law enforcement and justice officials with jurisdiction, and that what was needed was action rather than further evidence.[32]
+
 ## References
 
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -162,3 +178,17 @@ In June 2023, House Oversight Chairman Comer prevailed in a confrontation with F
 25. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 26. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d
 27. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06
+28. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+29. Badlands Brief — "Badlands News Brief: Trump's Town Hall, Comer's Committee & Biden's Bribes", URL: https://badlands.substack.com/p/badlands-news-brief-de8
+
+## Epstein subpoenas (August 2025)
+
+On Tuesday, August 5, 2025, Comer formally issued deposition subpoenas compelling testimony from eleven individuals in the [[jeffrey-epstein|Jeffrey Epstein]] investigation, including [[bill-clinton|Bill Clinton]], [[hillary-clinton|Hillary Clinton]], former FBI Directors [[james-comey|James Comey]] and [[robert-mueller|Robert Mueller]], and former Attorneys General [[merrick-garland|Merrick Garland]], [[loretta-lynch|Loretta Lynch]], [[eric-holder|Eric Holder]], [[bill-barr|William Barr]], [[jeff-sessions|Jeff Sessions]] and [[alberto-gonzales|Alberto Gonzales]].[30] The committee also subpoenaed the [[department-of-justice|Department of Justice]] for documents tied to Epstein and his network.[30] The action followed a July 23 bipartisan vote in the Federal Law Enforcement Subcommittee approving a motion by Rep. [[scott-perry|Scott Perry]] authorizing the subpoenas, together with an 8–2 vote on a motion by Rep. [[summer-lee|Summer Lee]] directing release of DOJ records.[30] See [[2025-house-oversight-epstein-subpoenas|the 2025 House Oversight Epstein subpoenas]].[30]
+
+30. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81
+31. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+32. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
+
+## The $3 million CCP wire disclosure (March 2023)
+
+In mid-March 2023, Comer revealed that bank records obtained via subpoena had implicated a "new Biden family member" — one never before identified as part of what he called the influence-peddling scheme — in the [[house-oversight-committee|House Oversight Committee]]'s investigation into the first family's finances.[31] He said a $3 million wire from two individuals tied to the [[chinese-communist-party|Chinese Communist Party]] reached [[hunter-biden|Hunter Biden]] associate [[rob-walker|John "Rob" Walker]] just weeks after [[joe-biden|Joe Biden]] left the vice presidency in 2017, and that "the very next day after that wire was received, the Walker account started transferring money into three different Biden family members' accounts."[31] Comer made the disclosures in interviews with [[fox-news|Fox News]], including with host [[sean-hannity|Sean Hannity]], having said the week before that evidence of CCP money flowing to the Biden family was "as bad as we thought."[31] Badlands commentator [[burning-bright|Burning Bright]] noted that Comer was effectively accusing a sitting president of acting as an unregistered foreign agent of the CCP.[31]

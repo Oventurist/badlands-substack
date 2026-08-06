@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [international-criminal-court, gaza, israel, war-crimes, prosecutor]
-sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -32,9 +32,20 @@ Khan succeeded [[fatou-bensouda|Fatou Bensouda]] as chief prosecutor of the [[in
 
 Reporting published days later revealed that former [[mossad|Mossad]] chief [[yossi-cohen|Yossi Cohen]] had allegedly threatened Bensouda in secret meetings in the years before she opened the inquiry that Khan ultimately advanced.[4]
 
+
+## Pressure over the Israel warrants (May 2024)
+
+After requesting arrest warrants against [[benjamin-netanyahu|Benjamin Netanyahu]] and members of his cabinet in May 2024, ICC chief prosecutor Karim Khan reportedly received threats from officials of various UN member nations.[5] Khan quoted one elected official telling him bluntly that the [[international-criminal-court|ICC]] "was built for [prosecuting] African nations and thugs like Putin," not for Israeli leaders and western democracies.[5] Badlands commentary treated the episode as evidence that the globalist legal architecture had begun to turn on its own creators.[5]
+
+## May 2024 arrest warrant applications
+
+On Monday, May 20, 2024, Khan announced that he was seeking arrest warrants against senior figures on both sides of the Israel-Gaza conflict, an announcement that drew sharp indignation from both warring parties.[6] His application named Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], Israeli Defense Minister [[yoav-gallant|Yoav Gallant]], and Hamas figures [[yahya-sinwar|Yehiya Sinwar]], [[mohammed-deif|Mohammed Diab Ibrahim al-Masri]] — leader of the Izzedine al-Qassam Brigades, better known as Mohammed Deif — and [[ismail-haniyeh|Ismail Haniyeh]], Hamas's political leader, on charges of war crimes and crimes against humanity.[6] The application passed to the [[international-criminal-court|ICC]]'s Pre-Trial Chamber for consideration; approval would produce international arrest warrants for the five men, enforceable by the court's 124 member states.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 2. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 3. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 4. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+5. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+6. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

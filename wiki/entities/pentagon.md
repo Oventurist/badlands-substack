@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, defense, benghazi, labor, cold-war]
-sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/america-for-sale-part-1.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md, raw/badlands-brief-774.md, raw/badlands-brief-c07.md, raw/badlands-brief-db7.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f17.md, raw/badlands-brief-fcb.md, raw/badlands-news-blast.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c93.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-more-perfect-labor-union.md, raw/america-for-sale-part-1.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-165.md, raw/badlands-brief-6f0.md, raw/badlands-brief-739.md, raw/badlands-brief-774.md, raw/badlands-brief-c07.md, raw/badlands-brief-db7.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f17.md, raw/badlands-brief-fcb.md, raw/badlands-news-blast.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -307,6 +307,45 @@ In the days after the 7 October 2023 [[hamas|Hamas]] attack on southern [[israel
 
 The executive order [[ensuring-american-space-superiority|"Ensuring American Space Superiority"]], issued on December 18, 2025, called on the Pentagon and US intelligence agencies to create a space security strategy, urged efficiency among private space contractors, and sought demonstrations of missile-defense technologies under the [[golden-dome|Golden Dome]] program.[58]
 
+## Trump-era balloon sightings (disclosed 2023)
+
+Reporting in February 2023 indicated that a small circle of intelligence officials at the Pentagon during the [[donald-trump|Trump]] administration had monitored a series of mysterious objects — later suspected to have been balloons — without reporting the incidents to the [[white-house|White House]], because it was not clear what they were.[60] Those officials reportedly suspected a link to China and believed Beijing might be using the flights to test radar-jamming systems over sensitive U.S. military sites, but the data amounted only to a basic assessment and so was not shared more widely across the government at the time.[60] The incidents were said to have occurred over Navy sites in Coronado, California; Norfolk, Virginia; and Guam, and were disclosed publicly by the Biden administration after the shootdown of a Chinese high-altitude balloon, prompting [[just-human|Just Human]] to ask why the information had never been sent up the chain of command.[60]
+
+
+## Secure Enclave and CHIPS Act funds (2024)
+
+In March 2024 congressional appropriators shifted $3.5 billion earmarked for Commerce Department [[chips-and-science-act|CHIPS and Science Act]] grants into [[secure-enclave|Secure Enclave]], a Pentagon program not named in the original statute and promoted by chipmaker [[intel|Intel]].[61] Badlands commentary highlighted mainstream reporting that the Biden administration could not explain why billions in CHIPS funding had come under Department of Defense control, reading it as an indicator of continuity with Trump-era policy and of the [[devolution|Devolution]] thesis.[61]
+
+## Cancellation of the Nellis Air Force Base drag show (2023)
+
+At the end of May 2023 the Pentagon ordered [[nellis-air-force-base|Nellis Air Force Base]] in Nevada to cancel a "family friendly" drag show scheduled on base for the start of Pride month, with orders to either cancel the event or relocate it off base.[62] Secretary of Defense [[lloyd-austin|Lloyd Austin]] and Chairman of the Joint Chiefs of Staff Gen. [[mark-milley|Mark Milley]] were reported to have issued the order, which came two months after both men told Rep. [[matt-gaetz|Matt Gaetz]] at a congressional hearing that they did not approve of drag queen story hours on military bases.[62] The show would have been the third held annually at the installation.[62]
+
+## 2023 Ukraine aid accounting error
+
+On 20 June 2023 the Pentagon disclosed that it had overestimated the value of weapons sent to Ukraine by $6.2 billion over two years — roughly double early estimates — creating a surplus available for future security assistance packages.[59] Spokeswoman [[sabrina-singh|Sabrina Singh]] said a detailed review found the military services had used replacement costs rather than the book value of equipment drawn from Pentagon stocks, with errors of $3.6 billion in the then-current fiscal year and $2.6 billion in fiscal 2022.[59] The revision arrived as the fiscal year wound down and congressional funding was beginning to dwindle, effectively freeing additional money to support Ukraine's counteroffensive.[59] Badlands writer [[justin-deschamps|Justin Deschamps]] treated the episode as characteristic of a long-running money-laundering operation on behalf of the [[military-industrial-complex|military industrial complex]] and asked what other accounting errors had gone unnoticed.[59] See [[2023-pentagon-ukraine-aid-accounting-error|2023 Pentagon Ukraine aid accounting error]].[59]
+
+59. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+60. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+61. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+62. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+63. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## Pride event and anti-LGBT law controversy (June 2023)
+
+At a Pride event held at the Pentagon in June 2023, Space Force Chief Operating Officer Lt. Gen. [[deanna-burt|DeAnna Burt]] attacked the proliferation of more than 400 state regulations she described as "anti-LGBTQ+," suggesting such laws endangered military readiness and individual soldiers by preventing service members from being their "true selves."[63] She indicated the asserted threat extended to service members' children who might lack access to gender-affirming healthcare.[63] Badlands contributor [[ashe-in-america|Ashe in America]] cited a Pentagon study finding that 77% of Gen Z candidates are ineligible for military service due to mental instability and physical limitations, arguing this represented the far larger readiness problem and that the services appeared to be "being dismantled from within."[63]
+
+## Reluctance on Ukrainian fighter aircraft (June 2023)
+
+Badlands commentary in the same period noted that the Pentagon, Poland and others had been reluctant to begin supplying Ukraine with fighter planes, and that the [[f-16-fighting-falcon|F-16]] would be a comparable match-up to Russia's MiG-29 rather than a decisive advantage.[63]
+
+
+
+## Quick reaction forces directive (October 2025)
+
+According to internal War Department memos reported at the end of October 2025, the Pentagon directed every state and territory [[national-guard|National Guard]] to establish [[quick-reaction-force|"quick reaction" forces]] by January, trained and equipped to respond to riots and civil unrest across the United States.[65] Each unit could include up to 500 soldiers on short-notice readiness, with nonlethal training in crowd control, handling detainees, and the use of batons, stun guns, body shields, and other equipment.[65] The [[national-guard-bureau|National Guard Bureau]] was to train and equip the forces for "civil disturbance operations," supplying 100 sets of crowd control gear per unit.[65] Readiness targets required 25% of personnel deployable within hours, 50% within 12 hours, and 100% within 24 hours across all 50 states, Guam, the Virgin Islands, and Puerto Rico, with Washington, D.C., maintaining a separate military police battalion.[65] The initiative followed an August directive from President [[donald-trump|Trump]] to War Secretary [[pete-hegseth|Pete Hegseth]].[65]
+
+Separately, Secretary Hegseth met Chinese Defense Minister [[dong-jun|Dong Jun]] at an ASEAN defense chiefs gathering in Kuala Lumpur on October 31, 2025, and ordered dozens of [[judge-advocate-generals-corps|Judge Advocate General's Corps]] attorneys detailed to the [[department-of-justice|Department of Justice]] for duty in Memphis, along the U.S.–Mexico border, and in the District of Columbia.[65]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
@@ -366,3 +405,18 @@ The executive order [[ensuring-american-space-superiority|"Ensuring American Spa
 56. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
 57. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
 58. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+
+## Assessment of the Prigozhin plane crash (2023)
+
+At a briefing in late August 2023, Pentagon spokesman Gen. [[pat-ryder|Pat Ryder]] delivered the official U.S. assessment that an intentional explosion had brought down the aircraft carrying [[yevgeny-prigozhin|Yevgeny Prigozhin]], calling initial U.S. reports of a surface-to-air missile "inaccurate" amid competing accounts of a bomb detonated midair.[64] The department assessed that Prigozhin was likely aboard and had been killed, but did not attempt to posit a precise cause.[64] Ryder separately stated that the [[wagner-group|Wagner Group]]'s presence on the ground in Ukraine was "no longer a significant factor."[64]
+
+64. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+65. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+
+## October 2023 drone attack casualties and the Israel stockpile
+
+The Pentagon confirmed in mid-October 2023 a series of drone attacks on American bases in Iraq and Syria but did not initially disclose casualties; [[us-central-command|CENTCOM]] later told NBC News that two dozen U.S. military personnel had been wounded, twenty at [[al-tanf-garrison|al-Tanf]] in Syria and four at [[ain-al-asad-airbase|al-Asad]] in Iraq.[66]
+
+Separately, at a Pentagon press conference on Monday, October 23, 2023, a senior defense official acknowledged that the [[department-of-defense|Department of Defense]] was returning to Israel 155 mm artillery shells it had earlier withdrawn from its stockpile in Israel for U.S. forces in European Command: "We withdrew 155 [shells] from the stockpile in Israel for our forces in [European Command] and now we are sending that back to Israel for their use."[66] The Pentagon had first acknowledged in January that it dipped into the Israel stockpile to supply Ukraine, and the [[new-york-times|New York Times]] reported that "half" of the shells there were shipped to Europe the previous winter.[66]
+
+66. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

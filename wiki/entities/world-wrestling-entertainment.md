@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, wrestling, kayfabe, trump]
-sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ The company's former chief executive [[linda-mcmahon|Linda McMahon]] was selecte
 1. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 2. Badlands Brief — "Badlands News Brief: President of Precedents ...", URL: https://badlands.substack.com/p/badlands-news-brief-6ff
 3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+
+## WrestleMania 43 in Riyadh
+
+In September 2025, WWE Chief Content Officer [[paul-levesque|Paul Levesque]], known by his ring name Triple H, appeared with [[turki-alalshikh|Turki Alalshikh]] of the [[general-entertainment-authority|General Entertainment Authority]] in Las Vegas to announce that [[wrestlemania-43|WrestleMania 43]] would be staged in Riyadh in 2027 — the first time the event would be held outside North America.[4] Alalshikh called WrestleMania "already the biggest date on the wrestling calendar" and said the announcement marked "a significant moment in our partnership with WWE," delivering on a promise he made in 2018 to pursue big joint projects in [[saudi-arabia|Saudi Arabia]].[4]
+
+4. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

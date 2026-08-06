@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, democratic-party, political-violence, state-senate]
-sources: [raw/badlands-news-brief-69d.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Records cited in press coverage showed that Boelter had served on a state board 
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
+
+
+## June 2025 shooting aftermath
+Hoffman and his wife Yvette were seriously wounded in the June 2025 Minnesota attacks attributed to [[vance-boelter|Vance Luther Boelter]], who was arrested late on Sunday, June 15 after the largest manhunt in Minnesota history and is also accused of killing state Representative [[melissa-hortman|Melisa Hortman]] and her husband Mark.[2] U.S. Representative [[veronica-escobar|Veronica Escobar]] subsequently disclosed that her name was on the shooter's target list.[2]
+
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

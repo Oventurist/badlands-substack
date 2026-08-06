@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, nuclear, diplomacy, oman, trump-administration]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-cf2.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-e0f.md]
 confidence: medium
 ---
 
@@ -44,8 +44,15 @@ The first round produced a brief face-to-face meeting between US special envoy [
 
 Axios reported that the second round was slated for the following Saturday in Rome, that the Trump administration emerged satisfied from the Oman session, and that Witkoff briefed Israeli Strategic Affairs Minister Ron Dermer — Israel being wary of supporting the process.[4] Tehran's foreign ministry said the next round would remain "indirect," although Axios reported the Witkoff-Araghchi conversation had actually run about 45 minutes and that the [[white-house|White House]] wanted to continue direct dialogue.[4] Badlands commentary, citing Middle Eastern reporting circulated by [[barak-ravid|Barak Ravid]], said Witkoff had arrived with a draft proposal that made no mention of dismantling Iran's nuclear program, which was keeping the Iranians engaged, and judged the talks to be trending toward de-escalation.[4]
 
+## Fourth round (May 11, 2025)
+
+[[iran|Iran]] and the United States held a fourth round of negotiations on Sunday, May 11, 2025, over Tehran's rapidly advancing nuclear program, just ahead of President [[donald-trump|Donald Trump]]'s visit to the Middle East that week.[5] The talks ran for some three hours in Muscat, the Omani capital that had been mediating the negotiations, according to a US official.[5] Iranian Foreign Ministry spokesperson Esmail Baghaei said the session lasted that long and that a decision on the next round was under discussion, calling the talks "difficult but useful."[5] The US official, speaking anonymously about the closed-door negotiations, described them as both indirect and direct, adding: "Agreement was reached to move forward with the talks to continue working through technical elements... We are encouraged by today's outcome and look forward to our next meeting, which will happen in the near future."[5] Special envoy [[steve-witkoff|Steve Witkoff]] was in Oman for this round before travelling on to Israel.[5]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that, given the Trump camp's stated desire to make a deal with Iran, the negotiation would ultimately come down to trust and that the "technical elements" were otherwise meaningless.[5] He contended that formal US recognition of Palestine would be the most flippantly defiant moment toward Israel in American foreign policy since the Kennedy administration, and would signal to Tehran that Trump could act outside the influence of Washington and represented Iran's best opportunity for an earnest, mutually beneficial deal with the West.[5] He suggested Iran offer a bold, memetic gesture — joining the [[abraham-accords|Abraham Accords]] — which would demonstrate that Iran does not seek war, furnish new Arab allies should Israel strike first, and grant Tehran the narrative sympathy of the victim, after which it would be difficult for Trump to deny Iran a civil nuclear program as part of a new deal.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands Brief — "Badlands News Brief: Terminations, Port Tensions, & Terrifically Terrifying Trade Wars", URL: https://badlands.substack.com/p/badlands-news-brief-364
 3. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
 4. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
+5. Badlands Brief — "Badlands News Brief: Ceasefires, Cheap Drugs, & A Flying Palace", URL: https://badlands.substack.com/p/badlands-news-brief-e0f

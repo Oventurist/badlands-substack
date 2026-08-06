@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cnn, journalism, 2024-election]
-sources: [raw/badlands-news-brief-bb3.md]
+sources: [raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -20,5 +20,15 @@ Harris responded by pivoting to [[donald-trump|Donald Trump]], noting that Trump
 
 The encounter was described by *Newsweek* as a bruising session for Harris, and it came as polling by Redfield & Wilton Strategies found 53 percent of Democratic-leaning voters supporting a stronger approach to immigration.[1]
 
+## Anderson Cooper segment, July 2023
+
+In July 2023, [[russell-brand|Russell Brand]] ran a segment taking Cooper to task over his televised "takedown" of the philosopher and presidential candidate [[cornel-west|Cornel West]], who opposes the NATO alliance and holds that the West provoked war with Russia.[2] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]], relaying the exchange, characterized Cooper as a "CNN/CIA operative" and treated the clash as an illustration of American politics shifting from a Left-Right-Center axis to an Establishment-versus-anti-Establishment one.[2]
+
+## Reaction to the Cohen cross-examination
+
+After [[todd-blanche|Todd Blanche]]'s May 16, 2024 cross-examination of [[michael-cohen|Michael Cohen]], [[cnn|CNN]] host Anderson Cooper told viewers: "It was incredible ... lawyers want to build a box around the witness & slam it shut — that's what Todd Blanche did to Cohen ... it was an extraordinary cross ... Cohen was cornered in ... a lie."[3] Badlands contributor [[burning-bright|Burning Bright]] characterised the moment as Cooper spending three and a half minutes explaining to a shocked audience that the prosecution's star witness had lied.[3]
+
 ## References
 1. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3
+2. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+3. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

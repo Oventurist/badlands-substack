@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, russia, energy, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-de1.md]
 confidence: medium
 ---
 
@@ -73,6 +73,18 @@ In December 2025, Burkina Faso's military government grounded a [[nigeria|Nigeri
 
 The AES condemned the "unfriendly act" as a "disregard of international law" and a violation of member-state sovereignty, and said it had placed its air defense systems on maximum alert, authorized to "neutralize any aircraft that violates the confederal airspace."[9] [[ecowas|ECOWAS]] and Nigeria said the plane had been bound for Portugal and had strayed unintentionally; Ibrahima Maiga, a close ally of President Captain [[ibrahim-traore|Ibrahim Traoré]], questioned the flight path and asserted the aircraft had switched off its transponder, while reminding the public that any dispute lay between the leaderships and not the peoples of the respective nations.[9]
 
+## Comparison with the Russia–Mali nuclear deal (June 2025)
+
+When Russia and [[mali|Mali]] signed a nuclear energy cooperation agreement with [[rosatom|Rosatom]] in late June 2025, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that Russia had concluded a similar agreement the week before with Mali's neighbour Burkina Faso, where he said 80 percent of the population lacks access to electricity.[10] He framed both deals as embodying the "Golden Age" thesis in which cheap, affordable energy creates abundance capable of lifting the world out of poverty, and suggested the Sahel states might become the definitive case study in how quickly a nuclear energy program can transform a society.[10] See [[russia-mali-nuclear-energy-agreement|the Russia–Mali nuclear energy agreement]].[10]
+
+## Mining permits and military procurement (July 2024)
+
+In a July 2024 address to the nation, Burkinabe leader Captain [[ibrahim-traore|Ibrahim Traore]] announced that Burkina Faso would withdraw mining permits granted to companies from countries that refuse to sell military equipment to the country.[11] Traore said that "some [powers] have refused to sell us [military] equipment, have blocked the equipment we have bought from certain countries because they have the license for certain components," adding that "these powers mine minerals in Burkina Faso."[11]
+
+[[badlands-media|Badlands Media]] framed the move as African states acting rationally in their own interest, comparing it to [[zambia|Zambia]] driving the [[pentagon|Pentagon]] out of the country and outlawing the U.S. dollar, which the commentary alleged the [[state-department|State Department]] had been using to destabilize Zambia; the Zambian kwacha had been reported in February 2024 as Africa's best-performing currency.[11] The brief also cited an EU-commissioned white paper, ostensibly written to vilify Russian activity in Africa, whose graphics showed the [[wagner-group|Wagner Group]] maintaining both a military presence and economic interests in Burkina Faso and conducting military psyops there alongside the Russian government, as well as the distribution of military agreements signed by [[vladimir-putin|Vladimir Putin]] with African states since 2015 and recent coups against those governments.[11]
+
+The withdrawal of mining rights was directed at France, Burkina Faso's former colonial power, over its refusal to sell military equipment.[11] The commentary connected this to Burkina Faso's withdrawal, alongside Niger and Mali, from the [[ecowas|Economic Community of West African States]] earlier in 2024 and the trio's announcement of the [[alliance-of-sahel-states|Alliance of Sahel States]], noting that ECOWAS had been formed in 1975 under Western influence in response to repeated coups and economic instability among its 15 members, yet arguably worsened both.[11] Travel by Russian Foreign Minister [[sergei-lavrov|Sergei Lavrov]] and Deputy Defense Minister [[yunus-bek-yevkurov|Yunus-bek Yevkurov]] across the region the previous month was presented as further evidence of Russian involvement in the new bloc's formation.[11]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -83,4 +95,5 @@ The AES condemned the "unfriendly act" as a "disregard of international law" and
 7. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
 8. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
 9. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
-
+10. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+11. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1

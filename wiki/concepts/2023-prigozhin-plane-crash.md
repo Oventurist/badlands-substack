@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, wagner-group, prigozhin, 2023, assassination]
-sources: [raw/badlands-news-brief-c32.md]
+sources: [raw/badlands-news-brief-c32.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -22,5 +22,21 @@ Wagner confirmed Prigozhin's death, with the Wagner-affiliated Telegram channel 
 
 From that sequence, Burning Bright argued sarcastically that it was hard to see why anyone would think the world was approaching a precipice requiring "a certain Western leader" to steer it away from World War III.[1] He cautioned that "where it concerns Prigozhin, nothing is usually as it seems," urging readers to "focus on the Story being told, and who's telling it," and predicted that "the Story of the Peacemakers marches on" toward a happy or at least cathartic ending.[1]
 
+## Putin's "drunk and playing with grenades" account (October 2023)
+
+Speaking at the annual Valdai Club meeting in Sochi on Thursday, October 5, 2023, President [[vladimir-putin|Vladimir Putin]] floated what ZeroHedge called the most colorful theory to date on why [[yevgeny-prigozhin|Yevgeny Prigozhin]]'s plane went down outside Moscow on August 23: that Prigozhin and his men had likely gotten drunk or possibly high and were playing with grenades aboard the aircraft.[2] Bloomberg reported that Putin said pieces of grenade were found in the bodies of the [[wagner-group|Wagner]] founder and the other mercenary leaders killed in the crash, while hinting that the man who had led an armed revolt against the Kremlin's military leadership had been a drug user.[2] The account contrasted with much of Western and even Russian reporting, which had attributed the crash to an anti-air missile or a planted bomb.[2]
+
+Badlands contributor [[burning-bright|Burning Bright]] read the remarks as Putin joining what he called the "Everything is Fake and Awesome" train, arguing that alongside [[donald-trump|Donald Trump]] the Russian leader was becoming more overt in his winks and nods about the "War of Stories."[2] He framed the episode through [[fifth-generation-warfare|Fifth-Generation Warfare]] — war for control of the collective mind, since all leaders require public buy-in or the illusion of it — and contended that while the [[deep-state|Deep State]] has used psychological operations to terrorize and paralyze the public, patriots are reverse-engineering those tactics to awaken others.[2] He suggested that trollish comments of this kind, much like Trump's allusions to the Biden administration as his "second administration," map onto the idea of a Sovereign Alliance that he judged to be winning.[2]
+
+## Investigation and Kremlin denial (August 2023)
+
+In the days immediately after the crash, Russian investigators announced they were conducting DNA testing on bodies recovered from the site northwest of Moscow, believed to include [[yevgeny-prigozhin|Yevgeny Prigozhin]] and his top [[wagner-group|Wagner]] commanders.[3] In a condolence speech the following day, President [[vladimir-putin|Vladimir Putin]] referred to the Wagner chief in the past tense and remembered him as a "talented" businessman who had made "mistakes," remarks widely read as high-level confirmation that Prigozhin had gone down with the aircraft.[3] State media reported that DNA testing would take time and that the probe had been entrusted to Ivan Sibula, a senior investigator who had previously led inquiries into high-profile air incidents in Russia.[3]
+
+President [[joe-biden|Joe Biden]] pointed the finger directly at Putin, saying while on vacation that he was "not surprised" because "there's not much that happens in Russia that Putin's not behind," although he also conceded, "I don't know enough to know the answer. I've been working out for the last hour and a half."[3] A Thursday [[pentagon|Pentagon]] briefing provided the official U.S. assessment: spokesman Gen. [[pat-ryder|Pat Ryder]] said an intentional explosion had brought the plane down, called initial U.S. reports of a surface-to-air missile "inaccurate" amid competing accounts of a bomb detonated midair, and stated that Prigozhin was likely aboard and killed, without positing a precise cause.[3]
+
+On Friday the Kremlin rejected Biden's allegation, with presidential spokesman [[dmitry-peskov|Dmitry Peskov]] calling attempts to incriminate Russian government leaders absolute lies.[3] "There is a lot of speculation around the plane crash and the tragic death of the passengers, including Yevgeny Prigozhin," Peskov told reporters. "Of course, in the West, this speculation is being presented from a certain angle. All of this is an absolute lie."[3] Two days after the crash Putin signed a decree requiring paramilitary fighters to swear an oath of loyalty to the Russian flag; see [[2023-russian-paramilitary-oath-decree|2023 Russian paramilitary oath decree]].[3]
+
 ## References
 1. Badlands News Brief — "Trump on Tucker, the GOP in Flames, and Russia Provoked", URL: https://badlands.substack.com/p/badlands-news-brief-c32
+2. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
+3. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

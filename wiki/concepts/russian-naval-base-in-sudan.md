@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, sudan, red-sea, africa, multipolar, military-basing]
-sources: [raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -28,5 +28,10 @@ He framed these operations as vital to liberating the African continent from wha
 
 The Sudan agreement coincided with Britain's announcement that it had tracked six Russian naval and merchant ships carrying ammunition used in Syria as they sailed through the English Channel, shadowed by the Royal Navy and Royal Air Force.[1] The British defence ministry said the ships were withdrawing from Syria following the December ousting of President Bashar al-Assad, a close Russian ally, and described the evacuation as a "blow to Moscow's ambitions in the Middle East."[1] Defence minister John Healey said the ships "were retreating from Syria after Putin abandoned his ally Assad, yet they were still armed and full of ammunition," adding, "This shows Russia is weakened but remains a threat."[1] Russia hoped to retain the use of naval and air bases in Syria under the new Islamist leadership that took power after Assad fled to Moscow, following thirteen years of civil war in which Russian troops intervened on his behalf.[1]
 
+## Badlands civil war thesis and 2025 finalization
+
+Badlands commentary published in November 2025 advanced the theory that Sudan's civil war began because the Sudanese government, against the wishes of the Biden administration and the [[state-department|State Department]], approved plans for the construction of a Russian naval base at Sudan's main port — which would be Russia's first formal military installation ever established on African soil.[2] Under this account, Biden restarted the US diplomatic mission in Khartoum in early 2022 as Sudan neared the end of its multi-year review of Vladimir Putin's proposal, and ambassador [[john-godfrey|John Godfrey]] arrived in August 2022 and threatened sanctions if the proposal were accepted.[2] Sudan announced acceptance in February 2023; war broke out about two months later and the embassy was evacuated, an outcome the commentary called "a tentative success" for a mission of destabilization and explicitly characterized as a color revolution operation.[2] Russia and Sudan announced in 2025 that all details of the agreement had been finalized and that construction would begin as soon as possible.[2]
+
 ## References
 1. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+2. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

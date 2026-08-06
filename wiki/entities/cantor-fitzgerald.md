@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, wall-street, tariffs, conflict-of-interest]
-sources: [raw/badlands-brief-959.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/badlands-brief-959.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ In November 2024 the firm's chairman and chief executive, [[howard-lutnick|Howar
 1. Badlands Brief — "We Are the Champions of the World", URL: https://badlands.substack.com/p/badlands-brief-959
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 3. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+
+## Lutnick's tenure and the Commerce nomination (February 2025)
+
+[[howard-lutnick|Howard Lutnick]], the firm's chief executive, was confirmed as US Secretary of Commerce by a Senate vote of 51 to 45 on February 18, 2025.[4] Reporting on the confirmation identified Cantor Fitzgerald as the financial services firm Lutnick led before becoming a central economic adviser to [[donald-trump|Donald Trump]] and head of his transition team.[4]
+
+4. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hunter-biden, house-oversight, china, impeachment-inquiry, biden-family]
-sources: [raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-89f.md, raw/badlands-news-brief-eca.md]
 confidence: medium
 ---
 
@@ -21,3 +21,8 @@ Financial records subpoenaed by the Oversight Committee indicated that members o
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+2. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## The $3 million CCP-linked wire (March 2023)
+
+In March 2023, Walker — described as an associate of [[hunter-biden|Hunter Biden]] — became the focus of speculation in Washington over which Biden family member received a cut of a $3 million wire transfer sent to him just weeks after [[joe-biden|Joe Biden]] left the vice presidency in 2017.[2] House Oversight Committee Chairman [[james-comer|James Comer]] said bank records obtained by subpoena showed the wire came from two individuals tied to the [[chinese-communist-party|Chinese Communist Party]], and that Walker then divided the money among Biden family members.[2] "The very next day after that wire was received, the Walker account started transferring money into three different Biden family members' accounts, including a new Biden family member that's never before been identified as someone being involved in the influence-peddling scheme," Comer told [[fox-news|Fox News]] host [[sean-hannity|Sean Hannity]].[2]

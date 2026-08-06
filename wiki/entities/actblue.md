@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [actblue, campaign-finance, money-laundering, democrats, fundraising]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md, raw/badlands-brief-b62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a0b.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ef.md, raw/badlands-brief-b62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -97,6 +97,12 @@ Citing a compilation credited to [[peter-bernegger|Peter Bernegger]], the brief 
 
 The brief connected the fraud-standards revelation to a March 5, 2025 New York Times report that ActBlue had "plunged into turmoil," with at least seven senior officials resigning in late February and a remaining lawyer suggesting he faced internal retaliation, citing whistleblower retaliation as part of the upheaval.[11] [[regina-wallace-jones|Regina Wallace-Jones]] remained CEO "at least on paper," while a letter from the ActBlue unions warned that the group was "under increasing scrutiny" and "the target of bad-faith political attacks at the hands of ill-intentioned operators."[11] Ashe asked whether action would finally come from [[jim-jordan|Jim Jordan]]'s committee, which she said had been building the record for years, and questioned who made the call to loosen fraud controls mid-cycle.[11] [[canncon|CannCon]] added a one-line response: "Next, do WinRed."[11]
 
+## Democratic counterattack on Republican platforms (May 2025)
+
+In May 2025 House Democrats fired back at Republican attacks on ActBlue by arguing that the GOP's own online fundraising sites might be used as tools of corruption and foreign influence.[12] The top Democrats on the House Judiciary, Oversight, and Administration Committees — [[jamie-raskin|Jamie Raskin]], [[joe-morelle|Joe Morelle]], and [[gerald-connolly|Gerald Connolly]] — asked the [[us-department-of-the-treasury|Treasury Department]] to produce any evidence of suspicious transactions connected to Republican and Trump-aligned fundraising platforms, including [[winred|WinRed]] and the Musk-affiliated [[america-pac|America PAC]].[12] Their demand for "suspicious activity reports" responded to the parallel Republican effort to turn the screws on ActBlue over allegations of illegal foreign donations, and formed the latest salvo in a fight over each side's engine of small-dollar political participation.[12]
+
+Badlands contributor CannCon said he and Ashe in America had made this argument from the beginning, noting that the first thing he did when investigating the work of [[peter-bernegger|Peter Bernegger]], Chris Gleason, and [[draza-smith|Draza Smith]] was to check WinRed, where similar patterns appeared though not in the same quantity — Bernegger estimating a roughly 85%-to-15% split.[12] Ashe in America laid out a timeline in which ActBlue launched in 2004 and had an early [[smurfing|smurfing]] scandal in 2008, Republicans "mastered the small donor" by 2012, the 2008 scandal was legally resolved in 2013, Republicans launched the Revv platform in 2014, and Revv became WinRed in 2019.[12] She argued that smurfing is found by every payment provider across all platforms — "it's in the code" — and that the uniparty establishment protects itself.[12] Citing a House Judiciary report, she said every fraud control in the ecosystem was intentionally relaxed before both the primary and the general election, responding to Chris Gleason's question of how every fraud control mechanism failed to catch the activity.[12]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -110,3 +116,4 @@ The brief connected the fraud-standards revelation to a March 5, 2025 New York T
 9. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 10. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 11. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
+12. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

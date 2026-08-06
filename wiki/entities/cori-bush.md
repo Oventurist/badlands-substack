@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, progressives, democrats, aipac, primaries]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-ce5.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5d.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ On March 20, 2025, Bush's husband [[cortney-merritts|Cortney Merritts]], whom sh
 
 
 2. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
+
+## July 2023 Wray hearing
+
+At the [[2023-wray-house-judiciary-testimony|July 2023 House Judiciary Committee hearing]] with [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]], Bush demanded that the bureau do better to ensure it was not harassing black and brown communities.[3] Badlands writer [[ashe-in-america|Ashe in America]] noted that Bush also admitted during the hearing to having participated in the "Ferguson Uprising," and questioned whether "uprising" was a synonym for insurrection.[3]
+
+3. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d

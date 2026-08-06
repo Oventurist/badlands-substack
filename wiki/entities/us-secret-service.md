@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-enforcement, presidential-protection, mar-a-lago, security]
-sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-e14.md]
 confidence: high
 ---
 
@@ -63,6 +63,12 @@ Following the [[attempted-assassination-of-donald-trump-2024|July 13, 2024 assas
 
 A whistleblower report released by Senator [[josh-hawley|Josh Hawley]] on September 16, 2024 unveiled a series of alarming security lapses by the Secret Service and other federal agencies during the July 13, 2024 assassination attempt on [[donald-trump|Donald Trump]] in Butler, Pennsylvania.[9] Drawing on multiple whistleblowers, the report described incompetence, mismanagement and inadequate preparation, and concluded that systemic failures, poor decision-making and a lack of proper resource allocation contributed to a near-catastrophic breach of presidential security.[9] It alleged that the agency chose not to conduct a standard evaluation of the rally site, that its Counter Surveillance Division — tasked with identifying potential threats — was notably absent from the event, and that the agency repeatedly declined offers from local law enforcement to employ drone surveillance technology, even though the gunman used a drone to reconnoiter the site hours beforehand.[9] The report sparked calls for urgent oversight and reform and raised questions about the agency's ability to protect national leaders, coming as Trump had become the target of two assassination attempts in two months.[9]
 
+## September 2024 golf course incident
+
+During the [[2024-trump-golf-course-assassination-attempt|apparent assassination attempt]] against [[donald-trump|Donald Trump]] on September 15, 2024, a Secret Service agent following the usual procedure of moving one or two holes ahead of the protectee — 300 to 500 yards away — spotted a rifle muzzle poking through the tree-lined chain-link fence around the West Palm Beach course, opened fire, and prompted the detail to rush Trump to a holding room.[11] The gunman fled, leaving behind an AK-47-style rifle, two bags and a camera mounted to the fence.[11]
+
+The Washington Post reported that the agency has long viewed golf courses as especially challenging to secure because they are open to parts of the public and sit near heavily trafficked areas, and that it had repeatedly denied requests from the Trump campaign for additional security measures at his public events, with officials citing limited resources.[11]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
@@ -79,3 +85,4 @@ A whistleblower report released by Senator [[josh-hawley|Josh Hawley]] on Septem
 On Friday, February 7, 2025, President [[donald-trump|Donald Trump]] ordered the Secret Service to provide him "every bit of information" about the two men who had attempted to assassinate him.[10] "I'm entitled to know," he told the New York Post. "I want to find out about the two assassins... Why did the one guy have six cell phones and why did the other guy have [foreign] apps?"[10] He added: "No more holding back because of Biden. I'm entitled to know. And they held it back long enough. No excuses."[10]
 
 10. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+11. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14

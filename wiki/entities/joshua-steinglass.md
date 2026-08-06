@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [manhattan-district-attorney, prosecutor, trump-hush-money-case]
-sources: [raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ His presentation followed that of Trump's lead attorney [[todd-blanche|Todd Blan
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+
+## The 17-152 argument to the jury (April 2024)
+
+In the Manhattan trial of [[donald-trump|Donald Trump]], Steinglass told the jury that one of the crimes Trump allegedly committed in listing payments to [[stormy-daniels|Stormy Daniels]] as a "legal expense" was [[new-york-election-law-17-152|New York Law 17-152]], a statute making it a misdemeanor for two or more persons to conspire to promote or prevent the election of any person to public office by unlawful means where the conspiracy is acted upon.[2] Legal commentator [[jonathan-turley|Jonathan Turley]] characterized the resulting theory as an argument that Trump had committed a crime by conspiring to unlawfully promote his own candidacy, by paying to quash a potentially embarrassing story and then reimbursing his lawyer through entries booked as other legal expenses.[2] Turley wrote that the theory, arriving after months of confusion over what crime the indictment alleged, was so ambiguous and undefined that it recalled the "I know it when I see it" obscenity standard.[2]
+
+2. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

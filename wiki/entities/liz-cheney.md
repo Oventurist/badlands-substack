@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, congress, republican-party, wyoming]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d22.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -67,3 +67,10 @@ In an interview with the [[washington-post|Washington Post]] published Monday, D
 5. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 6. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 7. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22
+
+## Loudermilk referral and immunity questions (December 2024)
+
+At the end of December 2024, ZeroHedge reported that Cheney appeared to be preparing to fight any federal or congressional probe into her role as vice chairman of the [[january-6-committee|January 6 Select Committee]].[8] The piece argued that few people had worked harder over the preceding years to put [[donald-trump|Donald Trump]] behind bars than the former Wyoming congresswoman, casting her pursuit as revenge for Trump's longtime criticism of her father's "weapons of mass destruction" claims, and noting her frequent insistence that "no one is above the law."[8]
+
+Text messages obtained by Representative [[barry-loudermilk|Barry Loudermilk]], chair of the House subcommittee examining the J6 committee, were said to show that Cheney had colluded behind the scenes with star witness [[cassidy-hutchinson|Cassidy Hutchinson]], who dramatically changed her testimony after connecting with Cheney.[8] The report characterized the communications as potentially amounting to witness tampering, subornation of perjury, and obstruction, noting that every former White House official — including the driver of the presidential vehicle on January 6 — had refuted Hutchinson's account of Trump's behavior that day.[8] Based on his ongoing inquiry, Loudermilk determined that "numerous federal laws were likely broken by Liz Cheney" and called for the FBI to investigate her.[8]
+8. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

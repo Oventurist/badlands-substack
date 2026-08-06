@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, union, hollywood, actors, entertainment]
-sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-e18.md]
 confidence: medium
 ---
 
@@ -27,3 +27,8 @@ In early June 2023, SAG-AFTRA members voted to authorize a strike against the ma
 ## References
 1. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 2. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+3. Badlands Brief — "All the World's a Stage ... And the Actors Are on Strike", URL: https://badlands.substack.com/p/badlands-news-brief-e18
+
+## Strike declared (July 13, 2023)
+
+SAG-AFTRA's national board voted to go on strike against the major studios after negotiations with the [[alliance-of-motion-picture-and-television-producers|Alliance of Motion Picture and Television Producers]] broke down, a last-ditch effort monitored by a federal mediator having failed.[3] Union president [[fran-drescher|Fran Drescher]] said at a press conference that it was time for studio executives to "wake up and smell the coffee."[3] The union stated that the streaming ecosystem had "eroded" the way actors get paid and accused the studios of refusing to acknowledge "enormous shifts in the industry and economy" and of being unwilling to offer a fair deal.[3] The AMPTP responded that "this is the Union's choice, not ours," warning the course would deepen financial hardship across the industry, while [[disney|Disney]] CEO [[bob-iger|Bob Iger]] said the union's expectations were unrealistic.[3] The walkout joined the writers' and directors' actions covered under the [[2023-hollywood-labor-strikes|2023 Hollywood labor strikes]].[3]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, private-military, africa, sahel, syria]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f32.md]
 confidence: medium
 ---
 
@@ -95,3 +95,19 @@ After [[sergey-lavrov|Sergey Lavrov]] told the [[russia-africa-partnership-forum
 13. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
 14. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
 15. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+
+## Aftermath of the Prigozhin crash (August 2023)
+
+After the August 2023 plane crash believed to have killed [[yevgeny-prigozhin|Yevgeny Prigozhin]] and his senior commanders, President [[vladimir-putin|Vladimir Putin]] signed a decree requiring members of "volunteer formations" — the official term commonly applied to mercenary groups — to swear an oath of loyalty to the Russian flag and to strictly follow their commanders' orders; see [[2023-russian-paramilitary-oath-decree|2023 Russian paramilitary oath decree]].[16] [[alexander-lukashenko|Alexander Lukashenko]] announced that Wagner troops would be permitted to remain in Belarus, a move [[burning-bright|Burning Bright]] said conveniently shored up Belarusian strength following the bloodless "March on Moscow."[16] [[pentagon|Pentagon]] spokesman Gen. [[pat-ryder|Pat Ryder]] stated that Wagner's presence on the ground in Ukraine was "no longer a significant factor," prompting Badlands commentary to ask whether Wagner was being retired, vetted and reallocated.[16]
+
+16. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+
+## Putin's post-mutiny address (June 27, 2023)
+
+In a Tuesday, June 27, 2023 speech before soldiers and security officers at the Kremlin, President [[vladimir-putin|Vladimir Putin]] elaborated on Wagner's fate following the weekend armed mutiny.[17] With the Wagner chief exiled to Belarus and the treason charges effectively forgiven — the mutiny case closed — Putin strongly hinted that corruption charges could still follow, given that Wagner had received billions in state funds.[17] Speaking at the Kremlin's Cathedral Square, he told the assembled forces "You have de-facto stopped the civil war," praising them for acting in a clear and well-coordinated manner and noting that no combat detachments had to be withdrawn from the special military operation zone in Ukraine; it was his first such dramatic reference to that worst-case scenario.[17]
+
+Putin also confirmed that Russian air force pilots had been killed during the episode.[17] Wagner had claimed to have shot down helicopters during the Friday-to-Saturday turmoil and said the Russian military had fired on its positions and convoys; Western tallies counted six helicopters and a plane downed, a figure unconfirmed by Moscow, while international reporting indicated at least twelve Russian pilots were killed as Wagner convoys advanced toward Moscow before the "march" was called off.[17] Wagner possesses sophisticated anti-aircraft weapons.[17]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] characterised the "Wagner Coup" as one of the most obvious instances of [[kayfabe|kayfabe]] (false feuding) or MILDEC (military deception) yet seen in the war, following the same entity's use of similar staged friction with Putin and the Kremlin a month earlier to bait the Azov battalion into a disastrous position in Bakhmut.[17] He read the episode as a mix of a loyalty test by Putin, an opportunity to smoke out Deep State actors within Russian ranks, and irresistible bait for both kinetic forces in the Donbas and the globalist media cheering them on, adding that the public narrative was beginning to turn against those outlets, with [[volodymyr-zelensky|Volodymyr Zelensky]] increasingly painted as a warmonger while [[donald-trump|Donald Trump]] called for peace and Putin presented evidence of the peace deal he had offered Zelensky in March 2022.[17]
+
+17. Badlands Brief — "Badlands News Brief: Trump's Strength Grows & Ukraine's Support Slows", URL: https://badlands.substack.com/p/badlands-news-brief-f32

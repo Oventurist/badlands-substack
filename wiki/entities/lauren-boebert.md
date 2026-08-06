@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, colorado, congress, primary-elections]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-bed.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d45.md]
 confidence: low
 ---
 
@@ -38,6 +38,10 @@ On Monday, April 1, 2024, Boebert was taken to a Colorado hospital after experie
 
 The episode landed while Boebert was seeking to move from Colorado's third congressional district to the fourth, a switch that Badlands Media contributor [[ashe-in-america|Ashe in America]] — herself a CD4 constituent — described as widely expected to succeed as the state GOP headed into its assembly, though not popularly welcomed.[6] Ashe used the diagnosis to argue that showing up is a non-negotiable part of congressional service, comparing the situation to that of [[steve-scalise|Steve Scalise]], who was absent for votes while fighting cancer, and calculating that between them roughly 1.5 million Americans were effectively unrepresented.[6] She also criticized what she called an entitlement factor in Boebert's district switch, contending that after nearly losing her 2022 contest Boebert appeared to believe herself unelectable among her current constituents yet still felt entitled to a seat, while wishing her healing and peace.[6]
 
+## The ELON Act (2023)
+
+In February 2023 Boebert introduced the [[elon-act|ELON Act]], described as House Republicans' first legislative response to evidence of federal pressure on social media companies to censor Americans' speech.[7] Backed by nine cosponsors, the bill would impose a one-year moratorium on payments from the [[department-of-justice|Department of Justice]] to social media firms and require an audit of money that had passed between the DOJ and Big Tech since the start of 2015; it followed the disclosure that the [[fbi|FBI]] had paid [[twitter|Twitter]] more than $3 million for handling censorship requests dating to the 2020 election.[7]
+
 ## References
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
 2. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
@@ -45,3 +49,4 @@ The episode landed while Boebert was seeking to move from Colorado's third congr
 4. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 5. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
+7. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45

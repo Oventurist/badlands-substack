@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, georgia, defense-attorney, fani-willis, disqualification]
-sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-b35.md]
+sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea1.md]
 confidence: high
 ---
 
@@ -26,6 +26,18 @@ On Wednesday, March 6, 2024, Merchant testified before the [[georgia-senate|Geor
 
 [[ashe-in-america|Ashe in America]] characterized the hearing as "Episode 5 of the Fani Willis Drama" and, echoing [[canncon|CannCon]]'s skepticism, found it "a little on the nose" that Newsweek published the details immediately after the hearing.[2]
 
+## Text messages with Terrence Bradley
+
+CNN reported on February 28, 2024 that it had obtained 413 text messages between Merchant and [[terrence-bradley|Terrence Bradley]], revealing months of communication and underscoring the extent to which Bradley assisted her pursuit of evidence to back claims that [[fani-willis|Fani Willis]] and [[nathan-wade|Nathan Wade]] had engaged in an improper romantic relationship.[3] The texts raised questions about Bradley's credibility and about how heavily Merchant relied on claims she was then unable to substantiate elsewhere, and shed light on why his testimony fell short of the expectations of defense attorneys who had billed him as the star witness in the bid to disqualify Willis.[3]
+
+## February 16, 2024 hearing
+
+Merchant led the questioning of [[terrence-bradley|Terrence Bradley]], [[nathan-wade|Nathan Wade]]'s business partner and divorce lawyer, during the February 16, 2024 session of the disqualification hearing, encountering repeated objections on grounds of attorney–client privilege.[4] Earlier in the proceedings the defense had sought to admit text messages exchanged between Merchant and Bradley; the [[fani-willis|Fani Willis]] team objected on privilege grounds and the judge agreed to review the messages *in camera* after the hearing.[4]
+
+When Willis's attorney [[anna-cross|Anna Cross]] then attempted to impeach Bradley on cross-examination, commentators suggested the tactic may have opened the door for Merchant and the defense to compel Bradley to answer the questions he had earlier declined on privilege grounds.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
 2. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
+3. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+4. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1

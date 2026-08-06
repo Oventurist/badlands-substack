@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, shadow-cabal, obama-administration]
-sources: [raw/badlands-brief-029.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a9a.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-e01.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ Reporting compiled by Joe Hoft in June 2025 held that activist judges had halted
 
 Badlands contributor [[chris-paul|Chris Paul]] characterised the litigation campaign as "one big [[color-revolution|Color Revolution]]" detached from what he calls Reality Prime, arguing that the decisions should not be perceived as real in any meaningful way because "the abstraction does and will fall in the face of actual power."[3] He added that Eisen had been behind the [[january-6-committee|J6 hearings]] and the Trump indictments, describing them as fictions within a Color Revolution playbook that prosecutes media stories in hopes the public will reject Trump — a publicity campaign he judged to have failed.[3]
 
+## Involvement in the DOGE Treasury litigation (February 2025)
+
+Badlands contributor [[jon-herold|Jon Herold]] identified Norm Eisen as involved in the legal effort to prevent [[elon-musk|Elon Musk]] from accessing the [[us-department-of-the-treasury|Treasury Department]] payment system in February 2025, remarking "because of course he is."[4] The litigation, brought by three union groups against Treasury Secretary [[scott-bessent|Scott Bessent]], produced an order from Judge [[colleen-kollar-kotelly|Colleen Kollar-Kotelly]] limiting [[department-of-government-efficiency|DOGE]] access to two named employees.[4]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 3. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
+4. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01

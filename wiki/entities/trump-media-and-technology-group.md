@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d04.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f0e.md]
 confidence: low
 ---
 
@@ -96,6 +96,10 @@ Badlands contributor [[burning-bright|Burning Bright]] called it "somewhat surre
 
 In August 2025 Trump Media, which trades on Nasdaq and NYSE Texas under the ticker DJT and operates [[truth-social|Truth Social]], the streaming platform Truth+, and the FinTech brand Truth.Fi, announced that it had begun public beta testing of [[truth-search-ai|Truth Search AI]].[17] The feature is powered by [[perplexity-ai|Perplexity]], an AI company focused on direct, contextually accurate answers with transparent citations, and was described as intended to exponentially increase the amount of information available to Truth Social users.[17] Chief executive and chairman [[devin-nunes|Devin Nunes]] said the partnership would make Truth Social "an even more vital element in the Patriot Economy."[17] Badlands contributor [[chris-paul|Chris Paul]] linked the deal to earlier reports of a possible Perplexity-TikTok merger and restated his view that TikTok would eventually end up under Trump Media, with [[jeffrey-yass|Jeff Yass]] invested on both sides.[17]
 
+## DWAC merger extension (September 2023)
+
+In September 2023 the long-delayed merger between Trump Media & Technology Group and its funding partner [[digital-world-acquisition-corp|Digital World Acquisition Corp.]] was rescued days before the blank-check company faced liquidation, when DWAC shareholders approved a one-year extension of the merger deadline.[18] Without the extension DWAC would have been liquidated on September 8, 2023.[18] Neither DWAC nor Trump Media, which operates [[truth-social|Truth Social]], responded to requests for comment from [[cbs-news|CBS News]], and DWAC shares — once $175 in 2021 — rose 3.9% to $17.16 in afternoon trading.[18] DWAC chief executive [[eric-swider|Eric Swider]] thanked supporters in a Truth Social post while asking observers to "understand my silence."[18] Badlands writer [[burning-bright|Burning Bright]] noted that the merger was fighting through [[securities-and-exchange-commission|SEC]] delays and that the fresh timeline placed the deal's completion just before the 2024 election.[18]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
@@ -114,3 +118,13 @@ In August 2025 Trump Media, which trades on Nasdaq and NYSE Texas under the tick
 15. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 16. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 17. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+18. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
+
+## DJT trading and the manipulation referral (April 2024)
+
+The company began trading on the Nasdaq stock market in late March 2024 under the ticker DJT, and within weeks its CEO [[devin-nunes|Devin Nunes]] asked House committee leaders to investigate potential "unlawful manipulation of DJT stock."[19] In a letter released on Tuesday, April 23, 2024, Nunes pointed out that DJT had appeared every day since April 2 on Nasdaq's "Reg SHO threshold list," which he said was indicative of unlawful trading activity.[19]
+
+Nunes wrote that the pattern was particularly troubling because [[naked-short-selling|naked short selling]] often entails sophisticated market participants profiting at the expense of retail investors, and cited reports that as of April 3, 2024 DJT was the single most expensive stock to short in U.S. markets by a significant margin, giving brokers a strong financial incentive to lend non-existent shares.[19]
+
+
+19. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

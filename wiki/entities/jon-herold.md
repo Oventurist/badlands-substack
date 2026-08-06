@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, founder]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e07.md]
 confidence: high
 ---
 
@@ -99,7 +99,24 @@ Jon Herold responded to the [[white-house|White House]]'s replacement of [[joe-b
 
 In December 2023 Herold published "The Illusion of Democracy," a feature that took recent reporting on the [[ctil-files|CTIL files]] — documents detailing the relationship between government agencies and the media industrial complex regarding reporting on and investigations into the 2020 election — and extended it by examining who led those agencies during the transitions from the Obama administration to the Trump administration and from the Trump administration to the Biden administration.[20] Badlands contributor [[burning-bright|Burning Bright]] wrote that in doing so Herold continued "to connect dots that makes Actual what most of us have seen as Potential," namely the structure and mechanism of the [[deep-state|Deep State]]'s "System of Systems" — an administrative arm that originates, a clandestine arm that obfuscates, a narrative arm that defends, and a legal arm that prosecutes.[20]
 
+## Commentary on Trump's ceasefire remarks (June 2025)
+
+On President [[donald-trump|Donald Trump]]'s profane outburst about [[israel|Israel]] and [[iran|Iran]] as the ceasefire faltered in late June 2025, Jon Herold offered a one-line take: "The best bomb of the war so far was this F-bomb."[21]
+
+## August 2025 commentary
+
+Herold called the declassified whistleblower testimony on the Trump–Russia intelligence assessment one of the most damning disclosures to date and urged DNI Tulsi Gabbard to un-redact the name of the official who shut the whistleblower down and to declassify Enclosure 3.[22] Commenting on the Office of Special Counsel's review of Jack Smith, he invoked Justice Clarence Thomas's immunity concurrence and its line that "a private citizen cannot criminally prosecute anyone, let alone a former President."[22]
+
+## Coverage of the Bradley texts (February 2024)
+
+Jon Herold joined [[burning-bright|Burning Bright]] and [[just-human|Just Human]] in working through the [[terrence-bradley|Terrence Bradley]]–[[ashleigh-merchant|Ashleigh Merchant]] text messages on the [[devolution-power-hour|Devolution Power Hour]] of February 28, 2024, about an hour into the show.[23]
+
+## "6th generation warfare" formulation (June 2025)
+
+Commenting in the June 24, 2025 Badlands News Brief on the Iranian strike against the American [[al-udeid-air-base|Al Udeid Air Base]] in Qatar and the ensuing Israel–Iran ceasefire, Herold described the episode as "6th generation warfare."[24] He defined the layering as follows: both sides conduct fourth-generation warfare by publicly admitting to privately giving each other advance notice of their third-generation warfare bombings, which are carried out only to appease the warmongers in their respective countries, who are themselves conducting fifth-generation warfare on the public.[24] The formulation became a compact statement of the Badlands reading of the [[twelve-day-war|Twelve Day War]] as a managed narrative conflict rather than a genuine march toward world war.[24]
+
 ## References
+
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 3. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
@@ -120,3 +137,12 @@ In December 2023 Herold published "The Illusion of Democracy," a feature that to
 18. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 19. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 20. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+21. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+22. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+23. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+24. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+## NSPM 28 and operations security
+
+In a January 2023 Badlands News Brief, Herold expanded his running argument about [[operations-security|OPSEC]], writing that "anybody involved in ops will NOT openly discuss their involvement and maybe even deny the op altogether" and using that principle to rebut readers who dismiss his research because named figures have issued denials.[25] He noted that he had earlier posted a thread on the unprecedented nine NSPMs [[donald-trump|Trump]] issued over his last eight days in office, arguing this was "not something a lame duck President would be doing."[25] Focusing on the first of them, [[nspm-28|NSPM 28: The National Operations Security Program]] dated January 13, 2021, Herold said he had confirmed that it "established" and "implemented" OPSEC at the Executive Branch and "beyond to trusted partners," meaning Trump imposed a military-style secrecy discipline on the [[white-house|White House]] on his way out the door.[25]
+
+25. Badlands Brief — "Badlands News Brief: Big Tech Crunch, OPSEC & Vax Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-e07

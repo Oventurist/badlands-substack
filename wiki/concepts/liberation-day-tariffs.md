@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, trade, trump, china, markets]
-sources: [raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-dd8.md]
 confidence: medium
 ---
 
@@ -86,9 +86,17 @@ Reporting in The International News described a domino effect across the global 
 
 Badlands contributor [[burning-bright|Burning Bright]] rejected the panic framing, tying the episode to a *Story Hour* discussion of *Top Gun: Maverick* with retired Lieutenant General [[steven-kwast|Steven Kwast]] about the evolution of modern and psychological warfare.[5] He argued that the "Shadow War" theme of Trump 2.0 amounted to a "Trump quicksand" into which many commentators were falling, claiming the episode had exposed financial experts, globalists and establishment conservative media alike, and counselled patience: "It's only April. Chill out."[5]
 
+
+## Senate repeal resolution (October 2025)
+
+On Thursday, October 30, 2025, four Republican senators voted with Democrats to approve a bipartisan resolution repealing President [[donald-trump|Trump]]'s global tariffs, including steeper rates on long-time allies such as the European Union, Japan and South Korea.[6] GOP sponsor [[rand-paul|Rand Paul]] of Kentucky was joined by [[mitch-mcconnell|Mitch McConnell]], [[susan-collins|Susan Collins]] and [[lisa-murkowski|Lisa Murkowski]].[6] The same proposal had failed in late April on a 50-49 vote after Vice President Vance cast the tiebreaking vote against it; critically, McConnell and Democratic Sen. Sheldon Whitehouse, who both voted for the measure in October, had missed the spring vote.[6]
+
+The one-page Senate joint resolution simply declared that the national emergency Trump invoked on April 2 — the day he dubbed "[[liberation-day|Liberation Day]]" — to authorize sweeping reciprocal tariffs would be "terminated" on the date of enactment.[6] Passage was a symbolic victory for critics of Trump's trade policies with little practical effect, as Speaker [[mike-johnson|Mike Johnson]] was seen as unlikely to bring it up for a House vote and Trump was certain to veto anything curtailing his power.[6]
+
 ## References
 1. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 2. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 3. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 4. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
 5. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+6. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8

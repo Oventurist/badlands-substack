@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, security, 2024, oversight]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c50.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e18.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -75,6 +75,16 @@ The Secret Service announced in September 2025 that it had disrupted a network o
 
 On Wednesday, July 5, 2023, the Secret Service confirmed that a powdery substance discovered inside the White House over the preceding weekend was cocaine, a day after leaked radio intercepts revealed that a "mystery" substance had been found and had prompted a brief evacuation over hazmat fears.[14] Agency spokesman [[anthony-guglielmi|Anthony Guglielmi]] said the cocaine was discovered in an area of the West Wing lobby where individuals can store their phones, an area White House Press Secretary [[karine-jean-pierre|Karine Jean-Pierre]] described the same day as "a heavily traveled area" regularly accessed by both visitors and staff.[14] The episode, which the Secret Service investigated, is treated at length at [[white-house-cocaine-incident|the White House cocaine incident]].[14]
 
+## July 2024 Senate hearing on the Butler failures
+
+Acting Director [[ronald-rowe|Ronald Rowe]] and FBI Deputy Director [[paul-abbate|Paul Abbate]] testified before a Senate panel on Tuesday, July 30, 2024 about the agency's security arrangements at the Butler, Pennsylvania rally where [[donald-trump|Donald Trump]] was shot on July 13, and about the state of the ongoing investigations.[17] New details emerged at the hearing, including a potential social media account owned by the shooter and unresolved questions about when the Secret Service first saw the gunman on the roof of the AGR building.[17] Rowe told lawmakers he was "ashamed" of the protection failures and said that visiting the rooftop firing position had been one of his first acts as acting director.[17]
+
+The hearing centred on communication breakdowns, radio interoperability problems, cellular issues and inadequate redundancies.[17] Senator [[ron-johnson|Ron Johnson]] criticised the agency for failing to memorialise its encrypted communications from July 13, while Senator [[chuck-grassley|Chuck Grassley]] pressed hard on the communications failures.[17] Badlands commentary characterised the episode as bureaucratic dysfunction of a kind familiar in American law enforcement but intolerable when it involves one of the highest-value protectees in federal care, and concluded that the greatest victim of that dysfunction is public trust.[17]
+
+## Cheatle resignation and Rowe appointment (July 23, 2024)
+
+Director [[kimberly-cheatle|Kimberly Cheatle]] resigned on the morning of Tuesday, July 23, 2024, after scrutiny over the agency's failure to prevent the July 13 assassination attempt on former President [[donald-trump|Donald Trump]] at a rally that left one attendee dead and two others critically injured.[17] In her resignation email to employees she wrote that "the Secret Service's solemn mission is to protect our nation's leaders and financial infrastructure" and that "on July 13th, we fell short on that mission," taking "full responsibility for the security lapse."[17] Deputy director [[ron-rowe|Ron Rowe]], a 24-year veteran of the service, was named acting director and pledged to "restore the faith and confidence of the American public."[17] Badlands commentary tied the resignation directly to her contested testimony before Congress the previous day.[17]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -90,3 +100,19 @@ On Wednesday, July 5, 2023, the Secret Service confirmed that a powdery substanc
 12. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
 13. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 14. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+
+## Tafari Campbell drowning records (2023)
+
+Records obtained by [[judicial-watch|Judicial Watch]] in August 2023 from the Edgartown, Massachusetts, Police Department showed that the Secret Service reported [[tafari-campbell|Tafari Campbell]], the personal chef to former president [[barack-obama|Barack Obama]], missing on July 23, 2023, and that a Secret Service agent placed the 911 call at 7:56 p.m.[15] Agents deployed a zodiac boat with rescue swimmers and recovered Campbell's clothing and paddle board at 8:02 p.m., hours before his body was found using sonar at 10:01 a.m. the following morning.[15] [[ashe-in-america|Ashe in America]] noted that the incident report's chronology recorded 42 past police incidents at the Obama estate on Martha's Vineyard, a figure she called surprising given that the Secret Service provides personal protection at the residence.[15]
+
+15. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+
+## Closure of the White House cocaine investigation (July 2023)
+
+On Thursday, July 13, 2023 the Secret Service announced that it had ended its investigation into the [[white-house-cocaine-incident|cocaine found in the West Wing]] after just 11 days without identifying a suspect, stating that the probe was "closed due to a lack of physical evidence" after [[fbi|FBI]] forensic testing on the bag failed to produce fingerprints or sufficient DNA.[16] The agency said that "without physical evidence, the investigation will not be able to single out a person of interest from the hundreds of individuals who passed through the vestibule where the cocaine was discovered."[16] Congressional Republicans were enraged by the outcome, and Rep. [[tim-burchett|Tim Burchett]] stormed out of a briefing to members of the [[house-oversight-committee|House Oversight Committee]] moments after it began, calling the conclusion "bogus" and the investigation a "complete failure."[16]
+
+[[ashe-in-america|Ashe in America]] argued that the failure to publicly identify the owner meant the agency was "either incompetent or complicit," noting that the White House is arguably the most surveilled building in the world, and that an incompetent Secret Service would itself constitute a threat to national security.[16] She judged the agency highly competent and therefore likely to have known the owner's identity within 24 hours, suppressing it because the service's prime directive is protection of the President and First Family — a duty it would fulfil even at the cost of appearing incompetent.[16]
+
+16. Badlands Brief — "All the World's a Stage ... And the Actors Are on Strike", URL: https://badlands.substack.com/p/badlands-news-brief-e18
+17. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+17. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, censorship, disinformation, government]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-948.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-ea1.md]
 confidence: medium
 ---
 
@@ -44,9 +44,22 @@ Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] identif
 
 The Global Engagement Center was the central target of the December 2023 lawsuit brought by [[daily-wire|The Daily Wire]], [[the-federalist|The Federalist]] and the state of Texas against the [[state-department|State Department]], filed by the [[new-civil-liberties-alliance|New Civil Liberties Alliance]] in the Eastern District of Texas.[5] Plaintiffs alleged that the government had taken an office created to counter foreign terrorist propaganda and "unleashed it against Americans" accused of disinformation, funding censorship technology intended to bankrupt disfavored domestic outlets.[5] The suit sought a declaration that the effort was illegal and a permanent injunction against promoting technology to de-amplify, shadow ban or restrict lawful American speech, naming Secretary [[antony-blinken|Antony Blinken]] and five other officials.[5] [[ashe-in-america|Ashe in America]] wrote that the GEC is "a centralized control mechanism within the [[censorship-industrial-complex|censorship industrial complex]]" that independent researchers in the truth community had been exposing for over a year, and that with an election year arriving "the re-runs are in marathon mode."[5]
 
+## Threats to Congress over disclosure (February 2024)
+
+A year after its censorship programs were first exposed, the Global Engagement Center continued to insist that the public had no right to know how it was spending taxpayer money.[7] Racket News reported in February 2024 that the [[state-department|State Department]], displeased that a newspaper had published details of its spending, threatened to show a congressional committee its records only *in camera* until it obtained a "better understanding of how the Committee will utilize this sensitive information" — meaning the department told [[congress|Congress]], which controls its funding, that it would disclose where the money went only behind closed doors.[7] Racket characterized this as Secretary [[antony-blinken|Tony Blinken]] threatening to take his transparency ball home unless details of the censorship programs stopped appearing in outlets such as the [[washington-examiner|Washington Examiner]].[7]
+
+The underlying disclosures came from "Disinformation, Inc.," a series by investigative reporter [[gabe-kaminsky|Gabe Kaminsky]] describing how the State Department backed the UK-based [[global-disinformation-index|Global Disinformation Index]], whose Dynamic Exclusion List flagged at least 2,000 websites as unsuitable for advertising in order to disrupt what it called the ad-funded disinformation business model.[7]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 3. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 4. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
 5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+
+
+## Successor office and June 2025 injunction
+The Global Engagement Center, launched in 2016 under President Obama, was succeeded by the [[foreign-information-manipulation-and-interference-office|Foreign Information Manipulation and Interference Office]] (FIMI), which continued its mandate of monitoring foreign "disinformation" online and drew the same criticism for allegedly pressuring tech companies to suppress conservative media and opinions.[6] President [[donald-trump|Donald Trump]]'s April 2025 executive order on duplicative and unnecessary functions targeted FIMI, and Secretary of State [[marco-rubio|Marco Rubio]] announced its closure, but a June 13, 2025 injunction from U.S. District Judge [[susan-illston|Susan Illston]] halted layoffs at the office and required the [[state-department|State Department]] to obtain court approval before further changes.[6]
+
+6. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+7. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1

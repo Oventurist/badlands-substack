@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drc, rebels, peace-process, africa, doha]
-sources: [raw/badlands-news-brief-021.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-f76.md]
 confidence: low
 ---
 
@@ -20,3 +20,8 @@ Kinshasa and the AFC signed a framework peace agreement on November 15, 2025 in 
 
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
+
+## Accusations against Kinshasa (September 2025)
+
+At a press conference held at a hotel in Goma in September 2025, AFC political coordinator [[corneille-nangaa|Corneille Nangaa]] accused the Congolese government of breaching agreements intended to end the long-running conflict in eastern [[democratic-republic-of-the-congo|DR Congo]], saying Congolese forces and their allies were carrying out attacks in South Kivu despite a pledge to cease hostilities.[2] "We are obliged to inform the Congolese people and the international community of the successive violations of the ceasefire, which are hindering the principle agreement," Nangaa told journalists.[2] The coalition includes the [[m23]] rebel group, which had seized Goma earlier that year.[2]
+2. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

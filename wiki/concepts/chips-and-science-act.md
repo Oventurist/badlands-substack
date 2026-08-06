@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [industrial-policy, semiconductors, critical-minerals, commerce-department, federal-loans]
-sources: [raw/badlands-brief-db7.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-c05.md]
+sources: [raw/badlands-brief-db7.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f53.md]
 confidence: medium
 ---
 
@@ -36,6 +36,13 @@ In December 2023, [[samsung-electronics|Samsung Electronics]] was reported to ha
 
 Badlands writer [[burning-bright|Burning Bright]] framed the CHIPS Act as one of the main economic hints of the [[devolution|Devolution]] operation, noting that the law's original structure was assembled by the Trump administration before Biden signed it.[5] Under his "Switch" theory, the initiative's seismic long-term effects — tens of thousands of high-paying jobs and the erosion of the China–Taiwan near-monopoly on semiconductors — would only be realized once Trump returned to office.[5]
 
+
+## The $3.5 billion diversion to Secure Enclave (2024)
+
+In May 2024 Politico reported that a backroom Washington deal brokered two years earlier was undercutting a central plank of Joe Biden's high-tech manufacturing policy, pushing more than $3 billion into a secretive national-security project promoted by chipmaker [[intel|Intel]].[7] While Biden and Senate majority leader [[chuck-schumer|Chuck Schumer]] took victory laps for the 2022 law, appropriators in Congress had quietly shifted $3.5 billion the Commerce Department hoped to use for CHIPS grants into a separate [[pentagon|Pentagon]] program called [[secure-enclave|Secure Enclave]], which is not mentioned in the original statute.[7] Politico framed the episode as a case study in how fragile Washington's monumental spending programs can be, with money appropriated for a strategic national goal rerouted for narrow or opaque purposes.[7]
+
+Badlands writer [[burning-bright|Burning Bright]] read the story instead through his "The Switch" theory, arguing that while narratives about the US economy, manufacturing and energy production are catastrophic for the regime, the underlying "Actuals" were kicked off by [[donald-trump|Donald Trump]] and continued by what he calls the Proxy President, [[joe-biden|Joe Biden]].[7] He linked the theory to [[jon-herold|Jon Herold]]'s [[devolution|Devolution]] research, treating the economy, domestic manufacturing and energy security as National Essential Functions, and noted the irony of mainstream "sourced" intel admitting the Biden administration does not know why Department of Defense control has attached to funding from the Trump-proposed CHIPS Act it signed.[7]
+
 ## References
 
 1. Badlands Brief — "Backpedaling Despots, Mid-East Madness, & Not So Rare Earths", URL: https://badlands.substack.com/p/badlands-brief-db7
@@ -49,3 +56,9 @@ Badlands writer [[burning-bright|Burning Bright]] framed the CHIPS Act as one of
 In June 2024, Badlands contributor [[burning-bright|Burning Bright]] surveyed a run of AI- and CHIPS-related headlines, noting that media hit pieces on [[xi-jinping|Xi Jinping]] credited the Biden administration for the trade war [[donald-trump|Donald Trump]] began and for the CHIPS Act that Trump first proposed and Biden signed into law — which he offered as a proof of the devolution thesis.[6] The same run of stories included reports that the Biden administration could not explain why billions allocated under the Act were flowing to the [[pentagon|Department of Defense]], alongside admissions that [[apple|Apple]]'s push into AI had fallen flat.[6] Burning Bright tied this to [[elon-musk|Elon Musk]]'s diversion of [[nvidia|Nvidia]] chips from [[tesla|Tesla]] to [[xai|xAI]], suggesting patriots were front-running globalist AI expansion by steering chip supply toward national defense.[6]
 
 6. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
+7. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+8. Badlands Brief — "Trumpian Taboos, Muskian Censorship & Saudi Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-f53
+
+## TSMC Arizona awards (April 2024)
+
+In April 2024 the Department of Commerce announced a preliminary agreement under the Act with [[tsmc|TSMC]], providing $6.6 billion in grants and $5 billion in loans to support a third Arizona chip factory and raising the company's total Arizona investment to $65 billion.[8] Commerce Secretary [[gina-raimondo|Gina Raimondo]] framed the award in national security terms, noting the 2-nanometer chips involved would be crucial to artificial intelligence chips powering the defense industry.[8] Badlands writer [[burning-bright|Burning Bright]] cited the award as one of the most observable "Actuals" supporting both [[devolution|Devolution]] theory and his "Switch" economic theory, predicting the plants would seed a US manufacturing boom once online from 2025.[8]

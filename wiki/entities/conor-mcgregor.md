@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ireland, immigration, populism, white-house]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-ce5.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-ee0.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ On Thursday, March 20, 2025, McGregor solidified his bid for Ireland's presidenc
 
 "The next presidential election must take place by 11 Nov 2025. Who else will stand up to Government and oppose this bill," he wrote in a post on X. "Any other Presidential candidate they attempt to put forward will be of no resistance to them. I will!"[3]
 
+## Clash with Leo Varadkar over Emily Hand (November 2023)
+
+In late November 2023 McGregor continued what was described as a flurry of offence against the Irish government, branding then-Taoiseach [[leo-varadkar|Leo Varadkar]] "a disgrace" over comments about a child kidnapped by [[hamas|Hamas]].[4] Varadkar had posted on X about [[emily-hand|Emily Hand]], returned to her family that weekend, describing her as having been "lost" and claiming she "has now been found and returned."[4] McGregor, a five-time world champion, noted that the eight-year-old had been "abducted by an evil terrorist organisation," and asked, "What is with you and your government and your paid for media affiliates constantly down playing / attempting to repress horrific acts that happen to children."[4] He added: "You are a disgrace. The day after a stabbing of children in Ireland, NOT ONE PAPER HAD IT ON THEIR FRONT COVER. We will not forget."[4]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] used the episode to argue that athletes occupy a distinct role in the Collective Mind relative to other Mind-Movers tracked in the [[information-war|Info War]], and that [[ufc|UFC]] fighters are the most heterodox and difficult to control of the group.[4] He described combat sports as "an engineered psycho-physical crucible through which authenticity is honed and falsity is stripped away," producing athletes he called paragons of direct-path living, and concluded that "Conor McGregor is a mass cultural Mind-Mover, and the global mind is moving."[4]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
 3. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
+4. Badlands Brief — "Badlands News Brief: Musk's World Tour & Irish Strife Prompt Reactions", URL: https://badlands.substack.com/p/badlands-news-brief-ee0

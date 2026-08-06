@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel-iran-conflict, military-strike, nuclear-program, 2025]
-sources: [raw/badlands-news-brief-540.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-b63.md]
+sources: [raw/badlands-news-brief-540.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-f1f.md]
 confidence: medium
 ---
 
@@ -71,3 +71,17 @@ Russia's Foreign Ministry said on Tuesday that Israel's ongoing strikes against 
 [[chris-paul|Chris Paul]] responded to remarks by [[shawn-ryan|Shawn Ryan]] about "fake wars" with an extended argument that ordinary people cannot reliably distinguish real from manufactured conflicts, that false-flag-initiated wars are by definition unjust, and that the rational response is to refuse to believe stories told by wealthy and powerful people who lie in order to exploit the public.[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that hostilities between Israel and Russia were beginning "right on cue," noting that [[benjamin-netanyahu|Netanyahu]] rejected Russian mediation while Putin openly called him a war criminal, and suggested that Russian military assets deployed in Israel to shut down that government no longer sounded far-fetched.[3]
 
 3. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+
+## Ceasefire diplomacy via the Gulf states
+
+Two Iranian and three regional sources told Reuters on Monday, June 16, 2025 that Tehran had asked [[qatar]], [[saudi-arabia]] and [[oman]] to press US President [[donald-trump|Donald Trump]] to use his influence on [[israel|Israel]] to agree to an immediate ceasefire, in return for Iranian flexibility in nuclear negotiations.[4] Gulf leaders and their top diplomats worked the phones all weekend — speaking to each other, to Tehran, to Washington and beyond — in an effort to prevent a widening of what was described as the biggest ever confrontation between the two longstanding enemies.[4] One Iranian source said Iran was willing to be flexible in the nuclear talks if a ceasefire were reached.[4] A Gulf source close to government officials told Reuters that the Gulf states were deeply concerned the conflict would spin out of control, and that Qatar, Oman and Saudi Arabia had all appealed to Washington to press Israel to agree to a ceasefire and resume talks with Tehran toward a nuclear deal.[4]
+
+[[burning-bright|Burning Bright]] read the diplomacy as evidence that Trump, [[russia|Russia]] and [[iran|Iran]] all wanted peace, with Iran looping in the Saudis and Qataris — two stops on Trump's recent peace tour — and called it "mandate cultivation for the disclosure of done deals," asking "so, who wants war?"[4] [[chris-paul|Chris Paul]] predicted the parties would settle on "no nuclear weapons, only nuclear energy," the arrangement in place before the war began, and questioned the neocon media claim that Trump and Netanyahu had "tricked" these same countries.[4] [[jon-herold|Jon Herold]] asked simply why America should get involved in another foreign war.[4]
+
+## Netanyahu on assassinating Khamenei
+
+In an ABC News interview on Monday, June 16, 2025, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] refused to rule out trying to kill Iranian Supreme Leader [[ali-khamenei|Ali Khamenei]] as the clash escalated.[4] Asked about reports that Trump had rejected an Israeli plan to assassinate the Iranian leader out of concern over further escalation, Netanyahu replied: "It's not going to escalate the conflict, it's going to end the conflict."[4] The exchange of strikes had begun when Israel bombed Iranian nuclear and military facilities the previous Friday in what it described as an effort to preempt Tehran's acquisition of nuclear weapons; Israel had also struck civilian areas, causing casualties, and hit the state broadcaster on Monday, while the United States — previously engaged in Oman-mediated nuclear talks with Iran — endorsed the Israeli operation.[4]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued Netanyahu was "playing chicken with Trump," appealing to the president's ego by threatening to go overboard and destabilize Iran's government by starting a power struggle among its elite, on the theory that Trump could control the situation only by joining the operation; he predicted Trump was "about to unleash Putin."[4] Russian ambassador [[anatoly-viktorov]] separately described the danger to Russian diplomats and citizens in Israel amid the exchange of fire, and the [[uss-nimitz]] carrier strike group was ordered toward the Middle East ahead of schedule.[4]
+
+4. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f

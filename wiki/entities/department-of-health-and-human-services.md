@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, health, funding, minnesota]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-b62.md, raw/badlands-brief.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-b62.md, raw/badlands-brief.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -53,6 +53,12 @@ HHS canceled seven federal grants worth millions of dollars to the [[american-ac
 
 HHS was named alongside the [[food-and-drug-administration|Food and Drug Administration]] in a December 2023 suit by [[america-first-legal|America First Legal]] over the agencies' failure to produce records about the government's suppression of [[hydroxychloroquine|hydroxychloroquine]] and [[ivermectin|ivermectin]] as COVID-19 treatments.[10] AFL had submitted [[freedom-of-information-act|FOIA]] requests to HHS in August and September 2022, receiving acknowledgements and tracking numbers, but the department did not comply.[10] The requests aimed to determine when and why officials such as [[anthony-fauci|Anthony Fauci]] discouraged the treatments.[10]
 
+## Minnesota child care funding freeze (December 2025)
+
+On Tuesday, December 30, 2025, HHS froze hundreds of millions of dollars in child care funding for the state of [[minnesota|Minnesota]], the latest in a series of federal moves against Governor [[tim-walz|Tim Walz]]'s administration as it attempted to manage allegations of fraud.[11] Deputy Secretary [[jim-oneill|Jim O'Neill]] announced the action publicly, writing that "we have frozen all child care payments to the state of Minnesota" in light of "serious allegations that the state of Minnesota has funneled millions of taxpayer dollars to fraudulent daycares across Minnesota over the past decade," and that the department had taken three actions that day.[11] The freeze came as Minnesota faced probes by the [[fbi|FBI]] and the [[department-of-homeland-security|Department of Homeland Security]] over allegations that the state's Democratic leaders were complicit in exploiting federal nutrition and child care funds.[11]
+
+Badlands commentary noted the irony of the department's enforcement posture given O'Neill's own long tenure inside HHS before his years in [[peter-thiel|Thiel]]-linked finance.[11]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -65,3 +71,4 @@ HHS was named alongside the [[food-and-drug-administration|Food and Drug Adminis
 8. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 9. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
 10. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+11. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

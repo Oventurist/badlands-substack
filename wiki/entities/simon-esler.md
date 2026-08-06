@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d8f.md]
 confidence: low
 ---
 
@@ -47,6 +47,10 @@ In the Badlands News Brief of February 23, 2024, Esler contributed two commentar
 
 On the Greek objection to the [[netflix|Netflix]] portrayal of [[alexander-the-great|Alexander the Great]], Esler argued for describing the conflict explicitly as [[neo-marxism|Neo-Marxist]] warfare so that the lens of strategy, operations and tactics could be applied, identifying [[queering-history|queering history]] as a primary strategic objective and the series as an operation serving it.[7] He described Neo-Marxist warfare as building "counter-hegemonies" that invert perceived white, heteronormative, cisnormative patriarchal power structures, called [[diversity-equity-and-inclusion|DEI]] and [[esg|ESG]] scores massive counter-hegemony operations, and urged readers to "bring the war itself into the Overton window."[7]
 
+## On media subversion (February 2024)
+
+In the February 29, 2024 Badlands News Brief, Esler analyzed former [[new-york-times|New York Times]] editor [[adam-rubenstein|Adam Rubenstein]]'s essay on newsroom bias, calling the transformation of the news media through Neo-Marxist brainwashing an important influence to track and describing it as the evolution of [[operation-mockingbird|Operation Mockingbird]] into a more dangerous form driven by ideology rather than orders.[9] He argued that everyone who had described the conflict as a war on objective reality was validated by an article compiling "decades of communist ideological subversion now manifest as a chorus of journalists all announcing that objectivity is dangerous."[9]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -63,3 +67,4 @@ In the March 20, 2024 [[badlands-media|Badlands]] News Brief, Esler wrote on two
 On the ruling permitting the [[2022-buffalo-supermarket-shooting|Buffalo shooting]] lawsuit against [[meta-platforms|Meta]], [[google|Alphabet]], [[reddit|Reddit]] and [[4chan]] to proceed, he argued that "extremist" now refers only to right-wing ideologies under a radicalized legal system, and warned that a plaintiff victory would justify further big tech crackdowns.[8] He contrasted the case with the absence of comparable suits over social media's role in youth medical transition, citing detransitioner [[chloe-cole|Chloe Cole]]'s malpractice suit against [[kaiser-permanente|Kaiser Permanente]], and asked whether [[lawfare]] not founded in law is anything but lawlessness — adding that a new respect for the law was being cultivated as people saw the severity of the infection.[8]
 
 8. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+9. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f

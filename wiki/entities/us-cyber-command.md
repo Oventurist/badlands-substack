@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, cyber, censorship, information-warfare]
-sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-aff.md]
+sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f26.md]
 confidence: medium
 ---
 
@@ -29,8 +29,20 @@ Defense Secretary [[pete-hegseth|Pete Hegseth]] ordered U.S. Cyber Command to su
 
 At the [[cybersecurity-and-infrastructure-security-agency|Cybersecurity and Infrastructure Security Agency]], some cyberthreat experts were reassigned to adversaries other than Russia, and at a United Nations cyber meeting in New York, [[state-department|State Department]] official Liesyl Franz discussed foreign adversaries targeting U.S. critical infrastructure — citing Chinese hackers breaching American telecommunications networks — without mentioning Russia.[3]
 
+
+## Fort Meade and the Devolution Thesis
+
+In a December 2024 Badlands News Brief, GhostofBasedPatrickHenry observed that CYBERCOM is a combatant command based at [[fort-meade|Fort Meade]], Maryland — the same installation that hosted [[project-stargate|Project Stargate]] and houses the [[national-security-agency|NSA]] — and noted that CYBERCOM "plays a starring role in Jon Herold's Devolution series."[4]
+
 ## References
 
 1. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 2. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 3. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff
+4. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
+
+## Joint operations with CISA disclosed (April 2023)
+
+At the RSA Conference in April 2023, senior officials revealed a little-known partnership between the country's military cyber forces and homeland defenders that had stymied the impact of two state-linked attacks.[5] Axios reported that the disclosures were among the first clear examples of how the [[pentagon|Pentagon]]-based Cyber Command and the [[department-of-homeland-security|Department of Homeland Security]]'s [[cisa|Cybersecurity and Infrastructure Security Agency]] cooperate during an active event, a division of labour rarely legible to observers outside government.[5] [[eric-goldstein|Eric Goldstein]], CISA's executive assistant director for cybersecurity, and Maj. Gen. [[william-hartman|William Hartman]], chief of the command's Cyber National Mission Force, detailed the two previously unknown incidents during a panel talk.[5] Badlands contributor [[just-human|Just Human]] read the disclosure as "more confirmation that elections systems, including those systems used to report the results of an election, are online and vulnerable to attacks by foreign nations."[5]
+
+5. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26

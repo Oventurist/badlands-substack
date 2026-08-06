@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, national-guard, immigration, ice]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-ccd.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-577.md, raw/badlands-brief-db7.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -144,3 +144,11 @@ Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]]
 
 18. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
 19. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd
+
+## Somali immigration pledge (December 2025)
+
+At a Tuesday fundraising event in Seattle for Washington Governor Bob Ferguson, held at the Washington State Convention Center, Walz pledged to bring even more Somali immigrants to Minnesota, saying, "Instead of demonizing our Somali community, we're going to do more to welcome more in."[20] The pledge came as his administration faced increasing federal scrutiny over its handling of widespread social services fraud connected to the Somali community, in which an alleged $1 billion in taxpayer dollars was stolen.[20] The failed Democratic vice presidential nominee criticized federal immigration enforcement in Minnesota, claiming "our neighbors are being demonized" and that the state's immigrant community was being "terrorized" by the Trump administration, and asserting that illegal immigrants in his state were "literally picked up off the streets" by U.S. Immigration and Customs Enforcement agents.[20] "These folks better not ever mistake our kindness for our weakness because we are going to defend our neighbors," he said, in an apparent warning to federal immigration officials.[20] More than 1,000 supporters attended the luncheon, some paying up to $2,500 for a table, and Walz received a standing ovation.[20]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] tied the speech to remarks by Representative [[ilhan-omar|Ilhan Omar]] and to Homeland Security Secretary [[kristi-noem|Kristi Noem]]'s claim that 50% of visas in Minnesota were fraudulent, arguing that Walz "doubling down should make this criminal."[20]
+
+20. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

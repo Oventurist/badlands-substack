@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, foreign-aid, defense-contractors, congress, corruption]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-cc9.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-f39.md]
 confidence: medium
 ---
 
@@ -82,3 +82,27 @@ In September 2023 a [[60-minutes|60 Minutes]] segment titled "The unexpected way
 [[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] contrasted the arrangement with the treatment of Americans during the Covid-19 shutdowns, when businesses were closed, owners fined and $600 payments issued while many fell into lasting financial ruin.[10] She described the practice as "the very essence of taxation without representation," noting the absence of any audit of or accountability for money spent in Ukraine and alleging that much of it was likely laundered back to political actors in Washington.[10]
 
 10. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9
+
+## Kyiv's alarm over the McCarthy ouster (October 2023)
+
+In early October 2023, Politico reported that after a year and a half of war, Ukraine's leaders had a new reason to worry: mounting political chaos in America threatened to derail their supply of money and weapons.[11] Days after lawmakers shelved a plan to send billions of dollars in aid to Kyiv, House Speaker [[kevin-mccarthy|Kevin McCarthy]] was ousted by his own Republican colleagues, with aid to Ukraine named by [[matt-gaetz|Matt Gaetz]] as one of the reasons in his [[motion-to-vacate|motion to vacate]].[11] Officials in Kyiv were at a loss as to what might come next, their staunchest military ally suddenly looking unreliable despite assurances from President [[joe-biden|Joe Biden]] and others that the United States would remain steadfast until Ukraine's invaders were defeated.[11]
+
+"We are freaking out. For us it is a disaster," said Ivanna Klympush-Tsintsadze, a senior Ukrainian MP who chairs the committee on the country's integration with the European Union, adding that Ukrainians wanted matters sorted out so American democracy could function and the bipartisan consensus on supporting Ukraine could be restored.[11] The turmoil came amid a finely balanced war and as some European leaders grew more willing to criticize Kyiv and argue against continued support.[11]
+
+[[ashe-in-america|Ashe in America]] wrote that the most interesting line in the piece was the observation that Ukraine had to get through 45 days "without a major corruption scandal," likening it to hiding the kegerator before a parental visit.[11] She recalled Biden's account of having a corrupt Ukrainian prosecutor fired and replaced with someone "solid," argued that Ukraine is "the capitol of global money-laundering" — citing both the blank check for the war and the much-lauded philanthropy of [[sam-bankman-fried|SBF]] — and said not a penny should go to Ukraine or any foreign nation until domestic crises were addressed.[11] She concluded that politicians prioritizing Ukraine over America had identified themselves as "America Last" and should be remembered at reelection time.[11]
+
+## Zelensky's admission of war fatigue (October 2023)
+
+Also in early October 2023, President [[volodymyr-zelensky|Volodymyr Zelensky]] for the first time publicly admitted that "fatigue" was setting in around the war effort, amid a broader narrative shift among Western media and pundits.[11] Analysts such as Teona Lavrelashvili of the European Politics Centre suggested several allies were ready for a "pragmatic solution" to end the war.[11] Within days Ukraine aid had been dropped from the stop-gap budget bill in Congress, Poland declared it would cease arming Kyiv amid a row over grain imports, a Moscow-friendly politician was elected to lead Slovakia, and Britain's military said it had run out of vital arms to give Kyiv.[11]
+
+Zelensky pivoted from the admission to citing a "slowly" progressing [[2023-ukrainian-counteroffensive|counteroffensive]], telling an Italian broadcaster: "There is fatigue but we will do everything to win against our enemy, and our counter-offensive goes ahead, even if slowly we do everything to repel the enemy."[11] He said Ukraine felt U.S. support in "these very difficult times" and was convinced it would continue despite the delay in approving American financial aid.[11] Sean Hanley, an associate professor in comparative Central and East European politics at University College London, said Kyiv would be "worried but not panicking" by the growing sense that traditional allies had "fallen out of step."[11]
+
+11. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
+
+## Partisan divergence in public opinion (January 2023 Pew survey)
+
+A [[pew-research-center|Pew Research Center]] survey conducted January 18–24, 2023 among 5,152 U.S. adults found that as the United States ramped up military aid to Ukraine, about a quarter of Americans (26 percent) said the U.S. was providing too much support, while 31 percent said it was giving the right amount and 20 percent wanted additional assistance.[12] The share saying the U.S. was giving too much aid had risen 6 percentage points since September 2022 and 19 points since shortly after Russia launched its invasion.[12] The shift was attributable mostly to Republicans and Republican-leaning independents, 40 percent of whom held that view, up from 32 percent in the fall and far above the 9 percent recorded in March 2022.[12]
+
+Badlands contributor [[burning-bright|Burning Bright]] read the numbers as evidence that the "Great Awakening" was progressing, noting that less than twelve months into the war what had seemed an endless cash cow for globalist interests — and a perpetual media story — had already worn out its welcome with a growing, increasingly bipartisan segment of the American public whose quality of life was deteriorating while bureaucrats debated lending more money to "another Forever War quagmire in distant lands."[12]
+
+12. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39

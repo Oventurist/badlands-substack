@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [financial-regulation, banking, money-laundering, oversight]
-sources: [raw/badlands-news-brief-138.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] cautioned that documents prov
 
 ## References
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
+
+## Cited in the Hunter Biden plea debate
+
+In June 2023, Badlands writer [[ryan-delarme|Ryan DeLarme]] argued that more than 150 Suspicious Activity Reports had been filed concerning the Bidens, and that an ordinary family generating even one such report could expect to be investigated — a contrast he offered as proof of a [[two-tier-justice-system|two-tier justice system]] in light of the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

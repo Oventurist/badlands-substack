@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-judge, e-jean-carroll, donald-trump]
-sources: [raw/badlands-brief-d94.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-brief-d94.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e39.md]
 confidence: low
 ---
 
@@ -34,6 +34,10 @@ On March 28, 2024, Kaplan sentenced [[ftx|FTX]] founder [[sam-bankman-fried|Sam 
 
 On January 22, 2024, Kaplan suspended the trial of [[e-jean-carroll]]'s defamation suit against [[donald-trump]] after one juror called the courthouse to report flulike symptoms on his way to court, and after Trump's lawyer [[alina-habba]] — who had been exposed to COVID while visiting her parents — reported lingering symptoms despite a negative test.[5] Habba asked Kaplan to postpone court for the day and then to push proceedings to Wednesday so that Trump's testimony would not fall on the day of the New Hampshire primary; Carroll's counsel Roberta Kaplan objected, saying she would prefer to continue on Tuesday, and the judge said he would consider the request.[5] Writing in the [[badlands-news-brief]], [[ashe-in-america]] argued that Kaplan had waited to recess the court until after dismissing Trump's motion for a mistrial over Carroll's deletion of material evidence, and characterised the judge as "coloring outside the lines of Federal Civil Procedure since the inception of this case."[5]
 
+## July 2023 bail hearing
+
+On July 26, 2023, Kaplan tightened [[sam-bankman-fried|Sam Bankman-Fried]]'s bail conditions by restricting his ability to communicate publicly, and said he would consider jailing the defendant before his trial over the collapse of [[ftx|FTX]].[6] Prosecutors at the Manhattan hearing urged immediate detention, arguing that Bankman-Fried had "crossed a line" by sharing the personal writings of [[caroline-ellison|Caroline Ellison]] with a reporter in what they described as a second instance of witness tampering.[6] Kaplan imposed the gag order prosecutors had requested and gave both sides until August 3 to brief whether jail was necessary, remarking, "I'm very mindful of the government's interest in this issue, which I take seriously. Mr. Bankman-Fried, you'd better take it seriously too."[6] Defense counsel Mark Cohen responded that his client had only been protecting his reputation and that preparing for the October 2 trial from jail "really would be almost impossible."[6]
+
 ## References
 
 1. Badlands Brief — "Vagina's Mom Just Can't Get Paid", URL: https://badlands.substack.com/p/badlands-brief-d94
@@ -41,3 +45,9 @@ On January 22, 2024, Kaplan suspended the trial of [[e-jean-carroll]]'s defamati
 3. Badlands News Brief — "Musk Investigated, Fauci Exposed & Committees Engaged", URL: https://badlands.substack.com/p/badlands-news-brief-34a
 4. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 5. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+6. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+7. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## Criticism during the January 2024 Carroll damages trial
+
+Badlands commentary during the January 2024 damages trial criticized Kaplan's handling of [[e-jean-carroll|E. Jean Carroll]]'s suit against [[donald-trump|Donald Trump]], arguing that a liability decision had been obtained "without so much as a date of the alleged act."[7] [[ashe-in-america|Ashe in America]] treated the ruling as symptomatic of a broader weaponization of the Federal Rules of Civil Procedure and of activist appointments to judgeships and prosecutorial offices.[7]

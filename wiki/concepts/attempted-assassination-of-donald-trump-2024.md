@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, assassination, deep-state, secret-service, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -84,6 +84,22 @@ Nearly a year after the shooting, in July 2025, the [[united-states-secret-servi
 
 On September 16, 2024, Senator [[josh-hawley|Josh Hawley]] released a whistleblower report unveiling a series of alarming security lapses by the [[us-secret-service|U.S. Secret Service]] and other federal agencies during the July 13, 2024 rally in Butler, Pennsylvania.[8] Based on information from multiple whistleblowers, the report described a pattern of incompetence, mismanagement and inadequate preparation, concluding that systemic failures, poor decision-making and a lack of proper resource allocation produced a near-catastrophic breach of presidential security.[8] Among the most critical allegations were the Secret Service's decision not to conduct a standard evaluation of the rally site, the absence of the Counter Surveillance Division from the event, and the agency's refusal of multiple offers from local law enforcement to deploy drone surveillance — a decision made more consequential by the fact that the would-be assassin used a drone to survey the site hours before the attack.[8] The report prompted calls for urgent oversight and reform, coming at a moment when [[donald-trump|Donald Trump]] had become the target of two assassination attempts in two months.[8]
 
+## Immediate aftermath: casualties, unity turn and market reaction
+
+Reporting compiled in the days after the shooting fixed the details of the attack: the suspected gunman, identified by the [[fbi|FBI]] as 20-year-old [[thomas-matthew-crooks|Thomas Matthew Crooks]] of Bethel Park, Pennsylvania, was shot and killed by the [[united-states-secret-service|Secret Service]] after firing from a rooftop outside the event's security perimeter, and 50-year-old former firefighter [[cory-comperatore|Corey Comperatore]] was killed in the crowd.[9] Two injured attendees, 57-year-old David Dutch of New Kensington and 74-year-old James Copenhaver of Moon Township, were listed in stable condition, while [[donald-trump|Donald Trump]] sustained a minor injury when a bullet grazed his ear.[9]
+
+Within 48 hours, Trump announced Senator [[jd-vance|J.D. Vance]] as his running mate and told the Washington Examiner he was rewriting his [[2024-republican-national-convention|Republican National Convention]] address to focus on national unity rather than attacks on [[joe-biden|Joe Biden]]'s record, saying that "the speech I was going to give on Thursday was going to be a humdinger" but that "it's going to be a whole different speech now."[9] Biden, for his part, delivered an Oval Office address urging Americans to reject political violence.[9] Independent candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] met with Trump on Monday morning, two days after the shooting and hours before the Vance announcement.[9]
+
+Financial markets moved quickly on the assumption of a second Trump term: bitcoin rose 2% immediately after the attack and extended gains to 4% by Monday morning, shares of [[trump-media-and-technology-group|Trump Media & Technology Group]] soared 48% in premarket trading on 13 million shares before paring back, and Tesla rose about 4% after [[elon-musk|Elon Musk]] endorsed Trump on X, writing "I fully endorse President Trump and hope for his rapid recovery."[9] Meanwhile [[msnbc|MSNBC]] and [[comedy-central|Comedy Central]] cancelled Monday editions of [[morning-joe|Morning Joe]] and [[the-daily-show|The Daily Show]].[9]
+
+Foreign diplomats interviewed by Politico from three continents concluded that the attempt had made a Trump victory in November substantially more likely — "It sealed his victory," one African diplomat predicted — and warned that more U.S. political violence was likely to follow.[9] [[badlands-media|Badlands Media]] commentators, meanwhile, argued that the cabal's desired outcome had been to kill Trump on live television and traumatize the nation in order to neutralize rising populism, and warned that a "scare event" remained on the table.[9]
+
+## July 30, 2024 Senate hearing
+
+On Tuesday, July 30, 2024, Acting Secret Service Director [[ronald-rowe|Ronald Rowe]] and FBI Deputy Director [[paul-abbate|Paul Abbate]] were grilled by a Senate panel about the attempt, testifying on the security arrangements at the Butler site and the status of the investigations into July 13 and the days leading up to the shooting.[10] New details surfaced at the hearing, including a potential social media account owned by the shooter and unresolved questions about when the [[united-states-secret-service|Secret Service]] first saw the gunman on the roof; officials also confirmed, after the FBI director's ambiguous comments the previous week, that [[donald-trump|Trump]] had been struck by a bullet.[10] Rowe said he was "ashamed" of the protection failures, recounting that he had climbed to the roof of the AGR building and lain prone to evaluate the assailant's line of sight, and that as a 25-year veteran he "cannot defend why that roof was not better secured."[10]
+
+Communication breakdowns, radio interoperability problems, cellular issues and inadequate redundancies dominated the session.[10] Senator [[chuck-grassley|Chuck Grassley]] pressed on the communication failures, while Senator [[ron-johnson|Ron Johnson]] demanded 302 reports for all FBI interviews and criticised the Secret Service for failing to memorialise its encrypted communications from July 13.[10] Abbate testified that the Bureau still did not know how [[thomas-matthew-crooks|Crooks]] had got a long gun onto the roof of a secured area.[10] Badlands commentary concluded that after four congressional hearings a "chasm of uncertainty" persisted, that the officials' testimony amounted to plausible deniability and "lessons learned," and that the greatest victim of the bureaucratic dysfunction was public trust.[10]
+
 ## References
 
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -93,3 +109,5 @@ On September 16, 2024, Senator [[josh-hawley|Josh Hawley]] released a whistleblo
 5. Badlands Brief — "Badlands News Brief: They're the Conspiracy Theorists, Now ...", URL: https://badlands.substack.com/p/badlands-news-brief-74a
 6. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+9. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1
+10. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

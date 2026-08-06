@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [yemen, red-sea, iran-proxies, shipping]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e39.md]
 confidence: medium
 ---
 
@@ -90,6 +90,9 @@ On March 15–16, 2025, President [[donald-trump|Donald Trump]] launched large-s
 
 Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the strikes caused consternation among anti-war and anti-Israel factions of MAGA, but noted that the Houthis had attacked U.S. ships on many occasions and that Trump had previously backed Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s eight-year campaign against the group, including the 2019 transfer of Patriot missile defense systems after Houthi strikes on Saudi oil refineries; the Saudis made peace with the Houthis in 2023.[13] He argued the timing of the campaign — rather than its justification, which had existed since the October 7 attack — suggested Trump was drafting off the momentum of the NeoCon/Zionist faction of the political right to keep it complacent while [[adam-boehler|Adam Boehler]] and [[steve-witkoff|Steve Witkoff]] pursued a deal with [[hamas|Hamas]].[13]
 
+## Message to Trump after the 2024 election
+
+Days after [[donald-trump|Donald Trump]]'s November 2024 election victory, a source within Ansar Allah told Newsweek that the president-elect could avoid further damage to the US economy by reining in Israel's war in the Gaza Strip.[17] The group had begun launching missiles and drones at Israel weeks after the October 2023 Hamas attack and then turned to targeting commercial vessels accused of Israeli ties, producing a steep decline in traffic through the Suez Canal and soaring global trade costs.[17] Ansar Allah vowed to continue the campaign despite US and Israeli strikes on Yemen, tying any halt to an end of Israeli operations in Gaza and Lebanon.[17] The source expressed skepticism that Trump would deliver: "We believe that Trump will not fulfill his commitment to Arab voters and supporters of Gaza, whom he promised to stop the aggression on Gaza, but reality will answer that."[17] He added that "America is paying an economic and military price because of its support for the aggression on Gaza and also because of its aggression on Yemen in service of Israel," and asked whether continued American aggression would mean further losses for the US economy.[17]
 
 ## References
 
@@ -107,3 +110,22 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote
 12. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
 13. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 14. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
+
+## December 2024: Netanyahu vows escalation
+
+After a ballistic missile crashed into a Tel Aviv playground over a weekend in December 2024, Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] warned that [[israel]] would act against the Houthi rebels in Yemen with the same force it had used against [[iran]]'s other "terrorist arms."[15] Speaking after a security cabinet meeting in the northern Israeli town of Safed, he stressed Israel was not acting alone, pointing to repeated strikes by American and British forces against Houthi targets over the previous year and saying that "the US, and also other countries, like us, see the Houthis as a threat, not only to world shipping, but also to world order."[15] "Just as we acted forcefully against the terrorist arms of Iran's evil axis, so we will act against the Houthis...with force, determination and sophistication," he said.[15] At the same time, Israeli reports said senior defense officials, including the head of the [[mossad|Mossad]], believed the correct move was to strike Iran directly rather than target its Yemeni proxy.[15]
+
+## Container shipping exodus from the Red Sea (December 2023)
+
+By December 20, 2023, logistics company [[kuehne-nagel|Kuehne + Nagel International AG]] reported that more than 100 container ships had been rerouted away from the Red Sea and around Africa to avoid Iran-backed Houthi militants in Yemen attacking commercial vessels with missiles and drones.[16] The firm counted 103 container ships detouring around the Cape of Good Hope, lengthening transit by one to two weeks, and expected further detours in the following days.[16] For vessels still transiting the waterway leading to the Suez Canal, war-risk insurance rose that week from roughly 0.1%–0.2% of hull value to 0.5%, so that a $100 million vessel paid about $500,000 per voyage; the combination of higher premiums and longer routings pointed to snarled supply chains and rising goods prices.[16]
+
+15. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+16. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+17. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37
+18. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## January 2024 terror redesignation
+
+In January 2024 the [[joe-biden|Biden]] administration announced it would redesignate the Iran-backed Houthis as a terrorist group, three years after removing them from the Foreign Terrorist Organizations list, in response to repeated attacks on shipping in the Red Sea.[18] The group was placed on the Specially Designated Global Terrorist (SDGT) list, triggering sanctions intended to deter further attacks on global trade in the Red Sea and Gulf of Aden.[18] A senior administration official said the attacks were "a clear example of terrorism and a violation of international law and a major threat to life, global commerce," and that they jeopardized the delivery of humanitarian assistance.[18]
+
+The decision followed dozens of Houthi attacks on commercial vessels, including anti-ship ballistic missiles launched from Yemen into the Red Sea; the group said the campaign was a response to Israel's military operations against Hamas in the Gaza Strip.[18] [[burning-bright|Burning Bright]] framed the reversal as another instance of the Biden administration undoing its own reversal of a [[donald-trump|Trump]] administration decision in full public view, calling it a distinctly "Devolution-y" pattern.[18]

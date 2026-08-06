@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense, trump-administration, pentagon, industrial-base]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -173,6 +173,20 @@ In 2025, Hegseth announced the creation of a new Department of Defense task forc
 
 At a cabinet meeting on Tuesday, December 2, 2025, President [[donald-trump|Donald Trump]] defended War Secretary Hegseth amid heavy scrutiny of the administration's conduct in the campaign against alleged drug-trafficking boats in the Caribbean, which had killed more than 80 people.[35] Trump said that neither he nor Hegseth had known in advance about the second strike on a suspected drug vessel — a follow-up attack carried out by the U.S. military on September 2 after an initial strike did not kill everyone on board.[35]
 
+## 2024 confirmation attacks
+
+During the November 2024 confirmation cycle, Hegseth's attorney [[timothy-parlatore|Tim Parlatore]] told Breitbart News that a [[hegseth-sexual-assault-allegation|2017 sexual assault allegation]] against his client had been "completely investigated" at the time and that Hegseth is "completely and totally innocent," asserting that the accuser "was the aggressor."[36] Parlatore described the incident as following a California Federation of Republican Women conference in Monterey at which Hegseth had spoken, saying video and eyewitness accounts showed the accuser sober and Hegseth drunk, and that police who reviewed the footage considered charging her.[36]
+
+Badlands Media characterized the allegation as the third narrative deployment against the nomination, following claims that Hegseth was merely "that Fox News weekend anchor" lacking requisite experience — countered by his verifiable service record and his appearance on [[shawn-ryan|Shawn Ryan]]'s podcast — and criticism of his Jerusalem Cross tattoo, which some critics compared to a swastika.[36] The outlet argued that resorting to a [[metoo-movement|Me Too]] attack so early signaled opponents had nothing substantive, and predicted he would be confirmed.[36]
+
+## October–November 2025 actions
+
+At the end of October 2025 internal War Department memos showed the [[pentagon|Pentagon]] directing every state and territory [[national-guard|National Guard]] to establish [[quick-reaction-force|"quick reaction" forces]] by January, trained and equipped for riots and civil unrest; the initiative followed an August directive from President [[donald-trump|Trump]] to War Secretary Hegseth.[37]
+
+On Friday, October 31, 2025, Hegseth held talks with Chinese Defense Minister [[dong-jun|Dong Jun]] at a gathering of Association of Southeast Asian Nations defense chiefs in Kuala Lumpur, with no readout provided; the meeting followed Trump's summit with [[xi-jinping|Xi Jinping]] in South Korea, where the two agreed to reduce trade tensions.[37]
+
+Hegseth also ordered the military to assign dozens of attorneys to the [[department-of-justice|Department of Justice]] for temporary duty in Memphis and along the U.S.–Mexico border, with the Defense Department detailing [[judge-advocate-generals-corps|Judge Advocate General's Corps]] attorneys to the U.S. Attorney's Office for the District of Columbia to serve as Special Assistant United States Attorneys filling critical vacancies.[37]
+
 ## References
 
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
@@ -210,3 +224,13 @@ At a cabinet meeting on Tuesday, December 2, 2025, President [[donald-trump|Dona
 33. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 34. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
 35. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+36. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+37. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+
+## Nomination as Secretary of Defense (November 2024)
+
+On November 12, 2024, President-elect [[donald-trump|Donald Trump]] selected Hegseth, then a Fox News weekend host, as his nominee for Secretary of Defense, prompting an immediate outcry from Democratic legislators and legacy media commentators.[38] Representative [[dan-goldman|Dan Goldman]] (D-NY) told CNN's "OutFront" that he was "shocked, truly," arguing the pick exemplified fears that Trump would "appoint unqualified loyalists to shape this government into his own personal thiefdom, and get revenge on generals."[38] Goldman said he appreciated Hegseth's service in the armed forces but that being a serviceman did not qualify him to lead the Department of Defense or to have access to nuclear weapons.[38] [[don-lemon|Don Lemon]] mocked the choice in a social media post asking, "The Fox News weekend host?"[38]
+
+Badlands coverage by [[ashe-in-america|Ashe in America]] noted that backlash against these critics was swift, emphasizing that Hegseth attended Princeton and Harvard and served in active combat with the Minnesota National Guard, and that by the following morning [[cnn|CNN]] had updated its description of him to "Fox News host and veteran."[38] Reviewing Hegseth's interviews, including one with [[shawn-ryan|Shawn Ryan]], she argued the pick made sense in the context of Trump's stated plan to streamline the federal bureaucracy within an eighteen-month window: Hegseth had a reputation in military circles for exposing bureaucratic waste, and while [[elon-musk|Elon Musk]] and [[vivek-ramaswamy|Vivek Ramaswamy]] were running the [[department-of-government-efficiency|Department of Government Efficiency]], success would require mission-aligned agency heads willing to demolish internal fiefdoms.[38]
+
+38. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

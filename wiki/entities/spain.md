@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [spain, world-cup, europe, israel]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-884.md, raw/badlands-brief-a9f.md, raw/badlands-brief-a84.md, raw/badlands-news-brief-398.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-884.md, raw/badlands-brief-a9f.md, raw/badlands-brief-a84.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -28,6 +28,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 
 ## Clash with Trump at the 2026 Ankara NATO summit
 
+### Trump's suggestion of expulsion from NATO (October 2025)
+
+Speaking during an Oval Office meeting with Finnish President [[alexander-stubb|Alexander Stubb]] on Thursday, October 9, 2025, US President [[donald-trump|Donald Trump]] said Spain should be thrown out of [[nato|NATO]] for failing to meet the alliance's new 5% defense spending target.[7] Trump, who had spearheaded the increase, boasted that he secured the commitment "virtually unanimously" at the June NATO summit, adding: "We had one laggard. It was Spain," and that "they have no excuse not to do this."[7] He concluded: "Maybe you should throw them out of NATO, frankly."[7]
+
+Trump had repeatedly accused NATO members of failing to shoulder the military spending burden equitably even during his first term, and since returning to office in January 2025 intensified demands that European members spend more on defense; the push culminated at the June summit in The Hague, where members committed to spending 5% of GDP annually on defense by 2035, a meeting Trump called "the most unified and productive in history."[7] Badlands commentary read the remark as an example of Trump using the alliance's own logic against it — arguing, in effect, for NATO's dismantling by proposing to expel every member unwilling to fight Russia.[7]
+
 ### Tariff threat over NATO spending (October 2025)
 
 Nearly a year before the Ankara summit, President [[donald-trump|Donald Trump]] threatened to impose punitive tariffs on Spain over its failure to meet [[nato|NATO's]] increased defense spending requirements.[5] Speaking to journalists at the White House on October 14, 2025, Trump accused Spain of being the only member nation that had not raised military spending to 5% of GDP, said "I'm very unhappy with Spain," and claimed Madrid had been "unbelievably disrespectful" of the alliance.[5] "I was thinking about giving them trade punishment through tariffs because of what they did. I may do that," he said, without detailing the potential measures.[5] Earlier that month, during an Oval Office meeting with Finnish President Alexander Stubb, Trump had suggested expelling Spain from NATO altogether, saying "they have no excuse not to do this."[5] Madrid had previously dismissed the 5% target as impossible.[5]
@@ -44,3 +50,10 @@ During Spain's victory parade in Madrid following its 1-0 extra-time win over Ar
 3. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 4. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
 5. Badlands Brief — "Satellite Secrets, Spanish Sanctions, & Enslaved Scammers", URL: https://badlands.substack.com/p/badlands-news-brief-398
+
+## Cancellation of Israeli arms contracts (September 2025)
+
+In September 2025 Spain scrapped nearly €1 billion ($1.18 billion) in defense contracts with Israeli firms, its strongest move yet under Prime Minister [[pedro-sanchez|Pedro Sánchez]]'s newly announced measures against Israel over the Gaza offensive.[6] The Defense Ministry reportedly canceled a €700 million ($826 million) deal for twelve SILAM rocket launchers and a €287.5 million ($339 million) contract for 168 Spike L.R. anti-tank missiles; the SILAM systems, based on [[elbit-systems|Elbit]]'s PULS platform, were to have been built by a Spanish consortium.[6] Madrid was reported to be preparing to disengage militarily and technologically from [[israel|Israel]] while seeking alternative suppliers, following Sánchez's pledge to enshrine in law a ban on arms sales to and purchases from Israel.[6] The move is documented at [[spain-israel-arms-deal-cancellations-of-2025|Spain–Israel Arms Deal Cancellations of 2025]].[6]
+
+6. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+7. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [usaid, funding, labor, regime-change]
-sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e10.md]
 confidence: medium
 ---
 
@@ -119,6 +119,12 @@ In August 2025, the [[us-court-of-appeals-for-the-dc-circuit|U.S. Court of Appea
 
 Badlands contributor [[ashe-in-america|Ashe in America]] argued that NGOs hoping for judicial restoration of their funding misunderstand the constitutional order, contending that the Executive runs the country and is under no obligation to continue what she called a public-private grift; she noted that roughly 10% of Colorado's jobs are NGO jobs and that more than 30% of the state budget is federal funding.[18]
 
+## Trump's "biggest scandal" claim (February 2025)
+
+In February 2025 President [[donald-trump|Donald Trump]] warned Democrats that they "can't hide" from the USAID scandal, claiming that billions of dollars had been "stolen" at USAID and other agencies, with much of it going to the "fake news media" as a "payoff for creating good stories about the Democrats."[19] The [[white-house|White House]] confirmed that [[politico|Politico]] had received at least $8.2 million from the U.S. government in recent years.[19]
+
+Writing on Truth Social, Trump said the "left wing rag" Politico "seems to have received $8,000,000," asked whether the New York Times had also received money, and declared: "THIS COULD BE THE BIGGEST SCANDAL OF THEM ALL, PERHAPS THE BIGGEST IN HISTORY!"[19] Badlands contributor [[ashe-in-america|Ashe in America]] noted that regime spokespeople dismissed USAID as "less than 1% of the federal budget," and asked what would be learned when DOGE audited the IRS.[19]
+
 ## References
 
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
@@ -139,3 +145,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that NGOs hoping
 16. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
 17. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
 18. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
+19. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+20. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10
+
+## Restructuring litigation and the DOGE deposition ruling (May 2025)
+
+On May 27, 2025, U.S. District Judge [[theodore-chuang|Theodore Chuang]] of Maryland, a [[barack-obama|Barack Obama]] appointee, gave the [[donald-trump|Trump]] administration a victory in litigation over its controversial plans to significantly restructure USAID.[20] In a ten-page memorandum opinion, Chuang rejected efforts to depose several USAID officials and members of the [[doge|U.S. Department of Government Efficiency]], holding that "the proposed depositions of multiple officials with significant roles in the operation of the government imposes a meaningful burden."[20] The plaintiffs — 26 current and former USAID contractors and employees — argued that [[elon-musk|Elon Musk]] possessed "an extraordinary amount of power" without Senate nomination or confirmation, in violation of the Constitution's Appointments Clause; coverage framed the ruling as clearing the way for a "permanent" USAID shutdown to proceed.[20]

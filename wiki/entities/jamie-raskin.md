@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, epstein-files, oversight]
-sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-bb3.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e39.md]
 confidence: medium
 ---
 
@@ -42,3 +42,10 @@ Two deadlines for the relevant memoranda of understanding — one with the [[gen
 3. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 4. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 5. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3
+6. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## January 2024 border deal remarks
+
+At a House Oversight and Accountability Committee hearing on Wednesday, January 17, 2024, Raskin claimed that Republicans were blocking a potential Senate border bill on "orders from" former President [[donald-trump|Donald Trump]].[6] "Rather than joining Democrats and Biden in good faith, bipartisan negotiations to make progress on immigration, they are taking orders from Donald Trump and actively obstructing a bipartisan border deal," he said.[6]
+
+Speaker [[mike-johnson|Mike Johnson]] had reportedly said days earlier that he would "absolutely not" accept the package, signaling that any eventual Senate border deal would be dead on arrival in the House, though Republican senators were reported to be unconcerned by his refusal.[6] Because border security was Trump's signature issue and his support in the House continued to grow, strategists doubted he would bless a deal with the White House during the primary season.[6]

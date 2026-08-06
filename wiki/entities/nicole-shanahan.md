@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [2024-election, independent-candidacy, attorney, campaign-finance]
-sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-be1.md]
+sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -27,3 +27,8 @@ Badlands commentary by [[burning-bright|Burning Bright]] argued that the Kennedy
 ## References
 1. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
 2. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
+
+## "Is Burning Man Demonic?" (2025)
+
+In late August 2025 Shanahan, a former vice-presidential candidate, published an insider account of [[burning-man|Burning Man]] written from her perspective as a newly baptized Christian and titled "Is Burning Man Demonic?"[3] She described constant orgies, staggering drug consumption, routine overdoses that rarely interrupt a party, ubiquitous nudity, and sexual assault, rape and preventable deaths at the festival, alongside open practice of magic, summoning of spiritual entities as entertainment, self-proclaimed "healers," and pervasive occult symbols and ceremonies.[3] She recounted deaths across her years of attendance, including a woman killed by an art car's undercarriage and a man who threw himself into the fire, writing that organizers try to mitigate such tragedies but they recur annually.[3] Badlands host [[ashe-in-america|Ashe in America]] recommended the essay in full and paired it with news of a homicide and a sexual assault arrest at that year's festival.[3]
+3. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

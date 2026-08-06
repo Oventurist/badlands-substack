@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-pharma, vaccines, hantavirus, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8c.md]
 confidence: medium
 ---
 
@@ -42,6 +42,14 @@ In January 2023 the Daily Mail reported that Moderna had begun trialing an mRNA 
 
 In September 2023 Moderna lost more than 9 percent of its market capitalization at one point in Monday afternoon trading after [[pfizer|Pfizer]] said only about 24 percent of eligible Americans would get a COVID-19 booster — implying a maximum market of roughly 82 million people, far below earlier projections.[6] Analysts including Chris Schott of JP Morgan expected COVID-19 treatment sales to level off from 2024, though some projected Moderna's next five years could beat the last five given new programs in oncology and rare diseases funded by a cash runway built on COVID-19 sales.[6] The episode is covered at [[2023-covid-19-vaccine-market-collapse|2023 COVID-19 vaccine market collapse]].[6]
 
+## IgG4 immune-exhaustion research (2023)
+
+A study covered in June 2023 held that repeated COVID-19 vaccination weakens the immune system, with multiple doses of the [[pfizer|Pfizer]] or Moderna vaccines producing elevated levels of the IgG4 antibody subclass.[7] Researchers argued the "abnormally high levels" of IgG4 make the immune system more susceptible to the vaccine spike protein, pointing to animal experiments in which additional boosters "significantly decreased" protection against Delta and Omicron and to human testing suggesting immune exhaustion after repeat dosing.[7]
+
+## Barda funding for the bird flu vaccine trial (2024)
+
+In late May 2024 the US government was reported to be nearing an agreement to bankroll a late-stage trial of Moderna's mRNA pandemic bird flu vaccine, in order to bolster the national pandemic jab stockpile as an [[h5n1-avian-influenza|H5N1]] outbreak spread through egg farms and cattle herds.[8] Funding from the Biomedical Advanced Research and Development Authority (Barda) was expected as early as the following month, totalling several tens of millions of dollars and potentially accompanied by a commitment to procure doses if the phase-three trials succeeded.[8] Parallel talks were under way with [[pfizer|Pfizer]] over its own mRNA vaccine targeting the H5 family of viruses; both firms had played pivotal roles in supplying mRNA vaccines during the Covid-19 rollout.[8]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -50,3 +58,5 @@ In September 2023 Moderna lost more than 9 percent of its market capitalization 
 4. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
 5. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 6. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+7. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+8. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c

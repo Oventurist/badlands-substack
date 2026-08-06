@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [isis, syria, terrorism, weapons, libya, lobbying]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b40.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md]
 confidence: medium
 ---
 
@@ -132,6 +132,16 @@ On the eve of the first 2024 presidential debate, a media firestorm erupted over
 
 He further cited [[vladimir-putin|Vladimir Putin]]'s repeated statements that ISIS fighters are highly paid mercenaries rather than religious zealots, matching the veterans' account that recruiters find "the degenerate losers in any village" and offer them U.S. cash.[17] The take folded the smuggling reports into a broader claim that the [[state-department|State Department]] — the Brief's deliberate substitute for the [[central-intelligence-agency|CIA]] — had waged kinetic war abroad for years and now appeared prepared to do so on U.S. soil.[17]
 
+## Badlands account of ISIS origins
+
+Badlands' July 2024 commentary linked the emergence of ISIS to [[benjamin-netanyahu|Benjamin Netanyahu]]'s May 24, 2011 address to Congress on "security in the Middle East," which it said resulted in a [[central-intelligence-agency|CIA]] operation to overthrow Libyan leader [[muammar-gaddafi|Muammar Gaddafi]], raid his private armory — described as the largest in the world, including tanks and chemical weapons — and ship those weapons to "freedom fighters" in the Syrian desert opposing [[bashar-al-assad|Bashar al-Assad]].[18] Those fighters, the account held, formed the network later known as ISIS.[18] The same piece argued that Iraq became a haven for [[al-qaeda|Al Qaeda]] and ISIS only after the removal of [[saddam-hussein|Saddam Hussein]] in April 2003.[18]
+
+## Badlands account of ISIS origins (September 2024)
+
+In the September 11, 2024 *Badlands News Brief*, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] disputed corporate media reporting that [[saudi-arabia|Saudi Arabia]] created and funded ISIS, calling that framing a lie while conceding that corrupt Saudi royals such as [[alwaleed-bin-talal|Alwaleed bin Talal]] once funded the ISIS insurgency against Syrian President [[bashar-al-assad|Bashar al-Assad]].[19]
+
+In his account, it was President [[barack-obama|Barack Obama]] and Secretary of State [[hillary-clinton|Hillary Clinton]] who created ISIS, by overthrowing and murdering Libyan leader [[muammar-gaddafi|Muammar Gaddafi]], raiding his private armory, and sending those weapons to the "freedom fighters" in [[syria|Syria]] — fighters who, in this telling, became ISIS.[19] The argument was offered as context for the September 2024 reopening of the Saudi embassy in Damascus, which Badlands presented as evidence that the Middle East is healing after generations of strife exploited by western oligarchs.[19]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -150,3 +160,5 @@ He further cited [[vladimir-putin|Vladimir Putin]]'s repeated statements that IS
 15. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 16. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 17. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+18. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+19. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

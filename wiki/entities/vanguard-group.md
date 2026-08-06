@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-579.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-579.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -22,7 +22,13 @@ Badlands argues that the apparent competition among the "Big Six" media companie
 
 In May 2026, Vanguard Group and [[fidelity-investments|Fidelity Investments]] were reported to have halted charitable donations to the [[southern-poverty-law-center|Southern Poverty Law Center]] following a federal indictment involving an individual allegedly connected to the organization.[3] The pause was read as evidence of reputational-risk management among large asset managers facing increased scrutiny over the destinations of corporate philanthropy, even though the SPLC itself had not been charged as an organization.[3]
 
+## Texas antitrust suit survives dismissal (2025)
+
+Vanguard was named alongside BlackRock and State Street in Texas Attorney General Ken Paxton's antitrust suit over alleged coordination to curb coal production; a federal judge denied the managers' motion to dismiss in 2025, clearing the way for full discovery and a potential trial.[4]
+
 ## References
+
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 3. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
+4. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

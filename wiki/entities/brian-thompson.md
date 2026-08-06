@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [healthcare, business, crime, new-york]
-sources: [raw/badlands-news-brief-757.md, raw/badlands-news-brief-960.md]
+sources: [raw/badlands-news-brief-757.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -27,3 +27,18 @@ A December 2024 Politico essay proposed that history offered an explanation in t
 ## References
 1. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 2. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+
+## December 2024 investigation developments
+
+On Thursday, December 5, 2024, the [[new-york-city-police-department|NYPD]] released new photographs of the suspect in Thompson's killing that showed him without a mask over his face, a day after releasing images in which he was masked.[3] Breitbart reported that the 50-year-old chief executive had been shot and killed outside the Hilton Hotel in Midtown Manhattan just after 6:45 a.m. on Wednesday, December 4, and that a manhunt begun immediately was still underway.[3] Investigators reported that shell casings recovered at the scene were engraved with the words "deny," "defend," and "depose," and that ballistic tests were underway; the shooter was described as having waited for Thompson outside the New York Hilton Midtown and fired multiple shots from a suppressed 9mm handgun.[3] See [[deny-defend-depose|Deny, Defend, Depose]].[3]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the supposed "professional assassin" had conducted the hit on camera, left inscribed shell casings behind, reportedly dropped a cell phone while fleeing, and was then captured on camera smiling and completely identifiable, calling the resulting skepticism "a gross understatement."[3] The commentary argued that a public assassination filmed in Midtown Manhattan an hour before rush hour is powerful enough to terrorize believers of legacy media into changing their behavior and to distract everyone else from stories that matter, and that traumatizing legacy media stories should be met by default with disbelief.[3]
+
+The killing also produced a reaction cycle of its own: former *Washington Post* reporter [[taylor-lorenz|Taylor Lorenz]] posted messages appearing to celebrate Thompson's murder and suggesting other insurance executives should be targeted.[3]
+3. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6
+
+## Mangione prosecution developments (September 2025)
+
+In September 2025, Judge [[gregory-carro|Gregory Carro]] dismissed terrorism charges against [[luigi-mangione|Luigi Mangione]] in New York State's case over Thompson's killing, while keeping the state's second-degree murder charges in place.[4] Carro rejected the defense argument that the state case and a parallel federal death penalty prosecution amounted to double jeopardy, holding such a determination premature.[4] The case was described as one of the most closely watched murder prosecutions in recent years, with Mangione having attracted a following — mostly on the political left — as a stand-in for frustration with the health insurance industry.[4] Badlands contributor [[ashe-in-america|Ashe in America]] cited the lionization of Thompson's killer as precedent for later celebrations of the death of [[charlie-kirk|Charlie Kirk]].[4]
+
+4. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

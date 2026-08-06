@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, covid-19, stimulus, economy, home-confinement]
-sources: [raw/badlands-news-brief-61a.md]
+sources: [raw/badlands-news-brief-61a.md, raw/badlands-news-brief-eca.md]
 confidence: medium
 ---
 
@@ -23,3 +23,8 @@ The nearly 1,500 individuals whose sentences were commuted in the [[2024-biden-m
 ## References
 
 1. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
+2. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## Michigan teacher training controversy
+
+CARES Act money also drew scrutiny for uses far removed from pandemic response. Michigan Governor [[gretchen-whitmer|Gretchen Whitmer]] allotted roughly $1.4 million in CARES Act funds to the Michigan State University College of Education, the University of Michigan's School of Education, and Michigan Virtual to develop online social justice and [[critical-race-theory|critical race theory]] modules for teachers.[2] The [[department-of-education|U.S. Department of Education]]'s Office of Inspector General reported in September 2022 that the state could not support the process it used to select those providers, and that the program aimed to train teachers on standards developed by Michigan's Governor's Education Advisory Council.[2]

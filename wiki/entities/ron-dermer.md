@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, netanyahu, diplomacy, hamas, hostages]
-sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -62,6 +62,19 @@ As Israeli ambassador to the United States, Dermer called the Trump White House 
 
 Amid a reported collapse of U.S. confidence in Israeli statements about its military and diplomatic plans, two U.S. officials told Axios that during a Friday call in early October 2024, [[white-house|White House]] national security adviser [[jake-sullivan|Jake Sullivan]] told Dermer, then Israel's minister for strategic affairs, that the United States expected "clarity and transparency" from Israel about its plans to retaliate against Iran, because those plans carried implications for U.S. forces and interests in the region.[9] One U.S. official said, "Our trust of the Israelis is very low right now and for a good reason," while the administration signalled it did not oppose an Israeli response but wanted it to be measured.[9]
 
+## Alleged role in the Abraham Accords near-collapse
+
+Badlands' July 2024 coverage recounted that, the day before the [[abraham-accords|Abraham Accords]] were scheduled to be signed in 2020, [[benjamin-netanyahu|Benjamin Netanyahu]] deployed Dermer — the American-born Israeli ambassador to the United States — to inform the White House that Israel would be backing out of the deal.[10] According to the account, [[donald-trump|Donald Trump]] then telephoned Netanyahu directly and the Israelis signed.[10]
+
+## Role in the Gertler sanctions suspension
+
+Badlands commentary on the May 2024 Congo coup attempt recounted that it was US-Israeli citizen Ron Dermer — long [[benjamin-netanyahu|Netanyahu]]'s right-hand man and later Israeli ambassador to the United States — who obtained the lifting of the [[executive-order-13818|Executive Order 13818]] sanctions on billionaire [[dan-gertler|Dan Gertler]] days before [[donald-trump|Donald Trump]] left office, after former [[mossad]] director [[yossi-cohen|Yossi Cohen]] lobbied for their removal; the US Treasury re-applied the sanctions once the media reported the suspension.[11]
+
+
+## Role in Refusenik politics
+
+Badlands Media reports that Dermer, then an Oxford student, aided the Refusenik community in Israel when it first organized a party and contested [[knesset|Knesset]] seats in 1995, and that with his help the party merged with the [[likud|Likud]] in 2003.[12] The outlet describes him as having gone on to become [[benjamin-netanyahu|Benjamin Netanyahu]]'s right-hand man, and notes his attendance at a recent meeting with President [[donald-trump|Donald Trump]] at Mar-a-Lago.[12]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
@@ -73,3 +86,6 @@ Amid a reported collapse of U.S. confidence in Israeli statements about its mili
 7. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 8. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 9. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+10. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+11. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+12. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

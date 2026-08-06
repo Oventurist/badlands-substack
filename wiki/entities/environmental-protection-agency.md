@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [climate, regulation, deregulation, trump-administration]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d6a.md]
 confidence: medium
 ---
 
@@ -51,6 +51,12 @@ In February 2025 the EPA disclosed that the Biden administration had awarded $2 
 
 In April 2025 the EPA was among the agencies whose moves to end animal testing within their programs drew praise from animal advocacy groups, lawmakers and others, alongside a [[food-and-drug-administration|Food and Drug Administration]] announcement phasing out an animal testing requirement for antibody therapies and other drugs.[6] [[peta|PETA]] applauded the shift toward human-relevant testing strategies and urged still broader abandonment of animal use.[6]
 
+## Clean water funding announcements (2023–2024)
+
+The Bipartisan Infrastructure Law directed more than $50 billion to the EPA for water infrastructure, described by the agency as the single largest federal investment in water infrastructure ever made, with payments announced and distributed in February 2023 to every state and territory.[7] On February 20, 2024, the [[white-house|White House]] announced a further $5.8 billion in clean water funding, delivered in Pittsburgh by Vice President [[kamala-harris|Kamala Harris]] and Administrator [[michael-regan|Michael Regan]], bringing the total announced by EPA under the law to $22 billion for expanding drinking water access, replacing lead pipes, improving wastewater and sanitation infrastructure, and removing PFAS contamination.[7]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] argued the second announcement repeated the rationale (PFAS) and recipients (all states and territories) of the earlier round, asking whether it related to a recent congressional water hearing or amounted to laundering money while buying votes in an election year.[7]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
@@ -58,3 +64,4 @@ In April 2025 the EPA was among the agencies whose moves to end animal testing w
 4. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 5. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 6. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+7. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

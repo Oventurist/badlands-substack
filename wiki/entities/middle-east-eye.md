@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, middle-east, journalism]
-sources: [raw/badlands-news-brief-110.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-e6c.md]
 confidence: medium
 ---
 
@@ -22,3 +22,8 @@ Badlands Media cited the MEE report as supporting evidence for its reading of a 
 
 ## References
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
+2. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+
+## Alleged Muslim Brotherhood designation
+
+In June 2024, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the London-based Middle East Eye had been listed as a "Qatar/Muslim Brotherhood media asset" in a leaked document generated as part of a presentation for the [[muslim-brotherhood|Muslim Brotherhood]] by former CIA officer Kevin Chalkner, who had allegedly been hired by the group to run Operation Endgame against Senator [[ted-cruz|Ted Cruz]] in order to thwart his attempts to designate the Brotherhood a terrorist organization.[2] He cited affiliation with the outlet as one indicator in a checklist for identifying suspected Brotherhood-linked journalists, noting that [[palestine-chronicle|Palestine Chronicle]] founder [[ramzy-baroud|Ramzy Baroud]] was a former managing editor of both Middle East Eye and [[al-jazeera|Al Jazeera]].[2]

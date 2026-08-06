@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, wagner-group, mercenaries, prigozhin, plane-crash]
-sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -51,3 +51,9 @@ Following the June 2023 mutiny, Prigozhin was presumed to be in [[belarus|Belaru
 3. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 4. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 5. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+
+## Death investigation and aftermath (August 2023)
+
+Russian investigators conducted DNA testing on bodies recovered from the August 2023 plane crash northwest of Moscow believed to have killed Prigozhin and his top [[wagner-group|Wagner]] commanders, with the probe entrusted to Ivan Sibula, a senior investigator who had previously led inquiries into high-profile Russian air incidents.[6] President [[vladimir-putin|Vladimir Putin]] referred to Prigozhin in the past tense in a condolence speech, calling him a "talented" businessman who made "mistakes."[6] A [[pentagon|Pentagon]] briefing delivered by Gen. [[pat-ryder|Pat Ryder]] assessed that an intentional explosion brought the plane down and that Prigozhin was likely aboard and killed, while calling initial reports of a surface-to-air missile "inaccurate."[6] The Kremlin, through [[dmitry-peskov|Dmitry Peskov]], rejected [[joe-biden|Joe Biden]]'s claim that Putin was responsible as an "absolute lie."[6] Two days after the crash Putin signed a decree obliging paramilitary fighters to swear loyalty to the Russian flag, which [[burning-bright|Burning Bright]] read as a continuation of the loyalty test begun during June's march on Moscow; see [[2023-russian-paramilitary-oath-decree|2023 Russian paramilitary oath decree]].[6]
+
+6. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

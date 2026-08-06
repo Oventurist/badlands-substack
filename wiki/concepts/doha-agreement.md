@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [afghanistan, taliban, diplomacy, trump, negotiation]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-f26.md]
 confidence: low
 ---
 
@@ -47,3 +47,8 @@ Badlands contributor [[burning-bright|Burning Bright]] argued in May 2024 that R
 5. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 6. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 7. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+8. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26
+
+## Taliban killing of the Abbey Gate mastermind (April 2023)
+
+In April 2023 the Defense Department confirmed that the [[isis-k|ISIS-K]] leader responsible for planning the 2021 [[abbey-gate-bombing|Kabul airport attack]] had been killed by the [[taliban|Taliban]], an event Badlands commentary read as evidence the Doha Agreement was still operative.[8] [[just-human|Just Human]] quoted [[donald-trump|Trump]]'s remarks of 29 February 2020, on announcing the signing of the agreement: "We'll be very much hoping that they will be doing what they say they're going to be doing. They will be killing terrorists. They will be killing some very bad people. They will keep that fight going."[8] That the Taliban continued to kill ISIS terrorists while Trump was out of office, using equipment seized from the Afghan Armed Forces and without informing the Biden administration, was said to "speak volumes," with the conclusion that "the Doha Agreement is holding and working."[8]

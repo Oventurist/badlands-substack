@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, vaccines, federal-agencies, cdc]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -42,6 +42,12 @@ FDA Commissioner [[marty-makary|Marty Makary]] confirmed that officials were inv
 
 Badlands contributor [[ashe-in-america|Ashe in America]] said that although she usually tunes out news of government committees, this one warranted attention, and argued that many more deaths likely resulted from what she described as mass experimentation on American children without informed consent.[6]
 
+## Review of the childhood vaccine schedule (October 2025)
+
+In a document posted to the [[centers-for-disease-control-and-prevention|CDC]] website on Thursday, October 9, 2025, the agency's vaccine advisers announced they would review the safety and efficacy of the childhood vaccine schedule, including the timing of shots given to children and possible risks associated with common vaccine ingredients.[7] A work group within ACIP was to gather information as part of a "multi-year effort" to inform future recommendations on a range of issues that vaccine skeptics — including Health Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] — have floated as possible drivers of chronic and neurodevelopmental conditions such as autism, despite research refuting most of those claims.[7]
+
+The document's release came three weeks after President [[donald-trump|Donald Trump]] said his administration was in the process of removing aluminum from vaccines, in a speech in which he suggested the current childhood schedule could be tied to autism.[7] During a Cabinet meeting the same Thursday, Trump called for shots to be given "in smaller doses" to young children while describing himself as "a vaccine believer."[7] Citing those comments, Acting CDC Director [[jim-oneill|Jim O'Neill]] called on vaccine manufacturers to develop "safe monovalent vaccines to replace the combined MMR."[7] Badlands commentary framed the announcement as part of a broader pattern of partial disclosures, arguing that the public would have to come to terms with truth arriving as discovery rather than the full disclosure many expect.[7]
+
 ## References
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
@@ -49,3 +55,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] said that although she 
 4. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 5. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 6. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+7. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

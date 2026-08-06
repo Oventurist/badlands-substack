@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, israel, united-states, middle-east, ambassador]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-695.md, raw/badlands-brief-625.md, raw/badlands-brief-724.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-579.md, raw/badlands-brief-695.md, raw/badlands-brief-625.md, raw/badlands-brief-724.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-da2.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d95.md]
 confidence: medium
 ---
 
@@ -78,6 +78,12 @@ Senate confirmation hearings for Huckabee as Ambassador to Israel began in late 
 
 In April 2025 Badlands reported that Huckabee, as US Ambassador to Israel, had said he shared the resentment felt by other senior officials toward [[steve-witkoff|Steve Witkoff]], attributing his own objection to what he saw as Witkoff's cavalier attitude about meeting with [[hamas|Hamas]].[12] The account grouped Huckabee with Secretary of State [[marco-rubio|Marco Rubio]], [[keith-kellogg|Keith Kellogg]] and [[mike-waltz|Mike Waltz]] as figures uneasy with the special envoy's independent diplomacy.[12]
 
+## Confrontation with Israel over Christian visas
+
+In July 2025 Huckabee, serving as U.S. Ambassador to Israel, wrote a scathing letter to Interior Minister Moshe Arbel blasting his office for refusing to grant visas to American Christian groups seeking to visit Israel, as reported by Channel 12.[13] Huckabee — a Baptist minister and longtime supporter of Israel — expressed "profound disappointment" that an earlier meeting with Arbel on the issue had produced no improvement, writing that "the situation has actually gotten worse."[13] He stressed that Evangelical Christian groups are friends of Israel but were being treated "like enemies."[13]
+
+Huckabee threatened reciprocal steps, warning that the embassy would be forced to announce publicly that Israel does not welcome Christian groups and harasses them instead, and would advise American Christians that their support was being met with hostility and that tourists should reconsider their travel plans.[13] Badlands commentary cited the letter as evidence that Christians were being hunted in the Holy Land, linking the pattern to the Lehava movement and the legacy of Meir Kahane, and argued that Evangelical supporters of Zionism would need to reassess the story they had been told about the modern State of Israel.[13]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
@@ -91,3 +97,4 @@ In April 2025 Badlands reported that Huckabee, as US Ambassador to Israel, had s
 10. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 11. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 12. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+13. Badlands Brief — "Badlands News Brief: Trump's New Lawsuit & Israel's New War", URL: https://badlands.substack.com/p/badlands-news-brief-d95

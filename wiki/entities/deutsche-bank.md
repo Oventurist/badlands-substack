@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, epstein, litigation, banking]
-sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-afb.md]
+sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-afb.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ea7.md]
 confidence: low
 ---
 
@@ -30,3 +30,15 @@ Internal credit memos showed the bank reduced Trump's stated net worth in 2011 a
 1. Badlands News Brief — "Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 2. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
 3. Badlands Brief — "Badlands News Brief: Biden & Trump Enter the Lawfare Thunderdome", URL: https://badlands.substack.com/p/badlands-news-brief-afb
+
+## Epstein settlement comparison (October 2023)
+
+A federal judge approved Deutsche Bank's $75 million settlement with accusers of [[jeffrey-epstein|Jeffrey Epstein]] on October 20, 2023.[4] Days later, state attorneys general objecting to [[jpmorgan-chase|JPMorgan Chase]]'s larger $290 million settlement cited the Deutsche Bank agreement favourably, noting that it did not contain the language barring "any sovereign or government" from seeking damages arising from Epstein-related sex trafficking that they found objectionable in the JPMorgan accord.[4]
+
+4. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+
+## Epstein trafficking lawsuits survive dismissal (March 2023)
+
+On March 20, 2023, U.S. District Judge [[jed-rakoff|Jed Rakoff]] ruled that Deutsche Bank, along with [[jpmorgan-chase|JPMorgan Chase & Co.]], would face lawsuits alleging the banks enabled [[jeffrey-epstein|Jeffrey Epstein]] to traffic his victims.[5] Two women suing as "Jane Doe" had brought federal class actions against the banks in November 2022.[5] Rakoff's four-page order permitted claims that the defendants "knowingly benefited from participating in a sex-trafficking venture," "obstructed enforcement of the [[trafficking-victims-protection-act|Trafficking Victims Protection Act]]," and "negligently failed to exercise reasonable care to prevent physical harm," together with a claim of negligent failure to exercise reasonable care as a banking institution providing non-routine banking; the remaining claims were dismissed.[5]
+
+5. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-zealand, covid-19, prime-minister, labour-party]
-sources: [raw/badlands-news-brief-780.md, raw/badlands-news-brief-b1d.md]
+sources: [raw/badlands-news-brief-780.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -24,7 +24,13 @@ After leaving office Ardern continued campaigning at the [[united-nations|United
 
 [[burning-bright|Burning Bright]] read the episode as evidence that the establishment and its media proxies feared not particular nationalist or sovereigntist figures — from [[donald-trump|Donald Trump]] and [[robert-f-kennedy-jr|RFK Jr.]] to [[elon-musk|Elon Musk]] and [[vladimir-putin|Vladimir Putin]] — but what those figures represent: choice, which is born of sovereign will and expressed above all in the right, will and courage to ask questions.[2]
 
+
+## Resignation announcement (January 2023)
+
+On January 18, 2023, Ardern tearfully announced she would step down as prime minister of New Zealand by February 7, after more than five years as leader, saying she lacked the energy for the job ahead of an election later that year.[3] "I believe that leading a country is the most privileged job anyone could ever have, but also one of the more challenging," she said. "You cannot and should not do it unless you have a full tank plus a bit in reserve for those unexpected challenges."[3] She added that she knew what the job takes and no longer had "enough in the tank to do it justice," but believed others around her did, and called the period "the most fulfilling five and a half years of my life."[3] ZeroHedge described her as one of the best known faces of the globalist push that overrode personal rights and liberties during what it called "covid fascism."[3] [[burning-bright|Burning Bright]] wrote in the [[badlands-news-brief|Badlands News Brief]] that while her departure was welcome news, citizen journalists and political leaders in New Zealand and beyond must ensure that such abuse of power is not simply consigned to history and that Ardern is among many world leaders brought before legal bodies for a proper accounting.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: US Carriers, FBI Warnings & Election Wins", URL: https://badlands.substack.com/p/badlands-news-brief-780
 2. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
+3. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

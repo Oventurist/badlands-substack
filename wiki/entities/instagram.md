@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, social-media, meta, content-moderation]
-sources: [raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-db1.md]
 confidence: medium
 ---
 
@@ -32,3 +32,6 @@ Researchers documented that accounts used coded emojis and phrases — an image 
 
 1. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 2. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+## March 2024 global outage
+Instagram was among the [[meta-platforms|Meta]] services taken down on March 5, 2024 in a [[2024-meta-global-outage|global outage]] of more than two hours.[3] Downdetector recorded roughly 92,000 reports of disruption for Instagram at the outage's peak, alongside more than 550,000 for [[facebook|Facebook]].[3] Meta said a technical issue had caused the difficulty and that the problem was resolved for everyone impacted.[3]
+3. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1

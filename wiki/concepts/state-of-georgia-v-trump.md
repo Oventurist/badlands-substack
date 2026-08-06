@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [georgia, rico, 2020-election, lawfare, fulton-county]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d00.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -106,6 +106,10 @@ Every defendant's bond agreement contained a provision that the defendant "shall
 
 On Thursday, April 4, 2024, Fulton County Superior Court Judge [[scott-mcafee|Scott McAfee]] rejected [[donald-trump|Donald Trump]]'s bid to dismiss the criminal charges on the ground that they violated his free speech rights.[17] McAfee found that the indictment alleges statements by Trump and the 14 others charged were made "in furtherance of criminal activity" and are therefore not protected by the [[first-amendment|First Amendment]] to the U.S. Constitution.[17] The defendants, charged with racketeering and other offenses over the effort to overturn Trump's defeat in Georgia to [[joe-biden|Joe Biden]], have pleaded not guilty.[17] [[steve-sadow|Steve Sadow]], Trump's lead lawyer on the Georgia case, said in a statement that "President Trump and other defendants respectfully disagree with Judge McAfee's order and will continue to evaluate their options regarding the First Amendment challenges."[17] The case was one of four criminal prosecutions Trump faced as the November 5 election neared, with the first trial — over hush money payments to a porn star — due to begin in New York later that month.[17]
 
+## Appeal over Willis's disqualification (May 2024)
+
+In May 2024, Fulton County Superior Court began transmitting thousands of pages of records to the Georgia Court of Appeals for the second round of litigation over District Attorney [[fani-willis|Fani Willis]]'s continued leadership of the election interference prosecution of [[donald-trump|Donald Trump]] and his co-defendants.[18] Clerk Ché Alexander's office sent transcripts and records relating to three of the nine defendants seeking Willis's removal — [[michael-roman|Michael Roman]], [[david-shafer|David Shafer]] and Cathy Latham — with Bob Cheeley's documents apparently in transit; the records were needed for the appeals court to docket the case and assign judges.[18]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -132,3 +136,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that no further m
 
 16. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
 17. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
+18. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

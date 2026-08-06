@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, russiagate, rico]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-d04.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e0a.md]
 confidence: low
 ---
 
@@ -39,9 +39,14 @@ Solomon called the material "bombshell documents" that even surprised him about 
 
 In August 2025, Solomon said the overriding charge in the anticipated [[russiagate-hoax|RussiaGate]] accountability cases would be [[deprivation-of-rights-under-color-of-law|deprivation of rights under color of law]], the offense codified at Title 18, U.S. Code, Section 242.[5] Badlands host [[jon-herold|Jon Herold]] connected that theory to [[devin-nunes|Devin Nunes]]'s claim that "people have died" as a result of the conspiracy, noting that the statute permits sentences of any term of years, life imprisonment, or death where a death results from the violation.[5]
 
+## Call to the Biden secret phone (June 2023)
+
+In June 2023, Solomon disclosed that a leaked document had given him the cell phone number of a line that [[hunter-biden|Hunter Biden]] was paying for, which he called in an attempt to obtain fair comment from Hunter Biden.[6] Speaking to *Real America's Voice*, Solomon recounted that [[joe-biden|Joe Biden]] personally answered the phone, said the president was shocked to find it was him on the line, and added that Biden "hung up pretty quickly."[6] The number had been identified by [[peter-schweizer|Peter Schweizer]] as belonging to a roughly $300-per-month global [[at-and-t|AT&T]] phone paid for by Hunter Biden's business and used by Joe Biden while vice president, documented on the [[hunter-biden-laptop|Hunter Biden laptop]].[6]
+
 ## References
 1. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 2. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 3. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
 4. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
 5. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+6. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a

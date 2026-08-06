@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, media, deep-state, information-warfare]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cce.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-de8.md]
 confidence: medium
 ---
 
@@ -48,6 +48,14 @@ The December 2023 suit by [[daily-wire|The Daily Wire]], [[the-federalist|The Fe
 
 In December 2023 Badlands contributor [[burning-bright|Burning Bright]] described an influx of lawsuits filed against the censorship industrial complex by [[elon-musk|Elon Musk]] through [[x-corp|X]], along with [[rumble|Rumble]], [[truth-social|Truth Social]] and the State of Texas.[6] He tied the litigation to [[federal-communications-commission|FCC]] Commissioner [[brendan-carr|Brendan Carr]]'s statement that "President Biden gave federal agencies the green light to go after him [Musk]," arguing that it supplied further evidence of coordination between federal agencies and private enforcement arms "masquerading as free market, independent actors."[6] He predicted that the public would receive "a rapid-fire crash course on the System of Systems" over the following year.[6]
 
+## Racket News "Top 50 Organizations" report (2023)
+
+In May 2023 [[racket-news|Racket News]] published "Report on the Censorship-Industrial Complex: The Top 50 Organizations to Know," a mapping of the institutions constituting the complex.[7] The report argued that shortly after the election of [[donald-trump|Donald Trump]] it became gospel among the complex's future leaders that interference by "malign foreign threat actors" and the ordinary vicissitudes of Western domestic politics had to be linked, so that John Podesta's emails, Trump's Rust Belt primary victories and Brexit were all reframed as hybrid war events.[7]
+
+On this account the Trump–Russia scandal will be remembered as a crucial moment of 21st-century history: although the Mueller investigation superficially ended in a non-story, what it failed to accomplish in ousting Trump it accomplished in birthing a vast public-private bureaucracy devoted to stopping "mis-, dis-, and malinformation," while smoothing public acquiescence to new government agencies with information warfare missions.[7] Racket News summarized the phenomenon as the [[military-industrial-complex|Military-Industrial Complex]] reborn for the hybrid warfare age.[7]
+
+[[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] commented that when information is power, censorship becomes essential to those who push corruption, since the frauds sustaining their position must be widely accepted for them to remain empowered.[7] He described the resulting structure as an enormous, globally distributed house of cards that a single statement of truth can collapse within a receptive mind — making censorship, and above all the public's own silence, indispensable to its maintenance, and speech the correct response.[7]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
@@ -55,3 +63,4 @@ In December 2023 Badlands contributor [[burning-bright|Burning Bright]] describe
 4. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 6. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+7. Badlands Brief — "Badlands News Brief: Trump's Town Hall, Comer's Committee & Biden's Bribes", URL: https://badlands.substack.com/p/badlands-news-brief-de8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fifa, world-cup, corruption, clinton-foundation, qatar]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1c6.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1c6.md, raw/badlands-news-brief-ee6.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ FIFA staged the [[2026-fifa-world-cup|2026 World Cup]] in the United States, a t
 
 The Brief alleged that FIFA referees have for years permitted Argentina to push, shove and foul opponents with impunity, and relayed the fan allegation that FIFA rigs matches in Argentina's favor to boost [[lionel-messi|Lionel Messi]]'s scoring and win records for marketing and advertising reasons.[2] It connected that claim to the 2015 arrests of FIFA officials in a money-laundering corruption case — while clarifying that the 2015 scandal concerned marketing and advertising money rather than play on the field — and to a July 2026 FBI investigation into the Argentine football association for alleged money laundering in the United States.[2]
 
+## Russian ban and the 2026 World Cup
+
+FIFA, together with UEFA, banned the Russian national football team from international competition following [[russia|Russia]]'s invasion of Ukraine in 2022, meaning that under the rules in force in May 2025 Russia would not appear at the [[2026-fifa-world-cup|2026 World Cup]] co-hosted by the United States, Canada and Mexico.[3] At the first meeting of the Trump administration's 2026 World Cup taskforce, FIFA president [[gianni-infantino|Gianni Infantino]] confirmed the ban to President [[donald-trump|Donald Trump]], who had been unaware of it, adding that the Russians "are banned for the time being from playing but we hope that something happens and peace will happen so that Russia can be readmitted."[3] Trump responded that readmission "could be a good incentive" for Moscow to end the war in Ukraine.[3]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
+3. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6

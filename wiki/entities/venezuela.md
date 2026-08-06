@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, icc, latin-america, maduro, sovereignty]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-1ef.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-708.md, raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -121,6 +121,12 @@ The same day, Trump insisted he could continue launching strikes against alleged
 
 Badlands contributor [[chris-paul|Chris Paul]] wrote that the Venezuela war story was going badly for the warmongers and for those who believe it is America's business to dictate who leads a faraway country.[19] [[burning-bright|Burning Bright]] argued that Trump's frequent posting was evidence against imminent escalation rather than for it, writing that whenever readers worry about "fake WW3 or fake nukes," they should look at Trump's timeline: "He feels fine."[19] [[ashe-in-america|Ashe in America]] said the warning to drug runners was adequate and asked what the penalty should be for those who run policy and legislation on behalf of the cartels.[19]
 
+## 2024 election crisis
+
+Venezuela's July 2024 presidential election produced an immediate legitimacy crisis: the government-controlled electoral authority proclaimed [[nicolas-maduro|Nicolás Maduro]] the winner, while opposition candidate [[edmundo-gonzalez-urrutia|Edmundo González Urrutia]] and [[maria-corina-machado|María Corina Machado]] said they could prove their own victory using 73.2% of the polling-station tallies.[20] Thousands of protesters took to the streets; at least nine Latin American countries withheld recognition of Maduro's third term; and the [[white-house|White House]] said it was reviewing available data and saw "signs" the results did not reflect the will of the people.[20] The national coordinator of [[voluntad-popular|Voluntad Popular]], [[freddy-superlano|Freddy Superlano]], was detained, while the top military leadership in Caracas publicly reaffirmed its loyalty to Maduro.[20]
+
+Newsweek framed the disputed result as trouble for U.S. Vice President [[kamala-harris|Kamala Harris]], predicting a surge in migration from Venezuelans fleeing the regime and renewed scrutiny of Biden-Harris policy toward a country that had been an important oil supplier to the United States before sanctions as well as a source of rare earth elements.[20]
+
 ## References
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 2. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
@@ -141,3 +147,4 @@ Badlands contributor [[chris-paul|Chris Paul]] wrote that the Venezuela war stor
 17. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 18. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
 19. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+20. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

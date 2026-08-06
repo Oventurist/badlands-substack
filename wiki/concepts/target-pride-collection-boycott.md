@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [boycott, consumer-activism, culture-war, retail, transgender-issues]
-sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-98c.md]
+sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-db9.md]
 confidence: medium
 ---
 
@@ -36,3 +36,11 @@ After [[target-corporation|Target]] announced in late May 2023 that it had remov
 
 Badlands contributor [[ashe-in-america|Ashe in America]] reported that the demands followed a roughly $9 billion loss in Target's market capitalisation in a single week, and highlighted the retailer's partnership with artist Eric Carnell, whose involvement in three products in the display was confirmed with a "True" rating by [[snopes|Snopes]] after online attempts to debunk it; Carnell had written on Instagram that "Satan is hope, compassion, equality, and love."[2] She argued that Target, [[disney|Disney]], [[bud-light|Bud Light]] and Kohl's were all facing the same choice between profit and ideology, hypothesised that global corporations were measuring success against a second, non-financial set of metrics during the "great reset," and predicted they would choose ideology even at the cost of billions.[2] She added that the very existence of the choice was a win for consumer activism, since a movement large enough to win in the market would not need to demand loyalty "when it's hard," and noted she had stopped shopping at Target in the mid-2000s over its school giving program's donations to [[planned-parenthood|Planned Parenthood]].[2]
 2. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c
+
+## Emergency store-level withdrawals (May 24, 2023)
+
+Reporting on May 24, 2023 described Target as "terrified of a Bud Light situation" and scrambling to pull Pride Month products from certain stores amid boycott calls — coming just one week after chief executive [[brian-cornell|Brian Cornell]] had publicly praised "woke" capitalism as "great" for the brand and "the right thing for society."[3] A company insider told Fox News that an emergency meeting was held and that stores across the South and rural America were removing LGBT-themed products ahead of June Pride Month, including "tuck-friendly" swimsuits and gender-fluid coffee mugs, in order "to avoid the kind of backlash Bud Light has received in recent weeks."[3]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] described the phenomenon as being "Budlighted," argued that some critics dismissed the boycott as mere conservative prudishness in a way that served propagandists by pushing uninformed centrists toward sympathy for activists, and questioned whether a company employing thousands should torpedo revenue for a small number of activist employees.[3]
+
+3. Badlands Brief — "Badlands News Brief: DeSimps Assemble, Committees Convene & Target Tantrums", URL: https://badlands.substack.com/p/badlands-news-brief-db9

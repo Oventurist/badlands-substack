@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [oracle, tech, trump-ally, ai, media]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-143.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-357.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-143.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ In early October 2025, [[elon-musk|Elon Musk]] became the first person to reach 
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
 3. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 4. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
+
+## Media consolidation through Skydance (September 2025)
+
+In September 2025, Larry Ellison's son [[david-ellison|David Ellison]] — whose [[skydance-media|Skydance Media]] had just completed an $8 billion takeover of [[paramount-global|Paramount Global]] — was reported to be considering a deal worth more than $70 billion to acquire [[warner-bros-discovery|Warner Bros. Discovery]] outright.[5] Badlands contributor [[burning-bright|Burning Bright]] described the two Ellisons together as "shadow sentinels storming the Media and Entertainment Industrial Complexes," casting their acquisitions as a deliberate cultural counter-offensive rather than ordinary corporate maneuvering.[5] On this reading, the Skydance–Paramount conquest had already secured [[cbs|CBS]], MTV, BET and Nickelodeon, with [[hbo|HBO]], [[cnn|CNN]], Cartoon Network and DC as the potential prize of a Warner Bros. Discovery bid.[5]
+
+5. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestine, israel, territory, occupation]
-sources: [raw/badlands-news-brief-be7.md]
+sources: [raw/badlands-news-brief-be7.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -24,3 +24,8 @@ Badlands frames the 2024 evacuation proposal as a repetition of a long-standing 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Kamalapalooza and the Convergence Censorious", URL: https://badlands.substack.com/p/badlands-news-brief-be7
+
+## Annexation deliberations (September 2025)
+
+In September 2025 Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] was reported to be convening top ministers and aides to explore applying Israeli sovereignty to parts of the West Bank, a step tantamount to annexation.[2] Hebrew media reports said the meeting would focus on the implications of international recognition of a Palestinian state and Israel's possible responses, ahead of a [[united-nations-general-assembly|United Nations General Assembly]] session at which a wave of Western nations intended to recognize Palestinian statehood against Israeli and American wishes.[2] The [[palestinian-authority|Palestinian Authority]], which governs day-to-day affairs in parts of the territory, was simultaneously lobbying Washington to lift visa restrictions barring President [[mahmoud-abbas|Mahmoud Abbas]] and some 80 other officials from the UN meeting.[2] Badlands commentary questioned the moral argument for annexing the West Bank, which it noted had nothing to do with the October 7 attacks originally cited to justify the Gaza campaign.[2]
+2. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

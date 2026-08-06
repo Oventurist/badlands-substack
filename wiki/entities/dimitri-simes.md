@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, foreign-policy, fbi, trump-campaign, 2024]
-sources: [raw/badlands-news-brief-ccd.md]
+sources: [raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Born in Moscow, Simes emigrated to the United States in 1973.[1] He served as an
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called Simes "an interesting cat" and dwelt on the Nixon connection, noting that Trump and Nixon were long-time correspondents throughout the 1980s and speculating about what guidance a fellow persecuted Washington outsider might have offered — while suggesting that [[roger-stone|Roger Stone]] must fit into the connection somewhere.[1] He further wondered what Simes had told Kushner about Israel before Kushner's introduction to the Saudi crown prince and the crafting of the [[abraham-accords|Abraham Accords]], floating the possibility that Simes advised deliberately excluding Saudi Arabia and Palestine from the initial agreements so they could be offered later as a package deal.[1]
 
+## August 2024 FBI search
+
+The [[fbi|FBI]] searched Simes's home in early August 2024 as part of the Justice Department's investigation into Americans with ties to Russian state media in the run-up to the 2024 presidential election.[2] Simes, who is Russian-born, served as an adviser to [[donald-trump|Donald Trump]]'s first presidential campaign in 2016 and hosts a weekly current affairs program on Russia's state-run Channel One.[2] Officials cited in reporting on the probe said additional searches were likely and that criminal charges had not been ruled out.[2]
+
 ## References
 1. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd
+2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

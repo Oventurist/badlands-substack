@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, regional-organization, 1945, arabia]
-sources: [raw/arabian-nights.md, raw/badlands-brief-285.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-97e.md]
+sources: [raw/arabian-nights.md, raw/badlands-brief-285.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ed9.md]
 confidence: low
 ---
 
@@ -52,3 +52,11 @@ In May 2025 Russian President [[vladimir-putin|Vladimir Putin]] invited the head
 5. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+
+## Doha emergency summit (September 2025)
+
+In September 2025 the League of Arab States convened an emergency summit in Doha jointly with the [[organization-of-islamic-cooperation|Organization of Islamic Cooperation]], following an Israeli airstrike on the Qatari capital that killed six people including a Qatari security officer.[8] The final statement called on member nations to "consider the compatibility of Israel's membership in the UN with its Charter" and to coordinate efforts to suspend [[israel|Israel]] from the [[united-nations|United Nations]].[8]
+
+The leaders branded the Doha strike a "dangerous escalation that exposes the extremist hostility of the Israeli government" and accused Israel of undermining international mediation, given that Doha had served as a key venue for talks between West Jerusalem and [[hamas|Hamas]].[8] The statement urged all states to review diplomatic and economic relations with Israel and take "legal and effective measures" including sanctions and the suspension of arms and dual-use exports.[8] Badlands commentary read the outcome as a deliberately strategic choice of geopolitical isolation over military retaliation.[8]
+
+8. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestine, middle-east, political-parties, oslo]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09d.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Fatah's challenges mounted after Arafat's death in 2004: Hamas entered Gaza poli
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 2. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
+
+## 2017 Gaza handover attempt (Badlands account)
+
+Badlands commentary published in February 2025 recounted that in 2017 the Fatah faction of the [[palestinian-authority|Palestinian Authority]] negotiated an agreement with [[hamas|Hamas]] under which Hamas would cede political control of Gaza and allow Fatah to enter and provide government services to the population.[3] When Palestinian President [[mahmoud-abbas|Mahmoud Abbas]] sent his prime minister to Gaza in March 2018 to finalize the details, Hamas bombed the convoy and nearly killed him.[3] Abbas responded by sanctioning Hamas and cutting off its funding, leaving the group bankrupt — an outcome the commentary argued could have ended Hamas in 2018 had [[benjamin-netanyahu|Benjamin Netanyahu]] not, in its telling, kept the group afloat with large cash transfers.[3]
+
+3. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

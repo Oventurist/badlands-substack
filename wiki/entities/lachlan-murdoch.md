@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, fox-news, news-corp, succession]
-sources: [raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-bf6.md]
+sources: [raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-f94.md]
 confidence: low
 ---
 
@@ -22,6 +22,11 @@ The succession was treated in Badlands coverage as confirmation that Fox's drift
 
 As chief executive of Fox Corporation, Murdoch is reported to have made the decision to part ways with [[fox-news|Fox News]] prime-time host [[tucker-carlson|Tucker Carlson]] on the evening of Friday, April 21, 2023, together with Fox News chief executive [[suzanne-scott|Suzanne Scott]]; Carlson was informed on the morning of Monday, April 24 and the network announced the split the same day without explanation.[2]
 
+## Sole chairmanship of News Corp. (2023)
+
+With the September 2023 announcement that Rupert Murdoch would step down as chairman of both Fox Corp. and News Corp. effective in November, Lachlan Murdoch was designated sole chairman of News Corp. while continuing to serve as executive chair and chief executive of Fox Corp.[3] The consolidation left him as the principal steward of the family's media holdings at a moment when Fox was absorbing the fallout from the $787.5 million Dominion Voting Systems defamation settlement.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
 2. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+3. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

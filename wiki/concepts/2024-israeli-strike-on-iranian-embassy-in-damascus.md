@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, israel, iran, syria, escalation]
-sources: [raw/badlands-news-brief-2db.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-bed.md]
+sources: [raw/badlands-news-brief-2db.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-f53.md]
 confidence: medium
 ---
 
@@ -42,3 +42,8 @@ Badlands Media contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]]
 1. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
 2. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
 3. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
+4. Badlands Brief — "Trumpian Taboos, Muskian Censorship & Saudi Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-f53
+
+## Denied Iranian ceasefire offer (April 2024)
+
+In April 2024 the United States denied reports that [[iran|Iran]] had informed Washington it would refrain from responding to the Damascus airstrike if a ceasefire in Gaza were reached.[4] The outlet Jadeh Iran, citing an anonymous Arab diplomatic source, had reported such an offer, with the source adding that "if America succeeds in containing the situation, it will be a great success for the Biden administration and we can build on that."[4] [[state-department|State Department]] spokesperson [[matthew-miller|Matthew Miller]] responded on Monday, April 8: "I can tell you that those reports are not true; they have not sent that message," adding that if Iran wanted a ceasefire it could press [[hamas|Hamas]], which it has long supported, to accept the deal on the table.[4] The report came as ceasefire and hostage-release negotiations between Israel and Hamas resumed in Cairo and as Israel prepared for a possible Iranian response to the strike, which killed IRGC commander [[mohammad-reza-zahedi|Mohammad Reza Zahedi]], his deputy and several other officers.[4]

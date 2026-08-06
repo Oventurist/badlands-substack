@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, immigration, asylum]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-686.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-a69.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-686.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -42,6 +42,16 @@ During the [[supreme-court-of-the-united-states|Supreme Court]]'s February 2024 
 
 Jackson's dissent in [[trump-v-casa|Trump v. CASA]], decided June 27, 2025, drew unusual attention for its tone, which commentators said shocked both court watchers and her colleagues and echoed the rhetoric of the [[no-kings-protests|"No Kings" protests]].[6] Critics wrote that the most junior justice had effectively accused her colleagues of being toadies for tyranny, prompting the majority to push back on the rhetoric.[6] Badlands contributor [[ashe-in-america|Ashe in America]] described Justice [[amy-coney-barrett|Amy Coney Barrett]]'s response as an "absolute dismantling" of a dissent that reimagined the Constitution.[6]
 
+## Arizona voting law order (2024)
+
+Jackson joined [[sonia-sotomayor|Sonia Sotomayor]], [[elena-kagan|Elena Kagan]] and [[amy-coney-barrett|Amy Coney Barrett]] in dissenting from the [[supreme-court-of-the-united-states|Supreme Court]]'s 5-4 order of August 22, 2024 that partially reinstated Arizona's proof-of-citizenship requirement for voter registration.[7]
+
+## Criticism of her jurisprudence (August 2025)
+
+In a 2025 interview Jackson said, "I just feel that I have a wonderful opportunity," explaining that she felt liberated after joining the Supreme Court "to tell people in my opinions how I feel about the issues. And that's what I try to do."[8] Commentators wrote that this sense of liberation had increasingly become a subject of consternation on the court itself as she unloaded on her colleagues in strikingly strident opinions.[8]
+
+Jackson reacted sharply after her colleagues reversed a district judge who had issued a sweeping injunction barring the Trump administration from canceling roughly $783 million in National Institutes of Health grants.[8] Critics noted that her attacks on colleagues appeared in opinions that even her two liberal colleagues declined to join, and that those colleagues pushed back by slamming what they called her "imperial" and untethered model of jurisprudence.[8] Badlands contributor Chris Paul dismissed her as "a fake Justice nominated by a fake president in his null and void decisions."[8]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
@@ -49,3 +59,5 @@ Jackson's dissent in [[trump-v-casa|Trump v. CASA]], decided June 27, 2025, drew
 4. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
 5. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 6. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+7. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+8. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, georgia, iran, america-first]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d00.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-efd.md]
 confidence: low
 ---
 
@@ -104,6 +104,15 @@ In April 2024 Greene introduced speculation that Speaker of the House [[mike-joh
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] observed that mileage varies within the [[truth-community]] over how much stock to place in the bombast of self-described America First representatives such as Greene and [[matt-gaetz|Matt Gaetz]], and questioned why patriots would want to be "in control" of a runaway train during the worst stagflationary spiral in half a century.[20]
 
+
+## House Oversight Committee appointment (2023)
+
+In January 2023 the [[white-house|White House]] denounced the appointment of Greene and Rep. [[paul-gosar|Paul Gosar]] to the [[house-oversight-committee|House Oversight Committee]], with spokesperson Ian Sams suggesting the assignments showed House Republicans were setting the stage for "divorced-from-reality political stunts" rather than bipartisan work, and demanding that GOP leaders reveal what secret deals were made with "extreme MAGA members" to elect a Speaker.[21] [[ryan-delarme|Ryan DeLarme]] countered that the committee was stacked with America First firebrands, some previously stripped of assignments by the prior Congress, and would investigate legitimate concerns including fentanyl crossing the border, the Afghanistan withdrawal, COVID-19 origins and Biden family influence peddling.[21]
+
+## Clash at the Garland contempt hearing, May 2024
+
+During the [[house-oversight-committee|House Oversight Committee]]'s May 16, 2024 contempt hearing for Attorney General [[merrick-garland|Merrick Garland]], Greene derailed proceedings by attacking Rep. [[jasmine-crockett|Jasmine Crockett]] of Texas, telling her "I think your fake eyelashes are messing up what you're reading" after Crockett asked, "Do you know what we're here for?"[22] The exchange escalated into a fiery back-and-forth with Rep. [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]], who asked Greene whether her feelings were hurt and referred to her as "baby girl."[22]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -126,3 +135,5 @@ In April 2024 Greene introduced speculation that Speaker of the House [[mike-joh
 18. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 19. Badlands Brief — "Bilateral Bromance, Private Peace Deals & Imminent Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-c78
 20. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
+21. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+22. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

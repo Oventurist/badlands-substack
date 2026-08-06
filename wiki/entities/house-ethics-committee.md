@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, ethics, oversight]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -20,6 +20,12 @@ On April 13, 2026 the committee opened a formal investigation into sexual miscon
 
 On June 30, 2026 the [[house-of-representatives|House]] passed a resolution offered by Rep. [[thomas-massie|Thomas Massie]] by a vote of 420-0 directing the Ethics Committee and the [[office-of-congressional-workplace-rights|Office of Congressional Workplace Rights]] to release within 60 days all records identifying which current or former House members used taxpayer funds to settle sexual misconduct allegations, including the amounts involved.[2] Committee Chair [[michael-guest|Michael Guest]] supported making the information "readily available," while the committee has stated that it does not itself handle sexual harassment lawsuits or related settlements.[2] Congress ended the practice of using taxpayer dollars for such settlements in 2018, and an earlier House Oversight subpoena had revealed more than $300,000 in federal payments to settle claims against House lawmakers or their offices.[2] See [[house-resolution-on-disclosure-of-congressional-sexual-misconduct-settlements|the resolution]].[2]
 
+
+## Release of the Gaetz Report (December 2024)
+
+On December 23, 2024, the committee released its report into the conduct of former Rep. [[matt-gaetz|Matt Gaetz]] (R-Fla.), hours after he filed a federal lawsuit seeking an emergency order to block publication.[3] The report concluded there was "substantial evidence" that Gaetz violated House rules, Florida state laws, and federal laws, including allegations that he paid tens of thousands of dollars to women for drugs or sex in at least 20 instances and paid a 17-year-old girl for sex in 2017.[3] Gaetz's suit named the committee and its chair, Rep. [[michael-guest|Michael Guest]] (R-Miss.), as defendants and argued that the panel had exceeded its constitutional authority by acting against a former member and had failed to observe due process and its own procedural rules.[3]
+
 ## References
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 2. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
+3. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

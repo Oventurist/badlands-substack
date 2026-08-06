@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, department-of-justice, hunter-biden, delaware]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -74,6 +74,10 @@ Weiss had charged the president's son the previous week with federal tax and gun
 
 As U.S. Attorney for Delaware, Weiss negotiated the [[hunter-biden-plea-agreement|plea agreement]] announced on 20 June 2023, under which Hunter Biden would plead guilty to two federal tax violations and enter a pretrial diversion program on a federal gun charge.[12] Weiss agreed to recommend a sentence of probation for the IRS felony tax crimes, an outcome Badlands writers cited as evidence of a [[two-tier-justice-system|two-tier justice system]] given that the firearms count nominally carried a $250,000 fine and a five-year mandatory sentence.[12] Federal prosecutor [[derek-hines|Derek Hines]] was identified as one of the attorneys working the case under Weiss.[12]
 
+## Appointment as special counsel, August 2023
+
+On Friday, August 11, 2023, Attorney General [[merrick-garland|Merrick Garland]] named Weiss — the U.S. attorney in Delaware who had already been probing [[hunter-biden|Hunter Biden]]'s financial dealings — as special counsel, citing the "extraordinary circumstances" of the matter after plea deal talks broke down.[13] Weiss had asked to be named special counsel, a status that gave him broad authority to investigate and to report out his findings.[13] The surprise elevation deepened an investigation into tax evasion and a gun charge that had been close to resolution only weeks earlier, and it came as the [[us-department-of-justice|Justice Department]] was simultaneously prosecuting former President [[donald-trump|Donald Trump]] in two separate cases.[13] See [[hunter-biden-special-counsel-appointment|Hunter Biden special counsel appointment]].[13]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -87,3 +91,4 @@ As U.S. Attorney for Delaware, Weiss negotiated the [[hunter-biden-plea-agreemen
 10. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 11. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 12. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+13. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

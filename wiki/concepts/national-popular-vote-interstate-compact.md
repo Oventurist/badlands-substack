@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, electoral-college, states, 2024-election]
-sources: [raw/badlands-news-brief-788.md]
+sources: [raw/badlands-news-brief-788.md, raw/badlands-news-brief-e37.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Ashe singled out the irony that [[colorado]], Illinois, Massachusetts, Oregon an
 
 Ashe further noted that Colorado "'passed' this legislation in 2020 via the same system that claims Joe Biden received 81 million real, lawful American votes," crediting the observation to the Substack writer Chris Paul — a reference to the election-integrity skepticism that runs through Badlands commentary on the compact.[1]
 
+## Post-2024 election commentary
+
+After [[donald-trump|Donald Trump]] won both the Electoral College and the national popular vote in November 2024, Badlands writer [[ashe-in-america|Ashe in America]] noted the irony that Colorado had "passed" the compact in 2020, meaning that once in effect the state's electors would be bound to the national popular-vote winner regardless of how Colorado voted.[2] She stressed that the compact was not yet operative, since it takes effect only when participating states reach 270 or more electoral votes and the signatories then stood at 209.[2] Ashe further argued that the compact violates the Twelfth Amendment to the US Constitution and should be dead on arrival.[2]
+
 ## References
 1. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
+2. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37

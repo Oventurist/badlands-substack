@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mexico, cartels, drug-trafficking, jalisco]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-959.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-959.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ The [[state-department|U.S. Department of State]] issued shelter-in-place warnin
 
 He speculated that the cartel might escalate across the U.S. border or attempt to trigger a civil war in Mexico as a way to destabilize the United States and draw in the U.S. military, and asked which figures in Washington, on Wall Street and in the banking sector are connected to the cartels.[2] He also recalled that the Mexican Senate had already voted to permit SEAL Team 2 to train Mexican special forces to fight the cartels.[2]
 
+## 2025 extradition of allied figures to the United States
+
+On August 12, 2025, Mexico agreed to transfer 26 high-ranking cartel figures wanted by the United States as part of a deal with the Trump administration amid its crackdown on drug smuggling, with Washington promising not to seek the death penalty for any of them.[3] Among those sent was Abigael González Valencia, a leader of "Los Cuinis," a group closely aligned with the Jalisco New Generation Cartel; another of the transferred men was wanted in connection with the 2008 killing of a Los Angeles County sheriff's deputy.[3] The transfer followed the sending of 30 other sought-after cartel members to the United States in February of the same year.[3]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "We Are the Champions of the World", URL: https://badlands.substack.com/p/badlands-brief-959
+3. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

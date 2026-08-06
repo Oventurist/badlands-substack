@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cdb.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-e40.md]
 confidence: high
 ---
 
@@ -34,19 +34,26 @@ Newsweek also carried the report on Harvard professor [[matthew-bunn|Matthew Bun
 
 Newsweek published a map tracking the expansion of [[russia-china-joint-air-patrols|Russia-China joint bomber patrols]] since 2019 and obtained comment from Chinese embassy spokesperson [[liu-pengyu|Liu Pengyu]] describing the flights as routine annual cooperation.[5] The outlet separately reported on a [[noaa-california-sea-level-rise-projection|NOAA projection]] of California cities that could be inundated by a ten-foot sea level rise, quoting coastal researcher J. Derek Loftis.[5]
 
+## Reporting on the DOJ Russia-media probe (2024)
+
+Newsweek reported in August 2024, citing the [[new-york-times|New York Times]], that Americans with ties to [[vladimir-putin|Vladimir Putin]]'s state TV networks were under investigation by Attorney General [[merrick-garland|Merrick Garland]]'s [[department-of-justice|Department of Justice]] as part of a sweeping push to quash potential Kremlin interference ahead of the 2024 election.[7] The article detailed [[fbi|FBI]] searches of the homes of [[scott-ritter|Scott Ritter]] and [[dimitri-simes|Dimitri Simes]] and noted Ritter's January 2024 visit to Chechnya to meet [[ramzan-kadyrov|Ramzan Kadyrov]].[7]
+
+## COVID-19 mea culpa opinion piece (2023)
+
+In late January 2023, Newsweek published an opinion essay by a medical student and researcher headlined around the argument that it was time for the scientific community to admit it had been wrong about COVID-19 and that the error cost lives.[8] The author wrote that he had staunchly supported public health authorities, believing they had responded to the crisis with compassion, diligence and scientific expertise, and had backed lockdowns, vaccines and boosters — but concluded that he, and the scientific community, had been wrong.[8] The essay charged that bodies from the [[centers-for-disease-control-and-prevention|CDC]] to the [[world-health-organization|WHO]] to the [[food-and-drug-administration|FDA]] repeatedly overstated the evidence and misled the public about their own views and policies on natural versus artificial immunity, school closures and disease transmission, aerosol spread, mask mandates, and vaccine effectiveness and safety, especially among the young — mistakes identifiable at the time rather than only in hindsight, with some obfuscations continuing.[8]
+
+Badlands contributor [[burning-bright|Burning Bright]] cited the piece as evidence of an accelerating corporate-press about-face, arguing that opinion formats were being used as narrative vehicles and as groundwork for a "Forgive and Forget" campaign that would not succeed.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 3. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 4. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
 5. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
-
 ## Coverage of Russian state TV on Trump (April 2023)
-
 In April 2023 Newsweek reported that Russian state television had claimed [[donald-trump|Donald Trump]] was "laying the groundwork" for the United States to make a deal to help end the war in Ukraine.[6] The article recounted an episode of the *60 Minutes* program in which host [[evgeny-popov|Evgeny Popov]] discussed Trump's recent interview with [[tucker-carlson|Tucker Carlson]] on [[fox-news|Fox News]], where Trump said Ukraine "cannot win" and appeared to suggest the U.S. should stop sending military aid to Kyiv.[6]
-
 Newsweek quoted Trump saying that [[vladimir-putin|Putin]] was "very smart" but had probably had a bad year, questioning what the U.S. would do if Russia took all of Ukraine given [[joe-biden|Biden]]'s commitment, and stating that Russia was making massive amounts of ammunition while "we don't have any ammunition. We've given it to Ukraine."[6] It also relayed Popov's claims that Western sanctions on Russia exceeded those on Iran and North Korea combined, that the U.S. banking system was falling apart and Europe was sliding into recession, and that Republicans understood they would have to make a deal.[6]
-
 [[burning-bright|Burning Bright]] noted that Newsweek adopted a mocking tone toward "Russian State TV" while that broadcaster advanced the same talking points as Trump, and argued that reading such outlets is useful for observing the [[media-industrial-complex|Media Industrial Complex]] and narrative deployments in the [[information-war|Information War]].[6]
-
 6. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+7. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+8. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

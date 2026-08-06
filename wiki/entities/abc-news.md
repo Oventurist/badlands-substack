@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, press, iran, fbi, white-house]
-sources: [raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-86f.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -47,6 +47,14 @@ On Saturday, December 14, 2024, ABC News and its top anchor [[george-stephanopou
 
 The suit arose from Stephanopoulos's repeated on-air assertion — made ten times during a March 2024 *This Week* interview with Representative [[nancy-mace|Nancy Mace]] — that Trump had been found "liable for rape," when the jury in the [[e-jean-carroll|E. Jean Carroll]] case had in fact found him liable for "sexual abuse," a distinct category under New York law.[6] Badlands contributor [[ashe-in-america|Ashe in America]] characterized the settlement as evidence that "legal outcomes are starting to feel like justice."[6]
 
+## Coverage of the Navalny sanctions announcement (February 2024)
+
+ABC News reported on February 20, 2024 that the [[white-house|White House]] would announce a "major sanctions" package that Friday "to hold Russia accountable" for the death of [[alexei-navalny|Alexei Navalny]], quoting national security spokesman [[john-kirby|John Kirby]]'s statement that President [[vladimir-putin|Putin]] and his government were responsible.[7]
+
+## Reporting on the Cheatle resignation
+
+ABC News reported the July 23, 2024 resignation of [[united-states-secret-service|Secret Service]] Director [[kimberly-cheatle|Kimberly Cheatle]] and obtained both her resignation email to agency employees and the message sent to staff by acting director [[ron-rowe|Ron Rowe]].[8] The outlet had previously reported on Cheatle's appearance before Congress and on the agency's failure to prevent the assassination attempt on [[donald-trump|Donald Trump]].[8]
+
 ## References
 1. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 2. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
@@ -54,3 +62,10 @@ The suit arose from Stephanopoulos's repeated on-air assertion — made ten time
 4. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 5. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 6. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+7. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+8. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## Canceled New Hampshire Republican debate (January 2024)
+
+ABC News, together with New Hampshire station WMUR, canceled the Republican primary debate it had scheduled for Thursday, January 18, 2024, after candidates declined to participate; [[cnn|CNN]] canceled its own New Hampshire debate the following day for the same reason.[8] With [[donald-trump|Donald Trump]] having skipped every debate of the cycle and [[nikki-haley|Nikki Haley]] refusing to appear without him, only [[ron-desantis|Ron DeSantis]] had agreed to take part.[8]
+8. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

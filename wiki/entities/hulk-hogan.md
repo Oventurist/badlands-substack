@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wrestling, celebrity, senate, florida]
-sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ba8.md]
+sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-db6.md]
 confidence: low
 ---
 
@@ -58,3 +58,10 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that
 5. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 6. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 7. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+
+## Suggested role in the second Trump administration
+
+In an interview with Fox News's Brian Kilmeade broadcast in late November 2024, Hogan suggested that President-elect [[donald-trump|Donald Trump]] might give him a role in the incoming administration.[8] He recounted a conversation with Trump at the October rally at Madison Square Garden in which, as Hogan told it, Trump said: "You know something, you'd be great to run the President's Council on Physical Fitness."[8] The body in question, the [[presidents-council-on-sports-fitness-and-nutrition|President's Council on Sports, Fitness and Nutrition]], is a federal advisory panel promoting healthy eating and physical activity that President Biden renewed through September 30, 2025.[8]
+
+Hogan said the suggestion arose backstage after the rally from a discussion of Robert Kennedy and nutrition, in which he observed that many foreign countries will not let their people eat the food sold in America, calling it "so bad" and saying it had "poisoned a generation of kids."[8] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] joked that the Badlands News Brief had "willed this into existence," declaring that "the TrumpaManiacs are running wild, brother."[8]
+8. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6

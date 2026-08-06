@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deregulation, energy, administrative-state, trump-administration]
-sources: [raw/badlands-news-brief-1ba.md]
+sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -18,5 +18,11 @@ Trump won the 2024 election in part on pledges to roll back regulations imposed 
 
 [[burning-bright|Burning Bright]] described "taking a hammer to the Administrative State" as a three-step process: first, set direction via presidential appointment and [[doge|D.O.G.E.]] review to toss out unconstitutional rules that did not follow the proper process, using executive orders; second, mark unconstitutional rules that DID follow proper rule-making for Congressional Review, cutting them from the legal record; and third, form a final backstop by ensuring administrative appeals land before a 6-3 majority [[supreme-court-of-the-united-states|Supreme Court]] with a proven and growing mandate to uphold the Constitution.[1]
 
+## Texas antitrust litigation
+
+Badlands commentary argued that "Net Zero" advanced beyond a concept only because of pressure applied by large asset managers, and that the Texas antitrust case against BlackRock, State Street and Vanguard — which survived a motion to dismiss in 2025 — would test that claim in discovery.[2]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: TrumpaMania Reigns ... with a Russian Twist", URL: https://badlands.substack.com/p/badlands-news-brief-1ba
+2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

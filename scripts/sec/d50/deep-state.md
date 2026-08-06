@@ -1,0 +1,3 @@
+## Badlands commentary, August 2024
+
+The August 23, 2024 Badlands News Brief cast the Deep State as the target of converging pressure: [[donald-trump|Donald Trump]]'s campaign announcement that he would seek the death penalty for child rapists and traffickers, and [[vladimir-putin|Vladimir Putin]]'s speeches accusing Western elites of satanism and of trying to normalize pedophilia.[n] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] also charged the intelligence community with "pure, unadulterated sociopathy" for mocking Trump's refusal of intelligence briefings after years of public threats against him and its silence following the attempt on his life.[n]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voter-rolls, eric, election-integrity]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-2ad.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -34,3 +34,11 @@ In September 2024 the U.S. District Court for the District of Colorado ordered S
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 2. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
+
+## Georgia withdrawal bill (2025)
+
+In February 2025 Georgia House Republicans advanced a bill by Representative [[martin-momtahan|Martin Momtahan]] of Dallas that would make Georgia the tenth state to leave ERIC.[3] Nine states had already withdrawn, though none since October 2023, while twenty-four states and Washington, D.C. remained members at the time.[3] Officials use the group's state and federal data to identify and remove from voting rolls people who have died, moved to another state, or registered elsewhere.[3]
+
+Momtahan argued that the departure of other states, including many bordering Georgia, had made ERIC's data and network "totally ineffective."[3] Georgia's Republican Secretary of State [[brad-raffensperger|Brad Raffensperger]] defended the system, crediting it with helping him maintain accurate voter data that officials say is more robust than what states can assemble on their own.[3] Reporting framed the push as part of a years-long Republican campaign, echoing [[donald-trump|Donald Trump]]'s claims about the 2020 election, to question ERIC's funding and motives.[3]
+
+3. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

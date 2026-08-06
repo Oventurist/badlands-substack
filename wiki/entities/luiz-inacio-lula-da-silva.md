@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, brics, diplomacy, energy]
-sources: [raw/badlands-news-brief-966.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d04.md]
+sources: [raw/badlands-news-brief-966.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -43,9 +43,21 @@ As US tariffs on Brazilian goods jumped to 50% on Wednesday, August 6, 2025, Lul
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the posture was itself humiliating, criticizing Lula for accepting a 50% tariff without negotiating and for moving to prosecute Bolsonaro over his own outreach to Trump.[5] He framed the episode as a demonstration that the United States does not need any particular trading partner, summarizing the MAGA message to the world as "We don't need you. You need us."[5]
 
+## Response to the 2024 Venezuelan election
+
+As of Monday, July 29, 2024, Lula's administration had said it would not congratulate [[nicolas-maduro|Nicolás Maduro]] for the time being following Venezuela's Sunday election, stating that "the Brazilian government welcomes the peaceful nature of yesterday's elections in Venezuela and is following the counting process closely."[6] Maduro responded to the Brazilian leader by saying he would release the election data with full transparency to the world.[6]
+
+## Economist call against a fourth term (December 2025)
+
+On December 30, 2025, The Economist published a leader arguing that Lula should not run again.[7] The magazine reviewed a tumultuous year for [[brazil|Brazil]] in which the country jailed former president [[jair-bolsonaro|Jair Bolsonaro]] for plotting a coup, prompting President [[donald-trump|Donald Trump]] to claim falsely that the case was a stitch-up and to impose punitive tariffs on Brazilian goods — pressure Lula resisted and largely persuaded Trump to drop.[7] The piece judged Lula well positioned to win re-election in October, which would give him a fourth term and make him the most successful politician of Brazil's modern democratic era, begun when military rule ended in 1985.[7]
+
+The Economist nonetheless argued that at 80 it was "simply too risky" for Brazil to have someone so old serve another four years, noted the corruption scandals of his first two terms that many Brazilians cannot forgive, and recalled his 2022 campaign promise not to seek a fourth term — while conceding he faced no serious challenger from the centre or the left.[7] Badlands host [[chris-paul|Chris Paul]] summarized the position by calling Lula the "Brazilian Joe Biden," adding that "even the Economist now agrees."[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 2. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 3. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 4. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
 5. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+6. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+7. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

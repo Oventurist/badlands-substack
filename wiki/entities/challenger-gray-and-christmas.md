@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, employment, layoffs, doge, economic-data]
-sources: [raw/badlands-news-brief-71f.md]
+sources: [raw/badlands-news-brief-71f.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -22,6 +22,12 @@ The reductions were significantly concentrated in Washington, D.C., and were att
 
 Badlands commentary reframed the Challenger figures not as evidence of economic damage but as the expected cost line of a transformational change program run by [[doge|DOGE]], arguing that government is a cost center whose fully loaded employment costs — salary, benefits, real estate, and retirement — are borne by American taxpayers.[1] In that reading, the concentration of cuts in the District of Columbia was the intended outcome rather than a warning sign.[1]
 
+
+## 2024 Record CEO Departures Report
+
+A December 20, 2024 report from the global outplacement firm Challenger, Gray & Christmas found that 1,991 CEOs had departed U.S. companies as of November — "the highest total on record."[2] The report noted the figure "has surpassed the previous record of 1,914 CEO exits that occurred in all of 2023" and was up 16 percent from the 1,710 exits during the same period the prior year.[2] Interim replacements rose from seven percent of CEO successions in 2023 to 13 percent in 2024.[2] Senior Vice President Andrew Challenger said, "The current landscape has a lot of uncertainty baked in, and companies are responding by putting temporary leaders in place. This can act as a trial run to see how the leader navigates current challenges," adding that "it's much less disruptive to replace an interim head if things do not appear to be working out, not only [for] the company and its employees, but also to analysts and shareholders."[2] The government/non-profit sector recorded the most departures year-to-date at 438, followed by health care/products, technology, entertainment/leisure, financial, services, and hospitals; California led the states with 223 departures, followed by New York, Texas, and Florida.[2] Common stated reasons included retirement, pursuing new opportunities, and transitioning to a different role within the same company, while Challenger had earlier suggested in September that economic changes were a key driver.[2] Badlands analyst Burning Bright cited Intel, Boeing, and Stellantis and remarked that it was strange for "progenitors of the System" to be "dropping like flies while the System is 'in control.'"[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
+2. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

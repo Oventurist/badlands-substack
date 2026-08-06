@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [independent-media, uap, disclosure, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-a04.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-e07.md]
 confidence: low
 ---
 
@@ -56,3 +56,8 @@ In the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, Jordan Sath
 6. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 7. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
 8. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+## Commentary in the January 2023 news brief
+
+Sather contributed three items to a January 2023 Badlands News Brief. On [[mexico|Mexico]]'s ban of [[solar-geoengineering|solar geoengineering]] experiments, he wrote that Mexico "isn't having any of the Bill Gates/Harvard created nonsense to block out the sun for 'climate change,'" and framed atmospheric aerosol spraying as "yet another 'conspiracy theory' that's being proven true."[9] On a [[project-veritas|Project Veritas]] #ExposePfizer release, he called the drop "a heavy hitter," saying a [[pfizer|Pfizer]] director admitted the company was discussing mutating the COVID-19 virus itself to produce preemptive vaccines for new variants and believed the original strain came out of the Wuhan lab.[9] On aviation safety, he reported that pilots and advocacy groups were alarmed by the [[federal-aviation-administration|FAA]]'s decision to extend its allowable "PR interval" on pilot electrocardiograms by 50 percent, arguing the agency was making the skies less safe rather than more.[9]
+
+9. Badlands Brief — "Badlands News Brief: Big Tech Crunch, OPSEC & Vax Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-e07

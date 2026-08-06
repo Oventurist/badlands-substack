@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, fox, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-bf6.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -28,8 +28,17 @@ In September 2023 it was announced that Murdoch was stepping down and handing ov
 
 Ahead of Fox's defamation trial, [[donald-trump|Donald Trump]] — the owner and chairman of Fox Corp. being set to testify — had urged Murdoch to embrace his theories about voter fraud in a bid to win the [[dominion-voting-systems|Dominion Voting Systems]] case in court.[4] Fox instead settled, a choice Trump publicly criticized days later while reacting to [[tucker-carlson|Tucker Carlson]]'s ouster from [[fox-news|Fox News]], saying, "I was surprised they made a settlement in that case. I thought that was a case that should easily be won."[4]
 
+## Retirement as chairman (September 2023)
+
+On September 21, 2023, Fox Corp. and News Corp. announced that Rupert Murdoch, then 92, was stepping down as chairman of the boards of both companies, with the move to become official in November.[5] Murdoch was to be appointed chairman emeritus of each company, while his son Lachlan Murdoch would become sole chairman of News Corp. and continue as Fox Corp.'s executive chair and chief executive.[5] In a note to employees, the elder Murdoch wrote that "our companies are in robust health, as am I," adding that he planned to "be here to participate" in the coming years but warning that "the battle for the freedom of speech and, ultimately, the freedom of thought, has never been more intense."[5]
+
+The departure followed a tumultuous year at Fox's television network, coming soon after the company agreed to pay a $787.5 million settlement in the Dominion Voting Systems defamation lawsuit over claims that the company's machines had swayed the 2020 election between Joe Biden and Donald Trump.[5] Murdoch's continued behind-the-scenes role at Fox News had been highlighted in the months preceding the settlement; in his deposition for the lawsuit he acknowledged that some of the network's anchors had parroted false claims about the election.[5]
+
+Badlands contributor Paul Fleuret argued that a change at the top of Fox's "totem pole" was significant given its timing ahead of impending trials involving Trump and the 2020 election, and noted that Fox News had called the 2020 race early for Biden and later refuted fraud claims — to the point of parting with Tucker Carlson, then the top-rated anchor in news, as part of the Dominion settlement fallout.[5]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 3. Badlands Brief — "Badlands News Brief: Ukrainian Nazis, Spirit Cooks & Potato Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-2ca
 4. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+5. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

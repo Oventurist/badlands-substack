@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [energy, national-security, biden-administration, oil]
-sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-f0b.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ Contributor [[burning-bright|Burning Bright]] cautioned against reading such epi
 
 By 2024, [[joe-biden|Joe Biden]] had drained roughly half of the Strategic Petroleum Reserve, a step [[zerohedge|ZeroHedge]] attributed to avoiding Democratic losses in the 2022 midterm elections.[2] In May 2024 the administration went further, announcing the sale of the nearly one million barrels in the separate [[northeast-gasoline-supply-reserve|Northeast Gasoline Supply Reserve]] and effectively closing it.[2] Badlands contributor [[burning-bright|Burning Bright]] noted that [[donald-trump|Donald Trump]] had topped the reserves up while in office, and framed the drawdowns as trading long-term energy and national-security stability for a publicized few cents per gallon.[2]
 
+## September 2023 oil price surge
+
+When [[saudi-arabia|Saudi Arabia]] and [[russia|Russia]] extended their oil production cuts through the end of 2023, driving crude to a new yearly high, Badlands contributor [[ashe-in-america|Ashe in America]] wrote that "it sure would be nice if we had some strategic petroleum reserves in case of an energy crisis," noting that [[donald-trump|Donald Trump]] had refilled the reserves while [[joe-biden|Joe Biden]] had been draining them since taking office.[3] She argued Americans were in for a rude awakening as foreign oil crept toward $100 per barrel, and that the resulting pain was intentional within the [[great-reset|Great Reset]] agenda.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 2. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+3. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b

@@ -1,10 +1,10 @@
 ---
-title: Greenland
+title: "Greenland"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arctic, geopolitics, denmark, trump, tariffs, nato]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b63.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -98,6 +98,11 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued that globalists and t
 
 In March 2025, Greenland's prime minister [[mute-egede|Múte B Egede]] called for the international community to step in after it was announced that [[donald-trump|Donald Trump]]'s national security adviser and the US second lady would visit the Arctic island, accusing Washington of "foreign interference."[12] [[mike-waltz|Mike Waltz]] and [[usha-vance|Usha Vance]] were scheduled to arrive that week as part of a delegation also including US energy secretary [[chris-wright|Chris Wright]].[12] A spokesperson for the Danish police confirmed that extra personnel and sniffer dogs had been sent to Greenland as security measures were stepped up, and local media reported the arrival of four bulletproof cars in Nuuk city centre, flown in from the United States.[12] Trump told reporters after a cabinet meeting that Monday: "I think Greenland is going to be something that maybe is in our future."[12]
 
+
+## Trump's December 2024 Acquisition Proposal
+
+On December 23, 2024, President-elect [[donald-trump|Donald Trump]] revived proposals for U.S. control of Greenland, posting on Truth Social that "for purposes of National Security and Freedom throughout the World, the United States of America feels that the ownership and control of Greenland is an absolute necessity."[16] The statement was made as part of his announcement nominating PayPal cofounder [[ken-howery|Ken Howery]] as U.S. Ambassador to [[denmark|Denmark]].[16] Greenland, the world's largest island, is an autonomous territory of Denmark, a key U.S. ally and NATO member.[16] Badlands analyst Burning Bright framed the post as signal, asking whether Trump was drawing attention to the relationship between relatively minor European powers and the enormous land masses they control.[16]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -118,3 +123,19 @@ In March 2025, Greenland's prime minister [[mute-egede|Múte B Egede]] called fo
 On Tuesday, June 17, 2025, President [[donald-trump|Donald Trump]] ordered Greenland removed from the purview of [[united-states-european-command|U.S. European Command]] and placed under [[united-states-northern-command|U.S. Northern Command]], which is tasked with defending the homeland.[13] Chief [[pentagon|Pentagon]] spokesman [[sean-parnell|Sean Parnell]] announced the expected change, saying it "will strengthen the Joint Force's ability to defend the U.S. homeland, contributing to a more robust defense of the western hemisphere and deepening relationships with Arctic allies and partners."[13] The administration has repeatedly highlighted the island's strategic significance as one of the few territories with direct Arctic access, and while seeking closer U.S.–Greenlandic ties the president declined to rule out military force or coercion, a posture that rankled local leaders.[13] The episode is covered at [[2025-transfer-of-greenland-to-us-northern-command|2025 transfer of Greenland to U.S. Northern Command]].[13]
 
 13. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+14. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+
+## Don Jr.'s January 2025 visit and the acquisition debate
+
+On Tuesday, January 7, 2025, [[donald-trump-jr|Donald Trump Jr.]], eldest son of President-elect [[donald-trump|Donald Trump]], arrived in Greenland for a personal visit as his father renewed his suggestion that the Danish territory should become part of the United States — one of several territorial takeovers Trump floated while citing national security, and an idea both [[denmark|Denmark]] and Greenland firmly rejected.[14] Trump wrote on Truth Social in December 2024 that the US should take control of Greenland "for purposes of National security and Freedom," having first proposed the idea in 2019 when he told reporters "strategically it's interesting" and described the theoretical acquisition as "essentially . . . a large real estate deal."[14]
+
+The island hosts the US military's [[pituffik-space-base|Pituffik Space Base]] and has grown in geopolitical importance as melting Arctic ice opens new North Atlantic shipping lanes that have drawn interest from Russia and China.[14] Arctic shipping rose 37% over the past decade according to Arctic Council figures cited by CNN, and the Northwest Passage — connecting the Atlantic and Pacific — passes by Greenland.[14] Greenland also sits within the strategically important Greenland–Iceland–United Kingdom gap, a chokepoint Russian ships must transit to move from the Arctic Ocean to the Atlantic, though as [[nato|NATO]] members the US and Denmark are already closely aligned.[14] The island is believed to hold substantial untapped mineral wealth — coal, zinc, copper, iron ore, diamonds and oil — of which only small portions have been explored because of its harsh, ice-covered terrain.[14]
+
+Badlands contributor [[burning-bright|Burning Bright]] argued that from Canada to Greenland, Trump was directing his statehood messaging to the people rather than their governments, on the theory that such governments subsist on popular mandate or the absence of opposition to it.[14]
+
+## 2025 general election
+
+In March 2025 Greenland's centre-right opposition won a surprise general election victory in a vote dominated by independence and President [[donald-trump|Donald Trump]]'s pledge to take over the semi-autonomous territory.[15] The Democratic party, which favours a gradual approach to independence from Denmark, took around 30% of the vote on near-complete results, and its leader [[jens-frederik-nielsen|Jens-Frederik Nielsen]] said that "Greenland needs us to stand together in a time of great interest from outside," signalling he would negotiate with all parties to form a coalition.[15] Greenland — the world's biggest island, lying between the Arctic and Atlantic Oceans — has been controlled by Denmark, nearly 3,000km (1,860 miles) away, for about 300 years, governing its own domestic affairs while foreign and defence policy is decided in Copenhagen; five of the six main parties favoured independence but disagreed on its pace.[15] See [[2025-greenland-general-election|2025 Greenland general election]].[15]
+
+15. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+16. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

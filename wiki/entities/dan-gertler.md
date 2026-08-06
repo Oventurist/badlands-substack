@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drc, mining, sanctions, corruption]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c9b.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-021.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -78,6 +78,10 @@ In June 2024 the *[[financial-times|Financial Times]]* reported that Gertler was
 
 Badlands commentary held that President [[donald-trump|Donald Trump]] had used [[executive-order-13818|Executive Order 13818]] to seize Gertler's assets because he had maliciously acquired mineral rights in the DRC and used child slaves to mine diamonds, gold and cobalt, extracting billions from Africa and disseminating the funds to Israeli oligarchs.[11] Investigative journalists were said to have documented his evasion of those sanctions through proxy companies, with some reporting personal threats from Gertler and associates.[11] The same commentary noted that Gertler's grandfather was [[moshe-schnitzer|Moshe Schnitzer]], former [[irgun|Irgun]] member and founder of the Israel Diamond Exchange, whose funeral eulogy was delivered by Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]].[11]
 
+## Congo mining, Mossad ties and the 2024 coup commentary
+
+Haaretz reported in 2022 that Gertler accompanied then-[[mossad]] director [[yossi-cohen|Yossi Cohen]] on his 2019 trips to the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]], and that Gertler was suspected by British authorities of paying a $360 million bribe in exchange for mining rights in Congo, with American and Swiss authorities suspecting similar crimes.[12] A 2012 Guardian article, "ENRC ends Congo mining deal with controversial billionaire Dan Gertler," reported accusations that Gertler made most of his $2.5 billion fortune by "looting the Congo at the expense of its people"; after multiple institutions opened investigations, the London-listed [[eurasian-natural-resources-corporation|Eurasian Natural Resources Corporation]] spent over $550 million to buy its way out of a Congo copper-mining contract with him.[12] Badlands commentary likened his family business to the events depicted in the film Blood Diamond, noting that Gertler is the grandson of [[moshe-schnitzer|Moshe Schnitzer]], president of the [[israel-diamond-exchange|Israel Diamond Exchange]] from 1967 to 1993.[12] Gertler was sanctioned by the Trump administration in late 2017 under [[executive-order-13818|Executive Order 13818]]; Cohen lobbied for the sanctions to be lifted, and [[ron-dermer|Ron Dermer]] secured their suspension days before [[donald-trump|Trump]] left office, only for the US Treasury to re-apply them once the media reported it.[12]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
@@ -90,3 +94,4 @@ Badlands commentary held that President [[donald-trump|Donald Trump]] had used [
 9. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 10. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
 11. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
+12. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

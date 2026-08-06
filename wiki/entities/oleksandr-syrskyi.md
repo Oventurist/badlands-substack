@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, military, russia-ukraine-war]
-sources: [raw/badlands-news-brief-575.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-news-brief-575.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -32,8 +32,15 @@ On Monday, May 27, 2024, Syrskyi said he had signed paperwork allowing French mi
 
 Ukraine's Defence Ministry later issued a "clarification" on X stating that Kyiv had been expressing interest in receiving foreign instructors since February and that discussions with France and other countries were still ongoing.[3]
 
+## "The Butcher" reputation (March 2024)
+
+Reporting in March 2024 described Syrskyi, then the newly installed head of the Ukrainian army, as being nicknamed "the butcher" by his own troops, with fears that his aggressive style would produce massive losses in the east on top of already high casualties.[4] While President [[volodymyr-zelensky|Volodymyr Zelensky]] claimed Ukraine had suffered only 31,000 soldier deaths, most analysts and observers inside Ukraine considered that figure far from reality; the United States estimated Ukraine had lost 70,000 men as of the previous summer, in addition to many more severely wounded, psychologically traumatized, or missing.[4] In an interview with Politico, one soldier who wished to remain anonymous warned of the 58-year-old commander, "He will kill us all."[4] Politico reported that Ukrainian troops regarded him as willing to put his men in harm's way to achieve his objectives, and noted that Syrskyi, who was born in central Russia, was known for hard-driving Soviet-style tactics.[4]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] argued that the emergence of such reporting from Ukraine-friendly outlets showed "the Turn on Ukraine" reaching the media establishment from too many directions to counter, with sympathy for Ukrainian soldiers driven by the character of the war machine rather than by Russian conduct.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 2. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
 3. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+4. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

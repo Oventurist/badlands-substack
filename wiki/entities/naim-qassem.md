@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hezbollah, lebanon, israel, ceasefire]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-656.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-db6.md]
 confidence: medium
 ---
 
@@ -31,3 +31,10 @@ In November 2024, as secretary-general of [[hezbollah|Hezbollah]], Qassem said t
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+
+## December 2024 pledge to defend Syria
+
+Speaking on Thursday, December 5, 2024, Qassem — identified as the acting leader of the Lebanon-based [[hezbollah|Hezbollah]] — said the group would help the Syrian government fight jihadists and urged Arab countries to support Damascus in its battle.[3] He claimed that "aggression on Syria is sponsored by America and Israel," and that Islamists "have always been their tools since 2011, when the problem began in Syria."[3]
+
+His statement came as [[hayat-tahrir-al-sham|HTS]] and allied factions, having launched a large-scale surprise offensive in Syria's northwest, captured [[aleppo|Aleppo]] and then [[hama|Hama]], reversing years of relative stalemate in a war that began with a popular uprising in March 2011.[3] Badlands commentary treated the appeal as significant given Hezbollah's earlier role in preserving the government of [[bashar-al-assad|Bashar Assad]], and judged its prospects of finding Arab allies reasonably good following Syria's readmission to the [[arab-league|Arab League]].[3]
+3. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6

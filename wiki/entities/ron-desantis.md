@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, florida, republican, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/all-assets-deployed.md, raw/badlands-brief-095.md, raw/badlands-brief-4ec.md, raw/badlands-brief-861.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/a-glaring-double-standard.md, raw/all-assets-deployed.md, raw/badlands-brief-095.md, raw/badlands-brief-4ec.md, raw/badlands-brief-861.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-db9.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -227,6 +227,18 @@ Speaking at [[hillsdale-college|Hillsdale College]] in Michigan, DeSantis said o
 
 Badlands writer [[burning-bright|Burning Bright]] said he went "back and forth on the Net Effects of Ron DeSantis's Deployments," but judged that moves against Disney advanced significant goals in the [[information-war|Information War]], arguing that the cultural right had long underestimated the power of subversive ideology in American myth-making and that cracks were beginning to form in Hollywood's foundation.[37]
 
+## July 2023 polling and campaign trajectory
+
+A Harvard-Harris poll conducted July 19-20, 2023 among 2,068 registered voters gave DeSantis a 40 percent favorable rating against 37 percent unfavorable, behind [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] at 47-26 but ahead of [[joe-biden|Joe Biden]] at 39-53.[39] Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] described DeSantis's campaign as "doomed" and falling apart amid his continued exposure as "less than the genuine, anti-Establishment article" at a moment when the electorate was reorganizing around an Establishment-versus-anti-Establishment divide.[39]
+
+## Loss of Candace Owens (June 2023)
+
+In late June 2023, [[candace-owens|Candace Owens]] publicly abandoned DeSantis and returned her support to [[donald-trump|Donald Trump]], a development Badlands writer [[burning-bright|Burning Bright]] described as "massive" and as the death blow to even the public facade of the DeSantis presidential run.[40] Burning Bright argued that the campaign "was over before it began," and that what had collapsed was less DeSantis himself than his paid influencer network — the "wolves in sheep's clothing" of [[con-inc|Con Inc.]] and the Blue Check Brigade — which had walked into Trump's trap.[40] Separately, Trump complained on June 26, 2023 that [[fox-news|Fox News]] was showing bias in DeSantis's favor by carrying the governor's border news conference from beginning to end while failing to cover Trump's weekend speeches.[40]
+
+## November 2023 hypothetical matchup polling
+
+A [[stack-data-strategy|Stack Data Strategy]] analysis released through [[politico|Politico]] in November 2023 found that President [[joe-biden|Joe Biden]] would decisively defeat DeSantis in a hypothetical general election, even though the same survey projected [[donald-trump|Donald Trump]] winning the electoral college against Biden.[43] Badlands contributor [[burning-bright|Burning Bright]] cited the result to argue that "Con Inc." was invested in promoting DeSantis and in starting a new forever war rather than in America First policy, quipping that "DeSimps" were the most affected by the finding.[43]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
@@ -265,3 +277,27 @@ Badlands writer [[burning-bright|Burning Bright]] said he went "back and forth o
 35. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
 36. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 37. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## May 2023 campaign launch on Twitter
+
+DeSantis, then a two-term Florida governor, officially filed the paperwork to run for president on Wednesday, May 24, 2023, kicking off a much-anticipated showdown with [[donald-trump|Donald Trump]] — the man who had helped make his political career but now wanted to end it.[38] He announced the bid that evening in an unconventional Twitter Spaces conversation with [[elon-musk|Elon Musk]], moderated by Musk confidant and DeSantis supporter [[david-sacks|David Sacks]]; the event was described as glitch-riddled and stalled amid technical difficulties.[38] Musk's participation had been quietly negotiated for weeks by DeSantis's inner circle of political advisers and was first reported by [[nbc-news|NBC News]], with the campaign hoping the resulting star power would alter trend lines that had seen Trump build an early advantage in key states.[38]
+
+On the same day, the [[washington-dc-young-republicans|Washington, D.C. Young Republicans]] unanimously endorsed Trump; the board included Kingsley Cortes, daughter of DeSantis PAC spokesman [[steve-cortes|Steve Cortes]], who had defected from Trump's camp earlier that month and been accused by [[steve-bannon]] of accepting "thirty pieces of silver."[38] Badlands commentators split on interpretation: [[justin-deschamps|Justin Deschamps]] suggested the Trump–DeSantis "faux spat" might be a coordinated effort to bridge pro-Trump and pro-RINO conservatives by exposing an illusory divide in the public square, while [[ryan-delarme|Ryan DeLarme]] read the same-day endorsement as indicative of how the primary would go.[38] See [[2023-desantis-presidential-campaign-launch]].
+
+38. Badlands Brief — "Badlands News Brief: DeSimps Assemble, Committees Convene & Target Tantrums", URL: https://badlands.substack.com/p/badlands-news-brief-db9
+39. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+40. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
+41. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## New Hampshire debate cancellations (January 2024)
+
+DeSantis, who finished second in the January 2024 Iowa caucuses, was the only Republican candidate who agreed to participate in the debates planned in New Hampshire by [[cnn|CNN]] and [[abc-news|ABC News]]; both networks canceled for lack of participation after [[donald-trump|Donald Trump]] continued his boycott and [[nikki-haley|Nikki Haley]] conditioned her attendance on Trump's.[41] CNN hosted a town hall with DeSantis on the Tuesday before the cancellation.[41]
+
+## Collapse in the 2024 primary polling (September 2023)
+
+By mid-September 2023 DeSantis's presidential campaign was in visible decline. [[realclearpolitics|RealClearPolitics]] analyst Sean Terende asked "What happened to the DeSantis campaign?", observing that the governor had briefly fallen behind [[vivek-ramaswamy|Vivek Ramaswamy]] among political bettors and stood at just 14.9% in the RealClearPolitics Average of primary voters.[42] The item ran alongside CBS News/YouGov and Harvard Harris polling showing [[donald-trump|Donald Trump]] beating [[joe-biden|Joe Biden]] nationally, including a 57%–42% Trump lead among independents.[42]
+
+[[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] read the coverage as the [[media-industrial-complex|Media Industrial Complex]] talking to itself in alarm: their "Con Inc. wolf" had shed his skin far earlier than expected, having been soundly rejected by the MAGA and America First base.[42]
+
+42. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+43. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

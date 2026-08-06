@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, new-york, judiciary, donald-trump]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c1e.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-ee7.md]
 confidence: medium
 ---
 
@@ -44,6 +44,14 @@ In February 2024, following Engoron's $355 million judgment against [[donald-tru
 
 Engoron presided over the opening day of the New York civil fraud trial on October 2, 2023, with Donald Trump seated directly facing him in a hushed courtroom guarded by Secret Service agents.[8] During proceedings Trump largely confined himself to scoffs and eye rolls, but outside the courthouse he attacked Engoron directly, calling him "a judge that should be out of office," suggesting that "some people say" he "could be charged criminally for what he's doing," and branding him deranged while calling for his removal.[8] Badlands commentary treated the attacks as part of Trump's broader "witch hunt" messaging rather than a conventional defendant's complaint about a presiding judge.[8]
 
+## Criticism of the appeal bond requirement (February 2024)
+
+In February 2024, law professor [[jonathan-turley|Jonathan Turley]] renewed his criticism of Justice Engoron for imposing a $355 million judgment on [[donald-trump|Donald Trump]] despite finding that the purported victims had not lost a single dollar and had in fact made handsome profits.[10] Turley noted that the banks involved testified they wanted to continue doing business with Trump as a "whale" client, but that Engoron's ruling barred them from doing so.[10] Because New York requires a deposit or bond for the full amount of damages before an appeal may be filed, the judgment plus roughly $100 million in interest could force Trump into a fire sale of properties just to obtain appellate review.[10]
+
+## November 2023 courtroom clash with Trump
+
+During [[donald-trump|Donald Trump]]'s testimony on November 6, 2023 — a session closed to cameras — Engoron repeatedly interrupted the former president's expansive answers, instructing him to "just answer the questions, no speeches."[11] After Trump asserted that his brand had added millions in value and that he "became president because of my brand," the judge turned to defense lawyer [[christopher-kise|Christopher Kise]] and asked, "Can you control your client?"[11] Kise responded that the state's attorney, [[kevin-wallace|Kevin Wallace]], was asking "questions that call for narratives."[11] Coverage in the [[badlands-media|Badlands Media]] news brief described Engoron as the "virulent anti-Trump judge" who "popped a gasket" during the day's proceedings.[11]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
@@ -59,3 +67,5 @@ Engoron presided over the opening day of the New York civil fraud trial on Octob
 In March 2024, [[donald-trump|Donald Trump]]'s attorneys reported that he was unable to post a $454 million bond to cover the judgment Engoron issued in the New York civil fraud case in February.[9] Law professor [[jonathan-turley|Jonathan Turley]] cited the figure as evidence that the legal system had been distorted by politics, saying that forcing a litigant "to come up with half a billion dollars just to get an appeal" was a point at which "someone has to say enough."[9]
 
 9. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+10. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+11. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7

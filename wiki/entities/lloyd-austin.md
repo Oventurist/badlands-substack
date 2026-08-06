@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, secretary-of-defense, ukraine, biden-administration]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-301.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-cba.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-301.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-eca.md]
 confidence: medium
 ---
 
@@ -116,6 +116,12 @@ Later reporting by The Wall Street Journal filled in the sequence of Austin's di
 
 Speaking at the [[pentagon|Pentagon]] on 30 October 2024 alongside his South Korean counterpart [[kim-yong-hyun|Kim Yong-hyun]], Austin called on North Korea to withdraw the troops it had deployed to Russia, saying, "I call upon them to withdraw their troops out of Russia."[22] Washington assessed that 10,000 North Korean personnel had been sent for possible action against Ukrainian forces.[22] Austin said such forces would be "co-belligerents, and you have every reason to believe that … they will be killed and wounded as a result of battle," echoing the [[white-house|White House]] position that they would be "legitimate military targets."[22] He nonetheless acknowledged a "good likelihood" that Moscow would proceed with the deployment regardless.[22] His remarks were paired with a blunter warning from US UN envoy [[robert-wood|Robert Wood]], who told the [[united-nations-security-council|Security Council]] that Pyongyang's soldiers "will surely return in body bags."[22]
 
+## Nellis Air Force Base drag show cancellation (2023)
+
+Austin, together with Chairman of the Joint Chiefs of Staff Gen. [[mark-milley|Mark Milley]], was reported at the end of May 2023 to have ordered [[nellis-air-force-base|Nellis Air Force Base]] in Nevada to cancel or relocate a "family friendly" on-base drag show planned to mark the start of Pride month.[23] The order followed public pressure from Rep. [[matt-gaetz|Matt Gaetz]], to whom Austin and Milley had said at a congressional hearing two months earlier that they did not approve of drag queen story hours on military bases.[23]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] noted that the event was in its third year and that neither official had objected during the prior two, describing both the Secretary of Defense and the Chairman as "Social Justice champions" who had "actively worked to undermine the mission readiness and overall integrity of the US Armed Forces."[23] She nonetheless called the cancellation "a win for the kids."[23]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -140,3 +146,9 @@ Speaking at the [[pentagon|Pentagon]] on 30 October 2024 alongside his South Kor
 20. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
 21. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
 22. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
+23. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+24. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## Black Sea drone call with Shoigu (March 2023)
+
+In an afternoon press briefing on March 15, 2023, Austin confirmed that he had spoken by phone with Russian Defense Minister [[sergei-shoigu|Sergei Shoigu]] about the previous day's [[mq-9-reaper|MQ-9 Reaper]] drone incident over the Black Sea, the first such call since October.[24] Austin framed the conversation as deconfliction, saying "it's important that great powers be models of transparency and communication, and the United States will continue to fly and to operate wherever international law allows."[24] In the same briefing he repeated the Biden administration line that Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] alone was making decisions on the execution of the war, a formulation ZeroHedge noted was being repeated with growing frequency.[24] See [[2023-black-sea-drone-incident|the 2023 Black Sea drone incident]].[24]

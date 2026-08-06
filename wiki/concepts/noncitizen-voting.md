@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, citizenship, courts, vermont, municipal-government]
-sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cb6.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-e14.md]
 confidence: medium
 ---
 
@@ -40,9 +40,18 @@ Badlands commentator [[ashe-in-america|Ashe in America]] summarized the legal lo
 
 In February 2025 the [[new-york-court-of-appeals|Court of Appeals of the State of New York]], the state's highest judicial body, heard arguments on a contested law allowing noncitizens to vote in local elections.[4] The legislation, passed in 2022, would permit roughly 800,000 noncitizens who are lawful permanent residents or authorized to work in the United States to vote in municipal elections after residing in New York City for at least 30 days.[4] The law had previously been invalidated by the state's Second Judicial Department, which cited violations of the New York State Constitution and the Municipal Home Rule Law and upheld a lower court's ruling.[4] Critics raised concerns that noncitizens could constitute 15 percent or more of the electorate in some future elections, significantly affecting local outcomes.[4]
 
+## Federal prosecution data and the 2024 debate
+
+In September 2024 NPR characterized [[donald-trump|Donald Trump]]'s debate claim that "our elections are bad, and a lot of these illegal immigrants coming in, they're trying to get them to vote" as an echo of the [[great-replacement-theory|great replacement]] conspiracy theory, arguing that no evidence had surfaced of a mass scheme to register undocumented immigrants and that noncitizen voting in federal elections is illegal and rare, with checks in place to deter it.[5] NPR noted that a small number of localities permit noncitizens to vote in municipal elections using separate ballots, and that the number who ultimately cast ballots is very small.[5]
+
+The Federalist countered with Bureau of Justice Statistics data showing that the federal government pursued only 35 criminal cases of aliens voting in American elections between 2001 and 2021, a figure it contrasted with thousands of aliens registered to vote in recent years and at least hundreds flagged to the Justice Department as having actually cast ballots.[5] [[hans-von-spakovsky|Hans von Spakovsky]] of [[heritage-foundation|The Heritage Foundation]] attributed the low prosecution rate to ideological reluctance within the DOJ's career ranks.[5]
+
+[[ashe-in-america|Ashe in America]] argued that voters are asked to believe migrants who break immigration law would nonetheless never break election law, effectively placing them on an "honor system."[5] She noted that in Colorado voter registration is automatic at the DMV and that ineligible residents must opt out of being added to the registration database, and that the Secretary of State's office had repeatedly and "accidentally" sent postcards encouraging ineligible residents to register — a fact she said Deputy Secretary of State [[chris-beall|Chris Beall]] confirmed under oath during her July 2024 trial.[5] Her conclusion was that whether or not the migrants themselves are honorable, those encouraging them to vote are not, and should be prosecuted.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 2. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
 3. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 4. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+5. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14

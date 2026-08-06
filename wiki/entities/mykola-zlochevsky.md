@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [burisma, ukraine, hunter-biden, bribery-allegations]
-sources: [raw/badlands-news-brief-3f8.md]
+sources: [raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f7d.md]
 confidence: medium
 ---
 
@@ -16,3 +16,16 @@ Zlochevsky appears in the account of a December 4, 2015 evening in Dubai that [[
 
 ## References
 1. Badlands Brief — "'X' Marks the Spot & Vineyard Mysteries Abound", URL: https://badlands.substack.com/p/badlands-news-brief-3f8
+
+## Shokin's 2023 remarks
+
+Renewed attention fell on Zlochevsky in August 2023 when [[viktor-shokin|Viktor Shokin]] spoke publicly for the first time since 2019, telling Fox News he believed the Bidens had been bribed.[2] Coverage recounted that Zlochevsky, who hired [[hunter-biden|Hunter Biden]] to sit on the board of [[burisma|Burisma]], had granted his own company permits to drill for oil and gas in Ukraine while serving as Ukraine's Minister of Ecology and Natural Resources, and that Shokin's 2019 deposition described five criminal cases against him covering money laundering, corruption, illegal funds transfers, and profiteering through shell corporations while a sitting minister.[2]
+
+## Alleged recordings and the FD-1023 (June 2023)
+
+Zlochevsky was identified as the unnamed "foreign national" in the FBI's [[fd-1023-confidential-human-source-form|FD-1023 confidential human source form]] describing an alleged criminal bribery scheme involving [[joe-biden|Joe Biden]] and [[hunter-biden|Hunter Biden]].[3] Sources familiar with the record said he referred to Joe Biden as "the big guy" in a conversation several years before the document's June 2020 date.[3]
+
+On June 12, 2023, Senator [[chuck-grassley|Chuck Grassley]] told the Senate that the form stated the foreign national possessed 17 audio recordings of his conversations with the two men — fifteen with Hunter Biden and two with the then-Vice President — allegedly retained "as a sort of insurance policy" should he find himself in a tight spot.[3] Grassley said the record also indicated that Joe Biden may have been involved in [[burisma|Burisma]]'s decision to employ his son.[3]
+
+2. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+3. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d

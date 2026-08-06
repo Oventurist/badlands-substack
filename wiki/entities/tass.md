@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, russia, state-media, news-agency]
-sources: [raw/badlands-news-brief-565.md]
+sources: [raw/badlands-news-brief-565.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ The second TASS report covered Putin's meeting in Hanoi with Vietnamese National
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+
+
+## Coverage of the June 2025 Iran crisis and Russian reconstruction
+TASS reported President [[donald-trump|Donald Trump]]'s June 2025 remarks that "really, nothing is too late" for US-Iranian talks and that Iranian officials had suggested coming to the White House.[2] The agency also organized the meeting with heads of leading international news agencies at which President [[vladimir-putin|Vladimir Putin]] said Iranian society was consolidating around its political leadership following [[operation-rising-lion|Operation Rising Lion]].[2] TASS separately carried Deputy Prime Minister [[marat-khusnullin|Marat Khusnullin]]'s comments on the possible use of North Korean construction workers to restore Russia's border regions.[2]
+
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

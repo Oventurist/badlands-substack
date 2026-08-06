@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [author, investigative-research, biden-family, ukraine]
-sources: [raw/badlands-news-brief-5d7.md]
+sources: [raw/badlands-news-brief-5d7.md, raw/badlands-news-brief-e0a.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ Schweizer further suggested that Zelensky was in a position to use that knowledg
 
 Schweizer's broader body of work is frequently cited in Badlands coverage as source material for the claim that the Biden family's overseas dealings, particularly those involving [[burisma|Burisma]], constituted a systematic influence-selling operation rather than isolated business activity.[1]
 
+## Disclosure of the Biden secret phone (June 2023)
+
+On Sunday, June 25, 2023, Schweizer revealed that [[hunter-biden|Hunter Biden]] had been paying for a secret global phone from [[at-and-t|AT&T]] at a cost of $300 per month.[2] Speaking with [[fox-news|Fox News]]' [[maria-bartiromo|Maria Bartiromo]], he said, "We know from the laptop that Hunter Biden's business paid for a private phone line that Joe Biden used while he was vice president," describing it as a global phone from which one could reach somebody anywhere around the world.[2] The disclosure was corroborated days later when journalist [[john-solomon|John Solomon]], having obtained the number from a leaked document, called the line and [[joe-biden|Joe Biden]] answered.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Biden Scandals Mount as Trump Trial Looms", URL: https://badlands.substack.com/p/badlands-news-brief-5d7
+2. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a

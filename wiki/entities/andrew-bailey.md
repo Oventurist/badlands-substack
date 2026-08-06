@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, law-enforcement, trump-administration]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-f39.md]
 confidence: medium
 ---
 
@@ -42,8 +42,13 @@ Ahead of the Bank of England's December 2025 stress test of the private equity a
 
 As Missouri Attorney General, Bailey publicly criticized the conduct of the [[trump-hush-money-case|New York hush money trial]].[7] Responding to [[jonathan-turley|Jonathan Turley]]'s observation that jurors would not be given written copies of Judge [[juan-merchan|Juan Merchan]]'s instructions but could ask for them to be read again, Bailey posted: "This is absolute insanity."[7]
 
-## References
+## Appointment as FBI co-deputy director (August 2025)
 
+In August 2025, Attorney General [[pam-bondi|Pam Bondi]] and [[fbi|FBI]] Director [[kash-patel|Kash Patel]] appointed Bailey, then Missouri Attorney General, as an additional deputy director of the FBI, according to Fox News.[8] He was to serve alongside Deputy Director [[dan-bongino|Dan Bongino]] as co-deputy director.[8] Patel praised the appointment, saying Bailey would be an "integral part of this important mission" and emphasising the bureau's responsibility to recruit "the greatest talent this country has to offer in order to accomplish the goals set forth when an overwhelming majority of American people elected President Donald J. Trump again."[8]
+
+Coverage of the appointment highlighted Bailey's record as Missouri attorney general, including an anti-human trafficking task force that addressed more than 1,100 reported incidents, the clearing of a backlog of Sexual Assault Forensic Evidence (SAFE) kits to improve prosecutions, the defence of the St. Louis Metropolitan Police Department in civil cases, advocacy for law enforcement, and a 133% increase in trial court-level criminal prosecutions.[8]
+
+## References
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 2. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 3. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
@@ -51,3 +56,10 @@ As Missouri Attorney General, Bailey publicly criticized the conduct of the [[tr
 5. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 7. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+8. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
+
+## Warning to CVS and Walgreens on mailed abortion pills (February 2023)
+
+Shortly after taking office as Missouri attorney general, Bailey led twenty Republican state attorneys general in a February 1, 2023 letter warning [[cvs-health|CVS]] and [[walgreens|Walgreens]] that plans to distribute abortion pills through the mail would violate state and federal law.[9] "As Attorney General, it is my responsibility to enforce the laws as written, and that includes enforcing the very laws that protect Missouri's women and unborn children," Bailey said, writing that many people were unaware that federal law expressly prohibits using the mail to send or receive any drug that will be used to produce an abortion.[9] Badlands contributor [[justin-deschamps|Justin Deschamps]] used the episode to argue that prosecutors and law-enforcement agencies exercise broad discretionary power that can inhibit justice, and that the disparity between corporate and individual treatment reflected a "two-tiered justice" system operating under "color of law."[9]
+
+9. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39

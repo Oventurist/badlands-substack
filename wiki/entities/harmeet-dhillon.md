@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, election-integrity, arizona, republican-party]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-cad.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-df1.md]
 confidence: low
 ---
 
@@ -60,6 +60,18 @@ In July 2025 Dhillon, as Assistant Attorney General for the Civil Rights Divisio
 
 As Assistant Attorney General for Civil Rights, Dhillon announced on December 8, 2025 a Justice Department investigation into 33 facilities operated by the [[colorado-department-of-corrections|Colorado Department of Corrections]] and the state's Department of Youth Services.[12] *Westword* reported that the probe appeared politically motivated rather than a response to years of complaints from [[disability-law-colorado|Disability Law Colorado]], tying it to President [[donald-trump|Donald Trump]]'s efforts to free former Mesa County Clerk [[tina-peters|Tina Peters]]; Dhillon reshared several X posts celebrating the investigation as "how we FREE TINA PETERS."[12] Local disability advocates nonetheless welcomed the federal intervention as "an important step toward accountability."[12]
 
+
+## Fulton County records demand (October 2025)
+
+On Thursday, October 30, 2025, Dhillon, as Assistant Attorney General for Civil Rights, wrote to the [[fulton-county-board-of-registration-and-elections|Fulton County Board of Registration and Elections]] on behalf of Attorney General [[pam-bondi|Pam Bondi]], demanding records related to what Georgia's board of elections has called "unexplained anomalies in vote tabulation and storage related to the 2020 election."[13] The letter requested that the county "present for inspection in its entirety and most original form, all records in your possession responsive to the recent subpoena issued to your office by the [[state-election-board|State Election Board]]."[13]
+
+Dhillon's letter said the Civil Rights Division sent the request "consistent with its ongoing obligations to ensure all citizens' voting rights have been and are protected in all elections," invoking Title III of the [[civil-rights-act-of-1960|Civil Rights Act of 1960]] and its Section 303, which requires custodians to make preserved election records available upon written demand by the Attorney General.[13] Badlands commentary urged Dhillon to obtain Fulton's [[signature-verification|signature verification]] records while noting, as a joke, that no such records exist because Fulton did not perform signature verification.[13]
+
+
+## Rebuttal to Newsom on Election Monitoring (October 2025)
+
+As Assistant Attorney General for Civil Rights, Dhillon publicly rebutted California Governor [[gavin-newsom|Gavin Newsom]] in October 2025 after he attacked the [[department-of-justice|Justice Department]]'s plan to send federal election watchers to California and New Jersey for the November elections.[14] "Lol calm down bro," she posted on X, noting that the department "under Democrat administrations has sent in federal election observers for decades, and not once did we hear that this was voter intimidation from states such as California. Do you really want to go there? Isn't transparency a good thing?"[14] Her response was among the most widely circulated pushbacks, alongside posts from AAG Jesus Osete and Special Attorney [[ed-martin|Ed Martin]], and reporting noted the department's long history of deploying monitoring resources to jurisdictions with a record of election-law problems.[14]
+
 ## References
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -73,3 +85,5 @@ As Assistant Attorney General for Civil Rights, Dhillon announced on December 8,
 10. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
 11. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
 12. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+13. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+14. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [stablecoins, financial-regulation, cryptocurrency, us-treasuries, banking]
-sources: [raw/badlands-news-brief-50a.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-news-brief-50a.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d95.md]
 confidence: medium
 ---
 
@@ -44,9 +44,16 @@ Badlands contributor Burning Bright argued that the signing of the GENIUS Act wa
 
 The commentary further argued that the only remaining use case for central banks is printing fiat dollars, a function it said the future ubiquity of Treasury-backed U.S. stablecoins renders obsolete, thereby both stabilizing and decentralizing the dollar.[3] It speculated about what would follow if stablecoins gained the right to be backed by Bitcoin, cited Trump's description of stablecoins as "rails," and reinterpreted Trump's long-running nickname for Fed Chair [[jerome-powell|Jerome Powell]] — "Too Late" — as a reference not to interest rates but to central bankers being too late to stop the move they never saw coming.[3] Its conclusion: "CBDC's are dead."[3]
 
+## House passage and transmission to the President
+
+In July 2025 the House of Representatives passed the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act by a vote of 308–122, sending the first major crypto bill poised to become law to President Donald Trump for his signature after earlier Senate passage 68–30.[4] The Act establishes regulatory oversight for stablecoin issuers, bringing formal regulation to tokens such as Tether's USDT and Circle's USDC while drawing interest from major financial institutions eager to enter the space.[4] The vote highlighted growing bipartisan support for crypto regulation, with a large bloc of Democrats joining Republicans.[4]
+
+The GENIUS Act moved as part of a wider legislative push that also included the Digital Asset Market Clarity Act, which passed the House 294–134 but still awaited Senate action, and anti-CBDC legislation.[4] Senate Banking Committee Chairman Tim Scott said he hoped to complete the Senate process by September 30 and called the House bill a "strong template" for final legislation.[4]
+
 ## References
 
 
 1. Badlands Brief — "Badlands News Brief: Manipulated Maps, Downed Planes, & A Very Stable Genius", URL: https://badlands.substack.com/p/badlands-news-brief-50a
 2. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
 3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+4. Badlands Brief — "Badlands News Brief: Trump's New Lawsuit & Israel's New War", URL: https://badlands.substack.com/p/badlands-news-brief-d95

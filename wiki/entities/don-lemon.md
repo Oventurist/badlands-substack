@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, department-of-justice, minnesota]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bf6.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -50,9 +50,20 @@ On Monday, April 24, 2023, [[cnn|CNN]] fired Lemon in the wake of sexist on-air 
 
 The firing came within an hour of [[fox-news|Fox News]] announcing the immediate departure of prime-time host [[tucker-carlson|Tucker Carlson]], and one day after [[nbcuniversal|NBCUniversal]] said chief executive [[jeff-shell|Jeff Shell]] had left over an "inappropriate relationship with a woman in the company."[5] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] presented the "twin & congruent firings" of Carlson and Lemon on the same Monday in April as direct evidence against the existence of coincidence in the [[information-war|Information War]].[5] He argued the paired announcements conflated Fox and CNN as [[media-industrial-complex|Media Industrial Complex]] corporations in the collective mind even though the standing of the two hosts within the America First movement could not have been more different, and that they continued the shared ratings-collapse cascade of legacy media while further decentralizing information dissemination.[5]
 
+## Removal from the CNN morning show (February 2023)
+
+In February 2023 Lemon said on air that [[nikki-haley|Nikki Haley]] — then a presidential candidate and formerly ambassador to the United Nations under [[donald-trump|Donald Trump]] — "isn't in her prime," a response to Haley's call for politicians over the age of 75 to undergo mental competency tests; he had also asserted that women are in their prime in their twenties, thirties and "maybe" forties.[6] Lemon was off the air the following day and, according to sources cited by The Post Millennial and the Daily Beast, was left off the Monday lineup as well, with Poppy Harlow instead joined by Sara Sidner and [[kaitlan-collins|Kaitlan Collins]].[6] A network source said conversations about Lemon's future were "ongoing" and called him "a constant distraction," while [[cnn|CNN]] chief executive [[chris-licht|Chris Licht]] said he was "disappointed" by the remarks; Lemon apologised to staffers on the Friday.[6] Badlands commentary read the demotion as a sign that Licht's stated intention to move CNN in a less partisan direction was being acted upon.[6]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
 3. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 5. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
+6. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+
+## Reaction to the Hegseth nomination (November 2024)
+
+Lemon was among the legacy media figures who mocked President-elect [[donald-trump|Donald Trump]]'s selection of [[pete-hegseth|Pete Hegseth]] as Secretary of Defense in November 2024, posting a giggly social media reaction asking, "The Fox News weekend host?"[7] Badlands commentary by [[ashe-in-america|Ashe in America]] grouped Lemon with other "civilian elitist liars" whose derision drew swift backlash once Hegseth's Princeton and Harvard education and combat service with the Minnesota National Guard were publicized.[7]
+
+7. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

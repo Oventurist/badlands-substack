@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [brics, multipolarity, de-dollarization, russia, diplomacy]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-bb3.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e98.md]
 confidence: medium
 ---
 
@@ -34,6 +34,15 @@ Shortly before [[narendra-modi|Narendra Modi]] and [[xi-jinping|Xi Jinping]] wer
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] presented the timing as evidence that the [[brics|BRICS]]-centered "Sovereign Alliance" was establishing itself as the champion of peace and prosperity while the West declined, expressing envy at not being in Kazan planning "The Future."[2]
 
+## The Kazan Declaration
+
+The summit's principal output was the [[kazan-declaration|Kazan Declaration]], a 134-paragraph document — far longer than the 94-paragraph Johannesburg statement of August 2023 or the 75-paragraph Beijing document of July 2022 — that for the first time set out the group's unified vision of the international system in detail.[3]
+Structured as a preamble plus four sections on strengthening multilateralism, global and regional security, financial and economic cooperation, and humanitarian exchanges, it was expected to attract both scholarly interest and criticism from opponents of BRICS.[3]
+Analyst Andrey Kortunov judged that finding a common denominator on Gaza was difficult given divergent Iranian and Emirati positions on Israel, and that language on Syria's territorial integrity read as implicit criticism of Turkey's military presence there.[3]
+He argued the bloc does not aim to balance the West or become a kind of G7, but is openly claiming a more prominent role in global governance and in defining the parameters of the new world order.[3]
+Badlands treated the declaration as an implicit reference to the [[sovereign-alliance|Sovereign Alliance]] and highlighted [[vladimir-putin|Putin]]'s framing of BRICS as a "[[new-world-order|New World Order]]," read as a deliberate inversion of George H. W. Bush's use of the phrase.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3
+3. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98

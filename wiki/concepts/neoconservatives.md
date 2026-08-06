@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, neocons]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Whatever DeSantis's actual allegiance, Carlson concludes he is exposing "the RIN
 
 Badlands commentary in March 2026 described the NeoCon establishment — characterized as eternal champions of managed conflict — as having received the cinematic opening act it ordered when the United States struck [[iran|Iran]] alongside [[israel|Israel]].[2] Its tone reportedly shifted quickly from celebration to concern-trolling, because the [[iran-war|campaign]] was not trending toward the total regime-change opera it desired: no endless boots on the ground and no new occupation, but instead what contributor Burning Bright called the slow, methodical dismantling of the cherished narrative of permanent entanglement.[2] A separate contributor suggested that [[donald-trump|Trump]]'s periodic adoption of NeoCon positions may have been bait designed to draw them into self-destructive action.[2]
 
+## Reaction to the 2025 Israel–Iran ceasefire
+
+Badlands commentary treated the abrupt end of the [[twelve-day-war|Twelve Day War]] in June 2025 as a humiliation for neoconservatives, with [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] writing, "WW3 is cancelled. NeoCons RUGGED. (Again.)" after President [[donald-trump|Donald Trump]] disclosed on Truth Social that he had been coordinating with both Iran and Qatar.[3] He pointed to [[mark-levin|Mark Levin]] as the archetype, describing him as someone who "is only happy when there is a constant state of war" and citing Levin's insult of an Iraq War veteran who opposed another Middle East ground invasion.[3] [[chris-paul|Chris Paul]] separately criticized "the neocons and their useful idiots" for having promoted the claim that Trump and Benjamin Netanyahu had spent two months deceiving Iran and the Gulf states.[3]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
+3. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, hollywood, paramount, cbs, corporate]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-951.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -64,6 +64,10 @@ Unlike the Netflix transaction, Paramount's offer covered all of Warner Bros. Di
 
 Badlands contributor [[burning-bright|Burning Bright]] contrasted two outcomes: a Netflix victory producing a hyper-centralized entity fusing streaming scale with Warner's intellectual-property library and narrowing the range of voices, versus a Paramount close in which [[jared-kushner|Kushner]]-linked Gulf capital, tech sovereignty via Ellison, global sports assets and some $6 billion in projected synergies would crack what he called Hollywood's unipolar illusion.[8]
 
+## Trump lawsuit over Woodward recordings (2023)
+
+Paramount Global was named as a defendant, in its capacity as parent company of publisher [[simon-and-schuster|Simon & Schuster]], in the January 2023 suit brought by [[donald-trump|Donald Trump]] against journalist [[bob-woodward|Bob Woodward]] over the sale of audio from his interviews with Trump.[10] The [[trump-v-woodward-lawsuit|action]] sought at least $49,980,000, based on an estimate that the audiobook "The Trump Tapes" had sold more than two million copies at $24.99 each.[10]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -73,3 +77,20 @@ Badlands contributor [[burning-bright|Burning Bright]] contrasted two outcomes: 
 6. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 7. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 8. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+
+## December 2024: Sonic 3 box office win
+
+In December 2024, Paramount Pictures' "Sonic the Hedgehog 3" opened with $62 million in domestic ticket sales, beating the Walt Disney Company's "Mufasa: The Lion King," which managed $35 million despite opening in 4,100 theaters — more than the 3,761 locations for Sonic 3 — and taking most IMAX screens.[9] Made for $122 million against Mufasa's more than $200 million budget, Sonic 3 drew strong reviews (86 percent on Rotten Tomatoes) and an "A" CinemaScore, positioning it as the top choice during the busiest moviegoing period of the year.[9] The two previous Sonic films together grossed more than $700 million worldwide, and a fourth installment was already in development.[9]
+
+Badlands writer [[burning-bright|Burning Bright]] read the result as a signal in the information war, noting that Paramount had recently been acquired by [[skydance|Skydance]], headed by [[david-ellison|David Ellison]], son of longtime Trump ally [[larry-ellison|Larry Ellison]], and that Paramount had released Top Gun: Maverick in 2022 — also produced by Ellison — which many saw as the death knell for "woke" Hollywood content.[9]
+
+9. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+10. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+
+## Skydance merger and Warner Bros. Discovery pursuit (September 2025)
+
+[[david-ellison|David Ellison]]'s [[skydance-media|Skydance Media]] completed its $8 billion takeover of Paramount Global in August 2025, and the newly merged Paramount Skydance moved to lay off upwards of 2,000 employees to slash costs.[11] Within five weeks, and before those cuts were complete, Ellison was reported to be weighing a deal then valued at more than $70 billion to acquire [[warner-bros-discovery|Warner Bros. Discovery]] in its entirety, reportedly to beat rival suitors to the punch.[11]
+
+Badlands commentary characterized the Skydance–Paramount combination as having secured [[cbs|CBS]], MTV, BET, Nickelodeon and "a treasury of archetypes long tainted and driven by subversive narrative."[11] The same analysis noted that the [[ufc|UFC]] had announced a nearly $8 billion broadcasting deal with Paramount beginning in 2026, a move almost nobody in traditional sports media had anticipated.[11]
+
+11. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

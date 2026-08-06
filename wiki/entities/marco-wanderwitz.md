@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, european-politics, cdu, afd]
-sources: [raw/badlands-news-brief-c18.md]
+sources: [raw/badlands-news-brief-c18.md, raw/badlands-news-brief-e1e.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Wanderwitz said he was seeking other MPs to support his motion, though the ultim
 
 Badlands Media contributor [[burning-bright|Burning Bright]] cited the episode as evidence of a worldwide populist awakening, framing calls to ban a party polling near a quarter of the electorate "in order to protect Democracy" as an absurdity exposing the establishment.[1]
 
+## June 2024 developments
+
+By June 2024 Wanderwitz said he had assembled enough support to table a motion, telling the newspaper taz that he had gathered 37 MPs who would back an [[afd-ban-effort|AfD ban]].[2] He was still waiting on the Münster Higher Administrative Court, which had agreed in May with the classification of the [[alternative-for-germany|AfD]] as a "suspected right-wing extremist" organisation but had not released the written justification for its decision.[2] "Once the reasons for the ruling are available, we will take a close look at it and then submit our updated and well-founded application for a ban," he announced, with the court entitled to take at least five months to publish its report.[2] If the [[bundestag|Bundestag]] voted for a ban, Germany's Constitutional Court would make the final determination on its legality.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+2. Badlands Brief — "Badlands News Brief: Devo Takes, Cheap Fakes & Sovereign Alliance Dates", URL: https://badlands.substack.com/p/badlands-news-brief-e1e

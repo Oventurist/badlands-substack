@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, corporations, cuba, litigation, supreme-court]
-sources: [raw/badlands-brief-b34.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ On June 23, 2026, the [[supreme-court-of-the-united-states|Supreme Court]] decid
 
 ## References
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
+
+## Interest in oilfield lithium extraction (December 2024)
+
+Following [[saudi-aramco|Saudi Aramco]]'s successful pilot extraction of lithium from oilfield brine in Saudi Arabia, Exxon Mobil was reported to be among the major oil companies planning similar pilot programs at their own oilfields, hoping to capitalize on the opportunity to extract "white gold" — lithium — from brine, the largest byproduct of oil and natural gas extraction.[2] The Saudi pilot, run by the startup [[lihytech|LiHyTech]] using technology developed at [[king-abdullah-university-of-science-and-technology|King Abdullah University of Science and Technology]], found oilfield brine far richer in lithium than typical brine, sharply improving the economics of direct lithium extraction.[2]
+2. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

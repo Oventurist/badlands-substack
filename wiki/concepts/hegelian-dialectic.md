@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, manipulation, censorship]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-d6a.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ Badlands contributor [[burning-bright|Burning Bright]] applies an inverted versi
 
 Badlands contributor [[burning-bright|Burning Bright]] described the September 2023 media campaign against [[elon-musk|Elon Musk]] over [[starlink|Starlink]] and Ukraine as "so on-the-nose from a warmonger/Hegelian perspective" that the Globalist Deep State's own headlines were the most illuminating commentary available.[2] In his reading, the public was being conditioned to accept that declining kinetic escalation toward world war amounts to evil — an inversion he summarized as "peace is what the enemy fears most."[2]
 
+## Application to the Navalny sanctions (February 2024)
+
+Badlands contributor [[burning-bright|Burning Bright]] described what he called "the Navalny Deployment" as another example of the Hegelian Dialectic: a false flag intended both to trigger mass psychological mania regarding Russia in the aftermath of [[vladimir-putin|Vladimir Putin]]'s interview with [[tucker-carlson|Tucker Carlson]], and to provide the illusion of a mandate for the sanctions package the [[white-house|White House]] announced on February 20, 2024 over the death of [[alexei-navalny|Alexei Navalny]].[3]
+
 ## References
 
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+3. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

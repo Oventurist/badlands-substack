@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, anti-trump, pac]
-sources: [raw/badlands-news-brief-0ad.md]
+sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ Badlands contributors read the exchange differently, treating the seeding of the
 
 ## References
 1. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
+
+## The muted 2024 resistance
+
+Coverage in November 2024 cited the Lincoln Project as emblematic of the belligerent anti-Trump organizing that followed [[donald-trump|Donald Trump]]'s 2016 victory, alongside the #Resist hashtag movement and the broader Never Trump current among conservatives.[2] By contrast, Trump's 2024 win over [[kamala-harris|Kamala Harris]] drew what reporting called a weary shrug, with Democratic voters and European officials responding in muted resignation rather than fiery outrage.[2] Writing in the [[badlands-media|Badlands Media]] News Brief, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] offered a bicameral reading of the quiet: it might reflect genuine fear as opponents scrubbed social media and destroyed evidence, or it might be a feigned retreat in the style of a Russian maneuver defense, designed to make the truth community lower its guard.[2]
+
+2. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

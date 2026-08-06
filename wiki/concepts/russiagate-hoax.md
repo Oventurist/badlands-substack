@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, accountability, hoax, media]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d04.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -95,6 +95,20 @@ Gabbard's team released over 100 pages of memos and emails, which she described 
 
 In August 2025 [[devin-nunes|Devin Nunes]] told Real America's Voice that the conspiracy had killed people: "People have died. People have lost their livelihoods. People have lost their careers. People have not been promoted. Families have been destroyed. Finances have been wiped out. Millions of Americans were kicked off social media. News networks were not allowed onto the legacy media platforms."[12] Around the same time, [[john-solomon|John Solomon]] said the overriding charge in the coming cases would be [[deprivation-of-rights-under-color-of-law|deprivation of rights under color of law]] under Title 18, U.S. Code, Section 242.[12] Badlands host [[jon-herold|Jon Herold]] noted the statute's penalty provision: where death results from acts committed in violation of the section, the offender may be fined, imprisoned for any term of years or for life, or sentenced to death.[12] The distillation of RussiaGate revelations coincided with fresh federal espionage prosecutions of alleged Russian assets, including the arrest of soldier [[taylor-adam-lee|Taylor Adam Lee]].[12]
 
+## Calls for prosecutions and agency overhaul (August 2025)
+
+In August 2025, an opinion piece in The Hill argued that newly released documents and damning evidence "conclusively substantiate" that Russiagate was a conspiracy hatched, implemented, and relentlessly promoted by top officials in the [[central-intelligence-agency|CIA]], [[fbi|FBI]], and across what it called the Obama–Biden–Clinton political machine to rig a presidential election and undermine a duly elected president, corrupting institutions essential to protecting American liberty.[13] Despite the accumulated evidence and exhaustive investigations, the piece noted, those responsible remained unpunished.[13]
+
+The article charged that former CIA Director [[john-brennan|John Brennan]] and former Director of National Intelligence [[james-clapper|James Clapper]], among other intelligence officials, had lied to Congress and the public about their reliance on the discredited [[steele-dossier|Steele dossier]] — a report paid for by the Clinton campaign and the DNC — while engineering different versions of critical intelligence assessments to cover their tracks.[13] Although the intelligence community publicly maintained that the dossier played no role in the official assessment on "Russian Activities and Intentions in Recent U.S. Elections," newly declassified oversight reviews were said to flatly contradict those claims.[13]
+
+Badlands contributor [[chris-paul|Chris Paul]] described the effort as "a lifelong trade for them – to subvert the United States of America," predicting that once fully developed the record would make it easy to reassess events of the previous ten to twenty years involving "these same characters."[13] The renewed scrutiny coincided with Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]]'s revocation of security clearances from 37 current and former officials, including some who worked on the 2016 Russian interference assessment.[13]
+
+## Columbia Journalism Review critique (2023)
+
+At the end of January 2023, the [[columbia-journalism-review|Columbia Journalism Review]] issued a scathing indictment of the [[new-york-times|New York Times]] for yellow journalism during the Trump-Russia saga, concluding in effect that the paper of record had been operating in bad faith.[14] Coverage of the report by [[zerohedge|ZeroHedge]] noted that the findings applied not only to the Times but reflected what objective observers had long concluded about the press as a whole.[14]
+
+Badlands contributor [[burning-bright|Burning Bright]] wrote that legacy outlets had failed in discernment and objectivity when sourcing and confirming erroneous claims generated — and sometimes paid for — by [[donald-trump|Donald Trump]]'s political opposition, and that the spectacle of media watchdogs turning on the most prestigious organizations in their world indicated a mass shift taking place behind the scenes.[14] In this reading, vectors within the [[media-industrial-complex|Media Industrial Complex]] were attempting to get ahead of forthcoming revelations about Russiagate just as they were about COVID-era government propaganda, and no amount of spin or circular firing squad would avert accountability.[14]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 14: The Dawning Age of American Accountability", URL: https://badlands.substack.com/p/badlands-blitz-episode-14
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -108,3 +122,5 @@ In August 2025 [[devin-nunes|Devin Nunes]] told Real America's Voice that the co
 10. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 11. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 12. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+13. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
+14. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

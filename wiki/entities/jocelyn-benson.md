@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [michigan, election-integrity, absentee-voting, secretary-of-state]
-sources: [raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-f14.md]
 confidence: medium
 ---
 
@@ -30,8 +30,15 @@ Days before the 2024 general election, Benson acknowledged that split-ticket vot
 
 Badlands writer [[ashe-in-america|Ashe in America]] argued that the admission was consistent with long-standing vote-swapping allegations in ballot-marking-device states — that selections made on accessible tablets print incorrectly — behavior previously attributed to human error but now conceded as a known defect affecting many states.[3]
 
+## September 2024 ballot access setbacks
+
+In early September 2024 Benson faced two consecutive adverse rulings on Michigan ballot access, as Badlands writer [[ashe-in-america|Ashe in America]] described her attempting to keep Cornel West off the state ballot while simultaneously preventing [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] from removing his own name.[4] A judge ruled that West could appear, and the Michigan Court of Appeals then ruled that Kennedy's name must be removed, leaving Benson "zero for two."[4]
+
+The commentary argued that Benson's posture should not be read as a defense of democracy, pointing to a December 2023 op-ed she wrote for the Daily Beast titled "I'm Michigan's Chief Election Official. Trump's Still a Threat to Democracy, So Let's Be Prepared," in which she criticized the 2020 Wayne County Election Board and defended what the brief called an uncertifiable certification.[4] It further noted that her administration was prosecuting retirees over an alleged "fake electors scheme," characterizing Michigan's all-female executive branch as "a master class in despotism."[4]
+
 ## References
 
 1. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 3. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+4. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14

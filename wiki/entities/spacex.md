@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, defense, technology, elon-musk, contracts]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -60,6 +60,10 @@ The ISS, launched in 1998, had recently had its operational life extended from 2
 
 In December 2023 the [[federal-communications-commission|Federal Communications Commission]] rejected a roughly $900 million rural broadband subsidy for SpaceX amid concerns about the weaponization of government agencies against [[elon-musk|Elon Musk]].[9] FCC Commissioner [[brendan-carr|Brendan Carr]] said in a post on X that "President Biden gave federal agencies the green light to go after him [Musk]," a claim treated in coverage as evidence that the decision jeopardized the nation's space race for political reasons.[9]
 
+## High-cadence launch and multi-user spaceports (2025)
+
+By September 2025 SpaceX was accelerating efforts to transform America's launch sites into high-frequency, multi-user spaceports, with Falcon rockets on pace for more than 100 launches from Florida during the year and the Starship program advancing.[10] In March 2025 astronauts on the Fram2 mission observed a Falcon 9 lifting off while en route to their own launch, a moment taken to symbolize a future in which rocket launches become as routine as airline departures.[10] Founded in 2002, the company had grown into the world's leading launch services provider, flying astronauts, satellites and other payloads while stating a long-term objective of making life multiplanetary.[10] To support that vision SpaceX worked with [[nasa|NASA]], the [[united-states-space-force|U.S. Space Force]], the [[federal-aviation-administration|FAA]] and other federal partners to modernize American launch capabilities.[10] Badlands contributor [[burning-bright|Burning Bright]] framed the buildout as part of a set of major [[donald-trump|Trump]] initiatives in energy, space and the future that continue "unabated" beneath the noise of the information war, quoting the prediction that "300 years from now, they will write that the decision to create a Space Force was the wedge in history that protected America."[10]
+
 ## References
 1. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -70,3 +74,10 @@ In December 2023 the [[federal-communications-commission|Federal Communications 
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 9. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+10. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+
+
+## MILNET constellation for the Space Force (2025)
+SpaceX was named in June 2025 as the [[united-states-space-force|U.S. Space Force]]'s partner for [[milnet|MILNET]], a government-owned, contractor-operated satellite communications constellation in low Earth orbit consisting of more than 480 SpaceX-operated satellites.[11] The satellites use SpaceX's [[starshield|Starshield]] terminals, featuring enhanced encryption and interoperability with the commercial Starlink network, and support the military's hybrid mesh network integrating commercial and Defense Department satellites.[11]
+
+11. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

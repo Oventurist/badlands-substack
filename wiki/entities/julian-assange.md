@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wikileaks, journalism, cia, smear-campaign]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-845.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -60,6 +60,28 @@ On February 20, 2024, Assange's lawyers began his final U.K. legal challenge to 
 
 The judges could have ruled at the end of the two-day hearing on the Wednesday, but were considered more likely to take several weeks.[8] The press freedom group Reporters Without Borders said the hearing "marks the beginning of the end of the extradition case, as any grounds rejected by these judges cannot be further appealed in the U.K. — bringing Assange dangerously close to extradition."[8] The proceedings form part of the broader [[assange-extradition-case|Assange extradition case]].[8]
 
+## Embassy visitors' lawsuit against the CIA (December 2023)
+
+A lawsuit brought by journalists and allies of Assange against the [[central-intelligence-agency|Central Intelligence Agency]] advanced in federal court in December 2023 when Manhattan-based U.S. District Judge [[john-koeltl|John Koeltl]] turned down the agency's bid to dismiss the case.[9] Four Americans who had visited Assange while he was holed up at the Ecuadorian Embassy in London were permitted to proceed with allegations that a security contractor gave the CIA data copied from their phones during those visits.[9] Koeltl rejected the portions of the suit alleging that the CIA violated their rights by eavesdropping on embassy conversations and obtaining copies of their passports, but held that accessing phone contents would violate the plaintiffs' reasonable expectation of privacy under the Fourth Amendment.[9] He dismissed claims for money damages against former CIA Director [[mike-pompeo|Mike Pompeo]] while allowing plaintiffs to seek an order requiring the agency to destroy any records obtained from their devices.[9]
+
+Badlands writer [[just-human|Just Human]] argued that Assange was "no ally or hero" and that the [[donald-trump|Trump]] administration was right to indict him and secure his arrest at the embassy, while adding that Assange was also a threat to enemies of the United States who would have assassinated him at the first opportunity, and that the claim Pompeo plotted to kill him was an inversion designed to frame the Trump administration.[9]
+
+## Conflict-of-interest concerns over the High Court panel (February 2024)
+
+In February 2024, *Declassified UK* reported — in an account republished by [[consortium-news|Consortium News]] — that one of the two High Court judges assigned to rule on Assange's bid to stop his extradition, Justice [[jeremy-johnson|Jeremy Johnson]], had previously represented the UK's Secret Intelligence Service ([[mi6|MI6]]) and the [[uk-ministry-of-defence|Ministry of Defence]].[10] Johnson had also served as a specially vetted barrister cleared to access top-secret information, and was to sit with his senior judge, Dame [[victoria-sharp|Victoria Sharp]], to decide the fate of the [[wikileaks|WikiLeaks]] co-founder, who faced a maximum sentence of 175 years if extradited.[10] Records show Johnson was paid twice by the Government Legal Department in 2018 for sums exceeding £55,000, though the full extent of his government earnings is unclear.[10]
+
+The report noted that Assange's persecution by US authorities had been pursued at the behest of Washington's intelligence and security services, with which the UK maintains deep relations, and that Assange now faced a judge who had acted for — and been security-cleared by — some of those same agencies, raising the same institutional conflict-of-interest concerns as earlier judges in the case.[10]
+
+Badlands contributor [[simon-esler|Simon Esler]] emphasised Assange's role in destroying the narrative that Russians were the source of the DNC hack that exposed [[hillary-clinton|Hillary Clinton]], and his broader work exposing corruption within the [[five-eyes|Five Eyes]] intelligence networks, arguing that a judge with such a background is precisely the kind of figure Assange might have exposed.[10] Esler noted that Assange's wife and lawyer had described extradition as akin to a death sentence, and asked why Trump did not exonerate Assange, offering two speculations — that clemency would have compromised operations underway, or that a long game was being played that would eventually realign with Assange's work — before settling on a third posture of resting in doubt and uncertainty as a tool for navigating fifth-generation warfare.[10]
+
+## The Fifth Estate and the Iran nuclear narrative
+
+In June 2025 [[wikileaks|WikiLeaks]] recirculated a clip of Assange's 2013 Oxford Union speech as part of its claim that Hollywood screenwriters had spent more than a decade planting pro-war narratives about Iran in mainstream entertainment.[11] In the speech Assange discussed The Fifth Estate, the biographical drama about WikiLeaks, which opens with a side plot about a fictional Iranian nuclear bomb project.[11] He recalled that the opening scene depicts Iranian scientists in Tehran assembling a bomb, with one character stating the device could be operational within six months, and asked, "How is it that such a lie got into a script about Wikileaks?" — noting that at the time 16 US intelligence agencies had already found that Tehran did not have a nuclear weapons program.[11] The clip was shared alongside WikiLeaks' citation of Top Gun: Maverick, Homeland, and 24 as further examples; see [[hollywood|Hollywood]].[11]
+
+## UK High Court grants leave to appeal (May 2024)
+
+On Monday, May 20, 2024, London's High Court ruled that Assange had the right to appeal in his final challenge against extradition to the United States, a legal victory cheered by dozens of supporters rallying outside the court who beat drums, shouted "drop the case" and held placards reading "Let him go Joe" in reference to President [[joe-biden|Joe Biden]].[12] Assange's legal team argued before judges Victoria Sharp and Jeremy Johnson that they should not accept US prosecutors' assurances that he could rely on First Amendment rights, and that as an Australian-born foreign national he could face discrimination on the basis of nationality if extradited.[12] In a short ruling the judges found the US submissions insufficient and granted permission for a full appeal on the legal points of freedom of speech and nationality, with no date set for the next hearing.[12] The 52-year-old [[wikileaks|WikiLeaks]] founder is wanted by US authorities on espionage charges connected to the publication of thousands of classified documents and diplomatic cables in 2010 and 2011, and faces the prospect of spending the rest of his life behind bars if convicted.[12]
+
 ## References
 
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
@@ -70,3 +92,7 @@ The judges could have ruled at the end of the two-day hearing on the Wednesday, 
 6. Badlands Brief — "FEMA's Broke. Ukraine is Collapsing. The EU is Doomed.", URL: https://badlands.substack.com/p/badlands-news-brief-41f
 7. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 8. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+9. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+10. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+11. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+12. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

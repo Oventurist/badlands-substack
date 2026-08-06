@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, administrative-state, sec, jury-trial, 2024]
-sources: [raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b40.md]
+sources: [raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -30,6 +30,13 @@ Because roughly 2,000 administrative law judges work across the federal governme
 
 In the June 28, 2024 Brief, [[ashe-in-america|Ashe in America]] listed *Jarkesy* first among the four rulings released that day, summarizing it as a vindication of the Bill of Rights.[2] [[burning-bright|Burning Bright]] devoted his take to reproducing the objections of Slate writer [[mark-joseph-stern|Mark Joseph Stern]], presenting the mainstream legal commentariat's alarm as inadvertent confirmation that the neutering of the administrative state was well underway.[2]
 
+## Case posture ahead of the 2023 term
+
+The Supreme Court agreed on June 30, 2023 to hear Securities and Exchange Commission v. Jarkesy (court file 22-859) during the term beginning the following October.[3] George Jarkesy and his advisory firm, Patriot28, had been sued in federal court in the District of Columbia in 2013 for infringing securities laws in managing two hedge funds; Jarkesy countersued, arguing that the structure of the commission ran afoul of the U.S. Constitution.[3] The lower court found for the SEC, which continued the proceedings and assigned the case to an administrative law judge who confirmed the violations, after which the commission reviewed and ratified the decision and ordered the parties to pay $300,000 in civil penalties.[3]
+
+A divided U.S. Court of Appeals for the Fifth Circuit held that the two levels of removal protections applying to administrative law judges unconstitutionally shielded them from presidential oversight, that SEC proceedings infringed the Seventh Amendment right to a jury trial, and that Congress had unconstitutionally delegated its lawmaking powers to the commission.[3] Lawyers who frequently appear before the Court — including former solicitor general Paul Clement and Williams and Connolly partner Lisa Blatt, speaking at a September 20, 2023 Heritage Foundation event — suggested the justices might use the term to roll back the administrative state.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 2. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+3. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

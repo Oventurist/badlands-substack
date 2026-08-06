@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [regime-change, propaganda, communism, elections]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md]
 confidence: low
 ---
 
@@ -42,6 +42,10 @@ Badlands contributors applied the color revolution framework directly to the [[2
 
 His account held that American society had been broadly resistant to these efforts, which historically operated through NGO funding of widespread protests and subsequent riots, and that after President [[donald-trump|Donald Trump]] cut off the private-sector funding apparatus — naming [[usaid|USAID]] and the [[national-endowment-for-democracy|National Endowment for Democracy]] — the responsible networks had grown desperate.[6] In that desperation, he argued, they politicized the military, subverted the constitutional authority of the commander in chief, and injected themselves into a chain of command to which they did not belong, a gambit he described as "life or death for the Deep State."[6]
 
+## Venezuela 2024 as an alleged trial run
+
+Badlands writers argued in July 2024 that the international reaction to Venezuela's disputed presidential election carried "all the hallmarks of a color revolution," pointing to the enthusiasm of established Western institutions for [[nicolas-maduro|Nicolás Maduro]]'s removal and to violent criminal gang leaders posting social media videos proclaiming "power to the people."[7] The commentary held that it could simultaneously be true that large-scale election fraud entering the news cycle is a net positive for narrative seeding and that globalist interests had been moving against Venezuela for years.[7] The coverage was characterised as laying groundwork for the operation to "make its way north" in time for the November U.S. elections, summarised as: "This is a trial run. Exercise discernment."[7]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Badlands Blitz Episode 4: Color Revolutions Come Home to Roost", URL: https://badlands.substack.com/p/badlands-blitz-episode-4
@@ -49,3 +53,4 @@ His account held that American society had been broadly resistant to these effor
 4. Badlands Brief — "Badlands News Brief: Resignations Tracked, Banks Shuttered & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-579
 5. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
 6. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
+7. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

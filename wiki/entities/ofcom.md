@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, uk, censorship, media]
-sources: [raw/5gw-counter-offensive-the-censorship.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Under the OSB, Ofcom is the body that holds technology platforms to the new rule
 
 Ofcom's recently appointed Chief Executive, Dame Melanie Dawes, was described as genuinely gleeful at the bill's passage, stating: "Today is a major milestone in the mission to create a safer life online for children and adults in the UK. Everyone at Ofcom feels privileged to be entrusted with this important role, and we're ready to start implementing these new laws."[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
+## Scanning powers under the Online Safety Bill (2023)
+
+The Online Safety Bill passed by the UK Parliament in September 2023 contains a clause empowering Ofcom, the British telecom regulator, to serve notices requiring technology companies to scan all of their users for child abuse content.[2] Because the provision applies even to messages and files protected by end-to-end encryption, critics including the Electronic Frontier Foundation argued that it effectively authorizes the government to force companies to build encryption backdoors, undermining the privacy and security of British residents and internet users worldwide.[2]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
+2. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

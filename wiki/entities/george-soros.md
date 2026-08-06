@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -84,6 +84,42 @@ In August 2025, Texas Attorney General [[ken-paxton|Ken Paxton]] opened an inves
 
 In February 2024, Bloomberg reported that [[soros-fund-management|Soros Fund Management]], the investment firm Soros founded, was positioned to become the biggest shareholder of the radio and podcast company [[audacy|Audacy Inc.]] upon its emergence from bankruptcy, having accumulated more than $400 million of the company's highest-ranking debt for conversion into equity.[16] The transaction was described as the latest in a series of media investments by the fund, which had joined the lender group that bought [[vice-media|Vice Media]] out of bankruptcy in 2023 and had earlier taken a minority stake in the podcast company [[crooked-media|Crooked Media]].[16] Badlands writer [[burning-bright|Burning Bright]] argued that the debt-for-equity swap would give Soros interests direct influence over the conglomerate's business planning and narrative output across demographics ahead of the 2024 US election.[16]
 
+
+## Attributed founding of the ICC (Badlands framing)
+
+In its May 2024 coverage of the Hague rulings on Gaza, Badlands repeatedly asserted that the [[international-criminal-court|International Criminal Court]] was founded by George Soros roughly two decades earlier, in contrast with the [[international-court-of-justice|International Court of Justice]], which dates to 1945.[18] In this framing the ICC was created specifically to prosecute troublesome leaders of sovereign nations, and represents the weaponization of international legal forums by oligarchs who desire a one-world government.[18] The brief extended the same critique to the United Nations system as a whole, describing it as tainted with corruption since its inception.[18]
+
+## Jews Against Soros (2023)
+
+In June 2023 two Jewish conservative activists launched [[jews-against-soros|Jews Against Soros]], an organization formed to push back on claims that criticizing Soros — described in the coverage as a left-wing billionaire Democrat donor — is inherently antisemitic.[19] Newsweek writer [[josh-hammer|Josh Hammer]] and [[will-scharf|Will Scharf]], then a candidate for state attorney general in Missouri, launched the site JewsAgainstSoros.com to argue there is nothing antisemitic in opposing Soros's agenda.[19]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] used the launch to argue against collective attribution, observing that entire ethnic or religious groups "pretty much never walk in lockstep" and that the story indicated Jewish people were not "some maniacal hive-mind hell bent on world domination" but a population like any other containing a minority who serve themselves over the whole.[19]
+
+## Mid-Atlantic pipeline obstruction (Badlands account)
+
+Badlands Media commentary in December 2024 accused Soros of funding the legal campaign that blocked Mid-Atlantic energy infrastructure, alleging that NGOs such as the [[sierra-club|Sierra Club]] collaborated with what the writer called Soros-funded state attorneys to file injunctions against the [[mountain-valley-pipeline|Mountain Valley Pipeline]], and that the [[atlantic-coast-pipeline|Atlantic Coast Pipeline]] faced "similar attacks from George Soros and his goon army of communists" before being cancelled in the summer of 2020.[17] The same commentary framed the newly announced [[commonwealth-fusion-systems|Commonwealth Fusion Systems]] plant in Virginia as "a huge middle finger to oligarchs like George Soros who desire above all else to see human civilization stagnate into oblivion."[17]
+
+17. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+18. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+19. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+
+## Musk lawsuit threat over NGO censorship (2023)
+
+In August 2023 [[elon-musk|Elon Musk]] pledged that X would file legal action against non-governmental organizations funded by Soros over their alleged efforts to suppress free speech, responding to reporting by Irish journalist [[ben-scallan|Ben Scallan]] that NGOs backed by the [[open-society-foundations|Open Society Foundations]] were pushing a "censorship agenda" in Ireland and Scotland involving police searches of homes and personal devices.[20] Musk had previously compared the Hungarian-born billionaire to the Marvel Comics supervillain Magneto, who like Soros survived the Holocaust.[20] [[ashe-in-america|Ashe in America]] argued that Soros-funded NGOs were suing grassroots election activists across the United States by falsely characterizing them as racists engaged in voter suppression, which in turn allowed Soros-funded attorneys general and secretaries of state to claim unprecedented attacks on democracy.[20]
+
+20. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+21. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## Cited in ACLU funding criticism (June 2023)
+
+Commenting on the [[american-civil-liberties-union|ACLU]]'s statement about the execution of [[duane-owen|Duane Owen]] in June 2023, Badlands contributor [[ryan-delarme|Ryan DeLarme]] described a vast network of interlocking tax-exempt foundations and charities funding advocacy initiatives, and cited Soros's $50 million grant in 2014 supporting the ACLU's push to reduce the US incarceration rate as an example with observable consequences.[21] DeLarme wrote that Soros and his son [[alexander-soros|Alexander Soros]] have been "hard at work trying to reshape America in their image," and that exacerbating cultural divides over trans inclusivity and racism was "par for the course."[21]
+
+
+
+## Alleged role in British migration
+
+In its commentary on the August 2024 riots in Britain, Badlands Media attributed the unrest to migrants from Africa and Syria "imported by the Open Society Foundation (George Soros) and other nefarious NGO's over the past decade," rather than to the country's long-established Indian population.[24] The argument forms part of a broader claim that the displacement caused by NATO's 2011 killing of [[muammar-gaddafi|Muammar Gaddafi]] and the subsequent Syrian war was channelled into Western Europe by NGO networks.[24] See [[southport-riots|the Southport riots]].[24]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -101,3 +137,20 @@ In February 2024, Bloomberg reported that [[soros-fund-management|Soros Fund Man
 14. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 16. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
+
+## Funding of the 2024 campus anti-Israel protests
+
+In April 2024 the New York Post reported that Soros and his hard-left acolytes were paying agitators fuelling the nationwide explosion of radical anti-Israel protests at American colleges.[22] The protests began when students took over [[columbia-university|Columbia University]]'s Morningside Heights campus lawn, and copycat tent cities followed at [[harvard-university|Harvard]], [[yale-university|Yale]], Berkeley, the Ohio State University and Emory in Georgia — all of them, per the Post, organized by branches of the Soros-funded Students for Justice in Palestine, with students clashing with police at some campuses.[22] The [[national-students-for-justice-in-palestine|SJP]] parent organization was said to be funded by a network of nonprofits ultimately financed by Soros among others.[22]
+
+Badlands contributor GhostofBasedPatrickHenry read the report as confirmation that prominent activist figures are paid operatives deployed to generate angst and animosity, and that their sponsors seek to control both sides of a conflict so as to shape how the public perceives each — the [[controlled-opposition|controlled opposition]] model.[22]
+
+22. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
+
+## Tesla divestment and the Musk exchange (May 2023)
+
+In May 2023 [[soros-fund-management|Soros Fund Management]], the principal asset manager for the [[open-society-foundations|Open Society Foundations]], disclosed in its first-quarter SEC holdings report that it had sold its entire stake — roughly 130,000 shares plus call options — in [[elon-musk|Elon Musk]]'s [[tesla|Tesla]], a divestment that produced no discernible move in the share price.[23] The disclosure came as Musk declared publicly that Soros "hates humanity," a remark that immediately drew accusations of antisemitism from left-wing commentators.[23] Badlands contributor [[justin-deschamps|Justin Deschamps]] wrote that Musk was popularising the idea "that globalists aren't the good guys," while doubting that mainstream audiences would revise their views.[23]
+
+Musk's remark was made in reply to commentator [[brian-krassenstein|Brian Krassenstein]], who had defended Soros by pointing to his survival of the Second World War and to his "good intentions."[23] Badlands contributor [[ryan-delarme|Ryan DeLarme]] rebutted this by citing a 60 Minutes interview — which he said Soros had tried to have suppressed — in which Soros recounted having helped confiscate property from and deport fellow Jews, saying it had no emotional impact on him and likening it to his conduct in the markets.[23] DeLarme also pointed to Soros' profit of more than £1 billion from shorting the pound sterling, which he said crashed the British economy, to the financial ruin he attributed to Soros in other countries, and to what he characterised as Soros' eagerness for a third world war.[23]
+
+23. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
+24. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

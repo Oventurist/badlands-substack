@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dei, corporate-policy, florida, disney]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ By April 2024, reporting described the DEI exodus across corporate America as ga
 
 Badlands Media writer [[simon-esler]], who had earlier written about the possibility while reporting on Boeing chief executive Dave Calhoun's resignation, called the corporate turn against DEI glorious but urged caution about long-form statecraft that pushes an agenda to an extreme so that even after it recedes, norms have shifted permanently in its favor — making "a little bit of DEI" seem tame relative to the post-George Floyd period.[6] He characterized DEI and ESG scores as Neo-Marxist warfare that should be identified for what they are within the [[overton-window|Overton window]] and permanently cast out of corporate culture.[6]
 
+## Corporate retreats under the Starbuck campaign (2024)
+
+By August 2024 the anti-woke campaign waged by commentator and filmmaker [[robby-starbuck|Robby Starbuck]] had led Harley-Davidson Inc., Tractor Supply Co. and Deere & Co. to reverse or entirely eliminate diversity, equity and inclusion programs.[7] When Starbuck announced Jack Daniel's as his next target, its parent Brown-Forman Corp. had been tipped off in advance and circulated an email to employees describing the "evolving" situation around its DEI program; Starbuck attributed the leak to his team's review of employee LinkedIn pages.[7]
+
+[[ashe-in-america|Ashe in America]] framed DEI as, after climate policy, one of globalism's most powerful munitions - a form of "weaponized empathy" - and cited a March 2024 Rasmussen survey finding that just 25% of American adults think DEI programs make companies better, arguing that the more Americans learn about DEI the more they reject it.[7] The commentary held that both major parties propagate globalism and demonize nationalism, that more than 30% of Americans reject the two-party construct by identifying as independent or third party, and that consumer pressure had shown "the customer is, actually, always right."[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
@@ -59,3 +65,4 @@ Badlands Media writer [[simon-esler]], who had earlier written about the possibi
 4. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 5. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
+7. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

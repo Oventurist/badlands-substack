@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, congo, minerals, rwanda, conflict]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ In April 2025 the United States was reported to be closing in on a [[us-dr-congo
 
 President Donald Trump hosted DRC President Felix Tshisekedi and Rwandan President Paul Kagame in Washington on December 4, 2025 to sign deals intended to stabilize the region and attract Western mining investment, building on an economic integration compact agreed the previous month and an unimplemented US-brokered peace deal from June.[6] Analysts said American diplomacy had paused escalation in eastern Congo without resolving core issues, and Badlands commentary argued the conflict persists because a cartel that lost control of eastern Congolese minerals under Executive Order 13818 wants them back.[6]
 
+## May 2024 coup attempt and Israeli connections
+
+On Sunday, May 19, 2024, the Congolese military thwarted an attempted coup led by naturalized American [[christian-malanga|Christian Malanga]] and a roughly 40-strong militia of foreigners and Congolese nationals in the Gombe area of northern Kinshasa, near the Palais de la Nation housing the president's offices; Malanga was shot dead and dozens of attackers were arrested, including his son [[marcel-malanga|Marcel Malanga]] and American [[benjamin-zalman-polun|Benjamin Zalman-Polun]].[7] Faculty at [[morehouse-college|Morehouse College]] displayed a large DRC flag behind President [[joe-biden|Joe Biden]] throughout his commencement address that same weekend, as antiwar activists called for international aid amid worsening violence in the country.[7] Badlands commentary tied the coup attempt to earlier reporting on former [[mossad]] chief [[yossi-cohen|Yossi Cohen]]'s 2019 visits to the DRC with mining billionaire [[dan-gertler|Dan Gertler]], which ended in Cohen's deportation and ban from the country.[7]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -57,3 +61,9 @@ President Donald Trump hosted DRC President Felix Tshisekedi and Rwandan Preside
 4. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 5. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+7. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+
+## Ceasefire disputes and the minerals pact (2025)
+
+In September 2025 a coalition of armed groups, the [[congo-river-alliance|Congo River Alliance]] led politically by [[corneille-nangaa|Corneille Nangaa]] and including [[m23]], accused the Congolese government of breaching agreements intended to end the decades-old conflict in the country's eastern provinces, citing attacks in South Kivu.[8] M23 had intensified its offensive earlier in the year across the mineral-rich east, capturing key mining hubs including Goma and Bukavu and reportedly killing thousands.[8] In June the DR Congo signed a U.S.-brokered agreement with [[rwanda|Rwanda]], which Kinshasa accuses of arming the rebels — a claim Kigali denies — and President [[donald-trump|Donald Trump]] said the pact, which includes calls for a joint security mechanism, gives Washington rights to local mineral wealth.[8] Badlands commentary tied the storyline to the earlier death of American-Congolese figure [[christian-malanga|Christian Malanga]] during a failed coup and argued there are "24 trillion reasons" behind outside interest in Congolese mineral rights.[8]
+8. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

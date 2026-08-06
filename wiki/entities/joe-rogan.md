@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [podcasting, media, 2024-election, alternative-media]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f7d.md]
 confidence: medium
 ---
 
@@ -57,6 +57,25 @@ In mid-October 2024, Reuters reported that [[kamala-harris|Kamala Harris]]'s cam
 
 Badlands contributor Ashe in America called the Harris booking "a terrible idea," arguing that the long-form, winding and often irreverent format would expose the inauthenticity of her 2024 policy repositioning, and that Rogan was unlikely to edit her responses, stick to a script, or game the interview.[8] She contended Trump would "crush" on the show because he authentically holds his positions and can follow the conversation wherever it goes.[8] She also praised the format itself as superior to rally coverage and debates for the public's "access to democracy" — equal time for candidates to undergo a full and critical examination of their ideas in long form, without MSM middlemen — adding only that it should be live.[8]
 
+## RFK Jr. and Hotez episodes (June 2023)
+
+In June 2023 Rogan hosted presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], who told him he takes precautions against being assassinated by the [[cia|CIA]] because of his public statements about the killings of his uncle and father.[9] Rogan asked Kennedy what he thought would happen if he reached office, prompting Kennedy's reply, "I gotta be careful."[9]
+
+Separately, Rogan had vaccine scientist [[peter-hotez|Peter Hotez]] on the show, where Hotez criticized Kennedy's vaccine positions but said he would be "uncomfortable" debating him directly.[9] Rogan responded by offering to donate $100,000 to charity if Hotez would debate Kennedy about the COVID-19 vaccines on The Joe Rogan Experience.[9] Other figures added pledges and the challenge pot grew to more than $1.52 million, with pledges below $1,000 tracked but excluded from the total; Hotez did not accept.[9]
+
+
+## Dispute over the Kamala Harris interview (February 2025)
+
+In February 2025 Rogan refuted claims made by former aides to failed Democratic nominee [[kamala-harris|Kamala Harris]] that he had spurned an interview with her in favor of interviewing [[donald-trump|Donald Trump]].[10] The claim appeared in the book "Fight: Inside the Wildest Battle for the White House," which reported that Harris's team grew frustrated on learning that Rogan had "blocked out" as a personal day the date they were trying to arrange, only to interview Trump instead.[10]
+
+"This whole idea that we f***ed her over and we f***ed her over for Trump — incorrect, just not true," Rogan said, stating that the Harris campaign never committed to doing the show.[10] He disputed the account that the Beyoncé event in Houston was scheduled so the campaign could be in Texas to appear on his podcast, and denied that anyone had been sent to his studio for a walk-through of the set: "These people didn't have a date. They never agreed to do the show."[10]
+
+## Remarks on Joe Biden (June 2023)
+
+In a June 2023 episode of his podcast with comedian [[theo-von|Theo Von]], Rogan delivered an unusually blunt attack on President [[joe-biden|Joe Biden]], using an obscenity to describe him and arguing that his record of dishonesty long predated his cognitive decline: "You go back and listen to that guy lying about his education record and lying about his accomplishments and — like, he's always been a problem."[11] Von had suggested the president's handlers bore more blame for his public condition; Rogan agreed it was unkind to old people but maintained Biden remained lucid enough to understand what was happening.[11]
+
+Rogan also condemned the double standard he saw in coverage of the [[hunter-biden|Biden family]]'s foreign dealings, citing "all the f------g stuff with his son and the ties to Ukraine and China and the money" and saying that if Biden were a Republican "they would be up his ass with a microscope."[11] He pointed to the FBI's role in urging Twitter to censor reporting on the [[hunter-biden-laptop|laptop]] and argued that an overwhelmingly left-leaning media effectively works to support Democratic politicians.[11] [[burning-bright|Burning Bright]] wrote that Rogan's rant, occurring in parallel with congressional committee investigations, was significant regardless of longstanding community suspicion about Rogan's independence.[11]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
@@ -66,3 +85,6 @@ Badlands contributor Ashe in America called the Harris booking "a terrible idea,
 6. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 7. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 8. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+9. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+10. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+11. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, rnc, 2024-election]
-sources: [raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b5a.md]
+sources: [raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ In an exclusive interview with [[epoch-times|The Epoch Times]] before a February
 1. Badlands Brief — "Badlands News Brief: Nuland Neutered, Biden Blasted and Trump Triumphant", URL: https://badlands.substack.com/p/badlands-news-brief-7db
 2. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
 3. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+
+## Election as RNC co-chair (March 2024)
+
+Lara Trump was elected co-chair of the [[republican-national-committee|Republican National Committee]] on Friday, March 8, 2024, with the endorsement of her father-in-law [[donald-trump|Donald Trump]], alongside new chair [[michael-whatley|Michael Whatley]].[4] The Trump campaign assumed operational control of the committee the following Monday, and the new leadership began removing more than 60 staffers in an overhaul aimed at cutting bureaucracy.[4]
+
+4. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

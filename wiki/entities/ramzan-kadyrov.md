@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [chechnya, russia, ukraine-war, regime-change]
-sources: [raw/badlands-brief-094.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Kadyrov is the son of [[akhmad-kadyrov|Akhmad Kadyrov]], the Chief Mufti of the 
 
 In November 2006 Kadyrov tasked [[apty-alaudinov|Apty Alaudinov]], with whom he had formed a personal bond, with avenging his father by eliminating [[movladi-baisarov|Movladi Baisarov]], a former member of Akhmad's security force believed to have played a role in the assassination and who had refused to serve under Ramzan.[2] Alaudinov led fifty Chechen police officers into Moscow and killed Baisarov; that group became the legal basis for the reconstituted Akhmat Special Forces.[2] With Putin's help, Kadyrov equipped the refurbished unit with mechanized armor and heavy equipment it had not previously possessed, creating the modern Chechen special forces based out of Dagestan.[2]
 
+## Ritter visit to Grozny (2024)
+
+In January 2024 former UN weapons inspector [[scott-ritter|Scott Ritter]] visited the Russian republic of Chechnya and, in an address in the capital Grozny, offered Kadyrov and his fighters "friendship" with the United States.[3] The visit was cited in reporting on the US Justice Department's 2024 investigation of Americans with ties to Russian state media.[3]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+3. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, comedian, censorship, uk, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -26,5 +26,15 @@ Following these statements, the British Government asked big-tech platforms to c
 
 The article emphasises that Brand has been open about the hedonistic lifestyle he once lived and has since transformed into a man who answers to a higher power, advocates a natural and sober lifestyle, and has started a family.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) It contrasts the treatment of Brand with the protection extended by the same pundits and media conglomerates to figures such as Prince Andrew, Bill Clinton and Joe Biden, arguing that the censorship regime pursues only those who have defected from establishment dogma.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
+## Defense of Cornel West, July 2023
+
+In July 2023 Brand ran a segment criticizing CNN's [[anderson-cooper|Anderson Cooper]] over his "takedown" of presidential candidate [[cornel-west|Cornel West]], who opposes the NATO alliance and argues that the West provoked war with Russia.[2] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] wrote that Brand's broader conclusion about American sociopolitics was apt: that the country is transitioning from a Left-Right-Center paradigm to an Establishment-versus-anti-Establishment one, with Brand and others citing [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] as a leading example of the trend.[2]
+
+## UK government pressure campaign (September 2023)
+
+During the same week that the UK Parliament passed the Online Safety Bill, Russell Brand was being targeted by state media and the British government, which went so far as to ask Rumble to deplatform him — a request the platform emphatically rejected.[3] Badlands commentary presented the episode as evidence that the censorship apparatus described in the Online Safety Bill was already operating informally against dissenting voices.[3]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
+2. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+3. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

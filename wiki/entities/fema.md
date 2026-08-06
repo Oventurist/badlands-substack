@@ -1,10 +1,10 @@
 ---
-title: Federal Emergency Management Agency (FEMA)
+title: "Federal Emergency Management Agency (FEMA)"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fema, dhs, disaster-response, federal-agency, gregg-phillips]
-sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-cb6.md]
+sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-ddb.md]
 confidence: medium
 ---
 
@@ -71,3 +71,11 @@ In February 2025 the [[department-of-homeland-security|Department of Homeland Se
 7. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 8. Badlands Brief — "Badlands News Brief: The Trump-Musk Pincer Closes as Disaster Strikes the Regime", URL: https://badlands.substack.com/p/badlands-news-brief-b78
 9. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+
+## Disaster-benefit fraud prosecutions (March 2025)
+
+In March 2025 the Justice Department announced federal charges against three defendants — two in Southern California and one in Texas — accused of fraudulently seeking federal disaster relief funds from FEMA by falsely claiming their properties had been damaged by the Eaton and Palisades wildfires when they either held no interest in the affected property or the property was untouched by either fire.[10] Acting United States Attorney Joseph McNally said the defendants "allegedly made false and fraudulent claims to FEMA for emergency benefits related to wildfires that devastated Los Angeles County two months ago," and that the false claims "resulted in badly needed disaster-relief money being denied to actual wildfire victims while these defendants allegedly used property information to illegally line their own pockets."[10]
+
+On March 12 the [[fbi|FBI]] separately announced charges against [[serina-baker-hill|Serina Baker-Hill]], a senior [[customs-and-border-protection|Customs and Border Protection]] official, for a scheme to defraud FEMA through disaster aid and for lying to federal agents, stemming from a 2023 application for FEMA funds after the Detroit floods.[10] Badlands writer [[ashe-in-america|Ashe in America]] questioned whether the FEMA fraud claims would ever have come to light had [[donald-trump|Donald Trump]] not won the election.[10]
+
+10. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb

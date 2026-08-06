@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vatican, catholic-church, religion, immigration]
-sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-890.md]
+sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f54.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ The Vatican's messaging was mixed: it warned that a longer hospital stay was nee
 
 Ahead of Christmas 2024 Pope Francis renewed his call for a ceasefire in Gaza and highlighted the civilian death toll from Israeli airstrikes, saying "This is cruelty. This is not war. I wanted to say this because it touches the heart."[6] The previous month Vatican News had cited the pontiff as writing in a forthcoming book that allegations of genocide committed by the Israeli army against the Palestinians "should be carefully investigated."[6] In response to the remarks, the [[vatican|Vatican]]'s ambassador Archbishop Adolfo Tito Yllana was summoned to the Israeli Foreign Ministry for a conversation with Director General Eyal Bar-Tal, who condemned the pope's comments without formally reprimanding the nuncio, according to Israeli media reports.[6] Badlands contributor [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] called the summons an act of hubris, noting that condemning civilian deaths in a kinetic conflict is standard practice for the papacy, and contrasted the episode with a Christmas message from [[benjamin-netanyahu|Benjamin Netanyahu]] that he said promised more war.[6]
 
+## Audience with Bill Clinton and Alex Soros (July 2023)
+
+On Wednesday, July 5, 2023, Pope Francis met former U.S. President [[bill-clinton|Bill Clinton]] in a private audience at the Casa Santa Marta papal residence.[8] Clinton's delegation included several prominent Americans, among them [[alex-soros|Alex Soros]], the new chairman of the [[open-society-foundations|Open Society Foundations]] founded by his father [[george-soros|George Soros]].[8] Badlands contributor [[ryan-delarme|Ryan DeLarme]] mocked the gathering, quoting the remark that "it's crazy that they didn't all spontaneously burst into flames," and drew attention to the Vatican's separate welcome of an artist known for submerging a crucifix in a vat of urine as an example of the pontificate's cultural posture.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
 2. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
@@ -55,3 +59,12 @@ Ahead of Christmas 2024 Pope Francis renewed his call for a ceasefire in Gaza an
 4. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 5. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 6. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+
+## Bilateral pneumonia (February 2025)
+
+On February 18, 2025, the Vatican announced that the 88-year-old pontiff had developed pneumonia in both lungs and that his condition remained "complex."[7] He had been suffering from a respiratory infection for more than a week and was admitted to Rome's Gemelli hospital on Friday, February 14.[7] The Vatican said a follow-up chest CT scan that afternoon "demonstrated the onset of bilateral pneumonia, which required additional drug therapy," and that laboratory tests, a chest X-ray and his clinical condition continued to present a complex picture.[7]
+
+Despite this, the Vatican reported that the Pope remained in "good spirits" and spent the day "reading, resting and praying," expressing gratitude to well-wishers and asking them to "pray for him."[7] He had had bronchitis symptoms for several days before admission and had delegated officials to read prepared speeches at events.[7] He had been due to lead several weekend events for the 2025 Catholic Holy Year, which runs to the following January, but all public engagements on his calendar were cancelled through the Sunday.[7] Badlands commentary joked that he had "survived worse," recalling claims that he had once appeared to vanish from public view, and predicted that pneumonia would not take him out.[7]
+
+7. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+8. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54

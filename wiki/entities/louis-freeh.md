@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, biden-investigation, hunter-biden]
-sources: [raw/badlands-news-brief-3f0.md]
+sources: [raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ The episode was recounted in the July 12, 2023 [[badlands-news-brief|Badlands Ne
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
+
+## Payments to Biden family trusts
+
+Reporting cited by Badlands Media in June 2023 described Freeh, a former FBI director and long-time ally of [[joe-biden|Joe Biden]], as having given $100,000 in April 2016 to trusts belonging to two of the then-Vice President's grandchildren while seeking future work.[2] The claim was raised alongside the assertion by [[mike-davis|Mike Davis]] that federal prosecutor [[derek-hines|Derek Hines]], working on the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]], had been Freeh's special counsel from 2013 to February 2015 — an association critics argued compromised the appearance of impartiality.[2]
+
+2. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hamas, gaza, doha, hostages, negotiations]
-sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-988.md]
+sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -22,7 +22,16 @@ News of the al-Hayya–Boehler meeting was leaked to the media hours after a ten
 
 During the [[2025-israeli-strike-on-doha|Israeli strike on Doha]] in September 2025, roughly 15 Israeli warplanes fired at least ten missiles at a [[hamas|Hamas]] compound in the Qatari capital, reportedly killing several Hamas members including al-Hayya's son.[2] Hamas said its top leadership survived the attack, which it characterized as an attempt to assassinate negotiators working on a potential settlement.[2]
 
+## Declaration that the Gaza war had ended (October 2025)
+
+On Thursday, October 9, 2025, al-Hayya, described as a senior [[hamas|Hamas]] official, declared in a televised address to Gaza residents that the Gaza war was over and that the peace plan advanced by US President [[donald-trump|Donald Trump]] would mark the start of a "permanent ceasefire."[3] He said the group had received "guarantees" from Washington and other mediators that hostilities would not resume.[3]
+
+According to al-Hayya, Hamas "dealt responsibly with the American president's plan" and submitted a response aimed at preventing further bloodshed; he did not elaborate on the nature of that response.[3] He said the deal reached at Sharm el-Sheikh, Egypt, included humanitarian aid for the enclave, the opening of the [[rafah-border-crossing|Rafah border crossing]], and an exchange of prisoners.[3] "Everyone confirmed that the war has completely ended," he said, vowing to work with all national and Islamic forces to complete the next steps envisioned by the agreement.[3]
+
+His remarks came while the Israeli cabinet was still voting on ratification of the agreement.[3] National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] said ahead of the vote that he and his party would oppose Trump's plan and leave the government if Hamas were allowed to retain control over Gaza, calling the release of Palestinian prisoners in exchange for Israeli hostages an "unbearable price."[3] Badlands commentary questioned whether the Israelis shared Hamas's view that the war was over, suggesting that was why Trump planned to travel to Israel the following week, and warned that false flags could follow.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
 2. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
+3. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

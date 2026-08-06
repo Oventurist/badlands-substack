@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, deportation, contempt, dc-district-court]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -82,6 +82,9 @@ On the evening of Saturday, March 15, 2025, Boasberg blocked President [[donald-
 
 The [[trump-administration|Trump administration]] nonetheless announced on Sunday, March 16, that it had deported hundreds of alleged members of [[tren-de-aragua|Tren de Aragua]] despite the order.[11] [[elon-musk|Elon Musk]] responded by publicly endorsing impeachment articles against Boasberg, quote-tweeting the single word "necessary" in reply to a legislator discussing such a measure.[11] Badlands commentator [[chris-paul|Chris Paul]] circulated a 2024 Newsweek item about Boasberg quoting Taylor Swift lyrics in a ruling, identifying him as "the judge whose decision attempted to delay the deportations."[11] [[ashe-in-america|Ashe in America]] argued that judicial impeachment had occurred roughly fifteen times in U.S. history and that a judge "prioritizing cartel criminals" could absolutely be removed, while further contending that because Congress created the district courts under the [[judiciary-act-of-1789|Judiciary Act of 1789]] pursuant to Article III, Section 1, it also holds the power to reorganize or abolish them.[11]
 
+## DOJ misconduct complaint (2025)
+
+The Department of Justice lodged a misconduct complaint against U.S. District Court Chief Judge James Boasberg in July 2025, alleging he made improper public comments about Donald Trump and his administration.[12] Boasberg, an Obama appointee, was overseeing a case concerning Trump's invocation of the Alien Enemies Act to deport suspected criminal migrants.[12] The complaint alleged that at a March 11 judicial conference attended by Chief Justice John Roberts and other federal judges, Boasberg said the administration would "disregard rulings of federal courts" and cause "a constitutional crisis."[12] Chad Mizelle, chief of staff to Attorney General Pam Bondi, said the remarks violated the Code of Conduct for United States Judges and eroded public confidence in judicial neutrality, arguing they had no basis because the administration had always complied with court orders.[12]
 
 ## References
 
@@ -96,3 +99,4 @@ The [[trump-administration|Trump administration]] nonetheless announced on Sunda
 9. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 10. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 11. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+12. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

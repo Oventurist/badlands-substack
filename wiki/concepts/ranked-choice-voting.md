@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, election-integrity, alaska, voting-systems]
-sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-575.md]
+sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ Bill sponsor and Republican Senator Blake Miguez, pressed on the need for a ban 
 
 Ranked-choice voting was used in the [[2024-us-virgin-islands-republican-caucuses|2024 US Virgin Islands Republican caucuses]] on February 8, 2024, where territorial GOP Chairman Gordon Ackley promoted it as producing "an unrigged caucus" that gave "every candidate a fair and equal playing field."[3] Badlands writer [[ashe-in-america|Ashe in America]] dismissed the promotion sarcastically, writing that "the regime is pushing RCV like they pushed the vaccines" and advising readers to "just say no."[3]
 
+## 2025 New York City Democratic mayoral primary
+
+The June 2025 New York City Democratic mayoral primary was conducted under ranked choice rules, and as first-choice votes were tallied no candidate was set to secure a majority in the first round.[4] Former Governor [[andrew-cuomo|Andrew Cuomo]] nevertheless conceded and declared state assemblyman [[zohran-mamdani|Zohran Mamdani]], who led the first-choice count, the winner before later rounds were run.[4] See [[new-york-city-mayoral-election-2025|the 2025 New York City mayoral election]].[4]
+
 ## References
 1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 2. Badlands Brief — "Badlands News Brief: Government Spending & Unprecedented Unhappiness", URL: https://badlands.substack.com/p/badlands-news-brief-31b
 3. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
+4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

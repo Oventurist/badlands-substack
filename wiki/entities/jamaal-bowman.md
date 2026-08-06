@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, progressives, democrats, aipac, primaries]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-73f.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-d56.md]
 confidence: medium
 ---
 
@@ -34,8 +34,13 @@ On Thursday, October 26, 2023, Bowman pleaded guilty to a misdemeanor charge of 
 
 The day before his plea, Bowman was one of nine Democrats who voted against [[house-resolution-771-standing-with-israel|House Resolution 771]], the resolution expressing support for [[israel]] that passed the House 412–10.[3]
 
+## Rally speech against AIPAC (June 2024)
+
+At a rally on Saturday, June 22, 2024, Bowman gave a fiery, profanity-filled address criticizing US involvement in Israel and attacking [[aipac|AIPAC]], the American Israel Public Affairs Committee, which had recently launched a $14 million campaign against his reelection over his criticisms of Israel.[4] "We are gonna show f---ing AIPAC the power of the motherf---ing South Bronx," he told the cheering audience.[4] Asked about his language, he said: "People ask me why I got a foul mouth. What am I supposed to do? You coming after me. You coming after my family. You coming after my children. I'm not supposed to fight back? We're gonna show them who the f--- we are."[4] A longstanding critic of the Israeli government and the war against [[hamas|Hamas]] in Gaza, Bowman characterized the conflict as a genocide against Palestinians and said US dollars were being used to kill innocent civilians.[4]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands News Brief — "Congressional Kayfabe, Independent Dems & Fire Alarms", URL: https://badlands.substack.com/p/badlands-news-brief-2a9
 3. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
+4. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
 

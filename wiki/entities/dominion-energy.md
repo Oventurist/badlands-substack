@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, utilities, offshore-wind, virginia]
-sources: [raw/badlands-news-brief-bfe.md]
+sources: [raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-d36.md]
 confidence: medium
 ---
 
@@ -20,3 +20,11 @@ Badlands contributor [[burning-bright|Burning Bright]], writing as a resident of
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Wanker War Hawks, Out-of-Work Wind Mills, & the Biggest, Fastest Battleships", URL: https://badlands.substack.com/p/badlands-news-brief-bfe
+
+## Pipelines and the Virginia fusion project
+
+Dominion Energy spearheaded the [[atlantic-coast-pipeline|Atlantic Coast Pipeline]], the project intended to bring West Virginia natural gas as far as Virginia Beach, which was officially cancelled in the summer of 2020 after litigation that Trump administration Energy Secretary Dan Brouillette said had doubled its cost to $8 billion.[2] In the same reporting, Dominion announced it would sell all of its natural gas operations to [[berkshire-hathaway|Berkshire Hathaway]], which Badlands commentary said ensured the pipeline was never revived.[2]
+
+Two years later the New York Times reported that Virginia natural gas prices had doubled and electricity prices were rising as utilities including Dominion shifted investment from gas toward more costly electric grid buildout.[2] In December 2024, Dominion was identified as the company leasing the Chesterfield County land on which [[commonwealth-fusion-systems|Commonwealth Fusion Systems]] announced plans to build what officials described as the world's first grid-scale commercial fusion power plant.[2]
+
+2. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36

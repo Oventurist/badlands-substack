@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, podcast]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e07.md]
 confidence: medium
 ---
 
@@ -21,3 +21,8 @@ A second Badlands Media schedule post, published January 3, 2023 to open the 202
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
+## Commentary on Trump's Meta reinstatement (January 2023)
+
+In a January 2023 Badlands News Brief, Getz commented on [[meta-platforms|Meta]]'s announcement that it would restore [[donald-trump|Donald Trump]]'s [[facebook|Facebook]] and [[instagram|Instagram]] accounts, calling it "a symbolic admission of wrongful suspension in light of the Congressional Jan 6th Witch Hunt" and describing the hearings as a dud that mainly highlighted their organizers' vindictive nature.[3] He likened the platforms' shifting posture to the belated remorse expressed by judges after the Salem witch trials, while stating that he did not believe Meta president [[nick-clegg|Nick Clegg]] or other Facebook executives felt any remorse themselves.[3] Getz tied the reversal to the [[twitter-files|Twitter Files]] disclosures of government meddling — a violation he suspected Meta shared — and predicted the company would use the reinstatement's restrictions and suspension threats "to the fullest and in their typical vindictive manner."[3]
+
+3. Badlands Brief — "Badlands News Brief: Big Tech Crunch, OPSEC & Vax Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-e07

@@ -1,10 +1,10 @@
 ---
-title: Cybersecurity and Infrastructure Security Agency
+title: "Cybersecurity and Infrastructure Security Agency"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, dhs, cybersecurity, personnel, government]
-sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d21.md]
+sources: [raw/badlands-brief-7ed.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f54.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ On the eve of the [[2024-us-general-election|2024 general election]], the direct
 
 In commentary published by [[badlands-media|Badlands Media]] in early 2024, [[ashe-in-america|Ashe in America]] contrasted [[fbi|FBI]] warnings about Chinese penetration of US critical infrastructure through the [[volt-typhoon|Volt Typhoon]] operation with official insistence that cyberattacks cannot affect elections, an assurance she traced to former CISA head [[chris-krebs|Chris Krebs]].[6] She argued the claim is implausible because election systems rely on the same hardware and software components as the sectors [[christopher-wray|Christopher Wray]] described as endangered, and concluded with a call to decentralize infrastructure, "especially elections."[6]
 
+## Aftermath of the July 2023 censorship injunction
+
+After [[terry-doughty|Judge Terry Doughty]]'s July 4, 2023 ruling limiting the Biden administration's contacts with technology firms, the [[state-department|State Department]] cancelled its regular meeting with [[facebook|Facebook]], and a person at the company said they were "waiting to see if CISA cancels tomorrow" — an indication that the agency's own recurring engagements with platforms were expected to be affected.[9] CISA declined to comment on the situation, referring questions to the [[department-of-justice|Justice Department]].[9]
+
 ## References
 1. Badlands Brief — "Religious Regime Change, Sacked Security Sacked, & More Medicare Malice", URL: https://badlands.substack.com/p/badlands-brief-7ed
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
@@ -49,3 +53,18 @@ In commentary published by [[badlands-media|Badlands Media]] in early 2024, [[as
 4. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 5. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
 6. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+
+## Plankey nomination and election-work review (March 2025)
+
+In March 2025 President [[donald-trump|Donald Trump]] named [[sean-plankey|Sean Plankey]] to lead CISA while the agency was reviewing its election-security work.[7] CISA operates under the [[department-of-homeland-security|Department of Homeland Security]], whose Secretary [[kristi-noem|Kristi Noem]] promised to "rein" in the agency, having alleged at her January confirmation hearing that CISA had drifted "far off mission."[7] Plankey, who retired from the [[us-coast-guard|United States Coast Guard]] in 2023, had served during Trump's first term as director for cyber policy at the [[national-security-council|National Security Council]] and then as principal deputy assistant energy secretary for cybersecurity, energy security, and emergency response; U.S. Telecom President and CEO Jonathan Spalter welcomed the nomination and pledged to work with the CISA team.[7]
+
+Coverage recalled that Trump created the agency in 2018 but fired its first director, [[chris-krebs|Chris Krebs]], after Krebs assured voters that the 2020 election was "the most secure in American history," and that Brian Ware, then CISA's assistant director for cybersecurity, also resigned.[7] Badlands commentator [[canncon|CannCon]] welcomed the appointment of a technically trained director over an "environmental lawyer," hoping Plankey's Cyber Command and Department of Energy background would lead him to conclude that electronic voting machines cannot be secured under the current VVSG.[7]
+
+7. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+
+## Joint operations with Cyber Command disclosed (April 2023)
+
+At the RSA Conference in April 2023, CISA and [[us-cyber-command|Cyber Command]] officials publicly disclosed a little-known partnership between the military cyber forces and homeland defenders that had blunted two state-linked attacks.[8] Axios noted that with so many cyber-related agencies in the United States it is often difficult for anyone outside government to understand which office is responsible for what during an attack, and treated the disclosures as some of the first clear examples of how the [[pentagon|Pentagon]]-based command and the [[department-of-homeland-security|DHS]] agency cooperate during an active event.[8] [[eric-goldstein|Eric Goldstein]], CISA's executive assistant director for cybersecurity, appeared alongside Maj. Gen. [[william-hartman|William Hartman]], chief of the Cyber National Mission Force, to detail the two previously unknown incidents.[8] Badlands contributor [[just-human|Just Human]] treated the revelation as confirmation that election systems, including those used to report results, are online and vulnerable to foreign attack.[8]
+
+8. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26
+9. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54

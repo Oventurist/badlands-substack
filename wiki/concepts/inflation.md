@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, federal-reserve, ponzi-scheme, economics]
-sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -45,8 +45,18 @@ Bloomberg's Chris Antsey wrote that the print was "obviously... very bad news fo
 In the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, contributor [[canncon|CannCon]] fact-checked a Fox News appearance by Mike Nellis, stating flatly that inflation had not been above 3% since President [[donald-trump|Donald Trump]] took office.[4] The item ran alongside reporting that analysts saw a 64% chance of a [[september-2025-federal-reserve-rate-cut|September Federal Reserve rate cut]] on the strength of a weakening labor market and easing tariff-driven inflation.[4]
 
 
+## Disinflation and the July 2023 hike
+
+Inflation peaked at 9.1 percent annually in June 2022, a 40-year high that sparked fears of a recession, and had fallen to 3 percent year over year by June 2023 according to Department of Labor consumer price data.[5] Citing that still-elevated level against a 2 percent target, the [[federal-reserve|Federal Reserve]] raised its baseline rate range to 5.25-5.5 percent on July 26, 2023, its 11th increase since March 2022 and the highest level in 22 years.[5] [[justin-deschamps|Justin Deschamps]] argued that inflation and the cost of money have long been used by globalist interests as instruments of financial warfare, citing the bank run that preceded passage of the Federal Reserve Act in 1913 as a template in which scarcity of money forces distressed asset sales that insiders then buy up.[5]
+
+## The 2022-2023 cost-of-living squeeze
+
+Badlands contributor [[patriots-in-progress|Patriots in Progress]] argued in January 2023 that the ramifications of massive fiat currency creation during the COVID-19 pandemic were plainly evident in Americans' grocery, gas and energy bills.[6] Year-over-year compounding inflation had produced large price increases across the board, and the higher cost of living significantly strained the average household budget, with 57% of Americans unable to afford a $1,000 emergency.[6] The [[2022-real-disposable-income-decline|decline in real disposable income during 2022]] was reported as the largest since 1932, leaving Americans as financially stretched as at any point since the Great Depression.[6]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
 3. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
 4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+5. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+6. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

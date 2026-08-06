@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agriculture, manufacturing, tariffs, lobbying, outsourcing]
-sources: [raw/badlands-news-brief-13f.md]
+sources: [raw/badlands-news-brief-13f.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America
 
 The commentary also argued that the company's significance to the American food supply extends well beyond tractors and harvesters into agricultural chemical infrastructure, citing John Deere's March 2022 announcement that double-digit units of its "green-on-green" See & Spray Ultimate targeted spraying system would be available to order.[1] Ashe in America characterized this as automating chemical delivery across the full cycle of crop growth, and attributed weak regulation of such firms to the company's lobbying spending, closing with a call to "make America healthy again" even at the cost of putting certain corporations out of business.[1]
 
+## Reversal of DEI programs (2024)
+
+Deere & Co. was among the companies that reversed or eliminated [[diversity-equity-and-inclusion|diversity, equity and inclusion]] programs following pressure from commentator and filmmaker [[robby-starbuck|Robby Starbuck]]'s anti-woke campaign, alongside Harley-Davidson Inc. and Tractor Supply Co.[2]
+
 ## References
 1. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
+2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

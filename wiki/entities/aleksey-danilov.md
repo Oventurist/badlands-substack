@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, national-security, russia-ukraine-war, world-war-iii]
-sources: [raw/badlands-news-brief-356.md]
+sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ The framing was subsequently echoed by European figures more than a month later,
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
+
+## September 2023 call for faster weapons deliveries
+
+In an opinion piece published in Ukrainska Pravda on Saturday, September 16, 2023, Danilov, as head of Ukraine's Security Council, argued that the only way to end the war was for Kyiv's allies to accelerate weapons deliveries: "Refusing or delaying the transfer of modern weapons to the Ukrainian armed forces is a direct encouragement to the kremlin to continue the war, not the other way around."[2] The piece appeared as [[nato|NATO]] Secretary-General [[jens-stoltenberg|Jens Stoltenberg]] was telling German media that the alliance must prepare for a long war in Ukraine.[2]
+
+2. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, union, automotive, strikes, uaw]
-sources: [raw/a-time-to-strike.md, raw/badlands-brief-2b2.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-627.md]
+sources: [raw/a-time-to-strike.md, raw/badlands-brief-2b2.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -44,8 +44,19 @@ UAW President [[shawn-fain|Shawn Fain]] said the union applauded the administrat
 
 In September 2023 the UAW launched the [[2023-united-auto-workers-strike|2023 United Auto Workers strike]], a coordinated labor action targeting three U.S. assembly plants, one at each of the Detroit Three automakers, and described by Reuters as the most ambitious U.S. industrial labor action in decades.[4] About 12,700 UAW workers remained on strike into the second day while union negotiators resumed talks with [[general-motors|General Motors]], [[ford-motor-company|Ford Motor]] and [[stellantis|Stellantis]] on September 16, with no sign of a breakthrough.[4] The union said its discussions with Ford had been "reasonably productive," a warmer characterization than before the walkout began.[4] Badlands commentary linked the strike to automation-driven reductions in force and compared it to the [[2023-hollywood-labor-strikes|Hollywood strikes]] of the same year.[4]
 
+## Strike expansion and employer layoffs (September 2023)
+
+The United Auto Workers went on strike after its previous contract with Stellantis, Ford and General Motors expired, with roughly 12,700 workers walking off the job.[6] Within the first week, General Motors idled its Fairfax assembly plant in Kansas and laid off nearly all of the approximately 2,000 workers there, while Stellantis announced 68 layoffs in Ohio with up to 300 more possible in Indiana.[6] Observers described the cascading layoffs as evidence that both the union and the automakers were digging in.[6]
+
 ## References
 1. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
 2. Badlands Brief — "God Bless The USA", URL: https://badlands.substack.com/p/badlands-brief-2b2
 3. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 4. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
+
+## Escalation against GM and Stellantis (October 2023)
+
+In the sixth week of its 2023 stand-up strike campaign, the UAW under president [[shawn-fain|Shawn Fain]] struck [[stellantis|Stellantis]]' RAM 1500 truck plant in Michigan on Monday, October 23, 2023, and followed on Tuesday with a surprise 5,000-worker walkout at [[general-motors|General Motors]]' Arlington Assembly plant, the automaker's largest and most profitable SUV facility.[5] The union framed the escalation around GM's better-than-expected quarterly profits, with Fain arguing that "record profits equal record contracts."[5] See [[2023-united-auto-workers-strike]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+6. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

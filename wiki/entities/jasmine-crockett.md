@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, democrats, congress, elections, election-integrity]
-sources: [raw/badlands-brief-174.md, raw/badlands-news-brief-d1d.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ On Tuesday, June 24, 2025, Crockett voiced disapproval of President [[donald-tru
 
 Her comments came amid broader Democratic outrage over the strikes, which led Rep. [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] to suggest Trump could be impeached.[2] Badlands contributor [[chris-paul|Chris Paul]] wrote that "Agent Crockett is crushing it," arguing that she was making it impossible for congressmen and senators to sell the narrative that "we don't know anything."[2]
 
+## Clash at the Garland contempt hearing, May 2024
+
+At the [[house-oversight-committee|House Oversight Committee]]'s May 16, 2024 contempt hearing for Attorney General [[merrick-garland|Merrick Garland]], Crockett asked [[marjorie-taylor-greene|Marjorie Taylor Greene]], "Do you know what we're here for?", prompting Greene to reply, "I think your fake eyelashes are messing up what you're reading."[3] The exchange helped send the hearing spiraling out of control and drew Rep. [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] into the dispute.[3]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+3. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

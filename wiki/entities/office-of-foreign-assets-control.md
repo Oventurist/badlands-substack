@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, sanctions, ofac, cuba, enforcement]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-fa4.md, raw/badlands-brief.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-brief-fa4.md, raw/badlands-brief.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ In an action reported January 2, 2026, OFAC sanctioned four companies — Cornio
 
 One day earlier, on December 30, 2025, OFAC updated its Specially Designated Nationals (SDN) List to add ten individuals and entities based in Venezuela and [[iran|Iran]] over their involvement in the Iran–Venezuela weapons trade and related military-industrial activity; the same update removed six persons — four women and two men from Russia, Switzerland, Cyprus, and Israel — from the list.[3]
 
+## Tren de Aragua designation (June 2025)
+
+In a statement released on Tuesday, June 24, 2025, OFAC sanctioned [[giovanni-vicente-mosquera-serrano|Giovanni Vicente Mosquera Serrano]], the alleged leader of the Venezuelan gang [[tren-de-aragua|Tren de Aragua]].[4] The designation accompanied a [[department-of-justice|Department of Justice]] indictment on drug trafficking and terrorism charges and Mosquera Serrano's addition to the [[fbi|FBI]]'s Ten Most Wanted list with a $3 million reward.[4] Treasury Secretary [[scott-bessent|Scott Bessent]] said the gang under his leadership had been "terrorizing our communities and facilitating the flow of illicit narcotics into our country."[4]
+
 ## References
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
 2. Badlands Brief — "Contempt-able Congress & Quantum Trolling", URL: https://badlands.substack.com/p/badlands-brief-fa4
 3. Badlands Brief — "Iran's MIC, Our Boy Mam, & Monumental Illumination", URL: https://badlands.substack.com/p/badlands-brief
+4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

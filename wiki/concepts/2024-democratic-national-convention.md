@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, democrats, chicago, 2024]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d43.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-d43.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -66,6 +66,10 @@ Ashe in America argued that the contrast between the contrived messaging inside 
 
 Badlands contributor [[burning-bright|Burning Bright]] read the Obamas' appearance as "almost surreal on a few levels," arguing that the couple's long absence from the political spotlight until that moment revealed "an overarching thread of desperation that now hangs over the establishment."[6] In his account the speeches attempted to resuscitate the 2008 "Hope and Change" aesthetic for the final push of the 2024 cycle, an appeal he judged exhausted among centrists and left-leaning voters who had "already took the cheese once."[6] He further argued that the Obamas were advocating full-scale change on the back of an administration they had themselves endorsed, so that "the Old Guard is acknowledging how bad things ARE by promising to return to how bad things WERE."[6]
 
+## Harris acceptance speech (August 22, 2024)
+
+[[kamala-harris|Kamala Harris]] closed the convention on the night of Thursday, August 22, 2024 with an acceptance speech framing the election as a "fight for America's future" and depicting a second [[donald-trump|Donald Trump]] presidency as chaotic and dangerous.[7] She promised to be "a president who leads and listens, who is realistic, practical, and has common sense," pledged to push through the derailed bipartisan immigration bill, and affirmed goals such as ending the housing shortage and supporting [[nato|NATO]], while leaving most implementation questions to after Election Day.[7] [[the-atlantic|The Atlantic]] reported that across four days among Democrats in Chicago its correspondent never heard the words "white paper" or "study," and that speakers dwelt more on the [[heritage-foundation|Heritage Foundation]]'s [[project-2025|Project 2025]] than on Harris's own program.[7] Badlands commentary from [[ashe-in-america|Ashe in America]] dismissed the proceedings as an astroturfed joy campaign and the speech as a word salad.[7]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -73,3 +77,4 @@ Badlands contributor [[burning-bright|Burning Bright]] read the Obamas' appearan
 4. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
 5. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd
 6. Badlands News Brief — "Trump's Rubber and They're Glue ... Plus Angry Russians", URL: https://badlands.substack.com/p/badlands-news-brief-d43
+7. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

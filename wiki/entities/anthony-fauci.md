@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md]
 confidence: low
 ---
 
@@ -182,6 +182,24 @@ Commenting on [[joe-biden|Joe Biden]]'s March 2023 signing of the [[covid-19-ori
 
 Commenting on [[joe-biden|Joe Biden]]'s March 2023 signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin Act]], [[burning-bright|Burning Bright]] argued that any limited hangout on Covid origins would prove ineffective because "the cat's out of the bag" regarding Fauci and the [[national-institutes-of-health|NIH]].[26]
 
+## RFK Jr. assessment (July 2023)
+
+In a July 2023 long-form interview with podcaster [[lex-fridman|Lex Fridman]], Democratic presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] said of Fauci, "I think he was a genuinely bad human being."[27] Reporting on the exchange noted that Fauci had led the [[national-institute-of-allergy-and-infectious-diseases|National Institute of Allergy and Infectious Diseases]] from 1984 to 2022 and had become a national hero to some Americans during the COVID-19 pandemic.[27] [[ryan-delarme|Ryan DeLarme]] of [[badlands-media|Badlands Media]] argued that Kennedy's phrasing was generous, describing Fauci as a criminal who funded illegal [[gain-of-function-research|gain-of-function research]] and was likely partly responsible for untold suffering and death, and drawing an explicit comparison to Josef Mengele on the grounds that Fauci had adversely affected far more lives while still being treated as a folk hero.[27]
+
+## Rand Paul criminal referral (July 2023)
+
+On July 31, 2023, Senator [[rand-paul|Rand Paul]] filed a criminal referral with the [[department-of-justice|Department of Justice]] asserting that Fauci lied under oath about [[gain-of-function-research|gain-of-function research]] in Wuhan being funded by the [[national-institutes-of-health|NIH]], and calling him an "absolute liar."[28] Paul forwarded copies of 2020 email exchanges in which Fauci acknowledged that "scientists in Wuhan University are known to have been working on gain-of-function experiments."[28] In an email to the then-Inspector General of the Department of Health and Human Services, Garrett Grisby, Fauci recounted a conversation with "highly credible scientists" who "were concerned about the fact that upon viewing the sequences of several isolates of the nCov there were mutations in the virus that would be most unusual to have evolved naturally in the bats and that there was a suspicion that this mutation was intentionally inserted."[28] Fauci added that upon considerable discussion some scientists felt more strongly about the possibility while two others thought natural evolution conceivable "even though these mutations have never been seen in a bat virus before," and concluded that "the reasons for each side of the argument are too complicated to bother you with."[28]
+
+Badlands contributor [[burning-bright|Burning Bright]] wrote that he did not expect the referral to have much in the way of teeth, but argued that the psychological trauma of the COVID lockdowns was so fresh and pervasive that it could serve as one of the cognitive keystones of the [[great-awakening|Great Awakening]].[28] Citing his co-host [[just-human|Just Human]]'s distinction between what a community believes and what it knows, he framed the pending Fauci revelations as the difference between Exposure and Disclosure, and predicted Disclosure would come as part of a "Crisis Cascade" marking the beginning of the end for the Deep State's [[system-of-systems|System of Systems]].[28]
+
+28. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5
+29. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## Succession by Hotez in media coverage (2023)
+
+Following Fauci's departure from government, Badlands reported in June 2023 that "with Dr. Fauci having exited stage left," the mainstream media had anointed vaccine scientist [[peter-hotez|Peter Hotez]] as its new vaccine-promoting talking head.[29] Hotez's refusal to debate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] on [[joe-rogan|Joe Rogan]]'s podcast, despite a charity pot exceeding $1.52 million, became the focus of that coverage.[29]
+
+
 ## References
 
 
@@ -209,4 +227,5 @@ Commenting on [[joe-biden|Joe Biden]]'s March 2023 signing of the [[covid-19-ori
 23. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad
 24. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
 25. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
-26. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack
+26. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+27. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state, immigration, protests, ice]
-sources: [raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-brief-733.md, raw/badlands-brief-861.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ Minnesota also became the seedbed of the administration's expanding fraud invest
 
 The [[department-of-justice|Department of Justice]] sued Minnesota, [[minneapolis|Minneapolis]] and [[saint-paul|St. Paul]] on 29 September 2025 over their [[sanctuary-cities|sanctuary city]] policies, with Attorney General [[pam-bondi|Pam Bondi]] accusing state officials of jeopardizing the safety of their own citizens by allowing illegal aliens to circumvent the legal process.[4] The [[doj-lawsuit-against-minnesota-sanctuary-policies|34-page complaint]] sought invalidation of sections of the state constitution, Twin Cities municipal codes, and Hennepin County administrative orders that federal prosecutors said unconstitutionally prevented local cooperation with Immigration and Customs Enforcement.[4]
 
+## HHS child care funding freeze (December 2025)
+
+On December 30, 2025, the [[department-of-health-and-human-services|Department of Health and Human Services]] froze hundreds of millions of dollars in child care funding for Minnesota, the latest in a series of federal moves against Governor [[tim-walz|Tim Walz]]'s administration as it sought to manage fraud allegations.[5] The freeze followed probes by the [[fbi|FBI]] and the [[department-of-homeland-security|Department of Homeland Security]] into allegations that the state's Democratic leaders were complicit in exploiting federal nutrition and child care funds.[5] Federal prosecutors had by then charged more than 90 people with defrauding the federal government in an investigation dating back to 2021, and two leaders of the Minnesota nonprofit [[feeding-our-future|Feeding Our Future]] were convicted of stealing federal nutrition funds in May.[5] A state audit triggered by the allegations concluded that the Walz administration "did not effectively exercise its authority" to prevent the fraud.[5] HHS Deputy Secretary [[jim-oneill|Jim O'Neill]] announced the freeze, citing a decade of taxpayer money allegedly funneled to fraudulent daycares.[5]
+
 ## References
 
 1. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
 2. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
 3. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 4. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+5. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

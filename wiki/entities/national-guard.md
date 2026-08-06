@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-guard, military, domestic-deployment, memphis, washington-dc]
-sources: [raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-795.md]
+sources: [raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -62,6 +62,21 @@ Reporting cited in the brief observed that Oregon had deployed the Guard alongsi
 
 On December 23, 2025 the [[supreme-court-of-the-united-states|Supreme Court]] rebuffed the [[trump-administration|Trump administration]] over its plan to deploy National Guard troops in Illinois over the strenuous objections of local officials, turning away in an unsigned order an emergency request that argued the troops were needed to protect federal agents involved in immigration enforcement in the Chicago area.[9] Though preliminary and limited to Chicago, the decision was expected to bolster similar challenges to Guard deployments in other cities, with the opinion setting significant new limits on the president's ability to order them.[9] Illinois Governor [[jb-pritzker|JB Pritzker]] called it "an important step in curbing the Trump Administration's consistent abuse of power."[9]
 
+
+## Quick reaction forces directive (October 2025)
+
+Internal War Department memos reported on October 30, 2025 showed that the [[pentagon|Pentagon]] had directed every state and territory National Guard to establish [[quick-reaction-force|"quick reaction" forces]] by January, trained and equipped to respond to riots and civil unrest across the United States.[10] Each unit could include up to 500 soldiers prepared for rapid deployment on short notice, with personnel receiving nonlethal training in crowd control, handling detainees, and the use of batons, stun guns, body shields, and other equipment.[10]
+
+The [[national-guard-bureau|National Guard Bureau]], which oversees state units, was tasked with training and equipping the forces for "civil disturbance operations," supplying each unit with 100 sets of crowd control gear including face and body shields, expandable riot batons, and shin guards for crowd control and checkpoint operations.[10] Forces in all 50 states, plus Guam, the Virgin Islands, and Puerto Rico, were to be capable of deploying 25% of personnel within hours, 50% within 12 hours, and 100% within 24 hours, while Washington, D.C., maintained a separate specialized military police battalion for civil unrest response.[10] The initiative followed an August directive from President [[donald-trump|Trump]] to War Secretary [[pete-hegseth|Pete Hegseth]].[10]
+
+## August 2025 executive order expanding the domestic role
+
+On Monday, August 25, 2025, President [[donald-trump|Donald Trump]] directed the Defense Department to take a larger role in domestic law enforcement, including by "quelling civil disturbances," as he threatened to broaden National Guard deployments in cities run by his political opponents.[11] The executive order, released by the [[white-house|White House]] that morning, formalized the creation of specially trained National Guard units in the District of Columbia and all 50 states that could be mobilized quickly for "ensuring the public safety and order."[11]
+
+The [[pentagon|Pentagon]] did not immediately respond to questions about the order, which came two weeks after Trump declared a "crime emergency" in the District of Columbia and deployed Guard troops to the nation's capital over the objections of local officials who said crime in the city was at its lowest level in decades.[11] In a statement, the White House said the president was ordering "common-sense measures to ensure long-term safety of our nation's capital."[11]
+
+Badlands commentary credited the federalization of the Metropolitan Police and the Guard deployment with driving D.C. crime rates to historic lows within weeks, citing over 300 arrests, and framed the capital as a template for planned expansions to Baltimore, New York and Chicago.[11] The same commentary criticized Maryland Governor [[wes-moore|Wes Moore]] for resisting federal help and New York mayoral candidate [[zohran-mamdani|Zohran Mamdani]] for downgrading violent misdemeanors as "non-serious" acts of survival.[11]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 2. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
@@ -72,3 +87,5 @@ On December 23, 2025 the [[supreme-court-of-the-united-states|Supreme Court]] re
 7. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 8. Badlands Brief — "The Day of Days Has Arrived ...", URL: https://badlands.substack.com/p/badlands-news-brief-74c
 9. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+10. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+11. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

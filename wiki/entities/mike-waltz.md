@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, trump-administration, israel, first-amendment]
-sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ee6.md]
 confidence: medium
 ---
 
@@ -49,6 +49,10 @@ Waltz resigned his seat in Florida's 6th Congressional District when he became n
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported in April 2025 that Waltz, as national security adviser, was outraged that special envoy [[steve-witkoff|Steve Witkoff]] had arranged several face-to-face meetings with [[vladimir-putin|Vladimir Putin]], placing him among a cluster of administration figures — alongside [[marco-rubio|Marco Rubio]], [[keith-kellogg|Keith Kellogg]] and [[mike-huckabee|Mike Huckabee]] — described as resentful of Witkoff's expanding diplomatic role.[6]
 
+## TeleMessage exposure (May 2025)
+
+In early May 2025 Waltz, then national security advisor, was photographed using [[telemessage|TeleMessage]] — an Israel-founded modified version of [[signal|Signal]] that archives messages for compliance purposes — during a Cabinet meeting.[7] Days later the app's operator, Smarsh, temporarily suspended all TeleMessage services after a reported hack disclosed by 404 Media; the reporting indicated the hacker had not obtained the messages of Waltz or his interlocutors, but the incident raised questions about the security of an app widely used by senior government officials.[7]
+
 ## References
 1. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -56,3 +60,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] repor
 4. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
 5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 6. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+7. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [governance, regulation, separation-of-powers, deep-state]
-sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ The decision reached beyond the SEC because agencies including the [[environment
 
 Following [[dan-bongino|Dan Bongino]]'s December 2025 announcement that he would leave the [[fbi|FBI]], Badlands contributor [[burning-bright|Burning Bright]] recalled that President [[donald-trump|Trump]]'s stated core theme for 2025 was "dismantling the Administrative State" and returning power to the people, and asked whether Trump was in practice attempting to preserve federal power or rein it in.[2]
 
+## Anticipated Supreme Court retrenchment (2023 term)
+
+Lawyers who regularly argue before the Supreme Court predicted at a September 20, 2023 event hosted by The Heritage Foundation that the Court might take steps in its approaching term to roll back the administrative state.[3] Participants included Paul Clement of Clement and Murphy, who served as U.S. solicitor general under George W. Bush from July 2004 to June 2008, and Lisa Blatt, a partner at Williams and Connolly.[3] The central vehicle discussed was Securities and Exchange Commission v. Jarkesy, in which the Fifth Circuit held that removal protections for administrative law judges unconstitutionally shielded them from presidential oversight, that in-house SEC proceedings violated the Seventh Amendment jury-trial right, and that Congress had unconstitutionally delegated lawmaking power to the commission.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 2. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+3. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

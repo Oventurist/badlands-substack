@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid-19, education, atlanta, mask-mandates, hbcu]
-sources: [raw/badlands-news-brief-881.md]
+sources: [raw/badlands-news-brief-881.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Badlands contributor [[burning-bright|Burning Bright]] treated the announcement 
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+
+## 2023 mask mandate reinstatement
+
+On August 20, 2023 Morris Brown College announced in an Instagram post that it had reinstated its COVID-19 mask mandate "effective immediately" following reports of infections among students in the Atlanta University Center.[2] All students and employees were required to wear face masks for a fourteen-day period, with students also directed to observe physical distancing.[2] The announcement was among the first of several institutional mandates that summer and figured prominently in coverage of the resulting backlash; see [[election-variant|Election Variant]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

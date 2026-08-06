@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, congo, corruption, m23]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-b53.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ On Tuesday, September 30, 2025, a military court in Congo convicted Kabila of tr
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the verdict as bringing a saga full circle that he had tracked since May 2024.[3] In his account, Kabila became president of the DRC in 2001 when his father was assassinated and remained in office until 2018, leaving only after he was effectively forced to withdraw from an election once the Panama Papers leak revealed that he had granted Israeli diamond magnate [[dan-gertler|Dan Gertler]] a monopoly over the DRC's rare earth minerals — estimated to be worth over $24 trillion — after Gertler paid him more than $280 million.[3] Gertler and his associates then engaged in human trafficking to staff his mines with children until he was targeted by Executive Order 13818 in December 2017.[3] The commentary concludes that Kabila not only deprived his countrymen of billions in unrealized wealth but perpetuated a system of child slavery dating to the colonial era of King Leopold's Belgian Congo, and that he is guilty of treason among other things.[3]
 
+## Cohen meetings and coup fears
+
+Kabila, who served as DRC president from 2001 to 2019 — the period of [[dan-gertler|Dan Gertler]]'s mining operations in the country — was unseated by [[felix-tshisekedi|Félix Tshisekedi]]'s election, and Haaretz reported that then-[[mossad]] director [[yossi-cohen|Yossi Cohen]] had been meeting him during Cohen's uncoordinated 2019 visits.[4] Some of Tshisekedi's aides voiced fears that Cohen was helping Kabila acquire arms for a coup attempt.[4]
+
 ## References
 
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Badlands News Brief: Boozing & Brunching While Rome Burns", raw/badlands-news-brief-26f.md
 3. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+4. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

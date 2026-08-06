@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c4f.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d95.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -171,6 +171,37 @@ The California governor was among the Democrats who ridiculed President [[donald
 
 In June 2025 Newsom floated the idea of having California stop paying federal taxes as a way of responding to the [[donald-trump|Trump]] administration's policies.[34] Incoming New Jersey Governor-elect [[mikie-sherrill|Mikie Sherrill]] later said she was considering the same step when she takes office in January, describing the concept as a "great idea" she thinks about "all the time."[34]
 
+## Lawsuit over high-speed rail funding
+
+In July 2025 Newsom announced that California was suing the Trump administration after Transportation Secretary Sean Duffy said his agency would claw back $4 billion in federal funds previously awarded for high-speed rail construction.[35] Duffy justified the decision by citing a compliance review finding that the California High-Speed Rail Authority "simply cannot meet its obligations under the grant agreement," along with the state's failure to identify a sustainable funding source for the San Francisco–Los Angeles connection, whose cost is estimated as high as $135 billion.[35] The grants had originally been awarded by the Federal Railroad Administration under the Obama and Biden administrations.[35]
+
+Newsom's office alleged the cancellation was "political retribution, motivated by President Trump's animus toward California and the high-speed rail project, not by facts on the ground."[35] "This is just a heartless attack on the Central Valley that will put real jobs and livelihoods on the line," Newsom said, adding that the state was suing "to stop Trump from derailing America's only high-speed rail actively under construction."[35] Construction was then underway on a 119-mile Central Valley segment between Fresno and Bakersfield, with new chief executive Ian Choudri developing a plan to lower costs and add private-sector partners.[35]
+
+
+## Clash Over DOJ Election Monitoring (October 2025)
+
+In October 2025 Newsom sharply rebuked the [[department-of-justice|Justice Department]]'s plan to send federal election watchers to California and New Jersey for their November elections, posting that "Donald Trump's puppet DOJ has no business screwing around with next month's election."[36] He added that "sending the feds into California polling places is a deliberate attempt to scare off voters and undermine a fair election. We will not back down. Californians decide our future — no one else."[36]
+
+The post drew strong pushback, including from DOJ Assistant Attorney General for Civil Rights [[harmeet-dhillon|Harmeet Dhillon]], who noted that the department has sent federal election observers for decades under Democratic administrations without such complaints: "Lol calm down bro... Isn't transparency a good thing?"[36] AAG Jesus Osete similarly circulated a Biden-era DOJ press release documenting the same practice, and DOJ Special Attorney [[ed-martin|Ed Martin]] joined in with a Columbo meme.[36] Badlands commentary called the exchange humorous but cautioned that monitoring election administration is unlikely to catch fraud — "like trying to catch credit card fraud by staring at the credit card" — and that memes alone will not restore elections.[36]
+
+## Fire-resistant home regulations (February 2025)
+
+As Los Angeles reeled from the deadly January 2025 wildfires that destroyed thousands of homes, Governor Newsom said on Thursday, February 6, 2025 that he would order the state to advance long-delayed regulations requiring homeowners in high-risk areas to clear combustible materials around their homes.[37] His office did not immediately say whether the executive order would set a timeline for implementing the rule, which lawmakers had passed in 2020 and which was originally to take effect by January 1, 2023.[37] Newsom was expected to sign the order after a trip to Washington to advocate for disaster aid.[37]
+
+The regulation requires homeowners in fire-prone areas to clear materials such as dead plants and wooden furniture within five feet of their homes; as multiple fires swept through Los Angeles neighborhoods in January, the rules still had not been written.[37]
+
+Badlands contributor [[gmoney|GMONEY]] responded by asking whether anyone still believed the fires were not deliberately set.[37] [[chris-paul|Chris Paul]] predicted the next move would be an attempt to blame [[donald-trump|Trump]] for withholding money and to argue that his policies leave people abandoned by government during disasters, while contending that leverage would in fact shift to Trump, who could insist that funds flow only if homeowners keep their property, rebuild, and "climate nonsense" is set aside — turning what he called the Great Reset into a "Good Reset."[37]
+
+## November 2023 hypothetical matchup polling
+
+A [[stack-data-strategy|Stack Data Strategy]] analysis of 15,205 registered voters, released through [[politico|Politico]] in November 2023, found that [[donald-trump|Donald Trump]] would beat Newsom in a hypothetical presidential matchup, alongside a projected Trump win over Vice President [[kamala-harris|Kamala Harris]].[38]
+
+## California's 2024 budget deficit
+
+In May 2024 Newsom proposed painful spending cuts affecting immigrants, kindergarteners and low-income parents seeking child care in order to close California's budget deficit, in a state often lauded for having the world's fifth-largest economy.[39] Officially Newsom put the deficit at $27.6 billion, but the true figure was closer to $45 billion once previous spending reductions agreed with the state Legislature in March were included, and would be billions of dollars higher still counting reductions in public education spending that Newsom excluded, according to analysis by the nonpartisan Legislative Analyst's Office.[39]
+
+The scale of the shortfall carried national significance because Newsom is a top surrogate for President [[joe-biden|Joe Biden]]'s reelection campaign and is widely believed to harbor presidential ambitions of his own.[39] Having spent much of his time in office benefiting from historic budget surpluses that allowed large expansions of state spending, Newsom faced back-to-back deficits — with more on the horizon — testing California's commitment to those increases.[39]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
@@ -206,3 +237,8 @@ In June 2025 Newsom floated the idea of having California stop paying federal ta
 32. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 33. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
 34. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+35. Badlands Brief — "Badlands News Brief: Trump's New Lawsuit & Israel's New War", URL: https://badlands.substack.com/p/badlands-news-brief-d95
+36. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+37. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+38. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+39. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

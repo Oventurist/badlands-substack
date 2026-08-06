@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, litigation, shadow-cabal]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bcd.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bcd.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -63,6 +63,10 @@ In early June 2025 Elias moved to intervene in a [[department-of-justice|Justice
 
 [[ashe-in-america|Ashe in America]] wrote that Elias was "fighting to keep voter rolls inflated and corrupted in North Carolina," describing him as a political animal who served as election attorney to [[hillary-clinton|Hillary Clinton]] and the [[democratic-national-committee|DNC]].[9] She recounted that before leaving [[perkins-coie|Perkins Coie]] in 2021 Elias chaired the firm's Political Law Group, covering election law, campaign finance and political litigation almost exclusively for Democratic clients, and that under his leadership it became one of the most influential such practices in the country — with a client list including the DNC, the Democratic Senatorial Campaign Committee, the Democratic Congressional Campaign Committee and many Democratic members of Congress.[9] She further asserted that Elias led the legal response to challenges of the 2020 presidential election outcome, including pressure on counties to certify results, and noted that he had deleted all of his tweets.[9]
 
+## Democracy Docket event with George Conway (2025)
+
+In November 2025, [[george-conway|George Conway]] used a private virtual event for paid members of [[democracy-docket|Democracy Docket]] — the media outlet founded by Elias — to pitch potential donors on a run for Congress in Manhattan.[10]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Triggering Summits & Allegedly Fair Elections", URL: https://badlands.substack.com/p/badlands-brief-618
@@ -73,3 +77,4 @@ In early June 2025 Elias moved to intervene in a [[department-of-justice|Justice
 7. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 8. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 9. Badlands Brief — "Badlands News Brief: Guns for Gaza & Musk v. Trump", URL: https://badlands.substack.com/p/badlands-news-brief-bcd
+10. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestinian-authority, israel-palestine-conflict, diplomacy]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-b5f.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -89,6 +89,10 @@ In early August 2024, Russian President [[vladimir-putin|Vladimir Putin]] met Ab
 
 Badlands Media argued that the invitation demonstrated Palestine's capacity to enter into relations with other states — one of the four statehood criteria under the [[montevideo-convention|Montevideo Convention]] — and that the emerging strategy was to treat Palestine as a fully recognized nation and integrate it into the BRICS financial architecture.[13] The commentary also recalled Abbas's letter to [[donald-trump|Donald Trump]] following the July 2024 assassination attempt, to which Trump replied with a handwritten Truth Social note reading "Everything will be good," posted the night before [[benjamin-netanyahu|Benjamin Netanyahu]] addressed a joint session of Congress for the fifth time.[13] Trump was quoted as having told Abbas, "I want you to be the Palestinian President who signs the final, and most important, peace deal."[13]
 
+## Letter to Trump after the July 2024 assassination attempt
+
+Abbas wrote to [[donald-trump|Donald Trump]] the day after the July 13, 2024 rally shooting in Pennsylvania, wishing him "strength and safety."[15] Trump posted the letter publicly late on July 23, 2024, adding that he looked forward to meeting [[benjamin-netanyahu|Benjamin Netanyahu]] and working toward peace in the Middle East.[15] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that Trump published a hand-written note on the Abbas letter on the eve of Netanyahu's address to Congress, reading the timing as a pointed signal.[15]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
@@ -103,3 +107,24 @@ Badlands Media argued that the invitation demonstrated Palestine's capacity to e
 11. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
 12. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
 13. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
+
+## Gaza governance dispute and Trump's pledge (February 2025)
+
+In February 2025 unconfirmed Arab media reports said [[hamas|Hamas]] had agreed, under Egyptian pressure, to hand governance of Gaza to the Abbas-led [[palestinian-authority|Palestinian Authority]], a prospect Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] rejected by declaring there would be "neither Hamas nor the Palestinian Authority" in Gaza after the war.[14]
+
+Badlands commentary revisited Abbas's earlier attempt at the same arrangement: after [[fatah|Fatah]] negotiated with Hamas in 2017 to take over political control of Gaza and provide government services, Abbas dispatched his prime minister in March 2018 to finalize the details, only for Hamas to bomb the convoy and nearly kill him.[14] Abbas responded by sanctioning Hamas and cutting off its funding, leaving the group bankrupt and, in the commentary's view, on course to be ended in 2018.[14]
+
+The same commentary contrasted Abbas's "peace-seeking posture" with Hamas's militancy and asserted that [[donald-trump|Donald Trump]] had given Abbas his word that he would support him as the Palestinian president who signed the "final and most important" peace agreement with Israel.[14] It noted that Trump had described Abbas as a "father-like figure" to Israeli journalist Barak Ravid in a December 2021 interview, and quoted Trump's remark that "over the course of my lifetime, I've always heard that perhaps the toughest deal to make is the deal between the Israelis and the Palestinians."[14]
+
+14. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+15. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+
+## Calls for his rejection (June 2024)
+
+A June 2024 [[palestine-chronicle|Palestine Chronicle]] article by [[iqbal-jassat|Iqbal Jassat]] argued that Abbas, whose four-year term expired in 2009, had stubbornly refused demands for fresh elections and had effectively shut the door on reform of the [[palestinian-authority|Palestinian Authority]].[15] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the piece as a demonstration of source analysis rather than reporting, restating his position — presented the previous day with supporting data — that Abbas was part of the [[sovereign-alliance|Sovereign Alliance]] and one of [[donald-trump|Donald Trump]]'s chosen agents of peace in the Middle East, a claim he said Abbas stated explicitly in a December 2021 interview with Israel Channel 12 news.[15] On that basis he found it suspicious that Jassat and [[palestine-chronicle|Palestine Chronicle]] founder [[ramzy-baroud|Ramzy Baroud]] — both of whom he associated with [[muslim-brotherhood|Muslim Brotherhood]] media networks — were calling for the public rejection of Abbas and the embrace of armed resistance against [[israel|Israel]].[15]
+15. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Barred from the 2025 UN General Assembly
+
+In late August 2025 the United States barred Abbas and some 80 other [[palestinian-authority|Palestinian Authority]] officials from attending the [[united-nations-general-assembly|United Nations General Assembly]], Washington's response to plans by a wave of Western nations to recognize a Palestinian state.[17] Palestinian officials subsequently worked through various channels to persuade the Americans to lift the visa restrictions on Abbas and other senior figures.[17]
+17. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

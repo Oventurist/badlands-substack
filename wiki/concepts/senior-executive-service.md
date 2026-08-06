@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [federal-bureaucracy, deep-state, opm, civil-service, constitution]
-sources: [raw/badlands-news-brief-243.md]
+sources: [raw/badlands-news-brief-243.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Press coverage characterized the initiative as the latest step in an ongoing cam
 
 Badlands contributor [[chris-paul|Chris Paul]] responded to the training requirement with a characteristic caveat, remarking that he hoped the new executives would be "learning about the original Constitution and not the thing we're using now" — a reference to the recurring Badlands theme that the operative constitutional order diverges from the founding document.[1]
 
+## Sudan ambassadorship example
+
+Badlands commentary highlighted the Senior Executive Service background of [[john-godfrey|John Godfrey]], the SES official Joe Biden dispatched as ambassador to [[sudan|Sudan]] in 2022, as part of an argument that the [[state-department|State Department]] bureaucracy pursued a destabilization campaign to block a [[russian-naval-base-in-sudan|Russian naval base]] at Port Sudan.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief #243: Tariffs Back On & Trump: Best Friend of Animals", URL: https://badlands.substack.com/p/badlands-news-brief-243
+2. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

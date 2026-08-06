@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, al-qaeda, terrorism, 2025]
-sources: [raw/badlands-news-brief-a50.md]
+sources: [raw/badlands-news-brief-a50.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -20,3 +20,11 @@ Badlands commentary highlighted the timing of subsequent events: on 29 January 2
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Bicameral Puppets & Dark Money Muppets", URL: https://badlands.substack.com/p/badlands-news-brief-a50
+
+## February 2025 airstrike on a HaD official
+
+On the weekend of February 15-16, 2025, US forces conducted what [[centcom|CENTCOM]] described as a precision airstrike in Syria that killed a "senior finance and logistics official" of Hurras al-Din, characterized by the command as an [[al-qaeda|Al-Qaeda]] affiliate.[2] President [[donald-trump|Donald Trump]] announced the strike on Truth Social, writing that "US forces conducted a precision airstrike against a member of al-Qaeda in Syria this weekend" and that "the terrorist leader was working with al-Qaeda across the region."[2] He congratulated CENTCOM Commander General [[michael-kurilla|Michael Kurilla]] and "the US warfighters who dealt Justice to another Jihadi threatening America and our allies and partners."[2]
+
+Badlands commentary argued that there was more to the Syrian picture than met the eye, comparing the sequence — a withdrawing patron power, a collapsing terrestrial army, a fundamentalist takeover, and subsequent precision strikes on jihadist cells — to the 2021 Kabul withdrawal, and reading it as coordinated [[maneuver-defense|maneuver defense]] by a [[sovereign-alliance|Sovereign Alliance]] rather than a conventional counterterrorism campaign.[2]
+
+2. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

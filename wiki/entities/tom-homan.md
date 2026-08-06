@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, trump-administration, border]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-eff.md]
 confidence: medium
 ---
 
@@ -78,6 +78,16 @@ As the expected incoming border czar, Homan said in November 2024 that states at
 
 As the [[laken-riley-act|Laken Riley Act]] advanced through the Senate in January 2025, [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] wrote that she looked forward to incoming border czar Tom Homan getting to work the following week and ridding American communities of vicious foreign criminals.[12]
 
+## Aurora ICE raid leak (February 2025)
+
+Border czar Homan issued a warning in February 2025 after a U.S. Immigration and Customs Enforcement raid in Aurora, Colorado targeting violent Venezuelan gang members was leaked, sharply reducing the number of arrests authorities were able to make.[13] Homan said he would address the leak stemming from Wednesday's operation "immediately," making clear that anyone obstructing the agency's ability to remove dangerous criminals would be held accountable.[13]
+
+"We're not going to tolerate it anymore. This is not a game," Homan told Fox News host Harris Faulkner on Thursday, adding that interference put both officers and the targeted aliens at great risk.[13] He warned that those responsible needed to stop "or we're going to prosecute them through [the] Department of Justice."[13]
+
+## Announcement of the January 2025 raids
+
+Speaking on Fox News on Friday, January 17, 2025, incoming "border czar" Homan said large-scale raids forming part of President-elect [[donald-trump|Donald Trump]]'s crackdown on illegal immigration were set to begin as soon as the following Tuesday.[14] He offered no further details but confirmed that Chicago would be one of the cities targeted.[14] "On Tuesday, ICE is finally going to go out and do their job. We're going to take the handcuffs off ICE," he said, referring to [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]].[14] Around the same time, reporting indicated that some migrants were choosing to leave the United States voluntarily ahead of the inauguration; immigration attorney Rolando Vasquez said clients who had entered under the Biden administration were returning home for fear of deportation, and noted that Mexico was now open to accepting non-Mexican deportees, a change affecting Cuban and Venezuelan migrants most because those countries typically do not accept deportation flights directly from the U.S.[14]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -92,3 +102,5 @@ As the [[laken-riley-act|Laken Riley Act]] advanced through the Senate in Januar
 10. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
 11. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 12. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+13. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+14. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff

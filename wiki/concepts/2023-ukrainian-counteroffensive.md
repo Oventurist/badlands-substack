@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, war, nato, military]
-sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f2b.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -34,6 +34,29 @@ In early June 2023, the [[russian-defense-ministry|Russian Defense Ministry]] an
 
 [[badlands-media|Badlands Media]] commentary by [[ryan-delarme|Ryan DeLarme]] described Ukraine as having become "both a figurative and literal charnel house," and argued that Western reporting on the war and on the anticipated spring offensive had proved dramatically skewed.[2] Against expectations that the offensive would push Russia back to its original border, the commentary cited Ukrainian losses of 3,715 troops, 52 tanks, 207 armored vehicles, 143 motor vehicles, five aircraft, two helicopters, and 48 pieces of field artillery, with the expectation that losses would worsen.[2] DeLarme concluded that [[donald-trump|Donald Trump]] was "the only person speaking sensibly about this war," namely that it needed to end.[2]
 
+## Washington's preparations for failure (April 2023)
+
+Politico reported in April 2023 that the Biden administration was quietly preparing for the possibility that if the spring counteroffensive fell short of expectations, critics at home and allies abroad would argue that America had come up short too.[3] The offensive was expected to attempt to retake Russian-seized territory in the east and south, though for operational reasons no senior officials from Kyiv detailed specifics.[3] Publicly President [[joe-biden|Joe Biden]]'s team offered unwavering support and pledged weapons and economic aid "as long as it takes," while privately officials feared a two-headed political attack from both hawkish and dovish directions should the fighting season yield limited gains.[3]
+
+[[burning-bright|Burning Bright]] read the reporting through the lens of [[narrative-seeding|narrative seeding]] and the [[war-of-stories|War of Stories]], arguing that the Media Industrial Complex had been massaging public expectations away from imminent Ukrainian victory toward a flagging effort in a fight lost the moment [[vladimir-putin|Putin]]'s forces entered the Donbas.[3] He held that the coming about-face would not merely embarrass the Biden administration, which had backed Kyiv with tens of billions in U.S. taxpayer funding, but would represent an epic and perhaps fatal defeat for Western globalism and hegemony.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 2. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+3. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26
+4. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b
+5. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+
+## Failure to exploit the Wagner mutiny (June 2023)
+
+In a report published on 25 June 2023, the [[new-york-times|New York Times]] observed that Ukrainian forces had failed to capitalise on the weekend turmoil in Russia caused by the [[wagner-group|Wagner Group]] uprising.[4] Citing anonymous "American officials and independent analysts," the paper reported that "there did not seem to be any immediate defensive gaps to exploit" in Russian lines, that a preliminary analysis found no Russian units pushed back or abandoning positions in the east and south despite the rebellion having distracted Russian command on the Friday and Saturday, and that "front lines in Ukraine are likely to remain unchanged" for the near future.[4]
+
+Days later the Biden administration announced a further $500 million military aid package via the [[presidential-drawdown-authority|Presidential Drawdown Authority]], drawn directly from [[pentagon|Pentagon]] stockpiles, after tallies indicated that roughly 17 percent of the Bradley fighting vehicles already provided to Ukraine had been damaged or destroyed.[4] Western commentary meanwhile argued that the mutiny showed Washington must sustain support against a "weakened" Russia, and Lithuanian President [[gitanas-nauseda|Gitanas Nauseda]] warned after meeting [[nato|NATO]] allies that Wagner deploying "its serial killers in Belarus" would put all neighbouring countries in greater danger of instability.[4]
+
+[[burning-bright|Burning Bright]] wrote that earlier reports of significant Ukrainian territorial gains in the Donbas following the "Wagner Coup" turned out to be false, and that the Times — which he called "the legacy mouthpiece of the Globalist MSM" — had admitted the front lines were unchanged.[4] He attributed the episode to military deception and Russian maneuver defense, and said the net effects on the American side of the war were principally narrative.[4]
+
+## Public despair in Ukraine (August 2023)
+
+By August 2023 the [[washington-post|Washington Post]] reported that many Ukrainian citizens were adopting a darker mood about the war and that national unity was beginning to fray as the counteroffensive failed to retake significant territory despite surging casualties.[5] "Ukrainians, much in need of good news, are simply not getting any," the paper reported, quoting resident Alla Blyzniuk, who contrasted an earlier period when "people were united" with a prevailing sense of "disappointment" and said most soldiers sent to the front died within two to three days.[5]
+
+[[politico|Politico]] had reported that Kiev committed 150,000 troops to fight along three fronts, yet the [[pentagon|Pentagon]] admitted that Ukrainian forces failed to make significant gains.[5] Although Washington publicly claimed it had provided everything Ukraine needed, Western officials told the Wall Street Journal that Ukrainian forces lacked critical equipment: "When Ukraine launched its big counteroffensive this spring, Western military officials knew Kyiv didn't have all the training or weapons—from shells to warplanes—that it needed to dislodge Russian forces," but hoped "Ukrainian courage and resourcefulness would carry the day. They Haven't."[5] Ukrainian soldier Anna Oliinyk told the Post that with "all these guys coming back from the front line without limbs," she wanted the price paid to be reasonable, "otherwise it's just useless, what they went through."[5]

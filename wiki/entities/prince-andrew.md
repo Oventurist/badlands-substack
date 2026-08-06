@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, british-royal-family, narrative, badlands]
-sources: [raw/badlands-blitz-episode-7.md, raw/badlands-brief-740.md, raw/badlands-news-blast.md]
+sources: [raw/badlands-blitz-episode-7.md, raw/badlands-brief-740.md, raw/badlands-news-blast.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-ee6.md]
 confidence: medium
 ---
 
@@ -36,7 +36,19 @@ The family of [[virginia-roberts-giuffre|Virginia Roberts Giuffre]] responded: "
 
 Prince Andrew was understood to be among the individuals named in the final batch of [[epstein-court-document-unsealing|Epstein-related court documents]] cleared for unsealing in early 2023, which covered 167 of [[jeffrey-epstein|Jeffrey Epstein]]'s associates, victims, and employees.[3] He is accused by Epstein victim [[virginia-giuffre|Virginia Roberts]] of having had sex with her when she was 17.[3] Harvard law professor [[alan-dershowitz|Alan Dershowitz]] was reported to be named in the same papers.[3]
 
+## Loss of title and Royal Lodge (October 2025)
+
+On October 30, 2025, [[buckingham-palace|Buckingham Palace]] announced that Andrew would leave his residence at Royal Lodge and would no longer hold his royal title, becoming known as [[andrew-mountbatten-windsor|Andrew Mountbatten-Windsor]].[4] The move followed renewed scrutiny of his ties to convicted sex offender [[jeffrey-epstein|Jeffrey Epstein]]; earlier that month he had relinquished the Duke of York title, saying that "continued accusations about me distract from the work of His Majesty and the Royal Family."[4]
+
+The Palace statement said the King had "initiated a formal process to remove the Style, Titles and Honours of Prince Andrew," that formal notice had been served to surrender the Royal Lodge lease which had provided him legal protection to remain in residence, and that the censures were necessary "notwithstanding the fact that he continues to deny the allegations against him."[4] Badlands contributor [[ashe-in-america|Ashe in America]] observed that Andrew would now be royal by blood but not by title, argued the action stemmed less from the Epstein friendship as such than from allegations about his conduct with young girls, and noted that the crown's selection of the Mountbatten name explicitly tied him to the Mountbatten descendants of Queen Victoria, who have been royal in blood but not in title since 1917.[4]
+
+## O'Keefe Media Group video (2025)
+
+In May 2025 [[okeefe-media-group|O'Keefe Media Group]] released an undercover video in which British royal family advisor [[john-bryan|John Bryan]] claimed that Prince Andrew "was f*cking underage girls" and had close ties to [[jeffrey-epstein|Jeffrey Epstein]].[5] [[james-okeefe|James O'Keefe]] said that two weeks after Andrew's BBC interview — in which the prince denied knowing Epstein victim [[virginia-roberts-giuffre|Virginia Giuffre]] — Bryan was brought to Andrew's private residence for crisis management, finding the prince "distressed" and "struggling to focus."[5] Bryan reportedly drafted a five-page public relations strategy advising Andrew to show public empathy for Epstein's victims, though in a 2022 interview Bryan said he believed the prince was innocent.[5] Badlands writer Ashe in America dismissed the release as a hyped "rug," arguing the substantive Epstein news still awaited was indictments of the abusers.[5]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 7: Donald Trump, Deep State Burn Cards & the Return of Honor Culture", URL: https://badlands.substack.com/p/badlands-blitz-episode-7
 2. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 3. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
+4. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+5. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6

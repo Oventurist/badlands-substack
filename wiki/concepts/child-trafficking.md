@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trafficking, children, border, exploitation, info-war]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a61.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -50,8 +50,17 @@ Badlands contributor [[brad-getz|Brad Getz]] argued that describing the group as
 
 Getz further tied the problem to border infrastructure, arguing that a border wall creates choke points at which traffic can be inspected more efficiently for narcotics, weapons and trafficking victims, and contrasting the $5 billion [[donald-trump|Donald Trump]] sought to complete the wall with the roughly $110 billion directed to a border six thousand miles away — 22 times as much — as evidence that the concern for children at the southern border was a matter of optics.[4]
 
+## Trump death-penalty pledge (2024)
+
+In August 2024 [[donald-trump|Donald Trump]]'s campaign rolled out a crime platform that included pursuing the death penalty for child rapists, which Badlands read as a pledge to execute pedophiles and child traffickers on his return to power.[6] The brief paired the pledge with [[vladimir-putin|Vladimir Putin]]'s February 2024 speech accusing Western elites of attempting to normalize pedophilia, arguing that trafficking networks were under simultaneous pressure from Moscow and from a returning Trump administration.[6]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 3. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+5. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
+## Public awakening and the 2023 Sound of Freedom debate
+The July 2023 release of [[sound-of-freedom|Sound of Freedom]], a film based on the work of [[tim-ballard|Tim Ballard]] and [[operation-underground-railroad|Operation Underground Railroad]], made child trafficking a subject of unusually broad public discussion and triggered a sustained mainstream backlash.[5] [[ashe-in-america|Ashe in America]] wrote that protecting children is not a partisan issue, and that an American establishment which enables the trafficking and exploitation of children did not want the public to see a film about what she called its most enterprising industry.[5] Despite those efforts, she argued, people were awakening to the realities of trafficking and the film was hastening the process.[5]
+[[justin-deschamps|Justin Deschamps]] contended that the child abuse industry undeniably exists, citing what he described as the sex-grooming nature of the education system, the complicity of the medical and psychology industries in the mutilation of children, and Big Tech's supply of hand-held technologies that bypass parental gatekeepers to deliver pornography, propaganda, grooming and fake news to children.[5] He argued that the Epstein scandal, the border crisis and the trans agenda had together made industrial-scale institutional child abuse credible to average observers in a way it had not been in 2018, and that the [[2023-bud-light-boycott|Bud Light]] backlash showed a line had been crossed.[5] Efforts to debunk the subject — including [[the-atlantic|The Atlantic]]'s 2022 feature "The Great (Fake) Child-Sex-Trafficking Epidemic" and [[rolling-stone|Rolling Stone]]'s [[miles-klee|Miles Klee]] dismissing Sound of Freedom as a "[[qanon|QAnon]]-tinged thriller" — were read by Badlands writers as attempts to destroy the very notion of a global child-sex trafficking network.[5]
+6. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

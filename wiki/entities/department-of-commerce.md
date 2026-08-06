@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton-administration, trade-missions, export-controls, china]
-sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-9c6.md]
+sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -36,3 +36,12 @@ In November 2024 President-elect [[donald-trump|Donald Trump]] named [[howard-lu
 2. Badlands Brief — "Backpedaling Despots, Mid-East Madness, & Not So Rare Earths", URL: https://badlands.substack.com/p/badlands-brief-db7
 3. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
 4. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
+## AMD China AI chip license requirement (March 2024)
+In early March 2024, the department became the obstacle to [[amd|Advanced Micro Devices]]'s attempt to sell an artificial intelligence processor tailored for the Chinese market.[5] AMD had hoped for a green light to sell the chip, which was deliberately designed with lower performance than its non-China products in order to satisfy U.S. export restrictions, but officials told the company the part was still too powerful and that a license from the department's [[bureau-of-industry-and-security|Bureau of Industry and Security]] would be required.[5] The decision fit a broader Washington campaign, begun with export controls in 2022 and strengthened in October 2023, to limit Chinese access to advanced semiconductors and the tools used to make them out of concern that Beijing would gain a military edge.[5]
+5. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+
+## Lutnick confirmation (February 2025)
+
+On February 18, 2025 the [[united-states-senate|Senate]] confirmed [[howard-lutnick|Howard Lutnick]] as Secretary of Commerce by a vote of 51 to 45, installing one of the administration's top economic officials to help oversee an agenda of tariffs and protectionism.[6] Reporting described the secretary's portfolio as broad, encompassing the defense of US business interests worldwide and oversight of restrictions on technology exports to countries such as China.[6] Lutnick, previously chief executive of [[cantor-fitzgerald|Cantor Fitzgerald]] and leader of the Trump transition team, had defended tariffs as a tool to protect US industries, promoted lower corporate taxes, and called for expanded energy production.[6]
+
+6. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

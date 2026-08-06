@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, legislation, defense-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f23.md]
 confidence: medium
 ---
 
@@ -61,6 +61,22 @@ On February 20, 2025 the Senate took up the nomination of Kash Patel as FBI dire
 
 Senate negotiators left Washington for the December 2025 holidays without resolving the expiring enhanced [[affordable-care-act|Affordable Care Act]] subsidies, setting up what coverage described as a high-wire act on health care in the new year as lawmakers shifted into campaign mode.[9] The chamber had been consumed for months by the fight over the subsidies' future, which was at the center of a record-breaking government shutdown and the subject of multiple votes and extensive negotiations afterward.[9] With the December 31 deadline set to pass, a bipartisan group of lawmakers sought to keep alive hopes of a deal in January, facing headwinds that included the fraught nature of health care rhetoric and the looming midterms.[9]
 
+## Dueling shutdown pay bills (October 2025)
+
+On Thursday, October 23, 2025, the Senate blocked two competing measures to pay workers during the [[october-2025-government-shutdown|October 2025 government shutdown]].[10] Sen. [[ron-johnson|Ron Johnson]] objected to Sen. [[chris-van-hollen|Chris Van Hollen]]'s request for immediate passage of the [[true-shutdown-fairness-act|True Shutdown Fairness Act]], which would have paid all federal workers, military members and contractors and barred reductions in force; it was one of two Democratic pay bills Johnson rejected that day.[10] Democrats in turn blocked Johnson's [[shutdown-fairness-act-of-2025|Shutdown Fairness Act of 2025]] in a mostly party-line 54-45 vote, with [[jon-ossoff|Jon Ossoff]], [[raphael-warnock|Raphael Warnock]] and [[john-fetterman|John Fetterman]] crossing party lines in favor.[10]
+
+## Nominations backlog and the 2025 batch-confirmation rule change
+
+In September 2025 the Republican-controlled Senate prepared to confirm 108 [[donald-trump|Trump]] administration nominees in a single batch by early October, clearing positions ranging from ambassadors to U.S. attorneys to deputy and assistant department secretaries that had been held up for months by what The National Pulse described as Democrat obstructionism.[11] Majority Leader [[john-thune|John Thune]] filed the batch resolution after invoking a nuclear-option rule change permitting group confirmation of executive-branch nominees, a response to Democrats forcing individual roll-call votes on every nominee.[11]
+
+The chamber was simultaneously deadlocked over appropriations: it rejected both Republican and Democratic proposals to keep the government temporarily funded, prompting Democratic Leader [[chuck-schumer|Chuck Schumer]] to urge Trump to negotiate a bipartisan bill ahead of the 30 September deadline.[11]
+
+## Trump nomination confirmations (February 2025)
+
+On Thursday, February 20, 2025, the Senate confirmed [[kash-patel|Kash Patel]] as [[fbi|FBI]] director by a 51-49 vote — a remarkably tight margin for a post whose previous three occupants each drew at least 92 votes — and the [[senate-help-committee|HELP Committee]] advanced [[linda-mcmahon|Linda McMahon]]'s Education nomination on a 12-11 party-line vote.[13] The GOP-majority chamber had to that point approved every [[donald-trump|Trump]] nominee to come before it, though three Republican defections on Defense Secretary [[pete-hegseth|Pete Hegseth]] required Vice President [[jd-vance|JD Vance]] to break the tie as Senate president.[13] Patel was the nineteenth Trump nominee confirmed, following [[marco-rubio|Marco Rubio]], [[john-ratcliffe|John Ratcliffe]], Hegseth, [[kristi-noem|Kristi Noem]], [[scott-bessent|Scott Bessent]], [[sean-duffy|Sean Duffy]], [[lee-zeldin|Lee Zeldin]], [[doug-burgum|Doug Burgum]], [[chris-wright|Chris Wright]], Doug Collins, [[pam-bondi|Pam Bondi]], [[scott-turner|Eric Scott Turner]], Russell Vought, [[tulsi-gabbard|Tulsi Gabbard]], [[robert-f-kennedy-jr|Robert F. Kennedy, Jr.]], [[brooke-rollins|Brooke Rollins]], [[howard-lutnick|Howard Lutnick]] and [[kelly-loeffler|Kelly Loeffler]].[13] Still pending in committee at that point were [[lori-chavez-deremer|Lori Chavez-DeRemer]] for Labor, [[troy-edgar|Troy Edgar]] as Deputy DHS Secretary, James Bishop as Deputy OMB Director, Steven Bradbury as Deputy Transportation Secretary, [[todd-blanche|Todd Blanche]] as Deputy Attorney General, [[michael-kratsios|Michael Kratsios]] for OSTP, Mark Meador as Federal Trade Commissioner, and [[stephen-feinberg|Stephen Feinberg]] as Deputy Defense Secretary.[13]
+
+The same day, [[mitch-mcconnell|Mitch McConnell]] announced from the Senate floor the impending close of his four-decade career in the chamber.[13]
+
 ## References
 1. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 2. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
@@ -71,3 +87,14 @@ Senate negotiators left Washington for the December 2025 holidays without resolv
 7. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 8. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 9. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+10. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+11. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+
+## Confirmation votes of February 18, 2025
+
+The Senate took three notable votes on Tuesday, February 18, 2025.[12] It confirmed [[howard-lutnick|Howard Lutnick]] as Secretary of Commerce by 51 to 45.[12] It then voted 48-45 to move to Executive Session to consider the nomination of [[kash-patel|Kash Patel]] as [[fbi|FBI]] Director for a ten-year term, allowing Majority Leader [[john-thune|John Thune]] to file cloture; the vote to invoke cloture was expected Thursday, after which a 30-hour clock would run and Patel could be confirmed as early as Friday, February 21.[12] Third, the chamber agreed to take up a budget resolution carrying 50 hours of debate, following the delegation's weekend trip to Munich.[12]
+
+Judiciary Committee Democrats' request for a second hearing on Patel was denied by Chairman [[chuck-grassley|Chuck Grassley]].[12] The following day the Senate was expected to confirm [[kelly-loeffler|Kelly Loeffler]] to lead the [[small-business-administration|Small Business Administration]] before adjourning for party lunches, prompting Badlands commentary that senators should "stop obstructing and do their jobs."[12]
+
+12. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+13. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

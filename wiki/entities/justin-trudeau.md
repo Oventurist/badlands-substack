@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, liberal-party, prime-minister]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bed.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-2ca.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f23.md]
 confidence: low
 ---
 
@@ -125,6 +125,26 @@ In an admission reported in early April 2024, Trudeau stated that Canada had see
 
 Badlands Media writer [[simon-esler|Simon Esler]] argued that at any other time Trudeau would have answered such criticism by deploying critical race theory framing to brand opponents racist for questioning mass immigration at all.[20] Esler held the "caving to pressure" reading lightly, describing Trudeau as the epitome of a puppet with almost no will of his own, and characterizing Canada as a controlled experiment for the [[world-economic-forum|WEF]] and partners to test transitional phases toward a [[new-world-order|New World Order]].[20] He noted that the Conservative opposition had itself supported mass immigration and failed to exploit the issue, evidence of what he called Canada's very real [[uniparty|Uniparty]] problem, and contended that Trudeau is deeply afraid of [[donald-trump|Trump]]'s influence on Canadian politics — such that if Trudeau's acknowledgment of immigration damage found a home in the [[overton-window|Overton window]], it would harmonize with a Trump win and a major pushback against the same operations in the United States.[20]
 
+## Comparison to the Bill S-210 dispute (2024)
+
+Badlands contributor [[simon-esler|Simon Esler]] compared the fight over [[bill-s-210|Bill S-210]], the Canadian age-verification bill opposed by [[pornhub|Pornhub]], to what he called the Machiavellian means by which the Trudeau government induced Facebook and Google to block Canadians from consuming news across social media and search.[23] In both cases, he argued, the platform response was to withdraw service rather than comply.[23] Esler further likened the bill's vagueness to Canadian vaccine policy, under which the government did not mandate vaccine passports on businesses but required them to have a vaccine policy, with propaganda and social pressure driving most businesses toward what he called medical tyranny.[23]
+
+## Support for Ukrainian long-range strikes (September 2024)
+
+On Friday, September 13, 2024, Trudeau said Canada fully supports Ukraine using long-range weaponry to "prevent and interdict Russia's continued ability to degrade Ukrainian civilian infrastructure."[24] He told reporters that [[vladimir-putin|Vladimir Putin]] was trying to deeply destabilize the international rules-based order, adding: "That's why Canada and others are unequivocal that Ukraine must win this war against Russia."[24] The statement came alongside parallel discussions between [[keir-starmer|Keir Starmer]] and [[joe-biden|Joe Biden]] over authorizing deep strikes into Russian territory.[24]
+
+## Montreal riots and the Pat King conviction (November 2024)
+
+Trudeau was attending a Taylor Swift concert in Toronto on the night of November 22, 2024 while pro-Palestinian, anti-NATO protesters rioted in downtown Montreal during the 70th Annual Session of the [[nato|NATO]] Parliamentary Assembly, smashing shop windows and setting vehicles ablaze.[25] ZeroHedge highlighted the juxtaposition; Badlands Media called the framing a cheap shot and said the substantive issue was the "obviously asymmetrical treatment of protestors" by his government.[25]
+
+That contrast was sharpened by the conviction on the same weekend of [[pat-king|Pat King]], an organizer of the 2022 [[freedom-convoy|Freedom Convoy]], on five charges over the peaceful trucker blockade of downtown Ottawa against Canadian COVID-19 policies.[25] Badlands argued that convoy participants caused no damage and did no harm beyond frustrating Trudeau's government, while the Montreal protesters chose violence, and that the divergent official responses tracked the content of each protest rather than its conduct — something the writer contrasted with the United States, where content-based restrictions on speech are presumptively invalid under the First Amendment.[25]
+
+The commentary noted Trudeau faced a challenging re-election in October of the following year and urged Canadians to replace him with [[pierre-poilievre|Pierre Poilievre]], described as "Canada's last chance to reject globalism and make Canada great again."[25]
+
+## 4 Nations Face-Off remarks (February 2025)
+
+After Canada beat Team USA 3-2 in overtime in the [[4-nations-face-off|4 Nations Face-Off]] championship game in Boston on Thursday, February 20, 2025, Trudeau took a swipe at President [[donald-trump|Donald Trump]]'s call for Canada's annexation as the 51st U.S. state, writing on X moments after the win: "You can't take our country — and you can't take our game."[27] Trump had said on Truth Social earlier that day that he was calling Team USA to spur them toward victory against Canada, which "with FAR LOWER TAXES AND MUCH STRONGER SECURITY, will someday, maybe soon, become our cherished, and very important, Fifty First State."[27] Political tension had already spilled into the arena: U.S. fans booed Canada's national anthem ahead of the game, after Canadian fans booed the "Star-Spangled Banner" before Team USA's win in Montreal the previous week.[27] [[badlands-media|Badlands]] contributor [[burning-bright|Burning Bright]] called Trump's Canada deployments among the most impressive markers of the abstract and actual power he had cultivated, while [[ashe-in-america|Ashe in America]] said that if the game's outcome led Canadians to stand up for their sovereignty she was "here for it," despite the loss.[27]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -145,3 +165,30 @@ Badlands Media writer [[simon-esler|Simon Esler]] argued that at any other time 
 18. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 19. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 20. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
+
+## December 2024: Ottawa in crisis
+
+In late December 2024, Politico reported that Prime Minister Trudeau's week began with a crisis his opponents likened to a "gong show at the bottom of a dumpster fire, wrapped up in a cluster."[21] Canada's three-term prime minister reached Friday and announced a cabinet shakeup triggered in part by the bombshell exit of [[chrystia-freeland|Chrystia Freeland]], who quit that Monday as finance minister and deputy prime minister.[21]
+
+Trudeau spent the week holed up in his office apart from appearances at a couple of high-profile holiday parties, where he sounded defiant and upbeat.[21] "It is the absolute privilege of my life to serve as your prime minister," he told a gathering of top donors on Monday — just thirty minutes after an emergency caucus meeting at which MPs urged him to step down.[21] His office cancelled year-end interviews and his press team ignored most media questions while he weighed his options, and he told journalists after a Friday cabinet meeting only that "we have a lot of work to do and that's what we're focused on."[21]
+
+Parliament was not due to return until January 27, days after [[donald-trump|Donald Trump]]'s inauguration, leaving Trudeau nominal time to consider options while realistically running out of it.[21] He could stay to fight the next election, which could come sooner rather than later in 2025, but once MPs returned, opposition leader [[jagmeet-singh|Jagmeet Singh]] had vowed to bring down the minority government with a no-confidence vote.[21] Badlands writer [[burning-bright|Burning Bright]] described "Justin Castro" as in the midst of a Trump-provoked death spiral, with what he called Globalist America hawks circling the waning administration while Canadian media searched for their next "faux dictator."[21]
+
+21. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+
+## Heckling and government implosion (December 2024)
+
+On Monday, December 16, 2024, Trudeau was heckled after a Liberal Party fundraiser at the Canadian Museum of History as his administration teetered on the verge of collapse.[22] Conservative commentator 'Right Blend' shouted "You failed Canada" while Trudeau grinned, adding: "You've ruined our country! You're done! Walk away, you don't have an ounce of your father's integrity."[22] The episode came one day after Finance Minister [[chrystia-freeland|Chrystia Freeland]] issued a scorched-earth resignation letter over Trudeau's plan for short-term deficit-widening spending in the face of [[donald-trump|Donald Trump]]'s tariff threats.[22]
+
+Badlands writer Burning Bright placed rumours of Trudeau's imminent resignation within a broader pattern of Western governmental crisis, citing Emmanuel Macron's loss of control of the French government, German Chancellor Olaf Scholz's defeat in a confidence vote, and South Korea's ten-minute martial law declaration followed by an impeachment vote and insurrection probe.[22] He argued the trend line showed a panic pattern in the globalist superstate driven by its inability to halt the rise of Trumpism.[22]
+
+22. Badlands News Brief — "Russia Responds as the Fake News Gets Even Faker", URL: https://badlands.substack.com/p/badlands-news-brief-d76
+23. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+24. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14
+25. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
+26. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+
+## Parliamentary treason allegations (June 2024)
+
+In June 2024 Trudeau was on the defensive after a bombshell, heavily redacted report by Canada's all-party National Security and Intelligence Committee of Parliamentarians alleged that unnamed elected officials had knowingly and covertly worked with foreign governments.[26] It was the first report to suggest that lawmakers in Canada's parliament may have helped foreign actors meddle in political campaigns and leadership races, adding intrigue to a separate ongoing inquiry into foreign interference in the 2019 and 2021 elections.[26] Conservative Leader [[pierre-poilievre|Pierre Poilievre]] called on the government to name names, saying that "the national security committee indicates there are members of this House that have knowingly worked for foreign hostile governments" and that "Canadians have a right to know."[26] The findings put pressure on Canada's national police force to investigate potential criminal charges and reopened debate over the federal government's deterrence mechanisms against foreign interference.[26]
+27. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

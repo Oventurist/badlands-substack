@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, international-institutions, debt, middle-east]
-sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md]
+sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-f8a.md]
 confidence: low
 ---
 
@@ -34,8 +34,17 @@ The authors offered two broad explanations. The first stressed domestic drivers:
 
 [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] accepted that inflation may have happened "everywhere, all at once," but observed that the recovery was plainly not consistent across the globe, citing a breakfast of two coffees and two handmade pastries in France for €6.14 (about $6.82) against far higher Colorado prices.[3] She noted the IMF article's point that French monetary policy uses government subsidies to keep sticker shock away from consumers, said she opposes such subsidies on principle while conceding she loves affordable breakfast, and paired the observation with the broader picture of US consumer spending appearing solid while lower-income shoppers at chains such as Dollar Tree continued to struggle.[3]
 
+## Argentina's eighth program review, May 2024
+
+On 13 May 2024 the IMF announced that its staff and Argentine authorities had reached agreement on the eighth review of the country's $44 billion extended fund facility, citing improved macroeconomic stability under President [[javier-milei|Javier Milei]].[4] The decision, subject to final sign-off by the fund's board of directors, would unlock a disbursement of close to $800 million and followed better-than-expected first-quarter performance.[4] The IMF stated that "Milei's plan has resulted in faster-than-anticipated progress in restoring macroeconomic stability and bringing the (IMF) program firmly back on track."[4]
+
+Milei had taken office in December 2023 vowing to tackle triple-digit inflation, contracting activity and negative reserves, and rolled out sweeping fiscal reform with sharply tightened government spending; Argentina subsequently rebuilt foreign currency reserves, posted fiscal surpluses and stabilized the peso, though the economy was stalling with falling consumption and manufacturing and rising poverty.[4]
+
+[[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] framed the announcement as an IMF flex — a subtle attempt to reassert dominance while its decades-long narrative crumbles — and argued that economic populism remains an existential threat to the institution.[4]
+
 ## References
 
 1. Badlands Brief — "Border Battles & Diplomatic Duets", URL: https://badlands.substack.com/p/badlands-brief-bf7
 2. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
 3. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
+4. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

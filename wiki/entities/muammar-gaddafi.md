@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [libya, 2011, regime-change, terrorism]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-cba.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -34,7 +34,18 @@ Under the Gaddafi regime the Libyan armed forces had acquired sophisticated Russ
 
 In a 2009 speech to the United Nations General Assembly, Gaddafi warned that nefarious actors were seeking to engineer deadly viruses to be unleashed on humanity, after which the same interests would sell mankind the necessary vaccines.[3] In the same address he called for the reopening of an investigation into the assassination of [[john-f-kennedy|John F. Kennedy]], stating his belief that Israel was responsible.[3] Badlands commentary cited the speech in 2024 while noting his killing two years later in 2011, remarking parenthetically, "No wonder they killed him."[3]
 
+## Badlands account of his overthrow
+
+Badlands' July 2024 commentary described Gaddafi as a leader notorious for fighting [[central-intelligence-agency|CIA]]-backed terrorist groups, and attributed his overthrow to a CIA operation it linked to [[benjamin-netanyahu|Benjamin Netanyahu]]'s May 24, 2011 address to Congress.[4] The account held that the operation included a raid on Gaddafi's private armory — said to be the largest in the world, containing tanks and chemical weapons — with those weapons then transferred to fighters in Syria opposing [[bashar-al-assad|Bashar al-Assad]] who would go on to form [[isis|ISIS]].[4]
+
+
+## Badlands account of the consequences of his death
+
+Badlands Media identifies [[nato|NATO]]'s 2011 operation to kill Gaddafi as the pivotal event behind subsequent mass migration into Europe, arguing that he was "the one guy in Africa holding back the would-be invaders."[5] The outlet further contends that his private armoury was posthumously used to create and arm [[isis|ISIS]] in Syria, initiating a war against Assad that has displaced close to fourteen million people, and treats the 2024 unrest in Britain as a downstream consequence.[5] See [[southport-riots|the Southport riots]].[5]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 3. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
+4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+5. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

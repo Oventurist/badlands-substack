@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, colorado, clerk, commutation]
-sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-cad.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -143,6 +143,14 @@ On December 8, 2025 the Justice Department announced an investigation into 33 fa
 
 Badlands contributor [[ashe-in-america|Ashe in America]] said sources close to the matter reported staff at the La Vista Correctional Facility, where Peters is held, hurriedly cleaning the place up, and described degraded air handlers at the CDOC mental health hospital in the same Pueblo government complex.[20] She also announced she was set up to interview Peters and invited reader questions, cautioning that everyone monitoring the case was likely listening.[20]
 
+## Colorado lawfare context (December 2023)
+
+Writing shortly after the [[colorado-supreme-court|Colorado Supreme Court]] disqualified [[donald-trump|Donald Trump]] from the state ballot, Badlands writer [[ashe-in-america|Ashe in America]] cited Peters' imminent return to court as evidence that the insurrection finding was intended as a predicate for further prosecutions, imagining the argument "Trump's insurrection led to all these other crimes in CO!"[21] In her assessment the Colorado litigation had never really been about ballot access but about stage setting for continued criminal action arising out of January 6.[21]
+
+## Space Command relocation framed as "harsh measures" (2025)
+
+Badlands host [[ashe-in-america|Ashe in America]] linked President [[donald-trump|Donald Trump]]'s September 2025 decision to move [[united-states-space-command|U.S. Space Command]] out of [[colorado|Colorado]] to Peters' continued imprisonment, noting that Trump cannot pardon her because her conviction is a state-level crime, leaving funding decisions and investigations as the constitutional "harsh measures" available to him.[22] She characterized stripping Colorado of a command that supports roughly 1,700 direct jobs and about $1 billion a year in Colorado Springs economic activity as exactly such a measure.[22] Ashe also connected Trump's stated rationale — Colorado's all-mail voting producing "automatically crooked elections" — to [[mesa-county|Mesa County]], where mail-in ballot irregularities were alleged and where Peters' "crucible began."[22]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 18", URL: https://badlands.substack.com/p/badlands-blitz-episode-18
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -164,3 +172,5 @@ Badlands contributor [[ashe-in-america|Ashe in America]] said sources close to t
 18. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 19. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 20. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+21. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+22. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

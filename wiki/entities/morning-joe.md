@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cable-news, msnbc, punditry]
-sources: [raw/badlands-news-brief-07e.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-de1.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ Law professor [[jonathan-turley|Jonathan Turley]], writing about the appearance,
 
 [[ashe-in-america|Ashe in America]] identified the segment as an instance of a previously subtle theme becoming explicit heading into 2024: casting [[jefferson-davis|Jefferson Davis]] and the Confederacy as an apt analogue for Trump, a framing she noted had occupied a significant portion of the Colorado trial and was reflected in the court's ruling.[1] Gay's extension of the analogy to critics of the ruling, she argued, implied that January 6 was a civil war, an escalation she attributed to establishment failure to stop Trump and expected to worsen.[1]
 
+## Cancellation after the Butler assassination attempt
+
+[[msnbc|MSNBC]] cancelled the Monday, July 15, 2024 edition of Morning Joe following the [[attempted-assassination-of-donald-trump-2024|attempted assassination]] of [[donald-trump|Donald Trump]] at a rally in Butler, Pennsylvania two days earlier; [[comedy-central|Comedy Central]] likewise pulled that day's [[the-daily-show|The Daily Show]].[2] Trump, 78, had been struck in the right ear by a bullet, was rushed from the stage by [[united-states-secret-service|Secret Service]] agents and treated in hospital for minor injuries, while one rally-goer was killed and two others critically injured and the 20-year-old gunman [[thomas-matthew-crooks|Thomas Matthew Crooks]] was shot dead by snipers.[2]
+
+[[badlands-media|Badlands Media]] commentator [[burning-bright|Burning Bright]] read the pre-emption as a sign that the "Deep State Archipelago" was collapsing under indecision and informational paralysis, arguing that a Media Industrial Complex that normally deploys narratives on cue had instead retreated into "rhetorical bunkers" because its participants had been "cut off from each other" and siloed.[2]
+
 ## References
 1. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
+2. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1

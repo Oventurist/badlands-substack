@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [grenell, diplomacy, venezuela, backchannel, devolution]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d56.md]
 confidence: medium
 ---
 
@@ -40,6 +40,11 @@ On December 14, 2024, President-elect [[donald-trump|Donald Trump]] named Grenel
 
 In his September 2025 letter to President [[donald-trump|Donald Trump]], Venezuelan President [[nicolas-maduro|Nicolas Maduro]] specifically named Grenell as the "special envoy" through whom direct and frank conversation with Caracas should proceed, saying such a channel could "overcome media noise and fake news."[7] The offer came days after the first US strike on a boat from Venezuela that Trump said was carrying drug traffickers, and was read by Badlands commentators as evidence of Trump conducting Venezuela policy through personal envoys rather than the [[state-department|State Department]].[7]
 
+
+## Leadership of the Kennedy Center
+
+Grenell, a former acting Director of National Intelligence, was installed by President [[donald-trump|Donald Trump]] to lead the [[john-f-kennedy-center-for-the-performing-arts|John F. Kennedy Center for the Performing Arts]] after Trump purged its previous board.[8] Under the administration the center overhauled its programming toward shows with broader mass appeal, and in August 2025 Trump confirmed he would personally host the Kennedy Center Honors.[8]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -49,3 +54,9 @@ In his September 2025 letter to President [[donald-trump|Donald Trump]], Venezue
 5. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 6. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 7. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+8. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
+9. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## Lawsuit against the DHS Homeland Intelligence Experts Group
+
+Grenell joined [[america-first-legal|America First Legal]] in filing a lawsuit against the [[homeland-intelligence-experts-group|Homeland Intelligence Experts Group]] soon after the [[department-of-homeland-security|Department of Homeland Security]] announced the panel in September 2023, an action that also spurred Republican members of Congress to move against it.[9] The suit alleged that the group violated the [[federal-advisory-committee-act|Federal Advisory Committee Act]] through its lack of balance, the [[joe-biden|Biden]] administration's inappropriate influence, and its lack of public notice and participation.[9] The administration agreed in May 2024 to disband the group and hand over its records, which showed it had treated support for [[donald-trump|Donald Trump]], military service and religious belief as indicators of domestic violent extremism.[9]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, middle-east, us-government]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-960.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -70,3 +70,11 @@ Following the fall of the Assad government in December 2024, Badlands commentary
 8. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 9. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+
+## February 2025 strike on Hurras al-Din
+
+CENTCOM conducted a precision airstrike in Syria over the weekend of February 15-16, 2025, killing a senior finance and logistics official of [[hurras-al-din|Hurras al-Din]], an [[al-qaeda|Al-Qaeda]] affiliate.[11] President [[donald-trump|Donald Trump]] publicly congratulated the command and its commander, General [[michael-kurilla|Michael Kurilla]], on Truth Social, describing the target as a terrorist leader "working with al-Qaeda across the region."[11]
+
+Badlands commentary placed the strike in a longer sequence in which CENTCOM delivered precision strikes on ISIS and Al-Qaeda camps in the immediate aftermath of the fall of the Assad government, while Russian forces repositioned away from contested areas of the Syrian board — moves that Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] insisted were "planned maneuvers" rather than an abandonment of Syria.[11] The commentary drew a parallel to the August 2021 Kabul withdrawal and argued that the net effect had been Russian-American coordination in provoking, entrapping and destroying the remaining deep-state shadow networks in the Middle East.[11]
+
+11. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

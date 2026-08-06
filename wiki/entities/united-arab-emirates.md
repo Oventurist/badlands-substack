@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, geopolitics, gulf-states]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-579.md, raw/badlands-brief-5a2.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d1a.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-2d5.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-579.md, raw/badlands-brief-5a2.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d1a.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-d8c.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -79,6 +79,22 @@ stood with him and [[donald-trump|Donald Trump]] as they took on
 
 President [[donald-trump|Donald Trump]] visited the UAE on May 15, 2025 as the latest stage of a Gulf tour, pledging to strengthen US ties with the Emirates in a visit expected to deepen cooperation on artificial intelligence.[8] Meeting UAE President [[mohamed-bin-zayed-al-nahyan|Sheikh Mohamed bin Zayed Al Nahyan]], Trump said, "I have absolutely no doubt that the relationship will only get bigger and better."[8] He referenced a UAE pledge to invest $1.4 trillion in the United States over ten years, conveyed weeks earlier in Washington by [[tahnoon-bin-zayed-al-nahyan|Sheikh Tahnoon bin Zayed Al Nahyan]], Sheikh Mohamed's brother, the UAE's national security adviser and chairman of two Abu Dhabi sovereign wealth funds: "And all I can say is thank you very much. We will work very hard to deserve it."[8] The stop followed a trip to [[qatar|Qatar]], where Doha unveiled plans to invest $10 billion in a US military facility.[8] Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the Gulf States as having demonstrated a mutually beneficial partnership with Trump and called the trip "a complete and total success."[8]
 
+## Rising influence in Africa (2024)
+
+A May 2024 Financial Times investigation described the UAE as a new cash-rich player reshaping the African continent.[9] It recounted President [[mohamed-bin-zayed-al-nahyan|Sheikh Mohammed bin Zayed al-Nahyan]] flying several hundred friends into a private airport in South Africa's Eastern Cape province to celebrate Eid, ahead of a stay at his private resort in one of the country's poorest regions; the Emirati ruler was reported to have donated R20mn ($1mn) to upgrade the runway at the backwater airport, which authorities made an international port of entry for the occasion.[9] Despite the display of goodwill, [[south-africa|South Africa]] had failed to persuade the UAE to hand over the [[gupta-brothers|Gupta brothers]], and roughly two weeks before the visit a Dubai court refused to extradite two of them citing incorrect paperwork — a ruling South Africa's justice minister called "shocking."[9]
+
+The article also detailed Emirati acquisition of mining rights across Africa. Primera, an Abu Dhabi-based gold trader, was granted a 25-year monopoly by the government of the [[democratic-republic-of-the-congo|Democratic Republic of Congo]] for all small-scale "artisanal" gold supplies in the country.[9] [[international-resources-holding|International Resources Holding]], chaired by UAE National Security Adviser Tahnoun bin Zayed Al Nahyan, paid $1.1 billion for a majority stake in the [[mopani-mining|Mopani]] copper mine in [[zambia|Zambia]], previously owned by [[glencore|Glencore]].[9]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the piece as a hit against a purported member of the [[sovereign-alliance|Sovereign Alliance]] from the Financial Times of London, an outlet [[steve-bannon|Steve Bannon]] regularly brands "the official paper of record" for the WEF oligarchy.[9] He argued the framing on the Guptas was deceptive, since two brothers had been arrested in Dubai in June 2022 and the third in India in May 2024, and concluded that [[donald-trump|Trump]]'s 2017 [[executive-order-13818|Executive Order 13818]] led directly to the 2024 acquisition of nefarious African mining companies by Sovereign Alliance members, in this case the UAE.[9]
+
+## Withdrawal from Yemen (December 2025)
+
+On Tuesday, December 30, 2025, the Emirati Ministry of Defense announced that the UAE would withdraw its remaining forces from [[yemen|Yemen]], voluntarily terminating its counterterrorism units there and citing concerns for the safety of personnel.[10] These were the UAE's only forces remaining in the country since it completed a wider military withdrawal in 2019; Abu Dhabi had joined the Saudi-led coalition formed in 2015 to fight the [[houthis|Houthi]] rebels at the request of Yemen's internationally recognized government.[10]
+
+The announcement followed a coalition airstrike earlier the same day on the southern Yemeni port of Mukalla, which Riyadh said targeted weapons and combat vehicles unloaded from ships arriving from the UAE and allegedly bound for the [[southern-transitional-council|Southern Transitional Council]], a southern separatist group.[10] The UAE denied that the shipment contained weapons.[10]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that mainstream framing of the episode — and of the conflict in Sudan — as evidence of a growing rift between Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and Emirati President [[mohammed-bin-zayed|Mohammed bin Zayed]] was unlikely, since MBZ had lobbied the Saudi royal family extensively to name MBS Crown Prince.[10] He read the split instead as tribal: Saudi- and Emirati-backed Yemeni tribes that had fought the Houthis together, with the UAE-backed faction now seeking its own claim to govern.[10] He characterized the episode as a sign of multipolarity and "regions of responsibility" — the Arabs solving their own problems — and highlighted the Saudi military's emergence as a regional authority on the back of a $12 billion equipment deal signed with [[donald-trump|Trump]] in his first term, before the $142 billion deal signed the previous month.[10]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
@@ -88,3 +104,5 @@ President [[donald-trump|Donald Trump]] visited the UAE on May 15, 2025 as the l
 6. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 7. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 8. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
+9. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c
+10. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

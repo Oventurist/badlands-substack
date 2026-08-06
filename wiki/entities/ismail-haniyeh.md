@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hamas, middle-east, assassination, iran]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b52.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -46,6 +46,16 @@ The piece further noted that Netanyahu's address to Congress drew a record 58 bi
 
 Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] said in late August 2024 that the "assassination of the head of the Hamas politburo" was an attempt to provoke Iran, and that Iran "will never submit to provocative actions."[6] He emphasized that Haniyeh had been killed in Tehran at the new Iranian president's inauguration ceremony, calling it a deliberate elimination of a guest of the Islamic Republic's government that violated Iranian territorial integrity and sovereignty, and noting that although Iran did not react it reserved the right to do so.[6] Badlands commentary observed that 33 days had passed since the killing amid continuous predictions of imminent Iranian retaliation, and argued that Iran was instead working with Russia to bring Syria and Turkey together.[6]
 
+## Assassination in Tehran
+
+Iran's paramilitary Revolutionary Guard announced early on Wednesday, July 31, 2024 that Hamas leader Ismail Haniyeh had been assassinated in Tehran.[7] No one immediately claimed responsibility, but suspicion fell at once on [[israel|Israel]], which had vowed to kill Haniyeh and other [[hamas|Hamas]] leaders over the group's October 7 attack that killed 1,200 people and saw some 250 taken hostage.[7] Haniyeh had been in Tehran to attend the swearing-in of Iranian President [[masoud-pezeshkian|Masoud Pezeshkian]] on the Tuesday; Iran gave no details of how he was killed and said the attack was under investigation, while analysts on Iranian state television immediately blamed Israel.[7] Israel did not comment, as is often its practice with assassinations carried out by [[mossad|Mossad]].[7]
+
+There was no immediate reaction from the [[white-house|White House]].[7] The killing came at a precarious moment, with the Biden administration pressing Hamas and Israel to agree at least a temporary ceasefire and hostage-release deal; CIA Director [[william-burns|Bill Burns]] had been in Rome that Sunday meeting senior Israeli, Qatari and Egyptian officials, and White House Middle East and North Africa coordinator [[brett-mcgurk|Brett McGurk]] was in the region for talks with U.S. partners.[7]
+
+## Named in the ICC warrant applications (May 2024)
+
+Haniyeh, described as [[hamas]]'s political leader, was among the five men for whom ICC prosecutor [[karim-khan|Karim Khan]] sought arrest warrants on May 20, 2024 for war crimes and crimes against humanity.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
@@ -54,3 +64,5 @@ Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] said in late August 202
 4. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 5. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 6. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+7. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+8. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [azerbaijan, south-caucasus, diplomacy, zangezur-corridor]
-sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-966.md]
+sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -40,3 +40,20 @@ Escalating further, Aliyev said that "we are neighbors with such a fascist state
 1. Badlands News Brief — "Alaska For Peace, Iranian Objections, & A Mid-Decade Census", URL: https://badlands.substack.com/p/badlands-news-brief-50f
 2. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 3. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+
+## Claims over the Azerbaijan Airlines crash (December 2024)
+
+In a Sunday interview with the state-run broadcaster AzTV in late December 2024, Aliyev claimed that the passenger jet that crashed in Kazakhstan earlier that week had been struck from the ground near the Russian city of Grozny.[4] The Embraer 190, operating as [[azerbaijan-airlines-flight-j2-8243-crash|Azerbaijan Airlines flight J2-8243]] from Baku to Grozny, diverted to Kazakhstan and crashed on Wednesday, killing 38 of the 67 people on board.[4]
+
+Aliyev said the aircraft "was damaged from the outside on Russian territory, near the city of Grozny, and almost got out of control," and added that "we are also aware that our aircraft was rendered uncontrollable by electronic warfare means... In addition, the tail section of the plane was severely damaged by fire from the ground."[4] He noted that the exact circumstances would become known once flight recorder data was accessed, but insisted the preliminary versions of the incident "are well founded and based on facts."[4]
+
+Badlands commentary linked the incident to a pattern of long-range drone attacks far from the Ukrainian front — including the [[2024-kazan-drone-attack|Kazan drone attack]] more than 750 miles away and reported drone activity at the Grozny airport over 600 miles from the front — and attributed the capability to the [[central-intelligence-agency|CIA]] rather than Ukraine alone.[4]
+4. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+
+## COP29 attack on French colonialism (November 2024)
+
+Hosting the COP29 United Nations climate talks in Baku in November 2024, Aliyev delivered a combative speech accusing France of colonialist "crimes" in its overseas territories, drawing loud applause from delegates of several Pacific island nations.[5] He said that "the crimes of France in its so-called overseas territories would not be complete without mentioning the recent human rights violations," and charged that "the regime of President [[emmanuel-macron|Emmanuel Macron]] killed 13 people and wounded 169… during legitimate protests by the Kanak people in New Caledonia," referring to unrest that had shaken the Pacific archipelago in May 2024.[5] French Ecology Minister [[agnes-pannier-runacher|Agnes Pannier-Runacher]] responded by cancelling her trip to the talks, calling the speech "deplorable," "unacceptable… and beneath the dignity of the presidency of the COP," and a "flagrant violation of the code of conduct" for running UN climate negotiations.[5]
+
+Badlands commentary linked the outburst to the energy politics of the Gaza war, noting that Azerbaijani crude supplies a large share of Israel's oil through the [[baku-tbilisi-ceyhan-pipeline|Baku-Tbilisi-Ceyhan pipeline]] and that Macron had called for an arms embargo against Israel a month earlier, casting Aliyev's attack on French imperialism as one more sign of globalist leaders turning on one another.[5]
+
+5. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

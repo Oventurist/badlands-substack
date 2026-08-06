@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [epstein, doj, europe, corruption, disclosure]
-sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-ac6.md]
+sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -89,6 +89,14 @@ The [[new-york-post|New York Post]] editorial page took the opposite view, calli
 
 [[ashe-in-america|Ashe in America]] described the episode as "one story, two framings — for the uniparty left and uniparty right," both distractions or signals and both foolish in different degrees, noting that Politico ran three Trump/Epstein/[[michael-wolff|Wolff]] stories on its home page that Thursday morning.[11] When narratives are set this cleanly to appeal to both sides of the bipartisan normie sphere, she argued, the truth may be something else entirely.[11] Citing [[brian-lupo|Brian Lupo]]'s reporting, she wrote that the emails indicate Epstein, [[ghislaine-maxwell|Ghislaine]], and Wolff likely suspected Trump of being a mole or informant and consequently sought to destroy him in 2016 — asking at what point in a RICO case informants reveal themselves, and answering that it is either never or at trial.[11] Invoking [[chris-paul|Chris Paul]], she cautioned that there is no obligation to believe regime storytellers even in part, wondered why Epstein's image consultant remains free given that he is at minimum "dead to rights on conspiracy to commit election interference," and concluded that if Trump was informing on government corruption, the whole-of-institution reaction against him makes far more sense.[11]
 
+## Bondi's volume explanation (May 2025)
+
+On May 7, 2025, Attorney General [[pam-bondi|Pam Bondi]] told reporters that the continuing non-release of the files was a function of scale: "It's just the volume. That's what they're going through right now."[12] She said the [[fbi|FBI]] was reviewing "tens of thousands of videos of Epstein with children or child porn" and that "there are hundreds of victims."[12] President [[donald-trump|Donald Trump]] had repeatedly promised on the campaign trail to release the files, including the rumored client list, and no substantive release had followed.[12] Bondi's February 2025 "first phase" release had given first access to online influencers in binders, several of whom were photographed holding them, but contained little new information.[12] Badlands writer Ashe in America argued the only meaningful Epstein news would be indictments of those who abused the children, condemning the monetisation of public anticipation by influencers promising bombshells.[12]
+
+## Statutory release mandate (November 2025)
+
+Congress voted on November 18, 2025 to require public release of the Epstein files, and President [[donald-trump|Donald Trump]] signed the [[epstein-files-transparency-act|Epstein Files Transparency Act]] the next day, ordering the [[department-of-justice|Justice Department]] to produce documents from its long-running investigation within 30 days.[13] Attorney General [[pam-bondi|Pam Bondi]] retains authority to redact records in specific instances, including material that "would jeopardize an active federal investigation or ongoing prosecution," a provision that drew immediate scrutiny.[13]
+
 ## References
 1. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -101,3 +109,5 @@ The [[new-york-post|New York Post]] editorial page took the opposite view, calli
 9. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 10. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 11. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6
+12. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
+13. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

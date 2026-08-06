@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, uk, legislation, 5gw, internet-regulation]
-sources: [raw/5gw-counter-offensive-the-censorship.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -26,5 +26,14 @@ Mainstream coverage of the bill foregrounded the combating of child pornography,
 
 The U.K. Parliament claimed the bill would make the UK "the safest place" in the world to be online; Badlands Media read this as meaning a far more censored, locked-down internet for British users, and as a precedent template for other states aligned with the Western hegemonic establishment.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The bill is presented as directly connected to the pressure campaign against [[russell-brand|Russell Brand]] and to the potential removal of Rumble from the UK market.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
+## Passage by Parliament (September 2023)
+
+The UK Parliament passed the Online Safety Bill on September 19, 2023, legislation the government said would make the United Kingdom "the safest place" in the world to be online but which critics argued would produce a far more censored and locked-down internet for British users.[2] A clause of the bill allows Ofcom, the British telecom regulator, to serve notices requiring technology companies to scan all of their users for child abuse content, including messages and files protected by end-to-end encryption — effectively permitting the government to compel companies to build a backdoor.[2]
+
+The Electronic Frontier Foundation, which had opposed the bill for years, characterized such client-side scanning systems as "bugs in our pockets" and pointed to a group of leading computer security experts who concluded that the technique undermines privacy and security for everyone.[2] EFF argued that a private conversation is a basic human right and that scanning people's data would damage the security vulnerable people rely on to protect themselves from harassers, data thieves and authoritarian governments — risks created paradoxically in the name of online safety.[2]
+
+Badlands contributor Ryan DeLarme wrote that the bill set "tougher standards" for platforms such as Facebook, YouTube and TikTok and would establish a precedent for other nations aligned with the Western hegemon.[2] He connected its passage to the simultaneous targeting of Russell Brand by state media and the British government — including a request that Rumble deplatform Brand, which Rumble emphatically rejected — and to an escalating censorship regime in the United States ahead of the 2024 election season.[2]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
+2. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-189.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-ee9.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ Before being sworn in to head the [[cisa|Cybersecurity and Infrastructure Securi
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
+
+## April 2023 commercial real estate call
+
+In April 2023, amid a sudden firesale of real estate loans by small US banks, Morgan Stanley projected roughly 40% downside in commercial real estate.[3] The warning accompanied data showing a $37.8 billion plunge in small-bank real estate loans over the second half of March — the largest such decline since the March 2007 collapse of [[new-century-financial|New Century Financial]], the subprime lender whose failure preceded the global financial crisis.[3]
+
+3. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9

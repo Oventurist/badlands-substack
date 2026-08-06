@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [india, energy, de-dollarization, russian-oil]
-sources: [raw/badlands-brief-143.md, raw/badlands-brief-509.md, raw/badlands-brief-ac2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-b0d.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-brief-509.md, raw/badlands-brief-ac2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -57,3 +57,11 @@ India planned to push for an exemption from US reciprocal tariffs when American 
 5. Badlands Brief — "Sovereign Signals, Israeli Subversion, and the SAVE America Ultimatum", URL: https://badlands.substack.com/p/badlands-brief-f62
 6. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
 7. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
+
+## Bilateral agreements of February 2025
+
+On February 18, 2025, India concluded two significant bilateral arrangements. Russia's Ministry of Defense announced the [[reciprocal-exchange-of-logistics-agreement|Reciprocal Exchange of Logistics Agreement]] (RELOS), signed after a meeting between Deputy Defense Minister Colonel-General Alexander Fomin and India's ambassador to Russia, Vinay Kumar, to enhance coordination in exercises, disaster relief and other joint operations under what Moscow called a "particularly privileged strategic partnership."[8] The same day, India and [[qatar|Qatar]] elevated their ties to the [[india-qatar-strategic-partnership|India-Qatar Strategic Partnership]], signing a revised double-taxation pact and five memoranda of understanding.[8]
+
+Both followed Prime Minister [[narendra-modi|Narendra Modi]]'s visit to Washington the previous week, at which he failed to dissuade [[donald-trump|Donald Trump]] from tariffs; Trump publicly identified India as historically among the worst offenders on import tariffs and vowed reciprocal measures.[8] Badlands commentary argued that the two agreements together — alongside a more limited pact Modi had signed with Xi Jinping the previous year — effectively negate hostility between India and China, since neither would readily provoke the other while both hold defense arrangements with Russia.[8]
+
+8. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

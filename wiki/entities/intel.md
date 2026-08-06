@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [semiconductors, technology, china, trade-war]
-sources: [raw/badlands-news-brief-18e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-4cb.md]
+sources: [raw/badlands-news-brief-18e.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -30,7 +30,20 @@ On August 22, 2025, President [[donald-trump|Donald Trump]] announced that the U
 
 In September 2024, Intel officially qualified for as much as $3.5 billion in federal grants to make semiconductors for the [[pentagon|Pentagon]], after reaching a binding agreement with U.S. officials.[3] The money came through the secretive [[secure-enclave|Secure Enclave]] program, which seeks to establish production of advanced chips with military and intelligence applications across multiple states, including a manufacturing facility in Arizona.[3] Although Intel had always been the frontrunner, the award drew pushback from rival chipmakers, concern in Washington about relying on a single firm, and a funding fight across multiple agencies and Capitol Hill that threatened to reduce Intel's total.[3] The award would add to a possible $8.5 billion in grants and $11 billion in loans Intel received in March 2024 under the [[chips-and-science-act|Chips and Science Act]], the 2022 law intended to revitalize U.S. semiconductor manufacturing and reduce reliance on Asia.[3] Badlands contributor [[burning-bright|Burning Bright]] treated the news as strong signal of impending U.S. semiconductor supremacy and as evidence for his "Switch" theory of a delayed economic turn-on timed to a second Trump administration.[3]
 
+
+## Secure Enclave and the CHIPS Act diversion (2024)
+
+Politico reported in May 2024 that a backroom deal brokered two years earlier had pushed more than $3 billion into [[secure-enclave|Secure Enclave]], a secretive national-security project promoted by Intel and run through the [[pentagon|Pentagon]].[4] The money came from funds the Commerce Department had hoped to award as [[chips-and-science-act|CHIPS and Science Act]] grants, and the program is not mentioned in the original law.[4]
+
+## U.S. government equity stake
+
+In August 2025 U.S. taxpayers became the largest shareholders in Intel after the Trump administration announced the government had taken a 10% stake in the California-based chipmaker, which had fallen behind rivals [[nvidia|Nvidia]] and [[amd|AMD]] in the artificial-intelligence race; Intel's share price had declined more than 50% over the prior five years.[5] The administration did not plan to take board seats and said it would vote against the company only in "limited" circumstances.[5] Commerce Secretary [[howard-lutnick|Howard Lutnick]] suggested national security was a key motivator for the stake, while President [[donald-trump|Donald Trump]] focused more on prospective financial gains, writing on Truth Social: "I will make deals like that for our Country all day long... I love seeing their stock price go up, making the USA RICHER, AND RICHER. More jobs for America!"[5]
+
+Badlands commentary tied the stake to a broader pattern of "capitulation" by corporate oligarchs, describing mega-cap firms such as Apple, Intel and Nvidia as ceding golden shares and equity stakes to an America First imperative.[5]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
 2. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 3. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
+4. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+5. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, blackrock, davos, artificial-intelligence]
-sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -36,9 +36,15 @@ In March 2025 Fink announced, alongside Terminal Investment Limited, a $23 billi
 
 Fink, as chief executive of [[blackrock|BlackRock]] and described as a longtime confidant of President [[donald-trump|Donald Trump]], spearheaded the roughly $23 billion consortium purchase of 43 port facilities from [[ck-hutchison|CK Hutchison]], including ports at both ends of the [[panama-canal|Panama Canal]] and near the Suez Canal.[4] The agreement was to be signed by April 2, 2025, but China's State Administration for Market Regulation opened an anti-monopoly investigation in late March that effectively stalled the deal, with [[xi-jinping|Xi Jinping]] reportedly angry that Beijing had not been consulted.[4]
 
+
+## Davos 2023 ESG remarks
+
+Speaking to Bloomberg TV at the [[world-economic-forum|World Economic Forum]] in Davos on January 17, 2023, Fink said of [[esg|ESG]] investing: "Let's be clear, the narrative is ugly, the narrative is creating this huge polarization."[5] He added that [[blackrock|BlackRock]] was "trying to address the misconceptions," that it was hard "because it's not business any more, they're doing it in a personal way," and that for the first time in his professional career "attacks are now personal" with critics trying to "demonize the issues."[5] [[ryan-delarme|Ryan DeLarme]] characterized ESG in the [[badlands-news-brief|Badlands News Brief]] as a China-inspired scoring system — a social credit system for corporations measuring adherence to globalist agendas rather than obedience to the CCP — and noted that independent media outlets and America First politicians had spent the previous year attacking the concept.[5]
+
 ## References
 
 1. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
 2. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 4. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+5. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

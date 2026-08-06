@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, debates, abc-news, donald-trump, kamala-harris]
-sources: [raw/badlands-news-brief-441.md]
+sources: [raw/badlands-news-brief-441.md, raw/badlands-news-brief-ea6.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ During the news conference Trump again insisted there had been a "peaceful trans
 
 Burning Bright added that he remained far from certain Harris would be on any ticket by November 5 — and believed Trump was certain she would not be — but that either way Trump would wring every drop of narrative value from her in the meantime, concluding that Trump was not trapped in the game with them, but they with him.[1]
 
+## Badlands Media coverage
+
+[[badlands-media|Badlands Media]] ran live special coverage of the first Trump–Harris presidential debate on Rumble, beginning at 8:30 p.m.[2] In the subsequent *Badlands News Brief*, [[burning-bright|Burning Bright]] wrote that [[kamala-harris|Kamala Harris]] "and company have chosen ... death," at least in the public mind, by doubling down on "Orange Man Bad," and that her angles of attack — which he attributed to the System rather than to her personally — beggared belief because she attacked [[donald-trump|Donald Trump]] not on his perceived weaknesses but on his overwhelming strengths.[2]
+
+Trump, for his part, went through the greatest hits of the 2024 campaign, which mirror those of 2020 and 2016; Badlands conceded this does not win voters with Trump Derangement Syndrome but argued it presents the one thing the Establishment cannot — consistency of presence, of vision, and of principles.[2] The framing concluded that "it's all about the story," that Trump has told the same one since before he came down the golden escalator, and that "you can't win a War of Stories with a story AGAINST ... you must have a story FOR."[2]
+
 ## References
 1. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
+2. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

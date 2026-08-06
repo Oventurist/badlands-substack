@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [al-qaeda, cia, 9-11, stand-down]
-sources: [raw/a-dereliction-of-duty.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ A second layer of protection came from a Memorandum of Notification signed by Pr
 
 Bin Laden remained untouchable, the article contends, until [[barack-obama|Barack Obama]]'s re-election prospects deteriorated amid [[isis|ISIS]] expansion and the wars in Iraq and Afghanistan; at that point he became expendable and was sacrificed to save the campaign, while ISIS remained protected.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty) After the raid, [[john-brennan|John Brennan]] was prominent on television celebrating the kill.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty)
 
+## Alleged CIA origins
+
+Badlands' July 2024 commentary held that [[al-qaeda|Al Qaeda]] was a product of [[operation-cyclone|Operation Cyclone]], the 1979 [[central-intelligence-agency|CIA]] program devised by [[zbigniew-brzezinski|Zbigniew Brzezinski]] to arm the Afghan mujahideen against the Soviets, through which bin Laden — a Saudi national — was recruited, trained, armed and resourced to build a transnational fighter network.[2] It cited a 1981 photograph of Brzezinski and bin Laden together, and noted that when bin Laden formed his group in 1988 — the same year Hamas was founded — he named it after the CIA base where the fighters had trained, Al Qaeda being Arabic for "The Base."[2]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
+2. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

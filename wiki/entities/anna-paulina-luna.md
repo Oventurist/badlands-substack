@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-of-representatives, counterintelligence]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cb6.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-9ea.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-dc1.md]
 confidence: medium
 ---
 
@@ -74,3 +74,8 @@ The task force was designed to build on the [[donald-trump|Trump]] administratio
 9. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 10. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 11. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+
+## Proxy voting discharge petition (April 2025)
+
+Luna forced a House floor showdown in April 2025 over allowing members who are new parents to vote by proxy for three months, launching a [[discharge-petition|discharge petition]] and collecting the 218 signatures — including a dozen Republicans — needed to bypass leadership.[12] On April 1 the House voted to defy Speaker [[mike-johnson|Mike Johnson]], who had spent considerable political capital trying to kill the measure and had tied a provision blocking it to unrelated legislation prohibiting non-citizens from voting in federal elections; nine Republicans voted against Johnson, including Luna herself and Reps. Tim Burchett, Mike Lawler and Jeff Van Drew.[12] Badlands writer [[ashe-in-america|Ashe in America]] criticized the effort as members voting themselves perks rather than fighting for constituents, and noted that Luna's much-anticipated government secrets task force hearing the same day revealed no government secrets and reportedly ended early because of the proxy-voting vote.[12] See [[house-proxy-voting-for-new-parents]].[12]
+12. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1

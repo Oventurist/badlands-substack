@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-enforcement, congress, state-of-the-union, january-6, litigation]
-sources: [raw/badlands-brief-40d.md, raw/badlands-brief-bdc.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-brief-bdc.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-ea7.md]
 confidence: low
 ---
 
@@ -30,6 +30,10 @@ In footage aired by [[tucker-carlson|Tucker Carlson]] on Monday, March 6, 2023, 
 
 In June 2023, Capitol Police, along with a congressional staffer, stopped the [[rushingbrook-childrens-choir|Rushingbrook Children's Choir]] of Greenville, South Carolina from performing a capella renditions of patriotic songs, including the national anthem, inside the Capitol Building.[5] The choir's director, Rasbach, said he was told the performance of national songs constituted a "demonstration" and was therefore not permitted.[5] Former President [[donald-trump|Donald Trump]] called the prohibition "a shame" and invited the choir to perform at his upcoming South Carolina rally, while [[human-events|Human Events]] described the shutdown as "a stain on our national character and the people's House."[5] [[badlands-media|Badlands Media]] commentary by [[johnny-q|Johnny Q]] called the Capitol Police account absurd and contradictory and argued the refusal was contrived on political grounds.[5]
 
+## Security posture ahead of the anticipated Trump indictment (March 2023)
+
+In a statement released on the night of Monday, March 20, 2023, the [[senate-sergeant-at-arms|Sergeant at Arms]] said the United States Capitol Police anticipated demonstration activity across the country related to the possible indictment of former President [[donald-trump|Donald Trump]].[6] While stating that law enforcement was not tracking any specific, credible threats against Capitol or state offices, the statement said there was potential for demonstration activity and that USCP was working with law enforcement partners, so observers might see a greater law enforcement presence on Capitol Hill.[6] The statement listed streets where bike racks would remain open to allow pedestrian transit and noted that the Senate Operations Center and the State Office Readiness Program were monitoring the situation and prepared to share information with the Senate community.[6] Badlands writer [[ryan-delarme|Ryan DeLarme]] argued that the scale of the preparations, alongside NYPD barricades in New York, indicated authorities genuinely expected an event, while comparing the visual staging to that surrounding January 6.[6]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -37,3 +41,4 @@ In June 2023, Capitol Police, along with a congressional staffer, stopped the [[
 3. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 4. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 5. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+6. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7

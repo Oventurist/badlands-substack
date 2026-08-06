@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, presidential-transition, 2024]
-sources: [raw/badlands-news-brief-397.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/badlands-news-brief-397.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e01.md]
 confidence: medium
 ---
 
@@ -25,7 +25,19 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that federal law
 
 In September 2025 the GSA, which oversees federal procurement, added [[meta-platforms|Meta]]'s artificial intelligence system Llama to its approved list of AI platforms after determining that it met government security and legal standards, a decision confirmed by procurement lead Josh Gruenbaum.[2] The move followed GSA approvals in preceding months for AI products from [[xai|xAI]], Amazon, Microsoft, Google, [[anthropic|Anthropic]], and OpenAI, with the companies agreeing to steep discounts while adhering to federal requirements.[2] Gruenbaum said the aim was to give agencies tools to streamline contract reviews, troubleshoot IT issues faster and improve efficiency, adding: "It's not about currying favor. It's about that recognition of how do we all lock in arms and make this country the best country it could possibly be."[2] See [[llama-federal-approval|Llama federal approval]].
 
+## Departure of Edward Coristine (June 2025)
+
+[[edward-coristine|Edward "Big Balls" Coristine]], one of the first technologists hired as part of the [[department-of-government-efficiency|Department of Government Efficiency]], received full-time employment status at the GSA in May 2025 and appeared on a monthly report regarding the GSA workforce issued June 10.[3] As of Tuesday afternoon, June 24, his Google Workspace account with the agency was no longer active, according to a source with direct knowledge, and his name no longer appeared on a [[white-house|White House]] contact list of DOGE employees on the federal payroll.[3]
+
+## Cancellation of media contracts (February 2025)
+
+In February 2025 the [[white-house|White House]] directed the GSA to terminate "every single media contract" expensed by the agency, according to an internal email obtained by Axios.[4] The instruction told the GSA team to pull all contracts for [[politico|Politico]], the BBC, E&E News (a Politico subsidiary) and Bloomberg, and to cancel every media contract for the GSA itself that day.[4]
+
+The directive came as President [[donald-trump|Donald Trump]] targeted the federal government's media spending after [[elon-musk|Elon Musk]] and allies at the [[department-of-government-efficiency|Department of Government Efficiency]] discovered millions of dollars in agency subscriptions to Politico Pro, a policy-tracking service widely used in Washington.[4] Badlands contributor [[burning-bright|Burning Bright]] argued that Politico and the wider "media protectorate" were caught in a narrative pincer, simultaneously denying that they were paid propagandists and defending the arrangement as normal, noting that the practice had been legal since 2013 yet had been kept in the shadows.[4]
+
 ## References
 
 1. Badlands News Brief — "Pardon Me, Blue, but Whose Team Are You Really On?", URL: https://badlands.substack.com/p/badlands-news-brief-397
 2. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+3. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+4. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01

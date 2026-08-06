@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [platform, free-speech, video, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -66,6 +66,10 @@ In February 2025 Rumble Inc. (NASDAQ: RUM), then a $2.73 billion market cap vide
 
 Rumble chief executive [[chris-pavlovski|Chris Pavlovski]] occupied the "new media seat" in the White House briefing room that Monday and was given the first question.[11] He later reported that, according to StreamsCharts, YouTube peaked at around 22,000 live viewers while Rumble peaked at around 55,000 live viewers for the White House press briefing with [[karoline-leavitt|Karoline Leavitt]].[11] [[badlands-media|Badlands Media]] carried its own special coverage of the briefing and post-briefing commentary on the platform.[11]
 
+## Refusal to deplatform Russell Brand (2023)
+
+As the Online Safety Bill cleared the UK Parliament in September 2023, Rumble publicly rejected a request from the British government that it deplatform Russell Brand, who was then being targeted by state media and government officials.[14] Badlands contributor Ryan DeLarme cited the company's emphatic refusal as a counterpoint to an expanding censorship regime in Britain and the United States ahead of the 2024 election season.[14]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
@@ -83,3 +87,10 @@ Rumble chief executive [[chris-pavlovski|Chris Pavlovski]] occupied the "new med
 Shortly after [[x-corp|X]] filed its August 2024 antitrust complaint against the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]] (GARM), Rumble joined the lawsuit.[12] The filing described a conspiracy centered on GARM, an initiative created by the [[world-federation-of-advertisers|World Federation of Advertisers]], which established arbitrary standards for content on digital platforms where its members might wish to advertise and used those one-size-fits-all standards to perpetrate an advertiser boycott against Rumble and other platforms.[12] The suit stressed GARM's vast reach, noting that its membership included the six largest ad agency holding companies, among them defendant [[wpp|WPP]].[12]
 
 12. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
+
+## Florida ruling against Moraes's directives (February 2025)
+
+In February 2025 the U.S. District Court for the Middle District of Florida ruled that censorship orders issued by Brazilian Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]] have no legal force in the United States, a decision Rumble called "a complete victory for free speech, digital sovereignty, and the right of American companies to operate without foreign judicial interference."[13] The court found the directives were never properly served under the Hague Convention, the U.S.–Brazil Mutual Legal Assistance Treaty, or any other valid mechanism, leaving Rumble and [[trump-media-and-technology-group|Trump Media]] under no obligation to comply, and said it stood ready to intervene against any attempt to enforce them on U.S. soil.[13] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]].[13]
+
+13. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+14. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, elon-musk, big-tech]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -62,8 +62,11 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued the technical task sho
 
 The July 2023 launch and rapid unraveling of Meta's [[threads|Threads]] was widely read as a failed attempt to displace Twitter.[9] Badlands contributor [[ashe-in-america|Ashe in America]] argued that Community Notes, Twitter Spaces, bot reductions and scraping limits under [[elon-musk|Elon Musk]] had restored balance to the platform and to the national dialogue, and that Musk's announcement of creator monetization payouts drew users back from Threads within days.[9]
 
-## References
+## Shareholder list unsealed (2024)
 
+In August 2024 a federal judge ordered [[x-corp|X]] to unseal the roster of shareholders in X Holdings Corp., providing the first official public accounting of the investors who backed [[elon-musk|Elon Musk]]'s $44 billion acquisition of Twitter in October 2022.[10] Twitter founder and former chief executive [[jack-dorsey|Jack Dorsey]] was among the named investors, along with [[andreessen-horowitz|Andreessen Horowitz]], [[alwaleed-bin-talal|Alwaleed bin Talal]] and [[8vc|8VC]].[10]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 3. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
@@ -73,3 +76,4 @@ The July 2023 launch and rapid unraveling of Meta's [[threads|Threads]] was wide
 7. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 8. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908
 9. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+10. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

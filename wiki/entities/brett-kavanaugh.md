@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, confirmation-hearings]
-sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-757.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ During oral argument on 22 April 2025 in the [[montgomery-county-lgbtq-books-cas
 
 At the December 4, 2024 oral arguments over Tennessee's ban on gender-affirming care for minors, Kavanaugh — described alongside Chief Justice [[john-roberts]] as one of the Court's two most important votes — repeatedly suggested that such medical questions should be left to legislatures rather than courts.[3] He also raised concerns about the impact any ruling might have on girls' sports, pressing Solicitor General [[elizabeth-prelogar]]: "If you prevail here, what would that mean for women's and girls' sports in particular?"[3] Observers noted the significance of the question coming from Kavanaugh, a [[donald-trump]] nominee who has spoken about coaching basketball for his daughters' teams, one of which attended his 2018 confirmation hearing.[3] See [[united-states-v-skrmetti]].[3]
 
+## Arizona voting law order (2024)
+
+Reporting on the [[supreme-court-of-the-united-states|Supreme Court]]'s August 22, 2024 order concerning Arizona's proof-of-citizenship voting law noted that at least one of Kavanaugh or Chief Justice [[john-roberts|John Roberts]] joined the four justices who denied the [[republican-national-committee|Republican National Committee]]'s other request.[4]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 3. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

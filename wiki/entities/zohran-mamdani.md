@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayor, icc, netanyahu, politics]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ecd.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -114,8 +114,17 @@ As first-choice votes were tallied in the New York City Democratic mayoral prima
 
 Badlands contributor [[chris-paul|Chris Paul]] dismissed the result as a "Muslim socialist wins fake election decided in comic fashion against Andrew Cuomo," calling the outcome "hilarious."[16]
 
-## References
+## Criticism over crime policy (August 2025)
 
+Badlands commentary in August 2025 described Mamdani as New York City's "socialist mayor-in-waiting," accusing him of pushing a "crime carnival" by downgrading violent misdemeanors as "non-serious" acts of survival and of framing policing as oppression.[17] The commentary argued this invited San Francisco-style collapse to the city, and placed Mamdani alongside Maryland Governor [[wes-moore|Wes Moore]] as an opposition figure President [[donald-trump|Donald Trump]] deliberately spotlights to build a mandate against him.[17]
+
+## Oval Office meeting with Trump (November 2025)
+
+President [[donald-trump|Donald Trump]] agreed to meet Mayor-elect Mamdani for the first time at the [[white-house|White House]] on Friday, November 21, 2025, an unexpected sit-down with the Democratic socialist whose election he had opposed.[18] Trump announced the meeting on Truth Social, writing: "Communist Mayor of New York City, Zohran 'Kwame' Mamdani, has asked for a meeting. We have agreed that this meeting will take place at the Oval Office on Friday, November 21st."[18] Trump had urged New York voters to back Mamdani's opponent, former Governor Andrew Cuomo, and had repeatedly attacked him publicly.[18] Mamdani spokesperson Dora Pekec said the two would discuss public safety, economic security and "the affordability agenda that over one million New Yorkers voted for just two weeks ago"; Mamdani said he had reached out to the White House to discuss affordability, a central plank of his campaign.[18]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] warned the meeting could "undermine everything for which we've worked so hard," arguing that "Mammany Hall" needed to serve as a cautionary example for the nation and that legitimizing the Democratic Socialists of America in the Oval Office amounted to "unity with communists," which she called treason.[18]
+
+## References
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 2. Badlands Brief — "Trump's DOJ Gets Busy as the Boss Jets to Beijing", URL: https://badlands.substack.com/p/badlands-brief-a89
 3. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
@@ -132,3 +141,5 @@ Badlands contributor [[chris-paul|Chris Paul]] dismissed the result as a "Muslim
 14. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 15. Badlands Brief — "Badlands News Brief: Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 16. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+17. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd
+18. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

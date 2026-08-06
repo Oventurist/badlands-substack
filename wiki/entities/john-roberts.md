@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, chief-justice, elections, judiciary]
-sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-d8c.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ee6.md]
 confidence: medium
 ---
 
@@ -57,7 +57,22 @@ On February 26, 2025, Chief Justice Roberts paused a federal judge's order that 
 
 Chief Justice Roberts wrote the majority opinion in [[trump-v-united-states|Trump v. United States]], decided 6-3 on July 1, 2024, holding that a former president is entitled to "absolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority," to "presumptive immunity" for other official acts, and to "no immunity for unofficial acts."[10] He further wrote that [[donald-trump|Donald Trump]] is "absolutely immune" from prosecution for any conduct in the indictment involving his discussions with Justice Department officials, leaving to District Judge [[tanya-chutkan|Tanya Chutkan]] the task of sorting official from unofficial acts in the January 6 case.[10]
 
+## Refusal to testify at the Senate ethics hearing (2024)
+
+Roberts declined a request from the [[senate-judiciary-committee|Senate Judiciary Committee]] to testify at a hearing on ethical standards at the court, instead providing the panel with a statement of ethics reaffirmed by the court's nine justices.[11] Committee Chairman [[dick-durbin|Dick Durbin]] had invited his testimony the previous week, citing a "steady stream of revelations" regarding Supreme Court justices "falling short of ethical standards expected of other federal judges."[11] The invitation followed news reports detailing a close relationship between Justice [[clarence-thomas|Clarence Thomas]] and Dallas billionaire donor [[harlan-crow|Harlan Crow]], who according to ProPublica had purchased three properties belonging to Thomas and his family in a transaction worth more than $100,000 that Thomas never reported.[11] In a letter to Durbin, Roberts said he would "respectfully decline" the committee's request.[11]
+
+## Arizona voting law order (2024)
+
+In the [[supreme-court-of-the-united-states|Supreme Court]]'s August 22, 2024 order on Arizona's proof-of-citizenship voting law, at least one of Chief Justice Roberts or Justice [[brett-kavanaugh|Brett Kavanaugh]] joined the four justices who voted to deny the [[republican-national-committee|Republican National Committee]]'s remaining request, giving that position a majority.[12]
+
+## Buffalo remarks on judicial independence (May 2025)
+
+On Wednesday evening, May 7, 2025, Roberts defended the independence of the judiciary and denounced any attempt to impeach judges over disagreements with their rulings, in rare public remarks delivered in his hometown of Buffalo.[13] "Impeachment is not how you register disagreement with a decision," he told a crowd of about 600 people, mainly lawyers and judges.[13] The comments were his first since a similar written statement issued in March 2025 responding to threats by President [[donald-trump|Donald Trump]] and his allies to impeach federal judges who had ruled against administration policies.[13]
+
+Roberts did not mention the president directly and did not elaborate on the impeachment question, which he answered during an event commemorating the 125th anniversary of the U.S. District Court for the Western District of New York.[13] Asked about the centrality of judicial independence, he responded, "It's central," adding that the judiciary's job was "to obviously decide cases but in the course of that to check the excesses of Congress or the executive, and that does require a degree of independence."[13] Badlands host Jon Herold answered by citing Federalist 78 — "[The judiciary]...must ultimately depend upon the aid of the executive arm even for the efficacy of its judgments" — while the brief's editorial take held that Trump "doesn't actually need permission from the courts."[13]
+
 ## References
+
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 3. Badlands Brief — "Badlands News Brief: A New Era of Terror & Monumental Lightning Strikes", URL: https://badlands.substack.com/p/badlands-news-brief-12c
@@ -68,3 +83,6 @@ Chief Justice Roberts wrote the majority opinion in [[trump-v-united-states|Trum
 8. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 9. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 10. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+11. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c
+12. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+13. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6

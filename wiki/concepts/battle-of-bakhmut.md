@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, bakhmut, wagner-group, donbas, war]
-sources: [raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-a5a.md]
+sources: [raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-d61.md]
 confidence: medium
 ---
 
@@ -44,9 +44,18 @@ On Tuesday, February 28, 2023, Ukrainian presidential adviser [[alexander-rodnya
 
 [[burning-bright|Burning Bright]] warned against conflating a Ukrainian withdrawal with Russia's maneuver-defense doctrine of voluntarily ceding ground in order to encircle and destroy an advancing force, and read the Ukrainian messaging instead as an admission of defeat and of the failure of the [[nato|NATO]] proxy war.[5]
 
+## Wagner's declaration of full capture (May 20, 2023)
+
+On Saturday, May 20, 2023, [[yevgeny-prigozhin|Yevgeny Prigozhin]], head of the Russian private military company [[wagner-group|Wagner]], announced that Russia had taken full control of the strategic city of Bakhmut after months of grinding warfare and heavy casualties.[6] In a video posted to Wagner's Telegram channel he said, "The operation to capture Bakhmut lasted 224 days," and declared, "Today at noon, Bakhmut was fully captured."[6] Russian state media likewise reported that "the key Donbass city of Artyomovsk, known as Bakhmut in Ukraine, has been fully liberated by the Russian forces."[6]
+
+Prigozhin described the final capture as coming when an area of high-rise buildings holding the last Ukrainian defensive holdout was conquered.[6] Western outlets said they could not verify the claims, but *Reuters* and the *Associated Press* widely reported the Wagner chief's declaration of victory.[6]
+
+Badlands commentator [[burning-bright|Burning Bright]] read the announcement as the resolution of weeks of [[kayfabe|kayfabe]] between Wagner and the Kremlin, during which Prigozhin had alleged that his forces were taking heavy losses in Bakhmut before abruptly announcing victory.[6] He described the result as "narrative whiplash on NATO simps," noted that even mainstream media were admitting the kinetic situation on the ground was virtually impossible to verify and that Ukrainian leadership had been misleading in recent reports, and argued that the fall of the city paved the way for a fresh wave of [[nato|NATO]] escalation and desperation.[6] In his framing, "Peacemaker on Deck": once one understands that the conflict only ends with the [[peacemaker-theory|Peacemaker Theory]], all of the escalation and acceleration "from Bakhmut to Taiwan makes perfect sense."[6]
+
 ## References
 1. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 2. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 3. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 4. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
 5. Badlands News Brief — "Ukrainian Backpedal, Maxwell Solitary & Local Heroes", URL: https://badlands.substack.com/p/badlands-news-brief-a5a
+6. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61

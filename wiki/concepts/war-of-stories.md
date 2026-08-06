@@ -1,0 +1,23 @@
+---
+title: "War of Stories"
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [information-war, narrative-warfare, badlands-media, analysis]
+sources: [raw/badlands-news-brief-ee9.md]
+confidence: low
+---
+
+# War of Stories
+
+The **War of Stories** is an analytical refrain used by [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]], published as an essay on the Badlands Substack and invoked repeatedly in his commentary on geopolitics.[1] It treats world events as contests between competing narratives — stories told to and about populations — rather than as a straightforward sequence of material causes.[1]
+
+## Application to China and Taiwan
+
+In April 2023, Burning Bright applied the War of Stories lens to escalating tensions between China and [[taiwan|Taiwan]], describing a conversation with Just Human on the program DEFECTED in which he set out a personal theory of what form "escalation" between the two would take.[1] He forecast a series of escalating stand-offs in the Taiwan Strait, the "buzzing" of aircraft, and eventual involvement of the Japanese, Australian and United States navies.[1] He argued that this reading mapped onto [[donald-trump|Donald Trump]]'s "WW3 and Peacemaker" narrative seeding, and onto Just Human's Regions of Responsibility concept, in which a rebalancing multi-polar world order takes shape as the United States withdraws from its role as the world's watchdog and enforcer.[1]
+
+He further warned that such a cascade could begin with a new [[gulf-of-tonkin-incident|Gulf of Tonkin]]-style mass psychological, near-kinetic event — an incident whose narrative effect exceeds its kinetic content.[1] The framework is presented alongside Just Human's maxim that "Understanding > Reacting," positioning narrative analysis as an alternative to reflexive response to headlines.[1]
+
+## References
+
+1. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9

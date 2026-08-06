@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense-contractor, military-industrial-complex, weapons]
-sources: [raw/badlands-news-brief-2e8.md]
+sources: [raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-e7c.md]
 confidence: low
 ---
 
@@ -16,3 +16,9 @@ In an August 2023 Badlands News Brief item on plans by the Biden administration 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Rise and Fall of the Warmongers ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-2e8
+
+## Ukraine war profits
+
+In September 2023 commentary for [[badlands-media|Badlands Media]], [[ryan-delarme|Ryan DeLarme]] cited Raytheon as an illustration of the incentive structure behind the [[russia-ukraine-war|war in Ukraine]], noting that the company's stock value had risen almost 40% since the start of the Ukraine effort.[2] He argued that for the defense sector the object of a long war is not victory but "producing, selling, and using weapons," making the conflict a win either way: a Russian defeat would open vast resources to plunder, while a stalemate sustains the standard war machine agenda.[2]
+
+2. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

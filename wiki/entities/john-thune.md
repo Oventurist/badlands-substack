@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, confirmations, republican-leadership]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-6b4.md, raw/badlands-brief-625.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-6b4.md, raw/badlands-brief-625.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -52,6 +52,14 @@ Badlands contributor Ashe in America countered that the only complicating dynami
 
 On Monday, May 12, 2025, after the Justice Department named Deputy Attorney General [[todd-blanche|Todd Blanche]] acting Librarian of Congress in place of [[carla-hayden|Carla Hayden]], Thune told reporters that lawmakers were investigating whether President [[donald-trump|Donald Trump]] has the power to fire the Librarian of Congress, who is technically a legislative branch employee.[8] "We want to make sure congressional equities are respected and protected in this process," Thune said.[8] His remarks were cited as an example of Senate Republicans raising institutional objections to the president installing a loyalist at the [[library-of-congress|Library of Congress]].[8]
 
+## Megabill timetable and the "Byrd bath" (June 2025)
+
+As Senate Majority Leader, Thune aimed to have the GOP's "big beautiful bill" on President [[donald-trump|Donald Trump]]'s desk by July 4, 2025.[9] Before that could happen, some of the megabill's most controversial provisions had to survive the so-called "Byrd bath," the process determining eligibility for inclusion in a reconciliation package that can pass with a 51-vote majority.[9] Senate parliamentarian [[elizabeth-macdonough|Elizabeth MacDonough]] ruled that several parts of the tax and spending legislation violated Senate rules and had to be removed, complicating Thune's timeline for the [[one-big-beautiful-bill-act|One Big Beautiful Bill Act]].[9]
+
+## Nominations rule change and batch confirmations (September 2025)
+
+In September 2025 Thune, as Senate Majority Leader, moved to clear a backlog of 108 [[donald-trump|Trump]] administration nominees for executive-branch roles by early October, filing a resolution late on a Thursday night to confirm them in a single large batch.[12] The step followed his invocation the previous week of a so-called nuclear option — a rule change allowing executive-branch nominees to be confirmed in large groups rather than individually — in response to Senate Democrats forcing roll-call votes on each nominee to draw confirmations out as long as possible.[12] The positions at issue ranged from ambassadors to U.S. attorneys to deputy and assistant department secretaries, and the slate included [[herschel-walker|Herschel Walker]].[12]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
@@ -61,3 +69,23 @@ On Monday, May 12, 2025, after the Justice Department named Deputy Attorney Gene
 6. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 7. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
 8. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+9. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+
+## 2025 reconciliation megabill negotiations
+
+During the April 2025 drafting of the Republican domestic policy megabill, Thune, as Senate Majority Leader, left himself maximum flexibility to placate his own conference, in contrast to Speaker [[mike-johnson|Mike Johnson]]'s promises to House fiscal hawks of steep spending cuts.[10] The divergence between the two chambers exposed fissures over tax cuts, border security, and energy provisions that some Republicans feared could sink the legislation entirely.[10]
+
+10. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+
+## Filing cloture on the Patel nomination (February 2025)
+
+After the [[united-states-senate|Senate]] voted 48-45 on February 18, 2025 to move into Executive Session to consider [[kash-patel|Kash Patel]]'s nomination as [[fbi|FBI]] Director, Majority Leader Thune filed cloture on the nomination.[11] Badlands coverage explained that the vote to invoke cloture would come before the Senate on Thursday, after which the 30-hour post-cloture clock would begin, putting Patel on track for confirmation as early as Friday, February 21.[11] Part of the delay was attributed to the chamber's decision the same day to take up a budget resolution carrying 50 hours of debate, following the delegation's weekend trip to Munich.[11]
+
+11. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+12. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+
+## Election as Senate Majority Leader (November 2024)
+
+On November 13, 2024, Thune was elected Senate majority leader, positioning him to replace the retiring [[mitch-mcconnell|Mitch McConnell]], who had held the top Senate GOP leadership post for eighteen years.[13] Thune had served as Senate Republican whip, the number two leadership position, since 2019, and had largely managed operation of the Senate floor after McConnell suffered a concussion from a fall in 2023.[13] He defeated [[john-cornyn|John Cornyn]] of Texas by a vote of 29 to 24 in the decisive round, having led the first ballot with 25 votes to Cornyn's 15 and 13 for [[rick-scott|Rick Scott]] of Florida.[13] In a statement after the vote Thune said he was "extremely honored to have earned the support of my colleagues to lead the Senate in the 119th Congress," adding that the Republican team was "united behind President Trump's agenda."[13] Reporting described him as well liked within the conference for an affable, humble management style; he had announced his candidacy shortly after McConnell said in February 2024 that he would step down from leadership at year's end.[13]
+
+13. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

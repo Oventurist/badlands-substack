@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, president, mccain-institute, kissinger-fellowship, color-revolution]
-sources: [raw/badlands-news-brief-290.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-576.md]
+sources: [raw/badlands-news-brief-290.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -42,3 +42,10 @@ Amid the eleven-day Tbilisi protests over the suspension of European Union acces
 1. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
 3. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
+
+## December 2024 presidential transition
+
+Thousands of Georgians protested in Tbilisi as [[mikheil-kavelashvili|Mikheil Kavelashvili]], a former professional footballer allied with the ruling [[georgian-dream|Georgian Dream]] party, was inaugurated president in late December 2024, during a critical period following the government's suspension of Georgia's European Union accession application.[4] Georgian Dream had won October parliamentary elections in a victory mired in fraud allegations that sparked repeated street protests.[4] Outgoing president [[salome-zourabichvili|Salome Zourabichvili]] refused to step down, calling herself the "only legitimate president," but ultimately left the presidential palace while branding her successor illegitimate: "This building was a symbol only as long as a legitimate president was sitting here."[4] Kavelashvili was sworn in at a private ceremony down the street with Prime Minister [[irakli-kobakhidze|Irakli Kobakhidze]] in attendance.[4]
+
+Badlands commentary described Georgia as the target of intense [[central-intelligence-agency|CIA]] color revolution operations over the preceding year, beginning after Kobakhidze's party pushed legislation requiring NGOs receiving more than 20% of their funding from foreign sources to disclose their donors — the same type of law associated with the shooting of Slovak Prime Minister [[robert-fico|Robert Fico]].[4] Georgia's strategic value was tied to the [[baku-tbilisi-ceyhan-pipeline|Baku–Tbilisi–Ceyhan pipeline]], which carries Azerbaijani oil to Turkey's Ceyhan terminal and onward to Israel, supplying a reported 40% of Israeli oil, and to its role as leverage against Russia in the Caucasus.[4]
+4. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

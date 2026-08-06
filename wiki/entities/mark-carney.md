@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, banking, green-finance, goldman-sachs, city-of-london]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-dca.md]
 confidence: medium
 ---
 
@@ -141,6 +141,14 @@ Speaking to journalists on the sidelines of the [[2025-g20-johannesburg-summit|G
 
 Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] offered several readings of the remarks, noting that Matt Ehret had taught him to see Carney as "the king of all central bankers," representing interests describable only as globalist and one-world government.[21] On one framing the comments were typical anti-American rhetoric applauding the waning of American society and influence; on a second, "bicameral" framing they were the central banker king conceding the demise of the central banking system and the shift toward a multipolar world with decentralized economic and financial systems.[21] The framing he favored was that Carney had been deployed to subvert the MAGA agenda — particularly the tariff program — which would explain the collapse of Canada–US trade negotiations, with the remarks read as a defiant reaction to Trump's populist-nationalist agenda.[21] He added that he does not assume every major public figure is directly controlled by the Trump team, and that most figures, possibly including Carney, are simply responding to an incentive structure laid out before them.[21]
 
+## Declaration that the era of close US ties is "over" (March 2025)
+
+On Thursday, March 27, 2025, Carney announced that the longstanding era of close economic, security, and military ties between Canada and the United States had effectively ended, a statement that followed President [[donald-trump|Donald Trump]]'s introduction of substantial tariffs on imported automobiles.[22] Speaking in the capital, Carney said: "The old relationship we had with the United States based on deepening integration of our economies and tight security and military cooperation is over."[22]
+
+Carney said a call between Ottawa and the [[white-house|White House]] was expected following a recent outreach from US officials, and anticipated speaking with Trump within days amid rising trade tensions.[22] The automotive tariffs were described as signalling increasing US protectionism, which affected Canada significantly because of its deep integration in the North American auto industry; US autoworkers, including the United Auto Workers union, nonetheless praised the plan.[22]
+
+Badlands contributor [[burning-bright|Burning Bright]] called Carney's response a "pitiful tariff temper tantrum" demonstrating Trump's control over the battlespace, arguing that by embracing economic decoupling and lionizing Canadian sovereignty Carney was boosting nationalism rather than undermining it.[22]
+
 ## References
 
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
@@ -164,3 +172,4 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] offer
 19. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 20. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 21. Badlands Brief — "Badlands News Brief: Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+22. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca

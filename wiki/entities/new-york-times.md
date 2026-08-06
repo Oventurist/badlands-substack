@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -107,6 +107,26 @@ The report was described as scathing toward Zelenskyy, characterising his lobbyi
 
 On December 27, 2023, The New York Times sued [[microsoft|Microsoft]] and [[openai|OpenAI]] for copyright infringement and misuse of its intellectual property, seeking "billions of dollars in statutory and actual damages" for the "unlawful copying and use of The Times's uniquely valuable works."[17] The complaint accused the defendants of building a business model on "mass copyright infringement," alleging their AI systems "exploit and, in many cases, retain large portions of the copyrightable expression contained in those works."[17] The case is described in more detail at [[new-york-times-v-microsoft-and-openai|New York Times v. Microsoft and OpenAI]].[17]
 
+## Sulzberger's defence of Biden age coverage (February 2024)
+
+In an interview with Oxford University's Reuters Institute for the Study of Journalism published in February 2024, publisher [[arthur-greg-sulzberger|Arthur Greg Sulzberger]] defended the paper's reporting on President [[joe-biden|Joe Biden]]'s age, saying it had made the [[white-house|White House]] "extremely upset."[18] Asked whether journalists should take a different approach in covering an "authoritarian candidate," Sulzberger warned of a risk in the media "leaning into becoming the opposition to these candidates and becoming emotionally invested and trying to undermine them," and pledged to continue reporting "fully and fairly, not just on [[donald-trump|Donald Trump]] but also on President Joe Biden," whom he called "a historically unpopular incumbent and the oldest man to ever hold this office."[18] He also acknowledged that a "disproportionate number" of conservative voters distrust any outlet that recognises Biden as the legitimate winner of the 2020 election.[18]
+
+Sulzberger, who succeeded his father Arthur Ochs Sulzberger Jr. at the end of 2017, is the sixth member of the Ochs-Sulzberger family to serve as publisher, and all voting shares are controlled by the Ochs-Sulzberger Family Trust, whose stated primary objective is that the Times remain "an independent newspaper, entirely fearless, free of ulterior influence and unselfishly devoted to the public welfare."[18] [[simon-esler|Simon Esler]] of [[badlands-media|Badlands Media]] argued that Sulzberger is "the old guard personified" rather than evidence of any recalibration of the paper, and that reports of White House anger at the Times are theatre designed to entrench a new story "with slightly altered villains and heroes" — part of an operation to assassinate Biden's character.[18]
+
+## Adam Rubenstein's account of newsroom bias (2024)
+
+In February 2024, former opinion editor [[adam-rubenstein|Adam Rubenstein]] published a lengthy essay in [[the-atlantic|The Atlantic]] describing what he characterized as pervasive bias and activism at the paper, following similar accounts by former Times figures ranging from [[bari-weiss|Bari Weiss]] to his former colleague [[james-bennet|James Bennet]].[19] Rubenstein described a newsroom in which his passing remark about liking Chick-fil-A drew condemnation from shocked colleagues, and in which staff routinely rejected conservative viewpoints, imposed added demands and editing on conservative contributors, and resisted working on such pieces.[19]
+
+Rubenstein had been involved in the 2020 controversy over the paper's publication of Senator [[tom-cotton|Tom Cotton]]'s op-ed arguing for possible use of the National Guard against violent rioting around the White House — an episode [[jonathan-turley|Jonathan Turley]] called one of the lowest points in the history of modern American journalism, noting that Times reporters denounced the column as inaccurate and inciteful and claimed it endangered them, while the paper a year later published a column by an academic who had suggested there was nothing wrong with murdering conservatives and Republicans.[19] Rubenstein observed that on January 6, 2021 few at the paper remarked that liberals were cheering the National Guard deployment against rioting at the Capitol — precisely what Cotton had urged.[19]
+
+## Columbia Journalism Review indictment (2023)
+
+At the end of January 2023 the [[columbia-journalism-review|Columbia Journalism Review]] published a scathing indictment of the New York Times for yellow journalism during the Trump-Russia saga, characterizing the hyper-partisan "paper of record" as having operated in bad faith.[20] [[zerohedge|ZeroHedge]], reporting the findings, argued they applied to the wider press as well.[20] Badlands contributor [[burning-bright|Burning Bright]] wrote that the Times and other legacy outlets had been less than honest in sourcing and confirming erroneous claims drummed up, and sometimes paid for, by [[donald-trump|Donald Trump]]'s political opposition.[20]
+
+## FOIA suit over Elon Musk's security clearances
+
+The Times petitioned the [[defense-counterintelligence-and-security-agency|Defense Counterintelligence and Security Agency]] in 2024 under the [[freedom-of-information-act|Freedom of Information Act]] for information about the security clearances held by [[elon-musk|Elon Musk]], and sued after the agency repeatedly rejected the request on the grounds that disclosure could invade Musk's privacy.[22] On October 8, 2025 Judge [[denise-cote|Denise Cote]] ruled for the newspaper, holding that the public interest in knowing whether "the leader of SpaceX and Starlink holds the appropriate security clearances" — combined with Musk's role as a "special government employee" heading [[doge|DOGE]] and his own public statements — outweighed the privacy claim.[22]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -125,3 +145,13 @@ On December 27, 2023, The New York Times sued [[microsoft|Microsoft]] and [[open
 15. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 16. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 17. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+18. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+19. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+20. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+
+## Trump's $15 billion defamation suit (September 2025)
+
+In September 2025, President [[donald-trump|Donald Trump]] announced that he had filed a $15 billion defamation and libel lawsuit against The New York Times, accusing the paper of serving as a "mouthpiece" for Democrats and of decades of false reporting.[21] He claimed the Times' front-page endorsement of Kamala Harris amounted to the largest illegal campaign contribution in history, and accused the paper of a longstanding pattern of lying about him, his family, his business, and the America First movement.[21] Trump likened the case to prior settlements with ABC, Disney, and [[cbs|CBS]] over allegations of fabricated and altered material, and filed the suit in Florida.[21] The case is covered at [[trump-defamation-lawsuit-against-the-new-york-times|Trump defamation lawsuit against The New York Times]].[21]
+
+21. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+22. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cabinet, senate-confirmation, small-business-administration]
-sources: [raw/badlands-news-brief-048.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] criticized the 30-hour 
 
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
+
+## SBA confirmation timing (February 2025)
+
+Badlands coverage of the Senate calendar for Wednesday, February 19, 2025 reported that the chamber was expected to confirm Loeffler's nomination to lead the [[small-business-administration|Small Business Administration]] that day before adjourning for party lunches.[2] The vote came amid a crowded floor schedule that also included the confirmation of [[howard-lutnick|Howard Lutnick]] as Commerce Secretary, procedural votes on [[kash-patel|Kash Patel]]'s nomination to lead the [[fbi|FBI]], and the start of debate on a budget resolution.[2]
+
+2. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

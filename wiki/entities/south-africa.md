@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [apartheid, sanctions, oil, uranium, commodities]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-c44.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -36,7 +36,20 @@ In April 2025 President [[donald-trump|Donald Trump]] said the United States wou
 
 Chrispin Phiri, a spokesman for South Africa's Department of International Relations and Cooperation, responded that the country's constitution protects all who live there: "Not because they are black, not because they are white, not because they are in the majority, not because they are in the minority, but because they are human beings, every person has fundamental rights."[3]
 
+## ICJ application over Rafah, May 2024
+
+On May 16, 2024, South Africa asked the [[international-court-of-justice|International Court of Justice]] to urgently order [[israel|Israel]] to end its assault on [[rafah|Rafah]], halt its military campaign across [[gaza|Gaza]], and admit international investigators and journalists to the territory.[4] Its lawyers argued that seven months into a war that had killed more than 35,000 people, only a total ceasefire could get food, medicine and aid to the population, and demanded access for reporters and war crimes investigators to collect and preserve evidence.[4]
+
+The South African team presented video of Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] demanding war and the entry into Rafah at a "Gaza March" rally, footage of [[israel-defense-forces|IDF]] soldiers chanting "Let's go destroy Rafah!", and evidence of mass graves containing bound and summarily executed civilians.[4] Counsel named Brigadier General [[david-bar-khalifa|David Bar-Khalifa]] as having ordered executions of civilians, noting he was subsequently promoted to head of the Personnel Division.[4] Advocate Tembeka Ngcukaitobi told the court that "Israel's intent was always to destroy Palestinian life and to wipe them off the face of the Earth."[4]
+
+
+## ICJ genocide case and the Ukraine peace plan (2024)
+
+In August 2024, [[turkey|Turkey]] announced that it would formally file a declaration of intervention in South Africa's genocide case against [[israel|Israel]] at the [[international-court-of-justice|International Court of Justice]] in The Hague, a case South Africa had launched over the war in [[gaza|Gaza]].[5] Badlands Media paired this with reporting that South Africa had publicly endorsed the Ukrainian peace plan produced by the "shuttle diplomacy" of China and Brazil, treating both as evidence of a realignment toward what the outlet calls the [[sovereign-alliance|Sovereign Alliance]].[5]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
 3. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+4. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+5. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

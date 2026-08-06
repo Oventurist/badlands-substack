@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, retail, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-cc9.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-db9.md]
 confidence: medium
 ---
 
@@ -48,3 +48,11 @@ On 26 September 2023, Target announced it would close nine stores across four st
 Writing for [[badlands-media|Badlands Media]], [[american-hypnotist|American Hypnotist]] argued that authorities who permit looting tacitly endorse it, and that officials bear a legally codified duty to protect that ordinary citizens do not.[6] He described the closures as another "canary in the coal mine" signalling an absence of law and order dating to the riots of 2020, and named [[nancy-pelosi|Nancy Pelosi]] and [[maxine-waters|Maxine Waters]] among politicians he accused of encouraging those riots.[6]
 
 6. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9
+
+## May 2023 Pride merchandise withdrawal
+
+One week after chief executive [[brian-cornell|Brian Cornell]] said that "woke" capitalism was "great" for the brand and "the right thing for society," Target began removing LGBTQ Pride merchandise from selected stores as consumer boycott calls mounted, in an effort to avoid what one report called a "Bud Light situation."[7] A Target insider told Fox News that the company held an emergency meeting and that stores in the South and rural America were pulling controversial LGBT-themed products ahead of June Pride Month — items ranging from "tuck-friendly" swimsuits for transgender people to gender-fluid coffee mugs — explicitly "to avoid the kind of backlash Bud Light has received in recent weeks."[7]
+
+Writing for [[badlands-media|Badlands Media]], [[justin-deschamps|Justin Deschamps]] coined the verb "Budlighted" for what happens to a company that pushes ideological messaging onto a largely ambivalent customer base, argued that the corruption of institutions and private enterprise ran far deeper than "a few pride flags," and criticised leadership for panicking over a handful of activist employees at the expense of a business employing thousands — likening the decision to "sorting chairs on the Titanic."[7] See also [[target-pride-collection-boycott]] and the [[2023-bud-light-boycott]].
+
+7. Badlands Brief — "Badlands News Brief: DeSimps Assemble, Committees Convene & Target Tantrums", URL: https://badlands.substack.com/p/badlands-news-brief-db9

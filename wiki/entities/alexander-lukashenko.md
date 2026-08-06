@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [belarus, diplomacy, board-of-peace]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-6a1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-b5f.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-6a1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-ea0.md]
 confidence: medium
 ---
 
@@ -55,3 +55,19 @@ In August 2024, Lukashenko said he had deployed nearly one-third of Belarus's ar
 4. Badlands Brief — "'X' Marks the Spot & Vineyard Mysteries Abound", URL: https://badlands.substack.com/p/badlands-news-brief-3f8
 5. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
 6. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
+
+## Wagner fighters in Belarus (August 2023)
+
+In the aftermath of the plane crash believed to have killed [[yevgeny-prigozhin|Yevgeny Prigozhin]], Lukashenko announced that he would allow [[wagner-group|Wagner]] troops to remain in Belarus.[7] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued the decision conveniently shored up Belarusian military strength, continuing on from the bloodless and strategic "March on Moscow" earlier that summer.[7]
+
+7. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+
+## Nuclear remarks and tactical weapons delivery (June 2023)
+
+In a Wednesday interview on Rossiya-1 television in mid-June 2023, Lukashenko said Western allies were deeply afraid that a new, large-scale war would break out in Europe and result in "global catastrophe."[8] He said he had "met with people playing an important role in this, who make radical, drastic and final decisions in the event of an 'if'," and that "what they fear most is a nuclear disaster, and they have been sincere about this. They are afraid of using nuclear weapons in Ukraine. It's only natural."[8]
+
+Lukashenko stressed that Belarus shared that fear, saying "we are not seeking that either, and we, too, are afraid," because experts warned a global catastrophe could follow and "this planet may deorbit, if all these weapons explode."[8] His remarks came the same day he confirmed that Belarus had begun taking delivery of Russian tactical nuclear weapons on its territory, in line with earlier announcements that had alarmed the West.[8] The comments were paired in Western coverage with warnings from [[vladimir-putin|Vladimir Putin]] about worst-case outcomes of the [[russia-ukraine-war|Ukraine war]].[8]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued that Putin's warning of catastrophe in Europe should NATO escalation continue in the Donbas had triggered a fresh cascade of media warmongering, though Putin and his allies were in fact describing the scenarios they sought to avoid.[8] He read the episode through the "War of Stories" framing applied to the information war, suggesting Putin was pursuing peace while refusing retreat before the NATO war machine, a posture that positioned [[donald-trump|Donald Trump]] as the eventual peacemaker.[8]
+
+8. Badlands Brief — "Badlands News Brief: Trump's Trap, Putin's Play & Woke's Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ea0

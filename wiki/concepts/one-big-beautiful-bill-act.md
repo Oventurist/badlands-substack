@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, appropriations, immigration, ice, congress]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a69.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-f1a.md]
 confidence: low
 ---
 
@@ -64,6 +64,16 @@ Badlands contributor [[jon-herold|Jon Herold]] argued on the [[devolution-power-
 
 Debate on the package ran through an all-night Senate session on Sunday, June 29, 2025, as Republicans wrestled the bill of tax breaks and spending cuts past mounting Democratic opposition and some brake-pumping over budget slashing from the president himself.[9] GOP leaders rushed to meet Trump's Fourth of July deadline after barely securing enough support to clear a procedural hurdle the previous day; a handful of Republican holdouts revolted, and phone calls from Trump plus a visit from Vice President [[jd-vance|JD Vance]] were required to keep the effort on track.[9] Critics warned the bill would enlarge the deficit and leave millions uninsured, and Senator [[thom-tillis|Thom Tillis]] of North Carolina announced he would not seek reelection after Trump badgered him over his opposition to the Medicaid cuts.[9] Badlands contributor [[chris-paul|Chris Paul]] quipped that the left was arguing against government spending, deficits and taxes in the hope of peeling off Trump supporters, while instead converting their own base.[9]
 
+## Senate parliamentarian rulings (June 2025)
+
+Over several days in late June 2025 the Senate parliamentarian, [[elizabeth-macdonough|Elizabeth MacDonough]], rejected several controversial provisions in the GOP's "big beautiful bill."[10] Senate Majority Leader [[john-thune|John Thune]] aimed to have the bill on President [[donald-trump|Donald Trump]]'s desk by July 4, but the most contested aspects of the megabill first had to undergo the so-called "Byrd bath," the review determining whether they are eligible for a reconciliation package that can pass with a 51-vote majority.[10] MacDonough ruled that several parts of the tax and spending legislation violated Senate rules and had to be taken out.[10]
+
+## Estimated 2026 tax savings
+
+An analysis by the nonpartisan [[tax-foundation|Tax Foundation]] released in August 2025 estimated that American taxpayers would receive an average tax cut of $3,752 in 2026 as a result of the One Big Beautiful Bill Act.[11] The report stated that the law "makes the most significant legislative changes to federal tax policy" since the 2017 Tax Cuts and Jobs Act before estimating average savings for filers in each state.[11] Taxpayers in Wyoming and Washington were projected to see the largest average cuts at nearly $5,400, while those in Mississippi and West Virginia would see the smallest at roughly $2,400 and $2,500 respectively.[11]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] presented the figures as confirmation that the foundations of what he calls a coming Golden Age had been laid quietly over preceding years, describing the moment as the advent of a new American epoch.[11]
+
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
@@ -74,3 +84,5 @@ Debate on the package ran through an all-night Senate session on Sunday, June 29
 7. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 8. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
 9. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+10. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+11. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a

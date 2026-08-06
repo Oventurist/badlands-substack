@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, lawfare, maga, narrative]
-sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a0b.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-f6f.md]
 confidence: low
 ---
 
@@ -62,6 +62,17 @@ Martin failed to disclose nearly 200 media appearances in his initial disclosure
 
 In reporting published April 1, 2025, The New York Times described Martin — the "ardent Trump loyalist serving as interim U.S. attorney in Washington" — as pursuing an inquiry into whether former President [[joe-biden|Joseph R. Biden Jr.]] was competent to pardon his family members and others during his final days in office.[9] The inquiry included previously unreported letters to Biden's family and former [[white-house|White House]] staff members, which the Times said used the levers of federal law enforcement to harass Biden's family and allies and undermine his decisions as president while scoring political points with [[donald-trump|President Trump]].[9] Trump and his supporters had increasingly seized on the unsubstantiated theory that pardons Biden issued in his final months might be invalid because he lacked the mental capacity to consent to them.[9] Martin began sending the letters roughly two months earlier; the Times characterised them as informal but provocative, questioning a presidential clemency power that has generally gone unchallenged.[9]
 
+
+## Columbo Meme in the Election-Monitoring Dispute (October 2025)
+
+In October 2025 Martin, serving as a DOJ Special Attorney, posted a Columbo meme amid the public dispute over the [[department-of-justice|Justice Department]]'s plan to monitor the November elections in California and New Jersey.[10] The post was a quote of AAG Jesus Osete's reminder that the Biden/Garland DOJ had done the same thing that critics such as [[gavin-newsom|Gavin Newsom]] were objecting to.[10] Badlands commentary noted that Martin's signature trenchcoat had long evoked the television detective, and used the character's persistence — "Just one more thing, Mr. Martin…" — to frame both hope in the department's posture and skepticism that memes and monitoring can substitute for genuine election reform.[10]
+
+## Review of Biden's outgoing pardons (May 2025)
+
+In May 2025 Martin, the outgoing US attorney for Washington, D.C., prepared to take up the roles of the Justice Department's pardon attorney and chief of the so-called "Weaponization Working Group," and said he planned to review and scrutinize the last-minute pardons issued by former President [[joe-biden|Joe Biden]].[11] "I do think that the Biden pardons need some scrutiny. And they need scrutiny because we want pardons to matter and to be accepted and to be something that's used correctly. So I do think we're going to take a hard look at how they went and what they did," Martin told ABC News at a Tuesday press conference.[11] Reporting characterized his appointment to several powerful Justice Department positions — following the US Senate's rejection of his confirmation — as having emboldened him to pursue political targets of President [[donald-trump|Donald Trump]] more aggressively, as reflected in interviews with right-wing outlets and the press conference itself.[11]
+
+Badlands host Ashe in America, drawing on a reading of [[kash-patel|Kash Patel]]'s book *Government Gangsters*, argued that non-confirmed appointees such as Martin can make real change, and noted the irony that the regime that blocked his Senate confirmation had effectively weaponized government against the man now charged with investigating weaponization broadly.[11] She further argued that the Biden pardons were illegitimate because the presidency issuing them was itself illegitimate.[11]
+
 ## References
 
 1. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
@@ -73,3 +84,5 @@ In reporting published April 1, 2025, The New York Times described Martin — th
 7. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 8. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 9. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
+10. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+11. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

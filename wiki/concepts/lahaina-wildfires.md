@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hawaii, maui, wildfire, disaster, real-estate]
-sources: [raw/badlands-news-brief-62d.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-news-brief-62d.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] used the Lahaina case
 
 He further argued that the capital and time horizons required to rebuild a destroyed district create high barriers to entry that exclude local residents and favor large institutional or oligarchic investors.[1]
 
+## Casualty toll and scale of destruction
+
+By an overnight update from Maui county officials, the death toll from the fires that ravaged the resort town of Lahaina had jumped to 80, with firefighters still working to contain blazes in Lahaina, Pulehu/Kihei, and Upcountry Maui.[3] At least 1,700 buildings were burnt to a crisp in what was described as the deadliest natural disaster to strike Hawaii since a 1960 tsunami that killed 61 people.[3] At that stage the Maui fire was the second-deadliest in the United States in the previous hundred years, trailing only the 2018 Camp Fire in Northern California, which killed 85.[3] Hawaii Governor [[josh-green|Josh Green]] cautioned that a complete assessment would take weeks of sifting through "rubble and ashes."[3]
+
+[[ashe-in-america|Ashe in America]] wrote that the Associated Press reported late that Sunday that the toll had climbed to 93, making it officially the deadliest fire in U.S. history.[3] She noted that no cause had been established, though some Hawaiians claimed the fire began with downed power lines, and that once ignited it was driven by winds from a distant hurricane combined with "unusual conditions" in the region.[3] Additional fires were reported on the island, straining already overwhelmed emergency services; more than 46,000 residents had been evacuated from Maui and officials asked visitors to stay away.[3] She observed that conspiracy theories proliferated over the weekend — from HAARP and directed-energy weapons to comparisons with Little St. James — and concluded that while the truth about the cause might never be known, the victims were real.[3]
+
 ## References
 1. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
 2. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+3. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

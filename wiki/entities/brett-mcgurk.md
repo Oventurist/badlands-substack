@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, middle-east, biden-administration, gaza-ceasefire]
-sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-e3e.md]
 confidence: high
 ---
 
@@ -22,6 +22,11 @@ In late October 2024, McGurk and fellow senior Biden adviser [[amos-hochstein|Am
 
 Officials on both sides said Hezbollah appeared willing at last to disconnect itself from Hamas in Gaza after the losses it had absorbed over the preceding two months, including the assassination of Hassan Nasrallah, and that the fighting could end within weeks.[2] Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] convened ministers and senior figures from the Israel Defense Forces and the intelligence services on the Tuesday night before the visit to weigh the potential deal.[2]
 
+## Regional talks, July 2024
+
+As White House Coordinator for the Middle East and North Africa, McGurk was in the region for talks with U.S. partners at the end of July 2024, alongside CIA Director [[william-burns|Bill Burns]]'s Rome meetings, as the Biden administration pressed for a ceasefire and hostage-release deal — an effort thrown into doubt by the assassination of [[ismail-haniyeh|Ismail Haniyeh]] in Tehran.[3]
+
 ## References
 1. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 2. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+3. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

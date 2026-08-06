@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, removal-power, supreme-court, article-ii]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-9ba.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -38,8 +38,15 @@ According to mortgage records, Cook acquired a $203,000 loan in June 2021 for th
 
 FHFA Director [[bill-pulte|Bill Pulte]] posted on X that hit pieces would "POUR IN" because he was exposing "the MORTGAGE FRAUD of the Elites," singling out a reporter he said was preparing a story alleging he was not in charge of the government-sponsored enterprises.[4] Badlands contributor Ashe in America framed the referral as an application of the principle that no one is above the law and as a follow-the-money tactic against organized crime, likening it to the tax-evasion prosecution of Al Capone.[4]
 
+## Refusal to resign (August 2025)
+
+Hours after President [[donald-trump|Donald Trump]] said he was taking the extraordinary step of removing her from the Federal Reserve's board of governors, Cook said she would not step down.[5] Trump announced the firing, which he said was effective immediately, citing allegations that Cook may have falsified records in order to obtain favorable terms on a mortgage, even though she had not been charged with wrongdoing or convicted of a crime.[5] In a statement released through her attorney on the evening of August 25, 2025, Cook said that "no cause exists under the law" for Trump to fire her.[5] "I will not resign," she said. "I will continue to carry out my duties to help the American economy as I have been doing since 2022."[5] Her attorney, [[abbe-lowell|Abbe David Lowell]], added: "We will take whatever actions are needed to prevent his attempted illegal action."[5]
+
+Badlands commentary noted Cook's insistence that Trump had "no authority" to fire her, with contributor GMONEY writing "good good let it seethe into the American psyche."[5] Another contributor observed that Cook was represented by Hunter Biden's lawyer, and pointed to sharp criticism of that choice from the research group [[marco-polo|Marco Polo]] and its founder [[garrett-ziegler|Garrett Ziegler]].[5]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 3. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 4. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba
+5. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, politics]
-sources: [raw/badlands-news-brief-a6e.md]
+sources: [raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ NBC News subsequently reported, citing two people familiar with Hur's five-hour 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
+
+## Invoked over the Burisma conflict of interest
+
+Contemporaneous accounts revisited in June 2023 recorded that when [[state-department|State Department]] officials complained about the conflict of interest created by [[hunter-biden|Hunter Biden]]'s position at [[burisma|Burisma]] while his father ran Ukraine policy, they were told the Vice President was grieving for his other son, Beau Biden, who had died after a battle with brain cancer; the issue was never resolved.[2]
+
+2. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

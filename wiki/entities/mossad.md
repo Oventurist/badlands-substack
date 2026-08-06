@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, israel, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/america-for-sale-part-3.md, raw/badlands-brief-029.md, raw/badlands-brief-0bd.md, raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-6f0.md, raw/badlands-brief-805.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md]
 confidence: low
 ---
 
@@ -94,6 +94,23 @@ In April 2025 more than 250 Mossad veterans signed a letter urging the Israeli g
 
 The Mossad letter was published alongside one from nearly 200 reserve medical officers, and followed letters from Air Force pilots and from [[unit-8200|Unit 8200]] signals intelligence personnel.[18] Badlands commentary noted that hundreds of Air Force reservists who signed the earlier letter were expelled from the military, sixty of them active duty, and cited reporting circulated by [[barak-ravid|Barak Ravid]] suggesting the expulsions marked the start of a political purge of the military by [[benjamin-netanyahu|Benjamin Netanyahu]]; it read the letters as a growing pattern of dissent within Israel's intelligence and armed services against a war widely seen internally as futile.[18]
 
+## Alleged betrayal of Trump (June 2025)
+
+In the Badlands News Brief covering June 24, 2025, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] highlighted [[steve-bannon|Steve Bannon]] discussing claims that Israeli prime minister Benjamin Netanyahu and Mossad had betrayed President [[donald-trump|Donald Trump]], offering the segment as supporting evidence for the Badlands reading of the faltering Israel–Iran ceasefire.[19]
+
+
+## 60 Minutes Pager Plot Interviews (December 2024)
+
+In December 2024, CBS News aired a 60 Minutes segment in which two recently retired senior Mossad officers, identified only as "Michael" and "Gabriel" and appearing masked with altered voices, described their leading roles in the September 17 pager plot against [[hezbollah|Hezbollah]].[20] The report characterized the operation as one of the most daring and sophisticated deceptions in the history of counterintelligence — a modern Trojan horse in which Mossad "created a bomb in a pocket" and tricked Hezbollah fighters into wearing the devices on their bodies.[20] The segment credited the plot's repercussions with aiding the fall of the Assad regime in Syria, weakening Iran, and decimating Hezbollah.[20] The officers said Mossad activated dormant walkie-talkies the following day, some detonating at funerals of those killed by the pagers; roughly 30 people died, including two children, and about 3,000 were injured.[20] "Gabriel" stated that the aim was not simply to kill: wounded fighters require hospitals, money, and effort, and "those people without hands and eyes are living proof, walking in Lebanon, of 'don't mess with us.'"[20] The segment described Mossad's motto, from Proverbs 24:6, as endorsing war through deception and trickery, likened to the [[central-intelligence-agency|CIA]]'s "smoke and mirrors"; former Mossad officer [[victor-ostrovsky|Victor Ostrovsky]], author of the whistleblower book By Way of Deception, has said the agency's original motto was "By way of deception, thou shalt do war."[20] Badlands commentator GhostofBasedPatrickHenry speculated the interviews might be a "Ghosts in the Machine" deployment designed to humiliate Mossad, noting that Bibi Netanyahu, David Barnea, Israel Katz, or other Israeli officials could have disavowed the commentary, and concluded that the officers came across as "uncivilized savages" who embodied everything they accuse their enemies of being.[20]
+
+## Origins of NSO Group
+
+Badlands commentary in July 2024 noted that [[nso-group|NSO Group]], the Israeli cybersecurity firm behind the [[pegasus|Pegasus]] spyware, was founded in 2010 by a group that included Niv Carmi, a former Mossad intelligence operative.[21] Reporting on the assassination of Hamas leader [[ismail-haniyeh|Ismail Haniyeh]] in Tehran the same week observed that Israel often does not comment on assassinations carried out by its Mossad intelligence agency.[21]
+
+## Yossi Cohen's Congo trips and the 2024 coup allegations
+
+Reporting by Bloomberg (2021) and Haaretz (2022) established that then-Mossad director [[yossi-cohen|Yossi Cohen]] made three trips to the [[democratic-republic-of-the-congo|Democratic Republic of the Congo]] in 2019 on Israel's behalf, accompanied by billionaire [[dan-gertler|Dan Gertler]], before being deported and banned from the country; Israel's military censor barred publication of information about the visits.[22] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that this record makes it plausible that Cohen and Mossad were involved in the failed May 2024 coup attempt against President [[felix-tshisekedi|Félix Tshisekedi]].[22]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
@@ -113,3 +130,7 @@ The Mossad letter was published alongside one from nearly 200 reserve medical of
 16. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 17. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
 18. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
+19. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+20. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
+21. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+22. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

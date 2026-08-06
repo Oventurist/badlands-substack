@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [research-group, citizen-journalism, swalwell, opposition-research]
-sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-3c3.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-d8f.md]
 confidence: low
 ---
 
@@ -18,6 +18,11 @@ In April 2026, Badlands contributor [[ashe-in-america|Ashe in America]] credited
 
 Marco Polo published a comprehensive report on the contents of [[hunter-biden|Hunter Biden]]'s laptop in October 2022, and that document included [[joe-biden|Joe Biden]]'s "Robert.L.Peters" pseudonym on page 159.[2] Badlands contributor [[ashe-in-america|Ashe in America]] cited this in August 2023 to argue that the House Republicans then expressing outrage over the pseudonymous emails should have known about the alias months earlier, since the report had been sent to every one of them multiple times.[2]
 
+## Laptop report resurfaces (February 2024)
+
+Screen grabs from Marco Polo's Biden Laptop Report went viral again on social media during [[hunter-biden|Hunter Biden]]'s closed-door deposition of February 28, 2024, alongside legislator soundbites, according to Badlands contributor [[ashe-in-america|Ashe in America]].[3]
+
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Badlands News Brief: From Hunter to NATO, It's All About Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-3c3
+3. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f

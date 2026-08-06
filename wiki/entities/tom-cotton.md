@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, nuclear-policy, defense, republican]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e87.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e87.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea0.md]
 confidence: medium
 ---
 
@@ -44,7 +44,24 @@ In March 2024 Cotton drew attention to what critics called hypocrisy at [[new-yo
 
 The Cotton column led to editors being forced out amid public confessions and recriminations, with writers including Taylor Lorenz, Caity Weaver, Sheera Frankel and Jacey Fortin arguing that such columns put black reporters in danger.[7] Legal commentator [[jonathan-turley|Jonathan Turley]], who had previously written on the affair, noted that critics never explained what was historically false in the column, and described the paper's response as "a breathtaking surrender" in which it apologized, promised an investigation into how an opposing view reached its pages, and pledged to reduce the number of editorials.[7] After Democratic politicians actually ordered such a deployment — Hochul sending 750 National Guard members into the New York City subway system to assist the [[nypd|New York Police Department]], including bag searches at busy stations — the Times offered, in Turley's words, "little more than a journalistic shrug."[7]
 
+## Complaint against Jack Smith
+
+Cotton filed a formal complaint in 2025 accusing Jack Smith of using his position as special counsel to influence the 2024 election by deliberately accelerating legal proceedings against Donald Trump around campaign milestones such as the Iowa caucuses.[8] He wrote that Smith's legal actions were "nothing more than a tool for the Biden and Harris campaigns" and were "the actions of a political actor masquerading as a public official."[8]
+
+## Continued fallout from the 2020 op-ed
+
+In February 2024, former [[new-york-times|New York Times]] opinion editor [[adam-rubenstein|Adam Rubenstein]] revisited the controversy over Cotton's 2020 op-ed — in which the senator argued for the possible use of the National Guard to quell violent rioting around the White House — in an essay for [[the-atlantic|The Atlantic]].[9] [[jonathan-turley|Jonathan Turley]] described the episode as one of the lowest points in modern American journalism, noting that Times reporters and columnists called the column historically inaccurate and politically inciteful and insisted the paper could not feature advocates of political violence, even as Congress would "call in the troops" six months later to quell rioting at the Capitol on January 6.[9] Rubenstein wrote that on January 6, 2021 few people at the Times remarked on liberals cheering the deployment of National Guardsmen to stop rioting at the Capitol — "the very thing Tom Cotton had advocated."[9]
+
+## Response to the Trump federal indictment (June 2023)
+
+On June 15, 2023, Cotton told host Alex Marlow on SiriusXM's Breitbart News Daily that the federal indictment of former President [[donald-trump|Donald Trump]] was "a very disappointing moment."[10] He said he would call the indictment surprising were it not for the record of Attorney General [[merrick-garland|Merrick Garland]] over the preceding two and a half years, which he characterized as an uneven application of justice, citing the FBI SWAT raid on pro-life activist [[mark-houck|Mark Houck]] outside Philadelphia, who was acquitted by a jury "in barely an hour."[10]
+
+As ranking member of the Senate Judiciary Subcommittee on Criminal Justice and Counterterrorism, Cotton argued that Trump — indicted on 37 counts relating to documents taken to Mar-a-Lago at the end of his presidency — should not be prosecuted "on a stretch case or novel legal theories or an edge case."[10] He stressed that the most important fact about Trump was not that he was a former president but that he was "the opposition party's leading candidate for the presidency," and drew a parallel to former FBI Director [[james-comey|James Comey]]'s refusal to indict [[hillary-clinton|Hillary Clinton]] in 2016 over conduct Cotton called "much worse" and more injurious to immediate national security interests.[10]
+
+[[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] agreed with Cotton's premise but argued the [[department-of-justice|Department of Justice]] was in fact pursuing a novel theory of the [[espionage-act|Espionage Act]] against a former president over "documents with classified markings," describing the case as political persecution and election interference rather than law enforcement.[10]
+
 ## References
+
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 3. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
@@ -52,3 +69,6 @@ The Cotton column led to editors being forced out amid public confessions and re
 5. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 6. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+8. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+9. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+10. Badlands Brief — "Badlands News Brief: Trump's Trap, Putin's Play & Woke's Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ea0

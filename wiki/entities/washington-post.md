@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d5c.md]
 confidence: medium
 ---
 
@@ -65,6 +65,12 @@ In late October 2024 the Post announced it would not endorse a candidate in that
 
 In June 2025 Post journalist [[thomas-pham-legro|Thomas Pham LeGro]], 48, was arrested at his District of Columbia home on allegations of possessing child sexual abuse material; prosecutors said a folder on a work laptop recovered from the residence contained eleven such videos.[12] Badlands contributor [[ashe-in-america|Ashe in America]] argued the case should be devastating for the paper, which had hired LeGro and had, in her account, been dismissive of child trafficking and CSAM coverage.[12]
 
+## Removal of the "War in Ukraine" tab (December 2023)
+
+In December 2023 investigative journalist Kit Klarenberg noticed that the Post had quietly deleted a long-featured "War in Ukraine" tab from its masthead, commenting simply, "It's over."[13] An Internet Archive review of Washington Post front pages showed the tab had been present throughout 2022, from the start of the war in February of that year, and through most of 2023 until very recently; readers could still reach a "War in Ukraine" page by first clicking the "World" tab, located third from last on the masthead.[13] The change came a day after Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] again complained that international focus had shifted away from his country because of events in Israel and Gaza, having said weeks earlier that "only the blind don't recognize this."[13] ZeroHedge described the change as emblematic of war fatigue among the American public and of a widespread acknowledgement that Ukrainian forces were losing.[13]
+
+Badlands writer [[burning-bright|Burning Bright]] called the Post one of the most infamous mouthpieces of what he terms the Globalist Collective, arguing it had reached the endpoint of the Overton window on Ukraine by demoting the storyline from its featured masthead to the back pages without ever admitting that the initial warmongering had been folly.[13] He traced the about-face to earlier establishment accusations of money laundering against the proxy and to Zelensky's repeated appeals abroad, concluding that "they have lost their main vector of power projection. They've lost the story."[13]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -79,3 +85,4 @@ In June 2025 Post journalist [[thomas-pham-legro|Thomas Pham LeGro]], 48, was ar
 10. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 11. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
 12. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+13. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, clemency]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6e.md]
 confidence: low
 ---
 
@@ -87,6 +87,10 @@ On Tuesday, September 17, 2024, the Manhattan-based [[second-circuit-court-of-ap
 
 Badlands contributor [[burning-bright|Burning Bright]] noted that the ruling came in the [[southern-district-of-new-york|Southern District of New York]] on the same day as the indictment and bail denial of [[sean-combs|Sean "Diddy" Combs]], and on the 17th of the month — a numerological coincidence he treated as evidence that "you are watching a movie."[14]
 
+## Coverage under the Epstein Files Transparency Act (November 2025)
+
+The [[epstein-files-transparency-act|Epstein Files Transparency Act]], passed by both chambers of Congress in November 2025 and signed by President [[donald-trump|Donald Trump]] on November 19, expressly requires Attorney General [[pam-bondi|Pam Bondi]] to release all files — including internal communications and investigative materials — related to [[jeffrey-epstein|Jeffrey Epstein]] and his co-conspirator Maxwell within 30 days of enactment.[16] The statute's redaction provision, which permits withholding records that would jeopardize an active federal investigation or ongoing prosecution, drew scrutiny as a possible limit on what would ultimately be disclosed about Maxwell.[16]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Criminal Invader Crashouts & Honeypot Hoaxes", URL: https://badlands.substack.com/p/badlands-brief-4ec
@@ -102,3 +106,7 @@ Badlands contributor [[burning-bright|Burning Bright]] noted that the ruling cam
 12. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
 13. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 14. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+## Prison transfer controversy (September 2025)
+Maxwell's transfer to a lower-security prison facility became the subject of a heated exchange at a [[senate-judiciary-committee|Senate Judiciary Committee]] hearing in September 2025.[15] FBI Director [[kash-patel|Kash Patel]] testified that the [[bureau-of-prisons|Bureau of Prisons]] had made the decision independently, while Senator [[adam-schiff|Adam Schiff]] pressed the claim that the move was politically motivated by the White House, asking whether Patel thought the American people were "stupid" enough to believe otherwise.[15] The dispute escalated into a shouting match that briefly derailed the hearing, with Patel calling Schiff "the biggest fraud to ever sit in the United States Senate."[15] Maxwell was described in the coverage as an associate of the convicted sex offender Jeffrey Epstein.[15]
+15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+16. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

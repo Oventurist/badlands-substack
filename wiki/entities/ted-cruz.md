@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, texas, republicans, iran, israel]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6b4.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-cc9.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6b4.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-e38.md]
 confidence: low
 ---
 
@@ -70,3 +70,9 @@ In June 2025, Cruz was among the "Congressional Zionists" that [[tucker-carlson|
 In September 2023, Cruz told [[sean-hannity|Sean Hannity]] that "the odds are very significant that next summer at the Democrat national convention that the Democrat party will jettison [[joe-biden|Joe Biden]] and will throw him off the ticket, and they will parachute in instead, [[michelle-obama|Michelle Obama]] to be their candidate."[9] He said Democrats would "look to Michelle Obama as the savior to come in" and that such an outcome "would be very, very dangerous," adding that the chances rose each time a Democrat or a friendly journalist pointed out Biden's problems.[9] Asked by Hannity whether Obama even wanted to run, Cruz reasoned that no alternative candidate could avoid alienating some bloc of Democratic voters.[9] The remarks were reported by [[summit-news|Summit News]] and picked up by [[badlands-media|Badlands Media]].[9]
 
 9. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9
+
+
+## Iran war debate and the Tucker Carlson interview (June 2025)
+During the June 2025 debate over US involvement in the Israel-Iran war, Badlands commentary predicted that if President [[donald-trump|Donald Trump]] hosted Iranian officials at the White House, Cruz would "howl louder into the void."[10] Commentary from [[ashe-in-america|Ashe in America]] described Cruz's treatment of the Genesis 12:1-3 covenant passage during his interview with [[tucker-carlson|Tucker Carlson]] as embarrassing, using it to open a broader question about whether American Christians must support the actions of the modern state of Israel without critical inquiry.[10] [[canncon|CannCon]] wrote that it was "almost as if Cruz heard someone say this once and built a backstory" for his claim of unequivocal support for Israel, and [[chris-paul|Chris Paul]] observed that [[sean-hannity|Sean Hannity]] "was assigned to clean up Cruz's mess on Israel."[10]
+
+10. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

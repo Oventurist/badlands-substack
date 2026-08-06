@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, maricopa-county, elections, vendors, 2022-midterms]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-news-brief-b1d.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-brief-509.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-e38.md]
 confidence: low
 ---
 
@@ -38,3 +38,9 @@ In September 2023 Runbeck was the defendant in a public records suit brought by 
 2. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 3. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
 4. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
+5. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+## Hamadeh referral to Attorney General Bondi (June 2025)
+In June 2025 Representative [[abe-hamadeh|Abe Hamadeh]] of Arizona asked U.S. Attorney General [[pam-bondi|Pam Bondi]] to investigate "credible claims" that an elections service provider breached protocols during the 2024 election, requesting specifically an inquiry into the handling of ballots by Arizona-based Runbeck Election Services in several western states.[5] Newsweek reported that it had contacted the Department of Justice, Hamadeh's office and Runbeck for comment.[5]
+
+Commentary from [[ashe-in-america|Ashe in America]] tied the referral to earlier conflict-of-interest findings: in August 2021 Colorado voters learned that Colorado Springs City Councilman at Large [[wayne-williams|Wayne Williams]] — the former Colorado Secretary of State who had mandated [[dominion-voting-systems|Dominion]] before losing that battle in court — was also a senior advisor at Runbeck.[5] Williams's wife, as a county commissioner, held statutory authority over El Paso County's Runbeck contracts and recused herself from the vote on Runbeck funding only after the public discovered the conflict, a sequence the commentary argued was insufficient to prevent the appearance of impropriety.[5] The connection was uncovered by a citizen journalist who found Williams's business card at the 2021 National Association of Secretaries of State annual conference, and the commentary asserted that similar entanglements recur throughout the national election vendor ecosystem.[5]

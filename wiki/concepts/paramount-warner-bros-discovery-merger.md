@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hollywood, mergers, gulf-capital, media-consolidation]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -53,3 +53,11 @@ Badlands contributor [[burning-bright|Burning Bright]] laid out two scenarios: a
 2. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
 3. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+
+## Renewed pursuit in September 2025
+
+In September 2025, five weeks after [[skydance-media|Skydance Media]] closed its $8 billion takeover of [[paramount-global|Paramount Global]], [[david-ellison|David Ellison]] was reported to be weighing a deal then worth more than $70 billion to acquire [[warner-bros-discovery|Warner Bros. Discovery]] in its entirety — moving even before the merged Paramount Skydance had finished laying off upwards of 2,000 employees.[5] Variety analysis concluded that the motive for the speed was to beat rival suitors to the punch.[5]
+
+Badlands contributor [[burning-bright|Burning Bright]] treated the prospective merger as a front in a broader cultural inversion, arguing that the Ellisons were "storming the Media and Entertainment Industrial Complexes" and that a successful bid would bring [[hbo|HBO]], [[cnn|CNN]], Cartoon Network, DC, Harry Potter and Game of Thrones under new stewardship, on top of the [[cbs|CBS]], MTV, BET and Nickelodeon assets already secured through Paramount.[5] He linked the maneuver to the [[ufc|UFC]]'s nearly $8 billion Paramount broadcasting deal beginning in 2026 and to whispers of pursuits of TikTok's U.S. operations, whose timing alongside an impending Trump–Xi Jinping meeting he said made "a mockery of coincidence."[5]
+
+5. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, redistricting, voting-rights-act, race, louisiana]
-sources: [raw/badlands-brief-6bf.md, raw/badlands-news-brief-4cf.md]
+sources: [raw/badlands-brief-6bf.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -42,6 +42,12 @@ The dispute dates to 2022, when [[louisiana|Louisiana]] adopted a new congressio
 
 Ashe in America wrote that the Voting Rights Act has been effectively gutted over the years, leaving only Section 2 (redistricting) and Section 11 (suppression and intimidation) as meaningful legal paths for remedy under the statute, and that this case concerns Section 2.[2] She described the argument as "rough," questioning whether government may discriminate on the basis of race in remedying race discrimination, criticizing Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]]'s reasoning — including what she read as an inadvertent analogy between Blackness and disability — and mocking Nelson's contention that white Democrats do not vote for Black candidates.[2] She argued that preserving the Act despite the mootness of its original cause has produced "unintelligible civil rights laws," and recommended the full two-and-a-half-hour C-SPAN recording of the hearing as illuminating, noting that at the Supreme Court "you cannot just call everyone racist and claim dog whistles and get your way."[2]
 
+## August 2025 supplemental briefing order
+
+The Supreme Court ordered supplemental briefing in the Louisiana redistricting case on whether race-based congressional districts are constitutional, after punting the decision to the term starting in October 2025.[3] The dispute centers on a map containing two majority-black districts adopted after a federal court found the legislature's original single-district map likely violated the Voting Rights Act.[3]
+
 ## References
+
 1. Badlands Brief — "SCOTUS: You Can Be Neither Racist Nor Unilaterally Murdery", URL: https://badlands.substack.com/p/badlands-brief-6bf
 2. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
+3. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

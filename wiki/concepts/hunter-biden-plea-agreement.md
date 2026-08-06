@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, department-of-justice, tax-crimes, gun-charge, two-tier-justice]
-sources: [raw/badlands-news-brief-d24.md]
+sources: [raw/badlands-news-brief-d24.md, raw/badlands-news-brief-dfa.md]
 confidence: medium
 ---
 
@@ -28,5 +28,18 @@ Badlands Media writers treated the deal as the clearest available demonstration 
 
 Hunter Biden's business dealings first drew attention during the Obama administration, after he was discharged from the Navy for drug use and immediately joined the board of the Ukrainian energy company [[burisma|Burisma]].[1] Reporters questioned the [[white-house|White House]] about the arrangement given that his father, then Vice President under [[barack-obama|Barack Obama]], had been placed in charge of Ukraine policy; [[state-department|State Department]] officials complained about the conflict of interest but were told the Vice President was grieving for his son [[beau-biden|Beau Biden]], and the issue was never resolved.[1]
 
+## Collapse in court, July 26, 2023
+
+The agreement came apart on Wednesday, July 26, 2023, when U.S. District Judge [[maryellen-noreika|Maryellen Noreika]] declined to accept it during an hours-long hearing in Delaware federal court punctuated by multiple dramatic recesses.[2] Noreika objected to the "broad" immunity the deal afforded and to its "unique" structure, at times describing the arrangement as potentially "unconstitutional" and as lacking "legal precedent."[2] She asked attorneys on both sides several times whether any precedent or authority existed for the agreement, and each time was told there was none.[2] "I cannot accept the plea agreement today," she said.[2]
+
+The judge ordered both defense counsel and federal prosecutors to submit further paperwork justifying the legal legitimacy of the plea deal and of the separate agreement under which prosecutors would dismiss the weapons felony.[2] She also ordered the parties to clarify language that could grant Hunter Biden immunity from future prosecution over the foreign investment and consulting work through which he had earned millions of dollars over the previous decade.[2] With the deal deferred, Hunter Biden pleaded not guilty to the federal charges and skipped a planned post-hearing press conference; his attorneys said they needed roughly two weeks to answer the judge's questions, leaving the timing of any revisited deal unclear.[2]
+
+The June 2023 charges accused the president's son of willfully failing to pay tax on more than $1.5 million in income across 2017 and 2018.[2] In court, prosecutors said he had taken in $2.4 million in 2017 and $2.1 million in 2018 through the Ukrainian energy firm [[burisma|Burisma]], a Chinese development firm, and domestic business interests and legal services.[2]
+
+## Media framing
+
+[[ashe-in-america|Ashe in America]] noted that Americans had been outraged by the original announcement of the deal, "rightfully decrying the unfair and unprecedented leniency with which the DOJ treated the first son," and argued that Noreika's ruling showed the judge agreed with the public.[2] She catalogued the divergent verbs used by major outlets to describe the same event — the deal was variously "on hold" (AP, CNN, USA Today), "delayed" (New York Times), "in doubt" (Washington Post), "fell apart" (CBS, Bloomberg, Politico, Fox), "derailed" (NBC), "torpedoed" (New York Post) and "collapsed" (BBC) — observing that each descriptor was accurate but that the choices revealed the outlets' inherent biases.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+2. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, kahanism, knesset, extremism]
-sources: [raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -38,7 +38,15 @@ Kahane was arrested by the Shin Bet in the 1980s for plotting to blow up the Al-
 
 The movement associated with Kahane's legacy is described as seeking to expand Israel's borders under [[greater-israel|Greater Israel]], codify a formal theocracy of radical Jewish supremacy under the [[smotrich-doctrine|Smotrich Doctrine]], and summon the Jewish messiah through [[red-heifer|red heifer]] sacrifice and construction of the [[third-temple|Third Temple]] on the Al-Aqsa site, a project associated with [[temple-institute|The Temple Institute]].[3]
 
+
+## Badlands account of Kahane's career and lineage
+
+Badlands Media describes Kahane as the founder of the Jewish supremacy movement known as [[kahanism|Kahanism]], and notes that he was arrested by the Shin Bet in 1980 for conspiring to blow up the Al-Aqsa Mosque in Jerusalem in order to trigger a holy war between Israel and Islam.[4] He won a seat in the [[knesset|Knesset]] in 1984 but was boycotted by all other members, and the parliament subsequently passed a law barring parties running on platforms of racial supremacy from holding office — legislation the outlet says [[benjamin-netanyahu|Benjamin Netanyahu]] effectively repealed in 2022.[4] Kahane was arrested more than sixty-two times in Israel for extremist activity but served only six months in jail over the mosque plot, and was also arrested several times in the United States, once for conspiring to import munitions from Israel to blow up the Iraqi embassy in Washington, D.C., for which he received a five-year suspended sentence and was allowed to return to Israel.[4]
+
+The account traces Kahane's descent from Rabbi Simcha Rappaport, a noted seventeenth-century Ukrainian rabbi and progenitor of a rabbinic dynasty, and states that because of this ancestry — his father and grandfather were both rabbis — Kahane demanded that the Soviet government permit the Refuseniks to emigrate to Israel, a concession eventually granted in 1989.[4] Badlands argues that the resulting influx brought organized crime figures from the Ukrainian and Russian mafias into Israel, precipitating a violent and public gangland war with the [[israeli-police|Israeli police]] that lasted more than twenty years.[4] His most devout followers included [[baruch-goldstein|Baruch Goldstein]], who murdered twenty-nine worshippers at the Cave of the Patriarchs in Hebron in February 1994, and his ideological succession is said to run to [[benzi-gopstein|Benzi Gopstein]].[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 2. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 3. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+4. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

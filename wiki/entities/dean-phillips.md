@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, 2024-election, congress, minnesota]
-sources: [raw/badlands-news-brief-5ff.md]
+sources: [raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-d8f.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ While campaigning in New Hampshire in January 2024, Phillips attended a rally he
 
 Phillips then delivered a blunt criticism of his own party, declaring "My party is completely delusional," and adding that "somebody had to wake us up, and if that's my job, so be it."[1] The remarks were circulated approvingly in independent media as evidence that the Democratic Party's characterization of Republican voters had diverged from the reality on the ground.[1]
 
+## Michigan primary result
+
+In the [[2024-michigan-democratic-primary|Michigan Democratic primary]] of February 27, 2024, Phillips — still actively campaigning — took 2.7% of the vote, narrowly trailing [[marianne-williamson|Marianne Williamson]]'s 3.0% despite her having suspended her campaign three weeks earlier.[2]
+
 ## References
 
 1. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+2. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f

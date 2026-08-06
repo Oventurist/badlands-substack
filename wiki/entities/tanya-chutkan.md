@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, doge, litigation, federal-courts]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -80,3 +80,11 @@ In August 2023, Representative [[matt-gaetz|Matt Gaetz]] (R-Fla.) introduced a r
 9. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 10. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 11. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+
+## DOGE data access ruling (February 2025)
+
+On Tuesday, February 18, 2025, Judge Chutkan declined to temporarily block [[elon-musk|Elon Musk]] and the [[department-of-government-efficiency|Department of Government Efficiency]] from accessing federal data systems at a range of executive branch agencies, rejecting a request for a temporary restraining order brought by a group of Democratic state attorneys general.[12] The decision was an early blow to their effort to hamstring Musk and DOGE as they moved to upend the federal workforce.[12]
+
+Chutkan nonetheless indicated skepticism about the Trump administration's statements regarding Musk and his powers within DOGE.[12] Access by Musk and DOGE to closely guarded government data — including sensitive information collected about and from the American public — had become a battleground in the legal fight over the administration's efforts to reshape the federal bureaucracy.[12]
+
+12. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

@@ -1,10 +1,10 @@
 ---
-title: John Ratcliffe
+title: "John Ratcliffe"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, ratcliffe, venezuela, intelligence, diplomacy]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-ca7.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-f18.md]
 confidence: medium
 ---
 
@@ -62,6 +62,10 @@ In a July 28, 2025 interview with Maria Bartiromo on Fox News, Ratcliffe expande
 
 Badlands contributor [[burning-bright|Burning Bright]] argued that "Grand Conspiracy" would become the legally codified label for Disclosure across the American political, legal and clandestine battlespace, noting that Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] had codified the framing days earlier and that the words "treason" and "conspiracy" were being restored to their original usage after decades of obfuscation by US intelligence since 1963.[11] He contended that the parallel runs of disclosure on the [[epstein-narrative|Epstein narrative]] and [[russiagate-hoax|Russiagate]] gave Trump a bipartisan public mandate and durable "narrative shielding."[11]
 
+## Covid-19 origins assessment (January 2025)
+
+Within days of his confirmation, Ratcliffe presided over the [[cia|CIA]]'s revised judgment favoring the theory that Covid-19 emerged from an accidental leak at a research laboratory in Wuhan rather than from a wet market, a shift officials said rested on existing evidence rather than new intelligence.[15] Badlands commentator [[jordan-sather|Jordan Sather]] credited Ratcliffe with "already getting to work" and declassifying the report, recalling that his own videos making the same claim had been removed by YouTube and Facebook in February 2020.[15] Two days after his Senate confirmation, Russian [[foreign-intelligence-service-of-russia|SVR]] chief [[sergey-naryshkin|Sergey Naryshkin]] publicly offered to meet him, prompting Badlands writers to speculate that the two services might exchange information on the virus's origins.[15] See [[2025-cia-lab-leak-assessment|the 2025 CIA lab leak assessment]].[15]
+
 ## References
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
 2. Badlands Brief — "We're Winning, plus Cuban Dominoes & Weaponized Ethics", URL: https://badlands.substack.com/p/badlands-brief-323
@@ -89,4 +93,12 @@ Ratcliffe, who was confirmed as Director of National Intelligence in May 2020 du
 
 [[burning-bright|Burning Bright]] wrote that Trump's former DNI was corroborating what the Truth Community had said for years as the public mind was slowly guided toward exposure and disclosure, and argued that whatever the eventual reveals, they would further expose the [[deep-state|Deep State]]'s [[system-of-systems|System of Systems]].[13] See [[lab-leak-theory|lab leak theory]].[13]
 
+## Call with the SVR chief (March 2025)
+
+On Tuesday, March 11, 2025, Ratcliffe, as Director of the [[cia|CIA]], spoke by telephone with [[sergey-naryshkin|Sergei Naryshkin]], chief of the Russian [[foreign-intelligence-service-of-russia|Foreign Intelligence Service (SVR)]], amid peace talks with Ukraine, and the two endorsed a 30-day ceasefire.[14] The SVR press office told the state-run news agency [[tass|TASS]] that "during their conversation, the parties discussed the issues of interaction of both intelligence agencies in areas of common interest and the settlement of crisis situations," adding that the two sides agreed "on maintaining regular contact between the SVR and CIA directors with the aim of facilitating international stability and security and reducing confrontation in relationships between Moscow and Washington."[14] The CIA declined to comment on the record.[14]
+
+Axios reported the following day, citing a source familiar with the call, that it was intended in part to establish an open line of communication between the two services.[14] It was the first call between the spy chiefs since President [[donald-trump|Donald Trump]] assumed office on January 20, and came one day after Ukraine expressed readiness to accept a ceasefire under the [[2025-jeddah-ceasefire-agreement|Jeddah agreement]].[14] Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the episode as a symbolic milestone underscoring the alliance between Trump and [[vladimir-putin|Vladimir Putin]], while noting the long-running expectation in the community that the CIA may be abolished and its collection and analysis functions transferred to another agency or to the military.[14]
+
 13. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7
+14. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+15. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, republican-party, neoconservatism, death-rumors, kentucky]
-sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-b35.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f23.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -60,6 +60,14 @@ On Wednesday, March 6, 2024, Senate Minority Leader McConnell endorsed former Pr
 
 [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] dismissed the endorsement as an afterthought, writing that McConnell "still thinks he is relevant" and describing him as "a walking advertisement for age limits, term limits, trading limits, and other necessary Congressional reforms," while noting that his time in leadership was drawing to a close.[9]
 
+## Announcement of departure from leadership (February 2024)
+
+On Wednesday, February 28, 2024, McConnell — the longest-serving Senate leader in history, who had maintained his power through nearly two decades of dramatic convulsions in the Republican Party — announced that he would step down as Senate Republican leader in November.[10] He made the announcement in the well of the [[us-senate|Senate]], the chamber he had first entered in 1985 and where he grew comfortable in the front-row seat afforded party leaders, having turned 82 the previous week.[10] "One of life's most underappreciated talents is to know when it's time to move on to life's next chapter," he said. "So I stand before you today ... to say that this will be my last term as Republican leader of the Senate."[10]
+
+## Retirement announcement (February 2025)
+
+On Thursday, February 20, 2025, McConnell announced the impending close of his four-decade [[united-states-senate|Senate]] career in a midday floor speech, capping a legacy of turning American government rightward while also marking the fading of an era in Republican politics.[13] The announcement came nearly a year after he said he would step down as Republican leader, and after a decade of watching a growing number of his colleagues — and the party he helped shape — slide toward [[donald-trump|Donald Trump]]'s populism, as his own relationship with Trump deteriorated.[13]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
@@ -70,3 +78,23 @@ On Wednesday, March 6, 2024, Senate Minority Leader McConnell endorsed former Pr
 7. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 9. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
+10. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+11. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+12. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
+
+## Resistance to Trump's retribution agenda (June 2024)
+
+In June 2024, some Senate Republicans expressed concern over [[donald-trump|Donald Trump]]'s calls for political vengeance after the election, warning that retaliatory prosecutions would lead the country down a bad road.[11] As Senate GOP leader, McConnell — alongside Whip [[john-thune|John Thune]] — showed no desire to embrace Trump's calls to prosecute senior [[joe-biden|Biden]] administration officials or [[hillary-clinton|Hillary Clinton]].[11] Other Republican senators pushed back against conservative colleagues seeking to freeze Justice Department funding or defund special counsel [[jack-smith|Jack Smith]]'s prosecutions of Trump, wary of stumbling into a government shutdown over the department's budget.[11] Senator [[mike-rounds|Mike Rounds]] of South Dakota, while calling Manhattan District Attorney [[alvin-bragg|Alvin Bragg]]'s case against Trump "an unjust prosecution," said of politically motivated retaliation that "this is not the direction we want this country to go."[11]
+
+## Congressional physician's assessment (September 2023)
+
+On Tuesday, September 5, 2023, the attending physician for Congress, [[brian-monahan|Brian Monahan]], released a letter stating there was no evidence that McConnell had suffered a seizure or stroke during his latest freezing episode.[12] Monahan wrote that his examination following the August 30, 2023 episode "included several medical evaluations: brain MRI imaging, EEG study and consultations with several neurologists for a comprehensive neurology assessment," and found no evidence of a seizure disorder, stroke, TIA, or movement disorder such as Parkinson's disease, with no changes recommended to treatment protocols as McConnell continued recovering from his March 2023 fall.[12] The [[united-states-senate|Senate]] was returning from recess that week amid reports of Republican concern over McConnell's future as party leader; at a Kentucky event the previous week he had stared straight ahead for more than 30 seconds before resuming, following a similar July episode in which he stopped mid-sentence at a press conference and later told reporters "I'm fine."[12] The March fall had left him hospitalized for treatment of a concussion.[12]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] responded that four neurologists signing off on McConnell's mental state "beg[ged] the question of who is paying these doctors," noting that the letter conspicuously omitted any mention of dementia.[12] She argued that McConnell could not function at the level of an average elderly person yet remained the most powerful Republican in the Senate, placing him alongside [[joe-biden|Joe Biden]], [[dianne-feinstein|Dianne Feinstein]], [[john-fetterman|John Fetterman]] and [[nancy-pelosi|Nancy Pelosi]] as officials who appeared to have lost cognitive function, and called for term limits and independent cognitive testing as a prerequisite for elected office.[12]
+13. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23
+
+## Succession by Thune (November 2024)
+
+McConnell's tenure as the top Senate Republican, which spanned eighteen years, ended with the November 13, 2024 election of [[john-thune|John Thune]] as Senate majority leader.[14] McConnell had announced in February 2024 that he would retire from GOP leadership at the end of the year, prompting Thune — his whip since 2019 — to launch a leadership bid shortly afterward.[14] Thune had already been managing much of the Senate floor operation after McConnell suffered a concussion from a fall in 2023.[14]
+
+14. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

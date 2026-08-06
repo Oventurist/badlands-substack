@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, palestine, diplomacy, west-bank]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-4c5.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ While Arafat is given the credit for the Accords, the account notes that footage
 
 Badlands commentary holds that [[benjamin-netanyahu|Benjamin Netanyahu]] was pushed out of office as Israeli prime minister in the late 1990s largely because of his subversion of the Oslo Accords, and that [[ron-dermer|Ron Dermer]] began working with him in 2000 to plot the political comeback that followed.[4]
 
+## Economic annexes and the tax clearance system
+
+As part of the Oslo framework, Israel and the [[palestine-liberation-organization|Palestine Liberation Organization]] signed the Gaza-Jericho Agreement in 1994 together with the Protocol on Economic Relations, commonly known as the [[paris-protocol|Paris Protocol]].[5] These agreements created the [[palestinian-authority|Palestinian Authority]], granting it very limited powers of governance while Israel retained complete control over taxation in Palestine.[5]
+
+The system was designed to be temporary, lasting only five years until the Two-State Solution scheduled by the Accords was fully implemented; it nonetheless remains in place decades later.[5] Under the resulting tax clearance system, Israel collects tariffs, value added tax and income tax on the PA's behalf, revenues that constitute roughly 70-75 percent of the Authority's income and which Israel has repeatedly withheld as political leverage, as in the May 2024 salary crisis.[5]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
 3. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 4. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+5. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

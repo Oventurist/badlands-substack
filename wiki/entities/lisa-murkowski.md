@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [alaska, us-senate, republicans, elections, save-america-act]
-sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-6bc.md]
+sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-f23.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ In August 2023, Murkowski and fellow Alaska Republican Senator [[dan-sullivan|Da
 
 Badlands contributor [[ashe-in-america|Ashe in America]] observed that the most notable feature of the episode was that the American response, as reported by [[cnn|CNN]], came from the two Alaskan senators rather than from the executive branch or the national security establishment, with no [[white-house|White House]] statement more than twelve hours after the incident was reported.[2]
 
+## Vote against Kash Patel (February 2025)
+
+Murkowski was one of two Republicans whose opposition held the February 20, 2025 confirmation of [[kash-patel|Kash Patel]] as [[fbi|FBI]] director to a 51-49 margin.[3] [[badlands-media|Badlands]] commentary by Brad Cologero Getz urged readers to bookmark the vote, noting that Murkowski's primary falls in early 2028 and that of fellow holdout [[susan-collins|Susan Collins]] in early 2026, and calling for strong America-First candidates to run against them both.[3]
+
 ## References
 1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 2. Badlands Brief — "Smith Slips, China Encroaches & Trump Preps", URL: https://badlands.substack.com/p/badlands-news-brief-6bc
+3. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

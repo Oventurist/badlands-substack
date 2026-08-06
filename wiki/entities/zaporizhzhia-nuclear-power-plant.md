@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, russia, nuclear, iaea]
-sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-c50.md]
+sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-f99.md]
 confidence: medium
 ---
 
@@ -31,3 +31,10 @@ Forces under [[vladimir-putin|Vladimir Putin]] had seized control of Zaporizhzhi
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
 2. Badlands Brief — "The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+3. Badlands Brief — "Badlands News Brief: MAGA Rises as the Regime Falls", URL: https://badlands.substack.com/p/badlands-news-brief-f99
+
+## July 2023 explosion warnings and Russian drawdown
+
+In late June and early July 2023, Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] repeatedly warned the public and the West that Russia was preparing to stage a disastrous nuclear fallout event at the plant, Europe's largest, with the warnings intensifying as Americans turned to July 4th festivities.[3] "There is a serious threat because Russia is technically ready to provoke a local explosion at the station, which could lead to a [radiation] release," Zelensky said at a joint news conference in Kyiv.[3]
+
+At the same time Ukrainian intelligence said Russia's military was reducing its presence at the site and had told staff to relocate to [[crimea|Crimea]].[3] The Guardian, citing Ukraine's intelligence arm the GUR, reported that "several representatives of Russia's state nuclear energy agency, [[rosatom|Rosatom]], have already left" and that Ukrainian employees who stayed at the plant and signed contracts with Rosatom had been told to evacuate by Monday, preferably to Crimea.[3] [[burning-bright|Burning Bright]] treated the episode as part of a coming "Scare Event," writing that Zelensky expected nuclear fallout that he intended to pre-seed and blame on the Russian Federation.[3]

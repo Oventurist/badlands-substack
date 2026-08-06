@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, israel, congress, foreign-influence]
-sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-d56.md]
 confidence: medium
 ---
 
@@ -51,3 +51,8 @@ In the same week, a letter published as a full-page advertisement in the New Yor
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 4. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 5. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+6. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## Campaign against Jamaal Bowman (2024)
+
+In 2024 AIPAC launched a $14 million campaign against the reelection of Representative [[jamaal-bowman|Jamaal Bowman]] of New York over his criticisms of Israel.[6] Bowman responded at a rally on June 22, 2024 with a profanity-filled address, declaring, "We are gonna show f---ing AIPAC the power of the motherf---ing South Bronx," and framing the spending as an attack on himself, his family and his children.[6] Bowman, a longstanding critic of the Israeli government and of the war against [[hamas|Hamas]] in Gaza, characterized the conflict as a genocide against Palestinians and argued that US dollars were being used to kill innocent civilians.[6]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, 2020-election, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c1e.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-5ba.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f32.md]
 confidence: medium
 ---
 
@@ -61,3 +61,19 @@ Byrne insists he is not a spy but a patriot honorably serving his country, and [
 In March 2024, the defamation suit brought against Byrne by [[dominion-voting-systems|Dominion Voting Systems]] descended into chaos after his attorney [[stephanie-lambert|Stephanie (Stefanie) Lambert]] leaked discovery evidence to law enforcement and others.[8] Dominion said Byrne had given Lambert a trove of confidential discovery material, and it effectively confirmed the material's authenticity by notifying the presiding judge of the leak in a Friday filing; Lambert was arrested over the matter and defended her actions in a response filed the following Monday.[8] Lambert stated that Byrne had come into possession of Dominion emails — some in Serbian and other foreign languages — showing top-level company employees directing foreign nationals to remotely access voting machines used in Michigan during the November 3, 2020 election, while votes were still being counted and before certification.[8]
 
 8. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+
+## CIA disclosure claim (December 2025)
+
+In December 2025, Byrne exclusively revealed in an Infowars interview that he had worked as a high-level [[cia|CIA]] operative for more than 30 years, presented as a decision to "go rogue" and publicly defect to the American people out of disgust with deep state attempts to sabotage the new administration.[9] In the interview he described what he called Cuban and Venezuelan deep penetration into the U.S. government and asserted that John Brennan is the real director of the CIA.[9] On X, Byrne promoted the segment as "Intelligence Asset EXPOSES Iran Nuclear Deal SHOCKER," claiming a high-level intelligence source held corroborating material — including recorded discussions touching on South Korea, Pakistan and Iran's nuclear program — suggesting major political actors were involved in questionable back-channel dealings pointing to covert influence, nuclear leverage and corruption inside U.S. foreign policy.[9]
+
+Badlands host [[chris-paul|Chris Paul]] responded sardonically that when it comes to nuclear claims one should "believe the lunatic who's been wearing the normiebait Thomas Sowell hoodie for the last week."[9] [[ashe-in-america|Ashe in America]] wrote that she had refreshed her understanding of Byrne's stories in preparation for his appearance on Why We Vote, which he canceled at the last moment, after which she aired her planned questions on OnlyLands.[9] She noted that Byrne's subsequent CIA declaration marked a change from his prior storytelling and that he admitted much of it had been "fibbing" without specifying which parts, arguing that if he had been working for the CIA then his motivations and involvement in the stories of the past twenty years are suspect.[9] She said the volume of appeals to authority in her DMs was concerning, called for critical inquiry from the "truth community," and posted her questions in a thread on X tagging Byrne.[9]
+
+9. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+
+## Memoir claims about Brennan and the FBI (June 2023)
+
+Ahead of the release of his memoir, expected on newsstands Saturday, July 1, 2023, Byrne circulated an excerpt recounting a meeting with FBI agents.[10] In it he wrote: "In early February 2016, I met with the two FBI agents again. They brought a third, for the following reason. They said that in 2008 a law was passed that made it possible for the Director of Central Intelligence to sign a piece of paper, under certain circumstances, and take over the FBI. Director Brennan had done that on matters relating to Russia. So the DCI would be driving the FBI."[10] Byrne noted the agents did not say exactly when [[john-brennan|John Brennan]] had signed the document, though they may have indicated it was some months earlier.[10]
+
+[[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] identified this passage as the single question she most wanted FBI Director [[christopher-wray|Christopher Wray]] to answer at his scheduled July 12 [[house-judiciary-committee|House Judiciary Committee]] appearance.[10] She also cited Byrne's allegation, reported the previous day, that [[hunter-biden|Hunter Biden]] had been negotiating bribes with his father and Iran as recently as eighteen months earlier — while [[joe-biden|Joe Biden]] was president.[10]
+
+10. Badlands Brief — "Badlands News Brief: Trump's Strength Grows and Ukraine's Support Slows", URL: https://badlands.substack.com/p/badlands-news-brief-f32

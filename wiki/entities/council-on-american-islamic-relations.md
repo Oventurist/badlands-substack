@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, islam, terrorism, fbi]
-sources: [raw/badlands-news-brief-215.md]
+sources: [raw/badlands-news-brief-215.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Masjid Bilal, a mosque near the Houston home of [[shamsud-din-jabbar|Shamsud-Din
 
 Badlands writer GhostofBasedPatrickHenry treated the episode sardonically — "an NGO that is being accused of being a terrorist organization" — and folded it into a broader argument that the coverage of the New Orleans attack was engineered to build public appetite for renewed Middle East military action, in his framing most likely driven by the [[cia|CIA]] and [[mossad|Mossad]].[1]
 
+## Proposed terrorist designation (2025)
+
+In an August 12, 2025 radio interview, host Sid Rosenberg pressed Secretary of State [[marco-rubio|Marco Rubio]] on why the United States had not designated both CAIR and the [[muslim-brotherhood|Muslim Brotherhood]] as terrorist organizations, citing the backing he said both extended to New York mayoral candidate [[zohran-mamdani|Zohran Mamdani]].[2] Rubio answered that "all of that is in the works," while Rosenberg suggested action against the Brotherhood might come sooner than against CAIR.[2]
+
 ## References
 1. Badlands Brief — "Islamic Reruns, Fortune 500 Cartels, & The 119th Speaker", URL: https://badlands.substack.com/p/badlands-news-brief-215
+2. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

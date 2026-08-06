@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, new-york, trump-prosecutions, hush-money-case]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-f14.md]
 confidence: medium
 ---
 
@@ -86,6 +86,14 @@ Merchan's charge to the jury on May 28, 2024 drew intense criticism from legal c
 
 Turley also observed that the jury would not be given written copies of the instructions but could ask for portions to be read back, prompting Missouri Attorney General [[andrew-bailey|Andrew Bailey]] to respond, "This is absolute insanity."[15] Mid-afternoon on the first day of deliberations the jury sent a note to the court containing four specific requests.[15] Badlands Media contributor [[ashe-in-america|Ashe in America]] wrote that if the Trump prosecutions constituted a corruption exposure operation, "Merchan's courtroom is doing a lot of heavy lifting."[15]
 
+## Day one of the 2024 trial
+
+On the first day of the Manhattan hush-money trial, Monday April 15, 2024, Merchan barred [[donald-trump|Donald Trump]] from attending his son's high school graduation and threatened him with arrest should he go, and separately refused to permit him to attend a Supreme Court hearing in Washington on presidential immunity.[16] The day was otherwise consumed by evidence questions, scheduling and the beginning of jury selection, during which more than 50 prospective jurors were dismissed.[16] Merchan also left open the possibility of admitting evidence from the [[e-jean-carroll|E. Jean Carroll]] case, reasoning that excluding it would unfairly bind the state's hand.[16] [[zerohedge|ZeroHedge]] opened its account of the day by calling the judge "a complete dick," a characterisation [[ashe-in-america|Ashe in America]] endorsed while arguing that his rulings showed a continuing pattern of judicial discretion prejudicing the former president.[16]
+
+## Clash with Robert Costello (May 20, 2024)
+
+On Monday afternoon, May 20, 2024, Justice Merchan cleared the courtroom in order to reprimand the defense's witness [[robert-costello|Robert J. Costello]], who had scoffed at one of his rulings; at one point Merchan asked Costello, "Are you staring me down?"[17] At the end of the day, Trump attorney [[todd-blanche|Todd Blanche]] asked the judge to dismiss the case, and Merchan reserved decision, leaving the verdict to the jury.[17]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -103,3 +111,11 @@ Turley also observed that the jury would not be given written copies of the inst
 13. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
 14. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 15. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+16. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54
+17. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+
+## Postponement of sentencing (September 2024)
+
+On Friday, September 6, 2024, Merchan delayed [[donald-trump|Donald Trump]]'s sentencing in the New York [[trump-hush-money-case|hush money case]] until November 26, after the November 5 election.[18] "This is not a decision this Court makes lightly but it is the decision which in this Court's view, best advances the interests of justice," he wrote.[18] The ruling responded to a defense request to postpone the September 18 sentencing so that Trump's attorneys could appeal a pending ruling on presidential immunity expected by September 16, and it averted what would have been the first ever sentencing of a former president on criminal charges.[18] Defense counsel [[todd-blanche|Todd Blanche]] and [[emil-bove|Emil Bove]] had argued in an August 14 filing that "a single business day is an unreasonably short period of time" for such an appeal.[18]
+
+18. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14

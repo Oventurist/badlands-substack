@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, covid-19, wuhan]
-sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-db1.md]
 confidence: medium
 ---
 
@@ -50,3 +50,6 @@ The request followed a 2021 email in which Fauci's senior advisor [[david-morens
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 4. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 5. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+## Cuomo subpoena (March 2024)
+On March 5, 2024 the Republican-led subcommittee subpoenaed former New York Governor [[andrew-cuomo|Andrew Cuomo]] over his administration's handling of nursing homes during the COVID-19 pandemic, according to documents first obtained by ABC News.[6] Members sought to question Cuomo specifically about the directive instructing nursing homes to admit recovering COVID-positive patients discharged from hospitals, a policy criticized for contributing to increased deaths in those facilities.[6] The subpoena followed years of scrutiny of Cuomo on the issue, including a 2021 federal investigation of his coronavirus task force by prosecutors in Brooklyn that produced no charges.[6]
+6. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1

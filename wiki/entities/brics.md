@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -110,6 +110,19 @@ In April 2023 commentary accompanying coverage of the [[2023-macron-state-visit-
 
 South African Foreign Minister [[naledi-pandor|Naledi Pandor]] said on Wednesday, January 31, 2024 that Egypt, Ethiopia, [[iran|Iran]], Saudi Arabia, and the United Arab Emirates had confirmed they were joining the BRICS bloc after being invited the previous year.[17] The five had received invitations alongside Argentina at the August 2023 summit in Johannesburg to join the group then comprising Brazil, Russia, China, India, and South Africa, whose members say enlargement would help reshuffle a world order they regard as outdated.[17] Argentina subsequently declined the invitation.[17]
 
+## Response to Western sanctions (February 2024)
+
+Writing after the [[white-house|White House]] announced a "major sanctions" package over the death of [[alexei-navalny|Alexei Navalny]], Badlands contributor [[burning-bright|Burning Bright]] argued that such measures do not work and are not designed to, pointing to Russia's rising GDP and strengthening currency relative to the petrodollar.[18] Their real purpose, he wrote, is to act as a scarlet letter marking a line of demarcation between the "rules-based order" — the globalist establishment — and those who reject its rules, and the story had reached a stage where Russia and the emergent BRICS nations were "done pretending they care."[18]
+
+## Currency basket discussions and the Iran-Russia banking link (2023)
+
+The January 2023 [[iran-russia-banking-integration|integration of Iranian and Russian banking systems]] was described in Badlands commentary as coming on the heels of BRICS nations — together with several non-BRICS states — openly discussing the creation of their own basket of currencies for use outside the [[swift|SWIFT]] system.[20] [[patriots-in-progress|Patriots in Progress]] read these parallel developments as a deliberate strategy that could eventually end the [[petrodollar|petrodollar]] system, with a sharp drop in demand for the dollar potentially producing a hyperinflation event.[20]
+
+
+## Saudi Arabia and de-dollarization (2023)
+
+Badlands commentary in January 2023 linked the formation of the BRICS alliance to Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]]'s statement that [[saudi-arabia|Saudi Arabia]] was open to settling trade in currencies other than the U.S. dollar, arguing that with the kingdom's continued flirtation with joining BRICS the time of [[petrodollar|petrodollar]] and Deep State hegemony appeared to be on the verge of ending.[21]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
@@ -128,3 +141,13 @@ South African Foreign Minister [[naledi-pandor|Naledi Pandor]] said on Wednesday
 15. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
 16. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
 17. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+18. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+19. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+
+## National-currency settlement platform (June 2024)
+
+Speaking at a meeting of the bloc's foreign ministers in Nizhny Novgorod, Russia, in June 2024, Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] said BRICS was prioritizing the creation of a platform enabling member states to conduct transactions in national currencies.[19] He stated the bloc was "actively working to implement the decisions of the Johannesburg summit last year, particularly when it comes to improving the international monetary and financial system, developing a platform for settlements in national currencies in mutual trade," and added that the recently and unprecedentedly expanded bloc was also seeking to harmonize the framework of interaction between partners.[19] Lavrov described the agenda as extensive and as including "issues that will directly affect the future world order based on fair grounds."[19]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] linked the announcement to the [[2024-european-parliament-elections|2024 European Parliament elections]] held days earlier, arguing that BRICS was enabling national sovereignty at precisely the moment Europeans were demanding it, and that the use of local currency exchange and blockchain pointed to a prioritization of diplomacy over dominance.[19] She noted that as of 2023 BRICS accounted for 32% of global GDP against a little more than 24% for the United States in 2022, calling the coalition formidable against Western global dominance and the news a reinforcement of an inevitable [[multipolar-world|multipolar world]] with a reasonable execution framework.[19]
+20. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+21. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

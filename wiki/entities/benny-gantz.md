@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, military, politics, iran, idf]
-sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -70,6 +70,14 @@ Explaining the decision, Gantz said that "after October 7, just like hundreds of
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the resignation as "too perfect," noting the universal consensus that Gantz was the moderate in the room — he had run against Netanyahu on a moderate platform in the most recent election — and that his departure would leave Netanyahu's security cabinet dominated by Zionist-maximalists openly calling for the conquest of Palestine.[9] The commentary tied this to a claimed December 2021 [[donald-trump|Donald Trump]] media campaign on Israel's Channel 12 in which Trump promoted Gantz and [[mahmoud-abbas|Mahmoud Abbas]] as the region's two genuine peacemakers, saying "Gantz loves Israel" and expressing puzzlement that Netanyahu remained in government, since he had expected Gantz to take over after a fixed period.[9] Trump was quoted as saying that if Gantz had won the election, peace "would be a lot easier," and that "I don't think Bibi ever wanted to make peace; never did."[9]
 
+## Macgregor commentary on Gaza responsibility (May 2024)
+
+Discussing the ICC arrest warrant applications of May 2024 with [[andrew-napolitano|Judge Napolitano]], Colonel [[douglas-macgregor|Douglas Macgregor]] argued that both Gantz and Defense Minister [[yoav-gallant|Yoav Gallant]] had "their fingerprints all over the Gaza operation" and would likely continue it to some extent if they succeeded in ousting [[benjamin-netanyahu|Benjamin Netanyahu]] and becoming Israel's political leaders.[11]
+
+## Defense of Gallant, May 2024
+
+Amid coalition calls for Defense Minister [[yoav-gallant|Yoav Gallant]]'s termination after his televised challenge to [[benjamin-netanyahu|Benjamin Netanyahu]]'s [[gaza|Gaza]] policy, war cabinet minister Benny Gantz publicly defended him, stating: "The defense minister speaks the truth, the leadership's responsibility is to do the right thing for the country, at any cost."[12] As one of the three voting members of the [[israeli-war-cabinet|war cabinet]] alongside Netanyahu and Gantz himself, his support was read as leaving Netanyahu outvoted two to one on the question of post-war governance of Gaza.[12]
+
 ## References
 1. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
 2. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
@@ -80,3 +88,10 @@ Explaining the decision, Gantz said that "after October 7, just like hundreds of
 7. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 8. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 9. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+10. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## Role in the 2024 "pincer" against Netanyahu
+
+Following his resignation from the [[benjamin-netanyahu|Netanyahu]] government, Gantz featured in June 2024 Badlands analysis as one arm of a political pincer movement closing on the prime minister.[10] The commentary recalled [[donald-trump|Donald Trump]]'s veiled praise of Gantz — offered alongside stern disdain for Netanyahu in an audio-recorded interview for Israeli state media that was barely reported outside Israel — and argued the message was aimed at the Israeli rather than American public.[10] Gantz, a centrist who formed a new party in 2021 in order to run against Netanyahu for prime minister, was contrasted with Defense Minister [[yoav-gallant|Yoav Gallant]], a member of [[likud]] and reportedly President [[joe-biden|Joe Biden]]'s "inside man" in the cabinet; despite past tension the two had become strange bedfellows in criticizing the Gaza campaign and its lack of an established objective.[10] Were Gantz to persuade Gallant to resign, Netanyahu would be legally required to dissolve his cabinet and hold new elections in which Gantz would surely run, a prospect made more plausible by enormous protests in Tel Aviv at which Gantz appeared.[10]
+11. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+12. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

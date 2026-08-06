@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, ofac, sanctions, terrorism-designation]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e01.md]
 confidence: high
 ---
 
@@ -107,6 +107,14 @@ Bloomberg reported in March 2023 that Treasury Department staff were reviewing w
 
 Bloomberg reported in March 2023 that Treasury Department staff were reviewing whether federal regulators had enough emergency authority to temporarily insure deposits greater than the $250,000 cap on most accounts, without formal consent from a deeply divided [[us-congress|Congress]], as a coalition of banks pressed for a blanket [[federal-deposit-insurance-corporation|FDIC]] guarantee.[18] Authorities did not yet view the step as necessary, particularly after regulators had acted earlier that month to help banks meet withdrawal demands, but were developing a strategy out of due diligence in case conditions worsened.[18] [[zerohedge|ZeroHedge]] asked "what does the Treasury know that we don't," applying to the department the same question hawks posed about a [[federal-reserve|Fed]] pause.[18] The Treasury had also joined the Fed and FDIC in shoring up the sector after the failures of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]].[18]
 
+## Sanctioning of the alleged Tren de Aragua leader (June 2025)
+
+On Tuesday, June 24, 2025, the Treasury Department announced through its [[office-of-foreign-assets-control|Office of Foreign Assets Control]] that it had sanctioned [[giovanni-vicente-mosquera-serrano|Giovanni Vicente Mosquera Serrano]], the alleged leader of [[tren-de-aragua|Tren de Aragua]], a Venezuelan gang that the administration of President [[donald-trump|Donald Trump]] had used as justification for its immigration crackdown.[19] The statement disclosed that Mosquera Serrano had also been indicted by the [[department-of-justice|Department of Justice]] on drug trafficking and terrorism charges and added to the [[fbi|FBI]]'s Ten Most Wanted list with a $3 million reward.[19] Secretary [[scott-bessent|Scott Bessent]] accused the gang of "terrorizing our communities and facilitating the flow of illicit narcotics into our country."[19]
+
+## DOGE payment-system access dispute (February 2025)
+
+In February 2025 the Treasury Department's payment records system became the object of litigation over access by the [[department-of-government-efficiency|Department of Government Efficiency]].[20] Three union groups sued Secretary [[scott-bessent|Scott Bessent]] for allegedly sharing their members' information with [[elon-musk|Elon Musk]]'s cost-cutting team, prompting U.S. District Judge [[colleen-kollar-kotelly|Colleen Kollar-Kotelly]] to issue a temporary order on February 5 limiting read-only access to Treasury officials and two DOGE employees, [[tom-krause|Tom Krause]] and [[marko-elez|Marko Elez]].[20] Elez, who had been linked to offensive social media posts, resigned the next day.[20]
+
 ## References
 
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -127,3 +135,5 @@ Bloomberg reported in March 2023 that Treasury Department staff were reviewing w
 16. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 17. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
 18. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+19. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+20. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01

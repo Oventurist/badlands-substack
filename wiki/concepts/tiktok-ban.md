@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tiktok, national-security, supreme-court, divestiture, free-speech]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eff.md]
 confidence: medium
 ---
 
@@ -38,6 +38,14 @@ Representative Thomas Massie opposed the bill on the House floor, calling it a p
 
 Badlands writer Simon Esler read the episode as the Deep State building a pretext for further systems of control, observing that the pattern is clear when people known to be abusive and power-hungry announce their intention to protect the public.[5] He also noted Donald Trump's positioning in a "grey zone," speculating in light of Trump's recent meetings with ByteDance part-owner Jeffrey Yass and with Elon Musk that Trump's media conglomerate might be circling TikTok as an acquisition target, and raising the question of what parallel operations might be underway with respect to YouTube, Instagram and Facebook.[5]
 
+## Blackout and restoration, January 2025
+
+Shortly before 11 p.m. on Saturday, January 18, 2025, U.S. users of [[tiktok|TikTok]] were greeted with a message reading "Sorry TikTok isn't available right now," and the site was otherwise unusable, roughly an hour after the company had warned of an imminent shutdown.[6] "We regret that a U.S. law banning TikTok will take effect on January 19 and force us to make our services temporarily unavailable," the company told users, with some 170 million American users affected.[6]
+
+TikTok restored service in the United States on Sunday, just hours after going dark, after President-elect [[donald-trump|Donald Trump]] said he would try to pause the federal ban by executive order on his first day in office.[6] Trump said the order would give TikTok's China-based parent company [[bytedance|ByteDance]] more time to find an approved buyer before the ban took full effect, announcing the move on his Truth Social account.[6] By Sunday afternoon, users signing on were greeted with a message reading, "As a result of President Trump's efforts, TikTok is back in the U.S.!"[6] Badlands contributor [[jordan-sather|Jordan Sather]] quipped that "just like that, 30 million Gen Z kids are going to become Trump supporters."[6]
+
+Separately, [[perplexity-ai|Perplexity AI]] submitted a bid to ByteDance on Saturday, January 18, to create a new merged entity combining Perplexity, TikTok U.S. and new capital partners.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -45,3 +53,4 @@ Badlands writer Simon Esler read the episode as the Deep State building a pretex
 3. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
 4. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 5. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+6. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff

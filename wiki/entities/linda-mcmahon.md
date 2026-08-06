@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cabinet, education, senate-confirmation]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-f23.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ On Thursday, March 20, 2025, [[donald-trump|President Trump]] signed an executiv
 
 Top House Democrats wrote to McMahon the same day urging her and the administration to reverse the decision, saying that "students, teachers, and schools across the country rely on the Department's important work" and that they had "serious doubts the remaining staff at the Department have the capacity to fulfill this mission."[8] The lawmakers asked her to "reverse these short-sighted decisions before they cause any more damage to America's students, families, and educators."[8] Badlands commentary defended the move as a promise kept, arguing that federal spending and intervention in education had risen while measured performance stagnated.[8]
 
+## HELP Committee vote (February 20, 2025)
+
+McMahon's nomination to lead the [[department-of-education|Education Department]] cleared a key procedural hurdle on Thursday, February 20, 2025, when the [[senate-help-committee|Senate HELP Committee]] advanced it to the Senate floor on a 12-11 party-line vote, one week after she appeared before the panel to explain President [[donald-trump|Donald Trump]]'s plans for the department's future.[9] Committee chair [[bill-cassidy|Bill Cassidy]] said that if confirmed she would have "the tall task of reforming a Department of Education that has lost its purpose," argued that for four years the department had "focused on everything but student learning with bureaucracy and red tape standing in the way of student success," and said she had "demonstrated a strong vision" for the agency.[9] At the earlier hearing senators had grilled her on what would become of programs housed within the agency — such as special education and grants for low-income schools — if the department were dismantled or shuttered.[9]
+
+[[badlands-media|Badlands]] writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] praised McMahon as a highly competent businesswoman and proven government administrator who had led the [[small-business-administration|Small Business Administration]] in Trump's first term, and credited her as longtime president of [[world-wrestling-entertainment|World Wrestling Entertainment]] with creating "Trump-a-Mania," including the storyline in which Trump appeared as a character and his 2013 induction into the WWE Hall of Fame.[9] He concluded that her task at the department was to dismantle it.[9] [[ashe-in-america|Ashe in America]] listed her among three nominees through committee and awaiting a floor vote, alongside Secretary of the Army nominee [[dan-driscoll|Dan Driscoll]] and U.S. Trade Representative nominee [[jamieson-greer|Jamison Greer]].[9]
+
 ## References
 
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
@@ -66,3 +72,4 @@ Top House Democrats wrote to McMahon the same day urging her and the administrat
 6. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 7. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 8. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
+9. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

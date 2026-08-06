@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, january-6, badlands-news-brief]
-sources: [raw/badlands-news-brief-d06.md]
+sources: [raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d73.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ The report concluded that the Capitol was left vulnerable because Democratic Hou
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06
+
+## Announcement of Trump's endorsement of Jim Jordan (October 2023)
+
+During the [[2023-speaker-of-the-house-election|2023 Speaker of the House election]], Nehls publicly relayed [[donald-trump|Donald Trump]]'s endorsement of [[jim-jordan|Jim Jordan]] for speaker.[2] "Just had a great conversation with President Trump about the Speaker's race," he posted on X, adding, "He is endorsing Jim Jordan, and I believe Congress should listen to the leader of our party. I fully support Jim Jordan for Speaker of the House."[2]
+
+2. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73

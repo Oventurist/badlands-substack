@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, political-violence, assassination, 2025]
-sources: [raw/badlands-news-brief-69d.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -27,3 +27,7 @@ Records cited in reporting showed Boelter had served on a state board with Hoffm
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+## Target list and arrest
+Vance Luther Boelter, 57, was arrested late on Sunday, June 15, 2025, after what was described as the largest manhunt in Minnesota history.[2] He is accused of stalking and killing state Representative [[melissa-hortman|Melisa Hortman]] and her husband Mark, and of shooting State Senator [[john-hoffman|John Hoffman]] and his wife Yvette, who were seriously wounded.[2] U.S. Representative [[veronica-escobar|Veronica Escobar]] of El Paso said the [[united-states-capitol-police|Capitol Police]] notified her on the morning of Sunday, June 15 that her name appeared on the shooter's target list, and she issued a statement condemning political violence the following day.[2] Commentary published by [[canncon|CannCon's Newsletter]] questioned the prevailing ideological framing of the attack, noting reports that the alleged shooter had next to no political speech in his social media posts.[2]

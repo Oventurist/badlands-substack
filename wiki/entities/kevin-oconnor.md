@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, physician, biden-health, cognitive-testing]
-sources: [raw/badlands-news-brief-26c.md]
+sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -22,5 +22,15 @@ That position drew criticism from outside physicians. Dr. Stuart Fischer, a prim
 
 [[ashe-in-america|Ashe in America]] treated the refusal as emblematic of a wider pattern in which the [[white-house|White House]] press operation and its rotating cast of administration spokesmen gaslight the press corps about the president's condition, which she characterized as debilitating dementia.[1]
 
+## Biden's second presidential physical (2023)
+
+As physician to the president, O'Connor conducted [[joe-biden|Joe Biden]]'s second physical as president in February 2023 at [[walter-reed-national-military-medical-center|Walter Reed National Military Medical Center]], more than a year after the first.[2] The memo he released afterward stated that Biden "remains fit for duty, and fully executes all of his responsibilities without any exemptions or accommodations," and described the president as "a healthy, vigorous, 80-year-old male, who is fit to successfully execute the duties of the Presidency, to include those as Chief Executive, Head of State and Commander in Chief."[2] Badlands commentary treated the assessment as accurate on its own terms while arguing that Biden's public incoherence is a deliberate act rather than evidence of medical unfitness.[2]
+
+## Update on Biden's COVID-19 recovery (July 2024)
+
+As President [[joe-biden|Joe Biden]]'s personal physician, O'Connor released an update on Monday, July 22, 2024 stating that the president had completed his tenth dose of Paxlovid and that his symptoms had "almost resolved completely," following his July 17 COVID-19 diagnosis.[3] Biden was seen in public for the first time since the diagnosis the next day, boarding Air Force One in Delaware ahead of a scheduled address to the nation.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
+2. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+3. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

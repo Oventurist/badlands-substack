@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, united-kingdom, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -28,8 +28,19 @@ Badlands Media attributes sponsorship of the [[muslim-brotherhood|Muslim Brother
 
 In December 2025, former US National Security Adviser [[michael-flynn|Michael Flynn]] alleged that the [[central-intelligence-agency|CIA]] was "in cahoots with MI6 and others in the EU intelligence community" in an effort to undermine President [[donald-trump|Donald Trump]]'s attempts to broker peace in Ukraine.[4] Badlands commentary extended the claim, naming MI6 alongside the CIA and [[mossad|Mossad]] as probable participants in the failed assassination attempt against Trump, and listing MI6 among the forces opposing Russian influence in Africa.[4]
 
+## Assange extradition conflict-of-interest reporting (2024)
+
+In February 2024, *Declassified UK* — republished by [[consortium-news|Consortium News]] — reported that Justice [[jeremy-johnson|Jeremy Johnson]], one of the two High Court judges assigned to decide [[julian-assange|Julian Assange]]'s extradition appeal, had previously acted as counsel for MI6 as well as the [[uk-ministry-of-defence|Ministry of Defence]], and had been specially vetted for access to top-secret information.[5] Critics argued this raised institutional conflict-of-interest concerns, since Assange's journalism had been built on exposing the secrets of the very US and UK national security establishments involved.[5]
+
+
+## Badlands thesis on origins in the East India Company
+
+Badlands Media advances the claim that [[british-east-india-company|the British East India Company]], formally dissolved by an act of Parliament in 1873, transformed itself into MI6 rather than simply ceasing to exist, noting that the War Office created the body that would become British Intelligence in the same year.[6] The reasoning offered is that the company had already mastered espionage, proxy warfare and color revolution over centuries — techniques cultivated in its 1730s contest with the French East India Company for influence in India — at a time when the concept of a state intelligence agency was still novel.[6] The outlet treats this continuity as part of its contention that the British Empire never truly ended.[6]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 4. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+5. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+6. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

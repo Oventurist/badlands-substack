@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, broadcasting, show]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-228.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-d8f.md]
 confidence: medium
 ---
 
@@ -22,9 +22,14 @@ A second Badlands Media schedule post, published January 3, 2023 to open the 202
 
 A Wednesday-night episode aired shortly before the August 16, 2023 news brief examined at length the dispute over [[donald-trump|Donald Trump]]'s request for a [[sensitive-compartmented-information-facility|SCIF]], with [[just-human|Just Human]] arguing that the position taken by [[jack-smith|Jack Smith]]'s office was internally contradictory.[5]
 
+## Bradley texts episode (February 28, 2024)
+
+On the February 28, 2024 broadcast, [[burning-bright|Burning Bright]], [[just-human|Just Human]] and [[jon-herold|Jon Herold]] went through the [[terrence-bradley|Terrence Bradley]]–[[ashleigh-merchant|Ashleigh Merchant]] text messages roughly an hour into the show, a segment [[ashe-in-america|Ashe in America]] described as "damning."[6]
+
 ## References
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule
 3. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 5. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
+6. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f

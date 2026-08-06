@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, interest-rates, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-cce.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d95.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -178,6 +178,35 @@ Badlands commentary in July 2025 reinterpreted President [[donald-trump|Donald T
 
 Under Powell's chairmanship the [[federal-reserve|Federal Reserve]] held rates steady on December 13, 2023 and signaled that the tightening cycle of the prior two years had ended, with lower borrowing costs expected in 2024 — a message markets read as decisively dovish, sending the S&P 500 up nearly 1.4% and pushing the 10-year Treasury yield to about 3.96%.[31] Badlands contributor [[burning-bright|Burning Bright]] noted that Powell had signaled hawkish sentiment only two weeks earlier and suggested, citing analysts including [[zerohedge|ZeroHedge]], that the reversal followed a phone call from the [[joe-biden|Biden]] administration amid its retreat from "Bidenomics" messaging — behavior he characterized as partisan politicking or election interference.[31]
 
+## July 2025: defense of the headquarters renovation
+
+In a letter dated Thursday, July 17, 2025, Powell defended the Federal Reserve's $2.5 billion headquarters renovation budget against accusations from a senior Trump administration official who alleged mismanagement and potential legal violations.[32] "While periodic work has been done to keep these buildings occupiable, neither building has seen a comprehensive renovation since they were first constructed," Powell wrote of the Fed's Washington, D.C. headquarters, built in the 1930s.[32] He added that "the Board has made a small number of design changes to scale back or eliminate certain elements and has added no new elements," describing the changes as intended to simplify construction and reduce the likelihood of further delays and cost increases.[32]
+
+The renovation became a Trump administration talking point amid the broader feud with the central bank over interest rates, after the original $1.9 billion price tag set in 2017 ballooned to $2.5 billion by 2023.[32] Badlands commentary argued that the story had been underplayed relative to Epstein coverage, called the sum "mental" and cause for public outrage, and criticized Powell for defending the project while much of the country awaited the abolition of his institution — urging prosecution of those who approved it rather than mere cancellation.[32]
+
+## Search for a successor (August 2025)
+
+In August 2025, Treasury Secretary [[scott-bessent|Scott Bessent]] confirmed that the race to replace Powell as chair of the [[federal-reserve|Federal Reserve]] had narrowed to 11 candidates, an array including past and present central bank officials, economists, a [[white-house|White House]] advisor, and several Wall Street market experts.[33] Bessent said he would begin meeting candidates shortly after Labor Day in order to bring down the list for presentation to President [[donald-trump|Donald Trump]], calling the field "an incredible group."[33]
+
+Although Powell's term as chair did not expire until May 2026, the White House was keen to advance the succession process as it pressed what it characterized as an urgent need for interest rate cuts.[33]
+
+## July 2023 rate hike
+
+The Badlands News Brief of July 27, 2023, headlined in part "Powell's Plight," covered the [[federal-reserve|Federal Reserve]]'s decision the previous day to raise its baseline interest rate range by 0.25 percent to 5.25-5.5 percent, a 22-year high and the central bank's 11th hike since March 2022, adopted unanimously by the [[federal-open-market-committee|Federal Open Market Committee]] under Powell's chairmanship.[34]
+
+## Tariff warnings (May 2025)
+
+In May 2025 Powell issued dire warnings about interest rates, the economy and President [[donald-trump|Donald Trump]]'s tariffs, saying the economy had been resilient and that it was smart to wait and see how conditions developed before making any moves.[35] "The tariff increases announced so far have been significantly larger than anticipated," he said, adding that if the announced increases were sustained they were "likely to generate a rise in inflation, a slowdown in economic growth, and an increase in unemployment."[35] He said that "given the scope and scale of the tariffs," the risks of higher inflation and higher unemployment had increased, and that if the tariffs were ultimately imposed at those levels the [[federal-reserve|Fed]] would see not further progress toward its goals but a delay in achieving them.[35]
+
+## Succession speculation (August 2025)
+
+Treasury Secretary [[scott-bessent|Scott Bessent]] said on August 12, 2025 that Trump had a "very open mind" about Powell's successor and had even considered re-appointing [[janet-yellen|Janet Yellen]] to the post, with the administration interviewing candidates and casting a "very wide net" ahead of the expiration of Powell's chairmanship in May 2026.[36] Badlands commentary held that Powell — nicknamed "Too Late" by Trump — was not going anywhere until Trump was done with him, because his tenure was seen as exposing the failings of the fiat central banking system.[36]
+
+
+## "Fighting a ghost" (August 2024)
+
+Amid the [[august-2024-global-market-selloff|August 2024 global market sell-off]], the investor [[cole-smead|Cole Smead]] told CNBC's "Squawk Box Europe" that Powell was "doing all he can" to understand and counteract the effects of massive federal deficit spending — some 7% of U.S. GDP — with monetary policy, but that the underlying difficulty was fiscal and was not ending.[37] Smead framed the [[federal-reserve|Federal Reserve]] under Powell as attempting to "fight a ghost" created by fiscal stimulus it had not itself produced, at a moment when critics were blaming the central bank for holding interest rates at two-decade highs rather than cutting them.[37]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -210,3 +239,9 @@ Under Powell's chairmanship the [[federal-reserve|Federal Reserve]] held rates s
 29. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
 30. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 31. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+32. Badlands Brief — "Badlands News Brief: Trump's New Lawsuit & Israel's New War", URL: https://badlands.substack.com/p/badlands-news-brief-d95
+33. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
+34. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+35. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
+36. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+37. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, oil, sanctions, energy]
-sources: [raw/badlands-news-brief-bc7.md]
+sources: [raw/badlands-news-brief-bc7.md, raw/badlands-news-brief-df1.md]
 confidence: medium
 ---
 
@@ -24,5 +24,11 @@ The company was founded in 1991 by Soviet decree and was spearheaded by then dep
 
 Badlands contributor Burning Bright framed the strikes on Rosneft and Lukoil as part of a "mutual decoupling template" and a broader economic war, arguing that [[vladimir-putin|Vladimir Putin]]'s campaign against the Russian oligarchy was intended to liberate ordinary Russians from a predatory corporate class that lived off the nation's natural resources.[1] With Trump, [[xi-jinping|Xi Jinping]] and [[narendra-modi|Narendra Modi]] taking turns sanctioning one another's energy conglomerates and rare-earth miners, he argued, the practical mandate for on-shoring and multipolar pivots had never been stronger, and the decoupling under way was directed less at rival states than at globalism itself.[1]
 
+
+## October 2025 U.S. Sanctions
+
+Lukoil was sanctioned by the Trump administration in late October 2025 together with [[rosneft|Rosneft]], as Washington pressed Moscow toward an immediate ceasefire in Ukraine.[2] President [[vladimir-putin|Vladimir Putin]] publicly downplayed the impact of the measures on Russia's economy.[2] Days later, Kremlin special envoy [[kirill-dmitriev|Kirill Dmitriev]] told U.S. counterparts in Miami that the Russian economy remained "in good shape" and that the ruble had been the "most successful currency this year," strengthening roughly 40% against the dollar.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7
+2. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1

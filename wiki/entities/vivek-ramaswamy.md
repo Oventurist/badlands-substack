@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, tech, education, culture]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c74.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f9f.md]
 confidence: low
 ---
 
@@ -64,6 +64,29 @@ After the [[colorado-supreme-court|Colorado Supreme Court]] removed [[donald-tru
 
 Badlands writer [[justin-deschamps|Justin Deschamps]] speculated that Ramaswamy might be playing along with Trump, wittingly or otherwise, arguing that by drawing this line in the sand the pair were dealing massive blows to a GOP already gutted of respect.[12] He described Ramaswamy as one of only two candidates left undiscredited going into 2024, praised his role while remaining uncertain whether he was genuine, and asked whether Ramaswamy was himself being played by Trump or pursuing a shadowy game with benevolent objectives.[12] Separately, [[tucker-carlson|Tucker Carlson]] told an audience at Turning Point USA's AmericaFest, "I kind of like Vivek" for vice president, saying the campaign process had made Ramaswamy's positions "much more sincere" and praising him for attacking Nikki Haley's views rather than her person.[12]
 
+## Colorado primary withdrawal threat (December 2023)
+
+On Tuesday, December 19, 2023, following the [[colorado-supreme-court|Colorado Supreme Court]]'s decision barring [[donald-trump|Donald Trump]] from the state ballot, Ramaswamy vowed to withdraw from the Colorado GOP primary ballot until Trump was also permitted to appear.[13] The [[colorado-republican-party|Colorado Republican Party]] replied the next day that he would not have to, because the party would withdraw from the primary entirely and convert to a pure caucus system if the ruling stood.[13] Badlands writer [[jon-herold|Jon Herold]] responded that "if Vivek actually believed what he is saying, he would drop out of the race altogether and support Trump. Short of that, he is pandering to Trump's base."[13] [[ashe-in-america|Ashe in America]] agreed, calling it "gross" to use the disenfranchisement of Colorado voters to fundraise and pander, and advised readers to proceed with caution regarding Ramaswamy's attempts to work his way into MAGA.[13]
+
+
+## Call for a libertarian-nationalist alliance (May 2024)
+
+Speaking at the [[2024-libertarian-national-convention|2024 Libertarian National Convention]] as a Trump surrogate and former Libertarian Party voter, Ramaswamy told delegates that "I believe the future of this country depends on a libertarian-nationalist alliance," urging cooperation with the "America First" wing of the Republican Party; the crowd mostly booed.[14] He framed the appeal with criticism of both Democrats and what he called "the establishment wing of the Republican Party," singling out Republican support for the Foreign Intelligence Surveillance Act.[14]
+
+Ramaswamy also said independent presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], who had addressed the convention earlier that day, was "in no sense a libertarian," citing Kennedy's past support for punishing skeptics of the mainstream scientific narrative on climate change.[14] In his opening comments and in a subsequent debate with the Libertarians' vice presidential nominee Clint Russell, he argued that the political moment offered libertarian ideals an opening to shape [[donald-trump|Donald Trump]]'s America First movement, adding that he had had "extensive conversations with Donald Trump about libertarian objectives."[14]
+
+## Hindu faith controversy (October 2025)
+
+At a Montana event hosted by [[charlie-kirk|Charlie Kirk]]'s [[turning-point-usa|Turning Point USA]], Ramaswamy faced a pointed question about his Hindu faith while campaigning for governor of Ohio.[15] He answered that he was not running to be "a pastor of Ohio" but its governor, and asserted that being a Hindu did not stand in the way of his political ambitions in the United States.[15]
+
+Ramaswamy explained that he considers his faith to be an ethical monotheism as found in Vedanta, in which there is one true God, and said this did not contradict Hinduism's polytheistic forms any more than belief in the Holy Trinity makes a Christian a polytheist.[15] The analogy drew criticism from [[nalin-haley|Nalin Haley]], the Catholic son of [[nikki-haley|Nikki Haley]], who had previously attacked Ramaswamy over his conception of American identity and now accused him of comparing the Holy Trinity to "330 million gods," calling it "blasphemous, disrespectful, and a slap in the face to every Christian."[15] Reporting noted that Ramaswamy, of Indian origin, is frequently trolled over his religion and ancestry.[15] Badlands commentary treated the episode as an exercise in constructed political identity, likening Ramaswamy's persona to those of [[barack-obama|Barack Obama]], [[hakeem-jeffries|Hakeem Jeffries]] and [[jd-vance|JD Vance]].[15]
+
+## Trump vice-presidential speculation (August 2023)
+
+Days after the first Republican primary debate — which [[donald-trump|Donald Trump]] skipped while pledging to watch for potential running mates — Trump was asked by conservative talk show host Glenn Beck whether he would consider the 38-year-old biotech entrepreneur as his vice president, and answered, "I think he's great."[16] Trump added that "anybody that's said I'm the best president in a generation ... I have to like a guy like that," and described Ramaswamy as "smart," "young" and having "got a lot of talent."[16] Asked directly about a "Vice President Ramaswamy," Trump responded affirmatively: "He's a very, very, very intelligent person. He's got good energy, and he could be some form of something ... I think he's really distinguished himself."[16]
+
+Badlands commentators were skeptical. [[ryan-delarme|Ryan DeLarme]] dismissed the story as a slow-news-day write-up and pointed to [[michael-flynn|Michael Flynn]]'s appearance on the PBD Podcast, where Flynn called Ramaswamy's political and life experience "razor thin" while conceding he would make a good Treasury Secretary; DeLarme read Flynn's simultaneous acknowledgment of frequent communication with Trump as a sign the ticket question had already been settled internally.[16] [[johnny-q|Johnny Q]] said he was no Vivek fan and cited Ramaswamy's business ties to a vaccine company as a concern, while conceding it was a net positive that he had surpassed [[ron-desantis|Ron DeSantis]] with ease, and expressing trust in Trump's ultimate judgment.[16] [[burning-bright|Burning Bright]] argued that "Vivek's rise is directly proportional to DeSantis's fall," citing [[just-human|Just Human]] on donors jumping from one sinking ship to the next, and read Trump's praise as "a pretty epic dig" — patting Ramaswamy on the head and sending him off with "a glass of Vice President commiserations."[16]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Trump Rugs the Zionists; FBI Raids the Virginia Democrats", URL: https://badlands.substack.com/p/badlands-brief-6fd
@@ -77,3 +100,7 @@ Badlands writer [[justin-deschamps|Justin Deschamps]] speculated that Ramaswamy 
 10. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
 11. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
 12. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
+13. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+14. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+15. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+16. Badlands Brief — "Badlands News Brief: Trump Trolls, Tucker Trends & Ukraine Rages", URL: https://badlands.substack.com/p/badlands-news-brief-f9f

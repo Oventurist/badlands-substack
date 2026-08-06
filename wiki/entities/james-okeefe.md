@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, undercover-video, election-integrity, media]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-a61.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-ee6.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ In late March 2023 O'Keefe suggested publicly that he had insiders within Manhat
 
 O'Keefe personally conducted the on-camera confrontation that followed [[project-veritas|Project Veritas]]'s undercover recording of [[jordan-trishton-walker|Jordan Trishton Walker]], the man identified as a [[pfizer|Pfizer]] executive describing a "[[directed-evolution|directed evolution]]" plan for COVID-19.[6] Confronted, Walker recanted, described himself as a "liar … trying to impress a person on a date," invoked race in calling for police involvement, and physically attacked O'Keefe and his film crew.[6] The resulting footage drew congressional attention while being subjected to intermittent platform throttling and a partial press blackout, with the [[daily-mail|Daily Mail]] removing its article on the sting.[6]
 
+## Prince Andrew undercover video (2025)
+
+In May 2025 O'Keefe released an undercover video featuring British royal family advisor [[john-bryan|John Bryan]] claiming that [[prince-andrew|Prince Andrew]] "was f*cking underage girls" and had close ties to [[jeffrey-epstein|Jeffrey Epstein]].[7] O'Keefe explained that two weeks after Andrew's BBC interview denying knowledge of Epstein victim [[virginia-roberts-giuffre|Virginia Giuffre]], Bryan was brought to the prince's private residence for crisis management and drafted a five-page PR strategy.[7] At the end of the video O'Keefe pointed to the Project Veritas logo on the wall behind him alongside his [[okeefe-media-group|O'Keefe Media Group]] logo and promised more information the following week, fuelling online speculation; he had founded Project Veritas and led it until February 2023, and in August 2024 filed a countersuit against the organisation for defamation and breach of contract.[7]
+
 ## References
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -57,3 +61,4 @@ O'Keefe personally conducted the on-camera confrontation that followed [[project
 4. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
 5. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
 6. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+7. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6

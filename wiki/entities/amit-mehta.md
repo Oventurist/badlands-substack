@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, january-6, federal-courts]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-8f3.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-f76.md]
 confidence: low
 ---
 
@@ -32,6 +32,11 @@ Mehta presided over the September 2023 contempt of Congress trial of former Trum
 
 In January 2023, Mehta oversaw the proceedings in which four members of the [[oath-keepers|Oath Keepers]] were convicted of seditious conspiracy in connection with January 6, 2021.[5] [[the-gateway-pundit|The Gateway Pundit]] described him as a "Wicked Obama Judge" presiding over what it called a "DC Kangaroo Court," and Badlands contributor [[sean-morgan|Sean Morgan]] cited the convictions as evidence of a two-tiered system of justice intended to chill protest over disputed elections.[5]
 
+
+## Ruling in the Google search monopoly case
+
+On Monday, August 5, 2024, Mehta ruled that [[google|Google]] had illegally maintained a monopoly over internet search, holding that the company had exploited its dominance to squash competition and stifle innovation.[6] The decision came nearly a year after the start of the trial pitting the [[justice-department|Justice Department]] against Google in the largest United States antitrust showdown in a quarter century, and three months after closing arguments in early May.[6] Mehta had weighed evidence from a ten-week trial that included testimony from senior executives at Google, Microsoft and Apple.[6] In a 277-page opinion he wrote: "After having carefully considered and weighed the witness testimony and evidence, the court reaches the following conclusion: Google is a monopolist, and it has acted as one to maintain its monopoly," finding that Google enjoyed an 89.2% share of general search services, rising to 94.9% on mobile devices.[6] See [[united-states-v-google-antitrust-trial|United States v. Google]].[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
@@ -39,3 +44,9 @@ In January 2023, Mehta oversaw the proceedings in which four members of the [[oa
 3. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 4. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
 5. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
+6. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+
+## Google remedies decision (September 2025)
+
+On September 2, 2025, District Judge Mehta refused to break up [[google|Google]] for monopolizing the online search and advertising markets, instead imposing lesser restrictions on the roughly $2 trillion company.[7] He rejected the [[department-of-justice|Justice Department]]'s request to force divestiture of the Chrome browser and Android, but agreed that Google must allow competitors to gain a foothold, ordering it to share some search data with rivals and barring deals that make its products — including its artificial intelligence — the default tools on mobile devices.[7] Politico called the opinion the most consequential antitrust decision on Big Tech business practices since a federal judge's failed bid to break up Microsoft in the early 2000s.[7]
+7. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

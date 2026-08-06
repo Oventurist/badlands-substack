@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, media, january-6, cnn]
-sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d21.md]
+sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e6c.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ After [[donald-trump|Donald Trump]] said in June 2024 that he would have "every 
 
 2. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
 3. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+
+## Extradition remarks (June 2024)
+
+In June 2024 commentary on Senate Republican unease over [[donald-trump|Donald Trump]]'s calls for political vengeance, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that he was "tickled pink" to hear McCabe vent about sleepless nights and somber conversations among intelligence community members over which foreign nations have the most favorable extradition laws, characterizing such fears as evidence of guilt rather than of political persecution.[4]
+
+4. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fraud, minnesota, welfare, state-of-the-union]
-sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-752.md]
+sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -42,8 +42,15 @@ Attorney General [[pam-bondi|Pam Bondi]] said on X that the Justice Department w
 
 [[jon-herold|Jon Herold]] of [[badlands-media|Badlands]] wrote sardonically that Americans could "rest easy" knowing the same government that funded and allowed the fraud to persist for years would be the one delivering "answers and accountability," and argued the episode was an indictment not only of the national news media and Minnesota officeholders but of "the fraudulently elected, feckless, dangerous office holders in [[congress|Congress]]" who hold the power of the purse.[4] [[burning-bright|Burning Bright]] linked the crackdown to his thesis that "mandate cultivation" sits at the core of the patriot plan, arguing the [[donald-trump|Trump]] administration descended on Minneapolis after widespread public outcry not because officials had been unaware, but because the public had not previously asked.[4]
 
+## HHS funding freeze and spread to Ohio (December 2025)
+
+On December 30, 2025, the [[department-of-health-and-human-services|Department of Health and Human Services]] froze hundreds of millions of dollars in child care funding for [[minnesota|Minnesota]], with Deputy Secretary [[jim-oneill|Jim O'Neill]] citing allegations that the state had funneled millions of taxpayer dollars to fraudulent daycares over the past decade and announcing three departmental actions that day.[5] The freeze came amid probes by the [[fbi|FBI]] and the [[department-of-homeland-security|Department of Homeland Security]] into whether the state's Democratic leaders were complicit in exploiting federal nutrition and child care funds, with more than 90 people already charged federally in an investigation dating to 2021 and two [[feeding-our-future|Feeding Our Future]] leaders convicted in May.[5] A state audit concluded the [[tim-walz|Walz]] administration "did not effectively exercise its authority" to prevent the fraud.[5]
+
+The scrutiny spread to Ohio, where attorney [[mehek-cooke|Mehek Cooke]] alleged that members of the state's Somali community had defrauded millions from Ohio's [[medicaid|Medicaid]] program and that authorities at the highest levels were investigating.[5] [[muckraker|Muckraker]] founder [[anthony-rubin|Anthony Rubin]] travelled to Columbus to visit Somali-affiliated daycare centers, an escalation ZeroHedge attributed to the "[[nick-shirley-effect|Nick Shirley Effect]]."[5] Badlands contributor [[burning-bright|Burning Bright]] framed the moment through [[mandate-cultivation|Mandate Cultivation]], arguing that the administration would wait for the opportunity to build the public mandate needed to act decisively.[5]
+
 ## References
 1. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
 2. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 3. Badlands Brief — "Somali Scams, Munchausen Moms, & Another Perfect Phone Call", URL: https://badlands.substack.com/p/badlands-news-brief-467
 4. Badlands Brief — "Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
+5. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

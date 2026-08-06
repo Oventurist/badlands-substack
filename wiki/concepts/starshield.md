@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [spacex, elon-musk, national-defense, missile-defense, iron-dome]
-sources: [raw/badlands-news-brief-745.md]
+sources: [raw/badlands-news-brief-745.md, raw/badlands-news-brief-e38.md]
 confidence: low
 ---
 
@@ -20,3 +20,9 @@ In this framing, the executive order — which the White House said would "furth
 
 ## References
 1. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+
+
+## Use in the MILNET constellation (2025)
+Starshield terminals are to be used aboard the more than 480 satellites of [[milnet|MILNET]], the [[united-states-space-force|U.S. Space Force]]'s government-owned, contractor-operated low Earth orbit communications constellation operated by [[spacex|SpaceX]].[2] The terminals feature enhanced encryption and interoperability with the commercial Starlink network, supporting the military's emerging hybrid mesh network of commercial and Defense Department satellites.[2]
+
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

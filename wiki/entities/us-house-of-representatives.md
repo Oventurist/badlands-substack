@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, legislature, united-states, oversight]
-sources: [raw/badlands-brief-b62.md, raw/badlands-news-blast.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a57.md]
+sources: [raw/badlands-brief-b62.md, raw/badlands-news-blast.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -40,6 +40,14 @@ In April 2024 the House sent an inquiry to [[x-corp|X]] concerning "actions take
 
 On Saturday, April 20, 2024, the House passed $61 billion in fresh aid for Ukraine on a 311 to 112 bipartisan vote, ending a six-month impasse, along with more than $14 billion in military aid to Israel and $9 billion in humanitarian assistance and a Taiwan aid measure.[6] Speaker [[mike-johnson|Mike Johnson]] pushed the legislation through with Democratic support over fierce objections within his own conference, and Democrats and some Republicans waved Ukrainian flags on the floor in a rare moment of bipartisanship in a bitterly and narrowly divided chamber.[6] House Foreign Affairs Chairman [[michael-mccaul|Michael McCaul]] and Democratic leader [[hakeem-jeffries|Hakeem Jeffries]] both defended the vote publicly.[6] Details are covered at [[april-2024-foreign-aid-package|the April 2024 foreign aid package]].[6]
 
+## Expedited Iran sanctions votes (April 2024)
+
+Following the Iranian drone attack on [[israel|Israel]] over the weekend of April 13–14, 2024, the House was set to vote on Monday, April 15 on several bills toughening sanctions on [[iran|Iran]], including one aimed at reducing Chinese imports of Iranian crude oil.[7] The bills were taken up under an expedited procedure and included the [[iran-china-energy-sanctions-act-of-2023|Iran-China Energy Sanctions Act of 2023]], which the House Financial Services Committee had approved unanimously in November 2023.[7]
+
+## November 2023 stopgap funding vote
+
+On Tuesday, November 14, 2023, the House passed Speaker [[mike-johnson|Mike Johnson]]'s [[november-2023-continuing-resolution|two-step continuing resolution]] to avert a government shutdown, by a bipartisan vote of 336 to 95.[8] Democrats supplied 209 of the votes in favor, while 93 Republicans and two Democrats voted against, an unusual coalition in which the minority party carried the Speaker's own bill.[8] The measure funded military construction, Veterans Affairs, transportation, housing and the Energy Department through January 19, 2024 and the remainder of the government through February 2, 2024, and included no additional aid for Israel or Ukraine.[8]
+
 ## References
 1. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 2. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
@@ -47,3 +55,5 @@ On Saturday, April 20, 2024, the House passed $61 billion in fresh aid for Ukrai
 4. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 5. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 6. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+7. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54
+8. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, new-york-city, socialism, trump-endorsements]
-sources: [raw/badlands-news-brief-448.md]
+sources: [raw/badlands-news-brief-448.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -26,6 +26,13 @@ The election also drew scrutiny from the [[department-of-justice|Department of J
 
 Badlands host Ashe in America criticized the Democratic Socialists of America as "the most entitled and economically illiterate political faction in the nation," noting the group's dominance of the Democratic Party in Colorado and its reliance on vacancy appointments to place members in office, and asked whether Cuomo — or anyone — could win what she characterized as a "fake election."[1] Host GMONEY, responding to reports that a million New Yorkers claimed they would flee the city if Mamdani won, welcomed a Mamdani victory.[1]
 
+## Democratic primary result
+
+As first-choice votes were tallied in the Democratic mayoral primary, state assemblyman [[zohran-mamdani|Zohran Mamdani]] led former Governor [[andrew-cuomo|Andrew Cuomo]], who conceded and declared his rival the winner even though no candidate was set to secure a majority in the first round of the [[ranked-choice-voting|ranked choice]] contest.[2] Mamdani had surged in the race's final weeks on a progressive platform of rent freezes, city-run grocery stores, price caps and free city buses, boosted by energetic direct-to-camera videos and a widely covered walk the length of Manhattan on the weekend before Election Day.[2] He won the backing of prominent liberal politicians in the city as the flag-bearer of a unified progressive effort aimed at depriving Cuomo of a political comeback.[2] Badlands contributor [[chris-paul|Chris Paul]] dismissed the outcome as a "Muslim socialist wins fake election decided in comic fashion against Andrew Cuomo."[2]
+
+In a separate citywide Democratic primary held the same day, Manhattan District Attorney [[alvin-bragg|Alvin Bragg]] won renomination over the more moderate challenger Patrick Timmins.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+2. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

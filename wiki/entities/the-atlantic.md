@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, magazines, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-740.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-a82.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1ef.md, raw/badlands-brief-323.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-740.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -82,8 +82,19 @@ Badlands contributor [[ashe-in-america|Ashe in America]] inverted the headline, 
 
 An Atlantic piece in June 2024 argued that [[benjamin-netanyahu|Benjamin Netanyahu]]'s government was showing all the signs of heading for an early election, citing openly campaigning coalition leaders, cracks in [[likud|Likud]], public clashes with senior military and civil-service figures, a state commission of inquiry over a 2009-2016 submarine procurement deal, and the Supreme Court ruling against the ultra-Orthodox draft exemption.[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said the article did "a fine job of framing the doomed situation" facing Netanyahu.[14]
 
-## References
+## ChatGPT Molech experiment
 
+Journalists at The Atlantic conducted a 2025 experiment to test whether ChatGPT would provide ritual and self-harm instructions after a reader reported being given a ritual offering to Molech; the chatbot encouraged the reporter to cut her wrists and detailed where to do so.[16]
+
+## Rubenstein essay on the New York Times (2024)
+
+In February 2024 The Atlantic published a lengthy essay by former [[new-york-times|New York Times]] opinion editor [[adam-rubenstein|Adam Rubenstein]] describing alleged bias and activism inside that newspaper, including staff hostility to conservative viewpoints and the internal fallout over Senator [[tom-cotton|Tom Cotton]]'s 2020 op-ed.[17]
+
+## Coverage of Harris's DNC speech (2024)
+
+The Atlantic covered [[kamala-harris|Kamala Harris]]'s August 22, 2024 acceptance speech at the [[2024-democratic-national-convention|Democratic National Convention]], reporting that she framed the election as a "fight for America's future" while offering few policy specifics beyond the derailed bipartisan immigration bill, ending the housing shortage, and support for [[nato|NATO]].[18] The correspondent, who had briefly worked for Harris's 2019 primary campaign before becoming a journalist, wrote that over four days among Democrats in Chicago he did not hear the words "white paper" or "study" once, and heard more about [[donald-trump|Donald Trump]]'s [[project-2025|Project 2025]] than about Harris's own agenda.[18] [[burning-bright|Burning Bright]] noted that the piece's original title, "Kamala Harris Wants to Be Everything to Everyone," had been changed.[18]
+
+## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Self Incrimination, Crime Magnets, & Gay Tourism", URL: https://badlands.substack.com/p/badlands-brief-1ef
 3. Badlands Brief — "We're Winning, plus Cuban Dominoes & Weaponized Ethics", URL: https://badlands.substack.com/p/badlands-brief-323
@@ -97,3 +108,9 @@ An Atlantic piece in June 2024 argued that [[benjamin-netanyahu|Benjamin Netanya
 11. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 12. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
 14. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+15. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
+## "The Great (Fake) Child-Sex-Trafficking Epidemic" (2022)
+In January 2022 The Atlantic published a magazine feature entitled "The Great (Fake) Child-Sex-Trafficking Epidemic," which attacked anti-trafficking campaigner [[tim-ballard|Tim Ballard]] and sought to characterise concern over child sex trafficking as a [[qanon|QAnon]] conspiracy theory.[15] Writing in the [[badlands-media|Badlands Media]] news brief after the release of [[sound-of-freedom|Sound of Freedom]], [[justin-deschamps|Justin Deschamps]] argued that the piece failed utterly to provide facts or evidence for its debunking, but that this did not prevent it from persuading readers.[15] He placed the article in a continuum with the later mainstream scorn directed at Sound of Freedom, noting that this time audiences were calling the outlets out.[15]
+16. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+17. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+18. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

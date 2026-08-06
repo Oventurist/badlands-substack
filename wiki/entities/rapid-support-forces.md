@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sudan, paramilitary, conflict, rsf]
-sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-46b.md]
+sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -28,9 +28,12 @@ Badlands writer [[ryan-delarme|Ryan DeLarme]] asked whose proxy the RSF might be
 
 The Sudanese army blamed the paramilitary Rapid Support Forces for [[port-sudan-drone-attacks-2025|drone strikes on Port Sudan]] in early May 2025, which hit the airport's military base and, two days later, its civilian section, along with an army base and the country's main fuel depot.[2] The attacks grounded all flights at Sudan's main international port of entry and struck a city that had until then been considered a safe haven for hundreds of thousands of displaced people fleeing a two-year war.[2]
 
+## Trump pledge on Sudan (November 2025)
+
+Since the outbreak of war in April 2023, fighting between the [[sudanese-armed-forces|Sudanese army]] and the paramilitary Rapid Support Forces has killed tens of thousands of people and displaced nearly 12 million.[4] In November 2025 President [[donald-trump|Donald Trump]] said he would begin working on ending the conflict at the request of Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]], condemning the "tremendous atrocities" of the civil war and pledging to coordinate with Saudi Arabia, the United Arab Emirates and Egypt.[4]
 
 ## References
-
 1. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
 2. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 3. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
+4. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

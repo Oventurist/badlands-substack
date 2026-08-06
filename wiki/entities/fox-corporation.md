@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, publicly-traded, murdoch, fox-news]
-sources: [raw/badlands-news-brief-49a.md]
+sources: [raw/badlands-news-brief-49a.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ The losses came days after Fox settled a defamation lawsuit brought by [[dominio
 
 [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] argued that Fox had ceased to treat financial success as its primary goal and functioned as a propaganda outlet, noting that alongside the $800 million the company lost millions of Carlson viewers who made up a significant share of its audience.[1] DeLarme further characterized the Dominion settlement as circular, observing that [[blackrock|BlackRock]] held roughly $45.7 million in Fox stock and about $59 million in Dominion stock, so that money moved from one BlackRock-held pocket to another to create the impression that the injured party had been made whole and that the 2020 election had been fair.[1] He also noted reports that the Murdochs were looking to sell, leaving open the questions of why and to whom.[1]
 
+## Leadership transition and Dominion fallout (2023)
+
+Fox Corp. and News Corp. announced on September 21, 2023 that Rupert Murdoch would step down as chairman of both boards in November, becoming chairman emeritus, with Lachlan Murdoch taking over as sole chairman of News Corp. and remaining Fox Corp.'s executive chair and chief executive.[2] The change came after a turbulent year for the company's television network, notably its agreement to pay a $787.5 million settlement to Dominion Voting Systems over defamation claims arising from 2020 election coverage.[2] Badlands commentary framed the leadership change at one of the world's largest news organizations as a development worth watching in the context of narrative control, particularly with trials involving Donald Trump and the 2020 election approaching.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
+2. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

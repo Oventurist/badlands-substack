@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, pentagon, leak, israel-iran]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ The NGA participated in the U.S. government's inquiry into [[unidentified-anomal
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
+
+## 2024 Israel-Iran leak
+
+Documents attributed to the agency, together with material from the [[national-security-agency|National Security Agency]], surfaced in October 2024 on a channel of the Telegram messaging app and described Israel's positioning of military assets for a strike on Iran following Iran's October 1 ballistic missile attack.[3] The disclosure led to the November 2024 indictment of government employee [[asif-william-rahman|Asif William Rahman]] on two counts of willful transmission of national defense information; the material had been sharable within the [[five-eyes|Five Eyes]] partnership.[3]
+
+3. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

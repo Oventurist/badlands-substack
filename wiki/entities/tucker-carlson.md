@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, first-amendment, iran, fara, censorship]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-285.md, raw/badlands-brief-52f.md, raw/badlands-brief-7c6.md, raw/badlands-brief-7ed.md, raw/badlands-brief-959.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-285.md, raw/badlands-brief-52f.md, raw/badlands-brief-7c6.md, raw/badlands-brief-7ed.md, raw/badlands-brief-959.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-f61.md, raw/badlands-news-brief-f9f.md]
 confidence: medium
 ---
 
@@ -283,6 +283,23 @@ Carlson said he had spoken to multiple people about Venezuela-related tensions b
 
 In April 2023, Carlson hosted [[donald-trump|Donald Trump]] on [[fox-news|Fox News]] for the former president's first mainstream media appearance since his indictment in New York by [[alvin-bragg|Alvin Bragg]].[54] In the interview Trump said the United States had lost global influence since he left office — "You got this crazy world, it's blowing up and the United States has absolutely no say" — and said that [[emmanuel-macron|Emmanuel Macron]], then wrapping up the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], was "over with China, kissing his ass."[54]
 
+## Putin interview as narrative context (February 2024)
+
+Badlands contributor [[burning-bright|Burning Bright]] treated Carlson's interview with [[vladimir-putin|Vladimir Putin]] as a seismic and effective event whose aftermath, he argued, prompted the deployment of the [[alexei-navalny|Alexei Navalny]] story as a counter-narrative — one intended to trigger mass psychological mania regarding Russia and to manufacture the appearance of a mandate for new US sanctions.[56]
+
+
+## Fuentes interview backlash and Heritage defense (October 2025)
+
+Carlson's friendly interview with Holocaust denier [[nick-fuentes|Nick Fuentes]] drew condemnation from within a GOP grappling with a series of antisemitic incidents in late October 2025.[58] [[heritage-foundation|Heritage Foundation]] President [[kevin-roberts|Kevin Roberts]] stood by Carlson in a video posted to X on Thursday, October 30, denouncing the "venomous coalition" that criticized him, predicting that "their attempt to cancel him will fail," and calling Carlson a "close friend" of the group who "always will be."[58]
+
+## Venezuela warning with Col. MacGregor
+
+On his October 29, 2025 live show, Carlson and [[douglas-macgregor|Col. Douglas MacGregor]] warned that neoconservatives were exploiting the drug crisis to drag the United States into another regime change war.[58] Carlson said a U.S. naval armada was steaming toward Venezuela — "a large oil rich country in South America" — with the stated purpose of forcing [[nicolas-maduro|Nicolas Maduro]] to leave, under threat of invasion if he did not vacate and turn over the reins to the opposition.[58] He observed that very few people seemed to be talking about it, called it "a pretty significant turn of events," and noted that regime change war with Iran had been narrowly averted the previous June.[58]
+
+## 2023 Trump-Tucker ticket speculation
+
+A November 2023 [[american-thinker|American Thinker]] item, carried as a bonus story in the Badlands News Brief, promoted a speculative [[trump-tucker-ticket|Trump-Tucker ticket]] pairing Carlson with [[donald-trump|Donald Trump]] for the 2024 presidential race.[62] The piece described such a ticket as a "double down" on American exceptionalism rather than a balanced ticket, and argued it would energize the MAGA base while putting globalist elites and the Deep State on notice.[62]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
@@ -363,3 +380,64 @@ During the same interview Trump suggested Ukraine "cannot win" the war with Russ
 
 53. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
 54. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## Coverage of the Hunter Biden plea deal (June 2023)
+
+On Tuesday 20 June 2023, hours after the announcement of the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]], Carlson devoted the fifth episode of his post-Fox program "Tucker on Twitter" to attacking the Biden family.[55] He stressed that none of the charges concerned influence peddling, including Hunter Biden's alleged role as an international bag man for the family, and cited an FBI source's account of a $10 million payment from [[burisma|Burisma]] to Hunter and [[joe-biden|Joe Biden]].[55] Quoting investigators who had "identified payments to Biden family members from foreign companies, while Joe Biden served as Vice President and after he left public office," Carlson concluded: "So actually there was something there. It was a scandal. Racketeering, money laundering, wire fraud. Those are some of the crimes the Bidens seem to have committed."[55]
+
+Carlson characterized the resolution as trivial — "Hunter Biden pleaded guilty to pretty much nothing" — and said that as far as [[merrick-garland|Merrick Garland]]'s [[department-of-justice|Justice Department]] was concerned the matter was closed.[55] He contrasted the treatment with the choreography of politically charged prosecutions: "There was no predawn raid carried live, simultaneously on CNN. There was no perp walk, no handcuffs, no press conference. Above all, there was no felony ... it was a secular miracle."[55] Badlands writer [[ashe-in-america|Ashe in America]] connected the episode to the cease-and-desist letter [[fox-news|Fox News]] had sent Carlson less than two weeks earlier over the new show, arguing that after five episodes he had made clear he intended to speak plainly rather than repeat state propaganda, and that his commentary marked a major legacy-media voice describing the United States as a corrupted banana republic.[55] The segment became a reference point for the [[two-tier-justice-system|two-tier justice system]] argument.[55]
+
+55. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+56. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+
+## December 2024 Moscow interview with Sergey Lavrov
+
+Carlson revealed on Wednesday, December 4, 2024, that he had traveled to Moscow to interview Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]]; the full interview was published on Thursday night.[57] In it Lavrov said Russia had information implicating the Americans and the British in supporting the al-Qaeda-affiliated militants then on the offensive in Syria, and noted claims that Israel had an interest in aggravating the situation to divert scrutiny from Gaza.[57] Lavrov also described the [[astana-format|Astana Format]] as "a useful combination of players," and said Washington and its allies "must understand that we would be ready to use any means not to allow them to succeed in what they call strategic defeat of Russia," pointing to Russia's [[oreshnik-missile|Oreshnik]] hypersonic missile as a signal he hoped had been taken seriously.[57]
+
+Badlands commentary treated the interview as significant on two levels: as sourcing for the claim that Western states were backing the Syrian offensive, and as evidence of a deliberate Russian distinction between the U.S. government and the American people.[57]
+57. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6
+58. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+
+
+## Interview with Ted Cruz on Israel (June 2025)
+Carlson's June 2025 interview with Senator [[ted-cruz|Ted Cruz]] became a focal point of the debate over American Christian support for Israel during the Israel-Iran war.[59] Badlands commentary from [[ashe-in-america|Ashe in America]] called the host's and guest's handling of the Genesis 12:1-3 blessing-and-cursing passage embarrassing, while treating the underlying question the interview raised — whether the modern government of Israel is the same Israel with which God made the covenant — as one individuals must answer for themselves.[59]
+
+59. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+## Ray Epps and the September 2023 charge
+
+When [[ray-epps|Ray Epps]] was finally charged in September 2023 with one count of disorderly conduct in a restricted building, Forbes framed the prosecution as following a period in which the absence of charges had led personalities including Carlson to claim, in its characterization baselessly, that Epps was a government provocateur.[60] Separately, former Capitol Police Chief [[steven-sund|Steven Sund]]'s September 18, 2023 congressional testimony was described as a condensed version of the longer account he had given to Carlson the previous month.[60]
+
+60. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## Hunter Biden defamation threat (February 2023)
+
+On February 1, 2023, [[hunter-biden|Hunter Biden]]'s legal team threatened a defamation lawsuit against Carlson and [[fox-news|Fox News]], alleging that the host had failed to correct false statements about material purported to come from Hunter Biden's [[hunter-biden-laptop|laptop]].[61] The letter to attorneys for Carlson and the network accompanied demands for investigations sent to the Delaware attorney general, the [[department-of-justice|Department of Justice]] and the [[internal-revenue-service|IRS]].[61]
+
+61. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
+## Fox cease-and-desist over Twitter show (June 2023)
+
+In June 2023, [[fox-news|Fox News]] sent Carlson a cease-and-desist letter after the first two episodes of his Twitter show accumulated a combined 169 million views.[63] Having "parted ways" with Carlson in April following the network's historic defamation settlement with [[dominion-voting-systems|Dominion Voting Systems]], Fox refused to release him from a contract granting it exclusive rights to his content through December 31, 2024 — after the next presidential election.[63] Unconfirmed reports suggested the contract barred him only from appearing on another network, not necessarily on a social media platform.[63]
+
+Carlson argued he held a First Amendment right to post on Twitter and asserted that Fox had committed material breaches of contract.[63] His attorney [[bryan-freedman|Bryan Freedman]] said Fox "defends its very existence on freedom of speech grounds" while seeking to strip Carlson of his own right to speak freely.[63] Carlson accused Fox of fraud, saying senior executives reneged on promises made to him "intentionally and with reckless disregard for the truth," and his legal team contended the network had broken a promise not to settle with Dominion in a way implying wrongdoing on his part — a settlement he said a board member told him he was part of.[63]
+
+[[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] argued the episode showed establishment media attempting to "put the toothpaste back in the tube," noting Carlson's two videos drew more views in under a week than legacy outlets combined over a far longer period.[63]
+
+62. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+63. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
+
+## Interview with Steven Sund (August 2023)
+
+Episode 15 of [[tucker-on-twitter|Tucker on Twitter]] featured Carlson's interview with former Capitol Police Chief [[steven-sund|Steven Sund]] about what really happened on January 6.[64] [[ashe-in-america|Ashe in America]] wrote that the episode was drowned out by an unusually busy news week but was significant because Sund's account — that agencies withheld intelligence and denied him support for 71 minutes — had been suppressed elsewhere: Carlson had interviewed him while still at [[fox-news|Fox News]] and the network refused to air it, and [[60-minutes|60 Minutes]] used less than ten minutes of his side of the story.[64]
+
+64. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+
+## Warning of Trump assassination and war with Russia (August 2023)
+
+Speaking on the Adam Carolla show in late August 2023, Carlson said that if legal efforts to block [[donald-trump|Donald Trump]] from running for president again failed, the next steps could be assassination and a hot war with Russia to maintain power and unite the population.[65] "No one will say that but I don't know how you can't reach that conclusion," he said, arguing that "permanent Washington and both parties" had decided there was "something about Trump that's so threatening to them, they just can't have it."[65] Tracing an escalating sequence — "if you begin with criticism, then you go to protest, then you go to impeachment, now you go to indictment, and none of them work, what's next? Graph it out, man. We are speeding towards assassination, obviously" — he added that once a faction starts indicting political opponents it cannot afford to lose an election.[65]
+
+Carlson dismissed the idea of a repeat of COVID-era mask mandates as a control mechanism, saying the tactic had "already been exposed," and predicted instead that "there will be a hot war between the United States and Russia in this next year."[65] Asked what might precipitate such a war, he suggested a false-flag pretext: "I think we could Tonkin Gulf our way into it where all of a sudden missiles land in Poland and 'the Russians did it' and we're going to war."[65] He urged the Senate's Republicans to rally behind de-escalation, particularly in Ukraine.[65]
+
+[[paul-fleuret|Paul Fleuret]], writing in the [[badlands-media|Badlands Media]] news brief, proposed that Carlson's warning might function as protection rather than prophecy: as the most viewed journalist in the world, by seeding the narrative in advance he had effectively disarmed any [[deep-state|Deep State]] plan to remove Trump, since the crime would now be too obvious to risk.[65]
+
+65. Badlands Brief — "Badlands News Brief: Trump Trolls, Tucker Trends & Ukraine Rages", URL: https://badlands.substack.com/p/badlands-news-brief-f9f

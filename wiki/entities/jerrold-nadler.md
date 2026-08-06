@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrat, house-judiciary-committee]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-f6e.md]
 confidence: low
 ---
 
@@ -28,9 +28,13 @@ At the [[house-judiciary-committee|House Judiciary Committee]]'s July 24, 2024 h
 
 During the April 2023 controversy over the [[2023-house-judiciary-manhattan-crime-hearing|2023 House Judiciary Manhattan crime hearing]], Nadler was singled out by Badlands writer [[ryan-delarme|Ryan DeLarme]] for attacking committee chairman [[jim-jordan|Jim Jordan]] over Jordan's push to defund what DeLarme called the fully weaponized [[fbi|Federal Bureau of Investigation]].[4] DeLarme also charged that Nadler was playing down New York City crime rates, describing him as "the same guy who claimed that ANTIFA was a myth while small businesses were burning to the ground," a reference to [[antifa|ANTIFA]].[4]
 
-## References
+## Retirement and succession race (2025)
 
+Nadler's retirement from his Manhattan congressional seat opened a succession race in one of the wealthiest and bluest districts in New York; in November 2025 former conservative lawyer and Trump critic [[george-conway|George Conway]] moved closer to announcing a campaign to succeed him, hiring Democratic pollster Anna Greenberg.[5]
+
+## References
 1. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 2. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
 3. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
 4. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+5. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

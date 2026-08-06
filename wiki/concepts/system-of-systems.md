@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, narrative-warfare, globalism, awakening, badlands-brief]
-sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-208.md]
+sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-cf8.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ He described the System of Systems as a "Paradoxical Machine": a machine running
 
 Burning Bright argued that nothing summed up the concept better than the rampant online censorship experienced firsthand by many over the preceding years, citing testimony by [[emma-jo-morris|Emma-Jo Morris]] on the suppression of the [[hunter-biden-laptop|Hunter Biden laptop]] story.[2] He concluded that the [[great-awakening|Great Awakening]] could not be stopped.[2]
 
+## Application to the 2025 NBA gambling case
+
+Badlands contributor [[burning-bright|Burning Bright]] invoked the System of Systems in October 2025 when discussing the federal illegal-gambling indictment that swept up [[national-basketball-association|NBA]] figures [[chauncey-billups|Chauncey Billups]] and [[terry-rozier|Terry Rozier]] alongside [[la-cosa-nostra|La Cosa Nostra]] crime families.[3] He argued the convergence implied by the sting should not be underestimated and that the [[donald-trump|Trump]] administration's [[fbi|FBI]] had reasons for signal-boosting a case tying professional sports to organized crime, concluding: "The System of Systems is all around us. And sports are fake."[3]
+
 ## References
 1. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
+3. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8

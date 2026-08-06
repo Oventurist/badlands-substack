@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, indictments, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -152,7 +152,16 @@ News of a possible indictment, first reported by MSNBC, came after U.S. Attorney
 
 On Friday night, December 19, 2025, the [[justice-department|Justice Department]] appealed the dismissal of the criminal cases against Comey and New York Attorney General [[letitia-james|Letitia James]].[27] Comey had been charged in September with obstruction of justice and making a false statement to Congress in 2020, and pleaded not guilty.[27] US District Judge [[cameron-currie|Cameron Currie]] dismissed both cases after ruling that federal prosecutor [[lindsey-halligan|Lindsey Halligan]] had been unlawfully appointed, holding that "all actions flowing from" her appointment, including the indictments, "constitute unlawful exercises of executive power and must be set aside."[27] Badlands contributor [[ashe-in-america|Ashe in America]] questioned whether a district judge may override a presidential appointment and welcomed the appeal as a route to legal clarity, arguing the appointment should stand and that Comey and James should remain indicted.[27]
 
+## July 5, 2016 timeline
+
+Badlands commentary notes that Comey's July 5, 2016 announcement closing the Clinton email investigation fell on the same day as a private Obama–Clinton plane meeting and Christopher Steele's first report to the FBI, a convergence Badlands treats as evidence of coordination behind the Trump–Russia narrative.[28]
+
+## Media conduit to the New York Times (2025 disclosures)
+
+FBI memoranda delivered to [[congress|Congress]] by Director [[kash-patel|Kash Patel]] in August 2025 documented that Comey used Columbia University law professor [[daniel-richman|Daniel Richman]] as a conduit to *New York Times* reporter Michael Schmidt, in an effort to burnish his own image and press for appointment of a special prosecutor targeting President [[donald-trump|Donald Trump]].[29] Richman told agents the goal was "to correct stories critical of Comey, the FBI and to shape future press coverage" outside the bureau's official press office.[29] Newly declassified material cited by Badlands indicated Comey ordered the [[fbi|FBI]] to "assist the New York Times" with one of its articles, and that as part of that assistance FBI officials [[peter-strzok|Peter Strzok]] and [[lisa-page|Lisa Page]] were interviewed by the newspaper.[29] Badlands host Jon Herold noted that during the ensuing leak investigation the FBI was directed to interview only "those officials who might have had motive to protect Comey," omitting the bureau's own intelligence that [[hillary-clinton|Hillary Clinton]] had approved a plan to vilify Trump through the Russia collusion narrative.[29]
+
 ## References
+
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Golgotha & The Metaverse", URL: https://badlands.substack.com/p/badlands-brief-52b
 3. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
@@ -180,3 +189,5 @@ On Friday night, December 19, 2025, the [[justice-department|Justice Department]
 25. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 26. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 27. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+28. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+29. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

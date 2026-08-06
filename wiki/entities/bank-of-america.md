@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, argentina, wall-street]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-d61.md]
 confidence: low
 ---
 
@@ -32,8 +32,17 @@ The disclosure came a little more than two weeks after [[toronto-dominion-bank|T
 
 Badlands writer [[burning-bright|Burning Bright]] situated the warning within a timeline that included [[warren-buffett|Warren Buffett]]'s September 2024 sell-down of Bank of America shares and [[donald-trump|Donald Trump]]'s proposal to seize cartel assets, closing with the questions "Who controls the cartels? Who controls the banks? What is the Deep State?"[4]
 
+## January 6 bank records disclosed to the FBI (2023 whistleblower testimony)
+
+Whistleblowers told Republicans on the [[house-judiciary-committee|House Judiciary Committee]] in May 2023 that Bank of America had given the [[fbi|FBI]] access to bank records connected to January 6, 2021 without customers' knowledge or consent.[5] According to their testimony, the bank transferred information to the FBI on transactions that took place in Washington, D.C. on that date, and customers were not informed of the data transfer.[5] The same whistleblowers claimed the FBI had become "enveloped in politicization" and alleged "serious abuses" over an extended period.[5]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] compared the episode to the origins of the credit-rating industry in the mid-20th century, which he described as private companies that, like intelligence services, gathered any information they could about a person — travel, expenditures, sexual encounters, drug and alcohol use, marital fidelity and other seemingly unrelated data points — amounting to "a fiscal version of a spy agency" whose data was tightly held by large financial institutions and governments.[5] He argued that the same bankers who helped make credit scores publicly acceptable, and thereby paved the way for social credit scoring, were now sharing private information with the FBI for use in generating predicates to investigate law-abiding Americans.[5]
+
+Deschamps contended that the harm is widely under-appreciated: in the modern technocratic age the mere existence of an investigation can act against a citizen's interests, effectively reversing the presumption of innocence, since agents questioning friends, family and business contacts create the impression that "if there's smoke, there's fire."[5] Until the public recognizes these "subtle subversions" of freedom, he wrote, "we will continue to suffer under the yoke of tyranny."[5]
+
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 3. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66
 4. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+5. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61

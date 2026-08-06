@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, commentary, turning-point-usa, israel, woke-right]
-sources: [raw/badlands-news-brief-4ee.md]
+sources: [raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-ea1.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ The brief notes that Lindsay previously published a satirical academic paper tit
 
 Lindsay said on a podcast that he is no longer invited to speaking engagements, has lost roughly half of his subscribers and nearly all of his income, and claims to have been blacklisted by the Trump administration.[1] Badlands commentator GhostofBasedPatrickHenry presented this decline as one element in a broader realignment of conservative media over coverage of Israel.[1]
 
+## The Grievance Studies affair
+
+Lindsay, a mathematician, collaborated with the writer [[helen-pluckrose|Helen Pluckrose]] and the philosopher [[peter-boghossian|Peter Boghossian]] on the [[grievance-studies-affair|Grievance Studies affair]], also known as "Sokal Squared," an operation in which the three infiltrated academia with deliberately absurd papers that were nonetheless peer reviewed and published.[2] The submissions included an argument for men self-penetrating with dildos to lessen transphobia, a study of the men who patronize "breastaurants" such as Hooters, and a paper on the prevalence of rape culture among dogs in Portland dog parks.[2]
+
+Badlands contributor [[simon-esler|Simon Esler]] cited the project in February 2024 after a leading journal retracted an AI-generated paper, calling it "a phenomenal experiment successfully exposing woke academia as moronic and low grade nonsense upheld by no meaningful standards at all," and arguing that such operations against "false authorities" remain sorely needed.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Heightened Homohysteria, AI Scabs, & A Dutch Diddler", URL: https://badlands.substack.com/p/badlands-news-brief-4ee
+2. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1

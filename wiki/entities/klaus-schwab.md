@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [world-economic-forum, great-reset, globalism]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md]
 confidence: low
 ---
 
@@ -51,6 +51,11 @@ In April 2025 the [[world-economic-forum|World Economic Forum]] confirmed a Wall
 
 In May 2023, under Schwab's leadership as founder and executive chairman, the WEF published — in collaboration with Visa — the Urban Mobility Scorecard Tool, a benchmarking document for the transition to sustainable urban mobility, which The Gateway Pundit characterized as setting an authoritarian goal of limiting 76% of private cars by 2050.[9] The paper projected 2.1 billion vehicles and 4.6 billion tons of carbon dioxide emissions by 2050 absent behavioural change, and argued that shared transport, electrification and autonomous vehicles could cut the fleet to 500 million and emissions by 80%.[9] Badlands contributor [[ryan-delarme|Ryan DeLarme]] tied the proposal to the [[15-minute-cities|15-minute city]] concept and said he was more concerned with "eliminating the World Economic Forum by 100% by 2030."[9]
 
+
+## Staff mutiny reporting (January 2023)
+
+In January 2023 The Guardian reported that the future of Schwab — "Mr Davos" for more than half a century — had become a talking point at that year's meeting after [[world-economic-forum|World Economic Forum]] employees voiced strong criticism of their chair and of the lack of a succession strategy.[10] A group of current and former WEF staff who contacted the paper said the 82-year-old Schwab was a law unto himself and had surrounded himself with "nobodies" incapable of running the organisation he founded in the early 1970s.[10] The group said: "Klaus has been at the helm of the WEF for 52 years. When he was born [in 1938] 122 of the 195 states in the world right now did not even exist. He is completely unaccountable to anyone inside and outside the organisation."[10] [[jordan-sather|Jordan Sather]] commented that the WEF appeared to be in shambles, with staff describing Schwab as running the organization as though he had a God complex and hiring inept people, while reporting that week indicated many companies and NGOs bankrolling the forum were unhappy with his management.[10]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -62,3 +67,4 @@ In May 2023, under Schwab's leadership as founder and executive chairman, the WE
 7. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 8. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 9. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+10. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [jfk, us-president, bretton-woods, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md]
 confidence: low
 ---
 
@@ -37,8 +37,18 @@ In 1939, as a young man visiting Palestine, Kennedy wrote a lengthy letter to hi
 
 Badlands commentary used the letter to argue that Israel's political spectrum was founded on competing socialisms, and cited [[muammar-gaddafi|Muammar Gaddafi]]'s 2009 address to the United Nations, in which the Libyan leader called for the reopening of an investigation into Kennedy's assassination on the belief that Israel was responsible.[4] The letter was also invoked to frame the historical ties between the [[pale-of-settlement|Pale of Settlement]], the Bolsheviks, the Zionist movement organized under the [[world-zionist-organization|World Zionist Organization]], and the Russian-origin share of modern Israel's population that [[vladimir-putin|Vladimir Putin]] was said to be able to leverage against [[benjamin-netanyahu|Benjamin Netanyahu]].[4]
 
+## Invoked in the 2023 RFK Jr. campaign
+
+In June 2023 his nephew [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] told [[joe-rogan|Joe Rogan]] that Kennedy had been "at war" with the military-industrial complex as president, and that the intelligence agencies were "trying to trick him" into military excursions into Cuba and Vietnam.[5] RFK Jr. said his uncle had concluded that he must "shatter" the [[cia|CIA]] "into a thousand pieces" and "scatter it to the winds," and cited that history as the reason he himself takes precautions against assassination.[5] Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the CIA coined the term "conspiracy theorist" following Kennedy's assassination and continued to deploy it against his relatives and other critics.[5]
+
+## ExComm and the Irish Mafia
+
+Badlands Media recounts that in the 1960s Kennedy and his brother [[robert-f-kennedy|Robert F. Kennedy]] formed an unofficial advisory council, the [[executive-committee-of-the-national-security-council|Executive Committee of the National Security Council]], to keep peacemaking efforts siloed from the [[joint-chiefs-of-staff|Joint Chiefs]] and the intelligence agencies.[6] Officials excluded from it derided the circle of Kennedys and Boston-area friends, including [[kenneth-odonnell|Kenneth O'Donnell]], as the "Irish Mafia."[6] Going around the [[military-industrial-complex|Military Industrial Complex]] and the press, the group opened backchannels to Soviet leader [[nikita-khrushchev|Nikita Khrushchev]] to avert war — a precedent the outlet invoked in 2024 to interpret [[donald-trump|Donald Trump]]'s appointments.[6]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
 4. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
+5. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+6. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae

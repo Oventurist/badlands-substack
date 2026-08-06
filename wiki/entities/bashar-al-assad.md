@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, regime-change, isis, russia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a64.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-ea6.md]
 confidence: low
 ---
 
@@ -79,6 +79,16 @@ Badlands commentary read Assad's departure as part of a template rather than an 
 
 Following his overthrow in December, coverage in May 2025 of the United States lifting sanctions on Syria identified interim president [[ahmed-al-sharaa|Ahmed al-Sharaa]] as a former Al Qaeda commander who had helped topple Assad and who renounced terrorism in 2016.[11] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that the new arrangement would not hold, writing, "I still think this Jolani thing is a rug to be pulled and we will see Assad return as part of a maneuver warfare operation."[11] See [[syria-sanctions-relief|Syria sanctions relief]].
 
+## Weapons pipeline from Libya
+
+Badlands' July 2024 commentary held that weapons seized from [[muammar-gaddafi|Muammar Gaddafi]]'s armory after his overthrow were sent to "freedom fighters" in the Syrian desert seeking to oppose Assad, and that this network later became known as [[isis|ISIS]].[12] The account presented the sequence as part of a recurring pattern following [[benjamin-netanyahu|Benjamin Netanyahu]]'s addresses to the U.S. Congress.[12]
+
+## Saudi rapprochement (September 2024)
+
+On Monday, September 9, 2024, the embassy of [[saudi-arabia|Saudi Arabia]] reopened in Damascus after twelve years of severed ties, a step Badlands framed as a further consolidation of Assad's restored regional standing.[13] Syria's Assistant Minister of Foreign Affairs and Expatriates Ayman Raad said the reopening — following the reopening of the Syrian embassy in Riyadh the previous October — would help bolster bilateral relations and improve joint Arab initiatives.[13] The two countries had severed ties at the start of the war on [[syria|Syria]], as the West sought through regional proxies to overthrow Assad; over the preceding year regional Arab states had moved to mend ties after his government maintained legitimacy and regained the majority of its territory.[13]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that then-Secretary of State [[hillary-clinton|Hillary Clinton]] had used her clout to have Syria expelled from the [[arab-league|Arab League]], and that Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] reversed that action in 2023 by welcoming Assad to the Arab League meeting with a hug.[13] He argued the reopening rebukes the Deep State talking point that the Saudis still oppose Assad, while acknowledging that corrupt Saudi royals such as [[alwaleed-bin-talal|Alwaleed bin Talal]] once funded the [[isis|ISIS]] insurgency against him.[13]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -91,3 +101,5 @@ Following his overthrow in December, coverage in May 2025 of the United States l
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 11. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+12. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+13. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

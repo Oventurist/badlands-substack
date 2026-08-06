@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cnn, polling, data-analysis, media, immigration]
-sources: [raw/badlands-brief-eed.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-c9b.md]
+sources: [raw/badlands-brief-eed.md, raw/badlands-news-brief-a12.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-d7a.md]
 confidence: medium
 ---
 
@@ -30,7 +30,14 @@ In June 2024 Enten expressed shock on air at how much support [[joe-biden|Joe Bi
 
 Badlands writer [[ashe-in-america|Ashe in America]] read the numbers as evidence that Trump was gaining in every demographic and that Biden was objectively the worst candidate in the history of American suffrage, putting Biden 43 points below his 2020 support level among Black voters under 50.[3]
 
+## Immigration trust shift (January 2025)
+
+In January 2025 Enten, in his role as CNN data analyst, highlighted polling showing that the Republican Party held a 22-point margin over Democrats on trust to address the U.S. immigration crisis — a marked reversal from 2017, when Democrats held an 11-point advantage.[4] "I just want to note how different things are from where we were when Donald Trump first took office and how much more the American people are on the side of Republicans than they were eight years ago," Enten said during a segment.[4] He continued: "You go back to April 2017—look at this—the Democrats held an 11-point advantage over Republicans. So Americans were not liking what Donald Trump and the Republican Party was doing back at the beginning of his first term."[4]
+
+Badlands host [[burning-bright|Burning Bright]] read the swing as evidence that [[donald-trump|Trump]] was not so much warring with the administrative state as demonstrating that its power was illusory and subsisted entirely on public compliance.[4]
+
 ## References
 1. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
 2. Badlands News Brief — "Pentagon Portfolio Plays & Spy Court Sunlight", URL: https://badlands.substack.com/p/badlands-news-brief-a12
 3. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
+4. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a

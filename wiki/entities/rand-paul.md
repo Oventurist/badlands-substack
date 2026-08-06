@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican-party, kentucky, oversight]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dd8.md]
 confidence: medium
 ---
 
@@ -65,6 +65,11 @@ Paul alleged that Fauci and multiple other parts of the federal government engag
 
 On December 2, 2025, amid escalating U.S. strikes on alleged drug-trafficking vessels in the Caribbean, Paul posted that "Coast Guard records show that prior to the reign of 'blow-them-to-smithereens' 21 percent of boats stopped off the coast of Venezuela possessed NO drugs!"[11] The statement was circulated in Badlands coverage as a caution against the lethal-strike policy, though contributor [[jon-herold|Jon Herold]] inverted the framing by noting that the same figure implied 79 percent of the boats stopped did carry drugs.[11]
 
+
+## Tariff repeal resolution (October 2025)
+
+Paul was the Republican sponsor of a bipartisan Senate joint resolution to repeal President [[donald-trump|Trump]]'s global tariffs, which passed on Thursday, October 30, 2025 with four Republicans joining Democrats.[12] Paul was joined by [[mitch-mcconnell|Mitch McConnell]], [[susan-collins|Susan Collins]] and [[lisa-murkowski|Lisa Murkowski]]; the same proposal had failed on a 50-49 vote in late April after Vice President Vance cast the tiebreaking vote against it.[12] The one-page resolution declared terminated the national emergency Trump invoked on April 2, "[[liberation-day|Liberation Day]]," to authorize sweeping reciprocal tariffs — a symbolic victory unlikely to be taken up by the House or survive a veto.[12]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
@@ -77,3 +82,4 @@ On December 2, 2025, amid escalating U.S. strikes on alleged drug-trafficking ve
 9. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 10. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
 11. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+12. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-government, cabal, new-world-order]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-d68.md]
 confidence: low
 ---
 
@@ -42,9 +42,17 @@ In May 2026 [[time-magazine|TIME Magazine]] published an analysis framing the re
 
 Badlands writer [[simon-esler|Simon Esler]] described the collapse of nation states and installation of a New World Order as the enemy's "Primary Strategic Objective," arguing in March 2024 that "accidents" advancing that objective — such as the [[francis-scott-key-bridge-collapse|Francis Scott Key Bridge collapse]] — should be treated as opportunities to confront the cognitive battlefield with intention.[4] He suggested that crippling centralized infrastructure disempowers the public as a means of centralizing power, and asked which globalist operations would exploit the resulting pretext, from climate NGOs seizing on damage to oil operations to government intervention in farming after fuel-driven food distribution failures.[4] His counter-prescription was decentralization: each attack on centralized systems, he wrote, teaches the public how to build a parallel economy less vulnerable to network warfare.[4]
 
+
+## The 2024 Hague rulings and the "rules-based order" (Badlands framing)
+
+Badlands commentary in May 2024 treated the standoff between the Hague courts, Israel and the European Union as evidence of the New World Order fracturing from within.[5] The brief argued that the phrase "international rules-based order," which it dated to the presidency of George H. W. Bush, describes a deliberate deviation from objective international law toward a one-world government, and that [[josep-borrell|Josep Borrell]]'s public anguish over whether the EU should back the [[international-court-of-justice|ICJ]] or Israel showed globalists turning openly against one another.[5] Writers concluded that "you are witnessing the systematic destruction of the Old Guard," urging readers to focus on defeating the globalist oligarchy rather than being distracted by red herrings.[5]
+
+The same framing was applied to the passage of foreign-agent transparency laws in Slovakia and [[georgia-country|Georgia]], which the brief read as smaller nations defying the global hegemony, and to the alleged EU threat against Georgian prime minister [[irakli-kobakhidze|Irakli Kobakhidze]].[5]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands Blitz Episode 9: The New World Order is Dying ... The New World is Beginning", URL: https://badlands.substack.com/p/badlands-blitz-episode-9
 3. Badlands Brief — "Sorry for using state power to unlawfully punish your wrong think. Friends?", URL: https://badlands.substack.com/p/badlands-brief-95a
 4. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
+5. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68

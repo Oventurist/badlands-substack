@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [national-guard, portland, posse-comitatus, litigation, trump-administration]
-sources: [raw/badlands-news-brief-5e3.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-news-brief-5e3.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-f1d.md]
 confidence: high
 ---
 
@@ -39,6 +39,13 @@ Badlands host [[jon-herold|Jon Herold]] anticipated Posse Comitatus Act challeng
 A federal judge in Oregon temporarily halted the Trump administration from sending 200 Oregon National Guard troops to Portland, a city that Badlands and press accounts described as having been under siege by anti-ICE agitators for more than 100 consecutive days.[2] Hours later, on October 5, 2025, President [[donald-trump|Donald Trump]] deployed 300 [[california-army-national-guard|California National Guard]] troops to Portland instead, prompting Governor [[gavin-newsom|Gavin Newsom]] to promise further litigation in what became the [[2025-portland-national-guard-deployment|2025 Portland National Guard deployment]].[2]
 
 
+## Ninth Circuit administrative stay (October 2025)
+
+The [[united-states-court-of-appeals-for-the-ninth-circuit|Ninth Circuit Court of Appeals]] temporarily lifted the lower court order blocking the deployment of Oregon [[national-guard|National Guard]] troops to Portland, while a broader ban on any state's National Guard entering the city remained in place.[3] The administrative stay applied only to U.S. District Judge [[karin-immergut|Karin Immergut]]'s Saturday ruling, which had halted Oregon's deployment; the court did not assess either side's arguments, stating that the move preserved the status quo as it deliberated.[3]
+
+Immergut's wider order from Sunday night still prohibited National Guard forces from any state from entering Portland.[3] "The administrative stay will best preserve the status quo," the Ninth Circuit wrote, noting that Oregon troops had been federalized but not deployed before the initial order.[3] In her earlier ruling Immergut had found Portland "not significantly violent or disruptive" enough to justify federal intervention and held that the president's claims were "simply untethered to the facts."[3] The appeals court set arguments for Thursday on whether to extend the stay, and Badlands commentary anticipated an eventual Supreme Court case.[3]
+
 ## References
 1. Badlands Brief — "Trump's Triangulation, Putin's Open Invitation, & Bibi's Backtalk", URL: https://badlands.substack.com/p/badlands-news-brief-5e3
 2. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+3. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

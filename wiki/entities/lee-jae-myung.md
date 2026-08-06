@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-korea, heads-of-state, alliance]
-sources: [raw/badlands-brief-fcb.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-brief-fcb.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -46,7 +46,18 @@ Marking the first anniversary of the December 3, 2024 martial law declaration, L
 
 Reporting noted that Yoon's declaration plunged a country long viewed as a democratic success story into months of turmoil, just as President [[donald-trump|Donald Trump]]'s tariffs on global trading partners rattled South Korea's export-reliant economy.[7] Yoon was ousted, and Lee — who had lost to him in the 2022 presidential poll — won a snap election in June with a mandate to steer the country out of the shock, while those accused of involvement were arrested and tried for subversion.[7] Since taking office Lee had struck a U.S. tariff deal after two summits with Trump, though deep social fissures remained and conservatives voiced concerns about persecution.[7] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote satirically of the affair as the "Great Poop Balloon War of '24" and concluded that Lee "seems like a great friend to America and the MAGA movement," which he said was the best that could be asked of foreign leaders.[7]
 
+## Special prosecution of Yoon Suk Yeol
+
+A special prosecution team formed under President Lee Jae Myung investigated Yoon Suk Yeol in 2025 over his martial law attempt and influence-peddling allegations involving him and his wife.[8]
+
+## August 2025 White House meeting with Trump
+
+On August 25, 2025, Lee sat alongside President [[donald-trump|Donald Trump]] as the American president said he would like the United States to obtain ownership of the land where its military bases in South Korea are located, instead of leasing it from Seoul.[9] Trump noted Washington's heavy infrastructure investment on the Korean Peninsula and its "over 40,000 troops" there, and mused about acquiring the land beneath "the big fort" — likely [[camp-humphreys|Camp Humphreys]].[9]
+
+Badlands commentary observed that Lee had been viciously attacked by the American media apparatus and branded a "communist," with figures in Steve Bannon's orbit lamenting his June election in the belief he would sell out to China.[9] Instead, the commentary noted, Lee joked about Trump building a Trump Tower in North Korea and assured him that Kim Jong Un would be waiting for him to come play golf.[9]
+
 ## References
+
 1. Badlands Brief — "The Never-Ending, "Very Complete," Bicameral War", URL: https://badlands.substack.com/p/badlands-brief-fcb
 2. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
 3. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
@@ -54,3 +65,5 @@ Reporting noted that Yoon's declaration plunged a country long viewed as a democ
 5. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 6. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 7. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+8. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+9. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

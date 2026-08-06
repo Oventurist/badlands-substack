@@ -22,11 +22,11 @@ Saint Paul was also among the communities addressed by the "ICE Out of Minnesota
 
 St. Paul was sued on 29 September 2025 by the [[department-of-justice|Department of Justice]], together with the state of [[minnesota|Minnesota]] and [[minneapolis|Minneapolis]], over [[sanctuary-cities|sanctuary city]] policies.[2] Like Minneapolis, St. Paul maintains a city ordinance prohibiting cooperation with federal immigration enforcement, and the [[doj-lawsuit-against-minnesota-sanctuary-policies|34-page complaint]] asked a judge to strike those provisions as unconstitutional.[2]
 
-## References
-
 ## 2025 cyberattack
 
 In July 2025 the city detected a hacker breach of its systems, and by August stolen St. Paul data had been posted online while thousands of municipal employees queued at Roy Wilkins Auditorium for in-person password resets.[3] The FBI, Homeland Security and the [[minnesota-national-guard|Minnesota National Guard]] assisted the city in scouring and restoring its systems; see [[2025-st-paul-cyberattack|2025 St. Paul cyberattack]].[3]
+
+## References
 
 1. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762

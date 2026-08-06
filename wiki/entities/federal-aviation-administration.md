@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [faa, aviation, airspace, drones, border-security]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-93e.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-e07.md]
 confidence: medium
 ---
 
@@ -45,3 +45,8 @@ The FAA announced that it and the [[national-transportation-safety-board|Nationa
 3. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 4. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 5. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+## 2023 change to pilot heart-test limits
+
+In January 2023 concerns and controversy surrounded an FAA decision to alter an electrocardiogram test limit for pilots.[6] The agency changed its allowable threshold for the "PR interval" — the time an electrical impulse takes to travel between parts of the heart — setting a new limit 50 percent longer than the previous one.[6] Pilots and aviation advocacy groups sounded alarms over the change, and Badlands contributor [[jordan-sather|Jordan Sather]] argued that an agency meant to make flying safer was doing the opposite.[6]
+
+6. Badlands Brief — "Badlands News Brief: Big Tech Crunch, OPSEC & Vax Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-e07

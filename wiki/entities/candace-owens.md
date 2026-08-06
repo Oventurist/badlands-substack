@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, culture-war, white-lives-matter]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-b98.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-ec8.md]
 confidence: low
 ---
 
@@ -61,6 +61,14 @@ In December 2025 Owens escalated a public feud with podcast host [[tim-pool|Tim 
 
 She further called Pool "a coward" and "less than a man," likening him to "a person who is having financial issues" who gambles, loses, "comes back home and beats his wife and kids," and told him to "get [his] affairs in order" and stop blaming her, noting that she had not focused her content on him while "you have been explicitly attacking me."[9]
 
+## Break with DeSantis (June 2023)
+
+In late June 2023, Owens publicly abandoned [[ron-desantis|Ron DeSantis]] and returned her support to [[donald-trump|Donald Trump]], a shift first flagged within Badlands by [[chris-paul|Chris Paul]] and characterized by [[burning-bright|Burning Bright]] as "massive."[10] Burning Bright argued that losing Owens amounted to a death blow to even the public facade of the DeSantis campaign, framing it within months of Badlands commentary about the "wolves in sheep's clothing" represented by [[con-inc|Con Inc.]] and the so-called Blue Check Brigade — the paid influencer network that, in his telling, rather than DeSantis himself, had fallen into Trump's trap.[10] He presented the episode as cultural house-cleaning en route to a 2024 presidential campaign that would make the MAGA rhetoric of 2016 look like child's play.[10]
+
+## Feud with Alex Jones (December 2025)
+
+[[alex-jones|Alex Jones]] escalated his conflict with Owens in late December 2025, telling her "I want your war" and accusing her followers of threatening and doxxing him.[11] Jones had publicly broken with Owens earlier in the month over what he called easily refutable accusations she made relating to the murder of [[charlie-kirk|Charlie Kirk]], vowing to "rip to pieces" everything she says and does, and subsequently calling her "a globalist agent."[11]
+
 ## References
 
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -72,4 +80,5 @@ She further called Pool "a coward" and "less than a man," likening him to "a per
 7. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
 8. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
 9. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
-
+10. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
+11. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

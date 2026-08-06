@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [european-union, elections, france, populism, 2024]
-sources: [raw/badlands-news-brief-67e.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-67e.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-e6c.md]
 confidence: medium
 ---
 
@@ -28,7 +28,20 @@ Voters across the European Union's 27 member states mostly backed centrists, but
 
 Badlands commentary noted that [[european-parliament|European Parliament]] contests normally draw low turnout and enthusiasm because the EU is not itself a sovereign actor, making a parliamentary majority useful mainly for EU policy and intra-member trade questions; the 2024 round broke that pattern with record turnout.[2] [[emmanuel-macron|Emmanuel Macron]] of France and [[olaf-scholz|Olaf Scholz]] of Germany were described as the leaders most clearly rattled, both rejected by double-digit deficits.[2] Because the elections do not directly change national leadership, [[burning-bright|Burning Bright]] treated them instead as a bellwether showing continental sentiment swinging violently toward strong borders and anti-interventionism.[2] The vote was placed within the wider frame of 2024 as a "Worldwide Election Year," alongside completed contests in Russia and India that returned [[vladimir-putin|Vladimir Putin]] and [[narendra-modi|Narendra Modi]] to additional terms.[2]
 
+## National results in detail
+
+Reporting on the June 9, 2024 vote found that the populist right made stunning gains in Germany and Austria as well as France, though the pro-European centre appeared to hold in a set of results likely to complicate EU lawmaking.[3] In Germany the [[christian-democratic-union|Christian Democratic Union]]/Christian Social Union, then in opposition, took a decisive lead with 30.9% of the vote on provisional results, while the [[alternative-for-germany|Alternative für Deutschland]] jumped to 14.2% from 11% in 2019 despite a slew of scandals, including its lead candidate's remark that the SS were "not all criminals."[3] [[olaf-scholz|Olaf Scholz]]'s [[social-democratic-party-of-germany|Social Democratic Party]] slid to 14.6%, worse than its weakest previous result in 2019, and the Greens fell from second place with 20.5% in 2019 to fourth with 12.8%.[3] In Italy, exit polls confirmed [[giorgia-meloni|Giorgia Meloni]]'s position as a possible kingmaker, with her hard-right [[brothers-of-italy|Brothers of Italy]] party winning between 26% and 30% of the vote — and later reported at more than 28% of the national vote — comfortably ahead of centre-left rivals on 21% to 25%.[3] In Austria the far-right [[freedom-party-of-austria|Freedom Party]] came top with 25.7%, ahead of the conservative People's Party on 24.7% and the Social Democrats on 23.2%.[3] Green and pro-business liberal groups suffered heavy defeats across Europe, while the centre-right European People's Party remained the largest bloc in the 27-nation assembly.[3]
+
+Badlands commentary added that [[ursula-von-der-leyen|Ursula von der Leyen]] was nonetheless predicted to have retained enough support to secure a second term despite the widespread upsets.[3] In Belgium, a "Super Sunday" combining national, European, and regional voting produced the resignation of the prime minister of the de facto EU capital, though replacing him was expected to take more than a year.[3] Populist candidates also made significant gains in the Netherlands, while socialists came out on top in Malta, Romania, and Sweden.[3] Germany was noted to face regional elections in September, amid speculation that the governing coalition might collapse.[3]
+
+## Additional Badlands framing
+
+[[ashe-in-america|Ashe in America]] opened her analysis by quoting [[john-f-kennedy|John F. Kennedy]]'s January 20, 1961 inaugural address — including the line that "the rights of man come not from the generosity of the state but from the hand of God" — and declared "Euroskepticism" the word of the day, characterizing the vote as a stunning rebuke of globalism.[3] She noted that France uses paper ballots with no mail-in voting, no voting machines, and universal voter ID, and that if [[emmanuel-macron|Macron]]'s party lost the snap legislative elections he would be a lame duck president until April 2027.[3] She concluded that globalism was in dangerous territory as Europeans reclaimed their sovereignty and that populism was "no longer just a spark," signing off "Vive la révolution. Nous accélérerons."[3]
+
+[[burning-bright|Burning Bright]] focused on the tone of mainstream coverage, arguing that the barely concealed venom the wire services reserved for nationalists was itself part of the dynamic that produced the nationalist backlash, and describing the results as "only the beginning of the sovereign renaissance."[3] Social media commentary summarized in the same brief held that the elections' biggest loser was [[klaus-schwab|Klaus Schwab]] and the biggest winner [[vladimir-putin|Vladimir Putin]].[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+3. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c

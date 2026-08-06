@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, irgc, assassination, protests]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-5ba.md, raw/badlands-news-brief-55f.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-5ba.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ By October 2024, U.S. officials had concluded that Tehran was neither bluffing n
 
 In October 2024, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] advanced a related speculation: that Soleimani had been working for [[benjamin-netanyahu|Benjamin Netanyahu]] all along, building proxy networks across the region intended to wage war on Israel and thereby justify the Israeli war against Iran that Netanyahu had sought for forty years.[3] He argued the proxy networks had not "delivered" an all-out jihad, behaving passively enough that world opinion viewed Israel as over-reacting.[3] He cited Israeli journalist [[barak-ravid|Barak Ravid]]'s December 2021 Trump interview, in which Trump said Netanyahu backed out of the Soleimani strike the day before it was scheduled and also tried to back out of the [[abraham-accords|Abraham Accords]], adding, "Israel did not do the right thing. People will be hearing about that, at the right time."[3]
 
+## Badlands claims about the aborted 2020 strike
+
+Badlands' July 2024 commentary asserted that [[benjamin-netanyahu|Benjamin Netanyahu]] backed out of the Soleimani strike the day before it was scheduled to be conducted in January 2020, presenting this as part of a pattern of Israeli subversion of U.S. Middle East policy.[4] Contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that Soleimani had been working for Netanyahu and the [[central-intelligence-agency|CIA]] and was intended to be the point man for the later regional conflict, arguing that without his leadership the proxy militias failed to organize a resistance sufficient to justify another regional war with U.S. involvement.[4]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
 3. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
+4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [argentina, milei, israel]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-b92.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -47,6 +47,14 @@ Milei won Argentina's presidential election in provisional results announced on 
 
 The victory marked an extraordinary rise for the former television pundit, who entered the race as a political outsider promising to "break up with the status quo" exemplified by Massa.[8] His campaign pledge to dollarize Argentina, if enacted, was expected to thrust the country into new territory, since no country of Argentina's size had previously turned over the reins of its own monetary policy to Washington decisionmakers.[8] Badlands writer [[ashe-in-america|Ashe in America]], recalling that Milei had stunned the world in August by taking the majority of primary votes as a third-party candidate, predicted that his connections with Russia would be immediately investigated and that fabricated scandals would follow, described his plan for government as "a Libertarian fever dream and a Hail Mary to save his nation," and asked whether the world would discover that "the Argentine Paradox was a feature, not a bug."[8] See [[2023-argentine-general-election|2023 Argentine general election]].[8]
 
+## IMF eighth review, May 2024
+
+On 13 May 2024 staff of the [[international-monetary-fund|International Monetary Fund]] and Argentine authorities agreed on the eighth review of Argentina's $44 billion extended fund facility, with the IMF crediting reforms under Milei for improved macroeconomic stability; final board sign-off would unlock a disbursement of close to $800 million.[9] The IMF said Milei's plan had produced faster-than-anticipated progress in restoring macroeconomic stability and had brought the program firmly back on track.[9]
+
+Milei took office in December 2023 vowing to tackle triple-digit inflation, contracting economic activity and reserves in the red, and rolled out a sweeping fiscal reform that sharply tightened government spending.[9] The changes helped Argentina rebuild depleted foreign currency reserves, post fiscal surpluses at the start of the year and stabilize the peso, with markets rallying and monthly inflation falling from its December peak; the economy nonetheless stalled, with falling consumption and manufacturing and rising poverty presenting a continuing challenge.[9]
+
+[[badlands-media|Badlands Media]] commentary observed wryly that the IMF endorsing economic populism was unexpected, reading the announcement as an institutional attempt to reassert dominance rather than a genuine conversion.[9]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Devolucion, Sedition, Somalis, and Patagonia Pyros", URL: https://badlands.substack.com/p/badlands-brief-d17
@@ -56,3 +64,4 @@ The victory marked an extraordinary rise for the former television pundit, who e
 6. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 7. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 8. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
+9. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

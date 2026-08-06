@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d21.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bec.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -134,6 +134,18 @@ CNN reported in late January 2024 that [[xi-jinping|Xi Jinping]] had privately a
 
 The network also reported the arrest of [[justin-mohn|Justin Mohn]] after a video showing his father's severed head circulated on [[youtube|YouTube]], framing the case within what it called a fraught national political environment and quoting law enforcement analyst and former [[fbi|FBI]] Deputy Director [[andrew-mccabe|Andrew McCabe]] on the dangers of the coming political season.[25]
 
+## Don Lemon's removal from the morning show (2023)
+
+In February 2023, after anchor [[don-lemon|Don Lemon]] said that [[nikki-haley|Nikki Haley]] "isn't in her prime," CNN management removed him from the morning show lineup, replacing him with Poppy Harlow alongside Sara Sidner and [[kaitlan-collins|Kaitlan Collins]], while a source described internal conversations about his future as "ongoing" and called him "a constant distraction."[26] Chief executive [[chris-licht|Chris Licht]], who had said on taking over that he wanted to move the network in a far less partisan direction, called the remarks disappointing; Badlands commentary treated the episode as tentative evidence that CNN was moderating its editorial posture.[26]
+
+## Coverage of the Cohen cross-examination
+
+CNN's on-air panel reacted with visible dismay to the collapse of [[michael-cohen|Michael Cohen]]'s credibility under cross-examination by [[todd-blanche|Todd Blanche]] on May 16, 2024, with host [[anderson-cooper|Anderson Cooper]] calling it "an extraordinary cross" in which Cohen was cornered in a lie.[30] Badlands commentary treated the segment as a rare instance of a mainstream outlet conceding to its audience that the case against [[donald-trump|Donald Trump]] rested on a discredited witness.[30]
+
+## November 2023 shutdown coverage
+
+CNN's live coverage of the federal funding fight supplied the Badlands News Brief's account of the House vote on the [[november-2023-continuing-resolution|November 2023 continuing resolution]], reporting the 336-95 tally, the 209 Democratic votes in favor, the 93 Republican and two Democratic votes against, and the two-step January 19 and February 2 funding deadlines.[31]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
@@ -167,3 +179,26 @@ Badlands writer [[burning-bright|Burning Bright]] used the item to argue that ma
 
 24. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
 25. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+26. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+27. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+
+## Zachary Young defamation trial (January 2025)
+
+CNN went to trial in January 2025 after being accused of defaming a military contractor, with reporters and network executives forced to take the stand.[27] The case arose from a November 2021 segment on *The Lead with [[jake-tapper|Jake Tapper]]* about private contractors hired to evacuate Afghans in the wake of the US withdrawal from Afghanistan; Navy veteran [[zachary-young|Zachary Young]] sued in June 2022, claiming the segment defamed him and his Afghan transportation business.[27] Opening statements began on January 6, 2025 and the trial was livestreamed.[27]
+
+Media organizations followed the case closely to assess the limits of First Amendment free-speech protections amid a rise in defamation suits against US news networks — including [[fox-news|Fox News]]' $787 million settlement in April 2024 over false 2020 voting-machine claims and [[donald-trump|Donald Trump]]'s $15 million December 2024 settlement with [[abc-news|ABC News]] over its characterization of the [[e-jean-carroll|E. Jean Carroll]] verdict.[27] [[ashe-in-america|Ashe in America]] noted that the applicable standard for institutional media is actual malice, requiring proof of intent — difficult but not impossible.[27]
+
+## Staged Syrian prison 'rescue' (December 2024)
+
+In December 2024 CNN aired a report by correspondent [[clarissa-ward|Clarissa Ward]] purporting to show a CNN crew rescuing a victim of the [[bashar-al-assad|Assad]] regime from a Damascus dungeon.[28] After days of mounting skepticism online and at ZeroHedge, the network conceded that the "rescued" man was in fact a regime intelligence officer, with reports that he had himself committed crimes against civilians.[28] The man identified himself on camera as Adel Ghurbai of Homs, but the Syrian fact-checking site Verify-Sy identified him as Salama Mohammad Salama, aka "Abu Hamza," a notoriously cruel first lieutenant in Syrian Air Force Intelligence.[28]
+
+ZeroHedge described the episode as a new chapter in the long history of major media promotion of false, government-serving narratives.[28] Badlands writer GhostofBasedPatrickHenry argued it was a failed psyop rather than a reporter being "duped," citing the subject's manicured nails, trimmed beard, clean clothes and general hygiene, and questioning how a CNN crew obtained access while embedded with fighters in Syria.[28] He suggested the empty prison used as a set may have been one of the emptied [[isis|ISIS]] detention facilities and situated the segment within a campaign to destroy Assad's credibility so an emerging ISIS/Al Qaeda-linked government could be legitimised — alongside blanket coverage claiming Assad airlifted $250 million out of Syria during his evacuation.[28]
+
+28. Badlands News Brief — "Russia Responds as the Fake News Gets Even Faker", URL: https://badlands.substack.com/p/badlands-news-brief-d76
+29. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## Cancellation of the New Hampshire Republican debate (January 2024)
+
+On Wednesday, January 17, 2024, CNN canceled the Republican presidential debate it had been scheduled to host in New Hampshire that Sunday, saying only one candidate had agreed to participate — a day after [[abc-news|ABC News]] canceled its own WMUR co-hosted debate planned for Thursday.[29] Only [[ron-desantis|Ron DeSantis]], the second-place finisher in the Iowa caucuses, had committed to debating; [[donald-trump|Donald Trump]], who won Iowa overwhelmingly, had skipped every debate of the campaign, and [[nikki-haley|Nikki Haley]] said she would not appear in any further debate unless Trump participated.[29] CNN said it would instead host a town hall with Haley on Thursday, following one it had held with DeSantis on Tuesday.[29]
+30. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+31. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [california, wildfire, los-angeles, infrastructure, corruption]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-eff.md]
 confidence: medium
 ---
 
@@ -44,8 +44,13 @@ By January 13, 2025, investigators had publicly focused on a possible human caus
 
 The fire burned amid rare, extremely critical fire weather: the National Weather Service issued a new round of fire weather warnings on January 13, 2025, advising of a "particularly dangerous situation" for parts of the Los Angeles metro region including the San Fernando and Simi valleys, Oxnard, Ventura, and portions of the Interstate 5 corridor, with red flag warnings running from north of Santa Barbara to east of San Diego and winds forecast to gust strongly through at least Wednesday as regional drought expanded.[4]
 
+## Radio traffic and the water failure
+
+On the morning of January 7, 2025, a firefighter near the Pacific Palisades neighborhood of Los Angeles observed a 10-acre brush fire along a ridgeline and radioed a warning to other first responders: "Just to give you guys a heads up... this has the potential for 200 acres plus."[5] The Palisades fire and those that followed went on to burn more than 40,000 acres, an area three times the size of the island of Manhattan.[5] Roughly eight hours after that initial call, at around 6 p.m., a firefighter in Pacific Palisades reported a problem with the water supply, with radio traffic later reviewed by NPR capturing how crews lost hydrant pressure — one transmission reporting that "the hydrants up here are dead."[5]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
 3. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
 4. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+5. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff

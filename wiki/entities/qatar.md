@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, weapons, taliban, stingers, funding, terrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c14.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/badlands-brief-169.md, raw/badlands-brief-c91.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -105,6 +105,15 @@ The gift had been expected to be announced during Trump's visit to Qatar on the 
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the episode to argue more broadly that the government of [[israel|Israel]] holds significant influence over the United States and particularly over Congress, and called for Americans to reclaim their sovereignty from foreign influence.[17]
 
+
+## Unplanned Air Force One Refueling Stop (October 2025)
+
+En route to the ASEAN summit in Malaysia in late October 2025, [[donald-trump|President Donald Trump]] made an unplanned refueling stop in Qatar at Al Udeid Air Base, where Emir [[tamim-bin-hamad-al-thani|Sheikh Tamim bin Hamad Al Thani]] and Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani boarded Air Force One to greet him.[18] The brief encounter drew regional and international attention, with discussion focused on the Israel-Hamas hostage deal and ongoing efforts to maintain stability in Gaza, where Qatar has acted as a mediator in coordination with international partners.[18] Tamim said that as soon as he learned Trump was coming to refuel, "I said I wouldn't allow him to take off without saying hello," and confirmed it was the first time he had joined a visiting world leader aboard a plane during a refueling stop: "Never, first time."[18]
+
+Trump called the Emir "one of the great rulers of the world, not just the Middle East," and credited Qatari leaders as "a very big factor" in Middle East peace.[18] Badlands commentary framed the stop as deliberate overt support for Qatar at a moment when figures including Laura Loomer, Mark Levin and Benjamin Netanyahu were said to be running a coordinated campaign branding Qatar as an American enemy, and recalled the 2017 White House visit at which Trump described a long friendship with Tamim — likely dating to 2008, when Qatari money reportedly came to the aid of Jared Kushner's family real estate business at the request of Tom Barrack.[18]
+
+Qatar also appeared in the brief as a venue for Colombian conflict diplomacy: delegates of [[gustavo-petro|President Gustavo Petro]] traveled to Doha to open surrender-and-disbandment negotiations with the [[gulf-clan|Gulf Clan]] cartel.[18]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -123,3 +132,26 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used 
 15. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 16. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 17. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+18. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+
+## Strategic partnership with India (February 2025)
+
+On February 18, 2025, Qatar and [[india|India]] elevated their relationship to the [[india-qatar-strategic-partnership|India-Qatar Strategic Partnership]] following talks at Hyderabad House between Amir [[tamim-bin-hamad-al-thani|Sheikh Tamim bin Hamad Al Thani]] and Prime Minister [[narendra-modi|Narendra Modi]].[19] The two governments signed a revised double-taxation agreement and five memoranda of understanding spanning trade, energy, investments, innovation, technology, food security, culture and people-to-people ties, and exchanged views on the Israel-Hamas conflict and Afghanistan.[19]
+
+Badlands commentary emphasized Qatar's standing with [[donald-trump|Donald Trump]], who has described the Amir as a long-time friend since 2017 and highlighted Qatar's critical role in facilitating the Gaza ceasefire secured by US Special Envoy [[steve-witkoff|Steve Witkoff]] the day before Trump's inauguration.[19]
+
+19. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+
+## Aftermath of the Israeli strike on Doha (September 2025)
+
+Following the Israeli airstrike on Doha that killed six people including a Qatari security officer, Qatar hosted an emergency summit in September 2025 bringing together the leaders of the [[arab-league|League of Arab States]] and the [[organization-of-islamic-cooperation|Organization of Islamic Cooperation]].[20] The assembled leaders called for [[israel|Israel]] to be suspended from the [[united-nations|United Nations]] over alleged charter violations and branded the strike a "dangerous escalation that exposes the extremist hostility of the Israeli government."[20] They further accused Israel of undermining international mediation, noting that the Qatari capital had been a key venue for peace talks between West Jerusalem and [[hamas|Hamas]], which Israel said had been the target of the strike.[20]
+
+20. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+
+## 2025 Trump state visit and defense agreements
+
+In May 2025 Qatar hosted the first state visit by a US president when [[donald-trump|Donald Trump]] travelled to Doha during his [[2025-trump-gulf-tour|Gulf tour]].[21] Emir Sheikh [[tamim-bin-hamad-al-thani|Tamim bin Hamad Al Thani]] said the two countries had taken their relationship to "another level" after signing agreements to boost defense and trade ties.[21] The ceremony featured record-breaking [[boeing|Boeing]] purchases and new defense contracts, described by Trump as the largest aircraft order in Boeing's history, and was covered live by [[badlands-media|Badlands Media]].[21]
+
+Badlands commentators described the accompanying ceremonial [[sword-dance|Ardah]] as a Qatari echo of the 2017 Saudi sword dance, arguing that Qatar — long an enigma in the region alongside Turkey and Iran because of its relationship with the Five Eyes intelligence community and the military-industrial complex — had publicly aligned itself with Trump and the [[sovereign-alliance|Sovereign Alliance]].[21]
+
+21. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

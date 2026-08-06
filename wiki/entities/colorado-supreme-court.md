@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, colorado, trump-disqualification, fourteenth-amendment]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c74.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md]
 confidence: medium
 ---
 
@@ -49,6 +49,12 @@ The Colorado Supreme Court's 4-3 decision finding former President [[donald-trum
 
 On Tuesday, December 19, 2023, the Colorado Supreme Court disqualified former President [[donald-trump|Donald Trump]] from appearing on the state's 2024 ballots, ruling under the 14th Amendment of the U.S. Constitution in connection with the Capitol riot of January 6, 2021.[8] The 4–3 decision was stayed until January 4 because of likely appeals, with three justices dissenting.[8] The majority wrote: "We do not reach these conclusions lightly. We are mindful of the magnitude and weight of the questions now before us. We are likewise mindful of our solemn duty to apply the law, without fear or favor, and without being swayed by public reaction to the decisions that the law mandates we reach."[8] The court determined that Trump had engaged in an insurrection by inciting the riot and was therefore ineligible to run; his campaign vowed to appeal to the [[supreme-court-of-the-united-states|U.S. Supreme Court]].[8] Republican candidate [[vivek-ramaswamy|Vivek Ramaswamy]] attacked the ruling as the work of "a cabal of Democrat judges" and pledged to withdraw from the Colorado primary unless Trump appeared on the ballot.[8]
 
+## Immediate fallout, December 20, 2023
+
+The 4–3 ruling of Tuesday, December 19, 2023 that [[donald-trump|Donald Trump]] was ineligible to appear on Colorado's 2024 ballots by virtue of inciting an insurrection was described by Politico as threatening another massive stress test for America's governing institutions, and as underscoring the messiness of a presidential campaign litigated as much in the courtroom as on the campaign trail.[9] Trump's pollster [[jim-mclaughlin|Jim McLaughlin]] predicted the decision would backfire, calling the judges unelected and left-wing and noting the suit was brought by a Soros-funded organization.[9]
+
+The court's holdings were sweeping: that the district court did not abuse its discretion in admitting portions of Congress's January 6 Report into evidence; that the events at the U.S. Capitol on January 6, 2021 constituted an insurrection; that Trump engaged in that insurrection through his personal actions; and that his speech inciting the crowd was not protected by the First Amendment.[9] Badlands writer [[ashe-in-america|Ashe in America]] warned that these findings, not ballot access, were the true stakes, and that write-in votes for Trump in Colorado would simply be discarded because Colorado Revised Statute § 1-4-1101, amended in 2021, requires a write-in candidate to file an affidavit stating he is qualified to assume the office's duties.[9] The [[colorado-republican-party|Colorado Republican Party]] responded by threatening to abandon the primary for a pure caucus system, and California Lieutenant Governor [[eleni-kounalakis|Eleni Kounalakis]] urged her state's secretary of state to pursue the same disqualification.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -59,3 +65,4 @@ On Tuesday, December 19, 2023, the Colorado Supreme Court disqualified former Pr
 6. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 7. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 8. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
+9. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c

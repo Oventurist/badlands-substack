@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, hollywood, film, skydance, merger]
-sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3ab.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ On July 24, 2025, the [[federal-communications-commission|Federal Communications
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 3. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
+
+## Paramount takeover and subsequent expansion (September 2025)
+
+Skydance Media, led by [[david-ellison|David Ellison]], completed an $8 billion takeover of [[paramount-global|Paramount Global]] in August 2025.[4] Five weeks later, with the merged Paramount Skydance still working through layoffs of upwards of 2,000 employees, Ellison was reported to be considering a deal worth more than $70 billion to acquire [[warner-bros-discovery|Warner Bros. Discovery]] in full — a move Variety attributed to a desire to preempt rival suitors.[4] Badlands commentary treated the sequence as part of a rapid consolidation of American media and entertainment assets under the Ellison family, encompassing [[cbs|CBS]], MTV, BET and Nickelodeon with [[hbo|HBO]], [[cnn|CNN]], Cartoon Network and DC as prospective additions.[4]
+
+4. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

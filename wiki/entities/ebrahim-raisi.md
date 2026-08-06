@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, raisi, helicopter-crash, khamenei, succession]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ Badlands contributor GhostofBasedPatrickHenry argued in June 2024 that Raisi, wh
 
 Raisi's death in May 2024 triggered a constitutional requirement that [[iran|Iran]] hold a presidential election within 50 days, forcing the political establishment into a decision it had sought to avoid amid years of plummeting voter turnout.[3] Supreme Leader [[ali-khamenei|Ali Khamenei]] was left choosing between an open, competitive contest and a further round of candidate disqualifications that risked record-low participation.[3]
 
+## Helicopter crash and death (May 2024)
+
+Iranian television reported that a helicopter carrying President Raisi and his accompanying delegation was forced into a "hard landing" in East Azerbaijan Province; state media attributed the emergency to bad weather, which also hindered relief teams.[4] Raisi had been returning from Azerbaijan, where he inaugurated a joint border dam and met his Azerbaijani counterpart Ilham Aliyev.[4] Iranian media reported that the helicopter — also carrying Foreign Minister [[hossein-amir-abdollahian|Hossein Amir Abdollahian]], East Azerbaijan Governor Malek Rahmati, and the Imam of Tabriz Mosque, Ayatollah Al Hashemi, among other officials — crashed, and that all passengers were pronounced dead.[4] [[israel]]'s Channel 13, citing Israeli officials, reported that Israel had nothing to do with the accident, quoting the message that "Tel Aviv has nothing to do with the incident."[4] Israeli Ambassador to the UN [[gilad-erdan|Gilad Erdan]] complained that the UN Security Council had held a moment's silence "to remember a mass murderer, Iranian President Raisi."[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 2. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 3. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+4. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

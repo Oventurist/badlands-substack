@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, ccp, communism, infiltration]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md]
 confidence: low
 ---
 
@@ -20,5 +20,10 @@ He alleges the CCP forced a bioweapon on the world which was not as deadly as th
 
 Trump was called racist both for the "Chyna Virus" label and for insinuating the virus came from a lab in China.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
+## Infiltration concerns via illegal immigration, 2024
+
+The surge of Chinese nationals crossing into the United States illegally during 2024 was framed as a vector for greater CCP infiltration of the country, posing risks not sufficiently addressed by federal policy.[2] Analysts warned that the [[department-of-homeland-security|Department of Homeland Security]]'s reduction of screening interviews for Chinese nationals from about forty questions to five left gaping vulnerabilities the party could exploit to insert espionage agents or exert undue influence within U.S. borders.[2] Reported figures included more than 10,000 Chinese unlawful aliens apprehended since October 2022 against fewer than 500 in the comparable 2021 period, and a cited 7,000% increase in illegal Chinese crossings.[2]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
+2. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

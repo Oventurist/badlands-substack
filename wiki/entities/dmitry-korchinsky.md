@@ -4,13 +4,21 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, nationalism, russia-ukraine-war, china]
-sources: [raw/badlands-news-brief-448.md]
+sources: [raw/badlands-news-brief-448.md, raw/badlands-news-brief-d7a.md]
 confidence: medium
 ---
 
 # Dmitry Korchinsky
 
-Dmitry Korchinsky is a radical Ukrainian nationalist politician who leads the far-right Bratstvo ("Brotherhood") party. A longtime advocate of war with Russia, he has been compared by Western media to the Taliban on account of his ideology.[1]
+Dmitry Korchinsky is a radical Ukrainian nationalist politician who leads the far-right [[bratstvo|Bratstvo]] ("Brotherhood") party. A longtime advocate of war with Russia, he has been compared by Western media to the Taliban on account of his ideology.[1][2]
+
+## Call for a military dictatorship
+
+In an interview with the Govorit Veliky Lviv YouTube channel published on Monday, January 27, 2025, Korchinsky said that Ukraine must become a military dictatorship, diverting any resources it still had toward the conflict with Moscow.[2] He lamented the state of Ukrainian society, claiming that a significant part of it still believed it was "possible to turn a blind eye to the war."[2]
+
+Korchinsky argued that the open publication of sociological survey data, especially during wartime, benefits the enemy: "This should be banned, people should be imprisoned for this," he said, expressing regret that many people "still expect some kind of peace."[2] He condemned any criticism of Ukrainian military and political leadership, as well as of enlistment officers, insisting that such behavior be punished and that those responsible be targeted by the [[security-service-of-ukraine|Ukrainian Security Service]].[2]
+
+Badlands host [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the remarks as genuine authoritarianism and linked them to parallel developments in Israel, where the country's oldest newspaper was sanctioned for publishing criticism of the government on national-security grounds, and where [[benjamin-netanyahu|Benjamin Netanyahu]] was reported to be considering sending weapons captured in Lebanon by the [[israel-defense-forces|IDF]] to Ukraine.[2]
 
 ## "Army of God" remarks
 
@@ -27,3 +35,4 @@ Badlands host GhostofBasedPatrickHenry treated the statement as self-parodying e
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+2. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a

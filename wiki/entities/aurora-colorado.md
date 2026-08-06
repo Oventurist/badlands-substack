@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, immigration, crime, tren-de-aragua, narrative-warfare]
-sources: [raw/badlands-news-brief-316.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-news-brief-316.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-e14.md]
 confidence: medium
 ---
 
@@ -44,8 +44,15 @@ Video published on August 28, 2024 showed armed men moving through an Aurora apa
 
 Video published on August 28, 2024 showed armed men moving through an Aurora apartment complex, prompting city council member Danielle Jurinsky to state publicly that a gang had taken over several complexes in the city.[4] Jurinsky told Fox 31 the building had been overrun by a Venezuelan gang, and reporting linked the activity to [[tren-de-aragua|Tren de Aragua]], though police declined to confirm the affiliation.[4] Badlands Media cited the episode as evidence that migration policy under the Biden-Harris administration had produced concrete public safety consequences, contrasting local conditions with California's move to extend home loans to illegal immigrants.[4]
 
+## Tren de Aragua and the 2024 gang war warning
+
+In September 2024 the Daily Mail published footage of a July 28 shooting at the Aspen Grove apartments in Aurora, described as one of three rental properties under the control of the Venezuelan gang [[tren-de-aragua|Tren de Aragua]], as law enforcement officials warned of an imminent gang war.[5] [[john-fabbricatore|John Fabbricatore]], former ICE director for Colorado, told the outlet that "there's about to be a big gang war."[5]
+
+[[ashe-in-america|Ashe in America]] wrote that the Aurora Police Department claimed no knowledge of the gang's presence for months, that the mayor denied it was happening, and that local Colorado media shamed those who asked questions, eventually labelling them racist.[5] She argued that solving the problem would require federal intervention and that "weaponized empathy" produced by official messaging had left Colorado voters acting against their own interests.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 2. Badlands Brief — "Fair Trade, Debt Slavery, & Your Mom", URL: https://badlands.substack.com/p/badlands-news-brief-623
 3. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 4. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+5. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14

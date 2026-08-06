@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, money-laundering, fentanyl, canada, department-of-justice]
-sources: [raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-news-brief-aed.md, raw/badlands-news-brief-ef9.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ Following the TD resolution, the money-laundering investigation appeared to expa
 
 Badlands Media commentator [[burning-bright|Burning Bright]] placed the TD case in a sequence alongside [[donald-trump|Donald Trump]]'s December 2017 executive order blocking the property of persons involved in serious human rights abuse or corruption, his December 2023 declaration of "war on cartels," and his October 2024 proposal to seize cartel assets, posing the rhetorical questions "Who controls the cartels? Who controls the banks? What is the Deep State?"[1]
 
+## Record short interest (April 2023)
+
+In early April 2023, the Financial Post reported that the largest short position against any bank anywhere in the world was not in Switzerland or Silicon Valley but in Canada, where short sellers had built roughly US$3.7 billion of bearish bets against Toronto-Dominion Bank, the country's second-largest lender.[2] According to an analysis by S3 Partners, that made TD the most heavily shorted financial institution globally, ahead of France's BNP Paribas SA and [[bank-of-america|Bank of America Corp]].[2] The short interest had risen in the weeks following the March 2023 banking turmoil.[2]
+
+[[badlands-media|Badlands Media]] sponsor and financial analyst [[kirk-elliott|Dr. Kirk Elliott]] commented that it was hard to find bright spots, trust or confidence in traditional financial markets where layoffs and uncertainty had become the norm, and that once-trusted institutions were now objects of scrutiny.[2] He linked the banking news to reports that four billionaires had been subpoenaed in connection with the [[us-virgin-islands|U.S. Virgin Islands]] legal action against [[jpmorgan-chase|JP Morgan]] over [[jeffrey-epstein|Jeffrey Epstein]], and said investors and ordinary people alike were increasingly turning toward gold and silver as trust in the system eroded.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+2. Badlands Brief — "Trump's Trick & Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-ef9

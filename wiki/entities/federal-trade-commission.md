@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, antitrust, us-government]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b68.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -42,3 +42,12 @@ On July 9, 2025 the commission held a Washington, D.C. workshop titled "Dangers 
 3. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 5. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
+
+## Noncompete ban (April 2024)
+
+On Tuesday, April 23, 2024, the Commission voted narrowly to ban nearly all noncompete agreements, employment contracts that typically prevent workers from joining competing businesses or launching their own.[6] The agency had received more than 26,000 public comments in the months leading up to the vote.[6] Chair [[lina-khan|Lina Khan]] cited testimony from employees stuck in abusive workplaces because of noncompetes, including a worker locked in place after an employer merged with an organization whose religious principles conflicted with their own, and argued that robbing people of economic liberty also robs them of other freedoms.[6]
+
+Badlands commentary largely agreed that noncompetes should be rendered unenforceable, but paired the [[noncompete-agreement-ban|ruling]] with the Department of Transportation's [[dot-airline-refund-rule|airline refund rule]] issued the following day as instances of a broader Trojan Horse: a tacit endorsement of administrative authority over private enterprise and the free market.[6]
+
+
+6. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

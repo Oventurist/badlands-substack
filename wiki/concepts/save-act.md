@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, elections, citizenship, congress]
-sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-733.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-cf2.md]
+sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-733.md, raw/badlands-brief-ac2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-dca.md]
 confidence: medium
 ---
 
@@ -45,9 +45,16 @@ As the Safeguard American Voter Eligibility Act headed to the Senate in April 20
 
 Badlands commentary offered two responses. One held that eliminating the secret ballot would remove the need for voter ID altogether, since people would then be accountable for voting while ineligible.[5] The other argued that critics such as Omar raise married women because the SAVE Act has the potential to identify and prosecute fake voters, and because the public broadly supports the principle that only eligible voters should vote.[5] That commentary contended that keeping illegal, dead, fabricated or otherwise ineligible voters on the rolls sustains an election fraud machine, that long-promised government eligibility checks have repeatedly been shown not to occur meaningfully, and that field registration drives by groups such as Rock the Vote and figures like Michele Obama and Scott Presler do not verify eligibility.[5] It concluded that after years of relaxed registration controls the establishment is watching its machine be exposed and dismantled, leaving "think of the married women!" as its only acceptable argument — from the same actors, the writer said, who demanded vaccine papers to buy food.[5]
 
+## Proof-of-citizenship documentation debate (March 2025)
+
+In March 2025 the [[brennan-center-for-justice|Brennan Center for Justice]] claimed that more than 20 million Americans "lack ready access" to proof of citizenship documents and that survey data showed nearly 4 million Americans "don't have these documents at all."[6] Critics responded that the Brennan Center had apparently relied on the honor system in conducting its survey, leaving it unclear whether respondents were even American citizens — as, they argued, is often the case with the existing voter registration system — and that even if they were citizens, failing to require proof of citizenship still poses a threat to the integrity of US elections.[6] Opponents of the SAVE Act were characterized as arguing that Americans are essentially too lazy to get their citizenship documents in order.[6]
+
+The same week, President [[donald-trump|Donald Trump]] signed an executive order to promote election integrity whose provisions included a mandate that prospective voters provide proof of citizenship in order to register to vote.[6] Badlands contributor GhostofBasedPatrickHenry argued that even when election fraud is exposed it is not addressed and the cheating side still wins, concluding that Trump's election integrity executive order was absolutely necessary.[6] A second Badlands take from [[burning-bright|Burning Bright]] objected that beginning any purported sociopolitical analysis with "the Democrats" or "the Left" betrays a complete lack of foundational logic, holding that "there is only truth, and everything else."[6]
+
 ## References
 1. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 2. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
 3. Badlands Brief — "NeoCon Goggles & Phantom Whistleblowers", URL: https://badlands.substack.com/p/badlands-brief-ac2
 4. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
 5. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
+6. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca

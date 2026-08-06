@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, defense-industry, nato, corruption, drones]
-sources: [raw/badlands-news-brief-b98.md]
+sources: [raw/badlands-news-brief-b98.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ Beyond guided mortars, communications equipment and microchips, Elbit is best kn
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+
+## Spanish contract cancellations (September 2025)
+
+In September 2025 Elbit's PULS rocket artillery platform was at the center of [[spain|Spain]]'s decision to scrap nearly €1 billion in Israeli defense contracts.[2] The Spanish Defense Ministry reportedly cancelled a €700 million ($826 million) deal for twelve SILAM rocket launchers — systems based on the Elbit PULS platform that were to be built by a Spanish consortium — along with a €287.5 million contract for 168 Spike L.R. anti-tank missiles.[2] The cancellations formed part of Prime Minister [[pedro-sanchez|Pedro Sánchez]]'s measures against [[israel|Israel]] over the war in [[gaza|Gaza]] and were expected to be finalized within a week, as Madrid moved to disengage militarily and technologically from Israeli suppliers.[2]
+
+2. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

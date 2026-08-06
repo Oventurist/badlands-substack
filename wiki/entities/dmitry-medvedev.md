@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, geopolitics, iran-war]
-sources: [raw/badlands-brief-724.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b9c.md]
+sources: [raw/badlands-brief-724.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e10.md]
 confidence: medium
 ---
 
@@ -68,6 +68,16 @@ Writing on Telegram on Wednesday, February 7, 2024, Medvedev — by then deputy 
 
 Medvedev suggested the narrative was designed to divert the attention of Western voters away from massive spending on aid for Ukraine, an effort he said many had already grown tired of, arguing that the fatigue stemmed from Western leaders' desire to help "a dying country that is foreign to taxpayers" while neglecting social problems at home.[9] "Therefore, every day the leaders of these countries broadcast: We need to prepare for war with Russia and continue to help Ukraine," he said.[9] He nonetheless cautioned that a Moscow–NATO war would differ drastically from the Ukraine conflict and would not rely on artillery, tanks and drones, observing that the alliance's combined population of nearly one billion and defense spending reaching $1.5 trillion made it far superior to Russia in conventional terms.[9]
 
+## Nuclear warhead remarks on Iran (June 2025)
+
+Following the American airstrikes on Iran's Fordow, Esfahan, and Natanz nuclear facilities — carried out by seven B-2 bombers and accompanying fighter aircraft — Medvedev criticized the attack and wrote that "a number of countries" were "ready to directly supply Iran with their own nuclear warheads."[10] The strikes had been intended to degrade or destroy Iran's capacity to enrich uranium to weapons-grade levels and to assemble working nuclear or thermonuclear weapons.[10] Medvedev served as Russia's president from 2008 to 2012 and as prime minister from 2012 to 2020.[10]
+
+President [[donald-trump|Donald Trump]] responded with incredulity on Truth Social, hailing America's "powerful" and "lethal" nuclear-powered submarine fleet and writing: "Did I hear Former President Medvedev, from Russia, casually throwing around the 'N word' (Nuclear!), and saying that he and other Countries would supply Nuclear Warheads to Iran? Did he really say that or, is it just a figment of my imagination? If he did say that, and, if confirmed, please let me know, IMMEDIATELY."[10] Badlands analyst [[burning-bright|Burning Bright]] read Russia's entry into the storyline as the opening chapter of a narrative escalation toward an "almost" superpower confrontation, arguing that "in order to MANDATE world peace, you MUST first have the threat of war."[10]
+
+## May 2025 "playing with fire" exchange
+
+In late May 2025, Medvedev, a senior Moscow security official, publicly rebuked United States President [[donald-trump|Donald Trump]] and raised the danger of another world war after Trump said Russian leader [[vladimir-putin|Vladimir Putin]] was "playing with fire" by refusing to engage in Ukraine ceasefire talks with Kyiv.[11] Trump had posted a message to Putin on social media saying that "really bad things would have already happened in Russia" without his intervention.[11] Responding on X late on Tuesday, May 27, Medvedev wrote: "Regarding Trump's words about Putin 'playing with fire' and 'really bad things' happening to Russia. I only know of one REALLY BAD thing — WWIII," adding, "I hope Trump understands this!"[11] [[badlands-media|Badlands Media]] commentator [[jon-herold|Jon Herold]] read Trump's post approvingly as "saying it without saying it," noting that if the war began in February 2022, Trump was not President for nearly three years of it — so no "really bad things" had befallen Russia in that interval.[11]
+
 ## References
 
 1. Badlands Brief — "Cancel Culture Comes for Holy Week in Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-724
@@ -79,3 +89,5 @@ Medvedev suggested the narrative was designed to divert the attention of Western
 7. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 8. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
 9. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
+10. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+11. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10

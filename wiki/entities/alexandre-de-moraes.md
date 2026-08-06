@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, free-speech, first-amendment]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b52.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f53.md]
 confidence: medium
 ---
 
@@ -53,6 +53,12 @@ On August 30, 2024 Brazil's top court determined the immediate suspension of [[x
 
 [[badlands-media|Badlands Media]] commentary placed the ban alongside the French prosecution of [[pavel-durov|Pavel Durov]] and Donald Trump's warnings to [[mark-zuckerberg|Mark Zuckerberg]] as a single convergent narrative of the [[information-war|Information War]], drawing a line between a globalist hegemon represented by France and Brazil and the sovereignty-minded platform owners standing against it.[6]
 
+## Brazil's X ban and the AFL investigation (September 2024)
+
+Under the directive of Moraes, a judge of Brazil's Supreme Federal Court, Brazil banned [[elon-musk|Elon Musk]]'s social media platform [[x-corp|X]] in late August 2024, causing an uproar among free speech advocates and street protests.[7] Musk publicly called Moraes a "dictator."[7]
+
+In September 2024, the conservative group [[america-first-legal|America First Legal]] launched an investigation into the Biden–Harris administration's possible knowledge of the censorship, requesting documents from three U.S. agencies and citing the administration's 2021 National Strategy for Countering Domestic Terrorism, which promised to work with governments and technology companies on "disinformation" and terrorist online content.[7] AFL noted that ten days before Brazil's 2022 election, Moraes gained the power to direct tech companies to censor "disinformation."[7]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
@@ -60,3 +66,24 @@ On August 30, 2024 Brazil's top court determined the immediate suspension of [[x
 4. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 5. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 6. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+7. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+
+## U.S. court rejection of his directives (February 2025)
+
+In February 2025 the U.S. District Court for the Middle District of Florida held that Moraes's censorship orders have no legal force in the United States, finding that they had never been properly served through the Hague Convention, the U.S.–Brazil Mutual Legal Assistance Treaty, or any other valid legal mechanism.[8] The ruling freed [[rumble|Rumble]] and [[trump-media-and-technology-group|Trump Media]] from any obligation to comply and warned foreign governments that they cannot bypass U.S. law to impose censorship on American platforms.[8] Trump Media chief executive [[devin-nunes|Devin Nunes]] wrote on [[truth-social|Truth Social]]: "We won't be threatened by any foreign government trying to suppress #FreedomOfSpeech."[8] See [[rumble-and-trump-media-v-moraes|Rumble and Trump Media v. Moraes]].[8]
+
+8. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+
+## Independence Day protests against the X ban (September 2024)
+
+Moraes's nationwide block of [[elon-musk|Elon Musk]]'s [[x-corp|X]] platform triggered a mass street demonstration on Brazil's Independence Day, Saturday, September 7, 2024, when thousands of Brazilians protested the government's censorship crusade.[9] The rally was led by former President [[jair-bolsonaro|Jair Bolsonaro]], who called on the Federal Senate to "put the brakes on Alexandre de Moraes, this dictator who does more harm to Brazil than Luiz Inacio Lula da Silva himself."[9] Journalist [[michael-shellenberger|Michael Shellenberger]] was among those reporting from São Paulo's main boulevard, where tens of thousands gathered against Moraes and President [[luiz-inacio-lula-da-silva|Lula da Silva]].[9] Badlands commentary emphasized that corporate media declined to cover the protest at all.[9]
+
+9. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
+
+## Opening of the Musk inquiry (April 7, 2024)
+
+A standoff between [[elon-musk|Elon Musk]] and [[brazil|Brazil]] escalated on Sunday, April 7, 2024 when Moraes, a Supreme Court judge, opened an inquiry into the billionaire after Musk said he would reactivate accounts on [[x-corp|X]] that the judge had ordered blocked.[10] Musk, a self-declared free speech absolutist, said X would lift all the restrictions because they were unconstitutional and called on Moraes to resign.[10] Neither Musk, X nor Brazilian authorities disclosed which accounts were ordered blocked; X first posted about the order on Saturday, and it was not immediately clear when the order had been issued.[10]
+
+Reuters reported that Moraes is investigating "digital militias" accused of spreading fake news and hate messages during the government of former far-right President [[jair-bolsonaro|Jair Bolsonaro]], and is also leading an investigation into an alleged coup attempt by Bolsonaro.[10] In an X post that Saturday evening, Musk accused Moraes of "brazenly and repeatedly" betraying the constitution and people of Brazil, writing that "this judge has applied massive fines, threatened to arrest our employees and cut off access to X in Brazil."[10] Badlands contributor [[burning-bright|Burning Bright]] framed the episode as Brazil taking aim at Musk on behalf of what he called the Globalist-controlled nation's court system, and found the prominence of the censorship topic ahead of a year of record national elections "alternatively suspicious and potentially auspicious."[10]
+
+10. Badlands Brief — "Trumpian Taboos, Muskian Censorship & Saudi Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-f53

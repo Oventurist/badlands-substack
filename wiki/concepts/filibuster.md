@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [senate, legislation, procedure, election-integrity]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a4.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-df1.md]
 confidence: medium
 ---
 
@@ -34,8 +34,21 @@ The pressure campaign culminated in a breakfast with Republican senators that at
 
 Badlands contributor [[jon-herold|Jon Herold]] responded that, filibuster or not, he had a hard time believing that "elected" officials would be the ones to fix a fraudulent election system of which they are the primary beneficiaries.[3] [[chris-paul|Chris Paul]] remarked of Trump's posture that "it's like he knows our supposed 'constitutional order' is defunct and inactive."[3]
 
+## October 2025 shutdown fight
+
+A year earlier, during the [[october-2025-government-shutdown|October 2025 government shutdown]], Trump had already pressed the same demand, urging Senate Republicans on October 30, 2025 to "initiate the 'nuclear option'" and abolish the filibuster so a funding bill could pass with 50 votes instead of 60.[4] The demand threatened fragile reopening negotiations, and Senate Republicans had privately asked Vice President Vance days earlier to persuade Trump to drop the subject.[4] At the time the GOP had won only three of the at least seven Democratic votes needed for cloture, with Democrats withholding support to force talks on extending [[affordable-care-act|Affordable Care Act]] tax credits.[4] Coverage noted the symmetry with 2022, when then-President Biden urged Democrats to end the filibuster to pass voting rights legislation.[4]
+
+
+## Shutdown Pressure and the Nuclear Option (October 2025)
+
+In October 2025 commentary in The Hill warned that Senate Republicans were increasingly likely to eliminate the filibuster to end the ongoing government shutdown — described as "the ultimate nuclear option, toppling the last major hurdle to single party rule in Washington."[5] Removing the 60-vote threshold for most Senate votes would empower the sitting Republican majority, and any future majority of either party, to advance its agenda without consulting the opposition; despite the acknowledged dangers, Republicans were openly entertaining the move.[5]
+
+Badlands commentary responded not by defending the filibuster but by questioning the reverence Americans are conditioned to feel toward state institutions, norms and traditions — the "Edifice" — arguing that this conditioning was itself produced by state-controlled schools and mass media, that public conversation is effectively barred from examining the Edifice's foundations except to strengthen it, and that critics are marginalized as conspiracy theorists for invoking the founding era and the black-letter text of the Constitution.[5]
+
 ## References
 
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 3. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+4. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+5. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1

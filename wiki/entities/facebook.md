@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, social-media, censorship, meta]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-b52.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -32,7 +32,15 @@ In the same month, NBC News reported that [[donald-trump|Donald Trump]] was prep
 
 Facebook played a key role in censoring the Hunter Biden laptop story before the 2020 election on the basis of what proved to be false claims that the reporting was a Russian disinformation operation; some observers argued that this suppression, together with a multitude of others, could have changed the outcome of the vote.[3] In late August 2024 [[donald-trump|Donald Trump]] warned in his book [[save-america|*Save America*]] that Facebook founder [[mark-zuckerberg|Mark Zuckerberg]] would "spend the rest of his life in prison" if election meddling were proven, writing that Zuckerberg had told him "there was nobody like Trump on Facebook" while nonetheless steering the platform against him.[3] Zuckerberg had apologized the previous week for caving to government censorship requests.[3]
 
+## Censorship of the Trump assassination photograph
+
+Facebook wrongly censored a photograph of former President [[donald-trump|Donald Trump]] raising his fist after surviving the July 2024 assassination attempt, a company official acknowledged.[5] Users who posted the image were told they had shared an "altered photo," with a notice stating that "independent fact-checkers reviewed a similar photo and said it was altered in a way that could mislead people," and warning that those who share false information might see their posts ranked lower in the feed.[5] Users complained on X, a Facebook competitor, about being warned despite sharing an unaltered photograph.[5] Spokeswoman Dani Lever said in an X post: "This was an error. This fact check was initially applied to a doctored photo showing the Secret Service agents smiling, and in some cases our systems incorrectly applied that fact check to the real photo. This has been fixed and we apologize for the mistake."[5] Facebook and other [[meta-platforms|Meta]]-owned properties use a third-party fact-checking network the company says lets it reduce the spread of problematic content across its apps; some conservatives said the censorship should prompt lawmakers to question Meta CEO [[mark-zuckerberg|Mark Zuckerberg]].[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 3. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+## March 2024 global outage
+Facebook was knocked offline on March 5, 2024 in a [[2024-meta-global-outage|global outage]] of [[meta-platforms|Meta]] services that lasted more than two hours.[4] At the peak of the disruption, the tracking site Downdetector recorded more than 550,000 reports for Facebook alone, with users complaining on X that they had been booted from their accounts and could not log back in.[4] Meta attributed the incident to a technical issue, and the White House National Security Council said it saw no evidence of malicious cyber activity.[4]
+4. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+5. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, entertainment-industry, corporations]
-sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d06.md]
+sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -28,8 +28,19 @@ In April 2023, Florida Governor [[ron-desantis|Ron DeSantis]] promised a new rou
 
 In June 2023 Disney disclosed that it would take a $1.5 billion impairment charge in its June quarter after removing dozens of shows and films from Disney+ and Hulu, in a move detailed in [[2023-disney-streaming-content-write-off|an SEC filing]] describing the removal of "certain produced content" from its direct-to-consumer services on May 26, 2023.[4] The company said it anticipated removing additional produced content during the remainder of its third fiscal quarter, with possible further impairment charges of up to roughly $400 million.[4] Chief financial officer [[christine-mccarthy|Christine McCarthy]] had previously guided to a write-down of $1.5 billion to $1.8 billion; writing down the assets allowed Disney to remove them from its balance sheet and reduce its tax bill.[4] Badlands writer [[burning-bright|Burning Bright]] described the purge as targeting the company's most ideologically charged titles amid heavy streaming and theatrical losses and pending Florida litigation, grouping Disney with [[bud-light|Bud Light]] and [[target|Target]] in a widening consumer backlash.[4]
 
+## The Marvels opening (November 2023)
+
+In November 2023 Disney's [[the-marvels|The Marvels]] recorded the worst opening weekend in [[marvel-cinematic-universe|Marvel Cinematic Universe]] history, with projections of $47–55 million against a prior franchise low of $55.4 million set by 2008's "The Incredible Hulk."[6] [[breitbart-news|Breitbart]] columnist [[john-nolte|John Nolte]] called the result a certified disaster and argued the franchise, which had generated some $30 billion worldwide from 30 films, had been ruined ideologically.[6] Badlands writer [[burning-bright|Burning Bright]] described the flop as one of the biggest market wins of the [[culture-war|Culture War]] since 2016, contending that Disney — the biggest studio in the industry — had run male-centric franchises into the ground through a mix of ideological programming and incompetence.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 2. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
 3. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
 4. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06
+
+## December 2024 box office setback
+
+In December 2024, Disney's photorealistic "Lion King" prequel "Mufasa: The Lion King" was humbled in its opening weekend, taking $35 million domestically — well short of expectations — against $62 million for [[paramount-global|Paramount]]'s "Sonic the Hedgehog 3," despite opening in more theaters (4,100 versus 3,761) and occupying most IMAX screens.[5] Mufasa cost more than $200 million to produce, compared with $122 million for Sonic 3, though Disney could look to $87.2 million in international sales to help offset the shortfall.[5] Badlands writer [[burning-bright|Burning Bright]] characterized the roughly 77 percent opening-weekend gap as devastating for the Disney empire, given that both films targeted the same family and nostalgia audiences.[5]
+
+5. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+6. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [protests, campus-activism, israel-hamas-war, free-speech]
-sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0be.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -37,3 +37,18 @@ The same day, the House of Representatives passed the [[antisemitism-awareness-a
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
 2. Badlands Brief — "Plan B for Israel & Ouroborosian Protests Consume Clown World", URL: https://badlands.substack.com/p/badlands-news-brief-0be
+
+## Late-April escalation and the Harvard encampment (2024)
+
+By the week of April 22, 2024, colleges and universities across the country were struggling to keep pro-Palestinian protesters off school grounds as students, and by some accounts a mix of professional demonstrators funded by radical groups and foreign money, stormed campuses and set up encampments.[3] Coverage described the wave as likely a coordinated nationwide effort, noting that pro-Palestinian demonstrators had also been shutting down critical infrastructure including airport terminals, bridges and other chokepoints capable of disrupting the economy.[3]
+
+Protesters entered [[harvard-university|Harvard University]] and established an encampment in Harvard Yard, days after the university restricted access to the Yard to Harvard ID holders, demanding that the school divest from Israel's war in Gaza.[3] On the Monday night preceding, police arrested protesters at New York University, ending a multiday standoff.[3]
+
+## Faculty reaction and the coddling thesis
+
+Badlands commentary connected the unrest to the arguments of the documentary *The Coddling of the American Mind*, screened by the Toronto chapter of [[heterodox-academy|Heterodox Academy]], which follows college students who became ideologically captured and later recovered.[3] Professors attending the screening described watching students at their institutions descend into what they viewed as ideological madness, citing as a shared example a sudden spike in students presenting accommodation letters demanding extra time on assignments.[3]
+
+The writer attributed this to the implantation of what the filmmakers call the Three Great Untruths: that what does not kill you makes you weaker, that one should always trust one's feelings, and that life is a battle between good people and evil people.[3] The conclusion drawn was that while youth were being targeted by sophisticated fifth-generation psychological operations, the countervailing effect was an awakening among academics, and that organizations defending viewpoint diversity should expect an influx of members as the scale of student ideological capture became apparent.[3]
+
+
+3. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

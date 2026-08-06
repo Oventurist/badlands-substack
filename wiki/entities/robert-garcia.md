@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrat, oversight, epstein-files]
-sources: [raw/badlands-brief-1cd.md, raw/badlands-brief-6f4.md]
+sources: [raw/badlands-brief-1cd.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -24,3 +24,8 @@ As ranking member of the [[united-states-house-oversight-committee|House Oversig
 ## References
 1. Badlands Brief — "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent", URL: https://badlands.substack.com/p/badlands-brief-1cd
 2. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
+
+## Epstein files release response (September 2025)
+
+Following the [[house-oversight-committee|House Oversight Committee]]'s September 2025 release of more than 33,000 pages of [[jeffrey-epstein|Jeffrey Epstein]] documents obtained by subpoena from the [[department-of-justice|Justice Department]], Garcia said that "Oversight Democrats find 97% of the more than 30,000 documents received from the Department of Justice were already public."[3]
+3. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

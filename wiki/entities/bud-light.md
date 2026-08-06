@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brands, brewing, boycott, marketing, culture-war]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e86.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ Three weeks into the backlash over the brand's promotional partnership with tran
 
 Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] noted the unusual durability of the story in the national news cycle and summarized the community's verdict on the campaign with the slogan "Get Woke, Go Broke."[7]
 
+## End of the boycott (2023–2024)
+
+After months in which the political right and much of the [[ufc|UFC]]'s audience "pulverized" the brand over a promotion featuring a transgender influencer, Bud Light returned as the UFC's official beer sponsor in a reported nine-figure deal completed in the autumn of 2023, reviving an affiliation dating back more than fifteen years.[9] UFC chief executive [[dana-white|Dana White]] defended parent company [[anheuser-busch|Anheuser-Busch]] publicly in conservative media and privately helped broker a détente, including a "great conversation" between [[kid-rock|Kid Rock]] and Anheuser-Busch's chief executive in his green room at Madison Square Garden in November 2023.[9] The boycott was soon off, and after a February 2024 phone call from White, final holdout [[donald-trump|Donald Trump]] suggested on social media that the company deserved "a second chance."[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "Badlands News Brief: Hunters Hunted, Gender Confusion & the Spiritual War", URL: https://badlands.substack.com/p/badlands-news-brief-13b
@@ -66,3 +70,12 @@ Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]]
 After parent company [[anheuser-busch-inbev|Anheuser-Busch InBev]] reached a three-year high of $66.73 per share, it shed more than $6 billion in market capitalisation in the six days following the April 2, 2023 announcement of the Bud Light partnership with [[dylan-mulvaney|Dylan Mulvaney]], with market capitalisation dropping from $132.8 billion to as low as $125.7 billion, more than five percent.[8] Bar owners and distributors reported a sharp decline in Bud Light sales over that week.[8] The campaign featured custom cans bearing Mulvaney face and pro-LGBTQ language, and opened with a video of Mulvaney drinking Bud Light in a bathtub.[8] Company executives reportedly had no knowledge of the campaign even as Anheuser-Busch publicly defended it.[8] [[burning-bright|Burning Bright]] argued the enduring lesson was that consumers could damage a Fortune 500 company simply by withholding participation from its [[system-of-systems|System of Systems]].[8]
 
 8. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+9. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54
+
+## Contagion to other Anheuser-Busch brands (May 2023)
+
+By mid-May 2023 the backlash against Bud Light showed no sign of abating and had spread to sibling brands including Budweiser, Busch and Michelob, according to point-of-sales data reported by ZeroHedge.[10] Third-party scans from Circana (formerly IRI) and Nielsen showed continued deterioration in Bud Light dollar share, volume share and sales, with Bloomberg Intelligence analyst Kenneth Shea noting that the brand's US market share had slid to 8.3 percent in the four-week period ended May 7, down from 9.1 percent only two weeks earlier.[10] Shea observed that with other top [[anheuser-busch-inbev|AB InBev]] brand shares eroding as well, the company appeared to need "a pivotal marketing strategy to halt the trend," while Coors Light, Miller Lite and Modelo continued "soaking up the lost share."[10]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that the contagion illustrated a larger point: that nearly every major corporation is in some way compelled or willing to participate in what he called the globalist agenda through [[esg|ESG]] or [[diversity-equity-and-inclusion|DEI]] initiatives, so that boycotting one or two companies is insufficient.[10] In his reading, profit is a bonus rather than the objective for such actors — corporations burn money to advance the agenda because the aim is control and indoctrination rather than wokeness as such — and the remedy is to build a fully functional and superior [[parallel-economy|parallel economy]], redirecting spending toward America-first businesses as the existing system implodes.[10]
+
+10. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86

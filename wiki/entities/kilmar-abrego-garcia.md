@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, doj, ms-13, vindictive-prosecution]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -62,6 +62,20 @@ The Tennessee Star separately reported that a [[tennessee-highway-patrol|Tenness
 
 Badlands commentator [[ashe-in-america|Ashe in America]] characterized the timing as an intentional operation, writing that the Trump Justice Department waited until Van Hollen was on the ground demanding to negotiate with a sovereign government before making public Abrego García's official record.[7] She summarized that record as including unlawful presence and eight years of evading detection, a 2019 arrest alongside three MS-13 members while wearing gang clothing for labor trafficking, the 2020 and 2021 domestic violence allegations, and the 2022 Tennessee trafficking stop, and noted his wife had raised over $200,000 in recent days.[7]
 
+## Vindictive prosecution claim (August 2025)
+
+On Tuesday, August 19, 2025, lawyers for Abrego Garcia accused the [[justice-department|Justice Department]] of vindictive prosecution for bringing a criminal case against him after he and his attorneys fought his deportation.[8] The accusations came in a 35-page filing in Federal District Court in Nashville and amounted to an effort to call out the conduct of an administration that had been pursuing him in one form or another for nearly five months.[8]
+
+The filing recalled that Trump officials first removed him from the United States to El Salvador in March 2025 in violation of a court order, and argued that instead of taking the traditional path of quickly returning him, the [[white-house|White House]] "began a public campaign to punish Mr. Abrego for daring to fight back, culminating in the criminal investigation" that led to his indictment.[8] "Kilmar Abrego Garcia has been singled out by the United States government," his lawyers wrote.[8]
+
+## Court block on removal to Uganda (August 2025)
+
+On August 25, 2025, a federal judge ruled that Abrego Garcia — a Salvadoran man the Trump administration wrongfully deported in March and then brought back to the United States to face criminal charges — could not be moved again or deported from the country in the near future.[9] The order came as the administration said it intended to deport him to Uganda, a threat his lawyers alleged was part of a coercive negotiating tactic to get him either to plead guilty to criminal smuggling charges, which he denies, or to leave for a nation where he does not speak the language and has no ties.[9]
+
+U.S. District Judge [[paula-xinis|Paula Xinis]] told Deputy Assistant Attorney General [[drew-ensign|Drew Ensign]] during the hearing that "your clients are absolutely forbidden at this juncture to remove Mr. Abrego Garcia from the continental United States," making a point of asking the official whether he understood the order; Ensign replied, "Your honor, yes. We certainly understand that."[9] The judge indicated he would not be moved until a further hearing, possibly that same week, determined whether the administration was following the law surrounding his potential removal.[9]
+
+Badlands commentary described Abrego Garcia as an alleged MS-13 operative "masked by media as a 'Maryland father,'" facing charges of human trafficking, serial abuse and child predation, and framed the proposed removal to Uganda — skirting Salvadoran protections — as a signal exposing migrant networks and linking sanctuary policies to gang violence.[9]
+
 ## References
 
 1. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
@@ -71,3 +85,5 @@ Badlands commentator [[ashe-in-america|Ashe in America]] characterized the timin
 5. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 6. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 7. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+8. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
+9. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

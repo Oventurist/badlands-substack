@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, melania-trump, artificial-intelligence]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d74.md]
 confidence: medium
 ---
 
@@ -68,3 +68,8 @@ Badlands commentary defended Melania sharply against the characterization, with 
 President [[donald-trump|Donald Trump]]'s entourage at the Super Bowl in New Orleans on Sunday, February 9, 2025 included Eric Trump, Lara Trump and Ivanka Trump with her son, but first lady Melania Trump was not present as the family watched the Kansas City Chiefs face the Philadelphia Eagles.[9] Coverage noted that she had made few public appearances since Trump's 2020 loss to Joe Biden and was rarely present during the 2024 presidential campaign.[9] In a statement that Sunday, Trump said the first lady "joins me in sending our best wishes for a great Super Bowl Sunday."[9]
 
 9. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+10. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+
+## Amazon documentary deal (January 2025)
+
+In January 2025 it was reported that the former and future first lady had signed a $40 million agreement with [[amazon|Amazon]] to license a documentary about her life, with cameos from her husband [[donald-trump|Donald]] and son Barron.[10] Directed by "Rush Hour" filmmaker Brett Ratner and slated for release later that year, the project was said by one source close to the agreement to have the potential to spawn multiple further projects.[10] The price tag, first reported by Puck News, covered rights to projects involving Mrs. Trump over the following four years; Disney had also bid, at $14 million, before being outmatched.[10] Sources told Page Six the deal was the latest sign that Melania had "gotten more comfortable" with opening herself to the public.[10]

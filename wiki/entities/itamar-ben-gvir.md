@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, national-security, prisons, ben-gvir]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-724.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-7ed.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -133,6 +133,29 @@ Badlands commentary linked the sanctions push to speculation about why [[joe-bid
 
 Briefed by [[benjamin-netanyahu|Benjamin Netanyahu]] on January 13, 2025 alongside Finance Minister [[bezalel-smotrich|Bezalel Smotrich]], National Security Minister Itamar Ben-Gvir was described as certain to vote against any hostage deal, on the reasoning that winning populist votes in the next election outweighed saving lives in his calculations.[23] Analysts held that Ben-Gvir would follow Smotrich out of the coalition if Smotrich resigned, bringing the government down.[23] [[badlands-media|Badlands Media]] commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized Ben-Gvir and Smotrich as the two most hardcore radicals in the cabinet, whose settler base could not accept a ceasefire and whose Haredi supporters were newly exposed to [[ultra-orthodox-conscription-in-israel|military conscription]].[23]
 
+## War cabinet demands and leak accusation (June 2024)
+
+In June 2024 coalition tensions amplified when the ruling [[likud]] party accused Ben Gvir, leader of [[otzma-yehudit|Otzma Yehudit]], of leaking "state secrets."[24] The accusation followed publication of reports that Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] had offered him sensitive security briefings in exchange for his support of a key bill.[24] According to unverified Hebrew media reports, Netanyahu proposed including the far-right minister in a limited group of ministers receiving security reviews in return for backing a controversial bill regulating the appointment of municipal rabbis; the bill eventually fell through.[24]
+
+Ben Gvir had repeatedly demanded inclusion in the then-defunct war cabinet, stating his desire to be among those leading war decision-making, while Netanyahu is widely regarded as deeply distrusting the firebrand minister and refusing to include him.[24] Likud said the reports of the alleged offer were "full of inaccuracies," adding that Netanyahu had told him only one thing: "Whoever wants to be a partner in a limited security consultation team must prove that he is not leaking state secrets or private conversations."[24]
+
+## Sde Teiman protests (July 2024)
+
+Badlands coverage placed National Security Minister Ben-Gvir at the centre of the July 2024 far-right mob action at Israeli military bases in support of soldiers accused of sexually torturing a Palestinian detainee at [[sde-teiman-detention-facility|Sde Teiman]].[25] The commentary recalled that Ben-Gvir had served as defence lawyer for [[benzion-gopstein|Benzion Gopstein]] — described as his mentor — who in 2015 called for the burning of churches and the expulsion of Christians from the Holy Land, and whom Ben-Gvir defended against criminal charges of incitement.[25] The writer predicted an incipient civil war inside [[benjamin-netanyahu|Benjamin Netanyahu]]'s cabinet between military figures such as [[yoav-gallant|Yoav Gallant]] and religious hardliners such as Ben-Gvir.[25]
+
+## Opposition to the October 2025 Gaza agreement
+
+As the Israeli cabinet voted in October 2025 on ratification of the ceasefire agreement reached at Sharm el-Sheikh, Ben-Gvir said ahead of the vote that he and his party would oppose President [[donald-trump|Donald Trump]]'s peace plan and would leave the government if [[hamas|Hamas]] were permitted to retain control over Gaza.[26] He described the release of Palestinian prisoners in exchange for Israeli hostages as an "unbearable price" to pay for the agreement.[26] His objection was reported alongside the declaration by senior Hamas official [[khalil-al-hayya|Khalil al-Hayya]] that the war had completely ended.[26]
+
+
+## Links to Kahanist figures and Tzav 9
+
+Badlands Media reports that Ben-Gvir, as National Security Minister, proudly displays a portrait of [[baruch-goldstein|Baruch Goldstein]] — the [[kahanism|Kahanist]] physician who murdered twenty-nine worshippers at the Cave of the Patriarchs in Hebron in 1994 — in his living room, describing this as widely known and reported in Israel.[27] He also served as defence attorney for [[benzi-gopstein|Benzi Gopstein]] in January 2024, when Gopstein faced incitement charges over anti-Christian comments made in 2015.[27] The outlet further states that [[tzav-9|Tzav 9]], the group sanctioned by the United States for attacking and blocking humanitarian aid convoys bound for [[gaza|Gaza]], is reportedly funded by non-governmental organizations controlled by Ben-Gvir.[27] The Israeli commentator [[zehava-galon|Zehava Galon]] wrote that Tzav 9's members are afforded protection by the [[israeli-police|police]] and by the minister responsible for the police.[27]
+
+## Cited at the ICJ, May 2024
+
+At the [[international-court-of-justice|ICJ]] hearing of May 16, 2024, [[south-africa|South Africa]]'s counsel played video of Ben-Gvir speaking at a "Gaza March" rally beneath a podium sign reading "Colonization of Gaza will bring security. Returning home!", language taken to imply that Gaza is home to the Israeli people.[28] In the speech Ben-Gvir declared: "The solution you talk about here is THE solution and there's no other. We, in the cabinet, demand: WAR NOW! Demand to enter [[rafah|Rafah]]! Demand targeted assassinations! But we must tell the truth. Without liberating Gaza, there will be no solution!"[28] South Africa used the footage as evidence of openly stated genocidal intent within the Israeli government.[28]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -157,3 +180,8 @@ Briefed by [[benjamin-netanyahu|Benjamin Netanyahu]] on January 13, 2025 alongsi
 21. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 22. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3
 23. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+24. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+25. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+26. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+27. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+28. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

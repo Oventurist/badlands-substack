@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, advisors, trump-administration, foreign-policy]
-sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -60,6 +60,15 @@ On August 21, 2023, Macgregor appeared on episode 18 of [[tucker-carlson|Tucker 
 
 The episode aired hours after Carlson posted video of himself meeting a Serbian diplomatic delegation, which prompted [[adam-kinzinger|Adam Kinzinger]] to call Carlson "a traitor to the US" on Twitter.[10] Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] anticipated that Kinzinger would attack the decorated combat veteran as well, argued that Kinzinger's own participation in the [[january-6-committee|January 6 Committee]] amounted to treason, and described establishment figures as projecting their crimes onto those telling the truth — a tactic she said was no longer working now that roughly two-thirds of the public was alert to government corruption.[10]
 
+
+## Warning on Venezuela (October 2025)
+
+On [[tucker-carlson|Tucker Carlson]]'s October 29, 2025 live show, MacGregor joined Carlson in warning that neoconservatives were exploiting the drug crisis to drag America into another regime change war.[11] The segment centered on a U.S. naval armada steaming toward Venezuela, an oil-rich South American country, in a show of force intended to compel [[nicolas-maduro|Nicolas Maduro]] to leave power under threat of war or invasion.[11] Carlson observed that the development had drawn remarkably little public attention despite being "a pretty significant turn of events," and recalled that regime change war with Iran had been narrowly averted the previous June.[11]
+
+## Napolitano interview on the ICC warrants (May 2024)
+
+In a video interview with [[andrew-napolitano|Judge Andrew Napolitano]] released around May 20, 2024, Macgregor discussed the ICC arrest warrant applications against Israeli and Hamas leaders, affirming the view that [[benjamin-netanyahu|Benjamin Netanyahu]] and the power structure in Tel Aviv exert control over the US government — a reading the Badlands commentary said was underscored by bipartisan American outrage at the court.[12] Macgregor credited the [[international-criminal-court|ICC]] with demonstrating "even-handedness" by pursuing the political and military leaders of both [[israel]] and [[hamas]], and argued that [[yoav-gallant|Yoav Gallant]] and [[benny-gantz|Benny Gantz]] bore responsibility for the Gaza operation alongside Netanyahu.[12]
+
 ## References
 
 1. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
@@ -73,3 +82,5 @@ The episode aired hours after Carlson posted video of himself meeting a Serbian 
 8. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
 9. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
 10. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+11. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+12. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

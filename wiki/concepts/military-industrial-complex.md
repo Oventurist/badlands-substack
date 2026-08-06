@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [military-industrial-complex, war, propaganda, defense]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ In January 2023, as the [[pentagon|Pentagon]] declined to rule out sending F-16 
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 3. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+
+## 2023 Pentagon accounting error
+
+Badlands writer [[justin-deschamps|Justin Deschamps]] treated the [[pentagon|Pentagon]]'s June 2023 disclosure of a $6.2 billion overvaluation of weapons sent to Ukraine as an artifact of "a massive, decade-long money laundering operation for the military industrial complex," noting that the correction conveniently freed additional funds for Ukraine just as congressional appropriations were dwindling.[5] See [[2023-pentagon-ukraine-aid-accounting-error|2023 Pentagon Ukraine aid accounting error]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cartels, mexico, narcotics, latin-america]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-579.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-579.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-df1.md]
 confidence: medium
 ---
 
@@ -51,6 +51,11 @@ The insider said the hacker was surveilling a federal official and exploiting de
 
 In the August 7, 2025 announcement of a $50 million reward for the arrest of [[nicolas-maduro|Nicolás Maduro]], Attorney General [[pam-bondi|Pam Bondi]] listed the Sinaloa Cartel alongside [[tren-de-aragua|Tren de Aragua]] and the [[cartel-de-los-soles|Cartel of the Suns]] among the foreign terrorist organizations she said the Venezuelan leader used to move drugs and violence into the United States.[7] Bondi described the cocaine trade as the primary funding source for cartel operations in Venezuela and Mexico.[7]
 
+
+## Alleged Command of the ELN (2025)
+
+Badlands commentary in October 2025 reported [[gustavo-petro|President Gustavo Petro]]'s claim that the Mexico-based Sinaloa Cartel sits at the head of the [[national-liberation-army|National Liberation Army (ELN)]], a Colombian paramilitary group active since 1964, and uses it to secure narcotics trafficking routes.[8] The Colombian military pursued the Sinaloa Cartel as part of Petro's broader campaign against trafficking organizations, a campaign that also included thousands of cartel arrests and extraditions to the United States.[8]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
@@ -60,3 +65,4 @@ In the August 7, 2025 announcement of a $50 million reward for the arrest of [[n
 5. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 6. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 7. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+8. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, diplomacy, russia, wikileaks, cable]
-sources: [raw/a-bright-red-line.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-855.md]
+sources: [raw/a-bright-red-line.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f99.md]
 confidence: medium
 ---
 
@@ -80,6 +80,13 @@ Prospects for a ceasefire appeared slim: Hamas reiterated its demand for an end 
 
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] questioned why the [[cia|CIA]] rather than the [[state-department|State Department]] was taking point in peace talks, recalling the January 2023 "secret meeting" between Burns and Ukrainian officials reported by the *Washington Post*, which produced no negotiated ceasefire and instead the assessment that "Russia will only negotiate if it feels threatened" — a line he blamed for the media build-up to a Ukrainian spring offensive that never materialised.[10] He argued the episode illustrated that the CIA and the State Department had become functionally synonymous, with the agency performing diplomacy, and characterised Netanyahu's posture as subversion.[10]
 
+## Ceasefire diplomacy at the time of the Haniyeh killing
+
+As CIA Director, Burns was in Rome on Sunday, July 28, 2024 to meet senior Israeli, Qatari and Egyptian officials in the latest round of talks aimed at a temporary ceasefire and hostage-release deal, days before the assassination of [[ismail-haniyeh|Ismail Haniyeh]] in Tehran complicated that effort.[11]
+
+## November 2023 Middle East shuttle mission
+
+In early November 2023 the White House dispatched Burns to Israel, where he arrived on Sunday, November 5 for top-level meetings, with onward stops planned in Qatar, Jordan and the United Arab Emirates.[12] The trip ran in parallel to Secretary of State [[antony-blinken|Antony Blinken]]'s regional shuttle, which had most recently included a meeting with Palestinian Authority President [[mahmoud-abbas|Mahmoud Abbas]] and which publicly sought a "humanitarian pause" rather than a full ceasefire.[12] As in the Ukraine war, Burns was described as the official sent to crisis points to relay messaging the administration did not wish to discuss publicly, potentially including mediation to free hostages or work toward a ceasefire agreement centered on their release.[12] The mission coincided with Iranian foreign minister [[hossein-amir-abdollahian|Hossein Amir-Abdollahian]]'s claim that "the Americans sent us a message in the past three days saying they are seeking a ceasefire," alongside a warning that Americans would be "hit hard" if no ceasefire were reached.[12]
 
 ## References
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -92,3 +99,10 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] questioned
 8. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
 9. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 10. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
+11. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+12. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7
+13. Badlands Brief — "Badlands News Brief: MAGA Rises as the Regime Falls", URL: https://badlands.substack.com/p/badlands-news-brief-f99
+
+## Reported regular visits to Kyiv (2023)
+
+In a July 2023 CNN interview, host [[erin-burnett|Erin Burnett]] told Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] that "the U.S. CIA Chief Bill Burns has come and visited you regularly. He was here recently," and asked what Zelensky had told him about plans to retake territory in the counteroffensive.[13] Zelensky confirmed a good relationship with the [[central-intelligence-agency|CIA]] and frequent intelligence discussions with the agency, and was reportedly surprised that his regular, confidential conversations with Burns had leaked to the press.[13]

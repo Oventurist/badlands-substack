@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, finance, xai, kingdom-holding, saudi-purge]
-sources: [raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -22,6 +22,10 @@ Badlands analysis stressed a detail omitted from mainstream coverage of the xAI 
 
 The Badlands reading of this arrangement is that MBS is effectively deploying Alwaleed's money into Musk's ventures, a framing that inverts the assumption that Saudi capital in xAI represents hostile influence.[1]
 
-## References
+## X shareholder disclosure (2024)
 
+The Saudi prince was listed among the investors in X Holdings Corp. when a federal judge ordered [[x-corp|X]] to unseal its shareholder list in August 2024.[2] [[burning-bright|Burning Bright]] observed that Alwaleed has not been in control of his own assets since 2017, when they were seized by [[mohammed-bin-salman|Mohammed bin Salman]], whom Badlands identifies as a [[sovereign-alliance|Sovereign Alliance]] player.[2]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

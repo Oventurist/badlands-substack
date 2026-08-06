@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [international-organization, islam, middle-east, diplomacy]
-sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-683.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ At the [[united-nations-general-assembly]] in late September 2024, after [[benja
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
+
+## Doha emergency summit (September 2025)
+
+The Organization of Islamic Cooperation convened an emergency summit in Doha in September 2025 together with the [[arab-league|League of Arab States]], in response to an Israeli airstrike on the Qatari capital that killed six people, including a Qatari security officer.[3] The joint final statement called on member nations to weigh the compatibility of [[israel|Israel]]'s [[united-nations|United Nations]] membership with the organization's charter and to coordinate efforts toward its suspension.[3] The leaders described the strike as a "dangerous escalation that exposes the extremist hostility of the Israeli government" and urged all states to review diplomatic and economic relations with Israel and adopt sanctions and arms and dual-use export suspensions.[3]
+
+3. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

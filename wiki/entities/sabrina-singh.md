@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, ukraine, kursk, us-policy, spokesperson]
-sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -46,3 +46,9 @@ On May 28, 2024, Singh announced that a portion of the [[gaza-humanitarian-pier|
 3. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
 5. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+
+## 2023 Ukraine aid accounting error
+
+On 20 June 2023, as Pentagon spokeswoman, Singh announced the results of a detailed review of the department's valuation of weapons transferred to Ukraine, stating that the military services had used replacement costs rather than the book value of equipment pulled from [[pentagon|Pentagon]] stocks.[6] She said final calculations showed an error of $3.6 billion in the current fiscal year and $2.6 billion in fiscal 2022, totaling the $6.2 billion overestimate that produced a surplus for future security packages.[6] See [[2023-pentagon-ukraine-aid-accounting-error|2023 Pentagon Ukraine aid accounting error]].[6]
+
+6. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

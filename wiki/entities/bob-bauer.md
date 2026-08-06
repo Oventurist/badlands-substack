@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, lawyers, biden-administration]
-sources: [raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-news-brief-aac.md, raw/badlands-news-brief-f39.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ After Biden's widely criticized debate performance, his family privately blamed 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+
+## Statements on the Rehoboth Beach search (February 2023)
+
+As President [[joe-biden|Joe Biden]]'s personal lawyer, Bauer confirmed the February 1, 2023 [[department-of-justice|Department of Justice]] search of Biden's vacation home in Rehoboth Beach, Delaware, after CBS News reported it, stating that the president's team had not sought to provide advance notice of the operation.[2] Bauer said federal agents searched the home from 8:30 a.m. to noon and that "no documents with classified markings were found," while acknowledging that, as with a similar search at Biden's other Delaware home, the department took some materials and handwritten notes appearing to relate to his time as vice president for further review.[2] See [[biden-classified-documents-scandal|the Biden classified documents scandal]].[2]
+
+2. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39

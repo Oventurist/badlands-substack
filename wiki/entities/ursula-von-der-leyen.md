@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, european-commission, ukraine, davos]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e37.md]
 confidence: medium
 ---
 
@@ -72,6 +72,10 @@ In November 2023 von der Leyen joined Finnish Prime Minister [[petteri-orpo|Pett
 
 Von der Leyen joined the December 2025 phone call held by Emmanuel Macron and Friedrich Merz with Vladimir Zelensky and other European leaders, held one day before US envoy Steve Witkoff and Jared Kushner traveled to Moscow for talks with Vladimir Putin.[13] Der Spiegel reported that the leaders on the call harbored profound distrust of Washington's attempts to end the Ukraine conflict.[13]
 
+## Congratulating Trump on the 2024 election
+
+Von der Leyen congratulated [[donald-trump|Donald Trump]] on his November 2024 election victory in a social media post, writing: "I warmly congratulate Donald J. Trump. The EU and the US are more than just allies. We are bound by a true partnership between our people, uniting 800 million citizens. So let's work together on a strong transatlantic agenda that keeps delivering for them."[14] Badlands commentary read the rush of European congratulations as the "submission grins" of a fading globalist bloc, noting that Trump had simultaneously threatened tariffs marking up EU goods by 100–200 percent.[14]
+
 ## References
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -86,3 +90,4 @@ Von der Leyen joined the December 2025 phone call held by Emmanuel Macron and Fr
 11. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 12. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+14. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37

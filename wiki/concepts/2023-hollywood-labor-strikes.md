@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hollywood, labor, strikes, streaming, entertainment]
-sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-e18.md]
 confidence: medium
 ---
 
@@ -44,3 +44,12 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that technology i
 1. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 2. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 3. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+4. Badlands Brief — "All the World's a Stage ... And the Actors Are on Strike", URL: https://badlands.substack.com/p/badlands-news-brief-e18
+
+## Actors strike called (July 13, 2023)
+
+[[sag-aftra|SAG-AFTRA]], the union representing Hollywood actors and performers, voted to go on strike against the major studios, with union president [[fran-drescher|Fran Drescher]] telling a press conference that it was time for studio executives to "wake up and smell the coffee."[4] The union's national board acted after negotiations with the [[alliance-of-motion-picture-and-television-producers|Alliance of Motion Picture and Television Producers]] broke down, a last-ditch effort monitored by a federal mediator having failed to produce agreement.[4] The AMPTP said in a statement, "This is the Union's choice, not ours," and accused SAG-AFTRA of setting a course that would "deepen the financial hardship for thousands who depend on the industry for their livelihoods."[4]
+
+Studios pointed to a poor climate for streaming and recent layoffs, and shortly before the strike was called [[disney|Disney]] CEO [[bob-iger|Bob Iger]] told CNBC that the union's expectations were not realistic.[4] SAG-AFTRA countered that the streaming ecosystem had "eroded" the way actors are paid and accused the studios of refusing to acknowledge "enormous shifts in the industry and economy."[4]
+
+[[burning-bright|Burning Bright]], writing in the [[badlands-news-brief]], described the sequence of writers', directors' and now actors' actions as Hollywood "committing seppuku in front of the world," noting that the Entertainment Industrial Complex had chosen to strike at a moment of maximal public exhaustion with its output — a moment when an independent film about child trafficking, [[sound-of-freedom|Sound of Freedom]], was outperforming Disney tentpoles.[4] He argued the timing, amid a contentious sociopolitical climate, a stagflated economy and declining box office and ratings, suggested "ghosts in the Hollywood machine," with each move loosening the industry's grip on what he called the Collective Mind.[4]

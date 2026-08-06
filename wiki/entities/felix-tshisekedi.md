@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-republic-of-the-congo, africa, heads-of-state]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a69.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ Tshisekedi joined Rwandan President Paul Kagame at the White House on December 4
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] framed the June 2025 [[rwanda-drc-peace-agreement-2025|Rwanda–DR Congo peace agreement]] as the possible bookend of a long arc that began with Trump's [[executive-order-13818|Executive Order 13818]] sanctioning [[dan-gertler|Dan Gertler]] and continued through Tshisekedi's displacement of Gertler's business partner [[joseph-kabila|Joseph Kabila]].[7] In this account, Tshisekedi's government survived successive overthrow attempts — first by Gertler and former Mossad director [[yossi-cohen|Yossi Cohen]], then by operative [[christian-malanga|Christian Malanga]], then by Rwandan President [[paul-kagame|Paul Kagame]] through the [[m23|M23]] militia — all motivated by roughly $24 trillion in rare earth minerals.[7]
 
+## Cohen visits and the May 2024 coup attempt
+
+Haaretz reported that Tshisekedi was aware of then-[[mossad]] director [[yossi-cohen|Yossi Cohen]]'s surprise 2019 visits to the [[democratic-republic-of-the-congo|DRC]], none of which were coordinated with his government, and that Cohen had been meeting Tshisekedi's predecessor [[joseph-kabila|Joseph Kabila]]; some of Tshisekedi's aides feared Cohen was helping Kabila acquire arms for a coup attempt.[8] On Cohen's second visit, dated October 10, 2019, Tshisekedi flew from Goma to Kinshasa in his presidential plane, and another aircraft in his entourage took off shortly afterward and crashed with no survivors.[8] When Cohen returned for a third secret trip, DRC authorities met his private plane on the tarmac and brought him in to meet Tshisekedi.[8] In May 2024 Congolese forces thwarted an attempted coup against Tshisekedi's government led by [[christian-malanga|Christian Malanga]], which Badlands commentary linked back to this history.[8]
+
 ## References
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
 2. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
@@ -56,3 +60,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] frame
 5. Badlands Brief — "Lawfare Losers & Azov-Adjacent Suicide Attempts", URL: https://badlands.substack.com/p/badlands-news-brief-880
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 7. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+8. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

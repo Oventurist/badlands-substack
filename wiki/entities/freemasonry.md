@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-societies, syria, middle-east, conspiracy]
-sources: [raw/badlands-news-brief-53f.md]
+sources: [raw/badlands-news-brief-53f.md, raw/badlands-news-brief-f18.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ The statement further sought to reassure the new leadership: "We assure the Syri
 
 Writing in the Badlands News Brief, commentator GhostofBasedPatrickHenry treated the announcement as a "reverse indicator" — arguing that a family long described in Western media as a regime of brutal dictators had nonetheless banned Freemasonry throughout its more than fifty-year rule, and that this fact merited reconsideration of the received narrative. The commentary accepted the characterization of an overlap between Freemasonry and Zionism as "not illogical," endorsed the description of the order as a target of conspiracy theories about globalist agendas, and responded sardonically to the lodges' pledge of political non-interference: "The secret society that is accused of worshiping the devil and subverting governments promises not to engage in politics. Carry on."[1]
 
+## Joe Biden's induction (January 2025)
+
+On January 19, 2025, one day before leaving office, former President [[joe-biden|Joe Biden]] was conferred with "Master Mason membership" and "full honors" by the Most Worshipful Prince Hall Grand Lodge of Free and Accepted Masons of the State of South Carolina, an act that as a Catholic exposed him to potential excommunication under canon law.[2] Coverage summarized the order's history: although its origins stretch back to the fifteenth century, modern Freemasonry developed in Britain in the early 1700s and grew into a Europe- and US-wide fraternity for philosophers, religious dissidents, occultists, and the business and political elite, while Prince Hall Masonry is a historically black branch founded in 1775 by a freed slave in Boston.[2] Pope Clement XII forbade Catholics from practicing Freemasonry in 1738, and the ban stood until the Vatican's 1983 order against membership in organizations that "plot against the Church," which retained excommunication as a possible penalty; Cardinal Joseph Ratzinger declared then that "the faithful who enroll in Masonic associations are in a state of grave sin and may not receive Holy Communion."[2] See [[joe-biden-freemason-induction|the Joe Biden Freemason induction]].[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
+2. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

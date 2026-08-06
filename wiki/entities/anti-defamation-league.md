@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ In May 2025 the ADL's past national chair joined dozens of American Jewish leade
 
 Badlands contributor GhostofBasedPatrickHenry interpreted the letter as evidence that former leaders of the ADL and AIPAC could "see the writing on the wall," arguing that President [[donald-trump|Donald Trump]] had deliberately appointed Zionists to prominent positions — granting long-standing wishes such as moving the US embassy to Jerusalem and recognizing the Golan Heights as Israeli territory — in order to make the resulting optics unmistakable.[7]
 
+## Musk defamation threat (September 2023)
+
+In early September 2023 [[elon-musk|Elon Musk]] threatened to ban the ADL from [[x-corp|X]], formerly Twitter, saying he had "no choice" but to file a defamation lawsuit against the organization, which had earlier called for a pause on ad spending on the platform.[8] Musk blamed the group and allied activists for "most of X's revenue loss."[8] The ADL alleged that Musk had failed to clamp down on hate speech since his takeover of the platform in 2022, allowing disinformation to proliferate, a charge Musk strongly denied.[8] Reporting at the time also indicated that the ADL had pressured X to deplatform the anti-woke account [[libs-of-tiktok|Libs of TikTok]], run by conservative Jewish woman [[chaya-raichik|Chaya Raichik]].[8] Badlands writer [[burning-bright|Burning Bright]] characterized the ADL in this dispute as one of the censorious pillars of the [[deep-state|Deep State]]'s control apparatus.[8]
+
 ## References
 
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
@@ -67,3 +71,4 @@ Badlands contributor GhostofBasedPatrickHenry interpreted the letter as evidence
 5. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 6. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
 7. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+8. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b

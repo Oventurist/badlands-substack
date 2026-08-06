@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, defense, iran, military]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-74c.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -116,6 +116,11 @@ After Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] threatened
 
 After Iranian Supreme Leader [[ali-khamenei|Ali Khamenei]] declared in April 2024 that Israel "must be punished" for the strike on Iran's consulate in Damascus, Katz swiftly responded in a Persian-language statement on X: "If Iran attacks from its territory, Israel will respond and attack Iran."[21] The exchange came as [[joe-biden|Joe Biden]] promised "ironclad" U.S. support for [[israel|Israel]] against threatened Iranian reprisals.[21]
 
+
+## Call for Turkey's expulsion from NATO
+
+In late July 2024, as Israeli foreign minister, Katz called for [[nato|NATO]] to expel [[turkey|Turkey]] from the alliance.[25] Badlands Media interpreted the demand as intended to remove the alliance protection that deters Israeli action against Turkey, allowing the [[israel-defense-forces|IDF]] to conduct operations against Turkish military bases on Cyprus without fear of retribution from the rest of NATO, at a time when President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] was talking of invading Israel while Turkey continued to supply it with oil.[25]
+
 ## References
 
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
@@ -139,3 +144,26 @@ After Iranian Supreme Leader [[ali-khamenei|Ali Khamenei]] declared in April 202
 19. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 20. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 21. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+22. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+23. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+
+## Proposal to resettle Gazans in Europe (February 2025)
+
+In a post on X on Thursday, February 6, 2025, Katz said he had instructed the [[israel-defense-forces|Israel Defense Forces]] to prepare a plan to encourage Palestinians to emigrate from Gaza.[23] He suggested that European countries which had opposed Israel's military action in the enclave should take in the refugees, arguing that a refusal to do so would expose their "hypocrisy."[23]
+
+The proposal followed President [[donald-trump|Donald Trump]]'s remarks earlier that week that the United States would "take over the Gaza Strip" and take charge of reconstruction, and that Palestinians living there should leave to be provided for by "neighboring countries of great wealth."[23] Katz praised Trump's "bold initiative" to relocate Palestinians and named Spain, Ireland and Norway as possible destinations, claiming that because they had "falsely accused Israel" over the war against [[hamas|Hamas]] they were "legally obligated" to admit Gazans.[23]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized the plan as shipping 2.5 million Palestinians to Europe because Israel was unwilling to see them settled in bordering nations, and predicted the United States would be expected to take some as well.[23] He asked why "the Zionists" were so eager to send into Europe a population they described as dangerous, and argued it was useful that Trump was letting the episode play out publicly.[23]
+
+## al-Funduq attack response (January 2025)
+
+On Tuesday, January 7, 2025, as [[israel-defense-forces|Israel Defense Forces]] troops carried out counterterrorism raids across the [[west-bank|West Bank]], Defense Minister Katz visited the site of a deadly terror attack in the Palestinian village of al-Funduq and declared it an "act of war" that would be answered in kind.[22] Two elderly women and an off-duty police officer had been killed and eight Israelis wounded the previous day when Palestinian gunmen opened fire on vehicles passing through the village; the three perpetrators, from the Jenin area of the northern West Bank, remained at large.[22]
+
+"The despicable, murderous terror attack that occurred here yesterday is an act of war for all intents and purposes, and it will be answered accordingly," Katz said in remarks provided by his office, adding, "We will hit the terrorists and those who sent them, and we will act powerfully against the places from where the terrorists came."[22] Far-right government members and settler leaders called for West Bank military action resembling the Gaza campaign, in which the IDF evacuated and destroyed entire cities it described as terror strongholds.[22] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] challenged the framing by analogy to armed resistance against a foreign occupying force, asking which side had drawn first blood, and pointed to [[antony-blinken|Antony Blinken]]'s response when asked whether the United States was presiding over a genocide in Palestine as well as commentary by [[douglas-macgregor|Colonel Douglas Macgregor]].[22]
+
+## Airstrikes to "pacify" southern Syria (February 2025)
+
+After Israeli warplanes struck command centers and weapons sites in Kiswah and Deraa province on the night of February 25, 2025, a spokesperson for Katz confirmed that the Israeli Air Force was "attacking strongly in southern Syria as part of the new policy we have defined to pacify southern Syria."[24] Katz added: "Any attempt by the Syrian regime forces and the country's terrorist organizations to establish themselves in the security zone in southern Syria will be met with fire."[24] See [[2025-israeli-airstrikes-on-southern-syria|2025 Israeli airstrikes on southern Syria]].[24]
+
+24. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+25. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

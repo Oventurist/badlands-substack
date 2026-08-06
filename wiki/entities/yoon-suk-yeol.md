@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-korea, president, martial-law, impeachment]
-sources: [raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-eff.md]
 confidence: medium
 ---
 
@@ -60,10 +60,23 @@ Badlands commentary by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cal
 
 On December 3, 2025, the first anniversary of Yoon's shock martial law announcement, President [[lee-jae-myung|Lee Jae Myung]] said the cleanup from the failed bid was not yet complete and that the perpetrators had to be brought to justice.[6] Lee said Yoon's action had threatened an irreparable setback to South Korea, but that the people rose up and stopped the military with their bare hands, and called the "December 3 coup d'etat" a crisis not only for one country's democracy but for world democracy.[6] The declaration plunged a state widely regarded as a democratic success story into months of political turmoil, coinciding with the shock to South Korea's export-reliant economy from President [[donald-trump|Donald Trump]]'s global tariffs; Yoon was ousted, and those accused of involvement were arrested and tried for subversion.[6] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] offered a satirical account casting Yoon as the losing side of the "Great Poop Balloon War of '24," in which the South Korean military declined to carry out an artillery strike against North Korean balloon launch sites, leaving Yoon to impose martial law without military backing.[6]
 
+## August 2025 refusal to be questioned
+
+South Korea's ousted president lay on the floor of his detention cell on August 1, 2025 and refused to leave for questioning, according to a spokesperson for a special prosecutor.[7] Yoon was removed from office in April by the Constitutional Court over his botched attempt to declare martial law and faced a special prosecution team formed under new President Lee Jae Myung.[7] Prosecutors investigating influence-peddling allegations involving Yoon and his wife said the suspect "stubbornly refused" to comply while lying on the ground and not dressed in a prison uniform, and spokesperson Oh Jung-hee said investigators would try again, using force if necessary.[7] Badlands commentary mocked the scene and attributed Yoon's downfall to North Korea's balloon campaign, which it said baited him into a false-flag pursuit that military leadership refused to treat as grounds for a kinetic response.[7]
+
+## Formal arrest, January 2025
+
+South Korea's impeached president was formally arrested early on Sunday, January 19, 2025, days after being apprehended at his presidential compound in Seoul, and faced possible imprisonment over his declaration of martial law the previous month; the arrest could mark the beginning of an extended period in custody lasting months or more.[8] The decision triggered unrest at the Seoul Western District Court, where dozens of his supporters destroyed the court's main door and windows using plastic chairs and police shields wrestled away from officers, with some getting inside a hallway and throwing objects and discharging fire extinguishers.[8] Hundreds of police officers were deployed to suppress the riot, dozens of people were arrested on-site, and injured officers were treated at ambulance vans.[8]
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] offered an alternative reading of the affair, arguing it had been orchestrated via game theory by [[kim-jong-un|Kim Jong Un]] and his "poop balloons," which he said baited a false flag operation intended to ignite war with North Korea that the military ultimately declined to complete, leaving the martial law declaration unsupported by any kinetic event.[8] He cited Colonel [[douglas-macgregor|Douglas Macgregor]]'s appearance on Judge [[andrew-napolitano|Andrew Napolitano]]'s show asserting that South Korea is a [[central-intelligence-agency|CIA]] puppet state, and pointed to the arrest the previous summer of a former CIA employee accused of acting as a secret agent for South Korean intelligence, wondering whether similar arrests of corrupt leaders might follow in America.[8]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
 2. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 3. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 4. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 5. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 6. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+7. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+8. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff

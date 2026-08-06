@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, justice-department, classified-documents, joe-biden]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a46.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -78,6 +78,26 @@ When Representative Elise Stefanik pressed FBI Director Christopher Wray on Marc
 
 Hur's February 2024 report became a central citation in [[donald-trump|Donald Trump]]'s May 2, 2024 motion to dismiss the Florida classified documents indictment on grounds of "selective and vindictive prosecution."[13] The motion quoted the special counsel's finding that "with one exception, there is no record of the Department of Justice prosecuting a former president or vice president for mishandling classified documents from his own administration," arguing that Trump was that sole exception and that the reason was his status as President [[joe-biden|Joe Biden]]'s chief political rival.[13]
 
+## Invoked in impeachment competency debate (February 2024)
+
+Following [[hunter-biden|Hunter Biden]]'s February 2024 deposition, Badlands contributor [[ashe-in-america|Ashe in America]] raised the question of whether President [[joe-biden|Joe Biden]] would be competent enough to stand trial for high crimes and misdemeanors in the [[us-senate|Senate]], noting that Hur had effectively found he was not competent to stand trial for lesser crimes.[14]
+
+## House Judiciary Committee testimony (March 12, 2024)
+
+Hur told lawmakers on Tuesday, March 12, 2024 that his report on President [[joe-biden|Joe Biden]]'s alleged mishandling of classified documents "did not exonerate" Biden of wrongdoing, and that the president and his defenders were misleading the public about key details of the case.[15] "I did not exonerate him and that word does not appear in the report," Hur said, correcting Rep. [[pramila-jayapal|Pramila Jayapal]] during a five-hour [[house-judiciary-committee|House Judiciary Committee]] hearing on Capitol Hill; Jayapal, chairwoman of the Congressional Progressive Caucus, spoke over him and cut him off with, "Mr. Hur, it's my time. Thank you."[15]
+
+Hur testified that Biden had lied to the public at least twice — once in claiming he had not shared classified information with a ghostwriter, and again in asserting that he had locked up the documents in question — and revealed that the White House counsel's office had sought to purge his report of negative assessments of Biden's mental fitness.[15] His report, released February 8, 2024, found evidence that Biden "willfully retained and disclosed classified materials" but concluded the 81-year-old should not face charges because jurors would likely see him as a "well-meaning, elderly man with a poor memory."[15]
+
+[[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] described the hearing as fiery but largely composed, with Hur firm against angry allegations from both sides: Republicans were upset he declined to bring charges, Democrats were upset the report implied Biden was senile, and much of the discussion devolved into "but Trump" arguments.[15] She covered the hearing alongside [[just-human|Just Human]], who highlighted parallels between the Biden and Trump documents cases.[15] Ashe also noted that two apparent US Marshals with Capitol visitor badges sat directly behind Hur, observing that since he had resigned from the DOJ earlier that week the protective detail was likely ordered by someone other than Attorney General [[merrick-garland|Merrick Garland]], as DOJ protection requests usually run through the FBI, and that it was unclear whether specific threats existed.[15] She concluded that the hearing confirmed ongoing investigations into these matters, implying more remained to be discovered.[15]
+
+## Located biographer transcripts (July 2024)
+
+On Monday, July 22, 2024 the Justice Department told a federal judge that it had located transcripts — previously denied to exist — of President [[joe-biden|Joe Biden]]'s conversations with a biographer that played a role in Hur's completed criminal investigation into Biden's handling of classified material before he took office.[16] Following Hur's February report describing Biden as "a well-meaning, elderly man with a poor memory," the department was swamped with Freedom of Information Act requests and lawsuits from news outlets and conservative groups seeking records from the probe, many aimed at reinforcing doubts about Biden's mental acuity and fitness.[16] The department resisted releasing audio of the interviews, citing privacy, the risk of deepfakes and a chilling effect on future witnesses, while Biden asserted executive privilege over the recordings amid the effort to hold Attorney General [[merrick-garland|Merrick Garland]] in contempt of Congress.[16]
+
+## Executive privilege over the interview recordings, May 2024
+
+In May 2024 President [[joe-biden|Joe Biden]] invoked executive privilege to block House Republicans from obtaining the audio recordings of his interviews with special counsel Robert Hur concerning his handling of classified documents.[18] The recordings had been subpoenaed by the House Judiciary and Oversight committees, and the privilege claim was announced hours before Republicans convened to consider holding Attorney General [[merrick-garland|Merrick Garland]] in contempt of Congress for withholding them.[18]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -92,3 +112,13 @@ Hur's February 2024 report became a central citation in [[donald-trump|Donald Tr
 11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 12. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 13. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
+14. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+15. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
+16. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Assumption of the Biden documents investigation (February 2023)
+
+Badlands contributor [[just-human|Just Human]] noted that Hur officially took over the [[biden-classified-documents-scandal|classified documents investigation]] and began his work on February 1, 2023, the same day the [[fbi|FBI]] searched President [[joe-biden|Joe Biden]]'s Rehoboth Beach vacation home, and suggested this might soon produce a shift in how such searches were conducted — potentially away from consent searches and toward warrants.[17]
+
+17. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
+18. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

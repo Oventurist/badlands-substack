@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -115,6 +115,14 @@ In April 2023, Carlson hosted [[donald-trump|Donald Trump]] on [[fox-news|Fox Ne
 
 Fox News reported on March 20, 2023 that law enforcement officials had met behind closed doors to discuss the logistics of arraigning [[donald-trump|Donald Trump]] following a possible indictment in the [[trump-hush-money-case|hush-money case]], citing a law enforcement source on street closures, barriers and extra police, on the expectation that no arraignment would occur before the following week, and on the rejection of a virtual option.[20] The outlet also reported that law enforcement was concerned about safety and that Trump had called on supporters to protest.[20]
 
+## Lawsuit against Los Angeles County (January 2025)
+
+In late January 2025, Fox News filed a public records lawsuit against Los Angeles County seeking documents about the county's dealings with the voting technology company [[smartmatic|Smartmatic]], days after a New York appeals court declined to dismiss Smartmatic's $2.7 billion defamation action against the network over coverage of alleged 2020 election rigging.[24] The network alleged corruption in the contracting process and said it had already uncovered evidence of undisclosed personal benefits flowing from Smartmatic to a county official.[24] See [[fox-news-lawsuit-against-los-angeles-county|the lawsuit]].[24]
+
+## 2023 leadership change at the parent companies
+
+The September 2023 announcement that Rupert Murdoch would relinquish the chairmanships of Fox Corp. and News Corp. drew attention to Fox News specifically, since Murdoch's continued influence over the network had been documented during the Dominion Voting Systems litigation, in which he conceded that some anchors had repeated false election claims.[25] Badlands contributor Paul Fleuret noted that Fox News had called the 2020 election early for Joe Biden, subsequently refuted fraud allegations, and released Tucker Carlson — then the highest-rated anchor in news — amid the Dominion settlement, arguing that any shift at the top of the corporate structure merited close attention.[25]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
@@ -137,3 +145,17 @@ Fox News reported on March 20, 2023 that law enforcement officials had met behin
 19. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
 20. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 21. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## Cease-and-desist over "Tucker on Twitter"
+
+Roughly two weeks before 20 June 2023, Fox News sent [[tucker-carlson|Tucker Carlson]] a cease-and-desist letter over his new independent program "Tucker on Twitter."[22] Badlands writer [[ashe-in-america|Ashe in America]] argued the network's move became explicable after five episodes in which Carlson made clear he intended to speak plainly rather than repeat state propaganda, notably in the episode attacking the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]].[22]
+
+22. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+
+## Hunter Biden defamation threat (February 2023)
+
+In February 2023, [[hunter-biden|Hunter Biden]]'s lawyers threatened Fox News and host [[tucker-carlson|Tucker Carlson]] with a defamation suit over allegedly uncorrected false statements concerning material purported to be drawn from Hunter Biden's [[hunter-biden-laptop|laptop]], part of a broader legal counteroffensive that also targeted state and federal agencies.[23]
+
+23. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
+24. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
+25. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

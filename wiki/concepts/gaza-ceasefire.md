@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, israel, hamas, diplomacy]
-sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-eff.md]
 confidence: medium
 ---
 
@@ -90,6 +90,12 @@ In April 2024 [[saudi-arabia|Saudi Arabia]] issued a renewed call for an immedia
 
 Without directly mentioning the Iranian attack on Israel that weekend, bin Farhan said the region was already unstable and that the humanitarian catastrophe in Gaza was inflaming it further, concluding that "we do not need more conflict in our region, we do not need more confrontation in our region, so it is our position that the de-escalation must be everybody's priority."[12] Badlands commentary described him as the most important diplomat in the world at that moment, tying his ceasefire diplomacy to a longer Saudi project of regional stabilization and development.[12]
 
+## Netanyahu's warning and the coalition rupture, January 2025
+
+Hours before the ceasefire was due to take effect at 08:30 local time on Sunday, January 19, 2025, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] said in a televised address that Israel was ready to resume the war against [[hamas|Hamas]] if talks on a second phase failed, stressing that the ceasefire was "temporary" and that Israel reserved the right to resume strikes in Gaza with the backing of President-elect [[donald-trump|Donald Trump]].[14] He cited the killing of [[yahya-sinwar|Yahya Sinwar]] among the campaign's achievements, declaring "We changed the face of the Middle East" and that Hamas was "completely alone."[14]
+
+The agreement fractured Netanyahu's coalition: [[itamar-ben-gvir|Itamar Ben Gvir]]'s [[otzma-yehudit|Otzma Yehudit]] party quit that morning, denouncing the deal as a "victory for terrorism," with its three cabinet ministers submitting resignation letters.[14] Badlands commentary held that the episode revealed that previous hostage deals had been blocked by hardliners inside the Israeli government rather than by Hamas, and predicted that Phase 2 would not transpire because a further exit by [[bezalel-smotrich|Bezalel Smotrich]]'s [[religious-zionism-party|Religious Zionism]] party would collapse the government and expose Netanyahu to pending corruption charges.[14]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -111,3 +117,4 @@ In February 2025 a senior [[hamas|Hamas]] official warned that the fragile cease
 Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] subsequently altered the terms of the deal, demanding that Hamas leadership leave Gaza forever; Badlands commentary argued that the timing, in the midst of Phase Two and just after a hostage release, endangered the arrangement President [[donald-trump|Donald Trump]] had brokered to stave off a wider war.[13]
 
 13. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+14. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff

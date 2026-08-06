@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, corruption, zelensky, badlands-brief]
-sources: [raw/badlands-brief-a89.md, raw/badlands-brief-d94.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-a89.md, raw/badlands-brief-d94.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ Badlands commentary asked who was now leading the Ukrainian side, describing Yer
 
 Yermak, head of the Office of the President from 2020, stepped down in late 2025 over alleged links to a recently uncovered $100 million money-laundering scheme, formally leaving his post after Western-backed anti-corruption agencies raided his residence as part of the sweeping probe known as Operation Midas; he denied any wrongdoing.[6] His former colleague Yuliya Mendel, Vladimir Zelensky's ex-spokeswoman, said she feared for her life because of him, described him as 'a very dangerous person,' and suggested he retained influence through a network of loyal officials and would 'do absolutely everything' to keep shaping policy behind the scenes or return to power.[6] She further alleged he used smear campaigns, political attacks, and influence over law enforcement to brand critics 'pro-Russian' or 'traitors,' claiming that 'criminal cases are created out of thin air' against perceived threats.[6]
 
+## Calls for dismissal amid the Energoatom scandal (2025)
+
+In November 2025 there were calls for President [[volodymyr-zelensky|Volodymyr Zelensky]] to fire his chief of staff, Yermak, who was alleged to be tied to the graft scandal that had already claimed Justice Minister [[german-galushchenko|German Galushchenko]] — a "$100 million kickback scheme" linked to [[energoatom|Energoatom]] and procurement filed for the Russia-held [[zaporozhye-nuclear-power-plant|Zaporozhye Nuclear Power Plant]].[7]
+
 ## References
 1. Badlands Brief — "Trump's DOJ Gets Busy as the Boss Jets to Beijing", URL: https://badlands.substack.com/p/badlands-brief-a89
 2. Badlands Brief — "Vagina's Mom Just Can't Get Paid", URL: https://badlands.substack.com/p/badlands-brief-d94
@@ -63,3 +67,4 @@ Yermak, head of the Office of the President from 2020, stepped down in late 2025
 4. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
 5. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+7. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

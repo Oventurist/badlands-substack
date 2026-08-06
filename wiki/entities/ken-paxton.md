@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, attorney-general, investigation, media-matters]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-adc.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -74,6 +74,20 @@ Paxton said that "the technology in modern vehicles enables manufacturers to col
 
 [[ashe-in-america|Ashe in America]] praised the action, arguing that [[data-freedom|data freedom]] is the civil rights issue of the era and that too few officials with statutory authority are willing to fight for it, ostensibly because they benefit from data harvesting; she credited Paxton with being one of the exceptions.[13]
 
+## Antitrust suit against asset managers advances
+
+Paxton scored a significant procedural win in 2025 when a federal district court denied BlackRock, State Street and Vanguard's motion to dismiss his lawsuit accusing them of conspiring to manipulate U.S. energy markets by restricting coal production for environmental goals.[14] The case proceeded under Texas and federal antitrust law plus some state consumer protection statutes, though Louisiana and Nebraska consumer protection claims were dismissed.[14]
+
+## Lawsuit against Eli Lilly (2025)
+
+On August 12, 2025, Paxton sued the drugmaker [[eli-lilly|Eli Lilly]], alleging it bribed and illegally induced medical providers to prescribe its most profitable medications, including the GLP-1 drugs Mounjaro and Zepbound used for weight loss and diabetes treatment.[15] "Big Pharma compromised medical decision-making by engaging in an illegal kickback scheme," Paxton said, with his office describing the case as an extension of prior actions holding drug manufacturers accountable for fraud and abuse.[15] Badlands host Ashe in America described Paxton as unusually litigious and framed the suit as evidence that much of the change needed to bring about a golden age must occur at the state level, predicting the case could set precedents well beyond Texas if it reached discovery.[15]
+
+## Houston illegal abortion arrests (2025)
+
+On Wednesday, October 8, 2025, Paxton announced the arrests of eight people accused of operating illegal abortion clinics in the Houston area, connected to [[maria-margarita-rojas|Maria Margarita Rojas]], a 49-year-old midwife previously indicted on 15 felony counts including the unlawful killing of unborn babies and practicing medicine without a license.[16] Half of those arrested were reported to be foreign nationals, and prosecutors said they had been working under Rojas providing unauthorized medical services without proper licensing.[16]
+
+Paxton said the individuals "endangered the very people they pretended to help" by operating outside the law, adding: "In Texas, life is sacred. I will always do everything in my power to protect the unborn, defend our state's pro-life laws, and work to ensure that unlicensed individuals endangering the lives of women by performing illegal abortions are fully prosecuted."[16] The arrests followed the closure of a major [[planned-parenthood|Planned Parenthood]] facility in Houston, once among the largest abortion clinics in the country.[16]
+
 ## References
 
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
@@ -89,3 +103,6 @@ Paxton said that "the technology in modern vehicles enables manufacturers to col
 11. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43
 12. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 13. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+14. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+15. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+16. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

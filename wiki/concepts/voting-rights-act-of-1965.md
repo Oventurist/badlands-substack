@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, elections, civil-rights, voting]
-sources: [raw/always-fight-back.md, raw/badlands-brief-6bf.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4cf.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-6bf.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ At oral argument on October 15, 2025 in the [[louisiana-v-callais|Louisiana redi
 
 [[naacp|NAACP]] attorney [[janai-nelson|Janai Nelson]] argued that the [[trump-administration|Trump administration]]'s position "would swallow Section 2 whole" and that adopting it would be "a staggering reversal of precedent that would throw maps across the country into chaos."[4] Badlands contributor Ashe in America wrote that the Act has been effectively gutted over the years, leaving only Section 2 (redistricting) and Section 11 (suppression and intimidation) as meaningful legal paths for remedy under the statute, and argued that the effort to preserve the Act despite the mootness of its founding conditions has produced "unintelligible civil rights laws."[4]
 
+## 2025 constitutional challenge
+
+The Supreme Court's 2025 order seeking new briefing in the Louisiana redistricting case raised the question of whether race-based congressional districts drawn to satisfy the Voting Rights Act are themselves constitutional.[5]
+
 ## References
 
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
 2. Badlands Brief — "SCOTUS: You Can Be Neither Racist Nor Unilaterally Murdery", URL: https://badlands.substack.com/p/badlands-brief-6bf
 3. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 4. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
+5. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

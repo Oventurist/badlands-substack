@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, elections, 2020-election, declassification]
-sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md]
+sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -40,7 +40,13 @@ In May 2025, Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] f
 
 The dismissals came shortly after the council published a report suggesting that the [[nicolas-maduro|Maduro]] regime in [[venezuela|Venezuela]] plays no role in [[tren-de-aragua|Tren de Aragua]] gang members illegally immigrating to the United States.[3]
 
+## 2025 whistleblower disclosure
+
+The whistleblower whose testimony DNI Tulsi Gabbard declassified in 2025 served as a Deputy National Intelligence Officer at the National Intelligence Council from 2015 to 2020 and helped produce the Intelligence Community Assessment on cyber threats to the 2016 election.[4] He alleged he was pressured to change his findings to conform to the conclusion that Russia acted to help Donald Trump.[4]
+
 ## References
+
 1. Badlands Brief — "TACO Tuesday Reigns Supreme as the Age of Accountability Nears", URL: https://badlands.substack.com/p/badlands-brief-707
 2. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 3. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
+4. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [assassination-attempt, butler-pennsylvania, 2024-election, badlands-brief]
-sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-bcc.md]
+sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -22,7 +22,12 @@ The [[fbi|FBI]] identified Crooks early on the Sunday morning after the shooting
 
 Testifying before the [[house-judiciary-committee|House Judiciary Committee]] on July 24, 2024, [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] disclosed that Crooks flew a drone near the Butler rally site about two hours before opening fire and that the bureau believed he watched the device's streamed video to scout the area; the drone was recovered from his vehicle.[3] Investigators also recovered three "relatively crude" explosive devices — two in the vehicle and one at his residence — together with a transmitter that could have detonated them remotely, although the receivers on the bombs were turned off.[3] Eight spent cartridges were found on the roof from which he fired, killing one attendee and wounding [[donald-trump|Donald Trump]] and two others.[3] After what Wray called a "significant technical challenge," agents gained access to Crooks' phone and found he had been using encrypted messaging applications.[3] Wray further revealed that Crooks had run a Google search on "how far away Oswald was from Kennedy," calling the detail significant as to the shooter's state of mind.[3] Badlands commentary noted that Wray released no information about shell casings recovered from the counter-sniper positions.[3]
 
+## July 2024 congressional testimony
+
+Testimony at the July 30, 2024 Senate hearing left central questions about Crooks unresolved: FBI Deputy Director [[paul-abbate|Paul Abbate]] said the Bureau still did not know how Crooks had got a long gun onto the roof of a secured area under [[united-states-secret-service|Secret Service]] protection.[4] The hearing also surfaced the existence of a potential social media account owned by the shooter, and questions about exactly when the Secret Service first saw him on the roof.[4]
+
 ## References
 1. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
 2. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
 3. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+4. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

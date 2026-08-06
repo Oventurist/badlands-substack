@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [centcom, pentagon, israel, hezbollah, military]
-sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-99e.md]
+sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -53,6 +53,11 @@ The visit followed public Iranian threats to retaliate for an Israeli strike on 
 
 Following the December 8, 2024 [[centcom|U.S. Central Command]] airstrikes against more than 75 [[isis|ISIS]] targets in central [[syria|Syria]], Kurilla said: "There should be no doubt - we will not allow ISIS to reconstitute and take advantage of the current situation in Syria."[9] He warned that "all organizations in Syria should know that we will hold them accountable if they partner with or support ISIS in any way."[9]
 
+
+## August 2024 visit to Israel
+
+On Monday, August 5, 2024, the Israeli military confirmed that Kurilla, as head of [[centcom|U.S. Central Command]], was in [[israel|Israel]] to assess the security situation against the backdrop of a potential retaliatory attack from [[iran|Iran]].[11] His presence in Tel Aviv coincided with a Russian defence delegation led by [[sergei-shoigu|Sergei Shoigu]] holding talks in Tehran, a symmetry Badlands Media highlighted in arguing that the Ukrainian and Israeli wars had effectively merged into a single conflict between rival blocs.[11]
+
 ## References
 1. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
 2. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
@@ -62,3 +67,10 @@ Following the December 8, 2024 [[centcom|U.S. Central Command]] airstrikes again
 6. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 8. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
 9. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+
+## Syria airstrike commendation (February 2025)
+
+In a Truth Social post on Monday, February 17, 2025, President [[donald-trump|Donald Trump]] congratulated Kurilla by name for a weekend precision airstrike in Syria that killed a senior finance and logistics official of [[hurras-al-din|Hurras al-Din]], an [[al-qaeda|Al-Qaeda]] affiliate.[10] Trump wrote: "Congratulations to CENTCOM Commander Gen. Michael Kurilla, and the US warfighters who dealt Justice to another Jihadi threatening America and our allies and partners."[10] Badlands commentary treated the strike, carried out by [[centcom|CENTCOM]] under Kurilla's command, as part of a broader pattern of post-Assad operations against jihadist networks in Syria.[10]
+
+10. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+11. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

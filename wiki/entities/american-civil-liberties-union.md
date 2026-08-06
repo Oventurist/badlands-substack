@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, litigation, immigration, civil-rights]
-sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-a04.md]
+sources: [raw/badlands-news-brief-065.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-da3.md]
 confidence: medium
 ---
 
@@ -31,8 +31,13 @@ Badlands commentator [[ashe-in-america|Ashe in America]] argued that the ACLU ha
 Commenting on [[immigration-and-customs-enforcement|ICE]]'s announcement that it had arrested 214 migrants charged with or convicted of child sex offenses in the Houston area over six months, Badlands contributor [[ashe-in-america|Ashe in America]] identified the ACLU as "the coordinating entity" behind the immigration-related legal challenges to the [[trump-administration|Trump administration]]'s removal operations.[3] The commentary framed those challenges as obstructing the deportation of convicted child sex offenders.[3]
 
 
+## Duane Owen execution statement (June 2023)
+
+In June 2023 the ACLU drew widespread mockery and scorn after complaining that Florida had executed [[duane-owen|Duane Owen]] — convicted of raping and murdering two people, including 14-year-old babysitter Karen Slattery — without first providing him a sex change operation.[4] The organization stated that Florida "never provided medically necessary gender affirming care to Duane Owen—causing her enormous suffering and violating her right to be free from cruel and unusual punishment for the 30 years in state custody."[4] Badlands contributor [[ryan-delarme|Ryan DeLarme]] noted that Owen had never presented as female and argued the argument was either a legal Hail Mary exploiting the cultural leverage of transgender issues or a bid for publicity.[4] DeLarme situated the ACLU within a network of interlocking tax-exempt foundations and charities that he said exert hidden influence over the modern Democratic Party, comparing it to the Southern Poverty Law Center, and cited [[george-soros|George Soros]]'s $50 million grant in 2014 backing the ACLU's campaign to reduce incarceration rates as an example with observable consequences.[4]
+
 ## References
 
 1. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 2. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 3. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+4. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3

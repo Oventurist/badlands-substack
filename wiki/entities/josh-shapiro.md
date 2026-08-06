@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pennsylvania, democrats, 2024-election, vice-presidential-shortlist]
-sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -30,8 +30,14 @@ On Tuesday, April 15, 2025, Shapiro unveiled a comprehensive budget proposal add
 
 In commentary on the September 2025 Dallas [[immigration-and-customs-enforcement|ICE]] facility shooting, Badlands contributor [[chris-paul|Chris Paul]] recalled that a year earlier the Pennsylvania governor — whom he called "the illegitimate governor of Pennsylvania" — had been photographed signing munitions, paired with a statement invoking Scranton workers making Pennsylvania "the arsenal of democracy" and standing with Ukraine against Russian aggression.[4] Paul compared the episode to [[israel-defense-forces|IDF]] soldiers signing ammunition, asking "Is signing ammo a thing? Who does this?"[4]
 
+
+## Speculation as Harris's running mate
+
+In early August 2024, Shapiro was among the figures widely reported to be under consideration as [[kamala-harris|Kamala Harris]]'s vice-presidential running mate, with an announcement expected on Monday, August 5.[5] Harris was set to launch a tour of seven battleground states the following day, beginning in Philadelphia, a choice that did nothing to quell rumours that the Pennsylvania governor had been tapped.[5] According to two people with knowledge of the selection process who spoke to the Associated Press, Shapiro was one of six candidates interviewed over the weekend, the others being Kentucky Governor Andy Beshear, Illinois Governor J.B. Pritzker, Minnesota Governor Tim Walz, Arizona Senator Mark Kelly and Transportation Secretary Pete Buttigieg.[5]
+
 ## References
 1. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 2. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
 3. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
 4. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+5. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

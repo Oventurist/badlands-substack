@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, foreign-ministry, iran-war]
-sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e1e.md, raw/badlands-news-brief-e81.md]
 confidence: medium
 ---
 
@@ -65,6 +65,10 @@ In October 2024, Zakharova stated that Russia had proof of United States and Uni
 
 In late March 2024 Zakharova said the United States had backed itself into a corner by rushing to blame the [[islamic-state|Islamic State]] for the [[crocus-city-hall-attack|Crocus City Hall terror attack]] while the incident was still under way.[11] Speaking on Sputnik radio, she said the fact that "within the first 24 hours, even before the fire was put out, the Americans started screaming that it wasn't Ukraine" amounted to "a piece of incriminating evidence" in itself.[11] She said the speed with which Washington reached conclusions was astonishing, taking only a few hours "to get to a microphone, turn on the lights, summon the press and draw a conclusion about who is to blame."[11] Zakharova argued that naming ISIS prompted experts to recall what the group actually is, concluding: "You are behind all those ISIS-type structures, you — the United States, Great Britain — yourselves brought them into being."[11]
 
+## Reaction to the 2024 Trump election victory
+
+Following [[donald-trump|Donald Trump]]'s victory in the November 2024 US presidential election, Zakharova struck a notably warmer tone than Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]], telling the state broadcaster Rossia 24 that it was important Trump "started talking about how America is sick and that the problems of American society need to be addressed" during his victory speech.[13] Separately she wrote on Telegram, "Those who win are the ones who live with love for their own country, not with hatred toward others."[13] Taken together, the two officials' remarks were read as Moscow adopting a cautious wait-and-see approach to the incoming administration.[13]
+
 ## References
 1. Badlands Brief — "Blondie's Ouster, Peters Sentence, & Several Foreign Ops", URL: https://badlands.substack.com/p/badlands-brief-e3f
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
@@ -77,3 +81,22 @@ In late March 2024 Zakharova said the United States had backed itself into a cor
 9. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 10. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
 11. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+
+## Response to the Kirillov assassination (December 2024)
+
+On Tuesday, December 17, 2024, Zakharova criticised Ukraine's allies over what Moscow described as insufficient reactions to the assassination in Moscow of [[igor-kirillov|Igor Kirillov]], the Russian army's chemical weapons chief, in an attack claimed by Kyiv.[12] In a Telegram post the foreign ministry spokeswoman accused the West of "approval for war crimes by fighters of the Kyiv regime" and stated that "all those who welcome terrorist attacks or deliberately hush them up are accomplices."[12]
+
+12. Badlands News Brief - "Russia Responds as the Fake News Gets Even Faker", URL: https://badlands.substack.com/p/badlands-news-brief-d76
+13. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37
+
+## Criticism of the Bürgenstock summit (June 2024)
+
+Following the [[2024-swiss-peace-summit-on-ukraine|international Ukraine peace summit]] held at Bürgenstock, Switzerland, Zakharova led the Kremlin's campaign against the gathering, saying the Alpine "get-together" had produced zero results.[14] Although almost 100 countries were represented, she argued that the attempt to involve as many Global South countries as possible "has failed," and described the effort to stage a "universal event" while simultaneously discussing further weapons deliveries to Kyiv behind the scenes as an attempt to "camouflage" the West's continued aggressive intentions.[14] Decrying the Zelensky peace formula, she said "its authors in the United States and on Bankovaya Street are trying to portray it as the only foundation for a peace settlement."[14] Saudi Arabia, India, South Africa, Thailand, Indonesia, Mexico and the UAE declined to sign the summit's final communique, and Brazil, present as an observer, also did not sign.[14] Her remarks accompanied a statement by Russia's chief Vienna arms-control delegate [[konstantin-gavrilov|Konstantin Gavrilov]] that Moscow's next formal proposal would be a document of the Kyiv government's surrender.[14]
+
+14. Badlands Brief — "Badlands News Brief: Devo Takes, Cheap Fakes & Sovereign Alliance Dates", URL: https://badlands.substack.com/p/badlands-news-brief-e1e
+
+## Settler attack on Russian diplomats in the West Bank (August 2025)
+
+On Tuesday, August 5, 2025, Zakharova disclosed that a Russian diplomatic vehicle had been attacked the previous week by Israeli settlers in the occupied West Bank, causing mechanical damage, and said Russia considered the incident a violation of the [[vienna-convention-on-diplomatic-relations|Vienna Convention on Diplomatic Relations]].[15] She said the attack occurred on July 30 near the illegal Israeli settlement of Giv'at Asaf, east of Ramallah and about 20 kilometres north of Jerusalem, and that the settlers shouted threats at the diplomats.[15] Zakharova called the [[israel-defense-forces|Israeli military]]'s failure to intervene "particularly puzzling," stating that "the Israeli Defense Force soldiers didn't even bother to try and stop the attackers' aggressive actions."[15] The vehicle carried members of Russia's diplomatic mission to the Palestinian Authority, who are also accredited with the [[israeli-ministry-of-foreign-affairs|Israeli Foreign Ministry]].[15] See [[givat-asaf-settler-attack-on-russian-diplomats|the Givat Asaf incident]].[15]
+
+15. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, transparency, epstein, doj, congress]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-314.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-314.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -53,10 +53,14 @@ Badlands contributor [[chris-paul|Chris Paul]] argued that the House has no cons
 
 [[jon-herold|Jon Herold]] highlighted a widely shared post noting that after thirteen years Rep. [[thomas-massie|Thomas Massie]] had finally passed his first bill in Congress — one that critics said would unmask thousands of child abuse victims and release abuse material to the public.[5] Herold dismissed "fake Epstein declas" as a red herring rather than transparency, proposing instead that real transparency would mean making every vote in every election open to the public and publishing a list of any American who has received foreign money and how much.[5] He added that the silliest part of the drama was Trump urging Republicans to vote for a bill forcing the DOJ — part of the executive branch — to release the files when Trump could simply order the release himself: "He wants the gong show."[5]
 
+## Signature and redaction controversy (November 2025)
+
+The Epstein Files Transparency Act cleared both the House and the Senate on Tuesday, November 18, 2025, and was signed by President [[donald-trump|Donald Trump]] the following day, ordering the [[department-of-justice|Justice Department]] to release documents from its long-running investigation into [[jeffrey-epstein|Jeffrey Epstein]].[6] The law requires Attorney General [[pam-bondi|Pam Bondi]] to release all files, including internal communications and investigative materials, relating to Epstein and his co-conspirator [[ghislaine-maxwell|Ghislaine Maxwell]] within 30 days of enactment.[6] A provision permitting redaction of records in specific instances — including material that "would jeopardize an active federal investigation or ongoing prosecution" — drew immediate scrutiny as a potential loophole allowing the attorney general to withhold details.[6]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
 3. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
 4. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 5. Badlands Brief — "Bilateral Bromance, Private Peace Deals & Imminent Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-c78
-
+6. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

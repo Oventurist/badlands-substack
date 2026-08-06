@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [social-media, meta-platforms, twitter, information-war]
-sources: [raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c5c.md]
+sources: [raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-f54.md]
 confidence: medium
 ---
 
@@ -34,7 +34,16 @@ Within roughly a week of the launch, tracking firms reported a sharp reversal. D
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued the failure was predictable: [[twitter|Twitter]] was already synonymous with the format and had better infrastructure, and Threads' selling point — a speech platform with less functionality and less speech — was antithetical even to mainstream consumers.[3] [[justin-deschamps|Justin Deschamps]] described Threads as "the Meta replacement for Twitter" and "a total flop," reading its collapse as part of a wider loss of globalist leverage over mass media following Musk's purchase of Twitter.[3]
 
+## Launch and first-day growth (July 2023)
+
+Meta claimed that more than 10 million people had signed up for Threads within hours of its launch, with CEO [[mark-zuckerberg|Mark Zuckerberg]] framing the service as a "friendly" alternative to [[twitter|Twitter]].[4] Zuckerberg's first post on the app read, "Let's do this. Welcome to Threads," and he described it as a "text-based conversation app" allowing posts of up to 500 characters together with links, photos and videos.[4] Threads was directly linked to Meta-owned [[instagram|Instagram]], which had over 2 billion users, and was rolled out in more than 100 countries for iOS and Android.[4] Zuckerberg wrote that "the goal is to keep it friendly as it expands," casting the service as a more wholesome substitute for Twitter and saying that Twitter's failure to "keep it friendly" was "one reason why Twitter never succeeded as much as I think it should have."[4]
+
+## Data collection and censorship concerns
+
+Data privacy and censorship concerns emerged immediately, with former Twitter owner [[jack-dorsey|Jack Dorsey]] highlighting the vast amount of user data collected by the app.[4] Reporting also noted early moderation actions on the platform.[4] Writing for [[badlands-media|Badlands Media]], [[justin-deschamps|Justin Deschamps]] used the launch to argue that big tech had "hijacked free speech under the guise of stopping hate speech, slowing misinformation, and other dubious justifications," and that [[meta-platforms|Meta]] and comparable companies act as agents for globalist interests by using private platforms to abrogate freedom of speech.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 2. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
 3. Badlands Brief — "Badlands News Brief: Hollywood Crumbles While the Uniparty Is Exposed", URL: https://badlands.substack.com/p/badlands-news-brief-c5c
+4. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [classified-records, joe-biden, national-archives, special-counsel]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -51,6 +51,17 @@ In mid-November 2023, multiple reports citing sources familiar with the matter i
 
 The investigation, begun in January 2023 after Hur's appointment by Attorney General [[merrick-garland|Merrick Garland]], had spanned nearly a year and involved interviews with roughly 100 Biden aides, including [[hunter-biden|Hunter Biden]], who separately faced federal gun charges; the president himself was interviewed the previous month.[6] [[white-house|White House]] Counsel's Office spokesperson [[ian-sams|Ian Sams]] confirmed the president's interview in a statement.[6] ZeroHedge noted that Hunter Biden had listed Joe Biden's Wilmington, Delaware home — where classified documents were found — as his address when receiving $260,000 in Chinese wire transfers tied to the family's dealings with CCP-linked businessmen.[6]
 
+## Penn Biden Center and Wilmington searches
+
+Reporting at the end of January 2023 established that the [[fbi|FBI]] had searched the [[penn-biden-center|Penn Biden Center]] in mid-November 2022, after lawyers for [[joe-biden|Joe Biden]] found roughly ten documents marked classified there on November 2.[7] The search proceeded with the cooperation of Biden's representatives and without a warrant, and it was unclear whether it produced additional classified or presidential material.[7] In total, federal authorities recovered between 25 and 30 documents marked classified from the office space and Biden's Wilmington home, spanning his vice presidential and Senate years, with some Penn Biden Center documents labeled top secret.[7] The parameters of the January 20 Wilmington search were agreed in writing between Biden's lawyers and [[justice-department|Justice Department]] officials, so no warrant was sought and the FBI received full access to the residence.[7]
+
+Badlands contributor [[just-human|Just Human]] argued that the extended, multi-hour searches destroyed the narrative that Biden's lawyers had simply discovered and voluntarily surrendered the documents while moving offices, contending instead that the team was responding to subpoenas or targeted requests and had opened the door to the FBI specifically to forestall a search warrant.[7]
+
+
+## January 18, 2023 press briefing
+
+On January 18, 2023, reporters bombarded White House press secretary [[karine-jean-pierre|Karine Jean-Pierre]] with questions about the classified documents stored in President Biden's garage.[9] NBC's Peter Alexander pressed her on why the [[white-house|White House]] could not discuss the facts underlying the special counsel investigation given that the Justice Department had not barred it from doing so, and accused the administration of withholding information; Jean-Pierre said "we've been clear" and referred him to the White House counsel's office.[9]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
@@ -59,3 +70,13 @@ The investigation, begun in January 2023 after Hur's appointment by Attorney Gen
 4. Badlands News Brief — "COVID Coverups, Globalist Schemes and Epstein's Shadow", URL: https://badlands.substack.com/p/badlands-news-brief-580
 5. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 6. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
+7. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+
+## Rehoboth Beach search (February 1, 2023)
+
+Federal investigators searched President [[joe-biden|Joe Biden]]'s vacation home in Rehoboth Beach, Delaware, on Wednesday, February 1, 2023, as part of the ongoing probe into his handling of classified documents.[8] Biden's personal lawyer [[bob-bauer|Bob Bauer]] said the president's team had not sought to provide advance notice of the operation, confirming the [[department-of-justice|Department of Justice]] search after CBS News reported it and television crews stationed outside observed black vehicles arriving mid-morning.[8] Agents searched the property from 8:30 a.m. to noon.[8] "No documents with classified markings were found," Bauer said, though as with the earlier search of Biden's other Delaware home, the department took some materials and handwritten notes appearing to relate to his time as vice president for further review.[8]
+
+Badlands contributor [[just-human|Just Human]] observed that the [[fbi|FBI]] had by then searched the [[penn-biden-center|Penn Biden Center]], Biden's Wilmington home and the Rehoboth Beach vacation home, and that the Bidens were granting access voluntarily so that no search warrant was required — helping avoid the label of a "raid."[8] He predicted a warrant would eventually be needed, perhaps for [[james-biden|James]], perhaps for [[hunter-biden|Hunter]], perhaps for Joe Biden himself once he moved to block deeper FBI inquiry into the family, and noted that Special Counsel [[robert-hur|Robert Hur]] had officially taken over the investigation and begun work that day, suggesting a possible shift in how the searches would be conducted.[8]
+
+8. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
+9. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, nuclear, foreign-ministry]
-sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-b9e.md]
+sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-dc1.md]
 confidence: medium
 ---
 
@@ -38,3 +38,8 @@ Badlands commentary paired the warning with an assessment that Israel's routes o
 1. Badlands Brief — "Badlands News Brief: Playing the Opposite Game with Deep State Propaganda", URL: https://badlands.substack.com/p/badlands-news-brief-1ae
 2. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
 3. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e
+
+## Warning over strikes on Iran (April 2025)
+
+Speaking to the International Affairs journal at the start of April 2025, Russian Deputy Foreign Minister Ryabkov warned that any US military attack on [[iran|Iran]]'s nuclear facilities would have "catastrophic" consequences, after President [[donald-trump|Donald Trump]] threatened to bomb the country unless it reached an agreement with Washington over its nuclear activities.[4] "Threats are indeed being heard, ultimatums are also being heard," Ryabkov said. "We consider such methods inappropriate, we condemn them, we consider them a way for (the US) to impose its own will on the Iranian side."[4] Despite the tensions, Moscow refrained from directly criticising the US president and left its diplomatic overtures intact.[4] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the exchange as a staged tête-à-tête between [[vladimir-putin|Vladimir Putin]] and Trump designed to bait Washington's warmongers into exposing themselves, and predicted no war with Iran given the risk of drawing in Russia, China, India and the Global South.[4]
+4. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1

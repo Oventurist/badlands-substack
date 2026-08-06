@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [warfare, narrative-warfare, badlands-media, info-war]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d1d.md]
 confidence: high
 ---
 
@@ -30,6 +30,10 @@ Esler applied the framework to kinetic-network attacks on critical infrastructur
 
 In April 2023, Badlands writer [[burning-bright|Burning Bright]] invoked Fifth-Generation Warfare in analysing the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], writing that he did not know whether [[emmanuel-macron|Emmanuel Macron]] was acting "via direct control, leverage or the machinations of Fifth-Gen Warfare and Game Theory," but that the outcome showed "what control looks like in the war between the forces of Globalism and Sovereignty" — where "friends become enemies, enemies become friends," and enemies are sometimes forced to work against their own self-interest.[6] Commenting separately on the [[disney-v-desantis|DeSantis–Disney dispute]], he described the conflict as a "War of Stories," a framing he said many in the community had adopted as their understanding of 5GW evolved over time.[6]
 
+## Trump's Iran narrative as layered traps (June 2025)
+
+Commenting on the preliminary U.S. report that the June 2025 strikes had set [[iran|Iran]]'s nuclear program back by only a few months, [[burning-bright|Burning Bright]] wrote that "[[donald-trump|Trump]]'s narrative deployments are layered traps in a fifth-generation war meant to cultivate the mass public mandate for peace," and that achieving this required exposing those who wanted the opposite.[7] [[chris-paul|Chris Paul]] made the complementary claim that "the fake kinetic war is the fully-visible cover story for the very real information war."[7]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -38,3 +42,4 @@ In April 2023, Badlands writer [[burning-bright|Burning Bright]] invoked Fifth-G
 4. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 5. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 6. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+7. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

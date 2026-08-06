@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [al-qaeda, terrorism, afghanistan, libya, qatar]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-7a5.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -42,6 +42,14 @@ Badlands commentary published after the December 2024 [[fall-of-the-assad-regime
 
 The author, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], contrasted this with the official 9/11 narrative under which Al Qaeda operatives hijacked the aircraft, noting that this account underpins a US military presence in the Middle East more than twenty-three years later, and that a podcast guest who enlisted in the Marines two days after the attacks confirmed Al Qaeda was the enemy fought in Iraq.[5] He drew attention to [[kash-patel|Kash Patel]]'s promise to release the 9/11 files and argued that the combination of these facts with [[benjamin-netanyahu|Benjamin Netanyahu]] openly thanking Al Qaeda-linked fighters for toppling [[bashar-al-assad|Bashar al-Assad]] would prove ruinous for the Republican Party and establishment conservative media.[5] He further noted reporting by [[times-of-israel|Times of Israel]] and Washington-based policy institutes suggesting that Al Qaeda-descended factions in Syria had adopted diversity rhetoric as a rallying cry.[5]
 
+## Alleged Ukrainian cooperation in Syria (2024)
+
+In November 2024, the Syrian government told RT that Ukrainian agents had been [[alleged-ukrainian-cooperation-with-jihadists-in-syria|working with Al-Qaeda in Syria]], providing drone warfare training and some U.S.-supplied weapons in exchange for manpower.[6] The claim centered on Jabhat al-Nusra, since rebranded as [[hayat-tahrir-al-sham|Hayat Tahrir al-Sham]], and included footage said to show a U.S.-made Switchblade 600 drone delivered to militants in crates labeled humanitarian aid.[6] Badlands Media asked whether Americans were prepared to learn that Al-Qaeda and ISIS had functioned as U.S. mercenaries all along.[6]
+
+## Badlands account of its founding
+
+Badlands' July 2024 commentary asserted that both Al Qaeda and [[isis|ISIS]] are creations of the [[central-intelligence-agency|CIA]].[7] It traced Al Qaeda to [[operation-cyclone|Operation Cyclone]], the 1979 plan by [[zbigniew-brzezinski|Zbigniew Brzezinski]] to arm the Afghan mujahideen, under which [[osama-bin-laden|Osama bin Laden]] was recruited and equipped, and held that when bin Laden formed the group in 1988 he named it after the CIA base at which its fighters had trained.[7] The same commentary noted that [[benjamin-netanyahu|Benjamin Netanyahu]]'s 2002 congressional testimony claiming Al Qaeda used Iraq as a base was false — [[saddam-hussein|Saddam Hussein]] had in fact kept the group out — and that Iraq became a haven for Al Qaeda and ISIS only after U.S. forces took Baghdad on April 9, 2003.[7]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -49,3 +57,5 @@ The author, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], contrasted th
 4. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 
 5. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
+6. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+7. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

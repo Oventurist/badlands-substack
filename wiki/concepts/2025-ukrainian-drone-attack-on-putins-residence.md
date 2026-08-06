@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, drones, novgorod, vladimir-putin, donald-trump, negotiations]
-sources: [raw/badlands-news-brief-752.md]
+sources: [raw/badlands-news-brief-752.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ The exchange between the two presidents was separately confirmed by Kremlin fore
 
 Writing in the [[badlands-media|Badlands]] News Brief, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that, assuming the reported narrative was accurate, the episode marked the point at which Putin would "let loose the dogs of war" on the Kiev government and possibly its foreign backers, calling it "pathetic" that the war had been allowed to continue as long as it had.[1] He added that the world despises the American political class nearly as much as Americans do, and lamented that too many citizens remained "caught up in the fake television drama that is the US [[congress|Congress]]."[1]
 
+## False-flag interpretation
+
+Former CIA analyst [[larry-johnson|Larry Johnson]] told RT that the Ukrainian drone attack on [[vladimir-putin|Vladimir Putin]]'s state residence in Novgorod Region may have been staged by elements of the government in Kiev to undermine [[volodymyr-zelensky|Vladimir Zelensky]].[2] Moscow said the attempt occurred overnight from Sunday to Monday, coinciding with Zelensky's visit to the United States to negotiate with President [[donald-trump|Donald Trump]] — timing Johnson called suspicious.[2] "I don't think he is that stupid to launch that kind of attack while meeting with Trump," he argued, saying he would not be surprised if Ukrainian intelligence personnel, possibly acting on orders from [[kyrylo-budanov|Kirill Budanov]] of the military espionage agency HUR, were involved.[2]
+
+Badlands commentary aligned the reading with [[burning-bright|Burning Bright]]'s #OurBoyZ theory, arguing that Zelensky is a figurehead rather than the decision-maker in Kiev — whether real authority rests with Budanov or with the [[cia|CIA]] and MI6 — and framing the war as cover for laundering US taxpayer funds to paramilitary organizations positioned near resource-rich and chokepoint territory.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
+2. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

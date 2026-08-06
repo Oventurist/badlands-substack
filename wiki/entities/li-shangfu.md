@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, pla, defense-minister, sanctions, us-china-relations]
-sources: [raw/badlands-news-brief-319.md]
+sources: [raw/badlands-news-brief-319.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -25,3 +25,13 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that the episode
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Debt Deals, China Chiefs & Epstein's Banks", URL: https://badlands.substack.com/p/badlands-news-brief-319
+
+## Dismissal as defense minister (October 2023)
+
+On Tuesday, October 24, 2023, China announced that Li had been dismissed as defense minister after nearly two months out of public view.[2] Just four months earlier he had appeared at a regional security forum in Singapore as the face of Beijing's bold vision for reshaping Asia's balance of power, casting China as a force for stability and accusing the United States of stirring trouble in the region, with the suggestion that Washington should "mind your own business."[2]
+
+Li, appointed in March 2023, was the second senior Chinese official purged that year without explanation and under a cloud of suspicion, following the July dismissal of foreign minister [[qin-gang|Qin Gang]].[2] His removal also came after an abrupt August 2023 shake-up in the leadership of China's nuclear force, described as the highest-level upheaval in the Chinese military in recent years.[2] American officials had said the previous month that Chinese authorities placed Li under investigation over corruption, and the announcement left open whether he was being probed for any offenses.[2]
+
+[[burning-bright|Burning Bright]] argued that Western coverage of the firing — including [[new-york-times|New York Times]] framing about the "capriciousness of high-level politics in China under Xi Jinping" — reflected the assumptions of legacy media rather than the facts, and that the purges underway in China, Russia and Ukraine were not going the way those outlets would prefer.[2]
+
+2. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [watchdog, foia, litigation, clinton-administration]
-sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md]
+sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -89,3 +89,15 @@ In June 2025 Judicial Watch announced that the U.S. [[department-of-justice|Depa
 On July 8, 2025 the [[department-of-justice|Justice Department]] filed a statement of interest backing Judicial Watch in [[judicial-watch-v-illinois-state-board-of-elections|Judicial Watch v. Illinois State Board of Elections]], reinforcing that states must take "reasonable efforts" under the [[national-voter-registration-act|National Voter Registration Act]] to remove ineligible voters and maintain transparent rolls.[13] Assistant Attorney General [[harmeet-dhillon|Harmeet K. Dhillon]] said the Department would vigorously enforce those list maintenance requirements.[13] [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] urged that courts retain jurisdiction to enforce any settlement, citing the group's earlier Colorado NVRA settlement in JW v. Griswold.[13]
 
 13. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
+
+## Tafari Campbell records release (2023)
+
+In August 2023 Judicial Watch announced that it had obtained 18 pages of records from the Edgartown, Massachusetts, Police Department under the Massachusetts Public Records Law concerning the July 23, 2023 drowning of [[tafari-campbell|Tafari Campbell]], the personal chef of former president [[barack-obama|Barack Obama]].[14] The records showed that the [[united-states-secret-service|United States Secret Service]] had reported Campbell missing, that his body was located using sonar, that clothing was found separate from the body, and that he was not wearing a life vest, with several other details redacted.[14] [[ashe-in-america|Ashe in America]] observed that the first section of the released pages consisted of law-enforcement communications attempting noncompliance, and questioned why Judicial Watch had been forced to fight for records concerning a mysterious death on the property of a former president.[14]
+
+14. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+
+## FOIA lawsuit over FBI records on the Hunter Biden laptop (2025)
+
+In December 2025, Judicial Watch filed a Freedom of Information Act lawsuit against the [[department-of-justice|Justice Department]] seeking the release of all FBI investigative records tied to [[hunter-biden|Hunter Biden]]'s abandoned laptop, after the FBI failed to respond to a January 29, 2025 FOIA request.[15] The case was filed in U.S. District Court for the District of Columbia and seeks all FBI investigative reports, witness interview summaries, memoranda and related records concerning the [[hunter-biden-laptop|laptop]] investigation, along with all emails, text messages, Lync messages and other electronic communications connected to the case.[15] "The Justice Department's refusal to release these basic investigative records raises serious questions about transparency and potential interference in one of the most consequential political stories in recent history," Judicial Watch President [[tom-fitton|Tom Fitton]] said, pledging to fight in court for answers.[15]
+
+15. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

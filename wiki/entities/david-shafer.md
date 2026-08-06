@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, rico, 2020-election, alternate-electors, lawfare]
-sources: [raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md]
+sources: [raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ Badlands Media covered the Trump and Shafer motions hearing live, with [[ashe-in
 
 On Tuesday, February 13, 2024, Shafer — described as a former chairman of the Georgia Republican Party charged with racketeering in connection with efforts to help [[donald-trump|Donald Trump]] overturn the 2020 election — submitted additional court filings to the motion seeking to disqualify Fulton County District Attorney [[fani-willis|Fani Willis]] and her boyfriend, special prosecutor [[nathan-wade|Nathan Wade]], from prosecuting Trump and 18 co-defendants.[2] The filing accused Wade of lying in his divorce proceedings, presenting evidence that he had updated his answers to two interrogatories about sexual relations outside his marriage.[2] The documents showed Wade answered "none" to both questions on May 30, 2023, then changed his response the previous month — after allegations of an "improper relationship" with Willis emerged — to assert privilege under O.C.G.A. Sec. 24-5-505, a provision protecting parties from testimony that would incriminate or "bring infamy, disgrace, or public contempt upon" them or their family.[2] The underlying prosecution is covered at [[state-of-georgia-v-trump|State of Georgia v. Trump]].[2]
 
+## Appeal of the Willis disqualification ruling (May 2024)
+
+Shafer was among the defendants whose records Fulton County Superior Court sent to the Georgia Court of Appeals in May 2024 in the second round of the fight to disqualify District Attorney [[fani-willis|Fani Willis]] from the election interference case against [[donald-trump|Donald Trump]] and others.[3]
+
 ## References
 
 1. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 2. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
+3. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

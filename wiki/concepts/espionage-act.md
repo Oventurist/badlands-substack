@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, classified-documents, national-security, prosecution]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md]
 confidence: medium
 ---
 
@@ -34,3 +34,17 @@ DeLarme argued that while the statute was being deployed against Trump, what he 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 2. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 3. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+
+## Use against Trump in 2023
+
+Badlands commentary in June 2023 held that the [[department-of-justice|Justice Department]] charged [[donald-trump|Donald Trump]] under the Espionage Act in the [[2023-trump-classified-documents-indictment|classified documents case]] as a workaround, because the [[presidential-records-act|Presidential Records Act]] and the "Clinton sock drawer" precedent governed his retention and declassification of records and did not support a prosecution.[4] [[ashe-in-america|Ashe in America]] characterized the choice as "anything to get Trump, even blowing up long established precedents."[4]
+
+4. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+
+## Prosecutorial record cited by critics
+
+[[the-federalist|The Federalist]] published an account in June 2023 of what it described as the [[department-of-justice|Justice Department]] and Special Counsel [[jack-smith|Jack Smith]]'s "sordid history of weaponizing the Espionage Act," centered on the failed prosecution of former [[national-security-agency|NSA]] official [[thomas-drake|Thomas A. Drake]], whose 2011 case stemmed from a 2007 raid over classified documents and ended in an embarrassing government retreat.[5] The same report linked Smith's aggressive statutory theories to the 2014 conviction of Virginia Governor [[robert-mcdonnell|Robert McDonnell]], reversed unanimously by the [[supreme-court-of-the-united-states|Supreme Court]] in 2016 with Chief Justice [[john-roberts|John Roberts]] condemning the prosecution's "boundless" reading of the statute.[5]
+
+Senator [[tom-cotton|Tom Cotton]] argued that [[donald-trump|Donald Trump]] should not be prosecuted "on a stretch case or novel legal theories or an edge case," while [[ashe-in-america|Ashe in America]] wrote that the DOJ was doing exactly that — accusing a former president of violating the Espionage Act over a dispute about "documents with classified markings."[5] [[johnny-q|Johnny Q]] contended the statute was not fitting at all, since no espionage had occurred "other than the spying that occurred on a candidate and sitting president in 2016."[5]
+
+5. Badlands Brief — "Badlands News Brief: Trump's Trap, Putin's Play & Woke's Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ea0

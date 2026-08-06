@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, energy, corruption, biden-family]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ In September 2023 the New York Post published a December 2015 [[european-commiss
 
 Government memos obtained by [[just-the-news|Just the News]] and reported in August 2023 showed that, weeks before then–Vice President [[joe-biden|Joe Biden]] threatened to withhold a $1 billion U.S. loan guarantee, an Interagency Policy Committee task force of State, Treasury and Justice Department officials had concluded that "Ukraine has made sufficient progress on its reform agenda to justify a third guarantee," in an October 1, 2015 memo.[9] At the time Biden made the December 2015 threat to force the firing of Prosecutor General [[viktor-shokin|Viktor Shokin]], Shokin's office was conducting an increasingly aggressive corruption investigation into Burisma, an energy firm the [[state-department|State Department]] deemed to have engaged in bribery and which employed [[hunter-biden|Hunter Biden]] and paid him millions while his father was vice president.[9] Badlands commentary argued the memos showed Burisma was using Hunter Biden to pressure his father into removing Shokin, that senior U.S. officials knew it and escalated the warning to Ambassador [[marie-yovanovitch|Marie Yovanovitch]], and that the resulting record was suppressed through the first impeachment.[9]
 
+## Smirnov false-statement allegations
+
+Federal prosecutors alleged that former FBI informant [[alexander-smirnov|Alexander Smirnov]] falsely told agents that executives associated with Burisma — where [[hunter-biden|Hunter Biden]] had worked — had paid the Bidens $5 million each, and that a Burisma official said it would take investigators ten years to locate "illicit payments" to President [[joe-biden|Joe Biden]].[13] Smirnov was charged in February 2024 with making false statements and creating a false and fictitious record, pleaded not guilty, and was ordered held until an April 23, 2024 trial.[13]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 2. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
@@ -66,3 +70,28 @@ Government memos obtained by [[just-the-news|Just the News]] and reported in Aug
 7.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 8. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 9. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+
+## Cited in June 2023 plea coverage
+
+Coverage of the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] revisited [[hunter-biden|Hunter Biden]]'s appointment to Burisma's board, which followed immediately upon his discharge from the Navy for drug use during the Obama administration.[10] Reporters questioned the [[white-house|White House]] about the arrangement because his father, then Vice President, had been placed in charge of Ukraine policy; [[state-department|State Department]] officials complained of the conflict of interest but were told the Vice President was grieving for [[beau-biden|Beau Biden]], and the matter was never resolved.[10] [[tucker-carlson|Tucker Carlson]] cited an FBI source's claim of a $10 million payment from Burisma to Hunter and [[joe-biden|Joe Biden]].[10]
+
+10. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+
+## FD-1023 and alleged recordings
+
+In 2023 the [[fbi|FBI]] was accused of covering up a claim that Burisma's owner had kept secret recordings of his conversations with the Bidens as an "insurance policy," stonewalling Congress in the production of supporting documents.[11] Sen. [[chuck-grassley|Chuck Grassley]] said the associated FD-1023 also indicated that then-Vice President [[joe-biden|Joe Biden]] may have been involved in Burisma's employment of [[hunter-biden|Hunter Biden]].[11]
+
+11. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## The December 2015 pressure campaign as described in Archer's testimony
+
+In his July 31, 2023 transcribed interview with the [[house-committee-on-oversight-and-accountability|House Oversight and Accountability Committee]], [[devon-archer|Devon Archer]] testified that Burisma Holdings pressured [[hunter-biden|Hunter Biden]] in December 2015 to deal with the Ukrainian prosecutor then investigating the firm for corruption, shortly before then-Vice President [[joe-biden|Joe Biden]] moved to force that prosecutor's removal.[12] Archer said Hunter Biden had been placed on the board in 2014 because the family "brand" carried value at a time when the company faced corruption allegations from the United States, Great Britain and Ukraine's own prosecutor general's office, and that Burisma "would have gone under if not for 'the brand.'"[12] Committee chairman [[james-comer|James Comer]] released a statement confirming that Archer identified Joe Biden as the source of most of the brand's value.[12] Badlands commentary noted the company was paying Hunter Biden $83,000 per month and argued that the value purchased was favourable U.S. foreign policy toward the firm.[12]
+
+12. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5
+13. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+
+## Shokin's 2023 remarks
+
+In August 2023 [[viktor-shokin|Viktor Shokin]], the Ukrainian prosecutor fired while investigating Burisma, spoke publicly for the first time since 2019 and told Fox News it was his "firm personal conviction" that the Bidens had been bribed.[14] A 2020 U.S. Senate committee report confirmed that Shokin had an active and ongoing investigation into Burisma and its owner [[mykola-zlochevsky|Mykola Zlochevsky]], who hired [[hunter-biden|Hunter Biden]] to sit on the company's board and who granted Burisma permits to drill for oil and gas in Ukraine while he was serving as Minister of Ecology and Natural Resources.[14] Shokin stated in a 2019 deposition that there were five criminal cases against Zlochevsky, including money laundering, corruption, illegal funds transfers, and profiteering through shell corporations while a sitting minister.[14]
+
+14. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gaza, peacekeeping, military, ceasefire]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-740.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-582.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-740.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -39,3 +39,9 @@ The ISF is to operate under unified command acceptable to the [[board-of-peace|B
 2. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 3. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 4. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
+
+## Turkish participation dispute (December 2025)
+
+In December 2025, Turkish security sources cited in Turkish media said the Turkish military was ready to contribute troops to the ISF, stating that "the Americans also very much want us there, while Israel opposes it" and that Washington was pressuring [[israel|Israel]] to accept Turkish forces.[5] The sources described [[turkey|Turkey]] as a guarantor of the Israel-Hamas ceasefire and a signatory to the peace process that "must be there," saying all necessary units had been prepared and a modular unit would be formed immediately upon order.[5] They cited Turkey's role in coordinating the exchange of hostages for Palestinians detained in Israeli prisons as grounds for inclusion.[5] President [[donald-trump|Donald Trump]] stated in his [[2025-national-security-strategy|National Security Strategy]] that he wants Turkey in the ISF and in [[gaza|Gaza]], and summoned [[benjamin-netanyahu|Benjamin Netanyahu]] to Washington to discuss the next phase; Netanyahu maintained he would not allow Turkish troops to enter Gaza or Israel.[5]
+
+5. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

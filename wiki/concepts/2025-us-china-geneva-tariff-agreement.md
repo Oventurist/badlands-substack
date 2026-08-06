@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trade-war, tariffs, china, markets, scott-bessent]
-sources: [raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-news-brief-c14.md, raw/badlands-news-brief-e0f.md]
 confidence: medium
 ---
 
@@ -28,5 +28,12 @@ Asia-Pacific markets traded mixed the following Tuesday.[1] Analysts at the Japa
 
 [[badlands-media|Badlands]] commentary treated the Geneva talks skeptically, with [[chris-paul|Chris Paul]] questioning why anyone would "go to Geneva to talk to 'China'" and arguing the episode only makes sense if one recognizes that the adversary is not China but "the people in Geneva."[1] He noted the near-identical set of Trump-era outcomes in 2020 and 2025 — a trade deal with China, a deal with Xi to stop the fentanyl trade, and a plan for TikTok — as evidence the conflict was staged.[1] [[ashe-in-america|Ashe in America]] characterized the episode as the US and China "pausing their kayfabe trade war."[1]
 
+## Conclusion of the Geneva talks
+
+The United States and [[china|China]] ended their high-stakes trade talks on a positive note on Sunday, May 11, 2025, with US officials touting a "deal" to reduce the US trade deficit while Chinese officials said the two sides had reached "important consensus" and agreed to launch a new economic dialogue forum.[2] Neither side released details after wrapping up two days of talks in Switzerland; Chinese Vice Premier He Lifeng said a joint statement would be released in Geneva on Monday, and Vice Commerce Minister Li Chenggang said it would contain "good news for the world."[2] US Treasury Secretary [[scott-bessent|Scott Bessent]] and Trade Representative [[jamieson-greer|Jamieson Greer]] described "substantial progress" and likewise said details would be announced Monday.[2]
+
+Badlands contributor [[burning-bright|Burning Bright]] argued that the decoupling process playing out between the US and China was in fact a decoupling from the globalist trade system that had drained productive life out of the former while enslaving the latter, and that it had been foreseeable.[2] He wrote that [[donald-trump|Donald Trump]] and [[xi-jinping|Xi Jinping]] were not decoupling the US and China from each other but rather both nations from the globalist system, to the benefit of both, with the trade war allowing each to save face in the interim.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+2. Badlands Brief — "Badlands News Brief: Ceasefires, Cheap Drugs, & A Flying Palace", URL: https://badlands.substack.com/p/badlands-news-brief-e0f

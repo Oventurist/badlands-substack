@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [semiconductors, pentagon, chips-act, intel, national-security]
-sources: [raw/badlands-news-brief-4cb.md]
+sources: [raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-d68.md]
 confidence: medium
 ---
 
@@ -24,6 +24,12 @@ The Secure Enclave money would come on top of a possible $8.5 billion in grants 
 
 Badlands contributor [[burning-bright|Burning Bright]] treated the award as significant signal, arguing that news of impending U.S. semiconductor supremacy matters even when packaged with credit to the Biden administration — his contention being that the CHIPS Act is properly Trump's initiative and that the buildout is a major proof of the "Switch" theory discussed regularly on the Devolution Power Hour.[1] In this reading the building blocks of an American Restoration are being laid while the prevailing narrative insists the economy has never been worse for exactly the Americans the coming manufacturing boom is set to benefit, with the boom "turning on" around the advent of a second public Trump administration.[1] He described [[operation-warp-speed|Operation Warp Speed]] as bicameral: accelerating an enemy death spiral during the Biden term while kickstarting a new American age in its aftermath faster than expected.[1]
 
+
+## Funding diversion from the CHIPS Act (2024)
+
+Reporting in May 2024 revealed that appropriators in Congress had, in a March spending bill, shifted $3.5 billion that the Commerce Department intended for [[chips-and-science-act|CHIPS and Science Act]] grants into Secure Enclave, a [[pentagon|Pentagon]] program not mentioned in the original law.[2] The project, promoted by chipmaker [[intel|Intel]], was described as a secretive national-security effort, and the diversion of more than $3 billion was characterized as undermining a flagship initiative of the Biden administration.[2] Badlands commentary treated Department of Defense control over CHIPS money — with the administration reportedly unable to explain how it happened — as a signal consistent with [[devolution|Devolution]] and with continuity between the [[donald-trump|Trump]] and [[joe-biden|Biden]] eras on national industrial policy.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
+2. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68

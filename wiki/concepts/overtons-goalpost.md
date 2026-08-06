@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, badlands, framework]
-sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -56,3 +56,9 @@ Commenting on the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], [
 5. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
 6. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 7. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## Application to Zelensky coverage (September 2023)
+
+In September 2023, [[burning-bright|Burning Bright]] wrote that the [[media-industrial-complex|Media Industrial Complex]] was engaged in "a halting version of Overton's Goalpost" with respect to [[volodymyr-zelensky|Volodymyr Zelensky]] and the war in Ukraine.[8] Having championed Ukraine against what he termed the "evil Nazi Russian Empire," the press faced a "Prussian Proxy State" that was itself mounting a narrative assault on the Biden administration, [[nato|NATO]] and the collectivist West — a sign, in his reading, that "strings were likely cut somewhere along the way" and that the [[deep-state|Deep State]] was slowly coming to that realization.[8]
+
+8. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

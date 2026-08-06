@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [venezuela, elections, cia, oil, regime-change]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-87b.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -50,8 +50,17 @@ She also noted that the [[council-on-foreign-relations|Council on Foreign Relati
 
 [[burning-bright|Burning Bright]] offered a second take grounded in Info War analysis, arguing that when Western leaders, globalists, and the media complex uniformly call something a "threat to our Democracy" while Russia and China say the opposite, it is worth examining one's preexisting biases.[4] He said he did not know whether Maduro had won a real election or whether that would be a good thing, but that he did know "exactly what the establishment WANTS me to believe about it," concluding that narrative seeding was underway on both sides.[4]
 
+## Aftermath: protests, arrests and international response
+
+[[nicolas-maduro|Nicolás Maduro]] told the Brazilian administration of [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]] — which had declined to congratulate him pending the count — that he would release the election records to the world with full transparency in the coming days.[5] As of Tuesday, July 30, 2024, no fewer than nine Latin American countries had yet to declare recognition of Maduro's third term, and the [[white-house|White House]] said it was "reviewing" available data, that there were "signs" the official results did not "reflect the will of the people," and called on the government not to repress protesters.[5]
+
+The opposition party [[voluntad-popular|Voluntad Popular]] announced on X that its national coordinator, [[freddy-superlano|Freddy Superlano]], had been detained by Maduro's security services, a move linked to candidate [[edmundo-gonzalez-urrutia|Edmundo González Urrutia]]'s continued insistence that he had won and that the election was stolen.[5] González and [[maria-corina-machado|María Corina Machado]] said they could prove their victory after obtaining 73.2% of the polling-station voting tallies, while the top military leadership and generals in Caracas declared in a televised address that they remained loyal to Maduro.[5] Machado urged Maduro to accept that his exit was inevitable after 11 years of rule marked by a devastating economic and humanitarian crisis.[5]
+
+Badlands commentary treated the episode as a probable [[color-revolution|color revolution]] and a "trial run" for narrative operations ahead of the November U.S. election, criticising the framing used by The Guardian and Newsweek, the latter of which predicted the disputed result would spell trouble for [[kamala-harris|Kamala Harris]] by driving a surge of Venezuelan migration to the U.S. southern border.[5]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
 3. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 4. Badlands Brief — "Obama Leaves the Basement as Maduro Enters the Play", URL: https://badlands.substack.com/p/badlands-news-brief-87b
+5. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, military, israel, thaad, spokesman]
-sources: [raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -29,3 +29,9 @@ As [[pentagon|Pentagon]] press secretary, Maj. Gen. Ryder announced on Sunday, F
 ## References
 1. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
 2. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+
+## Statements on Prigozhin and Wagner (August 2023)
+
+As [[pentagon|Pentagon]] spokesman, Ryder gave the official U.S. assessment following the plane crash that killed [[yevgeny-prigozhin|Yevgeny Prigozhin]], saying an intentional explosion had brought the aircraft down and dismissing initial U.S. reports of a surface-to-air missile as "inaccurate."[3] He said the department assessed Prigozhin was likely on board and killed in the crash, without positing a precise cause.[3] Ryder also announced that the [[wagner-group|Wagner Group]]'s presence on the ground in Ukraine was "no longer a significant factor."[3]
+
+3. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [defamation, litigation, 2020-election, colorado, election-integrity]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-a9a.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-e82.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-fa1.md]
 confidence: medium
 ---
 
@@ -86,6 +86,38 @@ Ahead of the trial's start in early June 2025 at the federal courthouse in Denve
 
 She further stressed that the central claim — that Coomer was on an Antifa call — was Lindell repeating [[joe-oltmann|Joe Oltmann]]'s reporting rather than making an original assertion, contending that "this isn't defamation" and that "this case never should have gotten this far."[8] She previewed the trial in the [[why-we-vote|Why We Vote]] program alongside [[canncon|CannCon]] and Neil Johnson, and said she would be in the courtroom posting updates.[8]
 
+## Day 1: jury selection (June 2, 2025)
+
+Day 1 of the trial, held at the Denver courthouse on Monday, June 2, 2025, consisted mostly of jury selection, which Badlands correspondent [[ashe-in-america|Ashe in America]] — present in the courtroom — described as fascinating to watch.[9] She and Blue Eyes reviewed the day's play-by-play on the program Culture of Change that evening, and a Day 1 thread was published on social media.[9] The trial was scheduled to run for ten days, concluding on June 13, 2025, with daily sessions running from approximately 9 a.m. to 4 p.m.[9] [[joe-oltmann|Joe Oltmann]] was expected to testify as early as the following day.[9]
+
+The core allegation at issue was restated at the outset: [[eric-coomer|Eric Coomer]] alleges that [[mike-lindell|Mike Lindell]] defamed him by repeating Oltmann's 2020 claim that Coomer said "on an Antifa call" that "Trump's not going to win…I made fucking sure of it," a statement Coomer has always denied making.[9]
+
+## Scope of admissible evidence
+
+Of the body of publicly available material concerning Coomer — including a 2021 dossier of his writings and a September 2021 hit-and-run incident — only the posts about [[donald-trump|Trump]] were greenlit for trial.[9] Badlands commentary noted that some of the remainder, such as the car crash, could still come into evidence if circumstances changed during trial: for example, if the plaintiff's own questioning opened the door to it, or if the material could be used to impeach Coomer or another witness.[9]
+
+On the eve of trial, outside the Denver courthouse, Lindell told a press conference that he blamed four forces for the 2020 outcome — "the uniparty, the Deep State, Globalists, and the CCP" — and attributed the alleged "computer algorithm" controlling the election to "Satan."[9]
+
+## Verdict (June 16, 2025)
+
+On Monday, June 16, 2025, the Denver jury returned its verdict, finding [[mike-lindell|Lindell]] liable for defamation and ordering him and his company to pay [[eric-coomer|Coomer]] a total of $2.3 million in damages.[10] The jury found Lindell liable for three statements — two made directly by Lindell himself and one hosted on his online platform formerly called [[frankspeech|FrankSpeech]].[10] After the two-week trial, the jury awarded Coomer $440,500 in damages to be paid directly by Lindell and $1.9 million to be paid by FrankSpeech; [[mypillow|MyPillow]] was found not liable.[10]
+
+The first defamatory statement was made on May 9, 2021, when Lindell urged Coomer to turn himself in for election stealing, saying: "I mean, you are disgusting, and you are treasonous. You are a traitor to the United States of America."[10] The second came in an interview on FrankSpeech: "Eric Coomer, you are a criminal. Eric Coomer, your lawyers better look out. I'm not putting up with this. You've been a part of the biggest crime this world has ever seen."[10] The third was not made by Lindell but by another speaker at an event broadcast on FrankSpeech, which [[ashe-in-america|Ashe in America]] identified as remarks by Professor [[david-clements|David Clements]] at the Cyber Symposium.[10]
+
+### Badlands prediction and reaction
+
+Ashe in America had published a prediction on the Friday the case went to the jury, forecasting that MyPillow would bear no liability, that FrankSpeech would bear some — because she was unsure the platform distinction had been made strongly enough to the jury and the most damning statements were made by other people such as Oltmann and Peters on FrankSpeech — and that Lindell himself was "a toss up."[10] She wrote that, based on the facts, evidence and law, she did not believe Lindell had liability for defaming Coomer, but that the plaintiffs had done a good job of confusing the issue and the judge had already ruled the statements defamatory per se, while the defense was compelling that Lindell believed what he was saying and lacked malice toward Coomer.[10] She stressed she had not seen the jury instructions, was not an attorney, and believed the outcome would come down to those instructions.[10]
+
+After the verdict she noted that she was unaware of anyone else who had made a prediction, argued this was the most likely outcome based on the facts, evidence and law, and characterized MyPillow's exoneration as "a win for small business and new media."[10] Lindell joined Blue Eyes on Culture of Change on Monday night to discuss the verdict and was described as optimistic.[10]
+
+## Day 8: Montgomery unmasked (June 11, 2025)
+
+Wednesday, June 11, 2025 — the eighth day of trial — was described by [[ashe-in-america|Ashe in America]] as unexpected and jam-packed as the plaintiffs dashed toward the finish line of their case.[11] The first witness called that week was [[dennis-montgomery|Dennis Montgomery]], previously thought to be a ghost and the alleged inventor of [[hammer-and-scorecard|Hammer and Scorecard]]; his highly anticipated testimony came in by video deposition, and on the first day he was wearing a gray mask, literally, removing it on the second day so his face could be seen.[11] The image matched a man profiled in a 2022 Reuters investigative special report.[11]
+
+In that testimony Montgomery claimed to have built a tool allowing the US government to steal elections around the world without detection and said the [[central-intelligence-agency|CIA]] was the tool's main operator, while also claiming he was the only person who knew how to use it and giving inconsistent accounts of whether the CIA told him they stole elections or he watched them do it.[11] Reporting on the day noted testimony that [[mike-lindell|Mike Lindell]] paid $1.5 million for a "secret CIA software program to rig elections" and had testified he did more due diligence than anyone in history.[11] The financial accounts were contradictory: Lindell traded Montgomery an interest in his business for a house in Naples, Florida; Montgomery bought the house with $1.8 million Lindell gave him for the business; and Montgomery took the money as a loan — with the house held in his wife's trust, the Gray Horse Family Trust, a name Badlands linked to the grey horse of Revelation 6:8.[11]
+
+The plaintiffs also called reputation-repair expert Doug Bania; [[brannon-howse|Brannon Howse]], the man who insisted Lindell connect with [[mary-fanning|Mary Fanning]] and Montgomery; Lindell for the third day of his testimony, which was finally completed; and Professor [[j-alex-halderman|J. Alex Halderman]], a cybersecurity and election-security expert.[11] Court was set to resume at 8:30 a.m. Mountain Time the following day, with plaintiffs expected to rest after Halderman, jury instructions being finalized overnight by the parties, and the judge stating her desire to begin closing arguments by mid-afternoon — leaving Lindell's defense team only a few hours to complete its presentation of evidence and examination of witnesses.[11]
+
 ## References
 1. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 2. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
@@ -95,3 +127,6 @@ She further stressed that the central claim — that Coomer was on an Antifa cal
 6. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 7. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
 8. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
+9. Badlands Brief — "Limited Nukes & Satan's Elections", URL: https://badlands.substack.com/p/badlands-news-brief-e82
+10. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f
+11. Badlands Brief — "Badlands News Brief: Evacuations, Election Theft, & Eternal War", URL: https://badlands.substack.com/p/badlands-news-brief-fa1

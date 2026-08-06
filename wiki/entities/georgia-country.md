@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [caucasus, geopolitics, nato, european-union, russia]
-sources: [raw/badlands-news-brief-a0c.md]
+sources: [raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-d68.md]
 confidence: medium
 ---
 
@@ -26,5 +26,13 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued tha
 
 He linked this to the reported threat by EU officials against Georgian Prime Minister [[irakli-kobakhidze|Irakli Kobakhidze]], who was said to have been warned he could meet "the same fate" as Slovakian Prime Minister [[robert-fico|Robert Fico]] just a week after Fico was shot five times in the chest — a remark that EU commissioner [[oliver-varhelyi|Olivér Várhelyi]] later insisted had been taken out of context.[1]
 
+
+## Foreign agents law and the Ukraine comparison (May 2024)
+
+In May 2024 Georgia passed the [[transparency-of-foreign-influence-act|Transparency of Foreign Influence Act]], requiring NGOs, media outlets and individuals receiving more than 20% of their funding from abroad to register as entities "promoting the interests of a foreign power" and to disclose their donors.[2] The bill triggered weeks of protests in Tbilisi, with critics arguing it could be used to crack down on the opposition.[2] Prime minister [[irakli-kobakhidze|Irakli Kobakhidze]] defended the law as necessary to prevent Georgia from becoming "a second Ukraine" — a Western proxy of the kind he said Ukraine became after the 2014 Maidan coup.[2]
+
+Badlands commentary framed Georgia as following Slovakia's lead and read the intensity of the Western media reaction as a measure of how threatening such transparency laws are to the "rules-based international order."[2] It also noted that Georgia's version reaches beyond NGOs to media outlets and individuals, and highlighted Kobakhidze's claim of a personal threat from an unnamed European commissioner referencing the shooting of [[robert-fico|Robert Fico]].[2]
+
 ## References
 1. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
+2. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68

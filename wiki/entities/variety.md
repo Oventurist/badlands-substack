@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, trade-press, hollywood, journalism]
-sources: [raw/badlands-news-brief-07e.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-ea6.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ The publication reported that terms could not be learned and that the status of 
 
 The [[badlands-news-brief|Badlands News Brief]] excerpted the *Variety* report as its primary source on the merger story, with [[burning-bright|Burning Bright]] adding commentary that read the deal-making as evidence of underlying weakness rather than expansion, summarized in his maxim that "consolidation precedes collapse."[1]
 
+## Pressure campaign against Taylor Swift (September 2024)
+
+On Monday, September 9, 2024, *Variety* published a column attempting to shame [[taylor-swift|Taylor Swift]] into endorsing [[kamala-harris|Kamala Harris]], describing Swift's decision to remain silent on the 2024 election as "regrettable" in light of her past political support for Democrats, including [[joe-biden|Joe Biden]].[2] The column also called out Swift for socializing with [[brittany-mahomes|Brittany Mahomes]], whom [[donald-trump|Donald Trump]] had thanked for her support.[2]
+
+[[breitbart|Breitbart]] reported that the column came on the heels of two major polls trusted by leftists showing Trump pulling slightly ahead of Harris nationwide — a setback for a campaign that had received extensive free hype from establishment media since Democrat elites installed her as their nominee.[2] [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] characterized the column as "regime shills ... politi-shaming" a pop star on behalf of a flagging candidate.[2]
+
 ## References
 1. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
+2. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

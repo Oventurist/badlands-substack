@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican-party, speaker-of-the-house, north-carolina]
-sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ McHenry's office also served as the formal recipient of executive branch corresp
 
 On Thursday, October 19, 2023, [[jim-jordan|Jim Jordan]] said he would not hold a third ballot for speaker and would instead let McHenry hold the gavel as interim speaker until January, with Representative [[david-joyce|David Joyce]] of Ohio drafting legislation to give McHenry the full powers of the job.[2] The plan rubbed many Republicans the wrong way because McHenry was backed by Democrats.[2] Representative [[tom-emmer|Tom Emmer]] said that "we should never allow a Democrat-backed coalition government. Ever. The only coalition we should be looking to build is a Republican coalition uniting all of our conference."[2] [[steve-scalise|Steve Scalise]], Jordan's previous opponent for speaker who had pulled out of the race, and [[elise-stefanik|Elise Stefanik]] were likewise opposed to a Democrat-friendly speakership carrying into January.[2] Amid the objections Jordan reversed himself and appeared open to a third vote, saying he wanted to speak with the 20 holdouts who had blocked his first two attempts.[2]
 
+## Eviction of Nancy Pelosi from her Capitol hideaway (October 2023)
+
+Shortly after becoming acting speaker following the ouster of [[kevin-mccarthy|Kevin McCarthy]], McHenry ordered Democrats who had recently left leadership positions to vacate their private "hideaway" offices in the U.S. Capitol.[3] Among them was Representative [[nancy-pelosi|Nancy Pelosi]] of California, speaker until January 2023, who said in a statement that "one of the first actions taken by the new speaker pro tempore was to order me to immediately vacate my office in the Capitol."[3] Pelosi added that she was in California mourning [[dianne-feinstein|Dianne Feinstein]], who had died on September 29 at age 90, and was therefore unable to retrieve her belongings.[3] Reports said an email from McHenry's office told Pelosi the hideaway would be reassigned "for speaker office use" and instructed her to "please vacate the space tomorrow."[3] Pelosi called the eviction "a sharp departure from tradition," noting that she had allowed former Speaker Dennis Hastert to keep his private office "for as long as he wished."[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 2. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+3. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73

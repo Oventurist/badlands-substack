@@ -1,0 +1,3 @@
+## Use at the 2024 Democratic convention
+
+Democrats repeatedly invoked Project 2025 from the stage of the August 2024 [[2024-democratic-national-convention|Democratic National Convention]], describing it as the 900-page presidential transition blueprint produced by the [[heritage-foundation|Heritage Foundation]], and [[kamala-harris|Kamala Harris]] mentioned it in her acceptance speech.[n] [[the-atlantic|The Atlantic]] reported that its correspondent heard more about [[donald-trump|Donald Trump]]'s policy agenda through Project 2025 than about Harris's own, and that Harris offered no equivalent document.[n]

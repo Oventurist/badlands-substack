@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biodefense, pentagon-contractor, ebola, africa, hunter-biden]
-sources: [raw/badlands-news-brief-713.md]
+sources: [raw/badlands-news-brief-713.md, raw/badlands-news-brief-f39.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ Russian officials stated that Metabiota has ceased its activities in Africa.[1] 
 ## References
 
 1. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
+
+## Hunter Biden funding emails (2022 reporting)
+
+Emails obtained from [[hunter-biden|Hunter Biden]]'s abandoned laptop showed that he helped secure millions of dollars in funding for Metabiota, described as a [[department-of-defense|Department of Defense]] contractor specializing in research on pandemic-causing diseases that could be used as bioweapons.[2] The reporting was framed as partially corroborating Moscow's claim that Hunter Biden had helped finance a US military "bioweapons" research program in Ukraine.[2] The commander of the Russian Nuclear, Biological and Chemical Protection Forces alleged a "scheme of interaction between US government agencies and Ukrainian biological objects" and pointed to financing by "structures close to the current US leadership, in particular the investment fund [[rosemont-seneca|Rosemont Seneca]], which is headed by Hunter Biden."[2] Intelligence experts characterized the Russian military leader's allegations as a brazen propaganda ploy intended to justify [[vladimir-putin|Vladimir Putin]]'s invasion of Ukraine and sow discord in the United States.[2]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] wrote sardonically that the story amounted to a man with no scientific background being connected to a bioweapons laboratory in a war zone where money laundering also occurred, and speculated that [[donald-trump|Donald Trump]]'s first impeachment — arising from a phone call about Ukraine — reflected an attempt to expose that corruption.[2]
+
+2. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39

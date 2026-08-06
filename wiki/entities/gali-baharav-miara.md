@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, law, attorney-general, netanyahu]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-52f.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-e81.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ On December 26, Attorney General Baharav-Miara and State Attorney [[amit-aisman|
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+
+## Government vote to dismiss (August 2025)
+
+In August 2025 the Israeli government voted unanimously to fire Baharav-Miara while she was prosecuting Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] for corruption; the [[israeli-high-court-of-justice|Israeli High Court]] immediately suspended the move.[3] Netanyahu and his supporters accused her of exceeding her powers by blocking decisions of the elected government, including an attempt to dismiss the head of [[shin-bet|Israel's domestic security agency]].[3] She called the dismissal "unlawful," vowed that her office would remain faithful to the law, and warned that the vote was "a fateful blow to the rule of law, equality before the law, human rights, and the ability of the law enforcement system to deal with government corruption."[3]
+
+Badlands commentary noted that Baharav-Miara had been appointed by Prime Minister Naftali Bennett in 2022 on a nomination submitted in November 2021 by then Justice Minister Gideon Sa'ar, now Netanyahu's Foreign Minister, and argued she was targeted because of her investigation into corruption linked to Qatar and the flow of money to Hamas through Netanyahu's office, in which several aides had already been arrested and charged.[3] Though technically still in post, all departments were instructed not to cooperate with her — the tactic previously used against former Shin Bet Director [[ronen-bar|Ronen Bar]].[3] See [[2025-attempt-to-dismiss-israels-attorney-general|the 2025 dismissal attempt]].[3]
+
+3. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, big-tech, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -84,6 +84,11 @@ Google's stock fell sharply in May 2025 after an [[apple|Apple]] executive testi
 
 On February 22, 2024, [[alphabet|Alphabet’s]] Google announced on X that its artificial intelligence model [[google-gemini|Gemini]] would pause the image generation of people, after the model produced numerous images of black and Asian people when prompted but declined to do the same for white people.[15] “We’re already working to address recent issues with Gemini’s image generation feature. While we do this, we’re going to pause the image generation of people and will re-release an improved version soon,” the company wrote, adding that it was “aware that Gemini is offering inaccuracies in some historical image generation depictions.”[15] [[elon-musk|Elon Musk]] responded by calling the product’s head, [[jack-krawczyk|Jack Krawczyk]], “a racist douchenozzle” over his past postings on X.[15] Badlands contributor [[simon-esler|Simon Esler]] treated the episode as a case of “garbage in, garbage out,” attributing the outcome both to companies deliberately embedding critical race theory in their systems and to models trained on decades of mainstream news reproducing existing cultural bias.[15]
 
+
+## August 2024 monopoly ruling
+
+On Monday, August 5, 2024, U.S. District Judge [[amit-mehta|Amit Mehta]] ruled that Google's search engine had been illegally exploiting its dominance to squash competition and stifle innovation, in a decision described as capable of shaking up the internet and hobbling one of the world's best-known companies.[18] Mehta's 277-page opinion concluded that "Google is a monopolist, and it has acted as one to maintain its monopoly," and found that the company "enjoys an 89.2% share of the market for general search services, which increases to 94.9% on mobile devices."[18] The ruling followed a ten-week trial featuring testimony from top executives at Google, Microsoft and Apple, and came three months after closing arguments in the [[justice-department|Justice Department]]'s case.[18] Badlands Media commentary characterised Google's control over information as conferring an advantage over the collective mind with few historical precedents, and judged the ruling "MUCH more than simply a shot across the bow" even if it would not dismantle the company overnight.[18] See [[united-states-v-google-antitrust-trial|United States v. Google]].[18]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
@@ -107,3 +112,16 @@ On February 22, 2024, [[alphabet|Alphabet’s]] Google announced on X that its a
 Alphabet, Google's parent company and owner of YouTube, was named alongside [[meta-platforms|Meta]], [[reddit|Reddit]] and [[4chan]] in a New York lawsuit alleging that the platforms contributed to the radicalization of [[payton-gendron|Payton Gendron]], who killed ten people in the [[2022-buffalo-supermarket-shooting|2022 Buffalo supermarket shooting]].[16] Erie County Supreme Court Justice [[paula-feroleto|Paula Feroleto]] denied the companies' motion to dismiss in March 2024, finding the complaint sufficiently pleaded viable causes of action for the case to proceed.[16]
 
 16. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+
+## Kennedy restraining order denied (August 2023)
+
+In August 2023 a federal judge rejected a request by presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] for an order barring Google from censoring him.[16] Google and its subsidiary [[youtube|YouTube]] had removed multiple Kennedy videos on the grounds that they allegedly contained medical misinformation, and Kennedy's lawyers argued the removals violated the First Amendment because they were spurred by government policy, citing evidence that officials regularly collaborated with Big Tech firms to censor users and YouTube's policy of removing content contradicting [[centers-for-disease-control-and-prevention|CDC]] guidance.[16] Google responded that it is separate from the government and had exercised its own discretion, with its lawyers stating that "the First Amendment protects Google's judgment that it will not help spread dangerous anti-vaxx propaganda."[16]
+
+16. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+## Antitrust remedies ruling (September 2025)
+
+On September 2, 2025, District Judge [[amit-mehta|Amit Mehta]] refused to break up Google over its monopolization of the online search and advertising markets, instead imposing lesser restrictions on the roughly $2 trillion company.[17] Mehta rejected the [[department-of-justice|Justice Department]]'s request to force Google to spin off its Chrome browser and Android products, but agreed with the government that Google must allow competitors to gain a foothold.[17] The order requires Google to share some of its search data with rivals and bars it from deals making its products — including its artificial intelligence offerings — the default tools on mobile devices.[17] Politico described the opinion as the most consequential antitrust decision on Big Tech business practices since a federal judge's failed bid to break up Microsoft in the early 2000s.[17]
+
+
+17. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
+18. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [healthcare, labor, strikes, unions, 2023, false-claims-act, medicare]
-sources: [raw/a-time-to-strike.md, raw/badlands-brief-b38.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-c1e.md]
+sources: [raw/a-time-to-strike.md, raw/badlands-brief-b38.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ On Aug. 24, 2023, Kaiser Permanente in Santa Rosa, California, reversed a policy
 Detransitioner [[chloe-cole|Chloe Cole]] is suing Kaiser Permanente for medical malpractice over the gender-related medical treatment she received as a minor.[4] [[simon-esler|Simon Esler]] cited her case to argue that platform-liability theories advanced in cases such as the [[2022-buffalo-supermarket-shooting|Buffalo shooting]] lawsuit are applied selectively, since detransitioners have described how TikTok and Instagram steered them toward medical transition.[4]
 
 4. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+
+## 2023 Santa Rosa masking requirement
+
+In August 2023 the primary care provider Kaiser Permanente began requiring staff, patients and visitors at its Santa Rosa, California facilities to wear face masks amid reports of rising COVID-19 infections.[5] The requirement was cited alongside mandates at [[lionsgate|Lionsgate]], Morris Brown College and Upstate Medical in coverage of public pushback against renewed masking; see [[election-variant|Election Variant]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

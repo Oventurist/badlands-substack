@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, gop, maga, speaker, mike-johnson]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md]
 confidence: high
 ---
 
@@ -68,6 +68,12 @@ On Thursday, October 19, 2023, [[jim-jordan|Jim Jordan]] announced he would not 
 
 The paralysis had direct policy consequences: during President [[joe-biden|Joe Biden]]'s primetime Oval Office address that evening seeking wartime aid for Israel and Ukraine, the [[us-house-of-representatives|House of Representatives]] remained unable to pass legislation in its second week without a speaker.[8] [[ashe-in-america|Ashe in America]] observed that nearly every engaged eye in the nation was focused on the speaker vote while the United States was engaging in military conflict in the Middle East.[8]
 
+## Trump's endorsement of Jim Jordan (October 2023)
+
+Following the removal of Speaker [[kevin-mccarthy|Kevin McCarthy]], former President [[donald-trump|Donald Trump]] was reported to be attending a closed GOP House candidate forum the following Tuesday, at which Republicans would discuss potential nominees to replace McCarthy.[9] After teasing his own possible candidacy for speaker, Trump indicated he would endorse Representative [[jim-jordan|Jim Jordan]]'s bid.[9] "Just had a great conversation with President Trump about the Speaker's race," Representative [[troy-nehls|Troy Nehls]] of Texas posted on X, adding "He is endorsing Jim Jordan, and I believe Congress should listen to the leader of our party. I fully support Jim Jordan for Speaker of the House."[9] Jordan at the time chaired the [[house-judiciary-committee|House Judiciary Committee]] as well as the [[select-subcommittee-on-the-weaponization-of-the-federal-government|Select Subcommittee on the Weaponization of the Federal Government]].[9]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] wrote that the speculation about Trump himself taking the gavel — an idea promoted most notably by [[steve-bannon|Steve Bannon]] — raised the possibility that he could wield more power as speaker than as president.[9] Deschamps argued that the pushback against a Trump speakership was itself a benefit because it exposed "DS sleepers" in Congress, and that Trump's America First populism functions as a political X-ray revealing [[rino|RINOs]] as globalist assets.[9] In his view, disputes over [[matt-gaetz|Matt Gaetz]]'s [[motion-to-vacate|motion to vacate]] and the ousting of McCarthy were small potatoes next to the larger objective of exposing the political establishment's breach of trust, and Trump's continued dominance of the news cycle was itself a weapon in the information war.[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
@@ -77,3 +83,12 @@ The paralysis had direct policy consequences: during President [[joe-biden|Joe B
 6. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
 7. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
 8. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+9. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
+
+## Fourth nominee: Mike Johnson (October 24, 2023)
+
+On Tuesday evening, October 24, 2023, House Republicans picked Rep. [[mike-johnson|Mike Johnson]] (R-La.) as their fourth nominee for Speaker, just hours after House Majority Whip [[tom-emmer|Tom Emmer]] (R-Minn.) ended his bid.[10] Emmer had won the conference nomination after five rounds of voting but withdrew once it became clear he would face too many opponents to reach 217 votes on the House floor.[10] Johnson won 128 votes in conference that night, well short of the 217 required on the floor, and the House had by then been without a Speaker for three weeks.[10]
+
+No floor vote was held that Tuesday.[10] Badlands contributor [[ashe-in-america|Ashe in America]] described the day as "a rollercoaster" and reported a rumor on the Hill that [[kevin-mccarthy|Kevin McCarthy]] would come back up for a vote — a prediction she credited to Badlands' own [[canncon|CannCon]] on the day McCarthy was ousted.[10] With the House due to reassemble Wednesday at noon, she wrote that those paying attention were not holding their breath, and argued that "the longer the House goes without a Speaker, the better off Americans will be. The gridlock favors the people."[10]
+
+10. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

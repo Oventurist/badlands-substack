@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, uranium, nuclear, uranium-one, state-owned]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-09b.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -36,7 +36,12 @@ Rosatom has operated the [[zaporozhye-nuclear-power-plant|Zaporozhye Nuclear Pow
 
 As of September 2025, Rosatom was in the middle of constructing a nuclear reactor for [[turkey|Türkiye]], a fact Badlands contributors raised as context for the [[us-turkiye-memorandum-on-strategic-civil-nuclear-cooperation|US–Türkiye civil nuclear memorandum]] signed during President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]]'s White House visit.[3] The same company was described as planning reactors in Kazakhstan, [[burkina-faso|Burkina Faso]], Mali and a number of other nations grouped under the Sovereign Alliance thesis.[3] Commentary also noted that EU authorities have accused Rosatom of funding the populist Italian political party that placed the country's current prime minister and deputy prime minister in office.[3]
 
+## Mali agreement (June 2025)
+
+On Tuesday, June 24, 2025, Rosatom announced that Russia and [[mali|Mali]] had agreed to expand cooperation in the peaceful use of nuclear energy, in a deal covering infrastructure development, joint projects in healthcare and agriculture, and the training of Malian specialists.[4] Rosatom head [[aleksey-likhachev|Alexey Likhachev]] called the signing "a significant milestone in the strategic partnership between Russia and Mali," saying it would support the country's energy and scientific development while "opening up wide-ranging opportunities for both countries."[4] The agreement followed a meeting between President [[vladimir-putin|Vladimir Putin]] and Mali's interim president General [[assimi-goita|Assimi Goita]] and built on a memorandum on nuclear cooperation signed in October 2023, and came a week after a similar Russian agreement with [[burkina-faso|Burkina Faso]].[4] See [[russia-mali-nuclear-energy-agreement|the Russia–Mali nuclear energy agreement]].[4]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
 3. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
+4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

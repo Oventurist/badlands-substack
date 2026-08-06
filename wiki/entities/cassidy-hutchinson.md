@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [january-6, testimony, white-house]
-sources: [raw/badlands-news-brief-120.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ Preliminary findings released in March 2024 by the [[house-administration-subcom
 
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
+
+## Loudermilk text message findings (December 2024)
+
+In late December 2024, text messages obtained by Representative [[barry-loudermilk|Barry Loudermilk]], chair of a House subcommittee investigating the [[january-6-committee|January 6 Select Committee]], were reported to show that Hutchinson had communicated with committee vice chair [[liz-cheney|Liz Cheney]] behind the scenes before dramatically changing her testimony.[2] Commentators argued the communications could constitute witness tampering, subornation of perjury, and obstruction, observing that every former White House official — including the driver of the presidential vehicle on January 6 — had refuted Hutchinson's account of [[donald-trump|Trump]]'s behavior that day.[2] Loudermilk concluded that "numerous federal laws were likely broken by Liz Cheney" and called for an FBI investigation.[2]
+2. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

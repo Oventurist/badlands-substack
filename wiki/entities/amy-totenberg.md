@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, georgia, election-integrity, dominion-voting-systems]
-sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md]
+sources: [raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-dc1.md]
 confidence: low
 ---
 
@@ -27,3 +27,8 @@ The bench trial in [[curling-v-raffensperger|Curling v. Raffensperger]] was set 
 ## References
 1. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 2. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
+
+## Dismissal of Curling v. Raffensperger (2025)
+
+In a ruling issued Monday, March 31, 2025, U.S. District Judge Totenberg dismissed the long-running lawsuit challenging the security of Georgia's electronic voting machines, holding that the plaintiffs in [[curling-v-raffensperger|Curling v. Raffensperger]] had not demonstrated that the state's electronic voting system disenfranchises them from exercising their right to vote.[3] She wrote that the election activists of the Coalition for Good Governance and the Georgia voters joining them lacked standing, and that some of their legal objections to the touchscreen ballot marking devices amounted to policy disagreements rather than constitutional violations.[3] Totenberg nonetheless wrote that she retained substantial concerns about the electronic voting technology, which has long faced allegations that it risks being hacked and compromising Georgia elections.[3]
+3. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1

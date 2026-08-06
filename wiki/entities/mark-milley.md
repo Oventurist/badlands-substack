@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, joint-chiefs, ukraine, negotiations, pentagon]
-sources: [raw/badlands-news-brief-324.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-news-brief-324.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -26,7 +26,20 @@ The Milley analysis resurfaced as [[volodymyr-zelensky|Volodymyr Zelensky]] awai
 
 Reporting published in 2025 alleged that Milley, as Chairman of the Joint Chiefs of Staff, and CENTCOM commander [[frank-mckenzie|Frank McKenzie]] repeatedly ran cover for the [[taliban|Taliban]] in 2021, denying that the group had attacked U.S. and NATO bases during the withdrawal and defending Taliban conduct during the evacuation.[2] In the weeks after the fall of Kabul, Milley and Defense Secretary [[lloyd-austin|Lloyd Austin]] testified that the Taliban had broken every provision of the [[doha-agreement|Doha Agreement]] but one — its pledge not to attack U.S. and NATO forces — even though the Taliban had in fact attacked U.S. and NATO bases multiple times before and after President [[joe-biden|Joe Biden]]'s "Go-to-Zero" order, including at Bagram Air Base, often claiming credit publicly.[2] The GOP-led House Foreign Affairs Committee's final report documented continued Taliban attacks but omitted that Milley and McKenzie had falsely denied them.[2]
 
+## Nellis Air Force Base drag show cancellation (2023)
+
+In late May 2023 Milley, as Chairman of the Joint Chiefs of Staff, was reported alongside Secretary of Defense [[lloyd-austin|Lloyd Austin]] to have ordered [[nellis-air-force-base|Nellis Air Force Base]] in Nevada to cancel an on-base "family friendly" drag show marking the start of Pride month, or else move it off base.[3] Two months earlier, at a congressional hearing, Milley and Austin had told Rep. [[matt-gaetz|Matt Gaetz]] that they did not approve of drag queen story hours on military installations; Gaetz publicly called both men out when a "cry for help" about the Nellis event surfaced.[3] Badlands commentary observed that the show was in its third consecutive year and that neither officer had intervened previously.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 2. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+3. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+
+## September 2023 remarks on Ukraine
+
+Speaking to CNN on September 17, 2023, as Chairman of the Joint Chiefs of Staff, Milley presented the [[pentagon|Pentagon]]'s assessment that the war in Ukraine was set to endure for "a long time."[4] He said there were "well over 200,000 Russian troops in Russian-occupied Ukraine" and that the Ukrainian offensive, although significant, had operational and tactical objectives that were limited — even if fully achieved, they would not completely eject the Russians, which he identified as President [[volodymyr-zelensky|Volodymyr Zelensky]]'s broader strategic objective.[4] His comments landed the same day [[nato|NATO]] Secretary-General [[jens-stoltenberg|Jens Stoltenberg]] told Funke Media Group that the alliance must "prepare ourselves for a long war in Ukraine."[4]
+
+[[badlands-media|Badlands Media]] writer [[ryan-delarme|Ryan DeLarme]] treated the convergence of the two men's messaging as a marker of deep-state alignment, arguing that the US government excels at creating long, unwinnable wars and that the profit motive — exemplified by [[raytheon|Raytheon]]'s roughly 40% stock gain since the war began — made the outcome a win either way for its architects.[4]
+
+4. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

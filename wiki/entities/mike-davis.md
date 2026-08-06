@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judicial-nominations, senate, legal-activism, maga]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-7bb.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md]
 confidence: low
 ---
 
@@ -24,7 +24,21 @@ Davis, who leads the [[article-iii-project|Article III Project]], reacted sharpl
 
 In March 2025, following the [[department-of-justice|Justice Department]]'s announcement that it would review the case, the Article III Project's Mike Davis published a summary of [[tina-peters|Tina Peters]]'s saga on X.[3] He wrote that Peters, then the Mesa County, Colorado clerk and recorder, investigated voter fraud after the 2021 Grand Junction municipal election, and that Colorado Secretary of State [[jena-griswold|Jena Griswold]], Attorney General [[phil-weiser|Phil Weiser]], and a local District Attorney, Dan Rubenstein, brought what he called trumped-up felony charges falsely accusing her of unauthorized access to voting machines.[3] Davis alleged that during the same period Griswold allowed voting-machine passwords to remain publicly posted online for four months, and that Judge [[matthew-barrett|Matthew Barrett]] stated on the record that he sentenced the 69-year-old Peters to nine years in prison because of her First Amendment-protected views on election integrity, concluding that Peters was suffering greatly in prison because of "these sadistic partisans."[3]
 
+
+## Fort Pierce Grand Jury Claim (October 2025)
+
+In October 2025 Davis, a conservative attorney and informal adviser to senior Trump officials including Attorney General [[pam-bondi|Pam Bondi]], said a federal grand jury had been empaneled in Fort Pierce, Florida, to begin meeting in January and investigate a decade-long conspiracy to undermine [[donald-trump|President Trump]].[5] He said the panel would examine whether top Democrats conspired to target Trump through the 2016 Russia investigation and the subsequent criminal prosecutions.[5] Davis revealed the development in interviews with conservative podcasters, telling commentator Benny Johnson: "I've been publicly calling for this for three years. I'm going to make damn sure that these lawfare Democrats go to prison during the four years of President Trump's second term."[5]
+
+Court records confirmed that a federal judge had ordered a grand jury empaneled in Fort Pierce the previous month at the request of the Trump administration.[5] On The Charlie Kirk Show, Davis said his "buddy," U.S. Attorney Jason Quiñones of the Southern District of Florida, directed the empanelment after Davis "pushed very hard" for an investigation; Quiñones's name appears on the administrative order establishing the panel.[5] Badlands commentary counted two new grand juries and suggested that, if Davis is right about their purpose, 2026 could be eventful.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 2. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
 3. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
+
+## Claims about the Hunter Biden prosecution team
+
+In June 2023, Davis — identified as former Chief Counsel for Senate Judiciary Chairman [[chuck-grassley|Chuck Grassley]] — asserted that [[derek-hines|Derek Hines]], one of the federal prosecutors working the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]], had served as special counsel to former FBI Director [[louis-freeh|Louis Freeh]] from 2013 through February 2015, and that Freeh gave $100,000 in April 2016 to trusts for two of then-Vice President [[joe-biden|Joe Biden]]'s grandchildren.[4] Badlands writer [[ashe-in-america|Ashe in America]] cited the claim as undercutting any presentation of the case as an unbiased application of the rule of law.[4]
+
+4. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+5. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [denmark, europe, elections, resignation]
-sources: [raw/badlands-brief-5dc.md, raw/badlands-brief-f02.md]
+sources: [raw/badlands-brief-5dc.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-f18.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Contributor [[burning-bright|Burning Bright]] situated her departure within a cl
 
 Earlier, at the January 2026 [[world-economic-forum|World Economic Forum]] meeting in Davos, Frederiksen was among the Danish and Greenlandic leaders who emphasized respect for territorial integrity in the face of the U.S. campaign to acquire [[greenland|Greenland]], warning that "the worst may still be ahead."[2] The [[greenland-tariff-dispute-2026|tariff threats issued against eight nations backing Denmark's sovereignty]] over the Arctic territory dominated the forum and prompted a united European front.[2]
 
+## January 2025 call with Trump
+
+In mid-January 2025, Frederiksen spoke for 45 minutes by telephone with then President-elect [[donald-trump|Donald Trump]], who European officials said was aggressive and confrontational about her refusal to sell [[greenland|Greenland]] to the United States.[3] Five current and former senior European officials briefed on the exchange described the conversation as "horrendous," with one saying "It was a cold shower" and that the demand now appeared "serious and potentially very dangerous," and others reporting that "The Danes are now in crisis mode" and "utterly freaked out."[3] See [[2025-trump-greenland-purchase-demand|the 2025 Trump Greenland purchase demand]].[3]
+
 ## References
 1. Badlands Brief — "Gay Ayatollahs & Globalist Fragility", URL: https://badlands.substack.com/p/badlands-brief-5dc
 2. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
+3. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

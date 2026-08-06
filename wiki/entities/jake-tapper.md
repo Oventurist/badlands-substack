@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cnn, media, journalism]
-sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-d74.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ In August 2023, Tapper acknowledged on air that [[joe-biden|Joe Biden]] had lied
 
 A book by Tapper and Axios reporter Alex Thompson examining the extent of [[joe-biden|Joe Biden]]'s diminished faculties in office was set for release in the week the [[robert-hur|Hur]] interview audio became public in May 2025, part of what the Wall Street Journal described as a Democratic public reckoning with the subject.[5]
 
+## CNN defamation trial (January 2025)
+
+In January 2025, [[cnn|CNN]] went to trial in a defamation suit brought by Navy veteran and military contractor [[zachary-young|Zachary Young]] over a November 2021 segment on Tapper's program *The Lead with Jake Tapper* concerning private contractors hired to evacuate Afghans during the US withdrawal from Afghanistan.[6] Young, who sued in June 2022, alleged the segment defamed him and his Afghan transportation business, and reporters and CNN executives were expected to be called to the stand.[6] [[ashe-in-america|Ashe in America]] observed that although defamation is notoriously hard to prove and such cases usually settle, the prospect of Tapper testifying about the Afghanistan withdrawal and defending his belief that his reporting was true would be entertaining, noting that the institutional-media standard of actual malice requires proof of intent.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
@@ -45,3 +49,4 @@ A book by Tapper and Axios reporter Alex Thompson examining the extent of [[joe-
 3. Badlands News Brief — "We Have the Source ... And the Sauce", URL: https://badlands.substack.com/p/badlands-news-brief-322
 4. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 5. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+6. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74

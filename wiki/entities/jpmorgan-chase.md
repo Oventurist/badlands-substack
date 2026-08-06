@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, debanking, litigation, january-6]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -88,6 +88,12 @@ In May 2025 JPMorgan analysts flipped from gold to [[bitcoin|bitcoin]], predicti
 
 In September 2023 the [[us-virgin-islands|U.S. Virgin Islands]] told a federal court in Manhattan that JPMorgan had flagged more than $1 billion in suspicious transactions linked to [[jeffrey-epstein|Jeffrey Epstein]] and reported them to the U.S. government, a disclosure made in a 2019 filing to the U.S. Department of the Treasury after Epstein died in a Manhattan jail cell a month following his sex-trafficking arrest.[16] Bloomberg noted it was the first time the sheer volume of Epstein's financial activity at the bank over a 16-year period had been disclosed; Epstein had banked there from the late 1990s until 2013, when the firm cut ties.[16] USVI attorney Mimi Liu said "JPMorgan was a full-service bank for Jeffrey Epstein's sex trafficking."[16] The bank denied letting Epstein's activities slide and said it reported around 150 cash transactions to a federal regulator between 2002 and 2013; the territory had told the judge a month earlier that the bank facilitated over $1.1 million in payments from Epstein to "girls or women," many with Eastern European surnames.[16] [[burning-bright|Burning Bright]] observed that the name most associated with elite child trafficking could not surface without a major financial institution attached to it, adding: "Drip. Drip. Flood."[16]
 
+## Russian court seizure of $439.5 million (2024)
+
+In April 2024 a Russian arbitration court in St Petersburg ordered the seizure of JPMorgan Chase funds totalling $439.5 million, a week after the Kremlin-run lender [[vtb-bank|VTB]] launched legal action against the largest US bank to recoup money stuck under Washington's sanctions regime.[17] The seizure order, published in the Russian court register, targeted funds in JPMorgan's accounts as well as shares in its Russian subsidiaries, assets that had already been frozen by Russian authorities in the wake of Western sanctions.[17] The underlying dispute concerned $439 million that VTB had held in a JPMorgan account in the United States; when Washington sanctioned VTB, JPMorgan moved the funds to a separate escrow account, leaving neither party able to access them.[17] The Financial Times framed the episode as evidence of the fallout Western companies face from punitive measures against Moscow and of the difficulty Western lenders have had closing their Russia operations since the full-scale invasion of Ukraine in February 2022.[17]
+
+Badlands contributor GhostofBasedPatrickHenry linked the seizure to [[executive-order-13818|Executive Order 13818]], the December 2017 order signed by [[donald-trump|Donald Trump]] authorising seizure of property belonging to individuals and companies involved in serious human rights abuse and trafficking, noting JPMorgan's exposure through [[jeffrey-epstein|Jeffrey Epstein]] and former executive [[jes-staley|Jes Staley]], and remarking that "the only narrative better than the United States government seizing JP Morgan assets is the Russian government seizing JP Morgan assets."[17] He read the move as a sign that "the East" would increasingly throw its weight around as a multipolar world emerged.[17]
+
 ## References
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
@@ -105,3 +111,28 @@ In September 2023 the [[us-virgin-islands|U.S. Virgin Islands]] told a federal c
 14. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 15. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 16. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+17. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
+
+## State objections to the Epstein settlement (October 2023)
+
+JPMorgan Chase's $290 million class-action settlement with accusers of [[jeffrey-epstein|Jeffrey Epstein]] drew an objection from many U.S. states in October 2023, on the grounds that the accord could limit their ability to seek compensation for sexual abuse victims.[18] In a letter made public on Monday, October 23 in Manhattan federal court, the attorneys general of 16 states and Washington, D.C. complained about settlement language preventing "any sovereign or government" from seeking damages arising from sex trafficking by Epstein and his associates.[18]
+
+The attorneys general said that including such language without their consent would deter them from seeking damages for sex trafficking victims — not only Epstein's — under the federal [[trafficking-victims-protection-act|Trafficking Victims Protection Act]].[18] They also observed that [[deutsche-bank|Deutsche Bank]]'s similar $75 million agreement with Epstein's accusers contained no such language.[18] New Mexico Attorney General [[raul-torrez|Raul Torrez]] wrote that Epstein's surviving victims "should be fully compensated for the profound harm they have suffered," but that the agreement "improperly seeks to release (the states') claims for victim-specific relief."[18] Signatories included Arizona, California, Connecticut, Delaware, the District of Columbia, Hawaii, Illinois, Maryland, Minnesota, Mississippi, New York, Oregon, Pennsylvania, Tennessee, Utah and Vermont.[18]
+
+18. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+
+## Rakoff ruling allowing the Epstein suits to proceed (March 2023)
+
+On March 20, 2023, U.S. District Judge [[jed-rakoff|Jed Rakoff]] ruled that JPMorgan Chase & Co. and [[deutsche-bank|Deutsche Bank]] would have to face lawsuits claiming they enabled [[jeffrey-epstein|Jeffrey Epstein]] to traffic his victims.[19] Two women identified as "Jane Doe" had filed federal class-action suits against the banks in November 2022, and the [[us-virgin-islands|U.S. Virgin Islands]] filed its own suit against JPMorgan in December.[19] In a four-page order, Rakoff held that the women could pursue claims that the defendants "knowingly benefited from participating in a sex-trafficking venture," "obstructed enforcement of the [[trafficking-victims-protection-act|Trafficking Victims Protection Act]]," and "negligently failed to exercise reasonable care to prevent physical harm," as well as a claim that the banks negligently failed to exercise reasonable care as institutions providing non-routine banking; all other claims were dismissed.[19] With respect to the U.S. Virgin Islands suit against JPMorgan, Rakoff allowed the claim that the bank "knowingly benefited from participating in a sex-trafficking venture" to proceed.[19]
+
+19. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+
+## Russian seizure of JPMorgan accounts in the VTB dispute (April 2024)
+
+A Russian court ordered the seizure of funds in JPMorgan Chase bank accounts inside Russia, according to court filings reported on Wednesday, April 24, 2024, in a lawsuit brought by the state-owned [[vtb-bank|VTB]] as it sought to regain funds blocked abroad.[20] The ruling by the Arbitration Court of St Petersburg and the Leningrad Region was dated April 22.[20]
+
+The order followed JPMorgan Chase's own suit against VTB, filed in New York the previous week, seeking to halt VTB's efforts to recover $439.5 million from an account frozen after Russia sent its army into Ukraine in 2022 and VTB was placed under sanctions.[20] In its complaint in federal court in Manhattan, JPMorgan described VTB's attempt to recover the money inside Russia as a "blatant breach" of the parties' agreement to have disputes addressed in New York.[20]
+
+The Russian court said it had ordered the seizure of all funds in JPMorgan bank accounts in Russia, including correspondent accounts and those opened in the name of a subsidiary, while stating that it had not seized securities and property held by JPMorgan funds, nor the jpmorgan.ru domain.[20] JPMorgan Chase declined to comment on the interim measures, and VTB did not immediately comment, having previously declined to discuss its legal disputes with the bank.[20]
+
+20. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

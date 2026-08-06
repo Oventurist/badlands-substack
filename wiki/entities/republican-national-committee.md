@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, elections, litigation, arizona, 2022-midterms]
-sources: [raw/arizona-earthquake.md, raw/badlands-brief-169.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md]
+sources: [raw/arizona-earthquake.md, raw/badlands-brief-169.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-e0a.md]
 confidence: low
 ---
 
@@ -60,8 +60,15 @@ The RNC, together with the Michigan Republican Party and Chesterfield Township C
 
 On April 19, 2024, [[donald-trump|Donald Trump]]'s presidential campaign and the RNC announced a massive "election integrity" operation, promising to deploy 100,000 volunteers and attorneys to battleground states to "protect the vote and ensure a big win" in November.[11] Officials said the volunteers and lawyers would monitor logic and accuracy testing, early voting, ballot tabulation, mail ballot processing and Election Day voting, as well as post-election canvasses, audits and recounts, with the release suggesting they might also recruit poll workers.[11] Trump said that "having the right people to count the ballots is just as important as turning out voters on Election Day," while RNC co-chair [[lara-trump|Lara Trump]] said the committee was hiring hundreds of election integrity staff across the map.[11]
 
-## References
+## Arizona voting law emergency application (2024)
 
+The RNC filed an emergency request with the [[supreme-court-of-the-united-states|Supreme Court]] seeking to revive an Arizona law strengthening proof-of-citizenship requirements for voting, and on August 22, 2024 the justices partially granted it in a 5-4 vote, reinstating the requirement that officials reject state voter registration forms lacking proof of citizenship.[12] The Court denied the committee's other request.[12] RNC Chairman [[michael-whatley|Michael Whatley]] hailed the order on X as "a seismic win in the fight to stop non-citizens from voting - more to come!"[12]
+
+## 2023 primary debate dispute
+
+The RNC scheduled its first Republican presidential primary debate of the 2024 cycle for August 23, 2023 in Milwaukee, Wisconsin, formally announcing in June 2023 that it would be moderated by [[fox-news|Fox News]]' [[bret-baier|Bret Baier]] and [[martha-maccallum|Martha MacCallum]].[14] [[donald-trump|Donald Trump]] declined to commit to the RNC-sanctioned debates, having complained in April that no one obtained his campaign's approval before details were announced and asking on [[truth-social|Truth Social]], "When you're leading by seemingly insurmountable numbers, and you have hostile Networks with angry, TRUMP & MAGA hating anchors asking the 'questions,' why subject yourself to being libeled and abused?"[14] He also objected that the second debate would be held at the Reagan Library, chaired by [[fred-ryan|Fred Ryan]], publisher of [[washington-post|The Washington Post]].[14] According to NBC News, advisers indicated Trump was leaning toward skipping the debate entirely and exploring counterprogramming — an alternate event staged opposite the RNC broadcast.[14] Badlands writer [[ryan-delarme|Ryan DeLarme]] argued that no one would tune in to a debate without Trump, that the MAGA base distrusts both Fox News and the RNC, and that debates should be conducted at the discretion of candidates and their bases rather than by captured institutions, suggesting moderators such as [[tucker-carlson|Tucker Carlson]], [[glenn-greenwald|Glenn Greenwald]] or [[joe-rogan|Joe Rogan]].[14]
+
+## References
 1. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 2. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 3. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
@@ -73,3 +80,10 @@ On April 19, 2024, [[donald-trump|Donald Trump]]'s presidential campaign and the
 9. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 10. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 11. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+12. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+
+## March 2024 staff purge
+
+On Monday, March 11, 2024, the leadership team newly installed at the RNC by [[donald-trump|Donald Trump]]'s campaign began pushing out dozens of officials, with the expectation that more than 60 staffers across the political, communications and data departments would be let go, including five members of senior staff whose names were not made public; some vendor contracts were also expected to be cut.[13] Chief operating officer [[sean-cairncross|Sean Cairncross]] wrote to some political and data staff that the new leadership was "in the process of evaluating the organization and staff to ensure the building is aligned" with its vision and that "certain staff are being asked to resign and reapply for a position on the team."[13] The overhaul was aimed at cutting what one person close to the effort called "bureaucracy," and underscored the speed with which Trump's operation moved to take over the party's machinery after he all but clinched the presidential nomination.[13] The Trump campaign took operational control of the committee that Monday, days after [[michael-whatley|Michael Whatley]] was elected chair and [[lara-trump|Lara Trump]] co-chair with Trump's endorsement, and after senior campaign adviser [[chris-lacivita|Chris LaCivita]] was named chief of staff.[13]
+13. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
+14. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a

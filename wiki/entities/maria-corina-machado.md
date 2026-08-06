@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, opposition, machado, white-house]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-577.md, raw/badlands-brief-861.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-e87.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-577.md, raw/badlands-brief-861.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-e87.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-e3e.md]
 confidence: low
 ---
 
@@ -122,6 +122,10 @@ Assange warned that the prize could be turned into an "instrument of war," and B
 
 In October 2024, Venezuelan President [[nicolas-maduro|Nicolás Maduro]] accused [[elon-musk|Elon Musk]] of spending at least $1 billion to incite violence in Venezuela after the July 28 presidential election, and named Machado — whom he described as his political opponent and a businesswoman — as the distributor of the alleged funding to "fascist" groups.[17] Maduro claimed that the US government was ultimately behind the attempts to oust him from power.[17] Maduro had been declared the winner of the July vote by national election authorities, though the United States maintained that victory had been stolen from opposition candidate Edmundo Gonzalez.[17]
 
+## July 2024 election aftermath
+
+Speaking to The Guardian after Venezuela's disputed July 2024 election, Machado urged [[nicolas-maduro|Nicolás Maduro]] to accept that his exit from power was inevitable and to come to terms with the end of his 11-year rule, during which Venezuela fell into a devastating economic and humanitarian crisis that forced millions to flee abroad.[18] She and candidate [[edmundo-gonzalez-urrutia|Edmundo González Urrutia]] said they could prove their victory, having obtained 73.2% of the polling-station voting tallies.[18] Their statements came as thousands of protesters took to the streets to repudiate Maduro's disputed claim to a third term.[18]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -141,3 +145,4 @@ In October 2024, Venezuelan President [[nicolas-maduro|Nicolás Maduro]] accused
 15. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 16. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 17. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+18. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

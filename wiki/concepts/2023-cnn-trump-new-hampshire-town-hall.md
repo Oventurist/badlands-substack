@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, 2024-election, cnn, trump, town-hall]
-sources: [raw/badlands-news-brief-550.md]
+sources: [raw/badlands-news-brief-550.md, raw/badlands-news-brief-de8.md]
 confidence: medium
 ---
 
@@ -26,6 +26,13 @@ The booking was described as a clear attempt by Trump to draw a contrast with Fl
 
 Badlands contributor [[justin-deschamps|Justin Deschamps]] framed the announcement in terms of speculation within the Truth Community that "Trump and the patriots are in control of CNN now," while withholding judgment on whether that reading was correct.[1] He argued that if anyone could use "verbal fencing to win a battle for truth and freedom" it was Trump, and anticipated the forum as an ill-fated event for the Deep State.[1]
 
+## Aftermath
+
+The town hall aired on the evening of Wednesday, May 10, 2023, running roughly 70 minutes before an audience of about 400 in New Hampshire.[2] [[the-daily-beast|The Daily Beast]] responded with a scathing verdict that CNN had "failed journalism, the American public, and its own employees by deciding to invite an arsonist who has spent the past seven years trying to burn down their house," and characterized the event as a forum for Trump to air grievances and lies before a sympathetic crowd.[2] The outlet tied the decision to a record of hostility toward the network, citing Trump's "fake news" and "enemy of the people" rhetoric, the 2018 bomb-threat evacuation of CNN's New York headquarters, and the 20-year sentence handed to [[cesar-sayoc|Cesar Sayoc]] for mailing pipe bombs to Trump's critics.[2]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] read the same broadcast in the opposite direction, calling it one of Trump's "most masterful narrative performances yet," in which he navigated a hostile moderation environment and a minefield of controversial topics while commanding both studio and at-home audiences.[2] He described the Daily Beast's reaction as indicative of "the most extreme of the subversive rot that nests at the heart of the [[media-industrial-complex|Media Industrial Complex]]," and argued that the legacy press turning on itself afterward was proof the town hall had been a net win for Trump and for the movement.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
+2. Badlands Brief — "Badlands News Brief: Trump's Town Hall, Comer's Committee & Biden's Bribes", URL: https://badlands.substack.com/p/badlands-news-brief-de8

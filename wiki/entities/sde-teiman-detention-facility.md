@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, idf, gaza, detention, human-rights]
-sources: [raw/badlands-news-brief-87b.md]
+sources: [raw/badlands-news-brief-87b.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Ben Gvir, whose ministry controls the [[israeli-police|Israel Police]] and the [
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], writing for [[badlands-media|Badlands Media]], framed the episode as evidence of a manipulated gameboard within the IDF's own ranks, noting that he and [[canncon|CannCon]] had covered the Military Police raid on Badlands Daily the previous day.[1] He characterized the storming as the work of supporters of the "hyper-radical" [[otzma-yehudit|Otzma Yehudit]] ("Jewish Power") and Religious Zionist parties, both of which he described as adherents of the teachings of [[meir-kahane|Meir Kahane]].[1] He argued that the specific nature of the alleged abuse — the sexual assault of male Palestinian prisoners — was being underreported, and connected the resulting "degeneracy" to what he described as the capture of Israel by organized crime syndicates, citing a 2002 U.S. Department of Justice document describing how the "tentacles of Ukrainian organized crime" had reached Israel during the 1990s.[1] He further tied the radicals' ideology to the antinomian mystical currents associated with [[sabbatai-zevi|Sabbatai Zevi]] and [[jacob-frank|Jacob Frank]] rather than to mainstream Torah observance.[1]
 
+## July 2024 base riots and the Azaria precedent
+
+In late July 2024 a far-right mob attacked two [[israel-defense-forces|Israel Defense Forces]] bases in support of soldiers accused of sexually torturing a detainee held at Sde Teiman.[2] The Guardian argued the episode did not come out of the blue, drawing an explicit parallel to the 2016 case of [[elor-azaria|Elor Azaria]], and observed that both the political and military establishments in Israel had been willing to deny or turn a blind eye to repeated allegations of torture at the facility.[2] Badlands commentary described Israeli lawmakers directly participating in riots at military bases and framed the affair as evidence of a deep moral deterioration being normalised, with National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] at the centre of the action.[2]
+
 ## References
 
 1. Badlands Brief — "Obama Leaves the Basement as Maduro Enters the Play", URL: https://badlands.substack.com/p/badlands-news-brief-87b
+2. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

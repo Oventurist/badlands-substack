@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, oil, lithium, critical-minerals, vision-2030]
-sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-70d.md]
+sources: [raw/badlands-news-brief-351.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e1a.md]
 confidence: high
 ---
 
@@ -24,6 +24,20 @@ In February 2023, Aramco publicly warned that [[esg|environmental, social and go
 
 The [[badlands-news-brief|Badlands News Brief]] contributor [[patriots-in-progress|Patriots in Progress]] noted that the intervention carried weight because Aramco is the world's largest oil firm, and that with Saudi Arabia likely to join [[brics|BRICS]] in 2023 — further threatening the [[petrodollar|petrodollar]]'s global reserve status — the statements were all the more intriguing.[2]
 
+## Oilfield lithium discovery (December 2024)
+
+In late December 2024, Saudi Arabia unveiled the discovery of lithium reserves within its oil fields near the sea, a breakthrough spearheaded by Aramco and presented as a milestone in the kingdom's economic diversification.[3] Aramco successfully extracted lithium during a pilot project, and deputy minister of mining affairs [[khalid-al-mudaifer|Khalid bin Saleh Al-Mudaifer]] announced plans to scale the initiative through a commercial pilot program focused on direct lithium mining, to be led by [[lihytech|Lithium Infinity, also known as LiHyTech]], a startup from [[king-abdullah-university-of-science-and-technology|King Abdullah University of Science and Technology]].[3]
+
+The underlying extraction technology was developed by Saudi researchers with investment from Aramco and [[maaden|Ma'aden]], and had been constrained by high costs relative to conventional mining and by the low lithium content of ordinary brine.[3] Aramco set up the pilot at an oilfield it was already drilling; because the oilfield brine — water, salts, oil, and injected sterile water, and the largest byproduct of oil and gas extraction — was already a sunk cost for Aramco, LiHyTech's extraction costs were minimized, and the field proved rich in lithium with a far higher yield than typical brine.[3] Other major oil companies including [[exxon-mobil|Exxon Mobil]] were subsequently reported to be planning similar pilot programs at their own oilfields to extract "white gold" from brine.[3]
+
+Badlands commentary treated the result as proof of concept for Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s [[saudi-vision-2030|Saudi Vision 2030]], suggesting Saudi Arabia could leverage its oil and gas production to become a leading lithium producer and a force in the technology sector as well as energy.[3]
+
+## Badlands framing of Aramco in the PIF diversification strategy (2024)
+
+In November 2024 Badlands Media identified [[yasir-al-rumayyan|Yasir Al-Rumayyan]] as chairman of Aramco as well as governor of the [[public-investment-fund|Public Investment Fund]], and cited the first-ever public sale of Aramco shares as a central plank of Saudi Arabia's effort to divest its wealth out of oil under Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]].[4] Aramco was also named among the holdings underpinning the reported $1.2 trillion in assets controlled jointly by Al-Rumayyan and [[elon-musk|Elon Musk]], the two men who flanked President-elect [[donald-trump|Donald Trump]] at UFC 309.[4]
+
 ## References
 1. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 2. Badlands Brief — "Badlands News Brief: Firing Squads, Purebloods and Woke's Decline", URL: https://badlands.substack.com/p/badlands-news-brief-70d
+3. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+4. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a

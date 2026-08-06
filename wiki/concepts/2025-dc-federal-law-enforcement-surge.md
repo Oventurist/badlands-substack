@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [washington-dc, crime, federal-law-enforcement, 2025]
-sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d1c.md]
+sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -36,7 +36,12 @@ On 11 August 2025 President [[donald-trump|Donald Trump]] said he was taking ove
 
 [[burning-bright|Burning Bright]] described the initiative as a diagnostic instrument rather than routine policy — a "narrative incursion" whose optics forced the capital's governing class to reveal existential as well as ideological fissures, and which advanced the argument that sovereignty without security is illusory while security without sovereignty becomes oppression.[3] [[jon-herold|Jon Herold]] noted that the previous time Trump called in the National Guard to restore order in Washington was after the St. John's church walk in June 2020.[3] Former House Speaker [[nancy-pelosi|Nancy Pelosi]] attacked the order as a distraction, prompting a rebuttal from former Capitol Police chief [[stephen-sund|Steven Sund]] over her handling of January 6 Guard requests.[3]
 
+## National Guard deployment (August 12, 2025)
+
+National Guard troops began deploying in Washington on the evening of Tuesday, August 12, 2025, as President [[donald-trump|Donald Trump]]'s plan to use the federal government to crack down on crime in the city took shape.[4] About a dozen members of the [[national-guard|National Guard]] appeared in five military vehicles near the Washington Monument at sunset, with an Army official saying troops were continuing to gather at the D.C. Armory and were expected to deploy around national monuments and near a U.S. Park Police facility in the Anacostia neighborhood of southeast Washington.[4] Trump had described the capital the previous day in apocalyptic terms as a crime-infested wasteland, a characterization that press coverage noted disregarded falling crime figures over the preceding two years, and it remained unclear whether the eventual show of force would match the rhetoric.[4] Badlands contributor Burning Bright framed the move as a federalization of Washington — "the heart of the Swamp" — laden with plan allusions and signaling the presence of an "invisible enemy," writing that Trump had both D.C. and Brussels held fast in a "Liberation Daze."[4]
+
 ## References
 1. Badlands News Brief — "Alaska For Peace, Iranian Objections, & A Mid-Decade Census", URL: https://badlands.substack.com/p/badlands-news-brief-50f
 2. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 3. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c
+4. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, conservative, campus-politics]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b53.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-ed9.md]
 confidence: low
 ---
 
@@ -79,6 +79,10 @@ After President [[donald-trump|Donald Trump]] publicly acknowledged "real starva
 
 At the end of September 2025 Kirk's letter to Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] was published in full, following accusations that it had initially been misrepresented.[13] The letter had become a point of contention among conservatives feuding over Kirk's views on Israel since he was shot dead while speaking in Utah on September 10.[13] Netanyahu had quoted from the letter when speaking about Kirk in the aftermath of the assassination, but conservative podcaster [[candace-owens|Candace Owens]], a friend of Kirk's, said Netanyahu "did not give the letter the proper context."[13] After the New York Post published the full text, some commentators argued that Owens' own narrative had been disproved.[13]
 
+## Memorial and Trump eulogy (September 2025)
+
+At the hourslong memorial celebration of Kirk's life on 21 September 2025, President [[donald-trump|Donald Trump]] delivered the final speech, eulogizing him as a "martyr" and calling his killing a threat to the entire country: "It was an assault on our most sacred God-given liberties and God-given rights. The gun was pointed at him, but the bullet was aimed at all of us."[14] Trump described the killer as a "radicalized cold-blooded monster," attributed most political violence to the "radical left," and vowed that his Justice Department would pursue those who fund and perpetrate it.[14] The service, held at State Farm Arena in Glendale, Arizona, before more than 60,000 mourners, blended Christian themes of martyrdom with patriotism, and also produced a public reconciliation between Trump and [[elon-musk|Elon Musk]].[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], writing about Israeli opposition to Palestinian statehood recognition, argued that the episode helped explain why Kirk had felt the urge to deviate from "the issued talking points."[14]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -93,3 +97,12 @@ At the end of September 2025 Kirk's letter to Israeli Prime Minister [[benjamin-
 11. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 12. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 13. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+14. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+
+## Aftermath: speech debate and memorial (September 2025)
+
+Kirk's killing became the immediate backdrop for a national argument over speech policing in September 2025.[15] Attorney General [[pam-bondi|Pam Bondi]], asked on [[katie-miller|Katie Miller]]'s podcast whether law enforcement would be sent after groups engaged in hate speech following Kirk's death, said the government would "absolutely target you, go after you if you are targeting anyone with hate speech."[15] The backlash was broad, and critics circulated Kirk's own words in rebuttal: "Hate speech does not exist legally in America. There's ugly speech. There's gross speech. There's evil speech. And of it is protected by the [[first-amendment|First Amendment]]. Keep America free."[15] Bondi backpedaled the next day.[15]
+
+[[turning-point-usa|Turning Point USA]] announced that President [[donald-trump|Donald Trump]] and Vice President [[jd-vance|JD Vance]] would deliver remarks at Kirk's memorial service in Arizona, alongside his widow [[erika-kirk|Erika Kirk]] and a slate of administration officials and media figures.[15] Badlands commentary also drew a parallel between celebrations of Kirk's death on parts of the left and the earlier lionization of [[luigi-mangione|Luigi Mangione]] after the killing of [[brian-thompson|Brian Thompson]].[15] See [[charlie-kirk-memorial-service|Charlie Kirk memorial service]].[15]
+
+15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

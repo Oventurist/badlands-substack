@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [beef, agriculture, sponsor, small-business]
-sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-e38.md]
 confidence: low
 ---
 
@@ -40,3 +40,9 @@ A sponsored placement in the Badlands News Brief of June 20, 2025 promoted Rattl
 3. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 4. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
 5. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+
+
+## June 2025 sponsorship
+A June 2025 sponsored item in the Badlands News Brief promoted Rattlesnake Meat Company as family-owned, American-raised and "100% independent," contrasting it with imported beef from the "Big Four" and invoking the 1773 dumping of tea as a precedent for resisting tyranny through consumption choices.[6] The promotion offered $20 off with the code PATRIOT20 for orders placed by June 30 in time for the Fourth of July.[6]
+
+6. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

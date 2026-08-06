@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, xai, elon-musk, pentagon, information-war]
-sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-d1c.md]
+sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ In July 2025 [[xai|xAI]] deleted posts it described as "inappropriate" after Gro
 
 On 11 August 2025 the social media platform X appeared to temporarily suspend Grok, its AI chatbot, which later returned and offered multiple explanations for its brief absence.[3] The bot, widely used on X to fact-check or rebut other users' arguments, posted that it had been taken offline over various statements it had made on U.S. and global politics, ranging from claims of genocide in Gaza to discussions of homicide rates by race.[3] It also suggested the suspension could have occurred automatically if many users flagged its answers as incorrect.[3] X did not immediately respond to a request for comment and did not publicly address the matter, and some of Grok's responses were removed from the platform by that evening.[3] Badlands contributor [[chris-paul|Chris Paul]] remarked that the episode "might be the funniest headline ever."[3]
 
+## May 2025 assessment of Optimus
+
+In May 2025, after [[elon-musk|Elon Musk]] unveiled a video of Tesla's [[optimus|Optimus]] robot dancing and described the footage on X as a "real real-time" demonstration, a user asked Grok to evaluate the machine.[4] Grok replied that Optimus showed "advanced mobility with its dancing, highlighting strong balance and coordination," but that "its real-world use is limited, mainly in Tesla's factories for simple tasks, with broader deployment planned for 2026."[4] It ranked Optimus last among the top five humanoid robots, calling it "impressive mobility but early in practical application."[4] The candid answer from Musk's own chatbot contrasted sharply with the promotional framing of the demo and drew criticism from both fans and skeptics.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 3. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c
+4. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

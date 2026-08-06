@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, protests, reza-pahlavi, color-revolution, regime-change, bazaar]
-sources: [raw/badlands-news-brief-752.md]
+sources: [raw/badlands-news-brief-752.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ On Monday, December 29, 2025, exiled Iranian Crown Prince [[reza-pahlavi|Reza Pa
 
 Separately, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the events as a color revolution launched against the government of Iran alongside threats to kill as many Iranians as necessary to conquer the country, arguing that this was "the behavior of villains."[1]
 
+## Spread of the protests (late December 2025)
+
+Protests and strikes over inflation and currency devaluation spread from Tehran to several other Iranian cities on a third consecutive day of unrest at the end of December 2025.[2] The demonstrations began on Sunday, December 28, after shopkeepers in Tehran's Grand Bazaar staged a strike when the Iranian rial hit a record low against the US dollar on the open market.[2] Videos verified by BBC Persian showed demonstrations in Karaj, Hamedan, Qeshm, Malard, Isfahan, Kermanshah, Shiraz and Yazd, with police using tear gas to disperse crowds.[2] The Iranian government said it "recognises the protests" and would listen "with patience, even if it is confronted with harsh voices."[2]
+
+Israeli commentator [[emily-schrader|Emily Schrader]] publicly called on Prime Minister [[benjamin-netanyahu|Netanyahu]] to authorize "practical, technical, logistical and even kinetic support" for the protesters.[2] Badlands host [[chris-paul|Chris Paul]] cited the post as explaining renewed press questions to [[donald-trump|Trump]] about whether he would be willing to bomb Iran.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
+2. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

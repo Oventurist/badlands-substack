@@ -1,10 +1,10 @@
 ---
-title: Dominic LeBlanc
+title: "Dominic LeBlanc"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, politics, trade, public-safety]
-sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-2f5.md]
+sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-ddb.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ LeBlanc described the event as a three-hour social evening at the president's re
 
 Badlands writer [[burning-bright|Burning Bright]] read the episode differently, describing it as part of a "massive public humiliation ritual" of Trudeau and the globalist proxy states of Canada and Mexico ahead of Trump's second term, and as a signal to the would-be sovereign peoples of both nations that their own governments, not Trump, had sold them out.[2]
 
+## Retaliatory steel and aluminium tariffs (March 2025)
+
+As Canada's Finance Minister, LeBlanc announced on Wednesday, March 12, 2025 that [[canada|Canada]] would strike back against the [[trump-administration|Trump administration]]'s tariffs on steel and aluminium with retaliatory levies on $20.6 billion worth of imported U.S. goods.[3] He described the response as a "dollar-for-dollar" approach, introducing a 25% tariff set to take effect at 12:01 a.m. Eastern Time on Thursday.[3] "These tariffs will target US steel products worth $8.8 billion, aluminum products worth $2 billion and a range of other imports including computers and sports equipment," LeBlanc said. "Together we will do what we must to protect Canada's economy."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Ceasefires, Olive Branches ... and Scare Events?", URL: https://badlands.substack.com/p/badlands-news-brief-19a
 2. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
+3. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb

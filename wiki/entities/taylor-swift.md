@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [entertainment, music, 2024-election, psyop, narrative]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ea6.md]
 confidence: medium
 ---
 
@@ -48,6 +48,16 @@ Swift's relationship with Kansas City Chiefs tight end [[travis-kelce|Travis Kel
 
 Badlands contributor [[burning-bright|Burning Bright]] cited Swift's endorsement of [[kamala-harris|Kamala Harris]] as a moment that entrenched the entertainer as "firmly Establishment in the normie hivemind," placing it in a sequence with the federal RICO indictment of [[sean-combs|Sean "Diddy" Combs]] days later as evidence of a larger narrative unfolding in the entertainment industry.[7]
 
+## Post-endorsement polling (September 2024)
+
+A YouGov poll released Saturday, September 14, 2024, after Swift's endorsement of [[kamala-harris|Kamala Harris]] and running mate [[tim-walz|Tim Walz]], found the nod may repel more voters than it attracts.[8] Eight percent of voters said the endorsement made them "somewhat" or "much more likely" to vote for the Democrat, while 20 percent said it made them "somewhat" or "much less likely" to do so; 66 percent said it made no difference to their vote in November.[8] Swift had announced her choice in an Instagram post to her 283 million followers shortly after the September 10 debate, writing: "I've done my research, and I've made my choice... Your research is all yours to do, and the choice is yours to make."[8]
+
+## Variety endorsement pressure campaign (September 2024)
+
+Before her endorsement, Swift was the target of a public pressure campaign from within the entertainment press.[9] On Monday, September 9, 2024, the Hollywood trade publication [[variety|Variety]] published a column calling Swift's continued silence on the 2024 election "regrettable" in light of her past political support for Democrats, including [[joe-biden|Joe Biden]], and attempting to shame her into endorsing [[kamala-harris|Kamala Harris]].[9] The column even called out Swift for socializing with [[brittany-mahomes|Brittany Mahomes]], whom [[donald-trump|Donald Trump]] had thanked for her support.[9] [[breitbart|Breitbart]] noted that the column followed two major polls trusted by leftists showing Trump pulling slightly ahead of Harris nationwide, a setback for a campaign that had received extensive free hype from establishment media since Democrat elites installed her as nominee.[9]
+
+[[ashe-in-america|Ashe in America]] wrote that "you know the Harris campaign is going well when regime shills are politi-shaming Taylor Swift into endorsing their candidate," arguing that polls are fabricated for narrative and that even the fabricated ones could not overcome Harris' lack of support: "If you need a pop star to pretend you're popular, you're not popular."[9] She added a personal aside on the darkness of Swift's most recent album, quoting lyrics such as "I'm miserable, and nobody knows" and "I leap from the gallows," and concluding, "Seriously, someone check on Tay-Tay."[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
@@ -57,3 +67,5 @@ Badlands contributor [[burning-bright|Burning Bright]] cited Swift's endorsement
 5. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
 6. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
 7. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+8. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14
+9. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

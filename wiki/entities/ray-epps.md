@@ -3,8 +3,8 @@ title: Ray Epps
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
-tags: [january-6, capitol, testimony, perjury]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-484.md]
+tags: [january-6, capitol, testimony, perjury, defamation]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e18.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -31,3 +31,25 @@ On Tuesday, January 9, 2024, Epps was sentenced to a year of probation for joini
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 2. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 3. Badlands Brief — "Presidential Immunity & Rugpulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-484
+
+## July 2023 Wray hearing
+
+Republicans raised Epps during [[christopher-wray|Christopher Wray]]'s [[2023-wray-house-judiciary-testimony|July 12, 2023 House Judiciary testimony]], alongside questions about internal [[fbi|FBI]] corruption and the persecution of parents at school board meetings.[4]
+
+4. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## Fox News lawsuit and impending charges (July 2023)
+
+In a lawsuit filed Wednesday, July 12, 2023 against [[fox-news]] — see [[epps-v-fox-news]] — Epps accused former host [[tucker-carlson]] of defaming him, and his attorneys disclosed that the [[department-of-justice|Department of Justice]] had notified him in May 2023 that it would seek to charge him criminally for events on January 6, 2021, two and a half years later.[5] The filing argued that "the relentless attacks by Fox and Mr. Carlson and the resulting political pressure likely resulted in the criminal charges."[5] Epps, then 62, had in March 2023 retained attorney [[michael-teter|Michael Teter]], formerly of [[perkins-coie]], who demanded that Carlson retract statements describing Epps as a January 6 government plant.[5] Reporting aggregated by [[zerohedge]] noted a text message in which Epps told his nephew, "I was in the front with a few others. I also orchestrated it."[5]
+
+[[ashe-in-america|Ashe in America]] wrote that on the night of January 5, 2021 Epps, in the company of [[john-sullivan|John "JaydenX" Sullivan]], shouted "Tomorrow, we're gonna go into the Capitol!" and that the crowd immediately began chanting "Fed! Fed! Fed!" — evidence, in her view, that public suspicion of Epps arose from his own conduct rather than from Fox's coverage.[5] She argued that despite the tape evidence against him Epps was removed from the watch list and became "the darling of the sham J6 Committee," with former Rep. [[adam-kinzinger|Adam Kinzinger]] coaching him through his testimony.[5] The charging news broke hours after Rep. [[troy-nehls|Troy Nehls]] pressed FBI Director [[christopher-wray|Christopher Wray]] on the failure to charge Epps and Wray declined to comment beyond objecting to the suggestion that the [[fbi|FBI]] would incite an insurrection.[5]
+
+5. Badlands Brief — "All the World's a Stage ... And the Actors Are on Strike", URL: https://badlands.substack.com/p/badlands-news-brief-e18
+
+## September 2023 disorderly conduct charge
+
+On September 19, 2023, Epps was charged with a single count of disorderly or disruptive conduct in a restricted building or grounds, according to a filing from federal prosecutor Michael Gordon.[6] The court document stated that Epps did "engage in disorderly and disruptive conduct" at the Capitol with the intent to "in fact impede and disrupt the orderly conduct of Government business and official functions."[6] The penalty for the offense is a fine, imprisonment for not longer than one year, or both.[6] Reporting noted that Epps had travelled from Arizona to Washington, D.C. on January 5, 2021, where he was filmed encouraging people to go "into the Capitol," and was seen again protesting outside the Capitol the following day.[6] Forbes framed the charge as arriving after the absence of charges had led figures such as [[tucker-carlson|Tucker Carlson]] to claim Epps was a government provocateur.[6]
+
+[[ashe-in-america|Ashe in America]] responded that Epps had received one count of disorderly conduct "after two and a half years of being protected by the government," citing again his text to his nephew reading "I orchestrated it."[6] She called the charge poor cover-up material, argued that Epps was widely understood to be an asset for [[nancy-pelosi|Nancy Pelosi]] and the coup-plotters, and noted polling indicating that roughly two thirds of Americans believed the "Insurrection" had been orchestrated by the government.[6] Coming a day after former Capitol Police Chief [[steven-sund|Steven Sund]]'s testimony at the [[2023-house-capitol-security-oversight-hearing|House Capitol security oversight hearing]], the charging decision struck her as an afterthought meant to distract from the ongoing exposure of the [[fedsurrection|FedSurrection]].[6]
+
+6. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [columbia-university, campus-protests, gaza, antisemitism, nypd]
-sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a46.md]
+sources: [raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-e5c.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ On the same day, in brief remarks at the [[white-house]], Biden affirmed the imp
 
 Badlands contributor [[burning-bright|Burning Bright]] read the coverage as evidence of Crisis Convergence and Narrative Whiplash working against the establishment, listing among the messages being programmed into mainstream audiences that Biden was somehow against both sides of the Israel-Gaza inflection point, that chaos historically damages incumbents, and that mutual hatred of Biden had become the only point of agreement across the ideological extremes.[2] [[ashe-in-america|Ashe in America]] tied the campus scenes to [[barack-obama|Barack Obama]]'s 2008 pledge to "fundamentally transform" the United States, arguing the Ivy League was the place to start understanding that transformation because, unlike earlier protest movements, "these people will be working at our top law firms, in media organizations and in the [[state-department|State Department]]."[2]
 
+## Alleged Soros funding and nationwide spread
+
+An April 26, 2024 New York Post report alleged that [[george-soros|George Soros]] and allied left-wing funders were paying agitators fuelling the nationwide explosion of anti-Israel campus protests, which had begun when students took over Columbia University's Morningside Heights campus lawn the previous week.[3] Copycat tent cities were established at colleges including [[harvard-university|Harvard]], [[yale-university|Yale]], Berkeley, the Ohio State University and Emory in Georgia — all of them, the Post said, organized by branches of the Soros-funded Students for Justice in Palestine — and at some campuses students clashed with police.[3] The Post reported that the [[national-students-for-justice-in-palestine|SJP]] parent organization had been funded by a network of nonprofits ultimately financed by Soros among others.[3] Badlands contributor GhostofBasedPatrickHenry cited the report as an example of the [[controlled-opposition|controlled opposition]] model, in which paid operatives are deployed to generate animosity and draw in sympathisers on both sides of an engineered paradigm.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Kangaroo Courts and Administrative Pedophiles", URL: https://badlands.substack.com/p/badlands-news-brief-0d4
 2. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
+3. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c

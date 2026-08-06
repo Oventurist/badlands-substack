@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pakistan, middle-east, diplomacy, iran, trump]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-708.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-news-brief-f53.md]
 confidence: low
 ---
 
@@ -26,3 +26,8 @@ When Trump announced in June 2026 that the deal with Iran was "now complete," Sh
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
 2. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
+3. Badlands Brief — "Trumpian Taboos, Muskian Censorship & Saudi Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-f53
+
+## April 2024 meeting with Mohammed bin Salman
+
+On April 8, 2024, shortly after assuming office, Sharif held an official meeting with Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] at Al-Safa Palace in Makkah Al-Mukarramah, where the Crown Prince congratulated him on his appointment and Sharif conveyed gratitude for the Kingdom's steadfast support and hospitality.[3] The two reaffirmed their commitment to expediting a first wave of a $5 billion investment package and to strengthening trade and investment ties, and jointly urged international pressure on Israel to halt military operations in Gaza and to advance a two-state solution with East Jerusalem as the Palestinian capital.[3] Badlands commentary noted that the Crown Prince also called on India to resolve its long-running dispute with [[pakistan|Pakistan]] over Kashmir and Jammu during the same period.[3] See [[2024-saudi-pakistan-crown-prince-summit|2024 Saudi–Pakistan Crown Prince summit]].[3]

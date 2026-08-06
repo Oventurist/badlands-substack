@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bird-flu, public-health, cdc, virology, h5n1]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-970.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-970.md, raw/badlands-news-brief-d8c.md]
 confidence: medium
 ---
 
@@ -46,6 +46,10 @@ In late February 2023 US health officials ramped up pandemic preparedness plans 
 
 Commenting in the [[badlands-news-brief|Badlands News Brief]], [[absolutetruth1776|AbsoluteTruth1776]] mocked the notion that the CDC could be trusted given its handling of COVID-19, and suggested that for anyone attentive to narrative seeding it was no leap to read the announcement as groundwork for another pandemic through which the public could be controlled.[7] Citing the known existence of biolabs in Ukraine and surfacing ties between the [[national-institutes-of-health|NIH]] and the CCP and Wuhan, he argued it was no longer a conspiracy theory to suggest such actors were willing to biologically attack humanity to retain control, and said the remedy was awareness and spreading the word.[7]
 
+## Federal funding of the Moderna vaccine trial (2024)
+
+In late May 2024 the Financial Times reported that the US government was nearing an agreement to bankroll a late-stage trial of [[moderna|Moderna]]'s mRNA pandemic bird flu vaccine, hoping to bolster its pandemic jab stockpile as an H5N1 outbreak spread through egg farms and among cattle herds.[8] The federal funding from the Biomedical Advanced Research and Development Authority (Barda) could come as early as the following month, according to people close to the discussions, and was expected to total several tens of millions of dollars, potentially accompanied by a commitment to procure doses if the phase-three trials succeeded.[8] Talks between the government and [[pfizer|Pfizer]] over supporting development of its own mRNA vaccine targeting the H5 family of viruses were also ongoing; both companies had played pivotal roles in supplying mRNA vaccines during the Covid-19 pandemic rollout.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -55,3 +59,4 @@ Commenting in the [[badlands-news-brief|Badlands News Brief]], [[absolutetruth17
 5. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 6. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 7. Badlands Brief — "Drones in Russia, J6 Footage & Socialist Policies", URL: https://badlands.substack.com/p/badlands-news-brief-970
+8. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c

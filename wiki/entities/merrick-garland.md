@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, mar-a-lago, weaponization]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-c9d.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f61.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -99,8 +99,19 @@ Commenting on the June 8, 2023 [[2023-trump-classified-documents-indictment|indi
 
 Late on Friday, June 14, 2024, the [[department-of-justice|Department of Justice]] refused to act on the congressional contempt referral against Garland, declining to prosecute the sitting Attorney General.[16] Badlands contributor [[ashe-in-america|Ashe in America]] cited the refusal in questioning the value of Congress's investigative campaigns, including the [[house-oversight-committee|House Oversight Committee]] probe of [[newsguard|NewsGuard]] announced the day before.[16] Garland's name also headed the caption of [[garland-v-cargill|Garland v. Cargill]], the Supreme Court case decided that same day invalidating the [[bump-stock-ban|bump stock rule]] his department had defended.[16]
 
-## References
+## 2024 investigation of Kremlin-linked US commentators
 
+As Attorney General, Garland oversaw a Justice Department push, reported in August 2024, to investigate Americans with ties to [[vladimir-putin|Vladimir Putin]]'s state television networks as part of a broad effort to quash potential Kremlin interference in the 2024 presidential election.[20] The [[fbi|FBI]] had earlier that month searched the homes of former UN weapons inspector [[scott-ritter|Scott Ritter]] and of Russian-born [[dimitri-simes|Dimitri Simes]], a former adviser to [[donald-trump|Donald Trump]]'s 2016 campaign, and officials indicated further searches were likely with criminal charges not ruled out.[20] Badlands framed the initiative as Garland's DOJ "going after Putin's mouthpieces" and warned it risked sweeping in ordinary commentators who shared Russian material online.[20]
+
+## Hur recordings and contempt effort (July 2024)
+
+In July 2024 the Justice Department under Garland disclosed that it had located transcripts of President [[joe-biden|Joe Biden]]'s interviews with a biographer that it had previously denied possessing, records tied to special counsel [[robert-hur|Robert Hur]]'s classified-documents investigation.[22] The department argued that releasing audio of Biden's interviews would violate the president's privacy, invite abuse such as deepfakes, and deter future witnesses, while Biden asserted executive privilege over the recordings in a bid to head off House Republicans' effort to hold Garland in contempt of Congress for refusing to release them.[22]
+
+## Contempt proceedings over the Hur recordings, May 2024
+
+On May 16, 2024, House Republicans prepared to meet to consider resolutions holding Attorney General Garland in contempt of Congress for failing to turn over audio recordings of President [[joe-biden|Joe Biden]]'s interviews with special counsel [[robert-hur|Robert Hur]], which had been subpoenaed by the House Judiciary and Oversight committees.[26] Hours before the meeting, Biden invoked executive privilege over the recordings, with [[white-house|White House]] counsel [[ed-siskel|Ed Siskel]] citing the president's commitment to the independence of the Department of Justice and questioning Republicans' motives.[26] The resulting [[house-oversight-committee|House Oversight Committee]] hearing descended into open acrimony between members.[26]
+
+## References
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
 2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 3. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -117,3 +128,38 @@ Late on Friday, June 14, 2024, the [[department-of-justice|Department of Justice
 14. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 15. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 16. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d
+17. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
+## Allegations of lying to Congress over the Hunter Biden probe (July 2023)
+In July 2023 the [[department-of-justice|Department of Justice]] was reported to be discussing a delay to [[hunter-biden|Hunter Biden]]'s plea hearing amid a firestorm of "sweetheart deal" allegations by whistleblowers and claims that Garland had lied to [[congress|Congress]] about the Biden criminal tax probe.[17] [[internal-revenue-service|IRS]] whistleblowers who had investigated the case for five years said more serious tax and corruption charges could have been brought, and Republican lawmakers pressed Judge [[maryellen-noreika|Maryellen Noreika]] to reject the agreement outright.[17]
+[[ashe-in-america|Ashe in America]] wrote that the prospect of Garland being placed "in the hot seat" for lying about the probe was the most significant element of the story, pointed to ongoing claims that House Republicans were planning impeachment proceedings against him, and argued that the criminal, weaponised Justice Department needed a reckoning and that Garland should be removed far from any centre of power.[17]
+## Hunter Biden plea deal, June 2023
+Announcing the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] on 20 June 2023, prosecutors under Garland's [[department-of-justice|Justice Department]] resolved the matter with two tax pleas and pretrial diversion on a gun charge.[18] [[tucker-carlson|Tucker Carlson]] said that "as far as Merrick Garland's Justice Department is concerned, Hunter Biden is done," and Badlands writers described the department's handling as narrative cover that avoided any charge touching influence peddling.[18]
+18. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+## July 2023 Wray hearing
+Rep. [[jim-jordan|Jim Jordan]] said the [[house-judiciary-committee|House Judiciary Committee]]'s July 12, 2023 hearing with [[christopher-wray|Christopher Wray]] would "examine the politicization" of the [[fbi|FBI]] under Wray and Attorney General Garland.[19]
+19. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+20. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+## Opposition to voter ID laws (March 2024)
+Appearing alongside Vice President [[kamala-harris|Kamala Harris]] in Selma, Alabama, on Sunday, March 3, 2024, Garland vowed to fight [[voter-id-laws|voter ID laws]], characterizing them as a plot to "disadvantage minorities" and describing voter ID and other voter integrity measures as "discriminatory, burdensome, and unnecessary."[21] The two spoke at an event commemorating the fifty-ninth anniversary of the Bloody Sunday attacks on civil rights marchers in Selma.[21] Garland recounted the history of voting rights for black Americans since the end of slavery, which he said had "never been steady," and charged that voter ID laws had made it harder "for millions of eligible voters to vote and to elect the representatives of their choice."[21] Speaking at Selma's Tabernacle Baptist Church, he said the measures at issue "include practices and procedures that make voting more difficult; redistricting maps that disadvantage minorities; and changes in voting administration that diminish the authority of locally elected or nonpartisan election administrators," adding that "such measures threaten the foundation of our system of government."[21]
+[[ashe-in-america|Ashe in America]] responded that it almost defied belief for the Biden [[department-of-justice|Justice Department]] to prioritize eliminating ballot security measures before a presidential election with what she cited as 8 million known criminal migrants in the interior, called the suggestion that black Americans cannot obtain identification inexcusably racist, and asked how the nation's chief law enforcement officer removing election security measures under those conditions could be described as anything other than treason.[21]
+21. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+22. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Foreign interference warnings contradicted by ODNI (September 2024)
+
+In early September 2024 Garland issued dire warnings about foreign influence targeting the 2024 election, accompanied by charges against Russian media figures.[23] Days later, on September 6, the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] announced through its [[foreign-malign-influence-center|Foreign Malign Influence Center]] that the intelligence community "has not observed any foreign actor seeking to interfere in the conduct of the 2024 elections," a finding widely characterized as undercutting Garland's remarks.[23] Coverage of the sequence framed the Justice Department's foreign interference claim as a device used to smear conservative pundits.[23]
+
+23. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
+
+## Disposition of the Jack Smith report (November 2024)
+
+With special counsel [[jack-smith|Jack Smith]] and his team planning to resign before [[donald-trump|Donald Trump]] took office, Justice Department regulations required Smith's office to deliver a confidential report on its charging decisions to Attorney General Garland, who retained discretion over whether to make it public.[24] Whether that report would be released before Inauguration Day was described as the looming question of the weeks ahead.[24]
+
+24. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
+
+## Appointment of a special counsel in the Hunter Biden probe (August 2023)
+
+On Friday, August 11, 2023, Garland appointed a special counsel in the [[hunter-biden|Hunter Biden]] probe, a surprise move that deepened the investigation into the president's son ahead of the 2024 election.[25] He cited the "extraordinary circumstances" of the matter as he named [[david-weiss|David Weiss]], the U.S. attorney in Delaware already probing Hunter Biden's financial dealings, after plea deal talks broke down; Weiss had requested the designation, which gave him broad authority to investigate and report out his findings.[25] The step came as Garland's [[us-department-of-justice|Justice Department]] was simultaneously prosecuting former President [[donald-trump|Donald Trump]] in two separate cases, placing questions about both families at the forefront of the election.[25] See [[hunter-biden-special-counsel-appointment|Hunter Biden special counsel appointment]].[25]
+
+25. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+26. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

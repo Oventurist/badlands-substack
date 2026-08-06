@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, al-qaeda, regime-change, proxy-war]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-99e.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-dae.md]
 confidence: medium
 ---
 
@@ -96,6 +96,10 @@ Badlands commentary argued that western and Israeli media had tripped over thems
 
 Damascus fell in early December 2024 to a coalition of armed opposition forces led by HTS, an event that immediately preceded Israeli forces moving deeper into Syrian territory and seizing the post-1973 demilitarized buffer zone adjacent to the [[golan-heights|Golan Heights]].[11] Badlands contributor [[burning-bright|Burning Bright]] observed that even globalist media found it strange that the advancing forces met little to no resistance from [[bashar-al-assad|Assad]]'s Syrian army as they marched on Aleppo and Damascus, questioning whether Assad had truly fled on a whim or had already been in Moscow for some time.[11] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that "ConInc" and [[benjamin-netanyahu|Netanyahu]] were effectively celebrating Al Qaeda — the group purportedly responsible for 9/11 and for much of the subsequent destabilization of the Middle East.[11]
 
+## Alleged Ukrainian training in Idlib (2024)
+
+Damascus told RT in November 2024 that Ukrainian operatives were [[alleged-ukrainian-cooperation-with-jihadists-in-syria|training HTS militants]] in suicide drone operations and supplying such weapons, in exchange for manpower.[13] A Russian soldier using the callsign "Gilza" said there was "real confirmation of the Ukrainian instructors' presence in Syria," and RT correspondent Roman Kosarev reported seeing "undeniable evidence" of an alliance between Kiev and the group.[13] By that point HTS, formerly Jabhat al-Nusra, had been reduced to parts of Idlib province, an outcome attributed partly to Russian support for the Syrian government.[13]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -109,3 +113,13 @@ Damascus fell in early December 2024 to a coalition of armed opposition forces l
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
 10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 11. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
+
+## December 2024 offensive on Hama and Aleppo
+
+HTS, previously known as the al-Qaeda affiliate Jabhat al-Nusra, launched a surprise attack from Idlib in late November 2024 and had taken [[aleppo|Aleppo]] and [[hama|Hama]] within roughly a week.[12] Asked by [[tucker-carlson|Tucker Carlson]] who was supporting the group, Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] said public-domain information named "the Americans, the Brits," and that some said Israel wished to aggravate the situation to divert scrutiny from Gaza.[12]
+
+The offensive was conducted alongside the [[syrian-national-army|Syrian National Army]], an umbrella of Turkish-backed Syrian militias, and its capture of Aleppo was described as a stunning prize that reignited a civil war largely stalemated for years.[12] Syria's Defense Ministry said cadets and officers of the Assad Military Engineering Academy near Aleppo had been besieged by militants using medium- and heavy-caliber weapons, tanks, artillery and advanced drones, and were rescued in a joint Syrian-Russian counter-terrorism operation, with some killed and others injured.[12] Insurgents entered Hama on December 5, 2024, as government forces withdrew, and were reported to be setting their sights on Homs, the gateway to [[damascus|Damascus]].[12]
+
+Hezbollah's acting leader [[naim-qassem|Naim Qassem]] said the same week that his organisation would help the Syrian government fight the jihadists and called on Arab states to support Damascus, asserting that "aggression on Syria is sponsored by America and Israel" and that Islamists "have always been their tools since 2011."[12]
+12. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6
+13. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae

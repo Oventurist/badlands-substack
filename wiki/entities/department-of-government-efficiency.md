@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doge, federal-workforce, executive-order, government-reform, technology]
-sources: [raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-cb6.md]
+sources: [raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-dca.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -38,7 +38,43 @@ On 11 February 2025 [[elon-musk|Elon Musk]] appeared in the Oval Office to answe
 
 DOGE's early work spanned several agencies. The team publicised its discovery that [[fema|FEMA]] had sent $59 million to luxury New York City hotels to house illegal migrants, a finding that led the [[department-of-homeland-security|Department of Homeland Security]] to fire four employees including FEMA's chief financial officer.[3] DOGE simultaneously pored over the [[consumer-financial-protection-bureau|Consumer Financial Protection Bureau]]'s internal finance and procurement data while that agency, under acting director [[russ-vought|Russell Vought]], cancelled more than $100 million in vendor contracts.[3]
 
+## Departure of Edward Coristine (June 2025)
+
+[[edward-coristine|Edward "Big Balls" Coristine]], one of the first technologists hired as part of DOGE, was no longer working for the federal government as of late June 2025.[4] His [[general-services-administration|General Services Administration]] Google Workspace account was deactivated on Tuesday, June 24, and his name disappeared from a [[white-house|White House]] contact list of current DOGE employees on the federal payroll maintained by a senior administration official.[4] In May he had attended regular meetings with departments and agencies, including a May 5 meeting with the Commerce Department on the golden visa, a May 15 meeting on implementing the DOGE agenda at the military, and a May 22 meeting with the Treasury Department.[4] Badlands contributor [[gmoney|GMONEY]] remarked that "Big Balls resigned from the federal govt yesterday, per a White House official."[4]
+
+## "Special Report" interview and savings claims (March 2025)
+
+On Thursday, March 27, 2025, DOGE head [[elon-musk|Elon Musk]] and seven members of the team gave an exclusive sit-down interview to Fox News's "Special Report," offering what the network described as an unprecedented peek behind the curtain of the cost-cutting effort.[5] "We want to reduce spending by eliminating waste and fraud and reduce the spending by 15%, which seems really quite achievable," Musk told executive editor [[bret-baier|Bret Baier]], adding that "the government is not efficient, and there's a lot of waste and fraud," and expressing confidence that a 15% reduction could be achieved without affecting critical government services.[5]
+
+As of March 27, DOGE claimed on its website that it had saved Americans $130 billion, or $807.45 per taxpayer.[5] President [[donald-trump|Donald Trump]] had tasked the organization with optimizing the federal government, streamlining operations, and slashing spending, giving it 18 months to do so.[5] By that point the department had cancelled numerous diversity, equity and inclusion initiatives at federal agencies, consulting contracts, leases for underused federal buildings, and duplicate agencies and programs.[5]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] highlighted a related claim circulated by [[nick-sortor|Nick Sortor]] on X that DOGE had revealed 40% of calls to Social Security came from fraudsters, asking how such a state of affairs could have persisted for years.[5] She observed that loud and bipartisan appeals to "protect Social Security" from cuts had been the political third rail her entire life, and asked whether that protest was a cover for massive fraud and whether legislators had deliberately traumatized seniors to shield it — adding that if so, she would not be surprised, and questioning how it would not amount to terrorism.[5]
+
+## Treasury payment-system restriction (February 2025)
+
+A federal judge temporarily limited DOGE members from accessing the [[us-department-of-the-treasury|Treasury Department]]'s payment system in February 2025, one day before a DOGE employee linked to offensive social media posts resigned.[6] U.S. District Judge [[colleen-kollar-kotelly|Colleen Kollar-Kotelly]] issued the order after the [[alliance-for-retired-americans|Alliance for Retired Americans]], the [[american-federation-of-government-employees|American Federation of Government Employees]] and the [[service-employees-international-union|Service Employees International Union]] sued Treasury Secretary [[scott-bessent|Scott Bessent]] over the sharing of member data with [[elon-musk|Elon Musk]]'s team.[6] Access was confined to Treasury officials and two DOGE staffers, [[tom-krause|Tom Krause]] and [[marko-elez|Marko Elez]], with anyone who was not a Special Government Employee excluded.[6]
+
+Separately, DOGE's discovery of millions of dollars in federal agency subscriptions to Politico Pro precipitated a [[white-house|White House]] directive to the [[general-services-administration|General Services Administration]] to cancel every media contract expensed by that agency, including contracts with [[politico|Politico]], the BBC, E&E News and Bloomberg.[6]
+
+## Badlands framing at announcement
+
+In November 2024, Badlands Media described the Department of Government Efficiency as one of the most encouraging announcements in modern American history while noting that its memetic origins and the bombast of its leadership had "story" written all over it — part of the outlet's reading of Trump 2.0 as a public narrative translation of the [[great-awakening|Great Awakening]].[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
 2. Badlands Brief — "Badlands News Brief: Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 3. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+5. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca
+6. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+7. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+
+## Agency accounts for public tips (February 2025)
+
+On Monday, February 17, 2025, DOGE launched new social media accounts for a slate of federal agencies to make it easier for members of the public to submit tips about waste, fraud and abuse.[8] Accounts were created on X for more than two dozen agencies and listed as affiliates of the main DOGE account, posting that "DOGE is seeking help from the public!" and instructing users to direct-message the relevant account with insights on finding and fixing waste, fraud and abuse at that agency.[8] [[david-sacks|David Sacks]], the White House artificial intelligence and crypto czar, wrote on X that "there are now @DOGE accounts for every department, exposing the waste, fraud and abuse."[8] Badlands commentary called this the thing "the deep state is terrified about you learning," urging that agencies be audited, staff fired, and wrongdoers investigated and jailed.[8]
+
+## Chutkan denial of a restraining order (February 2025)
+
+On February 18, 2025, US District Judge [[tanya-chutkan|Tanya Chutkan]] declined to temporarily block [[elon-musk|Elon Musk]] and DOGE from accessing federal data systems at a number of executive branch agencies, denying a request from Democratic state attorneys general, though she signalled skepticism about the administration's characterization of Musk's role and powers within DOGE.[8]
+
+8. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

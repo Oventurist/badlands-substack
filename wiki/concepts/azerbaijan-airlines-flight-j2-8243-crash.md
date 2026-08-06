@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [aviation, azerbaijan, russia, kazakhstan, crash]
-sources: [raw/badlands-news-brief-890.md]
+sources: [raw/badlands-news-brief-890.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -22,3 +22,10 @@ The crash came shortly after drone strikes hit southern Russia, and drone activi
 
 ## References
 1. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
+
+## Aliyev's ground-fire claim
+
+In a Sunday interview with the state-run broadcaster AzTV, Azerbaijani President [[ilham-aliyev|Ilham Aliyev]] claimed the aircraft had been struck from the ground near the Russian city of Grozny.[2] He said the Embraer 190, flying from Baku to Grozny before diverting to Kazakhstan and crashing on Wednesday with the loss of 38 of the 67 people on board, "was damaged from the outside on Russian territory, near the city of Grozny, and almost got out of control."[2] Aliyev added that "we are also aware that our aircraft was rendered uncontrollable by electronic warfare means... In addition, the tail section of the plane was severely damaged by fire from the ground."[2] He said the exact circumstances would be established from the flight recorders but maintained that the preliminary versions were "well founded and based on facts."[2]
+
+Badlands commentary placed the crash within a series of long-range strikes far from the Ukrainian front — the [[2024-kazan-drone-attack|Kazan drone attack]] over 750 miles away and drone attacks at the Grozny airport in Chechnya over 600 miles away — and argued the [[central-intelligence-agency|CIA]] was the likely enabler, questioning why civilian infrastructure was being targeted and noting Grozny's important airport near the headquarters region of Russian special forces.[2]
+2. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

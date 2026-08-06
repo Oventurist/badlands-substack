@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, info-war, commentary, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -109,7 +109,24 @@ He also criticized [[seth-dillon|Seth Dillon]] of [[babylon-bee|The Babylon Bee]
 
 Responding to the Dallas [[immigration-and-customs-enforcement|ICE]] facility shooting, Chris Paul quoted a statement about Scranton workers making Pennsylvania "the arsenal of democracy" and standing with Ukraine, noting that a year earlier "the illegitimate governor of Pennsylvania," [[josh-shapiro|Josh Shapiro]], had signed munitions.[22] He compared this to [[israel-defense-forces|IDF]] soldiers signing ammunition after what he called the "Charlie Kirk" trauma event, asking who does such a thing, and mocked Fox News for inviting [[tim-pool|Tim Pool]] on to discuss "the latest ridiculous psyop."[22]
 
+## Commentary in the June 25, 2025 news brief
+
+Chris Paul contributed three takes to the Badlands News Brief covering Tuesday, June 24, 2025.[23] On [[zohran-mamdani|Zohran Mamdani]]'s lead over [[andrew-cuomo|Andrew Cuomo]] in the New York City Democratic mayoral primary, he wrote that a "Muslim socialist wins fake election decided in comic fashion against Andrew Cuomo," calling it "hilarious."[23] On the preliminary U.S. report finding that the strikes had set Iran's nuclear program back only a few months, he wrote that "the fake kinetic war is the fully-visible cover story for the very real information war."[23] On Rep. [[jasmine-crockett|Jasmine Crockett]]'s profane objection to the strikes, he said "Agent Crockett is crushing it," arguing that she was making it impossible for congressmen and senators to sell the claim that "we don't know anything."[23]
+
+## August 2025 commentary on Hamas
+
+Chris Paul argued that the arc from the October 7 attack through eventual confirmation of a Palestinian state and the end of "Hamas" constitutes a long, divisive narrative cycle acclimating the world to a post-2020 "new normal," and contended that a Palestinian state already exists and that terrorist groups function as private armies of a global regime, like the cartels.[24]
+
+## Criticism of the Iran deception narrative (June 2025)
+
+In the June 24, 2025 Badlands News Brief, Chris Paul asked readers to recall the previous week's claim, advanced by "the neocons and their useful idiots," that [[donald-trump|Trump]] and Benjamin Netanyahu had spent two months tricking the Iranians along with Saudi Arabia, Qatar, and the UAE — all of whom had greeted Trump as a king three weeks earlier.[25] He wrote that there was "absolutely no chance that was ever true," that it had been obvious at the time, and that people had nonetheless sided with "the Authoritative Sources."[25] He argued that the same commentators had spent the weekend behaving as though they were the ones strong enough to "bomb Iran" and destroy the nuclear program of people who chant "death to America," and concluded in blunt terms that such voices should have been discarded five years ago, telling readers unable to do so that they should accept they are "addicted to the Soap Opera."[25] See [[twelve-day-war|Twelve Day War]].[25]
+
+## Commentary on the Woodward lawsuit (2023)
+
+In the January 31, 2023 edition of the [[badlands-news-brief|Badlands News Brief]], Paul analyzed [[donald-trump|Donald Trump]]'s $50 million suit against [[bob-woodward|Bob Woodward]], [[simon-and-schuster|Simon & Schuster]] and [[paramount-global|Paramount Global]], writing that Woodward's team "changed [Trump's] words and the context" of them.[26] He questioned Woodward's reputation as the "best journalist ever," suggesting the standing held only among journalists working to take down duly elected presidents.[26] Paul argued that Woodward recorded Trump ostensibly to write a book and then doctored and sold the recordings, and that the most interesting part of the [[trump-v-woodward-lawsuit|lawsuit]] was the omitted conversation that, in his reading, totally refuted the basis for the Ukraine impeachment.[26] He expanded the argument in a Twitter thread linked from the brief.[26]
+
 ## References
+
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
 3. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
@@ -132,3 +149,7 @@ Responding to the Dallas [[immigration-and-customs-enforcement|ICE]] facility sh
 20. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 21. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 22. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+23. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+24. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+25. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+26. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

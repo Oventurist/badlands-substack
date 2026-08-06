@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-dbb.md]
 confidence: medium
 ---
 
@@ -162,6 +162,16 @@ Macron travelled to China in April 2023 for the [[2023-macron-state-visit-to-chi
 
 National-security analysts quoted by Michael Every of [[rabobank|Rabobank]] called the trip "one of the greatest blunders by a major European power since the end of the Cold War" and coined the verb "to Macron," meaning to deliberately increase one's dependency on China while lecturing European partners about naivety and strategic autonomy.[26] [[donald-trump|Donald Trump]], in a [[fox-news|Fox News]] interview with [[tucker-carlson|Tucker Carlson]], said Macron — whom he called "a friend of mine" — had been in China "kissing" Xi's "ass."[26] Badlands writer [[burning-bright|Burning Bright]] linked the visit to France agreeing to settle energy trades in yuan for the first time and to Macron's call for Europe to stop being "America's Followers."[26]
 
+## Proposal for intermediate Ukrainian security guarantees (2023)
+
+On May 31, 2023, Macron suggested that Ukraine could be offered "something between the security provided to Israel and full-fledged membership" in [[nato|NATO]], an intermediate security arrangement floated as debate over Ukrainian accession intensified ahead of the alliance's July 2023 Vilnius summit.[27] Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] rejected halfway measures the following day at the European Political Community summit in Chisinau, Moldova, insisting on membership and on security guarantees "now."[27]
+
+## Netanyahu ultimatum over Palestinian statehood (August 2025)
+
+On Tuesday, August 19, 2025, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] upbraided Macron in a letter seen by AFP, charging that the French president's move to recognize a Palestinian state fuels antisemitism and asserting that antisemitism had "surged" in France following the announcement.[28] The letter, framed as an ultimatum, drew a combative response from Paris.[28]
+
+Late in July 2025, Macron had said France would formally recognize a Palestinian state during a UN meeting in September, drawing a swift rebuke from Israel.[28] The announcement placed France among a growing list of nations to have recognized Palestinian statehood since the start of the Gaza war nearly two years earlier, with many Western nations following Paris's lead.[28] Badlands commentary grouped Macron with Australian Prime Minister [[anthony-albanese|Anthony Albanese]] as leaders whose nations were shifting away from unconditional support for Israel, and read Netanyahu's antisemitism accusation as a sign of "unbridled hubris."[28]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent", URL: https://badlands.substack.com/p/badlands-brief-1cd
@@ -190,3 +200,5 @@ National-security analysts quoted by Michael Every of [[rabobank|Rabobank]] call
 24. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 25. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
 26. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+27. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+28. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb

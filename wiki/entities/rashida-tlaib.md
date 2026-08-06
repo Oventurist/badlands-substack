@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, michigan, state-of-the-union]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md]
 confidence: medium
 ---
 
@@ -40,6 +40,10 @@ On November 7, 2023, the House passed a GOP-led resolution censuring Tlaib over 
 
 In October 2023, Tlaib repeatedly alleged that Israel was responsible for the [[al-ahli-baptist-hospital-explosion|al-Ahli Baptist Hospital explosion]] in Gaza, maintaining the claim even after President [[joe-biden|Joe Biden]] indicated that an [[palestinian-islamic-jihad|Islamic Jihad]] rocket launch had caused the blast.[6] Her stance intensified tensions within the Democratic Party and helped fuel a push by thirteen progressive Democrats for a resolution demanding that Biden declassify the underlying US intelligence and call for a ceasefire and humanitarian access to Gaza.[6] [[ashe-in-america|Ashe in America]] wrote that she had not expected to agree with Tlaib "in this lifetime," but supported the demand that the intelligence be declassified.[6]
 
+## Listen to Michigan and the 2024 primary
+
+Tlaib championed the [[listen-to-michigan|Listen to Michigan]] effort, allied with the nationwide [[abandon-biden|Abandon Biden]] campaign, which urged Democrats angered by President [[joe-biden|Joe Biden]]'s support for Israel to vote "uncommitted" in the [[2024-michigan-democratic-primary|2024 Michigan Democratic primary]].[7] More than 100,000 Michigan Democrats did so, accounting for 13.3% of the statewide total.[7]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -48,3 +52,7 @@ In October 2023, Tlaib repeatedly alleged that Israel was responsible for the [[
 4. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 5. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
 6. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+7. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+## Uncommitted vote on Super Tuesday 2024
+Badlands coverage of [[2024-super-tuesday|Super Tuesday]] 2024 described the [[uncommitted-movement|vote uncommitted movement]] as a protest effort led by Tlaib and the progressive Squad, intended as a show of force pressuring President [[joe-biden|Joe Biden]] on Palestine.[8] Uncommitted totals reached ten percent or more in the Democratic primaries in Minnesota, Massachusetts and North Carolina that night.[8]
+8. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1

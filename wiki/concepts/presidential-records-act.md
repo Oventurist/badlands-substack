@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, classified-documents, presidency, records]
-sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ DeLarme contrasted that protection with the position of [[joe-biden|Joe Biden]],
 
 1. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 2. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+
+## Invoked in the Trump documents case
+
+In June 2023, Badlands writer [[ashe-in-america|Ashe in America]] argued that [[donald-trump|Donald Trump]]'s ability to retain and declassify records was governed by the Presidential Records Act, that the question had been litigated in the "Clinton sock drawer case," and that Trump was therefore within the law and established precedent in his treatment of the documents at issue in the [[2023-trump-classified-documents-indictment|classified documents case]].[3] She contended that the [[department-of-justice|Justice Department]] charged Trump under the [[espionage-act|Espionage Act]] precisely because the records-act framework did not support prosecution.[3]
+
+3. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

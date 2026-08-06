@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, united-nations, trump-administration, foreign-policy]
-sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dca.md]
 confidence: medium
 ---
 
@@ -34,9 +34,16 @@ At the House Permanent Select Committee on Intelligence's Annual Threat Assessme
 
 On Tuesday, December 2, 2025, Stefanik publicly accused Speaker [[mike-johnson|Mike Johnson]] of lying and of protecting the "deep state" — described as a remarkable development even by the chaotic standards of the 119th Congress, given that the accusation came from a member of his own leadership team.[5] In a separate provocation she signed on to an effort to force a floor vote on legislation Johnson had kept bottled up.[5] Reporting characterized the episode as the latest symptom of a House Republican Conference on a razor's edge, with rank-and-file members increasingly airing their disputes with the speaker in public as his slim majority threatened to narrow further and potentially devastating midterm elections loomed.[5]
 
+## Withdrawn UN ambassador nomination (March 2025)
+
+On Thursday, March 27, 2025, President [[donald-trump|Donald Trump]] withdrew Stefanik's nomination to serve as United States ambassador to the [[united-nations|United Nations]], saying the New York Republican's departure from the House posed an unacceptable risk to passage of his marquee legislation given the party's slim majority.[6]
+
+"As we advance our America First Agenda, it is essential that we maintain EVERY Republican Seat in Congress. We must be unified to accomplish our Mission, and Elise Stefanik has been a vital part of our efforts from the very beginning," Trump wrote on Truth Social.[6] He added that he had asked Stefanik, "as one of my biggest Allies, to remain in Congress to help me deliver Historic Tax Cuts, GREAT Jobs, Record Economic Growth, a Secure Border, Energy Dominance, Peace Through Strength, and much more."[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Storm Shadows and the Contours of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-1f2
 2. Badlands Brief — "Badlands News Brief: Ethics Complaints & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-360
 3. Badlands Brief — "Badlands News Brief: A Proxy President Manages His Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-7b1
 4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 5. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+6. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca

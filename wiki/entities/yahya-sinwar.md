@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hamas, gaza, israel-hamas-war]
-sources: [raw/badlands-news-brief-116.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-b9e.md]
+sources: [raw/badlands-news-brief-116.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -36,7 +36,12 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued tha
 
 The same commentary advanced the view that figures like Sinwar are cultivated by intelligence services such as the [[cia|CIA]] and [[mi6|MI6]] through lifelong indoctrination, lived trauma, and other means of radicalization, so as to supply the villains needed to justify wars of conquest — with funding routed through royal princes, oil barons, or cartel figures to maximize degrees of separation.[3] It also read Biden's call for an end to the war, 18 days before the U.S. election, as partly posturing and partly stage-setting for [[donald-trump|Donald Trump]] to deliver the same message, noting that with both [[ismail-haniyeh|Ismail Haniyeh]] and Sinwar dead the moment seemed apt to halt the killing.[3]
 
+## Named in the ICC warrant applications (May 2024)
+
+On May 20, 2024, ICC chief prosecutor [[karim-khan|Karim Khan]] announced he was seeking an arrest warrant for Hamas leader Yehiya Sinwar on charges of war crimes and crimes against humanity, alongside applications targeting [[benjamin-netanyahu|Benjamin Netanyahu]], [[yoav-gallant|Yoav Gallant]], [[mohammed-deif|Mohammed Deif]] and [[ismail-haniyeh|Ismail Haniyeh]].[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
 2. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 3. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e
+4. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

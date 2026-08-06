@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, thiel-network, pcast, technocracy]
-sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-38f.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -34,7 +34,17 @@ According to a Bloomberg report cited by Badlands Media, Thiel's [[founders-fund
 
 Badlands contributor [[burning-bright|Burning Bright]] wrote that while the collapse could not be attributed to one man or institution alone, Thiel was "certainly one of the major inside money market movers," and that his withdrawal and advice to portfolio companies created "an inside money stampede" of blue-chip investors performing a digital run on the bank.[3] Burning Bright noted that Thiel is one of the most outspoken allies of [[donald-trump|Donald Trump]] and Trump-endorsed candidates in the financial world, a heterodox thinker opposed to the agenda he described as funded and largely supported by banks like SVB, and concluded that rather than a planned demolition of the banking system the episode indicated "quite the opposite."[3]
 
+## Association with X investors (2024)
+
+In commentary on the August 2024 unsealing of [[x-corp|X]]'s shareholder list, [[burning-bright|Burning Bright]] noted that named investor [[joe-lonsdale|Joe Lonsdale]] - co-founder of [[8vc|8VC]] and of [[palantir|Palantir]] - is directly affiliated with Thiel, whom Badlands credits with kicking off the Silicon Valley Bank and First Republic collapses.[4]
+
+## Thiel network in the second Trump health bureaucracy
+
+Badlands commentary in December 2025 traced the career of HHS Deputy Secretary and Acting CDC Director [[jim-oneill|Jim O'Neill]] through Thiel's institutions: Managing Director of [[clarium-capital|Clarium Capital]] from 2008 to 2012, CEO of the Thiel Foundation and co-founder of the [[thiel-fellowship|Thiel Fellowship]] over the same period, and Managing Director of [[mithril-capital-management|Mithril Capital Management]] from 2012 to 2019.[5] The commentary framed O'Neill's subsequent return to the [[department-of-health-and-human-services|Department of Health and Human Services]] as an illustration of the revolving door between Thiel-linked finance, health-tech and biotech boards, and federal health administration.[5]
+
 ## References
 1. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 3. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
+4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+5. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

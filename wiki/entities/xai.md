@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, elon-musk, defense-contracting, technology]
-sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -36,7 +36,12 @@ The company's blog post accompanying the round highlighted its progress over the
 
 Badlands commentary cautioned against reading the Saudi money as inherently nefarious, arguing that Kingdom Holding's investment decisions have been subject to the approval of Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]]'s court since the [[saudi-purge|Saudi Royal Purge]], so the capital flowing into Musk's ventures is effectively directed by MBS rather than Alwaleed.[3]
 
+## Reported Saudi data center talks (2025)
+
+xAI, [[elon-musk|Elon Musk]]'s artificial intelligence company and maker of the chatbot Grok, has reportedly held talks about data center deals with Humain, the artificial intelligence company backed by the Saudi kingdom, amid a broader push by Musk's businesses into the Saudi market in 2025.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 3. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+4. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

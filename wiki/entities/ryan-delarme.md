@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, author, post-liberal, labor]
-sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-ee9.md]
 confidence: low
 ---
 
@@ -147,6 +147,18 @@ In the April 12, 2023 [[badlands-media|Badlands Media]] news brief, DeLarme cont
 
 On the [[fedsurrection|"Fedsurrection"]] disclosures, DeLarme framed the news as "today's edition of 'we told you so,'" citing 40 government confidential human source agents undercover on January 6 in addition to 40 undercover operatives and 8 informants inside the [[proud-boys|Proud Boys]] and more within the [[oath-keepers|Oath Keepers]].[27] He noted that [[the-gateway-pundit|The Gateway Pundit]]'s roughly 100 confirmed assets excluded non-federal anarchist provocateurs, and reasoned that agents embedded in militant left-wing chapters could each have drawn in a dozen more participants.[27] He added that Ukrainian militants and operatives from unknown other countries were present, called the situation "an impossible mess to sort through," and said he hoped and prayed that justice would soon be served for those still suffering in the "DC Gulag."[27]
 
+## June 2023 commentary on the Hunter Biden plea
+
+In the 21 June 2023 Badlands News Brief, DeLarme argued that the charges against [[hunter-biden|Hunter Biden]] amounted to "less than a slap on the wrist" but would be used to claim the absence of a [[two-tier-justice-system|two-tier justice system]].[28] He asked what an average person's punishment would be, noted that more than 150 [[suspicious-activity-report|Suspicious Activity Reports]] had been filed for the Bidens when a single such report would ordinarily trigger investigation, and contrasted the $250,000 fine and five-year mandatory sentence attached to possession of a firearm by an unlawful drug user with the pretrial diversion Hunter Biden received.[28] He summarized [[david-weiss|David Weiss]]'s recommendation of probation on the tax felonies as "millions of dollars? Concealed income? Influence peddling? 2 years probation. Wow!"[28]
+
+28. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+29. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## Commentary on the ACLU and the Owen execution (June 2023)
+
+In the June 19, 2023 Badlands News Brief, DeLarme responded to the [[american-civil-liberties-union|ACLU]]'s complaint that Florida executed [[duane-owen|Duane Owen]] without providing gender-affirming care.[29] He argued that attorneys had come to view the cultural dominance of LGBTQ+ advocacy as a legal strategy, noted Owen had never presented as female, and suggested the maneuver was a Hail Mary or a bid for controversy and publicity.[29] Addressing transgender readers directly, he wrote that the lawyers' logic implied that denial of special privileges produces homicidal offenders, and questioned whether the attorneys or corporations invoking such arguments had any genuine concern for individual mental health.[29] DeLarme placed the ACLU within a shadow network of interlocking tax-exempt foundations and charities exerting hidden influence over the modern Democratic Party — comparing it to the Southern Poverty Law Center — and cited [[george-soros|George Soros]]'s $50 million grant in 2014 to the ACLU's incarceration-reduction campaign, naming Soros and his son [[alexander-soros|Alexander Soros]] as actors reshaping America.[29]
+
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -176,3 +188,29 @@ On the [[fedsurrection|"Fedsurrection"]] disclosures, DeLarme framed the news as
 25. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 26. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 27. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## Commentary in the August 2023 brief
+
+In the August 28, 2023 Badlands News Brief, DeLarme responded to a study finding "forever chemicals" in paper and bamboo straws, describing a distinct pattern in what he called the "new WOKE operating system."[30] He argued that social engineers retire an imperfect legacy product — in this case microplastic-shedding plastic straws — and replace it with something that sounds planet-conscious on paper, only for the substitute to carry harms such as persistent fluorinated compounds the body cannot filter out, which he suggested would ultimately fuel a medical-industrial complex; see [[pfas|PFAS]].[30]
+
+30. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+
+## September 2023 commentary on the Ukraine war
+
+In the September 20, 2023 Badlands News Brief, Ryan DeLarme responded to the parallel warnings from Gen. [[mark-milley|Mark Milley]] and [[nato|NATO]] Secretary-General [[jens-stoltenberg|Jens Stoltenberg]] that the West must prepare for a long war in Ukraine.[31] He asked where the anti-war liberals had gone, and questioned how the United States could help expel more than 200,000 Russian troops from Ukraine when it could not remove unarmed illegal immigrants at home.[31] Arguing that agreement between "Deep-State controlled" figures signals nothing good for ordinary Americans, he said the object of such conflicts is not victory but "producing, selling, and using weapons," citing [[raytheon|Raytheon]]'s roughly 40% stock gain since the start of the Ukraine effort.[31] Either outcome, he concluded, was a win for the architects: a Russian collapse would open vast resources to plunder as in the 1990s, while a stalemate sustains the war machine — and their nuclear bunkers were ready and stocked.[31]
+
+31. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## Commentary on the anticipated Trump arrest (March 2023)
+
+Writing in the March 22, 2023 [[badlands-news-brief|Badlands News Brief]], DeLarme responded to the U.S. Capitol's heightened security posture ahead of a reported indictment of [[donald-trump|Donald Trump]], noting videos of NYPD barricades being erected — "or was it set design?" — and reports of police cars set on fire in the lead-up to the expected arrest, remarking sardonically that Trump supporters "just love to burn police cars."[32] He argued that the episode carried "the same type of Hollywood-esque production" as January 6 and the J6 Committee, contending that the mainstream media is "much more talented at staging events rather than reporting on them," while acknowledging that the extent of the preparations was a "dead giveaway" that authorities expected something to happen.[32]
+
+In the same edition he wrote the commentary on the Shubert Theater incident involving [[hillary-clinton|Hillary Clinton]] and [[chelsea-clinton|Chelsea Clinton]], calling it the "headline of the week" and joking that the nation should "relentlessly pressure the intelligence community to declassify everything they have on Turd Gate."[32]
+
+32. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+
+## Commentary on Biden's influencer army (April 2023)
+
+In the April 11, 2023 Badlands News Brief, DeLarme responded to reporting that [[joe-biden|Joe Biden]] was recruiting an "army of influencers" for the 2024 race, writing that anyone who thought Biden's "expiration date was up" should guess again because he would have "the best campaign dark money can buy"; see [[2023-biden-influencer-campaign-strategy|2023 Biden influencer campaign strategy]].[33] He described Biden's public-relations strategists as whipping up a posse of young stars to make voting for him seem sensible, and called absurd the notion that one should vote as "your favorite Hollywood puppet" advises.[33] He pointed to the perceived hypocrisy of recruiting the same young influencers who had derided the Republican Party as old white men while the Democratic front-runners were two old white men, invoking [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]].[33] Addressing speculation that Biden's handlers would eventually replace him with [[gavin-newsom|Gavin Newsom]], he asked why Biden was fighting to stay if so, and suggested that patriots might benefit more from Biden and [[kamala-harris|Kamala Harris]] showcasing their ineptitude than from "a more polished actor like Newsom."[33]
+
+33. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9

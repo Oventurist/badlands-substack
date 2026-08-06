@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cnn, journalism, trump]
-sources: [raw/badlands-news-brief-7c9.md]
+sources: [raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-e81.md]
 confidence: medium
 ---
 
@@ -22,3 +22,9 @@ Less than half an hour before Acosta's on-air announcement, Trump posted on Trut
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Opposition Intensifies. So Does Winning.", URL: https://badlands.substack.com/p/badlands-news-brief-7c9
+
+## Interview with an AI avatar of a Parkland victim (2025)
+
+In August 2025 Acosta, by then hosting an independent show on YouTube after his tenure as CNN chief White House correspondent, published an interview with an AI-generated avatar of [[joaquin-oliver|Joaquin Oliver]], who was killed at age 17 in the 2018 Parkland school shooting.[2] The interactive AI was created by Oliver's parents, who granted Acosta the first "interview" with the recreation on what would have been their son's 25th birthday.[2] Asked for his solution to gun violence, the avatar advocated "a mix of stronger gun control laws, mental health support and community engagement."[2] Acosta called the project "just a beautiful thing," while Badlands contributor Ashe in America described the practice as "morally repugnant — but super profitable."[2]
+
+2. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81

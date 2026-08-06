@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [senate, procedure, filibuster, confirmations]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-dd8.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ The Senate's revised confirmation rules received their first major test on Thurs
 
 Senate Majority Whip [[john-barrasso|John Barrasso]] defended the maneuver on the floor, attributing the absence of voice-vote or unanimous-consent confirmations to "Democrat obstruction."[2] Badlands contributor Ashe in America mocked the terminology as sensational and self-important, observing that Trump had been in office exactly eight months and asking why the Senate had spent that time pretending it needed to negotiate with Democrats to confirm his appointees.[2]
 
+## Trump's shutdown demand (October 2025)
+
+On Thursday, October 30, 2025, President [[donald-trump|Trump]] called for the end of the Senate [[filibuster|filibuster]], urging Republicans in a post on Truth Social to "initiate the 'nuclear option.'"[3] Ending the filibuster would allow the GOP to pass legislation — such as a government funding bill — with just 50 votes rather than the 60 currently required.[3] "Because of the fact that the Democrats have gone stone cold 'crazy,' the choice is clear — initiate the 'nuclear option,' get rid of the filibuster and make America great again!" Trump wrote.[3]
+
+The demand risked endangering fragile negotiations to reopen the government during the [[october-2025-government-shutdown|October 2025 shutdown]]; Senate Republicans had privately asked Vice President Vance on Tuesday to get Trump to stop raising the filibuster, as Axios first reported.[3] The GOP had secured only three of the at least seven Democratic votes needed to reach 60, with Democrats withholding support to force negotiations on extending [[affordable-care-act|Affordable Care Act]] tax credits.[3] Reporting noted that in 2022 then-President Biden had likewise suggested Democrats end the filibuster to pass voting rights legislation.[3] Badlands host [[canncon|CannCon]] called it "a Democrat shutdown" without doubt, while faulting the GOP for failing to deliver the single-line appropriations promised in the January 2023 Speaker vote — 33 months earlier — noting that the Congress had proposed three budget bills in 2025 (seven since 2024), none of them single-line appropriations, and that the continuing resolution had "reigned supreme since 1998" while the debt continued to skyrocket.[3]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+3. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8

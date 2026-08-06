@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [covid, vaccines, operation-warp-speed, big-pharma]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-810.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-d24.md]
 confidence: low
 ---
 
@@ -47,3 +47,9 @@ Badlands contributor [[paul-fleuret|Paul Fleuret]] argued that the pattern of yo
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 4. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+
+## 2023 Berlin conference study
+
+A study published on 13 June 2023 in *JAMA Network Open*, a journal of the [[american-medical-association|American Medical Association]], found that all 109 attendees of a Berlin health conference known to have tested positive for COVID-19 afterward had received at least two vaccine doses; among those testing negative, 98 percent were vaccinated.[5] [[justin-deschamps|Justin Deschamps]] cited the paper as confirming that "the pandemic is of the vaccinated," argued that mRNA vaccines direct cells to manufacture spike proteins that disperse and cause health problems, and predicted that heavily propagandized populations would accept further interventions in a future pandemic.[5] See [[2023-berlin-health-conference-covid-19-outbreak-study|2023 Berlin health conference COVID-19 outbreak study]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

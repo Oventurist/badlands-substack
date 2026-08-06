@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [whistleblower, internal-revenue-service, hunter-biden]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-f2b.md]
 confidence: medium
 ---
 
@@ -34,9 +34,16 @@ Shapley's testimony was the trigger for House Speaker [[kevin-mccarthy|Kevin McC
 
 Shapley appeared alongside fellow IRS whistleblower [[joseph-ziegler|Joseph Ziegler]] at a [[house-oversight-committee|House Oversight Committee]] hearing on Wednesday, July 19, 2023, at which the two men testified about alleged political interference in the [[hunter-biden|Hunter Biden]] tax investigation.[5] Critics of the majority-party Democrats on the panel argued that members were unable to rebut the whistleblowers' factual testimony and instead delivered speeches invoking former President [[donald-trump|Donald Trump]] and George Floyd.[5] Badlands contributor [[burning-bright|Burning Bright]] wrote that the hearing went "about as poorly as you could possibly imagine from the perspective of the [[biden-crime-family|Biden Crime Family]]," with House Democrats tacitly accepting most of the allegations against Hunter Biden while attempting to insulate his father from them.[5]
 
+## New York Times confirmation (June 2023)
+
+In late June 2023 the [[new-york-times|New York Times]] confirmed one of Shapley's central claims about the [[department-of-justice|Department of Justice]]'s handling of the [[hunter-biden|Hunter Biden]] probe, but buried the confirmation in the twenty-first paragraph of its Tuesday report.[6] Shapley had claimed that U.S. Attorney [[david-weiss|David Weiss]] told multiple witnesses he had been informed by the DOJ that he could not bring charges against Hunter Biden in California and Washington, D.C.; Attorney General [[merrick-garland|Merrick Garland]] had denied any interference in the probe, but the Times reported that Weiss did in fact make such claims.[6]
+
+The confirmation followed Hunter Biden's guilty plea to two misdemeanour tax violations and his entry into a pretrial diversion agreement on a felony gun registration charge, after which the [[house-ways-and-means-committee|House Ways and Means Committee]] released testimony from two IRS whistleblowers alleging that the president's son received preferential treatment.[6] [[ashe-in-america|Ashe in America]] wrote that the Times covering Shapley's allegations at all — however deeply buried — marked a shift from its usual practice of ignoring the [[biden-crime-family|Biden Crime Family]]'s documented conduct, and speculated that the change reflected either a transfer of establishment support away from [[joe-biden|Joe Biden]] or media positioning ahead of further disclosures.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 3. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 4. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 5. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+6. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b

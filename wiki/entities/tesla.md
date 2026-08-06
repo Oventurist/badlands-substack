@@ -1,10 +1,10 @@
 ---
-title: Tesla
+title: "Tesla"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, artificial-intelligence, semiconductors, electric-vehicles, elon-musk]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -68,8 +68,15 @@ On March 20, 2025, Attorney General [[pam-bondi|Pam Bondi]] announced that those
 
 Individual Tesla owners were also targeted: a website called [[dogequest|Dogequest]] published the names, addresses and phone numbers of Tesla owners nationwide on an interactive map, used an image of a Molotov cocktail as its cursor, posted the exact locations of dealerships, and offered to remove owners' identifying information only if they provided proof they had sold their electric vehicles.[10] Badlands commentary argued this amounted to intimidation of owners for their political support of America First causes and constituted a civil rights and Voting Rights Act violation actionable in court.[10]
 
-## References
+## Reassessment amid the EV shakeout (December 2023)
 
+In December 2023, as a Wall Street Journal analysis documented the [[2023-electric-vehicle-startup-shakeout|collapse of rival EV startups]], Badlands writer [[burning-bright|Burning Bright]] described a reversal in his own view of Tesla and [[elon-musk|Elon Musk]].[11] Where he had once regarded Tesla as a Trojan horse for the Green New Deal agenda of globalist actors, he came to argue that the company's market dominance was itself driving a financial-crisis cascade through the green-energy space, leaving Tesla positioned to absorb what remained.[11] Citing Musk's Department of Defense connections under the first [[donald-trump|Trump]] administration, he characterized Tesla as a top domestic producer and constant innovator functioning as a thorn in the side of the globalist agenda, even if it is not conventionally thought of as an America First company.[11]
+
+## Saudi market entry and humanoid robots (2025)
+
+Tesla began selling vehicles in Saudi Arabia in 2025 as [[elon-musk|Elon Musk]]'s businesses increasingly courted deals in the kingdom.[15] At the November 2025 [[saudi-us-investment-forum|US-Saudi Investment Forum]], Musk said Tesla would not be the only company to make AI humanoid robots but would pioneer the technology, claiming such robots would "eliminate poverty" and make work "optional."[15]
+
+## References
 1. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 2. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 3. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
@@ -80,3 +87,16 @@ Individual Tesla owners were also targeted: a website called [[dogequest|Dogeque
 8. Badlands Brief — "Badlands News Brief: Biden Embattled & Trump Betrayed", URL: https://badlands.substack.com/p/badlands-news-brief-b2b
 9. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
 10. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
+11. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+## Gigafactory Berlin sabotage (March 2024)
+On March 5, 2024, the far-left militant environmental group [[vulkangruppe|Vulkangruppe]] ("Volcano Group") claimed responsibility for an attack on Germany's electricity infrastructure that paralyzed vehicle production at Tesla's European Gigafactory near Berlin.[12] Police in Brandenburg said someone set fire to a nearby high-voltage tower, cutting power to the factory and to more than 60,000 people in the surrounding area.[12] A Tesla spokesperson confirmed the outage halted production and that the site was evacuated.[12]
+In a roughly 2,500-word statement the group said it had sabotaged Tesla because the Grünau plant "eats up earth, resources, people, labor" while producing 6,000 SUVs a week, and framed the destruction of the Gigafactory and the removal of "technofascists" like "Elend Musk" as a step toward liberation from patriarchy.[12] Chief executive [[elon-musk|Elon Musk]] responded on X that the perpetrators were "either the dumbest eco-terrorists on Earth or they're puppets of those who don't have good environmental goals," adding that stopping production of electric vehicles rather than fossil fuel vehicles "ist extrem dumm."[12]
+12. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+## March 2025 vandalism wave, price-target cuts, and congressional probe
+In March 2025 Tesla vehicles and storefronts were vandalized in a wave of attacks and heated demonstrations, prompting Speaker [[mike-johnson|Mike Johnson]] to announce on March 12 that Congress would investigate the "domestic terrorism" targeting the brand and would help the DOJ and [[fbi|FBI]] ensure those responsible were prosecuted.[13] The move was part of a broader effort by Republican leaders to rally around [[doge|DOGE]] head [[elon-musk|Elon Musk]] after the stock fell; President [[donald-trump|Donald Trump]] said that week he would buy a Tesla in support of Musk.[13]
+On the analyst side, Tesla (TSLA) absorbed three new price-target cuts as firms slashed earnings and delivery estimates amid signs of weak demand and a tarnished brand image, yet the stock jumped on Wednesday, March 12, extending the previous day's bounce during Trump's White House promotional event.[13] Evercore ISI cut its target to 235 from 275 while keeping an In Line rating, and its analyst Chris McNally lowered his full-year delivery target to 1.75 million — slightly below 2024's 1,789,226, which had itself edged down from 2023's 1,808,581.[13] UBS Group had cut its 2025 delivery target to 1.7 million on the Monday.[13] McNally described worldwide brand "destruction," attributing it to Musk's work with the [[trump-administration|Trump administration]] and his highly political posts about the U.S. and Ukraine, which had alienated many of Tesla's traditional customers in the U.S. and Europe.[13] JPMorgan analysts wrote, "We struggle to think of anything analogous in the history of the automotive industry, in which a brand has lost so much value so quickly," cutting their target to 120 from $135 with an Underweight weighting.[13] Badlands contributor [[gmoney|GMONEY]] responded that Tesla remains the most American-made car.[13]
+13. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+## Soros fund divestment (2023)
+Soros Fund Management's first-quarter 2023 holdings report with the Securities and Exchange Commission, filed in May, revealed that the firm no longer held any Tesla stock, having previously owned roughly 130,000 shares along with some call options.[14] Barron's, cited by [[breitbart|Breitbart]], noted that while sales by prominent investors can move share prices, the disclosure had little effect: Tesla traded up about 0.4 percent premarket and roughly one percent in morning trading, even as S&P 500 futures fell 0.2 percent.[14] The divestment coincided with [[elon-musk|Elon Musk]]'s public assertion that [[george-soros|George Soros]] "hates humanity."[14]
+14. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
+15. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

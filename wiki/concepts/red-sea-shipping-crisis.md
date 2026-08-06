@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [red-sea, shipping, houthis, naval-deterrence, biden-administration]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a89.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-d5c.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ In early January 2024 the United States joined ten other countries in warning th
 
 Writing for [[badlands-media|Badlands Media]], [[paul-fleuret|Paul Fleuret]] characterized the episode as another instalment of a recurring pattern in which a world conflict escalates while Biden's response is "weak, feckless, and useless," likening anything Joe had to say on the matter to "stopping a freight train with a BB gun."[9] He argued that each day of visible weakness woke more of the American public to the state of the White House and would ultimately drive voters toward [[donald-trump|Trump]] in November.[9]
 
+## Mass diversion of container ships (December 2023)
+
+Logistics company [[kuehne-nagel|Kuehne + Nagel International AG]] reported on December 20, 2023 that 103 container ships had been rerouted around the Cape of Good Hope to avoid Iran-backed [[houthis|Houthi]] militants in Yemen, lengthening voyages by one to two weeks, and said it expected the number of detours to rise in the days that followed.[10] Insurance costs for vessels still transiting the waterway connecting to the Suez Canal jumped that week from about 0.1%–0.2% of hull value to 0.5%, meaning a $100 million vessel would pay roughly $500,000 per voyage.[10] Analysts noted that the combination of higher premiums and longer routings implied snarled supply chains and a new round of cost-push inflation in goods prices.[10]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -81,3 +85,4 @@ Writing for [[badlands-media|Badlands Media]], [[paul-fleuret|Paul Fleuret]] cha
 7. Badlands Brief — "Badlands News Brief: Ramaswamy Takes Stock and the War Machine Rumbles", URL: https://badlands.substack.com/p/badlands-news-brief-53d
 8. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 9. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
+10. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c

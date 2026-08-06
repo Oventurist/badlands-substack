@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, spending, america-first]
-sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -41,3 +41,8 @@ On Tuesday, December 2, 2025, a handful of Freedom Caucus members delayed action
 1. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 2. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 3. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+
+## January 2025 Speaker vote
+
+Ahead of the House vote to elect a Speaker at the start of the 119th Congress, Rep. [[mike-lawler|Mike Lawler]] said on ABC's "This Week" on December 29, 2024 that [[mike-johnson|Mike Johnson]] would be reelected because no member of the Freedom Caucus could assemble the 218 votes needed.[4] Lawler argued that members pushing for Johnson's removal were "playing with fire" and were "kidding themselves" if they believed a more conservative Speaker was available, recalling that the [[ouster-of-kevin-mccarthy|removal of Kevin McCarthy]] by [[matt-gaetz|Matt Gaetz]] and colleagues alongside 208 Democrats was "the single stupidest thing I've ever seen in politics."[4] President-elect [[donald-trump|Donald Trump]] subsequently gave Johnson his "complete and total endorsement" on Truth Social, a move seen as key given Johnson could afford only a handful of GOP defections.[4]
+4. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, litigation, marc-elias, democrats, election-law]
-sources: [raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md]
+sources: [raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ The commentary appeared alongside coverage of the [[virginia-supreme-court|Virgi
 
 By April 2023 [[marc-elias|Marc Elias]] described Democracy Docket as encompassing 45 voting-rights cases across 18 states, a caseload he publicized directly and which had made him a frequent target of Republican criticism given his record of winning such suits.[2] The scale of the litigation was cited as one possible explanation for the [[democratic-national-committee|Democratic National Committee]]'s decision that month to end its representation arrangement with him.[2]
 
+## Venue for the Conway congressional pitch (2025)
+
+[[george-conway|George Conway]] outlined his pitch for a Manhattan congressional run on Tuesday, November 18, 2025 at a private virtual event for paid members of Democracy Docket, the media outlet founded by Democratic attorney [[marc-elias|Marc Elias]].[3]
+
 ## References
 1. Badlands Brief — "Bessent's Bounty Hunters and Olympic Phallacies", URL: https://badlands.substack.com/p/badlands-brief-e9a
 2. Badlands Brief — "Real Leaks & Fake News", URL: https://badlands.substack.com/p/badlands-news-brief-08c
+3. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

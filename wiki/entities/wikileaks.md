@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wikileaks, leaks, cables, transparency]
-sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -36,6 +36,18 @@ In February 2025 WikiLeaks published a post alleging that [[jeanne-bourgault|Jea
 
 WikiLeaks added that the relationship appeared to have only one obscure reference on the entire internet — a University of Washington alumni magazine feature titled "Alumna brings an information revolution to the developing world" — and that it had not been disclosed by USAID, Internews, or the 4,291 media outlets connected to the organization.[6] The [[badlands-news-brief|Badlands News Brief]] republished the item under the heading "The Ultimate USAID Couple?"[6]
 
+## Extradition appeal and judicial conflict-of-interest concerns (2024)
+
+In February 2024 the fate of WikiLeaks co-founder [[julian-assange|Julian Assange]] rested with a two-judge High Court panel comprising Dame [[victoria-sharp|Victoria Sharp]] and Justice [[jeremy-johnson|Jeremy Johnson]], the latter of whom had previously represented [[mi6|MI6]] and the [[uk-ministry-of-defence|Ministry of Defence]] and held top-secret security clearance.[7] Assange faced a maximum sentence of 175 years if extradited to the United States.[7] Badlands contributor [[simon-esler|Simon Esler]] recalled that Assange had destroyed the narrative that Russians were the source of the DNC hack exposing [[hillary-clinton|Hillary Clinton]], and had undermined deep state operations by focusing on corruption within the [[five-eyes|Five Eyes]] intelligence networks.[7]
+
+## Claim of Hollywood seeding of the Iran war narrative (2025)
+
+In a post on X in June 2025, WikiLeaks stated that Hollywood screenwriters "who say they are Jewish" had been "planting the mental seeds for war with Iran for years," citing productions such as Top Gun: Maverick, Homeland, 24, and The Fifth Estate.[8] The claim came after Israel launched airstrikes on Iran earlier that month, asserting that Tehran was close to creating a nuclear weapon, and after the United States directly joined the conflict by bombing Iranian nuclear facilities.[8] The group shared a clip of founder [[julian-assange|Julian Assange]]'s 2013 Oxford Union speech discussing The Fifth Estate, a biographical drama about WikiLeaks that opens with a side plot about a fictional Iranian nuclear bomb project.[8] Assange recalled that the opening scene depicts Iranian scientists in Tehran assembling a bomb, with one character stating the device could be operational within six months, and asked, "How is it that such a lie got into a script about Wikileaks?" — noting that 16 US intelligence agencies had already found that Tehran did not have a nuclear weapons program.[8] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said the claim matched the outlet's longstanding argument that [[hollywood|Hollywood]] hijacks reality through celebrity and storytelling, with real-world consequences visible in how much of MAGA came to favor war with Iran.[8]
+
+## Assange appeal ruling (May 2024)
+
+On May 20, 2024, London's High Court granted WikiLeaks founder [[julian-assange|Julian Assange]] permission to bring a full appeal against extradition to the United States, where he is wanted on espionage charges connected to the organization's publication of thousands of classified documents and diplomatic cables in 2010 and 2011.[9]
+
 ## References
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
 2. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
@@ -43,3 +55,6 @@ WikiLeaks added that the relationship appeared to have only one obscure referenc
 4. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 5. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 6. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+7. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+8. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+9. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

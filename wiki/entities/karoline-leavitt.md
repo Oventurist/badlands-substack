@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, media, trump-administration]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-02a.md, raw/badlands-brief-559.md, raw/badlands-brief-7c0.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-02a.md, raw/badlands-brief-559.md, raw/badlands-brief-7c0.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-f18.md]
 confidence: low
 ---
 
@@ -135,6 +135,18 @@ On Thursday, October 23, 2025, Leavitt announced that President [[donald-trump|D
 
 In the same period Leavitt told a press briefing that a summit between Trump and Russian President [[vladimir-putin|Vladimir Putin]] "is not completely off the table," a day after Trump called off a planned Budapest meeting.[30] Asked about the cancellation and recent US sanctions on major Russian oil companies, she said the president and the entire administration hoped such a meeting could happen again one day, and that Trump "has not seen enough interest in enough action" from Russia toward a peace settlement.[30]
 
+## Statement on Gaza hostages as incoming press secretary (November 2024)
+
+Before the inauguration, as [[donald-trump|Donald Trump]]'s incoming White House press secretary, Leavitt told Axios that Trump would restore stricter sanctions against Iran, fight terrorism, and support Israel.[31] "President Trump will serve as America's Negotiator in Chief and work to get innocent civilians held hostage home," she said, in the context of the seven Americans then held by [[hamas|Hamas]], four of whom were believed to be alive.[31]
+
+## Teasing a Trump visit to Russia (August 2025)
+
+Asked by reporters on August 12, 2025 whether President [[donald-trump|Donald Trump]] planned to travel to [[russia|Russia]], White House press secretary Leavitt said, "It's possible that there are plans to travel to Russia in the future."[33] The remark came ahead of Trump's scheduled August 15 meeting with [[vladimir-putin|Vladimir Putin]] in Alaska, with Moscow having indicated it expected the leaders' subsequent meeting to take place in Russia and Kremlin aide [[yury-ushakov|Yury Ushakov]] saying an invitation had been sent.[33]
+
+## Colombia deportation standoff announcement (January 2025)
+
+On the night of Sunday, January 26, 2025, Leavitt posted on X that [[colombia|Colombia]] had agreed to President [[donald-trump|Trump]]'s terms in the standoff over turned-back deportation flights, and Colombian President [[gustavo-petro|Gustavo Petro]] reposted her statement, indicating his acceptance.[34] Badlands commentator Ashe in America cited the exchange as evidence that "things are happening faster than the fake news can spin them."[34] See [[2025-colombia-deportation-tariff-standoff|the standoff]].[34]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -171,3 +183,12 @@ As White House press secretary, Leavitt issued a statement on January's jobs rep
 
 29. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
 30. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+31. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
+
+## Takeover of the White House press pool (February 2025)
+
+On Tuesday, February 25, 2025, Leavitt announced at a briefing that the [[white-house|White House]] rather than the independent [[white-house-correspondents-association|White House Correspondents' Association]] would determine which outlets form the press pool covering the president, the first such change in a century: "Moving forward, the White House Press Pool will be determined by the White House Press Team."[32] The announcement followed a lawsuit brought against Leavitt and other senior officials by the [[associated-press|Associated Press]] after its reporters were barred from the Oval Office and Air Force One over the outlet's use of "Gulf of Mexico" rather than "Gulf of America."[32] See [[associated-press-white-house-access-ban|Associated Press White House access ban]].[32]
+
+32. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+33. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+34. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

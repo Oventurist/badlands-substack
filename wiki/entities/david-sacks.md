@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, crypto, white-house, technology, trump-administration]
-sources: [raw/badlands-brief-7bf.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-brief-7bf.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -27,3 +27,14 @@ Through 2025 the crypto industry underwent significant regulatory change under P
 ## References
 1. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
 2. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+3. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## 2024 Trump fundraiser and podcast interview
+
+In June 2024 Sacks, a co-founder of Craft Ventures, hosted a high-profile fundraiser for former President [[donald-trump|Donald Trump]] at his Silicon Valley mansion, attended by venture capitalists and tech elites.[3] Two weeks later Trump appeared on Sacks' [[all-in-podcast|All-In Podcast]] alongside co-hosts Chamath Palihapitiya, Jason Calacanis and David Friedberg for a roughly 50-minute conversation covering taxes, tariffs, energy, artificial intelligence, foreign policy, Ukraine, China, Covid and immigration.[3] Sacks opened by relaying complaints from his fundraiser guests — crypto firms unable to get a regulatory framework, no tech M&A, real estate operators shut out of loans amid high rates and a credit crunch — and asked what three things Trump would do to restart growth, drawing the answer "Regulation Regulation and Taxes."[3]
+
+## Promotion of DOGE agency accounts (February 2025)
+
+Serving as the Trump White House's artificial intelligence and crypto czar, Sacks publicized the [[department-of-government-efficiency|Department of Government Efficiency]]'s February 2025 rollout of agency-specific social media accounts, writing on X: "There are now @DOGE accounts for every department, exposing the waste, fraud and abuse. Awesome."[4] The accounts, created for more than two dozen federal agencies and listed as affiliates of the main DOGE account, solicited public tips on waste, fraud and abuse via direct message.[4]
+
+4. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

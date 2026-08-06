@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, finance, globalism, dollar, legacy-media]
-sources: [raw/badlands-news-brief-071.md]
+sources: [raw/badlands-news-brief-071.md, raw/badlands-news-brief-d76.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ The Economist noted that the administration was not speaking with one voice: Tre
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
+
+## Gabbard 'Russian asset' admission (December 2024)
+
+In a December 13, 2024 profile of Director of National Intelligence nominee [[tulsi-gabbard|Tulsi Gabbard]], The Economist admitted there was "no evidence" for Democrat claims that she is a "Russian asset."[2] The magazine wrote that "Democrats have taken to calling Ms Gabbard, aged 43, a Russian asset. There is no evidence for this, yet the charge-however baseless-underlines their discomfort with her nomination," while noting her opposition to "regime-change wars" and asserting that her "isolationism often veers into Russiophilia."[2] Because the magazine had endorsed Kamala Harris for president in 2024, Breitbart treated the concession as undercutting Democratic attacks on the nominee.[2] Badlands writer Ashe in America summarised the shift simply: "The Economist gets it."[2]
+
+2. Badlands News Brief - "Russia Responds as the Fake News Gets Even Faker", URL: https://badlands.substack.com/p/badlands-news-brief-d76

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2020-election, election-fraud, standing, litigation, due-process]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-97e.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-95a.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a20.md, raw/badlands-brief-b56.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-dd8.md]
 confidence: medium
 ---
 
@@ -74,6 +74,13 @@ On February 21, 2023, the [[supreme-court-of-the-united-states|Supreme Court]] a
 
 Amid the release of the [[robert-hur|Hur]] audio in May 2025, [[donald-trump|Donald Trump]] declared on [[truth-social|Truth Social]] that "the biggest crime of all is that THE 2020 PRESIDENTIAL ELECTION WAS RIGGED!"[10] Badlands writers treated the statement as vindication of their own long-running position and argued that celebrating the 2024 result while conceding the legitimacy of the 2020 count would "retroactively codif[y] the System's win in 2020."[10] Burning Bright argued that ceding the 2020 election to [[joe-biden|Joe Biden]] had itself been part of a plan that accelerated public awakening while affording space for operations that would have been impossible with Trump publicly in power, while maintaining that the election was nonetheless fraudulent.[10]
 
+
+## Fulton County "unexplained anomalies" (2025)
+
+In October 2025 the [[department-of-justice|Department of Justice]] formally demanded that [[fulton-county|Fulton County]], Georgia produce records concerning what the state's board of elections described as "unexplained anomalies in vote tabulation and storage related to the 2020 election," after the county failed to comply with a [[state-election-board|State Election Board]] subpoena.[11] The demand, signed by Assistant Attorney General for Civil Rights [[harmeet-dhillon|Harmeet Dhillon]] for Attorney General [[pam-bondi|Pam Bondi]], relied on Title III of the [[civil-rights-act-of-1960|Civil Rights Act of 1960]].[11]
+
+Badlands commentary tied the demand to the long-running dispute over [[signature-verification|signature verification]], citing testimony that Fulton officials never scanned mail-in envelopes with their BlueCrest sorters, had no single file of voter signatures, and estimated 57,000-plus hours to produce the underlying data — which commentators argued made it impossible for signatures to have been verified in the timeframe in which Georgia was called for Biden.[11]
+
 ## References
 
 1. Badlands Brief — "Are Jack Smith and Fani Willis in on the Plan?", URL: https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in
@@ -86,3 +93,4 @@ Amid the release of the [[robert-hur|Hur]] audio in May 2025, [[donald-trump|Don
 8. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 9. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 10. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+11. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, weapons-smuggling, syria, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b24.md]
+sources: [raw/a-dereliction-of-duty.md, raw/assad-day-in-damascus.md, raw/badlands-brief-0bd.md, raw/badlands-brief-625.md, raw/badlands-brief-7bf.md, raw/badlands-brief-774.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e60.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -78,6 +78,11 @@ In August 2025, Türkiye severed all commercial and economic ties with [[israel|
 
 Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Turkey as rising as "the vertebrae of the python" squeezing [[benjamin-netanyahu|Netanyahu]]'s Israel, along an axis extending from Azerbaijan through Armenia into Turkey and ultimately Syria, carrying oil and natural gas intended to revive the Syrian economy.[13] He linked the move to the concurrent [[shanghai-cooperation-organization|Shanghai Cooperation Organization]] summit in Tianjin and its North–South Transportation Corridor, predicting eventual Turkish accession to the SCO.[13] He further argued that [[donald-trump|Trump]] had elevated President [[recep-tayyip-erdogan|Erdogan]] over Israel in the December conquest of Syria, and that the IDF, worn down by years of war, could not take on the largest army in the Middle East, especially if backed by Iran.[13]
 
+
+## Intervention in the ICJ genocide case (August 2024)
+
+On Monday, August 5, 2024, Foreign Minister [[hakan-fidan|Hakan Fidan]], speaking at a news conference in Cairo, said Turkey would formally submit its declaration of intervention in [[south-africa|South Africa]]'s genocide case against [[israel|Israel]] at the [[international-court-of-justice|International Court of Justice]] in The Hague that Wednesday.[15] Turkey had announced in May 2024 that it would join the case as part of a wider set of measures against Israel over the war in [[gaza|Gaza]], subject to the completion of the necessary legal preparations.[15] Badlands Media noted that Turkey continued to supply Israel with oil even as President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] spoke of invading it, and that Israeli Foreign Minister [[israel-katz|Israel Katz]] had called for [[nato|NATO]] to expel Turkey — a step the outlet argued would free the [[israel-defense-forces|IDF]] to act against Turkish bases on Cyprus.[15] The ICJ filing was read as an indication that Erdogan was pivoting away from NATO and the European Union toward the [[sovereign-alliance|Sovereign Alliance]].[15]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -92,3 +97,10 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] descr
 11. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 12. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 13. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+
+## Readiness to deploy to Gaza (December 2025)
+
+In December 2025, Turkish security sources cited across Turkish media said the Turkish military was ready to send troops to the Gaza Strip as part of the [[international-stabilization-force|International Stabilization Force]].[14] "We have no problem with the troops being sent to Gaza to join the ISF. The Americans also very much want us there, while Israel opposes it. The Americans are pressuring Israel to have Turkish troops," the sources were quoted as saying.[14] They affirmed that as a guarantor of the Israel-Hamas ceasefire and a signatory to the peace process, Turkey "must be there," adding, "Our forces are ready. We have prepared all the necessary units. The moment the order is given, we will immediately form a modular unit."[14] The sources argued that one cannot say "Turkish troops cannot come" when Turkey was among the countries that worked hardest to establish the ceasefire and coordinated the exchange of hostages for Palestinians detained in Israeli prisons.[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that [[recep-tayyip-erdogan|Erdogan]] "and the boys are ready to roll," that [[donald-trump|Donald Trump]] had said in his [[2025-national-security-strategy|National Security Strategy]] that he wants Turkey in the ISF and in Gaza, and that Trump was summoning [[benjamin-netanyahu|Netanyahu]] to Washington to discuss the next phase even as Netanyahu insisted he would not allow Turkish troops into Gaza or Israel.[14]
+
+14. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+15. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

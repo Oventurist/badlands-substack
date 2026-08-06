@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, doj, donald-trump, classified-documents, lawfare]
-sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ In June 2023, the social-media commentator [[dc-draino|DC Draino]] published a l
 
 [[badlands-media|Badlands Media]] commentary by [[ashe-in-america|Ashe in America]] argued that the letter provided new insight into the August 2022 raid and into what she characterized as the improvisational conduct of the [[justice-department|Department of Justice]] since.[2] The commentary noted that a signed letter is not legally required for a president to declassify, but that the supposed absence of such documentation had been central to the claim that Trump uniquely acted unlawfully — even after [[joe-biden|Biden]], [[mike-pence|Pence]], and Obama were each found to have retained documents.[2] DC Draino summarized the implication as: "Now you know why they raided Mar a Lago. To steal back evidence of their crimes."[2]
 
+## Cited against Trump's 2024 briefing eligibility
+
+After the [[fbi|FBI]] recovered government documents including classified papers at [[donald-trump|Donald Trump]]'s Mar-a-Lago home in Florida, critics questioned whether he could be trusted with sensitive information as the Republican nominee, a debate revived in August 2024 when Trump said he would decline the intelligence briefings offered to presidential candidates.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
 2. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+3. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

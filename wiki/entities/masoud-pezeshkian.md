@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, president, reformist, diplomacy]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-686.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ac.md, raw/badlands-brief-b38.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-686.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ac.md, raw/badlands-brief-b38.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -60,6 +60,15 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote
 
 In the aftermath of Israel's strike on [[iran|Iran]] in June 2025, Pezeshkian spoke by phone with Russian President [[vladimir-putin|Vladimir Putin]], who subsequently briefed Chinese leader [[xi-jinping|Xi Jinping]] on the exchange and reaffirmed Moscow's readiness to mediate between Iran and Israel if necessary.[9] Both Moscow and Beijing maintained that there is no military solution to the situation or to issues related to Iran's nuclear program, and that the matter must be resolved exclusively through political and diplomatic means.[9] During the same period, Iran's deputy foreign minister warned the BBC that direct US involvement would cause "hell" in the region, saying "this is not America's war."[9]
 
+## Inauguration and the Haniyeh assassination
+
+Hamas leader [[ismail-haniyeh|Ismail Haniyeh]] travelled to Tehran to attend Pezeshkian's swearing-in ceremony on Tuesday, July 30, 2024, and was assassinated in the Iranian capital hours later, according to an announcement by the Revolutionary Guard early on Wednesday.[10]
+
+
+## Meeting with the Russian delegation (August 2024)
+
+On Monday, August 5, 2024, the newly sworn-in Pezeshkian met the Russian national Security Council secretary and former defence minister [[sergei-shoigu|Sergei Shoigu]], who was in Tehran with a Russian defence delegation as the region awaited Iran's expected retaliation against [[israel|Israel]].[11] RIA Novosti described the talks as concerning "strengthening bilateral cooperation in a wide range of spheres including security," amid speculation that Moscow was actively assisting Iran in thwarting potential Israeli attacks.[11] Russia had strongly condemned the killing of [[hamas|Hamas]] leader [[ismail-haniyeh|Ismail Haniyeh]] in Tehran the previous week, an act Iran regarded as equivalent to assassinating a head of state on an official visit, and Pezeshkian hailed Moscow as a "valued strategic ally."[11]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
@@ -70,3 +79,5 @@ In the aftermath of Israel's strike on [[iran|Iran]] in June 2025, Pezeshkian sp
 7. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 8. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 9. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+10. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+11. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

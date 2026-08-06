@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, foia, oversight, hur-investigation]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-dd8.md]
 confidence: medium
 ---
 
@@ -38,8 +38,18 @@ The Heritage Foundation was convulsed in November 2025 by internal criticism of 
 
 In January 2024 the foundation's [[oversight-project|Oversight Project]] supplied [[daily-caller|The Daily Caller]] with records showing that the [[cia|CIA]] had filed 32 conflict-of-interest referral notifications with the [[office-of-government-ethics|Office of Government Ethics]] between January 2021 and May 2023, apparently reporting dozens of employees to the Justice Department during the Biden administration.[7] Heritage had obtained information about the Form 202 submissions through a Freedom of Information Act request, and the OGE advised the project that multiple forms may correspond to a single referral.[7]
 
-## References
+## Project 2025 at the 2024 Democratic convention
 
+At the August 2024 [[2024-democratic-national-convention|Democratic National Convention]], Democrats repeatedly brandished the Heritage Foundation's 900-page presidential transition blueprint [[project-2025|Project 2025]] on stage, and [[kamala-harris|Kamala Harris]] invoked it in her acceptance speech; [[the-atlantic|The Atlantic]] observed that Harris had no equivalent document of her own and that Democrats seemed at peace with that.[8]
+
+
+## Defense of Tucker Carlson (October 2025)
+
+On Thursday, October 30, 2025, Heritage Foundation President [[kevin-roberts|Kevin Roberts]] publicly backed [[tucker-carlson|Tucker Carlson]] after the podcaster's friendly interview with Holocaust denier [[nick-fuentes|Nick Fuentes]] drew condemnation from within a GOP grappling with a series of antisemitic incidents.[9] In a video posted to X, Roberts denounced the "venomous coalition" criticizing Carlson, said "their attempt to cancel him will fail," and described Carlson as a "close friend" of the highly influential conservative group who "always will be."[9]
+
+Roberts added that "I disagree with and even abhor things that Nick Fuentes says, but canceling him is not the answer, either," and — referencing Heritage's [[project-esther|Project Esther]] initiative to combat antisemitism — said "Christians can critique the state of Israel without being antisemitic," while affirming that antisemitism should be condemned.[9]
+
+## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 3. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
@@ -47,3 +57,5 @@ In January 2024 the foundation's [[oversight-project|Oversight Project]] supplie
 5. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 6. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+8. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+9. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8

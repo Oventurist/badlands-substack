@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [healthcare, medicaid, fraud, federalism, oversight]
-sources: [raw/badlands-brief-7ed.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-747.md]
+sources: [raw/badlands-brief-7ed.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-d7a.md]
 confidence: medium
 ---
 
@@ -38,9 +38,14 @@ Charities that help patients cover medical bills reported an alarming increase i
 
 [[ashe-in-america|Ashe in America]] argued that the surge reflected the end of federal subsidies for care recipients could not previously afford without taxpayer support, and contended that charity rather than the state is the appropriate vehicle for such aid — arguing that when the state performs charity, charity becomes an entitlement and dependence follows.[5] She also cautioned that health-branded financial products such as insurance, cost-sharing cooperatives and federal subsidies are not themselves healthcare.[5]
 
+## Kiley bill on illegal immigrant enrollment (2025)
+
+In January 2025, Congressman [[kevin-kiley|Kevin Kiley]] (R-Calif.) introduced legislation that would prevent states such as California from allowing illegal immigrants to enroll in Medicaid, estimating savings of $6.5 billion per year for California, which had expanded enrollment to all illegal immigrants in January 2024.[6] Kiley described Medicaid as a taxpayer-funded public healthcare system for low-income individuals and noted that many enrolled Americans were already struggling to find doctors.[6] Badlands host [[ashe-in-america|Ashe in America]] called the bill common sense given the insolvency of American entitlement programs while arguing that accountability was owed by the lawmakers who extended such benefits in the first place.[6]
+
 ## References
 1. Badlands Brief — "Religious Regime Change, Sacked Security Sacked, & More Medicare Malice", URL: https://badlands.substack.com/p/badlands-brief-7ed
 2. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 4. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
 5. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
+6. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a

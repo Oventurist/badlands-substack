@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, cryptocurrency, las-vegas, jd-vance, prediction-markets, media-criticism]
-sources: [raw/badlands-news-brief-243.md]
+sources: [raw/badlands-news-brief-243.md, raw/badlands-news-brief-e10.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ That competing storyline concerned an investigation by the [[nypd|New York Polic
 
 [[burning-bright|Burning Bright]] framed the conference in strategic terms, arguing that with [[donald-trump|Trump]] signaling a massive shift into the future of not just finance but asymmetric and fifth-generation warfighting, the crypto space was "WELL worth engaging with" as a new battlespace.[1]
 
+## Speakers and MAGA presence
+
+The conference, held at the Venetian in Las Vegas from Tuesday to Thursday in late May 2025, drew a roster of figures from the MAGA political orbit.[2] Vice President [[jd-vance|JD Vance]] and two of President [[donald-trump|Donald Trump]]'s children were among those scheduled to speak; Trump himself did not speak as he had the previous year during his presidential campaign, but [[eric-trump|Eric Trump]] and [[donald-trump-jr|Donald Trump Jr.]] traveled to the desert in his absence.[2] Also scheduled was [[ross-ulbricht|Ross Ulbricht]], the recently pardoned digital drug market founder.[2]
+
+White House crypto czar [[david-sacks|David Sacks]] was listed to speak, as were [[vivek-ramaswamy|Vivek Ramaswamy]], the former presidential candidate then running for governor in Ohio; [[byron-donalds|Byron Donalds]], a Trump-endorsed gubernatorial candidate in Florida; and Trump adviser [[chris-lacivita|Chris LaCivita]].[2] [[badlands-media|Badlands Media]] contributor [[gmoney|GMONEY]] covered the event from the floor, publishing a post-panel interview with Erik Cason, author of *Cryptosovereignty*, and an interview with Optimist Fields, co-host of the show Simply Bitcoin.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief #243: Tariffs Back On & Trump: Best Friend of Animals", URL: https://badlands.substack.com/p/badlands-news-brief-243
+2. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10

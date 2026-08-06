@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, republicans, us-senate, elections]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6b4.md, raw/badlands-brief-884.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6b4.md, raw/badlands-brief-884.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ By April 2025 Cornyn's Senate seat had become the focus of an emerging Texas Rep
 4. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 5. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 6. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
+
+## 2024 Senate leadership race
+
+Cornyn ran for Senate majority leader in the contest held November 13, 2024 to succeed the retiring [[mitch-mcconnell|Mitch McConnell]], losing to [[john-thune|John Thune]] by a vote of 29 to 24 in the final round.[7] On the first ballot Thune led with 25 votes to Cornyn's 15, with [[rick-scott|Rick Scott]] of Florida collecting 13.[7]
+
+7. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

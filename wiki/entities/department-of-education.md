@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, agency, education, civil-rights]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-f23.md]
 confidence: medium
 ---
 
@@ -76,6 +76,10 @@ Top House Democrats responded with a letter to McMahon urging the administration
 
 Badlands commentary argued that as federal intervention and spending increased, measured performance declined, citing a series of figures: a 280% increase in inflation-adjusted per-pupil spending since 1960 against flat and recently declining NAEP scores; over $800 billion in annual U.S. K–12 spending against a roughly 30th-place ranking in math and reading on PISA; a departmental budget exceeding $80 billion with a significant share spent on bureaucracy rather than classrooms; a Heritage Foundation estimate that 41% of public school administrative costs stem from federal regulations; growth of non-teaching K–12 staff by 700% since 1950 against a 100% increase in enrollment; a $1.7 trillion student debt crisis and tuition inflation attributed by the New York Federal Reserve to federal student loan policy; and stronger outcomes at lower per-pupil cost in school-choice states such as Florida, Texas and Utah.[12] The commentary concluded that the remaining arguments for retaining the department were emotional rather than empirical, and that the data showed a negative return on investment for everyone except administrators.[12]
 
+## McMahon nomination advances (February 2025)
+
+On Thursday, February 20, 2025, the [[senate-help-committee|Senate HELP Committee]] advanced [[linda-mcmahon|Linda McMahon]]'s nomination to lead the department to the Senate floor on a 12-11 party-line vote.[14] Chairman [[bill-cassidy|Bill Cassidy]] framed the department as an institution that had "lost its purpose," saying that for the previous four years it had "focused on everything but student learning with bureaucracy and red tape standing in the way of student success," and calling for "a strong leader at the department who will get our education system back on track."[14] Senators pressed McMahon at her hearing the previous week on the fate of programs housed within the agency — including special education and grants for low-income schools — should the department be dismantled or shuttered.[14] [[badlands-media|Badlands]] commentary asserted that McMahon's task was to dismantle the department entirely.[14]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -96,3 +100,4 @@ Badlands commentary argued that as federal intervention and spending increased, 
 In February 2025 the [[doge|Department of Government Efficiency]], led by [[elon-musk|Elon Musk]], began taking control of the Department of Education, with DOGE officials gaining access to "administrator" email accounts at the department.[13] The action drew sharp criticism from American activists and politicians, including Congressman Maxwell Alejandro Frost; responding to that criticism, Musk said, "No such department exists in the federal government."[13] President [[donald-trump|Donald Trump]] had described the department the previous Sunday as ineffective, wasteful and dominated by radical leftists.[13]
 
 13. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+14. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

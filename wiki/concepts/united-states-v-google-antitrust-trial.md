@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [antitrust, google, big-tech, justice-department, litigation]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-ac8.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -50,9 +50,20 @@ In a court filing late in the second week of October 2024, the [[department-of-j
 
 [[burning-bright|Burning Bright]] placed the Google filing alongside the parallel DOJ antitrust actions against [[apple|Apple]] and Amazon, arguing that "big moves" on the game board should be read through military-intelligence and [[devolution|Devolution]]/continuity-of-government framing.[5] He cited a podcast remark by [[donald-trump|Donald Trump]] about "foreign-based apps" that "they haven't opened" mentioned in the same breath as Iran, reading it as Trump spotlighting Apple's alleged role in interfering with an investigation into the origins of two assassination plots against him.[5] That the DOJ was simultaneously moving aggressively against Apple, Amazon and Google — threatening to break up the latter — gave off, in his phrase, "EO 13818 vibes," a reference to the executive order on human rights and corruption-related asset blocking.[5]
 
+## August 2024 liability ruling
+
+On Monday, August 5, 2024, U.S. District Judge [[amit-mehta|Amit Mehta]] ruled that [[google|Google]]'s search engine had been illegally exploiting its dominance to squash competition and stifle innovation, a decision characterised in contemporaneous reporting as seismic and capable of reshaping the internet.[6] The ruling came nearly a year after the start of the trial that pitted the [[justice-department|Justice Department]] against Google in the country's biggest antitrust showdown in a quarter century, and three months after closing arguments in early May.[6] Mehta had reviewed evidence including testimony from senior executives at Google, Microsoft and Apple during the ten-week trial.[6]
+
+"After having carefully considered and weighed the witness testimony and evidence, the court reaches the following conclusion: Google is a monopolist, and it has acted as one to maintain its monopoly," Mehta wrote in a 277-page opinion, treating Google's dominance in the search market as evidence of monopoly.[6] The ruling found that Google "enjoys an 89.2% share of the market for general search services, which increases to 94.9% on mobile devices."[6]
+
+## Badlands commentary on the ruling
+
+Badlands Media greeted the decision with the Q-adjacent observation that "lawsuits can be very effective," and placed it alongside the day's market crash as evidence of pressure on what the outlet calls the Deep State's "System of Systems."[6] The commentary argued that while the financial system is the key foundation of that structure, control over the digital realm — and therefore over information, Google's forte — confers an advantage over the direction of the collective mind for which there may be no precedent except the Roman Catholic Church at certain periods.[6] Google, in this reading, functions as a quasi-religion with a following of true believers, wielding asymmetric power in a war defined by control of information, to the point that most of the public does not realise its opinions are planted or shaped by Silicon Valley algorithms.[6] The piece concluded that the ruling would not topple the company overnight but was "MUCH more than simply a shot across the bow."[6]
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
 3. Badlands Brief — "Badlands News Brief: Harris Preps, Sovereigns Speak & ... Haitians Eat Cats?", URL: https://badlands.substack.com/p/badlands-news-brief-7b7
 4. Badlands Brief — "Absurdity and MAGAMania as the Year Winds Down", URL: https://badlands.substack.com/p/badlands-news-brief-890
 5. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+6. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

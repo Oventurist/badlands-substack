@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, israel, middle-east, escalation, un-security-council, drones, missiles]
-sources: [raw/badlands-news-brief-808.md, raw/badlands-news-brief-c0b.md]
+sources: [raw/badlands-news-brief-808.md, raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-e54.md]
 confidence: medium
 ---
 
@@ -46,7 +46,14 @@ On the Iranian threat of an unprecedented weapon, the same writer speculated it 
 
 [[burning-bright|Burning Bright]] took a macro-narrative view, arguing that Israel is an exhaustingly tense topic even in a heterodox community and that observing the macro narratives is more useful than adjudicating unknowable facts on the ground.[2] In his reading, what the "Normie Layers of the Collective Mind" observed in back-to-back weeks was foreign proxies of the US hegemon defying the direct requests of the Biden administration while simultaneously demanding financial and military support for their proxy wars — an appearance of total loss of establishment control that he judged "bullish for change," and therefore bullish for [[donald-trump|Trump]].[2]
 
+## Diplomatic aftermath
+
+In the days after the attack, [[international-atomic-energy-agency|IAEA]] Director General [[rafael-grossi|Rafael Grossi]] said he was concerned that [[israel|Israel]] might target Iranian nuclear facilities and urged "extreme restraint"; [[iran|Iran]] had closed those facilities on the Sunday over "security considerations" and Grossi kept inspectors away until Tuesday, April 16.[3] Badlands commentary recorded that Arab nations, principally the Hashemites of [[jordan|Jordan]], had helped defend Israel in affirmation of the [[abraham-accords|Abraham Accords]]; that Iran warned Arab states and [[turkey|Turkey]] in advance, intelligence duly relayed to Washington and Jerusalem; that [[joe-biden|Biden]] reportedly told Turkey to instruct Iran to keep the response "limited"; that neither the Arab allies nor the United States would assist an Israeli retaliation; that [[russia|Russia]] and Spain called for diplomacy; and that Biden asked [[benjamin-netanyahu|Netanyahu]] not to retaliate, while Netanyahu nonetheless requested a target list from the Israeli Defense Force.[3]
+
+Ukrainian president [[volodymyr-zelensky|Volodymyr Zelensky]] condemned the attack and framed Iranian "Shahed" drones over Israel as the same threat Ukraine faces from Russia, in what [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read as an attempt to fuse the two theatres while seeking more Western money.[3] In Washington, the [[us-house-of-representatives|House of Representatives]] moved to expedited votes on further Iran sanctions, including the [[iran-china-energy-sanctions-act-of-2023|Iran-China Energy Sanctions Act of 2023]].[3]
+
 ## References
 
 1. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
 2. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b
+3. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54

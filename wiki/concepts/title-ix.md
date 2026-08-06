@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [federal-law, education, womens-sports, civil-rights]
-sources: [raw/badlands-news-brief-054.md]
+sources: [raw/badlands-news-brief-054.md, raw/badlands-news-brief-e99.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Reported as the first federal action of its kind, the suit asks a court to read 
 
 ## References
 1. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
+
+## Justice Department warning to Maine (2025)
+
+On February 25, 2025, Attorney General [[pam-bondi|Pam Bondi]] cited Title IX in a letter warning Governor [[janet-mills|Janet Mills]] that the U.S. Department of Justice was prepared to take legal action if Maine continued to require girls to compete against boys in sports, a policy the department said violates federal antidiscrimination law.[2] The letter emphasized that Title IX prohibits sex-based discrimination in federally funded education programs, including athletics, and that the department would hold states accountable if they defied federal law.[2]
+
+2. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, qatar, us-central-command, iran, gulf]
-sources: [raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-dbd.md]
 confidence: medium
 ---
 
@@ -22,6 +22,10 @@ Because Al Udeid sits within range of Iranian missile systems, force-protection 
 
 In January 2026 the United States withdrew personnel from Al Udeid Air Base as part of a cluster of signals suggesting that kinetic action against [[iran|Iran]] was imminent, alongside Iran's temporary closure of its airspace for roughly five hours.[2] Badlands analyst [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the sequence as posturing rather than preparation for war, arguing that President [[donald-trump|Donald Trump]] subsequently "threw cold water" on calls for military action and that the entire Iran narrative served as a distraction from the finalization of Phase Two of the Gaza plan.[2]
 
+## Iranian missile attack (June 2025)
+
+On Monday, June 23, 2025, Iran launched a retaliatory attack on Al Udeid, striking at the American airbase in Qatar in response to US bombing of Iranian nuclear facilities during the [[twelve-day-war|Twelve Day War]].[4] A US defense official told Fox News Digital that Iran had used short-range and medium-range ballistic missiles against the base, and that no casualties had been reported.[4] President [[donald-trump|Donald Trump]] characterized the strike as a "very weak response," writing on Truth Social that "there have been 14 missiles fired — 13 were knocked down, and 1 was 'set free,' because it was headed in a nonthreatening direction."[4] Trump predicted Iran had "gotten it all out of their 'system,' and there will, hopefully, be no further HATE," and thanked Tehran for giving the United States "early warning" of the attack so as to minimize casualties.[4] The attack, which avoided crude oil infrastructure, was widely read as symbolic, and oil prices tumbled below $70 a barrel afterward.[4] Trump's announcement of a complete Israel–Iran ceasefire followed soon after the strike.[4]
+
 ## Strategic significance after Bagram
 
 Badlands Media notes that with the closing of Bagram Airfield in Afghanistan in 2021, [[qatar|Qatar]] hosts the largest US military base in the Middle East at Al Udeid.[3] The base is cited as one pillar of Qatar's dual character in the outlet's analysis: a country that simultaneously hosts the leadership of groups such as [[hamas|Hamas]] and the [[muslim-brotherhood|Muslim Brotherhood]], serves as a hub for the [[cia|CIA]] and [[mi6|MI6]] and their affiliated NGOs — many run by retired [[state-department|State Department]] and CIA officials — and anchors the American military presence in the region.[3]
@@ -30,3 +34,4 @@ Badlands Media notes that with the closing of Bagram Airfield in Afghanistan in 
 1. Badlands Brief — "Backchannel Boys & Globalizing Girls", URL: https://badlands.substack.com/p/badlands-brief-b38
 2. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+4. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd

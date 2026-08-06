@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, studio, covid-19, mask-mandates]
-sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ The mandate that Lionsgate later rescinded was first reported in the third week 
 ## References
 1. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
 2. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+
+## 2023 mask memo
+
+In August 2023 Lionsgate circulated an internal memo asking employees to resume wearing masks after some workers were infected with COVID-19.[3] The memo, written by Sommer McElroy, specified that "employees must wear a medical grade face covering (surgical mask, KN95 or N95) when indoors except when alone in an office with the door closed, actively eating, actively drinking at their desk or workstation, or if they are the only individual present in a large open workspace."[3] The studio's memo was widely cited alongside other reinstated mandates by Americans who questioned the timing of the reported case increase ahead of the 2024 elections; see [[election-variant|Election Variant]].[3]
+
+3. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

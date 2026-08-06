@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [covid, bioweapon, narrative, wuhan]
-sources: [raw/a-virus-or-a-metaphor.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-e40.md]
 confidence: low
 ---
 
@@ -24,5 +24,12 @@ Trump referred to the virus as the "Chyna virus" and was called racist for doing
 
 The narrative, rather than the pathogen, is credited with the outcomes: it forced the [[covid-19-lockdowns|lockdowns]], produced an overreaching control of people and an abandonment of human rights, and justified mail-in ballots, by which means Carlson says a duly-elected President was overthrown and removed from power.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor) He invites readers to consider that what America is experiencing is itself like a man-made virus designed to destroy everything and everyone — narratives and agendas essentially created in a lab and dropped on the population.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
+## The 2023 scientific mea culpa and media about-face
+
+In late January 2023, [[newsweek|Newsweek]] ran an opinion essay by a medical student and researcher who had supported lockdowns, vaccines and boosters, and who concluded that he and the scientific community had been wrong and that the error cost lives.[2] The essay charged the [[centers-for-disease-control-and-prevention|CDC]], the [[world-health-organization|WHO]] and the [[food-and-drug-administration|FDA]] with repeatedly overstating the evidence and misleading the public on natural versus artificial immunity, school closures and transmission, aerosol spread, mask mandates, and vaccine effectiveness and safety — errors identifiable at the time, with some obfuscations continuing into the present.[2]
+
+Badlands contributor [[burning-bright|Burning Bright]] described the piece as part of an accelerating about-face by the corporate press on what he called the "Big Lie" of the COVID era, its lockdowns, and its mass medical interventions.[2] He argued that the [[media-industrial-complex|Media Industrial Complex]] was staging this reversal through opinion pieces functioning as "Narrative Trojan Horses" and as the foundation for a mass "Forgive and Forget" campaign ahead of fuller disclosure of the era's costs, concluding that it was far too late: "We won't forgive. We won't forget."[2]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
+2. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

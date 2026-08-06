@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, immigration, trump-administration]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-6f4.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-9bc.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-6f4.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -70,3 +70,9 @@ On Monday, November 11, 2024, President-elect [[donald-trump|Donald Trump]] name
 8. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 9. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
 10. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
+
+## September 2025
+
+Miller featured indirectly in the September 2025 controversy over Attorney General [[pam-bondi|Pam Bondi]]'s "hate speech" remarks, which Bondi made on the podcast of his wife, [[katie-miller|Katie Miller]], and later walked back after broad criticism.[11] Separately, Miller was announced by [[turning-point-usa|Turning Point USA]] as one of the administration speakers at the Arizona memorial service for [[charlie-kirk|Charlie Kirk]], where he appeared on a program alongside President [[donald-trump|Donald Trump]], Vice President [[jd-vance|JD Vance]], and Kirk's widow [[erika-kirk|Erika Kirk]].[11]
+
+11. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

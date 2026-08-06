@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, middle-east, huckabee, territorial-claims, 2026]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-7a5.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-625.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-f1a.md]
 confidence: medium
 ---
 
@@ -55,11 +55,17 @@ Badlands commentary identified this program explicitly as Greater Israel and des
 
 Following the December 2024 [[fall-of-the-assad-regime|fall of the Assad regime]], Badlands cited the Greater Israel thesis as one of three motives for the operation, noting that [[benjamin-netanyahu|Benjamin Netanyahu]] had already publicly boasted of ordering the [[israel-defense-forces|IDF]] to begin annexing land in the [[golan-heights|Golan Heights]], territory still legally part of Syria despite military occupation since the end of the Six Day War in 1967.[6] The commentary described the use of a nominal defense force to invade a foreign country and seize land as an Orwellian use of language.[6] It presented the move as fulfilling a statement by Israeli Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] in October, when he said in an interview that [[damascus|Damascus]] was part of Israel based on his interpretation of scripture, and summarised the whole episode as being about "sticking it to Putin, stifling prosperity, and fulfilling Talmudic prophecy."[6]
 
+## Settler crossing into Syria (August 2025)
+
+In August 2025 a group of settler activists, accompanied by their young children, crossed the border from Israel into Syria in an attempt to establish a new settlement.[7] The [[israel-defense-forces|IDF]] said troops were dispatched after several civilian vehicles were seen crossing near the border town of Alonei Habashan, and that soldiers "returned the civilians safely to the territory of the State of Israel after a short time," with the participants called in for police questioning.[7] The military described the episode as "a grave incident that constitutes a criminal offense" endangering both the public and its troops.[7]
+
+[[badlands-media|Badlands Media]] contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linked the incident to remarks the previous week in which [[benjamin-netanyahu|Benjamin Netanyahu]] publicly described himself as being on a "historic and spiritual mission" to create Greater Israel, a project he said would require annexing parts of Jordan and Egypt as well as Lebanon, Syria and Palestine.[7] He argued that Netanyahu had been raised to act as a "secular messiah" of Talmudic expectation preparing the way for the Mashiach, referenced reports that Israel had conducted a red heifer sacrifice in secret, and asserted that plans to build the [[third-temple|Third Temple]] would require destroying the Dome of the Rock in Jerusalem.[7]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 3. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 4. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 5. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
-
 6. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
+7. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a

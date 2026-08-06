@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, indiana]
-sources: [raw/badlands-brief-fd9.md]
+sources: [raw/badlands-brief-fd9.md, raw/badlands-news-brief-d5d.md]
 confidence: medium
 ---
 
@@ -21,3 +21,8 @@ Faced with the rebellion, Speaker [[mike-johnson|Mike Johnson]] and Majority Lea
 ## References
 
 1. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
+2. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## July 2023 Wray hearing
+
+At the [[2023-wray-house-judiciary-testimony|July 2023 House Judiciary Committee hearing]], Spartz grilled [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] on the bureau's intelligence sharing with compromised foreign agencies, alleging that the existing process involves actioning that compromised intelligence against American citizens.[2]

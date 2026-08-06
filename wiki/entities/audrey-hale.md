@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nashville, mass-shooting, tennessee, 2023]
-sources: [raw/badlands-news-brief-6e3.md]
+sources: [raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-ee7.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Asked about motive, Drake said a theory existed that police might be able to dis
 
 [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] treated the shooting as the product of a long-running, compartmentalized cultural operation rather than an isolated act, describing it as an instance of what he called a "mass form of Manchurian candidate ops" pushed onto children.[1] He argued that the decades-long installation of secular culture, the mainstreaming and eventual corporate and governmental endorsement of LGBTQ+ identity, the fomenting of antagonism with conservative culture, the collapse of debate into acceptance-or-rejection binaries, and media encouragement of activism and violence had jointly created the conditions for the [[nashville-school-shooting|Nashville attack]].[1] He predicted copy-cat events and argued that suppression of such stories would entrench a "left-wing transgender martyrdom ideology."[1]
 
+## November 2023 manifesto page leak
+
+In November 2023, commentator [[steven-crowder|Steven Crowder]] posted photographs of three pages he alleged came from Hale's manifesto, prompting the [[metropolitan-nashville-police-department|Metropolitan Nashville Police Department]] to state that the images were not MNPD crime scene photographs and to open an investigation into their dissemination.[2] The department said it did not know whether the pages were authentic.[2] Authorities had earlier confirmed that a manifesto written by Hale was recovered in which she had allegedly planned the attack for several weeks, and that the document was under ongoing review by the FBI's Behavioral Analysis Unit.[2] Accounts of the March 2023 attack record that Hale killed six people inside the Covenant School with a firearm and was killed by an officer while continuing to fire on the building's second floor.[2]
+
 ## References
 1. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
+2. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7

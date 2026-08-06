@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, alternative-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-media-weekly-show-schedule.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e44.md]
 confidence: high
 ---
 
@@ -168,7 +168,30 @@ In the December 28, 2023 edition of the Badlands News Brief, covering the news o
 
 On April 12, 2023, Badlands Media published the news brief "The France Dance, Crime & J6 Reveals," covering the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], the [[2023-house-judiciary-manhattan-crime-hearing|2023 House Judiciary Manhattan crime hearing]], [[ron-desantis|Ron DeSantis]]'s escalation of the [[disney-v-desantis|Disney dispute]], and the [[fedsurrection|"Fedsurrection"]] disclosures on undercover operatives at the Capitol.[28] The edition featured original commentary from [[burning-bright|Burning Bright]] and [[ryan-delarme|Ryan DeLarme]], and reiterated the outlet's framing that its team hand-picks news items relevant to the Truth Community to "find the signal amidst the noise" as the Information War continues.[28]
 
+## August 2025 projects
+
+Badlands Media promoted the premiere of CODEX 911, an original film by contributor Brad Zerbo, at GART Deadwood with virtual ticketing, and its Burning Bright Publishing imprint's debut novel Saving Seoul.[31]
+
+## News Brief of 21 June 2023
+The 21 June 2023 edition of the Badlands News Brief, titled "Hunter's Slap & Trump's Trap," covered the news of Tuesday 20 June with commentary from [[ryan-delarme|Ryan DeLarme]], [[burning-bright|Burning Bright]], [[ashe-in-america|Ashe in America]] and [[justin-deschamps|Justin Deschamps]].[29] Items included the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]], [[tucker-carlson|Tucker Carlson]]'s response to it, the [[2023-pentagon-ukraine-aid-accounting-error|Pentagon's $6.2 billion Ukraine aid accounting error]], the setting of a trial date in the [[2023-trump-classified-documents-indictment|Trump classified documents case]], and the [[2023-berlin-health-conference-covid-19-outbreak-study|Berlin health conference COVID-19 study]].[29]
+29. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+## News Brief format
+In the Badlands News Brief, the Badlands Media team hand-picks news items of interest from the previous days to give readers an overview of the biggest goings-on relevant to the Truth Community, with some items carrying original commentary from members of its team of citizen journalists.[30]
+30. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+31. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+32. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## June 19, 2023 News Brief
+
+The June 19, 2023 edition of the Badlands News Brief, titled "Biden Baffles, Kennedy Debates & Pride Falls," covered [[joe-biden|Joe Biden]]'s "God save the queen" remark, [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]]'s statements about [[cia|CIA]] assassination risk and the [[peter-hotez|Peter Hotez]] debate standoff, [[volodymyr-zelensky|Volodymyr Zelensky]]'s criticism of [[donald-trump|Donald Trump]] over Ukraine, the dismissal of the Westchester County criminal case against Trump, Lt. Gen. [[deanna-burt|DeAnna Burt]]'s Pride remarks at the [[pentagon|Pentagon]], the [[american-civil-liberties-union|ACLU]]'s statement on the execution of [[duane-owen|Duane Owen]], and [[jens-stoltenberg|Jens Stoltenberg]]'s refusal to set an [[f-16-fighting-falcon|F-16]] delivery timetable.[32] Commentary came from [[justin-deschamps|Justin Deschamps]], [[ashe-in-america|Ashe in America]], [[burning-bright|Burning Bright]], [[johnny-q|Johnny Q]] and [[ryan-delarme|Ryan DeLarme]].[32] The edition drew 122 likes and reiterated the outlet's framing that its hand-picked items help readers "find the signal amidst the noise" in the ongoing information war.[32]
+
+
+## Coverage of July 23, 2024
+
+The Badlands News Brief for July 24, 2024, headlined "Cheatle Resigns, Netanyahu Visits & Biden Lives!", compiled the previous day's news for the Truth Community, with segments by [[ashe-in-america|Ashe in America]], [[burning-bright|Burning Bright]] and [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]].[29] Items covered the resignation of [[united-states-secret-service|Secret Service]] Director [[kimberly-cheatle|Kimberly Cheatle]], [[benjamin-netanyahu|Benjamin Netanyahu]]'s Washington visit and planned Mar-a-Lago meeting with [[donald-trump|Donald Trump]], questions over [[joe-biden|Joe Biden]]'s whereabouts and health, early polling on [[kamala-harris|Kamala Harris]], and the impeachment articles filed by Rep. [[andy-ogles|Andy Ogles]].[29] GhostofBasedPatrickHenry announced a livestream of Netanyahu's congressional address on the Badlands Media Rumble channel at 2:00 PM EST.[29]
+
 ## References
+
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
 3. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -197,3 +220,4 @@ On April 12, 2023, Badlands Media published the news brief "The France Dance, Cr
 26. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
 27. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 28. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+29. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

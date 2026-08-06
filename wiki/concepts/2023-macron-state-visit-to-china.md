@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [france, china, taiwan, european-union, geopolitics, strategic-autonomy]
-sources: [raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ee9.md]
 confidence: medium
 ---
 
@@ -34,5 +34,16 @@ Michael Every of [[rabobank|Rabobank]] argued that Macron sent the wrong signal 
 
 Writing in the [[badlands-media|Badlands Media]] news brief, [[burning-bright|Burning Bright]] framed France — described as a lynchpin of [[nato|NATO]] and the "New Globalist West" — as having made two significant moves on the [[information-war|Information War]] board: agreeing to settle energy trades in yuan for the first time, and calling for Europe to stay on the sidelines in a potential America–China crisis rather than remain "America's Followers."[1] He suggested this could reflect direct control, leverage, or the machinations of [[fifth-generation-warfare|Fifth-Generation Warfare]] and game theory, arguing that in the war between globalism and sovereignty "friends become enemies, enemies become friends," and sometimes enemies are forced to act against their own self-interest.[1] In a second commentary on the same story, he noted the Media Industrial Complex could not decide whether to condemn or defend Macron, and linked the episode to [[brics|BRICS]] being established as a parallel economy built on the real rather than the "unReal" of the fiat central banking system.[1]
 
+## Interview aboard COTAM Unité
+
+Speaking to POLITICO and two French journalists aboard COTAM Unité, France's presidential aircraft, on the return leg of the three-day state visit, [[emmanuel-macron|Macron]] said Europe must reduce its dependency on the United States and avoid being dragged into a confrontation between China and the United States over [[taiwan|Taiwan]].[2] The interview followed roughly six hours spent with [[xi-jinping|Xi Jinping]], and was conducted while flying from Beijing to Guangzhou in southern China.[2] Macron emphasised his theory of "strategic autonomy" for Europe — presumably led by France — as a route to becoming a "third superpower," warning that "the great risk" Europe faces is that it "gets caught up in crises that are not ours, which prevents it from building its strategic autonomy."[2]
+
+POLITICO reported that Xi and the [[chinese-communist-party|Chinese Communist Party]] had enthusiastically endorsed the concept of strategic autonomy, with Chinese officials invoking it constantly in dealings with European countries, and that party leaders and theorists in Beijing believed the West was in decline and that weakening the transatlantic relationship would accelerate that trend.[2]
+
+## Badlands commentary on the petrodollar
+
+Responding to the interview, [[burning-bright|Burning Bright]] argued that the "real" war was being fought both below and above the Narrative War, and was directed against the US [[petrodollar|petrodollar]], which he characterised as the economic cudgel of the globalist central banking "System of Systems."[2] He sketched a path to the end of the petrodollar and fiat currencies: more nations accepting [[brics|BRICS]] currencies in trade, the development of new BRICS currencies based on "the Real," a [[saudi-arabia|Saudi Arabia]] domino at the annual BRICS summit in August, Western central banks being siloed and cut off, and former [[nato|NATO]] puppets and allies turning on one another.[2] When "their system of usury and false finance" collapses, he concluded, only a system built on the Real can save us.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+2. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, cabinet, nuclear, trump-administration]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-733.md, raw/badlands-brief-d1a.md, raw/badlands-news-brief-713.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-4ec.md, raw/badlands-brief-50d.md, raw/badlands-brief-733.md, raw/badlands-brief-d1a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e01.md]
 confidence: medium
 ---
 
@@ -44,6 +44,12 @@ In April 2026 Wright said the [[strait-of-hormuz|Strait of Hormuz]] — closed s
 
 In December 2024, Badlands contributor [[burning-bright|Burning Bright]] identified Wright as one of the "most influential figures" of the re-emerging nuclear industry whom President-elect [[donald-trump|Donald Trump]] was appointing to his second-term cabinet.[7] The commentary placed Wright's selection alongside [[javier-milei|Javier Milei]]'s [[argentine-nuclear-plan|Argentine Nuclear Plan]] and its emphasis on [[small-modular-reactor|small modular reactors]], framing both as evidence of a broader push to restore nuclear power as the foundation of Western energy policy.[7]
 
+## Order deprioritizing net-zero (February 2025)
+
+In an order issued Wednesday, February 5, 2025, Energy Secretary Wright directed that the [[department-of-energy|U.S. Department of Energy]] prioritize expanding energy production over achieving net-zero greenhouse gas emissions.[9] The secretarial order was intended to align the department with priorities set out by President [[donald-trump|Donald Trump]], who has called climate change a hoax and vowed to maximize already record-high oil and gas output.[9]
+
+Badlands contributor [[gmoney|GMONEY]] wrote that Wright was "setting the record straight" on the net-zero agenda and said he expected "great moves from Chris Wright in the years to come."[9]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -52,3 +58,12 @@ In December 2024, Badlands contributor [[burning-bright|Burning Bright]] identif
 5. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
 6. Badlands Brief — "Key Indictments at Home and a 'State of Collapse' Abroad", URL: https://badlands.substack.com/p/badlands-brief-d1a
 7. Badlands News Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
+
+## Saudi civil nuclear cooperation (April 2025)
+
+Speaking to reporters in Riyadh on Sunday, April 13, 2025, Wright said the United States and [[saudi-arabia|Saudi Arabia]] would sign a preliminary agreement to cooperate over the kingdom's ambitions to develop a civil nuclear industry.[8] Wright, who had met earlier that day with Saudi Energy Minister Prince Abdulaziz bin Salman, said Riyadh and Washington were on "a pathway" to reaching an agreement, and that further details of a memorandum on energy cooperation would come later in the year.[8] The visit was his first to the kingdom as secretary, part of a tour of energy-producing Gulf states.[8]
+
+Wright indicated the arrangement would involve a so-called 123 agreement: "For a U.S. partnership and involvement in nuclear here, there will definitely be a 123 agreement ... there's lots of ways to structure a deal that will accomplish both the Saudi objectives and the American objectives."[8] A 123 agreement refers to Section 123 of the [[atomic-energy-act-of-1954|US Atomic Energy Act of 1954]] and is required to permit the US government and American companies to work with entities in the kingdom on a civil nuclear industry.[8] Badlands commentary speculated that the Saudi deal would form part of a new Iran nuclear framework, and contrasted it with [[israel|Israel]]'s refusal to sign any nuclear treaty with the United States, arguing that both Saudi Arabia and Iran could end up empowered to build or expand nuclear power plants while Israel falls behind in the energy race.[8]
+
+8. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+9. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [world-cup, fifa, soccer, spain, argentina, trump]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-708.md, raw/badlands-brief-b24.md, raw/badlands-brief-da2.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-559.md, raw/badlands-brief-708.md, raw/badlands-brief-b24.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-ee6.md]
 confidence: medium
 ---
 
@@ -55,9 +55,14 @@ The outlet framed the run as an underdog story, noting that soccer is the one sp
 
 [[iran|Iran]] played Belgium to a 0-0 draw featuring what Badlands called one of the most remarkable goalkeeper saves imaginable; an Iranian penalty-kick goal was called back for offsides, a decision widely disputed online.[5] Badlands said it would be "hilarious" to see Iran advance deep into the tournament, because "the Israelis and their slaves would seethe."[5] England was described as dominating the tournament and considered a top-three side in terms of talent even as Prime Minister [[keir-starmer|Keir Starmer]] prepared to resign.[5]
 
+## Russia's exclusion and Trump's "incentive" proposal (2025)
+
+Qualification for the tournament began in September 2023, with 45 places available in addition to the three host nations, the United States, Canada and Mexico.[6] The Russian national team had been banned from international competition by [[fifa|FIFA]] and UEFA since the country's invasion of Ukraine in 2022, and under the rules then in force would not participate.[6] Speaking at the first meeting of his administration's 2026 World Cup taskforce in May 2025, President [[donald-trump|Donald Trump]] — who had campaigned on ending the war in Ukraine on "day one" of a second term — suggested that the chance for Russia to play could be an "incentive" to end the war, only to learn from FIFA president [[gianni-infantino|Gianni Infantino]], seated beside him, that the country was banned.[6] "I didn't know that. Is that right?" Trump asked; told it was, he replied, "That's possible. Hey, that could be a good incentive, right?"[6]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 3. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
 4. Badlands Brief — "Diplomatic Trolling & Colombian Election Denial", URL: https://badlands.substack.com/p/badlands-brief-b24
 5. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
+6. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6

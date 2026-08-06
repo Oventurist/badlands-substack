@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, mississippi, ethics, house-of-representatives]
-sources: [raw/badlands-brief-fd9.md]
+sources: [raw/badlands-brief-fd9.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -18,6 +18,12 @@ Guest featured in the July 2026 controversy over congressional use of taxpayer f
 
 His posture contrasted with that of Rep. [[nancy-mace|Nancy Mace]], who voted "present" and characterized the timing of the resolution as "political theater," noting that her own earlier subpoena efforts had already compelled the production of related materials.[1]
 
+
+## Named in the Gaetz Lawsuit
+
+As chair of the [[house-ethics-committee|House Ethics Committee]], Rep. Michael Guest (R-Miss.) was named as a defendant, alongside the committee itself, in the federal lawsuit former Rep. [[matt-gaetz|Matt Gaetz]] filed on December 23, 2024 in an attempt to block release of the committee's report into his conduct.[2] The committee published the report the same day.[2]
+
 ## References
 
 1. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
+2. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, israel, press]
-sources: [raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-656.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -36,9 +36,15 @@ On Sunday, November 24, 2024, the Israeli Cabinet unanimously agreed to sanction
 
 Press-freedom advocates condemned the move as part of a broader effort to silence voices critical of Israel's war in Gaza.[5] Jodie Ginsberg, chief executive of the [[committee-to-protect-journalists|Committee to Protect Journalists]], said the organization deplored the attempt to silence a respected Israeli outlet by hurting its advertising and subscription revenue, and called Israel's increasing restrictions on critical media disturbing evidence of efforts to prevent coverage of its actions in Gaza.[5] Badlands contributor GhostofBasedPatrickHenry framed the boycott as unsurprising given Israel's long-standing media regulations on reporting about government and military activity, and warned that similar censorship impulses were being promoted in the United States.[5]
 
+
+## Zehava Galon's August 2024 column
+
+On Sunday, August 4, 2024, Haaretz published a column by [[zehava-galon|Zehava Galon]] headlined "If Israelis Don't Rise Up Now, We'll Have Nothing Left to Fight For," in which she argued that Israel was steadily becoming a pariah state as international sanctions on settlers and organizations turned from a trickle into a daily occurrence.[6] Galon wrote that such sanctions were a privilege and a warning signal — the equivalent of an intervention by friends no longer willing to pay Israel's bills — and that the Israeli government responded instead by crying "antisemitism!"[6] The piece named [[benzi-gopstein|Benzi Gopstein]], who comes and goes freely at the [[knesset|Knesset]] that bars relatives of the hostages, and [[tzav-9|Tzav 9]], whose members she said are protected by the [[israeli-police|police]] and by the minister responsible for them.[6] Badlands Media quoted the column at length as evidence of internal Israeli alarm at the direction of the country's politics.[6]
+
 ## References
 1. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 3. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
 4. Badlands News Brief — "We Have the Source ... And the Sauce", URL: https://badlands.substack.com/p/badlands-news-brief-322
 5. Badlands Brief — "It's Our Failed 'Resistance' and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+6. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, oversight, republican]
-sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e3e.md]
 confidence: medium
 ---
 
@@ -29,9 +29,14 @@ During the [[october-2025-government-shutdown|October 2025 government shutdown]]
 
 Johnson was himself the sponsor of the competing [[shutdown-fairness-act-of-2025|Shutdown Fairness Act of 2025]], which would have paid active-duty military members and other essential federal employees required to work; Senate Democrats blocked it in a mostly party-line 54-45 vote that fell short of the 60-vote threshold.[4] Sens. [[jon-ossoff|Jon Ossoff]], [[raphael-warnock|Raphael Warnock]] and [[john-fetterman|John Fetterman]] crossed party lines to support Johnson's bill.[4]
 
+## Secret Service and FBI oversight (July 2024)
+
+At the July 30, 2024 Senate hearing into the Butler, Pennsylvania assassination attempt against [[donald-trump|Donald Trump]], Johnson demanded 302 reports for all FBI interviews conducted in the course of the investigation, and railed against the [[united-states-secret-service|Secret Service]] for failing to memorialise its encrypted communications from July 13.[5]
+
 ## References
 
 1. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 2. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 4. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+5. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e

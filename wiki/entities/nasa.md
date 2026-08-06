@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, government-agency, artemis, moon]
-sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e98.md]
 confidence: medium
 ---
 
@@ -57,6 +57,12 @@ In late June 2024, NASA announced that [[spacex|SpaceX]] had been selected to de
 
 [[jared-isaacman|Jared Isaacman]], a billionaire private astronaut and former SpaceX customer, was sworn in as NASA's 15th administrator on December 18, 2025.[9] Hours later President [[donald-trump|Donald Trump]] issued the executive order [[ensuring-american-space-superiority|"Ensuring American Space Superiority"]], which enshrined the US goal of putting humans back on the Moon by 2028, urged efficiency among private contractors, and called for deploying nuclear reactors on the Moon and in orbit, including a lunar surface reactor ready for launch by 2030.[9]
 
+## Musk–Putin controversy (October 2024)
+
+In late October 2024, NASA was drawn into the dispute over reported contacts between [[spacex|SpaceX]] chief executive [[elon-musk|Elon Musk]] and Russian president [[vladimir-putin|Vladimir Putin]]; the agency holds multiple contracts with SpaceX and relies on the company's launches to carry astronauts to orbit and resupply the International Space Station.[10]
+Administrator [[bill-nelson|Bill Nelson]] told Semafor that such calls "would be concerning" if true, particularly for NASA and the [[department-of-defense|Department of Defense]], and said the Wall Street Journal report warranted investigation without naming an agency to conduct it.[10]
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the episode to restate the outlet's position that NASA is a "limited hangout psyop," asserting that the agency has misrepresented the loss of Apollo-era capability and that 1969 spacewalk footage was a Cold War propaganda product — claims presented as Badlands opinion rather than established fact.[10]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -67,3 +73,4 @@ In late June 2024, NASA announced that [[spacex|SpaceX]] had been selected to de
 7. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 9. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+10. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98

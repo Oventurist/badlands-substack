@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [adl, advocacy, democratic-party]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-966.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-f00.md]
 confidence: low
 ---
 
@@ -32,7 +32,12 @@ In remarks delivered to the [[knesset|Knesset]]'s Committee for Immigration, Abs
 
 Greenblatt invoked Israeli covert operations as a model, saying the effort needed "the kind of genius that manufactured Apollo Gold Pagers and infiltrated Hezbollah for over a decade" and "the kind of courage that executed Operation Deep Layer inside Syria and destroyed Iranian missile manufacturing capabilities."[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] responded that Greenblatt's proposed answer to accusations of Israeli war crimes in Gaza amounted to creating a new special military unit led by the planners of the pager attack, calling it a level of satire that should not be possible.[3]
 
+## "Our national anthem" remark (August 2025)
+
+During an August 2025 interview with the Jewish Broadcasting Service, Greenblatt referred to Israel's national anthem, Hatikvah, as "our national anthem" before catching himself and adding, "I shouldn't say our, it's Israel's national anthem."[4] In the same interview he contrasted national symbols, saying the emblem of Hezbollah is a rifle and that of the Islamic Republic of Iran a sword, while "the national symbol of Israel is the shield, it's the Star of David," which he characterized as an instrument of defense rather than a weapon of war.[4] Greenblatt, an American citizen born in Connecticut, framed the anthem as speaking to "the Jewish longing" shared by Jews worldwide.[4] Badlands host Chris Paul described the clip as "mind-blowing" and suggested Greenblatt was undermining his own position, also flagging his remark that "there were these accusations that the Jews killed Christ."[4]
+
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 3. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+4. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

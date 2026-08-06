@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, legislature, government, gaza-war, detainee-abuse]
-sources: [raw/badlands-brief-559.md, raw/badlands-brief-739.md, raw/badlands-brief-6b4.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-brief-739.md, raw/badlands-brief-6b4.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-dca.md]
 confidence: medium
 ---
 
@@ -78,6 +78,20 @@ On Monday, October 28, 2024, the Knesset voted to ban the operations of [[unrwa|
 
 A U.N. Office of Internal Oversight Services investigation closed in August 2024 had debunked some of the allegations and found others insufficiently evidenced, though the agency said nine employees may have been involved in the October 7 attack if the evidence were authenticated, and Commissioner-General [[philippe-lazzarini|Philippe Lazzarini]] said their contracts would be terminated.[11] The legislation carried a ninety-day delay before taking effect, during which Netanyahu's office said Israel stood ready to work with international partners to keep facilitating humanitarian assistance to civilians in Gaza in a manner that did not threaten Israeli security.[11]
 
+## Preliminary West Bank sovereignty vote (October 2025)
+
+On Wednesday, October 22, 2025, the Knesset passed in a preliminary reading, and against the prime minister's wishes, a bill that would apply Israeli sovereignty to all [[west-bank|West Bank]] settlements.[12] The vote drew immediate criticism from Washington: Vice President [[jd-vance|JD Vance]] said as he departed [[israel|Israel]] the next day that it had offended him and was "very stupid," while President [[donald-trump|Donald Trump]] warned in remarks published the same day that Israel would lose "all support" from the United States over [[west-bank-annexation|annexation]].[12] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the timing of the vote, as Vance was flying to Israel, a flagrant act of defiance and disrespect toward Trump.[12]
+
+## Judicial appointments law (March 2025)
+
+On Thursday, March 27, 2025, the Knesset approved a key component of Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s plan to overhaul the judiciary, passing by 67 votes in the 120-seat chamber a law giving politicians more power over the appointment of judges.[13] The vote came days after the government initiated a process to dismiss Attorney General [[gali-baharav-miara|Gali Baharav-Miara]] and discharged [[ronen-bar|Ronen Bar]], head of the internal security agency [[shin-bet|Shin Bet]] — both critics of Netanyahu.[13] Critics called the law a "catastrophe" and a "nail in the coffin of Israeli democracy," and the opposition swiftly petitioned the Supreme Court against it; the broader judicial reform package had sparked one of the largest protest movements in Israel's history in 2023 before public attention was overtaken by the war in Gaza.[13]
+
+Badlands analysis noted that the enacted version was ostensibly less extreme than originally proposed — it did not eliminate the opposition party from the selection committee entirely — but still achieved Netanyahu's goal of structuring the nine-member committee to expand the ruling coalition's voting power.[13] The commentary explained that Israel uses a parliamentary system in which citizens vote for party lists and a prime minister must assemble a coalition majority in the Knesset.[13]
+
+Netanyahu held a 63-seat coalition until [[itamar-ben-gvir|Itamar Ben-Gvir]]'s [[otzma-yehudit|Jewish Power]] party resigned from the government in protest on January 19, following [[steve-witkoff|Steve Witkoff]]'s successfully negotiated ceasefire with [[hamas|Hamas]]; when the ceasefire was broken, Ben-Gvir returned, restoring a 68-seat majority.[13] The analysis stressed that since 2022 a large share of that majority consisted of fringe radicals previously unwilling to join or barred from serving in the Knesset over championed views of Jewish racial supremacy — a ban created by a 1994 law that Netanyahu reversed in 2022 to gain their support after losing political moderates amid scandals.[13]
+
+Those legislators were now positioned to join the nine-member selection committee appointing judges to the Israeli Supreme Court, potentially seating jurists sympathetic to figures such as [[meir-kahane|Meir Kahane]] and [[benzi-gopstein|Benzi Gopstein]].[13] Gopstein was prosecuted for incitements made in 2015, defended by Ben-Gvir; Kahane was murdered in New York City in 1990.[13] The commentary presented this context to argue that warnings from [[benny-gantz|Benny Gantz]] and retired Supreme Court chiefs that Netanyahu's polarization was sending Israel careening toward civil war were not necessarily hyperbole.[13] The opposition coalition walked out and refused to cast votes on the bill.[13]
+
 ## References
 1. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 2. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
@@ -90,3 +104,5 @@ A U.N. Office of Internal Oversight Services investigation closed in August 2024
 9. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 10. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 11. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+12. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+13. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca

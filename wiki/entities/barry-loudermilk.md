@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, january-6, oversight, republican, georgia]
-sources: [raw/badlands-news-brief-5c7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-970.md, raw/badlands-news-brief-ac1.md]
+sources: [raw/badlands-news-brief-5c7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-970.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -43,3 +43,13 @@ In early November 2023, Loudermilk released multiple January 6 video screenshots
 2. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 3. Badlands Brief — "Drones in Russia, J6 Footage & Socialist Policies", URL: https://badlands.substack.com/p/badlands-news-brief-970
 4. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
+
+## Referral of Liz Cheney (December 2024)
+
+As chair of the House subcommittee examining the [[january-6-committee|January 6 Select Committee]], Loudermilk obtained text messages reported at the end of December 2024 to show that committee vice chair [[liz-cheney|Liz Cheney]] had colluded behind the scenes with star witness [[cassidy-hutchinson|Cassidy Hutchinson]], who then dramatically changed her testimony.[5] Commentary held the communications could represent witness tampering, subornation of perjury, and obstruction.[5] Based on the results of his ongoing inquiry, Loudermilk determined that "numerous federal laws were likely broken by Liz Cheney" and called for the FBI to investigate her, at a time when Cheney appeared to be preparing to resist any federal or congressional probe of her conduct.[5]
+5. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+
+## Probe of J6 committee collusion with Fani Willis (March 2024)
+
+In a status report released Monday, March 11, 2024, the House Administration Oversight Subcommittee chaired by Loudermilk announced an inquiry into the extent of "collusion" between the Democrat-run House January 6 committee and Fulton County District Attorney [[fani-willis|Fani Willis]] during her prosecution of [[donald-trump|Donald Trump]].[6] The subcommittee said it had located a December 17, 2021 letter in which Willis asked House Democrats to send her any evidence that would further her case, requesting access to select committee records including "recordings and transcripts of witness interviews and depositions, electronic and print records of communications, and records of travel."[6] Loudermilk's panel raised concerns that the investigation led by Reps. [[bennie-thompson|Bennie Thompson]] and [[liz-cheney|Liz Cheney]] may have shared material such as video depositions with Willis's office while withholding it from the Republicans who took over the House in 2023, and devoted a chapter of the report to "collusion with Fulton County District Attorney Fani Willis."[6]
+6. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

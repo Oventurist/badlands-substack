@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, unions, trade, tariffs, autoworkers]
-sources: [raw/badlands-news-brief-03a.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Badlands commentary presented Fain's statement as evidence that organized labor'
 
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
+
+## Surprise strike at GM Arlington (October 2023)
+
+On Tuesday, October 24, 2023, Fain called a surprise 5,000-member strike at [[general-motors|General Motors]]' largest and most profitable SUV plant, one day after the [[united-auto-workers|UAW]] struck [[stellantis|Stellantis]]' RAM 1500 truck plant in Michigan.[2] The action came hours after GM reported quarterly profits that topped estimates while withdrawing its full-year forecast.[2] "Another record quarter, another record year. As we've said for months: record profits equal record contracts," Fain said, adding that "it's time GM workers, and the whole working class, get their fair share."[2] See [[2023-united-auto-workers-strike]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

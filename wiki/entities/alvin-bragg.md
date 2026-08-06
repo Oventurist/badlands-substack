@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ef9.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -109,6 +109,14 @@ As law enforcement met on March 20, 2023 to plan the logistics of a possible arr
 
 As law enforcement met on March 20, 2023 to plan the logistics of a possible arraignment of [[donald-trump|Donald Trump]], sources indicated the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] under Bragg did not expect an arraignment before the following week, with another grand jury witness scheduled that Wednesday; Bragg was said to oppose any virtual arraignment.[17] [[just-human|Just Human]] predicted Bragg would repeatedly delay and eventually dismiss the grand jury without an indictment, drawing a direct parallel to [[cyrus-vance-jr|Cy Vance]]'s failed effort, and argued Bragg faced "fire on both sides of the door" — humiliation if he failed to charge, and a dismissible case plus a strengthened Trump if he did.[17] See [[trump-hush-money-case|the Trump hush-money case]].[17]
 
+## 2025 Democratic primary for Manhattan District Attorney
+
+On Tuesday, June 24, 2025, Bragg won the Democratic nomination for another term as Manhattan District Attorney, fending off a more moderate challenger, according to a projection by Decision Desk HQ.[18] Bragg, who had received widespread national attention over his successful prosecution of President [[donald-trump|Donald Trump]], defeated Patrick Timmins, a former prosecutor in the Bronx who ran on a more moderate platform and argued that the district attorney's office under Bragg should have been more aggressive in prosecuting certain crimes.[18] Bragg, the first African American to hold the office, had run in 2021 on a progressive platform calling for an end to prosecuting lower-level nonviolent crimes and for lesser charges and sentences in nonviolent cases; during his tenure he faced criticism over accusations that he backed away from some of what he had called for.[18]
+
+## Trump's post-arraignment attack (April 2023)
+
+After his April 4, 2023 arraignment in Manhattan, former President [[donald-trump|Donald Trump]] singled out Bragg in remarks at [[mar-a-lago|Mar-a-Lago]], calling the prosecution a "fake case" brought "only to interfere with the upcoming 2024 presidential election" and saying, "The criminal is [Alvin Bragg] … he should be prosecuted, or at a minimum, he should resign."[19] [[justin-deschamps|Justin Deschamps]] argued the legitimacy of the indictment was questionable because the payments to [[michael-cohen|Michael Cohen]] were not "known" to Trump — knowledge that was critical to the conspiracy charge Bragg had levied — and contended that Bragg and allied media persistently obscured the substance of the charges in order to overinflate them in the court of public opinion.[19] See [[trump-hush-money-case|the Trump hush-money case]].[19]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
@@ -128,3 +136,19 @@ As law enforcement met on March 20, 2023 to plan the logistics of a possible arr
 15. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
 16. Badlands News Brief — "The DNC Comes to Town ... And Gets Weird", URL: https://badlands.substack.com/p/badlands-news-brief-ccd
 17. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+18. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+19. Badlands Brief — "Trump's Trick & Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-ef9
+
+## Anticipated indictment, March 2023
+
+By late March 2023, Bragg's investigation into [[donald-trump|Donald Trump]]'s alleged involvement in a 2016 scheme to pay adult film actress [[stormy-daniels|Stormy Daniels]] $130,000 for her silence about an alleged affair had led legal experts to conclude that a historic criminal indictment was near.[20] Trump, who denied the affair, announced on Truth Social that he expected to be arrested on Tuesday, March 21, and sharply criticized Bragg's investigation.[20] The anticipation prompted the [[united-states-capitol-police|United States Capitol Police]] to raise security levels in Washington and drove commentary from [[alan-dershowitz|Alan Dershowitz]], who predicted Trump would be convicted in New York City because of what he called the city's unfair legal system.[20] The matter is covered in detail at [[trump-hush-money-case|the Trump hush-money case]].[20]
+
+20. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+
+## The 17-152 predicate theory (April 2024)
+
+By April 2024, Bragg's prosecution of [[donald-trump|Donald Trump]] had drawn sustained criticism from legal commentators including [[jonathan-turley|Jonathan Turley]], who described the Manhattan District Attorney's case as bordering on the legally obscene — an openly political prosecution built on a theory that even some liberal pundits had dismissed.[21] Turley wrote that after months of confusion about what crime the indictment actually alleged, the prosecution offered a theory so ambiguous and undefined that it evoked Justice Potter Stewart's "I know it when I see it" standard from *Jacobellis v. Ohio* (1964).[21]
+
+Prosecutor [[joshua-steinglass|Joshua Steinglass]] told the jury that one of the crimes at issue in listing payments to [[stormy-daniels|Stormy Daniels]] as a legal expense was [[new-york-election-law-17-152|New York Law 17-152]], which makes it a misdemeanor for two or more persons to conspire to promote or prevent the election of a person to public office by unlawful means where the conspiracy is acted upon.[21] The resulting argument, as Turley characterized it, was that Trump committed a crime by conspiring to unlawfully promote his own candidacy — paying to quash an embarrassing story and reimbursing his lawyer through legal-expense entries.[21] Badlands commentary framed the trials as a war of attrition in which prosecutors might seek off-ramps rather than risk either a proven acquittal or Supreme Court review.[21]
+
+21. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

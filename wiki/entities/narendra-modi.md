@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [india, sco, multipolar]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a98.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -70,3 +70,13 @@ Badlands contributor GhostofBasedPatrickHenry called the exchange one of his fav
 7. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942
 8. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
 9. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+
+## Bilateral diplomacy after the Washington visit (February 2025)
+
+Having travelled to Washington the previous week in an unsuccessful attempt to dissuade [[donald-trump|Donald Trump]] from imposing tariffs on [[india|India]] — Trump instead publicly described India as historically among the worst offenders on import tariffs and vowed "reciprocal tariffs" — Modi moved on February 18, 2025 to deepen two bilateral relationships.[10]
+
+He and the Amir of Qatar, Sheikh [[tamim-bin-hamad-al-thani|Tamim bin Hamad Al Thani]], held wide-ranging talks at Hyderabad House and agreed to elevate ties to the [[india-qatar-strategic-partnership|India-Qatar Strategic Partnership]], signing a revised double-taxation pact and five memoranda of understanding covering trade, energy, investments, innovation, technology, food security, culture and people-to-people ties, and exchanging views on the Israel-Hamas conflict and Afghanistan.[10] Modi publicly called Tamim "my brother" on X.[10]
+
+The same day, Russia and India concluded the [[reciprocal-exchange-of-logistics-agreement|Reciprocal Exchange of Logistics Agreement]] (RELOS), a defense logistics pact.[10] Badlands commentary read the two moves as favourable to Trump and as subversive of globalist hegemony, and argued that RELOS, combined with the more limited agreement Modi signed with Xi Jinping the previous year, effectively neutralizes hostility between India and China.[10]
+
+10. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [music-industry, sex-trafficking, blackmail, homeland-security, celebrity]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -130,6 +130,10 @@ Prosecutor [[emily-a-johnson|Emily A. Johnson]] called him a "serial abuser and 
 
 Badlands commentary linked the case to a broader pattern: five days earlier federal investigators had raided the homes and offices of several high-profile New York City politicians in connection with alleged racketeering and corruption, and two days earlier the New York City Police Commissioner had resigned amid unconfirmed speculation about payoffs and "fixing."[16] Contributor [[ashe-in-america|Ashe in America]] declined to assert that the two federal RICO investigations were connected but called the timing interesting, noted allegations that Combs recorded blackmail material and had been friendly with the Clintons, and reported widespread internet speculation that he would be "Epstein'd" in custody.[16] Contributor [[burning-bright|Burning Bright]] highlighted that the indictment came in the [[southern-district-of-new-york|Southern District of New York]] — the same district that convicted [[anthony-weiner|Anthony Weiner]] and, on the very same day, saw [[ghislaine-maxwell|Ghislaine Maxwell]]'s conviction upheld by the [[second-circuit-court-of-appeals|Second Circuit]].[16]
 
+## Fund linked to X shareholder filing (2024)
+
+A fund linked to Combs appeared among the nearly 100 entities named when a federal judge ordered [[x-corp|X]] to unseal the shareholder list of X Holdings Corp. in August 2024, placing the hip-hop mogul alongside prominent Silicon Valley venture capitalists in the financing of [[elon-musk|Elon Musk]]'s purchase of [[twitter|Twitter]].[17]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
@@ -147,3 +151,4 @@ Badlands commentary linked the case to a broader pattern: five days earlier fede
 14. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 15. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 16. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+17. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

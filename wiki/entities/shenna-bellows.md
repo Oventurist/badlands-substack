@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maine, secretary-of-state, ballot-access, fourteenth-amendment, election-law]
-sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-e39.md]
 confidence: medium
 ---
 
@@ -48,3 +48,8 @@ Legal scholar [[jonathan-turley|Jonathan Turley]], who titled his commentary "Th
 1. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 2. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 3. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+4. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## Stay of the Maine ballot decision (January 2024)
+
+After Bellows removed [[donald-trump|Donald Trump]] from Maine's presidential primary ballot, Trump's lawyers appealed in state court and then asked the court to pause proceedings pending the U.S. Supreme Court's ruling in the Colorado disqualification case.[4] On January 17, 2024, Superior Court Justice [[michaela-murphy|Michaela Murphy]] concluded she lacked authority to stay the judicial proceedings but remanded the matter to Bellows with instructions to await the Supreme Court's outcome before withdrawing, modifying or upholding her original decision.[4] The practical effect was that Trump remained on the Maine primary ballot ahead of the state's March 5 Super Tuesday vote and its ballot-printing deadline for uniformed and overseas voters.[4]

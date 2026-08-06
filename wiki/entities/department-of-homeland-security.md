@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, border-security, trafficking, funding]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -152,6 +152,14 @@ Separately, four Republican states — Florida, Indiana, Iowa and Ohio — agree
 
 On Monday, May 12, 2025, the department issued subpoenas to the government of California seeking records related to alleged disbursements of federal funds to illegal immigrants.[25] The subpoenas were filed by the Los Angeles office of Homeland Security Investigations, the investigative arm of [[immigration-and-customs-enforcement|ICE]], and targeted the state's [[cash-assistance-program-for-immigrants|Cash Assistance Program for Immigrants]].[25] Secretary [[kristi-noem|Kristi Noem]] said "radical left politicians in California prioritize illegal aliens over our own citizens" and that the administration was working to ensure people in the country illegally do not receive federal benefits, adding that although the subpoena focused only on Los Angeles County, "it is just the beginning."[25]
 
+## Arrests of Iranian nationals (June 2025)
+
+DHS officials announced on Tuesday, June 24, 2025 that federal agents had arrested 11 Iranian nationals living in the United States over the preceding days, with almost all arrests made on the Sunday after U.S. military planes bombed key Iranian nuclear sites.[26] The department labelled one of the detainees, Yousef Mehridehno, a "suspected terrorist" who had lied on a visa application, and identified others as a former member of Iran's Islamic Revolutionary Guard Corps and a former Iranian army sniper found carrying an Islamic Republic of Iran Army identification card.[26] See [[2025-ice-arrests-of-iranian-nationals|the 2025 ICE arrests of Iranian nationals]].[26]
+
+## Screening of Chinese nationals, 2024
+
+In 2024 DHS was reported to have dramatically simplified the vetting process for Chinese nationals encountered at the border, reducing the number of interview questions from approximately forty to just five.[29] Critics argued the change prioritised "processing efficiency" over thorough national security checks, leaving vulnerabilities that the [[chinese-communist-party|Chinese Communist Party]] could exploit to insert espionage agents or exert influence inside the United States.[29] The change was described as a consequence of border agents being so overwhelmed by illegal crossings and fraudulent asylum claims under the Biden administration that fundamental security measures were abandoned.[29] In the first two days of May 2024, more Chinese nationals entered the U.S. illegally than in all of 2021.[29]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -178,3 +186,18 @@ On Monday, May 12, 2025, the department issued subpoenas to the government of Ca
 23. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
 24. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 25. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+26. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+27. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## Homeland Intelligence Experts Group
+
+In September 2023 Secretary Alejandro Mayorkas announced the formation of the [[homeland-intelligence-experts-group|Homeland Intelligence Experts Group]] to "provide advice and perspectives on intelligence and national security efforts" to the Department.[27] Newly released internal files reported in June 2024 showed the now-disbanded group had classified supporters of [[donald-trump|Donald Trump]], members of the military and people with religious views as persons likely to commit "domestic violent extremist" attacks.[27] [[america-first-legal|America First Legal]] called it "a completely partisan group designed to provide top cover for the Department's radical agenda," and sued alongside former Ambassador [[richard-grenell|Richard Grenell]], alleging violations of the [[federal-advisory-committee-act|Federal Advisory Committee Act]].[27] To avoid further litigation and scrutiny the Department agreed in May 2024 to disband the group and turn over its records, though it may have operated for a year, having met for as long as four months before its public announcement.[27] Badlands commentary situated the episode alongside the [[global-engagement-center|Global Engagement Center]] and the [[disinformation-governance-board|Disinformation Governance Board]] as successive forms of the same unconstitutional activity.[27]
+
+## February 2025 senior leadership purge
+
+In the week of February 17, 2025, the Trump administration prepared to fire hundreds of high-level DHS employees as part of an effort to rid the country's third-largest agency of people deemed misaligned with the administration's goals, according to three sources familiar with the matter.[28] The sources described a "centralized plan" and a list of individuals in high-level positions across every component of the department who were to be targeted that week.[28]
+
+The firings came on top of hundreds of more general cuts that had begun across DHS the previous Friday night, which targeted the [[fema|Federal Emergency Management Agency]], [[uscis|U.S. Citizenship and Immigration Services]], and the [[cybersecurity-and-infrastructure-security-agency|Cybersecurity and Infrastructure Security Agency]].[28] Those cuts were part of a governmentwide effort to reduce the federal workforce.[28]
+
+28. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+29. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

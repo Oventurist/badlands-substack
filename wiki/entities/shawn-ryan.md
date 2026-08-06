@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, podcasting, independent-media, veterans]
-sources: [raw/badlands-news-brief-a5d.md]
+sources: [raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Ryan's platform functions in the Badlands framing as one of the larger independe
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
+
+## Hegseth interview cited in Badlands analysis (November 2024)
+
+An interview Ryan conducted with [[pete-hegseth|Pete Hegseth]] featured in the [[badlands-media|Badlands Media]] News Brief's assessment of Hegseth's nomination as Secretary of Defense in November 2024.[2] [[ashe-in-america|Ashe in America]], who wrote that she did not watch Fox News or cover military affairs and was unfamiliar with Hegseth, said a clip from the Ryan interview clarified the logic of the pick for her, illuminating Hegseth's background, philosophy and reputation for exposing bureaucratic waste in the context of [[donald-trump|Donald Trump]]'s eighteen-month plan to streamline the federal bureaucracy.[2]
+
+2. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

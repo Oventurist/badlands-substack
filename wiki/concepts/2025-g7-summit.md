@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [g7, canada, diplomacy, trade, 2025]
-sources: [raw/badlands-news-brief-69d.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-f1f.md]
 confidence: medium
 ---
 
@@ -21,3 +21,11 @@ Prime Minister [[mark-carney|Mark Carney]] hosted what coverage described as an 
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
+
+## Trump on Russia's exclusion
+
+At the opening of the summit in Canada on Monday, June 16, 2025, US President [[donald-trump]] called [[russia|Russia's]] removal from the group a mistake, arguing that Moscow's presence could have prevented the escalation of the Ukraine conflict.[2] "The G7 used to be the G8," he said at his first meeting of the summit with Canadian Prime Minister [[mark-carney|Mark Carney]], adding that "[Former US President] Barack Obama and a person named [former Canadian Prime Minister Justin] Trudeau didn't want to have Russia in."[2] He continued: "And I would say that that was a mistake, because I think you wouldn't have a war right now if you had Russia in, and you wouldn't have a war right now if Trump were president four years ago."[2]
+
+Russia had joined the group, originally known as the [[g7]], in 1997; the membership also includes Canada, France, Germany, Italy, Japan, the UK, the US and the EU as a "non-enumerated member."[2] Moscow's membership was suspended in 2014 following Crimea's reunification with Russia after a referendum held in the aftermath of a Western-backed Maidan coup in Kiev, upon which the G8 reverted to the G7.[2] Trump had repeatedly criticized Russia's exclusion and floated bringing Moscow back during his first term, though other members rejected the proposal.[2]
+
+2. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f

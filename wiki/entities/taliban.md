@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, terrorism, weapons-trafficking]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bbb.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -103,7 +103,22 @@ On Wednesday, September 13, 2023, the Taliban hailed the arrival of China's new 
 
 The Taliban seized power in August 2021 as U.S. and [[nato|NATO]] forces withdrew after two decades of war; their leaders remain under sanctions, no country recognizes them as Afghanistan's legitimate rulers, and the country's United Nations seat is still held by the former Western-backed government led by Ashraf Ghani.[15] Only a handful of nations maintain working diplomatic missions in Afghanistan, among them China — the world's second-largest economy — with both sides open about a desire for closer ties, especially commercial ones.[15]
 
+## Rejection of Trump's Bagram demand (September 2025)
+
+In September 2025 the Taliban government rejected U.S. President [[donald-trump|Donald Trump]]'s bid to retake [[bagram-air-base|Bagram Air Base]], four years after the chaotic American withdrawal from Afghanistan left the sprawling facility in Taliban hands.[16] Chief Taliban spokesman [[zabihullah-mujahid|Zabihullah Mujahid]] urged Washington to adopt a policy of "realism and rationality," recalling that under the [[doha-agreement|Doha Agreement]] the United States pledged that "it will not use or threaten force against the territorial integrity or political independence of Afghanistan, nor interfere in its internal affairs."[16] Hamdullah Fitrat, deputy spokesman of the Taliban-run Afghan government, said Kabul had made clear in all negotiations that the country's "independence and territorial integrity are of the utmost importance."[16] The rejection followed Trump's warning that if the base were not returned, unspecified "BAD THINGS ARE GOING TO HAPPEN!!!"[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the confrontation as staged "WrestleMania kayfabe" between two sides that were in fact on friendly terms.[16]
+
+## January 2025 prisoner exchange and bounty threat
+
+In late January 2025 the Taliban, which controls the government of Afghanistan, released two Americans in exchange for a Taliban figure in a prisoner swap, part of its continuing effort to obtain international legitimacy.[17] The Americans were identified as [[ryan-corbett|Ryan Corbett]], detained in August 2022 while on a business trip, and William McKenty, as confirmed by the [[house-foreign-affairs-committee|House Foreign Affairs Committee]] in a statement released on January 21.[17] That statement referred to "the other Americans who remain wrongfully detained and held hostage in Afghanistan" without providing a number.[17]
+
+On Saturday, January 25, Secretary of State [[marco-rubio|Marco Rubio]] indicated that Washington might place a "very big bounty" to locate top Taliban leadership after learning there may be more American hostages than previously reported.[17] Billions of dollars in international funds remained frozen, and the Taliban continued to seek normalized relations with the United States while many countries still refused to recognize its rule.[17]
+
+## Opium eradication
+
+The Taliban government drastically reduced opium cultivation in [[afghanistan|Afghanistan]] — a country that until recently produced 90% of the world's heroin — after announcing a prohibition on poppy farming in April 2022, citing religious belief and the social harms of opioids.[18] Geospatial analysis by Alcis found production down roughly 80% nationally within a year and 99% in Helmand Province, with enforcement carried out by counter-narcotics brigades armed with little more than sticks.[18] The success prompted questions about the seriousness of two decades of U.S. eradication efforts and raised expert concern that shrinking heroin supply could accelerate [[fentanyl-crisis|fentanyl]] use.[18] See [[taliban-opium-eradication-campaign|Taliban opium eradication campaign]].[18]
+
 ## References
+
 
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -120,3 +135,6 @@ The Taliban seized power in August 2021 as U.S. and [[nato|NATO]] forces withdre
 13. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 14. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
 15. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb
+16. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+17. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
+18. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

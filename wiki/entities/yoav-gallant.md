@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, defense-minister, gaza, netanyahu]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -108,6 +108,25 @@ The commentary predicted that the most likely outcome would be Gallant's dismiss
 
 During the June 2024 coalition crisis, mainstream outlets reported that Gallant was [[joe-biden|Biden]]'s "inside man" in the Israeli government, and it was widely speculated that the Biden administration was pushing him to revolt against [[benjamin-netanyahu|Netanyahu]].[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that if [[benny-gantz|Benny Gantz]] could convince Gallant to resign and join his protest, Gantz would stand a decent chance of unseating Netanyahu in a new election.[14]
 
+
+## "Complete siege" statement cited against Israel's ICJ defense
+
+Badlands coverage of the May 2024 [[international-court-of-justice|ICJ]] order on [[rafah|Rafah]] highlighted a video posted by the Israeli government on October 9, 2023 in which Gallant, as defense minister, stated: "We are imposing a complete siege on the city of Gaza. There will be no electricity, no food, no water, no fuel, everything is closed."[16] The brief argued this statement directly contradicted [[benjamin-netanyahu|Netanyahu]]'s insistence that Israel was complying with the court's earlier ruling, and that the conduct described would meet the textbook definition of war crimes under the Geneva Convention.[16]
+
+## Cabinet split over Sde Teiman (July 2024)
+
+Badlands commentary in July 2024 described an emerging civil war inside [[benjamin-netanyahu|Benjamin Netanyahu]]'s cabinet over the [[sde-teiman-detention-facility|Sde Teiman]] detainee-abuse investigation, pitting military figures such as Gallant against religious hardliners such as [[itamar-ben-gvir|Itamar Ben-Gvir]].[18]
+
+## Named in the ICC warrant applications (May 2024)
+
+Gallant was named alongside [[benjamin-netanyahu|Benjamin Netanyahu]] in the arrest warrant applications announced by ICC prosecutor [[karim-khan|Karim Khan]] on May 20, 2024.[19] Commenting on the move, Colonel [[douglas-macgregor|Douglas Macgregor]] told [[andrew-napolitano|Judge Napolitano]] that despite Gallant's recent turn toward political pragmatism, both Gallant and [[benny-gantz|Benny Gantz]] had "their fingerprints all over the Gaza operation" and would likely continue it to some degree if they were to oust Netanyahu and take political leadership of Israel — evidence, in that reading, that the zealotry in Tel Aviv is systemic rather than confined to Netanyahu.[19]
+
+## Challenge to Netanyahu over Gaza governance, May 2024
+
+In a televised address on Wednesday, May 15, 2024, Defense Minister Gallant told Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] that he must take "tough decisions" to advance non-[[hamas|Hamas]] governance of [[gaza|Gaza]] whatever the personal or political cost, warning that the gains of the war were being eroded and Israel's long-term security was at stake.[20] Gallant declared he would not consent to Israeli civil or military governance of Gaza, argued that governance by non-Hamas Palestinian entities accompanied by international actors was in Israel's interest, and demanded that Netanyahu publicly rule out ongoing Israeli rule in the Strip.[20]
+
+The remarks were seen as the most direct political challenge to Netanyahu from within his own government since the start of the war, and provoked an angry backlash among coalition members who urged the prime minister to fire him.[20] Only hours earlier Netanyahu had declared that any discussion of the "day after" in Gaza was meaningless until Hamas was defeated.[20] War cabinet minister [[benny-gantz|Benny Gantz]] came to Gallant's defense, saying "the defense minister speaks the truth, the leadership's responsibility is to do the right thing for the country, at any cost."[20] Badlands commentary read the episode as leaving Netanyahu outvoted two to one within the three-member [[israeli-war-cabinet|war cabinet]].[20]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
@@ -124,3 +143,21 @@ During the June 2024 coalition crisis, mainstream outlets reported that Gallant 
 12. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 13. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 14. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+15. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+17. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+
+## Admission on the Hannibal Directive (February 2025)
+
+In February 2025 Gallant, by then the former Israeli security minister, admitted that Israeli forces had been ordered to implement the [[hannibal-directive|Hannibal Directive]] — a controversial protocol that involves killing captives along with their captors — during the war on Gaza.[17] He also criticized former police security minister [[itamar-ben-gvir|Itamar Ben-Gvir]] for his provocative storming of al-Aqsa Mosque, saying it "ignited the situation."[17]
+
+The admission came amid a wave of resignations in the Israeli military over its failures on October 7, a situation Israeli Channel 13 described as a "shockwave within the army."[17] Military chief Lieutenant General [[herzi-halevi|Herzi Halevi]] had announced his resignation on January 21, citing his acknowledgment of responsibility for the military's failure on October 7, 2023.[17]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted the timing, observing that [[benjamin-netanyahu|Netanyahu]]'s fired defense minister had effectively confirmed that the IDF intentionally killed Israeli citizens and captured soldiers on October 7.[17] He recalled that the reason Netanyahu gave for dismissing Gallant in November was Gallant's opposition to expanding the war against Hezbollah, and cited allegations from retired US officers including Colonel [[douglas-macgregor|Douglas Macgregor]] that Israel was significantly under-reporting its casualties to maintain morale.[17] He speculated that the intent behind the timing of Gallant's "narrative deployment" might be to break the IDF's confidence in its current leadership, possibly inspiring a mutiny, as reports emerged that the hostage ceasefire deal was in jeopardy.[17]
+
+## Washington visit and "inside man" analysis (June 2024)
+
+When Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] publicly complained in June 2024 that US weapons shipments had suffered a "dramatic drop" four months earlier, the White House responded only by saying it looked forward to hosting Defense Minister Gallant later that week.[15] Badlands contributor GhostofBasedPatrickHenry read the exchange as evidence of a political pincer movement closing on Netanyahu, noting reports that Gallant was President [[joe-biden|Joe Biden]]'s "inside man" in the Israeli cabinet.[15] Unlike the centrist [[benny-gantz|Benny Gantz]], who formed a new party in 2021 to challenge Netanyahu, Gallant belongs to the [[likud]] party; despite past tension the two had become strange bedfellows in speaking out against the Gaza campaign and its lack of an established objective.[15] The analysis held that if Gantz could persuade Gallant to resign, Netanyahu would be legally required to dissolve his cabinet and call new elections, and that Biden had every political incentive to push the pairing.[15] Gallant, Gantz and Netanyahu had comprised the [[israeli-war-cabinet|Israeli War Cabinet]] formed after the [[october-7-attacks|October 7 attacks]] and since dissolved.[15]
+16. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+18. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+19. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+20. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

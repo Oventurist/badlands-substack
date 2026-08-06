@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house, elections, oversight]
-sources: [raw/badlands-brief-fa4.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-fa4.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ The committee's Republican chairman was among the three GOP chairmen — alongsi
 ## References
 1. Badlands Brief — "Contempt-able Congress & Quantum Trolling", URL: https://badlands.substack.com/p/badlands-brief-fa4
 2. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+
+## Oversight Subcommittee probe of J6 committee–Willis contacts (March 2024)
+
+The committee's Oversight Subcommittee, chaired by Rep. [[barry-loudermilk|Barry Loudermilk]], released a status report on Monday, March 11, 2024 opening an inquiry into "collusion" between the Democrat-run House January 6 select committee and Fulton County District Attorney [[fani-willis|Fani Willis]] during her prosecution of [[donald-trump|Donald Trump]].[3] Reviewing records archived by the select committee, the subcommittee discovered a letter dated December 17, 2021 in which Willis requested access to any select committee records relevant to her investigation, including "recordings and transcripts of witness interviews and depositions, electronic and print records of communications, and records of travel."[3] The subcommittee said it was concerned the panel led by Reps. [[bennie-thompson|Bennie Thompson]] and [[liz-cheney|Liz Cheney]] may have shared evidence such as video depositions with Willis's office while withholding it from Republicans who took over the chamber in 2023, and titled a chapter of the report "collusion with Fulton County District Attorney Fani Willis."[3]
+
+3. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

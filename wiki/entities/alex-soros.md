@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [soros, cabal, open-society, dynasty]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c1.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-f54.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ In May 2024, investigative reporter [[laura-loomer|Laura Loomer]] reported that 
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] cited the episode as illustrating how, in his view, billionaire oligarchs such as the Soros family use money and clout to control government and society, a dynamic he characterized as an organized crime syndicate.[4]
 
+## Vatican audience with Bill Clinton (July 2023)
+
+Soros accompanied former President [[bill-clinton|Bill Clinton]] to a private audience with Pope [[pope-francis|Francis]] at the Casa Santa Marta papal residence on Wednesday, July 5, 2023, as part of a delegation of prominent Americans.[5] He had also travelled with Clinton in Albania on July 3–4, where Clinton received a public gratitude medal from the Albanian prime minister for his support of the country and for NATO's role in the Kosovo War.[5] Reporting identified Soros as the son of billionaire financier [[george-soros|George Soros]] and the new chairman of the [[open-society-foundations|Open Society Foundations]], the philanthropic giant his father founded.[5]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
 3. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 4. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
+5. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54

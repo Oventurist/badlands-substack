@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [panama, shipping, geopolitics, trade, infrastructure]
-sources: [raw/badlands-news-brief-364.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-news-brief-364.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -38,8 +38,24 @@ On March 4, 2025, the Hong Kong-based conglomerate [[ck-hutchison|CK Hutchison]]
 
 China held up the $23 billion sale of dozens of ports worldwide — including two key ports on the canal — to a group led by [[blackrock|BlackRock]] after President [[donald-trump|Donald Trump]] expressed concern about Beijing's sway over the strategic shipping lanes.[4] On March 4, 2025, [[ck-hutchison|CK Hutchison]], controlled by [[li-ka-shing|Li Ka-shing]], had announced plans to sell 43 port facilities globally — including critical ports at both ends of the canal and near the Suez Canal — for approximately $22.8 billion, but China's State Administration for Market Regulation unexpectedly opened an anti-monopoly investigation, effectively stalling the deal.[4] [[xi-jinping|Xi Jinping]] was reportedly angry that the company had not consulted Beijing beforehand, and insiders said Chinese leadership had hoped to leverage the port issue in talks with the Trump administration before being caught off guard by the deal's sudden progress.[4]
 
+
+## Trump's December 2024 Reclamation Threat
+
+Hours before reviving his [[greenland|Greenland]] proposal on December 23, 2024, President-elect [[donald-trump|Donald Trump]] criticized the fees charged for use of the Panama Canal, writing that "the fees being charged by Panama are ridiculous, especially knowing the extraordinary generosity that has been bestowed to Panama by the U.S."[6] He called the situation a complete "rip-off" and warned that if Panama failed to comply with what he described as "moral and legal principles," the United States would demand full control of the canal, closing with "To the Officials of Panama, please be guided accordingly!"[6] Badlands analyst Burning Bright wrote that the canal deployment tracked the same memetic and media structure as Trump's Canada messaging, using the same templates, and had succeeded in pushing global discussion toward the [[monroe-doctrine|Monroe Doctrine]] and the Panama Papers.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Terminations, Port Tensions, & Terrifically Terrifying Trade Wars", URL: https://badlands.substack.com/p/badlands-news-brief-364
 2. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 4. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+
+## December 2024: Trump's reversion threat
+
+On a Saturday night in December 2024, President-elect [[donald-trump|Donald Trump]] publicly took issue with the fees charged to use the Panama Canal, warning that he would demand oversight of the waterway be returned to the United States when he took office if the charges were not changed.[5] Writing on Truth Social, he said "the fees being charged by Panama are ridiculous, especially knowing the extraordinary generosity that has been bestowed to Panama by the U.S," and that "this complete 'rip-off' of our Country will immediately stop."[5]
+
+[[panama|Panama]] charges tariffs for boats and ships to pass through the canal, with fees varying by vessel size and purpose and ranging from as little as $0.50 to as much as $300,000.[5] The United States uses the canal more than any other country.[5] Trump added that "if the principles, both moral and legal, of this magnanimous gesture of giving are not followed, then we will demand that the Panama Canal be returned to us, in full, and without question," telling Panamanian officials to "please be guided accordingly."[5]
+
+Control of the canal was transferred from the United States to Panama in 1999 under a 1979 treaty signed by President [[jimmy-carter|Jimmy Carter]], a decision Trump called foolish: "When President Jimmy Carter foolishly gave it away, for One Dollar, during his term in Office, it was solely for Panama to manage, not China, or anyone else... It was likewise not given for Panama to charge the United States, its Navy, and corporations, doing business within our Country, exorbitant prices and rates of passage."[5] Badlands writer [[burning-bright|Burning Bright]] read the episode as part of a wider pre-inauguration deal-making campaign, saying Panama "shudders at the thought of the US taking back one of the world's premier trade routes."[5]
+
+5. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+6. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

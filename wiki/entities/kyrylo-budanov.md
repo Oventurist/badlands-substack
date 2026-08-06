@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, intelligence, russia, navalny]
-sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-afb.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-afb.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -28,8 +28,13 @@ In August 2025 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatri
 
 In late November 2023, Budanov's wife [[marianna-budanova|Marianna Budanova]] was hospitalized after heavy metals of unknown origin were found in her system, in what Ukrainian officials treated as a suspected assassination attempt; Ukrainska Pravda cited sources saying she was "most likely poisoned through food."[3] GUR spokesperson [[andriy-yusov|Andriy Yusov]] confirmed the poisoning to Reuters and told the BBC's Ukrainian service that several other GUR officials had suffered milder symptoms, suggesting a broader plot.[3] Coverage noted that Budanov himself had reportedly survived some ten assassination attempts while leading major operations against Russian forces as head of the [[main-directorate-of-intelligence|Main Directorate of Intelligence]].[3]
 
+## Alleged role in the Putin residence drone attack
+
+Former CIA analyst [[larry-johnson|Larry Johnson]] told RT in December 2025 that he would not be surprised if Ukrainian intelligence personnel acting on Budanov's orders were behind the drone attack on [[vladimir-putin|Vladimir Putin]]'s state residence in Novgorod Region, which Johnson framed as a possible internal plot against [[volodymyr-zelensky|Vladimir Zelensky]] timed to his US visit.[4] Badlands commentary took the episode as further evidence that Zelensky is not the one calling the shots in Kiev, naming Budanov alongside the [[cia|CIA]] and MI6 as candidates for real authority.[4]
+
 ## References
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 2. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
 3. Badlands Brief — "Badlands News Brief: Biden & Trump Enter the Lawfare Thunderdome", URL: https://badlands.substack.com/p/badlands-news-brief-afb
+4. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

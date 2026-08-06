@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, cbs, journalism, info-war]
-sources: [raw/badlands-brief-e3b.md]
+sources: [raw/badlands-brief-e3b.md, raw/badlands-news-brief-ee6.md]
 confidence: medium
 ---
 
@@ -24,5 +24,13 @@ Dokoupil's debut drew sharp criticism for on-air errors, including repeated self
 
 [[burning-bright|Burning Bright]] treated Dokoupil as a "cognitive cypher" for the accelerating death spiral of the [[media-industrial-complex|Media Industrial Complex]], arguing that his only apparent sin — acknowledging the industry's trust hemorrhage and pledging to hold power to equal standards — was instantly reframed by his peers as partisan contagion.[1] In that reading, the dogpiling amounted to internal cannibalization by a protectorate devouring its own as its narrative shield wall fractures.[1]
 
+## "Raw-dogging" the conclave remark (2025)
+
+Earlier in his CBS tenure, as co-anchor of CBS Mornings, Dokoupil went viral after the network's live broadcast on Wednesday, May 7, 2025 — the first day of the [[papal-conclave|papal conclave]] — when he suggested that the cardinals were "raw-dogging" the social-media-free election.[2] The remark followed a colleague's observation that the cardinals spend the sequestration reading a breviary or praying a rosary and are certainly not checking Instagram because their devices had been confiscated, to which Dokoupil replied, "I believe the kids call it raw-dogging it if you're gonna go through a long period of time with no electronic device."[2]
+
+According to the American Dialect Society, the verb "rawdog" means "to undertake without usual protection, preparation, or comfort," having originated as slang for sex without a condom before crossing into mainstream usage for activities such as travel.[2] Badlands writer Ashe in America noted that CBS was a network already working to overcome recent major scandals, making the morning anchor's phrasing "understandably scandalous," but argued that the objection was to the wording rather than the substance of the observation.[2]
+
 ## References
+
 1. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
+2. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [real-estate, saudi-arabia, gulf, trump-organization, business]
-sources: [raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-news-brief-aac.md, raw/badlands-news-brief-d74.md]
 confidence: medium
 ---
 
@@ -28,3 +28,10 @@ Critical coverage cited in the brief argued that the Trump Organization continue
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+2. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+
+## US and Greece expansion (January 2025)
+
+On January 7, 2025, Dar Global said it planned to expand in the United States and Greece after the Dubai-based developer unveiled projects in partnership with [[trump-organization|The Trump Organization]].[2] The international arm of Saudi Arabia's Dar Al Arkan Real Estate Development Company said it would invest in "key international cities" in the US and aimed to partner with top-tier developers to create luxury residences targeting both American and international buyers, without providing further detail.[2] Its deals with the Trump Organization included plans for Trump towers in Jeddah and Dubai and a real estate project in Oman.[2]
+
+Badlands commentary placed the announcement immediately after the [[mar-a-lago|Mar-a-Lago]] press conference at which [[hussain-sajwani|Hussain Sajwani]] pledged at least $20 billion in US data center investment, and noted Dar Global's earlier $300 million US real estate commitment from mid-2024.[2]

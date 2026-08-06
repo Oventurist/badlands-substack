@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [florida, attorney-general, cuba, law-enforcement]
-sources: [raw/badlands-brief-861.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-brief-861.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-dbd.md]
 confidence: medium
 ---
 
@@ -33,8 +33,13 @@ On March 4, 2025, Uthmeier announced the launch of a criminal investigation into
 
 In April 2025 Uthmeier sent a letter to Orlando Mayor [[buddy-dyer|Buddy Dyer]], posted on X, warning that Dyer could face removal from office if he implemented a policy of protecting illegal immigrants, after Dyer reportedly told the Orlando Police Department that law enforcement should resist immigration enforcement and adhere to the city's [[orlando-trust-act|Trust Act]].[4] The letter stated that "Sanctuary policies are not tolerated or lawful in Florida," and that failure to abide by state law "may result in the enforcement of applicable penalties, including but not limited to being held in contempt, declaratory or injunctive relief, and removal from office by the Governor pursuant to section 908.107, Florida Statutes and the Florida Constitution."[4] Uthmeier's letter made clear that Governor [[ron-desantis|Ron DeSantis]] reserved the right to remove Dyer.[4]
 
+## "Alligator Alcatraz" proposal (2025)
+
+In June 2025 Uthmeier proposed a new immigrant detention center in Florida to assist [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]] with mass deportation efforts.[5] He posted the idea to X, dubbing the proposed facility "[[alligator-alcatraz|Alligator Alcatraz]]" because it would be located in the Everglades, home to more than 200,000 alligators.[5] Newsweek reported that it had contacted both Uthmeier's office and ICE for comment.[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] praised the name as "next-level" and compared the concept to a design proposal he said he had emailed to the [[donald-trump|Trump]] White House in 2017.[5]
+
 ## References
 1. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 4. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+5. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd

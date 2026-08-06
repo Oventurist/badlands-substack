@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, economics, labor, statistics]
-sources: [raw/a-time-to-strike.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/a-time-to-strike.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -34,14 +34,17 @@ The BLS's Job Openings and Labor Turnover Survey ([[jolts-report|JOLTS]]) drew s
 
 The BLS was largely idle for the duration of the 40-plus-day [[october-2025-government-shutdown|government shutdown]] that ended on November 12, 2025, save for temporarily recalling some staff to ensure the September consumer price index was released in time to set the Social Security cost-of-living adjustment for the following year.[4] Because the agency could not collect price and employment data during the lapse, [[white-house|White House]] Press Secretary [[karoline-leavitt|Karoline Leavitt]] said the October jobs report and inflation data would likely never be released even after the government reopened.[4] Economic experts warned against attempting retroactive collection for fear of flawed data caused by recall bias — the known difficulty of getting people to accurately remember past events.[4] "Democrats may have permanently damaged the federal statistical system with October CPI and jobs reports likely never being released," Leavitt told reporters, adding that the impairment would leave policymakers at the [[federal-reserve|Federal Reserve]] "flying blind at a critical period."[4] [[chris-paul|Chris Paul]] responded in the [[badlands-news-brief|Badlands News Brief]] that "all statistical systems are damaged," asking what that implies for "THE SCIENCE."[4]
 
+## August 2025 removal of the commissioner
+
+Trump ordered the dismissal of BLS commissioner Erika McEntarfer on August 1, 2025 following a July jobs report showing weak employment growth and large downward revisions to May and June hiring.[6] BLS commissioners serve four-year terms that often span multiple presidential administrations.[6]
+
 ## References
+
 1. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 3. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
-
 ## January 2025 jobs report
-
 According to the Bureau of Labor Statistics report for January 2025, American job growth slowed after months of robust gains, a result experts called "a mixed bag" for the US housing market.[5] Coverage noted the strong correlation between housing and labour markets, since lower unemployment is generally linked to increased housing demand as workers gain home-buying power; although the job market had been strong and unemployment low in preceding years, home prices had appreciated faster than wages, eroding purchasing power.[5] The January report showed wages rising faster than inflation, with average hourly earnings up 4.1 percent year-over-year against headline inflation of 2.9 percent in December.[5] The [[white-house|White House]], through press secretary [[karoline-leavitt|Karoline Leavitt]], used the report to argue that "the Biden economy was far worse than anyone thought."[5]
-
 5. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+6. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

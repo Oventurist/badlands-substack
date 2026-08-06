@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, commentary, breitbart]
-sources: [raw/badlands-news-brief-148.md]
+sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ He argued the event was a catastrophe for what he called the "Hoax Network," poi
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] credited Nolte with identifying a factor others were underweighting: that regardless of whether centrist and leftist viewers were persuaded on the issues, the decisive cultural fact was that Trump was fun and funny throughout the night, and therefore likable — a quality Burning Bright argued the Democratic Party and all of American politics currently lacks.[1]
 
+## November 2023 column on The Marvels
+
+Nolte's Breitbart column on [[the-marvels|The Marvels]] declared the film "a certified disaster," citing Deadline projections of a $47–55 million opening that would rank as the worst in [[marvel-cinematic-universe|Marvel Cinematic Universe]] history, below the $55.4 million set by 2008's "The Incredible Hulk."[2] He judged the film's prospects poor given its weak "B" CinemaScore despite die-hard turnout, and argued that a franchise which had earned roughly $30 billion worldwide from 30 films had been ruined by ideological content.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
+2. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

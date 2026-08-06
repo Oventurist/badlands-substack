@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, newsletter, citizen-journalism]
-sources: [raw/a-look-at-recent-features.md, raw/badlands-news-blast.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bd6.md]
+sources: [raw/a-look-at-recent-features.md, raw/badlands-news-blast.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -105,6 +105,15 @@ The Brief published on October 31, 2024 covered news from Wednesday, October 30 
 
 Bonus items covered Harris's response to Biden's remark, the dispatch of [[amos-hochstein|Amos Hochstein]] and [[brett-mcgurk|Brett McGurk]] to Israel to pursue a Lebanon deal, and the Pennsylvania station [[wnep|WNEP]]'s accidental broadcast of test presidential election results.[17] Commentary came from [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], [[ashe-in-america|Ashe in America]] and [[burning-bright|Burning Bright]], and the edition carried sponsorship from the pet litter company Luv Litters.[17]
 
+## Edition of July 27, 2023
+
+The July 27, 2023 edition, subtitled "Hunter's Plea, Powell's Plight & Trump's Plan," covered news from Wednesday, July 26 and carried commentary from [[ashe-in-america|Ashe in America]], [[justin-deschamps|Justin Deschamps]] and [[burning-bright|Burning Bright]].[19] Items included the collapse of the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] before Judge [[maryellen-noreika|Maryellen Noreika]], the [[federal-reserve|Federal Reserve]]'s rate hike to a 22-year high, [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]]'s leading favorability in a [[harvard-harris-poll|Harvard-Harris]] survey, Judge [[lewis-kaplan|Lewis Kaplan]]'s tightening of [[sam-bankman-fried|Sam Bankman-Fried]]'s bail conditions, and preparations by [[donald-trump|Donald Trump]]'s teams for a possible grand jury vote in [[jack-smith|Jack Smith]]'s January 6 investigation.[19]
+
+
+## January 19, 2023 edition: "Dollars, Saudis and Globalist Elites"
+
+The January 19, 2023 edition covered news from Wednesday, January 18, including the [[project-cedar|Project Cedar]] digital dollar pilot, Rep. [[sheila-jackson-lee|Sheila Jackson Lee]]'s [[leading-against-white-supremacy-act-of-2023|Leading Against White Supremacy Act of 2023]], staff mutiny at the [[world-economic-forum|World Economic Forum]] over [[klaus-schwab|Klaus Schwab]], [[saudi-arabia|Saudi Arabia]]'s openness to non-dollar trade settlement, [[larry-fink|Larry Fink]]'s Davos remarks on [[esg|ESG]], the resignation of [[jacinda-ardern|Jacinda Ardern]], a Foreign Affairs essay on [[stakeholder-capitalism|stakeholder]] geopolitics, [[karine-jean-pierre|Karine Jean-Pierre]]'s combative briefing on the [[biden-classified-documents-scandal|Biden classified documents scandal]], and the [[white-house|White House]] response to Republican appointments to the [[house-oversight-committee|House Oversight Committee]].[20] Commentary came from [[ryan-delarme|Ryan DeLarme]], [[justin-deschamps|Justin Deschamps]], [[jordan-sather|Jordan Sather]], [[burning-bright|Burning Bright]] and [[chris-paul|Chris Paul]].[20]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features
 2. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
@@ -124,3 +133,5 @@ Bonus items covered Harris's response to Biden's remark, the dispatch of [[amos-
 16. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
 17. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 18. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
+19. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+20. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

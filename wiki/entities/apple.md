@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, apple, surveillance, sp-500, ai]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-d04.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e6c.md]
 confidence: medium
 ---
 
@@ -97,3 +97,12 @@ In August 2025 Apple announced a new $100 billion commitment to America, bringin
 11. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
 12. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
 13. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+14. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+
+## 2024 Worldwide Developers Conference and the Musk dispute
+
+Apple's 2024 Worldwide Developers Conference proved a flop, with the stock sliding 1.9% — its worst WWDC performance since 2010 and the fourth worst of the iPhone era.[14] The event had been expected to deliver a grand introduction of artificial intelligence features built on [[openai|OpenAI]]'s ChatGPT and presented as Apple's own, producing a long-overdue surge in a stock that had painfully underperformed pure AI names; instead the market registered that Apple could not build its own in-house AI module, and the introduction of a calculator for the iPad did little for the company's trailblazing image.[14]
+
+Responding to an observation by OpenAI's Andrej Karpathy that "Apple Intelligence" would be a persistent layer across the entire Apple operating system, [[elon-musk|Elon Musk]] — who had said the product was "neither Apple nor intelligent" — remarked that Apple's approach meant "we can never turn it off," describing it as an always-on spying system feeding the OpenAI large language model with constant data.[14] Musk suggested he might launch his own phone "if Apple actually integrates woke nanny AI spyware into their OS," and told [[tim-cook|Tim Cook]] directly that he did not want the product, warning: "either stop this creepy spyware or all Apple devices will be banned from the premises of my companies."[14] The dispute was framed as bearing on Musk's rivalry with [[sam-altman|Sam Altman]], whose ChatGPT was described as existing thanks to Musk's original funding.[14]
+
+[[burning-bright|Burning Bright]] read the episode as seismic rather than tangential, arguing that globalist mega-corporations such as Apple losing ground in the technological zeitgeist is affirming, and that the dispute goes beyond AI software into semiconductor manufacturing as a component of what he calls the patriot subversion of the [[great-reset|Great Reset]] into an inverted "Good Reset."[14] He contended that the AI play was meant to come later and be dominated by companies like Apple within an "American Oligarchy," but that patriots front-ran and undercut them domestically and worldwide, citing [[xi-jinping|Xi Jinping]]'s trade pressure on Apple and Microsoft as non-coincidental.[14]

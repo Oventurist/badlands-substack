@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election, fbi, litigation]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-b62.md, raw/badlands-brief-bf7.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-b62.md, raw/badlands-brief-bf7.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e31.md]
 confidence: medium
 ---
 
@@ -69,6 +69,13 @@ A county spokeswoman said police had responded to multiple calls about threats a
 
 On October 14, 2024, Fulton County Superior Court Judge [[robert-mcburney|Robert McBurney]] ruled that Georgia county election officials must certify election results by the statutory deadline regardless of irregularities or suspected fraud, writing that no election superintendent or member of a board of elections and registration "may refuse to certify or abstain from certifying election results under any circumstance."[8] The suit had been brought by [[julie-adams|Julie Adams]], a Republican member of the Fulton County Board of Elections and Registrations, after the county's appointed election director allegedly denied her repeated requests for access to election results and processes.[8] Georgia law requires county election superintendents to certify results by 5 p.m. on the Monday following the election, or the Tuesday when that date falls on a federal holiday, as it did in 2024.[8]
 
+
+## DOJ demand over 2020 "unexplained anomalies" (October 2025)
+
+On October 30, 2025, the [[department-of-justice|Department of Justice]] sent a letter to the [[fulton-county-board-of-registration-and-elections|Fulton County Board of Registration and Elections]] demanding records related to what Georgia's board of elections called "unexplained anomalies in vote tabulation and storage related to the 2020 election" in the county, after Fulton did not comply with a subpoena from the [[state-election-board|State Election Board]].[9] Assistant Attorney General for Civil Rights [[harmeet-dhillon|Harmeet Dhillon]], writing for Attorney General [[pam-bondi|Pam Bondi]], invoked Title III of the [[civil-rights-act-of-1960|Civil Rights Act of 1960]].[9]
+
+Badlands commentary recalled January 2024 testimony in which Fulton County officials said they did not scan any mail-in envelopes with their BlueCrest sorter machines, that they "do not simply have a file of voter signatures" but store them across different databases requiring two checks, and that producing the data would take more than 57,000 hours — raising the question of how signatures were confirmed in the timeframe in which Biden was declared the winner of Georgia.[9] Commentators doubted that incriminating records still exist, reasoning that officials will never comply if compliance means incrimination.[9]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -78,3 +85,12 @@ On October 14, 2024, Fulton County Superior Court Judge [[robert-mcburney|Robert
 6. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 7. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 8. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+9. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+
+## Refusal to release 2020 ballots (2025)
+
+In February 2025 Fulton County refused to reveal its ballots from the 2020 election, despite a new Georgia law — effective January 1, 2025 and designed by Republican legislators — intended to let anyone request high-resolution copies of ballots to review votes for themselves.[10] The county's decision to keep the ballots secret was described as the latest chapter in a four-year fight between right-wing skeptics who claim the 2020 election was stolen and the Democratic-run county government they accuse of wrongdoing.[10]
+
+[[garland-favorito|Garland Favorito]], cofounder of [[voterga|VoterGA]], which has sought access to the ballots through two pending lawsuits, said "Fulton obviously has something to hide" and that the refusal proved "there was something seriously wrong about the 2020 election in Fulton County."[10] Multiple investigations have countered allegations of widespread fraud in the county, and three vote counts showed [[donald-trump|Donald Trump]] lost Georgia to Joe Biden by about 12,000 votes.[10] Badlands commentary framed the refusal as confirmation that Trump had known all along and had offered Secretary of State [[brad-raffensperger|Brad Raffensperger]] an "out" during their well-known phone call.[10]
+
+10. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

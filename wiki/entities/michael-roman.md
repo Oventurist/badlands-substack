@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, 2020-election, lawfare]
-sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-b35.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -30,9 +30,14 @@ Roman's motion produced a formal evidentiary hearing in Fulton County. On Februa
 
 Roman, a former Trump campaign official and one of 18 co-defendants charged alongside [[donald-trump|Donald Trump]] in the Georgia election interference case, is represented by attorney [[ashleigh-merchant|Ashleigh Merchant]].[4] Merchant first revealed that Fulton County District Attorney Fani Willis and special prosecutor Nathan Wade were in a romantic relationship when she filed a January 8, 2024 motion on Roman's behalf seeking to disqualify Willis and her office from the case.[4] She subsequently became the first person subpoenaed by the [[georgia-senate|Georgia Senate]] Committee on Special Investigations, testifying on March 6, 2024 about how she uncovered the relationship.[4]
 
+## Appeal of the Willis disqualification ruling (May 2024)
+
+Roman was one of three defendants — with [[david-shafer|David Shafer]] and Cathy Latham — whose transcripts and records Fulton County Superior Court transmitted to the Georgia Court of Appeals in May 2024 as part of the renewed effort to remove District Attorney [[fani-willis|Fani Willis]] from the Georgia election interference case.[5]
+
 ## References
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 2. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
 3. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 4. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
+5. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

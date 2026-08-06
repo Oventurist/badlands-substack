@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, prosecutor, corruption, biden-family, burisma]
-sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da5.md]
 confidence: medium
 ---
 
@@ -30,6 +30,17 @@ In August 2023, [[just-the-news|Just the News]] reported on government memos, ga
 
 Badlands commentary noted that senior [[state-department|State Department]] officials invited Shokin and his staff to Washington for a January 2016 strategy session and were "impressed" with his work, sending a memo supporting the third loan guarantee — a record [[ashe-in-america|Ashe in America]] said disproved Biden's account that removing Shokin was official U.S. foreign policy.[2]
 
+## 2023 Fox News interview
+
+In August 2023 Shokin spoke publicly for the first time since 2019, telling Fox News that he believed the Biden family had taken bribes.[3] "I do not want to deal in unproven facts. But my firm personal conviction is that yes, this was the case. They were being bribed," he said, adding in another clip, "The fact that Joe Biden gave away $1 billion in U.S. money in exchange for my dismissal — my firing — isn't that alone a case of corruption?"[3] Coverage of the interview recalled that Shokin had an active and ongoing investigation into the Ukrainian energy company [[burisma|Burisma]] and its owner [[mykola-zlochevsky|Mykola Zlochevsky]], according to a 2020 U.S. Senate committee report, and that Zlochevsky — who hired [[hunter-biden|Hunter Biden]] to sit on his board — had granted his own company permits to drill for oil and gas in Ukraine while serving as Minister of Ecology and Natural Resources.[3] In a 2019 deposition Shokin stated that there were five criminal cases against Zlochevsky, including money laundering, corruption, illegal funds transfers, and profiteering through shell corporations while he was a sitting minister.[3] Commentators noted that [[donald-trump|Donald Trump]] had been impeached for asking about the same matter.[3]
+
 ## References
 1. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+3. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+
+## The Archer testimony and the Council on Foreign Relations boast
+
+[[devon-archer|Devon Archer]]'s July 31, 2023 testimony to the [[house-committee-on-oversight-and-accountability|House Oversight and Accountability Committee]] described [[burisma|Burisma]] pressuring the Bidens to have Shokin removed before then-Vice President [[joe-biden|Joe Biden]] acted, according to lawmakers familiar with the transcribed interview.[4] Badlands contributor [[ashe-in-america|Ashe in America]] paired that testimony with Biden's own account, delivered at a 2018 [[council-on-foreign-relations|Council on Foreign Relations]] event, of threatening Ukrainian President [[petro-poroshenko|Petro Poroshenko]] in March 2016 with the loss of $1 billion in U.S. loan guarantees unless Shokin was fired within six hours - "Well, son of a bitch, he got fired."[4] She argued the testimony undercut the claim that the ouster was disinterested foreign policy, and that CNN's fact check asserting Shokin was not investigating Burisma had debunked itself.[4]
+
+4. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5

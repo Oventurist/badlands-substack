@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, press-freedom, doj, leaks, badlands-brief]
-sources: [raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-brief-a89.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -55,3 +55,9 @@ The Journal obtained and reported on the previously withheld audio recordings of
 6. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 7. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 8. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+
+
+## Reporting on Trump's Iran attack plans (June 2025)
+In June 2025 the Wall Street Journal reported, citing people familiar with the deliberations, that President [[donald-trump|Donald Trump]] had told senior aides late on Tuesday that he approved of attack plans for Iran but was holding off to see whether Tehran would abandon its nuclear program, naming the [[fordow-fuel-enrichment-plant|Fordow]] facility as a possible target.[9] Badlands commentator [[jon-herold|Jon Herold]] accused the paper of "trying to get us attacked and into the war publishing bullshit stories using anonymous 'people familiar with the deliberations,'" calling fake news "the enemy of the people."[9]
+
+9. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

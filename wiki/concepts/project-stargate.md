@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ai, infrastructure, trump, oracle, openai, softbank]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-a6b.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-ba8.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-a6b.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -32,8 +32,14 @@ CNBC reporting on the January 21, 2025 announcement described Stargate as a join
 
 Badlands writer [[ashe-in-america|Ashe in America]] called the investment a good thing but flagged Ellison's remarks about using AI to diagnose cancer and generate a customizable "vaccine" or treatment within 48 hours, questioning whether such rapid, targeted biological capabilities would be used only for benevolent purposes.[4] She observed that Oracle is a prominent US defense and intelligence contractor and that there are obvious defense applications for such capabilities.[4] While criticizing the branding choice of calling the product a "vaccine," she concluded that "cancer disclosure appears to be imminent," and warned that the public may have passed the point of keeping tech oligarchs in check.[4]
 
+
+## CIA Mars Document and Fort Meade Context
+
+A CIA report titled 'Mars Exploration May 22, 1984,' surfaced in December 2024 reporting, details the use of astral projection — the idea that a person's spirit can travel through the astral plane — to transport a 'subject' to Mars approximately one million years BC.[5] The subject described an oblique view of a pyramid, a very large road, and a monument resembling ancient Egyptian works, then a population of "very large people" seeking a new home because their environment had been corrupted.[5] Participants in the program were exposed to binaural beats and hemi-sync audio to induce altered states of consciousness and promote psychic abilities.[5] Established in 1977 as a secret US Army unit, Stargate was framed as a weapon against the Soviet Union aimed at creating mind-reading spies able to infiltrate enemy minds, and was conducted at [[fort-meade|Fort Meade]] in Maryland, recruiting men and women who claimed extrasensory perception.[5] The program shut down in 1995; over its more than ten-year existence, psychics known as "remote viewers" participated in operations ranging from locating hostages kidnapped by Islamic terrorist groups to tracing fugitives inside the United States.[5] Badlands commentary noted the resemblance of this description to the plot of the Netflix series Stranger Things.[5]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "On-Ramps to Off-Ramps and the Beginnings of the Golden Age", URL: https://badlands.substack.com/p/badlands-brief-a6b
 3. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
 4. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+5. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

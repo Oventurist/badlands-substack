@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meta, facebook, big-tech, free-speech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -95,6 +95,14 @@ Three weeks after Zuckerberg publicly stated that the Biden White House had pres
 
 On Wednesday, January 31, 2024, Zuckerberg appeared with other leading social media executives before the [[senate-judiciary-committee|Senate Judiciary Committee]] for roughly four hours of questioning about the mental health risks their platforms pose to young people and accusations that their companies had failed to protect children from exploitation and abuse.[16] Senators hammered the executives over lobbying that they said had obstructed federal legislation, and frequently drew applause from families of children who died after encounters with the darkest sides of the platforms.[16] In what [[abc-news|ABC News]] called a remarkable moment, the [[meta-platforms|Meta]] chief executive stood up to address those families with a direct apology for what they had endured.[16] The hearing nonetheless left unresolved whether [[congress|Congress]] would impose new regulations on the platforms.[16]
 
+## Calls for scrutiny over the 2024 photo censorship
+
+After [[facebook|Facebook]] admitted in July 2024 that it had wrongly applied a fact-check label to an authentic photograph of [[donald-trump|Donald Trump]] following the Butler assassination attempt, some conservatives said the episode should prompt lawmakers to question Zuckerberg, the chief executive of [[meta-platforms|Meta]].[17]
+
+## Threads launch (July 2023)
+
+Zuckerberg personally introduced [[threads|Threads]] in July 2023, writing "Let's do this. Welcome to Threads" in his first post on the app and framing it as a "friendly" alternative to [[twitter|Twitter]].[18] He described the product as a "text-based conversation app" supporting posts up to 500 characters and said that "the goal is to keep it friendly as it expands. I think it's possible and will ultimately be the key to its success."[18] He argued that Twitter's tone was "one reason why Twitter never succeeded as much as I think it should have, and we want to do it differently."[18] [[meta-platforms|Meta]] claimed over 10 million sign-ups within hours of the launch.[18]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -113,3 +121,11 @@ On Wednesday, January 31, 2024, Zuckerberg appeared with other leading social me
 14. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
 15. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
 16. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+17. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+18. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
+
+## Response to Musk's proposed cage match (August 2023)
+
+After [[elon-musk|Elon Musk]] floated an "epic location" in Italy for their long-discussed mixed martial arts bout, Zuckerberg posted on [[threads|Threads]]: "I've been ready to fight since the day Elon challenged me. If he ever agrees on an actual date, you'll hear it from me. Until then, please assume anything he says has not been agreed on."[19] He added that he was "not holding my breath for Elon" and would share details of his next fight when ready, saying that when he competes he wants to spotlight elite athletes by working with professional organizations such as the [[ufc|UFC]] or ONE to "create a great card."[19] Badlands commentator [[ashe-in-america|Ashe in America]] picked Zuckerberg to win on the strength of his training and experience despite Musk's size advantage.[19] See [[musk-zuckerberg-cage-match|Musk–Zuckerberg cage match]].[19]
+
+19. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

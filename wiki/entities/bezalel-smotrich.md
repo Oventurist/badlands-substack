@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, finance, greater-israel, lebanon, syria]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -152,6 +152,21 @@ On Monday, January 13, 2025, Prime Minister [[benjamin-netanyahu|Benjamin Netany
 
 [[badlands-media|Badlands Media]] commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Smotrich and Ben-Gvir could not afford to "seek peace," because their parties form the base of the Israeli settler movement, which seeks to expand Israel's borders well beyond Palestine, and because the moment represented their best and perhaps last chance before international retribution.[27] Their support also rests heavily on Haredi voters affected by the end of the [[ultra-orthodox-conscription-in-israel|conscription exemption]].[27]
 
+## Viral remarks about the Saudis (October 2025)
+
+In late October 2025, amid the fallout from the [[knesset|Knesset]]'s preliminary [[west-bank-annexation|West Bank annexation]] vote, Israeli Finance Minister Smotrich went viral for disrespecting the Saudis.[28] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the episode as "the cherry on top of the proverbial sundae" following the Knesset vote, and predicted that with Crown Prince [[mohammed-bin-salman|MBS]] due in Washington the next month, [[saudi-arabia|Saudi]]–American relations would advance, potentially ahead of [[israel|Israel]] in the prioritization of US strategic partnerships.[28]
+
+
+## August 2024 remarks on starving Gaza
+
+Speaking at the Katif Annual Conference on Monday, August 5, 2024, about Israel's decision to allow humanitarian aid into [[gaza|Gaza]], Smotrich said that starving two million Gazans "to death" might be the "right and moral" course until Israeli hostages held in the territory were released, but that the "world won't let us."[29] The finance minister also argued against a deal with [[hamas|Hamas]], saying it would endanger Israel and return only a small number of captives: "We have a responsibility, we want to bring back the hostages, but a deal would only return a few captives and seal the fate of most of them to stay in captivity in Gaza."[29] Badlands Media juxtaposed the remarks with a billboard in Tehran proclaiming "Indeed, the Messiah, Jesus Christ, Son of Mary, is a messenger of God," presenting the pairing as "a tale of two civilizations" and asking which of [[iran|Iran]] and [[israel|Israel]] appeared more aligned with the Christian values of the West.[29]
+
+## Withholding PA clearance revenues, May 2024
+
+In May 2024 Israel's Finance Minister Smotrich was reported by Channel 12 to have held back NIS 170 million ($46 million) in tax revenue collected on behalf of the [[palestinian-authority|Palestinian Authority]] for nine days, in protest at PA efforts "fighting against the State of Israel" — an apparent reference to Ramallah's push for the [[international-criminal-court|International Criminal Court]] to issue arrest warrants for top Israeli officials over alleged breaches of international law in Gaza.[30]
+
+As a result the PA said on 12 May 2024 that it could pay only 50 percent of March public sector salaries, after Israel withheld the transfer due for April, continuing a payroll squeeze that had lasted months.[30] The Finance Ministry confirmed it had decided not to transfer tax revenues that month but declined to provide details.[30] The clearance mechanism giving Israel this leverage derives from the 1994 [[paris-protocol|Paris Protocol]].[30]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -180,3 +195,6 @@ On Monday, January 13, 2025, Prime Minister [[benjamin-netanyahu|Benjamin Netany
 25. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 26. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 27. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+28. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+29. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+30. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

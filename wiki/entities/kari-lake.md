@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, elections, republican-party, election-integrity]
-sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b19.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/arizona-earthquake.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e86.md]
 confidence: medium
 ---
 
@@ -92,3 +92,15 @@ Badlands writer [[simon-esler|Simon Esler]] argued that the episode vindicated s
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 9. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 10. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+
+## Comparison to RFK Jr.
+
+In July 2023 Badlands writer [[ashe-in-america|Ashe in America]] placed [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] in the same category as Lake — candidates she argued the regime could not allow to win — because Lake's promises to investigate the southern border and election fraud had, in her view, disqualified her from office.[11]
+
+11. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## Second trial on remand (May 2023)
+
+Maricopa County Superior Court Judge [[peter-thompson|Peter Thompson]] reaffirmed a minute entry setting trial dates of May 17, 18 and 19, 2023 for Lake's remanded fraudulent signature verification claim in [[lake-v-hobbs|Lake v. Hobbs]].[12] Thompson found the motions of [[katie-hobbs|Katie Hobbs]] and [[maricopa-county|Maricopa County]] to dismiss Count III "not persuasive," but dismissed Count II regarding intentional election day tabulator failures and refused to reconsider it despite newly discovered evidence that Lake's attorneys said showed "clear misconduct and intent" behind the failure of 260 of 446 tabulators — evidence including technical analysis and whistleblower testimony about a secret logic and accuracy test the county had allegedly concealed.[12] Lake's team argued that her voters had turned out three to one on election day and were deliberately disadvantaged.[12] To prevail on the surviving count she was required to show that the county's higher level signature reviewers performed no [[signature-verification|signature verification]] or curing and systematically failed to materially comply with the law, and to "prove a competent mathematical basis to win."[12] [[badlands-media|Badlands Media]] carried live coverage of the trial from noon EDT on May 17.[12]
+
+12. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, filmmaker, september-11, gart]
-sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -53,6 +53,10 @@ In July 2025 the Badlands News Brief featured Zerbo's personal essay "September 
 
 Badlands Media presented the essay as the filmmaker's back story and as the personal inspiration for [[codex-911|CODEX 911]], which was set to premiere at GART Deadwood, with virtual tickets available through the network's events page.[9]
 
+## CODEX 911 premiere
+
+Zerbo's original film CODEX 911 was slated to premiere at the GART Deadwood event, with Badlands Media promoting virtual tickets for the screening in August 2025.[10]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
@@ -64,3 +68,4 @@ Badlands Media presented the essay as the filmmaker's back story and as the pers
 7. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 8. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 9. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+10. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

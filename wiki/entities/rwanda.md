@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, rwanda, congo, sanctions, israel]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-f76.md]
 confidence: low
 ---
 
@@ -40,3 +40,8 @@ Rwandan President Paul Kagame joined DRC President Felix Tshisekedi at the White
 3. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 4. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 5. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+
+## Congo pact and rebel-backing allegations (2025)
+
+In June 2025 Rwanda signed a U.S.-brokered agreement with the [[democratic-republic-of-the-congo|DR Congo]], which Kinshasa accuses of arming the [[m23]] rebels — a claim Kigali denies.[6] President [[donald-trump|Donald Trump]] said the pact, which includes calls for a joint security mechanism, gives Washington rights to local mineral wealth.[6] By September 2025 the [[congo-river-alliance|Congo River Alliance]] was publicly accusing Congolese forces of violating the associated ceasefire in South Kivu.[6]
+6. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

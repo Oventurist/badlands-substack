@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, attorney-general, subpoenas, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-5dc.md, raw/badlands-brief-884.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-afb.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-5dc.md, raw/badlands-brief-884.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-afb.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-da3.md]
 confidence: medium
 ---
 
@@ -102,6 +102,11 @@ Badlands contributor [[zak-paine|Zak Paine]] wrote that James — whom he nickna
 
 The [[justice-department|Justice Department]] appealed the dismissal of the criminal case against James on Friday night, December 19, 2025, having also attempted to renew the prosecution by reindicting her.[17] James had been charged with mortgage fraud in connection with a property she purchased in Virginia and pleaded not guilty.[17] Judge [[cameron-currie|Cameron Currie]] dismissed her case and that of [[james-comey|James Comey]] after finding that prosecutor [[lindsey-halligan|Lindsey Halligan]], a former White House aide, was ineligible for her post, rendering all actions flowing from the appointment unlawful exercises of executive power.[17]
 
+## Comment on the 2023 Trump case sequencing
+
+After the Westchester County district attorney dropped its criminal case against [[donald-trump|Donald Trump]] in June 2023, Badlands contributor [[johnny-q|Johnny Q]] wrote that James had reported the criminal cases in New York and Georgia would likely be adjourned because the federal classified documents case would take precedence.[18]
+
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "Gay Ayatollahs & Globalist Fragility", URL: https://badlands.substack.com/p/badlands-brief-5dc
@@ -120,3 +125,4 @@ The [[justice-department|Justice Department]] appealed the dismissal of the crim
 15. Badlands Brief — "Badlands News Brief: Biden & Trump Enter the Lawfare Thunderdome", URL: https://badlands.substack.com/p/badlands-news-brief-afb
 16. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 17. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+18. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3

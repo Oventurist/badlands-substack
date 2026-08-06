@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, mainstream-media, censorship, internet-culture]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-862.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-db6.md]
 confidence: medium
 ---
 
@@ -50,3 +50,10 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] used the disclosure t
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 3. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
+
+## December 2024 posts on the UnitedHealthcare killing
+
+In the hours after the fatal shooting of [[unitedhealthcare|UnitedHealthcare]] chief executive [[brian-thompson|Brian Thompson]] in Midtown Manhattan on December 4, 2024, Lorenz — described in the coverage as a former *Washington Post* reporter — wrote several social media posts appearing to celebrate the murder while suggesting other executives should also be targeted.[4] Referencing Thompson's death in a Bluesky post attached to a report that [[blue-cross-blue-shield|Blue Cross Blue Shield]] would no longer cover anesthesia for the full length of some surgeries, she wrote: "And people wonder why we want these executives dead."[4]
+
+Lorenz also posted an image of Blue Cross Blue Shield chief executive [[kim-keck|Kim Keck]] alongside a similar article on both Bluesky and X, and reposted another user who asked whether it would be "an actionable threat to start emailing other insurance CEOs a simple 'you're next?'"[4] She later defended the posts, arguing that "people have very justified hatred toward insurance company CEOs because these executives are responsible for an unfathomable amount of death and suffering," and that as someone against death and suffering she thought it good to call out "this broken system and the ppl in power who enable it."[4]
+4. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6

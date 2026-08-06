@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, us-government, deep-state, covert-action]
-sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-c78.md]
+sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f99.md]
 confidence: medium
 ---
 
@@ -32,7 +32,35 @@ In November 2025 The New York Times reported that President [[donald-trump|Donal
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] questioned the premise that a president would publicly announce authorization of covert C.I.A. operations and still expect them to succeed, proposing instead that Trump may have been openly warning Maduro that an agency operation was in the works.[3]
 
+## Assange visitors' surveillance lawsuit
+
+In December 2023, U.S. District Judge [[john-koeltl|John Koeltl]] rejected the agency's bid to dismiss a lawsuit brought by journalists and allies of [[wikileaks|WikiLeaks]] founder [[julian-assange|Julian Assange]], allowing four Americans who visited Assange at the Ecuadorian Embassy in London to press claims that a security contractor supplied the CIA with data copied from their phones.[4] Koeltl dismissed allegations concerning eavesdropping on embassy conversations and the copying of passports, but found that accessing the contents of the visitors' devices would violate their Fourth Amendment expectation of privacy.[4] He barred money damages against former Director [[mike-pompeo|Mike Pompeo]] while permitting plaintiffs to seek an order compelling the agency to destroy any records obtained from the phones; spokespeople for the CIA and the U.S. Attorney's Office in Manhattan declined to comment.[4]
+
+## Badlands claims on Al Qaeda and ISIS
+
+Badlands' July 2024 commentary asserted that both [[al-qaeda|Al Qaeda]] and [[isis|ISIS]] are creations of the CIA.[6] Al Qaeda was traced to [[operation-cyclone|Operation Cyclone]], the 1979 plan by [[zbigniew-brzezinski|Zbigniew Brzezinski]] to arm the Afghan mujahideen against the Soviets, through which [[osama-bin-laden|Osama bin Laden]] was recruited, trained and resourced — the group's name, meaning "The Base," said to derive from the CIA base where its fighters trained.[6] ISIS was traced to the agency's operation to overthrow [[muammar-gaddafi|Muammar Gaddafi]] and to redirect Libyan weapons to Syrian fighters opposing [[bashar-al-assad|Bashar al-Assad]].[6] The same piece speculated that [[qassem-soleimani|Qassem Soleimani]] had been working for the CIA and [[benjamin-netanyahu|Benjamin Netanyahu]].[6]
+
+
+## Project Stargate Mars Remote-Viewing Document
+
+A December 2024 Daily Mail report highlighted a CIA document, 'Mars Exploration May 22, 1984,' which describes the agency using astral projection to transport a 'subject' to Mars approximately one million years BC.[7] The subject reported an "oblique view of a pyramid" and a "very large road" with a monument resembling those of ancient Egypt, and described a population of "very large people" searching for "a new place to live because their environment was corrupted."[7] The study was part of [[project-stargate|Project Stargate]], the secret US Army unit established in 1977 at [[fort-meade|Fort Meade]], Maryland, that studied remote viewing, telepathy, and psychokinesis.[7] Badlands commentator GhostofBasedPatrickHenry asked whether the CIA was "pulling our leg" or whether the disclosure represented signal from Ghosts in the Machine.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
 2. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 3. Badlands Brief — "Bilateral Bromance, Private Peace Deals & Imminent Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-c78
+4. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+
+## Alleged role in long-range strikes on Russia and Georgian color revolution (December 2024)
+
+Badlands commentary in December 2024 attributed a series of long-range attacks deep inside Russian territory to the CIA rather than to Ukraine acting alone, questioning how Ukraine could possess the resources to strike targets more than 600 to 750 miles from the front while fighting for its life at home, and why civilians and civilian infrastructure were being targeted.[5] Cited examples included the [[2024-kazan-drone-attack|Kazan drone attack]] on residential buildings — Kazan being the symbolic BRICS city that hosted that year's summit — and reported drone attacks at the airport in Grozny, Chechnya, near the region where Russian special forces are headquartered, around the time of the [[azerbaijan-airlines-flight-j2-8243-crash|Azerbaijan Airlines flight J2-8243 crash]] that President [[ilham-aliyev|Ilham Aliyev]] said involved ground fire and electronic warfare.[5]
+
+The same commentary described Georgia as subject to intense CIA color revolution operations over the preceding year, beginning after Prime Minister [[irakli-kobakhidze|Irakli Kobakhidze]]'s party advanced legislation requiring NGOs receiving more than 20% of their funding from foreign sources to disclose their donors — the type of law associated with the shooting of Slovak Prime Minister [[robert-fico|Robert Fico]] — and culminating in protests around the inauguration of [[mikheil-kavelashvili|Mikheil Kavelashvili]].[5]
+5. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+6. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+7. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
+8. Badlands Brief — "Badlands News Brief: MAGA Rises as the Regime Falls", URL: https://badlands.substack.com/p/badlands-news-brief-f99
+
+## Zelensky's 2023 admission of a close relationship
+
+In a July 2023 CNN interview with [[erin-burnett|Erin Burnett]], Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] admitted to having a good relationship with the CIA and confirmed frequent intelligence discussions with the agency, noting that Director [[william-burns|Bill Burns]] visited him regularly.[8] Commentators argued the admission raised questions about the degree of foreign influence over Ukrainian decision-making during the war with Russia.[8] Writing for Badlands, [[ryan-delarme|Ryan DeLarme]] referred to the agency as "the Clowns In America" and argued that the CIA and the military industrial complex as they exist today need to be either thoroughly cleaned out or dissolved.[8]

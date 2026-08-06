@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, legacy-media, political-journalism, elections]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-618.md, raw/badlands-brief-6b4.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-f25.md]
 confidence: low
 ---
 
@@ -103,6 +103,22 @@ Badlands contributor [[burning-bright|Burning Bright]] had argued the previous w
 
 In April 2023, Politico reported on [[ron-desantis|Ron DeSantis]] escalating the [[disney-v-desantis|Disney dispute]] under the headline "'Buckle up': DeSantis escalates Disney dispute, eyes hotel taxes and road tolls," citing senior administration officials on the review of a Central Florida board agreement against state growth laws.[16]
 
+## Coverage of the Gaza ceasefire veto (February 2024)
+
+Politico reported on February 20, 2024 that the United States had cast the lone veto against a [[united-nations-security-council|UN Security Council]] resolution calling for a ceasefire in Gaza, the third time Washington had opposed such a measure, on a 13–1 vote with the United Kingdom abstaining.[17] Its account noted that the veto left the US increasingly out of step internationally over its support for Israel's campaign against [[hamas|Hamas]], and that Washington argued a complete ceasefire would jeopardise hostage negotiations involving Egypt and Qatar.[17]
+
+## Federal funding controversy (February 2025)
+
+In February 2025 the [[white-house|White House]] confirmed that Politico had received at least $8.2 million from the U.S. government in recent years, a disclosure that became central to President [[donald-trump|Donald Trump]]'s attacks on [[usaid|USAID]] spending.[18] Trump warned Democrats that they "can't hide" from the USAID scandal, claiming billions of dollars had been "stolen" at USAID and other agencies with much of it flowing to the "fake news media" as a "payoff for creating good stories about the Democrats."[18] On Truth Social he wrote that Politico "seems to have received $8,000,000," asked whether the New York Times had also received money, and called it potentially "the biggest scandal of them all."[18]
+
+The White House subsequently directed the [[general-services-administration|General Services Administration]] to terminate every media contract expensed by the agency, specifically instructing staff to pull all contracts for Politico, the BBC, E&E News (a Politico subsidiary) and Bloomberg.[18] The action followed the discovery by [[elon-musk|Elon Musk]] and allies of millions of dollars in agency subscriptions to Politico Pro, a policy-tracking service widely used in Washington.[18]
+
+Badlands contributor [[burning-bright|Burning Bright]] wrote that Politico and the rest of the "media protectorate" were caught in a narrative pincer — denying that they were paid propagandists while defending the payments as normal — and observed that the arrangement had been legal since 2013 but deliberately kept in the shadows.[18] [[jordan-sather|Jordan Sather]] added that the revelations explained how such outlets could be valued in the hundreds of millions or billions of dollars without plausible subscription or advertising revenue, concluding that "they were getting government help."[18]
+
+## November 2023 polling release
+
+Politico published the [[stack-data-strategy|Stack Data Strategy]] survey of 15,205 registered voters on Monday, November 13, 2023, the analysis that projected [[donald-trump|Donald Trump]] taking 292 electoral votes against [[joe-biden|Joe Biden]]'s 246 while Biden narrowly won the popular vote.[19]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -120,3 +136,6 @@ In April 2023, Politico reported on [[ron-desantis|Ron DeSantis]] escalating the
 14. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 15. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
 16. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+17. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+18. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+19. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

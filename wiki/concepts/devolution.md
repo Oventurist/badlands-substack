@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy-theory, badlands-media, continuity-of-government]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md]
 confidence: high
 ---
 
@@ -46,6 +46,10 @@ He tied the remark to a long-standing argument that one key purpose of the Devol
 
 Badlands contributor [[burning-bright|Burning Bright]] noted in June 2024 that [[kash-patel|Kash Patel]] had recently answered a Continuity of Government/Devolution question at an open panel by turning it toward the Biden administration and asking what it might attempt along that track to interfere with the 2024 election, which he read as a hint that the regime was beta testing a refusal to cede power under the guise of foreign interference.[10]
 
+## Application to the Gaza veto (February 2024)
+
+Analysing the February 20, 2024 US veto of a [[united-nations-security-council|UN Security Council]] ceasefire resolution, Badlands contributor [[burning-bright|Burning Bright]] suggested breaking the event into an Actual-Narrative structure and considering it in light of Devolution theory, asking which globalist-aligned proxies were so threatened by the kinetic events in Gaza that the entire EU bloc would call for a cessation of violence there while demanding escalation in Ukraine.[11]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -58,3 +62,4 @@ Badlands contributor [[burning-bright|Burning Bright]] noted in June 2024 that [
 8. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 9. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 10. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+11. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

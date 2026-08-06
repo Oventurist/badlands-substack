@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -40,10 +40,27 @@ China held up the $23 billion sale of dozens of ports worldwide — including tw
 
 In December 2023, the state of [[tennessee|Tennessee]] sued BlackRock, alleging that the world's largest asset manager breached state consumer protection laws by making "misleading" statements about its [[esg|ESG]] investment strategies.[6] The complaint alleged that BlackRock downplayed the extent to which ESG considerations drive the firm's investment strategies and their effect on portfolio companies' financial performance and outlook.[6] BlackRock rejected the claims of Attorney General [[jonathan-skrmetti|Jonathan Skrmetti]], stating that it "fully and accurately discloses our investment practices and our approach to proxy voting."[6] The suit followed Skrmetti's earlier 2023 demand that ten major asset managers disclose how they address climate change, and a March 2023 letter from Skrmetti and twenty other Republican state attorneys general suggesting asset managers were breaching fiduciary duties in their handling of environmental and social issues.[6]
 
+## Texas antitrust suit survives dismissal (2025)
+
+A federal district court judge denied BlackRock's motion to dismiss Texas Attorney General Ken Paxton's lawsuit alleging that BlackRock, State Street and Vanguard conspired to manipulate U.S. energy markets by restricting coal production to advance environmental goals.[7] The ruling allowed the case to proceed under Texas and federal antitrust laws and some state consumer protection statutes, while claims under Louisiana's Unfair Trade Practices Act and Nebraska's consumer protection statute were dismissed.[7] A BlackRock spokesperson called the case "an absurd theory that coal companies conspired with their shareholders to reduce coal production" and said it was not supported by the facts.[7] Badlands commentary framed the surviving claims as reaching the heart of long-standing allegations that the firms use their market power to drive social change, and noted the ruling clears the way for full discovery.[7]
+
+
+## ESG backlash (January 2023)
+
+By January 2023 BlackRock, the world's biggest asset manager, faced increasing backlash over environmental, social and governance investing, with a handful of U.S. states pulling billions of dollars from BlackRock funds over accusations of "greenwashing," harming the fossil fuel industry and turbocharging America's "woke" culture.[9] At the [[world-economic-forum|World Economic Forum]] in Davos, chief executive [[larry-fink|Larry Fink]] said the [[esg|ESG]] narrative had been tarnished and had become "ugly" and personal.[9]
+
 ## References
+
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 4. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 6. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
+7. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+8. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## Davos warning on a second Trump term (January 2024)
+
+At the January 2024 [[world-economic-forum|World Economic Forum]] gathering in Davos, BlackRock vice chairman [[philipp-hildebrand|Philipp Hildebrand]] warned that the prospect of a [[donald-trump|Donald Trump]] return to the White House posed a "fundamental" challenge to Europe.[8] Hildebrand, whose remarks were reported by the Daily Telegraph, urged Europe to use the moment to become a technological superpower less dependent on the United States and said European defence capabilities were "just not there."[8] He described the situation as "an opportunity for the construction of Europe" but cautioned that a Trump-driven transatlantic "rupture" — the risk he attributed to European Central Bank president [[christine-lagarde|Christine Lagarde]] — "would challenge Europe fundamentally."[8]
+9. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

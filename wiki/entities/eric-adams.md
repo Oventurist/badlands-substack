@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayors, politics]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ec8.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -129,6 +129,24 @@ On Monday, December 9, 2024, Adams announced at a news conference that police ha
 
 In an August 7, 2025 editorial, the [[new-york-post|New York Post]] editorial board urged President [[donald-trump|Donald Trump]], if he chose to involve himself in that year's mayoral race, to back Adams for a second term in Gracie Mansion, citing his commitment to public safety and civic pride.[23] The board credited Adams with standing up to left-wing legislators in Albany and the City Council — "the radicals who want to legalize theft, hold no one on bail and empty all the jails" — and noted that for the first half of 2025 New York recorded the lowest number of shootings since the city began keeping track.[23] The editorial warned that socialist rival [[zohran-mamdani|Zohran Mamdani]], a "defund the police" activist, would reverse that progress, hobble the [[new-york-city-police-department|NYPD]], drive away businesses and make the streets unsafe.[23]
 
+## End of term (December 2025)
+
+As Adams prepared to leave City Hall at the end of 2025, Politico published a retrospective framing his mayoralty as "bureaucracy as tragedy," noting that he would depart as the first one-term New York City mayor since David Dinkins.[24] The piece described him as perhaps the most eccentric executive ever to occupy Gracie Mansion, more welcome in Republican circles than in national Democratic ones, with job approval ratings that "require sonar to locate."[24] It recalled his five-count federal bribery indictment and rescue by President [[donald-trump|Donald Trump]], and the departure of much of his inner circle amid scandal and law enforcement investigations.[24]
+
+Politico argued that voter revulsion toward Adams destroyed the ordinary advantages of incumbency and thereby created the conditions for [[zohran-mamdani|Zohran Mamdani]], a previously unknown state legislator, to win in November on a platform of affordability.[24] The article also lamented that Adams' exit removed Black political power from City Hall for the second time after Dinkins.[24] Badlands contributor [[ashe-in-america|Ashe in America]] responded that "bureaucracy is always tragedy," quipped about "the Dawn of Mam," and rejected the premise of the piece on the grounds that [[elections-are-fake|elections are fake]] and no such power was legitimately conferred in the first place.[24]
+
+## November 2023 federal corruption investigation
+
+In early November 2023, federal prosecutors and the [[fbi|FBI]] were reported to be conducting a broad public corruption investigation into whether Adams's 2021 election campaign conspired with the Turkish government to receive illegal foreign donations, according to a search warrant obtained by The New York Times.[25] The inquiry became public when agents raided the Brooklyn home of the mayor's chief fund-raiser, [[brianna-suggs|Brianna Suggs]], in an early-morning operation.[25]
+
+Investigators were also examining the potential involvement of a Brooklyn construction company with ties to Turkey and a small university in Washington, D.C. with ties both to Turkey and to Adams, and whether the campaign kicked back benefits to the construction company's officials and employees and to Turkish officials.[25] Agents seized three iPhones, two laptops, papers, a "manila folder labeled Eric Adams," seven "contribution card binders" and other materials.[25]
+
+[[burning-bright|Burning Bright]] placed the case alongside contested results in Bridgeport, Connecticut and Springfield, Massachusetts as evidence that election fraud had returned to the news, and floated the theory that a 2020 election "sting" had compromised Deep State politicians — noting that figures who had performed the most conspicuous reversals, such as Adams on illegal immigration and border policy, were now facing election-related scrutiny.[25]
+
+## Guilty plea by former aide Mohamed Bahi (2025)
+
+On August 12, 2025, Mohamed Bahi, a former community affairs liaison to New York City's Muslim community and an aide to Adams, pleaded guilty in Manhattan federal court to one count of conspiracy relating to the organization of illegal campaign contributions, resolving one of the outstanding indictments arising from investigations into the first-term mayor.[26] In a four-minute plea allocution Bahi said a volunteer with the Eric Adams 2021 campaign instructed him to organize a December 2020 fundraiser at which he collected straw-donor contributions from employees that both he and the campaign knew would be reimbursed by their companies' owners, adding, "I understood that the Adams campaign would then seek matching funds for their contributions."[26]
+
 ## References
 
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
@@ -154,3 +172,6 @@ In an August 7, 2025 editorial, the [[new-york-post|New York Post]] editorial bo
 21. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 22. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 23. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+24. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
+25. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7
+26. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

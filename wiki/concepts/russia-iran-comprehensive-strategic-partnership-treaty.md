@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, iran, treaty, sanctions, nuclear-energy]
-sources: [raw/badlands-news-brief-5c8.md]
+sources: [raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Badlands writer GhostofBasedPatrickHenry read the timing as significant, arguing
 
 ## References
 1. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
+
+
+## Relevance during the June 2025 Israel-Iran war
+Badlands commentary in June 2025 stressed that [[vladimir-putin|Vladimir Putin]] had finalized the comprehensive strategic partnership agreement with Iran on January 19 — the day before [[donald-trump|Donald Trump]] took office — and argued that with global attention fixed on the Israel-Iran conflict Putin could not afford to walk away from Iran even if he wanted to.[2] The commentary framed the war as a test of the [[multipolar-world-order|Multipolar World Order]], noting that Putin had stood by Assad and Syria for years without any such treaty in place.[2]
+
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

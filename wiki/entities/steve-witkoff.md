@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, iran, special-envoy, negotiations]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-brief-abf.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b38.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-eea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d04.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-brief-abf.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b38.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-eea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-9ba.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e0f.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e81.md]
 confidence: medium
 ---
 
@@ -228,7 +228,25 @@ On Wednesday, August 6, 2025, Witkoff met [[vladimir-putin|Vladimir Putin]] in M
 
 A White House official said the same day that Trump could meet Putin in person as soon as the following week, while the United States continued preparing secondary sanctions — potentially including measures against China — to pressure Moscow.[42] Such a meeting would be the first between sitting US and Russian presidents since Joe Biden met Putin in Geneva in June 2021.[42] The New York Times reported that Trump told European leaders on a call that he intended to meet Putin and then follow up with a trilateral including [[volodymyr-zelensky|Volodymyr Zelensky]], who has not met Putin since December 2019.[42] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Trump's use of private-sector envoys such as Witkoff, rather than career diplomats at the [[state-department|State Department]], combined with unpredictable timetables, keeps adversaries perpetually off balance.[42]
 
+## August 2025 Moscow trip and Gaza assessment
+
+Donald Trump confirmed in early August 2025 that his special envoy Steve Witkoff would visit Moscow "next week," likely Wednesday or Thursday, days before a 10-day ultimatum for Russia to reach a peace agreement with Ukraine expired; a previously announced weekend trip did not occur.[43] Trump said the envoy's mission was to "get a deal where people stop getting killed," while acknowledging sanctions would follow and that Russians were "wily characters" adept at avoiding them.[43] Badlands commentary noted that Witkoff had visited Gaza days earlier to assess humanitarian conditions but issued no public findings, speculating that his silence and the abrupt cancellation of the Moscow trip suggested he had found affirmation of starvation and war-crime allegations against Israel.[43] Hamas separately condemned Witkoff's visit to a Gaza aid distribution center as "nothing more than a premeditated staged show" and denied media reports attributed to him claiming the group was willing to disarm.[43]
+
+## Denial of a Trump-Netanyahu rift (May 2025)
+
+In May 2025, Witkoff denied any tension between [[donald-trump|Donald Trump]] and Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], after reports of such a conflict appeared in Western media.[44] In an interview conducted the previous week and published on the evening of May 11, the envoy emphasized that Netanyahu and the Israeli people "are a staunch ally of the United States," adding: "I've been at multiple meetings with the president and the Prime Minister—they're friendly. They're good friends in fact."[44] He noted this did not mean the two leaders "agree on absolutely everything," and called media reports of strained relations "preposterous."[44]
+
+Around the same time, Witkoff was reported to be arriving in Israel to facilitate the release of hostage [[edan-alexander|Edan Alexander]], finalizing details ahead of the release according to Israeli journalist Barak Ravid, having come directly from Oman where he had been mediating [[2025-oman-nuclear-talks|nuclear talks between the United States and Iran]].[44]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the denial as kayfabe, arguing that the Trump administration had begun operating around Netanyahu rather than with him, and that officials rushing out to assure the public that everything was fine suggested the opposite.[44]
+
+
+## Miami Talks with the Russian Delegation (October 2025)
+
+In late October 2025 Witkoff, as [[donald-trump|President Trump]]'s Special Envoy, was scheduled to meet Kremlin special envoy and [[russian-direct-investment-fund|Russian Direct Investment Fund]] head [[kirill-dmitriev|Kirill Dmitriev]] in Miami, according to a White House official.[45] The meeting came two days after the administration sanctioned [[rosneft|Rosneft]] and [[lukoil|Lukoil]] while urging Moscow to accept an immediate Ukraine ceasefire, and Dmitriev said the visit had been arranged earlier at U.S. invitation.[45] Talks between the Russian delegation and Trump administration representatives continued into a third day, covering the Ukraine conflict, the Russian economy and the frontline situation.[45] Badlands commentary suggested Rep. Anna Paulina Luna might also participate and read the encounter as a public display of Sovereign Alliance standing rather than conventional brinkmanship.[45]
+
 ## References
+
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 3. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
@@ -271,3 +289,14 @@ A White House official said the same day that Trump could meet Putin in person a
 40. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 41. Badlands Brief — "Badlands News Brief: Witkoff Woos a Win & Women Go to Space", URL: https://badlands.substack.com/p/badlands-news-brief-cf2
 42. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+43. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+44. Badlands Brief — "Badlands News Brief: Ceasefires, Cheap Drugs, & A Flying Palace", URL: https://badlands.substack.com/p/badlands-news-brief-e0f
+45. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+
+## Moscow mission ahead of the August 2025 sanctions deadline
+
+Witkoff travelled to Moscow in early August 2025 to meet Russian leadership as Washington sought to persuade [[vladimir-putin|Vladimir Putin]] to sign a ceasefire agreement with [[ukraine|Ukraine]].[46] President [[donald-trump|Donald Trump]], increasingly frustrated with Putin, had given the Russian leader until that Friday to show progress toward peace or face tougher sanctions, reportedly including measures against Russia's "shadow fleet" of oil tankers.[46]
+
+Witkoff arrived in Moscow on Wednesday, August 6, 2025, according to state media, and was met by Russia's investment envoy [[kirill-dmitriev|Kirill Dmitriev]]; the Kremlin said it did not rule out a Witkoff-Putin meeting.[46] See [[2025-witkoff-moscow-mission|the 2025 Witkoff Moscow mission]].[46]
+
+46. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81

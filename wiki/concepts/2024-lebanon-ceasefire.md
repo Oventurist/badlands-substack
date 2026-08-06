@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lebanon, israel, hezbollah, ceasefire, middle-east]
-sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-299.md]
+sources: [raw/badlands-news-brief-19a.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-f18.md]
 confidence: medium
 ---
 
@@ -36,7 +36,14 @@ Iran's Supreme Leader [[ali-khamenei|Ali Khamenei]] issued a statement demanding
 
 Ahead of the deal, Israeli officials described the emerging Lebanon ceasefire as an early foreign policy win intended for President-elect [[donald-trump|Donald Trump]].[2] The Washington Post reported in November 2024 that a close aide to Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] had told Trump and [[jared-kushner|Jared Kushner]] that week that Israel was rushing to advance a ceasefire in Lebanon, according to three current and former Israeli officials briefed on the meeting.[2] [[ron-dermer|Ron Dermer]], Netanyahu's minister of strategic affairs, made Mar-a-Lago the first stop of his U.S. tour that Sunday before travelling to the White House to update Biden administration officials on the state of the Lebanon talks — a sign, the Post wrote, of how swiftly America's political center of gravity had shifted after Trump's electoral victory.[2] One Israeli official, speaking anonymously, said: "There is an understanding that Israel would gift something to Trump … that in January there will be an understanding about Lebanon."[2] Dermer's office said he had discussed a wide range of issues on the trip without elaborating; Netanyahu's office, a Trump spokesperson and Kushner's spokesperson declined or did not respond to requests for comment.[2]
 
+## January 2025 extension
+
+With the 60-day period defined in the agreement expiring on Sunday, January 26, 2025, the [[white-house|White House]] announced that the ceasefire between [[israel|Israel]] and [[lebanon|Lebanon]] would be extended until February 18.[3] The extension resulted from mediation by the [[trump-administration|Trump administration]] aimed at preventing the deal's collapse, and allowed another three and a half weeks for Israel's military to complete its withdrawal from southern Lebanon and for the Lebanese army to finish deploying along the border.[3] On the preceding Friday the Israeli prime minister's office had said the [[israel-defense-forces|IDF]] would not complete its withdrawal by the deadline, and [[hezbollah|Hezbollah]] warned it would consider the ceasefire null and void if Israel breached it.[3] The administration negotiated with both governments over the final 96 hours, and the White House issued its statement a few minutes before midnight local time.[3]
+
+Badlands commentator GhostofBasedPatrickHenry argued that [[benjamin-netanyahu|Netanyahu]] had done everything he could to subvert ceasefire arrangements — thwarting hostage deals, deploying provocative rhetoric, and following the Hezbollah ceasefire with the infamous pager attack — and that the extension negotiated by Trump's White House removed his excuses.[3]
+
 ## References
 
 1. Badlands News Brief — "Ceasefires, Olive Branches ... and Scare Events?", URL: https://badlands.substack.com/p/badlands-news-brief-19a
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
+3. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

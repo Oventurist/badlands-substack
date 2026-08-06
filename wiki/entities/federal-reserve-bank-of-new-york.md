@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, iraq-war, currency, east-rutherford]
-sources: [raw/a-conflict-of-interest.md, raw/badlands-news-brief-c18.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -20,6 +20,12 @@ The chain of custody was rigorously documented as the money left the Fed's custo
 
 The New York Fed also publishes a monthly consumer survey tracking household expectations for inflation, income and debt repayment, known as the [[survey-of-consumer-expectations|Survey of Consumer Expectations]].[2] The September 2023 edition, released in October 2023, showed one-year inflation expectations rising for a second consecutive month to 3.67 percent from 3.63 percent, three-year expectations rebounding to 3.00 percent, and five-year expectations falling to 2.84 percent — the lowest since May 2023 — while median inflation uncertainty rose slightly across all three horizons.[2] The most widely reported finding was an unexpected spike in household delinquency expectations, the worst reading since the April 2020 COVID-19 crash, which commentators treated as evidence that American households had exhausted their capacity to pay down debt.[2]
 
+
+## Project Cedar (2022–2023)
+
+The New York Federal Reserve sponsored [[project-cedar|Project Cedar]], a pilot program agreed to on November 15, 2022 by several of the world's biggest banks — including Wells Fargo, Citigroup, HSBC and Mastercard — that would convert regular U.S. dollars into a new type of dollar.[3] Coverage summarized in the [[badlands-news-brief|Badlands News Brief]] characterized the plan as one that could lead to a complete overthrow of the U.S. dollar as currently understood, and Badlands commentary tied it, alongside [[executive-order-14067|Executive Order 14067]], to a possible trackable [[central-bank-digital-currency|central bank digital currency]].[3]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+3. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

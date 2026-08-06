@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, msnbc, journalism, 2024-election]
-sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac1.md]
+sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ In the final week of the 2024 campaign, Reid was among the first prominent voice
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 4. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 5. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
+
+## "Jingle Bells" post (December 2025)
+
+In December 2025, the former MSNBC host shared on Instagram a viral video claiming that the Christmas song "Jingle Bells" is rooted in racism and was written "as a mockery of Black people."[6] In the video, a man criticized a plaque in Medford, Massachusetts honoring the site where James Lord Pierpont is believed to have written the song in 1850, with a caption reading, "This is where a racist Confederate soldier wrote 'Jingle Bells' to make fun of Black people," and asserting that the plaque "ignores its origins in blackface minstrelsy."[6] The video further claimed that the original title, "The One Horse Open Sleigh," was intended for racist blackface performances and that the "laughing all the way" theme likely referenced a routine known as the "Laughing Darkie."[6] The episode was reported by One America News and carried as a bonus item in the Badlands News Brief.[6]
+
+6. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

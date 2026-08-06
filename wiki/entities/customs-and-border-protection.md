@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cbp, border-patrol, immigration, dhs, funding]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-959.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c74.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-959.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -46,6 +46,10 @@ In June 2023, House Republicans stated that CBP had intercepted an increasing nu
 
 Badlands commentator [[ashe-in-america|Ashe in America]] connected the interceptions to earlier reporting by [[sara-carter|Sara Carter]] of a 393 percent increase in Chinese migrants crossing the southern border, and argued that the pattern was better understood as troop movement than as a humanitarian crisis.[7]
 
+## Chinese national apprehensions, 2022–2024
+
+According to U.S. Customs and Border Protection data cited in May 2024, more than 10,000 Chinese unlawful aliens had been apprehended since October 2022, compared with fewer than 500 in the same period in 2021.[11] Commentators noted that apprehension figures said nothing about the number of "gotaways," and cited Fox News reporting that gotaways in the preceding three years exceeded the total for the entire decade from 2010 to 2020.[11] Illegal crossings by Chinese migrants were also common at the northern border with Canada, not only the southern border.[11]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "We Are the Champions of the World", URL: https://badlands.substack.com/p/badlands-brief-959
@@ -66,3 +70,7 @@ In late July 2020, U.S. Customs and Border Protection captured 19,888 fake drive
 CBP sources told Fox News that the U.S. southern border recorded more than 12,600 migrant encounters on Monday, December 18, 2023 — a single-day record — as thousands flooded into [[eagle-pass-texas|Eagle Pass, Texas]].[9] The figure included over 11,000 apprehensions of illegal immigrants and more than 1,600 people encountered at ports of entry, and excluded thousands still awaiting processing in the Del Rio Sector that evening.[9] By the next morning agents were still processing and transporting more than 4,500 migrants at the crossing, with over 5,300 already in custody and facilities at 260% over capacity.[9]
 
 9. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
+## CBP One parole flights disclosures (2024)
+Freedom of Information Act litigation by the [[center-for-immigration-studies|Center for Immigration Studies]] revealed in March 2024 that CBP had approved secretive [[cbp-one-parole-flights|parole flights]] carrying hundreds of thousands of inadmissible aliens from foreign airports into some 43 American ones over the previous year, all pre-approved through a cell phone application.[10] The agency withheld the names of the receiving U.S. airports — which took in 320,000 inadmissible aliens between January and December 2023 — and the foreign airports of departure, with its lawyers initially citing a general "law enforcement exception" and the sensitivity of the information.[10] Litigation later produced a more specific rationale: the volume of CBP-authorized arrivals had created "operational vulnerabilities" such that "bad actors" could undermine efforts to "secure the United States border" if they knew how much CBP One traffic each port of entry processed.[10]
+10. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+11. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

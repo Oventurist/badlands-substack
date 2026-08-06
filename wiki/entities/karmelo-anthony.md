@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, crime, austin-metcalf, bond, media]
-sources: [raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d1d.md]
+sources: [raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-df2.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that since Metcal
 ## References
 1. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 2. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+
+## Release on bond (April 2025)
+
+Anthony, 17, posted bond on Monday, April 14, 2025 after a judge lowered the amount from $1 million to $250,000, walking free from Collin County Jail wearing a gray suit jacket and black collared shirt.[3] He was described as stone-faced and unflinching as reporters bombarded him with questions — "Karmelo, why were you armed at school?", "Explain your self defense", and whether he had anything to say to the family of the victim — while he made a beeline for a waiting car.[3] He had appeared in court earlier that day facing a first-degree murder charge in the death of 17-year-old [[austin-metcalf|Austin Metcalf]], who was stabbed in the heart at an interschool track meet on April 2 and died in his twin brother's arms.[3]
+
+3. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [medicine, gender-medicine, nhs, pediatrics]
-sources: [raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eca.md]
 confidence: medium
 ---
 
@@ -26,3 +26,8 @@ Esler contended that if the controversy amounted to a moral panic, it was a just
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+2. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## Susan Bradley's recantation (2023)
+
+Canadian psychiatrist [[susan-bradley|Susan Bradley]], who founded a pediatric gender clinic in 1975 and whose clinic began prescribing puberty blockers around 2000, publicly repudiated the practice in March 2023.[2] Bradley said the blocker-and-affirmation model — since adopted widely by medical establishments including in the United States — can cement a child's confusion out of which they would otherwise likely grow, and she raised concerns about the drugs' side effects.[2] Her account noted that under her earlier therapy-focused approach most patients outgrew their feelings of being transgender over time.[2] See [[gender-dysphoria|gender dysphoria]].[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, military, pla, xi-jinping, purge]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-ee9.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ In December 2024, [[taiwan|Taiwan]]'s Defense Ministry described a PLA naval sur
 2. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 3. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 4. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+
+## April 2023 Taiwan encirclement drills
+
+In April 2023 the PLA staged three days of wargames around [[taiwan|Taiwan]] in response to President [[tsai-ing-wen|Tsai Ing-wen]]'s meeting with US House Speaker [[kevin-mccarthy|Kevin McCarthy]] in California, stating that it was rehearsing "sealing off" the island; see [[2023-chinese-military-drills-around-taiwan|2023 Chinese military drills around Taiwan]].[5] A PLA army statement said aircraft, ships and troops had been sent into "the maritime areas and air space of the Taiwan Strait, off the northern and southern coasts of the island, and to the island's east," and that the exercises included simulated "maritime blockades" and "targeted ambush assaults on enemy mooring vessels."[5] State broadcaster CCTV reported that forces "continued to maintain the situation of closely encircling the island" and that the command was "ready for combat at all times, and will resolutely destroy any type of 'Taiwan independence' separatist or foreign interference attempts."[5]
+
+5. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, senate, intelligence, democrats, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-9ac.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d1c.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9ac.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e81.md, raw/badlands-news-brief-ed9.md]
 confidence: low
 ---
 
@@ -78,6 +78,14 @@ In August 2025 Just the News reported that a career intelligence officer who had
 
 Badlands commentary tied the episode to Schiff's reported expectation that he would have become director of the CIA had Hillary Clinton won in 2016, drawing a parallel with [[rodney-joffe|Rodney Joffe]], who allegedly manipulated internet data to support the collusion narrative while expecting a top cybersecurity post under a Clinton administration.[13] [[ashe-in-america|Ashe in America]] argued that Schiff's access to classified information should be revoked immediately and that Congress, being implicated itself, could not be trusted to deliver justice.[13]
 
+## Proposed shadow attorney general
+
+Following the 2024 election, Representative [[wiley-nickel|Wiley Nickel]]'s [[shadow-cabinet-proposal-2024|shadow cabinet proposal]] named Senator-elect Schiff as an illustrative choice for shadow attorney general, a role in which he would publicly contest [[donald-trump|Trump]]'s efforts to replace career Justice Department attorneys with lawyers loyal to the president.[14]
+
+## Cited as a cautionary example (July 2024)
+
+In July 2024 commentary on the articles of impeachment against [[kamala-harris|Kamala Harris]], Badlands contributor [[ashe-in-america|Ashe in America]] urged House Republicans to pursue fact- and evidence-based charges and to avoid theatrics, instructing them: "Don't doctor tweets, like Schiff."[15]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -93,3 +101,19 @@ Badlands commentary tied the episode to Schiff's reported expectation that he wo
 11. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 12. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 13. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c
+14. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+15. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Federal mortgage fraud investigation (August 2025)
+
+In August 2025 Fox News reported, via a Trump administration source, that Schiff was under federal criminal investigation for mortgage fraud, with the inquiry being conducted by the U.S. Attorney's Office in Maryland.[16] Host Laura Ingraham broke the news on "The Ingraham Angle" on Tuesday, August 5.[16] The investigation followed by roughly a month the disclosure that the [[federal-housing-finance-agency|Federal Housing Finance Agency]] had sent a criminal referral to the [[department-of-justice|Department of Justice]] alleging that Schiff had, in multiple instances, falsified bank documents and property records to obtain more favourable loan terms.[16]
+
+16. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81
+
+## Clash with Kash Patel (September 2025)
+
+In September 2025, Schiff's long-running feud with FBI Director [[kash-patel|Kash Patel]] escalated into a shouting match that briefly derailed a [[senate-judiciary-committee|Senate Judiciary Committee]] hearing.[17] Schiff, a Democratic senator from California, was questioning Patel about the [[justice-department|Justice Department]]'s decision to transfer [[ghislaine-maxwell|Ghislaine Maxwell]] to a lower-security prison facility when the confrontation erupted.[17]
+
+Schiff asked whether Patel believed the American people were "stupid" enough to accept the claim that the [[bureau-of-prisons|Bureau of Prisons]] had made the decision independently rather than at the political direction of the White House.[17] Patel cut him off, accusing him of lying about Russiagate and January 6 and calling him "the biggest fraud to ever sit in the United States Senate" and "a political buffoon at best."[17] Chairman [[chuck-grassley|Chuck Grassley]] appeared to cut Schiff's microphone during the exchange.[17] Badlands contributor [[ashe-in-america|Ashe in America]] asked afterward whether anyone intended to prosecute Schiff or merely to yell at him.[17]
+
+17. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

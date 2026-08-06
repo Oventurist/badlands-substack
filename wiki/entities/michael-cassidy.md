@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iowa, christianity, satanism, protest, veterans]
-sources: [raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-d21.md]
+sources: [raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d68.md]
 confidence: medium
 ---
 
@@ -30,6 +30,14 @@ In late January 2024 it was reported that Cassidy had been charged with a hate c
 
 [[ashe-in-america|Ashe in America]] argued that the case could be reasoned in two opposing directions under the [[first-amendment|First Amendment]]: either the display was protected private religious expression whose destruction constituted a religiously motivated hate crime, or Cassidy's act was itself compelled religious expression by a believer confronting evil, making his prosecution a government violation of the First Amendment.[2] She concluded that the charges should be dropped, that government violations of constitutional rights are more serious than private ones, and that religious displays should be removed from government buildings altogether.[2]
 
+
+## Guilty plea and dropped hate crime charge (May 2024)
+
+On Friday, May 24, 2024, Cassidy — a Mississippi man, Navy Reserve veteran and former Republican congressional candidate — pleaded guilty to an aggravated misdemeanor count of third-degree criminal mischief in connection with the destruction of the Baphomet statue at the Iowa State Capitol, in exchange for prosecutors dropping a hate crime charge.[3] He had been scheduled to go to trial on June 3.[3] His attorney, Sara Pasquale, said the defense had "continually contested the hate crime and questioned whether Mr. Cassidy was being targeted due to his religious beliefs," and expressed hope the case would raise awareness of similar situations nationally.[3]
+
+Cassidy announced the outcome on X the same evening, writing: "Not today, Satan. Pleased to announce the Iowa DA just dropped their absurd felony hate crime charge and instead offered a deferred judgement misdemeanor (a fine, no jail time, nothing permanent on my record), which I accepted."[3] Badlands writer [[ashe-in-america|Ashe in America]] observed that the hate crime charge had been attached on the theory that Cassidy hates Satan, argued that the display — though grotesque — was protected religious expression under the [[first-amendment|First Amendment]], and concluded that the remedy is to remove religious displays from government buildings entirely rather than to have the state erect, protect or prosecute the destruction of them.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
 2. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+3. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68

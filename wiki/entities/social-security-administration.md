@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, doge, entitlements, fraud]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-dca.md, raw/badlands-news-brief-f1a.md]
 confidence: medium
 ---
 
@@ -32,8 +32,18 @@ In late August 2025, SSA Chief Data Officer [[charles-borges|Charles Borges]] su
 
 He also alleged that "newly installed leadership in IT and executive offices created a culture of panic and dread, with minimal information sharing, frequent discussions on employee termination, and general organizational dysfunction," saying employees feared termination or retribution if they raised concerns.[4] The SSA did not immediately comment.[4]
 
+## DOGE fraud-call claim (March 2025)
+
+In March 2025, [[department-of-government-efficiency|DOGE]] figures circulated by Nick Sortor on X asserted that roughly 40% of calls to Social Security came from fraudsters, a claim that Badlands contributor [[ashe-in-america|Ashe in America]] verified as a real story before commenting on it.[5] She observed that bipartisan appeals to "protect Social Security" from cuts had been treated as the untouchable third rail of American politics her entire life, and asked whether that protest had served as cover for massive fraud.[5] She further argued that legislators had created a climate of fear among seniors, questioning whether they had traumatized and terrorized them in order to protect the fraud, and suggested such conduct would itself amount to terrorism.[5]
+
+## Removal of illegal aliens from the benefit rolls (August 2025)
+
+Marking the 90th anniversary of the [[social-security-act|Social Security Act]] in August 2025, President [[donald-trump|Donald Trump]] said his administration had "already kicked nearly 275,000 illegal aliens off the social security system," noting that many of those removed had already left the country while still receiving checks and that the total had since grown.[6] He said the removals were strengthening the program, contrasted the policy with the Biden administration's record, and tied it to what he called historic deportations targeting Social Security fraud.[6] Badlands contributor [[chris-paul|Chris Paul]] responded that a figure of that magnitude was large enough to swing a national election.[6]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
 3. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 4. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+5. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca
+6. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a

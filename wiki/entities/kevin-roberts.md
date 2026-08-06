@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [heritage-foundation, populism, davos, world-economic-forum]
-sources: [raw/badlands-brief-f02.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md]
+sources: [raw/badlands-brief-f02.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-dd8.md]
 confidence: medium
 ---
 
@@ -44,6 +44,12 @@ Badlands contributor [[ashe-in-america|Ashe in America]] recalled Roberts, head 
 
 At a leaked all-staff meeting on Wednesday, November 5, 2025, Roberts apologized to [[heritage-foundation|Heritage Foundation]] employees for the controversial video in which he had defended [[tucker-carlson|Tucker Carlson]], and faced sharp criticism from the think tank's scholars over his handling of the matter.[6] "I made a mistake, and I let you down, and I let down this institution. Period. Full stop," Roberts said in opening the meeting, video of which was published by the Washington Free Beacon.[6] He followed the meeting with another direct-to-camera statement pledging to challenge Carlson: "Everyone has the responsibility to speak up against the scourge of antisemitism, no matter the messenger. Heritage and I will do so, even when my friend Tucker Carlson needs challenging."[6] The episode was reported by [[the-hill|The Hill]].[6]
 
+## Defense of Tucker Carlson (October 2025)
+
+On Thursday, October 30, 2025, Roberts stood by [[tucker-carlson|Tucker Carlson]] after the podcaster's friendly interview with Holocaust denier [[nick-fuentes|Nick Fuentes]] drew condemnation from within a GOP grappling with a series of antisemitic incidents.[7] In a video posted to X, Roberts denounced the "venomous coalition" criticizing Carlson and said "their attempt to cancel him will fail," without naming anyone, adding that Carlson remains a "close friend" of the [[heritage-foundation|Heritage Foundation]] and "always will be."[7]
+
+Roberts said that "I disagree with and even abhor things that Nick Fuentes says, but canceling him is not the answer, either," and — noting his group's launch of [[project-esther|Project Esther]] to combat antisemitism — argued that "Christians can critique the state of Israel without being antisemitic," while adding that antisemitism should be condemned.[7] Badlands contributor [[chris-paul|Chris Paul]] characterized the backlash as an insistence that "not publicly hating Tucker Carlson enough is the crime they're pretending has been committed against them."[7]
+
 ## References
 
 1. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
@@ -52,3 +58,4 @@ At a leaked all-staff meeting on Wednesday, November 5, 2025, Roberts apologized
 4. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 5. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 6. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
+7. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8

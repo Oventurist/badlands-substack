@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, minerals, trump-administration, diplomacy]
-sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aff.md]
+sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f23.md]
 confidence: medium
 ---
 
@@ -43,9 +43,22 @@ The signing of the minerals agreement was the stated purpose of [[volodymyr-zele
 
 Two days later, speaking to British media in London after a summit there, Zelensky said he was still prepared to proceed: "The agreement that's on the table will be signed if the parties are ready."[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] predicted that Trump would nonetheless penalize Zelensky for failing to sign graciously during the Friday visit.[5]
 
+## Skepticism over Ukraine's rare-earth potential (February 2025)
+
+Ukrainian lawmaker [[artyom-dmitruk|Artyom Dmitruk]], a critic of the government who fled the country in 2024, told [[rt|RT]] in February 2025 that [[volodymyr-zelensky|Volodymyr Zelensky]] had "wildly misled" President [[donald-trump|Donald Trump]] about Ukraine's mineral deposits, arguing that the rare-earth resources sit in territories with active combat, that extraction costs are unknown, and that Ukrainian companies would have mined them long ago had it been easy and profitable.[7] Zelensky had offered the United States a partnership to develop the minerals — "the Americans helped the most, and therefore the Americans should earn the most" — and claimed Ukraine holds Europe's largest titanium deposits, while Prime Minister Denis Shmigal wrote in Politico that the country's subsoil contains 22 of the 30 minerals the EU lists as critical.[7]
+
+[[badlands-media|Badlands]] writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] observed that industry experts and geologists had voiced similar doubts, largely because the surveys underpinning the resource claims are Soviet-era and Soviet-made, and questioned how much of that skepticism reflected genuine geological concern versus anti-Soviet Russophobia ingrained in American culture since the Second World War.[7] He argued that the expert lists of obstacles omitted Ukraine's role as a hub for illicit trafficking — human, organ, and drug — which he characterized as offering higher and more reliable returns with far lower startup costs than mining, and suggested that oligarchs would resist mineral development because it would draw global scrutiny to the country.[7]
+
 ## References
 1. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
 2. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 5. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff
+
+## Johnson's "extortionate" assessment (February 2025)
+
+Speaking at the Yalta European Strategy conference in Kiev in late February 2025, former British Prime Minister [[boris-johnson|Boris Johnson]] called the proposed deal "extortionate" but urged Kyiv to accept it as its best option for securing long-term support from Washington.[6] The proposal would give the United States fifty percent ownership of Ukraine's critical natural resources as compensation for what Washington claims is $500 billion in aid, and [[volodymyr-zelensky|Vladimir Zelensky]] rebuffed the initial offer, saying he "would not sign something that will be paid by ten generations of Ukrainians."[6] Johnson likened the terms to Lend-Lease in 1941 — "You Americans absolutely stiffed us... And we were still paying for it until 2006" — while insisting the agreement commits the United States "to a free, sovereign, and secure Ukraine" and to long-term financial support for its stability and economic development.[6]
+
+6. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+7. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

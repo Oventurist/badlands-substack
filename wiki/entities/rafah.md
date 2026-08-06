@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gaza, israel, egypt, refugees, military-operations]
-sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a21.md]
+sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -38,8 +38,21 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 
 In late May 2024 Rafah became the site of two incidents that sharply escalated international pressure on Israel.[3] An Israeli airstrike set fire to a camp housing displaced Palestinians in the city, killing at least 45 people according to local officials, an event Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] described on May 27 as a "tragic mistake"; it is covered in detail at [[2024-rafah-tent-camp-strike|the 2024 Rafah tent camp strike]].[3] The same day, an Egyptian soldier was killed in an exchange of fire with Israeli troops near the [[rafah-border-crossing|Rafah border crossing]], described at [[2024-rafah-border-shooting-incident|the 2024 Rafah border shooting incident]].[3] Both followed the [[international-court-of-justice|International Court of Justice]] order the previous Friday demanding that Israel halt its offensive in Rafah, and Israel's seizure of the Rafah crossing from the Gaza side earlier that month.[3]
 
+
+## ICJ order and the late-May 2024 strikes
+
+On May 24, 2024 the [[international-court-of-justice|International Court of Justice]] ordered Israel to immediately halt its military offensive in Rafah, citing "immediate risk" to the Palestinian population; the UN estimated some 1.4 million Palestinians were sheltering in the southern Gazan city, which Israel described as Hamas' last stronghold.[4] Almost immediately after the ruling, Israel began airstrikes on Rafah that continued through the weekend and culminated on Sunday evening in videos showing enormous fires in refugee tent camps, with scenes of scorched bodies and dead children.[4] Corporate press reported over 30 killed, while the Palestinian Ministry of Health placed the toll in the hundreds and claimed over 60 people were burned alive.[4] Israeli leadership confirmed the strikes were occurring and stated it had no intention of ending the campaign.[4]
+
+The brief also noted that the UN had finally produced an official figure of 906 aid trucks entering Gaza since the post-October-7 operation began, against Saudi foreign minister [[faisal-bin-farhan|Faisal bin Farhan]]'s February 26 testimony that 500 to 800 trucks per day were needed to prevent starvation.[4]
+
+## ICJ proceedings, May 2024
+
+In May 2024 Rafah — Gaza's southernmost city and the last corner of the territory not to have faced an Israeli ground invasion — became the focus of [[south-africa|South Africa]]'s emergency application to the [[international-court-of-justice|International Court of Justice]].[5] Professor Vaughan Lowe KC told the court that a destructive campaign in Rafah would destroy "the foundation of Palestinian life" in Gaza, and that without judicial action the possibility of rebuilding a viable Palestinian society would be lost for the lifetime of the survivors.[5] Evidence presented included Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] publicly demanding entry into Rafah and targeted assassinations, and video of [[israel-defense-forces|IDF]] troops chanting "Let's go destroy Rafah!"[5]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Biden Bungles Rafah as Trump Trials Collapse", URL: https://badlands.substack.com/p/badlands-news-brief-0c1
 2. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 3. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
+4. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+5. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

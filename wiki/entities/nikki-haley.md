@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, republican, israel, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c18.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -108,6 +108,23 @@ In a Newsmax interview aired December 25, 2023, [[donald-trump-jr|Donald Trump J
 
 In October 2023, rival Republican presidential candidate [[vivek-ramaswamy|Vivek Ramaswamy]] publicly criticized Haley for what he described as a "childish tantrum" regarding the attacks on Israel, telling [[tucker-carlson|Tucker Carlson]] that her approach was "a formula for World War III."[19] The clip, shared by Carlson on X, was featured as a bonus item in the Badlands News Brief covering the opening days of the Israel–[[hamas|Hamas]] war.[19]
 
+## Don Lemon's "past her prime" remarks (February 2023)
+
+In February 2023, after Haley called for politicians over the age of 75 to take mental competency tests, [[cnn|CNN]] anchor [[don-lemon|Don Lemon]] said on air that Haley "isn't in her prime," adding that women are in their prime in their twenties and thirties.[20] The remarks drew a rebuke from CNN chief executive [[chris-licht|Chris Licht]] and preceded Lemon's removal from the network's morning show lineup, an outcome Badlands commentators attributed to Lemon having attacked a Republican politician from a "woke leftist" vantage point.[20]
+
+
+## Endorsement of Trump and speculation about a role (May 2024)
+
+On May 22, 2024, in her first remarks since dropping out of the Republican presidential race, Haley announced she would vote for [[donald-trump|Donald Trump]] and described [[joe-biden|Joe Biden]]'s presidency as a "catastrophe."[21] Asked days later by News 12 New York after a Bronx campaign rally whether Haley might join his team or his ticket, Trump responded positively: "Well, I think she's going to be on our team because we have a lot of the same ideas, the same thoughts... we had a nasty campaign, it was pretty nasty, but she's a very capable person and I'm sure she's going to be on our team in some form absolutely."[21] Haley had previously served as United Nations ambassador during Trump's first administration.[21]
+
+## South Carolina primary stand (February 2024)
+
+On February 20, 2024, Haley vowed to remain in the Republican presidential primary against former President [[donald-trump|Donald Trump]], telling a crowd in her home state of South Carolina: "I'm not going anywhere."[22] She said she was "not afraid to say the hard truths out loud," felt "no need to kiss the ring," had "no fear of Trump's retribution," and that her own political future was "of zero concern," comparing the race to David versus Goliath.[22] Her hawkish position on war took centre stage in the primary, and the campaign followed a bruising weekend for her social media operation.[22] [[zerohedge|ZeroHedge]] argued that, given her insurmountable deficit, the evident purpose of staying in was to prevent the right from consolidating behind Trump before November.[22]
+
+## Coverage during the Michigan primary week
+
+Badlands contributor [[burning-bright|Burning Bright]] observed that most headlines and commentary around the February 2024 Michigan primaries had been relegated to the memetic quality of Haley's "continued political death spiral," distracting from what he saw as the more significant signal in the Democratic [[2024-michigan-democratic-primary|uncommitted protest vote]].[23]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -129,3 +146,21 @@ In October 2023, rival Republican presidential candidate [[vivek-ramaswamy|Vivek
 17. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
 18. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 19. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+20. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
+21. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+22. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+23. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+## Vermont win on Super Tuesday 2024
+On [[2024-super-tuesday|Super Tuesday]], March 5, 2024, Haley secured Vermont according to the Associated Press, depriving [[donald-trump|Donald Trump]] of a clean sweep of the night's contests.[24] It was her only win of the evening as Trump carried eleven other states by 11 p.m. Eastern time; speaking at Mar-a-Lago, Trump made no mention of Haley and instead called for "unity."[24]
+Badlands writer [[ashe-in-america|Ashe in America]] noted that the result left Haley with only the District of Columbia and Vermont against Trump's sweep of the rest of the nation, and that the press focused on the Green Mountain State and Haley "preventing Trump's shutout" because Trump lives "rent free" in their heads.[24] She emphasized that Vermont runs an open primary in which independents and Democrats shape the outcome, that Haley was projected to win by roughly 3,000 votes, and that no one should call it a comeback.[24]
+24. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+25. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+26. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+
+## Her son's dispute with Vivek Ramaswamy (October 2025)
+
+In October 2025 Haley's Catholic son, [[nalin-haley|Nalin Haley]], became a prominent online critic of fellow Republican [[vivek-ramaswamy|Vivek Ramaswamy]], attacking him for likening the Holy Trinity to Hinduism's "330 million gods" and calling the comparison "blasphemous, disrespectful, and a slap in the face to every Christian."[26] Coverage of the exchange noted the family's Indian origin and Sikh grandparents, and described Nikki Haley as an Indian-origin GOP leader and former Governor of South Carolina.[26]
+
+## Debate boycott before the New Hampshire primary
+
+After finishing third in the January 2024 Iowa caucuses, Haley announced that she would not participate in any further primary debates unless [[donald-trump|Donald Trump]] joined them, a stance that contributed to the cancellation of both the [[cnn|CNN]] and [[abc-news|ABC News]]/WMUR debates planned before the New Hampshire primary.[25] "We've had five great debates in this campaign. Unfortunately, Donald Trump has ducked all of them," she wrote on X, adding: "He has nowhere left to hide. The next debate I do will either be with Donald Trump or with Joe Biden. I look forward to it."[25] CNN instead scheduled a town-hall event with Haley for that Thursday.[25]

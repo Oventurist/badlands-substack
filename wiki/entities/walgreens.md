@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pharmacy, vaccines, covid-19, retail]
-sources: [raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-news-brief-b24.md, raw/badlands-news-brief-f39.md]
 confidence: medium
 ---
 
@@ -16,3 +16,9 @@ In late August 2025, Walgreens and rival chain [[cvs-health|CVS]] moved to restr
 
 ## References
 1. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+
+## GOP attorneys general warning on mailed abortion pills (2023)
+
+On February 1, 2023, twenty Republican state attorneys general jointly warned Walgreens and [[cvs-health|CVS]] that plans to distribute abortion pills by mail would violate both state and federal law.[2] Missouri Attorney General [[andrew-bailey|Andrew Bailey]] led the effort and argued in the letter that federal law expressly prohibits using the mail to send or receive any drug intended to produce an abortion.[2] See [[2023-attorneys-general-warning-on-mailed-abortion-pills|the 2023 attorneys general warning]].[2]
+
+2. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39

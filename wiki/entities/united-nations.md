@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, un-charter, international-law, fdr]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-094.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -91,7 +91,20 @@ In July 2023, The Gateway Pundit — relaying reporting by The Federalist — al
 
 [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] described the U.N. as "the granddaddy of all slimy, corrupt globalist institutions" pursuing the same objective already sought via the [[pandemic-treaty|Pandemic Treaty]] and the proposed amendments to the [[international-health-regulations|International Health Regulations]], and warned that temporary emergency authority could become "a stepping stone toward establishing a permanent world-governing body."[13] He expressed skepticism that the plan would succeed, citing armed American military and veterans committed to national sovereignty, and framed gun-control pressure as related to that obstacle.[13]
 
+## 2025 report on unread UN reports
+
+A UN study released in 2025 found that most of the more than 1,000 reports the organization produces each year are barely read, a disclosure that came as the UN marked its 80th anniversary amid what observers described as a deepening identity crisis.[14] The Secretariat published 1,100 reports in the prior year — a 20% increase since 1990 — and supported 27,000 meetings involving 240 entities.[14] The top 5% of reports were downloaded more than 5,500 times while one in five received fewer than 1,000 downloads.[14]
+
+## May 2024 revision of Gaza casualty figures
+
+In May 2024 the United Nations halved its published estimate of Palestinian women and children killed in Gaza, calling into question figures widely used by international news outlets and governments to criticize Israel's war against [[hamas|Hamas]].[16] On 6 May the UN published data showing 34,735 people reportedly killed, including over 9,500 women and over 14,500 children; on 8 May it published data showing 34,844 killed, including 4,959 women and 7,797 children.[16] The revision followed months of accusations from leading statisticians that figures produced by Gazan authorities could not possibly be accurate.[16]
+
+[[david-adesnik|David Adesnik]] of the [[foundation-for-defense-of-democracies|Foundation for Defense of Democracies]] said the change might signal that the UN had finally recognized the lack of evidence behind Hamas's original claims, and urged the organization to state clearly that it had lost confidence in sources whose credibility it had affirmed for months.[16] Asked about the change by the [[jewish-news-syndicate|Jewish News Syndicate]], UN officials blamed the "fog of war."[16]
+
+[[badlands-media|Badlands Media]] commentary by [[ashe-in-america|Ashe in America]] argued that if the "fog of war" explanation is accepted then nothing the UN publishes should be believed going forward, and predicted the correction would be largely ignored by the truth community because the underlying information operation had been effective.[16]
+
 ## References
+
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 3. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
@@ -105,3 +118,13 @@ In July 2023, The Gateway Pundit — relaying reporting by The Federalist — al
 11. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 12. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
 13. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+14. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+
+## Arab and Islamic suspension push (September 2025)
+
+In September 2025 Arab and Islamic leaders called for [[israel|Israel]] to be suspended from the United Nations over alleged violations of the organization's charter, following Israel's campaign in [[gaza|Gaza]] and an airstrike on Doha that killed six people including a Qatari security officer.[15] Meeting in emergency summit in Doha, the [[arab-league|League of Arab States]] and the [[organization-of-islamic-cooperation|Organization of Islamic Cooperation]] urged member nations to "consider the compatibility of Israel's membership in the UN with its Charter" and to coordinate suspension efforts, while also calling on all states to review diplomatic and economic ties with Israel and adopt sanctions and arms and dual-use export suspensions.[15]
+
+Badlands commentary noted the irony that the UN itself created Israel in 1947 through the [[un-partition-plan-for-palestine|Partition Plan of Palestine]], and predicted that an actual suspension would prompt the Republican-led Congress to withdraw the United States from the organization, likely rendering it financially insolvent.[15] The episode is covered at [[arab-and-islamic-call-for-israels-suspension-from-the-united-nations|the Arab and Islamic call for Israel's suspension from the United Nations]].[15]
+
+15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+16. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, independent-media, tucker-carlson, twitter, censorship]
-sources: [raw/badlands-news-brief-275.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-72e.md]
+sources: [raw/badlands-news-brief-275.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -38,8 +38,13 @@ The platform's reach peaked with Carlson's interview of [[donald-trump|Donald Tr
 
 [[ashe-in-america|Ashe in America]] noted that the interview surpassed the Tate record by at least 50 million views, and that the margin of that victory alone exceeded the roughly 24 million people who watched the GOP debate — itself reported as an unprecedented audience for a primary debate, against a prior record of 19.7 million.[2] She read the result as proof that "Trump's communication strategy is brilliant" and that the balance of power had shifted: "Mainstream media is dead. New media is now mainstream."[2] American Greatness argued the figures showed Trump's pulse on the cultural trajectory of the country in a way no rival candidate could replicate, coming as his primary polling margins exceeded fifty percentage points despite his latest arraignment.[2]
 
+## Episode 15: Steven Sund interview
+
+Episode 15 of the program featured former Capitol Police Chief [[steven-sund|Steven Sund]] describing what he said really happened on January 6.[4] [[ashe-in-america|Ashe in America]] wrote that the episode was lost amid an insane news week but was of major significance, since Sund's account had previously been suppressed — [[fox-news|Fox News]] refused to air Carlson's earlier interview with him, and [[60-minutes|60 Minutes]] used less than ten minutes of his side of the story.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
 2. Badlands Brief — "Trump Surrenders ... Or Does He?", URL: https://badlands.substack.com/p/badlands-news-brief-4b1
 3. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
+4. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

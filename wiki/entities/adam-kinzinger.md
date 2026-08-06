@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, january-6, investigations, republican]
-sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d56.md]
 confidence: low
 ---
 
@@ -28,8 +28,13 @@ After [[tucker-carlson|Tucker Carlson]] aired footage relating to January 6 that
 
 On August 21, 2023, after [[tucker-carlson|Tucker Carlson]] posted video of a meeting with a Serbian diplomatic delegation, Kinzinger called him "a traitor to the US" on Twitter.[4] Hours later Carlson released an interview with retired Colonel [[douglas-macgregor|Douglas Macgregor]] arguing that the Ukraine war had to end and that Ukraine was losing badly.[4] Badlands contributor [[ashe-in-america|Ashe in America]] predicted Kinzinger would attack the decorated combat veteran as well, wrote that the former lawmaker's participation in what she called the sham [[january-6-committee|January 6 Committee]] coverup "is actually treason," and argued that like other establishment "oath breakers" he was projecting his own crimes onto truth-tellers — a tactic she said had stopped working as roughly two-thirds of the public became wise to government corruption.[4]
 
+## Reaction to Cuomo's hush money remarks (2024)
+
+Kinzinger appeared on the June 2024 episode of *Real Time With Bill Maher* on which [[andrew-cuomo|Andrew Cuomo]] said the New York hush money case against [[donald-trump|Donald Trump]] should never have been brought, and Badlands commentary singled out his facial expression at the end of the clip as the most telling moment.[5] The commentary argued that Kinzinger destroyed his political career by investing all of his credibility in the House Select Committee on the January 6 Attack, describing the J6 committee as the coverup of J6 and J6 itself as the coverup of November 3.[5] It further asserted that Kinzinger betrayed his constituents and the American people by co-signing Nancy Pelosi's political theater, leaving him "a meme, a talkie, and a man without power."[5]
+
 ## References
 1. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
 2. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 3. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 4. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+5. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56

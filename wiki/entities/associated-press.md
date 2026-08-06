@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, wire-service, legacy-media]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e99.md]
 confidence: medium
 ---
 
@@ -33,3 +33,21 @@ The AP's report on [[2024-trump-return-to-capitol-hill|Donald Trump's return to 
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 3. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 4. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
+
+## June 2023 Pentagon accounting report
+
+The Associated Press reported the [[pentagon|Pentagon]]'s 20 June 2023 disclosure that it had overvalued weapons sent to Ukraine by $6.2 billion, quoting spokeswoman [[sabrina-singh|Sabrina Singh]] and noting that the department consequently held additional money for Ukraine as congressional funding was dwindling.[5] Badlands writer [[justin-deschamps|Justin Deschamps]] criticized the wire service for framing the surplus as a "silver lining."[5] See [[2023-pentagon-ukraine-aid-accounting-error|2023 Pentagon Ukraine aid accounting error]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+
+## Supreme Court ethics reporting
+
+In July 2023 the Associated Press reported, on the basis of more than 100 open records requests to public institutions, that staff for Justice [[sonia-sotomayor|Sonia Sotomayor]] had repeatedly prodded institutions hosting her to buy her books — the [[sotomayor-book-sales-controversy|Sotomayor book sales controversy]].[6] The resulting tens of thousands of pages of documents were described as a rare look at the justices beyond their official duties.[6]
+
+6. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## White House access ban and lawsuit (2025)
+
+In February 2025 the AP was banned from covering White House events and travelling aboard Air Force One over its refusal to adopt "Gulf of America" in place of "Gulf of Mexico" in its style guide, and it sued press secretary [[karoline-leavitt|Karoline Leavitt]] and other officials in response.[7] U.S. District Judge [[trevor-mcfadden|Trevor McFadden]] declined to restore access immediately, placing the case on an expedited track while leaving the ban in force, and the [[white-house|White House]] responded that questioning the president in the Oval Office and aboard Air Force One "is a privilege granted to journalists, not a legal right."[7] Days later Leavitt announced that the White House rather than the [[white-house-correspondents-association|White House Correspondents' Association]] would henceforth select the press pool, ending a century of practice.[7] See [[associated-press-white-house-access-ban|Associated Press White House access ban]].[7]
+
+7. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99

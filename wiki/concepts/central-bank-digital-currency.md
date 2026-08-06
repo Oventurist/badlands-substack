@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cbdc, digital-currency, blockchain, monetary-policy, federal-reserve]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -54,9 +54,15 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Bur
 
 In March 2024 the global bank messaging network [[swift|SWIFT]] told Reuters it planned to launch within one to two years a new platform connecting the wave of CBDCs then in development to the existing financial system, a step described as one of the most significant yet for the nascent CBDC ecosystem.[5] Roughly 90% of the world's central banks were reported to be exploring digital versions of their currencies, most anxious not to be left behind by bitcoin and other cryptocurrencies while grappling with technological complexity.[5] SWIFT innovation head [[nick-kerigan|Nick Kerigan]] said a six-month trial with a 38-member group of central banks, commercial banks and settlement platforms had focused on making different countries' CBDCs interoperable across differing protocols, reducing payment system fragmentation risk.[5] Badlands writer [[burning-bright|Burning Bright]] read the announcement alongside the [[securities-and-exchange-commission|SEC]]'s courtroom win over [[coinbase|Coinbase]], noting that the SEC treats only bitcoin as a commodity and asking whether, with [[donald-trump|Trump]] pledging to block CBDCs, the banks might be undone by their own securities laws.[5]
 
+
+## Project Cedar and Executive Order 14067
+
+In January 2023 the [[badlands-news-brief|Badlands News Brief]] highlighted the [[federal-reserve-bank-of-new-york|New York Federal Reserve]]-sponsored [[project-cedar|Project Cedar]] pilot, agreed to in November 2022 by banks including Wells Fargo, Citigroup, HSBC and Mastercard, as a possible pathway to a new type of U.S. dollar.[6] [[ryan-delarme|Ryan DeLarme]], citing macroeconomist and CIA advisor [[jim-rickards|Jim Rickards]], wrote that Project Cedar together with [[executive-order-14067|Executive Order 14067]] could be one of several avenues leading to a new currency, and that overthrowing the U.S. dollar in favor of a trackable central bank digital currency was a critical part of the Davos agenda.[6]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 3. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
 4. Badlands Brief — "Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth", URL: https://badlands.substack.com/p/badlands-news-brief-2b8
 5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+6. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

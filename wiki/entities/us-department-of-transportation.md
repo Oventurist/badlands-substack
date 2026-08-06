@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [department-of-transportation, federal-agency, hazardous-materials, pete-buttigieg]
-sources: [raw/badlands-news-brief-34a.md, raw/badlands-news-brief-4a9.md]
+sources: [raw/badlands-news-brief-34a.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -26,3 +26,12 @@ On Wednesday, February 26, 2025 the department sent a letter to top New York tra
 
 1. Badlands News Brief — "Musk Investigated, Fauci Exposed & Committees Engaged", URL: https://badlands.substack.com/p/badlands-news-brief-34a
 2. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
+
+## Automatic airline refund rule (April 2024)
+
+On Wednesday, April 24, 2024, the Biden administration issued final rules requiring airlines to automatically issue cash refunds for canceled flights and significant delays and to better disclose fees for baggage and reservation cancellations.[3] The Transportation Department said airlines would have to provide automatic cash refunds within a few days of a qualifying disruption.[3]
+
+Under the prior regulatory framework, airlines themselves determined how long a delay had to last before refunds were triggered; the [[dot-airline-refund-rule|new rule]] eliminated that discretion by defining a significant delay as at least three hours for domestic flights and six hours for international ones.[3] Airlines remained free to offer an alternative flight or travel credit, but passengers were given the right to refuse and take cash instead.[3] Badlands commentary treated the measure, alongside the FTC's [[noncompete-agreement-ban|noncompete ban]], as a rare public-facing win for the administration that nonetheless entrenched administrative agency authority over private enterprise.[3]
+
+
+3. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

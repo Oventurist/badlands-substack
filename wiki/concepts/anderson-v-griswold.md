@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, fourteenth-amendment, colorado, ballot-access, supreme-court]
-sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b92.md]
+sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b92.md, raw/badlands-news-brief-d5c.md]
 confidence: medium
 ---
 
@@ -46,8 +46,16 @@ On Friday evening, 17 November 2023, Judge [[sarah-wallace|Sarah Wallace]] issue
 
 [[ashe-in-america|Ashe in America]] argued that the significance of the case lay not in ballot access — which lawyers regarded as settled in Trump's favour absent an attempt by [[jack-smith|Jack Smith]] or [[fani-willis|Fani Willis]] to build upon it — but in [[lawfare|lawfare]], since the first 95 pages of the opinion affirmed the January 6 committee narrative, "the pseudo-science of far right extremism, thought crimes, speech crimes, and the Fourteenth Amendment being superior to the First."[4] Because the outcome was technically a win, she expected no appeal, while hoping that a motion to intervene filed by [[treniss-evans|Treniss Evans]] might be granted if the petitioners did appeal.[4] She also noted the timing of the [[january-6-capitol-security-footage-release|release of January 6 Capitol security footage]] hours before the ruling, arguing the videos directly undercut the court's insurrection conclusions.[4]
 
+## Aftermath of the Colorado Supreme Court ruling
+
+Following the Colorado Supreme Court's 4–3 decision of December 19, 2023, the case was cited immediately in other states: California Lieutenant Governor [[eleni-kounalakis|Eleni Kounalakis]] wrote to Secretary of State [[shirley-weber|Shirley Weber]] on December 20 asking her to "explore every legal option" to remove Trump from California's ballot, citing the holding in Anderson v. Griswold (2023 CO 63) that Trump's insurrection disqualifies him under Section 3 of the Fourteenth Amendment.[5]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued that the intervenors' central failure was that they had not yet explicitly argued against the insurrection findings in either proceeding, which she said made the progressive courts' rulings easy.[5] She listed the specific holdings that must be contested on appeal: that the district court did not abuse its discretion in admitting portions of Congress's January 6 Report into evidence; that the events at the U.S. Capitol on January 6, 2021 constituted an insurrection; that Trump engaged in that insurrection through his personal actions; and that his speech inciting the crowd was not protected by the First Amendment.[5] In her assessment, a ruling confined to the applicability of the Fourteenth Amendment would be unacceptable, because the case "has never been about ballot access" but about stage setting for further prosecutions — she pointed to [[tina-peters|Tina Peters]]' upcoming court appearance and asked what future event might next be labelled an insurrection.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 2. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 3. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+4. Badlands News Brief — URL: https://badlands.substack.com/p/badlands-news-brief-b92
+5. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c

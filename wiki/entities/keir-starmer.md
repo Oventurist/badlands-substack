@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [uk, syria, media-narrative]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-739.md, raw/badlands-brief-b56.md, raw/badlands-brief-b62.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a65.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-05f.md, raw/badlands-brief-282.md, raw/badlands-brief-4ec.md, raw/badlands-brief-739.md, raw/badlands-brief-b56.md, raw/badlands-brief-b62.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -99,6 +99,23 @@ Starmer met President [[donald-trump|Donald Trump]] at the White House in late F
 
 Starmer said the UK was "ready to put boots on the ground and planes in the air to support a deal, working together with our allies, because that is the only way that peace will last."[18] Trump declined to guarantee U.S. backup for British forces deployed to Ukraine, saying British troops "can take care of themselves" and "don't need much help," and sidestepping a question about support in the event of clashes with Russian forces.[18] Badlands contributors mocked Starmer's performance, with one writing that Trump had "spanked" him and expressing a preference for [[nigel-farage|Nigel Farage]], and another concluding that the episode marked the end of "the illusion of Europe."[18]
 
+## Discussions on long-range missiles for Ukraine (September 2024)
+
+On Friday, September 13, 2024, Starmer and President [[joe-biden|Joe Biden]] discussed allowing Ukraine to use long-range European-made cruise missiles to strike targets deep inside Russia, according to US and Western officials.[19] Western backers had until then balked at permitting Kyiv to use long-range weapons such as the British-French Storm Shadow inside Russian territory for fear of escalating the conflict, with particular concern that [[vladimir-putin|Vladimir Putin]] could retaliate by arming the Yemen-based [[houthis|Houthi]] rebels attacking shipping in the Red Sea.[19] Putin warned the United States and its allies that permitting such strikes would mean [[nato|NATO]] countries were "at war" with Russia; asked about that warning shortly before his White House meeting with Starmer, Biden said, "I don't think much about Vladimir Putin."[19]
+
+## Congratulating Trump on the 2024 election
+
+Starmer, the Labour prime minister of the United Kingdom, congratulated [[donald-trump|Donald Trump]] on a "historic election victory" in November 2024, posting on X: "As the closest of allies, we stand shoulder to shoulder in defense of our shared values of freedom, democracy and enterprise. From growth and security to innovation and tech, I know that the UK-US special relationship will continue to prosper on both sides of the Atlantic for years to come."[20] Badlands writer [[burning-bright|Burning Bright]] grouped Starmer with Emmanuel Macron and the Brussels institutions among the world leaders lining up to pay respects to the president-elect.[20]
+
+## Recognition of Palestinian statehood (September 2025)
+
+On a Sunday in late September 2025 Starmer announced that the United Kingdom, alongside Canada and Australia, recognized the state of Palestine, saying the move was intended "to revive the hope of peace for the Palestinians and Israelis."[21] In a video message posted on X he said, "We recognized the state of Israel more than 75 years ago as a homeland for the Jewish people. Today we join over 150 countries who recognize a Palestinian state also. A pledge to the Palestinian and Israeli people that there can be a better future."[21] He insisted the recognition was not a reward for [[hamas|Hamas]], which carried out the 7 October 2023 attack on Israel that killed some 1,200 people, mostly civilians, and led to 251 abductions.[21] Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] rejected the move, vowing that "a Palestinian state will not be established west of the Jordan River."[21]
+
+
+## Response to the August 2024 riots
+
+On Monday, August 5, 2024, Starmer said that a "standing army" of specialist police would be established to deal with rioting and that the justice system would be ramped up to handle hundreds of arrests, after violent disorder rocked cities across Britain over the preceding week.[22] He convened an urgent meeting over lawlessness he attributed to "far-right thuggery," driven in part by social-media misinformation that inflamed anger over a stabbing rampage at a dance class which killed three girls and wounded ten people; false rumours that the suspect was a Muslim asylum-seeker preceded attacks on immigrants and mosques.[22] "Whatever the apparent motivation, this is not protest. It is pure violence and we will not tolerate attacks on mosques or our Muslim communities," Starmer said, adding that "the full force of the law will be visited on all those who are identified as having taken part in these activities."[22] The statement followed a Sunday in which mobs attacked two hotels housing asylum-seekers and dozens of police officers were hospitalised over six days.[22] See [[southport-riots|the Southport riots]].[22]
+
 ## References
 
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -119,3 +136,7 @@ Starmer said the UK was "ready to put boots on the ground and planes in the air 
 16. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 17. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 18. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
+19. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14
+20. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37
+21. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+22. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

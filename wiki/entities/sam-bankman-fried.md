@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, litigation, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bbc.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bbc.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -79,6 +79,18 @@ On Saturday, July 19, 2025, [[ftx|FTX]]'s native token FTT surged roughly 43 per
 
 On Thursday, November 2, 2023, after 15 days of testimony and roughly four and a half hours of deliberation, a jury in a lower Manhattan courtroom found Bankman-Fried guilty on all seven counts of fraud and money laundering.[11] U.S. District Judge [[lewis-kaplan|Lewis Kaplan]] had read the jury about 60 pages of instructions before the case was handed over at approximately 3:15 p.m.[11] Sentencing was scheduled for March 28, with Bankman-Fried facing more than 100 years in prison if given the maximum on all counts; he indicated he would appeal.[11] The trial concluded far faster than the anticipated run through Thanksgiving.[11] The 31-year-old MIT graduate and son of two Stanford legal scholars, who founded [[ftx|FTX]] in 2019 two years after forming [[alameda-research|Alameda Research]], had pleaded not guilty to all charges.[11]
 
+## Bail restrictions and gag order, July 2023
+
+On Wednesday, July 26, 2023, U.S. District Judge [[lewis-kaplan|Lewis Kaplan]] tightened Bankman-Fried's bail conditions by restricting his ability to communicate publicly, and said he would consider jailing him before the trial over the collapse of the [[ftx|FTX]] cryptocurrency exchange.[12] At the hearing in Manhattan federal court, prosecutors asked Kaplan to detain the 31-year-old immediately, saying he had "crossed a line" by sharing the personal writings of his former romantic partner [[caroline-ellison|Caroline Ellison]] with a reporter, in what they said amounted to a second instance of witness tampering.[12] Kaplan imposed the gag order prosecutors had previously requested and gave both sides until August 3 to explain their views on whether jail was necessary, telling the defendant, "I'm very mindful of the government's interest in this issue, which I take seriously. Mr. Bankman-Fried, you'd better take it seriously too."[12]
+
+Defense lawyer Mark Cohen said his client had been trying merely to protect his reputation by communicating with journalists, and that it "really would be almost impossible" to prepare for the October 2 trial if Bankman-Fried were jailed.[12] Since his extradition in December from the Bahamas, where FTX was based and where he had been arrested, Bankman-Fried had been largely confined to his parents' home in Palo Alto, California.[12] [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] described the prospect of jailing him only after a second tampering allegation as "a half-hearted virtue signal by the judge," argued that the preferential treatment he had received since news of his fraud broke had already destroyed public confidence that he would get a legitimate trial, and contrasted his lawyers' complaints with the pretrial detention of January 6 defendants.[12]
+
+## Bail revocation, August 2023
+
+A federal judge revoked Bankman-Fried's bail in August 2023, citing probable cause that the accused crypto fraudster had attempted to tamper with witnesses.[13] He was remanded, at least temporarily, to the Metropolitan Detention Center in Brooklyn while the parties worked out how he would review discovery materials ahead of a trial scheduled for October; following the ruling, U.S. marshals handcuffed him and escorted him from the courtroom.[13]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] observed that the news was lost in the shuffle of a hectic weekend dominated by island fires and special counsels.[13] He argued that while Bankman-Fried was not one of the "puppet masters" of what he called the Globalist [[deep-state|Deep State]], his entire financial operation was "surely a key node in their centralized machine," and that seeing true justice visited on such a node provided light in the darkness — with "plenty more where that came from."[13]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
@@ -92,3 +104,5 @@ On Thursday, November 2, 2023, after 15 days of testimony and roughly four and a
 9. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 10. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 11. Badlands Brief — "Badlands News Brief: Israel's Package, Biden's Border and Putin's Nukes", URL: https://badlands.substack.com/p/badlands-news-brief-bbc
+12. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
+13. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

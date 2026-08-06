@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sudan, africa, conflict, evacuation, state-department]
-sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -38,8 +38,14 @@ Badlands contributor [[burning-bright|Burning Bright]] argued that headlines abo
 
 In February 2025 Sudanese Foreign Minister Ali Youssef Ahmed Al-Sharif confirmed in Moscow, alongside Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]], that Khartoum and Moscow had agreed on the establishment of a [[russian-naval-base-in-sudan|Russian naval base]] on Sudan's Red Sea coast, saying "we have agreed on everything."[3] The facility, first proposed in December 2020, is to serve as a logistical support hub for ship repairs and resupply, limited to 300 personnel and four vessels at a time.[3] Lavrov used the occasion to call for a swift cessation of hostilities and an inclusive national dialogue on the conflict between the [[sudanese-armed-forces|Sudanese Armed Forces]] and the [[rapid-support-forces|Rapid Support Forces]], without external interference.[3]
 
-## References
+## Trump pledge of involvement and the naval base thesis (November 2025)
 
+On November 19, 2025, President [[donald-trump|Donald Trump]] said he would start "working" on the war in Sudan after Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] asked him to help end the conflict during a visit to the United States.[4] Since its outbreak in April 2023, the war between [[sudanese-armed-forces|Sudan's army]] and the paramilitary [[rapid-support-forces|Rapid Support Forces]] has killed tens of thousands of people and displaced nearly 12 million; Trump condemned the "tremendous atrocities" and said he would work with Saudi Arabia, the United Arab Emirates and Egypt to end the conflict.[4]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] tied the request to Russian involvement, restating a theory advanced since 2023 that the civil war began because the Sudanese government — against the wishes of the Biden administration and the [[state-department|State Department]] — approved plans for construction of a [[russian-naval-base-in-sudan|Russian naval base]] at Sudan's main port, which would be Russia's first formal military installation on African soil.[4] The United States closed its embassy in Sudan in 1996 and ended diplomacy with its government until Joe Biden restarted the mission in early 2022; ambassador [[john-godfrey|John Godfrey]] arrived in August 2022 and, per the commentary, immediately threatened sanctions if Sudan accepted Russia's proposal.[4] Sudan announced acceptance in February 2023 and civil war broke out roughly two months later, after which Godfrey and his staff were evacuated.[4]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
 2. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 3. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+4. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

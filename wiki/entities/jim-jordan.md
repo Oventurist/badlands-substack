@@ -1,10 +1,10 @@
 ---
-title: Jim Jordan
+title: "Jim Jordan"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-judiciary, oversight, jack-smith]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-ddb.md]
 confidence: medium
 ---
 
@@ -151,3 +151,25 @@ In April 2023, as chairman of the [[house-judiciary-committee|House Judiciary Co
 24. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
 25. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 26. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## July 2023 Wray hearing
+
+As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jordan presided over [[christopher-wray|Christopher Wray]]'s July 12, 2023 appearance — the FBI director's first before the panel since Republicans won the House — saying the committee would "examine the politicization" of the [[fbi|FBI]] under Wray and Attorney General [[merrick-garland|Merrick Garland]].[27]
+
+27. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## Trump endorsement in the October 2023 speaker race
+
+Following [[kevin-mccarthy|Kevin McCarthy]]'s removal, former President [[donald-trump|Donald Trump]] — who had briefly teased his own candidacy — endorsed Jordan's bid for Speaker of the House.[28] Representative [[troy-nehls|Troy Nehls]] of Texas announced the endorsement on X, writing: "Just had a great conversation with President Trump about the Speaker's race. He is endorsing Jim Jordan, and I believe Congress should listen to the leader of our party. I fully support Jim Jordan for Speaker of the House."[28] Trump was also reported to be attending a closed GOP House candidate forum the following Tuesday.[28] At the time Jordan chaired both the [[house-judiciary-committee|House Judiciary Committee]] and the [[select-subcommittee-on-the-weaponization-of-the-federal-government|Select Subcommittee on the Weaponization of the Federal Government]].[28] See [[2023-speaker-of-the-house-election|2023 Speaker of the House election]].[28]
+
+28. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
+
+## FBI document production on the January 6 pipe bombs (March 2025)
+
+As Chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jordan sent a letter to [[fbi|FBI]] Director [[kash-patel|Kash Patel]] concerning information and documents that he said had been withheld under former Director [[christopher-wray|Christopher Wray]], calling for "transparency and accountability" at the bureau.[29] In a letter dated March 7, 2025, FBI Assistant Director Marshall Yates responded by transmitting documents and information about the alleged pipe bombs found near Democratic and Republican headquarters in Washington in January 2021, the FBI's communications with social media companies, and investigations into threats against school officials.[29] "As a sign of good faith, we are providing this initial production more than a week ahead of the Committee's subpoena deadline," Yates wrote, adding that further productions would follow as the bureau worked to comply fully with the subpoenas; documents sent to Jordan's office would carry "minimal redactions" to protect sensitive law enforcement information.[29]
+
+Badlands writer [[ashe-in-america|Ashe in America]] observed that the FBI was promising to comply only after reviewing and redacting to protect itself, and framed the episode as a test of accountability expectations raised by [[donald-trump|Donald Trump]] and allies such as Patel and Jordan.[29] She credited Jordan with staying laser-focused on judicial corruption and hammering the record with evidence of generational government crime, while warning that he had "run up a high tab on good faith" and that it was time for results.[29] See [[fbi-subpoenaed-document-production-to-the-house-judiciary-committee|FBI subpoenaed document production to the House Judiciary Committee]].[29]
+
+Separately in March 2025, spokespeople for Jordan and Speaker [[mike-johnson|Mike Johnson]] did not immediately respond to requests for comment on which committees would lead Johnson's announced congressional probe into attacks on [[tesla|Tesla]].[29]
+
+29. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb

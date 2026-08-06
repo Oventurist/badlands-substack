@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, opposition, navalny, poisoning]
-sources: [raw/badlands-news-brief-732.md]
+sources: [raw/badlands-news-brief-732.md, raw/badlands-news-brief-ea1.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Navalnaya demanded that the laboratories publicly release their findings about w
 
 Badlands contributor [[chris-paul|Chris Paul]] noted the story's re-emergence in September 2025 shortly after he had cited it as a parallel model for what he characterized as the practice of political figures being replaced through the elevation of their wives.[1]
 
+## Munich Security Conference address (February 2024)
+
+Hours after news broke of the death of her husband [[alexei-navalny|Alexei Navalny]] on February 16, 2024, Navalnaya addressed the [[munich-security-conference|Munich Security Conference]] from its main stage.[2] "I don't know whether to believe the news, the terrible news, which we are only getting from state-controlled sources in Russia," she said, adding that "for many years we've been unable to believe Putin and his government. They always lie."[2] If the report proved true, she said, she wanted [[vladimir-putin|Vladimir Putin]] "and everyone around him, his friends and his government, to know that they will be held responsible for what they have done to our country, to my family, and to my husband," concluding that "the day of reckoning will come very soon."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: A Terror Designation & A Breath of Fresh Air", URL: https://badlands.substack.com/p/badlands-news-brief-732
+2. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1

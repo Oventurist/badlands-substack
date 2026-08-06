@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, israel, netanyahu, democrats]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-c6a.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-8c2.md, raw/badlands-brief-990.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-50a.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-c6a.md, raw/badlands-news-brief-e48.md]
 confidence: medium
 ---
 
@@ -99,6 +99,10 @@ In March 2025, Schumer defied calls to step down as Senate minority leader after
 
 [[ashe-in-america|Ashe in America]] wrote that the episode is "what happens when you, for political power, create a monster you can't control," pointing to a Bernie Sanders–AOC rally in Denver where attendees were recorded calling for assassinations of political leaders, and cautioned that while Schumer was "getting his just desserts," the activists were "legitimately dangerous" and he should not underestimate them.[20]
 
+## September 2025 shutdown appeal
+
+On 21 September 2025 Schumer publicly urged President [[donald-trump|Donald Trump]] to meet with Democrats and negotiate a bipartisan funding bill to avoid a lapse in appropriations, telling CNN's *State of the Union*, "I hope and pray that Trump will sit down with us and negotiate a bipartisan bill."[21] His push came days before the 30 September funding deadline and after the Senate had rejected both Republican and Democratic stopgap proposals, raising the likelihood of the [[october-2025-government-shutdown|October 2025 government shutdown]].[21]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -121,3 +125,4 @@ In March 2025, Schumer defied calls to step down as Senate minority leader after
 18. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 19. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 20. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a
+21. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48

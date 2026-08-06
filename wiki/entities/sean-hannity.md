@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, fox-news, commentator, newsom]
-sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-1cc.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-e38.md]
 confidence: low
 ---
 
@@ -25,3 +25,9 @@ On Monday, July 31, 2023, Hannity hosted House Oversight chairman [[james-comer|
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
+
+
+## Israel messaging after the Cruz interview (June 2025)
+Following [[ted-cruz|Ted Cruz]]'s widely criticized June 2025 interview with [[tucker-carlson|Tucker Carlson]] over scriptural justifications for supporting Israel, Badlands commentator [[chris-paul|Chris Paul]] wrote that "Sean Hannity was assigned to clean up Cruz's mess on Israel."[3]
+
+3. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

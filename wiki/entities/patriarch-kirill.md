@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, orthodox-church, ukraine, religion, moscow-patriarchate]
-sources: [raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d74.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ Kirill has strongly supported the war against Ukraine, framing it as a metaphysi
 
 Many Ukrainians nonetheless remained skeptical that the church had fully cut its ties to Kirill, a suspicion that helped drive legislation advanced by the [[verkhovna-rada|Verkhovna Rada]] in October 2023 to prohibit religious organizations affiliated with management centers located in a state carrying out armed aggression against Ukraine.[1] The church's leader, Metropolitan Onufry, countered that it was the "sacred duty" of every believer to defend Ukraine.[1]
 
+## Remarks on gender transition (January 2025)
+
+In a televised interview aired on Orthodox Christian Christmas in January 2025, Kirill — head of the [[russian-orthodox-church|Russian Orthodox Church]] — said Western acceptance of gender reassignment surgery "smells of apocalypse," criticizing the trend as a sign of moral decay and reaffirming Russia's commitment to its own spiritual traditions.[2] He said such practices were "against God's law" and would never be accepted in Russia so long as its people remained faithful to their millennia-old heritage.[2] Kirill added that observers "are astonished that we are building churches – 400 in Moscow alone," contrasting this with Western churches repurposed "in the best case into mosques, and in the worst case into entertainment venues."[2] The interview followed Russia's November 2024 ban on adoptions to countries permitting gender-reassignment procedures.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+2. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74

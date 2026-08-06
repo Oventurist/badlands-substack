@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gun-rights, trump, endorsement, second-amendment]
-sources: [raw/badlands-news-brief-09d.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-e48.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ As the speech wound down, sentimental instrumental music began to play and Trump
 
 Badlands contributor [[burning-bright|Burning Bright]] focused on one aside from the NRA speech — "You know there is a genius to what I'm doing. You do know that? I go from here to there, and it all comes back into a beautiful picture." — treating it as direct acknowledgement that Trump's public speaking style is highly intentional.[1]
 
+## NRA v. Vullo
+
+The organization was the plaintiff in [[national-rifle-association-of-america-v-vullo|National Rifle Association of America v. Vullo]], in which it sued the New York Department of Financial Services alleging that superintendent [[maria-vullo|Maria Vullo]] had violated the First Amendment by coercing DFS-regulated insurance companies and banks out of doing business with the NRA in order to punish or suppress its gun-rights advocacy.[2] The [[supreme-court-of-the-united-states|Supreme Court]] ruled unanimously in the NRA's favor, with Justice [[sonia-sotomayor|Sonia Sotomayor]] writing that government officials cannot attempt to coerce private parties in order to punish or suppress views the government disfavors.[2] The precedent was invoked in September 2025 against suggestions by President [[donald-trump|Donald Trump]] and [[federal-communications-commission|FCC]] Chairman [[brendan-carr|Brendan Carr]] that broadcaster licenses could be revoked over disfavored on-air views.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
+2. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48

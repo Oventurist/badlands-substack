@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, tabloid]
-sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -28,8 +28,12 @@ In September 2023 the New York Post obtained and published a December 18, 2015 [
 
 In an August 7, 2025 editorial, the New York Post editorial board urged President [[donald-trump|Donald Trump]] to back Mayor [[eric-adams|Eric Adams]] should he involve himself in that year's mayoral race, arguing that Adams's commitment to public safety and civic pride had earned him a second term in Gracie Mansion.[3] The board praised him for standing up to left-wing legislators in Albany and the City Council and credited his tenure with the lowest number of shootings on record for the first half of 2025, while warning that socialist candidate [[zohran-mamdani|Zohran Mamdani]] would hobble the [[new-york-city-police-department|NYPD]] and reverse those gains.[3]
 
-## References
+## Trump crime platform coverage (2024)
 
+The New York Post reported on August 20, 2024 that [[donald-trump|Donald Trump]]'s campaign was rolling out plans to get tougher on crime, including pursuing the death penalty for child rapists, felony charges for doctors performing transgender surgeries on minors without parental consent, and a nationwide return to [[stop-and-frisk|stop-and-frisk]].[4] The paper quoted Trump accusing [[kamala-harris|Kamala Harris]] of an "anti-police crusade" and vowing, "We'll re-fund the police."[4]
+
+## References
 1. Badlands News Brief — "Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-virgin-islands, epstein, litigation, subpoena, caribbean]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ea7.md]
 confidence: medium
 ---
 
@@ -46,6 +46,10 @@ The territory held Republican presidential caucuses on February 8, 2024, going t
 
 In its lawsuit against [[jpmorgan-chase|JPMorgan]], the U.S. Virgin Islands claimed in September 2023 that the bank had flagged over $1 billion in suspicious transactions tied to [[jeffrey-epstein|Jeffrey Epstein]] and reported them to the federal government in a 2019 Treasury filing.[6] Territory attorney Mimi Liu told a federal court in Manhattan that "JPMorgan was a full-service bank for Jeffrey Epstein's sex trafficking," arguing that the sum bolstered the territory's allegation that the bank knowingly benefited from Epstein's wrongdoing.[6] Epstein had trafficked some of his victims to a private island in the USVI, and the territory had previously told the judge the bank facilitated over $1.1 million in payments from him to "girls or women," many with Eastern European surnames.[6]
 
+## Suit against JPMorgan survives dismissal (March 2023)
+
+The territory filed suit against [[jpmorgan-chase|JPMorgan Chase & Co.]] in December 2022 over the bank's relationship with [[jeffrey-epstein|Jeffrey Epstein]], a month after two women identified as "Jane Doe" brought federal class actions against JPMorgan and [[deutsche-bank|Deutsche Bank]].[7] On March 20, 2023, U.S. District Judge [[jed-rakoff|Jed Rakoff]] ruled that the Virgin Islands could pursue its claim that JPMorgan "knowingly benefited from participating in a sex-trafficking venture," allowing the case to proceed past the banks' motions to dismiss.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
@@ -53,3 +57,4 @@ In its lawsuit against [[jpmorgan-chase|JPMorgan]], the U.S. Virgin Islands clai
 4. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 5. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 6. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+7. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7

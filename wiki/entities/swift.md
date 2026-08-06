@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, banking, cbdc, payments]
-sources: [raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ Around 90% of the world's central banks were reported to be exploring digital ve
 
 Badlands Media writer [[burning-bright|Burning Bright]] paired the SWIFT announcement with the same week's [[securities-and-exchange-commission|SEC]] court win against [[coinbase|Coinbase]], noting that the SEC has treated bitcoin as a free-market commodity rather than a security, which implies that the US government de facto regards all other digital currencies as securities.[1] Coupled with [[donald-trump|Donald Trump]]'s statements about blocking CBDCs in the future, he asked whether the banks might eventually be undone by their own securities laws.[1]
 
+## Iran-Russia bypass efforts (2023)
+
+In January 2023, [[iran|Iran]] and [[russia|Russia]] announced the [[iran-russia-banking-integration|integration of their interbank communication and transfer systems]], connecting 52 Iranian and 106 Russian banks through the Russian Financial Message Transfer System in an explicit effort to bypass sanctions on their financial infrastructure.[2] Badlands contributor [[patriots-in-progress|Patriots in Progress]] argued that both states objected to SWIFT because of its historical use to control the political actions of nations or force them into compliance, and that no nation or global organization should be able to restrict the flow of economic energy from any account.[2] The move coincided with [[brics|BRICS]] and non-BRICS states openly discussing a shared basket of currencies to operate outside SWIFT.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+2. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

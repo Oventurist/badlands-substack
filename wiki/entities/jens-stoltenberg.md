@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, norway, ukraine, russia, diplomacy]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c18.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -60,6 +60,11 @@ On Wednesday, June 26, 2024, [[nato|NATO]] announced that outgoing Dutch prime m
 
 After a subsea gas pipeline and telecommunications cable connecting [[finland|Finland]] and [[estonia|Estonia]] were damaged in October 2023, Stoltenberg said [[nato|NATO]] was sharing its information about the incident and stood ready to support the allies concerned.[8] The episode involved two alliance members — Finland having joined in April 2023 and Estonia in 2004 — and Finnish authorities concluded the damage was likely caused by "outside activity."[8] See [[2023-balticconnector-pipeline-damage|2023 Balticconnector pipeline damage]].[8]
 
+## F-16 timetable remarks (June 2023)
+
+At a meeting of [[nato|NATO]] defense ministers in Brussels in June 2023, Stoltenberg said it was still too early to put an exact timetable on the delivery of [[f-16-fighting-falcon|F-16]] fighter jets to Ukraine, while suggesting the process could be expedited.[9] "I welcome the decision by several NATO Allies to provide a training of fighter pilots," he said. "This is important and it will enable us to, at a later stage, also make decisions to deliver fourth generation fighter aircraft like, for instance, the F-16s."[9] The comments came amid Ukrainian impatience and after the Biden administration signaled in May that it would not block European allies from exporting the aircraft.[9] Badlands contributor [[johnny-q|Johnny Q]] responded that after trillions of dollars in aid there were no results to show, that Americans were asking where the money was going, and that public skepticism had grown into an election-swinging factor.[9]
+
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
@@ -69,3 +74,12 @@ After a subsea gas pipeline and telecommunications cable connecting [[finland|Fi
 6. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 7. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
 8. Badlands Brief — "Badlands News Brief: Crisis Cascades, Nordstream 3 & Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-c18
+9. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## Long war messaging (September 2023)
+
+In an interview published Sunday, September 17, 2023 by Germany's Funke Media Group, Stoltenberg said the alliance was committed to seeing military support to Kiev through and that this was the only path to peace: "Most wars last longer than expected when they first begin. Therefore, we must prepare ourselves for a long war in Ukraine."[10] He added that "if Zelensky and the Ukrainians stop fighting, their country will no longer exist. If President Putin and Russia stop fighting, we will have peace," while still insisting "we all want a quick peace" — messaging described as contradictory because he did not broach the possibility of direct Kiev–Moscow talks.[10] His remarks appeared the same day Chairman of the Joint Chiefs Gen. [[mark-milley|Mark Milley]] warned that the conflict would endure for "a long time," and coincided with Ukrainian pressure for faster and more advanced weapons deliveries voiced by Security Council head Oleksiy Danilov.[10]
+
+[[badlands-media|Badlands Media]] commentator [[ryan-delarme|Ryan DeLarme]] argued that when "Deep-State controlled" figures such as Milley and Stoltenberg agree on something it has nothing to do with American interests, citing Raytheon's roughly 40% share-price gain since the start of the Ukraine effort as evidence that the object is producing, selling and using weapons rather than winning.[10]
+
+10. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

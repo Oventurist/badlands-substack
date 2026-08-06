@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, commerce, trump-administration, congress]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-cba.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -99,6 +99,10 @@ As co-chair of the Trump–Vance transition team, Lutnick said in a CNN intervie
 
 Badlands commentary described Lutnick as having become "activated," pointing to a preceding interview with financial YouTuber Anthony Pompliano in which he recounted his rise through Wall Street in the 1980s and 1990s and the devastation he, his family and his colleagues suffered at Ground Zero on 9/11.[16] The same commentary noted his embrace of Bitcoin as a US stockpile asset and credited him as the figure behind Trump's tariff program, inspired by William McKinley.[16] It characterized him as one of several self-made billionaires who had shielded Trump at various points and who were being brought into public view in the closing days of the [[2024-us-general-election|2024 election]] — evidence, in the writer's view, that "the A Team is being assembled for Trump 2.0."[16]
 
+## Gold card visa rollout (September 2025)
+
+As Commerce Secretary, Lutnick presented the details of the [[trump-gold-card-visa|gold card]] program rolled out by President [[donald-trump|Donald Trump]] in September 2025, a $1 million fast-track for wealthy foreigners to live and work in the United States.[18] On a call with reporters he said the gold card would replace the existing EB-1 and EB-2 visa programs for people of "exceptional value" to the country, and that the administration expected to make 80,000 gold cards available initially while continuing to evaluate the model and potentially phasing out other visas.[18]
+
 ## References
 
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -117,3 +121,23 @@ Badlands commentary described Lutnick as having become "activated," pointing to 
 14. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 15. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
 16. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
+
+## Confirmation as Commerce Secretary (February 2025)
+
+On Tuesday, February 18, 2025, the [[united-states-senate|Senate]] voted 51 to 45 to confirm Lutnick as President [[donald-trump|Donald Trump]]'s Secretary of Commerce, installing one of the administration's top economic officials to help oversee an agenda built around tariffs and protectionism.[17] It was one of three votes the chamber took that day.[17]
+
+Lutnick, the former chief executive of the financial services firm [[cantor-fitzgerald|Cantor Fitzgerald]], had become a central economic adviser to Trump over the preceding year and led his transition team.[17] He has defended tariffs as a tool to protect US industries from international competition, promoted lower corporate taxes, and called for an expansion of energy production.[17] As head of the [[department-of-commerce|Department of Commerce]] he took on a broad portfolio that includes defending US business interests worldwide and overseeing restrictions on technology exports to countries such as China.[17] Badlands commentary congratulated Lutnick on the confirmation.[17]
+
+17. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+18. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48
+
+## Copper tariff investigation (February 2025)
+
+On Tuesday, February 25, 2025, President [[donald-trump|Donald Trump]] directed Lutnick to investigate the need for possible tariffs on copper.[19] "Like our steel and aluminum industries, our great American copper industry has been decimated by global actors attacking our domestic production," Lutnick said, adding that "to build back our copper industry, I will investigate the imposition of possible tariffs" and that tariffs could strengthen national defense.[19] [[white-house|White House]] officials cited the criticality of copper and copper alloys to military hardware, foreign dumping that oversaturates the market, and reliance on foreign production as reasons for the inquiry.[19] See [[2025-copper-tariff-investigation|2025 copper tariff investigation]].[19]
+
+## Intel stake and Chinese student visas (August 2025)
+
+After the Trump administration announced a 10% U.S. government stake in [[intel|Intel]] in August 2025, Lutnick suggested national security was a key motivator for taking the position, while President [[donald-trump|Donald Trump]] emphasized prospective financial gains.[20] Days later, Lutnick was grilled by Fox News host [[laura-ingraham|Laura Ingraham]] over how allowing 600,000 Chinese students into the United States could be squared with an "America First" agenda, after Trump said those students would be admitted to U.S. colleges amid ongoing trade talks with Beijing.[20]
+
+19. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+20. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

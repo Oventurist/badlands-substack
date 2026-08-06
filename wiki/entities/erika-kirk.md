@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [charlie-kirk, tpusa, conservative-movement]
-sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-306.md]
+sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ Owens' increasingly conspiratorial claims about the killing had become one of th
 2. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 3. Badlands News Brief — "Pedish Patricide, ISIS-Inspired Disarmament, & Trump's Love Language", URL: https://badlands.substack.com/p/badlands-news-brief-143
 4. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
+
+## Remarks at the memorial service (September 2025)
+
+[[turning-point-usa|Turning Point USA]] announced in September 2025 that Erika Kirk would deliver remarks at the Arizona memorial service for her late husband, [[charlie-kirk|Charlie Kirk]].[5] She was to appear alongside President [[donald-trump|Donald Trump]], Vice President [[jd-vance|JD Vance]], and a slate of senior administration officials and media figures at what was described as a massive gathering.[5] The event is covered at [[charlie-kirk-memorial-service|Charlie Kirk memorial service]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

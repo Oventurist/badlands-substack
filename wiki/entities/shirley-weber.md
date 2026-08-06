@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, elections, ballot-access, democrats]
-sources: [raw/badlands-news-brief-37f.md]
+sources: [raw/badlands-news-brief-37f.md, raw/badlands-news-brief-d5c.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ Her decision followed pressure from California's lieutenant governor, [[eleni-ko
 
 Badlands writer [[ashe-in-america|Ashe in America]] praised the outcome, quoting Governor [[gavin-newsom|Gavin Newsom]]'s position that California defeats disfavoured candidates at the polls rather than through administrative removal, and argued that bureaucrats should never be able to unilaterally neutralise political opposition.[1]
 
+## Kounalakis request (December 2023)
+
+On Wednesday, December 20, 2023, a day after the [[colorado-supreme-court|Colorado Supreme Court]] disqualified [[donald-trump|Donald Trump]] from that state's 2024 ballots, California Lieutenant Governor [[eleni-kounalakis|Eleni Kounalakis]] wrote to Weber asking her to "explore every legal option" to remove Trump from California's ballot on the same Fourteenth Amendment grounds recognized in [[anderson-v-griswold|Anderson v. Griswold]].[2] Kounalakis told Weber that California "must stand on the right side of history" and was "obligated to determine" whether the former president was ineligible.[2]
+
 ## References
 
 1. Badlands Brief — "Teflon Don Marches Into the New Year as Biden Stumbles", URL: https://badlands.substack.com/p/badlands-news-brief-37f
+2. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c

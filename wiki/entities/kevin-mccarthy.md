@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, speaker-of-the-house, republican-party]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f32.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -152,8 +152,13 @@ Speaking on Fox & Friends on Monday, June 26, 2023, McCarthy said House Republic
 
 Speaking to reporters on Wednesday, July 19, 2023, House Speaker McCarthy defended [[donald-trump|Donald Trump]] against reports that the [[department-of-justice|Department of Justice]] was weighing charges over his conduct surrounding the January 6, 2021 riot at the Capitol, saying, "I don't see how he could be found criminally responsible. What criminal activity did he do? He told people to be peaceful."[26] McCarthy said he and Trump had spoken the previous day and that the former president was frustrated at being targeted by the Justice Department; he denied holding any "strategy session" with Republicans on how to respond to Trump's indictments.[26] Badlands contributor [[burning-bright|Burning Bright]] read McCarthy's remarks as evidence of battle lines being drawn inside the GOP between figures aligning with Trump and those backing establishment or UniParty alternatives such as [[ron-desantis|Ron DeSantis]].[26]
 
-## References
+## Second failed defense funding vote (September 2023)
 
+With Volodymyr Zelensky visiting Capitol Hill and Ukraine aid hanging in the balance, Speaker Kevin McCarthy failed for a second time to advance a bill funding the Defense Department, keeping the government on a path toward a shutdown on October 1, 2023.[32] Politico reported that small groups of centrist Democrats were holding secret talks with several of McCarthy's close Republican allies about a last-ditch deal to fund the government, focused either on a procedural maneuver to force a vote on a compromise spending plan or on crafting a bipartisan short-term patch combining disaster money, Ukraine aid and small-scale border policies.[32] A bloc of conservative holdouts pressed the issues of Ukraine funding and the U.S. border, and with $24 billion in proposed Ukraine assistance on the table some Republicans argued that America must first address its own crises; McCarthy simultaneously sought to appease hardliners while appealing to Joe Biden.[32]
+
+Badlands contributor Burning Bright characterized the standoff as "Kabuki theater," observing that McCarthy had been Donald Trump's pick for Speaker while Matt Gaetz and the Freedom Caucus functioned as Trump's de facto representation, and suggested the McCarthy–Gaetz conflict served to focus public attention on the mechanics of congressional deal-making — or alternatively gave McCarthy cover to advance America First policy.[32]
+
+## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 3. Badlands Brief — "Badlands News Brief: Debt Ceiling, Cancel Culture & Incorruptibility", URL: https://badlands.substack.com/p/badlands-news-brief-096
@@ -180,3 +185,37 @@ Speaking to reporters on Wednesday, July 19, 2023, House Speaker McCarthy defend
 24. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
 25. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 26. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+
+## Aftermath of the October 2023 ouster
+
+McCarthy's removal by his own Republican colleagues, prompted by [[matt-gaetz|Matt Gaetz]]'s [[motion-to-vacate|motion to vacate]] that cited aid to Ukraine among its reasons, left the House without a speaker and triggered the [[2023-speaker-of-the-house-election|2023 Speaker of the House election]], in which [[donald-trump|Donald Trump]] endorsed [[jim-jordan|Jim Jordan]].[27] Politico reported that Ukrainian officials were "freaking out" over the resulting paralysis, which came days after lawmakers shelved a plan to send billions of dollars in aid to Kyiv and made their staunchest military ally look suddenly unreliable.[27] In the immediate aftermath, acting Speaker [[patrick-mchenry|Patrick McHenry]] ordered departed Democratic leaders including [[nancy-pelosi|Nancy Pelosi]] to vacate their Capitol hideaway offices.[27]
+
+27. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
+
+## Speculation about a return (October 2023)
+
+During the fourth round of the speakership contest on October 24, 2023, Badlands contributor [[ashe-in-america|Ashe in America]] reported a rumor circulating on Capitol Hill that McCarthy would come back up for a vote — a scenario she noted had been predicted by Badlands' [[canncon|CannCon]] on the very day McCarthy was ousted.[28] The House had at that point gone three weeks without a Speaker following his removal, with [[tom-emmer|Tom Emmer]]'s bid collapsing and [[mike-johnson|Mike Johnson]] emerging as the conference's fourth nominee.[28]
+
+28. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+
+## The April 2023 debt limit bill
+
+On 26 April 2023 McCarthy shepherded through the House a bill raising the [[debt-ceiling|debt ceiling]] for a year in exchange for freezing spending at 2022 levels for a decade and rolling back parts of President [[joe-biden|Joe Biden]]'s health, climate and tax law, passing 217 to 215.[29] Four Republicans — [[matt-gaetz|Matt Gaetz]], [[andy-biggs|Andy Biggs]], [[ken-buck|Ken Buck]] and [[tim-burchett|Tim Burchett]] — joined every Democrat in opposition.[29] The successful vote followed a late-night negotiation among Republicans that ended with McCarthy agreeing to jettison a provision rolling back ethanol tax credits implemented by the Biden administration.[29] The bill was treated as dead on arrival given Biden's veto pledge, setting up a showdown over a potential default.[29]
+
+29. Badlands Brief — "Badlands News Brief: Debt Limits, Counter Offensives & Winning Signs", URL: https://badlands.substack.com/p/badlands-news-brief-f26
+## Alleged elbowing of Tim Burchett (November 2023)
+
+On Tuesday, November 14, 2023, McCarthy was accused of elbowing Representative [[tim-burchett|Tim Burchett]] in the kidneys in the Capitol, allegedly in retaliation for Burchett's vote to oust him as Speaker.[30] McCarthy said the contact was unintentional and attributable to a crowded situation.[30] Badlands contributor [[ashe-in-america|Ashe in America]] grouped the allegation with a same-day Senate hearing confrontation between [[markwayne-mullin|Markwayne Mullin]] and [[sean-obrien|Sean O'Brien]] as evidence that [[congress|Congress]] had become "a clown show."[30]
+
+30. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+
+## "Stronger today than he was in 2016" (June 2023)
+
+In an exclusive comment to [[breitbart-news|Breitbart News]] on Tuesday, June 27, 2023, McCarthy said he believed former President [[donald-trump|Donald Trump]] was "stronger today than he was in 2016."[31] "As usual, the media is attempting to drive a wedge between President Trump and House Republicans as our committees are holding Biden's DOJ accountable for their two-tiered levels of justice," he said, adding that "the only reason Biden is using his weaponized federal government to go after President Trump is because he is Biden's strongest political opponent, as polling continues to show."[31] He pointed to polling released that morning by [[morning-consult|Morning Consult]] showing Trump leading incumbent President [[joe-biden|Joe Biden]] for the first time since the pollster began asking the question the previous year.[31]
+
+The remarks were considered significant because, after McCarthy's appearance on CNBC that morning, a CNN reporter selectively quoted one portion to make it appear he was criticising Trump; the broader conversation showed him solidly defending the former president, even though he had yet to formally endorse a candidate in the 2024 GOP presidential primary.[31]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] described McCarthy as a polarizing figure in essentially every cognitive theater of the Info War — to Democrats another Trump flag-waver, to establishment Republicans a team player, and to the MAGA base a [[uniparty|Uniparty]] enabler of establishment schemes.[31] He argued that McCarthy was almost certainly marching to the beat of Trump's drum while the exposure of the Uniparty's "System of Systems" continued, and that whatever his intentions, his Breitbart comments — among his most direct statements in some time — were absolutely true, since Trump was more powerful than at any point during his first public stint in the Oval Office.[31]
+
+31. Badlands Brief — "Badlands News Brief: Trump's Strength Grows and Ukraine's Support Slows", URL: https://badlands.substack.com/p/badlands-news-brief-f32
+32. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

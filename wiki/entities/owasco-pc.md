@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, corporate-entity, china, congressional-investigation]
-sources: [raw/badlands-news-brief-b86.md]
+sources: [raw/badlands-news-brief-b86.md, raw/badlands-news-brief-f39.md]
 confidence: medium
 ---
 
@@ -18,3 +18,9 @@ In December 2023, Oversight Committee Chairman [[james-comer|James Comer]] relea
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
+
+## Employment of Hunter Biden's assistants
+
+Owasco, described as [[hunter-biden|Hunter Biden]]'s law firm, employed the young female assistant at the centre of February 2023 Daily Mail reporting that Hunter Biden had threatened to withhold her pay unless she agreed to FaceTime him for sex.[2] The woman worked at the firm in 2018 and 2019 and was the fourth employee with whom Hunter Biden was known to have had a sexual relationship.[2]
+
+2. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39

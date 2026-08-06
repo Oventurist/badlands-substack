@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mining, commodities, drc, critical-minerals]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8c.md]
 confidence: medium
 ---
 
@@ -59,6 +59,10 @@ Citing a 2018 Bloomberg feature, the commentary held that Gertler, Mistakidis, a
 
 Badlands commentary on the August 2025 U.S. reward offer for Venezuelan President [[nicolas-maduro|Nicolás Maduro]] pointed to former Glencore oil chief [[alex-beard|Alex Beard]], arrested in Britain in 2024 on corruption charges tied to Venezuelan oil schemes run against Maduro's government, as an example of the commodity-trading interests aligned against Caracas.[7]
 
+## DOJ subpoena, guilty plea and the Mopani sale
+
+Glencore was spotlighted in a 2011 Reuters article titled "The biggest company you've never heard of."[8] On July 3, 2018, the company alerted investors via public statement that it had received a subpoena from [[donald-trump|Trump]]'s Department of Justice — action Badlands commentary ties to [[executive-order-13818|Executive Order 13818]], issued in December 2017, given Glencore's link with mining oligarch [[dan-gertler|Dan Gertler]], the third name on that order, through their joint venture [[katanga-mining|Katanga Mining]].[8] In December 2022 Glencore pled guilty to bribery and corruption charges brought by the United States and United Kingdom over dealings with [[democratic-republic-of-the-congo|DRC]] officials, agreeing to pay $1.5 billion in penalties.[8] Forbes reported in March 2024 that [[international-resources-holding|International Resources Holding]]'s acquisition of Glencore's [[mopani-mining|Mopani Copper Mines]] stake in [[zambia|Zambia]] — a $1.1 billion purchase of a majority holding — was a direct result of that settlement agreement.[8] GhostofBasedPatrickHenry summarized the chain as Trump's 2017 executive order leading directly to the 2024 transfer of African mining assets to members of the [[sovereign-alliance|Sovereign Alliance]], in this case the [[united-arab-emirates|UAE]].[8]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
@@ -67,3 +71,4 @@ Badlands commentary on the August 2025 U.S. reward offer for Venezuelan Presiden
 5. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 6. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
 7. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+8. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c

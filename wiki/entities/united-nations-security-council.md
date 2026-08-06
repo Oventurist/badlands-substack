@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, diplomacy, russia, ukraine, nuclear]
-sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-788.md]
+sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-d6a.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ Amid American opposition, Arab nations failed overnight on Thursday, February 29
 
 The United States did not support the statement, and US deputy ambassador Robert Wood told reporters: "The parties are working on some language to see if we can get to a statement."[9] He added: "The problem is that we don't have all the facts here," saying he wanted the wording to reflect "the necessary due diligence with regards to culpability."[9]
 
+## Third US veto of a Gaza ceasefire resolution (February 2024)
+
+On February 20, 2024, the United States cast the lone veto against a Security Council resolution calling for a ceasefire in Gaza, the third time Washington had blocked such a measure.[10] The vote on the Algerian-drafted resolution was 13–1 on the 15-member council, with the United Kingdom abstaining.[10] The veto came a day after Washington floated its own rival resolution calling for a temporary ceasefire, and left the US increasingly isolated as it faced criticism for backing Israel's campaign against [[hamas|Hamas]] in Gaza, launched after the October 7 assault that killed some 1,200 people.[10] The United States argued that a complete ceasefire would jeopardise negotiations involving Egypt and Qatar to release the hostages Hamas abducted in the attack.[10]
+
+Badlands contributor [[burning-bright|Burning Bright]] described the veto as part of an "Ouroborosian death spiral" of the System of Systems and the Central Narrative, noting that Washington publicly refused a Gaza ceasefire days after stumping for more taxpayer funding for its proxy war in the Donbas.[10] He argued that the awakening public increasingly perceives that the [[uniparty|Uniparty]] establishment will stop at nothing to perpetuate its endless war machine, and asked, in light of [[devolution|Devolution]] theory, which globalist-aligned proxies were threatened by events in Gaza sufficiently to make the entire EU bloc call for a cessation of violence there while demanding more of it to the east.[10]
+
 ## References
 
 1. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
@@ -63,3 +69,4 @@ The United States did not support the statement, and US deputy ambassador Robert
 7. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 8. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
 9. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
+10. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

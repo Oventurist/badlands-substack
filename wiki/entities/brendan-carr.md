@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, telecommunications, regulation, internet, biden-administration]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e48.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ Days before the November 2024 election, Carr — a Republican member of the five
 
 In December 2023, after the [[federal-communications-commission|FCC]] rejected a $900 million subsidy for [[spacex|SpaceX]], Carr wrote on X that "President Biden gave federal agencies the green light to go after him [Musk]" — a statement cited as evidence that the [[joe-biden|Biden]] administration was weaponizing government agencies against [[elon-musk|Elon Musk]].[8] Badlands commentary treated Carr's confirmation as important context for the lawsuits Musk was then filing through [[x-corp|X]] against the [[censorship-industrial-complex|censorship industrial complex]], and as an illustration of coordination between federal agencies and nominally independent private enforcement arms.[8]
 
+## Broadcaster licensing pressure and the Vullo precedent (2025)
+
+In September 2025 suggestions by Carr and President [[donald-trump|Donald Trump]] that broadcaster licenses could be revoked over disfavored views expressed on the air were reported as potentially conflicting with the Supreme Court's unanimous ruling in [[national-rifle-association-of-america-v-vullo|National Rifle Association of America v. Vullo]], which held that government officials may not coerce private parties to punish or suppress disfavored speech.[9] Commentators noted the striking similarities between the pressure alleged in that case and the [[federal-communications-commission|FCC]]'s posture toward broadcasters.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Establishment is Collapsing from Within", URL: https://badlands.substack.com/p/badlands-news-brief-12b
@@ -66,3 +70,4 @@ In December 2023, after the [[federal-communications-commission|FCC]] rejected a
 6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 7. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
 8. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+9. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [niger, coup, ecowas, sahel, france, 2023]
-sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-9de.md]
+sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-da5.md]
 confidence: medium
 ---
 
@@ -53,3 +53,11 @@ On Sunday, August 13, 2023, Niger's junta claimed it had gathered the evidence n
 4. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 5. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
 6. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
+
+## Suspension of uranium and gold exports to France
+
+By the end of July 2023 the coup had rapidly internationalized, with Niger's former colonial ruler [[france|France]] denouncing the junta and demanding the immediate reinstatement of ousted President [[mohamed-bazoum|Mohamed Bazoum]], while coup supporters attacked diplomatic locations and French interests including the French embassy in Niamey.[7] Bazoum, taken captive days earlier by his own presidential guard, was reported to be in good health.[7] The junta's stated rationale centred on Bazoum's failure to contain growing jihadi violence and secure the population, though others characterized that as a pretext for an internal power struggle.[7]
+
+Regional Mideast-Africa sources and the Financial Times reported that the junta had suspended all exports of uranium and gold to France with immediate effect, escalating its anti-French rhetoric.[7] Niger is the world's seventh-largest producer of uranium, and France, which relies on nuclear energy for 75 per cent of its power, is a significant importer.[7] Badlands contributor [[burning-bright|Burning Bright]] described the coup as led by U.S.-trained assets, opening another proxy war and further exposing the [[system-of-systems|System of Systems]]; he criticized France for condemning the coup in language implying it possessed the authority to endorse "legitimate" coups aligned with its national interests, and warned that prolonged instability would weigh heavily on already-strained EU energy markets.[7]
+
+7. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5

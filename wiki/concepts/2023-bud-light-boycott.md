@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [culture-war, boycott, marketing, brands]
-sources: [raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c40.md, raw/badlands-news-brief-cdb.md]
+sources: [raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c40.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e86.md]
 confidence: medium
 ---
 
@@ -46,3 +46,11 @@ The campaign featured custom cans carrying Mulvaney's face and pro-LGBTQ languag
 1. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
 2. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40
 3. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+
+## Continued decline and brand contagion (May 2023)
+
+By the four-week period ended May 7, 2023, Bud Light's US market share had fallen to 8.3 percent from 9.1 percent two weeks earlier, according to Circana scan data cited by Bloomberg Intelligence analyst Kenneth Shea, with Nielsen data showing the same worsening trend in dollar share, volume share and sales.[4] The damage had spread beyond the flagship brand to Budweiser, Busch and Michelob, prompting Shea to conclude that [[anheuser-busch-inbev|AB InBev]] needed "a pivotal marketing strategy to halt the trend" while Coors Light, Miller Lite and Modelo absorbed the lost share.[4]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] used the contagion to argue that the boycott's logic could not stop at one brand, since nearly every major corporation participates in [[esg|ESG]] and [[diversity-equity-and-inclusion|DEI]] programmes he characterised as instruments of control rather than profit-seeking, and that the durable response was construction of a [[parallel-economy|parallel economy]] rather than serial boycotts.[4]
+
+4. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86

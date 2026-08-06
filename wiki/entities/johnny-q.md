@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, commentator]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-da3.md]
 confidence: medium
 ---
 
@@ -52,6 +52,13 @@ In the June 9, 2023 Badlands News Brief, Johnny Q wrote two of the edition's "Ou
 
 On the California Legislature's Pride Month honor for the drag performer and adult film director [[sister-roma|Sister Roma]], invited by state senator [[scott-wiener|Scott Wiener]], Johnny Q questioned what an adult film director does for the community and argued the recognition left genuinely charitable people unrecognized.[10] He cited the Los Angeles Dodgers Pride Night backlash as evidence that drag-nun figures had provoked broad opposition among celebrities, players, and fans.[10] Describing California as "in full decline" — businesses leaving, lawlessness rampant, homelessness everywhere, crumbling infrastructure, drugs, and collapsed education standards under a Democratic super-majority — he nonetheless saw hope in growing public resistance, beginning with COVID mandates on children and continuing over what he called the hypersexualization of children.[10]
 
+## Commentary in the June 19, 2023 brief
+
+Johnny Q contributed two items to the June 19, 2023 Badlands News Brief. On the Westchester County, New York district attorney dropping its criminal case against [[donald-trump|Donald Trump]], he called the outcome "predictable," said the golf course case and subpoenaed records had turned up nothing, and predicted more cases would be dismissed.[11] He wrote that [[letitia-james|Letitia James]] had reported the New York and Georgia criminal cases would likely be adjourned in favor of the documents case, that Washington had become "a nightmare" for [[jack-smith|Jack Smith]], and that Trump's polling rose with each indictment — arguing he could not receive a fair trial anywhere in the nation.[11]
+
+On [[jens-stoltenberg|Jens Stoltenberg]]'s refusal to set an [[f-16-fighting-falcon|F-16]] delivery timetable, Johnny Q argued that progress in Ukraine had stalled, that [[nato|NATO]] may be doing little more than destabilizing relations with the Eastern European bloc, and that placing freshly trained pilots in new aircraft against seasoned Russian pilots would be suicidal; he concluded that "Donald Trump is correct when he says the catastrophe needs to end."[11]
+
+
 ## References
 
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
@@ -64,3 +71,4 @@ On the California Legislature's Pride Month honor for the drag performer and adu
 8. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 9. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 10. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+11. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3

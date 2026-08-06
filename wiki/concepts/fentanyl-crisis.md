@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fentanyl, cartels, opioids, border, china]
-sources: [raw/badlands-news-brief-4b9.md]
+sources: [raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Former [[drug-enforcement-administration|DEA]] official [[ray-donovan-dea|Ray Do
 
 [[burning-bright|Burning Bright]] connected the plan to [[donald-trump|Donald Trump]]'s stated intention to deploy Tier 1 "kill teams" against cartels south of the border if returned to office, arguing that the convergence would let the public tie the border crisis to the wider [[deep-state|Deep State]] cabal.[1]
 
+## Relationship to the Afghan heroin supply
+
+Experts told MintPress News that the [[taliban|Taliban]]'s near-total eradication of opium poppy cultivation in [[afghanistan|Afghanistan]] — the source of some 90% of the world's heroin — could spark growing use of fentanyl as global heroin supplies dry up.[2] Fentanyl, a drug dozens of times stronger than heroin, already kills more than 100,000 Americans yearly.[2] See [[taliban-opium-eradication-campaign|Taliban opium eradication campaign]].[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
+2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

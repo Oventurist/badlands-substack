@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, radio, mainstream-media, layoffs]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e10.md]
 confidence: low
 ---
 
@@ -46,7 +46,18 @@ In December 2025 commentary on the Signalgate report, Badlands host CannCon high
 
 In April 2024 NPR editor [[uri-berliner|Uri Berliner]] published a piece alleging that the outlet had deep political bias and that its Washington, D.C. bureau employed 87 registered Democrats and zero registered Republicans; he resigned after NPR suspended him for publishing it.[7] NPR's new CEO [[katherine-maher|Katherine Maher]], hired in March 2024, also drew scrutiny as old tweets and clips surfaced showing support for [[joe-biden|Joe Biden]]'s 2020 campaign, a 2018 description of [[donald-trump|Donald Trump]] as a "racist," and her characterization of the First Amendment as "the number one challenge" to combatting "misinformation."[7] On April 19, 2024, Republican Indiana Representative [[jim-banks|Jim Banks]] introduced the [[defund-npr-act|Defund NPR Act]] to cut off all federal funds to the broadcaster.[7]
 
+## 2025 CPB shutdown
+
+NPR was among the recipients of Corporation for Public Broadcasting funding when the CPB announced in August 2025 that it would wind down operations after Congress and the Trump administration eliminated its appropriation.[8] A May 2025 executive order had already instructed the CPB to cease federal funding for NPR and PBS.[8]
+
+## 2025 lawsuit over federal funding cuts
+
+On Tuesday, May 27, 2025, NPR and a group of Colorado-based public radio stations — including [[colorado-public-radio|Colorado Public Radio]] and stations in Aspen and Ignacio — filed suit against the [[donald-trump|Trump]] administration seeking to block planned federal funding cuts and restrictions on the broadcasters.[9] The suit, filed in the U.S. District Court for Washington, D.C., pointed to remarks by President Trump claiming that public broadcasting is biased against him as evidence that he was using the threat of funding cuts to chill the broadcasters' First Amendment rights.[9] "It is not always obvious when the government has acted with a retaliatory purpose in violation of the First Amendment. 'But this wolf comes as a wolf,'" the complaint said, adding that the Order targets NPR and [[pbs|PBS]] expressly because, in the President's view, their content is not "fair, accurate, or unbiased."[9]
+
+[[badlands-media|Badlands Media]] commentary from [[ashe-in-america|Ashe in America]] called Colorado Public Radio's reporting on the merits of its own lawsuit "peak legacy media," argued that Colorado had become a recurring venue for lawfare against Trump, and contended that when the government cannot make a case directly it recruits NGOs or friendly corporations as plaintiffs.[9] The commentary identified NPR chief executive [[katherine-maher|Katherine Maher]] as the face of the lawsuit and asserted that Trump's criticisms cited the congressional record and the sworn testimony of the plaintiffs rather than off-hand personal opinion.[9]
+
 ## References
+
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 3. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
@@ -54,3 +65,5 @@ In April 2024 NPR editor [[uri-berliner|Uri Berliner]] published a piece allegin
 5. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 7. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+8. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+9. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10

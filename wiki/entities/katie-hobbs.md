@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arizona, secretary-of-state, elections, democratic-party]
-sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-earthquake.md, raw/badlands-news-brief-62c.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/anthony-fauci.md, raw/arizona-earthquake.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-e99.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ As governor, Hobbs remained a focus of Arizona legislative scrutiny over censors
 
 Badlands Media writer [[ashe-in-america|Ashe in America]] wrote that Hobbs had presided over "Drawer Three" and the inexplicable Arizona 2022 midterm elections before her coordination with big tech was exposed, and argued that as governor she had likely grown worse.[4] Ashe described Hobbs as "unqualified, incapable," inclined toward tyranny in her methods of governance, and "the perfect mascot for 2023's weaponized government and the persecution of political opponents," noting that the courts had already helped her escape accountability for the conduct.[4]
 
+## Operation Desert Guardian (2025)
+
+On Tuesday, February 25, 2025, Hobbs signed an executive order "to combat the cartels, stop drug smuggling, and secure Arizona's border," establishing a joint task force named [[operation-desert-guardian|Operation Desert Guardian]].[5] The order directs the Arizona Department of Public Safety, the Arizona Department of Homeland Security, and the Department of Emergency and Military Affairs to focus on the identification, deterrence, interdiction, and dismantling of transnational criminal organizations, with the state homeland security department convening the task force alongside county sheriffs and local and federal law enforcement.[5] Hobbs said her administration had been in contact with the federal government and local sheriffs about the operation and a shared commitment to keeping criminals and drugs out of Arizona communities.[5] Badlands contributor Chris Paul dismissed the announcement with the line "Fake governors don't have choices."[5]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Brief — "Anthony Fauci", URL: https://badlands.substack.com/p/anthony-fauci
 3. Badlands Media — "Arizona Earthquake!", URL: https://badlands.substack.com/p/arizona-earthquake
 4. Badlands Brief — "Trump Takes on Big Pharma and GART Kicks Off!", URL: https://badlands.substack.com/p/badlands-news-brief-62c
+5. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99

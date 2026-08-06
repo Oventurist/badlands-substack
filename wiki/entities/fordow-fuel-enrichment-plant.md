@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, nuclear, enrichment, israel, military]
-sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-959.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -40,3 +40,9 @@ Writing for [[badlands-media|Badlands Media]], [[ghostofbasedpatrickhenry|Ghosto
 1. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 2. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 3. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+
+
+## Possible US target during the June 2025 campaign
+During Israel's [[operation-rising-lion|Operation Rising Lion]] campaign, reporting attributed to people familiar with the deliberations identified Iran's well-defended Fordow enrichment facility as a possible US target should President [[donald-trump|Donald Trump]] order American participation.[4] The site is buried under a mountain and is generally considered by military experts to be out of reach of all but the most powerful bombs.[4]
+
+4. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

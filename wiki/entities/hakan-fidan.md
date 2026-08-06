@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, diplomacy, middle-east, foreign-minister]
-sources: [raw/badlands-brief-695.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-aae.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-brief-be1.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -49,6 +49,11 @@ On Monday, November 10, 2025, Fidan met his American counterpart, Secretary of S
 
 Turkish officials kept a tight lid on the trip, an unusual approach for a high-level visit to the US capital: on Sunday the Turkish Foreign Ministry announced it in a one-sentence statement without even specifying that Fidan would travel to Washington.[7] The low-key approach aligned with Ankara's effort to present al-Sharaa as an independent leader rather than a Turkish proxy, a strategy aimed at reassuring regional powers and encouraging broader engagement with Damascus, [[turkey|Turkey]] having emerged as Damascus' closest regional ally after the fall of the Syrian regime in December.[7] Badlands commentary noted that Fidan strongly implied Syria would likely join the [[abraham-accords|Abraham Accords]] in the near future.[7]
 
+
+## Turkey's intervention in the ICJ genocide case
+
+Speaking at a news conference in Cairo on Monday, August 5, 2024, Fidan said that [[turkey|Turkey]] would formally submit its declaration of intervention in [[south-africa|South Africa]]'s genocide case against [[israel|Israel]] at the [[international-court-of-justice|International Court of Justice]] in The Hague on the following Wednesday.[8] Turkey had announced in May 2024 that it had decided to join the case as part of a broader set of measures against Israel over the war in [[gaza|Gaza]], stating at the time that it would submit its bid once the necessary legal preparations were complete.[8] Badlands Media read the filing as evidence that President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] was pivoting away from [[nato|NATO]] and the European Union and toward what the outlet calls the [[sovereign-alliance|Sovereign Alliance]].[8]
+
 ## References
 1. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
 2. Badlands Brief — "The Beggar Kings Arrive Ahead of Saint Fauci's Confession", URL: https://badlands.substack.com/p/badlands-brief-be1
@@ -57,3 +62,4 @@ Turkish officials kept a tight lid on the trip, an unusual approach for a high-l
 5. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
 6. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
 7. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
+8. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

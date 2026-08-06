@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, cbdc, crypto, white-house]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-169.md, raw/badlands-brief-7c6.md, raw/badlands-brief-8db.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -107,3 +107,9 @@ Trump's son-in-law was expected to join special envoy [[steve-witkoff|Steve Witk
 13. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 14. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 15. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+
+## Intervention for Mohammed Ibrahim (2025)
+
+In late 2025, [[israel|Israel]] agreed to release [[mohammed-ibrahim|Mohammed Ibrahim]], a Palestinian-American teenager detained for over nine months, after Kushner intervened on the boy's behalf, according to a U.S. official and a second source cited by [[times-of-israel|The Times of Israel]].[16] Ibrahim, a Florida resident, had been held under [[administrative-detention|administrative detention]] without charge since February over allegations he threw stones at Israeli troops in the West Bank; his family lobbied U.S. lawmakers, and the case eventually reached Kushner, who contacted senior Israeli officials demanding his release.[16] Washington took particular issue with a U.S. citizen being held without charge by an allied country.[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that Kushner "seems like a good man who takes a lot of flak from various segments of the MAGA coalition," and that the episode — likely a favor requested by Palestinian President Mahmoud Abbas — showed both his clout among Israelis and his willingness to use it for good.[16] Kushner was also named as a contributor, alongside Steve Witkoff and Marco Rubio, to Trump's 28-point Ukraine peace plan.[16]
+
+16. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

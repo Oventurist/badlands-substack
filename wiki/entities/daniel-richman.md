@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, fbi, classified-information, legal]
-sources: [raw/badlands-brief-579.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-brief-579.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ Evidence released by prosecutors in November 2025 included emails between Richma
 
 Roughly two weeks before reports that the [[department-of-justice|Justice Department]] was nearing a decision on indicting [[james-comey|James Comey]], Richman — a former Comey adviser and Columbia University law professor — was subpoenaed as part of the criminal probe.[3] President [[donald-trump|Donald Trump]] had argued that Comey broke the law by sharing memos containing classified information with the New York Times.[3]
 
+## FBI interviews on media contacts
+
+Internal FBI memoranda delivered to Congress by Director [[kash-patel|Kash Patel]] in August 2025 recorded that Richman admitted to agents that he routinely communicated on behalf of his longtime friend [[james-comey|James Comey]] with *New York Times* reporter Michael Schmidt, whose work formed part of the newspaper's Pulitzer Prize-winning 2018 coverage of alleged Russian election interference.[4] Richman told the FBI that the purpose of these contacts was "to correct stories critical of Comey, the FBI and to shape future press coverage" outside the bureau's official press office.[4] Reporting on the same memos noted that Richman had sought a "discount" in exchange for denying that he leaked classified intelligence, and that the bureau concluded numerous legacy-media stories advancing the Russia collusion narrative contained illegally leaked classified material without definitively identifying the leakers.[4]
+
 ## References
 1. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
 2. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 3. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+4. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

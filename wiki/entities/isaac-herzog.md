@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, president, pardon, netanyahu]
-sources: [raw/badlands-brief-733.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-brief-733.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-e1a.md]
 confidence: medium
 ---
 
@@ -22,6 +22,10 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 
 In an address to the nation on the evening of January 15, 2025, Herzog urged members of Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]]'s cabinet to approve the ceasefire and hostage release deal announced earlier that day between Israel and [[hamas|Hamas]], declaring that he supported "the prime minister and the negotiating team for [their] efforts to reach a deal."[2] He called the agreement the "right" and "necessary move," stating that "there is no greater moral, human, Jewish, or Israeli obligation than to bring our sons and daughters back to us — whether to recover at home, or to be laid to rest."[2] Herzog cautioned against optimism about implementation, warning that the deal "when signed, approved, and implemented — will bring with it deeply painful, challenging, and harrowing moments" and that it ranked "among the greatest challenges we have ever known."[2] He nonetheless argued that the security cabinet and the full cabinet, both expected to vote on the framework the following day, had to approve it "to bring our sons and daughters home."[2]
 
+## Post-election call with Trump (November 2024)
+
+When Herzog telephoned President-elect [[donald-trump|Donald Trump]] to congratulate him on his election win in November 2024, he told Trump that securing the release of the 101 hostages held by [[hamas|Hamas]] was "an urgent issue," according to three people briefed on the call.[4] Badlands contributor GhostofBasedPatrickHenry argued that Trump was not mincing words with Herzog and plainly understood that the largely ceremonial Israeli presidency does not call the shots relative to Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]].[4] The commentary nonetheless noted a structural power held by the office: it is the President of Israel who decides which party is invited to form a coalition government after an election, in a system where voters cast ballots for parties rather than individual politicians, with parties then seating members from their published candidate lists.[4]
+
 ## References
 
 1. Badlands Brief — "The Boons & Blessings of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-733
@@ -34,3 +38,4 @@ In an interview with Fox News on Sunday, February 9, 2025, Israeli President Her
 "President Trump is due to meet with major, major Arab leaders, first and foremost, the king of Jordan and the president of Egypt, and I think also the crown prince of [[saudi-arabia|Saudi Arabia]] as well," Herzog said, adding: "They are partners that must be listened to, must be discussed with. We have to know their fields as well and see how we build a plan that is sustainable for the future."[3] Trump's plan envisioned redeveloping Gaza into what he called "the Riviera of the Middle East," with displaced Palestinians initially relocating to Jordan, Egypt and other Arab nations before some are resettled in the rebuilt territory.[3]
 
 3. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+4. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a

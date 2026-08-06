@@ -1,10 +1,10 @@
 ---
-title: Mike Johnson
+title: "Mike Johnson"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, congress, republican, house-speaker]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-52f.md, raw/badlands-brief-ac2.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bbc.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-d22.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-285.md, raw/badlands-brief-314.md, raw/badlands-brief-52f.md, raw/badlands-brief-ac2.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bbc.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dc1.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f6f.md]
 confidence: low
 ---
 
@@ -268,6 +268,30 @@ On Tuesday, December 5, 2023, Johnson responded to the [[white-house|White House
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] framed the standoff through his "Congressional Paralysis" theory, arguing that Johnson's installation constituted a beneficial bicameral deployment consistent with [[devolution|Devolution]] operation theories heading into 2024.[54] On the narrative level, he wrote, the public had been inundated throughout 2023 with stories of congressional ineptitude, a macro pattern that continued under Johnson; on an actual level, he believed Johnson and other "rotating proxies" had been installed or allowed to be installed by patriots during the "Biden Transition" to protect National Essential Functions under a [[continuity-of-government|Continuity of Government]] operation.[54] By "freezing" aid to what he called the Deep State's proxy war in Ukraine, and thus far preventing it for the new one being spun up in Gaza, Johnson kept [[congress|Congress]] "as lame as its lame duck 'President.'"[54]
 
+## UFC 309 appearance
+
+Speaker Johnson accompanied [[donald-trump|Donald Trump]] into Madison Square Garden at [[ufc-309|UFC 309]] in November 2024, part of an entourage the New York Post described as offering clues to the president-elect's inner circle and as consisting almost entirely of figures outside traditional Washington power structures.[60]
+
+## The "little secret" remark (2024)
+
+Shortly before the 2024 election, at his Madison Square Garden rally in New York, [[donald-trump|Donald Trump]] made an aside to Speaker Johnson that the two had "a little secret."[61] "I think with our little secret we're going to do really well with the House, right? Our little secret is having a big impact," Trump said, before turning back to the audience: "He and I have a secret. We'll tell you what it is when the race is over."[61]
+
+Badlands writer Ashe in America noted that many speculated Trump had been addressing Congressman [[matt-gaetz|Matt Gaetz]] during the exchange, but judged Johnson the more plausible interlocutor in context, and observed that with the race over Trump had still not disclosed the secret.[61]
+
+## September 2024 shutdown plan
+
+As Speaker of the House, Johnson pursued a plan in September 2024 to avert a partial government shutdown while cracking down on election security, aiming to pass legislation combining a six-month extension of fiscal year 2024 federal funding levels — a continuing resolution — with a House GOP bill mandating proof of citizenship in the voter registration process.[64] The [[donald-trump|Trump]]-backed package cleared the House Rules Committee by 9–4 late on Monday, September 9, 2024, bundled with unrelated bills, the final step before a floor vote.[64] House lawmakers were expected to hold a procedural vote allowing debate on Tuesday with final passage teed up for Wednesday, though the measure faced an uncertain fate in a chamber-wide vote as Republicans defected.[64]
+
+## November 2023 remarks on Biden impeachment
+
+On November 2, 2023, Johnson said he expected the House to decide soon whether to file articles of impeachment against President [[joe-biden|Joe Biden]], telling a press conference, "As we stand here today, I'm not predetermined on that. But I do believe that very soon, we are coming to a point of decision on it."[65] He argued that the scope and timeline of the investigation should follow the evidence rather than a partisan agenda, contrasting the effort with what he called Democrats' "snap impeachment, sham impeachments, and all the rest" and describing the Republican approach as "a deliberate, constitutional process that was envisioned by the founders."[65] Johnson, a constitutional law attorney who had served on both of [[donald-trump|Donald Trump]]'s House impeachment defense teams, called impeachment arguably "the heaviest power" the House possesses and said it should not be wielded as a political tool.[65]
+
+[[ashe-in-america|Ashe in America]] criticized the framing, arguing that politicians embarrass themselves by claiming a nonpartisan process because "everything is political," and dismissing the pledge to "follow the evidence wherever it leads" as a line no one believes, since the evidence "would lead to way too many of those 'following' it."[65] The same commentary noted that Republicans, having held the gavel only since January 2023, were on a pace similar to Democrats during Trump's first impeachment inquiry, suggesting "there is a playbook."[65]
+
+## November 2023 continuing resolution
+
+On November 14, 2023, the House passed Johnson's [[november-2023-continuing-resolution|two-step funding bill]] to avert a government shutdown, by a bipartisan vote of 336 to 95 in which 209 supporting votes came from Democrats and 93 Republicans voted no.[66] The "laddered" measure extended funding to January 19, 2024 for military construction, Veterans Affairs, transportation, housing and the Energy Department, and to February 2, 2024 for the rest of the government, while including no additional aid for Israel or Ukraine.[66] Badlands contributor [[ashe-in-america|Ashe in America]] argued the Republican defections were political rather than principled and dismissed leadership's framing of the outcome as a win.[66]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -324,3 +348,53 @@ On Tuesday, December 5, 2023, Johnson responded to the [[white-house|White House
 52. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 53. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
 54. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22
+
+## December 2024 spending fight
+
+The December 2024 government funding fight highlighted how House Republicans, for all their internal factional divisions, were governed by an effort to appease what The Hill called "an audience of one": President-elect [[donald-trump|Donald Trump]].[55] Trump's eleventh-hour intervention in the funding fight — with a significant push from [[elon-musk|Elon Musk]] — led Speaker Johnson to abandon the deal he had initially cut with Democrats, forced GOP leaders into a crisis scramble for an alternative, and brought the country to the brink of a holiday-season shutdown.[55]
+
+The three-day saga inflamed tensions within the GOP conference, threatened Johnson's bid to keep the gavel, and raised questions about how Trump's return would affect Republican stewardship of a House held with an even thinner cushion in the coming year.[55] Some Republicans called Trump's intervention inappropriate, particularly his insistence that any spending package include a hike in the federal debt ceiling, an idea toxic on the right that infuriated House conservatives.[55] Rep. Bob Good, former head of the [[house-freedom-caucus|House Freedom Caucus]], said that while "President Trump has a lot of sway with Republicans," the House "needs to operate as the House," adding, "I think trying to raise the debt limit was a mistake."[55] Democrats were harsher, saying Johnson had caved to a figure who was not yet president and had undermined interparty trust.[55]
+
+55. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+
+## Proxy voting defeat (April 2025)
+
+On April 1, 2025, the House voted to defy Speaker Johnson and force a vote on allowing members who are new parents to cast proxy votes for three months, a defeat described as a brutal loss for a Speaker who had poured considerable political capital into snuffing out Rep. [[anna-paulina-luna|Anna Paulina Luna]]'s effort.[56] Luna's [[discharge-petition|discharge petition]] gathered 218 signatures, including a dozen Republicans, forcing the vote regardless of leadership opposition, and in a rare move Johnson had attached a provision killing the vote to unrelated Republican legislation prohibiting non-citizens from voting in federal elections.[56] Nine Republicans voted against Johnson, among them Reps. Tim Burchett, Mike Lawler and Jeff Van Drew — all petition signatories — as well as Luna.[56] See [[house-proxy-voting-for-new-parents]].[56]
+56. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1
+
+## December 2024 Speaker fight and Trump endorsement
+
+Days before a House vote on Friday, January 3, 2025 to elect a Speaker, President-elect [[donald-trump|Donald Trump]] gave Johnson his "complete and total endorsement," writing on Truth Social that "Speaker Mike Johnson is a good, hard working, religious man. He will do the right thing, and we will continue to WIN. Mike has my Complete & Total Endorsement. MAGA!"[57] The public endorsement was viewed as potentially decisive for Johnson, who could afford only a handful of GOP defections.[57]
+
+The prior day, Rep. [[mike-lawler|Mike Lawler]] said on ABC's "This Week" that Johnson would be reelected because no [[house-freedom-caucus|Freedom Caucus]] member could reach the 218 votes required, arguing that Johnson had "inherited a disaster" from the [[ouster-of-kevin-mccarthy|removal of Kevin McCarthy]] and was "arguably the most conservative speaker that's ever been elected to the office."[57] Badlands commentary conceded Johnson had been disappointing at times but deferred to Trump's continued backing, framing the 119th Congress as a continuation of the 118th's disclosure work and invoking the adage "don't change horses midstream."[57]
+57. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+
+## March 2025 shutdown fight and Tesla probe pledge
+
+In March 2025 Johnson's six-month stopgap bill to avert a federal government shutdown passed the House despite all but one House Democrat voting against it, leaving Republicans in need of support from at least eight Senate Democrats to clear the upper chamber, with Sen. [[rand-paul|Rand Paul]] already a "no."[58] House Democrats mounted a sudden push for a last-minute vote on an alternative, with Minority Leader [[hakeem-jeffries|Hakeem Jeffries]], whip [[katherine-clark|Katherine Clark]] and caucus chair [[pete-aguilar|Pete Aguilar]] saying in a joint statement that they would "strongly support" a four-week stopgap; Clark told the Democrats' retreat, "Our message to the Senate is ... stand with us."[58] Badlands contributor [[jon-herold|Jon Herold]] argued that in a shutdown [[doge|DOGE]] would decide which bills get paid, and that letting unnecessary agencies go unfunded was the most efficient way to show the public how little their absence changes daily life.[58]
+
+Separately, on Wednesday, March 12, Johnson said Congress would probe "domestic terrorism" attacks targeting the [[tesla|Tesla]] car brand after vehicles and storefronts were vandalized, posting on X that "Congress will investigate the sources of these attacks and help the DOJ & FBI ensure those responsible are prosecuted to the fullest extent of the law."[58] The announcement was the latest attempt by Republican leaders to rally around DOGE head [[elon-musk|Elon Musk]] after Tesla's stock price fell and the company faced a wave of attacks and heated demonstrations; Trump said that week he would buy a Tesla in support of Musk.[58] Johnson did not explain which committees would lead the investigations, and spokespeople for him and House Judiciary Chair [[jim-jordan|Jim Jordan]] did not immediately respond to requests for comment.[58]
+
+58. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+
+## Drafting the "Big, Beautiful Bill" (April 2025)
+
+In April 2025, as congressional Republicans began drafting their sprawling domestic policy megabill — dubbed the "Big, Beautiful Bill" and expected to span tax cuts, border security, and energy — Speaker Johnson faced the prospect that the effort might fail.[59] A House vote the previous Thursday finalized a fiscal framework, but completing that intermediate step exposed huge fissures between the House and Senate.[59] Johnson had made big promises to a band of fiscal hawks about steep spending cuts, while Senate Majority Leader [[john-thune|John Thune]] left himself maximum flexibility to placate his own conference, and competing GOP factions drew red lines that were in many cases wholly incompatible.[59] Senator [[john-kennedy-senator|John Kennedy]] of Louisiana warned that "we can spend an entire year getting nothing done."[59] Badlands commentary noted wryly that the acronym BBB had previously stood for Build Back Better.[59]
+
+59. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+60. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+61. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
+62. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## Opposition to the 2024 Senate border deal
+
+In January 2024 Johnson reportedly said he would "absolutely not" accept the bipartisan border package being negotiated in the Senate, signaling that any resulting deal would be dead on arrival in the House.[62] Rep. [[jamie-raskin|Jamie Raskin]] told a House Oversight and Accountability Committee hearing that Republicans were obstructing the deal on "orders from" [[donald-trump|Donald Trump]], while reporting noted Republican senators were relatively unconcerned by Johnson's refusal and that Trump was unlikely to bless any agreement with the White House during the primary season.[62]
+
+## Selection as fourth speaker nominee (October 24, 2023)
+
+On the evening of Tuesday, October 24, 2023, House Republicans picked Johnson as their fourth nominee for Speaker, hours after Majority Whip [[tom-emmer|Tom Emmer]] withdrew following his own nomination win.[63] Johnson took 128 votes in the conference ballot, far short of the 217 needed on the House floor, and it remained unclear at that point whether he could reach the threshold.[63] The House had been without a Speaker for three weeks since the removal of [[kevin-mccarthy|Kevin McCarthy]], and was set to reassemble Wednesday at noon.[63] See [[2023-speaker-of-the-house-election]].[63]
+
+63. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+64. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+65. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7
+66. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substac

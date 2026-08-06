@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tennessee, gun-violence, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-6e3.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-ee7.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ The shooting triggered immediate political conflict in the Tennessee legislature
 
 [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] framed the shooting in the [[badlands-news-brief|Badlands News Brief]] as the outcome of what he described as a "mass form of Manchurian candidate ops" — a compartmentalized, decades-long cultural operation whose components were said to be individually innocuous and therefore difficult to detect in isolation.[2] Deschamps enumerated a ten-stage sequence he argued had produced the conditions for the attack, including the displacement of Judeo-Christian culture by secularism, the normalization and later corporate and governmental endorsement of LGBTQ+ identity, the hardening of beauty norms for women, the deliberate fomenting of antagonism between conservative and LGBTQ cultures, the collapse of debate into in-group/out-group binaries, the erosion of free speech, and media encouragement of activism and violence against traditionalists.[2] He also cited legislation in conservative states such as Tennessee as an accelerant that made residents feel their identities were under assault.[2] Deschamps predicted copy-cat events and media suppression that he argued would entrench a "left-wing transgender martyrdom ideology," and concluded that identifying and undoing these cultural-warfare methods would take generations.[2]
 
+## November 2023 manifesto leak dispute
+
+In November 2023, conservative commentator [[steven-crowder|Steven Crowder]] published photographs of three pages he alleged were part of the manifesto written by [[audrey-hale|Audrey Hale]], reigniting the dispute over material authorities had withheld.[3] The [[metropolitan-nashville-police-department|Metropolitan Nashville Police Department]] responded on Monday, November 6, stating that "the photographs are not MNPD crime scene images" and that it was in communication with the Metropolitan Department of Law as an investigation begun that morning examined the dissemination of the writings during an online discussion about the Covenant School.[3] The department separately told the Daily Caller that it did not know whether the pages were authentic.[3] Authorities had previously confirmed the discovery of a manifesto in which Hale allegedly planned the attack over several weeks; the document remained under review by the FBI's Behavioral Analysis Unit.[3] The department's account restated that Hale killed six people inside the school with a firearm and was shot by an officer while continuing to fire on the second floor.[3]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
+3. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7

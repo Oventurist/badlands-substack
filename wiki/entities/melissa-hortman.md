@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [minnesota, democratic-party, political-violence, state-legislature]
-sources: [raw/badlands-news-brief-69d.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-e38.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Authorities identified 57-year-old [[vance-boelter|Vance Luther Boelter]] as the
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
+
+
+## Aftermath and target list disclosures
+[[vance-boelter|Vance Luther Boelter]], 57, accused of stalking and killing Hortman and her husband Mark and of shooting State Senator [[john-hoffman|John Hoffman]] and his wife Yvette, was arrested late on Sunday, June 15, 2025 after the largest manhunt in Minnesota history.[2] U.S. Representative [[veronica-escobar|Veronica Escobar]] said the [[united-states-capitol-police|Capitol Police]] notified her that morning that her own name appeared on the shooter's target list, and she condemned political violence in a statement the next day.[2]
+
+2. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38

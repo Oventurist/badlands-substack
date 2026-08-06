@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [zimbabwe, africa, russia, africom]
-sources: [raw/badlands-news-brief-528.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-528.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-e1e.md]
 confidence: low
 ---
 
@@ -20,6 +20,11 @@ Speaking to [[tass|TASS]] on the sidelines of the [[2024-st-petersburg-internati
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited the remarks as evidence of the power of bilateral agreements over what he called elitist trade organizations that skim off the top, arguing that any competitor wishing to take that market must now offer Zimbabwe better value.[2]
 
+## BRICS accession bid
+
+In June 2024 Mnangagwa announced his government's intention to join [[brics|BRICS]] in an interview with TASS on the sidelines of the St. Petersburg International Economic Forum.[3] He said he had discussed the move with [[vladimir-putin|Vladimir Putin]] during bilateral talks on June 7, when the two leaders also agreed to intensify cooperation between Moscow and Harare.[3] Less than two weeks later, Zimbabwean defence minister [[oppah-muchinguri-kashiri|Oppah Muchinguri-Kashiri]] told a BRICS inter-party forum in Vladivostok that the country was ready to join, citing the group's potential to counterbalance Western dominance.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+3. Badlands Brief — "Badlands News Brief: Devo Takes, Cheap Fakes & Sovereign Alliance Dates", URL: https://badlands.substack.com/p/badlands-news-brief-e1e

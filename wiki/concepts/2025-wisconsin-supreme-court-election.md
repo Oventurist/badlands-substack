@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, wisconsin, judiciary, elon-musk, 2025]
-sources: [raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a72.md]
+sources: [raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-dc1.md]
 confidence: high
 ---
 
@@ -34,3 +34,8 @@ Badlands framed the contest alongside the [[florida-6th-congressional-district-s
 
 1. Badlands Brief — "Badlands News Brief: The Wolf of D.C. & A Portfolio of Highly Organized Crime", URL: https://badlands.substack.com/p/badlands-news-brief-a0b
 2. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
+
+## Result
+
+NBC News projected on Tuesday, April 1, 2025 that liberal candidate [[susan-crawford|Susan Crawford]], a Dane County circuit court judge, had defeated [[brad-schimel|Brad Schimel]], a Waukesha County circuit court judge and former Republican state attorney general, preserving the liberal majority on Wisconsin's highest court.[3] The election filled the seat of 73-year-old Justice Ann Walsh Bradley, who had announced her retirement nearly a year earlier, and carries a 10-year term.[3] The race was cast in part as a referendum on billionaire [[elon-musk|Elon Musk]], who poured millions into supporting Schimel.[3] Though officially nonpartisan, the candidates diverged clearly on labor rights, abortion access and President [[donald-trump|Donald Trump]]'s January 6 pardons, with Barack Obama and other prominent Democrats backing Crawford and Trump and most Republicans endorsing Schimel.[3] Badlands writers [[jon-herold|Jon Herold]] and [[chris-paul|Chris Paul]] rejected the result as meaningful, with Herold noting the paradox of losing the court seat while the voter ID ballot measure passed and asking why patriots fund infrastructure that perpetuates what he called a fraudulent system.[3]
+3. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1

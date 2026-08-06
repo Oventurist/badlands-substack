@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [balkans, europe, protests, ngos, ukraine-peace]
-sources: [raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-df2.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Badlands commentary noted the difficulty of identifying the sides in the confron
 
 ## References
 1. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+
+## EU accession posture (April 2025)
+
+In April 2025, Serbia's Acting Foreign Minister [[marko-djuric|Marko Djuric]] reaffirmed that European Union membership remained the country's strategic choice during a meeting with EU foreign policy chief [[kaja-kallas|Kaja Kallas]].[2] A Serbian government statement said Djuric stressed the country's firm commitment to its European path and its desire to contribute to peace, stability, and prosperity in Europe as a reliable partner, while expressing hope the EU would positively assess Serbia's integration efforts and pledging continued work to ease tensions in the Balkans.[2] Serbia was at the time an official candidate for EU membership alongside Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Türkiye, and Ukraine.[2] Badlands commentary characterized events in Serbia as an intelligence-community coup attempt fueled by [[usaid|USAID]] and [[european-commission|European Commission]]-funded "independent media," following the same playbook as the Maidan.[2]
+
+2. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2

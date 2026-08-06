@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [starbucks, covid, social-atomization, retail]
-sources: [raw/america-has-a-cia-run-economy.md, raw/a-time-to-strike.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/a-time-to-strike.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-ea0.md]
 confidence: low
 ---
 
@@ -42,9 +42,18 @@ The union [[starbucks-workers-united|Starbucks Workers United]] alleged that cor
 
 [[ashe-in-america|Ashe in America]] noted that [[rose-montoya|Rose Montoya]], the transgender activist banned from the [[white-house|White House]] after going topless on the lawn, complained to the Guardian that "we've all noticed less brands seeking partnerships and smaller budgets for Pride campaigns."[4] She called Starbucks "a pioneer of woke," making rumors of its muting the rainbow particularly interesting, while cautioning that the article was largely anecdotal reporting about disgruntled employees rather than proof of a broader trend.[4] The stronger signal, she argued, was a June 12 Wall Street Journal finding quoted by [[breitbart|Breitbart]] that "finance chiefs and other executives have significantly quieted down in public settings about their environmental and employee diversity efforts" — evidence that boycotts were hitting corporate bottom lines hard enough to make Starbucks downplay Pride month.[4]
 
+## Phillips discrimination verdict (June 2023)
+
+In June 2023 a jury ordered Starbucks to pay more than $25 million in damages to [[shannon-phillips|Shannon Phillips]], a former regional manager the company fired for being white in the aftermath of the April 2018 Rittenhouse Square arrests in Philadelphia.[5] Two Black men had entered the store for a business meeting; one was refused use of the bathroom before ordering, and when the pair declined to leave an employee called police.[5] Videos of the arrests were viewed millions of times, prompting accusations of racism, protests, and boycott threats; the chief executive publicly apologized and called the men's treatment "reprehensible," and the company temporarily closed 8,000 stores for racial bias training.[5]
+
+Employees said they were forced to watch "video after video" of white police officers attacking Black people during that training.[5] Phillips said she was fired shortly after refusing an order to suspend a white manager, had never been told she was performing poorly, and was given only the explanation that "the situation is not recoverable."[5]
+
+[[ashe-in-america|Ashe in America]] connected the verdict to the company's earlier retreat from overt displays of wokeness, arguing that the summer of [[black-lives-matter|Black Lives Matter]] and the death of [[george-floyd|George Floyd]] transformed corporate culture, elevated [[diversity-equity-and-inclusion|diversity, equity and inclusion]] officers to the C-suite, and turned voluntary affinity groups into mandatory learning paths on systemic racism and privilege.[5] In her account training alone did not satisfy activist pressure and Phillips became the sacrifice, at a cost to Starbucks of $25.6 million.[5]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
 3. Badlands Brief — "Plan B for Israel & Ouroborosian Protests Consume Clown World", URL: https://badlands.substack.com/p/badlands-news-brief-0be
 4. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+5. Badlands Brief — "Badlands News Brief: Trump's Trap, Putin's Play & Woke's Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ea0

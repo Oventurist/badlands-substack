@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, judiciary, 2020-election]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d00.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -84,3 +84,9 @@ On April 4, 2024, McAfee, a Fulton County Superior Court judge, rejected [[donal
 10. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
 11. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
 12. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
+
+## Pending disqualification ruling (March 2024)
+
+As the House GOP opened its inquiry into contacts between the House January 6 committee and [[fani-willis|Fani Willis]], McAfee said over the weekend of March 9–10, 2024 that he was on track to rule that week on whether Willis should be disqualified from the Georgia prosecution of [[donald-trump|Donald Trump]].[13] [[ashe-in-america|Ashe in America]] wrote that while the various probes of Willis might resemble political theatrics, McAfee was operating in a real courtroom with real consequences, and predicted she would be stunned if Willis and [[nathan-wade|Nathan Wade]] were both permitted to remain on the case given sworn testimony that the prosecution had netted the pair several hundred thousand dollars.[13]
+
+13. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, censorship, law, culture-war]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -38,3 +38,11 @@ Badlands Media contributor [[justin-deschamps|Justin Deschamps]] described hate 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
 3. Badlands Brief — "Real Leaks & Fake News", URL: https://badlands.substack.com/p/badlands-news-brief-08c
+
+## Bondi enforcement remarks and retraction (September 2025)
+
+The concept of "hate speech" became the subject of an acute American controversy in September 2025 when Attorney General [[pam-bondi|Pam Bondi]], appearing on the podcast of [[katie-miller|Katie Miller]], was asked whether law enforcement would be sent after groups engaged in hate speech following the killing of [[charlie-kirk|Charlie Kirk]].[4] Bondi replied that the government would "absolutely target you, go after you if you are targeting anyone with hate speech — and that's across the aisle," and said there was no place for hate speech after Kirk's death.[4] She backpedaled the following day after broad criticism.[4]
+
+Critics reposted Kirk's own formulation in rebuttal: "Hate speech does not exist legally in America. There's ugly speech. There's gross speech. There's evil speech. And of it is protected by the [[first-amendment|First Amendment]]. Keep America free."[4] Supreme Court Justice [[sonia-sotomayor|Sonia Sotomayor]] appeared to allude to the episode at New York Law School, saying that whenever she hears a lawyer-trained representative propose criminalizing free speech "I think to myself, that law school failed."[4] Badlands contributor [[burning-bright|Burning Bright]] framed the affair as a case study in the weaponization of emotion, urging readers to identify manipulation while it is occurring rather than afterward.[4]
+
+4. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

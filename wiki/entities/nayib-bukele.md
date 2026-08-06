@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [el-salvador, latin-america, gangs, bitcoin]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d04.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-cf2.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-df2.md]
 confidence: medium
 ---
 
@@ -118,3 +118,11 @@ In February 2025 the President of El Salvador posted on X that "the vast majorit
 
 14. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
 15. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+
+## Oval Office visit (April 2025)
+
+In an Oval Office meeting with [[donald-trump|President Donald Trump]] on Monday, April 14, 2025, the President of El Salvador told Trump that he had "350 million Americans to liberate" by ending crime and terrorism in the United States.[16] "We know that you have a crime problem and a terrorism problem that you need help with. And we're a small country, but we can help," he said, adding that El Salvador had turned what journalists called the murder capital of the world into the safest country in the Western Hemisphere.[16] "I like to say that we actually liberated millions," he said, a line that drew praise from Trump.[16] He argued that "you cannot just, you know, free the criminals and think crime is going to go down magically, you have to imprison them so you can liberate 350 million Americans that are asking for the end of crime and the end of terrorism, and it can be done."[16]
+
+The Trump administration had been coordinating with El Salvador on deportation flights, sending hundreds of deportees — including alleged [[tren-de-aragua|Tren de Aragua]] gang members — to the country's Terrorism Confinement Center, known as [[cecot|CECOT]].[16] During the same pool spray, Trump floated imposing tariffs on pharmaceuticals in the manner of his 25 percent tariffs on cars and steel.[16] Badlands commentary treated the meeting as "all signal," noting that El Salvador's president was the first head of state to introduce Bitcoin as legal tender and that his government rounded up 60,000 MS-13 gang members, framing both the financial and kinetic dimensions as evidence of a system under siege by the Sovereign Alliance.[16]
+
+16. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [american-history, foreign-policy, geopolitics]
-sources: [raw/avoiding-wwiii.md]
+sources: [raw/avoiding-wwiii.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Reading Russian "red lines" and the emergence of a Eurasian Manifest Destiny thr
 
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
+
+## Trump's 2025 reassertion
+
+In December 2025, one of the central pillars of President [[donald-trump|Donald Trump]]'s new [[2025-national-security-strategy|National Security Strategy]] was a plan to update the more than 200-year-old doctrine.[2] The strategy document stated that "after years of neglect, the United States will reassert and enforce the Monroe Doctrine to restore American preeminence in the Western Hemisphere, and to protect our homeland and our access to key geographies throughout the region."[2] It laid out a "[[trump-corollary-to-the-monroe-doctrine|Trump Corollary]] to the Monroe Doctrine" prioritizing American-led cooperative efforts against mass migration, drug trafficking and "hostile foreign incursion or ownership of key assets."[2] Reporting described this as the latest evolution of a doctrine that successive presidents have read either as an argument for peace and non-intervention or as a justification for American imperialism.[2] Badlands host [[burning-bright|Burning Bright]] argued that pairing the strategy with Trump's recognition of the doctrine's anniversary positioned the "American Restoration" as a callback to the Revolution, aimed at the same "Invisible Enemy" as before.[2]
+
+2. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

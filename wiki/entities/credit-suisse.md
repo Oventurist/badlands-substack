@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, credit-suisse, switzerland, money-laundering, ubs, nazi-era-accounts]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-bfb.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-eca.md]
 confidence: low
 ---
 
@@ -68,3 +68,8 @@ The takeover of Credit Suisse by [[ubs|UBS]] had by the end of 2023 already resu
 6. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 7. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
 8. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+9. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## March 15, 2023 central bank liquidity facility
+
+On Wednesday, March 15, 2023, Credit Suisse disclosed that it had uncovered "material weaknesses" relating to its financial reporting and announced late in the day that it would borrow up to $53.7 billion from the [[swiss-national-bank|Swiss National Bank]], a move that raised fears for the stability of the global financial system in the wake of the collapse of [[silicon-valley-bank|Silicon Valley Bank]].[9] The disclosure sent the bank's shares plunging, drove European banking stocks sharply lower, contributed to a roughly 3 percent fall in the pan-European Stoxx 600 index, and coincided with a nearly 1 percent decline in the Dow Jones industrial average.[9] Compounding the bank's problems, its largest investor, the [[saudi-national-bank|Saudi National Bank]], signaled the same day that it would not rush in with more cash to buttress the firm.[9] Badlands contributor [[absolutetruth1776|AbsoluteTruth1776]] read the Swiss National Bank's public statement as a signal from insiders and predicted Credit Suisse would be "the next big domino to fall in the current ongoing banking crisis."[9]

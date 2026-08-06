@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, new-york, oversight]
-sources: [raw/badlands-news-brief-5d7.md, raw/badlands-news-brief-7e0.md]
+sources: [raw/badlands-news-brief-5d7.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -28,3 +28,9 @@ Critics on social media argued the word choice could incite violence against the
 
 1. Badlands Brief — "Badlands News Brief: Biden Scandals Mount as Trump Trial Looms", URL: https://badlands.substack.com/p/badlands-news-brief-5d7
 2. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
+
+## Reaction to the Hegseth nomination (November 2024)
+
+On November 12, 2024, Goldman appeared on CNN's "OutFront" with host Erin Burnett and said he was "shocked, truly" that President-elect [[donald-trump|Donald Trump]] had picked Fox News host [[pete-hegseth|Pete Hegseth]] as Secretary of Defense.[3] He characterized the selection as confirmation of warnings that Trump would "appoint unqualified loyalists to shape this government into his own personal thiefdom, and get revenge on generals."[3] Goldman added that while he appreciated Hegseth's military service, being a serviceman did not make one qualified to lead the [[pentagon|Department of Defense]] or to hold access to American nuclear weapons, and said he was "very disturbed" by what the pick demonstrated about Trump's priorities.[3] Badlands commentary treated Goldman's remarks as part of a broader elite media reaction that quickly softened once Hegseth's Princeton and Harvard education and combat service with the Minnesota National Guard were publicized.[3]
+
+3. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

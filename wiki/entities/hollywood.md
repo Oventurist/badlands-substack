@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, film, media, culture, propaganda]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md]
 confidence: medium
 ---
 
@@ -47,8 +47,13 @@ Chris Fenton, author of *Feeding the Dragon*, called the move a "super high-prof
 
 The Hollywood Reporter warned in April 2025 that the timing of President [[donald-trump|Donald Trump]]'s [[liberation-day-tariffs|"Liberation Day" tariffs]] could hardly have been worse for Hollywood.[4] Although the media business is not built on imported physical goods, many of its largest advertisers are, and buy-side and sell-side sources said the advertising market was already feeling the pain, with automotive, consumer packaged goods, and food and drink categories reexamining spending as they modeled the effect of the duties and of a possible all-out trade war.[4] A potential decline in tourism from Canada and Europe threatened to weaken the travel sector, where airlines and hotels compete for consumer dollars, and one high-level media source called the combination "a perfect storm of bad news," noting that scatter pricing was acceptable for the moment but that the outlook for the remainder of the year was weaker.[4] Badlands contributor [[brad-cologero-getz|Brad Cologero Getz]] added that Snow White had failed to crack $70 million domestic in two weeks at the box office, calling the performance "brutal."[4]
 
+## Alleged seeding of the Iran war narrative
+
+In June 2025, [[wikileaks|WikiLeaks]] claimed that Hollywood screenwriters "who say they are Jewish" had been planting pro-war narratives about Iran in mainstream entertainment for more than a decade, citing Top Gun: Maverick, Homeland, 24, and The Fifth Estate.[5] [[julian-assange|Julian Assange]], in a 2013 Oxford Union speech that WikiLeaks recirculated, noted that The Fifth Estate opens with Iranian scientists in Tehran assembling a bomb said to be six months from completion, even though 16 US intelligence agencies had already concluded Tehran had no nuclear weapons program.[5] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that the episode confirmed a longstanding Badlands theme — that Hollywood, "an industry built entirely on fiction," constantly hijacks reality through celebrity and storytelling — and argued that the consequences became visible when large portions of MAGA were convinced that war with Iran would be a good idea.[5] He called for greater discernment within the movement as a precondition for self-governance.[5]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 3. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 4. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
+5. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd

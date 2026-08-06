@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -92,6 +92,14 @@ ZeroHedge framed the remarks against what it called the devastating effects of t
 
 In August 2025 Pelosi wrote on X that President [[donald-trump|Donald Trump]] "delayed deploying the National Guard on January 6th when our Capitol was under violent attack and lives were at stake," casting his new order activating the D.C. [[national-guard|National Guard]] as an attempt to distract from his "incompetent mishandling" of tariffs, healthcare, education and immigration.[13] Former [[united-states-capitol-police|Capitol Police]] chief [[stephen-sund|Steven Sund]] accused her of rewriting history, replying with a lengthy rebuttal that she had blocked his multiple requests for Guard assistance before and during the attack and writing, "Ma'am, it is long past time to be honest with the American people."[13]
 
+## Eviction from her Capitol hideaway office (October 2023)
+
+In early October 2023, days after [[kevin-mccarthy|Kevin McCarthy]] was removed as speaker, acting Speaker [[patrick-mchenry|Patrick McHenry]] of North Carolina ordered Democrats who had recently left leadership posts to vacate their private offices in the U.S. Capitol, including Pelosi's hideaway.[14] "One of the first actions taken by the new speaker pro tempore was to order me to immediately vacate my office in the Capitol," Pelosi said in a statement.[14] She noted that she was in California to mourn and pay tribute to [[dianne-feinstein|Dianne Feinstein]], who had died on September 29, 2023 at age 90, and so could not retrieve her belongings.[14] According to reports, an email from McHenry's office said the space would be reassigned "for speaker office use" and asked her to "please vacate the space tomorrow."[14] Pelosi described the move as "a sharp departure from tradition," pointing out that she had allowed former Speaker Dennis Hastert to keep his private office "for as long as he wished," and added: "Office space doesn't matter to me, but it seems to be important to them."[14]
+
+## July 2024 coverage of the Biden withdrawal
+
+Badlands' July 2024 commentary noted that the articles of impeachment against [[kamala-harris|Kamala Harris]] introduced by Rep. [[andy-ogles|Andy Ogles]] arrived as Pelosi was "back in the news for being two-faced," referencing reporting on how she navigated [[joe-biden|Joe Biden]]'s withdrawal through public deference and private power.[15] The same piece described impeachment proceedings as a reminder of the 117th Congress, over which Pelosi presided as Speaker, and separately criticized Rep. [[bennie-thompson|Bennie Thompson]]'s January 6 committee for refusing to investigate Pelosi's actions as the official responsible for Capitol security on January 6, 2021.[15]
+
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -106,3 +114,22 @@ In August 2025 Pelosi wrote on X that President [[donald-trump|Donald Trump]] "d
 11. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
 12. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 13. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c
+14. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
+15. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+
+## "I take responsibility" video (released June 2024)
+
+Footage released in June 2024 by House GOP investigators, shot by her daughter, captured Pelosi declaring "I take responsibility" for failing to have a better security plan for the Capitol complex moments after she was whisked away from the building on January 6, 2021.[15] "We have responsibility, Terri," she is heard telling her chief of staff, Terri McCullough. "We did not have any accountability for what was going on there, and we should have. This is ridiculous."[15] Pelosi also asked, "You're going to ask me – in the middle of the thing when they've already breached the inaugural stuff – 'should we call the Capitol Police, I mean the National Guard?' Why weren't the National Guard there to begin with?"[15] McCullough replied, as the speaker's SUV raced through an underground parking garage, that "they thought that they had sufficient ... resources," to which Pelosi responded, "No, that's not a question of how they had ... they don't know. They clearly didn't know. And I take responsibility for not having them just prepare for more."[15] Pelosi appeared to be referring to congressional leaders while McCullough appeared to be referring to the U.S. Capitol Police force.[15]
+15. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Sund testimony and continued January 6 allegations
+
+At the September 18, 2023 [[2023-house-capitol-security-oversight-hearing|House Capitol security oversight hearing]], former [[us-capitol-police|Capitol Police]] Chief [[steven-sund|Steven Sund]] restated his contention that Pelosi and Democratic leadership were culpable for the failure to secure the Capitol on January 6, 2021, and that she had used him as a scapegoat and forced him to step down as police chief.[17] [[the-gateway-pundit|The Gateway Pundit]] argued this was an attempt to obfuscate her own responsibility for the attack, and complained that no mainstream outlet covered the hearing.[17] In commentary on the belated charging of [[ray-epps|Ray Epps]], [[ashe-in-america|Ashe in America]] described Epps as "an asset for Pelosi and the coup-plotters."[17]
+
+17. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## Sund's account in the Tucker Carlson interview (August 2023)
+
+In episode 15 of [[tucker-on-twitter|Tucker on Twitter]], former [[us-capitol-police|Capitol Police]] Chief [[steven-sund|Steven Sund]] gave [[tucker-carlson|Tucker Carlson]] an account of January 6 that [[ashe-in-america|Ashe in America]] summarised as showing the day was not an insurrection by Trump supporters but the final step of "traitors in government."[18] Writing for [[badlands-media|Badlands Media]], she concluded that on the gassing and gaslighting of Americans that day, "the buck stops with Nancy Pelosi," and urged readers to demand justice for January 6.[18]
+
+18. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

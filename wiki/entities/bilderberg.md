@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, deep-state, elite-networks]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-862.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d61.md]
 confidence: low
 ---
 
@@ -26,7 +26,16 @@ As usual, the details of the discussions were obscured by the [[chatham-house-ru
 
 Badlands Media contributor [[justin-deschamps|Justin Deschamps]] responded by asking whose choices govern ordinary people's lives, observing that "people we never met, who do not live in our lands and communities, who do not speak with us or know our interests, are deciding the course of our lives."[2] He argued that the Bilderbergs "arrive as individuals, hence they need not make their discussions public, but they act as one," and that tolerating elected officials and other custodians of public rights engaging in what he called open conspiratorial behavior is "a damning indictment for the supposedly free countries we live in."[2]
 
+## 2023 Lisbon meeting: attendees and Badlands commentary
+
+Coverage carried by [[badlands-media|Badlands Media]] in May 2023 described the 69th annual Bilderberg Meeting in Lisbon, Portugal as a gathering where key leadership from companies including [[microsoft|Microsoft]], [[openai|ChatGPT]]'s developer and [[google|Google]] convened with prime ministers, royalty, bank governors, army generals and top U.S. officials to strategize about global affairs.[3] Artificial intelligence was the focus of the meeting, and more than 130 individuals from 23 countries participated in the three-day event, which ran from May 18 to 21, 2023.[3] [[pfizer|Pfizer]] chief executive [[albert-bourla|Albert Bourla]] and Democratic politician [[stacey-abrams|Stacey Abrams]] were among those reported to be joining closed-door meetings on "US leadership."[3]
+
+The Bilderbergers operate under the [[chatham-house-rule|Chatham House Rule]], under which participants are "free to use the information received but neither the identity nor the affiliation of the speakers or participants can be revealed."[3] CNBC described the event as "shrouded in mystery, with clandestine talks held behind closed doors," noting that this had sparked conspiracy theories similar to those leveled at the [[world-economic-forum|World Economic Forum]] in Davos by those who claim attendees seek to establish a "new world order," while organizers said the discretion allowed greater freedom of discussion.[3] The *Daily Mail* likewise reported that the private nature of the meeting gives participants freedom to take part as individuals who "are not bound by conventions of their office or by pre-agreed positions," but that the secrecy had led critics to suggest Bilderberg is a group of rich and powerful kingmakers seeking to impose a one-world government.[3] No minutes are taken, no press conferences given and no reports published.[3]
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] described the Bilderbergers as "yet another group of extremely powerful men and women—many of them historically belonging to or working for royal European bloodlines—who convene annually in semisecret to discuss the 'issues of the day,'" adding that more conspiracy-minded observers who claim the group manufactures and manages world events "may not be wrong."[3] He noted that artificial intelligence had been a recurring topic at Bilderberg meetings for the previous decade, and singled out Stacey Abrams's presence at closed-door sessions on "US leadership" as the most striking detail, remarking that international elites holding such meetings with "somebody who's been rejected repeatedly by the American people just doesn't sit well with me."[3] DeLarme also pointed readers to Badlands Media's ongoing *Men Behind the Curtain* series for further background on the group.[3]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 2. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
+3. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61

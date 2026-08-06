@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [national-security, ufo, china, norad, transparency]
-sources: [raw/badlands-news-blast.md]
+sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-d45.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ The [[pentagon|Pentagon]] and White House released few details about the objects
 
 [[justin-deschamps|Justin Deschamps]], writing in the [[badlands-news-brief|Badlands News Brief]], described the episode as occurring "not even a week after what many believe to be a failure of the Biden administration to handle the Chinese Ballon fiasco," and said the sequence "wreaks of state-sponsored media stunts."[1] He asked how prevalent such overflights had been historically and whether they had gone unremarked for years until the administration became "beset by scandals."[1] Deschamps outlined two competing readings within the Truth Community: that the shootdowns were an intentional operation to damage Biden ahead of the selection of a 2024 DNC candidate, or that they were a "white hat operation designed to expose intelligence activities that have been quietly taking place for years."[1] His conclusion was that coordinated media behavior itself signals an agenda.[1] Fellow contributor [[just-human|Just Human]] summarized his own position on the shootdowns simply as "We agree with Flynn," a reference to [[michael-flynn|Michael Flynn]].[1]
 
+## Hobbyist balloon losses and Trump-era precedents
+
+Among the objects downed during the February 2023 shootdown wave, one over Alaska coincided in time and place with the disappearance of a 32-inch pico balloon flown by the [[northern-illinois-bottlecap-balloon-brigade|Northern Illinois Bottlecap Balloon Brigade]], an Illinois amateur club whose craft had been aloft more than four months and had circled the globe seven times before going missing; the group declared it "missing in action" and feared the [[united-states-air-force|U.S. Air Force]] had shot it down, without directly blaming the service.[2] Badlands commentary highlighted the disparity between the roughly $400,000 cost of a Sidewinder missile and the roughly $200 hobbyist balloon.[2]
+
+In the same period, reporting revealed that [[pentagon|Pentagon]] intelligence officials had tracked similar suspected balloons during the [[donald-trump|Trump]] administration without escalating them, and the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] briefed former Trump officials — including [[robert-obrien|Robert O'Brien]], [[john-bolton|John Bolton]], [[matt-pottinger|Matt Pottinger]], [[mike-pompeo|Mike Pompeo]] and [[john-ratcliffe|John Ratcliffe]] — on the Chinese balloon program.[2]
+
 ## References
 1. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
+2. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45

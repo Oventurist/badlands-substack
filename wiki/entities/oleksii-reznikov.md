@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, defense-ministry, corruption, russia-ukraine-war]
-sources: [raw/badlands-news-brief-8f0.md]
+sources: [raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ His departure followed an earlier round of purges in which nine senior Ukrainian
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
+
+## Aftermath of his dismissal
+
+Reznikov was sacked as Ukrainian defense minister over corruption in early September 2023 and replaced by [[rustem-umerov|Rustem Umerov]].[2] Two weeks later, six deputy defense ministers were dismissed in the [[2023-ukrainian-defense-ministry-purge|September 2023 defense ministry purge]], a move the New York Times attributed to President [[volodymyr-zelensky|Volodymyr Zelensky]]'s desire to show Washington that Ukraine was not squandering aid before appealing to [[congress|Congress]] for a new multi-billion-dollar package.[2]
+
+2. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

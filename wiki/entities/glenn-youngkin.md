@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [virginia, republican-party, pardons, education]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-d36.md]
 confidence: medium
 ---
 
@@ -42,3 +42,9 @@ Youngkin announced in August 2024 a program to remove noncitizens from Virginia'
 3. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 4. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 5. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+
+## Fusion power announcement
+
+In December 2024, Governor Youngkin presented plans at Richmond's Patrick Henry Building for [[commonwealth-fusion-systems|Commonwealth Fusion Systems]] to build a fusion power plant in Chesterfield County, declaring that the company "plans on building the world's first grid scale commercial fusion power plant in the world, full stop, and it's going to be right here in the commonwealth of Virginia."[6] The 400-megawatt facility, sited on a 100-acre parcel at the James River Industrial Park and expected to power roughly 150,000 homes by the early 2030s, was announced amid surging Virginia electricity demand driven by data-center growth.[6]
+
+6. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36

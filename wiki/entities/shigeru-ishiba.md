@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [japan, prime-minister, us-japan-relations, nippon-steel]
-sources: [raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-e98.md]
 confidence: medium
 ---
 
@@ -36,8 +36,14 @@ In Japan's upper house election held on Sunday, July 20, 2025, Ishiba's Liberal 
 
 Badlands commentary noted that President [[donald-trump|Donald Trump]] had been engaged in heated trade negotiations with Ishiba, particularly after Trump blocked Nippon Steel's acquisition of U.S. Steel — a deal first blocked by [[joe-biden|Joe Biden]] in January 2025 — and argued that a genuine populist-nationalist movement in Japan could turn the country into a real ally rather than a postwar vassal state.[4]
 
+## 2024 snap election defeat
+
+Selected as prime minister by the Liberal Democrats only a month earlier, Ishiba led his party into the [[2024-japanese-general-election|October 2024 snap general election]], in which the [[liberal-democratic-party|Liberal Democratic Party]] lost its majority in the lower house of Parliament.[5]
+Ishiba blamed the dismal showing on a protracted political finance scandal, but analysts said voter grievance ran deeper, with former diplomat Kunihiko Miyake pointing to three decades of stagnation and deteriorating living standards, especially for young people.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 2. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 4. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+5. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98

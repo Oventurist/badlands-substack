@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [middle-east, diplomacy, israel, iran, trump, badlands-brief]
-sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md]
+sources: [raw/badlands-brief-3d4.md, raw/badlands-brief-e60.md, raw/badlands-brief-f87.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md]
 confidence: medium
 ---
 
@@ -113,6 +113,14 @@ Ahead of a September 2025 meeting between President [[donald-trump|Donald Trump]
 
 In a Friday interview with [[fox-news|Fox]] in November 2025, President [[donald-trump|Donald Trump]] described broader regional shifts in the Middle East, commenting that the list of those interested in signing onto the historic Abraham Accords normalization program with [[israel|Israel]] "keeps growing."[18] He hailed what he called an unprecedented opportunity for peace, noting that the crisis with [[hezbollah|Hezbollah]] in Lebanon was abating and that [[iran|Iran]] now wanted a nuclear deal.[18]
 
+## Invoked after the April 2024 Iranian attack on Israel
+
+Badlands commentary on the April 2024 Iranian attack held that the Arab nations — principally the Hashemites of [[jordan|Jordan]] — defended [[israel|Israel]] from the barrage in affirmation of the terms of the Accords, while [[saudi-arabia|Saudi Arabia]], not yet an official member, put out mixed messaging on its level of involvement.[19] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that because the Accords are about bringing peace to the region, and peace cannot hold with missiles flying overhead, the "Peacemakers of the Middle East" would swat down missiles travelling in either direction — meaning the same Arab states that shielded Israel from [[iran|Iran]] might turn around and shield Iran from Israel should [[benjamin-netanyahu|Netanyahu]] retaliate.[19] He described the House of Saud and the Hashemites cooperating to preserve that fragile peace as poetic, given that the Saudis had driven the Hashemites from Mecca and taken their Hejaz Kingdom along the Red Sea 99 years earlier under British influence.[19]
+
+## Alleged Israeli attempt to withdraw
+
+Badlands' July 2024 commentary alleged that the day before the Abraham Accords were scheduled to be signed in 2020, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] dispatched ambassador [[ron-dermer|Ron Dermer]] to inform the White House that Israel would be backing out of the deal.[19] According to the account, [[donald-trump|Donald Trump]] telephoned Netanyahu directly and pressured him into proceeding, after which the Israelis signed.[19] The episode was presented as part of an alleged pattern of Netanyahu subverting U.S.-led Middle East peace efforts.[19]
+
 ## References
 1. Badlands Brief — "Canadian Separatists & Guerilla Campaigns", URL: https://badlands.substack.com/p/badlands-brief-3d4
 2. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
@@ -132,3 +140,13 @@ In a Friday interview with [[fox-news|Fox]] in November 2025, President [[donald
 16. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 17. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 18. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+19. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54
+19. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Alleged Deep State repurposing of the Accords
+
+Badlands contributor GhostofBasedPatrickHenry recalled speculating two years earlier that the Accords may not have been designed to protect Israel from the rest of the Middle East, but rather to protect the rest of the Middle East from Israeli expansionism.[20] Addressing the recurring question of why so many Deep State figures support an initiative spearheaded by [[donald-trump|Donald Trump]], the analysis argued that the Deep State saw the Accords as an opportunity to unite the Sunni Islamic world against the Shia Islamic world, with the Persian Gulf as the geographic dividing axis.[20]
+
+On this account Shia Islam comprises only 10–15% of Muslims worldwide, concentrated in Iran and surrounding areas including half of Iraq, parts of Syria and Yemen, most of Lebanon, and pockets of Turkey and Saudi Arabia.[20] The alleged plan — traced to [[zbigniew-brzezinski|Zbigniew Brzezinski]]'s [[grand-chessboard|The Grand Chessboard]] — was to build Iran into a legitimate military power, rally the Sunni Arab states around Israel, escalate Israel–Iran tensions into kinetic conflict, and draw in the United States, NATO, and eventually Russia, producing a world war.[20] The commentary credits [[mohammed-bin-salman|Mohammed bin Salman]] and Trump with derailing that design, and holds that the [[council-on-foreign-relations|Council on Foreign Relations]] will not get the Sunni–Shia war it had forecast.[20]
+
+20. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14

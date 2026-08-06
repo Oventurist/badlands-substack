@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, chain-of-command, benghazi]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-bfb.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-143.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-708.md, raw/badlands-brief-b56.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-f6e.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -190,6 +190,39 @@ In the same period the White House budget office instructed federal agencies to 
 
 On December 27, 2023, the Republican leaders of the [[house-oversight-committee|House Oversight]] and [[house-judiciary-committee|Judiciary]] Committees asked the White House to turn over information about President [[joe-biden|Joe Biden]]'s alleged involvement in his son [[hunter-biden|Hunter Biden]]'s decision not to comply with a congressional subpoena.[36] The letter was addressed to White House counsel Edward Siskel and sought communications between Executive Office of the President staff and Hunter Biden or his lawyers.[36] Press secretary [[karine-jean-pierre|Karine Jean-Pierre]] had told reporters that the president was "familiar with" what his son planned to say in his December 13 statement.[36]
 
+## August 2025 silence on the Witkoff Gaza report
+
+Badlands commentary argued that the White House's failure to publicize Steve Witkoff's findings after his visit to Gaza aid sites suggested it was "circling the wagons and wargaming the next move" rather than exonerating Israel of starvation and war-crime allegations.[38] The White House had also requested, and the House approved in June 2025, a $1.1 billion clawback of appropriated Corporation for Public Broadcasting funds.[38]
+
+## June 2025 ceasefire remarks and DOGE payroll list
+
+Speaking to reporters outside the White House on Tuesday, June 24, 2025, President [[donald-trump|Donald Trump]] said he was "not happy" with either [[israel|Israel]] or [[iran|Iran]] as the ceasefire between them faltered, delivering the profane rebuke that dominated that day's coverage.[39]
+
+The same week, a senior administration official confirmed that [[edward-coristine|Edward "Big Balls" Coristine]]'s name no longer appeared on the White House contact list of current [[department-of-government-efficiency|DOGE]] employees on the federal payroll, the list used to track which technologists remained in government service.[39]
+
+## February 2024 announcements
+
+On February 20, 2024, White House national security spokesman [[john-kirby|John Kirby]] announced that a "major sanctions" package against Russia would be unveiled that Friday "to hold Russia accountable" for the death of [[alexei-navalny|Alexei Navalny]] and for the ongoing war in Ukraine.[40] The same day the administration issued a fact sheet announcing nearly $6 billion for clean drinking water and wastewater infrastructure as part of its Investing in America Tour, delivered by Vice President [[kamala-harris|Kamala Harris]] and [[environmental-protection-agency|EPA]] Administrator [[michael-regan|Michael Regan]] in Pittsburgh.[40]
+
+In the same period, [[new-york-times|New York Times]] publisher [[arthur-greg-sulzberger|Arthur Greg Sulzberger]] said the White House had been "extremely upset" about the paper's reporting on President [[joe-biden|Joe Biden]]'s age.[40]
+
+## Response to the 2024 Venezuelan election
+
+Following Venezuela's disputed July 2024 election, the White House said it was "reviewing" what data it could, that there were "signs" the official results did not "reflect the will of the people," and called on the government of [[nicolas-maduro|Nicolás Maduro]] not to repress protesters.[41] There was no immediate White House reaction to the assassination of Hamas leader [[ismail-haniyeh|Ismail Haniyeh]] in Tehran days later, which came as the administration pressed for a ceasefire and hostage-release deal through CIA Director [[william-burns|Bill Burns]] and Middle East coordinator [[brett-mcgurk|Brett McGurk]].[41]
+
+
+## January 2023 flashpoints
+
+In January 2023 the White House press operation came under sustained questioning over the [[biden-classified-documents-scandal|Biden classified documents scandal]], with press secretary [[karine-jean-pierre|Karine Jean-Pierre]] deflecting reporters' questions about documents found in the president's garage and referring them to the White House counsel's office.[42] The same week, White House spokesperson Ian Sams denounced the appointment of Reps. [[marjorie-taylor-greene|Marjorie Taylor Greene]] and [[paul-gosar|Paul Gosar]] to the [[house-oversight-committee|House Oversight Committee]], saying the administration stood ready to accommodate legitimate oversight but that House Republicans appeared to be preparing "divorced-from-reality political stunts."[42]
+
+## Dinner for Mohammed bin Salman (November 2025)
+
+On Tuesday, November 18, 2025, the White House hosted a black-tie dinner in the East Room in honor of Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]], attended by the president's eldest son, the world's richest man, and dozens of prominent tech, media and sports figures.[43] Tech billionaire [[elon-musk|Elon Musk]] made his first public appearance at the White House since his feud with the president earlier that year.[43] The gathering marked a reversal for executives who had distanced themselves from the kingdom after the 2018 killing of [[jamal-khashoggi|Jamal Khashoggi]], with leaders of America's biggest companies signaling they were open for business with Saudi Arabia.[43] Badlands contributor [[burning-bright|Burning Bright]] read the optics of Musk as a guest of honor as evidence that [[kayfabe|kayfabe]] is "the premier narrative weapon of choice" for President [[donald-trump|Donald Trump]], arguing that "Trump and Elon signal GROWTH."[43]
+
+## Executive privilege over the Hur recordings, May 2024
+
+On May 16, 2024 the White House asserted executive privilege on behalf of President [[joe-biden|Joe Biden]] to block House Republicans from obtaining audio recordings of his interviews with special counsel [[robert-hur|Robert Hur]] over his handling of classified documents.[44] White House counsel [[ed-siskel|Ed Siskel]] wrote that the president had decided to assert privilege "because of the President's longstanding commitment to protecting the integrity, effectiveness, and independence of the Department of Justice and its law enforcement investigations," and questioned the motives of the Republicans seeking the material.[44]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -227,3 +260,13 @@ On December 27, 2023, the Republican leaders of the [[house-oversight-committee|
 34. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 35. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 36. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+## Questions over Hunter Biden's Burisma role
+Reporters briefly questioned the White House about [[hunter-biden|Hunter Biden]]'s role at [[burisma|Burisma]] given that his father, then Vice President [[joe-biden|Joe Biden]], had been placed in charge of Ukraine policy under [[barack-obama|Barack Obama]]; the exchange was revisited in June 2023 coverage of the [[hunter-biden-plea-agreement|plea agreement]].[37]
+37. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+38. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+39. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+40. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+41. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+42. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+43. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+44. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

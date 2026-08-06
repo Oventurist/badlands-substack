@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, arizona, immigration, border-policy, independent]
-sources: [raw/badlands-news-brief-a27.md]
+sources: [raw/badlands-news-brief-a27.md, raw/badlands-news-brief-db1.md]
 confidence: medium
 ---
 
@@ -26,6 +26,13 @@ Sinema's participation reflected her broader positioning as a dealmaker willing 
 - [[chris-murphy]]
 - [[2024-senate-border-ukraine-deal]]
 
+## Decision not to seek reelection (March 2024)
+
+On Tuesday, March 5, 2024, Sinema announced that she would not run for a second term, after her estrangement from the Democratic Party left her politically homeless and without a clear path to reelection.[2] The announcement came after Senate Republicans blocked a bipartisan bill to secure the U.S.-Mexico border and deliver military aid to Ukraine and Israel — a deal Sinema had spent months negotiating and had hoped would be a signature achievement addressing one of Washington's most intractable challenges, as well as a powerful endorsement for her increasingly lonely view that cross-party dealmaking remains possible.[2] In the end, her border-security ambitions and her congressional career were swallowed by the partisanship that has paralyzed Congress.[2]
+
+"I love Arizona and I am so proud of what we've delivered," she said in a video posted to social media. "Because I choose civility, understanding, listening, working together to get stuff done, I will leave the Senate at the end of this year."[2] Her decision avoided a three-way contest in one of the most closely watched 2024 Senate races, a hard-to-forecast scenario that had prompted fierce debate among political operatives over which major party would benefit in the fight for the Senate majority; most analysts agreed Sinema would have faced significant and likely insurmountable hurdles had she run.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Bicameral Biden Presides Over a Global Minefield", URL: https://badlands.substack.com/p/badlands-news-brief-a27
+2. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1

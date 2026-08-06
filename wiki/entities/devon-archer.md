@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congressional-testimony, burisma, influence-peddling]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-da5.md]
 confidence: medium
 ---
 
@@ -63,6 +63,12 @@ The DOJ subsequently denied seeking Archer's jailing ahead of the hearing, stati
 
 On Monday, January 22, 2024, the [[supreme-court-of-the-united-states|Supreme Court]] turned away an appeal brought by Archer, a former business partner of [[hunter-biden]] convicted for his role in defrauding the corporate arm of a Native American tribe.[8] The court's refusal to hear the case left the conviction in place and brought Archer closer to serving a prison term; a judge had initially ruled that he should spend a year and a day in prison, a sentence he challenged while remaining out on bail.[8] Archer was convicted in 2018 in connection with a scheme led by businessman [[jason-galanis]] to defraud Wakpamni Lake Community Corp., the business arm of the South Dakota-based Wakpamni Lake Community of the Oglala Sioux Tribe.[8] Prosecutors said in court papers that Archer and others misused millions of dollars raised by the corporation through bond issues, spending the proceeds "for personal purposes, such as funding personal business ventures and buying jewelry, luxury cars and a new home" rather than investing them as agreed.[8] The development was reported by [[nbc-news|NBC News]] and carried in the [[badlands-news-brief]].[8]
 
+## The July 31, 2023 transcribed interview
+
+In the closed-door interview conducted on Monday, July 31, 2023, Archer told the [[house-committee-on-oversight-and-accountability|House Oversight and Accountability Committee]] that [[burisma|Burisma Holdings]] had pressured [[hunter-biden|Hunter Biden]] in December 2015 to deal with a Ukrainian prosecutor who was investigating the firm for corruption, shortly before the then–vice president took steps to force that prosecutor's firing.[9] Archer testified that Hunter Biden had been added to Burisma's board in 2014 because his family's "brand" carried value at a moment when the company faced corruption allegations from the United States, Great Britain and Ukraine's own prosecutor general's office.[9] In a statement issued by Chairman [[james-comer|James Comer]], the committee said Archer had testified that the value of adding Hunter Biden to the board was "the brand," confirmed that then–Vice President [[joe-biden|Joe Biden]] brought the most value to that brand, and stated that "Burisma would have gone under if not for 'the brand.'"[9] Archer also directly contradicted Joe Biden's long-held claim that he never met his son's foreign business associates, saying the president had been placed on speakerphone with those clients more than twenty times.[9]
+
+[[ashe-in-america|Ashe in America]] wrote that the testimony confirmed a racketeering operation and connected dots that "in any just system, would mean the end of the Biden presidency," noting that the pressure to remove [[viktor-shokin|Viktor Shokin]] preceded Joe Biden's later boast at a [[council-on-foreign-relations|Council on Foreign Relations]] event about forcing the prosecutor's dismissal.[9] She argued that Democrats had responded by moving the goalposts, recasting the vice president's contact with his son's foreign associates as ordinary after years of denying it occurred.[9]
+
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
@@ -72,3 +78,5 @@ On Monday, January 22, 2024, the [[supreme-court-of-the-united-states|Supreme Co
 6. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 7. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
 8. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+9. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5
+

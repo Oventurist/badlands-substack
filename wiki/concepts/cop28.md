@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [climate, united-nations, energy, fossil-fuels, dubai]
-sources: [raw/badlands-news-brief-525.md, raw/badlands-news-brief-b86.md]
+sources: [raw/badlands-news-brief-525.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-ee0.md]
 confidence: medium
 ---
 
@@ -30,6 +30,15 @@ Badlands Media contributor [[ashe-in-america|Ashe in America]] framed the outcom
 
 Speaking at the conference, [[hillary-clinton|Hillary Clinton]] told attendees that "extreme heat" had killed half a billion people, most of them women and girls, without citing a source.[2] She claimed extreme heat had killed 61,000 people in Europe the previous summer and estimated roughly 500,000 additional deaths across Africa, Asia and Latin America.[2] [[ashe-in-america|Ashe in America]] cited the remarks as evidence that a coordinated climate messaging push was beginning ahead of the 2024 US election season, and linked them to [[bill-nye|Bill Nye]]'s contemporaneous claim that voting was the most important climate action an individual could take.[2]
 
+## Biden's absence from the opening (November 2023)
+
+President [[joe-biden|Joe Biden]] was not expected to attend the opening of the summit in Dubai, according to a White House schedule of his events released in late November 2023.[3] Top US officials including special envoy [[john-kerry|John Kerry]] and White House National Climate Advisor Ali Zaidi were sent in his place to the gathering, which was attended by nearly 200 countries.[3] Biden had attended the annual UN climate summit in person in both 2021 and 2022 and had made climate a cornerstone of his agenda and re-election bid, with young voters continuing to cite it as a key issue going into 2024; it was unclear whether he would participate virtually.[3]
+
+The [[white-house|White House]] declined to say specifically whether Biden would participate, while National Security Council spokesman [[john-kirby|John Kirby]] pushed back on the notion that he was staying away because of the Israel-Hamas conflict, saying he was "more than capable" of handling his "global responsibilities."[3] Tom Evans, a policy adviser at the international climate think tank E3G, called the absence "definitely a shame" and a "missed opportunity," noting that "when he's not part of the conversation, that shows the US that's not fully at the table at the highest level," and observing that this would be the final COP before the US election.[3]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the absence as a sign of the accelerating decay of what he called the "Green Beast" — the globalist climate agenda folding carbon credits and [[esg|ESG]] investment scores into a WEF-aligned vision of the future.[3] He argued that when conditions are favourable the Deep State controllers devote much of the [[media-industrial-complex|Media Industrial Complex]] to fear-mongering about climate, but that with a "Crisis Cascade" running from Ukraine to Gaza to the 2024 Trump campaign, the supposedly existential climate issue takes a back seat to more pressing matters.[3] He concluded that the Collective Mind sees the goalposts moving.[3]
+
 ## References
 1. Badlands Brief — "Bicameral Lawfare, Trump's Gambit & the Ouroboros", URL: https://badlands.substack.com/p/badlands-news-brief-525
 2. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
+3. Badlands Brief — "Badlands News Brief: Musk's World Tour & Irish Strife Prompt Reactions", URL: https://badlands.substack.com/p/badlands-news-brief-ee0

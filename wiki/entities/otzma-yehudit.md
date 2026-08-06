@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, politics, ultranationalism]
-sources: [raw/badlands-news-brief-066.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-news-brief-066.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-eff.md]
 confidence: medium
 ---
 
@@ -28,7 +28,14 @@ The party traces its ideological lineage to Rabbi [[meir-kahane|Meir Kahane]], w
 
 Badlands commentary describes the movement's current leader as [[benzion-gopstein|Benzion Gopstein]], who — like Kahane before him — has said Christians are their ancient enemy and has condoned the burning of churches, and who was sanctioned by the Biden State Department for "destabilizing" activities in the West Bank.[2] The faction is characterized as demanding [[greater-israel|Greater Israel]] borders, a theocratic state under the [[smotrich-doctrine|Smotrich Doctrine]], and the construction of the [[third-temple|Third Temple]], and as making it impossible for Netanyahu to accept a ceasefire with [[hamas|Hamas]] or [[hezbollah|Hezbollah]].[2]
 
+## Exit from the coalition over the Gaza ceasefire (January 2025)
+
+On Sunday morning, January 19, 2025, Otzma Yehudit quit [[benjamin-netanyahu|Benjamin Netanyahu]]'s governing coalition after the government agreed to a ceasefire with [[hamas|Hamas]] in the Gaza Strip, following through on its threat to leave, and blasted the deal as a "victory for terrorism."[3] The party said its three cabinet members — [[itamar-ben-gvir|Itamar Ben Gvir]], Heritage Minister [[amichai-eliyahu|Amichai Eliyahu]], and Negev, Galilee and National Resilience Minister [[yitzhak-wasserlauf|Yitzhak Wasserlauf]] — had submitted resignation letters to Netanyahu, while MKs Zvika Fogel, Limor Son Har-Melech and Yitzhak Kroizer resigned from their Knesset committee posts.[3] "From this time onwards the Otzma Yehudit party is not a member of the coalition," the party declared.[3]
+
+The departure took five or six seats out of the coalition — the precise figure depending on negotiations with [[bezalel-smotrich|Bezalel Smotrich]]'s [[religious-zionism-party|Religious Zionism]] party — leaving Netanyahu only a few seats short of collapse; a subsequent Smotrich exit would trigger new elections.[3] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that "the knives are coming out in Tel Aviv," and argued that Ben Gvir's own account amounted to a confession that it was bad actors inside the Israeli government, not Hamas, who had thwarted every previous hostage deal — the threat of leaving the coalition being the mechanism — which he took as evidence that the faction cared about power and the [[greater-israel|Greater Israel]] project rather than the hostages or Israeli citizens.[3]
+
 ## References
 
 1. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 2. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+3. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff

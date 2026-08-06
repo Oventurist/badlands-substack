@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [healthcare, abortion, litigation, womens-health]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Coverage of the case situates it within the wider architecture of the [[federali
 
 On June 26, 2025, the [[supreme-court-of-the-united-states|Supreme Court]] ruled 6–3 that Planned Parenthood and a South Carolina patient lacked standing to challenge the state's exclusion of the organization from its [[medicaid|Medicaid]] program because it provides abortions.[2] Writing for the majority, Justice [[neil-gorsuch|Neil Gorsuch]] held that the Medicaid Act's "any qualified provider" requirement does not create a clear and unambiguous individual right enforceable through private lawsuits.[2] The decision ended the suit brought by patient Julie Edwards; Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]] dissented, joined by Justices [[sonia-sotomayor|Sonia Sotomayor]] and [[elena-kagan|Elena Kagan]].[2] The case is treated in detail at [[south-carolina-medicaid-planned-parenthood-case]].[2]
 
+## Closure of the Houston facility (2025)
+
+In October 2025 Texas Attorney General [[ken-paxton|Ken Paxton]] announced arrests of eight people accused of operating illegal abortion clinics in the Houston area, and reporting noted that the arrests followed the recent closure of a major Planned Parenthood facility in Houston, once one of the largest abortion clinics in the country.[3] Badlands commentary welcomed the Texas closure alongside the arrests, and argued — while citing Guttmacher-derived figures suggesting that in all but roughly 0.15% of cases in Florida abortion is an elective procedure — that the overwhelming majority of abortions nationally are elective rather than emergency interventions.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
+3. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

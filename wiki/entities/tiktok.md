@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, ccp, algorithms, ai]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a69.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-e10.md]
 confidence: medium
 ---
 
@@ -112,3 +112,17 @@ In an interview on Fox's Sunday Morning Futures with Maria Bartiromo in late Jun
 13. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 14. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 15. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
+16. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+17. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10
+
+## Trump amicus brief and the Supreme Court clash (January 2025)
+
+In early January 2025, President-elect [[donald-trump|Donald Trump]] filed a friend-of-the-court brief in the [[supreme-court-of-the-united-states|Supreme Court]] case over the divest-or-ban law, asking the justices to delay the statute banning TikTok in the US unless its Chinese owners sold it.[16] The law was due to take effect on January 19 — the day before Trump's inauguration — and he sought to be in power when it came into force.[16]
+
+Coverage framed the request as a potential first major clash between Trump and a court to which he had nominated three conservative members and which held a 6-3 conservative majority.[16] The Supreme Court announced on December 18, 2024 that it would hear TikTok's challenge to the law, placing the case on an expedited calendar with oral arguments set for January 10, 2025.[16]
+
+## State bans versus state tourism marketing (2025)
+
+A May 2025 Salon report highlighted the contradiction between US states banning TikTok on government devices while continuing to use the platform for tourism promotion.[17] Since 2022, more than 30 states — including Texas, Florida, and Montana — restricted TikTok on official networks, citing national security concerns, with Texas Governor [[greg-abbott|Greg Abbott]] calling it a platform that "offers this trove of potentially sensitive information to the Chinese government," even as state tourism accounts such as Visit Texas kept posting.[17]
+
+At the federal level, President [[joe-biden|Joe Biden]] signed a bill in April 2024 requiring [[bytedance|ByteDance]] to sell TikTok or face a nationwide ban, but the deadline passed months later without a sale, and the app remained running and increasingly central to tourism marketing across the country.[17] [[badlands-media|Badlands Media]] commentator [[jon-herold|Jon Herold]] noted the absence of recent news about TikTok's ultimate fate in the US, observing that the ban delay was in effect until June 19.[17]

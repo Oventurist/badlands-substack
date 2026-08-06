@@ -1,0 +1,3 @@
+## Reporting on the DOJ Russia-media probe (2024)
+
+Newsweek reported in August 2024, citing the [[new-york-times|New York Times]], that Americans with ties to [[vladimir-putin|Vladimir Putin]]'s state TV networks were under investigation by Attorney General [[merrick-garland|Merrick Garland]]'s [[department-of-justice|Department of Justice]] as part of a sweeping push to quash potential Kremlin interference ahead of the 2024 election.[n] The article detailed [[fbi|FBI]] searches of the homes of [[scott-ritter|Scott Ritter]] and [[dimitri-simes|Dimitri Simes]] and noted Ritter's January 2024 visit to Chechnya to meet [[ramzan-kadyrov|Ramzan Kadyrov]].[n]

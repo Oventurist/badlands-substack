@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md]
 confidence: low
 ---
 
@@ -66,3 +66,18 @@ Truth Social's parent, [[trump-media-and-technology-group|Trump Media]], made it
 7. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 8. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 9. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## Reported sale overture to Elon Musk (2023)
+
+The Washington Post reported in March 2024 that former president [[donald-trump|Donald Trump]] had asked [[elon-musk|Elon Musk]] the previous summer whether the billionaire would be interested in buying Truth Social, according to two people with knowledge of the conversation.[10] The overture did not lead to a deal, but the previously unreported exchange indicated the two men had communicated more than was publicly known, and Trump advisers said they had also discussed politics and business on other occasions.[10] At the time of the discussion, Trump's media company, which owns Truth Social, was trapped in a long-delayed merger process; Musk had bought X, then Twitter, for $44 billion in 2022.[10]
+
+Trump also used the platform on March 11, 2024 to declare that his first acts as president would be to close the border, expand oil drilling, and "Free the January 6 Hostages being wrongfully imprisoned!"[10]
+
+10. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
+
+## Parent company's Nasdaq listing and the DJT short-selling complaint (April 2024)
+
+Truth Social's parent, [[trump-media-and-technology-group|Trump Media and Technology Group]], began trading on the Nasdaq in late March 2024, and in April its CEO [[devin-nunes|Devin Nunes]] asked House committees to investigate potential unlawful manipulation of DJT stock.[11] Nunes noted that DJT had appeared every day since April 2 on Nasdaq's Reg SHO threshold list and warned that [[naked-short-selling|naked short selling]] typically enables sophisticated market participants to profit at retail investors' expense.[11] He cited reports that DJT was, as of April 3, 2024, the single most expensive stock to short in U.S. markets by a significant margin.[11]
+
+
+11. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

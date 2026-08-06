@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, criminal-justice, trump-prosecutions, fulton-county]
-sources: [raw/badlands-news-brief-ba4.md]
+sources: [raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Commentary published by [[badlands-media|Badlands Media]] turned that descriptio
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
+
+## Trump booking (August 24, 2023)
+
+[[donald-trump|Donald Trump]] was booked into the Fulton County Jail in Atlanta on August 24, 2023 after surrendering to Georgia authorities on racketeering and conspiracy charges brought by District Attorney [[fani-willis|Fani Willis]].[2] He arrived at approximately 7:36 p.m. local time and was released on a $200,000 bond roughly twenty minutes later, having had his fingerprints and mugshot taken during processing.[2] Trump subsequently described the booking as a "terrible experience" and said he had never previously heard the term "mug shot."[2] See [[2023-trump-fulton-county-booking|2023 Trump Fulton County booking]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

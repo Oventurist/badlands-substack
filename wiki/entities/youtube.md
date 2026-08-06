@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [youtube, google, censorship, big-tech, deplatforming]
-sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-d21.md]
+sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d7d.md]
 confidence: medium
 ---
 
@@ -32,3 +32,9 @@ In late January 2024 a video posted by [[justin-mohn|Justin Mohn]] showing the s
 1. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 3. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+
+## Removal of Kennedy videos (2023)
+
+Google and its subsidiary YouTube removed multiple videos of presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] during 2023 on the grounds that they allegedly contained medical misinformation.[4] Kennedy's lawyers argued in an unsuccessful motion for a temporary restraining order that the removals violated the First Amendment because they were spurred by government policy, noting that YouTube's policy is to censor information contradicting [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]] guidance.[4] [[google|Google]] responded that it is separate from the government and had exercised its own editorial discretion.[4]
+
+4. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d

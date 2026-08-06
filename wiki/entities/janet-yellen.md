@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, treasury, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -54,6 +54,10 @@ In March 2021, Yellen reissued the sanctions against Israeli mining oligarch [[d
 
 Reporting in late November 2024 described Yellen as "abruptly" exiting office and leaving a fiscal mess behind for the incoming Trump team.[9] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] juxtaposed her exit with NATO Admiral [[rob-bauer|Rob Bauer]]'s call for Western businesses to prepare for a "wartime scenario," implying the two developments were connected and urging readers to consider Bitcoin.[9]
 
+## Considered for a return as Fed chair (2025)
+
+Treasury Secretary [[scott-bessent|Scott Bessent]] disclosed on August 12, 2025 that President [[donald-trump|Donald Trump]] had considered re-appointing Yellen as [[federal-reserve|Federal Reserve]] chair as part of a wide-ranging search for a successor to [[jerome-powell|Jerome Powell]], whose term as chairman expires in May 2026.[10] Bessent said Trump had a "very open mind" on the choice and that the administration wanted "to see what everyone's thinking."[10]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
@@ -64,3 +68,4 @@ Reporting in late November 2024 described Yellen as "abruptly" exiting office an
 7. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 8. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 9. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+10. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

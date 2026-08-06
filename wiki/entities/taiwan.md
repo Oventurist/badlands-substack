@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taiwan, china, geopolitics, maritime-disputes, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ee9.md]
 confidence: medium
 ---
 
@@ -92,3 +92,9 @@ During the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]]
 10. Badlands Brief — "Archer's Testimony & Prussian Roulette", URL: https://badlands.substack.com/p/badlands-news-brief-9e7
 11. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 12. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## April 2023 Chinese wargames
+
+In April 2023, following the meeting in California between President [[tsai-ing-wen|Tsai Ing-wen]] and US House Speaker [[kevin-mccarthy|Kevin McCarthy]], China conducted a major show of force in which the [[peoples-liberation-army|PLA]] rehearsed "sealing off" the island; see [[2023-chinese-military-drills-around-taiwan|2023 Chinese military drills around Taiwan]].[13] Reports on Monday, April 10 cited at least 58 aircraft buzzing the island and nine warships approaching its territorial waters, a day after at least 70 Chinese aircraft breached its air defense identification zone and eleven military ships encircled it, including a rare deployment of J-15 fighter jets.[13] State broadcaster CCTV said the drills had "simulated joint precision strikes against key targets on Taiwan island and surrounding waters."[13] French President [[emmanuel-macron|Emmanuel Macron]] argued days later that Europe should avoid being dragged into a China–United States confrontation over Taiwan.[13]
+
+13. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9

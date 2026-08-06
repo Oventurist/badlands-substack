@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, diplomacy, foreign-minister, war]
-sources: [raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-bcc.md]
+sources: [raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-f9f.md]
 confidence: medium
 ---
 
@@ -32,3 +32,4 @@ On Wednesday, July 24, 2024, Kuleba met Chinese foreign minister [[wang-yi|Wang 
 1. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 2. Badlands Brief — "Badlands News Brief: Obama's Secrets, Blinken's Billions & GOP Posers", URL: https://badlands.substack.com/p/badlands-news-brief-a43
 3. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+4. Badlands Brief — "Badlands News Brief: Trump Trolls, Tucker Trends & Ukraine Rages", URL: https://badlands.substack.com/p/badlands-news-brief-f9f

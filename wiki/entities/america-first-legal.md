@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-advocacy, transparency, intelligence-oversight, conservative]
-sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-ea6.md]
 confidence: medium
 ---
 
@@ -60,6 +60,12 @@ In August 2023, AFL and others sued the [[progressive-corporation|Progressive Co
 
 In October 2023 America First Legal announced that its Freedom of Information Act lawsuit against the [[national-archives-and-records-administration|National Archives]] had revealed the volume of correspondence between then-Vice President [[joe-biden|Joe Biden]]'s office and entities tied to his family.[10] According to the group, the office exchanged 19,335 emails with [[rosemont-seneca-partners|Rosemont Seneca]], 4,243 emails with [[hunter-biden|Hunter Biden]], 1,751 emails with [[james-biden|Jim Biden]], and 3,738 emails with Jim's Lion Hall.[10] Badlands contributor [[ashe-in-america|Ashe in America]] cited the figures as undercutting longstanding claims of a "wall of separation" between Joe Biden and his family's business dealings, stressing that the communications are official records held in the National Archives and predicting the war narrative would intensify to distract from them.[10]
 
+## Investigation into Brazil's censorship of X (September 2024)
+
+In September 2024, America First Legal launched an investigation into the Biden–Harris administration's possible knowledge of Brazil's censorship of [[elon-musk|Elon Musk]]'s social media platform [[x-corp|X]], requesting documents from three U.S. agencies.[14] Brazil had banned the site under the directive of Supreme Court judge [[alexandre-de-moraes|Alexandre de Moraes]], causing an uproar among free speech advocates.[14]
+
+AFL pointed to the administration's National Strategy for Countering Domestic Terrorism, a 2021 document that promised to tackle "disinformation" and to work with governments and technology companies to address terrorist online content.[14] The group's press release noted that ten days before Brazil's 2022 election, Moraes — whom Musk had called a "dictator" — gained the power to direct tech companies to censor "disinformation."[14]
+
 ## References
 1. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
 2. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
@@ -89,3 +95,11 @@ AFL, described in the reporting as a nonprofit working to promote the rule of la
 
 11. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
 12. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+13. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## Suit against the DHS Homeland Intelligence Experts Group
+
+America First Legal, joined by former Ambassador [[richard-grenell|Richard Grenell]], sued the [[department-of-homeland-security|Department of Homeland Security]] over its [[homeland-intelligence-experts-group|Homeland Intelligence Experts Group]] shortly after the panel was announced in September 2023, and the action spurred Republican members of Congress to take steps against it.[13] AFL alleged that the group, composed of partisan actors, violated the [[federal-advisory-committee-act|Federal Advisory Committee Act]] for several reasons, including its lack of balance, the [[joe-biden|Biden]] administration's inappropriate influence over it, and its lack of public notice and participation.[13] AFL described the body as "a completely partisan group designed to provide top cover for the Department's radical agenda," noting that its membership included [[john-brennan|John Brennan]] and [[james-clapper|James Clapper]].[13]
+
+To avoid further litigation and scrutiny, the administration agreed in May 2024 to disband the group and provide its records to AFL, though the group may have been active for a year before being pressured to shut down; AFL reported that it "had already been meeting for as long as four months" by the time of its public announcement.[13] Internal files released through the settlement and reported in June 2024 showed the group had classified supporters of [[donald-trump|Donald Trump]], members of the military, and religious believers as persons likely to commit "domestic violent extremist" attacks.[13] Badlands commentary credited AFL, along with the states of Missouri and Louisiana, with fighting government weaponization in the courts.[13]
+14. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md

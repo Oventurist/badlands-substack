@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-pharma, pfizer, advertising, viagra]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a61.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-e07.md]
 confidence: medium
 ---
 
@@ -89,6 +89,10 @@ Pharmaceutical companies, pharmacists, and medical associations with longstandin
 
 In January 2023 [[project-veritas|Project Veritas]] published undercover footage of a man identified as Pfizer executive [[jordan-trishton-walker|Jordan Trishton Walker]], who purportedly described a company "[[directed-evolution|directed evolution]]" plan to mutate COVID-19 in-house and keep the disease a "cash cow."[17] Confronted by Project Veritas founder [[james-okeefe|James O'Keefe]], Walker recanted, calling himself a "liar" who had been "trying to impress a person on a date," requested police involvement, and physically attacked O'Keefe and his film crew.[17] The video attracted congressional curiosity but also intermittent Big Tech throttling and a partial media blackout, with the [[daily-mail|Daily Mail]] removing its article on the sting; critics read the episode as an attempt to rebrand [[gain-of-function-research|gain-of-function research]] before public exposure was intended.[17]
 
+## IgG4 immune-exhaustion research (2023)
+
+A study reported in June 2023 argued that repeated COVID-19 vaccination weakens the immune system, potentially leaving recipients susceptible to life-threatening conditions such as cancer.[18] Researchers noted that multiple doses of the Pfizer or [[moderna|Moderna]] vaccines produce higher levels of the antibody subclass IgG4, and that a growing body of evidence indicated these "abnormally high levels" render the immune system more susceptible to the spike protein contained in the vaccines.[18] The paper cited mouse experiments in which boosters on top of the initial vaccination "significantly decreased" protection against both the Delta and Omicron variants, and testing showing a spike in IgG4 levels after repeat Pfizer vaccination that suggested immune exhaustion.[18] Separate studies had detected higher IgG4 levels in people who died with COVID-19 than in those who recovered.[18]
+
 ## References
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -107,3 +111,9 @@ In January 2023 [[project-veritas|Project Veritas]] published undercover footage
 15. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 16. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 17. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+18. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+## Project Veritas 'directed evolution' exposé (January 2023)
+
+A January 2023 [[project-veritas|Project Veritas]] release under the #ExposePfizer banner alleged that a Pfizer director had admitted the company was discussing — and possibly already experimenting with — mutating the COVID-19 virus itself in order to develop preemptive vaccines for anticipated new variants, a practice discussed under the heading of [[directed-evolution|directed evolution]].[19] Badlands contributor [[jordan-sather|Jordan Sather]] called the drop "a heavy hitter" and noted that the same director said he believed the original COVID strain came out of the [[wuhan-institute-of-virology|Wuhan lab]].[19]
+
+19. Badlands Brief — "Badlands News Brief: Big Tech Crunch, OPSEC & Vax Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-e07

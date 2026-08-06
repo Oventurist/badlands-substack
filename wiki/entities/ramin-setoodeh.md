@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, trump, television]
-sources: [raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-adc.md, raw/badlands-news-brief-e1e.md]
 confidence: low
 ---
 
@@ -22,5 +22,16 @@ The Atlantic's review characterized the book as a revealing look behind the scen
 
 [[burning-bright|Burning Bright]] argued that the persona thesis was not news to Anons, who had said for years that "The Donald" was a construct crafted or perfected on the show, and that what unsettled the establishment was its own belated recognition of the fact.[1]
 
+## CNN interview and the "foreign policy powers" claim
+
+Setoodeh, the co-editor-in-chief of [[variety|Variety]], interviewed Trump six times for his book, "Apprentice in Wonderland: How Donald Trump and Mark Burnett Took America Through the Looking Glass," which was released on Tuesday, June 18, 2024.[2] Appearing on [[cnn|CNN]]'s "The Source" with host [[kaitlan-collins|Kaitlan Collins]], he said Trump had appeared to believe he still possessed "foreign policy powers" after leaving the [[white-house|White House]].[2]
+
+Setoodeh described Trump as "happiest" when talking about [[the-apprentice|The Apprentice]], with his mood shifting when the conversation turned to his presidency: "And then he would talk about what he did at the White House, and he would become gloomy, and resentful, and unhappy, and refer to Afghanistan and Joe Biden. But he also seemed to think that he still had some foreign policy powers."[2] He recounted that on one day Trump told him he needed to go upstairs to deal with Afghanistan, "even though he clearly didn't," and noted that Trump referred to it as "the Afghanistan."[2] Earlier in the same appearance Setoodeh characterised Trump as "deflated" and "conflicted" across the half-dozen interviews, which began in May 2021.[2]
+
+### Devolution reading
+
+[[burning-bright|Burning Bright]] treated the account as an instance of the [[media-industrial-complex|media industrial complex]] tiptoeing around what he said had long been obvious to readers of [[jon-herold|Jon Herold]]'s research on [[devolution|Devolution]] and [[continuity-of-government|Continuity of Government]], and to those who had followed the Q drops.[2] He framed the open question as whether media figures knew the truth about devolution and were actively working to undermine it, or whether they were, as he suspected, simply wandering in the dark alongside their remaining audience — arguing that "the media shills didn't attain their positions by being movers in the System ... they did so by blindly defending that System at all times."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+2. Badlands Brief — "Badlands News Brief: Devo Takes, Cheap Fakes & Sovereign Alliance Dates", URL: https://badlands.substack.com/p/badlands-news-brief-e1e

@@ -1,0 +1,3 @@
+## Badlands framing, August 2024
+
+Badlands commentary in August 2024 described the Information War as entering a phase in which the legacy apparatus was failing: [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that even with fabricated news stories, altered websites, censorship, celebrity surrogates and hyper-realistic AI renderings, the intelligence community's propaganda had become "half-baked."[n] [[burning-bright|Burning Bright]] described [[jack-dorsey|Jack Dorsey]] as one of the most enigmatic figures in the Info War following the unsealing of [[x-corp|X]]'s shareholder list.[n] The brief also cited [[vladimir-putin|Vladimir Putin]]'s February 2024 claim that the West, unable to defeat Russia on the battlefield, had turned to information warfare.[n]

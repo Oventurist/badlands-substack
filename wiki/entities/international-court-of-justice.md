@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [international-law, united-nations, geopolitics, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-ac3.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f44.md]
 confidence: medium
 ---
 
@@ -34,8 +34,31 @@ The Brief noted that the ICJ predates the [[un-partition-plan-for-palestine|UN P
 
 Prior to February 2024, no complaint against Israel had ever been given standing by the court, despite Israel's occupation of Palestine since June 1967 and other acts of aggression against its neighbors.[4] The Brief attributed this to the view, ascribed to European leaders, that the UN's courts were made to prosecute "African warlords and thugs like Vladimir Putin... not western leaders."[4] It argued that the ruling effectively branded Palestine under Israeli occupation an apartheid state, that outrage over it amounted to siding with the globalists, and that the ruling signalled a circular firing squad forming within the globalist tent — a process the author traced to [[donald-trump|Donald Trump]]'s May 3, 2017 promise to [[mahmoud-abbas|Mahmoud Abbas]] to liberate Palestine from Netanyahu, itself a continuation of the process begun with the 1993 [[oslo-accords|Oslo Accords]] signed by [[yasser-arafat|Yasser Arafat]] and [[yitzhak-rabin|Yitzhak Rabin]], both later murdered.[4]
 
+
+## May 2024 Rafah order
+
+On Friday, May 24, 2024, one week after hearing renewed arguments from [[south-africa|South Africa]] and Israel, the ICJ ordered Israel to immediately halt its military offensive in [[rafah|Rafah]], while stopping short of ordering a full ceasefire in Gaza.[5] The court further ordered Israel to submit a report within 30 days detailing all measures taken to give effect to the order, modifying its earlier ruling of March 28 that had cautioned Israel to prevent any form of genocide.[5] The ruling was framed as a preliminary step in the still-unscheduled genocide case brought by South Africa against Israel.[5]
+
+Badlands commentary emphasized that the ICJ — established in 1945 as a forum for mediating disputes between sovereign nations — is frequently confused with the [[international-criminal-court|International Criminal Court]], a separate Hague-based body that Badlands writers attribute to [[george-soros|George Soros]] and characterize as an instrument for prosecuting inconvenient national leaders.[5] Analysts cited in the brief affirmed that the ICJ has no capacity to enforce its own order, and that only the [[united-nations-security-council|UN Security Council]] would possess even limited enforcement authority.[5] Israel rejected the proceedings outright, with [[benjamin-netanyahu|Benjamin Netanyahu]]'s government calling the genocide charges "false, outrageous and morally repugnant."[5] Almost immediately after the ruling, Israel launched airstrikes on Rafah that continued through the weekend.[5]
+
+## South Africa's Rafah application, May 2024
+
+On May 16, 2024, [[south-africa|South Africa]] asked the International Court of Justice to urgently order [[israel|Israel]] to end its assault on [[rafah|Rafah]], halt its military campaign across [[gaza|Gaza]], and allow international investigators and journalists into the territory.[6] Lawyers for South Africa expanded a written request for judges to issue an emergency order stopping the offensive into Rafah, Gaza's southernmost city, arguing that seven months into a war that had killed more than 35,000 people and reduced much of Gaza to rubble, the scale of suffering required a total ceasefire to allow food, medicine and aid to reach the population.[6]
+
+Professor Vaughan Lowe KC told the court that a destructive campaign in Rafah — the last corner of Gaza not to have faced a ground invasion — would destroy "the foundation of Palestinian life," and that if the court did not act the possibility of rebuilding a viable Palestinian society would be destroyed for the lifetime of the survivors.[6] Counsel Blinne Ní Ghrálaigh told the judges that the alarm sounded by the court on March 28, 2024 — that "all the indicators of genocidal activities are flashing red in Gaza" — was sounding louder than ever, and that Israel had defied every provisional measure indicated in the orders of January 26 and March 28 and the decision of February 16.[6]
+
+South Africa's team presented video of National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]] at a "Gaza March" rally demanding "WAR NOW!" and entry into Rafah, and footage of [[israel-defense-forces|IDF]] soldiers chanting "Let's go destroy Rafah!"[6] It described mass graves containing men, women and children, many with limbs bound in a manner indicating they had been taken prisoner and summarily executed, and named Brigadier General [[david-bar-khalifa|David Bar-Khalifa]] among those accused of ordering such executions.[6] Counsel Tembeka Ngcukaitobi told the court, "Israel's intent was always to destroy Palestinian life and to wipe them off the face of the Earth," while another lawyer argued there is no right of self-defense by an occupying state against the territory it occupies and that nothing can justify genocide.[6] Israel was scheduled to present its official response the following day.[6]
+
+
+## Turkey's intervention in the South Africa genocide case
+
+On August 5, 2024, Turkish Foreign Minister [[hakan-fidan|Hakan Fidan]] said [[turkey|Turkey]] would formally submit its declaration of intervention in [[south-africa|South Africa]]'s genocide case against [[israel|Israel]] before the Court at The Hague two days later.[7] Turkey had first announced its decision to join the proceedings in May 2024, as part of a broader escalation of measures against Israel over the war in [[gaza|Gaza]], stating that it would file once the necessary legal preparations were complete.[7]
+
 ## References
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
 2. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
 3. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 4. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3
+5. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
+6. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+7. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

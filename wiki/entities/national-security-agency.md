@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, signals-intelligence, leaks, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f46.md]
 confidence: medium
 ---
 
@@ -30,9 +30,26 @@ In February 2025, Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbar
 
 Sources told The Atlantic that the National Security Agency was one of two intelligence agencies that broke with the community consensus in a [[national-intelligence-council|National Intelligence Council]] report released in January 2025, concluding there was about a 50/50 chance that foreign actors had developed the radiofrequency technology associated with [[havana-syndrome|Havana Syndrome]].[4] The agency's revised evaluation was reported to rest on "intercepted communications" linked to a foreign actor.[4]
 
+
+## Fort Meade Information-War Cluster
+
+Badlands commentary in December 2024 noted that the NSA is one of several notable organizations headquartered at [[fort-meade|Fort Meade]], Maryland, alongside the combatant command [[us-cyber-command|CYBERCOM]], the Military Intelligence Civilian Excepted Career Program, the [[defense-information-systems-agency|Defense Information Systems Agency]], the [[defense-information-school|Defense Information School]], and the [[defense-media-activity|Defense Media Activity]] — the same installation that hosted [[project-stargate|Project Stargate]].[5]
+
+## Intelink chat log investigation (February 2025)
+
+In February 2025 the NSA opened an investigation into government employees discussing fetishes and transgenderism on official government chat systems during work hours.[6] Chat logs obtained by *City Journal* showed NSA, [[cia|CIA]], and [[defense-intelligence-agency|DIA]] employees discussing polyamory, transgender surgeries, and explicit sexual topics on the NSA's Intelink messaging platform, with sources claiming the discussions were legitimized through diversity, equity and inclusion initiatives within LGBTQ+ employee resource groups.[6] The agency confirmed the authenticity of the chats and stated, "We're taking action against any and all employees who abused this system."[6] See [[nsa-intelink-chat-log-scandal|NSA Intelink chat log scandal]].[6]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 3. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 4. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+5. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
+6. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+
+## 2024 Israel-Iran leak
+
+NSA-attributed documents, alongside material from the [[national-geospatial-intelligence-agency|National Geospatial-Intelligence Agency]], appeared on Telegram in October 2024 detailing Israel's preparations to strike Iran after Iran's October 1 missile barrage, and were sharable within the [[five-eyes|Five Eyes]] partnership.[7] Their disclosure produced federal charges in November 2024 against [[asif-william-rahman|Asif William Rahman]], a government employee holding top secret clearance who was arrested by the [[fbi|FBI]] in Cambodia.[7]
+
+7. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46

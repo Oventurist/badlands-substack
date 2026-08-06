@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, censorship, supreme-court, fbi]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c0a.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -40,9 +40,13 @@ On Wednesday, June 26, 2024, the [[supreme-court-of-the-united-states|Supreme Co
 
 Writing shortly after the decision, she predicted a repeat of 2020-style censorship heading into the election, noting that independent journalist Sarah Fields had posted on X that she lost 1,100 followers overnight due to account suspensions rather than bot cleanup, and that Dr. Travis Morrel — who wrote a policy to ban certain surgeries performed on girls — had been suspended without warning.[3] The commentary concluded that the majority had emboldened the government to leverage private companies to silence dissenting voices in what it called a brazen violation of the Constitution.[3]
 
-## References
+## Application to the RFK Jr. censorship suit (2024)
 
+In August 2024, District Judge [[terry-doughty|Terry Doughty]] applied the Murthy standard to allow [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]]'s censorship lawsuit against the Biden administration to proceed, finding "ample evidence" of past censorship at the direction of government actors and a "substantial risk" of continued censorship.[5] Doughty described the ruling as requiring that "a court must make specific findings that a particular defendant pressured a particular platform to censor a particular topic before the platform suppressed a particular plaintiff's speech on that topic."[5] The June 2024 decision itself had held that the state and individual plaintiffs who alleged First Amendment violations from federal pressure on social media companies lacked standing to sue.[5]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
 2. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 3. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
 4. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
+5. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

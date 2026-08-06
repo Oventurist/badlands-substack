@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative, info-war, trump, theory]
-sources: [raw/badlands-brief-e3b.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-brief-e3b.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-e98.md]
 confidence: low
 ---
 
@@ -34,8 +34,15 @@ A late-campaign episode frequently cited as TrumpaMania in its purest form came 
 
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the day as confirmation of the frame, noting that [[steve-bannon|Steve Bannon]] had affirmed the previous day that "politics is professional wrestling" before the Commander-in-Chief rebranded himself as the "Commander-in-Trash."[4] He argued that Trump understood troop morale as one of the most critical factors in fighting a war, and that making the campaign fun and whimsical while humiliating the [[uniparty|Uniparty]] was itself a strategic act.[4] "TrumpaMania will go down as perhaps the greatest thing to ever happen in politics," he wrote, warning the [[deep-state|Deep State]] not to let the laughter fool them, since Trump was on a mission to destroy it with over 250 million people at his side.[4] The same author invoked the frame again in reacting to [[volodymyr-zelensky|Volodymyr Zelenskyy]]'s complaints about the White House leak, describing himself as savoring "the last few bites of this TrumpaMania sandwich."[4]
 
+## Hells Angels and the Musk storyline
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] extended the TrumpaMania frame in October 2024 by drawing a parallel between [[hulk-hogan|Hulk Hogan]]'s 1996 heel turn — when the nWo stable entered arenas alongside the [[hells-angels|Hells Angels]] — and [[donald-trump|Donald Trump]]'s May 20, 2024 entrance into a New York courtroom with an entourage so large it exhausted the seating, including Chuck Zito, former president of the club's New York chapter.[5]
+The same club had volunteered to work security for Trump rallies in 2016.[5]
+[[elon-musk|Elon Musk]] was described as becoming one of the great characters of TrumpaMania, with his public spats — first with Nicolás Maduro, then with NASA over his reported [[musk-putin-conversations-controversy|contacts with Vladimir Putin]] — treated as escalating storylines, and Musk himself posting a video on X carrying Hulk Hogan and TrumpaMania references.[5]
+
 ## References
 1. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 4. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+5. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98

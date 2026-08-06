@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nih, covid-19, lab-leak, public-health]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-af7.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -35,6 +35,10 @@ Records published in August 2023 by the watchdog [[openthebooks|OpenTheBooks]], 
 
 Congressional investigators on the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]] reported in March 2023 that Collins, then Director of the [[national-institutes-of-health|National Institutes of Health]], joined [[anthony-fauci|Dr. Anthony Fauci]] and at least eleven other scientists on a February 1, 2020 conference call during which several participants warned that COVID-19 may have leaked from a lab in Wuhan and may have been intentionally genetically manipulated.[5] Three days later, four of the call's participants drafted the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper — which argued against a laboratory origin — and sent it to Fauci and Collins.[5]
 
+## Closed-door testimony on Covid origins and social distancing
+
+Testifying behind closed doors before the [[select-committee-on-the-chinese-communist-party|congressional]] Select Subcommittee on the Coronavirus Pandemic, former [[national-institutes-of-health|National Institutes of Health]] director Francis Collins admitted that the origins of the coronavirus remain up for debate, that the lab-leak theory is not a conspiracy, and that there was no scientific evidence supporting the government's social-distancing guidance.[6] Asked whether he recalled science or evidence supporting the [[centers-for-disease-control-and-prevention|CDC]]'s six-foot distance rule, Collins answered, "I do not," and when pressed clarified: "I did not see evidence, but I'm not sure I would have been shown evidence at that point," adding that he had not seen supporting evidence since.[6] The transcript and an accompanying subcommittee memo were released to [[national-review|National Review]] in May 2024.[6]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
@@ -42,3 +46,4 @@ Congressional investigators on the [[house-select-subcommittee-on-the-coronaviru
 3. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 4. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 5. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+6. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

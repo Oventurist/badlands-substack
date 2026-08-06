@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b19.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-e31.md]
 confidence: low
 ---
 
@@ -58,3 +58,11 @@ In January 2024 a proposed bill to remove Raffensperger from his role on the [[g
 5. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 7. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+
+## Defense of ERIC membership (2025)
+
+In February 2025, as Georgia House Republicans advanced a bill by Representative [[martin-momtahan|Martin Momtahan]] that would make Georgia the tenth state to leave the [[electronic-registration-information-center|Electronic Registration Information Center]], Raffensperger defended continued membership.[8] He credited the system with helping him maintain accurate voter data, which officials say provides more robust information than states can gather on their own, in contrast to Momtahan's claim that departures by neighbouring states had rendered the network "totally ineffective."[8]
+
+Separately, Badlands commentary on Fulton County's refusal to release its 2020 ballots invoked Raffensperger's well-known telephone call with [[donald-trump|Donald Trump]], arguing that Trump had known the underlying facts and had tried to give Georgia officials an "out."[8]
+
+8. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31

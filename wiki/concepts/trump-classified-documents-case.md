@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, trump, classified-documents, presidential-immunity, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b76.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-de1.md]
 confidence: medium
 ---
 
@@ -72,6 +72,12 @@ On Thursday, May 2, 2024, [[donald-trump|Donald Trump]] filed a motion to dismis
 
 At a hearing in Fort Pierce, Florida on July 18, 2023, Judge [[aileen-cannon|Aileen Cannon]] signaled that December 2023 might be too soon to begin the trial, while declining to rule on the defense request for an indefinite postponement until after the 2024 election.[10] She said a written order would follow "promptly."[10] Badlands contributor [[burning-bright|Burning Bright]] argued that each indictment, lawsuit and smear campaign was strengthening [[donald-trump|Donald Trump]]'s standing as the anti-establishment candidate and that public legal and narrative battles of this kind were a necessary feature of a period of disclosure.[10]
 
+## Dismissal (July 15, 2024)
+
+A federal judge in Florida dismissed the classified documents case against [[donald-trump|Donald Trump]] on Monday, July 15, 2024, siding with defense lawyers who argued that the special counsel who filed the charges had been illegally appointed by the Justice Department.[11] Hours later, special counsel [[jack-smith|Jack Smith]]'s office said it would appeal the order, which could eventually be overturned by a higher court.[11] For the time being, however, the dismissal by U.S. District Judge [[aileen-cannon|Aileen Cannon]] brought an abrupt halt to a prosecution that at the time of filing had been widely regarded as the most perilous of the legal threats Trump faced.[11]
+
+Although the case had long been stalled and a trial before the November election was already out of reach, the ruling was described as a significant legal and political victory arriving as Trump recovered from the [[attempted-assassination-of-donald-trump-2024|weekend assassination attempt]] and prepared to accept the Republican nomination in Milwaukee.[11] [[badlands-media|Badlands Media]] summarised the moment bluntly — "The docs case is finished. Jack Smith is illegitimate." — as part of a run of developments it read as the tide turning in Trump's favour.[11]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
@@ -83,3 +89,4 @@ At a hearing in Fort Pierce, Florida on July 18, 2023, Judge [[aileen-cannon|Ail
 8. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 9. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
 10. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+11. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1

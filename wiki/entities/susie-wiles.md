@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, trump-administration, arctic-frost, fbi, surveillance]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -67,3 +67,11 @@ In April 2024, Wiles and fellow Trump co-campaign manager [[chris-lacivita|Chris
 5. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
 6. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 7. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+
+## Social media directive to Trump nominees (December 2024)
+
+On Sunday, December 29, 2024, Wiles sent a memo ordering all intended nominees of the incoming administration to refrain from posting on social media as Senate confirmation hearings were set to begin the following week.[8] "While this instruction has been delivered previously, I am reiterating that no member of the incoming administration or Transition speaks for the United States or the President-elect himself," she wrote, adding that "all intended nominees should refrain from any public social media posts without prior approval of the incoming White House counsel."[8] The first-ever female chief of staff, nicknamed the "Ice Maiden," noted in the otherwise frank directive that she appreciated "how enthusiastic everyone is" about joining the second Trump term.[8]
+
+Badlands commentary read the timing as a signal to MAGA supporters that President Trump did not share [[elon-musk|Elon Musk]]'s enthusiasm for the [[h-1b-visa-program|H-1B visa program]], while observing that Musk continued tweeting excessively after the story posted, suggesting the memo was not aimed at stopping his use of X.[8] The item was characterized as a deliberate narrative deployment by Wiles, with the message that nobody speaks for "The Boss" and nothing said before January 20 should be taken as gospel.[8]
+
+8. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

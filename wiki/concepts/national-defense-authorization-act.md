@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [defense-policy, congress, legislation, industrial-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e8f.md]
 confidence: medium
 ---
 
@@ -51,3 +51,10 @@ The defense policy bill passed by the House on Thursday, December 14, 2023 and s
 4. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
 5. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 
+## FY2026 passage and the voting-systems provision (December 2025)
+
+On Wednesday, December 10, 2025, the House easily passed the annual defense policy bill, sending the $900 billion measure to the Senate ahead of the year-end deadline; the vote was 312-112, with ninety-four Democrats and eighteen Republicans opposed.[6] The traditionally bipartisan bill would increase pay for service members, provide some military aid to Ukraine, restrict U.S. investment in China, and fully repeal sanctions on Syria, among other things.[6] It also contained a provision withholding a portion of Defense Secretary [[pete-hegseth|Pete Hegseth]]'s travel budget until he turned over unedited footage of U.S. military strikes against alleged drug boats in the Caribbean and copies of the orders behind the operations.[6] Although the final vote was not close, the legislation's passage was not without drama.[6]
+
+Badlands commentator [[jon-herold|Jon Herold]] highlighted a section of the NDAA requiring "penetration testing as part of the testing, certification, decertification, and recertification of voting system hardware and software," writing that the provision would be welcome if it exposed fraud but that using machines for voting was a mistake in the first place.[6]
+
+6. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f

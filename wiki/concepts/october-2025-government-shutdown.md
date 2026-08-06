@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [government-shutdown, congress, federal-budget, appropriations, libertarianism]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b4d.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-c16.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-b4d.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-c16.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-dd8.md, raw/badlands-news-brief-e48.md]
 confidence: medium
 ---
 
@@ -141,6 +141,17 @@ Hours later, Senate Democrats blocked Johnson's [[shutdown-fairness-act-of-2025|
 
 [[ashe-in-america|Ashe in America]] responded that since legislators could not agree, the question should go to a popular vote, proposing to fund the military, eliminate most federal jobs, and pay [[congress|Congress]] the minimum wage.[16]
 
+
+## Trump's filibuster demand
+
+On October 30, 2025, President [[donald-trump|Trump]] urged Senate Republicans to "initiate the '[[nuclear-option|nuclear option]]'" and abolish the [[filibuster|filibuster]], which would let the GOP pass a funding bill with 50 votes instead of the 60 then required.[17] Reporting noted the demand could endanger fragile negotiations to reopen the government, and that Senate Republicans had privately asked Vice President Vance on the preceding Tuesday to get Trump to stop raising the filibuster.[17] The GOP had secured only three of the at least seven Democratic votes needed to reach the 60-vote threshold, with Democrats withholding support in an attempt to force Republicans to negotiate on extending [[affordable-care-act|Affordable Care Act]] tax credits.[17]
+
+Badlands host [[canncon|CannCon]] called the impasse unambiguously "a Democrat shutdown" while arguing the GOP should not get off easy, noting that single-line appropriations promised in the January 2023 Speaker vote had not materialized 33 months later, that the Congress had proposed three budget bills in 2025 and seven since 2024 without one being a single-line appropriation, and that the continuing resolution had "reigned supreme since 1998" while the debt continued to skyrocket.[17]
+
+## Schumer's appeal to Trump (21 September 2025)
+
+Days before federal funding was set to expire on 30 September, Senate Democratic Leader [[chuck-schumer|Chuck Schumer]] urged President [[donald-trump|Donald Trump]] to meet with Democrats and strike a bipartisan deal to avert a shutdown, saying on CNN's *State of the Union*, "I hope and pray that Trump will sit down with us and negotiate a bipartisan bill."[18] The appeal followed the [[united-states-senate|Senate]]'s rejection the previous week of both Republican and Democratic proposals to keep the government temporarily funded, an outcome that raised the likelihood of a lapse in appropriations.[18] Badlands contributor [[ashe-in-america|Ashe in America]] responded that Congress should be the first body to go unpaid in a shutdown, questioning the value exchange offered to Americans by the legislature.[18]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -159,3 +170,5 @@ Hours later, Senate Democrats blocked Johnson's [[shutdown-fairness-act-of-2025|
 14. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
 15. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16
 16. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+17. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+18. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [inauguration, trump, diplomacy, 2025]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-ba8.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-eff.md]
 confidence: medium
 ---
 
@@ -46,7 +46,30 @@ Overnight, Trump began purging more than 1,000 appointees from the Biden adminis
 
 The White House Spanish-language website disappeared, leaving behind a prominent "Go Home" button that struck a nerve with immigrant communities and sparked a social media firestorm, after a TikTok creator drew attention to it in a viral video.[3] Trump's border czar separately announced that deportation operations were under way.[3] Badlands writer [[chris-paul|Chris Paul]] singled out the invasion declaration as the most interesting of Trump's day-one executive actions, quoting its finding that in joining the Union the States surrendered much of their sovereignty in exchange for the federal government's Article IV, Section 4 promise to "protect each of [the States] against Invasion," and that the federal government had failed in that obligation, so that "an invasion is ongoing at the southern border."[3]
 
+## Ceremony structure and theme
+
+The inauguration marked the official transfer of presidential power, with the executive branch changing hands from the Biden administration to the Trump administration; the 20th Amendment provides that a president's four-year term ends at noon on January 20, with the president-elect sworn in shortly after.[4] The ceremonies for the president-elect and vice president-elect were planned by the Joint Congressional Committee on Inaugural Ceremonies, led in 2025 by Senator [[amy-klobuchar|Amy Klobuchar]], a Democrat from Minnesota.[4] The committee oversaw eight Inauguration Day events: the procession to the Capitol; the vice president's swearing-in; the president's swearing-in; the inaugural address; the honorary departure of the outgoing president and vice president; the signing ceremony, at which the new president signs nominations, memorandums, proclamations or executive orders; the inaugural luncheon; the pass in review of military troops; and the presidential parade, which was relocated to the Capital One Arena in downtown Washington because of the cold.[4] The theme of the ceremonies was "Our Enduring Democracy: A Constitutional Promise."[4]
+
+## Supporters and the indoor move
+
+Trump's supporters milled around Washington over the weekend of January 18–19, 2025, trying to work out where and how they would watch the swearing-in after it was moved indoors because of freezing temperatures, but reported remaining excited.[4] "We're very disappointed that we don't get to see the inauguration part of it, but we're more excited that we won and our policies are going to be moved forward," said Red Burr, a visitor from North Dakota, who had no backup plan for the swearing-in but was thrilled to be attending a planned Trump rally on Sunday afternoon at Capital One Arena.[4] Trump's Friday order to move the ceremony indoors set off a scramble among law enforcement officials and members of Congress and prompted thousands of people from across the country to reconsider their trips to Washington.[4] Badlands writer [[jon-herold|Jon Herold]] wagered that Trump had planned to hold the inauguration indoors all along, noting that the pre-inauguration rally had been announced back on January 1 and arguing that weather was an excuse for what was almost certainly a security-driven decision.[4]
+
+## Flag controversy
+
+The mourning period ordered by President [[joe-biden|Joe Biden]] after the December 29 death of former President [[jimmy-carter|Jimmy Carter]], which required flags at government buildings to fly at half-staff for 30 days, overlapped with Inauguration Day, prompting more than eleven governors — including Democrats [[bob-ferguson|Bob Ferguson]] of Washington, [[gavin-newsom|Gavin Newsom]] of California and [[jared-polis|Jared Polis]] of Colorado — to order flags raised to full-staff in defiance of the order; House Speaker [[mike-johnson|Mike Johnson]] did the same at the U.S. Capitol.[4]
+
+## Executive order onslaught
+
+Reporting ahead of the ceremony indicated Trump planned to enter the White House with a show of executive force to deliver a sweeping set of Day One campaign promises, even as senior aides continued to debate key aspects of top agenda items and softened language on others.[4] Delays in vetting and hiring senior staff, Cabinet nominees' lack of government experience, and Trump's open hostility to the career federal workforce — the "deep state" he had long railed against — were cited as possible impediments to carrying out those orders.[4] "He can talk all he wants about executive orders. But at the end of the day, the action of trying to execute is going to be centered in the agencies, and the transition's ability to get their complete teams in place and effectively engage the career workforce," said Max Stier, president and CEO of the nonpartisan Partnership for Public Service.[4] Advocacy groups and Democratic state attorneys general were preparing lawsuits against orders that reached implementation.[4]
+
+## Protests and retrospectives
+
+On Saturday, January 18, thousands of people from around the United States rallied in Washington for women's reproductive rights and other causes they believed threatened by the incoming administration, reprising the original Women's March of eight years earlier; over 350 similar marches were held in every state, alongside protests focused on abortion, immigration rights and the Israel–Hamas war.[4] Ashe in America wrote that such demonstrations should be expected "as long as it's funded," but predicted a different law-enforcement response if protesters failed to remain peaceful, citing Trump's rally pledge to restore law and order to American streets.[4]
+
+Coverage in The Irish Times framed the day as a full-circle moment in a political decade for which Trump's 2017 "American carnage" address served as an apt title, noting the decision taken Friday afternoon to move the ceremony indoors to the Rotunda because of forecast extreme cold, and describing Trump's return as one of the most astonishing reinventions in American political history.[4] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded with a professional-wrestling framing, quoting "This American carnage stops right here and stops right now," declaring "The Donald is back," and taunting the [[deep-state|Deep State]] over the assassination attempts against him.[4]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
 3. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+4. Badlands Brief — "From This Day Forward, It's Going to Be Only America First.", URL: https://badlands.substack.com/p/badlands-news-brief-eff

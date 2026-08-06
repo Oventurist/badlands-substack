@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, humanitarian-aid, us-military, biden-administration, israel]
-sources: [raw/badlands-news-brief-a21.md, raw/badlands-news-brief-b6c.md]
+sources: [raw/badlands-news-brief-a21.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-e1e.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ On Tuesday, May 28, 2024, the [[pentagon|Pentagon]] announced that the pier was 
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the breakdown as a completed "humiliation event" with a spirit similar to the Afghanistan withdrawal, and revisited speculation that the pier was intended to evacuate refugees to Europe and the United States.[2] He pointed to a circulating map of the evacuation routes Israel had instructed Palestinians to follow — residents of northern Gaza told to head south, residents of Rafah told to head north, with roughly a million people reported to have left Rafah — arguing that the two flows converged precisely where the pier had been installed.[2] Noting that the IDF bulldozed Gaza's only airport, Yasser Arafat International, in 2002 and that all crossings out of Gaza had recently been closed, he contended the pier would represent the only route for moving displaced people out, and concluded that the next major migrant crisis may have been averted or delayed.[2]
 
+## June 2024 assessment of failure
+
+By mid-June 2024 [[new-york-times|The New York Times]] reported that the $230 million temporary pier built on short notice by the U.S. military had largely failed in its mission, according to aid organisations, and would probably end operations weeks earlier than originally expected.[3] In the month since it was attached to the shoreline, the pier had been in service only about ten days; the remainder of the time it was being repaired after rough seas broke it apart, detached to avoid further damage, or paused because of security concerns.[3] The structure had never been intended as more than a stopgap while the [[joe-biden|Biden]] administration pressed Israel to allow more food and supplies into Gaza through land routes, a far more efficient delivery method, but American military officials said even the modest goals for the pier were likely to fall short.[3] When it was conceived, health authorities had warned that the territory was on the precipice of famine; in the weeks that followed Israel granted relief organisations greater access, though the groups said the situation remained dire.[3] The item ran as a bonus entry in the [[badlands-media|Badlands Media]] News Brief of June 20, 2024, without editorial commentary.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
 2. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+3. Badlands Brief — "Badlands News Brief: Devo Takes, Cheap Fakes & Sovereign Alliance Dates", URL: https://badlands.substack.com/p/badlands-news-brief-e1e

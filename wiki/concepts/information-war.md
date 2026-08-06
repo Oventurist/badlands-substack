@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [info-war, narrative-warfare, badlands-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d50.md]
 confidence: high
 ---
 
@@ -18,7 +18,12 @@ The Information War (often shortened to "Info War") is a recurring framing withi
 
 In April 2023, [[burning-bright|Burning Bright]] applied the Information War frame to two contemporaneous stories. On the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]], he described France's yuan energy-settlement agreement and its call for Europe to stop being "America's Followers" as "two moves on the Info War game board" revealing the weakness of the globalist system, and argued the episode illustrated "what control looks like in the war between the forces of Globalism and Sovereignty."[3] On [[ron-desantis|Ron DeSantis]]'s escalation against the [[walt-disney-company|Walt Disney Company]], he wrote that "we're in a War of Stories" and that the cultural right had long underestimated the prevalence and power of subversive ideology in American myth-making, with Hollywood serving as "the bane of Republican, Constitutional and Sovereign ideals for decades."[3]
 
+## Badlands framing, August 2024
+
+Badlands commentary in August 2024 described the Information War as entering a phase in which the legacy apparatus was failing: [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that even with fabricated news stories, altered websites, censorship, celebrity surrogates and hyper-realistic AI renderings, the intelligence community's propaganda had become "half-baked."[4] [[burning-bright|Burning Bright]] described [[jack-dorsey|Jack Dorsey]] as one of the most enigmatic figures in the Info War following the unsealing of [[x-corp|X]]'s shareholder list.[4] The brief also cited [[vladimir-putin|Vladimir Putin]]'s February 2024 claim that the West, unable to defeat Russia on the battlefield, had turned to information warfare.[4]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
 3. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

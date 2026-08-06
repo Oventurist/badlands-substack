@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, deportation, colombia, immigration, trade]
-sources: [raw/badlands-news-brief-7c9.md]
+sources: [raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-f18.md]
 confidence: medium
 ---
 
@@ -22,5 +22,14 @@ Commentary in the New York Post noted that the resolution required no U.S. promi
 
 Badlands commentary argued that Trump was not changing anything that could not have been changed in his first term; what differed was the social permission and mandate he now held, illustrating the view that politics is fundamentally a "War of Stories" and that Trump had the winning story.[1]
 
+## Trump's announced retaliation
+
+Trump announced the retaliation after two U.S. military repatriation flights were turned back: "I was just informed that two repatriation flights from the United States, with a large number of Illegal Criminals, were not allowed to land in Colombia," he wrote, attributing the order to "Colombia's Socialist President Gustavo Petro, who is already very unpopular amongst his people," and saying Petro's decision had "jeopardized the National Security and Public Safety of the United States."[2] He said he would enact "emergency 25% tariffs on all goods coming into the United States" and claimed he would raise the rate to 50% within a week.[2] He also called for a travel ban, revocation of visas for Colombian government officials, visa sanctions on party members and government supporters, enhanced customs and border protection inspections of any Colombian national, and banking and financial sanctions.[2]
+
+## Resolution and further commentary
+
+On Sunday night, White House Press Secretary [[karoline-leavitt|Karoline Leavitt]] posted on X that Colombia had agreed to Trump's terms, and Petro reposted her statement, indicating that he did in fact accept them.[2] Badlands commentator Ashe in America wrote that "Things are happening faster than the fake news can spin them," adding: "More of this, please."[2] Commentator Chris Paul argued the confrontation was "creating good distance from Petro and likely driving the Regime insane," calling it brilliant though not the equal of the Maduro narrative.[2] Jon Herold asked why the United States should bother with a tit-for-tat trade war rather than cutting off all trade with Colombia and making an example of it, reasoning that "CEOs don't spend time arguing with their subordinates. They fire them."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Opposition Intensifies. So Does Winning.", URL: https://badlands.substack.com/p/badlands-news-brief-7c9
+2. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

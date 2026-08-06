@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-scholar, war-powers, congress, commentary]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c1e.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-ea1.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f4c.md]
 confidence: low
 ---
 
@@ -124,6 +124,35 @@ Speaking to Fox Business host [[larry-kudlow|Larry Kudlow]] on Monday, March 18,
 
 The remarks came as Trump's attorneys said he was having difficulty posting a $454 million bond to cover the civil fraud judgment entered by New York Judge [[arthur-engoron|Arthur Engoron]] in February 2024.[22] Turley said of the appeal bond: "When you are forcing someone to come up with half a billion dollars just to get an appeal? Someone has to say enough."[22] [[ashe-in-america|Ashe in America]], writing for [[badlands-media|Badlands Media]], said Turley was effectively restating [[burning-bright|Burning Bright]]'s thesis that "Trump's trials are his campaign," and that the [[weaponization-of-government]] during the presidential campaign was making Trump stronger.[22]
 
+## Coverage of the Swiss free-speech prosecution (October 2025)
+
+Turley wrote in October 2025 that [[switzerland|Switzerland]], long known for its neutrality in World War II, had "declared war" on anyone challenging certain orthodox positions on free speech, including gender policies.[23] He reported that Emanuel Brünisholz was about to begin a 10-day prison term for voicing skepticism about claims that skeletons are transgender, and noted that there was very little coverage of the case because free-speech cases are often downplayed by European media, leaving only limited information from conservative sites.[23]
+
+## Commentary on Hunter Biden's contempt of Congress (December 2023)
+
+Turley wrote in December 2023 that [[hunter-biden|Hunter Biden]] had committed a flagrant criminal violation by holding a press conference in front of Congress and refusing to appear for a scheduled House deposition, and that a Harvard CAPS/Harris poll showing 71 percent of Americans — including 54 percent of Democrats — favouring prosecution demonstrated that the media effort to excuse the defiance had failed.[24] He argued there was an equally compelling basis to pursue Representative [[eric-swalwell|Eric Swalwell]] under House rules for facilitating the alleged federal crime, called the decision by Hunter and his counsel "legally incomprehensible" given that he could have entered the committee room and taken the Fifth Amendment, and concluded that Hunter had created a third threat of incarceration while placing his father and the administration in the worst possible position.[24]
+
+## Commentary on the Trump appeal bond (February 2024)
+
+In a February 20, 2024 column, Turley examined the cost to [[donald-trump|Donald Trump]] of appealing the $355 million civil fraud judgment entered against him in New York, noting that courts require a deposit or bond covering the full amount of damages before an appeal can be filed.[25] With roughly $100 million in interest added, Turley wrote, the demand could force a fire sale of properties simply to fund the deposit, and observed that even for well-capitalised companies drained by litigation such a call for cash or collateral "can be enough to put some executives in a fetal position."[25]
+
+Turley reiterated his criticism of Manhattan Supreme Court Justice [[arthur-engoron|Arthur Engoron]], who imposed the fine despite finding that Trump's "victims" lost no money and in fact made handsome profits, with banks testifying they wished to continue doing business with Trump as a "whale" client — business Engoron then barred.[25] He argued the threshold deposit rule magnifies the unfairness of a New York law that requires no actual loss, and can force insolvency merely to seek review of a judgment, while noting the fine amounts to roughly 14–17 percent of Trump's wealth.[25]
+
+## Commentary on the Rubenstein essay (2024)
+
+Turley wrote in February 2024 about former [[new-york-times|New York Times]] opinion editor [[adam-rubenstein|Adam Rubenstein]]'s essay in [[the-atlantic|The Atlantic]], placing it alongside earlier accounts from [[bari-weiss|Bari Weiss]] and [[james-bennet|James Bennet]] as evidence of a newsroom culture that rejects conservative viewpoints.[26] He described the 2020 [[tom-cotton|Tom Cotton]] op-ed controversy as one of the lowest points in the history of modern American journalism, observing that Times staff insisted the newspaper could not feature people who advocate political violence, yet a year later the paper published a column by an academic who had previously declared there was nothing wrong with murdering conservatives and Republicans.[26]
+
+## Analysis of the Willis–Wade evidentiary hearing (February 2024)
+
+Appearing on "Fox News Sunday" with host [[shannon-bream|Shannon Bream]] on February 18, 2024, Turley detailed what he called the "astonishing" facts he found in the record surrounding Fulton County District Attorney [[fani-willis|Fani Willis]] and attorney [[nathan-wade|Nathan Wade]], and suggested steps the judge could take next.[27] The pair faced allegations that Willis financially benefited from her romantic relationship with Wade while the two worked together on the election case against [[donald-trump|Donald Trump]].[27]
+
+Asked whether the judge had "seen enough" to disqualify Willis, Turley said he believed the judge had "heard enough" based on the conflicting statements given in testimony, while noting the judge was in a "tough position" and might simply ask the two to "step aside."[27] He further raised the question of whether the judge would refer both Willis and Wade to the state bar over the "allegation of false statement being filed," describing it as an option available in addition to removal.[27] Turley had separately argued that the case reflected a double standard, since Trump had been sanctioned for conduct he characterized as the same.[27]
+
+
+## Criticism of the Leading Against White Supremacy Act (2023)
+
+In a January 2023 post, Turley criticized the [[leading-against-white-supremacy-act-of-2023|Leading Against White Supremacy Act of 2023]], introduced by Rep. [[sheila-jackson-lee|Sheila Jackson Lee]], as an almost impenetrable word salad whose one clear effect would be to gut the [[first-amendment|First Amendment]] and create effective thought crimes.[29] He wrote that the anti-free-speech movement in the United States continues to grow with alarming speed among writers, journalists, academics and most importantly Democratic members of Congress, who now openly call for censorship and for manipulation of what citizens see and read.[29] Although he expected the bill to fail, he said its provisions were deeply disturbing because they reflect successful speech-criminalization efforts abroad and echo a bill he had testified against in the Senate the prior year.[29]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -148,3 +177,17 @@ The remarks came as Trump's attorneys said he was having difficulty posting a $4
 20. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
 21. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 22. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+23. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+24. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+25. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+26. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+27. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+
+## Criticism of the Bragg prosecution's criminal theory (April 2024)
+
+In an April 24, 2024 commentary, Turley wrote that for many in the legal community the case of Manhattan District Attorney [[alvin-bragg|Alvin Bragg]] against [[donald-trump|Donald Trump]] bordered on the legally obscene: an openly political prosecution resting on a theory that even some liberal pundits had dismissed.[28] He observed that the week's proceedings had themselves taken on an air of obscenity — not because of the introduction of uncharged allegations about a former Playboy model or planned testimony about a former adult film performer, but because of the criminal theory itself.[28]
+
+Turley invoked Justice Potter Stewart's formulation in *Jacobellis v. Ohio*, 378 U.S. 184 (1964), writing that after months of confusion over what crime the indictment alleged, prosecutors had advanced a theory so ambiguous and undefined that it would have made Stewart blush.[28] He noted that prosecutor [[joshua-steinglass|Joshua Steinglass]] told the jury that one of the crimes involved in booking payments to [[stormy-daniels|Stormy Daniels]] as a legal expense was [[new-york-election-law-17-152|New York Law 17-152]], and summarized the resulting argument as Trump having committed a crime by conspiring to unlawfully promote his own candidacy.[28]
+
+28. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+29. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

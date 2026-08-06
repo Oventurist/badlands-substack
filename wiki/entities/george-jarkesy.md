@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [securities, litigation, administrative-state, supreme-court]
-sources: [raw/badlands-news-brief-b40.md]
+sources: [raw/badlands-news-brief-b40.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ The decision's reach extends well beyond the SEC: agencies such as the [[environ
 
 Writing in the [[badlands-media|Badlands Media]] News Brief, [[ashe-in-america|Ashe in America]] listed the ruling first among four decisions released that day and welcomed it with the phrase "Hooray for the Bill of Rights."[1] [[burning-bright|Burning Bright]] framed the decision as evidence that "the promised neutering of the (Deep) Administrative State is WELL underway," reproducing the objections of Slate legal writer Mark Joseph Stern as inverted confirmation of the outcome's significance.[1]
 
+## Litigation history
+
+George Jarkesy and his advisory firm, Patriot28, were sued in federal court in the District of Columbia in 2013 for infringing securities laws in the management of two hedge funds; Jarkesy countersued on the grounds that the structure of the Securities and Exchange Commission violated the U.S. Constitution.[2] After the lower court found for the SEC, an administrative law judge confirmed the violations and the commission ratified the decision, ordering the parties to pay $300,000 in civil penalties.[2] The U.S. Court of Appeals for the Fifth Circuit ruled in his favor on three grounds — removal protections for administrative law judges, the Seventh Amendment jury-trial right, and unconstitutional delegation of legislative power — and the Supreme Court agreed on June 30, 2023 to hear the case in its next term.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+2. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [television, trump, recruitment, trump-dialectic]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-d36.md]
 confidence: low
 ---
 
@@ -35,3 +35,11 @@ Trump hosted the program from 2004 to 2015, and it has been described as arguabl
 ## References
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+
+## Burnett's appointment as UK envoy
+
+In December 2024, President-elect [[donald-trump|Donald Trump]] named the show's producer, [[mark-burnett|Mark Burnett]], as special envoy to the United Kingdom, citing his "distinguished career in television production and business" and "unique blend of diplomatic acumen and international recognition."[3] The Apprentice, which first aired on NBC in 2004, helped reintroduce Trump to a national television audience and again made him a household name, though Trump severed ties with NBC in 2015 as he launched his first White House run.[3]
+
+Badlands commentary disputed The New Yorker's 2018 framing — in an article titled "How Mark Burnett Resurrected Donald Trump as an Icon of American Success" — that Trump had been "a floundering D-lister" before the program, noting that the show debuted at number one in the ratings and remained a fixture for thirteen seasons until NBC ended the relationship over Trump's candidacy.[3] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] took particular interest in The Celebrity Apprentice, observing that contestants such as Dennis Rodman later played roles in Trump's presidency and in geopolitics, and announced a January show on [[badlands-media|Badlands Media]] with [[patrick-gunnels|Patrick Gunnels]] to document the Apprentice and Celebrity Apprentice saga.[3]
+
+3. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36

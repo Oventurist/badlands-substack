@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [press-freedom, extradition, espionage-act, uk-courts, wikileaks]
-sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-845.md]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ In December 2023 it was confirmed that Assange would face two High Court judges 
 
 On February 20, 2024, lawyers for [[julian-assange|Julian Assange]] opened his final U.K. legal challenge against extradition to the United States on spying charges, asking High Court judges Victoria Sharp and Jeremy Johnson to grant a new appeal hearing.[2] By then Assange had fought extradition for over a decade, including seven years inside the Ecuadorian Embassy in London and five years in a high-security prison.[2] Should the judges refuse, his only remaining recourse would be an application to the European Court of Human Rights, with supporters fearing he could be flown to the United States before any such intervention took effect.[2] A verdict was possible at the close of the two-day hearing but was expected to take several weeks.[2] Reporters Without Borders said the hearing marked "the beginning of the end of the extradition case," since grounds rejected by these judges could not be appealed further within the United Kingdom.[2]
 
+## High Court grants a full appeal (May 20, 2024)
+
+On May 20, 2024, London's High Court ruled that [[julian-assange|Julian Assange]] could appeal in his final challenge against extradition to the United States.[3] His lawyers argued that judges Victoria Sharp and Jeremy Johnson should not accept US prosecutors' assurances that Assange could rely on the protections of the US First Amendment, and that he risked discrimination as an Australian-born foreign national.[3] The judges held the US submissions insufficient and granted permission for a full appeal on the freedom-of-speech and nationality points, without setting a date for the next hearing.[3] The charges arise from [[wikileaks|WikiLeaks]]'s publication of thousands of classified documents and diplomatic cables in 2010 and 2011, and carry the prospect of life imprisonment.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 2. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+3. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

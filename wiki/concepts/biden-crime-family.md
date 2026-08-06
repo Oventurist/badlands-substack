@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [corruption, biden, rico, devolution, narrative]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-b76.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -48,3 +48,9 @@ The July 19, 2023 [[house-oversight-committee|House Oversight Committee]] hearin
 3. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 4. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 5. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+
+## June 2023 plea deal coverage
+
+The [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] of 20 June 2023 intensified the "Biden Crime Family" framing, with Badlands writers noting that the son of a sitting president was pleading guilty to tax and gun crimes while the family faced daily coverage of far larger, unrelated allegations.[6] [[tucker-carlson|Tucker Carlson]] devoted an episode of "Tucker on Twitter" to the family, observing that none of the charges concerned influence peddling and citing an FBI source's account of a $10 million payment from [[burisma|Burisma]] to Hunter and [[joe-biden|Joe Biden]], before listing "racketeering, money laundering, wire fraud" as crimes the Bidens appeared to have committed.[6] [[ryan-delarme|Ryan DeLarme]] noted that more than 150 [[suspicious-activity-report|Suspicious Activity Reports]] had been filed involving the Bidens.[6]
+
+6. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

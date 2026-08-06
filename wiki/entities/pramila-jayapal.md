@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, washington, progressive-caucus]
-sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-508.md]
+sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Jayapal said in a statement that as the CBP Office of Professional Responsibilit
 ## References
 1. Badlands Brief — "Badlands News Brief: Government Spending & Unprecedented Unhappiness", URL: https://badlands.substack.com/p/badlands-news-brief-31b
 2. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
+
+## Exchange with Robert Hur (March 2024)
+
+During a five-hour [[house-judiciary-committee|House Judiciary Committee]] hearing on March 12, 2024, Jayapal — described as the influential chairwoman of the Congressional Progressive Caucus — was corrected by former special counsel [[robert-hur|Robert Hur]] when he stated, "I did not exonerate him and that word does not appear in the report," referring to his findings on President [[joe-biden|Joe Biden]]'s handling of classified documents.[3] Jayapal spoke over Hur as he made the correction and then cut him off, saying, "Mr. Hur, it's my time. Thank you."[3]
+
+3. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

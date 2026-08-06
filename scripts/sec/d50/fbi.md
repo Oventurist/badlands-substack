@@ -1,0 +1,3 @@
+## Searches of Russia-linked commentators (August 2024)
+
+In early August 2024 the FBI searched the homes of former UN weapons inspector [[scott-ritter|Scott Ritter]] and of Russian-born commentator [[dimitri-simes|Dimitri Simes]] as part of a Justice Department push to counter potential Kremlin interference in the 2024 presidential election.[n] U.S. officials familiar with the matter said the Bureau was likely to conduct further searches soon and did not rule out criminal charges.[n] Separately, the FBI's recovery of government documents including classified papers at [[donald-trump|Donald Trump]]'s Mar-a-Lago residence was cited by critics as grounds to question whether Trump could be trusted with intelligence briefings as the Republican nominee.[n]

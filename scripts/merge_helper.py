@@ -1,55 +1,34 @@
-import sys, re, json, subprocess, time, os
-BASE = r"C:/Users/14053/hermes-projects/badlands-substack"
-LOCK = BASE + "/scripts/wiki_page_lock.py"
+import sys, re, io
 
-def acquire(slug):
-    for _ in range(20):
-        r = subprocess.run([sys.executable, LOCK, "acquire", slug], capture_output=True, text=True)
-        if r.returncode == 0:
-            return True
-        time.sleep(3)
-    return False
+# usage: merge_helper.py <file> <rawbasename> <refline_without_number> <sectionfile>
+path, raw, refline, secfile = sys.argv[1:5]
+txt = io.open(path, encoding='utf-8').read()
+nl = '\r\n' if '\r\n' in txt else '\n'
+t = txt.replace('\r\n', '\n')
+m = re.search(r'^sources: \[(.*?)\]$', t, re.M)
+srcs = [s.strip() for s in m.group(1).split(',') if s.strip()]
+entry = 'raw/%s.md' % raw
+if entry in srcs:
+    n = srcs.index(entry) + 1
+    newsrc = m.group(0)
+else:
+    srcs.append(entry)
+    n = len(srcs)
+    newsrc = 'sources: [%s]' % ', '.join(srcs)
+t = t[:m.start()] + newsrc + t[m.end():]
+t = re.sub(r'^updated: .*$', 'updated: 2026-08-06', t, count=1, flags=re.M)
 
-def release(slug):
-    subprocess.run([sys.executable, LOCK, "release", slug], capture_output=True, text=True)
+sec = io.open(secfile, encoding='utf-8').read().replace('\r\n', '\n').replace('[N]', '[%d]' % n)
+refl = '%d. %s' % (n, refline)
 
-def merge(path, slug, rawname, refline, heading, body, today="2026-08-06"):
-    if not acquire(slug):
-        print("LOCKFAIL", slug); return
-    try:
-        with open(path, encoding="utf-8") as f:
-            t = f.read()
-        m = re.search(r"^sources: \[(.*?)\]\s*$", t, re.M)
-        srcs = [s.strip() for s in m.group(1).split(",") if s.strip()]
-        if rawname not in srcs:
-            srcs.append(rawname)
-        n = srcs.index(rawname) + 1
-        t = t[:m.start()] + "sources: [" + ", ".join(srcs) + "]" + t[m.end():]
-        t = re.sub(r"^updated: .*$", "updated: " + today, t, count=1, flags=re.M)
-        b = body.replace("[n]", "[%d]" % n)
-        if "## References" in t:
-            head, refs = t.split("## References", 1)
-            head = head.rstrip() + "\n\n## " + heading + "\n\n" + b.strip() + "\n\n"
-            reflines = [l for l in refs.strip().split("\n") if l.strip()]
-            existing = "\n".join(reflines)
-            newref = "%d. %s" % (n, refline)
-            if rawname.replace("raw/", "").replace(".md", "") not in existing:
-                if not re.search(r"^%d\. " % n, existing, re.M):
-                    existing += "\n" + newref
-            t = head + "## References\n\n" + existing + "\n"
-        else:
-            t = t.rstrip() + "\n\n## " + heading + "\n\n" + b.strip() + "\n\n## References\n\n%d. %s\n" % (n, refline)
-        with open(path, "w", encoding="utf-8", newline="\n") as f:
-            f.write(t)
-        print("OK", slug, n)
-    finally:
-        release(slug)
+if '## References' in t:
+    idx = t.rindex('## References')
+    body, refs = t[:idx], t[idx:]
+    if refl not in refs:
+        refs = refs.rstrip('\n') + '\n' + refl + '\n'
+    t = body.rstrip('\n') + '\n\n' + sec.strip('\n') + '\n\n' + refs
+else:
+    t = t.rstrip('\n') + '\n\n' + sec.strip('\n') + '\n\n## References\n' + refl + '\n'
 
-if __name__ == "__main__":
-    spec = json.load(open(sys.argv[1], encoding="utf-8"))
-    for it in spec["pages"]:
-        p = BASE + "/wiki/" + it["dir"] + "/" + it["slug"] + ".md"
-        if os.path.exists(p):
-            merge(p, it["slug"], spec["raw"], spec["ref"], it["heading"], it["body"])
-        else:
-            print("MISSING", it["slug"])
+io.open(path, 'w', encoding='utf-8', newline=nl).write(t)
+print('%s -> [%d]' % (path, n))

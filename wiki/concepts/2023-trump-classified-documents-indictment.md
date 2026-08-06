@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, justice-department, classified-documents, special-counsel, 2023]
-sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-ea0.md, raw/badlands-news-brief-f2b.md]
 confidence: medium
 ---
 
@@ -66,3 +66,26 @@ On the evening of June 8, 2023, [[donald-trump|Donald Trump]] announced on Truth
 3. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 4. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 5. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+
+## Trial date set, June 2023
+
+On 20 June 2023, Judge [[aileen-cannon|Aileen Cannon]] set the first court date in the case for 14 August 2023 in the U.S. District Court for the Southern District of Florida — a little over a week before the first Republican primary debate — and set 24 July 2023 as the deadline for pretrial motions and motions in limine.[6] [[donald-trump|Donald Trump]] had been arraigned the previous week in Miami, pleading not guilty to 31 counts of willful retention of national defense information, one count of conspiracy to obstruct justice, one count of withholding a document or record, one count of corruptly concealing a document or record, one count of concealing a document in a federal investigation, one count for a scheme to conceal, and one count related to alleged false statements.[6] Badlands writer [[ashe-in-america|Ashe in America]] argued the prosecution was political, that the [[presidential-records-act|Presidential Records Act]] and the "Clinton sock drawer" precedent placed Trump within the law, and that the [[espionage-act|Espionage Act]] had been substituted to evade that precedent; she cited Harvard/Harris findings of 55% and 56% and a CNN figure of 71% on political motivation.[6] The scheduling news broke the same morning as the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]], a juxtaposition Badlands treated as defining the [[two-tier-justice-system|two-tier justice system]] narrative of 2023.[6]
+
+6. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+
+## Republican reaction, June 2023
+
+On June 15, 2023, Senator [[tom-cotton|Tom Cotton]] called the federal indictment "a very disappointing moment" in an interview on SiriusXM's Breitbart News Daily, arguing that [[donald-trump|Donald Trump]] — charged with 37 counts relating to documents taken to Mar-a-Lago — should not be prosecuted "on a stretch case or novel legal theories or an edge case."[7] Cotton framed the decisive fact as Trump's status as the opposition party's leading presidential candidate, comparing the situation to [[james-comey|James Comey]]'s 2016 decision not to indict [[hillary-clinton|Hillary Clinton]].[7]
+
+Trump posted on [[truth-social|Truth Social]] the same week, declaring "PROSECUTORIAL MISCONDUCT AT A LEVEL SELDOM SEEN IN OUR COUNTRY BEFORE!"[7] [[ashe-in-america|Ashe in America]] wrote that the [[department-of-justice|Department of Justice]] was advancing a novel [[espionage-act|Espionage Act]] theory against a former president over "documents with classified markings," calling it political persecution and election interference, and said the weaponization of government was now fully exposed and "the illusion of legitimacy has shattered."[7] She linked the case to the newly unsealed report by [[j-alex-halderman|J. Alex Halderman]] on [[dominion-voting-systems|Dominion]] voting equipment, which she said validated what election activists had argued since November 3, 2020, and previewed a discussion of it on [[why-we-vote|Why We Vote]].[7]
+
+7. Badlands Brief — "Badlands News Brief: Trump's Trap, Putin's Play & Woke's Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ea0
+
+## The Bedminster audio and the "golf course plans" defense (June 2023)
+
+In an interview with [[fox-news|Fox News]] reported on 28 June 2023, [[donald-trump|Donald Trump]] said that a leaked audio recording of him allegedly showing guests classified [[pentagon|Pentagon]] documents was "just bravado," and that the "plans" he discussed were in fact for a golf course.[8] The former president, then 77, was facing a total of 37 felony charges for allegedly illegally retaining classified records at his Mar-a-Lago estate in Florida after leaving office, and pleaded not guilty.[8] The indictment stated that Trump possessed a classified battle plan against Iran which he reportedly showed a writer and publisher working on a book on 21 July 2021 at his golf club in Bedminster, New Jersey.[8] Trump asked: "Did I use the word plans? What I'm referring to is magazines, newspapers, plans of buildings. I had plans of buildings. You know, building plans? I had plans of a golf course," noting he already owned 16 courses.[8]
+
+[[ashe-in-america|Ashe in America]] wrote that the episode looked "more and more like a master troll from the boss himself," noting that the Iranian memo the media treated as a smoking gun was not part of the indictment, and that the audio recording amounted to the sound of rustling papers with no proof that anyone uncleared saw anything classified.[8] She characterised the affair as a witch hunt and as 2024 election interference, framing it as another instalment of "The Walls are Closing In."[8]
+
+[[burning-bright|Burning Bright]] added a dialectical reading, arguing that attention should be paid to who seeds a given narrative: Trump seeded the "Perfect Phone Call" with [[volodymyr-zelensky|Zelensky]], which boomeranged onto [[joe-biden|Joe Biden]]; he seeded the [[mar-a-lago-raid|Mar-a-Lago raid]], which boomeranged into the Biden documents scandal; and he had now seeded the documents audio.[8]
+8. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [omb, appropriations, litigation, congress, trump-administration]
-sources: [raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-93e.md]
+sources: [raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-d7a.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ On Wednesday, January 29, 2025, the Trump administration's [[office-of-managemen
 
 Badlands contributor [[burning-bright|Burning Bright]] read the episode through the frame of a long-running "War of Stories," arguing that the establishment has sold a narrative of a broken future through climate doomism and AI apocalypse warnings, and that readers should weigh the source and incentive behind such fear-mongering.[2]
 
+## Issuance of the OMB memo
+
+Late on Monday, January 27, 2025, the Trump administration directed federal agencies to pause the disbursement of loans and grants while the government conducted a review to ensure that spending aligned with President [[donald-trump|Trump]]'s agenda.[3] The memo, issued by acting [[office-of-management-and-budget|Office of Management and Budget]] director [[matthew-vaeth|Matthew Vaeth]], directed agencies to temporarily pause "all activities related to obligation or disbursement of all Federal financial assistance."[3] "This temporary pause will provide the Administration time to review agency programs and determine the best uses of the funding for those programs consistent with the law and the President's priorities," the memo stated.[3] It indicated that Social Security and Medicare benefits should not be impacted, nor should assistance provided directly to individuals.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Opposition Intensifies. So Does Winning.", URL: https://badlands.substack.com/p/badlands-news-brief-7c9
 2. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+3. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a

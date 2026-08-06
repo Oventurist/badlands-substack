@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mali, sahel, military-government, ecowas, africa]
-sources: [raw/badlands-news-brief-50e.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-c05.md]
+sources: [raw/badlands-news-brief-50e.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d1d.md]
 confidence: medium
 ---
 
@@ -26,6 +26,10 @@ The signing was framed as a milestone in the collapse of Western colonial influe
 
 In the weeks after the July 26, 2023 [[2023-niger-coup|coup in Niger]], Goïta positioned Mali against any outside interference in its neighbour, and in mid-August 2023 he spoke by telephone with Russian President [[vladimir-putin|Vladimir Putin]] in a call the two sides confirmed was initiated by Bamako.[2] Goïta announced that during the Tuesday call Putin "stressed the importance of a peaceful resolution of the situation for a more stable Sahel," and a [[kremlin|Kremlin]] statement said the parties focused on the Sahara–Sahel region and emphasised "the importance of settling the situation in the Republic of Niger solely through peaceful political and diplomatic means."[2] The exchange came as the [[ecowas|Economic Community of West African States]] threatened military intervention to restore deposed President [[mohamed-bazoum|Mohamed Bazoum]], with persistent reports that [[france|France]] was encouraging concrete action.[2]
 
+## Meeting with Putin and the 2025 nuclear agreement
+
+On Monday, June 23, 2025, Mali's interim president General Assimi Goita met Russian President [[vladimir-putin|Vladimir Putin]], who highlighted geological exploration, natural resources, energy, logistics and humanitarian fields as promising areas for future cooperation.[4] The following day [[rosatom|Rosatom]] announced that Russia and [[mali|Mali]] had agreed to expand cooperation in the peaceful use of nuclear energy, covering infrastructure development, joint healthcare and agriculture projects, and the training of Malian specialists.[4] See [[russia-mali-nuclear-energy-agreement|the Russia–Mali nuclear energy agreement]].[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Biden Holds the Line as the Sovereign Alliance Prepares", URL: https://badlands.substack.com/p/badlands-news-brief-50e
@@ -36,3 +40,4 @@ In the weeks after the July 26, 2023 [[2023-niger-coup|coup in Niger]], Goïta p
 On Monday, June 3, 2024, Goita hosted a high-ranking [[russian-defense-ministry|Russian Defense Ministry]] delegation led by Deputy Minister [[yunus-bek-yevkurov|Yunus-Bek Yevkurov]] at the presidential palace in Bamako, as announced by [[mali|Mali]]'s military government on X.[3] According to local news agency aBamako, the parties discussed Mali-Russia defense and security cooperation as well as the situation in the Sahel region, long plagued by jihadist violence.[3] Before meeting Goita, the delegation held talks with Malian Defense Minister [[sadio-camara|Sadio Camara]] and air force chief [[alou-boi-diarra|Alou Boi Diarra]].[3] Mali, a former French colony, has severed military ties with France over accusations of meddling, as has neighboring [[niger|Niger]], whose transitional leader [[abdourahmane-tchiani|Abdourahamane Tchiani]] met the same delegation in Niamey.[3]
 
 3. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
+4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, afd, elections, europe]
-sources: [raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-457.md]
+sources: [raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-dae.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ In the German federal election of February 2025, Weidel's [[alternative-for-germ
 
 As results came in during the early hours of Monday, the AfD was shown far ahead of all other parties in the east of the country, with a projected 34% according to a survey for the public broadcaster ZDF.[3] "Germans have voted for change," Weidel said, predicting that Merz's attempt to form a coalition would ultimately fail: "We'll have fresh elections — I don't think we'll have to wait another four years."[3] Badlands commentator Chris Paul reacted by questioning whether German elections are genuine at all, suggesting they may be "fake like ours are."[3]
 
+## Polling strength amid ban push (November 2024)
+
+Insa-Consulere polling published by Bild in November 2024 showed Weidel as one of the most popular potential chancellor candidates at 17 percent, ahead of Chancellor [[olaf-scholz|Olaf Scholz]] and Economy Minister Robert Habeck, with her support reaching 27 percent in eastern Germany.[4] The same survey placed her [[alternative-for-germany|Alternative for Germany]] party at 19.5 percent, second behind the CDU/CSU at 32.5 percent, even as 112 [[bundestag|Bundestag]] members pushed an [[afd-ban-effort|effort to bar the party]] from the February 23 snap election.[4]
+
 ## References
 1. Badlands News Brief — "The Week of Rage Continues ... Biden to the Rescue?", URL: https://badlands.substack.com/p/badlands-news-brief-28e
 2. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 3. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
+4. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae

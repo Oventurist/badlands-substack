@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, doj, law-enforcement, prosecutions, epstein, russiagate]
-sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-8db.md, raw/badlands-brief-774.md, raw/badlands-brief-a84.md, raw/badlands-brief-ea5.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -100,6 +100,10 @@ In October 2024, the Daily Mail reported that the Justice Department was "preppi
 
 The Justice Department appealed the dismissal of the criminal cases against former FBI Director [[james-comey|James Comey]] and New York Attorney General [[letitia-james|Letitia James]] on Friday night, December 19, 2025, having also attempted to reindict James.[17] Both cases had been thrown out by Judge [[cameron-currie|Cameron Currie]] on the ground that federal prosecutor [[lindsey-halligan|Lindsey Halligan]] was unlawfully appointed.[17]
 
+## Biden classified documents inquiry (2023)
+
+Justice Department officials negotiated in writing with lawyers for President [[joe-biden|Joe Biden]] over the parameters of the January 20, 2023 search of Biden's Wilmington home, an arrangement that allowed investigators to proceed without seeking a search warrant while granting the [[fbi|FBI]] full access to the residence.[18] The department's investigators had earlier searched the [[penn-biden-center|Penn Biden Center]] in mid-November 2022 with the cooperation of Biden's representatives, and federal authorities recovered between 25 and 30 documents marked classified across the two locations.[18]
+
 ## References
 1. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
@@ -118,3 +122,4 @@ The Justice Department appealed the dismissal of the criminal cases against form
 15. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 16. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 17. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+18. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

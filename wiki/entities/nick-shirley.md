@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, fraud, minnesota, info-war]
-sources: [raw/badlands-brief.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-752.md]
+sources: [raw/badlands-brief.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-ec8.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ In a video that went viral in late December 2025, Shirley and another man approa
 
 Shirley's reporting triggered a federal response in late December 2025, when agencies descended on [[minnesota|Minnesota]] to investigate suspected fraud at child care centers and other facilities after his viral YouTube video claimed to uncover $110 million in fraudulent payments.[3] The video showed licensed day care facilities that appeared empty or abandoned despite receiving millions in taxpayer funds, and prompted coordinated investigations by the [[department-of-homeland-security|Department of Homeland Security]], the [[fbi|FBI]], [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]] and the [[small-business-administration|Small Business Administration]].[3] Attorney General [[pam-bondi|Pam Bondi]] publicly described the interagency effort to unravel the scheme and pledged continued charges and convictions.[3]
 
+## The "Nick Shirley Effect"
+
+By the end of December 2025 Shirley's method had been credited with spawning a wider wave of independent field investigation dubbed the "[[nick-shirley-effect|Nick Shirley Effect]]."[4] ZeroHedge invoked the term when [[muckraker|Muckraker]] founder [[anthony-rubin|Anthony Rubin]] landed in Columbus, Ohio, to knock on the doors of Somali-affiliated daycare facilities amid allegations of [[medicaid|Medicaid]] fraud raised by Ohio attorney [[mehek-cooke|Mehek Cooke]].[4]
+
 ## References
 1. Badlands Brief — "Iran's MIC, Our Boy Mam, & Monumental Illumination", URL: https://badlands.substack.com/p/badlands-brief
 2. Badlands Brief — "Somali Scams, Munchausen Moms, & Another Perfect Phone Call", URL: https://badlands.substack.com/p/badlands-news-brief-467
 3. Badlands Brief — "Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
+4. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

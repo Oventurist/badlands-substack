@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [first-amendment, free-speech, constitution, law]
-sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c50.md]
+sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -86,6 +86,11 @@ In [[missouri-v-biden|Missouri v. Biden]], U.S. District Judge [[terry-doughty|T
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] argued that the administration's "public disdain for the 1st Amendment is a massive red pill for the American public," while Doughty's ruling was "a massive white pill."[13] He wrote that the more the "Deep State" publicly resisted the Constitution, the more clearly it revealed itself, while constitutional judges appointed by Trump — "from the Supreme Court all the way down the line" — continued to "erect new bulwarks against further incursions on our God-given rights."[13]
 
+
+## Leading Against White Supremacy Act (2023)
+
+In January 2023 law professor [[jonathan-turley|Jonathan Turley]] warned that the [[leading-against-white-supremacy-act-of-2023|Leading Against White Supremacy Act of 2023]], introduced by Rep. [[sheila-jackson-lee|Sheila Jackson Lee]], would gut the First Amendment and create effective thought crimes by criminalizing social media postings deemed supportive of white supremacy or replacement theory.[15] He tied the bill to a broader anti-free-speech movement among writers, journalists, academics and Democratic members of Congress who openly call for censorship.[15]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
@@ -100,3 +105,10 @@ In [[missouri-v-biden|Missouri v. Biden]], U.S. District Judge [[terry-doughty|T
 11. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 12. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 13. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+
+## Invoked against hate speech enforcement (September 2025)
+
+The First Amendment was central to the September 2025 backlash against Attorney General [[pam-bondi|Pam Bondi]]'s statement that the government would "absolutely target" groups engaged in "hate speech," a remark she made on [[katie-miller|Katie Miller]]'s podcast after the killing of [[charlie-kirk|Charlie Kirk]] and retracted the following day.[14] Critics circulated Kirk's own articulation of the doctrine: "Hate speech does not exist legally in America. There's ugly speech. There's gross speech. There's evil speech. And of it is protected by the First Amendment. Keep America free."[14] Justice [[sonia-sotomayor|Sonia Sotomayor]] separately remarked that any lawyer-trained representative proposing to criminalize free speech demonstrated that "that law school failed."[14]
+
+14. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+15. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

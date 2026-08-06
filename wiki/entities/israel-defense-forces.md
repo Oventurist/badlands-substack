@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, military, iran]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-0fb.md, raw/badlands-brief-282.md, raw/badlands-brief-559.md, raw/badlands-brief-579.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b56.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-143.md, raw/badlands-brief-0fb.md, raw/badlands-brief-282.md, raw/badlands-brief-559.md, raw/badlands-brief-579.md, raw/badlands-brief-5dc.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-6f0.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b56.md, raw/badlands-brief-c7b.md, raw/badlands-brief-d1a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f23.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -255,7 +255,30 @@ Reuters reported in November 2025, citing former US officials with knowledge of 
 
 On Thursday, October 19, 2023, the Hamas-controlled interior ministry in Gaza said that several displaced people sheltering at the compound of a Greek Orthodox church in the Gaza Strip had been killed and injured in an Israeli strike, reporting a "large number of martyrs and injured."[42] There was no immediate comment from the IDF, which told AFP it was looking into the potential strike, while witnesses said the strike appeared to have been aimed at a target close to the place of worship where many Gaza residents had taken refuge.[42] The same day's reporting noted that the IDF was threatening [[hezbollah|Hezbollah]] on Israel's northern border while the United States said it was in talks with Israel over Gaza "safe zones."[42] [[ashe-in-america|Ashe in America]] argued that with two US carrier groups in the region, Israel heading into Gaza and Iranian retaliation under way, the United States was already engaged in kinetic conflict without any declaration of war or even a sitting speaker of the House.[42]
 
+## August 2025 Gaza allegations
+
+Badlands commentary in August 2025 referenced widespread allegations of starvation and other war crimes against the IDF in Gaza, arguing the Trump administration's silence after envoy Steve Witkoff's aid-site visit implied those claims had been substantiated rather than refuted.[43] Israeli fire killed 18 people in Gaza during the same period in which Hamas restated its refusal to disarm.[43]
+
+## Moral deterioration debate (July 2024)
+
+A Guardian analysis in July 2024 argued that "deep moral deterioration" was being normalised in the Israeli-Palestinian conflict, citing the far-right mob attack on two IDF bases in support of soldiers accused of sexually torturing a detainee at [[sde-teiman-detention-facility|Sde Teiman]], the 2016 Hebron killing by [[elor-azaria|Elor Azaria]] and the public campaign that followed it, the 2023 settler rampage on the Palestinian town of Huwara, and continuing well-documented war crimes such as looting and the burning of food supplies and homes by IDF soldiers in Gaza.[44]
+
+## Hostage remains identification and West Bank operation (February 2025)
+
+Early on Friday, February 21, 2025, the IDF announced that of four bodies returned by [[hamas|Hamas]] the previous day, specialists at the Abu Kabir Forensic Institute had identified [[oded-lifshitz|Oded Lifshitz]] and the brothers Ariel and Kfir of the [[bibas-family|Bibas family]], but that a fourth body was not the boys' mother Shiri Bibas and could not be identified as any other hostage.[45] The IDF called it "a very serious violation by the Hamas terrorist organization, which is required by the agreement to return four dead hostages" and demanded that Hamas "return Shiri home, along with all of our hostages."[45] The same night, after three empty buses exploded in Bat Yam and Holon, Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] instructed the IDF to launch a massive operation in the West Bank against terrorist hubs.[45]
+
+## Allegations at the ICJ, May 2024
+
+In the May 16, 2024 [[international-court-of-justice|ICJ]] hearing, [[south-africa|South Africa]] presented video showing dozens of IDF soldiers listening to a commander who led them in a repeated chant of "Let's go destroy [[rafah|Rafah]]!"[46] Counsel stated that while the IDF had prevented outside inspectors from entering most of [[gaza|Gaza]], investigators reaching accessible areas found mass graves containing men, women and children, many with their limbs bound — an indication they had been taken prisoner and then summarily executed.[46] Brigadier General [[david-bar-khalifa|David Bar-Khalifa]], later promoted to head of the Personnel Division, was singled out as having ordered such executions and for a publicly released handwritten letter to troops invoking "divine vengeance."[46] Lawyers also described children buried under rubble for days, audible on video screaming for help before dying of starvation or injury, and large numbers of child amputees.[46]
+
+## Suppression of the Beit Sahour tax revolt, 1989
+
+In 1989 the affluent Christian-Palestinian town of Beit Sahour, outside Bethlehem, organized a non-violent boycott of Israeli goods in response to IDF military repression in the region, coining the slogan "No taxation under Occupation" in conscious invocation of the American Founding Fathers' arguments against British rule.[47]
+
+The IDF responded by imposing a 42-day curfew on the town, blocking food imports, cutting telephone lines, impounding private vehicles and seizing over $1.5 million worth of cash and private property from the town's 300 wealthiest families, including household refrigerators that were auctioned to Israeli citizens.[47] The town's 40 top leaders were arrested and given multi-year prison sentences, all schools were closed, medical services ceased and food supply chains shut down; the movement was crushed within nine months under the siege.[47] The episode is cited in discussions of the [[paris-protocol|Paris Protocol]] tax clearance system as an early act of resistance to Israeli fiscal control over Palestinian life.[47]
+
 ## References
+
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
 3. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
@@ -298,3 +321,8 @@ On Thursday, October 19, 2023, the Hamas-controlled interior ministry in Gaza sa
 40. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
 41. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6
 42. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+43. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+44. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+45. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23
+46. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+47. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

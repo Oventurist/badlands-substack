@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, bessent, sanctions, venezuela, banking]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-959.md, raw/badlands-brief-b74.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-brief-c07.md, raw/badlands-brief-da2.md, raw/badlands-brief-d17.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f02.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-169.md, raw/badlands-brief-577.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-959.md, raw/badlands-brief-b74.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bdc.md, raw/badlands-brief-c07.md, raw/badlands-brief-da2.md, raw/badlands-brief-d17.md, raw/badlands-brief-e9a.md, raw/badlands-brief-f02.md, raw/badlands-brief-f62.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-f00.md]
 confidence: medium
 ---
 
@@ -226,6 +226,37 @@ As President [[donald-trump|Donald Trump]] predicted at a December 2, 2025 cabin
 
 Bessent led the US delegation at weekend talks in Geneva that produced the [[2025-us-china-geneva-tariff-agreement|May 2025 US–China tariff agreement]], a 90-day mutual reduction under which US tariffs on Chinese goods fell from 145% to 30% and Chinese duties on US imports fell from 125% to 10%.[44] At a news briefing after two days of talks, Bessent said the prior tariff levels would have amounted to a complete blockage of each side's goods, an outcome neither side wanted.[44] "The consensus from both delegations this weekend is neither side wants a decoupling," he said, describing the earlier posture as "the equivalent of an embargo" and adding, "We do want trade. We want more balanced trade. And I think that both sides are committed to achieving that."[44]
 
+## Tren de Aragua sanctions statement (June 2025)
+
+In a Treasury statement released on Tuesday, June 24, 2025 announcing sanctions against [[giovanni-vicente-mosquera-serrano|Giovanni Vicente Mosquera Serrano]], the alleged leader of the Venezuelan gang [[tren-de-aragua|Tren de Aragua]], Bessent accused the organization under Mosquera Serrano's leadership of "terrorizing our communities and facilitating the flow of illicit narcotics into our country."[45] The designation was issued through the [[office-of-foreign-assets-control|Office of Foreign Assets Control]] and accompanied a [[department-of-justice|Department of Justice]] indictment on drug trafficking and terrorism charges.[45]
+
+## Federal Reserve chair search (August 2025)
+
+On Tuesday, August 19, 2025, Bessent said he would begin interviewing candidates for chair of the [[federal-reserve|Federal Reserve]] as soon as the [[white-house|White House]] narrowed what had become a crowded field.[46] In a CNBC "Squawk Box" interview, he confirmed that the race to replace sitting Chair [[jerome-powell|Jerome Powell]] involved 11 candidates — an array including past and present central bank officials, economists, a White House advisor, and several Wall Street market experts.[46]
+
+"In terms of the interview process, we've announced 11 very strong candidates. I'm going to be meeting with them probably right after Labor Day, and to start bringing down the list to present to President Trump," Bessent said, calling the field "an incredible group."[46] Although Powell's term as chair did not end until May 2026, the White House was keen to advance the process as it pressed what it described as an urgent need for interest rate cuts.[46] Badlands contributor [[burning-bright|Burning Bright]] framed the succession fight as part of a broader "war for the future itself," arguing that "the Golden Age isn't coming. It's here."[46]
+
+
+## October 2025: China Framework and Colombia Sanctions
+
+Bessent announced in late October 2025 that the United States and China had agreed a framework for a trade deal on the sidelines of the ASEAN summit in Malaysia, days before a planned [[donald-trump|Trump]]-[[xi-jinping|Xi]] meeting.[48] He said the framework would remove the threat of 100% tariffs on Chinese imports scheduled for 1 November and would include "a final deal" on the sale of TikTok in the United States.[48]
+
+Days earlier, Bessent announced sweeping U.S. sanctions on Colombian President [[gustavo-petro|Gustavo Petro]], his family, and Interior Minister Armando Benedetti, stating that since Petro took office in 2022 "cocaine production in Colombia has exploded to the highest rate in decades, flooding the United States and poisoning Americans," and that Trump was taking "strong action to protect our nation."[48] Badlands commentary has repeatedly characterized Bessent as an "American cypher" whose moves bridge apparent adversarial camps, comparing him in this respect to [[kirill-dmitriev|Kirill Dmitriev]].[48]
+
+## Union lawsuit over DOGE data access (February 2025)
+
+In early February 2025 three union groups — the [[alliance-for-retired-americans|Alliance for Retired Americans]], the [[american-federation-of-government-employees|American Federation of Government Employees]] and the [[service-employees-international-union|Service Employees International Union]] — sued Treasury Secretary Bessent, accusing him of illegally sharing their members' information with [[elon-musk|Elon Musk]]'s [[department-of-government-efficiency|Department of Government Efficiency]] team.[49] The suit led U.S. District Judge [[colleen-kollar-kotelly|Colleen Kollar-Kotelly]] to issue an order on February 5 temporarily restricting DOGE access to the [[us-department-of-the-treasury|Treasury Department]]'s payment records system to two named employees and Treasury officials.[49]
+
+## Nomination as Treasury Secretary (November 2024)
+
+President-elect [[donald-trump|Donald Trump]] announced on Friday, November 22, 2024 that he was selecting Bessent, then a hedge fund chief executive, to serve as Treasury Secretary.[50] In his statement Trump said he was "most pleased to nominate" Bessent, describing him as "widely respected as one of the world's foremost international investors and geopolitical and economic Strategists," and said Bessent would support policies that "drive U.S. competitiveness, and stop unfair trade imbalances."[50]
+
+Bessent, then 62, was the founder of the Connecticut-based hedge fund Key Square Group, and according to a source deeply involved in transition planning had been making a full-court press for the post.[50] Trump had previously called him a "nice-looking guy" and "one of the most brilliant men on Wall Street"; Bessent joked on Fox News that he was in "violent agreement" with Trump on the assessment.[50]
+
+## Comments on the Federal Reserve chair search (August 2025)
+
+On August 12, 2025, Treasury Secretary Bessent told Fox Business host Larry Kudlow that President [[donald-trump|Donald Trump]] had a "very open mind" about who should replace [[federal-reserve|Federal Reserve]] Chairman [[jerome-powell|Jerome Powell]], whose term as chairman expires in May 2026.[51] Bessent said the administration was already interviewing potential replacements and casting a "very wide net," adding that Trump "even considered re-appointing [[janet-yellen|Janet Yellen]], so we want to see what everyone's thinking."[51] Badlands contributor Burning Bright argued Powell would remain in place until Trump was finished with him, on the theory that Powell was serving to expose "the rot of the fiat central banking class" while building a public mandate for change.[51]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -272,3 +303,17 @@ Bessent led the US delegation at weekend talks in Geneva that produced the [[202
 42. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 43. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
 44. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+45. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+46. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
+
+## Bond market remarks (April 2025)
+
+In an interview with Bloomberg Television on Monday, April 14, 2025, while visiting Buenos Aires, Argentina, Bessent played down the recent selloff in the bond market and rejected speculation that foreign nations were dumping their holdings of US Treasuries.[47] "I don't think there's a dumping" by foreign investors, he said, pointing to increased foreign demand at auctions for 10-year and 30-year Treasury securities the previous week and reiterating his view that the decline was mainly a product of deleveraging.[47] "I have no evidence that it's sovereigns" behind the drop, he said.[47]
+
+Bessent said the United States was "a long way" from needing to take action, but that "we have a big toolkit that we can roll out" if required, including the department's [[treasury-buyback-program|buyback program]] for older securities: "We could up the buybacks if we wanted."[47] The Treasury had begun the first regular buyback program since 2000–02 the previous year, designed to improve liquidity in older securities that trade less frequently than on-the-run Treasuries.[47] Badlands commentary noted Bessent's disclosure that he has breakfast with [[jerome-powell|Powell]] every week, and read his remarks as signalling that if the [[federal-reserve|Federal Reserve]] does nothing, the Treasury could prop up the bond market through expanded buybacks in lieu of quantitative easing.[47]
+
+47. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+48. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+49. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+50. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
+51. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00

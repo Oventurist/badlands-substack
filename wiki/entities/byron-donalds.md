@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, florida, elections]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0f0.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-f23.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ In February 2026, amid reporting that congressional Republicans were declining t
 
 His framing was among the more reform-friendly Republican responses quoted in the [[badlands-brief|Badlands Brief]]'s coverage of the [[election-reform-campaign|election reform campaign]].[1]
 
+## Trump endorsement for Florida governor (2025)
+
+On Thursday night, February 20, 2025, President [[donald-trump|Donald Trump]] posted on Truth Social that Donalds would receive his "complete and total endorsement" should he decide to enter Florida's 2026 governor's race.[3] "I am hearing that Highly Respected Congressman Byron Donalds is considering running for Governor of Florida, a State that I love, and WON BIG in 2016, 2020, and 2024," Trump wrote, adding that Donalds "would be a truly Great and Powerful Governor for Florida and, should he decide to run, will have my Complete and Total Endorsement. RUN, BYRON, RUN!"[3]
+
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
+3. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23

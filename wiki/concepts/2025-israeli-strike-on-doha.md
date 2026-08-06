@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, qatar, gaza, international-law, middle-east]
-sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-b53.md]
+sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-ed9.md]
 confidence: medium
 ---
 
@@ -59,3 +59,11 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] descr
 2. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 3. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
 4. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+
+## Diplomatic fallout
+
+The strike on Doha, which killed six people including a Qatari security officer, triggered an emergency summit in the Qatari capital the following week bringing together the leaders of the [[arab-league|League of Arab States]] and the [[organization-of-islamic-cooperation|Organization of Islamic Cooperation]].[5] Their final statement called on member nations to "consider the compatibility of Israel's membership in the UN with its Charter" and to coordinate efforts to suspend [[israel|Israel]] from the [[united-nations|United Nations]].[5]
+
+Israel maintained that the strike had targeted [[hamas|Hamas]] officials, but the assembled leaders branded it a "dangerous escalation that exposes the extremist hostility of the Israeli government" and accused Israel of undermining international mediation, since Doha had served as a key venue for peace talks between West Jerusalem and Hamas.[5] The statement urged all states to review diplomatic and economic relations with Israel and take "legal and effective measures" including sanctions and the suspension of arms and dual-use exports.[5] The suspension push is documented at [[arab-and-islamic-call-for-israels-suspension-from-the-united-nations|the Arab and Islamic call for Israel's suspension from the United Nations]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

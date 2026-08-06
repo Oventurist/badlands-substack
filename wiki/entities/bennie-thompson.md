@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, january-6, mississippi]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ Preliminary findings released in March 2024 by the [[house-administration-subcom
 
 In January 2024 the Republican-led House Oversight subcommittee led by [[barry-loudermilk|Barry Loudermilk]] disclosed that the [[january-6-committee|January 6 select committee]] Thompson had chaired deleted more than 100 encrypted files days before Republicans retook the House majority.[3] House rules required the select committee to turn over all documents from its investigation, and Thompson reportedly said he would transmit four terabytes of archived data; the material actually handed over came to less than three terabytes.[3] A digital forensics team hired to scrape the hard drives determined that 117 files had been encrypted and deleted on January 1, 2023, days before the transfer deadline, and recovered all 117.[3]
 
+## Role in the 2024 assassination-attempt hearings
+
+Thompson served as Ranking Member of the [[house-homeland-security-committee|House Homeland Security Committee]] during its July 23, 2024 examination of the assassination attempt on [[donald-trump|Donald Trump]].[4] Badlands contributor [[ashe-in-america|Ashe in America]] called his presence in that role "shocking," arguing that his January 6 committee had destroyed records and refused to investigate the actions of then-Speaker [[nancy-pelosi|Nancy Pelosi]], whom she described as the top official responsible for Capitol security on January 6, 2021, and characterizing the proceedings as the work of a "cover-up crew."[4]
+
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 3. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

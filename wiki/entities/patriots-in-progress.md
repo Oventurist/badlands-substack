@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [substack, badlands-media, citizen-journalism, bitcoin, prophecy]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -28,7 +28,14 @@ The January 2023 [[badlands-media|Badlands Media]] schedule listed Patriots in P
 
 A second Badlands Media schedule post, published January 3, 2023 to open the 2023 broadcast year, carried the same listing and description, and reiterated that all network shows air live on the Patel Patriot Rumble channel with replays archived on the Badlands Media library channel.[3]
 
+## Commentary in the January 31, 2023 brief
+
+Patriots in Progress contributed two analyses to that day's [[badlands-news-brief|Badlands News Brief]].[4] On the [[2022-real-disposable-income-decline|2022 real disposable income decline]], the contributor attributed the outcome to massive fiat currency creation during the COVID-19 pandemic, noted that compounding year-over-year [[inflation|inflation]] had driven broad price increases, and observed that 57% of Americans could not afford a $1,000 emergency — leaving households as stretched as at any time since the Great Depression.[4]
+
+On the [[iran-russia-banking-integration|integration of Iranian and Russian banking systems]], the contributor argued that objections to [[swift|SWIFT]] stem from its historical use to coerce political compliance, that sanctions frequently harm ordinary citizens through falling currency demand, and that the move — alongside [[brics|BRICS]] discussions of a shared currency basket — pointed toward the eventual end of the [[petrodollar|petrodollar]] system and a possible hyperinflation event.[4]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 3. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
+4. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

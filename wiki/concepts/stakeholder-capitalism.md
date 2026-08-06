@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, esg, wef, corporate-governance]
-sources: [raw/badlands-news-brief-040.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -20,5 +20,11 @@ An August 2024 Gallup–Bentley University study of 5,835 U.S. adults, fielded f
 
 Writing in the *Badlands News Brief*, [[ashe-in-america|Ashe in America]] read the study as "a direct rejection of Stakeholder Capitalism," arguing that 62 percent of Americans now reject the agenda.[1] She described the program as a "globalist change agenda of weaponized empathy" driven through businesses global and local with the complicity of NGOs and third-party associations, and without opposition from officials sworn to protect rights.[1] In her account this is why "rainbows and fists show up in your consumer product packaging, your children's public school curriculum, and your workplace culture" — coordinated social change on behalf of the [[new-world-order|New World Order]].[1] She framed the unwinding of that influence as a long game won "one conversation at a time," concluding: "Never stop fighting. We're winning."[1]
 
+
+## Stakeholder geopolitics (2023)
+
+A January 2023 Foreign Affairs essay, "The Dawn of Stakeholder Geopolitics," argued that the world had slid from cooperation to competition to conflict, that the post–Cold War order had been replaced by intensifying rivalry and then war in Europe, and that leaders must manage geopolitical competition in ways that preserve space to align with diverse parties on shared interests.[2] It drew lessons from the private sector's embrace of stakeholder capitalism, noting that while governments retreated from cooperation the business community came together on common challenges while still competing in the marketplace.[2] [[chris-paul|Chris Paul]] defined stakeholder capitalism as the fusion of government with corporations through "public-private partnerships" with transnational corporations willing to advance the global agenda in exchange for [[esg|ESG]] investments and monopoly or cartel control — in his view the traditional definition of fascism — and read stakeholder geopolitics as world governments aligning on that agenda while non-participatory governments face cascading "threats."[2]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
+2. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

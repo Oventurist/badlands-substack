@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-appointments, diplomacy, france, kushner-family]
-sources: [raw/badlands-news-brief-397.md]
+sources: [raw/badlands-news-brief-397.md, raw/badlands-news-brief-ecd.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Kushner is known for founding Kushner Companies and for his earlier work as an a
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that the Kushner announcement, together with the [[kash-patel|Kash Patel]] FBI nomination, functioned as [[narrative-shielding|narrative shielding]] around the simultaneous appointment of [[massad-boulos|Massad Boulos]] as senior adviser on Arab and Middle Eastern affairs, since media attention would gravitate to Jared Kushner's father.[1] He further noted reports that Jared visited his father by private jet every weekend of his imprisonment, and — pointing to Christie's reputation as a favored spokesman for AIPAC — speculated about what role the Israeli oligarchy may have played in the prosecution and whether Jared harbors a grudge.[1]
 
+## Summoned by France over Macron letter (2025)
+
+As U.S. ambassador to France, Kushner — Ivanka Trump's father-in-law — was summoned by the French government in August 2025 after he wrote to President Emmanuel Macron alleging that Macron had not done enough to combat antisemitism.[2] The French foreign ministry said it was shocked by Kushner's scathing assessment of Macron's stances, called it "unacceptable," and ordered the ambassador to appear on Monday, August 25, at the French Ministry for Europe and Foreign Affairs.[2] The ministry said Kushner's allegations were in clear violation of international law and of the obligation not to interfere in the internal affairs of another country.[2]
+
 ## References
 
 1. Badlands News Brief — "Pardon Me, Blue, but Whose Team Are You Really On?", URL: https://badlands.substack.com/p/badlands-news-brief-397
+2. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd

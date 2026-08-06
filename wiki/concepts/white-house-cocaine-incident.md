@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [white-house, secret-service, biden-family, 2023]
-sources: [raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-c50.md]
+sources: [raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-e18.md, raw/badlands-news-brief-f99.md]
 confidence: medium
 ---
 
@@ -13,6 +13,12 @@ confidence: medium
 The White House cocaine incident refers to the July 2023 discovery of cocaine inside a secure area of the White House and the ensuing investigation by the [[us-secret-service|United States Secret Service]].[1]
 
 ## Investigation
+
+### Evacuation of the White House grounds (July 2, 2023)
+
+The [[united-states-secret-service|U.S. Secret Service]] rushed many people out of the [[white-house|White House]] on Sunday, July 2, 2023, after Uniformed Division officers located what was initially described only as an "unknown item" on the White House complex.[6] "As a precaution, the White House grounds were evacuated, and the DC Fire Department's Hazmat team responded," an agency spokesperson said.[6] A hazmat team deployed around 18th Street and Pennsylvania Avenue while Secret Service personnel closed off the paths surrounding the White House, and the agency reportedly said nothing further about its discovery at the time.[6] The Post Millennial linked the evacuation to a preceding visit by [[hunter-biden|Hunter Biden]], and the substance was subsequently identified as cocaine hydrochloride.[6]
+
+Writing in the Badlands News Brief, [[ashe-in-america|Ashe in America]] framed the episode as "this week on New American Lows," noting reporting that the substance was found "near the West Executive Wing" and that staff were evacuated, streets closed, and taxpayer resources from multiple agencies engaged.[6] She criticized attempts to spin the discovery as a legitimately prescribed substance for a nose procedure, asking whether [[joe-biden|Joe Biden]] was having further plastic surgery, whether Hunter Biden had dropped his stash returning from a father-son getaway at Camp David, and what the total cost of the taxpayer resources wasted in responding to "CocaineGate" had been.[6]
 
 ### Initial confirmation (July 5, 2023)
 
@@ -46,3 +52,13 @@ In May 2025, [[dan-bongino|Dan Bongino]], deputy director of the [[fbi|Federal B
 2. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 3. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 4. Badlands Brief — "The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+5. Badlands Brief — "All the World's a Stage ... And the Actors Are on Strike", URL: https://badlands.substack.com/p/badlands-news-brief-e18
+6. Badlands Brief — "Badlands News Brief: MAGA Rises as the Regime Falls", URL: https://badlands.substack.com/p/badlands-news-brief-f99
+
+## Closure of the investigation (July 13, 2023)
+
+The [[united-states-secret-service|Secret Service]] ended its investigation into the cocaine found in the West Wing after just 11 days without identifying a suspect, a conclusion that enraged congressional Republicans who had demanded answers about how an illegal drug entered one of the most secure buildings in the world.[5] In a statement on Thursday, July 13, 2023 the protective agency said the probe was "closed due to a lack of physical evidence" after [[fbi|FBI]] forensic testing on the dime-size bag failed to turn up fingerprints or sufficient DNA, and that without physical evidence it could not single out a person of interest from the hundreds of individuals who passed through the vestibule where the cocaine was discovered.[5] Rep. [[tim-burchett|Tim Burchett]] stormed out of a [[house-oversight-committee|House Oversight Committee]] briefing moments after it began that morning, calling the conclusion "bogus" and the investigation a "complete failure."[5]
+
+House Speaker [[kevin-mccarthy|Kevin McCarthy]] said: "You can't tell me in the White House, with 24/7 surveillance in a cubby hole by a Situation Room that they don't know who delivered it there," adding that "anything involving Biden Inc. gets treated differently than anything else and that shouldn't be the case."[5]
+
+[[ashe-in-america|Ashe in America]] wrote that the failure to identify the owner left only two possibilities — incompetence or complicity — and argued the latter was more likely, since the service's prime directive of protecting the President and First Family would justify appearing incompetent.[5] She judged the cocaine most likely to have belonged to [[hunter-biden|Hunter Biden]], who was on scene with opportunity despite Karine Jean-Pierre's denials, was living at the White House, and faced revocation of his plea agreement and possible jail time if implicated — "a hell of a motive for a cover up" — while allowing that it might have belonged to another member of the family.[5] She also criticized House Republicans for issuing strongly worded statements without delivering action, citing their inaction on Biden's alleged violations of law, the classified document scandal, the Afghanistan withdrawal and the economy.[5]

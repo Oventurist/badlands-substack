@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [facebook, meta, big-tech, cia, free-speech, dei]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-db9.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e07.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -83,6 +83,18 @@ On Tuesday, September 17, 2024, Meta announced that it was removing Russian stat
 
 Badlands contributor [[ashe-in-america|Ashe in America]] noted that only three weeks earlier [[mark-zuckerberg|Mark Zuckerberg]] had publicly complained that the Biden White House pressured Meta to censor Americans over COVID-19 content in 2021 and said "I believe the government pressure was wrong" — yet the company was again complying with White House censorship pressure.[16] She argued the [[joe-biden|Biden]] administration appeared to be staging a sequel to RussiaGate, and contrasted Meta's compliance with X and [[elon-musk|Elon Musk]]'s refusal to follow the directive.[16]
 
+## January 2024 Senate child safety hearing
+
+Meta chief executive [[mark-zuckerberg|Mark Zuckerberg]] was among the social media leaders questioned for about four hours by the [[senate-judiciary-committee|Senate Judiciary Committee]] on January 31, 2024 over the mental health risks their platforms pose to young people and accusations that their companies failed to protect children from exploitation and abuse.[17] Senators criticized the companies' lobbying against federal legislation, and in a moment described by [[abc-news|ABC News]] as remarkable, Zuckerberg stood to apologize directly to families of children who had died after being ensnared on the platforms.[17]
+
+## Fact-checking error over the Butler photograph
+
+In late July 2024 Meta-owned [[facebook|Facebook]] admitted it had "mistakenly" censored an authentic photograph of [[donald-trump|Donald Trump]] raising his fist after the Butler assassination attempt, after a fact check applied to a doctored version of the image was incorrectly extended to the real one.[22] Meta says on its website that it uses a third-party fact-checking network enabling the company to "take action and reduce the spread of problematic content across our apps."[22] Some conservatives argued the incident should prompt lawmakers to question CEO [[mark-zuckerberg|Mark Zuckerberg]].[22]
+
+## Threads launch (July 2023)
+
+In July 2023 Meta launched [[threads|Threads]], a text-based conversation app positioned as a competitor to [[twitter|Twitter]], and claimed more than 10 million sign-ups within hours.[23] The app permitted posts of up to 500 characters with links, photos and videos, was tied directly to Meta-owned [[instagram|Instagram]] and its more than 2 billion users, and launched in over 100 countries on iOS and Android.[23] Coverage of the rollout paired the growth figures with immediate data-privacy and censorship concerns, including criticism from former Twitter owner [[jack-dorsey|Jack Dorsey]] over the scale of data the app harvests.[23] [[justin-deschamps|Justin Deschamps]] of [[badlands-media|Badlands Media]] argued that Meta and other social media companies function as agents for globalist interests, using private platforms to censor speech, and framed the withholding of relevant information from citizens as a form of coercion that destroys the "meeting of the minds" required for lawful and honorable agreements in a self-governing society.[23]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -112,3 +124,37 @@ The brief further alleged that Meta was aware of serious harms on its platforms 
 14. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
 15. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 16. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+17. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+18. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
+
+## End of the fact-checking program (January 2025)
+
+On January 7, 2025, Meta announced changes to its content moderation practices that effectively ended the fact-checking program it had instituted to curtail the spread of misinformation across its social media apps.[18] Instead of relying on news organizations and other third-party groups, the company — which owns Facebook, Instagram and Threads — said it would rely on users to add notes to posts that may contain false or misleading information.[18]
+
+The reversal of the years-old policy was widely read as a sign of how Meta was repositioning itself for the incoming [[donald-trump|Trump]] presidency in the weeks before it began.[18] Meta described the changes in the language of a mea culpa, with newly installed global policy chief Joel Kaplan saying the company wanted to "undo the mission creep that has made our rules too restrictive and too prone to over-enforcement."[18]
+
+## Record EU privacy fine (May 2023)
+
+In May 2023 the [[european-union|European Union]] fined Meta a record 1.2 billion euros (about $1.3 billion) for privacy violations and ordered the company to stop transferring European users' personal information across the Atlantic by October — the latest salvo in a decade-long case sparked by fears of US cybersnooping.[19] The penalty was the largest since the bloc's [[general-data-protection-regulation|General Data Protection Regulation]] took effect five years earlier, surpassing Amazon's 746 million euro fine in 2021.[19] Meta, which had previously warned that services for its European users could be cut off, vowed to appeal and to ask courts to put the decision on hold immediately, while stating that there was "no immediate disruption to Facebook in Europe."[19] The decision applied to user data including names, email and IP addresses, messages, viewing history and geolocation data used for targeted online advertising.[19]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] used the ruling to argue that the United States trails the world in protecting citizens' online rights, calling for an Internet Bill of Rights and data freedom legislation grounded in informed consent, real privacy rights and meaningful oversight, and criticising the framing of the disputed data as merely advertising material.[19]
+
+19. Badlands Brief — "Badlands News Brief: DeSimps Assemble, Committees Convene & Target Tantrums", URL: https://badlands.substack.com/p/badlands-news-brief-db9
+## March 2024 global outage
+On March 5, 2024, Meta-owned [[facebook|Facebook]] and [[instagram|Instagram]] went down in a [[2024-meta-global-outage|global outage]] lasting more than two hours and affecting hundreds of thousands of users.[20] Disruptions began around 10 a.m. Eastern time, with users reporting on X that they had been logged out and could not sign back in; at peak, Downdetector registered more than 550,000 reports for Facebook and about 92,000 for Instagram.[20] The White House National Security Council monitored the incident and said it was not aware of any specific malicious cyber activity, while Meta spokesman Andy Stone attributed the disruption to an unspecified "technical issue" that had been resolved.[20]
+20. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+## Reinstatement of Trump's accounts (January 2023)
+
+In January 2023 Meta announced it would soon lift its ban on former President [[donald-trump|Donald Trump]], who had been suspended from [[facebook|Facebook]] and [[instagram|Instagram]] after the January 6, 2021 riot at the Capitol.[21] Meta executive [[nick-clegg|Nick Clegg]] wrote on the company blog that "we will be reinstating Mr. Trump's Facebook and Instagram accounts in the coming weeks," adding that the company was "doing so with new guardrails in place to deter repeat offenses."[21] Meta said Trump would be subject to the company's rules like other users but would also face "heightened penalties for repeat offenses."[21]
+
+Badlands contributor [[brad-getz|Brad Getz]] read the reversal as "a symbolic admission of wrongful suspension" in light of the congressional January 6 hearings, arguing that the suspensions looked less warranted with time and comparing later regret over the Salem witch trials to the platforms' shifting posture.[21] He attributed the move to Meta's ability to "read the room" and to pressure created by the [[twitter-files|Twitter Files]] revelations about government meddling — conduct he suggested Meta had also engaged in — and predicted the attached restrictions would be enforced vindictively, concluding that "META reeks of desperation."[21]
+
+21. Badlands Brief — "Badlands News Brief: Big Tech Crunch, OPSEC & Vax Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-e07
+22. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+23. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
+
+## The proposed Musk–Zuckerberg cage match
+
+CEO [[mark-zuckerberg|Mark Zuckerberg]] responded to [[elon-musk|Elon Musk]]'s proposal of a mixed martial arts bout in Italy by posting on [[threads|Threads]] that he had "been ready to fight since the day Elon challenged me" but was "not holding my breath," and that when he competes he wants to work with professional organizations such as the [[ufc|UFC]] or ONE.[24] Badlands commentary read the episode as a publicity stunt intended to drum up support for both Meta and X, since the event was to be streamed on the two platforms.[24] See [[musk-zuckerberg-cage-match|Musk–Zuckerberg cage match]].[24]
+
+24. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

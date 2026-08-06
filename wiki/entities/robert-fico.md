@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [slovakia, world-order, globalism]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-cb6.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-d68.md]
 confidence: medium
 ---
 
@@ -64,6 +64,13 @@ In February 2025 Fico wrote to [[elon-musk|Elon Musk]] complaining about the sub
 
 Badlands commentary argued that if Musk granted Fico's request, the disclosures would offer an opportunity to prove that the [[state-department|State Department]] uses proxy NGOs to destabilise foreign countries for regime-change purposes, and might further connect that funding to the assassination attempt on Fico in May of the previous year.[10] The writer held that such a finding would not only prove [[operation-gladio|Operation Gladio]] but would justify the MAGA movement's desire to fundamentally transform the structure of the federal government.[10]
 
+
+## Invoked as a warning to Georgia's prime minister (May 2024)
+
+Fico was shot multiple times while meeting supporters outside a government meeting in Handlova on May 15, 2024, was rushed to hospital for emergency surgery, and was recuperating from his injuries in late May.[11] His alleged assailant, described as a 71-year-old poet who disagreed with Fico's suspension of military aid to Ukraine, was charged with attempted murder and faced possible terrorism charges.[11]
+
+Days later Georgian prime minister [[irakli-kobakhidze|Irakli Kobakhidze]] claimed an unnamed European commissioner had invoked the shooting as a threat, telling him "you see what happened to Fico, and you should be very careful" if his government proceeded with its foreign agents law.[11] Badlands commentary tied the assassination attempt directly to Slovakia's passage of a foreign agent law requiring NGOs receiving foreign funding to disclose its origins — legislation modeled, in the brief's account, on Russian law passed under [[vladimir-putin|Vladimir Putin]].[11]
+
 ## References
 
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -76,3 +83,4 @@ Badlands commentary argued that if Musk granted Fico's request, the disclosures 
 8. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 9. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 10. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+11. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68

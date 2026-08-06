@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, federal-agencies, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d00.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -79,6 +79,24 @@ Three of the seven federal grants that the [[department-of-health-and-human-serv
 
 The CDC released previously hidden reports of facial paralysis and other adverse events following COVID-19 vaccination, comprising roughly 780,000 reports received shortly after the vaccines were rolled out and describing heart inflammation, miscarriages and seizures among other problems.[14] The reports had been lodged with [[v-safe]], the text-message system the agency created to monitor possible side effects.[14] For years the CDC declined to make the V-safe data public, instead publishing studies describing the reports as providing reassurance about vaccine safety, even though data released in 2022 showed nearly 8 percent of the system's 10 million users required medical attention or hospital care after vaccination.[14] U.S. District Judge [[matthew-kacsmaryk|Matthew Kacsmaryk]] ordered the agency in January 2024 to disclose the free-text entries, dismissing its claim that processing and redacting them would require too much work.[14]
 
+## April 2023 conference COVID-19 outbreak
+
+A COVID-19 outbreak occurred at a CDC conference held in April 2023 despite most attendees being vaccinated, the agency confirmed the following month.[15] About 1,800 CDC staffers and others had gathered at an Atlanta hotel — the city where the agency is headquartered — for a conference focused on epidemiological investigations and strategies.[15] On April 27, the conference's final day, several attendees notified organizers that they had tested positive, prompting the CDC and the Georgia Department of Public Health to survey participants; roughly 80 percent responded and 181 of those reported positive tests.[15] The agency said the goals were "to learn more about transmission that occurred and add to our understanding as we transition to the next phase of COVID-19 surveillance and response."[15] Reporting characterized all of the infected attendees identified in the outbreak as vaccinated.[15]
+
+## Criticism in the 2023 Newsweek scientific mea culpa
+
+A January 2023 [[newsweek|Newsweek]] opinion essay by a medical student and researcher named the CDC, alongside the [[world-health-organization|WHO]] and the [[food-and-drug-administration|FDA]], as having repeatedly overstated the evidence and misled the public about its own views and policies during the COVID-19 response.[18] The specific areas cited were natural versus artificial immunity, school closures and disease transmission, aerosol spread, mask mandates, and vaccine effectiveness and safety, particularly among the young — all described as scientific mistakes identifiable at the time rather than in hindsight, with some obfuscations persisting.[18]
+
+## Childhood vaccine schedule review and flu estimates (October 2025)
+
+On October 9, 2025 the CDC posted a document announcing that its vaccine advisers on the [[advisory-committee-on-immunization-practices|Advisory Committee on Immunization Practices]] would review the safety and efficacy of the childhood vaccine schedule, including the timing of shots and possible risks associated with common vaccine ingredients, as part of a "multi-year effort."[19] Acting Director [[jim-oneill|Jim O'Neill]], citing remarks by President [[donald-trump|Donald Trump]], separately called on manufacturers to develop "safe monovalent vaccines to replace the combined MMR."[19]
+
+In the same period, CDC estimates were cited in reporting on the reinstatement of a healthcare mask mandate in [[sonoma-county|Sonoma County]], California: the agency estimated that influenza had made between 47 and 82 million people sick in the United States the previous winter, with between 27,000 and 130,000 deaths.[19]
+
+## Six-foot distancing guidance questioned, 2024
+
+In closed-door testimony released in May 2024, former [[national-institutes-of-health|NIH]] director [[francis-collins|Francis Collins]] said he could recall no science or evidence supporting the CDC's six-foot social-distancing guidance during the Covid-19 pandemic, answering "I do not" when asked and clarifying, "I did not see evidence."[20] He added that he had not seen evidence supporting the six-feet guidance in the period since.[20]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
@@ -95,3 +113,18 @@ The CDC released previously hidden reports of facial paralysis and other adverse
 12. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 13. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
 14. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
+15. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+
+## Role in YouTube content moderation (2023)
+
+In litigation brought by [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] against [[google|Google]] in 2023, Kennedy's lawyers noted that [[youtube|YouTube]]'s stated policy is that information contradicting CDC guidance will be censored, and argued that the platform's removal of his videos therefore amounted to government-directed suppression in violation of the First Amendment.[16] A federal judge rejected the request for a temporary restraining order, and Google maintained that it had exercised its own discretion independent of government.[16]
+
+16. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+17. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## Unsent myocarditis alert
+
+Documents obtained by The Epoch Times and reported in January 2024 showed that the CDC prepared an alert to state and local officials about an emerging connection between heart inflammation and COVID-19 vaccines, but ultimately never sent it.[17] All four COVID-19 vaccines available in the United States can cause myocarditis according to studies, experts and agencies including the CDC itself, with the first cases reported shortly after the vaccines became available in late 2020.[17] The agency distributes such warnings to federal, state and local public health officials and physicians through the Health Alert Network (HAN), a system the CDC describes as conveying "vital health information."[17]
+18. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+19. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+20. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

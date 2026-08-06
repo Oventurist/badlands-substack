@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, 2024-election, journalism, washington-post, los-angeles-times]
-sources: [raw/badlands-news-brief-a60.md]
+sources: [raw/badlands-news-brief-a60.md, raw/badlands-news-brief-e98.md]
 confidence: medium
 ---
 
@@ -30,6 +30,14 @@ Writing for Badlands, [[ashe-in-america|Ashe in America]] framed the affair as l
 
 Ashe concluded that many ordinary readers were responding not by cancelling subscriptions but by concluding that their trusted journalists had been political propagandists all along, writing that "the trash is taking itself out."[1] The episode was discussed further on the Badlands program *Culture of Change* episode 79.[1]
 
+## Bezos op-ed
+
+On October 28, 2024, [[jeff-bezos|Jeff Bezos]] published a [[washington-post|Washington Post]] op-ed defending the paper's non-endorsement, citing that year's Gallup poll showing journalism had fallen below Congress to become the least trusted profession.[2]
+He argued that presidential endorsements do not tip elections — "No undecided voters in Pennsylvania are going to say, 'I'm going with Newspaper A's endorsement'" — but do create a perception of bias and non-independence, making their end a principled step toward credibility.[2]
+Bezos invoked Eugene Meyer, publisher from 1933 to 1946, as sharing that view, and said the only error was the timing, which he attributed to inadequate planning rather than strategy.[2]
+Badlands writer [[burning-bright|Burning Bright]] framed the essay as part of a broader wave of elite panic op-eds — including Bloomberg's "doom loop" framing and [[axios|Axios]]'s declaration that mainstream media dominance in election narrative-setting had shattered in 2024.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
+2. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, election-technology, epollbooks, liberty-vote]
-sources: [raw/badlands-news-brief-398.md]
+sources: [raw/badlands-news-brief-398.md, raw/badlands-news-brief-f1d.md]
 confidence: low
 ---
 
@@ -22,5 +22,10 @@ If KNOWiNK were also to do business as Liberty Vote, that would mean two separat
 
 Commentary raised unresolved operational questions about whether Dominion and KNOWiNK relationship managers would both be rebranded as Liberty Vote staff, how client portfolios overlap, whether a reduction in force would follow, and whether Liberty Vote would ever become more than a branded holding company.[1] The stated conclusion was that, as of mid-October 2025, the practical level of change to elections resulting from the ownership change appeared low.[1]
 
+## Role in the Dominion acquisition
+
+When the sale of [[dominion-voting-systems|Dominion Voting Systems]] and its rebranding as [[liberty-vote|Liberty Vote]] was announced on October 9, 2025, reporting identified the purchaser, [[scott-leiendecker|Scott Leiendecker]], as the creator of KNOWiNK, described as the largest provider of electronic poll books.[2] Badlands contributor [[ashe-in-america|Ashe in America]] cited that connection as the primary reason for her negative initial reaction to the deal, noting the concentration of poll-book and voting-machine businesses under a single owner.[2]
+
 ## References
 1. Badlands Brief — "Satellite Secrets, Spanish Sanctions, & Enslaved Scammers", URL: https://badlands.substack.com/p/badlands-news-brief-398
+2. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

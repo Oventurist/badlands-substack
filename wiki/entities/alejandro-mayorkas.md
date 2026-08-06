@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [homeland-security, biden-administration, january-6, security]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d21.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ Early on Wednesday, January 31, 2024, the Republican-led [[house-homeland-securi
 
 [[burning-bright|Burning Bright]] read the vote as one element in a cascade of border narratives converging in early 2024, alongside the Eagle Pass controversy and a Texas appeal before the Fifth Circuit over federal authority at the border, arguing the sequencing was too well-timed to be coincidence.[10]
 
+## July 2024 assassination-attempt accountability
+
+Badlands' July 2024 coverage grouped Mayorkas's handling of questions about the July 13 attempt on [[donald-trump|Donald Trump]] with [[kimberly-cheatle|Kimberly Cheatle]]'s resignation and law enforcement's evasive congressional testimony, characterizing his contribution as "deflection" within a broader pattern of institutional non-answers.[11] The Department of Homeland Security, which he led, declined to appear before the [[house-homeland-security-committee|House Homeland Security Committee]] on July 23, 2024.[11]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -70,3 +74,4 @@ Early on Wednesday, January 31, 2024, the Republican-led [[house-homeland-securi
 8. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 9. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 10. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+11. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

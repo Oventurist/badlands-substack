@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, maidan, ned, solidarity-center, nato]
-sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -138,6 +138,14 @@ In late August 2024 Ukrainian lawmaker Maryana Bezuglaya said that a US-made F-1
 
 A large Russian missile and drone offensive on April 11, 2024 bombarded Ukraine's power grid and underground natural gas storage facilities.[22] Six hypersonic Kinzhal missiles struck critical infrastructure near Kyiv and around Lviv without being intercepted, while Ukrainian defenses downed 18 of 42 conventional missiles and one of 40 drones.[22] Energy Minister [[german-galushchenko|German Galushchenko]] reported damage to plants near Kyiv and in the Kharkiv, Zaporizhzhia and Lviv regions, and [[volodymyr-zelensky|Volodymyr Zelensky]] said a plant in Odesa was hit; the [[trypilska-power-plant|Trypilska plant]] south of Kyiv, the region's largest, was struck by six missiles.[22] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] contrasted the strikes with Ukraine's newly passed conscription measures intended to raise 500,000 additional men, argued that ending the conflict quickly would spare those lives, and attributed the war's seemingly existential character to the [[cia|CIA]] and to unresolved questions about biological research laboratories in the country.[22]
 
+## Morale and desertion crisis (September 2024)
+
+Reporting published by [[cnn|CNN]] on September 8, 2024 described Ukraine's military as outgunned and outnumbered and struggling with low morale and desertion.[23] The account centered on a battalion commander identified as Dima, who had commanded around 800 men in some of the fiercest and bloodiest battles of the war, most recently near [[pokrovsk|Pokrovsk]], the strategic eastern town then on the brink of falling to Russia; with most of his troops dead or severely injured, he quit and took an office job with the military in Kyiv, saying he could no longer watch his men die.[23]
+
+Two and a half years of [[russia|Russia]]'s grinding offensive had decimated many Ukrainian units, with reinforcements few and far between and soldiers exhausted and demoralized, a situation described as particularly dire among infantry units near Pokrovsk and elsewhere on the eastern front.[23] CNN spoke to six commanders and officers then or recently serving in the area, all of whom said desertion and insubordination were becoming a widespread problem, especially among newly recruited soldiers.[23]
+
+Separately, U.S. Deputy Secretary of State [[kurt-campbell|Kurt Campbell]] accused [[china|China]] of giving "very substantial" help to Russia's war machine as Moscow sought technology to sustain military production against sanctions and continue its war against Ukraine.[23]
+
 ## References
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -161,3 +169,9 @@ A large Russian missile and drone offensive on April 11, 2024 bombarded Ukraine'
 20. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 21. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 22. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+23. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+
+## AI-coordinated drone swarms (2025)
+
+Ukrainian forces have used artificial intelligence to let groups of drones coordinate attacks on Russian positions, in one reported case a trio of drones that flew under cover of darkness and decided among themselves exactly when to strike.[24] Ukraine has conducted such swarm attacks for much of the preceding year, and analysts said they were unaware of the technology being used regularly in combat before the Ukrainian operations.[24] Details are covered at [[ai-drone-swarms|AI-powered drone swarms]].[24]
+24. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

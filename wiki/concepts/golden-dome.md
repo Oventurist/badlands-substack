@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [missile-defense, trump, russia, china, arms-control]
-sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-739.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e10.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ Writing in the May 21, 2025 [[badlands-news-brief|Badlands News Brief]], [[ghost
 
 President [[donald-trump|Donald Trump]]'s December 18, 2025 executive order [[ensuring-american-space-superiority|"Ensuring American Space Superiority"]] sought demonstrations of missile-defense technologies under the Golden Dome program, alongside directives for the [[pentagon|Pentagon]] and US intelligence agencies to produce a space security strategy.[6]
 
+## Canada and the "51st state" offer
+
+In May 2025, President [[donald-trump|Donald Trump]] claimed that Canada was "considering" giving up its statehood in exchange for free protection under the proposed Golden Dome missile defense system, despite repeated statements by Canadian officials that the country is not for sale.[7] Writing on Truth Social, Trump said: "I told Canada, which very much wants to be part of our fabulous Golden Dome System, that it will cost $61 Billion Dollars if they remain a separate, but unequal, Nation, but will cost ZERO DOLLARS if they become our cherished 51st State," adding, "They are considering the offer!"[7] [[badlands-media|Badlands Media]] commentator [[chris-paul|Chris Paul]] summarized the pitch as "Trump purchasing Canada for $61 billion."[7]
+
 ## References
 1. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
 2. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
@@ -45,3 +49,4 @@ President [[donald-trump|Donald Trump]]'s December 18, 2025 executive order [[en
 4. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 6. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+7. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalist, free-speech, media]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-e3b.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-d8f.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] says he agrees with Wei
 
 By January 2026 Weiss was serving as Editor-in-Chief of [[cbs|CBS News]], and press coverage portrayed her tenure as shifting the network toward conservative appeal.[2] When new "CBS Evening News" anchor [[tony-dokoupil|Tony Dokoupil]] debuted on January 5, 2026, with a monologue on collapsing trust in legacy media, critics described the broadcast as "MAGA-coded" under Weiss's editorial direction.[2]
 
+## Precedent for later Times departures
+
+Weiss's public account of her departure from [[new-york-times|The New York Times]] was cited in February 2024 as a precedent for a similar essay by former opinion editor [[adam-rubenstein|Adam Rubenstein]], part of a run of pieces by former editors and writers — including [[james-bennet|James Bennet]] — describing the same hostile work environment for staff handling conservative viewpoints.[3]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Mad-Lad Maduro, Media Meltdowns & Weapons of the Future", URL: https://badlands.substack.com/p/badlands-brief-e3b
+3. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f

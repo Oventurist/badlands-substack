@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -88,6 +88,17 @@ Flynn wrote the foreword to the more-than-eighty-page article by [[patrick-byrne
 
 In a post on X on Sunday, December 21, 2025, Flynn alleged collusion between the [[central-intelligence-agency|CIA]] and European intelligence services to undermine President [[donald-trump|Donald Trump]]'s efforts to broker peace in Ukraine.[15] He wrote that the CIA is "in cahoots with [[mi6|MI6]] and others in the EU intelligence community," reiterating his warning that the [[deep-state|deep state]] is plotting against Trump.[15] Flynn added that "the EU aka [[nato|NATO]] (minus the United States) desperately wants war with Russia" and that "warmongers in our own administration as well as the Congress want perpetual" war.[15] His remarks echoed statements by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]], who accused [[reuters|Reuters]] of spreading "lies and propaganda" about Russian intentions to undermine Trump's diplomacy and promote escalation.[15]
 
+## Declared readiness to return as National Security Advisor (2025)
+
+On Monday, May 5, 2025, Flynn declared on X that he was ready to return to the White House as President [[donald-trump|Donald Trump]]'s National Security Advisor, a post he had briefly held at the start of Trump's first term.[16] "For over four decades, I've dedicated my life to serving this great nation, from the battlefields of Afghanistan and Iraq to the halls of Washington," he wrote, adding that his commitment "has never wavered" and that "if called upon, I'll protect our nation's security and ensure our enemies know we mean business."[16] He closed by saying he would keep fighting for America "no matter where I stand, inside or outside government," concluding, "I'm not done yet."[16]
+
+Flynn separately framed his current activity as service in another form: "I'm serving now. I serve in just a different way. I have been engaging people in government... every American needs to serve this country, whether you're inside the government or outside the government."[16] Badlands contributor GhostofBasedPatrickHenry described the prospect of Flynn's appointment as the redemption arc MAGA had awaited since his persecution by the Deep State in early 2017, and used the remarks to press readers on their own objectives and plans for what he called the logistics of the Great Awakening.[16]
+
+
+## Comments on unrest in Britain (August 2024)
+
+Over the weekend of August 3–4, 2024, Flynn responded to Elon Musk on social media by saying that civil war in Britain was already underway, a remark cited by Badlands Media in its coverage of the riots that prompted Prime Minister [[keir-starmer|Keir Starmer]] to announce a "standing army" of specialist police.[17] The outlet placed Flynn's assessment alongside its argument that the unrest was the product of a decade of migration from Africa and Syria facilitated by the [[open-society-foundations|Open Society Foundations]] and other non-governmental organizations.[17] See [[southport-riots|the Southport riots]].[17]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
@@ -104,3 +115,5 @@ In a post on X on Sunday, December 21, 2025, Flynn alleged collusion between the
 13. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 14. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 15. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+16. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
+17. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

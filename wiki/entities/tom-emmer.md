@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican-party, minnesota, oversight]
-sources: [raw/badlands-brief-144.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ On Thursday, October 19, 2023, after [[jim-jordan|Jim Jordan]] proposed letting 
 3. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 4. Badlands Brief — "Badlands News Brief: Trump Hits the Bronx as the Establishment Panics", URL: https://badlands.substack.com/p/badlands-news-brief-8d8
 5. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+
+## Collapse of the October 24, 2023 nomination
+
+Emmer won the House Republican conference's speaker nomination after five rounds of voting on Tuesday, October 24, 2023, but withdrew hours later once it became clear the Minnesota lawmaker would face too many opponents to reach 217 votes on the House floor.[6] Republicans that evening turned to [[mike-johnson|Mike Johnson]] as their fourth nominee, who won 128 conference votes.[6] Badlands contributor [[ashe-in-america|Ashe in America]] called the day "a rollercoaster," noting that no floor vote was held and that rumors on the Hill had [[kevin-mccarthy|Kevin McCarthy]] returning for another vote.[6]
+
+6. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house, oversight, doj-slush-fund, investigations]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -102,6 +102,10 @@ On December 27, 2023, the Judiciary Committee's chairman [[jim-jordan|Jim Jordan
 
 In April 2023, Republicans on the committee announced the [[2023-house-judiciary-manhattan-crime-hearing|2023 House Judiciary Manhattan crime hearing]], an official field hearing scheduled in New York City on "victims of violent crime in Manhattan" that named District Attorney [[alvin-bragg|Alvin Bragg]] in its notice.[19] The announcement enraged New York Democrats, and Bragg's office called it a "political stunt."[19] Badlands writer [[ryan-delarme|Ryan DeLarme]] noted that [[jerrold-nadler|Jerrold Nadler]] took shots at committee chairman [[jim-jordan|Jim Jordan]] over Jordan's effort to defund what DeLarme described as the weaponized [[fbi|Federal Bureau of Investigation]].[19]
 
+## Hunter Biden deposition (February 2024)
+
+The Committee jointly conducted [[hunter-biden|Hunter Biden]]'s closed-door deposition with the [[house-oversight-committee|House Oversight Committee]] on February 28, 2024, as part of the [[biden-impeachment-inquiry|impeachment inquiry]] into President [[joe-biden|Joe Biden]].[21] Hunter Biden used his prepared opening statement to accuse the two committees of having "hunted me in your partisan political pursuit of my dad."[21]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -122,3 +126,16 @@ In April 2023, Republicans on the committee announced the [[2023-house-judiciary
 17. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
 18. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 19. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## July 2023 Wray hearing
+
+On July 12, 2023, the committee under chairman [[jim-jordan|Jim Jordan]] held its first hearing with [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] since Republicans won the House, a roughly five-hour session examining what Jordan called "the politicization" of the bureau under Wray and Attorney General [[merrick-garland|Merrick Garland]].[20] See [[2023-wray-house-judiciary-testimony|2023 Wray House Judiciary testimony]].[20]
+
+20. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+21. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+
+## Robert Hur hearing (March 12, 2024)
+
+The committee held a five-hour hearing on Capitol Hill on Tuesday, March 12, 2024 with former special counsel [[robert-hur|Robert Hur]] on his report into President [[joe-biden|Joe Biden]]'s handling of classified documents.[22] Hur told lawmakers the report "did not exonerate" Biden and that the president and his defenders had misled the public about key details, correcting Rep. [[pramila-jayapal|Pramila Jayapal]] on the point before she cut him off.[22] He testified that Biden had lied publicly at least twice and that the White House counsel's office had sought to purge his report of negative assessments of the president's mental fitness.[22] [[badlands-media|Badlands Media]] commentary characterized the hearing as fiery but mostly composed, with Republicans frustrated that Hur brought no charges, Democrats frustrated that his report implied Biden was senile, and much of the questioning consumed by comparisons to [[donald-trump|Donald Trump]]'s own documents case.[22]
+
+22. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

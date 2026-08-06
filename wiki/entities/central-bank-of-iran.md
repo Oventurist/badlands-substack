@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, banking, cyberattack, finance]
-sources: [raw/badlands-news-brief-36a.md, raw/badlands-news-brief-656.md]
+sources: [raw/badlands-news-brief-36a.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ The attack reportedly paralyzed all banking computer systems in Iran and resulte
 
 Speaking at the 11th Conference on Modern Banking and Payment Systems in Tehran on 25 November 2024, CBI Governor [[mohammad-reza-farzin|Mohammad-Reza Farzin]] said [[iran|Iran]] and [[russia|Russia]] had abandoned the US dollar in bilateral trade and shifted to their national currencies as part of a plan to counter "unjust sanctions."[2] "We have entered into a currency agreement with Russia and abandoned the dollar. Now we only trade in rubles and rials," Farzin was quoted as saying by Fars News, adding that the two countries' financial authorities had agreed on the exchange rate to be used for foreign trade transactions.[2] Both states, subject to US sanctions, had first announced plans to trade in national currencies in July 2022.[2]
 
+## Banking integration with Russia (2023)
+
+In January 2023, Deputy Governor Mohsen Karimi announced that [[iran|Iran]] and [[russia|Russia]] had integrated their interbank communication and transfer systems, connecting 52 Iranian banks and 106 Russian banks through the Russian Financial Message Transfer System.[3] Karimi said the agreement would facilitate economic relations between the two countries; the [[iran-russia-banking-integration|arrangement]] was understood as an effort to bypass strict sanctions on both states' financial infrastructure and to reduce dependence on [[swift|SWIFT]].[3]
+
 ## References
 1. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
 2. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+3. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

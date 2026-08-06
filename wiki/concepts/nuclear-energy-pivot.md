@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [energy, nuclear, trump-administration, iran-war]
-sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-855.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-d1d.md]
 confidence: low
 ---
 
@@ -38,9 +38,15 @@ In parallel, the Świętokrzyska Industrial Group Industria (ŚGP Industria) con
 
 Badlands writer [[burning-bright|Burning Bright]] read the cluster of nuclear headlines through his macroeconomic thesis "The Switch," which holds that although narratives about the energy transition appear catastrophic for the current establishment, the concrete measures being implemented point toward a far brighter future.[3] He argued that restarting closed plants would leave the United States and the world flush with new energy jobs while curtailing the push toward what he called inefficient and damaging solar and wind projects, asserted that the framing of nuclear energy as an existential threat had always been a psychological operation, and concluded that between a nuclear revival and the CHIPS Act the future was bright.[3]
 
+## Sahel agreements (June 2025)
+
+The nuclear cooperation deal signed by [[rosatom|Rosatom]] with [[mali|Mali]] on June 24, 2025, following a similar agreement with [[burkina-faso|Burkina Faso]] the previous week, was presented by Badlands contributors as a concrete instance of the pivot.[4] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that 45 percent of Mali's population and 80 percent of Burkina Faso's lack access to electricity, and described the deals as "the essence of what we expect from the Golden Age, where cheap, affordable energy ... creates an abundance that will lift the world out of poverty."[4] He suggested the Sahel states might become "the definitive case study on how quickly a nuclear energy program can transform a society."[4]
+
+In a parallel argument about [[iran|Iran]], [[burning-bright|Burning Bright]] contended that "denuclearization is RE-nuclearization," with Russia championing Iran's nuclear program "not as a means of war-making, but of future-building" and [[donald-trump|Trump]] "leading us into a new nuclear age of prosperity while ostensibly destroying the Hegelian one en route."[4]
 
 ## References
 
 1. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 2. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 3. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
+4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, higher-education, plagiarism, institutions]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -79,6 +79,10 @@ Badlands writer [[burning-bright|Burning Bright]] highlighted that chronology, n
 
 On December 12, 2023, Harvard's governing board issued a full-throated defense of President [[claudine-gay|Claudine Gay]], a week after her congressional testimony on campus antisemitism and amid allegations that she had plagiarized portions of her dissertation, including from the work of political scientist [[carol-swain|Carol Swain]].[12] Badlands commentary argued that the Ivy League's "facade of intellectual superiority" collapses when the head of such an institution appears incapable of original thought, and read the establishment's decision to protect Gay at the expense of institutional credibility as "a deviation" and "panic."[12]
 
+## Affirmative action ruling (June 2023)
+
+Harvard College, described as the Ivy League titan whose name has symbolized achievement and power for centuries, was one of the two institutions whose admissions practices were before the [[supreme-court-of-the-united-states|Supreme Court]] in the June 2023 [[affirmative-action|affirmative action]] cases, alongside the [[university-of-north-carolina|University of North Carolina]].[14] Harvard maintained that, consistent with decades of Supreme Court precedent, a minority applicant's race could serve as an unenumerated plus factor raising the chances of admission, and lower courts agreed, rejecting the lawsuits organized by [[edward-blum|Edward Blum]].[14] On June 29, 2023 the Court ruled 6–3 that considering race in university admissions is unconstitutional, forcing Harvard and peer institutions to rework their admissions criteria.[14]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
@@ -93,3 +97,21 @@ On December 12, 2023, Harvard's governing board issued a full-throated defense o
 10. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 11. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
 12. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+
+## 2025 federal grant freeze
+
+On the night of Monday, April 14, 2025, the [[donald-trump|Trump]] administration said it was freezing $2.2 billion in grants to Harvard over concerns about antisemitism on campus.[13] The freeze was announced hours after Harvard flatly rejected administration demands to eliminate its DEI programs and screen international students for ideological concerns, putting nearly $9 billion in federal funding for the university at risk.[13] The proposed conditions also included reporting foreign students for misconduct and monitoring ideological diversity in admissions and hiring.[13] The White House similarly targeted Columbia, Cornell, and Northwestern universities with threats to their federal funding.[13]
+
+Harvard President [[alan-garber|Alan Garber]] claimed the administration's directive violated the university's constitutional rights and academic freedom, asserting that no government can dictate what private universities teach or whom they admit and hire.[13] The [[general-services-administration|General Services Administration]] and the Department of Education responded that "Harvard's statement today reinforces the troubling entitlement mindset that is endemic in our nation's most prestigious universities and colleges — that federal investment does not come with the responsibility to uphold civil rights laws."[13] Badlands commentary countered that the administration was not dictating curriculum or hiring but simply attaching conditions to federal money, and compared Harvard's posture to hardball tariff negotiations.[13] See [[2025-harvard-federal-funding-freeze|2025 Harvard federal funding freeze]].[13]
+
+13. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+14. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
+
+## Harvard Yard encampment (April 2024)
+
+In late April 2024, pro-Palestinian protesters entered Harvard University and set up an encampment in Harvard Yard, part of a nationwide wave of campus occupations.[15] The move came just days after Harvard restricted access to the Yard to holders of Harvard identification, and footage of protesters entering the campus circulated widely on X.[15] The demonstrators demanded that the university divest from Israel's war in Gaza.[15]
+
+The Harvard action was reported alongside similar disruptions elsewhere, including police arrests ending a multiday standoff at New York University, and coverage framed the campus occupations as likely coordinated nationally and paralleled by demonstrations shutting down airport terminals, bridges and other economic chokepoints.[15]
+
+
+15. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

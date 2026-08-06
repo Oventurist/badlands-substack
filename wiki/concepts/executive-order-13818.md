@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [sanctions, human-rights, corruption, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -34,9 +34,19 @@ In that reading, the order is "a pretty broad brush to paint with," effectively 
 
 In December 2025 Badlands contributor GhostofBasedPatrickHenry argued that Executive Order 13818 was the reason a cartel that had once controlled all the minerals of eastern DR Congo lost that control, and that the cartel's desire to regain it explains the deployment of M23 rebels out of Rwanda to seize key chokepoints in the region.[5]
 
+## Application to Dan Gertler
+
+Israeli mining billionaire [[dan-gertler|Dan Gertler]] was sanctioned by the Trump administration in late 2017 under Executive Order 13818, described in Badlands commentary as "infamous" and titled "Blocking the Property of Persons Involved in Serious Human Rights Abuse or Corruption."[7] Former [[mossad]] director [[yossi-cohen|Yossi Cohen]] lobbied for the lifting of those sanctions, and [[ron-dermer|Ron Dermer]] secured their suspension days before [[donald-trump|Donald Trump]] left office; the US Treasury immediately re-applied them once the press reported on the move.[7]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 3. Badlands News Brief — "Treasury Triumphs, TikTok U-Turns, & Trade War Time-Outs", raw/badlands-news-brief-508.md
 4. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 5. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+6. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
+
+## Invoked over the JPMorgan asset seizure (2024)
+
+When a Russian court ordered the seizure of $439.5 million from [[jpmorgan-chase|JPMorgan Chase]] in April 2024, Badlands contributor GhostofBasedPatrickHenry reminded readers of Executive Order 13818, describing it as the order [[donald-trump|Donald Trump]] signed in December 2017 giving the president authority to seize the property of individuals or companies involved in serious human trafficking operations.[6] He noted that JPMorgan had already been shown to be entangled with [[jeffrey-epstein|Jeffrey Epstein]], with former executive [[jes-staley|Jes Staley]] accused of ties to child trafficking crimes, and argued that the only narrative better than the US government seizing JPMorgan assets was a foreign government doing so.[6]
+7. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

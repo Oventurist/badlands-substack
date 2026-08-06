@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, podcast, narrative-warfare]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md]
 confidence: medium
 ---
 
@@ -108,6 +108,14 @@ Writing in the [[badlands-news-brief|Badlands News Brief]] on March 21, 2023, Ju
 
 Writing in the [[badlands-news-brief|Badlands News Brief]] on March 21, 2023, Just Human predicted that the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] would push the [[donald-trump|Trump]] arraignment back "again and again, until the heat is off," then quietly dismiss the grand jury without an indictment.[20] He recalled the failed effort under [[cyrus-vance-jr|Cy Vance]] that cost two prosecutors their jobs, argued [[alvin-bragg|Alvin Bragg]] faced "fire on both sides of the door," and used the image of a matador's cape with a brick wall behind it to describe Trump's adversaries.[20] He added that a "spicier dish" — the indictment of someone other than Trump — remained possible.[20]
 
+## Coverage of the Bradley texts (February 2024)
+
+Just Human went through the [[terrence-bradley|Terrence Bradley]]–[[ashleigh-merchant|Ashleigh Merchant]] text messages alongside [[burning-bright|Burning Bright]] and [[jon-herold|Jon Herold]] on the [[devolution-power-hour|Devolution Power Hour]] broadcast of February 28, 2024, roughly an hour into the show; [[ashe-in-america|Ashe in America]] called the segment "damning."[22]
+
+## Commentary on the Penn Biden Center searches (2023)
+
+In the January 31, 2023 [[badlands-news-brief|Badlands News Brief]], Just Human analyzed reporting that the [[fbi|FBI]] had searched both the [[penn-biden-center|Penn Biden Center]] and [[joe-biden|Joe Biden]]'s Wilmington home, recovering documents, notes and other material dating back to Biden's Senate years.[23] The contributor argued that the narrative in which Biden's lawyers merely "discovered" marked classified documents while moving offices and voluntarily turned them over was dead and had been a lie, contending instead that the president's representatives were responding to requests or subpoenas for specific documents and had opened the door to the FBI to avoid a search warrant.[23] Just Human concluded that Biden had been under investigation for months, calling it "a scandal" and "a beautiful boomerang."[23]
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -129,3 +137,11 @@ Writing in the [[badlands-news-brief|Badlands News Brief]] on March 21, 2023, Ju
 18. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 19. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 20. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## Prediction of the Hunter Biden plea
+
+Badlands commentator [[burning-bright|Burning Bright]] credited Just Human with predicting, on the DEFECTED episode of the preceding week, the precise scenario that unfolded with the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] announced on 20 June 2023.[21]
+
+21. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+22. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+23. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

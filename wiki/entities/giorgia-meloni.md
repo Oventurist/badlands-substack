@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [italy, diplomacy, board-of-peace]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-195.md, raw/badlands-brief-724.md, raw/badlands-brief-98d.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b24.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-c16.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-195.md, raw/badlands-brief-724.md, raw/badlands-brief-98d.md, raw/badlands-brief-9ea.md, raw/badlands-brief-b24.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-c16.md, raw/badlands-news-brief-f1a.md]
 confidence: medium
 ---
 
@@ -104,6 +104,12 @@ In April 2025 Italian media reported that Russian President [[vladimir-putin|Vla
 
 In an address to the Italian Senate on Wednesday, October 22, 2025, ahead of the [[european-council|European Council]] summit in Brussels, Meloni called on the [[european-union|EU]] to increase pressure on Moscow but cautioned the bloc to respect international law in any plan to use [[frozen-russian-assets|frozen Russian assets]].[16] Her intervention came as the [[european-commission|European Commission]] pushed a [[ukraine-reparations-loan|reparations loan]] for [[ukraine|Ukraine]] backed by proceeds from roughly €210 billion in immobilised funds.[16] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described her as putting "the EU communists on notice" shortly after the Trump administration voiced its own opposition to seizure, while questioning whether EU bureaucrats would listen.[16]
 
+## Opposition to Western troop deployment to Ukraine (August 2025)
+
+In August 2025 the daily Corriere della Sera reported that Meloni was opposed to proposals by some European leaders to send troops to Ukraine.[17] The issue reportedly arose during consultations held before several European leaders and Ukraine's [[volodymyr-zelensky|Vladimir Zelensky]] travelled to Washington for talks with [[donald-trump|Donald Trump]], a visit that followed Trump's [[2025-trump-putin-alaska-summit|meeting with Vladimir Putin in Alaska]].[17] According to the report, French President [[emmanuel-macron|Emmanuel Macron]] spoke in favour of a joint European deployment, prompting Meloni to respond: "Russia has 1.3 million soldiers - how many should we send to be up to the task?"[17] Macron and British Prime Minister [[keir-starmer|Keir Starmer]] had announced in early March the creation of a [[coalition-of-the-willing|"coalition of the willing"]] to provide ground and air forces in a peacekeeping role should Kiev and Moscow reach a truce or peace deal.[17]
+
+[[badlands-media|Badlands Media]] contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] praised Meloni for subverting what he called the European effort to prolong a forever war, and speculated that Italy may be playing a central role in the [[sovereign-alliance|Sovereign Alliance]], citing guests on Breaking History such as [[alex-krainer|Alex Krainer]] who have argued that certain Italian banking dynasties are working against globalist interests.[17]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
@@ -121,3 +127,4 @@ In an address to the Italian Senate on Wednesday, October 22, 2025, ahead of the
 14. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 15. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 16. Badlands Brief — "Unconvincing Unity, Ukraine Reparations, & Uneasy Cooperation", URL: https://badlands.substack.com/p/badlands-news-brief-c16
+17. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a

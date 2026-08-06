@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-media, congress, oversight]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -47,6 +47,12 @@ Appearing on Real America's Voice in August 2025, Nunes described the human cost
 
 In the same month, as chief executive and chairman of [[trump-media-and-technology-group|Trump Media and Technology Group]], Nunes announced the start of public beta testing for [[truth-search-ai|Truth Search AI]], an AI search feature on [[truth-social|Truth Social]] powered by [[perplexity-ai|Perplexity]].[6] He said the company was proud to partner with Perplexity and that the tool would make Truth Social "an even more vital element in the Patriot Economy."[6]
 
+## DJT stock manipulation referral (April 2024)
+
+As CEO of [[trump-media-and-technology-group|Trump Media & Technology Group]], Nunes wrote to House committee leaders in April 2024 asking them to investigate potential "unlawful manipulation of DJT stock," the ticker taken from Donald J. Trump's initials.[7] He noted that DJT had appeared every day since April 2 on Nasdaq's "Reg SHO threshold list," which he said was indicative of unlawful trading activity.[7]
+
+The concern followed the company's Nasdaq listing in late March 2024, its flagship product being the social network [[truth-social|Truth Social]].[7] Nunes wrote that the pattern was particularly troubling because [[naked-short-selling|naked short selling]] often entails sophisticated market participants profiting at the expense of retail investors, and that reports indicated DJT was, as of April 3, 2024, the single most expensive stock to short in U.S. markets by a significant margin — meaning brokers had a significant financial incentive to lend non-existent shares.[7] The letter was released publicly on Tuesday, April 23, 2024.[7]
+
 ## References
 
 1. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
@@ -55,3 +61,4 @@ In the same month, as chief executive and chairman of [[trump-media-and-technolo
 4. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 5. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
 6. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
+7. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

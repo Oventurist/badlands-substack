@@ -4,13 +4,21 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [assassination-attempt, trump, criminal-case, florida]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-41f.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-e14.md]
 confidence: medium
 ---
 
 # Ryan Wesley Routh
 
 Ryan Wesley Routh is the man convicted of the September 2024 attempted assassination of then-candidate [[donald-trump|Donald Trump]] at Trump's Florida golf course during the presidential campaign.[1]
+
+## Background and arrest (September 2024)
+
+Routh, a 58-year-old man most recently living in Hawaii, was arrested after a [[us-secret-service|Secret Service]] agent spotted a rifle muzzle protruding through the fence line of Trump's West Palm Beach golf course on September 15, 2024, during the [[2024-trump-golf-course-assassination-attempt|apparent assassination attempt]] there.[4] He fled in a black Nissan, leaving behind an AK-47-style rifle, two bags and a camera mounted to the fence, and the FBI searched his car the same day looking for clues to a motive.[4] Public records indicated a criminal history that included barricading himself inside a building with a machine gun in 2002.[4]
+
+Public records place Routh's origins in Greensboro, North Carolina, where he was or remained part owner of United Roofing and Construction Inc.[4] ZeroHedge reported that in the days after the Russian invasion of Ukraine he was apparently converted into a NATO activist by saturation media coverage, and that outlets including The New York Times, the Financial Times and Semafor had quoted him extensively on Ukraine and Taiwan in the years before the shooting.[4]
+
+Badlands writers treated this media trail as significant, noting the irony that the earlier Butler, Pennsylvania attempt had unfolded on a roof while Routh worked as a roofer, arguing he fit the profile of an MKUltra-style patsy, and reporting that his social media accounts were being scrubbed while archivists preserved copies.[4] Researchers associated with the site scrutinized his follower list — compiled in a video by [[brian-lupo|Brian Lupo]] — and singled out former CIA analyst [[soo-kim|Soo Kim]] for her [[rand-corporation|RAND Corporation]], [[lmi|LMI]] and Johns Hopkins strategic-studies affiliations.[4]
 
 ## Conviction and sentence
 
@@ -32,3 +40,4 @@ On Wednesday, October 2, 2024, federal prosecutors requested an indefinite delay
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
 3. Badlands Brief — "FEMA's Broke. Ukraine is Collapsing. The EU is Doomed.", URL: https://badlands.substack.com/p/badlands-news-brief-41f
+4. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14

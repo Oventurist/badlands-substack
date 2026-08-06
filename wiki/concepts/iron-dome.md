@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, missile-defense, iran-war, military]
-sources: [raw/badlands-brief-559.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-745.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-d56.md]
 confidence: medium
 ---
 
@@ -29,3 +29,8 @@ Experts quoted by The Independent in February 2025 said the plan defied physics 
 1. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
 3. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+4. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+
+## US concerns over saturation by Hezbollah (June 2024)
+
+In June 2024 three US officials told CNN that Washington had serious concerns that in a full-blown war between Israel and [[hezbollah|Hezbollah]] the Iran-backed group could overwhelm Israel's air defenses in the north, including the much-vaunted Iron Dome.[4] The fears, which US officials said had also been communicated to them by Israel, were rising as Israel increasingly indicated it was preparing a land and air incursion into Lebanon and planning to shift resources from southern Gaza to northern Israel.[4] "We assess that at least some" Iron Dome batteries "will be overwhelmed," a senior administration official said.[4] An Israeli official said that outcome would be more likely if Hezbollah conducted a large-scale attack principally using precision guided weapons, which could be challenging for the system to defend against; Hezbollah had been stockpiling precision guided munitions and missiles from Iran for years.[4] US officials did not explicitly tell Israel they opposed an attack, but warned that a campaign Israel described as a "blitzkrieg" might not remain limited.[4]

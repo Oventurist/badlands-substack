@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, darpa, defense, technology, surveillance]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-b76.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -50,3 +50,13 @@ In July 2023 the outlet The Dossier published a previously unavailable 34-page D
 3. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 4. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 5. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+
+## Return of Ukraine-diverted munitions to Israel (October 2023)
+
+On Monday, October 23, 2023, the Department of Defense admitted it was sending back to Israel some of the weapons it had drawn from its stockpiles there and shipped to Europe for Ukraine, while insisting it could supply both conflicts.[6] A senior defense official told reporters at a [[pentagon|Pentagon]] press briefing: "We withdrew 155 [shells] from the stockpile in Israel for our forces in [European Command] and now we are sending that back to Israel for their use."[6]
+
+The department had first acknowledged in January 2023 that, to supply Ukraine with 155 mm artillery shells for its ground war with Russia, it dipped into the U.S. stockpile maintained in Israel.[6] That stockpile exists for American forces in the region but also for Israeli forces in emergencies such as the October 7, 2023 [[hamas|Hamas]] attacks, after which the United States flew additional weapons to Israel.[6] The [[new-york-times|New York Times]] reported that "half" of the shells in the Israel stockpile had been shipped to Europe the previous winter.[6]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the United States relocated much of that stockpile to [[volodymyr-zelensky|Zelenskyy]] during the "Slava Ukraine! psyop" and was now sending it back, remarking that "it's almost as if the US has no standards in who they support," and noting that Republicans in [[us-congress|Congress]] were pushing to separate additional Ukraine funding from Israel aid — a move Senator [[john-fetterman|John Fetterman]] answered on X with "F*ck that."[6] She added that everything the Biden administration and the 118th Congress did appeared to be an escalation, and asked, "What's the carbon footprint of World War III?"[6]
+
+6. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

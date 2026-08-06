@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-nations, secretary-general, israel, iran, diplomacy]
-sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d7a.md]
 confidence: medium
 ---
 
@@ -35,9 +35,22 @@ In late October 2024, more than one hundred bipartisan members of [[congress|Con
 
 Addressing Guterres directly, the signatories wrote: "We have concluded that the UN is not a neutral party but one that has definitively taken sides against Israel. We remind you that the US is the largest donor to the UN," noting that American contributions account for one-third of the body's collective budget and declaring, "We will not accept the UN's ongoing hostility to our ally Israel."[4] Badlands commentary welcomed the prospect of defunding the UN while warning that a Congress beholden to a foreign lobby might eventually go further, and framed the episode as part of the unravelling of the UN-centered order.[4]
 
+## UN80 Taskforce and the reports study
+
+Secretary-General Guterres launched the UN80 Taskforce in March 2025, a reform initiative reviewing how the Secretariat implements thousands of mandates and aimed at reducing administrative overload.[5] Presenting the resulting study, he said "the sheer number of meetings and reports is pushing the system – and all of us – to the breaking point," noting that many reports are not widely read and that downloading does not necessarily mean reading.[5]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 2. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 3. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 4. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+5. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+
+## Davos 2025 address on AI as an existential threat
+
+On Wednesday, January 22, 2025, the political and business elite gathered at Davos heard an uncompromising address from Guterres, who criticized a lack of multilateral collaboration in an "increasingly rudderless world" at risk from two existential dangers: climate change and unregulated artificial intelligence.[6] Commentary at WattsUpWithThat framed the framing of AI as "the next existential threat" as the [[united-nations|UN]] preparing a replacement crisis for a faltering climate crisis, noting predictions dating to 2017 that AI would be the next such campaign and George Soros's endorsement of an AI crisis in 2023, and arguing its bipartisan appeal made it an obvious substitute.[6]
+
+Badlands host [[burning-bright|Burning Bright]] treated the announcement as a reverse indicator, arguing that when entrenched power tells the public what to fear, the underlying premises deserve scrutiny — and that elite anxiety about the AI boom, arriving alongside [[deepseek|DeepSeek]]'s displacement of [[chatgpt|ChatGPT]] atop the US App Store, may reflect fear that the technology will dismantle rather than entrench existing control.[6]
+
+6. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a

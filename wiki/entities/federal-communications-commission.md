@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fcc, broadcast, first-amendment, media, trump]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-7c6.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e48.md]
 confidence: medium
 ---
 
@@ -64,6 +64,12 @@ In December 2023 the FCC rejected a $900 million rural broadband subsidy for [[s
 
 Badlands contributor [[burning-bright|Burning Bright]] linked the episode to the wave of lawsuits filed by Musk through [[x-corp|X]], [[rumble|Rumble]], [[truth-social|Truth Social]] and the State of Texas against the [[censorship-industrial-complex|censorship industrial complex]], arguing that the FCC commissioner's confirmation supplied additional context for coordination between federal agencies and private enforcement arms posing as independent market actors.[11]
 
+## Vullo precedent and broadcaster licensing (2025)
+
+Suggestions by President [[donald-trump|Donald Trump]] and FCC Chairman [[brendan-carr|Brendan Carr]] that broadcaster licenses could be revoked over disfavored views expressed on the air were reported in September 2025 as potentially running afoul of [[national-rifle-association-of-america-v-vullo|National Rifle Association of America v. Vullo]], a unanimous Supreme Court decision from the previous year addressing government pressure to silence speech.[12] In that case Justice [[sonia-sotomayor|Sonia Sotomayor]] wrote that "government officials cannot attempt to coerce private parties in order to punish or suppress views that the government disfavors."[12]
+
+Badlands contributor [[chris-paul|Chris Paul]] argued that critics who profess indifference to the FCC when their own side holds power do so because the agency has always served the [[uniparty|Uniparty]].[12] He contended that the FCC is unconstitutional and should not exist, that the federal government does not own the airwaves, and that Americans should be able to defend themselves from "WORDS ON THE INTERNET" without recourse to the administrative state.[12]
+
 ## References
 
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
@@ -77,3 +83,4 @@ Badlands contributor [[burning-bright|Burning Bright]] linked the episode to the
 9. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 10. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
 11. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+12. Badlands Brief — "Energy Acceleration, Foreign Escalation, & Another Looming Shutdown", URL: https://badlands.substack.com/p/badlands-news-brief-e48

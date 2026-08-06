@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, security, congress, january-6]
-sources: [raw/badlands-news-brief-5eb.md]
+sources: [raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-ea7.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Sergeant at Arms [[karen-gibson|Karen Gibson]] told the [[senate-appropriations-
 
 Badlands contributor [[justin-deschamps|Justin Deschamps]] treated the program as a signal worth interrogating rather than a routine upgrade, asking whether nothing had been in place before, what triggered the ramp-up in redundancy, whether the change carried significance for [[devolution|devolution]] or an ongoing global sting operation, who accepted the phones, and what inferences could be drawn from that list.[1] He noted that [[klaus-schwab|Klaus Schwab]] had predicted a cyber attack capable of taking down the power grid — an event that would help usher in the [[great-reset|Great Reset]] — and asked whether the politicians who accepted the phones knew something.[1]
 
+## Statement ahead of the anticipated Trump indictment (March 2023)
+
+On the night of Monday, March 20, 2023, the Sergeant at Arms issued a statement saying the [[united-states-capitol-police|United States Capitol Police]] anticipated demonstration activity across the country related to the possible indictment of former President [[donald-trump|Donald Trump]].[2] The statement said law enforcement was not tracking any specific, credible threats against Capitol or state offices but warned of potential demonstration activity and a greater law enforcement presence on Capitol Hill.[2] It listed streets where bike racks would remain open to allow pedestrian transit and said the Senate Operations Center and the State Office Readiness Program were monitoring the situation and prepared to share information with the Senate community as warranted.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
+2. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7

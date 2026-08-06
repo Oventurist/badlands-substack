@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, donald-trump, diplomacy, russia, 2024-election]
-sources: [raw/badlands-news-brief-bb9.md]
+sources: [raw/badlands-news-brief-bb9.md, raw/badlands-news-brief-ee7.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ Within the alternative-media commentary tracked by [[badlands-media|Badlands Med
 
 The interview came roughly one year into the full-scale phase of the [[russia-ukraine-war|Russia–Ukraine war]] and during the early stage of Trump's 2024 presidential campaign, when the scale and duration of American assistance to Kyiv had become a live dividing line in Republican politics.[1]
 
+## Zelensky's November 2023 response
+
+In an interview with NBC's "Meet the Press" that aired Sunday, November 5, 2023, Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] challenged the pledge directly and invited [[donald-trump|Donald Trump]] to visit Ukraine: "If he can come here, I will need 24 minutes – yes, 24 minutes… to explain (to) President Trump that he can't manage this war. He can't bring peace because of Putin."[2] Zelensky praised President [[joe-biden|Joe Biden]] for having visited Ukraine earlier that year, saying Biden "understood some details which you can understand only being here."[2]
+
+Trump had told CNN in May 2023 that the full-scale invasion would not have occurred had he been president, and that "If I'm president, I will have that war settled in one day, 24 hours," adding that he would meet both [[vladimir-putin|Vladimir Putin]] and Zelensky because "they both have weaknesses and they both have strengths."[2] Zelensky's remarks came after Ukraine's top commander warned that the war had reached a "stalemate," and as he worked to preserve support in a world distracted by the conflict in the Middle East and with US lawmakers divided over continued funding.[2]
+
 ## References
 
 1. Badlands Brief — "The Peacemaker, Disney & the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-bb9
+2. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [policy, deep-state, conservatism, administrative-state]
-sources: [raw/badlands-news-brief-020.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-news-brief-020.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-d50.md]
 confidence: medium
 ---
 
@@ -36,8 +36,12 @@ Badlands writers treated the wave of federal-employee anxiety as corroboration o
 
 During the [[october-2025-government-shutdown|October 2025 government shutdown]], the BBC reported that President [[donald-trump|Donald Trump]] was using the conservative blueprint as a threat to force Democrats to accept his budgetary demands.[3] Trump publicly linked the plan to its co-author [[russ-vought|Russ Vought]] — "he of PROJECT 2025 Fame" — whom he was holding up as a budgetary angel of death ready to cut programs favored by Democrats.[3] Project 2025 was described as having been assembled primarily by former Trump officials while Republicans were out of power and as having featured prominently in the prior year's campaign, when Democratic nominee [[kamala-harris|Kamala Harris]] repeatedly called it Trump's "dangerous plan" for the future.[3]
 
+## Use at the 2024 Democratic convention
+
+Democrats repeatedly invoked Project 2025 from the stage of the August 2024 [[2024-democratic-national-convention|Democratic National Convention]], describing it as the 900-page presidential transition blueprint produced by the [[heritage-foundation|Heritage Foundation]], and [[kamala-harris|Kamala Harris]] mentioned it in her acceptance speech.[4] [[the-atlantic|The Atlantic]] reported that its correspondent heard more about [[donald-trump|Donald Trump]]'s policy agenda through Project 2025 than about Harris's own, and that Harris offered no equivalent document.[4]
 
 ## References
 1. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 2. Badlands Brief — "Let's Talk About Hunter Biden ... and Bananas", URL: https://badlands.substack.com/p/badlands-news-brief-280
 3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50

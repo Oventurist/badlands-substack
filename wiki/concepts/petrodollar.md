@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, oil, dollar, brics, saudi-arabia]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -38,6 +38,15 @@ In August 2023 [[india|India]] and the [[united-arab-emirates|United Arab Emirat
 
 Badlands contributor [[gmoney|GMONEY]] responded to the May 2025 [[saudi-us-investment-forum|Saudi-US Investment Forum]] in Riyadh — at which [[donald-trump|Donald Trump]] announced a $142 billion defense agreement and a $600 billion Saudi investment package, and Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] confirmed deals worth more than $300 billion — with a two-word verdict: "The Petrodollar is TOAST!"[4] The remark reflected a broader Badlands reading of the [[2025-trump-middle-east-tour|Middle East tour]] as a restructuring of the financial and diplomatic order underpinning US-Gulf relations.[4]
 
+## Pressure from the 2023 Iran-Russia banking link
+
+Badlands contributor [[patriots-in-progress|Patriots in Progress]] argued that the January 2023 [[iran-russia-banking-integration|integration of Iranian and Russian interbank systems]], combined with [[brics|BRICS]] discussions of a shared currency basket operating outside [[swift|SWIFT]], pointed to a strategy being developed and implemented to eventually put an end to the petrodollar system.[7] Should that occur, the commentary warned, existing economic troubles would pale in comparison, as demand for the fiat currency would drop significantly and potentially produce a hyperinflation event.[7]
+
+
+## 2023 Saudi signals
+
+In January 2023 Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]] said in Davos that [[saudi-arabia|Saudi Arabia]] was open to discussing trade settlement in currencies besides the U.S. dollar, including the euro and the riyal.[8] [[burning-bright|Burning Bright]] wrote that with the formation of the [[brics|BRICS]] alliance and the kingdom's flirtation with membership, the time of petrodollar — and Deep State — hegemony appeared to be on the verge of ending, in a framing that also called for the [[federal-reserve|Federal Reserve]] and the fiat central banking system to be reformed or dismantled.[8]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Trump Surrenders ... Or Does He?", URL: https://badlands.substack.com/p/badlands-news-brief-4b1
@@ -49,3 +58,11 @@ Badlands contributor [[gmoney|GMONEY]] responded to the May 2025 [[saudi-us-inve
 In April 2023 Brazilian president [[luiz-inacio-lula-da-silva|Luiz Inacio Lula da Silva]] called on [[brics|BRICS]] nations to create an alternative to the dollar in foreign trade during a visit to the Shanghai-based [[new-development-bank|New Development Bank]], supporting China push against U.S. global dominance ahead of his Beijing meeting with [[xi-jinping|Xi Jinping]].[5] Badlands writer [[burning-bright|Burning Bright]] framed the episode as part of a planned demolition of the petrodollar and the globalist West rather than speculation, arguing that BRICS power relative to the [[g7|G7]] had passed an inflection point during the COVID period and that paradigms shift slowly and then all at once.[5]
 
 5. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+
+## Kissinger's role and the 1973–74 oil embargo
+
+A June 2024 Badlands account traced the petrodollar's creation directly to the 1973–74 oil embargo, when King Faisal of [[saudi-arabia|Saudi Arabia]] halted oil sales to the United States and its allies in retaliation for their support of Israel in the [[yom-kippur-war|Yom Kippur War]].[6] Secretary of State [[henry-kissinger|Henry Kissinger]] resolved the crisis by promising Faisal that the United States would protect Saudi Arabia from Israeli warmongering — with the caveat that the kingdom trade its oil only in U.S. dollars, which had become fiat after [[richard-nixon|Nixon]] removed the dollar from the gold standard in 1971.[6] In [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]]'s telling, Kissinger resigned from Nixon's cabinet almost immediately afterward to join the recently formed [[trilateral-commission|Trilateral Commission]] and [[world-economic-forum|World Economic Forum]] — two projects he is said to have dispatched his underlings [[zbigniew-brzezinski|Zbigniew Brzezinski]] and [[klaus-schwab|Klaus Schwab]] to create while he facilitated "the financial enslavement of the American People."[6] The account was offered as a warning about the [[us-saudi-mutual-defense-treaty-talks|2024 US–Saudi defense treaty offer]], described as the same style of negotiation.[6]
+
+6. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+7. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+8. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

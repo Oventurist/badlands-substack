@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [drone, uav, military, us-air-force, black-sea]
-sources: [raw/badlands-news-brief-138.md]
+sources: [raw/badlands-news-brief-138.md, raw/badlands-news-brief-eca.md]
 confidence: medium
 ---
 
@@ -24,3 +24,8 @@ Badlands contributor [[burning-bright|Burning Bright]] characterized the episode
 
 ## References
 1. Badlands News Brief — "Drones, Speeches ... and a Swiss Bank", URL: https://badlands.substack.com/p/badlands-news-brief-138
+2. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## Black Sea loss, March 2023
+
+An MQ-9 Reaper crashed into the Black Sea following an intercept encounter on Tuesday, March 14, 2023, prompting the first phone call in months between U.S. Defense Secretary [[lloyd-austin|Lloyd Austin]] and Russian Defense Minister [[sergei-shoigu|Sergei Shoigu]].[2] Both Russia and the [[pentagon|Pentagon]] raced to retrieve the wreckage, but the drone reportedly went down in a very deep part of the sea, making recovery unlikely.[2] See [[2023-black-sea-drone-incident|the 2023 Black Sea drone incident]].[2]

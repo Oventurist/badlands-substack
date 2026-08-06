@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ivermectin, covid-19, fda, censorship, early-treatment]
-sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -40,7 +40,16 @@ In May 2024, former CNN anchor [[chris-cuomo|Chris Cuomo]] — who had once said
 
 In December 2023 [[america-first-legal|America First Legal]] sued the [[food-and-drug-administration|FDA]] and the [[department-of-health-and-human-services|Department of Health and Human Services]] for failing to release documents about the government's suppression of ivermectin and [[hydroxychloroquine|hydroxychloroquine]] as COVID-19 treatments.[3] AFL filed [[freedom-of-information-act|FOIA]] requests concerning ivermectin — described in coverage as a popular antiparasitic medication — in September 2022 and received tracking numbers, but neither agency complied.[3] The organization said it sought to determine when and why officials including [[anthony-fauci|Anthony Fauci]] discouraged and suppressed its use.[3] Badlands contributor [[paul-fleuret|Paul Fleuret]] argued that thousands of doctors and hundreds of peer-reviewed studies had supported the drug's efficacy against COVID-19 while agencies withheld information from the public.[3]
 
+## FDA concession in the 5th Circuit, August 2023
+
+During oral arguments on August 8, 2023 before the [[us-court-of-appeals-for-the-fifth-circuit|U.S. Court of Appeals for the 5th Circuit]], Ashley Cheung Honold, a [[us-department-of-justice|Department of Justice]] lawyer representing the [[food-and-drug-administration|FDA]], stated that "FDA explicitly recognizes that doctors do have the authority to prescribe ivermectin to treat COVID."[4] The government was defending the agency's repeated exhortations against taking ivermectin for COVID-19, including its August 21, 2021 post on X reading "You are not a horse. You are not a cow. Seriously, y'all. Stop it," which linked to an FDA consumer page and went viral.[4] The suit had been brought by three doctors who alleged the FDA unlawfully interfered with their practice of medicine; a federal judge dismissed the case in 2022, prompting the appeal.[4] Attorney Jared Kelson, representing the doctors, told the appeals court that once the FDA approves a human drug for sale it has no authority to interfere with how that drug is used within the doctor-patient relationship.[4]
+
+## Commentary on the FDA concession
+
+[[ryan-delarme|Ryan DeLarme]], writing for [[badlands-media|Badlands Media]], reacted sardonically that apologies were owed to families denied the treatment, invoking patients given ventilators and remdesivir instead.[4] He argued that the mainstream media should be compelled to issue retractions and report on their own failures whenever their "intentional blunders" cost American lives, while acknowledging that legislating such a requirement could backfire in a world built on lies.[4] He also contended that the full story should include the Indian states of Uttar Pradesh and Goa, which he said ignored the guidelines and administered ivermectin to their populations early in the pandemic and saw fatalities drop by 98%.[4] Since the press would not do so, he concluded, spreading awareness was incumbent on independent citizens.[4]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 2. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 3. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+4. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

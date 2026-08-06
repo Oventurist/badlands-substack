@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, benghazi, libya, weapons]
-sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-ea7.md]
 confidence: medium
 ---
 
@@ -237,7 +237,20 @@ In her book "Something Lost, Something Gained," released on September 17, 2024, 
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reacted with hostility to the passage and noted that Clinton had also called for the prosecution of Americans who traffic in "misinformation," a demand he read as aimed at outlets like [[badlands-media|Badlands Media]] and warned could rebound on Clinton and her allies.[38]
 
+## July 5, 2016 convergence
+
+Badlands commentary in August 2025 emphasized that on July 5, 2016 Clinton and Barack Obama spent roughly an hour alone together on a plane, the same day her campaign circulated emails about "looking for ways to build on Franklin Foer's great (and scary) piece on Trump and Russia," the same day James Comey shut down the investigation into her email scandal, and the same day Christopher Steele provided his first report to the FBI.[39]
+
+## Assange and the DNC hack narrative
+
+Badlands contributor [[simon-esler|Simon Esler]], writing in February 2024 about the extradition case against [[julian-assange|Julian Assange]], argued that Assange destroyed the narrative that the source of the DNC hack that exposed Clinton was the Russians, calling it a big deal in the power struggle between [[donald-trump|Donald Trump]] and the [[deep-state|Deep State]].[40] He added that Assange's contributions to operations targeting the Clinton presidential campaign were particularly devastating and likely very aggravating to its backers.[40]
+
+## Shubert Theater incident (March 2023)
+
+In March 2023, Clinton attended a performance of *Some Like It Hot* at the Shubert Theater in New York alongside her daughter [[chelsea-clinton|Chelsea Clinton]] when human excrement was found in the aisle near their seats as the lights came up for intermission, in an episode attributed by sources to an alleged "serial pooper" or, alternatively, to an elderly patron.[41] House staff cleaned the aisle and both Clintons stayed for the second act.[41] [[ryan-delarme|Ryan DeLarme]] treated the story as the "headline of the week" in the [[badlands-news-brief|Badlands News Brief]], using it as an occasion for satire at the Clintons' expense.[41]
+
 ## References
+
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
 3. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
@@ -276,3 +289,6 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] react
 36. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e
 37. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 38. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+39. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+40. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+41. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7

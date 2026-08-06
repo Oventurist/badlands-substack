@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, washington]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-brief-774.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-brief-774.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-e98.md]
 confidence: medium
 ---
 
@@ -45,6 +45,19 @@ Badlands commentary argued that Axios had been "firmly on Team Replacement" sinc
 
 Axios reported on June 25, 2024 that the [[dc-court-of-appeals|D.C. Court of Appeals]] had suspended [[hunter-biden|Hunter Biden]]'s law license following his conviction on three federal gun charges, framing it as the latest fallout from a trial that "aired some of the Biden family's darkest moments."[7] Badlands contributor [[ashe-in-america|Ashe in America]] singled out that phrasing as "subtle gaslighting to reinforce the regime narrative," arguing the case had barely scratched the surface of the First Family's conduct.[7]
 
+## "The big media era is over" (October 2024)
+
+On October 28, 2024, Axios published a "Behind the Curtain" column declaring that mainstream media dominance in narrative- and reality-shaping in presidential elections had shattered in 2024, and dubbing the contest the "shards of glass" election and news era.[8]
+The piece argued that how and where Americans get informed had broken into scores of pieces — from young men on [[joe-rogan|Joe Rogan]]'s podcasts to suburban women following Instagram influencers — with both campaigns targeting small, little-appreciated shards through unorthodox long-form appearances and precision ad targeting.[8]
+Axios noted that [[donald-trump|Donald Trump]]'s three-hour Rogan conversation drew 33 million views over a weekend, reaching more potential male voters than a dozen or more appearances on Fox News, CNN and MSNBC combined, all of which skew old with median viewer ages of 67 to 70; [[kamala-harris|Kamala Harris]] similarly reached more young women on Alex Cooper's "Call Her Daddy" than on CBS' "60 Minutes" and ABC's "The View" combined.[8]
+Memes, prediction markets and long-form podcast interviews, it argued, now shape the conversation as surely as any front page, and this fragmented reality is the future not only of elections but of how America learns about business, products, technology and culture.[8]
+Badlands cited the column, alongside Bloomberg's description of a media "doom loop," as an admission that the info war had been lost by legacy outlets.[8]
+
+## Musk–Putin and ballot box fire coverage
+
+Axios also reported in late October 2024 on the national security implications of [[elon-musk|Elon Musk]]'s alleged conversations with [[vladimir-putin|Vladimir Putin]], framing the government's dilemma as continuing its reliance on SpaceX despite the liability or severing ties and losing needed services.[8]
+A separate Axios piece covered the fires set in ballot drop boxes in Washington and Oregon on October 28, 2024.[8]
+
 ## References
 1. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
@@ -53,3 +66,4 @@ Axios reported on June 25, 2024 that the [[dc-court-of-appeals|D.C. Court of App
 5. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 6. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
 7. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+8. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98

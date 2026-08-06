@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [leaks, ukraine, intelligence, information-war, pentagon]
-sources: [raw/badlands-news-brief-c40.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-cdb.md]
+sources: [raw/badlands-news-brief-c40.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-ee9.md]
 confidence: medium
 ---
 
@@ -42,8 +42,17 @@ On April 13, 2023, 21-year-old National Guardsman [[jack-teixeira|Jack Teixeira]
 
 [[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] argued the details of the leak and the government and media reaction suggested it could be a white hat operation, or at least reflected sentiment within the young military-minded population.[3] He noted that repeated shifts in media coverage usually indicate an evolving narrative situation, since organic events require spin to be fitted into the globalist agenda, whereas manufactured events are presented singularly and settle quickly — as with the naming of Islamic terrorists, new legislation and lock-step reactions within days of the [[september-11-attacks|September 11 attacks]].[3] Regardless of origin, he concluded, the leak dealt a blow to false media coverage of the [[russia-ukraine-war|Russia-Ukraine conflict]].[3]
 
+## Surveillance of Zelensky
+
+CNN reported on April 10, 2023, on the basis of one of the leaked documents, that the United States had been spying on Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]], a disclosure that left officials in Kiev "deeply frustrated" even though a source close to Zelensky described the fact of the surveillance itself as unsurprising.[4] The document, sourced to signals intelligence, indicated that American officials were concerned about Zelensky's decision-making regarding strikes deep into Russian territory, recording that in late February he had "suggested striking Russian deployment locations in Russia's Rostov Oblast" using unmanned aerial vehicles because Ukraine lacked long-range weapons able to reach that far.[4] Analysts also raised the possibility that the intelligence community was monitoring the Ukrainian presidency in order to account for how the tens of billions of dollars in aid sent to Kiev were being used.[4]
+
+The Washington Post reported that many of the documents appeared to have been prepared over the winter for General [[mark-milley|Mark A. Milley]], Chairman of the Joint Chiefs of Staff, and other senior military officials, but were accessible to other U.S. personnel and contract employees holding the requisite security clearances.[4] Authenticity of the material was confirmed and reported by The New York Times and other outlets only in the days before, sending the [[justice-department|Justice Department]] and U.S. intelligence officials scrambling to identify the source.[4]
+
+In commentary for [[badlands-media|Badlands Media]], [[justin-deschamps|Justin Deschamps]] called the episode a case for "bicameral" or multivariant thinking, arguing the documents offered a glimpse into the "seedy underbelly" of an intelligence community he described as born from an alliance between the mob, the mafia and private intelligence services.[4] He read the material as supporting the idea that intelligence agencies were working with the globalist [[deep-state|deep state]] to manipulate Russia, Europe and possibly China through the proxy state of Ukraine — a pattern he tied to the 2014 [[color-revolution|color revolution]] orchestrated with the help of [[victoria-nuland|Victoria Nuland]] and [[john-mccain|John McCain]] and documented in films such as Ukraine On Fire.[4] He offered as an alternative reading the theory that Zelensky was himself a double agent working with white hat elements against the globalists, and urged readers to treat each data point as a test of whether it advances or undermines a perceived agenda.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40
 2. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7
 3. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+4. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9

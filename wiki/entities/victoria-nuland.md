@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservative, nato, ukraine, state-department]
-sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/a-bright-red-line.md, raw/a-dereliction-of-duty.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-db1.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ Badlands Media commentary published in April 2024 cited Nuland — derisively ca
 
 In September 2024 commentary on U.S. policy toward the Ukraine war, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] speculated that officials at the [[state-department|State Department]] such as Nuland were driven by an attachment to what he called the Khazarian, or Pale of Settlement, homeland in the Russian borderlands — an interpretation he attributed in part to remarks by Colonel [[douglas-macgregor|Douglas Macgregor]] in an interview with [[tucker-carlson|Tucker Carlson]].[8]
 
+### Additional detail on the March 2024 departure
+
+Associated Press coverage on March 5, 2024 described Nuland as the third-highest ranking U.S. diplomat and a frequent target of criticism for her hawkish views on Russia and Ukraine, reporting that the State Department said she would retire and leave her post that month.[9] A career foreign service officer, she had served as Assistant Secretary of State for Europe during the [[barack-obama|Obama]] administration, retired after [[donald-trump|Donald Trump]] was elected president, and returned to government as Under Secretary of State for Political Affairs under [[joe-biden|Joe Biden]].[9] She had been a candidate to succeed [[wendy-sherman|Wendy Sherman]] as Deputy Secretary of State and served as acting deputy for the seven months after Sherman's retirement, but lost an internal personnel battle when Biden nominated [[kurt-campbell|Kurt Campbell]] to the number two spot; Campbell took office the previous month.[9] Her earlier career included a posting at the U.S. embassy in Moscow during the tumultuous 1990s, where she was present during the attempted coup against Russian President [[boris-yeltsin|Boris Yeltsin]], followed by service as U.S. ambassador to [[nato|NATO]] and then as State Department spokeswoman under Secretary [[hillary-clinton|Hillary Rodham Clinton]] during Obama's first term.[9]
+
+[[burning-bright|Burning Bright]] read the timing as auspicious, noting that the "Deep State Department" was seeing departures just weeks after [[vladimir-putin|Vladimir Putin]]'s sit-down with Tucker Carlson allowed the Russian leader to present his version of the centuries-long narrative war between Russia and what Burning Bright calls the Prussian Globalists of the western hegemon.[9] He again identified Nuland as one of the prime architects of the CIA-backed [[euromaidan|Maidan coup]] that destabilized Ukraine in 2014 and led to the Russian seizure of Crimea, and pointed readers to the Deep State Spotlight installment on Nuland by Badlands colleague [[ryan-delarme|Ryan DeLarme]].[9] He concluded that she would not be missed by most, and wished "continued misfortune" upon anyone who lamented her departure.[9]
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -56,3 +62,4 @@ In September 2024 commentary on U.S. policy toward the Ukraine war, Badlands con
 6. Badlands Brief — "Badlands News Brief: Nuland Neutered, Biden Blasted and Trump Triumphant", URL: https://badlands.substack.com/p/badlands-news-brief-7db
 7. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+9. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1

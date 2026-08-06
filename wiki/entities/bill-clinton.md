@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, bin-laden, memorandum-of-notification, china, scandals]
-sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md]
+sources: [raw/a-dereliction-of-duty.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-f54.md]
 confidence: medium
 ---
 
@@ -104,6 +104,12 @@ Among a series of social media posts in May 2025, [[donald-trump|Donald Trump]] 
 
 The [[house-oversight-committee|House Oversight Committee]] ordered Clinton and former Secretary of State [[hillary-clinton|Hillary Clinton]] to appear for closed-door depositions in December 2025, rejecting an attempt by their attorney [[david-kendall|David Kendall]] to block subpoenas tied to the panel's [[jeffrey-epstein|Epstein]]-[[ghislaine-maxwell|Maxwell]] investigation.[13] Chairman [[james-comer|James Comer]] wrote that the Committee "disagrees" that limited written responses would be "the most efficient and equitable way to proceed," and that Kendall's request relied on assertions already "disproved by public information."[13]
 
+## Vatican audience and Albania visit (July 2023)
+
+Pope [[pope-francis|Francis]] received Clinton in a private audience at the Casa Santa Marta papal residence on Wednesday, July 5, 2023, with a delegation of prominent Americans that included [[alex-soros|Alex Soros]] of the [[open-society-foundations|Open Society Foundations]].[14] Clinton, whose post-presidential work centres on philanthropy and public affairs, had visited Albania on July 3–4, where the Albanian prime minister awarded him a public gratitude medal for his support of the country and for NATO's intervention in the Kosovo War.[14] Soros accompanied Clinton both in Albania and at the Vatican.[14] Badlands writer [[ryan-delarme|Ryan DeLarme]] dismissed the meeting as an unsurprising convening of "godless self-philanthropists."[14]
+
+In commentary on the Biden family investigation in the same brief, [[ashe-in-america|Ashe in America]] contrasted Clinton's impeachment — described as being for lying to the American people — with the impeachments of [[donald-trump|Donald Trump]] and the conduct alleged against [[joe-biden|Joe Biden]].[14]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
@@ -118,3 +124,4 @@ The [[house-oversight-committee|House Oversight Committee]] ordered Clinton and 
 11. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 12. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 13. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+14. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54

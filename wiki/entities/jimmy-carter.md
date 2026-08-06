@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, democrat, obituary, nobel-peace-prize, georgia]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-dcb.md]
 confidence: high
 ---
 
@@ -37,3 +37,16 @@ The phrase [[october-surprise|"October surprise"]] originated in 1980 with fears
 1. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
 2. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 3. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
+
+## Panama Canal treaty criticism
+
+In December 2024, President-elect [[donald-trump|Donald Trump]] revived criticism of the 1979 treaty signed under Carter that transferred control of the [[panama-canal|Panama Canal]] to [[panama|Panama]] in 1999, calling it a foolish decision.[4] "When President Jimmy Carter foolishly gave it away, for One Dollar, during his term in Office, it was solely for Panama to manage, not China, or anyone else," Trump wrote, adding that the canal "was likewise not given for Panama to charge the United States, its Navy, and corporations, doing business within our Country, exorbitant prices and rates of passage."[4]
+
+4. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+
+## Death and effect on Trump's inauguration (December 2024)
+
+Carter, the 39th U.S. President, died at the age of 100 on Sunday, December 29, 2024, almost two years after entering hospice care and just 22 days before [[donald-trump|Donald Trump]]'s inauguration on January 20, 2025.[5] Standard protocol calls for flags at federal buildings to be flown at half mast for 30 days following the death of a former president, and Democrats publicly noted that the tradition would overshadow the inauguration.[5] Outspoken MAGA critics and Democratic voters quipped that the half-mast flags amounted to Carter's parting gift to Trump after their longstanding feud, while some MAGA supporters suggested the death announcement had been deliberately delayed.[5]
+
+Trump's public statement on the death was read by [[burning-bright|Burning Bright]] as containing deliberate signal rather than mere platitude.[5] Trump said "the challenges Jimmy faced as President came at a pivotal time for our country and he did everything in his power to improve the lives of all Americans. For that, we all owe him a debt of gratitude," and added that while he "strongly disagreed with him philosophically and politically," Carter "truly loved and respected our Country," calling him "a truly good man."[5] Trump also noted that Carter "was also very consequential, far more than most Presidents, after he left the Oval Office."[5] Badlands commentary took this as evidence that Carter was not simply another establishment figure, framing the conflict as one between "puppets and puppet masters."[5]
+5. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

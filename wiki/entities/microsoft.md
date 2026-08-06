@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, microsoft, ai, nuclear, sp-500]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-739.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-bfb.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-739.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d21.md]
 confidence: medium
 ---
 
@@ -74,6 +74,12 @@ In a report published on Tuesday, October 15, 2024, Microsoft said that Russia, 
 
 On December 27, 2023, [[new-york-times|The New York Times]] named Microsoft alongside [[openai|OpenAI]] in a copyright infringement lawsuit over the training and output of AI systems including [[chatgpt|ChatGPT]], seeking billions of dollars in statutory and actual damages.[12] See [[new-york-times-v-microsoft-and-openai|New York Times v. Microsoft and OpenAI]].[12]
 
+## Volt Typhoon disclosure
+
+Microsoft helped surface the threat posed by the China-backed [[volt-typhoon|Volt Typhoon]] hacking group in May 2023, publishing research warning that the actors had been active since 2021 and were targeting United States cyber infrastructure using living-off-the-land techniques.[13] The company urged affected customers to change their security details.[13] The group was later described by [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] as having been shut down by the Bureau in January 2024.[13]
+
+In commentary on the episode, [[ashe-in-america|Ashe in America]] noted that cloud providers including Google, [[amazon-web-services|Amazon Web Services]], and Microsoft had marketed centralization to businesses on the premise that they could afford the best security talent money can buy, and argued that a decade later cybercrime was up 600 percent in part because shared security responsibilities between provider and customer are widely misunderstood.[13]
+
 ## References
 
 
@@ -89,3 +95,4 @@ On December 27, 2023, [[new-york-times|The New York Times]] named Microsoft alon
 10. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 11. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 12. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+13. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21

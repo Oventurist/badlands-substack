@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defamation, litigation, donald-trump, courts]
-sources: [raw/badlands-brief-d94.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-c40.md]
+sources: [raw/badlands-brief-d94.md, raw/badlands-brief-ec9.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-275.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-c40.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f2b.md]
 confidence: medium
 ---
 
@@ -58,3 +58,28 @@ In April 2023 The National Pulse reported that Democratic mega-donor [[reid-hoff
 5. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 6. Badlands News Brief — "Trump Haunts Obama as Clown World Laughs", URL: https://badlands.substack.com/p/badlands-news-brief-4b7
 7. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40
+
+## Appeals court upholds $5 million verdict (December 2024)
+
+On Monday, December 30, 2024, a federal appeals court upheld the $5-million verdict Carroll had won against [[donald-trump|Donald Trump]] when a jury found the president-elect liable for sexually abusing and later defaming the former magazine columnist.[8] A unanimous three-judge panel of the 2nd U.S. Circuit Court of Appeals in Manhattan rejected Trump's argument that the trial judge should not have allowed jurors to hear evidence of his alleged past sexual misconduct.[8]
+
+The court said that evidence — including Trump bragging about his sexual prowess on an "Access Hollywood" video that surfaced during the 2016 presidential campaign — established a "repeated, idiosyncratic pattern of conduct" consistent with Carroll's allegations.[8] "Taking the record as a whole and considering the strength of Ms. Carroll's case, we are not persuaded that any claimed error or combination of errors in the district court's evidentiary rulings affected Mr. Trump's substantial rights," the panel wrote in an unsigned decision.[8]
+8. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb
+9. Badlands Brief — "Trump's Momentum Builds as Biden Fumbles the Ball", URL: https://badlands.substack.com/p/badlands-news-brief-e39
+
+## January 2024 testimony on motive
+
+During her second damages trial in January 2024, Carroll admitted under questioning by her own counsel that former Trump adviser Kellyanne Conway's ex-husband, [[george-conway|George Conway]], had convinced her to sue [[donald-trump|Donald Trump]] after a meeting at a party hosted by columnist [[molly-jong-fast|Molly Jong-Fast]] — a claim first reported in April 2023 and now confirmed by Carroll herself.[9] She also disclosed that she had told friends and colleagues she was fine in the period after the alleged assault in a Bergdorf Goodman changing room in the mid-1990s, explaining her upbeat public demeanor in court with the remark, "That's the public E. Jean."[9]
+
+Carroll further testified that she embarked on a media tour about her allegations because "journalists wanted to hear about President Trump," adding: "I saw that the book was not selling, so I tried to talk about it."[9] She was at the time seeking additional damages over Trump's continued insistence that the episode never happened.[9]
+
+[[ashe-in-america|Ashe in America]] argued that the admission should be sufficient to overturn the prior ruling on appeal, and that the case raised broader questions about the Federal Rules of Civil Procedure — governed by Congress — being used against political opponents, pointing to activist appointments among judges, attorneys general and district attorneys and to relaxed evidentiary thresholds that allowed a verdict from Judge [[lewis-kaplan|Lewis Kaplan]] without even a date for the alleged act.[9]
+
+## Trump countersuit for defamation (June 2023)
+
+On the night of Tuesday, June 27, 2023, [[donald-trump|Donald Trump]] filed a counterclaim suing Carroll for defamation, alleging that she defamed him when she appeared on [[cnn|CNN]] the morning after the jury awarded her $5 million in damages.[10] Asked about a verdict that found Trump had sexually abused her but had not raped her as she alleged, Carroll said on air, "Oh, yes he did."[10]
+
+Carroll's lawyer [[roberta-kaplan|Roberta Kaplan]] responded that "Donald Trump again argues, contrary to both logic and fact, that he was exonerated by a jury that found that he sexually abused E. Jean Carroll," and added that the filing was "nothing more than his latest effort to delay accountability for what a jury has already found to be his defamation of E. Jean Carroll."[10] The counterclaim was the latest salvo in a multi-year legal battle that began when Carroll first sued Trump for defamation in 2019 after he denied her allegation that he raped her in the mid-1990s in the dressing room of Bergdorf Goodman; Trump said he did not know Carroll and that she was not his type.[10]
+
+Writing in the [[badlands-news-brief|Badlands News Brief]], [[justin-deschamps|Justin Deschamps]] called the countersuit brilliant, arguing that if Carroll could claim damages for "a crime that never happened," Trump could equally claim damages for a false accusation, and that the move exposed the incoherence of what he termed a "no-justice justice system."[10] He noted that Trump had laid out the case against Carroll's allegation during his CNN town hall with [[kaitlan-collins|Kaitlan Collins]], and that the criminal route had gone nowhere before Carroll turned to civil litigation.[10] Deschamps used the episode to raise a wider question about whether a "lawsuit-happy" society, in which minor or perceived injuries generate damages claims and costly litigation, is compatible with a civilization that must also cultivate forgiveness.[10]
+10. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b

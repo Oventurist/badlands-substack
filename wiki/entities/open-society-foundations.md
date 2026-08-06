@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, soros, funding, clinton-email-investigation]
-sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md]
 confidence: low
 ---
 
@@ -46,6 +46,15 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 
 [[zuzana-caputova|Zuzana Čaputová]], later President of [[slovakia|Slovakia]], worked for the Open Society Foundation beginning in 2001, where by published accounts she handled public administration and the issue of abused and exploited children, apparently remaining until 2017 when she helped found [[progressive-slovakia|Progressive Slovakia]].[6] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that her work history there is described only vaguely and in near-identical language across profiles.[6]
 
+## Leadership succession and Vatican visit (July 2023)
+
+By July 2023 [[alex-soros|Alex Soros]], son of founder [[george-soros|George Soros]], had become the new chairman of the Open Society Foundations.[8] In that capacity he accompanied former President [[bill-clinton|Bill Clinton]] on a trip to Albania and then to a private audience with Pope [[pope-francis|Francis]] at the Casa Santa Marta papal residence on July 5, 2023, a pairing that Badlands commentator [[ryan-delarme|Ryan DeLarme]] treated as emblematic of the network of institutional philanthropy the outlet criticises.[8]
+
+
+## Alleged role in British migration
+
+Badlands Media's coverage of the August 2024 disorder in Britain names the Open Society Foundations of [[george-soros|George Soros]], together with other non-governmental organizations, as having imported migrants from Africa and Syria over the preceding decade, and casts this as a principal cause of the violence.[9] The outlet frames the pattern as part of a plan to destroy Western civilization, following from the displacement produced by NATO's 2011 killing of [[muammar-gaddafi|Muammar Gaddafi]] and the ensuing war in Syria.[9] See [[southport-riots|the Southport riots]].[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168
 2. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
@@ -53,3 +62,11 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 4. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 5. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+
+## Alleged censorship agenda in Ireland and Scotland (2023)
+
+In August 2023 Irish journalist [[ben-scallan|Ben Scallan]] reported that NGOs backed by the Open Society Foundations were pushing a "censorship agenda" in Ireland and Scotland that extended to police searches of homes and personal electronic devices.[7] Scallan argued that Irish authorities had encouraged citizens to report hate-based incidents, producing an increase in recorded statistics without a corresponding rise in actual offences, and that this served as a pretext for stricter laws restricting free expression.[7] [[elon-musk|Elon Musk]] responded that X would file legal action to stop the practice, writing, "Can't wait for discovery to start!"[7] [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] framed the episode as evidence that governments use NGOs and corporate partners to accomplish what constitutional protections forbid them from doing directly.[7]
+
+7. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+8. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
+9. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44

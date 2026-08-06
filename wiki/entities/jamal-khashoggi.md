@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, journalism, cia, mossad, epstein]
-sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bed.md]
+sources: [raw/badlands-brief-f17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -49,11 +49,15 @@ Coverage of the April 2024 disclosure that [[donald-trump|Donald Trump]] had spo
 
 The commentary argued outright that the Saudis did not kill Khashoggi, describing him as a prolific scumbag but a relative nobody next to the crown prince, who by the time of the killing had already consolidated control of the Saudi government and had little to gain from fulfilling the stereotype of a violent and vindictive Arab while rebranding the region.[6] Because the CIA's insistence on Saudi guilt was, in the writer's view, propaganda, and because Khashoggi's death benefited the agency's objectives more than it benefited the crown prince, the commentary concluded that the CIA itself killed Khashoggi.[6]
 
-## References
+## Legacy in the 2025 MBS Washington visit
 
+The 2018 killing of Khashoggi, a Washington Post opinion columnist and Virginia resident who was dismembered in the Saudi Consulate in Turkey in a killing US intelligence officials concluded Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] had ordered, resurfaced during the crown prince's November 2025 visit to Washington.[7] Rep. [[eugene-vindman|Eugene Vindman]] called on President [[donald-trump|Donald Trump]] to release the transcript of a phone call with the crown prince that took place in the aftermath of the assassination, saying the call "was about the murder of an American resident — a Virginia resident — and a Washington Post reporter."[7] The Washington Post noted that many tech and Wall Street executives who had shunned the kingdom after the killing attended the November 18 [[white-house|White House]] dinner in the crown prince's honor.[7]
+
+## References
 1. Badlands Brief — "Epstein Clickbait, Lemon's Demise, & Zionists MAD", URL: https://badlands.substack.com/p/badlands-brief-f17
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 3. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 4. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 5. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
+7. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

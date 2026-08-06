@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-africa, brics, white-house, icj, gaza]
-sources: [raw/badlands-news-brief-362.md, raw/badlands-news-brief-3e8.md]
+sources: [raw/badlands-news-brief-362.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-d8c.md]
 confidence: medium
 ---
 
@@ -24,6 +24,12 @@ The commentary further suggested that figures in Trump's orbit would have been e
 
 The analysis also noted that South Africa is a member of [[brics|BRICS]], giving it a deepening alignment with Vladimir Putin and Russia, while having historically been a hub of regime and regime-change activity — a combination the author called an enigma under Ramaphosa's leadership.[1]
 
+## Challenged by Zuma's comeback (2024)
+
+Ahead of the May 2024 South African general election, [[jacob-zuma|Jacob Zuma]] returned at the head of the [[umkhonto-we-sizwe-party|MK party]] to challenge Ramaphosa, the man who assumed the presidency upon Zuma's 2018 resignation.[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Ramaphosa as having worked with the [[sovereign-alliance|Sovereign Alliance]] ever since, and read Zuma's insurgency — and the Associated Press coverage of it that never mentioned the [[gupta-brothers|Gupta brothers]] — as the Hegemony's attempt to retake control of [[south-africa|South Africa]].[3]
+
 ## References
 
 1. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
+2. Badlands Brief — "Fauci Squirms, Pollsters Panic & Elections Erupt", URL: https://badlands.substack.com/p/badlands-news-brief-3e8
+3. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c

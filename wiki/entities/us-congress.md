@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, funding, ukraine, neoconservatism]
-sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-blitz-episode-15.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/a-bright-red-line.md, raw/america-for-sale-part-3.md, raw/badlands-blitz-episode-15.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-e96.md]
 confidence: low
 ---
 
@@ -49,3 +49,11 @@ The House and Senate unanimously passed the [[covid-19-origin-act-of-2023|COVID-
 4. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 5. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 6. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## Speaker vacancy and aid standoff (October 2023)
+
+By late October 2023 the House had gone three weeks without a Speaker following the removal of [[kevin-mccarthy|Kevin McCarthy]], with House Republicans on Tuesday, October 24 selecting [[mike-johnson|Mike Johnson]] as their fourth nominee after Majority Whip [[tom-emmer|Tom Emmer]]'s bid collapsed the same day.[7] Badlands contributor [[ashe-in-america|Ashe in America]] argued that "the longer the House goes without a Speaker, the better off Americans will be" because "the gridlock favors the people," promoting the hashtag #vacatecongress.[7]
+
+During the same period Republicans in Congress pressed to separate additional Ukraine funding from Israel aid, a demand Senator [[john-fetterman|John Fetterman]] answered publicly with "F*ck that."[7] Badlands commentary held that everything the [[joe-biden|Biden]] administration and the 118th Congress did at that point amounted to escalation on at least two fronts.[7]
+
+7. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

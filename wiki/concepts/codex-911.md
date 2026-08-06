@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, film, gart, deadwood]
-sources: [raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b68.md]
+sources: [raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f1a.md]
 confidence: medium
 ---
 
@@ -24,9 +24,19 @@ In July 2025 Badlands Media promoted the premiere of CODEX 911 at GART Deadwood,
 
 In July 2025 [[badlands-media|Badlands Media]] announced that [[brad-zerbo|Brad Zerbo]]'s "groundbreaking and much anticipated" 9/11 documentary CODEX 911 would have its world premiere at the ninth stop of the [[great-american-restoration-tour|Great American Restoration Tour]], with attendees able to join in person or watch remotely via a virtual ticket.[4]
 
+## GART Deadwood premiere
+
+CODEX 911, an original film by Badlands contributor Brad Zerbo, was promoted in August 2025 as premiering at GART Deadwood, with virtual tickets available through Badlands Media.[5]
+
+## Deadwood premiere and 2025 promotion
+
+By August 2025 the film was being promoted alongside the [[great-american-restoration-tour|Great American Restoration Tour]] stop in Deadwood, where [[badlands-media|Badlands Media]] offered virtual tickets granting access to the full panels and to the premiere of the film.[6] [[ashe-in-america|Ashe in America]] framed the film around a set of questions — when the treasonous conspiracy to subvert the United States began, what [[operation-northwoods|Operation Northwoods]] was, and what James Clapper, John Brennan and Robert Mueller were doing in 2001 — and congratulated [[brad-zerbo|Brad Zerbo]] on what she called the most impactful film of the century, saying she had seen it open long-closed minds first hand.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 2. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 4. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
+5. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+6. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a

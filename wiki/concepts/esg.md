@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [esg, corporatocracy, finance, woke-capital]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-f4c.md]
 confidence: low
 ---
 
@@ -52,6 +52,11 @@ The retreat extended to corporate communications: [[breitbart|Breitbart]] quoted
 
 In December 2023 the state of [[tennessee|Tennessee]] sued [[blackrock|BlackRock]], alleging the asset manager breached consumer protection laws by making "misleading" statements about its ESG investment strategies — specifically by downplaying how far ESG considerations drive its investment decisions and affect portfolio companies' financial performance and outlook.[6] BlackRock rejected the claims, saying it fully and accurately discloses its investment practices and proxy-voting approach.[6] Tennessee Attorney General [[jonathan-skrmetti|Jonathan Skrmetti]] had earlier in 2023 demanded that ten major asset managers explain how they tackle climate change, and in March 2023 he and twenty other Republican state attorneys general wrote to asset managers suggesting they were breaching fiduciary duties in their handling of environmental and social issues.[6] The partisan split was stark: Democratic leaders including President Joe Biden defended ESG investing — Biden spent the first veto of his presidency on a federal ESG rule — while Republicans, many from energy-producing states, joined a growing chorus challenging the practice.[6]
 
+
+## Larry Fink's "demonized" narrative remarks (2023)
+
+By January 2023 [[blackrock|BlackRock]] faced growing backlash over ESG investing, with several U.S. states pulling billions of dollars from its funds over accusations of greenwashing, damaging the fossil fuel industry and promoting "woke" culture.[7] At Davos, chief executive [[larry-fink|Larry Fink]] told Bloomberg TV that the narrative had become "ugly" and was "creating this huge polarization," that BlackRock was trying to address misconceptions, and that for the first time in his career attacks had become personal, with critics seeking to "demonize the issues."[7] [[ryan-delarme|Ryan DeLarme]] described ESG as a China-inspired system analogous to a social credit score for corporations, measuring adherence to globalist agendas, and noted that independent media and America First politicians had seized on the concept over the previous year.[7]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
@@ -59,3 +64,4 @@ In December 2023 the state of [[tennessee|Tennessee]] sued [[blackrock|BlackRock
 4. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 5. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
 6. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
+7. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

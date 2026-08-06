@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -14,5 +14,11 @@ State Street is a large American asset manager and custodian bank, listed by Bad
 
 The article uses this pattern of overlapping ownership to argue that the [[centralized-media|centralized media]] is not a competitive marketplace but a single bloc, and that representatives of these asset managers sit at the same elite policy institutions — the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[world-economic-forum|World Economic Forum]] — that shape the narratives their outlets transmit.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
+## Texas antitrust suit survives dismissal (2025)
+
+State Street was one of three asset managers whose motion to dismiss Ken Paxton's antitrust lawsuit was denied by a federal district judge in 2025, allowing claims of a conspiracy to restrict coal production to proceed to discovery.[2]
+
 ## References
+
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
+2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

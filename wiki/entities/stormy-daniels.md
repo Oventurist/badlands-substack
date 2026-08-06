@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hush-money-case, trump-prosecutions, new-york, 2016-election]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-9e8.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f0e.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ Comedian [[bill-maher|Bill Maher]] was unimpressed by Daniels' testimony in the 
 
 The alleged 2016 payment of $130,000 in hush money to Stormy Daniels, made by [[donald-trump|Donald Trump]]'s then-personal attorney [[michael-cohen|Michael Cohen]] and later reimbursed by Trump, formed the basis of Manhattan District Attorney [[alvin-bragg|Alvin Bragg]]'s expected March 2023 indictment.[8] Trump has denied claims that he had an affair with Daniels in the early 2000s.[8] Trump attorney [[joe-tacopina|Joe Tacopina]] stressed that Trump never paid Daniels directly, saying "the payments were made to a lawyer, not to Stormy Daniels," while an MSNBC host countered that the money Trump paid Cohen ultimately went to Daniels.[8]
 
+## Role in the May 2024 cross-examination
+
+The alleged reimbursement of the payment to Stormy Daniels during the 2016 election was the focus of [[todd-blanche|Todd Blanche]]'s May 16, 2024 cross-examination of [[michael-cohen|Michael Cohen]], in which Blanche accused Cohen of lying about an October 2016 phone call in which he claimed to have reassured [[donald-trump|Donald Trump]] that the Daniels payment was being handled.[9] Text messages produced in court indicated the call had instead been with Trump bodyguard [[keith-schiller|Keith Schiller]], undermining the prosecution's link between Trump and the payment.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -58,3 +62,13 @@ The alleged 2016 payment of $130,000 in hush money to Stormy Daniels, made by [[
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 8. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+9. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+
+## Role in the 2024 Manhattan trial and the Yeezy report
+
+At the April 2024 Manhattan trial of [[donald-trump|Donald Trump]], payments made to Daniels and booked as a "legal expense" formed the factual core of the prosecution's case, with prosecutor [[joshua-steinglass|Joshua Steinglass]] invoking [[new-york-election-law-17-152|New York Law 17-152]] as the predicate offense.[10] Legal commentator [[jonathan-turley|Jonathan Turley]] criticized that theory as ambiguous and undefined, noting the trial had also seen the introduction of uncharged allegations involving a former Playboy model alongside planned testimony concerning Daniels.[10]
+
+On the same day the trial proceeded, reports emerged that [[kanye-west|Kanye West]] planned to launch an adult entertainment branch of his Yeezy business in partnership with adult film producer Mike Moz, Daniels's former husband.[10] Badlands commentary treated the coincidence of timing as notable rather than incidental.[10]
+
+
+10. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e

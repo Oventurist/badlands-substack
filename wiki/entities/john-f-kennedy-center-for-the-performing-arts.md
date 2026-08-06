@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [culture, washington-dc, trump-administration, litigation]
-sources: [raw/badlands-brief-c2d.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-brief-c2d.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md]
 confidence: medium
 ---
 
@@ -34,8 +34,14 @@ The announcement came as Trump moved rapidly across official Washington in the f
 
 The chairman Trump replaced was financier [[david-rubenstein|David Rubenstein]], a point emphasized in Badlands commentary by Jon Herold, who noted he had written an article focused entirely on Rubenstein in December 2021.[3]
 
+
+## 2025 honors and Trump hosting
+
+In August 2025, President [[donald-trump|Donald Trump]] confirmed during a visit to the facility that he would personally host the Kennedy Center Honors.[4] Trump had previously installed former acting Director of National Intelligence [[richard-grenell|Ric Grenell]] to lead the center and purged its previous board, and under the administration the center overhauled its programming to include more shows with mass appeal.[4] Republican legislators floated renaming the center after Trump himself, while some supported naming the opera house after first lady [[melania-trump|Melania Trump]].[4] Trump announced the honorees during the visit: the rock band Kiss, country singer George Strait, actor [[sylvester-stallone|Sylvester Stallone]], actor Michael Crawford, and recording artist Gloria Gaynor.[4]
+
 ## References
 
 1. Badlands Brief — "Fake News Propaganda Exposed, Iranian Investment Opportunities, and Talibros in Moscow", URL: https://badlands.substack.com/p/badlands-brief-c2d
 2. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 3. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+4. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff

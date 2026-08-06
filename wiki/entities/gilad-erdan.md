@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, united-nations, diplomacy, ambassador]
-sources: [raw/badlands-news-brief-be1.md]
+sources: [raw/badlands-news-brief-be1.md, raw/badlands-news-brief-ee8.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ The Badlands News Brief treated Erdan's outburst as a significant narrative deve
 
 In this reading, "white hats" had redirected the vengeful instincts of Israel's ruling faction against its own globalist patrons in New York and Geneva, with the practical consequence that no army — the depleted IDF, NATO forces tied up in Ukraine, or UN and EU contingents routed in Africa by the [[wagner-group|Wagner Group]] — remained available for a Middle Eastern war against Iran.[1]
 
+## Reaction to the UN moment of silence for Raisi (May 2024)
+
+After the UN Security Council observed a moment of silence following the death of Iranian President [[ebrahim-raisi|Ebrahim Raisi]] in a May 2024 helicopter crash, Erdan said in a video published to social media, "You read correctly, the UN Security Council today held a moment's silence to remember a mass murderer, Iranian President Raisi."[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded that the remark amounted to "the pot calling the kettle black."[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1
+2. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

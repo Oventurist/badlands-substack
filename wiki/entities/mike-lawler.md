@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, new-york, elections]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-dcb.md]
 confidence: medium
 ---
 
@@ -40,9 +40,18 @@ In late October 2024, Lawler, a Republican representing New York, joined with [[
 
 The signatories stated that Congress had taken note of numerous UN actions "aimed to delegitimize Israel's right to self-defense" and concluded that "the UN is not a neutral party but one that has definitively taken sides against Israel," reminding Guterres that the United States is the organization's largest donor, contributing roughly one-third of its collective budget.[5]
 
+## Defense of Speaker Mike Johnson (December 2024)
+
+Appearing on ABC's "This Week" on Sunday, December 29, 2024, Lawler said that [[mike-johnson|Mike Johnson]] would be reelected Speaker of the House because no member of the [[house-freedom-caucus|Freedom Caucus]] could assemble the 218 votes needed.[6] Asked by Jonathan Karl whether Johnson would be re-elected and whether he should be, Lawler answered "Yes, and yes."[6]
+
+Lawler argued that Johnson "inherited a disaster when Matt Gaetz and several of my colleagues teamed up with 208 Democrats to remove Kevin McCarthy, which will go down as the single stupidest thing I've ever seen in politics," and that removing Johnson "would equally be as stupid."[6] He said the members pushing for removal were "playing with fire" and were "kidding themselves" if they believed a more conservative Speaker was available, calling Johnson "arguably the most conservative speaker that's ever been elected to the office" and crediting him with keeping the conference unified and preserving the majority.[6] Lawler added that, as during the [[ouster-of-kevin-mccarthy|Kevin McCarthy fight]], he would not "bend to their will."[6]
+
+Badlands commentary endorsed Lawler's assessment, arguing that although Johnson had been disappointing at times, President [[donald-trump|Trump]] continued to claim him as his man, and that the 119th Congress would continue the disclosure work begun by the 118th.[6]
+
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "Plan B for Israel & Ouroborosian Protests Consume Clown World", URL: https://badlands.substack.com/p/badlands-news-brief-0be
 3. Badlands News Brief — "Pedish Patricide, ISIS-Inspired Disarmament, & Trump's Love Language", URL: https://badlands.substack.com/p/badlands-news-brief-143
 4. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
 5. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+6. Badlands Brief — "Badlands News Brief: AI Energy Solutions & Turning Water Into White Gold", URL: https://badlands.substack.com/p/badlands-news-brief-dcb

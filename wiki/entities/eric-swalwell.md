@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, counterintelligence, china, fang-fang]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-724.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-505.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-724.md, raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-d5c.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ On January 24, 2023, House Speaker [[kevin-mccarthy|Kevin McCarthy]] formally bl
 
 Representative Eric Swalwell stood beside Hunter Biden at the Capitol press conference of December 13, 2023 at which Biden refused his subpoenaed closed-door deposition and instead demanded to testify publicly.[7] Badlands commentary mocked the pairing, quipping that if one intended to hold a press conference consisting of nothing but hot air, Swalwell was the man to have at one's side.[7]
 
+## Hunter Biden deposition controversy (December 2023)
+
+In December 2023, legal commentator [[jonathan-turley|Jonathan Turley]] argued that there was "an equally compelling basis" to take action against Swalwell under House rules for facilitating [[hunter-biden|Hunter Biden]]'s refusal to appear for a congressional deposition, which Turley characterized as a flagrant criminal violation.[8] A Harvard CAPS/Harris poll released at the same time found 71 percent of Americans, including 54 percent of Democrats, favoured prosecuting Hunter Biden for contempt of Congress.[8]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Cancel Culture Comes for Holy Week in Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-724
@@ -50,3 +54,4 @@ Representative Eric Swalwell stood beside Hunter Biden at the Capitol press conf
 5. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 6. Badlands Brief — "Badlands News Brief: Pence Docs, Ukraine Corruption & Body Doubles", URL: https://badlands.substack.com/p/badlands-news-brief-1cd
 7. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+8. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c

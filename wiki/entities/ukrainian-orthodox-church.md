@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [religion, ukraine, russia, orthodox-church]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-c07.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -31,7 +31,13 @@ On Thursday, October 19, 2023, Ukraine's parliament voted overwhelmingly to adva
 
 That language was seen as directly targeting the Ukrainian Orthodox Church, one of two rival Orthodox bodies in a country where a majority of citizens identify as Orthodox.[3] The church had historically been affiliated with the Moscow Patriarchate but declared full independence from Moscow in May 2022, three months after the Russian invasion, and has repeatedly declared its loyalty and called on members to fight for Ukraine; its leader, [[metropolitan-onufry|Metropolitan Onufry]], said in October 2023 that it was the "sacred duty" of every believer to defend Ukraine.[3] Many Ukrainians nevertheless remained suspicious of whether the church had fully cut ties with Moscow Patriarch [[patriarch-kirill|Kirill]], who has strongly supported the war as a metaphysical battle against Western liberalism.[3]
 
+
+## Putin's December 2024 Defense of the Church
+
+The Ukrainian Orthodox Church (UOC), described by RT as the largest Christian church in Ukraine, was outlawed by [[volodymyr-zelensky|Vladimir Zelensky]] in 2024 over alleged links to Moscow.[4] At his end-of-year press conference that December, Russian President [[vladimir-putin|Vladimir Putin]] called the ban a "blatant violation of human rights, the rights of believers," saying "the church is being torn apart in front of the whole world. It is like an execution by a firing squad."[4] He attributed the persecution to a Ukrainian leadership he described as faithless infidels rather than atheists, and predicted the crackdown would come back to haunt them.[4]
+
 ## References
 1. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
 2. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 3. Badlands Brief — "Badlands News Brief: Proxy Presidents & Proxy Wars", URL: https://badlands.substack.com/p/badlands-news-brief-c07
+4. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

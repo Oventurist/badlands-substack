@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, diplomacy, transatlantic, national-security-strategy]
-sources: [raw/badlands-news-brief-306.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-a21.md]
+sources: [raw/badlands-news-brief-306.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-d68.md]
 confidence: medium
 ---
 
@@ -36,9 +36,17 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read 
 
 Following the [[2024-rafah-tent-camp-strike|Israeli strike on a Rafah tent camp]] and the [[international-court-of-justice|International Court of Justice]] order demanding Israel halt its Rafah offensive, Borrell — in his capacity as the EU's High Representative and head of the Foreign Affairs Council — framed the crisis as a binary choice, saying, "We will have to choose between our support to the international institutions and the rule of law, or our support to Israel."[4] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said the comment "resonates," but argued that what it really meant was a choice between international institutions and support for the United States, since Israel had become an extension of American power.[4] The commentary noted that Borrell and the EU were scheduled to meet Saudi Foreign Minister [[faisal-bin-farhan|Faisal bin Farhan]] and his "Team Peace" group of Arab foreign ministers and diplomats.[4]
 
+
+## "Rule of law or Israel" remarks (May 2024)
+
+Speaking at a European University Institute event in Florence on May 24, 2024, minutes after the [[international-court-of-justice|International Court of Justice]] ordered Israel to halt its offensive in [[rafah|Rafah]], EU foreign affairs chief Josep Borrell said the bloc faced a "difficult" choice: "We will have to choose between our support to the international institutions and the rule of law, or our support to Israel, and both things is going to be quite difficult to make compatible."[5] He added that disregarding the order "would be against the rules based world order we support and promote everywhere."[5]
+
+Borrell also conceded that the EU's response to the Gaza war had been too sluggish because of deep rifts between member-state capitals, and called for changing the bloc's foreign-policy decision-making, which requires unanimity among all 27 leaders.[5] He announced that the EU Foreign Affairs Council would meet that week with a group of Arab foreign ministers led by Saudi foreign minister [[faisal-bin-farhan|Faisal bin Farhan]] to discuss the situation in Gaza extensively.[5] Badlands commentary described Borrell — High Representative for Foreign Affairs and Security Policy and a Vice-President of the [[european-commission|European Commission]] — as expressing grave concern over the future of the "international rules-based order," a term the brief traced to the George H. W. Bush era and read as a euphemism for a [[new-world-order|New World Order]].[5]
+
 ## References
 
 1. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
 2. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 3. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
 4. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
+5. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68

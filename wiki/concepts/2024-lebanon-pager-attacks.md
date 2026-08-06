@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, hezbollah, lebanon, intelligence-operations, terrorism]
-sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-e01.md]
 confidence: medium
 ---
 
@@ -38,7 +38,14 @@ The Wall Street Journal reported that the affected pagers came from a new shipme
 
 Badlands commentary set aside the belligerents to focus on the demonstrated capability: an intelligence agency remotely detonating personal communication devices with lithium batteries of the kind found in every American smartphone, a revelation the outlet called frightening and "beyond Orwellian."[2] It restated its position that the emerging police state rests on a matrix of Israeli cybersecurity firms that ran airport security implicated in 9/11 and profited from the [[patriot-act|Patriot Act]], and said [[mossad|Mossad]]'s capacity for such an operation was unsurprising.[2] The writer questioned whether maiming thousands would deter Hezbollah's base or harden it, and used the case to argue that perpetual war under occupation manufactures recruits for radical movements.[2]
 
+## Gilded pager gift to Trump (February 2025)
+
+An Israeli official confirmed in February 2025 that Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] had presented President [[donald-trump|Donald Trump]] with a gold-plated pager during their meeting at the [[white-house|White House]] that week, in reference to Israel's covert operation against Hezbollah in Lebanon the previous autumn.[3] Dmitry Gendelman, an adviser to Netanyahu's office, shared a picture of the gift in a Telegram post and said the "gilded pager" symbolized the prime minister's decision that "led to a turning point in the war, and became the starting point for undermining morale within Hezbollah."[3]
+
+Contemporary accounts recorded that the September 17 operation, in which thousands of pagers exploded simultaneously across Lebanon, left at least 42 people dead — including 12 civilians — and more than 3,500 injured, among them women and children.[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the commemorative gift "almost like a veiled threat" and in poor taste given that it represented a large-scale assassination operation that inadvertently killed children, and noted that the attack was launched almost immediately after Israel signed a ceasefire deal with Hezbollah, meaning Israel did not uphold the deal.[3]
+
 ## References
 
 1. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 2. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+3. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [department-of-justice, drug-policy, trump-administration]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-195.md, raw/badlands-brief-169.md, raw/badlands-brief-314.md, raw/badlands-brief-509.md, raw/badlands-brief-579.md, raw/badlands-brief-6bf.md, raw/badlands-brief-618.md, raw/badlands-brief-6f0.md, raw/badlands-brief-707.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-a89.md, raw/badlands-brief-c91.md, raw/badlands-brief-cd8.md, raw/badlands-brief-cfa.md, raw/badlands-brief-d1a.md, raw/badlands-brief-e60.md, raw/badlands-brief-e3f.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-195.md, raw/badlands-brief-169.md, raw/badlands-brief-314.md, raw/badlands-brief-509.md, raw/badlands-brief-579.md, raw/badlands-brief-6bf.md, raw/badlands-brief-618.md, raw/badlands-brief-6f0.md, raw/badlands-brief-707.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-a89.md, raw/badlands-brief-c91.md, raw/badlands-brief-cd8.md, raw/badlands-brief-cfa.md, raw/badlands-brief-d1a.md, raw/badlands-brief-e60.md, raw/badlands-brief-e3f.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -123,6 +123,10 @@ Senate Majority Leader [[john-thune|John Thune]] told reporters that lawmakers w
 
 Badlands contributor [[ashe-in-america|Ashe in America]] remarked that she had never cared about the Librarian of Congress until Senate Republicans became concerned about Trump appointing a loyalist, and wondered whether Blanche might find "Cíbola – or maybe something even cooler, like prosecutable evidence of government corruption."[24]
 
+## Cross-examination of Michael Cohen, May 2024
+
+On May 16, 2024, in [[donald-trump|Donald Trump]]'s Manhattan "hush money" trial, Blanche conducted a cross-examination of prosecution star witness [[michael-cohen|Michael Cohen]] that observers described as having Cohen's "knees chopped out."[25] Blanche grilled Cohen about a pivotal October 2016 phone call said to connect Trump to the approval of reimbursements for the payment to [[stormy-daniels|Stormy Daniels]], and confronted him with text messages showing that the call had in fact been with Trump's bodyguard [[keith-schiller|Keith Schiller]].[25] He also exposed contradictions in Cohen's congressional testimony about wanting no role in the [[trump-administration|Trump administration]] and in his denial of having sought a pardon.[25] [[cnn|CNN]] host [[anderson-cooper|Anderson Cooper]] called it "an extraordinary cross," saying Blanche had built a box around the witness and slammed it shut.[25]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
@@ -148,3 +152,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] remarked that she had n
 22. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 23. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
 24. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+25. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

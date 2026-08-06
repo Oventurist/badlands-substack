@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, biosecurity, federal-agency, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -47,6 +47,10 @@ Responding to the signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin A
 
 Responding to the signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], [[burning-bright|Burning Bright]] wrote that further official obfuscation of Covid's origins would fail because knowledge of [[anthony-fauci|Anthony Fauci]] and the NIH's role was already widespread.[6]
 
+## Collins testimony on Covid origins, 2024
+
+Former NIH director [[francis-collins|Francis Collins]], the nation's top public health official during the Covid-19 pandemic, admitted in closed-door congressional testimony released in May 2024 that the origins of the coronavirus remain up for debate and that the lab-leak theory is not a conspiracy.[7] He also conceded there was no scientific evidence to support the [[centers-for-disease-control-and-prevention|CDC]]'s six-foot social-distancing guidance.[7]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
@@ -54,3 +58,4 @@ Responding to the signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin A
 4. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 5. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 6. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+7. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

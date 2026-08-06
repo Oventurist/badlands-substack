@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, broadcast-news, legacy-media, lewiston]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-b5a.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-df2.md]
 confidence: medium
 ---
 
@@ -45,3 +45,11 @@ In Badlands commentary, [[ashe-in-america|Ashe in America]] described the allege
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 3. Badlands Brief — "Badlands News Brief: Donald's Drive-Thru Goes Viral as Iran Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-481
 4. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+
+## Trump's April 2025 call to revoke CBS's broadcast license
+
+In a Truth Social post on Monday, April 14, 2025, [[donald-trump|President Donald Trump]] said CBS News must have its broadcasting license revoked, accusing the network of spreading politically biased misinformation in its coverage of the Ukraine conflict and Washington's push to acquire [[greenland|Greenland]].[5] The post followed an interview the network aired with Ukraine's [[volodymyr-zelensky|Vladimir Zelensky]] and a segment revisiting Trump's idea of purchasing Greenland.[5] In the Zelensky interview, the network suggested that Trump had sought to exclude Kiev from peace talks with Russia and that he "rewrote history, saying, falsely, that Ukraine had started the war and calling ... Zelensky 'a dictator without elections.'"[5] Trump's "dictator" comment in February referred to the expiry of Zelensky's presidential term the previous year and his refusal to call a new vote, citing martial law; Trump subsequently softened his rhetoric toward the Ukrainian leader.[5] The CBS report on Greenland focused on the island residents' purported reluctance to become part of the United States.[5]
+
+Badlands commentary endorsed Trump's position, arguing that all of the CIA's alleged propaganda outlets should lose their broadcasting licenses for engaging in illegal psychological warfare operations against the American people, and calling for those involved to be tried and their activities disclosed.[5]
+
+5. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2

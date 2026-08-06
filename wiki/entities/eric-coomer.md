@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, defamation, dominion-voting-systems, 2020-election, colorado]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-e82.md]
 confidence: medium
 ---
 
@@ -34,7 +34,18 @@ Earlier in the Denver trial the jury saw Coomer cross-examined by [[mike-lindell
 
 Coomer was followed on the stand by his friend [[matt-crane|Matt Crane]], who appeared in an exhibit photograph taken at a barbecue at Coomer's house alongside state and local election officials, among them Hillary Rudy of Colorado Secretary of State [[jena-griswold|Jena Griswold]]'s office.[3] According to courtroom sources, Crane conceded he was invested in the outcome of the case, struggled with questions about his wife's relationship with Coomer as colleagues at [[dominion-voting-systems|Dominion Voting Systems]], and defended the risk-limiting audit as a security measure without knowing that only four states used one in 2020.[3] Coomer was expected to call [[joe-oltmann|Joe Oltmann]] — whose 2020 statements comprise the central defamation claims — the following day.[3]
 
+## The 2021 dossier and public record
+
+A 2021 dossier shared widely by [[garrett-ziegler|Garrett Ziegler]] compiled a trove of Coomer's public writings and postings.[4] According to Badlands correspondent [[ashe-in-america|Ashe in America]], the material showed the former [[dominion-voting-systems|Dominion]] executive expressing vehement support for Antifa, describing sexual humiliation acts involving his wife, sharing songs calling for the death of law enforcement officers and expressing hatred for the United States, and posting in graphic terms that he would disown any family members or friends who considered voting for [[donald-trump|Donald Trump]].[4] Badlands commentary stressed the significance of the fact that Coomer was responsible for security at one of the nation's largest voting vendors — an industry premised on integrity and public trust.[4] A note appended to the take clarified that Ziegler shared the dossier widely but did not produce it.[4]
+
+In August 2021, the New York Times Magazine published a profile that Ashe in America characterized as a puff piece reframing the dossier's substance as authentic: Coomer acknowledged he meant every word, saying his only regret was having trusted Facebook's data privacy practices.[4]
+
+In September 2021, Coomer drove his car into a building, fled the scene, and then lied to police about it until his attorney arrived at the scene of the arrest and convinced him to tell the truth — an episode captured on police body camera video and reviewed by Ashe in America and [[canncon|CannCon]] on the program Why We Vote.[4]
+
+Of this material, only the posts concerning Trump were admitted for the [[coomer-v-lindell|Coomer v. Lindell]] trial, though other evidence such as the car crash could potentially enter if the plaintiff opened the door to it or if it became usable for impeachment.[4]
+
 ## References
 1. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 2. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 3. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
+4. Badlands Brief — "Limited Nukes & Satan's Elections", URL: https://badlands.substack.com/p/badlands-news-brief-e82

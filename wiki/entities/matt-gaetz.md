@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-d22.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-e1a.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -94,8 +94,40 @@ In August 2023, Gaetz introduced a resolution to censure U.S. District Court Jud
 
 After the [[washington-post|Washington Post]] published [[robert-kagan|Robert Kagan]]'s essay "A Trump dictatorship is increasingly inevitable. We should stop pretending," Gaetz said on X, "They're obviously green-lighting assassination."[15] The remark came amid a wave of articles warning that a second [[donald-trump|Trump]] term would turn America into a dictatorship, which many readers interpreted as a call to assassinate the former president.[15] [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] wrote that "Gaetz is correct," arguing that the outlets were prepping an assassination narrative across multiple regime platforms and that comparable headlines about [[joe-biden|Biden]] would have drawn a Justice Department investigation.[15]
 
-## References
+## Pressure over the Nellis Air Force Base drag show (2023)
 
+Gaetz was credited with forcing the late-May 2023 cancellation of a "family friendly" drag show scheduled at [[nellis-air-force-base|Nellis Air Force Base]] in Nevada for the start of Pride month.[16] Two months earlier, at a congressional hearing, Secretary of Defense [[lloyd-austin|Lloyd Austin]] and Chairman of the Joint Chiefs of Staff Gen. [[mark-milley|Mark Milley]] had told Gaetz they did not approve of drag queen story hours on military bases; when a "cry for help" about the Nellis event was posted, Gaetz publicly called both officials out and the [[pentagon|Pentagon]] ordered the show cancelled or relocated off base.[16]
+
+## Comments on the Hunter Biden deposition (February 2024)
+
+During a mid-hearing break in [[hunter-biden|Hunter Biden]]'s February 28, 2024 deposition, Gaetz told reporters he was more confident than ever that the value being exchanged in the younger Biden's dealings was the Biden brand itself: "It is a mirage to believe that Hunter Biden was engaged in international business. This was a bribe masquerading as an international business transaction — nothing more, nothing less."[17]
+
+## Attorney general nomination and vetting
+
+Gaetz's selection as [[donald-trump|Donald Trump]]'s nominee for attorney general in November 2024 was among the controversial high-level picks cited in reporting on the transition's decision to [[trump-transition-fbi-background-check-bypass|bypass traditional FBI background checks]] in favor of private vetting firms.[18] The same reporting paired his nomination with that of [[tulsi-gabbard|Tulsi Gabbard]] for director of national intelligence as illustrations of choices likely to face scrutiny.[18]
+
+## Withdrawal from the attorney general nomination and exit from Congress (November 2024)
+
+On Thursday, November 21, 2024, Gaetz announced in a social media post that he was withdrawing his name from consideration as President-elect [[donald-trump|Donald Trump]]'s choice for attorney general, saying he did not want to become "a distraction" for the transition team's work despite having had "excellent meetings" with senators.[19] The following day he told podcaster and conservative activist [[charlie-kirk|Charlie Kirk]] that eight years in Congress was enough and that he would not be returning to the House of Representatives.[19]
+
+Although Gaetz had resigned his existing term, he had won re-election on November 5, prompting speculation that he could still serve the forthcoming term.[19] "I'm still going to be in the fight, but it's going to be from a new perch," he said. "I do not intend to join the 119th Congress; there are a number of fantastic Floridians who've stepped up to run for my seat, people who have inspired with their heroism, with their public service."[19] He added that he was "actually excited to see Northwest Florida go to new heights and have great representation," referring to Florida's First Congressional District.[19] The Epoch Times judged it unlikely the district would flip: Gaetz had won re-election by more than 30 points and no Democrat had represented the area since 1995.[19]
+
+## The "little secret"
+
+Badlands writer Ashe in America connected Gaetz's departure to Trump's pre-election aside at his Madison Square Garden rally in New York, when Trump told Speaker [[mike-johnson|Mike Johnson]] that "with our little secret we're going to do really well with the House," adding, "He and I have a secret. We'll tell you what it is when the race is over."[19] Some speculated Trump was addressing Gaetz during the exchange, though the commentary judged Johnson the more likely interlocutor in context; with the race over and the secret still untold, it suggested the secret might be the "new perch" from which Gaetz would fight.[19]
+
+Circulating predictions at the time held that Gaetz would be named a special counsel, or would take [[marco-rubio|Marco Rubio]]'s Senate seat; a stranger variant had [[ron-desantis|Ron DeSantis]] appointing himself Senator with Gaetz succeeding him as Governor, a scenario the Badlands writer dismissed.[19] The same commentary framed the wider cabinet slate — alongside the work of the [[department-of-government-efficiency|Department of Government Efficiency]] — as consistent with an ambitious 18-month transformation program to re-limit the federal government under the Constitution by shutting down unconstitutional bureaucratic institutions.[19]
+
+
+## House Ethics Committee Report (December 2024)
+
+The [[house-ethics-committee|House Ethics Committee]] released its report into Gaetz's past conduct on December 23, 2024, after he filed a federal lawsuit seeking to block its publication.[20] The report said investigators found "substantial evidence" that the former congressman violated House rules, Florida state laws, and federal laws, alleging he paid tens of thousands of dollars to women for drugs or sex in at least 20 instances, including paying a 17-year-old girl for sex in 2017.[20] Panel investigators wrote that there was substantial evidence Gaetz "violated House Rules and other standards of conduct prohibiting prostitution, statutory rape, illicit drug use, impermissible gifts, special favors or privileges, and obstruction of Congress."[20] Having resigned from Congress the previous month after being nominated by President-elect [[donald-trump|Donald Trump]] for U.S. attorney general, Gaetz argued in his suit — filed in federal court in Washington and naming the committee and its chair, Rep. [[michael-guest|Michael Guest]], as defendants — that the panel lacked jurisdiction over him as a private citizen and that the report contained "untruthful and defamatory information" that could "significantly damage" his standing and reputation.[20] His attorneys called the release "an unprecedented overreach that threatens fundamental constitutional rights and established procedural protections."[20] Gaetz subsequently released evidence he said refuted the report.[20]
+
+## Opposition to Ukraine funding in the 2023 shutdown fight
+
+During the September 2023 impasse over funding the Defense Department, Matt Gaetz and allied members of the House Freedom Caucus refused to advance spending legislation, a stance Badlands commentary described as holding Speaker Kevin McCarthy's "feet to the Narrative fire" over any aid to what the analysis termed a proxy state.[22] The commentary framed Gaetz as the de facto representation of Donald Trump within the House while McCarthy — Trump's own pick for Speaker — continued to voice America First rhetoric, and speculated that the confrontation either exposed Uniparty deal-making or provided McCarthy with narrative shielding.[22]
+
+## References
 1. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 2. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 3. Badlands Brief — "Badlands News Brief: Congressional Chaos, Acceleration & Escalation", URL: https://badlands.substack.com/p/badlands-news-brief-11b
@@ -111,3 +143,17 @@ After the [[washington-post|Washington Post]] published [[robert-kagan|Robert Ka
 13. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 14. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4
 15. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22
+16. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
+17. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+18. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+19. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a
+20. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
+
+## Nomination as Attorney General (November 2024)
+
+On Wednesday, November 13, 2024, President-elect [[donald-trump|Donald Trump]] named Gaetz, then a firebrand Republican congressman from Florida, as his nominee for Attorney General, a selection subject to confirmation by the Republican-majority Senate.[21] In the announcement statement Trump said Gaetz would "end Weaponized Government, protect our Borders, dismantle Criminal Organizations and restore Americans' badly-shattered Faith and Confidence in the Justice Department."[21] Trump's inner circle described the attorney general as the most important member of the administration after Trump himself, central to plans for mass deportations, pardons for January 6 defendants, and retribution against those who had prosecuted him.[21] Reporting on the pick recalled Trump's first-term frustration with what he called an obstructive Justice Department, including attorneys general [[jeff-sessions|Jeff Sessions]], who permitted the probe into alleged contacts between the 2016 Trump campaign and Russia, and [[bill-barr|Bill Barr]], who publicly refuted Trump's claims that his 2020 loss resulted from fraud.[21]
+
+Writing in the [[badlands-media|Badlands Media]] News Brief, [[burning-bright|Burning Bright]] called the Gaetz nomination his favorite of the Trump 2.0 announcements, though not for performance reasons; he argued that the [[information-war|information war]] is fundamentally "a war of stories" and that figures from Trump and [[elon-musk|Elon Musk]] to Gaetz, Marjorie Taylor Greene, RFK Jr. and even [[joe-biden|Joe Biden]] function as "cognitive cyphers to awakening," best analyzed by the net effects they produce on the collective mind rather than by conventional competence metrics.[21]
+
+21. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
+22. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

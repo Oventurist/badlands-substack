@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, censorship, infowars, x, free-speech]
-sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c9d.md]
+sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-ec8.md]
 confidence: high
 ---
 
@@ -50,6 +50,10 @@ During the nationwide [[at-and-t|AT&T]] cellular outage of February 22, 2024, Jo
 
 On Friday, June 14, 2024, a Texas bankruptcy judge ruled that Jones's personal assets would be liquidated to help repay the $1.5 billion he owes to the families of the victims of the Sandy Hook Elementary School shooting, according to Associated Press reporting relayed by [[axios|Axios]].[7] The same judge later ruled against liquidating Jones's [[infowars|Infowars]] media platform and its parent company Free Speech Systems.[7] Jones had sought to use bankruptcy to shield his personal assets and his media platform in an effort to limit the defamation damages awarded after he repeatedly spread the claim that the shooting was a hoax.[7] In the days before the ruling, Jones told viewers and radio listeners that his media company was on the verge of being shut down and directed them to a new website owned by his father where they could continue buying his supplements.[7]
 
+## Feud with Candace Owens (December 2025)
+
+In late December 2025 Jones escalated his public battle with [[candace-owens|Candace Owens]], telling her "I want your war" and accusing her followers of threatening and doxxing him.[8] Jones had broken with Owens earlier in the month, accusing her of making easily refutable claims about the murder of [[charlie-kirk|Charlie Kirk]], and had promised to continue the fight, saying, "Everything she says and does, I'm gonna rip it to pieces."[8] Over the following weekend he intensified his rhetoric: "I remember saying to them, I said, I got to investigate her now, I've got a bad feeling. I didn't have a bad feeling. God gave me a good brain, I already knew, I dropped the ball, I apologize, she's a globalist agent."[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tracking Trump & Rootin' for Putin?", URL: https://badlands.substack.com/p/badlands-news-brief-220
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
@@ -58,3 +62,4 @@ On Friday, June 14, 2024, a Texas bankruptcy judge ruled that Jones's personal a
 5. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
 6. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
 7. Badlands Brief — "Biden Wanders, Putin Ponders & Ukraine Launders", URL: https://badlands.substack.com/p/badlands-news-brief-c9d
+8. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8

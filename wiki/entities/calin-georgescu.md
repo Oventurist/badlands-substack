@@ -1,10 +1,10 @@
 ---
-title: Călin Georgescu
+title: "Călin Georgescu"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [romania, sovereignty, soros, elections, europe]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-966.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e79.md]
 confidence: medium
 ---
 
@@ -64,6 +64,17 @@ On Sunday, January 12, 2025, tens of thousands protested in [[romania|Romania]]'
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] summarized the affair as "everything that threatens my grip on power is Russian interference," observing that the same officials who claim to be saving democracy were making a habit of cancelling elections wherever they could not win them, and that experts now urging traditional right and left parties to unite against the populists were pulling off the mask on a long-standing Uniparty.[6]
 
+## Constitutional Court upholds the ban (March 2025)
+
+On March 12, 2025, the [[constitutional-court-of-romania|Constitutional Court of Romania]] issued a final and binding decision unanimously rejecting eleven appeals Georgescu had launched against the Central Electoral Bureau's ruling barring his candidacy in the May elections.[7] The BEC had grounded the ban on claims that he failed to "respect the rules of the electoral procedure" and "violated the obligation to defend democracy," while Georgescu's appeal argued the decision contained "procedural irregularities" and that the BEC had outsourced its competency to the Constitutional Court, according to Romanian broadcaster Digi24.[7] Supporters described the outcome as an affront to the democratic process.[7]
+
+Although critical of the war in Ukraine and an advocate of better relations with Moscow, Georgescu has denied being "pro-Russian," describing himself instead as a "Romania First" candidate in the mould of [[donald-trump|Donald Trump]] in the United States.[7] Badlands writer [[ashe-in-america|Ashe in America]] wrote that the whole of the Romanian government had decided the people do not get to choose their leaders, that Georgescu appeared to have accepted the decision with little other recourse, and — invoking the maxim that nature abhors a vacuum — argued that the episode showed people struggling to be free all over the world.[7]
+
+
+## Politico Analysis of the Annulled Romanian Election
+
+A December 2024 Politico analysis framed Georgescu's rise as a victory for [[vladimir-putin|Vladimir Putin]], noting that residents of Mihail Kogălniceanu — a town on Romania's Black Sea coast beside a NATO airstrip being expanded into the alliance's largest base in Europe, slated to host some 10,000 military personnel by 2030 — voted overwhelmingly for him.[8] The anti-Brussels, NATO-skeptic ultranationalist emerged seemingly from nowhere to seize pole position in the election's first round, sending Romania's establishment into a crisis of confidence.[8] After incumbent President [[klaus-iohannis|Klaus Iohannis]] released secret files alleging the vote had been compromised by a likely Russia-backed "hybrid" attack and a vast TikTok influence operation, Romania's Constitutional Court canceled the entire election.[8]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
@@ -71,3 +82,5 @@ On Sunday, January 12, 2025, tens of thousands protested in [[romania|Romania]]'
 4. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 5. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 6. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+7. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+8. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79

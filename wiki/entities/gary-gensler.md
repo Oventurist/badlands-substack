@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sec, crypto, regulation]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-677.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-f7d.md]
 confidence: medium
 ---
 
@@ -28,9 +28,16 @@ At the [[bitcoin-2024-nashville-conference|Bitcoin 2024 conference]] in Nashvill
 
 In May 2024 the White House opposed House passage of the [[financial-innovation-and-technology-for-the-21st-century-act|Financial Innovation and Technology for the 21st Century Act]] while signalling willingness to work with Congress on a future digital-asset framework — a posture that stood in contrast with Gensler's repeated statements as [[securities-and-exchange-commission|SEC]] Chair that the industry does not need additional crypto-specific legislation.[4]
 
+## SEC Stabilization Act (June 2023)
+
+On June 12, 2023, Representative [[warren-davidson|Warren Davidson]] of Ohio and House Majority Whip [[tom-emmer|Tom Emmer]] of Minnesota introduced the [[sec-stabilization-act|SEC Stabilization Act]], which would remove Gensler as chairman of the [[securities-and-exchange-commission|Securities and Exchange Commission]] and restructure the agency, citing his "long series of abuses that have been permitted under the current SEC structure."[5] The bill would add a sixth commissioner and bar any party from holding more than three seats.[5]
+
+News of the bill triggered a celebratory reaction in cryptocurrency circles, where hostility to Gensler ran deep: the $GENSLR protest coin rose more than 25 percent and #FireGaryGensler became a top-three Twitter trend.[5] [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] additionally argued that Gensler's removal would advance accountability for "Russian Collusion," noting that he served as chief financial officer of [[hillary-clinton|Hillary Clinton]]'s 2016 presidential campaign — the campaign that funded the [[steele-dossier|Steele dossier]] — and that although Gensler denies knowledge of the dossier payments, his position implied he would have known.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 2. Badlands Brief — "Presidential Immunity & Rugpulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-484
 3. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 4. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+5. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d

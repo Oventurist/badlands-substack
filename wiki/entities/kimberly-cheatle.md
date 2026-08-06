@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, 2024, congressional-testimony]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-bcc.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -38,8 +38,15 @@ Badlands commentary characterized much of the questioning as campaign theater, n
 
 Badlands' July 2024 coverage noted that at Monday's House Oversight Committee hearing Cheatle, then Secret Service director, punted substantive questions about the [[attempted-assassination-of-donald-trump-2024|July 13 Butler shooting]] to the [[fbi|FBI]], as did law enforcement witnesses at Tuesday's Homeland Security Committee hearing — an implication, commentator [[ashe-in-america|Ashe in America]] argued, that [[christopher-wray|FBI Director Christopher Wray]] should have had answers when he testified on Wednesday.[4] Reporting from Axios cited in the same brief recorded that Cheatle resigned on Tuesday, July 23, 2024 following blistering criticism and mounting bipartisan calls for her departure.[4]
 
+## Resignation letter and succession (July 23, 2024)
+
+Cheatle announced her resignation on the morning of Tuesday, July 23, 2024 in an email to Secret Service employees obtained by ABC News.[5] "The Secret Service's solemn mission is to protect our nation's leaders and financial infrastructure. On July 13th, we fell short on that mission," she wrote, adding that "the scrutiny over the last week has been intense and will continue to remain as our operational tempo increases" and that, as Director, she took "full responsibility for the security lapse."[5] Deputy director [[ron-rowe|Ron Rowe]], a 24-year veteran of the agency, was appointed acting director and told employees that the Secret Service would "restore the faith and confidence of the American public and the people we are entrusted to protect."[5]
+
+Badlands commentary framed the resignation as the direct consequence of her perceived contempt and obstruction before Congress the previous day, and argued that despite "uniparty" efforts to move on from the assassination attempt, the scandal was front and center again.[5] Contributor [[ashe-in-america|Ashe in America]] linked Cheatle's departure, [[alejandro-mayorkas|Alejandro Mayorkas]]'s deflection and law enforcement's evasive testimony before the [[house-homeland-security-committee|House Homeland Security Committee]] as a single pattern, concluding: "We aren't moving on. Accountability now."[5]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 3. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3
 4. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
+5. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

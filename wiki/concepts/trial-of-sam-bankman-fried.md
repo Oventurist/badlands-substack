@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [crypto, fraud, courts, ftx]
-sources: [raw/badlands-news-brief-bbc.md]
+sources: [raw/badlands-news-brief-bbc.md, raw/badlands-news-brief-f61.md]
 confidence: medium
 ---
 
@@ -22,5 +22,10 @@ Bankman-Fried was scheduled to be sentenced on March 28, facing more than 100 ye
 
 Bankman-Fried, known as SBF, founded FTX in 2019, two years after forming the sister hedge fund [[alameda-research|Alameda Research]].[1] He was charged with seven counts including wire fraud, money laundering and securities fraud in connection with FTX's implosion in 2022, and had pleaded not guilty to all charges.[1] The 31-year-old MIT graduate and son of two Stanford legal scholars was transformed over the course of the proceedings, in press accounts, from a "crypto genius" into an alleged criminal mastermind as prosecutors and defense attorneys contested the causes of the exchange's collapse.[1]
 
+## Pretrial detention
+
+Ahead of the October trial date, a federal judge revoked [[sam-bankman-fried|Sam Bankman-Fried]]'s bail after finding probable cause that he had attempted to tamper with witnesses, and he was remanded to the Metropolitan Detention Center in Brooklyn while the parties resolved how he would review discovery materials.[2] U.S. marshals handcuffed him in the courtroom immediately after the ruling.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Israel's Package, Biden's Border and Putin's Nukes", URL: https://badlands.substack.com/p/badlands-news-brief-bbc
+2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61

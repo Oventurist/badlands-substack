@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, gaza, infrastructure]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-cad.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-df1.md, raw/badlands-news-brief-f76.md]
 confidence: medium
 ---
 
@@ -52,6 +52,15 @@ The head of Russia's sovereign wealth fund was expected to be part of the Russia
 
 Dmitriev met White House envoy [[steve-witkoff|Steve Witkoff]] in Miami during the weekend of December 20–21, 2025 as part of the [[2025-miami-ukraine-talks|Florida talks]] on ending the war in Ukraine, with Witkoff describing the discussions as "productive and constructive" but reporting no clear breakthrough.[8] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that Dmitriev and other Russian diplomats spent the weekend "hammering out the details" of a peace deal, and judged from the attendees that the sessions concerned economic cooperation rather than a military armistice — suggesting the peace deal itself was already effectively settled.[8]
 
+
+## Miami Talks Following the Rosneft and Lukoil Sanctions (October 2025)
+
+In late October 2025 Dmitriev arrived in the United States for official talks with Trump administration officials on U.S.-Russia relations, meeting [[steve-witkoff|Special Envoy Steve Witkoff]] in Miami on a Saturday, according to a White House official.[9] Dmitriev said on X that the visit had been arranged "a while ago based on an invitation from the U.S. side," and that dialogue between the two countries is "vital for the world and must continue with the full understanding of Russia's position and respect for its national interests."[9] The trip came two days after the administration sanctioned Russia's largest oil companies, [[rosneft|Rosneft]] and [[lukoil|Lukoil]], while urging Moscow to accept an immediate ceasefire in Ukraine; [[vladimir-putin|President Vladimir Putin]] dismissed the measures, saying they would have little effect and that "no self-respecting country ever does anything under pressure."[9]
+
+Coverage noted that Dmitriev — a Harvard- and Stanford-educated financier born in Soviet-era Ukraine and head of the [[russian-direct-investment-fund|Russian Direct Investment Fund]] — has long pushed for expanded U.S.-Russian economic cooperation, has been highly active on X with posts referencing the deep state and Q, and has proposed a "Trump-Putin" tunnel linking Alaska to the Russian Far East.[9] The talks continued into a third day on the Sunday, with Dmitriev saying in a Telegram video address that the delegation was communicating Putin's position that "only constructive, respectful dialogue will bear fruit" and that "any attempts to pressure Russia are simply pointless," and that the Ukraine conflict can be resolved only by "eradicating its root causes."[9] He said the delegation also briefed U.S. counterparts on the economy and the frontline situation, alleging that certain parties had tried to conceal or distort that information from the U.S. leadership, and claimed the ruble had been the "most successful currency this year," strengthening roughly 40% against the dollar.[9]
+
+Badlands commentary treated Dmitriev as a "cypher" in the War of Stories rather than a diplomatic footnote — a former Goldman Sachs alum turned Kremlin advocate whose repeat appearances (an April trip to Washington, an August role in the Alaska Summit, and now Miami, potentially including Rep. Anna Paulina Luna) mark a "shatterpoint in the Peacemakers Arc," with sanctions read as pincer moves rather than punishments.[9]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
@@ -61,3 +70,10 @@ Dmitriev met White House envoy [[steve-witkoff|Steve Witkoff]] in Miami during t
 6. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 7. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
 8. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+9. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+## Proposed Russia-China-US Arctic projects (September 2025)
+
+Speaking on Zvezda television in September 2025, Dmitriev said Russia was considering joint projects with China and the United States across various spheres.[10] "Certainly, Russia is eyeing the opportunity of joint Russia-China-US projects, including in the Arctic region, specifically in the energy sector also," he said, adding that "we exactly see that projects should not be divided there into Russian-Chinese or Russian-US."[10] He said joint investments were possible for both Chinese and American investors, including in Arctic hydrocarbon projects.[10] Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the remarks as overt [[sovereign-alliance|Sovereign Alliance]] signaling.[10]
+
+
+10. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [globalism, great-reset, institutions]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-f4c.md]
 confidence: low
 ---
 
@@ -153,6 +153,11 @@ In late January 2023, Canadian psychologist [[jordan-peterson|Jordan Peterson]] 
 
 At the WEF's 2024 annual meeting, the [[world-health-organization|World Health Organization]] used the forum to warn world leaders that a future pandemic could be twenty times worse than COVID-19, with global healthcare experts appearing on a WEF panel titled "Preparing for Disease X."[26] [[disease-x|Disease X]] is a WHO placeholder term, coined in 2018, for a hypothetical unknown pathogen; panelists discussed developing better communication strategies to reduce misinformation and conspiracy theories, while critics on X described the session itself as a conspiracy against freedom.[26]
 
+
+## 2023 annual meeting and internal criticism
+
+At the January 2023 Davos meeting, the WEF faced internal dissent: current and former staff told The Guardian that founder and chair [[klaus-schwab|Klaus Schwab]] was unaccountable, had led the body for 52 years, and had surrounded himself with people incapable of running it, with no succession strategy in place.[27] Reporting that week also indicated that many of the companies and NGOs bankrolling the forum were unhappy with Schwab's management.[27] The same meeting produced [[larry-fink|Larry Fink]]'s remarks that the [[esg|ESG]] narrative had turned "ugly" and personal, and Saudi finance minister [[mohammed-al-jadaan|Mohammed Al-Jadaan]]'s statement that the kingdom was open to settling trade in currencies other than the U.S. dollar.[27]
+
 ## References
 
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
@@ -181,3 +186,4 @@ At the WEF's 2024 annual meeting, the [[world-health-organization|World Health O
 24. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 25. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
 26. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+27. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

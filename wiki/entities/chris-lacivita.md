@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, 2024-election, campaigns, republican-party]
-sources: [raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-news-brief-a38.md, raw/badlands-news-brief-df8.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Badlands Media contributor [[burning-bright|Burning Bright]] framed the debate c
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+
+## Appointment as RNC chief of staff (March 2024)
+
+LaCivita, a senior campaign adviser to [[donald-trump|Donald Trump]], was named chief of staff of the [[republican-national-committee|Republican National Committee]] in March 2024 as Trump's operation took over the party's machinery.[2] The takeover followed the election of [[michael-whatley|Michael Whatley]] as chair and [[lara-trump|Lara Trump]] as co-chair, and coincided with a purge of more than 60 RNC staffers overseen by chief operating officer [[sean-cairncross|Sean Cairncross]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8

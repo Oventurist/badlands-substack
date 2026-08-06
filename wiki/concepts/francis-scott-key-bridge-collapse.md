@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [baltimore, maritime, infrastructure, disaster, salvage]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -53,9 +53,21 @@ On March 27, 2024 the [[national-transportation-safety-board|National Transporta
 
 [[ashe-in-america|Ashe in America]] contrasted the sheen with the early statement from ship owner [[grace-ocean|Grace Ocean]] that all crew and both pilots were accounted for, no injuries were reported and "there has also been no pollution," calling the assertion suspect in timing and circumstance.[5] Local reporting quoted an official document noting "minor sheening on-scene," with booming ordered and staged but withheld until search-and-rescue and dive operations were complete, and put the potential oil spill at 1.8 million gallons of marine grade diesel.[5] An unclassified memo from the [[cybersecurity-and-infrastructure-security-agency|Cybersecurity and Infrastructure Security Agency]] confirmed that federal officials were monitoring that fuel for its "spill potential," while the [[department-of-homeland-security|Department of Homeland Security]] deemed the water near the crash site unsafe for divers.[5]
 
+## Criminal investigation and liability manoeuvring (April 2024)
+
+In April 2024 the [[fbi|FBI]] opened a criminal investigation into the cargo ship [[dali|Dali]], examining whether crew members knew of problems with the vessel before departing port; the ship had experienced a "complete blackout" minutes before the collision.[6] The criminal inquiry was separate from the [[national-transportation-safety-board|National Transportation Safety Board]]'s investigation into the cause of the crash, and was reportedly handled by the U.S. attorney's office in Maryland after agents boarded the Dali at dawn on Monday, April 15 and claimed jurisdiction from the Coast Guard.[6]
+
+Earlier that month [[synergy-marine-group|Synergy Marine Group]], the Singaporean manager of the vessel, filed a preemptive petition in the U.S. district court in Baltimore to limit its liability, asking the court to enjoin the prosecution of any claims against the petitioners outside that action and to determine that they were not liable for any loss or damage arising out of the casualty.[6] On the same day the criminal investigation became public, multiple private law firms announced they had been retained to represent the Baltimore mayor's office and some of the construction workers on the bridge at the time of the collapse — six of the eight of whom died — in what was described as an escalating effort to seek accountability.[6] [[ashe-in-america|Ashe in America]] concluded that the government was looking for accountability "and they have many scapegoats to choose from."[6]
+
+## Demolition and crew status, May 2024
+
+On Monday, May 13, 2024, a controlled explosion sent the remaining pieces of Baltimore's Francis Scott Key Bridge into the Patapsco River, seven weeks after the collapse that killed six people on the bridge and left the [[dali|Dali]] marooned beneath the wreckage.[7] Nearly two dozen sailors remained aboard the ship below deck during the blasts; authorities and the crew hoped the demolition marked the beginning of the end of the salvage process.[7] A preliminary [[national-transportation-safety-board|NTSB]] report found that two electrical blackouts disabled equipment before the strike and that the ship had lost power twice in the preceding ten hours.[7] The crew of twenty Indians and one Sri Lankan remained unable to disembark because of visa restrictions, missing shore passes, and the parallel NTSB and [[fbi|FBI]] investigations.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 3. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 4. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
 5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+6. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54
+7. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

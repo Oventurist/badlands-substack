@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, elections, federal-workforce, weaponization-of-government]
-sources: [raw/badlands-news-brief-214.md]
+sources: [raw/badlands-news-brief-214.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -20,5 +20,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] reported that the "firs
 
 The hearing was largely overshadowed the same day by Attorney General [[merrick-garland|Merrick Garland]]'s testimony before the [[house-judiciary-committee|House Judiciary Committee]] and by a heavily attended abortion hearing.[1]
 
+## Application to the Jack Smith review
+
+The Office of Special Counsel's Hatch Act Unit, which enforces prohibitions on political activity by government employees, opened a 2025 review into former special counsel Jack Smith after Senator Tom Cotton alleged he used his office to influence the 2024 election.[2]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Weaponized Governments and Embattled Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-214
+2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

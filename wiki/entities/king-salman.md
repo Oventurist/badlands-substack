@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, house-of-saud, monarchy]
-sources: [raw/arabian-nights.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-a82.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ee8.md]
 confidence: low
 ---
 
@@ -30,7 +30,12 @@ Badlands commentary describes Salman as a notably strict father who made his chi
 
 King Salman traveled to Washington in September 2015, less than eight months into his reign, to discuss the recently signed Iran Nuclear Deal, accompanied by his son [[mohammed-bin-salman|Mohammed bin Salman]], then a 30-year-old defense minister.[3] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that nobody expected the king's young son to play lead negotiator, but MBS spoke out of turn and clashed directly with President [[barack-obama|Barack Obama]] over the deal and over Wahhabism.[3]
 
+## Lung inflammation treatment (May 2024)
+
+The Saudi state news agency reported on Sunday, May 19, 2024 that the 88-year-old King Salman would undergo treatment for a lung inflammation at Al Salam Palace in Jeddah, receiving antibiotics until the inflammation subsided, hours after medical tests prompted by "high temperature and joint pain."[4] Because of the king's health, Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]], the de facto Saudi leader, postponed a visit to Japan that had been due to begin on Monday, as confirmed by Japan's Chief Cabinet Secretary Yoshimasa Hayashi.[4] The king had last been admitted to hospital in April for a routine checkup.[4]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
 3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+4. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8

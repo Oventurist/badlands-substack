@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, colorado, election-integrity]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c1e.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f94.md]
 confidence: medium
 ---
 
@@ -72,6 +72,16 @@ In March 2024, Dominion's defamation lawsuit against former Overstock.com chief 
 
 Lambert asserted that the leaked material consisted of email communications produced by Dominion in discovery — some written in Serbian and other foreign languages — with and from top-level Dominion employees "directing and tasking foreign nationals to remotely access voting machines utilized in the United States during the November 3, 2020 election."[12] She said the remote access took place while states were still counting votes and before certification, and that the emails indicated background checks had not been performed on the Serbian Dominion employees involved, leaving the United States without oversight of them or knowledge of any prior Serbian military experience.[12] Badlands writer [[ashe-in-america|Ashe in America]] noted the Michigan setting of the dispute and framed Lambert's arrest as punishment for handing evidence of a crime to law enforcement.[12]
 
+## Rebranding as Liberty Vote (October 2025)
+
+On October 9, 2025 the company's new owners announced that Dominion had been renamed [[liberty-vote|Liberty Vote]] and sold late the previous month to Republican [[scott-leiendecker|Scott Leiendecker]], a former director of elections for the city of St. Louis and creator of the electronic poll book provider [[knowink|KNOWiNK]].[13] The September sale made Leiendecker the sole private owner; the price was not disclosed.[13] Leiendecker said the new brand "signals a new chapter for American elections—one where trust is rebuilt from the ground up," promising technology prioritizing "paper-based transparency, security, and simplicity."[13]
+
+Reporting at the time recalled that Dominion, heavily criticized after the 2020 election, had won several large settlements from news organizations, including $67 million from [[newsmax|Newsmax]] in August 2025 and $787.5 million from Fox News Channel in 2023.[13] Badlands commentary was skeptical of the rebrand, questioning what was actually being purchased if the underlying technology were to be discarded, and treating the transaction as unproven until the new owner earned trust.[13]
+
+## Continued significance of the Fox settlement (2023)
+
+The $787.5 million defamation settlement that Fox agreed to pay Dominion Voting Systems over claims that its machines swayed the 2020 election between Joe Biden and Donald Trump remained a central reference point when Rupert Murdoch announced his retirement as chairman of Fox Corp. and News Corp. in September 2023.[14] Murdoch's deposition in the case, in which he said some Fox anchors had parroted false post-election claims, had highlighted his behind-the-scenes role at the network in the months before the settlement.[14]
+
 ## References
 1. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
 2. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
@@ -85,3 +95,5 @@ Lambert asserted that the leaked material consisted of email communications prod
 10. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 11. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
 12. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
+13. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+14. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

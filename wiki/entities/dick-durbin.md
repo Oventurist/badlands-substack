@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, democrat, illinois, save-act, election-law]
-sources: [raw/badlands-brief-1cd.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-bd7.md]
+sources: [raw/badlands-brief-1cd.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-d8c.md]
 confidence: medium
 ---
 
@@ -27,7 +27,12 @@ As ranking member of the Senate Judiciary Committee, Durbin pressed attorney gen
 
 As the top Democrat on the Senate Judiciary Committee, Durbin rebuked President [[donald-trump|Donald Trump]]'s December 2025 pardon of former Honduran president [[juan-orlando-hernandez|Juan Orlando Hernández]], who had been serving a 45-year sentence for conspiring to import tons of cocaine into the United States.[3] Durbin said the evidence presented at Hernández's trial had established that the former president "orchestrated a vast trafficking conspiracy" that raked in millions of dollars for drug cartels.[3] His criticism formed part of a broader Democratic argument that Trump was acting hypocritically in claiming to have escalated the fight against illicit drugs while freeing a man convicted of using his office to aid traffickers.[3]
 
+## Supreme Court ethics hearing (2024)
+
+As chairman of the [[senate-judiciary-committee|Senate Judiciary Committee]], Durbin invited Chief Justice [[john-roberts|John Roberts]] to testify at a hearing on ethical standards at the Supreme Court, saying there had been a "steady stream of revelations" regarding justices "falling short of ethical standards expected of other federal judges."[4] The invitation followed reports of a close relationship between Justice [[clarence-thomas|Clarence Thomas]] and Dallas billionaire donor [[harlan-crow|Harlan Crow]].[4] In a letter to Durbin, Roberts said he would "respectfully decline" the request, providing instead a statement of ethics reaffirmed by the court's nine justices.[4]
+
 ## References
 1. Badlands Brief — "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent", URL: https://badlands.substack.com/p/badlands-brief-1cd
 2. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 3. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7
+4. Badlands News Brief — "Trump Convicted ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-d8c

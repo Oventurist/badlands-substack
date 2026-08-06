@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [activism, race, democratic-party, 2024-election]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ The chapter deleted the post and addressed it on X the following Wednesday morni
 
 In May 2025, [[aston-mack|Aston Mack]], a 35-year-old Black Lives Matter activist known for his role in Florida protests, was arrested in a child sex sting operation after allegedly soliciting an undercover officer posing as a 14-year-old girl.[4] Badlands contributor [[ashe-in-america|Ashe in America]] noted that Mack had been globally celebrated as a social-justice role model — the English football club Arsenal wore a kit honoring Mack and Black Lives Matter, and later deleted a promotional post about it — and described the movement as "the gift that keeps on giving for comical corruption stories."[4]
 
+## Objection to the 2024 Democratic nominee substitution
+
+Following [[joe-biden|Joe Biden]]'s July 21, 2024 withdrawal and the rapid consolidation of party support behind [[kamala-harris|Kamala Harris]], Black Lives Matter publicly objected and called for a democratic nominating process.[5] Badlands contributor [[ashe-in-america|Ashe in America]] cited the organization's reaction as evidence that even parts of the left were angered by what she described as the oligarchy overriding primary voters for the third consecutive Democratic cycle.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
 2. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
 3. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 4. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
+5. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bureau-of-labor-statistics, labor-statistics, trump-administration, employment-data]
-sources: [raw/badlands-news-brief-030.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-d46.md]
 confidence: medium
 ---
 
@@ -20,5 +20,11 @@ Trump removed McEntarfer from her post following the release of a disappointing 
 
 Weeks after McEntarfer's dismissal, the BLS announced on September 9, 2025 that employers had added 911,000 fewer jobs over the 12 months ending in March than initially reported — apparently the largest downward revision ever recorded.[1] White House Press Secretary [[karoline-leavitt|Karoline Leavitt]] framed the revision as vindication of Trump's criticism, saying it proved both that "Biden's economy was a disaster" and that "the BLS is broken," and argued new leadership was needed to restore confidence in the agency's data.[1] Badlands Media commentary treated the sequence as another instance of a federal statistical agency losing public legitimacy.[1]
 
+## Dismissal by Trump (August 2025)
+
+President Donald Trump said on August 1, 2025 that he had ordered the dismissal of Erika McEntarfer, commissioner of the Bureau of Labor Statistics, after a soft jobs report showing lackluster July employment growth and large downward revisions for May and June hiring.[2] McEntarfer had been appointed in 2024 by President Joe Biden to a four-year term of a kind that often overlaps multiple administrations; her predecessor, conservative economist William Beach, served under both Biden and the first Trump administration.[2] Announcing the ouster on social media, Trump criticized her as a Biden appointee overseeing what the Washington Post said he falsely called "faked" jobs numbers, and said he would replace her with someone "more competent and qualified."[2]
+
 ## References
+
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
+2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46

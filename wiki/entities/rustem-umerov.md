@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, national-security, negotiations, russia-ukraine-war]
-sources: [raw/badlands-news-brief-c93.md]
+sources: [raw/badlands-news-brief-c93.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ The Florida meetings came weeks after the [[trump-ukraine-peace-plan|Trump admin
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
+
+## The September 2023 deputy minister firings
+
+Shortly after Umerov's appointment as defense minister — following the sacking of [[oleksii-reznikov|Oleksii Reznikov]] over corruption — six deputy defense ministers were dismissed in the [[2023-ukrainian-defense-ministry-purge|September 2023 defense ministry purge]].[2] Neither Umerov nor Cabinet of Ministers representative Taras Melnychuk, who announced the firings on Telegram, explained the reason for the terminations.[2] Because the ministry's role is primarily logistics — procurement, salaries and benefits — rather than battlefield tactics, the turnover was not expected to have an immediate effect on the course of the war.[2]
+
+2. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

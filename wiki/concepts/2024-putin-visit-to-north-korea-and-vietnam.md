@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, north-korea, vietnam, diplomacy, sanctions, sovereign-alliance, 2024]
-sources: [raw/badlands-news-brief-565.md, raw/badlands-news-brief-c9b.md]
+sources: [raw/badlands-news-brief-565.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-e1e.md]
 confidence: medium
 ---
 
@@ -40,7 +40,18 @@ In an op-ed published around the visit, Putin disclosed that the two countries w
 
 [[ghost-of-patrick-henry|GhostofBasedPatrickHenry]] compared the decoration of Pyongyang to King Salman's decoration of Riyadh for Trump's 2017 visit, and noted that Kim foregoing the traditional handshake grappled Putin in a full hug — read as affirmation that the [[sovereign-alliance|Sovereign Alliance]] is real and the [[jacob-accords|JACOB Accords]] are expanding.[2] During the visit a few dozen North Korean troops shuffled across the DMZ and exchanged fire with South Korean troops in a rare display, prompting [[the-daily-beast|The Daily Beast]] to run the headline "Is Kim Jong Un Starting a War to Impress Visiting Friend Vladimir Putin?!"[2]
 
+## Mutual defence accord and departure
+
+The [[bbc|BBC]] closed its live coverage of the trip as Putin left for Vietnam, describing a whirlwind visit full of fanfare and shows of friendship.[3] Putin received a red-carpet welcome from [[kim-jong-un|Kim Jong Un]] on the tarmac before dawn, and Kim was present to wave him off on departure.[3] The most significant development of the trip was the signing of an accord in which the two leaders agreed to support one another if either country faced "aggression."[3] Kim said he fully supported Russia's invasion of Ukraine and called Russia North Korea's "most honest friend," while Putin described the meeting as a "breakthrough" and thanked Kim for his "consistent and unwavering support for Russian policy, including in the Ukrainian direction."[3] The visit featured a lavish formal ceremony with singing children, military walks and a street parade, followed by a state reception and gala concert; the pair were seen riding in a luxury limousine with Putin at the wheel, and exchanged gifts including a Russian-made Aurus car, a tea set and artwork.[3]
+
+### Sovereign Alliance reading
+
+[[burning-bright|Burning Bright]] argued that the most remarkable feature of the Putin–Kim rapprochement was the contradictory media reaction within what he called the globalist protectorate, which had simultaneously portrayed Russia's nuclear submarine off Cuba as an armageddon threat and as falling apart, and was now alarmed by a mutual defence pact that triggers only if the West attacks the East.[3] He read the accord as a shot across the bow by Putin and Kim and, more broadly, by the [[sovereign-alliance|Sovereign Alliance]] he had been documenting for years — an alignment he described as including Saudi Arabia, China and [[donald-trump|Donald Trump]]'s version of the United States.[3] "Mutual defense pacts are another term for mutual peace pacts," he wrote; "peace needs to be enforced."[3]
+
+Writing on the parallel Ukraine item, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] framed the North Korea leg as Putin's pivot to expanding the Alliance after the [[2024-swiss-peace-summit-on-ukraine|Swiss peace summit]], and speculated that Putin might ask Kim to open North Korean markets to Alliance investment and trade — an act of open defiance toward the [[united-nations|United Nations]], which has imposed trade sanctions on the country for decades.[3]
+
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
 2. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
+3. Badlands Brief — "Badlands News Brief: Devo Takes, Cheap Fakes & Sovereign Alliance Dates", URL: https://badlands.substack.com/p/badlands-news-brief-e1e

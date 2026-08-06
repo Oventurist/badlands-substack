@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, rico, 2020-election, prosecutor]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-b5a.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-ea1.md]
 confidence: medium
 ---
 
@@ -96,6 +96,16 @@ On Monday, January 22, 2024, Cobb County Superior Court Judge [[henry-thompson]]
 
 By late February 2024 the central question before Judge [[scott-mcafee|Scott McAfee]] was whether District Attorney [[fani-willis|Fani Willis]] could continue prosecuting [[donald-trump|Donald Trump]] or whether her relationship with Wade would disqualify them both, with a ruling expected as early as the following week.[17] Reporting on a $150 campaign donation McAfee had made to Willis in 2020 noted that the judge would soon have to decide whether Willis should be disqualified over allegations that she financially benefited from appointing her romantic partner to work on the Trump case.[17] Writing in the Badlands News Brief, [[ashe-in-america|Ashe in America]] characterized the pair's arrangement as an "all-cash-all-luxury-but-totally-legit relationship" and closed her commentary by remarking that "Nathan Wade invoiced the [[white-house|White House]]."[17]
 
+## Bradley text messages (February 2024)
+
+Text messages between [[terrence-bradley|Terrence Bradley]] — Wade's former law partner and one-time client — and defense attorney [[ashleigh-merchant|Ashleigh Merchant]], reported by CNN on February 28, 2024, showed months of coordination in the effort to substantiate claims that Wade and District Attorney [[fani-willis|Fani Willis]] had an improper romantic relationship.[18] Bradley had reluctantly testified for more than two hours on Tuesday, February 27, 2024 about the relationship.[18] Badlands contributor [[ashe-in-america|Ashe in America]] argued the texts indicated Bradley, Wade and Willis had perjured themselves, pointing to Bradley's claim that the affair began in 2020 while Willis was a judge in South Fulton.[18]
+
+## February 2024 hearing developments
+
+At the February 16, 2024 session of the disqualification hearing, former Georgia Governor [[roy-barnes|Roy Barnes]] testified that he had been offered the special prosecutor role Wade ultimately filled but turned it down, saying he did not want the attention that would accompany the case.[20] [[john-floyd|John Floyd]], the father of [[fani-willis|Fani Willis]], testified that his daughter had hidden her relationship with Wade from him even though he knew of her earlier romances.[20]
+
+Most of the day was devoted to Wade's business partner and divorce attorney [[terrence-bradley|Terrence Bradley]], whose testimony was repeatedly blocked by privilege objections and who was then impeached by Willis's own counsel [[anna-cross|Anna Cross]] — a tactic that may have waived the privilege protecting Wade's account.[20] Legal analyst [[jonathan-turley|Jonathan Turley]] told Fox News Sunday that the conflicting statements given by Willis and Wade were "astonishing," that the judge had "heard enough," and that a referral of both to the state bar over alleged false statements was a live possibility alongside disqualification.[20]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -115,3 +125,11 @@ By late February 2024 the central question before Judge [[scott-mcafee|Scott McA
 15. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
 16. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
 17. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+18. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+
+## Prosecution-for-profit allegations (March 2024)
+
+Ahead of Judge [[scott-mcafee|Scott McAfee]]'s expected ruling on disqualification in March 2024, [[ashe-in-america|Ashe in America]] wrote that the latest information testified to under oath was that the Georgia prosecution had netted Wade and [[fani-willis|Fani Willis]] several hundred thousand dollars, characterizing the arrangement as prosecution for profit and notoriety.[19] She argued that the appearance of impropriety is as important as an actual conflict when a novel legal theory is levied against a former US president, and said she would be stunned if both were allowed to remain on the case.[19]
+
+19. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
+20. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1

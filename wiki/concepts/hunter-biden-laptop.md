@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, intelligence-community, censorship, congress]
-sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d06.md]
+sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f7d.md]
 confidence: medium
 ---
 
@@ -56,6 +56,10 @@ In June 2023, nearly 10,000 photographs from the laptop were uploaded to a new w
 
 Besides pictures carrying location metadata, the archive linked to emails, suspicious activity reports, material on influence peddling, a transcribed diary attributed to [[ashley-biden|Ashley Biden]], and extensive personal details.[7] Badlands commentator [[burning-bright|Burning Bright]] wrote that the laptop scandals had remained near the forefront of the information war and that the story refuses to die despite obfuscation by the political class and the media, suggesting that [[hunter-biden|Hunter Biden]] himself might play a larger role in the unraveling of his family than many assume.[7]
 
+## Secret AT&T global phone (June 2023)
+
+In June 2023, [[peter-schweizer|Peter Schweizer]] said the laptop showed that [[hunter-biden|Hunter Biden]]'s business paid roughly $300 per month for a private global [[at-and-t|AT&T]] phone line that [[joe-biden|Joe Biden]] used while he was vice president.[9] Journalist [[john-solomon|John Solomon]] obtained the number from a leaked document derived from the laptop material, called it, and reached Joe Biden directly.[9] Badlands writer [[ashe-in-america|Ashe in America]] used the episode to renew the argument that the [[fbi|FBI]], the [[department-of-justice|Department of Justice]] and prosecutors with local jurisdiction had held the laptop and its alleged evidence of 459 business crimes, sex crimes and influence-peddling for more than a year before Biden's inauguration, and that copies of the [[marco-polo|Marco Polo]] Biden Laptop Report had been sent repeatedly to every member of [[congress|Congress]] without producing charges.[9]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Ukraine U-Turn, Biden Bumbles & Committees Command", URL: https://badlands.substack.com/p/badlands-news-brief-152
@@ -65,3 +69,33 @@ Besides pictures carrying location metadata, the archive linked to emails, suspi
 5. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 6. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 7. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06
+
+## Cited against the 2023 plea deal
+
+In June 2023, Badlands writer [[ashe-in-america|Ashe in America]] argued that the [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] allowed officials and allied media to claim a prosecution had occurred without addressing even one of 459 documented violations of the U.S. Code contained on the laptop.[8]
+
+8. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+9. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
+
+## Judicial Watch FOIA lawsuit (December 2025)
+
+[[judicial-watch|Judicial Watch]] filed a Freedom of Information Act lawsuit against the [[department-of-justice|Justice Department]] on Tuesday, December 9, 2025 seeking all FBI investigative records tied to the laptop, after the bureau failed to respond to a January 29, 2025 FOIA request; the case was filed in U.S. District Court for the District of Columbia.[10] The suit seeks investigative reports, witness interview summaries, memoranda and related records, along with emails, text messages, Lync messages and other electronic communications connected to the case.[10] IRS whistleblowers have confirmed that the FBI became aware of the laptop in October 2019, verified its authenticity in November 2019, and took possession of it in December 2019, before the New York Post began publishing reports drawn from it in October 2020 detailing Biden family business dealings.[10] In an August 2022 letter, Senator Ron Johnson cited whistleblower concerns that the FBI appeared to take little visible action for months despite possessing the verified laptop well before the 2020 election.[10] [[tom-fitton|Tom Fitton]] said the department's refusal to release the records "raises serious questions about transparency and potential interference."[10]
+
+10. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+
+## February 2023 demands for investigations and retractions
+
+On February 1, 2023, [[hunter-biden|Hunter Biden]]'s lawyers demanded state and federal investigations into the dissemination of the personal material purported to be drawn from the laptop, sending letters to the Delaware attorney general, the [[department-of-justice|Department of Justice]] and the [[internal-revenue-service|IRS]], and threatening a defamation lawsuit against [[fox-news|Fox News]] and [[tucker-carlson|Tucker Carlson]].[11] The step marked a shift from silence to litigation-driven pushback as Hunter Biden faced both continuing federal criminal investigations and promised congressional inquiries.[11] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that the abandonment of the device at the repair shop undermined any legal claim, while raising the theory that the laptop had been intentionally left behind to expose deeper corruption.[11]
+
+## Metabiota funding emails
+
+Emails recovered from the abandoned laptop showed that Hunter Biden helped secure millions of dollars in funding for [[metabiota|Metabiota]], a [[department-of-defense|Department of Defense]] contractor specializing in research on pandemic-causing diseases that could be used as bioweapons.[11] The Daily Mail reported that this made Moscow's claim that Hunter Biden had helped finance a US military "bioweapons" research program in Ukraine at least partially true, even as intelligence experts characterized the Russian allegations as a propaganda ploy to justify the invasion.[11] [[ryan-delarme|Ryan DeLarme]] wrote that the essential fact was that a man with no scientific background was tied to a biological research operation in a war zone, and asked whether [[donald-trump|Donald Trump]]'s impeachment over a phone call reflected his attempts to expose Biden–Ukraine corruption.[11]
+
+## Impeachment argument and Rogan commentary (June 2023)
+
+In June 2023, [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] described the laptop as a catalog of the Biden family's business crimes, sex crimes and influence-peddling, citing 459 documented violations of the United States Code contained on the device and arguing that "the Big Guy" — [[joe-biden|Joe Biden]] — appears throughout it.[12] That commentary framed a public impeachment hearing in the House of Representatives as the best available mechanism for exposing the material.[12]
+
+Podcaster [[joe-rogan|Joe Rogan]], speaking with comedian [[theo-von|Theo Von]] the same month, cited the laptop as evidence of federal interference in political speech, saying "they even got the FBI involved in telling Twitter to censor the information about the laptop."[12] Rogan linked the device to the Biden family's financial ties to Ukraine and China and argued that a Republican in the same position would have faced far harsher scrutiny.[12]
+
+11. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
+12. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d

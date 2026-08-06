@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, politics, mayoral-race, democrats]
-sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-b78.md]
+sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e86.md]
 confidence: medium
 ---
 
@@ -42,9 +42,31 @@ In October 2024, reporting described Cuomo as wanting out of the political wilde
 
 Separately, some Democratic leaders privately encouraged state Attorney General [[letitia-james|Tish James]] — who had helped run Cuomo out of office three years earlier — to mount a bid for mayor if [[eric-adams|Eric Adams]] stepped down.[5] A James mayoral run was seen as likely to box out Cuomo, since she would draw support from Black voters in her home borough of Brooklyn, a base considered vital to the former governor's prospects.[5] The maneuvering reflected how quickly the New York political landscape had shifted as Adams defended against a federal corruption indictment, faced other criminal inquiries and calls for his resignation, with the collapse of his career offering Cuomo an opening.[5]
 
+## Concession in the 2025 Democratic mayoral primary
+
+In the June 2025 New York City Democratic mayoral primary, Cuomo trailed state assemblyman [[zohran-mamdani|Zohran Mamdani]] as first-choice votes were tallied and conceded, declaring his rival the winner even though no candidate was set to secure a majority in the first round of the [[ranked-choice-voting|ranked choice]] election.[6] Mamdani had surged late in the race on a progressive platform of rent freezes, city-run grocery stores, price caps and free buses, and consolidated the backing of prominent liberal politicians in an effort explicitly aimed at denying Cuomo a political comeback.[6] Badlands contributor [[chris-paul|Chris Paul]] characterized the outcome as a "Muslim socialist" winning a "fake election decided in comic fashion against Andrew Cuomo."[6]
+
+## Remarks on the Trump hush money trial (2024)
+
+Cuomo, who served as governor of New York from 2011 to 2021 and was elected New York State Attorney General in 2006, appeared on *Real Time With Bill Maher* in June 2024 and said the Manhattan case against [[donald-trump|Donald Trump]] should never have been brought.[7] Host [[bill-maher|Bill Maher]] told him the New York conviction "was the greatest fundraising bonanza ever," noting that Trump had been lagging behind [[joe-biden|Joe Biden]] and had since pulled ahead, and adding, "I was always with you on the one in New York, the hush money trial. I don't think they should have brought that one."[7]
+
+Cuomo replied: "That case, the attorney general's case in New York, frankly, should have never been brought," continuing, "If his name was not Donald Trump and if he wasn't running for president. I'm the former AG in New York. I'm telling you, that case would have never been brought. And that's what is offensive to people. And it should be!"[7] He tied the objection to public confidence, saying "if there's anything left...it's belief in the Justice system."[7] Maher's largely liberal audience fell silent during the exchange.[7] Badlands commentary highlighted the reaction shot of [[adam-kinzinger|Adam Kinzinger]] at the end of the clip and argued that Cuomo's admission carried stunning implications for the other political investigations of Trump.[7]
+
+## March 2024 congressional subpoena
+
+On Tuesday, March 5, 2024, the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]] subpoenaed Cuomo in connection with his administration's handling of nursing homes during the COVID-19 pandemic, according to documents first obtained by ABC News.[8] The Republican-led subcommittee sought to question him specifically about one of his administration's most controversial COVID-era directives: instructing nursing homes to admit recovering COVID-positive patients discharged from hospitals, a move criticized for contributing to increased deaths in those facilities.[8] The subpoena was the latest development for the former governor, who had faced sustained scrutiny over the issue; in 2021 federal prosecutors in Brooklyn were reported to be investigating Cuomo's coronavirus task force with a focus on nursing homes, though no charges were brought.[8]
+
+## Percoco corruption case
+
+Cuomo's tenure as governor was the backdrop to a federal corruption prosecution of his former aide [[joseph-percoco|Joseph Percoco]], who was convicted of taking a $35,000 bribe from a real estate developer while managing Cuomo's 2014 re-election campaign.[9] In May 2023 the [[supreme-court-of-the-united-states|Supreme Court]] threw out that conviction by a 9-0 vote, holding that Percoco owed no duty of [[honest-services-fraud|honest services]] because he was not working for the government at the time, and thereby narrowing the reach of the federal anticorruption statute.[9]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Very Productive Phone Calls & Presidential Memorandums", URL: https://badlands.substack.com/p/badlands-news-brief-153
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 3. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 4. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
 5. Badlands Brief — "Badlands News Brief: The Trump-Musk Pincer Closes as Disaster Strikes the Regime", URL: https://badlands.substack.com/p/badlands-news-brief-b78
+6. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+7. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+8. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+9. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86

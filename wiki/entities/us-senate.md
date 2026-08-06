@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, legislature, crypto, sec]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -42,6 +42,16 @@ In the week before the second Trump inauguration, the Senate opened a whirlwind 
 
 On the evening of January 13, 2025, the chamber voted 82-10 on a motion to proceed to the [[laken-riley-act|Laken Riley Act]], with 33 Democrats joining Republicans after a similar procedural vote the previous Thursday — a reversal from the prior Congress, when Majority Leader [[chuck-schumer|Chuck Schumer]] had blocked the House-passed bill from consideration.[6] Commentators warned that if the Senate attempted to thwart the mandate voters had given [[donald-trump|Donald Trump]], its authority over confirmations might itself be challenged.[6]
 
+## McConnell steps down as Republican leader (2024)
+
+On February 28, 2024, [[mitch-mcconnell|Mitch McConnell]], the longest-serving Senate leader in history, announced in the well of the chamber that he would step down as Senate Republican leader in November after nearly two decades in the post.[7] Separately, commentators questioned whether President [[joe-biden|Joe Biden]] would be competent to stand trial in the Senate on articles of impeachment given Special Counsel [[robert-hur|Robert Hur]]'s findings about his memory.[7]
+
+## November 2023 funding deadline and hearing altercation
+
+After the House passed the [[november-2023-continuing-resolution|two-step continuing resolution]] on November 14, 2023, the Senate was required to approve the measure before that Friday to avert a government shutdown.[8]
+
+The same day, a Senate [[health-education-labor-and-pensions-committee|Health, Education, Labor and Pensions Committee]] hearing produced a near-physical altercation when Senator [[markwayne-mullin|Markwayne Mullin]] challenged [[teamsters|Teamsters]] president [[sean-obrien|Sean O'Brien]] to a fight, with both men rising from their seats before chairman [[bernie-sanders|Bernie Sanders]] intervened.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
@@ -49,3 +59,5 @@ On the evening of January 13, 2025, the chamber voted 82-10 on a motion to proce
 4. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 5. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 6. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+7. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+8. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

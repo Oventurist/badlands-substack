@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-party, congress, 2028-election, progressives]
-sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md]
+sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -45,6 +45,14 @@ On Wednesday 24 July 2024, Ocasio-Cortez and [[elon-musk|Elon Musk]] clashed on 
 
 Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said that, as someone who had defected from the "R vs D" false paradigm, he agreed with her completely and joked that she had lately been fulfilling her role as a "Judas-Goat" well, adding that dialogue is always preferable to violence.[6]
 
+## Response to the June 2025 Iran strikes
+
+Following President [[donald-trump|Donald Trump]]'s decision to attack Iranian nuclear sites without congressional approval, Ocasio-Cortez suggested that he could be impeached, one of the sharpest of several Democratic reactions to the strikes.[7] Rep. [[al-green|Al Green]] subsequently forced a vote on an article of impeachment, which the House tabled 344 to 79 with 128 Democrats voting to kill it.[7] See [[2025-impeachment-vote-over-the-iran-strikes|the 2025 impeachment vote over the Iran strikes]].[7]
+
+## Clash at the Garland contempt hearing, May 2024
+
+Ocasio-Cortez traded barbs with [[marjorie-taylor-greene|Marjorie Taylor Greene]] during a heated exchange on the evening of May 16, 2024, at what was meant to be a [[house-oversight-committee|House Oversight Committee]] contempt hearing for Attorney General [[merrick-garland|Merrick Garland]].[8] The confrontation followed Greene's remark to Rep. [[jasmine-crockett|Jasmine Crockett]] about her "fake eyelashes," and produced the widely circulated line in which Ocasio-Cortez asked Greene, "Are your feelings hurt?"[8]
+
 ## References
 
 1. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -53,3 +61,5 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said 
 4. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 6. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
+7. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+8. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

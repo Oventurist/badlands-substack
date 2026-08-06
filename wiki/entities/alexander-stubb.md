@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finland, europe, diplomacy, ukraine]
-sources: [raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Badlands commentator GhostofBasedPatrickHenry treated the suggestion as emblemat
 
 Stubb participated in the December 2025 phone call convened by Emmanuel Macron and Friedrich Merz with Vladimir Zelensky and other European leaders about US-led Ukraine peace efforts.[2] According to Der Spiegel's account of the transcript, Stubb shared Macron's assessment that continued peace talks could pose a 'great danger' for Zelensky personally.[2]
 
+## Oval Office meeting with Trump (October 2025)
+
+On Thursday, October 9, 2025, Stubb met US President [[donald-trump|Donald Trump]] in the Oval Office, and it was during that meeting that Trump suggested [[spain|Spain]] should be expelled from [[nato|NATO]] for failing to meet the alliance's 5% defense spending target.[3] Trump used the occasion to boast that he had secured the new target "virtually unanimously" at the June 2025 summit in The Hague, calling Spain the alliance's sole "laggard."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+3. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

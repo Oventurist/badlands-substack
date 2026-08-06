@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, censorship, brazil, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-ca1.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -125,6 +125,16 @@ On the same day, a federal judge in Texas ruled that X's lawsuit against [[media
 
 Ahead of [[tucker-carlson|Tucker Carlson]]'s February 2024 interview with [[vladimir-putin|Vladimir Putin]], X saw a surge in downloads by iPhone and iPad users on Apple's App Store, with the platform becoming the number one free app there — beating out ChatGPT, [[threads|Threads]] and TikTok, according to a widely cited post by X user Whole Mars Catalog.[22] The interview was released exclusively on X and Carlson's own website, and ZeroHedge reported that the prospect of it had already caused a stir among neoconservatives and the legacy media outlets it described as overseeing the censorship-industrial complex.[22] [[burning-bright|Burning Bright]] treated the surge as evidence of Truth Community messaging breaking into mainstream awareness, writing "Welcome to the show, Normieville."[22]
 
+## Court-ordered shareholder disclosure (August 2024)
+
+On Tuesday, August 20, 2024 a federal judge ordered X to unseal the list of shareholders in X Holdings Corp., providing the first official public accounting of the investors who backed [[elon-musk|Elon Musk]]'s $44 billion acquisition of [[twitter|Twitter]] in October 2022.[24] The filing named nearly 100 entities, many of them separate funds controlled by the same firm or individual, and X did not immediately respond to a request for comment.[24] Investors identified included [[andreessen-horowitz|Andreessen Horowitz]], Saudi Prince [[alwaleed-bin-talal|Alwaleed bin Talal]], [[jack-dorsey|Jack Dorsey]], [[8vc|8VC]] co-founded by [[joe-lonsdale|Joe Lonsdale]] of [[palantir|Palantir]], a fund linked to [[sean-combs|Sean "Diddy" Combs]], and the Italian financial services firm UnipolSai S.P.A. of Bologna.[24] Many of the larger investors had previously been reported, but the unsealing marked the first official confirmation.[24] Badlands framed the timing, weeks before the 2024 election, as a deliberate deployment rather than an incidental legal outcome.[24]
+
+## Australian eSafety injunction refused, May 2024
+
+In April 2024 Australia's [[esafety-commissioner|eSafety Commissioner]] obtained a temporary injunction under the Online Safety Act (2021) requiring X to remove footage of the Wakeley church stabbing as "class 1 material," under threat of hefty fines.[26] eSafety contended that X had not gone far enough because a geo-block confined to Australia can be circumvented by a VPN; X responded that the regulator was effectively seeking a global ban on the content, straying outside its jurisdiction.[26]
+
+After a hearing on 10 May 2024 and a short extension of the injunction, Justice [[geoffrey-kennett|Geoffrey Kennett]] of the Federal Court of Australia refused on 13 May 2024 to extend it further, leaving the injunction ineffective pending a written decision.[26] eSafety announced the matter would return to court for a case management hearing on 15 May 2024.[26] The outcome was reported as a win for [[elon-musk|Elon Musk]] in the wider fight over extraterritorial content regulation.[26]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
@@ -146,19 +156,19 @@ Ahead of [[tucker-carlson|Tucker Carlson]]'s February 2024 interview with [[vlad
 18. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 19. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
 20. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
-
 ## Yaccarino resignation and the Grok controversy (July 2025)
-
 On July 9, 2025 [[linda-yaccarino|Linda Yaccarino]] announced her resignation as chief executive of X after two years spent trying to revive the platform's advertising business and turn it into an "everything app," thanking [[elon-musk|Elon Musk]] for entrusting her with "protecting free speech, turning the company around, and transforming X into the Everything App."[21] Her departure came amid a turbulent stretch for the company: a day earlier [[xai|xAI]] had been forced to remove Grok posts on X containing antisemitic comments and replies, and said it had taken action to ban hate speech before Grok posts to the platform.[21] Musk unveiled [[grok-4|Grok 4]] the same night as the resignation.[21] [[canncon|CannCon]] linked the two events and urged the removal of censorship guardrails and shadow bans following the exit of the "Censorship WEF Queen."[21]
-
 21. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
 22. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
 ## GARM antitrust lawsuit (August 2024)
-
 In August 2024 X filed suit against what ZeroHedge described as an "advertising cartel" that had colluded to control online speech, following an interim staff report released the previous month by the [[house-judiciary-committee|House Judiciary Committee]].[23] The Tuesday filing targeted the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]] (GARM) and several of its members, including [[cvs-health|CVS Health]], [[mars-incorporated|Mars]], Orsted and [[unilever|Unilever]], alleging that the group abused its influence over marketers and ad agencies to discriminate unfairly against X and prompt an advertiser boycott.[23] The complaint argued that the boycott ran against the unilateral self-interest of individual advertisers and "made economic sense only in furtherance of a conspiracy performed in the confidence that competing advertisers were doing the same."[23]
-
 In an open letter, chief executive [[linda-yaccarino|Linda Yaccarino]] called GARM's behavior "a stain on a great industry" that "cannot be allowed to continue," adding that others had likely suffered from the same activity and that the case was about more than damages — it was about fixing "a broken ecosystem that allows this illegal activity to occur."[23] Shortly after the filing, [[rumble|Rumble]] joined the lawsuit.[23]
-
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote for [[badlands-media|Badlands Media]] that although X remains a censored platform on which he is himself shadow-banned, the fight against the boycott was one that had to be waged, pointing readers to [[mike-benz|Mike Benz]] for background and observing that even selective free speech on X had been devastating for the status quo.[23] He also flagged [[elon-musk|Elon Musk]]'s public invocation of RICO, speculating that the targets might include [[newsguard|NewsGuard]], [[jules-kroll|Jules Kroll]] or [[k2-integrity|K2 Integrity]], and noted Musk's interview with [[donald-trump|Donald Trump]] scheduled for the following Monday.[23]
-
 23. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
+24. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+
+## Challenge to New York's Stop Hiding Hate Act (June 2025)
+In June 2025 X Corp filed a federal lawsuit challenging the constitutionality of New York's [[stop-hiding-hate-act|Stop Hiding Hate Act]], arguing that it violates free speech protections under the [[first-amendment|First Amendment]] and the state constitution.[25] The law requires social media companies to disclose their policies for monitoring "hate speech, extremism, disinformation, harassment, and foreign interference," and imposes fines of up to $15,000 per violation per day for noncompliance.[25] In its complaint X said the law would compel disclosure of "highly sensitive and controversial speech" based on what state officials find objectionable, and that decisions over acceptable content are inherently subjective and not the government's role.[25] The filing cited remarks from the law's sponsors accusing [[elon-musk|Elon Musk]] and X of having a "disturbing record" on moderation that "threatens the foundations of our democracy."[25]
+
+25. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+26. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

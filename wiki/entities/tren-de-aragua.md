@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, organized-crime, terrorism, cia, latin-america]
-sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f18.md]
 confidence: medium
 ---
 
@@ -98,6 +98,26 @@ Announcing a $50 million reward for information leading to the arrest of Venezue
 In mid-March 2025 the [[trump-administration|Trump administration]] made Tren de Aragua the target of the first modern invocation of the [[alien-enemies-act|Alien Enemies Act]], deporting hundreds of alleged members over the weekend of March 15–16 despite an order from U.S. District Judge [[james-boasberg|James Boasberg]] temporarily blocking use of the law.[14] Government lawyers told the court that the statute was being used specifically against members of the gang, described in reporting as a violent Venezuelan organization whose members had reached the United States in recent years and which had also faced raids in Chile.[14] White House press secretary [[karoline-leavitt|Karoline Leavitt]] said the [[department-of-homeland-security|Department of Homeland Security]] had arrested nearly 300 members of the gang that weekend, and Secretary of State [[marco-rubio|Marco Rubio]] framed the removals as sending "hundreds of violent criminals" out of the country.[14]
 
 
+## Sanctioning of Mosquera Serrano (June 2025)
+
+On Tuesday, June 24, 2025, the [[us-department-of-the-treasury|United States Treasury Department]] sanctioned [[giovanni-vicente-mosquera-serrano|Giovanni Vicente Mosquera Serrano]], described as the alleged leader of Tren de Aragua, through the [[office-of-foreign-assets-control|Office of Foreign Assets Control]].[15] The same announcement disclosed that Mosquera Serrano had been indicted by the [[department-of-justice|Department of Justice]] on charges related to drug trafficking and terrorism, and that he had been added to the [[fbi|FBI]]'s Ten Most Wanted list with a $3 million reward offered for information leading to his arrest or conviction.[15] Treasury Secretary [[scott-bessent|Scott Bessent]] accused the gang under his leadership of "terrorizing our communities and facilitating the flow of illicit narcotics into our country," while reporting noted that the administration of President [[donald-trump|Donald Trump]] had used the gang as justification for its immigration crackdown.[15] [[ashe-in-america|Ashe in America]] cautioned that authorities did not yet have Mosquera Serrano in custody and that rolling up such a figure could take years, but framed the action as evidence the federal government was taking foreign organized criminal networks seriously.[15]
+
+## Aurora, Colorado gang war warning (September 2024)
+
+In September 2024 the Daily Mail published cell-phone footage of a July 28 shooting at the Aspen Grove apartments in [[aurora-colorado|Aurora, Colorado]] — one of three rental properties described as under Tren de Aragua's rule — in which residents ducked and screamed as shots rang out during a courtyard brawl.[16] Law enforcement officials warned that a gang war was coming as TdA armed itself against gangs already operating in Aurora.[16] Members of TdA, as the South American mob is known to federal authorities, entered the United States in recent years hidden among the roughly one million Venezuelans who arrived under the Biden administration, and the gang has since driven a crime wave in major cities from Miami to New York.[16]
+
+[[john-fabbricatore|John Fabbricatore]], the former director of Immigration and Customs Enforcement for Colorado, told the Daily Mail: "There's about to be a big gang war."[16] [[ashe-in-america|Ashe in America]] wrote that the level of government gaslighting over TdA activity in Colorado "cannot be overstated," noting that the Aurora Police Department claimed no knowledge for months, the mayor denied the situation was happening, and local Colorado media shamed those asking questions as racist.[16]
+
+## Declassified intelligence memo on regime ties (May 2025)
+
+In May 2025 a declassified intelligence report titled "Venezuela: Examining Regime Ties to Tren de Aragua" became the subject of a dispute over media framing.[17] The New York Times ran a story headlined "Declassified Spy Memo Contradicts Trump on Venezuela Gang Ties," and other legacy outlets ran similar headlines, which the Daily Signal argued misrepresented the document.[17] According to the assessment, intelligence officials believed the Venezuelan socialist regime led by [[nicolas-maduro|Nicolás Maduro]] had "facilitated" the illegal migration of gang members into the United States "to advance what they see as the Maduro regime's goal of destabilizing governments and undermining public safety."[17] The report concluded that Venezuela had been doing so for years and that during the peak years of illegal border crossings under the Biden administration there were likely Tren de Aragua members entering the country.[17]
+
+Badlands contributor Burning Bright argued that most if not all terror cells worldwide trace back to Western intelligence, listing ISIS, Tren de Aragua, Ukraine and Sinaloa as examples of engineered chaos, and asserted that the [[sovereign-alliance|Sovereign Alliance]] is defanging that apparatus so that peace can follow.[17]
+
+## Denver-area raid (January 2025)
+
+In late January 2025, federal agents rounded up roughly fifty Tren de Aragua members at a makeshift, invite-only nightclub in Adams County, Colorado, just outside the Denver city limits, in an operation announced by the [[drug-enforcement-administration|Drug Enforcement Administration]].[18] The busts netted cash, weapons, guns and drugs, including Tusi or "pink cocaine," a narcotic the gang has played a major role in distributing across the United States.[18] The arrests formed part of nationwide raids in the first week of the second [[trump-administration|Trump administration]] that also apprehended child rapists and suspected ISIS terrorists.[18] See [[2025-denver-tren-de-aragua-raid|the raid]].[18]
+
 ## References
 1. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -113,3 +133,7 @@ In mid-March 2025 the [[trump-administration|Trump administration]] made Tren de
 12. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 13. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 14. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+15. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+16. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14
+17. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
+18. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18

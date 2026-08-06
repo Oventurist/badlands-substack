@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, axios, cuba, tucker-carlson]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-774.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-774.md, raw/badlands-news-brief-dae.md]
 confidence: low
 ---
 
@@ -24,6 +24,11 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote
 
 In June 2026 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] grouped Caputo with [[barak-ravid|Barak Ravid]] as Axios journalists who maintain a unique relationship with President [[donald-trump|Donald Trump]], routinely conducting direct phone interviews in which Trump reveals exclusive information.[2] That access was cited as a reason to take seriously Axios reporting that Trump had berated Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] over the Lebanon escalation, rather than dismissing it as fake news.[2]
 
+## Commentary on UFC 309
+
+Speaking on CNN in November 2024, Caputo compared [[donald-trump|Donald Trump]]'s appearance at [[ufc-309|UFC 309]] to ancient Rome, describing "a conquering, Republican Caesar, who is going into the Colosseum, and everyone's cheering" with "his political gladiators with him."[3] He argued the appearance was not merely about applause but a message to the [[us-senate|Senate]] regarding Trump's nominees: "these are my people, are you willing to fight? Here's who I am."[3]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
+3. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae

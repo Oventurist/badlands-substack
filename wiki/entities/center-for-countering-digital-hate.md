@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [censorship, ngo, deplatforming, media]
-sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2b8.md]
+sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-da5.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ CCDH described the findings as alarming and "startling" and urged big-tech platf
 1. Badlands Brief — "Badlands News Brief: Tracking Trump & Rootin' for Putin?", URL: https://badlands.substack.com/p/badlands-news-brief-220
 2. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 3. Badlands Brief — "Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth", URL: https://badlands.substack.com/p/badlands-news-brief-2b8
+
+## Threatened litigation by X Corp (2023)
+
+In late July 2023 [[x-corp|X Corp]], the parent company of [[twitter|Twitter]], was reported to be exploring a lawsuit against CCDH, described as a UK-based dark money nonprofit run by a far-left British Labour Party operative named Imran Ahmed.[4] Earlier that month journalist Paul Thacker had published a Twitter Files expose via The Disinformation Chronicle showing that pre-[[elon-musk|Musk]] Twitter employees acted against several conservative accounts after CCDH released a report alleging that just twelve accounts produced the majority of anti-vaccine disinformation on social media; [[facebook|Facebook]] rejected the same report, stating "There isn't any evidence to support this claim."[4] A July 20 letter from X's attorneys to CCDH and its chief executive Ahmed accused the group of targeting the company with multiple unfounded accusations intended to harm it financially, citing a June CCDH report titled "Twitter Fails To Act On 99% Of Twitter Blue Accounts Tweeting Hate" that X called "false, misleading or both."[4] [[burning-bright|Burning Bright]] wrote that contesting the internet's largest public square on constitutional grounds was significant and encouraging, even though the rebranded platform remained imperfect and inconsistent in its rule enforcement.[4]
+
+4. Badlands News Brief — "Archer Spills, Musk Targets & Fauci Squirms", URL: https://badlands.substack.com/p/badlands-news-brief-da5

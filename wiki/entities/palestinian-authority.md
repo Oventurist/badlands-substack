@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-aid, gaza, terrorism-finance, obama, badlands]
-sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-cce.md]
+sources: [raw/bad-actors.md, raw/badlands-brief-05f.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f8a.md]
 confidence: medium
 ---
 
@@ -74,6 +74,20 @@ Badlands Media recounted the Authority's long antagonism with [[hamas|Hamas]]: i
 
 In December 2023, U.S. National Security Adviser [[jake-sullivan|Jake Sullivan]] told Israel's Channel 12 that Washington's view was that governance of the West Bank and Gaza "needs to be connected under a revamped and revitalized Palestinian Authority."[10] He said that outcome would require reform, an updating of how the Authority approaches governance, and financial and other contributions from countries in the region, and that the aim was common leadership posing no terrorist threat to Israel.[10] The proposal set the [[joe-biden|Biden]] administration at odds with Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], who opposed any PA role in post-war Gaza.[10]
 
+## "Negative neutrality" criticism (June 2024)
+
+A June 2024 article by [[iqbal-jassat|Iqbal Jassat]] in the [[palestine-chronicle|Palestine Chronicle]] characterized the Authority as "weak and irrelevant," noting that [[mahmoud-abbas|Mahmoud Abbas]]'s four-year term had expired in 2009 and that he had stubbornly refused demands for fresh elections, in effect shutting the door on reform of what the article called an undemocratic PA.[11] The piece reported that South African solidarity movements supporting the Palestinian freedom struggle had consistently raised concerns about the Authority's dubious role, and, because of its limited self-rule powers in the occupied West Bank, compared it to South Africa's apartheid-era "Bantustan" formations.[11] More than three decades after the PA was created under the [[oslo-accords|Oslo Accords]] ostensibly to govern an independent Palestinian state, the article concluded, the Oslo "peace pact" had proven a mirage, with many commentators holding that the Palestine Liberation Organization prematurely surrendered armed resistance in exchange for unfulfilled promises.[11]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] presented the article not as reporting but as a demonstration of source analysis, arguing that both Jassat and Palestine Chronicle founder [[ramzy-baroud|Ramzy Baroud]] fit a profile of [[muslim-brotherhood|Muslim Brotherhood]]-linked media assets and were therefore suspect in calling for the rejection of Abbas and the embrace of armed resistance.[11] He restated his prior published position that Abbas was part of the [[sovereign-alliance|Sovereign Alliance]] and one of [[donald-trump|Trump]]'s chosen agents of peace in the Middle East, citing a December 2021 Israel Channel 12 interview.[11]
+
+## May 2024 salary crisis and the tax clearance squeeze
+
+On Sunday 12 May 2024 the Palestinian Authority announced it would be able to pay only part of public sector salaries that week, as Israel's Finance Ministry continued to withhold tax revenues it collects on Ramallah's behalf — a squeeze on PA payrolls that had already lasted months.[14] Channel 12 reported that Finance Minister [[bezalel-smotrich|Bezalel Smotrich]] had held back NIS 170 million ($46 million) for nine days in protest at PA efforts "fighting against the State of Israel," an apparent reference to Ramallah's push for the [[international-criminal-court|International Criminal Court]] to issue arrest warrants for top Israeli officials over alleged breaches of international law in Gaza.[14]
+
+The PA said it would pay public sector employees 50 percent of their March salaries on Tuesday, after Israel withheld the transfer due for April, and that arrears would be paid once the financial situation allowed; the Finance Ministry confirmed the decision not to transfer revenues but declined to give details.[14]
+
+The dependency stems from the [[paris-protocol|Paris Protocol]], signed in 1994 with the [[palestine-liberation-organization|Palestine Liberation Organization]] as part of the [[oslo-accords|Oslo Accords]] alongside the Gaza-Jericho Agreement, which created the PA with very limited governing powers while leaving Israel in complete control of taxation.[14] Clearance revenues collected by Israel — tariffs, VAT and income tax including insurance fees — constitute roughly 70–75 percent of PA revenue, reported at about $160 million a month in 2014–2015.[14]
+
 ## References
 
 1. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
@@ -86,3 +100,18 @@ In December 2023, U.S. National Security Adviser [[jake-sullivan|Jake Sullivan]]
 8. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 9. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 10. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+11. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
+
+## Proposed Gaza governance role (February 2025)
+
+Unconfirmed Arab media reports in mid-February 2025, relayed by Sky News Arabia, said [[hamas|Hamas]] had agreed under Egyptian pressure to hand the governance of Gaza to the West Bank-based Palestinian Authority.[12] Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] rejected the idea, stating on Monday, February 17 that "there will be neither Hamas nor the Palestinian Authority" in Gaza after the war, while his spokesman Omer Dostri wrote simply: "Not going to happen."[12] Netanyahu also said he was committed to [[donald-trump|Donald Trump]]'s plan to move Gaza's roughly two million residents out and rebuild the Strip.[12]
+
+Badlands commentary linked the episode to the PA's earlier attempt at the same arrangement through the [[fatah|Fatah]] faction in 2017-2018, and to Trump's reported promise to President [[mahmoud-abbas|Mahmoud Abbas]] that he would support him as the Palestinian leader who signed a final peace agreement with Israel.[12]
+
+12. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+
+## Push to reverse U.S. visa bar (September 2025)
+
+Ahead of the September 2025 [[united-nations-general-assembly|United Nations General Assembly]], Palestinian officials sought to reverse the United States' decision to bar PA President [[mahmoud-abbas|Mahmoud Abbas]] and some 80 other officials from the meeting, a measure Washington adopted in response to the intended Western recognition of a Palestinian state.[13] Multiple Palestinian sources said the PA, which governs day-to-day affairs in parts of the [[west-bank|West Bank]], was working through various channels to persuade the Americans to lift the visa restrictions.[13] The lobbying coincided with reports that [[benjamin-netanyahu|Benjamin Netanyahu]] was weighing annexation of parts of the West Bank in response to the recognition wave.[13]
+13. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
+14. Badlands Brief — "Badlands News Brief: Economic Strife Prompts a Squeeze on the Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-f8a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, globalism, public-health, ngo]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c50.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-e40.md]
 confidence: low
 ---
 
@@ -86,6 +86,14 @@ On January 21, 2025, the WHO issued a statement saying it regretted the announce
 
 In July 2023, [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] characterized the WHO as the intended vehicle for two of three parallel efforts to establish supranational emergency authority.[14] He wrote that the proposed [[pandemic-treaty|Pandemic Treaty]] "would put the World Health Organization in the role of a temporary world governing body," and that while attention was fixed on the treaty, proposed amendments to the [[international-health-regulations|International Health Regulations]] would place the WHO "in a position to supersede the governments of the world in the event of another pandemic."[14] DeLarme said the treaty had drawn "serious blowback" and that the IHR amendments were beginning to be exposed as well, adding that the [[united-nations|United Nations]] was now pursuing the same goal through its proposed "emergency platform."[14]
 
+## Joint US–Argentina withdrawal statement (2025)
+
+In May 2025, U.S. Health and Human Services Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] and Argentine Minister of Health [[mario-lugones|Mario Lugones]] issued a joint statement regarding each country's withdrawal from the World Health Organization.[15] The statement said the WHO's handling of the COVID-19 pandemic had revealed serious structural and operational shortcomings that undermined global trust and highlighted the urgent need for independent, science-based leadership in global health.[15] It cited well-documented concerns about the early management of the pandemic and the risks associated with certain types of research, charging that rather than ensuring timely transparency the WHO had failed to provide critical access to information, impairing countries' ability to act swiftly and effectively, with devastating global consequences.[15] The absence of meaningful reforms, disproportionate financial demands, and the increasing politicization of the organization were named as the factors that ultimately led both the United States and Argentina to withdraw.[15]
+
+## Criticism in the 2023 Newsweek scientific mea culpa
+
+A January 2023 [[newsweek|Newsweek]] opinion essay grouped the WHO with the [[centers-for-disease-control-and-prevention|CDC]] and the [[food-and-drug-administration|FDA]] as institutions that repeatedly overstated the evidence and misled the public about their own views and policies during the COVID-19 pandemic, on questions including natural versus artificial immunity, school closures, aerosol spread, mask mandates and vaccine safety.[16] The author, a medical student and researcher who had supported lockdowns, vaccines and boosters, wrote that the scientific community had been wrong and that the errors cost lives.[16]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
@@ -102,3 +110,5 @@ In July 2023, [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan 
 12. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 13. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
 14. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+15. Badlands Brief — "Badlands News Brief: Bitcoin Bulls, Word Wars, & Patience With Putin", URL: https://badlands.substack.com/p/badlands-news-brief-e10
+16. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40

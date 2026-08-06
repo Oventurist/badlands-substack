@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, nato, ukraine, diplomacy]
-sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-d00.md]
+sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md]
 confidence: medium
 ---
 
@@ -187,3 +187,23 @@ Speaking to reporters in Brussels on April 4, 2024, Blinken reaffirmed the U.S. 
 26. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
 27. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
 28. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
+
+## Emergency meeting on Haiti (March 2024)
+
+As US secretary of state, Blinken joined Caribbean leaders at an emergency meeting in Jamaica in March 2024 to address Haiti's spiraling crisis, in which violent gangs had burned police stations, attacked the main airport and raided two of the country's largest prisons.[29] Hours after that session, Haitian Prime Minister [[ariel-henry|Ariel Henry]] announced he would resign once a transitional presidential council was created and an interim prime minister named, bowing to the international pressure that the meeting represented.[29]
+
+29. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
+
+## Beijing visit and meeting with Xi Jinping (April 2024)
+
+Blinken met Chinese President [[xi-jinping|Xi Jinping]] in Beijing on Friday, April 26, 2024, wrapping up a three-day visit to China dominated by contentious issues and by warnings from his hosts of another "downward spiral" in relations.[30] The two met at the Great Hall of the People, an ornate and cavernous building next to Tiananmen Square.[30] Xi noted that the year marked the 45th anniversary of the establishment of US-China diplomatic relations and said the two countries "should be partners rather than adversaries," adding that "the world is big enough to accommodate the simultaneous development and prosperity of both China and the United States" and that relations would stabilize once the US took "a positive and constructive view of China's development."[30] Speaking to reporters afterward, Blinken said the United States did not aim to hold back China's development or to decouple the world's two largest economies: "We want China's economy to grow," he said, but "the way China grows matters."[30]
+
+30. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
+
+## Warning on Iranian proxies (October 2023)
+
+In late October 2023 Blinken warned of "decisive action" should U.S. troops be threatened any further by Iranian proxies operating in the Middle East.[31] Within hours, [[pentagon|the Pentagon]] and [[us-central-command|CENTCOM]] disclosed that two dozen American personnel had already been wounded in drone attacks on bases in Iraq and Syria, apparently emanating from those same sources.[31]
+
+Badlands contributor [[burning-bright|Burning Bright]], referring to him as "Secretary of (Deep) State," argued that the [[joe-biden|Biden]] administration and the [[state-department|State Department]] had refused to entertain ceasefire proposals, warned of decisive action in the event of escalation, and were then promptly greeted with that escalation — a pattern he read as either the [[hegelian-dialectic|Hegelian dialectic]] playing out in full view of the American public or an administration with no idea how to manage a chaos it found unwieldy, producing contradictory statements on a near-hourly basis.[31]
+
+31. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96

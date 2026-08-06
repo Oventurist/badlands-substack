@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sudan, military, conflict, saf]
-sources: [raw/badlands-news-brief-070.md]
+sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -18,6 +18,10 @@ Deadly violence between the SAF and the [[rapid-support-forces|Rapid Support For
 
 The intensity of the SAF–RSF fighting was the stated basis for the U.S. government's position that conditions were not conducive to a civilian evacuation, even as U.S. government personnel were withdrawn in a military operation and other nations evacuated their citizens.[1]
 
-## References
+## Civil war toll and US involvement pledge (2025)
 
+The war between the Sudanese army and the paramilitary [[rapid-support-forces|Rapid Support Forces]], which began in April 2023, had killed tens of thousands of people and displaced nearly 12 million by November 2025, when President [[donald-trump|Donald Trump]] pledged to start "working" on ending the conflict at the request of Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]].[2]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
+2. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

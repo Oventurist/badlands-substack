@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, press-secretary, biden-administration]
-sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c50.md]
+sources: [raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-e1e.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee0.md, raw/badlands-news-brief-f4c.md]
 confidence: medium
 ---
 
@@ -77,6 +77,11 @@ On December 13, 2023, after [[hunter-biden|Hunter Biden]] defied a congressional
 
 On Wednesday, July 5, 2023, as the [[united-states-secret-service|Secret Service]] confirmed that a powdery substance found in the West Wing over the July 4 weekend was cocaine, Jean-Pierre characterized the location — a West Wing lobby area where visitors and staff store their phones — as "a heavily traveled area" regularly accessed by both visitors and staff.[14] The framing was widely read as an effort to dilute speculation about which individuals had access to the space; see [[white-house-cocaine-incident|the White House cocaine incident]].[14]
 
+
+## January 2023 briefing on the Biden documents scandal
+
+On January 18, 2023, reporters again pressed Jean-Pierre about the classified documents stored in President Biden's garage as part of the [[biden-classified-documents-scandal|Biden classified documents scandal]].[18] NBC's Peter Alexander noted that the Justice Department had not told the [[white-house|White House]] it could not discuss the facts underlying the special counsel investigation and asked why she could not speak to them; Jean-Pierre replied that "we've been clear" and later referred him to the White House counsel's office.[18] Alexander accused the Biden White House of withholding information, asking whether she would concede the White House had been incomplete in its provision of information.[18] [[justin-deschamps|Justin Deschamps]] wrote that she had run one of the most useless press conferences of the period, answering zero questions and repeatedly deflecting.[18]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Indicted ... Again, and Other Stories!", URL: https://badlands.substack.com/p/badlands-news-brief-1cc
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
@@ -92,3 +97,23 @@ On Wednesday, July 5, 2023, as the [[united-states-secret-service|Secret Service
 12. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 13. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 14. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+## Response to Netanyahu's arms-delay video (June 2024)
+
+On Tuesday, June 18, 2024, Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] posted an online video claiming the [[joe-biden|Biden]] administration had been withholding certain weapons and urging the [[white-house|White House]] to resume shipments.[15] Jean-Pierre responded hours later that the administration was unaware of what Netanyahu was referring to.[15] The exchange preceded reports that a high-level U.S.–Israeli security meeting in Washington had been cancelled, which the White House disputed, saying it had only been rescheduled because of a timing issue.[15]
+
+## Failed 2023 effort to remove her from the podium
+
+A New York Post report published April 26, 2024 revealed that top aides to President Biden had secretly hatched a plan in the autumn of 2023 to replace Jean-Pierre as press secretary by recruiting outside allies to nudge her out the door.[16] Jean-Pierre, who made history in May 2022 by becoming the first Black and first openly gay person to hold the position, had developed what the Post described as an exasperating habit of reading canned answers directly from a binder to reporters at her regular briefings — a performance her superiors viewed as a less-than-compelling pitch for the 81-year-old Biden as he readied his re-election campaign.[16] De facto White House communications chief [[anita-dunn|Anita Dunn]], then 66 and married to Biden's personal attorney [[bob-bauer|Bob Bauer]], told colleagues she had decided to call in prominent Democrats to explain to the 49-year-old Jean-Pierre that the time was ripe to move on; the effort failed.[16]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] declined to join the "DEI outcomes" framing that dominated online reaction, focusing instead on the fact that Jean-Pierre apparently could not be fired despite being, in her assessment, a disaster for Biden — so much so that she was constantly joined at the podium by national security officials to help her through briefings.[16] Ashe noted that Dunn's inability to influence critical talent decisions on the White House communications team was at minimum notable, tentatively connecting it to [[devolution|devolution]] theory, and summarised the pattern: "They can't impeach Biden. They can't replace Biden. They can't even replace KJP."[16] She observed that the story broke as legacy media reported the Biden administration had kicked off its presidential transition team planning.[16]
+
+## "Prices are going down" briefing (November 2023)
+
+On Monday, November 27, 2023, Jean-Pierre told [[fox-news|Fox News]] correspondent [[peter-doocy|Peter Doocy]] that the prices of all sorts of basic items for American consumers "are going down" under President [[joe-biden|Joe Biden]], adding that "this holiday season, families are seeing lower prices on everyday items from gas to groceries."[17] Critics noted that while some prices had moderated, she omitted the cumulative increases of the preceding years: Bloomberg data showed typical household items up by double digits between January 2020 and October 2023, with $119.27 required to buy what $100 had purchased before the pandemic, groceries and electricity each up 25 percent, used-car prices up 35 percent, auto insurance up 33 percent and rents roughly 20 percent.[17]
+
+The briefing coincided with reporting that [[bidenomics|"Bidenomics"]] had become a liability inside the Democratic Party, with the [[washington-post|Washington Post]]'s Leigh Ann Caldwell telling [[nbc-news|NBC]]'s Meet the Press that the term "has really become a negative word, especially among Democrats because it's not working."[17] [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] argued that Democratic strategists were plainly aware the message was not viable even with their base, and that everything in Jean-Pierre's binder was in her view vetted by those strategists — concluding that the press secretary was "cluelessly spouting lies."[17] She added that she did not trust the underlying data or the premise that the economic conditions resulted from free-market exchange, describing instead an economy "that the regime allows," and suggested that gaslighting on the economy might become a trigger for mass awakening among Democratic voters.[17]
+
+15. Badlands Brief — "Badlands News Brief: Devo Takes, Cheap Fakes & Sovereign Alliance Dates", URL: https://badlands.substack.com/p/badlands-news-brief-e1e
+16. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
+17. Badlands Brief — "Badlands News Brief: Musk's World Tour & Irish Strife Prompt Reactions", URL: https://badlands.substack.com/p/badlands-news-brief-ee0
+18. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, media, survey-research, public-opinion]
-sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-2e8.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-e44.md]
 confidence: medium
 ---
 
@@ -36,6 +36,11 @@ The survey asked 1,017 members of the general population who had not served on a
 
 [[burning-bright|Burning Bright]] wrote that polls are "one of the key psychological manipulation tools of the Establishment" but still signal important narrative trends worth tracking, pairing the Ipsos result with an Associated Press poll finding that 77 percent of Americans considered [[joe-biden|Joe Biden]] "too old" to run again in 2024, including 69 percent of Democrats.[2] He argued that taken together the twin polls explained why some viewed a Biden 2024 run as a net win for the [[great-awakening|Great Awakening]], with the collapsing administration representing the Deep State's "death rattle in the Collective Mind" running congruent with the Trump trials.[2]
 
+## Reuters/Ipsos July 2024 presidential poll
+
+A Reuters/Ipsos national poll released in the week after [[joe-biden|Joe Biden]]'s July 21, 2024 withdrawal found [[kamala-harris|Kamala Harris]] leading [[donald-trump|Donald Trump]] 44% to 42%, within the survey's 3% margin of error.[3] [[zerohedge|ZeroHedge]] criticized the result on sampling grounds, noting that the poll included 426 Democratic voters against 376 Republicans and 341 independents, and contrasted it with other surveys — including Forbes/[[harrisx|HarrisX]] — showing Trump well ahead.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
 2. Badlands Brief — "Badlands News Brief: Rise and Fall of the Warmongers ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-2e8
+3. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44

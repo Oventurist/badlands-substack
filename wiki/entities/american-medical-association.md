@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [medicine, physicians, h-1b, immigration, healthcare-workforce]
-sources: [raw/badlands-news-brief-09b.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md]
 confidence: medium
 ---
 
@@ -20,5 +20,17 @@ The AMA said that in the prior year 23 percent of licensed physicians in the Uni
 
 Badlands contributor Ashe in America rejected the framing, arguing that for two decades companies had pursued labor arbitrage across industries — from technologists and manufacturers to data scientists and doctors — while the expert class insisted that "Americans just can't do those things."[1] She contended that Americans had trained their own replacements after globalists flooded U.S. industries with cheap foreign professionals and offshore talent centers, and that realigning incentives, together with the administration's work in academia and trade schools, would rebuild "America First talent pipelines."[1]
 
+
+## Conflict with Health Secretary Kennedy (October 2025)
+
+By October 2025 the AMA and the American Academy of Pediatrics had clashed repeatedly with congressional Republicans over health policy changes, and Health Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] intensified the rift by deriding the associations as pharma flunkeys and progressive ideologues.[3] Disputes covered vaccine guidance, transgender care, the handling of the pandemic, and Kennedy's claims about Tylenol use in pregnancy and autism risk.[3] Although long considered nonpartisan and home to many conservative members, the groups risked being pushed into the role of a Democratic-leaning interest group, which would narrow physicians' policy influence under Republican administrations.[3] Among Kennedy's most consequential broadsides was his deliberation over limiting the AMA's role in determining what Medicare pays doctors, leaving physician-society leaders negotiating between an unfriendly government and members demanding stronger resistance.[3]
+
 ## References
 1. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
+
+## JAMA Network Open Berlin conference study
+
+On 13 June 2023, *JAMA Network Open*, a journal published by the association, carried a study reporting that all 109 attendees of a Berlin health conference who tested positive for COVID-19 afterward had received at least two vaccine doses.[2] The paper became the basis for commentary in Badlands Media questioning vaccine efficacy narratives.[2] See [[2023-berlin-health-conference-covid-19-outbreak-study|2023 Berlin health conference COVID-19 outbreak study]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+3. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1

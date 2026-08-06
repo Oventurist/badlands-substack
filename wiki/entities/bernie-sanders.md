@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, socialism, economic-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-news-brief-08a.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -20,7 +20,12 @@ On April 22, 2024, Sanders (I-Vt.) said he would put forth an amendment to remov
 
 Sanders said he would also offer an amendment to "protect essential humanitarian operations" in the Gaza Strip, where millions faced possible starvation under Israel's blockade and at least 28 children under the age of 12 had starved to death in recent weeks.[2] A further Sanders amendment would restore U.S. funding to [[unrwa|UNRWA]], the most important aid agency working in Gaza, after Washington suspended that aid in late January 2024 over Israeli allegations — allegations an independent report found unsupported by evidence.[2] The House-passed Israel legislation would prohibit funding for the organization.[2] Sanders argued the [[united-states-senate|Senate]] "should have a chance to debate and vote on the key components of such a massive package."[2]
 
+## HELP Committee confrontation (November 2023)
+
+As chairman of the Senate [[health-education-labor-and-pensions-committee|Health, Education, Labor and Pensions Committee]], Sanders intervened on November 14, 2023 to halt a confrontation in which Senator [[markwayne-mullin|Markwayne Mullin]] challenged [[teamsters|Teamsters]] president [[sean-obrien|Sean O'Brien]] to a physical fight during a hearing.[3] Both men had risen from their seats before Sanders stopped the exchange, a role Badlands contributor [[ashe-in-america|Ashe in America]] noted with irony in describing "Crazy Bernie" as the peacemaker.[3]
+
 ## References
 
 1. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 2. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
+3. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

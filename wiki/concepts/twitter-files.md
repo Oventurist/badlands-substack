@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, twitter, intelligence-agencies, disclosure]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/anthony-fauci.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-862.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/anthony-fauci.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d5d.md]
 confidence: low
 ---
 
@@ -45,3 +45,9 @@ One account she pushed to ban, @fearthefloof, had researched her background and 
 4. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 5. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 6. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
+
+## Cited in the 2023 Wray hearing
+
+During [[christopher-wray|Christopher Wray]]'s [[2023-wray-house-judiciary-testimony|July 2023 House Judiciary testimony]], Badlands commentary argued that the Twitter Files — together with the judge's preliminary findings in [[missouri-v-biden|Missouri v. Biden]] — made provably false Wray's statement that the [[fbi|FBI]] was not engaged in censorship or content suppression.[7]
+
+7. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d

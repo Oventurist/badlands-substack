@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [saudi-arabia, donald-trump, 2017, qanon, symbolism]
-sources: [raw/arabian-nights.md, raw/badlands-news-brief-ba8.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-ba8.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Months later, when an anonymous poster appeared on 4chan following the Las Vegas
 
 [[donald-trump|Trump]] performed a sword dance again in public during his second inauguration festivities in January 2025, a moment Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] initially mentioned only in passing because of how happy [[melania-trump|Melania]] appeared in the clip, calling it his favorite moment of the entire day.[2] He subsequently argued that the significance of the repeat performance could not be ignored, recalling that the last time Trump performed a sword dance in public — in Saudi Arabia in 2017 — a purge against a corrupt oligarchy subsequently occurred.[2] He invited readers to compare Melania's inauguration dress to the thawb, the traditional robes worn by the Saudi royals performing the ardah alongside Trump in 2017, and noted that the [[saudi-purge|Saudi Purge]] lasted over two years and saw thousands prosecuted for betraying the Kingdom through malicious corruption.[2] The observation was offered alongside Trump's announced purge of more than 1,000 [[joe-biden|Biden]] appointees.[2]
 
+## The 2025 Qatari Ardah
+
+During the [[2025-trump-gulf-tour|2025 Trump Gulf tour]], commentators described a second Ardah — this time in Qatar — accompanying the signing of major defense and trade agreements in Doha.[3] Badlands host GhostofBasedPatrickHenry characterized the 2017 Saudi Ardah as an act of open defiance in which Trump could have benefited strategically by concealing his close relationship with Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] but instead declared war on the Deep State in a literal ceremony.[3] He read the 2025 Qatari Ardah as a mirror event in which the Qataris, under Trump's longtime friend Sheikh [[tamim-bin-hamad-al-thani|Tamim Al-Thani]], publicly pledged their allegiance to Trump and the [[sovereign-alliance|Sovereign Alliance]] — an outcome he called an enormous milestone in Arab diplomacy given Qatar's long relationship with the Five Eyes intelligence community and the military-industrial complex.[3] Another host framed the pairing of the two tours as "2017 was a declaration of war; 2025 is a declaration of victory."[3]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8
+3. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

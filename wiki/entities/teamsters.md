@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor-union, strike, waste-management]
-sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-f25.md]
 confidence: medium
 ---
 
@@ -26,7 +26,13 @@ Ahead of the decision the union released internal polling, taken by electronic m
 
 In September 2024 the Teamsters declined to endorse [[kamala-harris|Kamala Harris]] after their members overwhelmingly came out for [[donald-trump|Donald Trump]].[3] Badlands Media cited the non-endorsement, alongside the looming East and Gulf Coast dockworker strike, as evidence that Democrats' focus on labor was a strategic misstep in the 2024 cycle.[3]
 
+## November 2023 Senate hearing confrontation
+
+Teamsters president [[sean-obrien|Sean O'Brien]] was challenged to a physical fight by Senator [[markwayne-mullin|Markwayne Mullin]] during a November 14, 2023 meeting of the Senate [[health-education-labor-and-pensions-committee|Health, Education, Labor and Pensions Committee]], after Mullin read aloud a June tweet in which O'Brien had called him "a clown & a fraud."[4] Both men stood before chairman [[bernie-sanders|Bernie Sanders]] intervened, and the exchange was widely circulated as an emblem of congressional dysfunction.[4]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 2. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+4. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25

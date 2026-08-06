@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, trump, media, information-war]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md]
 confidence: medium
 ---
 
@@ -48,6 +48,10 @@ Applying the concept to the [[2024-crowdstrike-global-outage|CrowdStrike global 
 
 Badlands host GhostofBasedPatrickHenry opened his November 2025 show *Geopolitics with Ghost* with a rant about "Trump-a-Mania" and how President [[donald-trump|Trump]] operates in the information battlespace in relation to an ever-growing cast of television characters and the concept of kayfabe.[6] The subsequent [[white-house|White House]] meeting between Trump and incoming New York City Mayor [[zohran-mamdani|Zohran Mamdani]], followed by [[marjorie-taylor-greene|Marjorie Taylor Greene]]'s announced resignation from [[congress|Congress]], made the framing feel serendipitous to him.[6] He argued it is reasonable to assume most of the television characters respond at all times to an incentive structure laid out before them, and that the real question is who controls that incentive structure — the opportunity to influence specific figures' decision-making being at the heart of game theory.[6] Control comes in many forms, he wrote, and audiences should not be quick to dismiss a character merely because their ostensible branding is an identity trained to be hated, such as "communist"; even characters who earnestly hold antithetical doctrines can serve a useful purpose.[6]
 
+## Musk at the MBS White House dinner (November 2025)
+
+Badlands contributor [[burning-bright|Burning Bright]] cited the November 2025 [[white-house|White House]] dinner for Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] as proof for "anyone still doubting that Kayfabe is the premier narrative weapon of choice for Donald Trump," pointing to the optics of [[elon-musk|Elon Musk]] appearing as a guest of honor months after his public feud with the president.[9] The reading was that "Trump and Elon signal GROWTH" — "all gas, no breaks to the Golden Age."[9]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -55,3 +59,11 @@ Badlands host GhostofBasedPatrickHenry opened his November 2025 show *Geopolitic
 4. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 5. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 6. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+7. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
+## The 2024 endorsement sequence
+In April 2024, following former Attorney General [[bill-barr|Bill Barr]]'s declaration that he would vote for [[donald-trump|Donald Trump]] over [[joe-biden|Joe Biden]], Badlands contributor [[burning-bright|Burning Bright]] used kayfabe to explain a recurring pattern: [[ron-desantis|Ron DeSantis]] "fought the man ... and then endorsed him," [[vivek-ramaswamy|Vivek Ramaswamy]] did the same, and Barr worked for Trump, fought him, and then endorsed him.[7] For readers unable to accept that many of the loudest players on the board — those the mainstream media leap at the chance to use against Trump, ostensibly from within his own movement — are playing roles, he wrote, "this is storytelling 101."[7]
+Burning Bright argued there is a reason kayfabe and false feuds are among the simplest and most effective narrative deployments in the [[information-war|Info War]]: "bad guys" used kayfabe to codify the [[controlled-opposition|controlled opposition]] dynamic, pitting right against left, Republican against Democrat, man against woman and black against white, because it appeals to human binary and tribal thinking.[7] "Good guys," in his framing, use kayfabe because the narrative-setters on the opposing side have been cut off from their former power structure and are "spinning in a void of indecision."[7] He concluded that "bicameral thinking avails us well."[7]
+## Putin as a kayfabe turn (June 2025)
+Commenting on June 16, 2025 reporting that Russian diplomats faced a "nerve-wracking" situation in [[israel]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said everything about the headline, including the accompanying picture, had "a WrestleMania feel to it."[8] He defined kayfabe as the moment when an onscreen character turns from heel to hero or vice versa, and argued that genuine instances are rarer than the breadth of internet analysis would suggest — but that [[vladimir-putin|Putin]] would qualify as the most significant public figure to have such a moment.[8] He predicted it would be Putin negotiating peace in the Middle East with [[donald-trump|Trump]] supporting him, a narrative that would defy the preconceived notions of Putin the corporate media had cultivated in the public all their lives, while cautioning that nothing about the saga's resolution would be simple or clean.[8] He added that the staging felt "a little too perfect" for a Putin arrival into the arena.[8]
+8. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f
+9. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e

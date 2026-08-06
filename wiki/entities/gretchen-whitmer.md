@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [michigan, governor, democrats, 2020-election, trump-administration]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-c50.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-eca.md]
 confidence: medium
 ---
 
@@ -66,3 +66,10 @@ In July 2023, The Gateway Pundit invoked Whitmer's record while criticizing a [[
 7. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
 8. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 9. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+10. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+
+## Pandemic relief funds and teacher social justice courses
+
+A report publicized in March 2023 found that Whitmer used federal pandemic relief money to create [[critical-race-theory|critical race theory]] and social justice courses for teachers.[10] She reportedly allotted $1.4 million in [[cares-act|CARES Act]] funds to the Michigan State University College of Education, the University of Michigan's School of Education, and Michigan Virtual to develop online social justice modules.[10] The [[department-of-education|U.S. Department of Education]]'s Office of Inspector General said in a report released in September 2022 that the state could not support the process it used to select those three providers, and that the program's purpose was to train teachers to implement professional learning standards developed by the Governor's Education Advisory Council.[10] Whitmer created that council in 2019, personally chose all fifteen of its members, and signed off on granting the money.[10]
+
+Badlands contributor [[absolutetruth1776|AbsoluteTruth1776]] described the finding as a "shocking non-surprise" and, citing the funding alongside the alleged kidnapping plot against her, her COVID-19 lockdowns and mandates, and Michigan's economic condition, argued she "may very well win the award for worst Governor in America."[10]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid-19, china, lab-leak, virology]
-sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-f2b.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ He stressed that China had stated many times that the Wuhan Institute of Virolog
 
 The [[covid-19-origin-act-of-2023|COVID-19 Origin Act of 2023]], signed by [[joe-biden|Joe Biden]] on March 20, 2023, specifically directed the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] to declassify within 90 days all information on possible links between the Wuhan Institute of Virology and the origins of Covid-19; the institute has been a major center of coronavirus research.[3] The measure followed the Energy Department's low-confidence conclusion that the virus was likely the result of an accidental laboratory leak in China.[3] [[burning-bright|Burning Bright]] described the repeated shifting of official positions on the institute as "the clearest example yet of Overton's Goalpost," and argued that any disclosure would be a limited hangout given what was already public about [[anthony-fauci|Anthony Fauci]] and the [[national-institutes-of-health|NIH]].[3]
 
+## Researcher bioweapon claim (2020 interview, resurfaced 2023)
+
+In June 2023 an ANI report circulated an interview in which a researcher from the institute, [[chao-shao|Chao Shao]], claimed that China had engineered the coronavirus as a "bioweapon."[4] The interview had been conducted between March and April 2020 by [[jennifer-zeng|Jennifer Zeng]], a Chinese-born human rights activist, author and member of the International Press Association.[4]
+
+Chao Shao said that he and his colleagues were given four strains of the virus to determine which could spread most effectively, and recounted that another researcher at the institute, Shan Chao, admitted their superior had supplied the strains so the team could test infectivity across various species, including humans.[4] Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] said he did not know whether COVID-19 was an engineered bioweapon or a psychological operation built on an ordinary illness and guessed it was "a bit of both," while arguing that the lockdown-era governmental overreach was itself among the most traumatic events of recent decades.[4]
+
 ## References
 1. Badlands Brief — "Fauci Squirms, Pollsters Panic & Elections Erupt", URL: https://badlands.substack.com/p/badlands-news-brief-3e8
 2. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 3. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+4. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, narrative, censorship, information-war, maga]
-sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-cdb.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e7c.md]
 confidence: medium
 ---
 
@@ -56,3 +56,11 @@ The concept also framed Badlands coverage of [[tucker-carlson|Tucker Carlson]]'s
 In the April 14, 2023 Badlands News Brief, [[burning-bright|Burning Bright]] explained why the outlet routinely sources mainstream publications, writing that it is often more valuable to examine the current "Game Theory Game Board" through the lens of the obfuscation and control network of the Media Industrial Complex.[5] For those writing about and reading about the [[information-war|Info War]] actively, he argued, one can often learn more from reading false narrative deployments than from reading those who already agree.[5] He cited [[newsweek|Newsweek]] mocking Russian state television for advancing the same talking points as [[donald-trump|Donald Trump]], and [[cnn|CNN]] attacking [[tucker-carlson|Tucker Carlson]] over his Trump interview, as illustrations of mainstream outlets cannibalising one another while citizen journalism rose to replace them.[5]
 
 5. Badlands Brief — "Badlands News Brief: Leak Shenanigans, Trump Seeds & Woke Broke", URL: https://badlands.substack.com/p/badlands-news-brief-cdb
+
+## September 2023 examples
+
+[[burning-bright|Burning Bright]] described a technique of reading Media Industrial Complex headlines as messages the outlets send one another rather than to the Collective Mind alone.[6] Applying it in September 2023, he argued that the simultaneous alarm over [[donald-trump|Donald Trump]]'s national polling lead over [[joe-biden|Joe Biden]] and over the collapse of [[ron-desantis|Ron DeSantis]]'s campaign signalled panic in Washington that the establishment's "Con Inc. wolf" had been rejected by the MAGA base far earlier than expected.[6] In the same brief he characterized the complex's shifting treatment of [[volodymyr-zelensky|Volodymyr Zelensky]] as a halting version of [[overtons-goalpost|Overton's Goalpost]].[6]
+
+[[the-gateway-pundit|The Gateway Pundit]] separately contrasted the blanket primetime coverage given to the [[january-6-committee|January 6th select committee]] with the total mainstream silence surrounding the September 18, 2023 [[2023-house-capitol-security-oversight-hearing|House hearing]] at which former Capitol Police Chief [[steven-sund|Steven Sund]] testified.[6]
+
+6. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c

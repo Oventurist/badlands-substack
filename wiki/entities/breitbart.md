@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, conservative-media, commentary]
-sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c9a.md]
+sources: [raw/badlands-news-brief-148.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ In April 2023, Breitbart reported that New York Democrats raged over Republicans
 1. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 2. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 3. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
+
+## June 2023 Hunter Biden plea report
+
+Breitbart reported on the morning of 20 June 2023 that [[hunter-biden|Hunter Biden]], then 53, had agreed to plead guilty to two federal tax violations and one gun-law violation, entering a pretrial diversion program on the firearms count and thus facing no jail time.[4] The report recounted his discharge from the Navy for drug use, his immediate appointment to the board of [[burisma|Burisma]], and the unresolved conflict-of-interest complaints raised by [[state-department|State Department]] officials while his father directed Ukraine policy.[4] See [[hunter-biden-plea-agreement|Hunter Biden plea agreement]].[4]
+
+4. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24

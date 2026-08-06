@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [conservative-movement, charlie-kirk, maga, organizations]
-sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a98.md]
+sources: [raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-ed9.md]
 confidence: high
 ---
 
@@ -86,3 +86,9 @@ On October 29, 2025, Senator [[chuck-grassley|Chuck Grassley]] released FBI file
 10. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 11. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 12. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+
+## Announcement of the Kirk memorial service (September 2025)
+
+Turning Point USA announced in September 2025 that President [[donald-trump|Donald Trump]] and Vice President [[jd-vance|JD Vance]] would deliver remarks at the memorial service for the organization's late founder, [[charlie-kirk|Charlie Kirk]], held that Sunday in Arizona.[13] Kirk's widow, [[erika-kirk|Erika Kirk]], was also announced as a speaker, alongside a slate of high-profile administration figures including White House chief of staff Susie Wiles, Secretary of State Marco Rubio, Health and Human Services Secretary Robert F. Kennedy Jr., Defense Secretary Pete Hegseth, Director of National Intelligence Tulsi Gabbard, White House deputy chief of staff [[stephen-miller|Stephen Miller]], and presidential personnel director Sergio Gor.[13] Former Fox News host Tucker Carlson and Donald Trump Jr. were also slated to speak, with the event website indicating further names would follow.[13] See [[charlie-kirk-memorial-service|Charlie Kirk memorial service]].[13]
+
+13. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9

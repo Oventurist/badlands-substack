@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [spac, dwac, trump-media, markets, truth-social]
-sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-f0b.md]
 confidence: medium
 ---
 
@@ -36,7 +36,14 @@ Shares of Digital World Acquisition, the blank-check firm set to take [[donald-t
 
 Commenting in the [[badlands-news-brief]], [[burning-bright]] noted that the surge had stunned Wall Street but few on "MAGA Main Street," and that it accelerated exponentially after the DeSantis withdrawal and endorsement.[3] He argued the moves could be read simply as investors pricing in the inevitability of Trump's return to office, but might also presage a cascade of legal and narrative wins: DWAC had been in litigation for two years over its expected merger with [[trump-media-and-technology-group]], owner of [[truth-social]], with all signs pointing to a resolution in its favour during 2024, while Rumble runs the servers on which Truth Social operates and had just signed a deal with Barstool Sports and Trump ally [[dave-portnoy]].[3]
 
+## September 2023 merger-deadline extension
+
+In September 2023 the long-delayed merger between [[trump-media-and-technology-group|Trump Media & Technology Group]] and Digital World Acquisition Corp. received a reprieve just days before the blank-check company faced liquidation.[4] DWAC shareholders approved a one-year extension of the merger deadline; without it, the special purpose acquisition company would have been liquidated on September 8, 2023.[4] Neither DWAC nor Trump Media, which operates [[truth-social|Truth Social]], responded to requests for comment from [[cbs-news|CBS News]].[4] DWAC shares, which had traded at $175 in 2021 shortly after the company's initial public offering, rose 3.9% in afternoon trading to $17.16.[4] DWAC chief executive [[eric-swider|Eric Swider]] posted on Truth Social: "Thank you for all the outstanding support. Please understand my silence. We remain focused on the task at hand and are watching every word we say."[4] The pending merger had been in the works since 2021, when the DWAC combination announcement sent the stock surging on expectations that Truth Social and other Trump-affiliated media properties could profit as a conservative-flavored social media service.[4]
+
+Badlands writer [[burning-bright|Burning Bright]] framed the extension as a "shot/chaser" rebuke to a week of mainstream commentary predicting DWAC's imminent collapse, noting that institutional experts had claimed the company would never obtain the shareholder votes required for the extension.[4] He observed that the new merger timeline placed completion just before the 2024 election, adding sardonically that he was "sure that's just a coincidence," and characterized the delays as stemming from [[securities-and-exchange-commission|SEC]] obstruction.[4]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 2. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
 3. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+4. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b

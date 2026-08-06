@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pharmacy, healthcare, fraud, false-claims-act, litigation]
-sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-f39.md]
 confidence: medium
 ---
 
@@ -28,3 +28,9 @@ In late August 2025, CVS restricted COVID-19 vaccinations following tightened fe
 
 1. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
 2. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+
+## GOP attorneys general warning on mailed abortion pills (2023)
+
+On Wednesday, February 1, 2023, twenty Republican state attorneys general warned CVS and [[walgreens|Walgreens]] that plans to distribute abortion pills through the mail would violate state and federal law.[3] The effort was led by Missouri Attorney General [[andrew-bailey|Andrew Bailey]], who wrote in the letter to the chain drug stores that many people were unaware that federal law expressly prohibits using the mail to send or receive any drug used or applied for producing an abortion.[3] "As Attorney General, it is my responsibility to enforce the laws as written, and that includes enforcing the very laws that protect Missouri's women and unborn children," Bailey said.[3] See [[2023-attorneys-general-warning-on-mailed-abortion-pills|the 2023 attorneys general warning]].[3]
+
+3. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, burkina-faso, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-dc1.md]
 confidence: medium
 ---
 
@@ -94,3 +94,7 @@ Days later, Traoré's government in [[burkina-faso|Burkina Faso]] grounded a [[n
 11. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
 12. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
 
+## March 2025 amnesty for 2015 coup soldiers
+
+In a decree dated March 24, 2025 and published by local media on March 31, Traoré pardoned 21 soldiers convicted of attempting to overthrow [[burkina-faso|Burkina Faso]]'s transitional government nearly a decade earlier.[13] "The following persons, who have been convicted or prosecuted before the courts for acts committed on September 15 and 16, 2015, are granted amnesty," the order read, naming the 21 soldiers, among them two former unit commanders of the ex-presidential guard convicted by a military tribunal in Ouagadougou in 2019 for "harming state security," murder, or treason.[13] The move followed an amnesty Traoré had announced the previous December for several people sentenced over the 2015 plot against the transitional government that took power after the forced resignation of [[blaise-compaore|Blaise Compaoré]].[13] Compaoré's former chief of staff Gilbert Diendéré and head of diplomacy Djibril Bassolé, sentenced to 20 and ten years respectively for allegedly masterminding the coup, were excluded.[13] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that pardoning only the subordinates who followed orders, while leaving the planning generals imprisoned, showed "a just and measured man in Ibrahim Traore," and linked the episode to the legacy of [[thomas-sankara|Thomas Sankara]], overthrown after refusing [[imf|IMF]] loans.[13] See [[2025-burkina-faso-coup-amnesty]].[13]
+13. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1

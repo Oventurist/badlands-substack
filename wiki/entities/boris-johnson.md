@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [uk, prime-minister, ukraine, russia, peace-negotiations]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-e99.md]
 confidence: medium
 ---
 
@@ -28,8 +28,15 @@ At the September 2024 [[yalta-european-strategy-conference|Yalta European Strate
 
 In January 2024, Johnson said that the Davos elite were "trembling violently" at the very real prospect of [[donald-trump]] winning the presidency again, in an exclusive article for the [[daily-mail|Daily Mail]] reported by [[modernity-news|Modernity News]].[3] "In the cocktail parties of Davos, I am told, the global wokerati have been trembling so violently that you could hear the ice tinkling in their negronis," the former prime minister wrote.[3] He described "a caterwauling orgy of nose-holding abhorrence" in the senior common rooms of British universities, the synod of the Church of England, "the Orwellian corridors of the BBC" and much of the UK establishment.[3] Johnson argued that the more insane the attacks on Trump became, the more he seemed to thrive: "The more frenzied the effort to cancel him, the stronger he becomes. The more bitterly his enemies wage lawfare against him, the more unstoppable he seems to be."[3] The remarks came after Trump's landslide win in Iowa and ahead of an expected repeat performance in the New Hampshire primary.[3]
 
+## Yalta European Strategy remarks on the Ukraine resources deal (February 2025)
+
+Speaking again at the Yalta European Strategy conference in Kiev in late February 2025, Johnson called President [[donald-trump|Donald Trump]]'s proposed resource deal with Ukraine "extortionate" while urging Kyiv to accept it as its best option for securing long-term support from Washington.[4] The proposal would give the United States fifty percent ownership of Ukraine's critical natural resources as compensation for what Washington claims is $500 billion in aid, and [[volodymyr-zelensky|Vladimir Zelensky]] had rebuffed the initial offer, insisting he "would not sign something that will be paid by ten generations of Ukrainians."[4] Johnson drew a historical parallel to Britain's dependence on American aid during the Second World War: "Yes, it's extortionate looked at one way. But so was Lend-Lease in 1941, wasn't it? You Americans absolutely stiffed us. You took away our bases in the Caribbean, in Newfoundland. You gave us a load of absolutely useless destroyers. And we were still paying for it until 2006."[4] He also stressed that he saw "positive things" in the agreement, saying it "commits the United States to a free, sovereign, and secure Ukraine" and "to long-term financial support for the stability and economic development of Ukraine."[4] See [[2025-trump-ukraine-policy-reversal|2025 Trump Ukraine policy reversal]].[4]
+
+Badlands contributor GhostofBasedPatrickHenry attacked the intervention, asking why a man who holds no official title and whose premiership he called "an unmitigated disaster" was still given the time of day on the world stage.[4] He accused Johnson of having overseen the reversal of Brexit and of flying to Kiev in 2022 to persuade Zelensky to renege on a ratified agreement with [[vladimir-putin|Putin]] that, in hindsight, looked far better than whatever Ukraine would now obtain.[4]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 2. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 3. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+4. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99

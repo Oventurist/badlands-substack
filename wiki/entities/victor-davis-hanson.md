@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [historian, commentator, american-politics, media]
-sources: [raw/badlands-news-brief-11b.md]
+sources: [raw/badlands-news-brief-11b.md, raw/badlands-news-brief-ee0.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Hanson coupled his critique of the left with a criticism of the political right.
 
 [[badlands-media|Badlands Media]] commentary on the interview, authored by [[ashe-in-america|Ashe in America]], welcomed Hanson's framing as an overdue naming of what independent media had described for years. The commentary invoked George Orwell's image of a "never-ending present in which the party is always right" to describe the transformation of the United States over the preceding decades, and concluded that Hanson and Carlson calling the revolution by its name on one of the largest platforms in new and old media was "better late than never."[1] The episode was treated within the [[truth-community|Truth Community]] as evidence that mainstream-adjacent voices were converging on longstanding independent-media analysis of the [[information-war|Information War]].[1]
 
+## "Vampire" Trump warning (November 2023)
+
+In a widely circulated late-November 2023 commentary, Hanson analysed what he described as the left's hysteria at the prospect of a [[donald-trump|Donald Trump]] return, summarising the mindset of Trump's opponents: "they look at Trump as a vampire and they put a stake in his heart but they're afraid that that stake could come out any time."[2] He argued that adversaries regard Trump not merely as a political rival but as an existential threat to their vision of America, and that they believe he is now more formidable and justified in his anger: "They are terrified of him because they think he's smarter this time and he has just cause to really get angry because of what they did to him."[2] Hanson relayed the fear, expressed on the left, that "if a MAGA candidate wins and they win the house and the Senate, we're cooked," and posited a landscape in which power dynamics shift dramatically toward aggressive investigations and possible retribution against figures in the sitting administration.[2] [[zerohedge|ZeroHedge]], which circulated the remarks, described his delivery as calm, reasoned and fact-driven and judged the fear well founded.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Congressional Chaos, Acceleration & Escalation", URL: https://badlands.substack.com/p/badlands-news-brief-11b
+2. Badlands Brief — "Badlands News Brief: Musk's World Tour & Irish Strife Prompt Reactions", URL: https://badlands.substack.com/p/badlands-news-brief-ee0

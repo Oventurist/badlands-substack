@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neuralink, elon-musk, brain-computer-interface, animal-testing, federal-investigation]
-sources: [raw/badlands-news-brief-34a.md, raw/badlands-news-brief-47f.md]
+sources: [raw/badlands-news-brief-34a.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-d6a.md]
 confidence: medium
 ---
 
@@ -30,7 +30,14 @@ Neuralink implanted its first human patient, [[noland-arbaugh|Noland Arbaugh]], 
 
 Badlands contributor [[paul-fleuret|Paul Fleuret]] wrote that he was torn about the technology, recognizing its potential to help patients with Parkinson's, epilepsy, Alzheimer's, blindness or paralysis while worrying about what happens if such devices fall into the wrong hands, become smarter than humans, become sentient, or transmit harmful signals.[2] He concluded that there were "far too many red flags and what ifs" for him to be comfortable with it, invoking Terminator and iRobot as cautionary references.[2]
 
+## Musk's February 2024 X Spaces disclosure
+
+During an X Spaces event on the night of Monday, February 19, 2024, [[elon-musk|Elon Musk]] revealed that the first human patient implanted with a Neuralink brain chip had made a "full recovery" with "no ill effects that we are aware of," and was able to "move a mouse around the screen by just thinking."[3] Musk said the company was then focused on maximising the number of mouse clicks the patient could make.[3] The implant had been performed in January 2024, following approval for human trials the previous September, with the technology presented as potentially life-transforming for patients with quadriplegia caused by cervical spinal cord injury or amyotrophic lateral sclerosis.[3]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] read the disclosure as describing the programming of thoughts: a team of scientists calibrating a patient's thoughts to the real-world actions of a mouse cursor, on a device that exists to control the physical world through thought.[3] She asked who serves as the ethical voice in such an experiment — not marketers promising to heal the lame and restore sight, but people with a calibrated moral compass able to ensure the work is not building "the tools for our future enslavement."[3] She further suggested that any such voices would be visibility-filtered, and questioned how long it would be before regime censorship tools, which she said Musk unveiled but did not abolish, could extend to thought itself.[3]
+
 ## References
 
 1. Badlands News Brief — "Musk Investigated, Fauci Exposed & Committees Engaged", URL: https://badlands.substack.com/p/badlands-news-brief-34a
 2. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
+3. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a

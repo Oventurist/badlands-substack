@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, january-6, trump-administration]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-7a1.md, raw/badlands-news-brief-881.md]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-7a1.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-f0b.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ Meadows's bid to move his Georgia election interference case to federal court fa
 
 On Tuesday, August 22, 2023, Meadows asked a federal judge to block his arrest over the Georgia election charges while he pursued removal of his case to federal court.[5] In a filing in the U.S. District Court for the Northern District of Georgia, his lawyers submitted an emergency motion seeking either an immediate ruling on removal or an order prohibiting Fulton County District Attorney [[fani-willis|Fani Willis]] from seeking his arrest if he did not surrender to the Fulton County jail by the noon Friday deadline she had set.[5] The filing stated that Willis "has made clear that she intends to arrest Mr. Meadows before this Court's Monday hearing and has rejected out of hand a reasonable request to defer one business day until after this Court's hearing."[5] Later that day a judge ordered Willis to respond to Meadows's requests in writing by 3 p.m. Wednesday, and a federal judge scheduled a hearing for the following Monday on the removal request.[5]
 
+## Not-guilty plea in Georgia (September 2023)
+
+On Tuesday, September 5, 2023, Meadows pleaded not guilty to charges stemming from the sweeping Georgia election interference case involving [[donald-trump|Donald Trump]], and waived the arraignment scheduled for the following day at which he was to hear the charges and enter a plea before a judge.[6] "I fully understand the nature of the offenses charged and my right to appear at arraignment," Meadows wrote in the court filing, adding that he freely and voluntarily waived his right to be present and to have the indictment read aloud in open court.[6] Trump's former [[white-house|White House]] chief of staff faced two charges in Georgia, where he and 18 co-defendants were accused of entering a criminal conspiracy to keep Trump in office after his 2020 defeat, with the defendants facing 41 combined charges including under the state [[racketeer-influenced-and-corrupt-organizations-act|Racketeer Influenced and Corrupt Organizations Act]], a statute designed to combat organized crime.[6] The plea was reported by [[the-hill|The Hill]].[6]
+
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 2. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
 3. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
 4. Badlands News Brief — "Epstein Resurfaces ... And the 'Elites' Don't Like It", URL: https://badlands.substack.com/p/badlands-news-brief-7a1
 5. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+6. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b

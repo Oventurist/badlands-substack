@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, sec, trump-media, dwac]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md]
 confidence: low
 ---
 
@@ -61,6 +61,15 @@ At the [[bitcoin-2024-nashville-conference|Bitcoin 2024 conference]] in Nashvill
 
 On 27 March 2024 the SEC scored a major win in its lawsuit against the cryptocurrency exchange [[coinbase|Coinbase]] when U.S. District Judge [[katherine-polk-failla|Katherine Polk Failla]] ruled that its claim that the exchange engaged in unregistered sales of securities could be heard by a jury at trial.[10] The agency had filed suit in June 2023, alleging Coinbase acted as an unregistered broker and exchange and asking that it be "permanently restrained and enjoined" from doing so; the court found the SEC had adequately alleged that Coinbase's Staking Program involved the unregistered offer and sale of securities, while dismissing the unregistered-broker claim concerning the Wallet application.[10] Badlands contributor [[burning-bright|Burning Bright]] wrote that although the SEC is rightly seen by much of the alternative media as part of the Deep Administrative State, more was going on than met the eye, noting that the agency treats bitcoin as a free-market commodity rather than a security — implying the US government considers all other digital currencies to be securities — and asking whether, alongside [[donald-trump|Trump]]'s pledges to block CBDCs, the banks might eventually be undone by their own securities laws.[10]
 
+
+## Memecoin Enforcement Outlook (December 2024)
+
+Following the December 2024 investor lawsuit against the team behind the [[hawk-memecoin|$HAWK]] token tied to [[haliey-welch|Haliey Welch]], Badlands commentator Ashe in America argued that regulators would seize on the high-profile collapse to expand oversight of crypto markets, writing that the SEC "has been flirting with shitcoins for a while" and appeared poised to finally act.[12] The suit itself alleged that HAWK functioned as an unregistered security under established legal precedent.[12]
+
+## Constitutional challenge to in-house adjudication (2023)
+
+The Securities and Exchange Commission, an independent federal agency that enforces federal securities laws administratively or by filing civil actions in court, faced a structural constitutional challenge that the Supreme Court agreed on June 30, 2023 to hear as SEC v. Jarkesy.[13] After the commission's administrative law judge confirmed securities violations by George Jarkesy and his firm Patriot28, the SEC reviewed and ratified the decision and ordered $300,000 in civil penalties.[13] A divided Fifth Circuit then held that dual removal protections for administrative law judges unconstitutionally insulated them from presidential oversight, that the commission's proceedings infringed the Seventh Amendment right to a jury trial, and that Congress had unconstitutionally delegated its lawmaking powers to the agency.[13]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -72,3 +81,11 @@ On 27 March 2024 the SEC scored a major win in its lawsuit against the cryptocur
 8. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 9. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 10. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+
+## Suit to compel Elon Musk's testimony in the Twitter probe (October 2023)
+
+On October 5, 2023, the SEC sued [[elon-musk|Elon Musk]] in the Northern District of California to compel him to testify about his purchase of [[twitter|Twitter]], alleging he had failed to appear for a September 15 testimony required by a subpoena served on the [[tesla|Tesla]] chief executive in May 2023.[11] The commission said its investigation concerned whether anyone committed securities fraud in purchasing Twitter shares while Musk was accumulating stock in the company, which he acquired for roughly $44 billion in October 2022 and later renamed [[x-corp|X]].[11] "Musk's ongoing refusal to comply with the SEC's administrative subpoena is hindering and delaying the SEC staff's investigation to determine whether violations of the federal securities laws have occurred," agency attorneys wrote.[11] The SEC said it had offered multiple October and November dates and proposed meeting at its Fort Worth, Texas office, the closest to Musk's Austin-area residence, but that "these good faith efforts were met with Musk's blanket refusal to appear for testimony."[11]
+
+11. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
+12. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
+13. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94

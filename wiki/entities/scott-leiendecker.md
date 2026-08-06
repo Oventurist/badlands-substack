@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, republicans, business]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-497.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-f1d.md]
 confidence: medium
 ---
 
@@ -20,6 +20,14 @@ Leiendecker's purchase placed him in control of the voting machine firm at the c
 
 Leiendecker is described as the founder and chairman of [[liberty-vote|Liberty Vote]] and the sole owner of [[dominion-voting-systems|Dominion Voting Systems]], a former GOP election reform advocate who has made his mark on election technology.[2] He officially acquired Dominion as sole private owner under Liberty Vote in an announcement made in October 2025, bringing the company under full American ownership; the acquisition was contingent upon Dominion ending its multiple ongoing lawsuits against prominent conservatives and One America News Network.[2] Under his leadership the company said it would relocate all operations to the United States and strengthen election integrity through independent third-party auditing standards, with Leiendecker stating that "Liberty Vote signals a new chapter for American elections — one where trust is rebuilt from the ground up."[2] See [[liberty-vote-acquisition-of-dominion-voting-systems|Liberty Vote acquisition of Dominion Voting Systems]] for the county-clerk reaction in Colorado.[2]
 
+## Public announcement of the sale
+
+The transaction was publicly announced on October 9, 2025, when the new owners disclosed that [[dominion-voting-systems|Dominion Voting Systems]] had been renamed [[liberty-vote|Liberty Vote]].[3] Contemporaneous reporting described Leiendecker as a Republican and a former director of elections for the city of St. Louis who also created [[knowink|KNOWiNK]], the largest provider of electronic poll books, and noted that the September sale made him the sole private owner at an undisclosed price.[3] In his statement he committed the company to "paper-based transparency, security, and simplicity so that voters can be assured that every ballot is filled-in accurately and fairly counted."[3]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] reacted negatively to the news that Dominion had been bought by the creator of KNOWiNK, allowing only that there was a possible reading in which a trustworthy owner now held custody of the Dominion source code while judging that outcome unlikely on the available evidence.[3]
+
 ## References
+
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
+3. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d

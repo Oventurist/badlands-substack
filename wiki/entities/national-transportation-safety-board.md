@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-agency, transportation, safety, investigations]
-sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b60.md]
+sources: [raw/badlands-brief-740.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ The NTSB, together with the [[federal-aviation-administration|Federal Aviation A
 
 On 27 March 2024 the NTSB disclosed that the cargo ship [[dali|Dali]], which caused the [[francis-scott-key-bridge-collapse|Baltimore bridge collapse]], had been carrying hazardous materials, with Chair [[jennifer-homendy|Jennifer Homendy]] reporting 56 containers holding corrosives, flammables and lithium ion batteries.[3] Homendy said some containers had been breached and a sheen identified in the water would be handled by authorities, and that the voyage data recorder had been recovered.[3] She said the investigation could take 12 to 24 months but that the board would not hesitate to issue urgent safety recommendations in the meantime, with a preliminary report expected in two to four weeks; she described the inquiry as "a massive undertaking" and the crash as "a very tragic event."[3]
 
+## Preliminary report on the Dali, 2024
+
+A preliminary NTSB report on the [[dali|Dali]] found that two electrical blackouts disabled equipment aboard the container ship ahead of its collision with the Francis Scott Key Bridge, and noted that the vessel had lost power twice in the ten hours leading up to the crash.[4] The board's ongoing investigation, conducted in parallel with an [[fbi|FBI]] inquiry, was among the reasons cited for keeping the ship's twenty-one crew members aboard seven weeks after the collapse.[4]
+
 ## References
 1. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 2. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 3. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+4. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-f32.md]
 confidence: medium
 ---
 
@@ -110,8 +110,11 @@ On Wednesday, January 31, 2024, Wray announced at a hearing of the [[house-selec
 
 On Friday, June 2, 2023, FBI Director Wray agreed to hand over to Congress an FD-1023 document said to detail an alleged $5 million bribery scheme involving [[joe-biden|Joe Biden]], after a standoff with House Oversight Chairman [[james-comer|James Comer]].[18] Lawmakers were expected to view the document the following Monday.[18] Comer told Fox Business host [[maria-bartiromo|Maria Bartiromo]] that Wray had claimed not to possess the document until Comer told him he had already seen it.[18] Badlands writer [[justin-deschamps|Justin Deschamps]] characterized the episode as another stage in a "slow drip" of exposure in which denial gives way to grudging admission while the press minimizes each disclosure.[18]
 
-## References
+## July 2023 House Judiciary hearing
 
+Wray appeared before the [[house-judiciary-committee|House Judiciary Committee]] on July 12, 2023 — his first appearance before the panel since Republicans took the House and [[jim-jordan|Jim Jordan]] became chairman — where legislators spent roughly five hours questioning him about the weaponization of government, asymmetrical standards of justice, and the bureau's failures to operate within the law.[19] Badlands commentary alleged that he perjured himself at least twice during the [[2023-wray-house-judiciary-testimony|hearing]], denying that sex-crimes resources had been reallocated to surveil parents at school board meetings and denying FBI involvement in censorship or content suppression.[19]
+
+## References
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 2. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
 3. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
@@ -130,3 +133,18 @@ On Friday, June 2, 2023, FBI Director Wray agreed to hand over to Congress an FD
 16. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 17. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
 18. Badlands Brief — "Badlands News Brief: Hunter Hunted, Wray Relents & Wokeness Weakens", URL: https://badlands.substack.com/p/badlands-news-brief-d06
+19. Badlands Brief — "Wray Flayed, Zelensky Zapped & Trump Targeted", URL: https://badlands.substack.com/p/badlands-news-brief-d5d
+
+## Nassar settlement apology (April 2024)
+
+Following the Justice Department's April 2024 agreement to pay more than $138 million to victims of [[larry-nassar|Larry Nassar]] over the [[fbi|FBI]]'s failure to investigate warnings about him, Wray apologized for systemic failures and acknowledged the Bureau's widespread mismanagement in the case.[20] Badlands commentary noted that despite the apology there was no indication of accompanying systemic reform, and framed the payout as an attempt by the administration to make the scandal disappear rather than confront how many other abusers the Bureau may have enabled.[20]
+
+20. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+
+## Scheduled House Judiciary testimony (June 2023)
+
+On June 27, 2023, a source familiar with the situation told [[new-york-post|The New York Post]] that Wray would testify before the [[house-judiciary-committee|House Judiciary Committee]] on July 12, after lawmakers returned from the July 4 congressional recess, amid whistleblower accusations that the bureau had mishandled the criminal investigation into [[hunter-biden|Hunter Biden]].[21] The [[department-of-justice|Justice Department]], and Wray's FBI in particular, had become a lightning rod for Republican lawmakers who accused the bureau of being weaponized against conservatives and unwilling to investigate corruption allegations against President [[joe-biden|Joe Biden]].[21] Wray had recently emerged from a multi-week subpoena battle with Congress over an informant document outlining bribery allegations against the 80-year-old president.[21]
+
+[[ashe-in-america|Ashe in America]] wrote that Wray answering questions from [[jim-jordan|Jim Jordan]] and his team should be must-see television, listing corruption as the top subject: Biden's bribery scandals, Wray's futile attempts to obstruct House investigators' access to the FD-1023 alleging one of those bribes, and the continuing surfacing of bribery allegations.[21] She cited [[patrick-byrne|Patrick Byrne]]'s claim that Hunter Biden had been negotiating bribes with his father and Iran as recently as eighteen months earlier while his father was president, and argued that Wray's disinterest in investigating hard evidence of a captured Biden executive branch should occupy the majority of the hearing.[21] She also flagged the broader weaponization of law enforcement, including the bureau's targeting of pro-life and other America First activists and specifically Catholics.[21] Her preferred question came from Byrne's forthcoming memoir, due out Saturday, July 1, in which Byrne recounted FBI agents telling him in early February 2016 that a 2008 law allowed the Director of Central Intelligence to sign a document under certain circumstances and take over the FBI, and that Director [[john-brennan|John Brennan]] had done so on matters relating to Russia — meaning the DCI would be driving the FBI.[21]
+
+21. Badlands Brief — "Badlands News Brief: Trump's Strength Grows & Ukraine's Support Slows", URL: https://badlands.substack.com/p/badlands-news-brief-f32

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, government, gaza-war, iran]
-sources: [raw/badlands-news-brief-c0b.md]
+sources: [raw/badlands-news-brief-c0b.md, raw/badlands-news-brief-efd.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ US Secretary of State [[antony-blinken|Antony Blinken]] told a group of American
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] questioned the strategic logic of the cabinet's posture, asking what Israel's endgame with Iran actually was and dismissing the notion of a deliberately "limited attack" designed not to escalate as incoherent, since a strike undertaken without the intent of waging real war served no strategic purpose.[1] He argued that prolonging the post-October 7 campaign caused the region and the wider world to coalesce against Israel rather than forming the anti-Iran coalition its leadership envisioned.[1] [[burning-bright|Burning Bright]] read the same events at the level of narrative, arguing that mainstream audiences were watching a foreign proxy of the United States defy the direct requests of the Biden administration while demanding its financial and military support.[1]
 
+## Internal split over Gaza governance, May 2024
+
+The war cabinet consisted of three voting members: Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]], Defense Minister [[yoav-gallant|Yoav Gallant]], and former Chief of the General Staff [[benny-gantz|Benny Gantz]].[2] In May 2024 Gallant publicly challenged Netanyahu for failing to define specific military objectives for the [[gaza|Gaza]] operation or a plan for governing the territory afterwards, and refused to consent to Israeli civil or military rule there.[2] When coalition figures demanded Gallant's dismissal, Gantz backed him, leaving Netanyahu outvoted two to one within the body on the central question of post-war Gaza.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Jurors Judged, Faces Saved & Memes Made", URL: https://badlands.substack.com/p/badlands-news-brief-c0b
+2. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, conservative-party, elections, tariffs]
-sources: [raw/badlands-news-brief-42b.md, raw/badlands-news-brief-719.md]
+sources: [raw/badlands-news-brief-42b.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-e1a.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ On 28 April 2025, Poilievre lost the federal election to [[mark-carney|Mark Carn
 
 [[badlands-media|Badlands Media]] commentary treated the contest between Poilievre, Carney, and the New Democratic Party's Jagmeet Singh as a managed exercise rather than a genuine choice, arguing that both major parties were campaigning on continuing what the author characterized as trade arrangements unfavourable to the United States.[1]
 
+## Badlands endorsement (November 2024)
+
+Following the [[2024-montreal-nato-summit-riots|Montreal NATO summit riots]] and the conviction of [[pat-king|Pat King]], Badlands Media wrote in November 2024 that Prime Minister [[justin-trudeau|Justin Trudeau]] faced a challenging re-election the following October and that Canadians "would be wise to toss him for Pierre Poilievre if they value freedom, equal justice, and strong leadership."[3] The commentary called Poilievre "Canada's last chance to reject globalism and make Canada great again," adding that it could not come soon enough.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 2. Badlands News Brief — "Atmospheric Phenomenon & Record Deportations", URL: https://badlands.substack.com/p/badlands-news-brief-719
+3. Badlands Brief — "Rug Pulls and Riddles Abound as the Trump Victory Tour Continues", URL: https://badlands.substack.com/p/badlands-news-brief-e1a

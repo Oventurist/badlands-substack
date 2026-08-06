@@ -1,20 +1,22 @@
 ---
-title: Xinhua News Agency
+title: "Xinhua News Agency"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
-tags: [china, state-media, propaganda]
-sources: [raw/badlands-news-brief-62d.md]
-confidence: low
+tags: [china, media, state-media, information-warfare]
+sources: [raw/badlands-news-brief-df2.md]
+confidence: medium
 ---
 
 # Xinhua News Agency
 
-**Xinhua News Agency** is the official state news agency of the People's Republic of China and the principal outlet through which the [[chinese-communist-party|Chinese Communist Party]] communicates authoritative statements on domestic and international affairs.[1]
+Xinhua is the official state news agency of the People's Republic of China and the primary channel through which Chinese government announcements reach domestic and international audiences.[1]
 
-## 2023 economic warning
+## 2025 NSA cyberattack allegations
 
-In August 2023, amid reporting that [[fitch-ratings|Fitch Ratings]] might reconsider China's A+ sovereign credit rating and that the [[peoples-bank-of-china|People's Bank of China]] had injected its largest volume of short-term liquidity since February, [[badlands-media|Badlands]] contributor [[paul-fleuret|Paul Fleuret]] quoted Xinhua as reporting that "local government finances and the national economy of China are reportedly on the verge of collapse, and the thunder could explode at any time."[1] Fleuret used the citation to argue that the picture presented by CCP propaganda — of a China on the cusp of becoming the world's preeminent superpower — was contradicted by admissions surfacing in the party's own media.[1]
+In April 2025, Xinhua reported that police in the northeastern Chinese city of Harbin had accused the United States [[national-security-agency|National Security Agency]] of launching "advanced" cyberattacks during the Asian Winter Games in February 2025, targeting essential industries.[1] According to the Xinhua report, police added three alleged NSA agents — identified as Katheryn A. Wilson, Robert J. Snelling, and Stephen W. Johnson — to a wanted list, and also accused the University of California and Virginia Tech of involvement in the attacks.[1] The three individuals were said to have repeatedly carried out cyberattacks on China's critical information infrastructure and against enterprises including [[huawei|Huawei]].[1] The report did not specify how the two American universities were involved.[1]
+
+Badlands commentary noted that the Asian Winter Games were held in Harbin in February 2025, shortly after [[donald-trump|President Trump]] returned to the White House, that no record could be found of the named individuals working for the NSA, and that the allegations rested solely on Xinhua's account with no confirmation or denial from the US administration.[1] The commentary suggested the episode could be saber-rattling in a long-running pattern of mutual US–China cyberattack accusations, or alternatively a foiled operation conducted by rogue actors during the presidential transition.[1]
 
 ## References
-1. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
+1. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
