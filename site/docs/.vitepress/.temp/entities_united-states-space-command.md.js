@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"United States Space Command","description":"","frontmatter":{"title":"United States Space Command","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["military","space","pentagon","china","russia"],"sources":["raw/badlands-news-brief-810.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/united-states-space-command.md","filePath":"entities/united-states-space-command.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/united-states-space-command.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="united-states-space-command" tabindex="-1">United States Space Command <a class="header-anchor" href="#united-states-space-command" aria-label="Permalink to &quot;United States Space Command&quot;">​</a></h1><p>The United States Space Command (USSPACECOM) is the <a href="/entities/pentagon">Pentagon</a>&#39;s newest and eleventh combatant command, created in 2019 at the direction of then-President <a href="/entities/donald-trump">Donald Trump</a>.[1] It is responsible for military operations in the space domain, including deterrence, defense of national interests, and, if required, defeating aggression in and from space.[1]</p><h2 id="full-operational-capability" tabindex="-1">Full operational capability <a class="header-anchor" href="#full-operational-capability" aria-label="Permalink to &quot;Full operational capability&quot;">​</a></h2><p>On December 15, 2023, USSPACECOM commander Army General <a href="/entities/james-dickinson">James Dickinson</a> declared during a headquarters town hall that the command had reached full operating capability.[1] &quot;Since its establishment in 2019, USSPACECOM has been singularly focused on delivering exquisite capability to the joint force to deter conflict, defend our vital interests, and, if necessary, defeat aggression,&quot; Dickinson said, adding that &quot;I can confidently say we have reached full operational capability.&quot;[1]</p><p>Dickinson explained that the declaration followed an &quot;in-depth evaluation of the command&#39;s capabilities,&quot; including the ability to execute its mission on &quot;our worst day, when we are needed the most.&quot;[1] The criteria for full operating capability included having the appropriate numbers and skills across the command&#39;s human capital and having the necessary command processes and functions in place.[1]</p><h2 id="threat-environment" tabindex="-1">Threat environment <a class="header-anchor" href="#threat-environment" aria-label="Permalink to &quot;Threat environment&quot;">​</a></h2><p>Dickinson identified China and Russia as key adversaries whose space capabilities pose a threat to the United States.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-810" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-810</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/united-states-space-command.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const unitedStatesSpaceCommand = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  unitedStatesSpaceCommand as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Western Sahara","description":"","frontmatter":{"title":"Western Sahara","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["north-africa","territorial-dispute","self-determination","united-nations"],"sources":["raw/badlands-news-brief-02a.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/western-sahara.md","filePath":"entities/western-sahara.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/western-sahara.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="western-sahara" tabindex="-1">Western Sahara <a class="header-anchor" href="#western-sahara" aria-label="Permalink to &quot;Western Sahara&quot;">​</a></h1><p>Western Sahara is a disputed desert territory in North Africa, classified by the United Nations as a non-self-governing territory and claimed by <a href="/entities/morocco">Morocco</a>.[1]</p><h2 id="dispute" tabindex="-1">Dispute <a class="header-anchor" href="#dispute" aria-label="Permalink to &quot;Dispute&quot;">​</a></h2><p>Morocco annexed the territory shortly after Spain gave up control in 1975 and de facto controls around 80% of it, a claim that has fueled regional tension and a decades-long conflict with the Algerian-backed <a href="/entities/polisario-front">Polisario Front</a>.[1] The Polisario Front supports a self-determination referendum first proposed by the UN in 1991 as part of a ceasefire agreement, which has since stalled.[1]</p><h2 id="international-positions" tabindex="-1">International positions <a class="header-anchor" href="#international-positions" aria-label="Permalink to &quot;International positions&quot;">​</a></h2><p>In April 2025 Secretary of State <a href="/entities/marco-rubio">Marco Rubio</a> told Moroccan Foreign Minister <a href="/entities/nasser-bourita">Nasser Bourita</a> that Washington recognizes Moroccan sovereignty over Western Sahara and backs Rabat&#39;s autonomy plan as the only basis for a solution.[1] The United States had affirmed that position previously, <a href="/entities/israel">Israel</a> followed in 2023, and France reversed years of neutrality to endorse the plan, with Emmanuel Macron calling it the only viable route to resolution.[1]</p><h2 id="badlands-framing" tabindex="-1">Badlands framing <a class="header-anchor" href="#badlands-framing" aria-label="Permalink to &quot;Badlands framing&quot;">​</a></h2><p>Badlands commentary suggested Western Sahara was itself &quot;likely carved out by the imperial globalists generations ago,&quot; and proposed watching leaders such as <a href="/entities/ibrahim-traore">Ibrahim Traore</a> of neighboring <a href="/entities/burkina-faso">Burkina Faso</a> to gauge which side genuinely represents anti-imperial interests.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: World Wealth Whiplash &amp; The Most Secure Memorandum in History&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-02a" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-02a</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/western-sahara.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const westernSahara = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  westernSahara as default
+};

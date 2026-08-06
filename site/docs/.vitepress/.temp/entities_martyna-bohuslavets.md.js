@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Martyna Bohuslavets","description":"","frontmatter":{"title":"Martyna Bohuslavets","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["ukraine","anti-corruption","kharkiv","journalism"],"sources":["raw/badlands-news-brief-5b2.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/martyna-bohuslavets.md","filePath":"entities/martyna-bohuslavets.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/martyna-bohuslavets.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="martyna-bohuslavets" tabindex="-1">Martyna Bohuslavets <a class="header-anchor" href="#martyna-bohuslavets" aria-label="Permalink to &quot;Martyna Bohuslavets&quot;">​</a></h1><p>Martyna Bohuslavets is a Ukrainian anti-corruption investigator who heads the Mezha Anti-Corruption Center.[1]</p><h2 id="where-are-the-fortifications-report" tabindex="-1">&quot;Where are the fortifications?&quot; report <a class="header-anchor" href="#where-are-the-fortifications-report" aria-label="Permalink to &quot;&quot;Where are the fortifications?&quot; report&quot;">​</a></h2><p>In May 2024, Bohuslavets published a report in Ukrainian Pravda titled &quot;Where are the fortifications?&quot;, alleging that millions of dollars earmarked for the construction of defensive fortifications in Ukraine had instead been &quot;transferred to Kharkiv OVA to front companies of avatars.&quot;[1] She reported that the Kharkiv Regional Military Administration paid out funds to fictitious companies during the fortification of the Kharkiv region, and that a total of 7 billion hryvnias had been spent there.[1]</p><p>The report landed as Russian forces launched the <a href="/concepts/2024-kharkiv-offensive">2024 Kharkiv offensive</a>, advancing into northern Ukraine in an area where the missing fortifications had been budgeted, and while the United States continued funding the war effort.[1] Ukrainian reconnaissance commander <a href="/entities/denys-yaroslavskyi">Denys Yaroslavskyi</a> separately told the BBC that there had been no first line of defense in the region, calling the failure &quot;a betrayal.&quot;[1]</p><h2 id="significance" tabindex="-1">Significance <a class="header-anchor" href="#significance" aria-label="Permalink to &quot;Significance&quot;">​</a></h2><p>Badlands commentary treated Bohuslavets&#39;s findings alongside a <a href="/entities/government-accountability-office">Government Accountability Office</a> report on the <a href="/entities/department-of-defense">Department of Defense</a>&#39;s inability to track deliveries of defense articles to Ukraine, arguing that the two together suggested US aid flows were less transparent than officially presented.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Sovereign Alliance Comms and Tapwater Goblins&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-5b2" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-5b2</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/martyna-bohuslavets.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const martynaBohuslavets = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  martynaBohuslavets as default
+};

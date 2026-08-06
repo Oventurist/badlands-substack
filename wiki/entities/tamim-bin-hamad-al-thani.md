@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [qatar, monarchy, gulf-states]
-sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -24,7 +24,14 @@ On September 23, 2024, Tamim met former U.S. president [[donald-trump|Donald Tru
 
 The 2024 encounter echoed a September 2017 White House visit, when Trump hosted Tamim during the Gulf embargo and noted that the two had known each other a long time — "which may surprise some people" — while promising to resolve the dispute between Qatar and its neighbors.[3] Trump ultimately negotiated the reconciliation between Tamim and Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] on January 4, 2021, two weeks before leaving office; Badlands Media speculated that [[vladimir-putin|Vladimir Putin]] also played a facilitating role.[3]
 
+## Saudi–Qatari high-speed rail agreement (December 2025)
+
+On December 8, 2025, following a meeting in Riyadh with Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] under the Saudi–Qatari Coordination Council, the Emir's government signed an agreement with [[saudi-arabia|Saudi Arabia]] to build a high-speed rail link connecting Hamad International Airport in Doha with King Salman International Airport in Riyadh.[4] The project was expected to take six years, create 30,000 jobs and carry more than 10 million passengers a year, reducing travel time between the capitals to roughly two hours.[4]
+
+Badlands commentary presented the agreement as the culmination of a reconciliation that began during the 2017 blockade of [[qatar|Qatar]], when Sheikh Tamim visited President [[donald-trump|Donald Trump]] at the White House in September of that year and Trump pledged to help resolve the dispute with MBS; a peace deal was signed the week Trump left office in 2021.[4]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

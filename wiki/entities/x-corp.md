@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, censorship, brazil, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md]
 confidence: medium
 ---
 
@@ -87,6 +87,16 @@ On the night of August 29, 2024, X's Global Government Affairs account warned th
 
 On the night of August 29, 2024, X's Global Government Affairs account warned that service in [[brazil|Brazil]] could be shut down "soon" after Supreme Court Judge [[alexandre-de-moraes|Alexandre de Moraes]] moved against the company for refusing to comply with what X called his "illegal orders to censor his political opponents."[14] The company said that when it attempted to defend itself in court, de Moraes threatened its Brazilian legal representative with imprisonment and froze her bank accounts even after she resigned, while its challenges were dismissed or ignored and his Supreme Court colleagues proved "either unwilling or unable to stand up to him."[14] X stated it was not demanding that other countries adopt US free speech law but that de Moraes was demanding the company break Brazil's own laws, pledged to publish all of his orders and related filings for transparency, and said that unlike other platforms it would "not comply in secret with illegal orders."[14] [[elon-musk|Elon Musk]] said separately that [[spacex|SpaceX]] would continue providing [[starlink|Starlink]] service to Brazilian schools and hospitals free of charge.[14]
 
+## EU Digital Services Act fine (December 2025)
+
+On December 5, 2025, the [[european-commission|European Commission]] fined X 120 million euros (approximately $140 million) after a two-year investigation under the [[digital-services-act|Digital Services Act]], faulting the platform's "deceptive" blue checkmark and the lack of transparency in its advertising repository.[15] Musk replied to the Commission's post on X with a one-word obscenity and, the next day, called for the [[european-union|European Union]] itself to be abolished with sovereignty returned to individual countries.[15] Secretary of State [[marco-rubio|Marco Rubio]] characterized the penalty as "an attack on all American tech platforms and the American people by foreign governments."[15]
+
+## "The People's Town Hall" (2024)
+
+In late May 2024, X and the cable news network NewsNation were reported by [[axios|Axios]] to be planning live town halls with former President [[donald-trump|Donald Trump]] and independent presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], with both having agreed in principle to separate live interviews as part of a new video series titled "The People's Town Hall."[16] Dates and locations had not been set, and the [[joe-biden|Biden]] campaign had not agreed to take part; a Biden spokesperson declined to comment, while the Trump and Kennedy campaigns did not respond to requests for comment.[16]
+
+Axios framed the plan as significant because, while every other major social network in the United States was retreating from politics, X was leaning in as part of a wider push into creator video, with the live feeds to be available to all X users globally.[16] X CEO [[linda-yaccarino|Linda Yaccarino]] had said the previous week that X paid out over $50 million in ad revenue to creators since she became CEO.[16] Separately, Badlands writer [[ashe-in-america|Ashe in America]] noted that X users were complaining their feeds were overwhelmingly pro-Trump and blaming the platform's algorithm, a claim she dismissed alongside Trump's post-conviction $200 million fundraising haul and his 2 million TikTok followers against Biden's 337,000.[16]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
@@ -102,3 +112,5 @@ On the night of August 29, 2024, X's Global Government Affairs account warned th
 12. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 13. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 14. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+15. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+16. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995

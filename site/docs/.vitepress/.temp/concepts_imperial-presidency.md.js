@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Imperial presidency","description":"","frontmatter":{"title":"Imperial presidency","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["executive-power","trump","presidential-immunity","2024-election"],"sources":["raw/badlands-news-brief-528.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/imperial-presidency.md","filePath":"concepts/imperial-presidency.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/imperial-presidency.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="imperial-presidency" tabindex="-1">Imperial presidency <a class="header-anchor" href="#imperial-presidency" aria-label="Permalink to &quot;Imperial presidency&quot;">​</a></h1><p>&quot;Imperial presidency&quot; is the framing used by <a href="/entities/axios">Axios</a> in July 2024 to describe the second-term plans attributed to <a href="/entities/donald-trump">Donald Trump</a> by his advisers, and carried as a bonus item in the Badlands News Brief.[1]</p><p>According to the report, Trump, if re-elected, planned to immediately test the boundaries of presidential and governing power, knowing that the restraints of <a href="/entities/congress">Congress</a> and the courts were dramatically looser than during his first term.[1] The analysis pointed not only to the <a href="/entities/supreme-court-of-the-united-states">Supreme Court</a>&#39;s ruling that presidents enjoy substantial <a href="/concepts/presidential-immunity">legal immunity</a> for official acts, but also to a Cabinet and staff pre-vetted for loyalty and a fully compliant Republican coalition in Congress devoid of critics in positions of real power.[1]</p><p>The described program included turning the Justice Department against critics, deporting millions of people in the United States illegally, imposing 10% tariffs on thousands of products, and firing perhaps tens of thousands of government staff deemed insufficiently loyal.[1] Axios stressed that Trump stated these intentions &quot;consistently and clearly,&quot; so the account was &quot;not conjecture,&quot; and that thanks to the immunity ruling he could pursue them &quot;without fear of punishment or restraint.&quot;[1]</p><p>The report also connected the prospect to Democratic anxieties, noting that the expectation of such a presidency was a major reason many Democrats worried that <a href="/entities/joe-biden">Joe Biden</a> was &quot;making one of the biggest gambles in U.S. history&quot; by staying in the race amid concerns about his age.[1] A related Axios piece reported that major Democratic donors were shifting money toward House and Senate races to build a Capitol Hill firewall around a second Trump term they viewed as increasingly likely.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Biden Pushes Back as Peacemakers Posture&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-528" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-528</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/imperial-presidency.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const imperialPresidency = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  imperialPresidency as default
+};

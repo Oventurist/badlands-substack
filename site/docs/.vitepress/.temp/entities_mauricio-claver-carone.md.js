@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Mauricio Claver-Carone","description":"","frontmatter":{"title":"Mauricio Claver-Carone","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["state-department","latin-america","venezuela","diplomacy","trump-administration"],"sources":["raw/badlands-news-brief-52f.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/mauricio-claver-carone.md","filePath":"entities/mauricio-claver-carone.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/mauricio-claver-carone.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="mauricio-claver-carone" tabindex="-1">Mauricio Claver-Carone <a class="header-anchor" href="#mauricio-claver-carone" aria-label="Permalink to &quot;Mauricio Claver-Carone&quot;">​</a></h1><p>Mauricio Claver-Carone is a US diplomat who served as the special envoy for Latin America in the second administration of <a href="/entities/donald-trump">Donald Trump</a>.[1] In that role he served as the public voice of the administration&#39;s hardline posture toward the government of Venezuelan leader <a href="/entities/nicolas-maduro">Nicolás Maduro</a> in early 2025.[1]</p><h2 id="venezuela-deportation-demands" tabindex="-1">Venezuela deportation demands <a class="header-anchor" href="#venezuela-deportation-demands" aria-label="Permalink to &quot;Venezuela deportation demands&quot;">​</a></h2><p>In February 2025, after Trump dispatched envoy <a href="/entities/richard-grenell">Richard Grenell</a> to Caracas, Claver-Carone told reporters that &quot;President Trump expects Nicolas Maduro to take back all of the Venezuelan criminals and gang members that have been exported to the United States, and to do so unequivocally and without condition.&quot;[1] He added that Grenell was also demanding that &quot;American hostages need to be released — immediately, unequivocally.&quot;[1]</p><p>Claver-Carone urged the Maduro government to &quot;heed to Special Envoy Ric Grenell and to his demands and what he puts on the table, because ultimately, there will be consequences otherwise.&quot;[1] He stressed that the talks did not imply any softening of the US position on Maduro.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Writing in the <a href="/concepts/badlands-news-brief">Badlands News Brief</a>, <a href="/entities/burning-bright">Burning Bright</a> questioned whether observers treating Maduro purely as an adversary would reconsider if Trump and Maduro eventually normalized relations, framing Maduro as another &quot;strongman&quot; long targeted for overthrow by the CIA.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: North American Trade Troubles &amp; Unipartisan Panic&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-52f" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-52f</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/mauricio-claver-carone.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const mauricioClaverCarone = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  mauricioClaverCarone as default
+};

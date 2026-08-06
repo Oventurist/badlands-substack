@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, litigation, sex-abuse-allegations, houston]
-sources: [raw/badlands-news-brief-189.md]
+sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Speaking at a news conference in Texas, Buzbee said he expected lawsuits to be f
 
 [[badlands-media|Badlands Media]] commentary treats the wave of accusations Buzbee announced not as a distraction operation nor as the deep state sacrificing one of its own, but as the takedown of the entertainment arm of what the outlet describes as a transnational cartel.[1] The Brief links the litigation to broader prosecutorial activity by the [[southern-district-of-new-york|Southern District of New York]].[1]
 
+## Jay-Z civil suit (December 2024)
+
+In December 2024, Buzbee represented a plaintiff identified as "Jane Doe" whose civil complaint, amended on December 8, added [[jay-z|Shawn "Jay-Z" Carter]] as a defendant alongside [[sean-combs|Sean "Diddy" Combs]], alleging she was drugged and sexually assaulted by both men at an after-party following an MTV Video Music Awards night in 2000.[2] Carter said in a statement that Buzbee had sent him a letter demanding a settlement and accused the attorney of trying to force a settlement because of "the nature of these allegations and the public scrutiny," vowing to pay nothing and to expose what he called fraudulent claims in court.[2] Buzbee responded on X that since sending the letter on his client's behalf, Carter had "filed his frivolous case under a pseudonym" and had "tried to bully and harass" both him and the plaintiff.[2]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
+2. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

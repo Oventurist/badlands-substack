@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bitcoin, finance, markets, strategy]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71c.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -31,7 +31,12 @@ Badlands writers used Saylor's remarks as a springboard for a monetary argument:
 
 On February 5, 2025, Saylor's [[microstrategy|MicroStrategy Incorporated]] (Nasdaq: MSTR) announced it would do business as Strategy, presenting itself as the world's first and largest Bitcoin Treasury Company alongside its business intelligence operations.[3] The new identity used a stylized "B" and an orange primary color to signal the company's Bitcoin position.[3] Badlands contributor [[burning-bright|Burning Bright]] cited the rebrand as consistent with the view that Saylor's vehicle exists to compel the fiat currency class to finance its own obsolescence.[3]
 
+## Rugpull Radio appearance (Episode 94)
+
+Saylor appeared as the special guest on episode 94 of [[rugpull-radio|Rugpull Radio]], the Badlands Media Bitcoin program hosted by GMONEY and Patriots In Progress.[4] Badlands writers described him as a masterful communicator in the Bitcoin space who traverses narrative layers with ease, and praised the hosts for avoiding softball questions in favour of a first-principles approach comparable to Robert Breedlove's widely admired interview with him.[4] Commentary singled out "natural frequency" as the central takeaway of the conversation and highlighted Saylor's enthusiasm for the science-fiction writer Robert Heinlein as evidence of his intellectual seriousness.[4]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 3. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
+4. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

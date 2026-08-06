@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Lynn Forester de Rothschild","description":"","frontmatter":{"title":"Lynn Forester de Rothschild","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["rothschild","esg","inclusive-capitalism","globalism","finance"],"sources":["raw/badlands-news-brief-83d.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/lynn-forester-de-rothschild.md","filePath":"entities/lynn-forester-de-rothschild.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/lynn-forester-de-rothschild.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="lynn-forester-de-rothschild" tabindex="-1">Lynn Forester de Rothschild <a class="header-anchor" href="#lynn-forester-de-rothschild" aria-label="Permalink to &quot;Lynn Forester de Rothschild&quot;">​</a></h1><p>Lynn Forester de Rothschild is a financier and philanthropist described in Badlands Media coverage as the effective public face of the <a href="/entities/rothschild-family">Rothschild dynasty</a>.[1] She heads the <a href="/entities/council-for-inclusive-capitalism">Council for Inclusive Capitalism</a>, a project characterized by alternative-media analyst <a href="/entities/brandon-smith">Brandon Smith</a> of Alt-Market as the culmination of decades of globalist agendas and, in his framing, open confirmation of long-dismissed &quot;New World Order&quot; claims about governance by elites.[1]</p><h2 id="admission-of-esg-failure" tabindex="-1">Admission of ESG failure <a class="header-anchor" href="#admission-of-esg-failure" aria-label="Permalink to &quot;Admission of ESG failure&quot;">​</a></h2><p>At the B20 Summit in India in 2023, Forester de Rothschild publicly acknowledged the defeat of <a href="/concepts/esg">ESG</a> — environmental, social and governance investing — as a branded framework.[1] In the same remarks she suggested that the goal going forward would be to replace the term &quot;ESG&quot; with different language less recognizable to the public, an approach Alt-Market read as an intent to abandon the label while continuing the underlying program of steering corporations toward progressive policy commitments.[1]</p><p>Badlands contributor <a href="/entities/burning-bright">Burning Bright</a> treated the admission as a scion of the Rothschilds conceding the need to rebrand ESG terminology as a new form of collectivist stakeholder capitalism, arguing that the public had come to understand &quot;wokeism&quot; as an engineered assault on free-market dynamics and that a forced rebrand was evidence of the <a href="/concepts/great-awakening">Great Awakening</a> in progress.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Kabuki Congress &amp; Closing Walls&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-83d" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-83d</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/lynn-forester-de-rothschild.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const lynnForesterDeRothschild = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  lynnForesterDeRothschild as default
+};

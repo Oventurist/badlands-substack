@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md]
 confidence: medium
 ---
 
@@ -129,6 +129,14 @@ In late August 2024 Newsom was left to decide the fate of a bill making illegal 
 
 At The New York Times' DealBook Summit in early December 2025, actress Halle Berry publicly attacked Newsom for vetoing the Menopause Care Equity Act (AB 432) for the second consecutive year, saying that having overlooked and devalued 'half the population' he 'probably should not be our next president either.'[24] Her remarks reportedly drew gasps from an audience awaiting Newsom's own appearance later that afternoon.[24] Badlands host Ashe in America sided with the veto, arguing the bill was about who pays for menopause care rather than access to it.[24]
 
+## Response to the Portland deployment
+
+After a federal court blocked the federalization of the Oregon National Guard, Newsom announced on October 5, 2025 that President [[donald-trump|Donald Trump]] was instead deploying 300 [[california-army-national-guard|California National Guard]] personnel into Oregon, calling the order "un-American."[25] He vowed to sue, writing that the troops were "on their way there now," that "we are taking this fight back to court," and that "the public cannot stay silent in the face of such reckless and authoritarian conduct by the President of the United States."[25] The episode followed rulings by Judge [[charles-breyer|Charles Breyer]] that had returned control of federalized California troops to Newsom and later barred their use for domestic law enforcement in California under the [[posse-comitatus-act|Posse Comitatus Act]], with the underlying case, *Newsom v. Trump*, remaining before the [[united-states-court-of-appeals-for-the-ninth-circuit|Ninth Circuit]].[25]
+
+## January 2025 California wildfires
+
+As California burned in January 2025, Newsom sat for a half-hour podcast interview with former Obama administration official Jon Favreau, drawing sharp criticism from The Federalist, which wrote that "if excuses were good for putting out fires" the governor could have fixed his state in a jiffy.[26] In the interview Newsom characterized every criticism leveled at him as "misinformation," described himself as just as much a victim as anyone who watched their home burn, and maintained that he was helping fix the problem even though it was not his responsibility.[26] When Favreau suggested Newsom was "ultimately responsible as the governor of the state" and that a newly announced investigation into a water shortage looked to some like an effort to pass the blame, Newsom rejected the framing, saying, "I've got that question… And I want to get the answers."[26]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
@@ -154,3 +162,5 @@ At The New York Times' DealBook Summit in early December 2025, actress Halle Ber
 22. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 23. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 24. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+25. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+26. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966

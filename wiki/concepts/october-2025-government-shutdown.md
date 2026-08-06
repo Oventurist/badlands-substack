@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [government-shutdown, congress, federal-budget, appropriations, libertarianism]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -88,6 +88,13 @@ The administration said most states would receive funds to distribute full SNAP 
 
 The federal government shut down at midnight on 1 October 2025 after a deadlocked [[congress|Congress]] failed to reach a deal on funding, with Republicans and Democrats at odds over enhanced Obamacare subsidies.[10] Federal workers bore the brunt of the lapse, and the [[white-house|White House]] said federal workforce layoffs were "imminent," while agencies and activities deemed essential remained open.[10] Senators left town until Friday, meaning the shutdown would last at least until then and likely longer.[10] Badlands host [[chris-paul|Chris Paul]] responded that the United States is in "$37 trillion of odious debt on paper" which "is not the People's debt," and questioned Vice President [[jd-vance|JD Vance]]'s involvement in the negotiations.[10] The shutdown talks were also the backdrop to the [[deepfake-jeffries-sombrero-video|deepfake Jeffries sombrero video]] Trump posted after meeting [[hakeem-jeffries|Hakeem Jeffries]] and [[chuck-schumer|Chuck Schumer]].[10]
 
+## Vought and the threat of permanent cuts
+
+President [[donald-trump|Donald Trump]] warned Democrats that he would soon decide which "Democrat agencies" to cut and whether those reductions would be temporary or permanent, saying the shutdown had afforded him an "unprecedented opportunity."[11] On the Thursday morning after the shutdown began, he posted on Truth Social: "I have a meeting today with Russ Vought, he of PROJECT 2025 Fame."[11] The BBC reported that Trump was using [[project-2025|Project 2025]] as a threat to force Democrats to accept his budgetary demands, holding up [[russ-vought|Russ Vought]] — director of the [[office-of-management-and-budget|Office of Management and Budget]] and author of the blueprint's chapter on executive power — as a kind of budgetary angel of death ready to take a scythe to programs dear to Democrats.[11] That Thursday night Trump shared an AI-generated parody music video on Truth Social depicting Vought as the grim reaper, set to altered lyrics of Blue Öyster Cult's "Don't Fear the Reaper."[11]
+
+Badlands host [[burning-bright|Burning Bright]] said he and [[jon-herold|Jon Herold]] had laid out in advance how Trump and Vought would roll out budget cuts during a shutdown they had baited, predicting "a death by a thousand cuts sort of thing... doing ironically what the DOGE deployment said it was going to do," and judged the early results "so far, so good."[11] [[chris-paul|Chris Paul]] argued that the shutdown narrative was a rerun — "the covid death clock of 2025" — in which each side sacrifices principles on behalf of the State, and concluded that "it is good that the federal government is shut down," which should remain so at least until the People's relationship with the State has been totally reset.[11] The administration's warnings of major trimming of the federal government during the shutdown also preceded Defense Secretary [[pete-hegseth|Pete Hegseth]]'s firing of Navy chief of staff [[jon-harrison|Jon Harrison]].[11]
+
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -100,3 +107,4 @@ The federal government shut down at midnight on 1 October 2025 after a deadlocke
 8. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 9. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 10. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
+11. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-administration, ukraine, diplomacy, envoy]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ba.md]
 confidence: medium
 ---
 
@@ -43,8 +43,17 @@ The same commentary questioned whether the objective was truly to end the war as
 
 As President-elect [[donald-trump|Donald Trump]]'s incoming Ukraine envoy, Kellogg was asked on Fox News in December 2024 about the assassination of Russian general [[igor-kirillov|Igor Kirillov]] in Moscow.[4] He said he did not really think it was a setback for peace talks, but cautioned that "there are rules for warfare and there are certain things you just don't do," citing prohibitions on killing wounded soldiers and non-combatants.[4] "When you kill commanders, senior officers, admirals, or generals in their hometowns, it's kind of like you extended it and I don't think it's really smart to do it. It's just kind of not the rules of war," he said.[4]
 
+## Defense of the Alaska summit (August 2025)
+
+After the [[2025-trump-putin-alaska-summit|Anchorage summit]] between [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]], Kellogg called the meeting a historic step toward ending the Ukraine conflict and told critics to "shut up."[5] Speaking to Fox Business, he said "we're living in a really historic time," adding: "To the critics, I'd probably like to just say, oh, shut up and go sit in the corner."[5] He stressed that Trump had done more to address the conflict than his predecessor Joe Biden, who "never even talked to Putin," and contrasted Trump's direct negotiating style and push for a diplomatic solution with the previous administration's rejection of dialogue with Moscow and its pledge to arm Ukraine "as long as it takes."[5]
+
+## The "kayfabe double-agent" reading
+
+Badlands contributor GhostofBasedPatrickHenry described Kellogg as an example of a long-theorized archetype, the "kayfabe" double-agent.[5] In that account Kellogg ran into diplomatic trouble early in Trump's second term when the Russians claimed he was too closely aligned with Ukraine and NATO to be trusted, forcing a rebrand from Special Envoy for Russia and Ukraine to merely Special Envoy for Ukraine and allowing [[steve-witkoff|Steve Witkoff]] to step in as the envoy dealing with Moscow.[5] Kellogg has since continued to voice neoconservative war-hawk talking points in a manner some found cartoonish for a man of his rank; while many dismissed him as a Deep State shill, readers familiar with Jon Herold's [[devolution|Devolution]] series and the role Kellogg played in it were said to be more cautious about that conclusion.[5]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 3. Badlands Brief — "Badlands News Brief: Threats, Panic and Signal in the Engineered Noise", URL: https://badlands.substack.com/p/badlands-news-brief-688
 4. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
+5. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba

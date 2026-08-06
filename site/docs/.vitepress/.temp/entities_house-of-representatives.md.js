@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"United States House of Representatives","description":"","frontmatter":{"title":"United States House of Representatives","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["congress","legislature","united-states","democratic-party"],"sources":["raw/badlands-brief-b56.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/house-of-representatives.md","filePath":"entities/house-of-representatives.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/house-of-representatives.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="united-states-house-of-representatives" tabindex="-1">United States House of Representatives <a class="header-anchor" href="#united-states-house-of-representatives" aria-label="Permalink to &quot;United States House of Representatives&quot;">​</a></h1><p>The United States House of Representatives is the lower chamber of <a href="/entities/congress">Congress</a> and, in 2026, a focal point of internal Democratic Party conflict following a series of primary upsets.[1]</p><h2 id="_2026-democratic-primary-turmoil" tabindex="-1">2026 Democratic primary turmoil <a class="header-anchor" href="#_2026-democratic-primary-turmoil" aria-label="Permalink to &quot;2026 Democratic primary turmoil&quot;">​</a></h2><p>House Democrats began reassessing their political strategy after Rep. <a href="/entities/diana-degette">Diana DeGette</a> of Colorado lost her primary to <a href="/entities/justice-democrats">Justice Democrats</a>-backed challenger <a href="/entities/melat-kiros">Melat Kiros</a>.[1] Members of the caucus described the upset as a warning sign that even established progressive incumbents are vulnerable to challenges from the left, while progressive organizations pledged to keep targeting additional Democratic incumbents.[1] Concurrently, reports indicated that <a href="/entities/kamala-harris">Kamala Harris</a> had renewed outreach to Democratic donors and allies as she weighed her next political moves amid the party&#39;s shifting leadership landscape.[1]</p><h2 id="ukraine-funding-controversy" tabindex="-1">Ukraine funding controversy <a class="header-anchor" href="#ukraine-funding-controversy" aria-label="Permalink to &quot;Ukraine funding controversy&quot;">​</a></h2><p>Badlands commentary identified DeGette as the member who distributed the Ukraine flags waved on the House floor when Congress passed Ukraine assistance, characterizing the appropriation as &quot;money laundering.&quot;[1] The episode is cited by critics as emblematic of the chamber&#39;s foreign-funding priorities heading into the <a href="/concepts/2026-midterm-elections">2026 midterm elections</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A Communist Uprising &amp; A Globalist Humiliation Ritual&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-b56" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-b56</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/house-of-representatives.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const houseOfRepresentatives = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  houseOfRepresentatives as default
+};

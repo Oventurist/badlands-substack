@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [national-guard, portland, posse-comitatus, litigation, trump-administration]
-sources: [raw/badlands-news-brief-5e3.md]
+sources: [raw/badlands-news-brief-5e3.md, raw/badlands-news-brief-94b.md]
 confidence: high
 ---
 
@@ -34,5 +34,11 @@ Earlier in September 2025, a federal judge in California ruled that the administ
 
 Badlands host [[jon-herold|Jon Herold]] anticipated Posse Comitatus Act challenges to the deployment before Oregon's suit was reported, and argued that litigation would force courts to spell out the president's authority to use the military domestically. He linked Trump's domestic terrorism national security presidential memorandum to the so-called "RICO Grande" case, and recalled a 2022 attempt by Representative [[adam-schiff|Adam Schiff]] to amend the National Defense Authorization Act to bar evidence obtained in violation of the Posse Comitatus Act from being used in legal proceedings.[1]
 
+## California Guard substitution
+
+A federal judge in Oregon temporarily halted the Trump administration from sending 200 Oregon National Guard troops to Portland, a city that Badlands and press accounts described as having been under siege by anti-ICE agitators for more than 100 consecutive days.[2] Hours later, on October 5, 2025, President [[donald-trump|Donald Trump]] deployed 300 [[california-army-national-guard|California National Guard]] troops to Portland instead, prompting Governor [[gavin-newsom|Gavin Newsom]] to promise further litigation in what became the [[2025-portland-national-guard-deployment|2025 Portland National Guard deployment]].[2]
+
+
 ## References
 1. Badlands Brief — "Trump's Triangulation, Putin's Open Invitation, & Bibi's Backtalk", URL: https://badlands.substack.com/p/badlands-news-brief-5e3
+2. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

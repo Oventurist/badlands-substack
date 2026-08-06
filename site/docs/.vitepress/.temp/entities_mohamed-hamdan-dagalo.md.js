@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Mohamed Hamdan Dagalo","description":"","frontmatter":{"title":"Mohamed Hamdan Dagalo","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["sudan","paramilitary","rsf","russia","africa"],"sources":["raw/badlands-news-brief-46b.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/mohamed-hamdan-dagalo.md","filePath":"entities/mohamed-hamdan-dagalo.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/mohamed-hamdan-dagalo.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="mohamed-hamdan-dagalo" tabindex="-1">Mohamed Hamdan Dagalo <a class="header-anchor" href="#mohamed-hamdan-dagalo" aria-label="Permalink to &quot;Mohamed Hamdan Dagalo&quot;">​</a></h1><p>General Mohamed Hamdan Dagalo, known by the nickname &quot;Hemedti&quot; — glossed in Badlands coverage as &quot;Little Mohamed&quot; — is a Sudanese paramilitary commander associated with the <a href="/entities/rapid-support-forces">Rapid Support Forces</a>.[1] Badlands Media identified him as one of two men vying for control of the paramilitary group during the April 2023 fighting in <a href="/entities/sudan">Sudan</a>, the other being <a href="/entities/abdel-fattah-al-burhan">General Abdel Fattah al-Burhan</a>, head of the Sovereign Council and of the Sudanese military.[1]</p><h2 id="moscow-visit-and-russian-alignment" tabindex="-1">Moscow visit and Russian alignment <a class="header-anchor" href="#moscow-visit-and-russian-alignment" aria-label="Permalink to &quot;Moscow visit and Russian alignment&quot;">​</a></h2><p>Badlands writer <a href="/entities/ryan-delarme">Ryan DeLarme</a> highlighted Hemedti&#39;s February 23, 2022 visit to Moscow, noting that al-Burhan was conspicuously absent from the trip — a fact taken as evidence that the two generals may have had separate objectives and separate patrons.[1] DeLarme further observed that Hemedti&#39;s eight-day visit with <a href="/entities/vladimir-putin">Vladimir Putin</a> coincided with the announcement of U.S. sanctions against Russia over Putin&#39;s &quot;threatening actions&quot; and &quot;unprovoked aggression&quot; in Ukraine, per a <a href="/entities/white-house">White House</a> press release.[1]</p><h2 id="proxy-war-framing" tabindex="-1">Proxy-war framing <a class="header-anchor" href="#proxy-war-framing" aria-label="Permalink to &quot;Proxy-war framing&quot;">​</a></h2><p>The Badlands analysis treated Hemedti&#39;s Russian ties as central to the question of whose proxy the RSF represented after the group was reported to have seized a Sudanese bio-laboratory in Khartoum.[1] Russia&#39;s negotiated arrangement with Sudan for a naval base on the Red Sea coast was cited as a motive for outside powers to cultivate rival Sudanese factions.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Sudan Seized, Tucker Trashed &amp; ISIS Eliminated&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-46b" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-46b</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/mohamed-hamdan-dagalo.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const mohamedHamdanDagalo = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  mohamedHamdanDagalo as default
+};

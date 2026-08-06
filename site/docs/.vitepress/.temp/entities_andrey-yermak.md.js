@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Andrey Yermak","description":"","frontmatter":{"title":"Andrey Yermak","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["ukraine","corruption","zelensky","negotiations","media"],"sources":["raw/badlands-news-brief-02f.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/andrey-yermak.md","filePath":"entities/andrey-yermak.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/andrey-yermak.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="andrey-yermak" tabindex="-1">Andrey Yermak <a class="header-anchor" href="#andrey-yermak" aria-label="Permalink to &quot;Andrey Yermak&quot;">​</a></h1><p>Andrey Yermak is the chief of staff and top aide to Ukrainian leader <a href="/entities/volodymyr-zelensky">Vladimir Zelensky</a>, described in reporting as Zelensky&#39;s &quot;right-hand man&quot; and Kiev&#39;s principal negotiator in talks over ending the war with Russia.[1]</p><h2 id="corruption-allegations" tabindex="-1">Corruption allegations <a class="header-anchor" href="#corruption-allegations" aria-label="Permalink to &quot;Corruption allegations&quot;">​</a></h2><p>In November 2025, journalist <a href="/entities/tucker-carlson">Tucker Carlson</a> claimed in a post on X that the <a href="/entities/wall-street-journal">Wall Street Journal</a> had for months withheld a completed story documenting Yermak&#39;s &quot;personal corruption.&quot;[1] According to Carlson, Yermak &quot;skimmed hundreds of millions in American tax dollars meant for Ukraine aid,&quot; and the Journal&#39;s editors possessed material capable of proving it but declined to publish.[1]</p><h2 id="alleged-motive-for-suppression" tabindex="-1">Alleged motive for suppression <a class="header-anchor" href="#alleged-motive-for-suppression" aria-label="Permalink to &quot;Alleged motive for suppression&quot;">​</a></h2><p>Carlson argued that the story was being suppressed because Yermak, in his role as Kiev&#39;s lead negotiator, was &quot;leading efforts to scuttle&quot; the US-drafted plan to end the Russia–Ukraine conflict.[1] He attributed the decision to the Murdoch family, owners of the Journal, whom he said wanted &quot;to continue the war with Russia.&quot;[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> framed the episode as a dual exposure — of the Ukrainian government as &quot;a bunch of bloodsucking parasites&quot; and of the American media as complicit in those crimes — concluding with a single word: &quot;Accelerate.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Lavish Courtships, Extremely Strong Relations, &amp; Fake Election Rituals&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-02f" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-02f</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/andrey-yermak.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const andreyYermak = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  andreyYermak as default
+};

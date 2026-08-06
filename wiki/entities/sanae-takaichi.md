@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [japan, geopolitics, maritime-disputes, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-52b.md, raw/badlands-brief-7b5.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-545.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-52b.md, raw/badlands-brief-7b5.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -40,6 +40,11 @@ Takaichi hosted President [[donald-trump|Donald Trump]] in Tokyo in late October
 
 Badlands commentary identified Takaichi as a political protégé of [[shinzo-abe|Shinzo Abe]], described as arguably Trump's closest friend and ally in the [[sovereign-alliance|Sovereign Alliance]].[6] Her gift to Trump — a golf bag signed by Japanese golf legend Hideki Matsuyama, together with Abe's putter displayed in a glass case like a samurai sword — was praised as fantastic and respectful pageantry.[6] Commentators contrasted her favorably with her predecessor [[shigeru-ishiba|Shigeru Ishiba]], who they alleged had worked on behalf of [[nippon-steel|Nippon Steel]] in its bid for [[us-steel|US Steel]].[6]
 
+## LDP leadership victory
+
+In a historic first, Japan's ruling [[liberal-democratic-party|Liberal Democratic Party]] chose Takaichi as its leader on October 4, 2025, putting her on course to become the country's first female prime minister.[7] None of the five candidates won a clear majority in the first round, and Takaichi defeated Shinjiro Koizumi swiftly in the run-off; a parliamentary vote to replace outgoing premier [[shigeru-ishiba|Shigeru Ishiba]] was expected on October 15.[7] A former economic security and internal affairs minister with an expansionary fiscal agenda, she faced the task of rebuilding confidence in the LDP and fending off opposition groups promising stimulus and clampdowns on migrants in the [[2025-liberal-democratic-party-leadership-election|2025 LDP leadership election]].[7]
+
+
 ## References
 1. Badlands Brief — "Elections are Fake; as is Trump's Friendship with Bibi", URL: https://badlands.substack.com/p/badlands-brief-25c
 2. Badlands Brief — "Golgotha & The Metaverse", URL: https://badlands.substack.com/p/badlands-brief-52b
@@ -47,3 +52,4 @@ Badlands commentary identified Takaichi as a political protégé of [[shinzo-abe
 4. Badlands Brief — "Lavish Courtships, Extremely Strong Relations, & Fake Election Rituals", URL: https://badlands.substack.com/p/badlands-news-brief-02f
 5. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 6. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
+7. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

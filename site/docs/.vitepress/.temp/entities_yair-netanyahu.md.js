@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Yair Netanyahu","description":"","frontmatter":{"title":"Yair Netanyahu","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["israel","netanyahu-family","idf","miami"],"sources":["raw/badlands-news-brief-397.md","raw/badlands-news-brief-899.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/yair-netanyahu.md","filePath":"entities/yair-netanyahu.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/yair-netanyahu.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="yair-netanyahu" tabindex="-1">Yair Netanyahu <a class="header-anchor" href="#yair-netanyahu" aria-label="Permalink to &quot;Yair Netanyahu&quot;">​</a></h1><p><strong>Yair Netanyahu</strong> is the son of Israeli Prime Minister <a href="/entities/benjamin-netanyahu">Benjamin Netanyahu</a> and <a href="/entities/sara-netanyahu">Sara Netanyahu</a>.[1] As of late 2024 he was 33 years old and living in Miami, Florida, where his mother travelled for several weeks to visit him during the opening of his father&#39;s criminal corruption trial.[1]</p><h2 id="residence-in-miami-and-idf-controversy" tabindex="-1">Residence in Miami and IDF controversy <a class="header-anchor" href="#residence-in-miami-and-idf-controversy" aria-label="Permalink to &quot;Residence in Miami and IDF controversy&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> wrote that Yair had been in Miami since before the October 7, 2023 attack, avoiding an Israeli government mandate that able-bodied citizens of a certain age return to the country to fulfil obligations as reserve soldiers in the Israel Defense Forces.[1] According to the same account, IDF soldiers openly criticized him on social media for cowardice while he operated as a vocal political activist running his own podcast from Miami.[1]</p><h2 id="milchan-gift-allegation" tabindex="-1">Milchan gift allegation <a class="header-anchor" href="#milchan-gift-allegation" aria-label="Permalink to &quot;Milchan gift allegation&quot;">​</a></h2><p>Material highlighted on Badlands&#39; Devolution Power Hour in June 2025 alleged that Hollywood producer and former Mossad operative Arnon Milchan brought a Bugs Bunny doll to Yair Netanyahu at the request of his parents.[2] The anecdote was cited as an example of the gift relationship at issue in the corruption trial of his father, Prime Minister Benjamin Netanyahu.[2]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Pardon Me, Blue, but Whose Team Are You Really On?&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-397" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-397</a></li><li>Badlands Brief — &quot;Badlands News Brief: Daddy Issues &amp; Damage Assessments&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-899" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-899</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/yair-netanyahu.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const yairNetanyahu = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  yairNetanyahu as default
+};

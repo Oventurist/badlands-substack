@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Paxlovid","description":"","frontmatter":{"title":"Paxlovid","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["covid-19","pharmaceuticals","pfizer","antivirals"],"sources":["raw/badlands-news-brief-780.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/paxlovid.md","filePath":"concepts/paxlovid.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/paxlovid.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="paxlovid" tabindex="-1">Paxlovid <a class="header-anchor" href="#paxlovid" aria-label="Permalink to &quot;Paxlovid&quot;">​</a></h1><p>Paxlovid is <a href="/entities/pfizer">Pfizer</a>&#39;s COVID-19 antiviral medication. In October 2023 it became the focal point of a major downgrade to the drugmaker&#39;s financial outlook after demand for COVID therapeutics collapsed.[1]</p><h2 id="_2023-supply-agreement-amendment-and-guidance-cut" tabindex="-1">2023 supply agreement amendment and guidance cut <a class="header-anchor" href="#_2023-supply-agreement-amendment-and-guidance-cut" aria-label="Permalink to &quot;2023 supply agreement amendment and guidance cut&quot;">​</a></h2><p>On Friday, 13 October 2023, after the close of US markets, Pfizer announced that it had amended its US government Paxlovid supply agreement and would accept returns of the antiviral from the United States amid collapsing demand.[1] The company simultaneously slashed its full-year forecasts, cutting projected 2023 revenue to a range of $58 billion to $61 billion — a reduction of roughly $9 billion from the prior estimate of $67 billion to $70 billion.[1] Adjusted earnings per share guidance was reduced to between $1.45 and $1.65, down by more than half from the previous forecast of $3.25 to $3.45 per share.[1]</p><p>Alongside the guidance cut, Pfizer disclosed a multi-year, enterprise-wide &quot;cost realignment program&quot; targeting savings of at least $3.5 billion, of which $1.0 billion was expected in 2023 and a further $2.5 billion in 2024 — a move interpreted in coverage as a signal of imminent large-scale layoffs.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Commentator <a href="/entities/ashe-in-america">Ashe in America</a> framed the return of unused product and the reduction in demand forecasts as a vindication of vaccine and pharmaceutical skeptics, arguing that a shrinking pharmaceutical workforce and reduced revenue meant less &quot;experimental&quot; product entering the market, while noting that Pfizer had been in a downward trend all year and planned an investor call the following Monday at 8:00 a.m. ET to soften the market impact.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: US Carriers, FBI Warnings &amp; Election Wins&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-780" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-780</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/paxlovid.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const paxlovid = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  paxlovid as default
+};

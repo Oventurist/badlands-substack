@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Power the Future","description":"","frontmatter":{"title":"Power the Future","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["energy","advocacy","nonprofit","autopen","biden-administration"],"sources":["raw/badlands-news-brief-652.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/power-the-future.md","filePath":"entities/power-the-future.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/power-the-future.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="power-the-future" tabindex="-1">Power the Future <a class="header-anchor" href="#power-the-future" aria-label="Permalink to &quot;Power the Future&quot;">​</a></h1><p>Power the Future is a nonprofit advocacy organization that campaigns on behalf of American energy jobs and against restrictive climate regulation.[1] In May 2025 the group renewed its call for a formal investigation into more than half a dozen executive actions on climate and energy issued during the administration of <a href="/entities/joe-biden">Joe Biden</a>, arguing that the orders should be deemed null and void.[1]</p><h2 id="autopen-review-of-biden-climate-orders" tabindex="-1">Autopen review of Biden climate orders <a class="header-anchor" href="#autopen-review-of-biden-climate-orders" aria-label="Permalink to &quot;Autopen review of Biden climate orders&quot;">​</a></h2><p>The organization reviewed eight Biden executive orders that it characterized as significant shifts in domestic energy policy and reported that it could find no evidence of the president having spoken publicly about any of them.[1] Power the Future argued that this silence raised the possibility that the orders had been signed by autopen without the president&#39;s personal knowledge, a claim that fed the broader <a href="/concepts/autopen-scandal">autopen-scandal</a> controversy.[1]</p><p>The orders identified in the review included an Arctic drilling ban issued in 2023, a 2021 executive order committing the federal government to net-zero emissions by 2050, an order mandating &quot;clean energy&quot; artificial-intelligence data centers, and an offshore drilling ban signed shortly before Biden left office in 2025.[1]</p><h2 id="leadership" tabindex="-1">Leadership <a class="header-anchor" href="#leadership" aria-label="Permalink to &quot;Leadership&quot;">​</a></h2><p><a href="/entities/daniel-turner">Daniel Turner</a>, the group&#39;s founder and executive director, told Fox News Digital that &quot;these are not obscure bureaucratic memos; these were foundational shifts in American energy policy, yet not once did Joe Biden speak about them publicly.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Cocaine &amp; Climate Change&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-652" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-652</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/power-the-future.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const powerTheFuture = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  powerTheFuture as default
+};

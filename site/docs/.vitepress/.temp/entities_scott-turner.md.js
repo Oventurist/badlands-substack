@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Scott Turner","description":"","frontmatter":{"title":"Scott Turner","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["trump-administration","housing","senate-confirmations","cabinet"],"sources":["raw/badlands-news-brief-71c.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/scott-turner.md","filePath":"entities/scott-turner.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/scott-turner.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="scott-turner" tabindex="-1">Scott Turner <a class="header-anchor" href="#scott-turner" aria-label="Permalink to &quot;Scott Turner&quot;">​</a></h1><p><strong>Eric Scott Turner</strong> is an American politician and former professional football player who was confirmed as United States Secretary of Housing and Urban Development in February 2025 during the second administration of <a href="/entities/donald-trump">Donald Trump</a>.[1]</p><h2 id="background" tabindex="-1">Background <a class="header-anchor" href="#background" aria-label="Permalink to &quot;Background&quot;">​</a></h2><p>Turner spent nine years as a professional football player before entering politics, and was subsequently elected twice as a Texas State Representative.[1] He also served as chief visionary officer at the multifamily housing developer JPI.[1] During Trump&#39;s first term, Turner was tapped to promote investment in distressed neighborhoods, a portfolio associated with the federal opportunity-zone program.[1]</p><h2 id="confirmation-as-hud-secretary" tabindex="-1">Confirmation as HUD Secretary <a class="header-anchor" href="#confirmation-as-hud-secretary" aria-label="Permalink to &quot;Confirmation as HUD Secretary&quot;">​</a></h2><p>The Senate confirmed Turner to lead the <a href="/entities/department-of-housing-and-urban-development">Department of Housing and Urban Development</a> on Wednesday, February 5, 2025, by a vote of 55-44.[1] During his confirmation hearing he said that HUD is &quot;failing at its most basic mission,&quot; citing record-high homelessness and a shortage of affordable housing that leaves people struggling every day.[1]</p><p>Turner&#39;s confirmation placed him twelfth on the list of second-term Trump cabinet officials confirmed as of the end of that day, alongside Secretary of State Marco Rubio, CIA Director John Ratcliffe, Secretary of Defense Pete Hegseth, DHS Secretary Kristi Noem, Treasury Secretary Scott Bessent, Transportation Secretary Sean Duffy, EPA Administrator Lee Zeldin, Interior Secretary Doug Burgum, Energy Secretary Chris Wright, Veterans Affairs Secretary Doug Collins, and Attorney General <a href="/entities/pam-bondi">Pam Bondi</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Strategy &amp; Micro Protests&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-71c" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-71c</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/scott-turner.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const scottTurner = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  scottTurner as default
+};

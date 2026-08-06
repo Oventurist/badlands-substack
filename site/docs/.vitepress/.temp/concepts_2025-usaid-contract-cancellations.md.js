@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"2025 USAID Contract Cancellations","description":"","frontmatter":{"title":"2025 USAID Contract Cancellations","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["usaid","foreign-aid","doge","state-department","budget"],"sources":["raw/badlands-news-brief-071.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/2025-usaid-contract-cancellations.md","filePath":"concepts/2025-usaid-contract-cancellations.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/2025-usaid-contract-cancellations.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="_2025-usaid-contract-cancellations" tabindex="-1">2025 USAID Contract Cancellations <a class="header-anchor" href="#_2025-usaid-contract-cancellations" aria-label="Permalink to &quot;2025 USAID Contract Cancellations&quot;">​</a></h1><p>In March 2025 the <a href="/entities/donald-trump">Trump</a> administration officially canceled 83% of US foreign aid contracts, a mass termination announced by Secretary of State <a href="/entities/marco-rubio">Marco Rubio</a>.[1]</p><h2 id="announcement" tabindex="-1">Announcement <a class="header-anchor" href="#announcement" aria-label="Permalink to &quot;Announcement&quot;">​</a></h2><p>Rubio wrote on X early on a Monday morning that &quot;the 5200 contracts that are now cancelled spent tens of billions of dollars in ways that did not serve, (and in some cases even harmed), the core national interests of the United States.&quot;[1] The total number of contracts was roughly 6,200, representing programs appropriated by <a href="/entities/congress">Congress</a> in the last budget approval.[1] Rubio said the remaining 1,000 or so contracts would be administered by the <a href="/entities/state-department">State Department</a>, which had absorbed the <a href="/entities/usaid">U.S. Agency for International Development</a> the previous month.[1] In his post he thanked <a href="/entities/doge">DOGE</a> — the Department of Government Efficiency headed by <a href="/entities/elon-musk">Elon Musk</a> — for implementing &quot;overdue and historic reform.&quot;[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p><a href="/entities/jon-herold">Jon Herold</a> argued that it is &quot;totally unacceptable to keep ANY of these USAID contracts, let alone 1000 of them,&quot; comparing partial cancellation to a doctor removing only 83% of a cancerous tumor when the whole could have been excised, and urging readers not to celebrate the announcement.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Hot Wars Wind Down. Trade &amp; Meme Wars Heat Up.&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-071" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-071</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/2025-usaid-contract-cancellations.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const _2025UsaidContractCancellations = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  _2025UsaidContractCancellations as default
+};

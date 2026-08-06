@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Kristian Andersen","description":"","frontmatter":{"title":"Kristian Andersen","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["virology","covid-19","lab-leak","scripps"],"sources":["raw/badlands-news-brief-082.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/kristian-andersen.md","filePath":"entities/kristian-andersen.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/kristian-andersen.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="kristian-andersen" tabindex="-1">Kristian Andersen <a class="header-anchor" href="#kristian-andersen" aria-label="Permalink to &quot;Kristian Andersen&quot;">​</a></h1><p>Kristian Andersen is a virologist and infectious-disease researcher who became a central figure in congressional scrutiny of how the scientific consensus on the origins of COVID-19 was formed. Andersen was one of a small group of scientists who advised <a href="/entities/anthony-fauci">anthony-fauci</a> in the earliest weeks of the pandemic and who subsequently reversed their stated position on whether SARS-CoV-2 could have emerged from a laboratory.[1]</p><h2 id="the-january-2020-emails-and-the-reversal" tabindex="-1">The January 2020 emails and the reversal <a class="header-anchor" href="#the-january-2020-emails-and-the-reversal" aria-label="Permalink to &quot;The January 2020 emails and the reversal&quot;">​</a></h2><p>On January 31, 2020, Andersen and fellow researcher Robert Garry emailed Fauci to report that anomalies in the virus pointed toward a non-natural origin. Andersen wrote that the virus had &quot;unusual features&quot; that &quot;(potentially) look engineered,&quot; and reported that other scientists &quot;all find the genome inconsistent with expectations from evolutionary theory.&quot;[1]</p><p>Within three days, both scientists had publicly changed their position. At the first hearing of the House select subcommittee on COVID-19 origins in March 2023, <a href="/entities/jim-jordan">jim-jordan</a> argued that the only intervening event between the private emails and the public reversal was a conference call with Fauci and Francis Collins, and pointed to roughly $9 million in subsequent grant funding as, in his framing, &quot;nine million reasons&quot; for the shift.[1]</p><p>Commentary published in the <a href="/concepts/badlands-news-brief">badlands-news-brief</a> characterized the episode as evidence of pay-for-play dynamics in biomedical research funding, arguing that grant dependence effectively functioned as a bribe shaping published scientific conclusions on the <a href="/concepts/lab-leak-theory">lab-leak theory</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Tucker, Fauci, Biden &amp; Biology&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-082" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-082</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/kristian-andersen.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const kristianAndersen = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  kristianAndersen as default
+};

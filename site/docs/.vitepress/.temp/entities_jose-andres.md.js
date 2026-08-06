@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"José Andrés","description":"","frontmatter":{"title":"José Andrés","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["ukraine","biden-administration","ngo","celebrity"],"sources":["raw/badlands-news-brief-4cb.md"],"confidence":"low"},"headers":[],"relativePath":"entities/jose-andres.md","filePath":"entities/jose-andres.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/jose-andres.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="jose-andres" tabindex="-1">José Andrés <a class="header-anchor" href="#jose-andres" aria-label="Permalink to &quot;José Andrés&quot;">​</a></h1><p>José Andrés is a celebrity chef and humanitarian-relief organizer who appears in Badlands Media coverage principally because of his documented presence in Ukraine alongside <a href="/entities/ryan-routh">Ryan Routh</a>, the man accused of attempting to assassinate <a href="/entities/donald-trump">Donald Trump</a> in September 2024.[1]</p><h2 id="biden-administration-appointment" tabindex="-1">Biden administration appointment <a class="header-anchor" href="#biden-administration-appointment" aria-label="Permalink to &quot;Biden administration appointment&quot;">​</a></h2><p>In 2022 — two months before reporting emerged on the alleged movement of <a href="/entities/isis">ISIS</a>-linked fighters into Ukraine — Andrés was appointed co-chair of the President&#39;s Council on Sports, Fitness, &amp; Nutrition, an appointment announced by the White House under the <a href="/entities/joe-biden">Biden</a> administration.[1] Badlands cited this appointment to argue that Andrés was, at the relevant time, a figure formally connected to the sitting administration rather than a purely private humanitarian actor.[1]</p><h2 id="photograph-with-ryan-routh-in-kiev" tabindex="-1">Photograph with Ryan Routh in Kiev <a class="header-anchor" href="#photograph-with-ryan-routh-in-kiev" aria-label="Permalink to &quot;Photograph with Ryan Routh in Kiev&quot;">​</a></h2><p>Badlands presented Andrés as &quot;one guy from the Biden administration that we can prove was on the ground in Ukraine with Routh,&quot; pointing to a photograph of the two men taken in Kiev.[1] The commentary acknowledged the incongruity of the pairing but insisted the question it raised was serious: why an official administration appointee was photographed with a man who was simultaneously running large-scale foreign-fighter recruitment schemes and who would later be accused of trying to kill a former president.[1] Badlands framed this as one thread in a broader inquiry into what parts of the U.S. government knew of, or enabled, Routh&#39;s activities.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-4cb" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-4cb</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/jose-andres.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const joseAndres = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  joseAndres as default
+};

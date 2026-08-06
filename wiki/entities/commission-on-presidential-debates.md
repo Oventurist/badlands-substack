@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, debates, 2024-election, uniparty]
-sources: [raw/badlands-news-brief-09d.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -16,6 +16,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that Biden had d
 
 The dispute arose after the Biden campaign rejected two further debate proposals plus a vice-presidential debate, having decreed strict conditions for two debates only — the June [[cnn|CNN]] and September [[abc-news|ABC]] events — while Trump accepted additional invitations from [[fox-news|Fox News]] and NBC/Telemundo.[1]
 
+## Trump's March 2024 debate challenge
+
+The commission featured in [[donald-trump|Donald Trump]]'s March 6, 2024 Truth Social post calling on [[joe-biden|Joe Biden]] to debate him "ANYTIME, ANYWHERE, ANYPLACE."[2] Trump wrote that "the Debates can be run by the Corrupt DNC, or their Subsidiary, the Commission on Presidential Debates (CPD)," a framing that treated the ostensibly nonpartisan body as an arm of the Democratic Party.[2] The challenge came days after [[nikki-haley|Nikki Haley]] suspended her campaign following Super Tuesday losses, and after Trump had declined to participate in any Republican primary debate.[2] The Biden campaign dismissed the call as a bid for attention.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
+2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

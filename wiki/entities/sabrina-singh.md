@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, ukraine, kursk, us-policy, spokesperson]
-sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-960.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ On Tuesday, October 8, 2024, Singh, then [[pentagon|Pentagon]] deputy press secr
 
 The meeting had been scheduled as the United States and Israel debated how to respond to Iran's missile attack of the previous week, and Gallant had also been due to meet White House national security adviser [[jake-sullivan|Jake Sullivan]].[2] Israeli media reported that Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] told Gallant hours before departure that he did not approve of the trip and should wait until Netanyahu had spoken with President [[joe-biden|Joe Biden]] — the two had not spoken in nearly 50 days — and until the political-security cabinet approved Israel's planned actions against Iran.[2]
 
+## December 2024 denial of the Iranian "mothership" claim
+
+On Wednesday, December 11, 2024, Singh, as [[pentagon|Pentagon]] Deputy Press Secretary, publicly rejected the claim by Republican Congressman [[jefferson-van-drew|Jefferson Van Drew]] of New Jersey that Iranian drones were flying over New Jersey skies.[3] "There is not any truth to that," she told reporters, adding: "There is no Iranian ship off the coast of the United States ... and there is no so-called 'mothership' launching drones towards the United States."[3] She also stated that the objects "were not US military drones" and that "these are not drones or activities from a foreign entity or foreign adversary."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 2. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+3. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960

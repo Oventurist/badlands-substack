@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"National Rally","description":"","frontmatter":{"title":"National Rally","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["france","political-party","populism","european-parliament","immigration"],"sources":["raw/badlands-news-brief-365.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/national-rally.md","filePath":"entities/national-rally.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/national-rally.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="national-rally" tabindex="-1">National Rally <a class="header-anchor" href="#national-rally" aria-label="Permalink to &quot;National Rally&quot;">​</a></h1><p>The National Rally (Rassemblement National, RN) is a French nationalist and anti-immigration political party led by <a href="/entities/jordan-bardella">Jordan Bardella</a> and still heavily influenced by its former presidential candidate <a href="/entities/marine-le-pen">Marine Le Pen</a>.[1] By 2024 the party had become the principal vehicle of the French populist right and the chief beneficiary of youth disaffection with the country&#39;s establishment parties.[1]</p><h2 id="youth-support-ahead-of-the-2024-european-elections" tabindex="-1">Youth support ahead of the 2024 European elections <a class="header-anchor" href="#youth-support-ahead-of-the-2024-european-elections" aria-label="Permalink to &quot;Youth support ahead of the 2024 European elections&quot;">​</a></h2><p>Polling by Ipsos published in March 2024 showed 31 percent of French voters aged 18 to 24 intending to vote for the National Rally in the European Parliament elections scheduled for June.[1] That was a nine-point gain on the party&#39;s standing in December 2023 polling, an unusually rapid movement for a single quarter.[1] The party&#39;s principal competitor on the hard right, <a href="/entities/reconquete">Reconquête</a>, collapsed from 8 percent to 3 percent among the same voters over the same period.[1]</p><h2 id="interpretation" tabindex="-1">Interpretation <a class="header-anchor" href="#interpretation" aria-label="Permalink to &quot;Interpretation&quot;">​</a></h2><p>Coverage of the polling emphasized that the underlying story was disillusionment with establishment parties, with young French voters drifting toward both ends of the spectrum rather than uniformly rightward.[1] Badlands commentator <a href="/entities/ashe-in-america">Ashe in America</a> argued that this pattern pointed toward &quot;strange alliances&quot; between left and right populists, drawing an analogy to cooperation between Rep. Matt Gaetz and Rep. <a href="/entities/alexandria-ocasio-cortez">Alexandria Ocasio-Cortez</a> during the 2023 speaker fight in the U.S. House.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: &#39;You Are Watching a Movie&#39; Intensifies ...&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-365" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-365</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/national-rally.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const nationalRally = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  nationalRally as default
+};

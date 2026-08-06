@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Alex Beard","description":"","frontmatter":{"title":"Alex Beard","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["glencore","commodities","corruption","uk"],"sources":["raw/badlands-news-brief-06e.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/alex-beard.md","filePath":"entities/alex-beard.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/alex-beard.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="alex-beard" tabindex="-1">Alex Beard <a class="header-anchor" href="#alex-beard" aria-label="Permalink to &quot;Alex Beard&quot;">​</a></h1><p>Alex Beard is a British billionaire and the former head of oil at the commodity trading house <a href="/entities/glencore">Glencore</a>.[1] In August 2024 the UK <a href="/entities/serious-fraud-office">Serious Fraud Office</a> charged Beard and four other former executives with conspiring to make corrupt payments, following a long-running investigation into allegations of bribery by the UK-listed trader in Africa.[1]</p><h2 id="career-and-charges" tabindex="-1">Career and charges <a class="header-anchor" href="#career-and-charges" aria-label="Permalink to &quot;Career and charges&quot;">​</a></h2><p>Beard ran Glencore&#39;s oil division between 2007 and his retirement in 2019, and became a billionaire when the company listed in London in 2011.[1] He is the highest-profile commodity trader to be charged with corruption in the United Kingdom.[1] He was charged alongside former colleagues Andrew Gibson, Paul Hopkirk, Ramon Labiaga and Martin Wakefield in relation to oil contracts awarded in Glencore&#39;s interests, with the defendants required to appear before Westminster Magistrates&#39; Court on September 10, 2024.[1]</p><p>The SFO first opened its Glencore investigation in 2019 over allegations of bribery connected to the company&#39;s London-based West Africa desk, which sourced and traded crude oil across the continent.[1] The agency had initially planned to announce charges in 2023 but delayed the decision after receiving additional evidence.[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>Badlands commentary linked the Glencore prosecution to a wider web of resource-extraction corruption, including Israeli mining magnate <a href="/entities/dan-gertler">Dan Gertler</a> — sanctioned under <a href="/concepts/executive-order-13818">Executive Order 13818</a> in December 2017 — and to Glencore&#39;s pursuit of oil rights in Venezuela.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Fake Electionception, Sovereign Alliance Digs &amp; Chick Fights&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-06e" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-06e</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/alex-beard.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const alexBeard = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  alexBeard as default
+};

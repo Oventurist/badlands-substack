@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Nathan Hochman","description":"","frontmatter":{"title":"Nathan Hochman","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["prosecutor","los-angeles","immigration","law-enforcement"],"sources":["raw/badlands-news-brief-7e5.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/nathan-hochman.md","filePath":"entities/nathan-hochman.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/nathan-hochman.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="nathan-hochman" tabindex="-1">Nathan Hochman <a class="header-anchor" href="#nathan-hochman" aria-label="Permalink to &quot;Nathan Hochman&quot;">​</a></h1><p>Nathan Hochman is the District Attorney of Los Angeles County, California. He appeared in the <a href="/entities/badlands-media">Badlands Media</a> News Brief of July 2, 2025 in connection with the prosecution of participants in the anti-ICE riots that swept Los Angeles in June 2025.[1]</p><h2 id="prosecutions-arising-from-the-2025-los-angeles-riots" tabindex="-1">Prosecutions arising from the 2025 Los Angeles riots <a class="header-anchor" href="#prosecutions-arising-from-the-2025-los-angeles-riots" aria-label="Permalink to &quot;Prosecutions arising from the 2025 Los Angeles riots&quot;">​</a></h2><p>By July 1, 2025, the number of arrests stemming from the previous month&#39;s anti-ICE unrest in Los Angeles had surpassed forty. Among those charged were a teenager accused of attempted murder and a man arrested for striking a police officer with a flagpole.[1]</p><p>Hochman signalled that the prosecutorial effort would outlast the demonstrations themselves. &quot;The large-scale protests may have ended for now, but our work has not,&quot; he said in a statement issued on Tuesday, July 1. &quot;We are continuing to review evidence, identify suspects and file charges where the law has been broken.&quot;[1]</p><h2 id="context" tabindex="-1">Context <a class="header-anchor" href="#context" aria-label="Permalink to &quot;Context&quot;">​</a></h2><p>The riots had erupted in protest at nationwide raids by federal immigration agents enforcing <a href="/entities/donald-trump">President Trump</a>&#39;s order to detain and deport illegal immigrants. A report published the previous week estimated that the unrest had cost the City of Los Angeles more than $32 million in damages and police overtime, a figure that excluded the cost of the National Guard troops deployed by Trump.[1]</p><p>The prosecutions ran in parallel with a federal lawsuit brought by the <a href="/entities/department-of-justice">Justice Department</a> against the City of Los Angeles and Mayor <a href="/entities/karen-bass">Karen Bass</a> over the city&#39;s sanctuary policy.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Cartel Cybersnoops &amp; Teenage Spider Hackers&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-7e5" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-7e5</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/nathan-hochman.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const nathanHochman = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  nathanHochman as default
+};

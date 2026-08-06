@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, pipelines, russia, turkey, europe, black-sea]
-sources: [raw/badlands-brief-0bd.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ Because TurkStream links [[russia|Russian]] supply to European consumers via Tur
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] identified the TurkStream route across the Black Sea — along with the island of [[cyprus|Cyprus]] and Turkey's Aegean west coast — as places to watch for a possible [[nato|NATO]]/[[israel|Israeli]] operation amid escalating rhetoric toward Turkey.[1]
 
+## Hungary transit guarantee (December 2025)
+
+In December 2025, Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdoğan]] met Hungarian Prime Minister [[viktor-orban|Viktor Orbán]], and the two announced that [[turkey|Turkey]] would guarantee the continued and safe transit of Russian gas to Hungary via TurkStream, building on a 15-year agreement signed between the parties in 2021.[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] presented the arrangement as evidence that Erdoğan was being used to subvert efforts within the [[european-union|European Union]] to escalate conflict with [[russia|Russia]], and predicted that Turkey's rising centrality would make it the target of both kinetic and narrative attacks.[2]
+
 ## References
 
 1. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
+2. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

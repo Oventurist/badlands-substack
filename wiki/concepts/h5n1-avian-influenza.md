@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bird-flu, public-health, cdc, virology, h5n1]
-sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-83b.md]
+sources: [raw/badlands-news-brief-08e.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-970.md]
 confidence: medium
 ---
 
@@ -40,6 +40,12 @@ On May 8, 2024, [[food-and-drug-administration|FDA]] Commissioner [[robert-calif
 
 The Texas patient primarily experienced a single symptom, inflamed eyes, and neither that patient nor many of the infected cows suffered respiratory symptoms, even though H5N1 commonly infects the respiratory tracts of birds.[6] Califf warned that "The real worry is that it will jump to the human lungs, where, when that has happened in other parts of the world for brief outbreaks, the mortality rates have been 25 percent."[6] From 2003 to April 1, 2024, 889 cases of H5N1 had been confirmed globally according to the [[world-health-organization|World Health Organization]], of which 52 percent of patients died.[6]
 
+## CDC "posture of readiness" (February 2023)
+
+In late February 2023 US health officials ramped up pandemic preparedness plans following a bird flu scare in Cambodia, with the [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]] saying it was in a "posture of readiness" and had several vaccine and drug candidates in the works.[7] National testing capacity was also being built up in case the H5N1 strain that had devastated bird populations worldwide spilled over into people.[7] CDC influenza specialist John Barnes told an agency webinar on Monday, February 27, 2023: "Our priorities at this point are really to be in a posture of readiness. So we're continuing our pandemic planning activities and should the situation change, we've got surveillance activities and monitoring of exposed individuals."[7] Fears of a flu pandemic had intensified the previous week after a Cambodian father and daughter were diagnosed with H5N1, raising concern the virus was spreading between humans for the first time in decades.[7]
+
+Commenting in the [[badlands-news-brief|Badlands News Brief]], [[absolutetruth1776|AbsoluteTruth1776]] mocked the notion that the CDC could be trusted given its handling of COVID-19, and suggested that for anyone attentive to narrative seeding it was no leap to read the announcement as groundwork for another pandemic through which the public could be controlled.[7] Citing the known existence of biolabs in Ukraine and surfacing ties between the [[national-institutes-of-health|NIH]] and the CCP and Wuhan, he argued it was no longer a conspiracy theory to suggest such actors were willing to biologically attack humanity to retain control, and said the remedy was awareness and spreading the word.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -48,3 +54,4 @@ The Texas patient primarily experienced a single symptom, inflamed eyes, and nei
 4. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 5. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 6. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
+7. Badlands Brief — "Drones in Russia, J6 Footage & Socialist Policies", URL: https://badlands.substack.com/p/badlands-news-brief-970

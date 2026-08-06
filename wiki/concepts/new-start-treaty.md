@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nuclear, treaty, arms-control, geopolitics, badlands]
-sources: [raw/badlands-blitz-episode-5.md, raw/badlands-brief-0a2.md, raw/badlands-brief-314.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/badlands-blitz-episode-5.md, raw/badlands-brief-0a2.md, raw/badlands-brief-314.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -58,6 +58,11 @@ On February 21, 2023, [[vladimir-putin|Vladimir Putin]] announced a freeze on Ru
 
 [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] read the move as posturing rather than a prelude to nuclear war, arguing that the Biden administration had "undone 50 years of diplomacy" while its base supported confrontation with Russia, and speculating that a negotiated de-escalation brokered by [[donald-trump|Donald Trump]] would effectively secure his 2024 campaign.[7]
 
+## Putin's October 2025 one-year offer
+
+Speaking ahead of a Security Council meeting on Monday, October 6, 2025, Russian President [[vladimir-putin|Vladimir Putin]] said Moscow would continue to adhere to the treaty for one year after its expiration the following February, provided Washington agreed to do the same and refrained from actions that could break the nuclear status quo, such as deploying interceptor systems in space.[8] Putin said global strategic stability had been increasingly threatened by what he described as the destructive actions of Western nations, and stressed that while Moscow was ready to meet any threat it had always preferred political and diplomatic means of resolving conflicts.[8] RT noted that the 2010 treaty establishes limits on the number of intercontinental-range nuclear weapons each side may deploy.[8] Badlands host [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Putin and President [[donald-trump|Donald Trump]] were publicly telegraphing an intention to eliminate nuclear weapons worldwide while simultaneously signing bilateral agreements establishing civil nuclear energy programs in even the poorest countries, such as Burkina Faso.[8]
+
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 5: The END of the START ...", URL: https://badlands.substack.com/p/badlands-blitz-episode-5
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -66,3 +71,4 @@ On February 21, 2023, [[vladimir-putin|Vladimir Putin]] announced a freeze on Ru
 5. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 6. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
 7. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+8. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

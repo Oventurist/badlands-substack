@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, republican, israel, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -70,6 +70,10 @@ Haley lost the [[2024-new-hampshire-republican-primary|New Hampshire Republican 
 
 Badlands commentary read the contest structurally rather than as a straightforward defeat for Haley, with [[chris-paul|Chris Paul]] arguing that New Hampshire — where Democrats are historically permitted to vote in the Republican primary — functions as the establishment's mechanism for reversing the harder-to-manipulate Iowa result and manufacturing momentum for an establishment-favored candidate.[12]
 
+## Suspension of her campaign (March 2024)
+
+In early March 2024, following decisive losses to [[donald-trump|Donald Trump]] in the early primary states and on Super Tuesday, the former South Carolina governor announced that she was suspending her White House bid.[13] Her withdrawal left Trump as the presumptive Republican nominee and prompted him, the following day, to call publicly for debates with President [[joe-biden|Joe Biden]] "ANYTIME, ANYWHERE, ANYPLACE."[13] Badlands commentator [[ashe-in-america|Ashe in America]] dismissed Haley and the rest of the primary field as "fake primary contenders" who were never a serious threat, noting that Trump had led by as much as 70 points and arguing that debating "that clown car" would have been beneath him.[13]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -84,3 +88,4 @@ Badlands commentary read the contest structurally rather than as a straightforwa
 10. Badlands Brief — "Haley Sucks, Biden Dips & the CIA Does PR", URL: https://badlands.substack.com/p/badlands-news-brief-782
 11. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
 12. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+13. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

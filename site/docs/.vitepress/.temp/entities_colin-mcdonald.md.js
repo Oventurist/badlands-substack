@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Colin McDonald","description":"","frontmatter":{"title":"Colin McDonald","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["doj","fraud","trump-administration","nominations"],"sources":["raw/badlands-brief-1ce.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/colin-mcdonald.md","filePath":"entities/colin-mcdonald.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/colin-mcdonald.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="colin-mcdonald" tabindex="-1">Colin McDonald <a class="header-anchor" href="#colin-mcdonald" aria-label="Permalink to &quot;Colin McDonald&quot;">​</a></h1><p>Colin McDonald is a federal prosecutor nominated by President <a href="/entities/donald-trump">Donald Trump</a> on January 28, 2026 to serve as the first Assistant Attorney General for National Fraud Enforcement, heading a newly created division at the <a href="/entities/department-of-justice">Department of Justice</a>.[1] The role is described as targeting large-scale misuse of federal funds, fraud against taxpayers and federal programs, and related financial crimes.[1]</p><p>Trump confirmed the nomination publicly through social media, and the substance of the announcement was corroborated by national news outlets.[1] Primary reporting did not describe the position as limited to election fraud, though election-related financial crimes may fall within its scope.[1]</p><p>In his announcement, Trump described McDonald as &quot;a very Smart, Tough, and Highly Respected AMERICA FIRST Federal Prosecutor who has successfully delivered Justice in some of the most difficult and high stakes cases our Country has ever seen,&quot; and framed the new division as a response to fraud schemes uncovered in states such as Minnesota and California, which he said had cost taxpayers hundreds of billions of dollars.[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>Badlands contributor <a href="/entities/burning-bright">Burning Bright</a> characterized the creation of the <a href="/concepts/national-fraud-enforcement-division">Fraud Enforcement Division</a> and McDonald&#39;s nomination as an &quot;Actual&quot; development following the <a href="/concepts/fulton-county-election-raid">Fulton County raid</a> — evidence, in his framing, that long-running election-fraud narratives were converging with concrete institutional action.[1] In that reading, the division&#39;s mandate is &quot;not about scams&quot; but about exposing systems judged hostile to sovereign will.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;African Acceleration, Powell&#39;s Replacement, &amp; MEGA Democracy&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-1ce" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-1ce</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/colin-mcdonald.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const colinMcdonald = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  colinMcdonald as default
+};

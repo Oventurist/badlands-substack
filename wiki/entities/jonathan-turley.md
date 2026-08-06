@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-scholar, war-powers, congress, commentary]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md]
 confidence: low
 ---
 
@@ -82,6 +82,22 @@ Badlands writer [[burning-bright|Burning Bright]] noted that the mainstream pres
 
 In an August 10, 2023 post, Turley criticized the secret subpoena of Twitter obtained by Special Counsel [[jack-smith|Jack Smith]] for records tied to [[donald-trump|Donald Trump]]'s account, calling the $350,000 fine imposed by U.S. District Court judge [[beryl-howell|Beryl Howell]] for a three-day delay "hefty."[14] He identified the two most surprising and concerning elements as the secrecy of the subpoena and Howell's partial justification of it on the ground that Trump was a flight risk, neither of which he considered warranted even if the subpoena was otherwise appropriate.[14] Turley noted that the nondisclosure order barred the company from telling Trump or anyone else about the warrant despite Trump already knowing he was under investigation, and observed that the court's concern that Trump might change his course of conduct was implausible because he had remained "entirely undeterred" in his posting habits despite widespread criticism.[14]
 
+## Analysis of the Jack Smith report (January 2025)
+
+In a January 2025 Fox News opinion column, Turley assessed the first volume of special counsel [[jack-smith|Jack Smith]]'s final report, released at midnight on Tuesday, January 14, and compared it to the Supreme Court's Dobbs decision in the sense that "we had seen it before."[15] He argued there was little new in the document and that its critical omission was any explanation of how Smith had destroyed his own cases against [[donald-trump|Donald Trump]].[15] Turley singled out Smith's reliance on what he called a dubious concurrence by Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]], an interpretation he had previously described as too clever by half.[15]
+
+Turley characterized much of the report as "vintage Smith" in dismissing countervailing precedent while insisting he could "obtain and sustain a conviction at trial," conceding Smith might obtain a conviction before a Washington, D.C. jury and a motivated judge but arguing he could never have sustained one.[15] He noted the report's repetition of conclusory evidence such as Trump saying "fight" ten times in his January 6, 2021 speech, its minimization of the immunity decision, and above all its treatment of the obstruction claims as indicative of a prosecutor who repeatedly lost cases by overextending constitutional and statutory authority.[15] He observed that the Supreme Court's ruling in [[fischer-v-united-states|Fischer v. United States]] would potentially affect hundreds of January 6 cases through dismissals or resentencings, including Trump's own pending four-count prosecution with its two obstruction counts.[15]
+
+## Commentary on the Trump conviction appeal (2024)
+
+Writing in [[the-hill|The Hill]] under the headline "Bragg's thrill kill in Manhattan could prove short-lived on appeal," Turley argued that the conviction of former President [[donald-trump|Donald Trump]] on 34 felonies produced "citywide celebrations" and a "thrill-kill environment" extending into the media, and that "the celebrants would be wise to think twice before mounting this trophy kill on the political wall."[16] In his assessment the trial was "a target-rich environment for an appeal, with multiple layers of reversible error."[16] He was less convinced by arguments that Trump could not receive a fair trial in a district that voted roughly 90 percent against him, writing that "the problem was not the jury, but the prosecutors and the judge."[16]
+
+Badlands writer [[ashe-in-america|Ashe in America]] emphasized that Turley had been in the courtroom every day of the trial, live-tweeting developments, and that the fact a legal scholar still had questions about the charges and legal standards after observing the entire proceeding first hand "should give all of us pause."[16]
+
+## New York Times hypocrisy on troop deployments (March 2024)
+
+On March 7, 2024, Turley published a column arguing that [[new-york-times|The New York Times]] faced claims of hypocrisy over its coverage of the deployment of troops.[17] He noted Senator [[tom-cotton|Tom Cotton]]'s observation that the paper reported matter-of-factly on Governor [[kathy-hochul|Kathy Hochul]]'s plan to send [[national-guard|National Guard]] troops into New York City's subway system, while four years earlier it had publicly denounced Cotton for an op-ed urging the same remedy against violent riots in Washington.[17] Turley, who had previously written on the affair, observed that the Cotton column was historically accurate and that critics never explained what in it was false or outside the range of permissible interpretation.[17] He described the paper's response as "a breathtaking surrender," in which it apologized, promised an investigation into how an opposing view reached its pages, and pledged to reduce the number of editorials it ran; when Democratic officials actually ordered such a deployment, he wrote, the Times offered "little more than a journalistic shrug."[17]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -98,3 +114,6 @@ In an August 10, 2023 post, Turley criticized the secret subpoena of Twitter obt
 12. Badlands Brief — "Badlands News Brief: Fake Candidates Engage in Fake Debate; Everyone Loses", URL: https://badlands.substack.com/p/badlands-news-brief-6bf
 13. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 14. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+15. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+16. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
+17. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

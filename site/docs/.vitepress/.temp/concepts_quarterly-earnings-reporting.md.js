@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Quarterly Earnings Reporting","description":"","frontmatter":{"title":"Quarterly Earnings Reporting","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["sec","corporate-governance","earnings","regulation","trump"],"sources":["raw/badlands-news-brief-1ed.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/quarterly-earnings-reporting.md","filePath":"concepts/quarterly-earnings-reporting.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/quarterly-earnings-reporting.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="quarterly-earnings-reporting" tabindex="-1">Quarterly Earnings Reporting <a class="header-anchor" href="#quarterly-earnings-reporting" aria-label="Permalink to &quot;Quarterly Earnings Reporting&quot;">​</a></h1><p>Quarterly earnings reporting is the requirement that publicly traded U.S. companies disclose financial results every three months, a rule first imposed by the <a href="/entities/securities-and-exchange-commission">Securities and Exchange Commission</a> in 1970.[1]</p><h2 id="trump-s-2025-proposal" tabindex="-1">Trump&#39;s 2025 proposal <a class="header-anchor" href="#trump-s-2025-proposal" aria-label="Permalink to &quot;Trump&#39;s 2025 proposal&quot;">​</a></h2><p>On Monday, 15 September 2025, President <a href="/entities/donald-trump">Donald Trump</a> said that U.S.-based companies should report every six months instead of every three, arguing the shift would save cash and keep executives focused on their businesses.[1] Writing on <a href="/entities/truth-social">Truth Social</a>, he said, &quot;This will save money, and allow managers to focus on properly running their companies,&quot; and added: &quot;Did you ever hear the statement that, &#39;China has a 50 to 100 year view on management of a company, whereas we run our companies on a quarterly basis???&#39; Not good!!!&quot;[1]</p><p>Despite Trump&#39;s invocation of <a href="/entities/china">China</a>, Chinese companies do file quarterly reports as well as semiannual and annual reports; only companies listed on the Hong Kong stock exchange file solely on a semiannual basis.[1] Any change would require approval from the Securities and Exchange Commission.[1]</p><h2 id="international-comparison" tabindex="-1">International comparison <a class="header-anchor" href="#international-comparison" aria-label="Permalink to &quot;International comparison&quot;">​</a></h2><p>Ending mandatory quarterly earnings reports would bring the United States more in line with the United Kingdom and the <a href="/entities/european-union">European Union</a>, where companies are required to report twice a year but are permitted to submit quarterly reports.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Military in Memphis &amp; Patrols in Poland&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-1ed" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-1ed</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/quarterly-earnings-reporting.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const quarterlyEarningsReporting = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  quarterlyEarningsReporting as default
+};

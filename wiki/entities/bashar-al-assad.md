@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, regime-change, isis, russia]
-sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-dereliction-of-duty.md, raw/arabian-nights.md, raw/assad-day-in-damascus.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md]
 confidence: low
 ---
 
@@ -69,6 +69,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 
 Badlands commentary offered three explanations for the [[fall-of-the-assad-regime|fall of the Assad regime]]. Around 2009 two competing Persian Gulf pipeline projects — one from Iran terminating in Lebanon, one from Qatar through Turkey into Europe — would have challenged Russia's Nord Stream, and both required Syrian transit; Assad reportedly rejected both.[9] Second, after the death of his older brother, the ophthalmologist Bashar became the unlikely heir to his father Hafez al-Assad and in 2005 proposed the [[five-seas-vision|Five Seas Vision]], a rail network connecting the Mediterranean, Red, Black and Caspian seas and the Persian Gulf with Aleppo at its heart; Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and China had reportedly approached him about reviving it under the [[belt-and-road-initiative|Belt and Road Initiative]] and [[saudi-vision-2030|Saudi Vision 2030]].[9] Third, the [[greater-israel|Greater Israel]] thesis, with [[benjamin-netanyahu|Benjamin Netanyahu]] boasting of ordering annexation in the [[golan-heights|Golan Heights]] and [[bezalel-smotrich|Bezalel Smotrich]] having claimed Damascus for Israel on scriptural grounds.[9] Netanyahu separately claimed credit for starting the "historic" chain of events that felled the regime, attributing it to blows against Iran and [[hezbollah|Hezbollah]].[9]
 
+## Place among Arab Spring leaders
+
+Axios reporting in December 2024 placed Assad's flight to Russia within the long arc of the [[arab-spring|Arab Spring]], noting that he fled Syria more than 13 years after the uprising against him began.[10] Of the six countries that saw the most sustained protest movements in 2011, Assad was the fifth leader to be ousted, more than a decade after the previous four.[10] Tunisian President Zine al-Abidine Ben Ali fell first in January 2011, Egyptian President Hosni Mubarak the following month, Libyan leader Muammar Gaddafi was killed in October 2011, and Yemeni President Ali Abdullah Saleh stepped down in February 2012, while Bahrain's monarchy under Hamad bin Isa Al Khalifa survived the protests.[10] Tunisia alone built a sustained democracy, though it deteriorated under economic crisis and the authoritarian leadership of President Kais Saied; Egypt held elections in 2012 before [[abdel-fattah-el-sisi|Abdel Fattah el-Sisi]] took power in a coup, and Libya and Yemen suffered more than a decade of war and instability.[10]
+
+Badlands commentary read Assad's departure as part of a template rather than an isolated collapse, arguing that his withdrawal to Moscow was followed by Russian maneuvers producing no intra-Sovereign Alliance fire, that [[centcom|US CENTCOM]] used the opening to conduct 75 precision-strike air raids on [[islamic-state|ISIS]] targets across central Syria, and that globalist coalitions were openly praising "former al Qaeda" leadership.[10] It characterized Assad as one of several populist Middle Eastern leaders who ran afoul of the U.S. [[military-industrial-complex|military-industrial complex]], while observing that both the U.S. and Russian militaries appeared to be striking Assad's enemies rather than Assad himself, and likened the 2011 Arab Spring regime changes to the 2014 Maidan coup in Ukraine and the 2003 removal of Saddam Hussein.[10]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -79,3 +85,4 @@ Badlands commentary offered three explanations for the [[fall-of-the-assad-regim
 7. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 8. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
+10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960

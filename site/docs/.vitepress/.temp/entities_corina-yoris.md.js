@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Corina Yoris","description":"","frontmatter":{"title":"Corina Yoris","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["venezuela","elections","opposition"],"sources":["raw/badlands-news-brief-491.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/corina-yoris.md","filePath":"entities/corina-yoris.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/corina-yoris.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="corina-yoris" tabindex="-1">Corina Yoris <a class="header-anchor" href="#corina-yoris" aria-label="Permalink to &quot;Corina Yoris&quot;">​</a></h1><p>Dr. Corina Yoris is a Venezuelan academic who was designated as the substitute presidential candidate of the opposition after <a href="/entities/maria-corina-machado">María Corina Machado</a> was barred from the ballot ahead of Venezuela&#39;s July 2024 election.[1]</p><h2 id="blocked-candidacy" tabindex="-1">Blocked candidacy <a class="header-anchor" href="#blocked-candidacy" aria-label="Permalink to &quot;Blocked candidacy&quot;">​</a></h2><p>The government of <a href="/entities/nicolas-maduro">Nicolás Maduro</a> blocked the Democratic Unitary Platform (PUD) opposition coalition from registering its candidate before a midnight deadline in the early hours of March 26, 2024, and Yoris — Machado&#39;s chosen successor — was also blocked.[1] The obstruction was executed through Venezuela&#39;s National Electoral Council.[1]</p><h2 id="international-response" tabindex="-1">International response <a class="header-anchor" href="#international-response" aria-label="Permalink to &quot;International response&quot;">​</a></h2><p>At a press briefing aboard Air Force One on the afternoon of March 26, 2024, <a href="/entities/white-house">White House</a> Press Secretary <a href="/entities/karine-jean-pierre">Karine Jean-Pierre</a> said the administration was &quot;deeply concerned by the National Electoral Council&#39;s decision to prevent the registration of … the democratic opposition party&#39;s candidate, Dr. Corina Yoris,&quot; and stated that the United States was working with other members of the international community to ensure Venezuelans could participate in inclusive and competitive elections.[1] She suggested Venezuela could lose sanctions relief if the Maduro regime did not provide free and fair elections.[1]</p><p>Badlands Media writer <a href="/entities/ashe-in-america">Ashe in America</a> highlighted what she called palpable hypocrisy in the administration&#39;s posture, noting that officials condemning the exclusion of Venezuela&#39;s leading opposition candidate were simultaneously engaged in legal actions against <a href="/entities/donald-trump">Donald Trump</a>, the leading candidate in the United States.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Dali, Diddy &amp; DJT&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-491" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-491</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/corina-yoris.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const corinaYoris = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  corinaYoris as default
+};

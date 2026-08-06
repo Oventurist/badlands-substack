@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Argentine Austerity Protests (December 2023)","description":"","frontmatter":{"title":"Argentine Austerity Protests (December 2023)","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["argentina","milei","deregulation","socialism","protests"],"sources":["raw/badlands-news-brief-37f.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/argentine-austerity-protests-2023.md","filePath":"concepts/argentine-austerity-protests-2023.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/argentine-austerity-protests-2023.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="argentine-austerity-protests-december-2023" tabindex="-1">Argentine Austerity Protests (December 2023) <a class="header-anchor" href="#argentine-austerity-protests-december-2023" aria-label="Permalink to &quot;Argentine Austerity Protests (December 2023)&quot;">​</a></h1><p>In late December 2023, socialist activists and workers&#39; unions converged on Buenos Aires to protest the impending &quot;austerity&quot; cuts of newly inaugurated President <a href="/entities/javier-milei">Javier Milei</a>.[1]</p><h2 id="the-protests" tabindex="-1">The protests <a class="header-anchor" href="#the-protests" aria-label="Permalink to &quot;The protests&quot;">​</a></h2><p>Demonstrators carried images of Che Guevara and Eva Perón as they marched in the capital.[1] The cuts formed part of Milei&#39;s sweeping economic measures, which would erase or rewrite over 300 rules regulating and restricting private enterprise within <a href="/entities/argentina">Argentina</a>.[1] Protesters argued that deregulation would pave the way for big business interests while reducing welfare programmes and public protections.[1]</p><p>Commentators noted that the protests rested on a number of assumptions and were reactionary at best, given that Milei had been in office for a mere two weeks.[1] Speaking from the presidential palace, Milei said the goal was &quot;to start along the path to rebuilding the country... and start to undo the huge number of regulations that have held back and prevented economic growth.&quot;[1]</p><h2 id="framing" tabindex="-1">Framing <a class="header-anchor" href="#framing" aria-label="Permalink to &quot;Framing&quot;">​</a></h2><p>The source coverage treated the backlash from leftist elements as an illustration of the pitfalls of allowing socialism to take root in a country for any length of time, and dismissed the argument that Argentina &quot;was never truly socialist&quot; as a classic far-left deflection deployed whenever a socialist government or economy fails.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Teflon Don Marches Into the New Year as Biden Stumbles&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-37f" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-37f</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/argentine-austerity-protests-2023.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const argentineAusterityProtests2023 = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  argentineAusterityProtests2023 as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Jacob Zuma","description":"","frontmatter":{"title":"Jacob Zuma","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["south-africa","anc","mkp","elections"],"sources":["raw/badlands-news-brief-3e8.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/jacob-zuma.md","filePath":"entities/jacob-zuma.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/jacob-zuma.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="jacob-zuma" tabindex="-1">Jacob Zuma <a class="header-anchor" href="#jacob-zuma" aria-label="Permalink to &quot;Jacob Zuma&quot;">​</a></h1><p>Jacob Zuma is a former president of South Africa and former leader of the <a href="/entities/african-national-congress">African National Congress</a> (ANC) who, at age 82, returned to electoral politics at the head of a new party ahead of the May 29, 2024 South African general election.[1]</p><h2 id="return-to-politics-and-the-mkp" tabindex="-1">Return to politics and the MKP <a class="header-anchor" href="#return-to-politics-and-the-mkp" aria-label="Permalink to &quot;Return to politics and the MKP&quot;">​</a></h2><p>After evading prison by claiming terminal illness, Zuma formed the Umkhonto we Sizwe party (MKP).[1] Badlands commentary characterized his re-entry as a successful insurgency against <a href="/entities/cyril-ramaphosa">Cyril Ramaphosa</a>, who now leads Zuma&#39;s former party, the ANC.[1] The MKP appeared to have formed an alliance with another newly emerged party, the Economic Freedom Fighters (EFF), led by ANC defector <a href="/entities/julius-malema">Julius Malema</a>.[1]</p><h2 id="badlands-interpretation" tabindex="-1">Badlands interpretation <a class="header-anchor" href="#badlands-interpretation" aria-label="Permalink to &quot;Badlands interpretation&quot;">​</a></h2><p>Writing as <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a>, the Badlands contributor had earlier described the &quot;Sovereign Alliance&quot; expelling what he terms the Globalist Empire from South Africa, and the Empire&#39;s effort to retake control through its agent Zuma; following the 2024 election result he assessed that, for the time being, the Empire had succeeded.[1] Zuma&#39;s corrupt past had been detailed in previous briefs, and he was described as presenting himself as a white-collar criminal in contrast to Malema&#39;s more overtly warlord-like archetype.[1] The commentary noted that the MKP and EFF branded themselves as pro-multipolar and aligned with Beijing and Moscow while simultaneously advocating seizure of white-owned land and nationalization of mines and banks — positions read as a subversion of the Sovereign Alliance&#39;s years-long effort to legally usurp mining rights from the Empire.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Fauci Squirms, Pollsters Panic &amp; Elections Erupt&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-3e8" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-3e8</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/jacob-zuma.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jacobZuma = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jacobZuma as default
+};

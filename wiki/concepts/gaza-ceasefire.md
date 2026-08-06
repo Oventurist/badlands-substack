@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, israel, hamas, diplomacy]
-sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-995.md]
 confidence: medium
 ---
 
@@ -78,6 +78,12 @@ In the early hours of Friday, January 17, Prime Minister [[benjamin-netanyahu|Be
 
 Badlands contributor GhostofBasedPatrickHenry read the sequence as a trap closing on Netanyahu: because Donald Trump had already spiked the football with repeated Truth Social celebrations, the delay registered publicly as Netanyahu pulling defeat from the jaws of victory, with the first hostage exchange falling on the day of Trump's inauguration.[10] He noted Netanyahu's coalition would retain a Knesset majority even without [[itamar-ben-gvir|Itamar Ben Gvir]]'s party, but would fall to a minority if [[bezalel-smotrich|Bezalel Smotrich]]'s [[religious-zionism-party|Religious Zionism]] also followed through on threats to depart, while opposition parties promised to support the coalition so long as it advanced the deal.[10]
 
+## Biden's May 31, 2024 road map announcement
+
+On Friday, May 31, 2024, President [[joe-biden|Joe Biden]] announced the terms of an Israeli-led proposal comprising a three-part road map toward an end to the fighting and the release of all remaining hostages taken on October 7, describing it as the strongest indication yet of a potential end to the war between Israel and [[hamas|Hamas]].[11] "After intensive diplomacy carried out by my team, my many conversations with leaders of Israel, [[qatar|Qatar]] and [[egypt|Egypt]], and other Middle Eastern countries, Israel has offered a comprehensive new proposal. It's a road map to an enduring cease-fire and the release of all hostages," Biden said.[11]
+
+The proposal was transmitted to Hamas via Qatar, though Biden indicated the group had not yet formally accepted the plan.[11] "This is truly a decisive moment. Israel has made their proposal. Hamas says it wants a cease-fire — this deal is an opportunity to prove whether they really mean it. Hamas needs to take the deal," he said.[11] Speaking from the White House podium, Biden also urged Israelis to back the deal, arguing that the military had devastated Hamas to such an extent that October 7 could not be repeated.[11] The announcement was reported by [[the-hill|The Hill]].[11]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -89,3 +95,4 @@ Badlands contributor GhostofBasedPatrickHenry read the sequence as a trap closin
 8. Badlands Brief — "Fair Trade, Debt Slavery, & Your Mom", URL: https://badlands.substack.com/p/badlands-news-brief-623
 9. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
 10. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
+11. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995

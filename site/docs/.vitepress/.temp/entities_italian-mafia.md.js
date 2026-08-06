@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Italian Mafia","description":"","frontmatter":{"title":"Italian Mafia","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["organized-crime","hollywood"],"sources":["raw/a-journey-of-ever-changing-truths.md"],"confidence":"low"},"headers":[],"relativePath":"entities/italian-mafia.md","filePath":"entities/italian-mafia.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/italian-mafia.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="italian-mafia" tabindex="-1">Italian Mafia <a class="header-anchor" href="#italian-mafia" aria-label="Permalink to &quot;Italian Mafia&quot;">​</a></h1><p>The Italian Mafia is presented in Erik Carlson&#39;s essay as a real criminal organization whose standing at the summit of American organized crime was, he argues, a Hollywood-manufactured illusion.<a href="https://badlands.substack.com/p/a-journey-of-ever-changing-truths" target="_blank" rel="noreferrer">[1]</a></p><h2 id="belief-and-revision" tabindex="-1">Belief and revision <a class="header-anchor" href="#belief-and-revision" aria-label="Permalink to &quot;Belief and revision&quot;">​</a></h2><p>Carlson describes growing up watching Italian Mafia films — <em>The Godfather</em>, <em>The Godfather Part II</em>, and later <em>Goodfellas</em> and <em>Casino</em> — and believing as a result that the Italian Mafia was in charge of organized crime in America. He attributes that belief directly to Hollywood.<a href="https://badlands.substack.com/p/a-journey-of-ever-changing-truths" target="_blank" rel="noreferrer">[1]</a></p><p>He later concluded that the <a href="/entities/jewish-mafia">Jewish Mafia</a> sat above the Italian Mafia, and that the <a href="/entities/cia">CIA</a> sat above the Jewish Mafia in the pecking order.<a href="https://badlands.substack.com/p/a-journey-of-ever-changing-truths" target="_blank" rel="noreferrer">[1]</a> After <em><a href="/concepts/the-godfather">The Godfather</a></em> was released, the Italian Mafia became synonymous with organized crime and the Italian godfathers were viewed as its apex.<a href="https://badlands.substack.com/p/a-journey-of-ever-changing-truths" target="_blank" rel="noreferrer">[1]</a></p><p>Carlson is explicit that this is not a claim that the Italian Mafia is fictional or non-criminal — only that its power and standing in organized crime are greatly exaggerated.<a href="https://badlands.substack.com/p/a-journey-of-ever-changing-truths" target="_blank" rel="noreferrer">[1]</a> The pattern serves as his template for the later argument that Jews and Israel function as scapegoats for the <a href="/concepts/deep-state-cabal">Cabal</a>.<a href="https://badlands.substack.com/p/a-journey-of-ever-changing-truths" target="_blank" rel="noreferrer">[1]</a></p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A Journey of Ever-changing Truths&quot;, URL: <a href="https://badlands.substack.com/p/a-journey-of-ever-changing-truths" target="_blank" rel="noreferrer">https://badlands.substack.com/p/a-journey-of-ever-changing-truths</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/italian-mafia.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const italianMafia = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  italianMafia as default
+};

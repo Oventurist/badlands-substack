@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Department of Defense Office of Inspector General","description":"","frontmatter":{"title":"Department of Defense Office of Inspector General","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["oversight","pentagon","ukraine-aid","inspector-general"],"sources":["raw/badlands-news-brief-8c5.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/department-of-defense-office-of-inspector-general.md","filePath":"entities/department-of-defense-office-of-inspector-general.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/department-of-defense-office-of-inspector-general.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="department-of-defense-office-of-inspector-general" tabindex="-1">Department of Defense Office of Inspector General <a class="header-anchor" href="#department-of-defense-office-of-inspector-general" aria-label="Permalink to &quot;Department of Defense Office of Inspector General&quot;">​</a></h1><p>The Department of Defense Office of Inspector General (DoD OIG) is the independent oversight arm of the <a href="/entities/department-of-defense">Department of Defense</a>, responsible for auditing and investigating the department&#39;s programs and spending.[1]</p><h2 id="ukraine-assistance-oversight" tabindex="-1">Ukraine assistance oversight <a class="header-anchor" href="#ukraine-assistance-oversight" aria-label="Permalink to &quot;Ukraine assistance oversight&quot;">​</a></h2><p>In February 2023, as congressional scrutiny of aid to <a href="/entities/ukraine">Ukraine</a> intensified, the DoD OIG released an &quot;Oversight Update: Ukraine Assistance&quot; document stating that the office was &quot;currently planning five potential oversight projects related to Ukraine.&quot;[1] The release coincided with a letter from <a href="/entities/house-oversight-committee">House Oversight Committee</a> Republicans, led by chairman <a href="/entities/james-comer">James Comer</a>, demanding that the Biden administration account for the billions of dollars <a href="/entities/congress">Congress</a> had appropriated for Ukraine and describe safeguards against wasteful spending.[1]</p><p><a href="/entities/badlands-media">Badlands Media</a> contributor <a href="/entities/just-human">Just Human</a> characterized the OIG&#39;s work as pairing well with the congressional oversight effort and with the activity of other inspectors general, arguing that the combined push coincided with a shift in Congress and among the public against further Ukraine aid at existing levels.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Putin Postures, Voting Matters &amp; J6 Subpoenas&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-8c5" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-8c5</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/department-of-defense-office-of-inspector-general.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const departmentOfDefenseOfficeOfInspectorGeneral = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  departmentOfDefenseOfficeOfInspectorGeneral as default
+};

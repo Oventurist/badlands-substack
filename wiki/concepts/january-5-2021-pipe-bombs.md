@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [january-6, fbi, investigations, oversight, whistleblowers]
-sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -28,7 +28,14 @@ Ashe concluded that the withholding of the bomber's identity — like the withho
 
 Nearly five years after the devices were discovered, the FBI arrested a suspect in the case on Thursday, December 4, 2025, according to a law enforcement official cited by the Associated Press.[2] Two senior law enforcement officials familiar with the matter identified the man in custody as Brian Cole, an FBI official confirmed the arrest had occurred that morning, and the Justice Department scheduled a news conference later in the day to formally announce it.[2] The arrest was the first public identification of a suspect in a case whose long non-resolution had fueled widespread speculation.[2] Badlands host Chris Paul rejected the official framing entirely, asking when people would accept that there were no 'pipe bombs' anywhere on January 6.[2]
 
+## Arrest of Brian Cole Jr. (December 2025)
+
+In early December 2025, nearly five years after the two devices were planted outside the Democratic and Republican National Committee offices on the eve of the January 6, 2021 Capitol attack, [[brian-cole-jr|Brian Cole Jr.]], 30, was arrested and charged with two counts tied to the bombs, becoming the first suspect publicly identified by law enforcement.[3] Earlier clues had included the suspect's height and distinctive Nike shoes, while pressure mounted on the [[fbi|FBI]] over the years without an arrest.[3] Former federal prosecutor Rizwan Qureshi noted that because "Jan. 6 was a day where people from all over the country were present in D.C.," investigators faced conceivably thousands of potential suspects.[3]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] rejected the premise of the case outright, writing that "there were never any pipe bombs" and that "the story of the pipe bombs was the point of the pipe bombs," dismissing the new prosecution as a poorly written sequel.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 2. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

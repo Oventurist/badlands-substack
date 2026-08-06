@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"James Wolfe","description":"","frontmatter":{"title":"James Wolfe","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["history","seven-years-war","british-empire","quebec"],"sources":["raw/a-new-american-renaissance.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/james-wolfe.md","filePath":"entities/james-wolfe.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/james-wolfe.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="james-wolfe" tabindex="-1">James Wolfe <a class="header-anchor" href="#james-wolfe" aria-label="Permalink to &quot;James Wolfe&quot;">​</a></h1><p>James Wolfe was the English general who died at the <a href="/concepts/battle-of-quebec">Battle of Quebec</a> on the Plains of Abraham in 1759, at the moment the French lost their hold on North America.<a href="https://badlands.substack.com/p/a-new-american-renaissance" target="_blank" rel="noreferrer">[1]</a> He was a young man at the time of his death.<a href="https://badlands.substack.com/p/a-new-american-renaissance" target="_blank" rel="noreferrer">[1]</a></p><h2 id="depiction-by-benjamin-west" tabindex="-1">Depiction by Benjamin West <a class="header-anchor" href="#depiction-by-benjamin-west" aria-label="Permalink to &quot;Depiction by Benjamin West&quot;">​</a></h2><p>Wolfe is the subject of <a href="/entities/benjamin-west">Benjamin West</a>&#39;s 1770 painting <em>The Death of General Wolfe</em>, which West executed in contemporary costume in defiance of the European convention requiring Greco-Roman dress in history painting.<a href="https://badlands.substack.com/p/a-new-american-renaissance" target="_blank" rel="noreferrer">[1]</a> The realities of Wolfe&#39;s death — he was shot and died behind a bush with two people in attendance — were set aside in favour of a crowded composition including <a href="/entities/william-johnson">William Johnson</a> and a central Mohawk warrior.<a href="https://badlands.substack.com/p/a-new-american-renaissance" target="_blank" rel="noreferrer">[1]</a> Badlands Media commentary by <a href="/entities/matthew-ehret">Matthew Ehret</a> reads the resulting contrast between the vigorous native figure and the weakness of the dying British aristocratic Wolfe as a subtle symbol of the dying British Empire itself, offering one message to American republicans and another to British aristocrats.<a href="https://badlands.substack.com/p/a-new-american-renaissance" target="_blank" rel="noreferrer">[1]</a> Two figures from the right side of this painting — a priest and a red-coated soldier — reappear on the rag in West&#39;s 1776 self-portrait.<a href="https://badlands.substack.com/p/a-new-american-renaissance" target="_blank" rel="noreferrer">[1]</a></p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A New American Renaissance&quot;, URL: <a href="https://badlands.substack.com/p/a-new-american-renaissance" target="_blank" rel="noreferrer">https://badlands.substack.com/p/a-new-american-renaissance</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/james-wolfe.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jamesWolfe = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jamesWolfe as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Condé Nast","description":"","frontmatter":{"title":"Condé Nast","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["media","magazines","labor","layoffs"],"sources":["raw/a-swan-song-for-the-msm.md","raw/badlands-news-brief-5ff.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/conde-nast.md","filePath":"entities/conde-nast.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/conde-nast.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="conde-nast" tabindex="-1">Condé Nast <a class="header-anchor" href="#conde-nast" aria-label="Permalink to &quot;Condé Nast&quot;">​</a></h1><p>Condé Nast is the parent company of &quot;pretty much every major magazine from GQ to Vogue to The New Yorker to Vanity Fair,&quot; cited in Badlands Media&#39;s account of the 2024 media collapse.<a href="https://badlands.substack.com/p/a-swan-song-for-the-msm" target="_blank" rel="noreferrer">[1]</a></p><p>Hundreds of Condé Nast workers were on strike at the time of <a href="/entities/taylor-lorenz">Taylor Lorenz</a>&#39;s February 2024 &quot;State of the Media&quot; video, because they were facing impending layoffs.<a href="https://badlands.substack.com/p/a-swan-song-for-the-msm" target="_blank" rel="noreferrer">[1]</a> The strike is listed among the industry-wide symptoms Lorenz enumerated — the obliteration of local news, the cratering of the newspaper industry, the effective death of radio outside a gutted NPR, and layoffs even at billionaire-owned outlets such as <a href="/entities/washington-post">The Washington Post</a> and <a href="/entities/the-atlantic">The Atlantic</a>.<a href="https://badlands.substack.com/p/a-swan-song-for-the-msm" target="_blank" rel="noreferrer">[1]</a></p><h2 id="january-2024-strike" tabindex="-1">January 2024 strike <a class="header-anchor" href="#january-2024-strike" aria-label="Permalink to &quot;January 2024 strike&quot;">​</a></h2><p>In late January 2024, hundreds of workers at Condé Nast — the parent company of magazines including GQ, Vogue, The New Yorker and Vanity Fair — were on strike, a fact cited by <a href="/entities/taylor-lorenz">Taylor Lorenz</a> in her description of an industry-wide collapse encompassing local news, newspapers, radio and <a href="/entities/npr">NPR</a>.[2] The strike coincided with layoffs at the <a href="/entities/los-angeles-times">Los Angeles Times</a>, <a href="/entities/time-magazine">Time Magazine</a> and <a href="/entities/business-insider">Business Insider</a>.[2]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A Swan Song for the MSM&quot;, URL: <a href="https://badlands.substack.com/p/a-swan-song-for-the-msm" target="_blank" rel="noreferrer">https://badlands.substack.com/p/a-swan-song-for-the-msm</a></li><li>Badlands Brief — &quot;Red States Align While the MSM Craters&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-5ff" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-5ff</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/conde-nast.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const condeNast = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  condeNast as default
+};

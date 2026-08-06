@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Sovereign Pincer","description":"","frontmatter":{"title":"Sovereign Pincer","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["geopolitics","badlands-analysis","trump","putin","multipolarity"],"sources":["raw/badlands-brief-686.md"],"confidence":"low"},"headers":[],"relativePath":"concepts/sovereign-pincer.md","filePath":"concepts/sovereign-pincer.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/sovereign-pincer.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="sovereign-pincer" tabindex="-1">Sovereign Pincer <a class="header-anchor" href="#sovereign-pincer" aria-label="Permalink to &quot;Sovereign Pincer&quot;">​</a></h1><p>The &quot;Sovereign Pincer&quot; is an analytical frame advanced by Badlands Media commentator <a href="/entities/burning-bright">Burning Bright</a>, describing the relationship between <a href="/entities/donald-trump">Donald Trump</a> and <a href="/entities/vladimir-putin">Vladimir Putin</a> not as opposition but as coordinated convergence against a shared adversary — the Western globalist order.[1]</p><h2 id="the-argument" tabindex="-1">The Argument <a class="header-anchor" href="#the-argument" aria-label="Permalink to &quot;The Argument&quot;">​</a></h2><p>In the frame, the pincer was &quot;closed long ago,&quot; forged in backchannels said to have operated throughout the first Trump term and possibly earlier, hidden inside trade deals, energy flows and strategic off-ramps that the public narrative did not acknowledge.[1] The entrenched nodes of the old unipolar order are described as grasping this only belatedly — &quot;slowly at first, through fractured headlines and panicked policy spasms, and then all at once.&quot;[1]</p><h2 id="application" tabindex="-1">Application <a class="header-anchor" href="#application" aria-label="Permalink to &quot;Application&quot;">​</a></h2><p>Burning Bright read Trump&#39;s Telegraph remarks dismissing <a href="/entities/nato">NATO</a> as a &quot;paper tiger&quot; as open confirmation of the thesis, quoting: &quot;I always knew they were a paper tiger, and Putin knows that too, by the way.&quot;[1] The commentary argued that the real conflict is not against proxy states or regimes but against the <a href="/concepts/invisible-enemy">Invisible Enemy</a>, and that the unfolding theaters in <a href="/entities/iran">Iran</a> — as previously in Syria and Venezuela, with Ukraine&#39;s proxy scaffolding crumbling and Taiwan&#39;s realignment pending — reflect the &quot;quiet liberation of would-be sovereign states&quot; from the Western globalist construct that maintained them in dependency through proxy chains, fiat illusions and inverted power structures.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;To Infinity &amp; Iran!&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-686" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-686</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/sovereign-pincer.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const sovereignPincer = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  sovereignPincer as default
+};

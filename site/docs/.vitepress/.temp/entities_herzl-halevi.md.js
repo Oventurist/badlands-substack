@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Herzl Halevi","description":"","frontmatter":{"title":"Herzl Halevi","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["israel","idf","military","october-7"],"sources":["raw/badlands-news-brief-254.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/herzl-halevi.md","filePath":"entities/herzl-halevi.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/herzl-halevi.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="herzl-halevi" tabindex="-1">Herzl Halevi <a class="header-anchor" href="#herzl-halevi" aria-label="Permalink to &quot;Herzl Halevi&quot;">​</a></h1><p>Herzl Halevi is an Israeli general who served as Chief of the General Staff of the <a href="/entities/israel-defense-forces">Israel Defense Forces</a> during the <a href="/concepts/october-7-attacks">October 7, 2023 Hamas attack</a> and the subsequent war in Gaza.[1]</p><h2 id="statement-of-responsibility" tabindex="-1">Statement of responsibility <a class="header-anchor" href="#statement-of-responsibility" aria-label="Permalink to &quot;Statement of responsibility&quot;">​</a></h2><p>In his first public statement after the outbreak of the war, Halevi issued a rare expression of regret for the military&#39;s failure to foresee and stop the Hamas massacres, saying: &quot;the IDF is responsible for the security of the state and its citizens, and on Saturday morning, in the Gaza border communities, we did not fulfill that responsibility. We will learn, investigate, but now it is a time for war.&quot;[1] The remark was widely perceived as an unprecedented apology by Israel&#39;s military leadership for its failure to protect the citizenry.[1]</p><p>The admission came amid growing anger among the Israeli public at the failures of the Netanyahu government, and against the backdrop of reporting that Egyptian intelligence had warned in advance that &quot;something big was coming&quot; and that the warning had been ignored.[1]</p><h2 id="context" tabindex="-1">Context <a class="header-anchor" href="#context" aria-label="Permalink to &quot;Context&quot;">​</a></h2><p>Halevi&#39;s statement coincided with IDF operations described by spokesman <a href="/entities/daniel-hagari">Daniel Hagari</a>, who said the military was degrading Hamas&#39;s ability to rule and was targeting those who had filmed and broadcast the invasion of southern Israel.[1] Commentators noted the tension between an intelligence apparatus efficient enough to identify individual Hamas operatives from online footage mid-war and one that had failed to anticipate a large-scale ground incursion in which jihadists overran IDF outposts.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Emotional Programming, Congressional Paralysis &amp; Censorship Reign&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-254" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-254</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/herzl-halevi.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const herzlHalevi = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  herzlHalevi as default
+};

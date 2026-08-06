@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, justice-department, classified-documents, joe-biden]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-brief-7bf.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -62,6 +62,14 @@ By mid-November 2023, months before the report's release, multiple outlets citin
 
 The probe, launched in January 2023 after Hur's appointment by Attorney General [[merrick-garland|Merrick Garland]], had by then run nearly a year and involved interviews with roughly 100 Biden aides, including [[hunter-biden|Hunter Biden]]; the president himself was interviewed in October 2023, as confirmed by [[white-house|White House]] Counsel's Office spokesperson [[ian-sams|Ian Sams]].[10]
 
+## Release of the interview audio (May 2025)
+
+In May 2025 the [[wall-street-journal|Wall Street Journal]] obtained audio recordings of Hur's October 2023 interviews with [[joe-biden|Joe Biden]], which the Biden administration had withheld after releasing transcripts in March 2024.[11] The interviews ran some five hours across two days and were conducted as part of Hur's investigation into whether Biden improperly retained classified information after leaving office as vice president.[11] In the audio Biden at times speaks with a frail voice, struggles for words and dates, and mixes up his Senate years with his vice presidency, while at other points joking and appearing in command of details.[11] The recordings intensified a public reckoning among Democrats over Biden's condition in office and were cited by [[donald-trump|Donald Trump]] and by Representative [[james-comer|James Comer]] as evidence bearing on the [[autopen-scandal|autopen]] question.[11]
+
+## Release of the interview audio (May 2025)
+
+In May 2025 the [[wall-street-journal|Wall Street Journal]] obtained audio recordings of Hur's October 2023 interviews with [[joe-biden|Joe Biden]], which the Biden administration had withheld after releasing transcripts in March 2024.[11] The interviews ran some five hours across two days and were conducted as part of Hur's investigation into whether Biden improperly retained classified information after leaving office as vice president.[11] In the audio Biden at times speaks with a frail voice, struggles for words and dates, and mixes up his Senate years with his vice presidency, while at other points joking and appearing in command of details.[11] The recordings intensified a public reckoning among Democrats over Biden's condition in office and were cited by [[donald-trump|Donald Trump]] and by Representative [[james-comer|James Comer]] as evidence bearing on the [[autopen-scandal|autopen]] question.[11]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -73,3 +81,4 @@ The probe, launched in January 2023 after Hur's appointment by Attorney General 
 8. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 9. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 10. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
+11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

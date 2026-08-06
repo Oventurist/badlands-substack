@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -32,8 +32,15 @@ In July 2023, MSNBC commentator [[paul-rieckhoff|Paul Rieckhoff]] — founder of
 
 [[ashe-in-america|Ashe in America]] described the segment as an establishment call for another [[patriot-act|Patriot Act]] aimed at political speech, and argued that such demands reflected a narrative battle the establishment had already lost.[4]
 
+## DOGE opinion piece (December 2024)
+
+In December 2024, MSNBC published an opinion column arguing that [[doge|DOGE]] had exposed the hypocrisy of wealthy Americans who complain that the federal government is full of unelected decision-makers operating without authorization from Congress and the Constitution, while seeking such positions themselves.[5] The piece cited billionaire investor [[marc-andreessen|Marc Andreessen]], reported by the Financial Times to be helping identify and interview candidates for President-elect [[donald-trump|Donald Trump]]'s advisory commission on cutting government spending, despite his recent complaints about the [[consumer-financial-protection-bureau|Consumer Financial Protection Bureau]].[5]
+
+[[ashe-in-america|Ashe in America]] responded that the outlet had gone through "a full character arc" demonstrating zero remaining self-awareness, since the writer spent more than 800 words casting [[elon-musk|Musk]] and [[vivek-ramaswamy|Ramaswamy]] as hypocrites before conceding in the 18th paragraph that "there are plenty of problems with DOGE, but how it's set up is not one of them," and that "presidents have long had the authority to set up advisory committees overseen by outsiders not confirmed by Congress."[5] She argued the writer knew most readers would never reach that paragraph, and that the outlet's real objections were about power, MSNBC having been among the regime's most dedicated participants in the decades-long capture of institutions.[5]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 3. Badlands Brief — "Badlands News Brief: Storm Shadows and the Contours of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-1f2
 4. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
+5. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

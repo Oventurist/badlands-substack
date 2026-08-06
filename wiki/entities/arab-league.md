@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, regional-organization, 1945, arabia]
-sources: [raw/arabian-nights.md, raw/badlands-brief-285.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/arabian-nights.md, raw/badlands-brief-285.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-97e.md]
 confidence: low
 ---
 
@@ -36,6 +36,14 @@ An emergency summit of the League of Arab States was scheduled to take place in 
 
 The [[arab-summit-2024-bahrain|33rd Arab Summit]] convened in Bahrain in May 2024, hosted with Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] and attended by UN Secretary-General [[antonio-guterres|António Guterres]] as special guest of honor.[6] The group issued a joint statement demanding that Israel permanently withdraw the [[israel-defense-forces|IDF]] from Palestine — not only Gaza — and calling on the entire international community to bear down on the government in Tel Aviv.[6]
 
+## Russia-Arab summit invitation (2025)
+
+In May 2025 Russian President [[vladimir-putin|Vladimir Putin]] invited the heads of state and government of Arab League member countries, together with the League's Secretary-General, to the first Russia-Arab summit, planned for October 15 in Moscow.[7] The Kremlin published the invitation on its official website while Arab leaders were gathered in Baghdad to discuss the war in Gaza.[7] Putin praised the organization as "an effective mechanism for multilateral dialogue and joint response to the challenges and threats faced by the peoples of the Middle East and North Africa."[7] At the 34th Arab League Summit held that same Saturday, regional leaders collectively condemned Israel's military actions in Gaza, called for an immediate ceasefire, and pledged financial support for the enclave's reconstruction.[7] Badlands commentary linked the invitation to the League's 2023 readmission of Syria after an eleven-year absence and speculated about the organization being used as a lever in a future Syrian settlement.[7]
+
+## Russia-Arab summit invitation (2025)
+
+In May 2025 Russian President [[vladimir-putin|Vladimir Putin]] invited the heads of state and government of Arab League member countries, together with the League's Secretary-General, to the first Russia-Arab summit, planned for October 15 in Moscow.[7] The Kremlin published the invitation on its official website while Arab leaders were gathered in Baghdad to discuss the war in Gaza.[7] Putin praised the organization as "an effective mechanism for multilateral dialogue and joint response to the challenges and threats faced by the peoples of the Middle East and North Africa."[7] At the 34th Arab League Summit held that same Saturday, regional leaders collectively condemned Israel's military actions in Gaza, called for an immediate ceasefire, and pledged financial support for the enclave's reconstruction.[7] Badlands commentary linked the invitation to the League's 2023 readmission of Syria after an eleven-year absence and speculated about the organization being used as a lever in a future Syrian settlement.[7]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
@@ -43,3 +51,4 @@ The [[arab-summit-2024-bahrain|33rd Arab Summit]] convened in Bahrain in May 202
 4. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 5. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+7. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

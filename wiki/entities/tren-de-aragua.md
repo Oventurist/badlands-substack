@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, organized-crime, terrorism, cia, latin-america]
-sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -83,6 +83,12 @@ When [[donald-trump|Donald Trump]]'s campaign confirmed on October 7, 2024 that 
 
 Badlands contributor [[ashe-in-america|Ashe in America]] countered that Colorado's institutional press was gaslighting residents about migrant crime, pointing to store closures, merchandise locked behind glass and rising car thefts, and cited open records published by the *Denver Gazette* which she said proved the government knew about the gang takeover of Aurora apartment buildings and lied to citizens about it.[11]
 
+## 2025 NYPD sweep
+
+In raids conducted on the night of Tuesday, January 28, 2025, the [[nypd|New York Police Department]] took down ten high-ranking members of the Venezuelan gang Tren de Aragua in a nationwide sweep, with the members either in custody or on the run.[12] Police seized a cache of more than 30 illegal guns, including AR-15 assault rifles and a Glock 9mm modified to fire automatically.[12] The crew had been so brazen about its illegal gun profits that its members posted a photo of a baby — the child of one of those arrested — sitting on a pile of their ill-gotten cash.[12] NYPD Commissioner [[jessica-tisch|Jessica Tisch]] said, "Tren de Aragua is one of the most dangerous gangs in the country, and the NYPD has taken significant action to shut down their operations in New York City," adding that the indictment made clear the department would not let the gang terrorize the streets with illegal guns, assault weapons and dangerous narcotics.[12]
+
+The gang's rapid growth in the United States featured in the debate over [[temporary-protected-status|temporary protected status]] for Venezuelan migrants, which the [[donald-trump|Trump]] administration ended that same week.[12]
+
 ## References
 1. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -95,3 +101,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] countered that Colorado
 9. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 10. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+12. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

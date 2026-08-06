@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, interest-rates, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-9eb.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-bf7.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-12b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -152,6 +152,10 @@ In April 2025, Powell became the target of a sustained barrage of posts by Presi
 
 Badlands analyst Burning Bright argued that the escalation was deliberate and timed to the trade war storyline, contending that Powell holds no genuine position of power but occupies a central narrative one, and that Trump was using him to expose the role of the fiat system and its centralized controllers to a broader public.[25] In this reading, Trump, [[scott-bessent|Scott Bessent]] and [[howard-lutnick|Howard Lutnick]] appeared unconcerned with short-term economic strife because their end game was a complete reordering of global trade predicated on a redefinition of valuation itself, and no tariff or trade deal would matter unless the central bank were first brought to heel.[25]
 
+## January 2025 response to Trump rate pressure
+
+At a Washington press conference on Wednesday, January 29, 2025, after the [[federal-reserve|Federal Reserve]] held interest rates steady, Powell declined to comment on President [[donald-trump|Donald Trump]]'s call for lower rates, saying it would be "inappropriate" to respond.[26] He told reporters that "the public should be confident that we'll continue to do our work as we always have" and that the Fed would continue to "use our tools to achieve our goals," and said he had had "no contact" with Trump since the president's public demand the previous week.[26]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -178,3 +182,4 @@ Badlands analyst Burning Bright argued that the escalation was deliberate and ti
 23. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 24. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 25. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
+26. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

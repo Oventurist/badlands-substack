@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Russian High-Speed Rail Network","description":"","frontmatter":{"title":"Russian High-Speed Rail Network","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["russia","infrastructure","rail","transportation"],"sources":["raw/badlands-news-brief-732.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/russian-high-speed-rail-network.md","filePath":"concepts/russian-high-speed-rail-network.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/russian-high-speed-rail-network.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="russian-high-speed-rail-network" tabindex="-1">Russian High-Speed Rail Network <a class="header-anchor" href="#russian-high-speed-rail-network" aria-label="Permalink to &quot;Russian High-Speed Rail Network&quot;">​</a></h1><p>The Russian high-speed rail (HSR) network is a national infrastructure program announced in September 2025 by Prime Minister <a href="/entities/mikhail-mishustin">Mikhail Mishustin</a> and approved by President <a href="/entities/vladimir-putin">Vladimir Putin</a>, billed as the largest high-speed rail project ever undertaken in Europe.[1]</p><h2 id="scope" tabindex="-1">Scope <a class="header-anchor" href="#scope" aria-label="Permalink to &quot;Scope&quot;">​</a></h2><p>The planned network spans more than 4,500 kilometres (2,800 miles) and is to be served by domestically built trainsets capable of reaching 400 kph (250 mph).[1] The initial flagship corridor would reduce Moscow–St. Petersburg journey times from four hours to just over two, with further lines connecting Moscow to Minsk, Adler on the Black Sea, Ekaterinburg in the Urals, Ryazan and other cities.[1] Mishustin said the development scheme would be finalized within six months of the announcement.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands contributor GhostofBasedPatrickHenry framed the program as the continuation of a vision Russia embarked upon in the 19th century alongside <a href="/entities/abraham-lincoln">Abraham Lincoln</a> and American industrialists during the construction of the Trans-Siberian railroad.[1] In this reading, the new network has the potential to redefine understandings of transportation by making the largest nation on earth geographically feel considerably smaller and more accessible, evidence that &quot;Russia is preparing to enter The Golden Age&quot; — with the pointed rhetorical question, &quot;What is Europe doing?&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: A Terror Designation &amp; A Breath of Fresh Air&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-732" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-732</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/russian-high-speed-rail-network.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const russianHighSpeedRailNetwork = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  russianHighSpeedRailNetwork as default
+};

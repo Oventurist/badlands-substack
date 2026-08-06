@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse(`{"title":"Kevin O'Connor","description":"","frontmatter":{"title":"Kevin O'Connor","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["white-house","physician","biden-health","cognitive-testing"],"sources":["raw/badlands-news-brief-26c.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/kevin-oconnor.md","filePath":"entities/kevin-oconnor.md","lastUpdated":null}`);
+const _sfc_main = { name: "entities/kevin-oconnor.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="kevin-o-connor" tabindex="-1">Kevin O&#39;Connor <a class="header-anchor" href="#kevin-o-connor" aria-label="Permalink to &quot;Kevin O&#39;Connor&quot;">​</a></h1><p>Kevin O&#39;Connor is the physician to the president who served as <a href="/entities/joe-biden">Joe Biden</a>&#39;s doctor during his term in the <a href="/entities/white-house">White House</a>.[1]</p><h2 id="position-on-cognitive-testing" tabindex="-1">Position on cognitive testing <a class="header-anchor" href="#position-on-cognitive-testing" aria-label="Permalink to &quot;Position on cognitive testing&quot;">​</a></h2><p>In February 2024, after special counsel <a href="/entities/robert-hur">Robert Hur</a>&#39;s report described the president as unable to recall basic details of his own life and career, attention turned to whether Biden&#39;s forthcoming annual physical would include a formal cognitive examination.[1] On Monday, February 12, the White House confirmed it would not.[1] Press Secretary <a href="/entities/karine-jean-pierre">Karine Jean-Pierre</a> relayed O&#39;Connor&#39;s view that Biden demonstrates his cognitive ability &quot;every day [in] how he operates and how he thinks.&quot;[1]</p><p>That position drew criticism from outside physicians. Dr. Stuart Fischer, a primary care doctor at a Bronx nursing home, told the New York Post that &quot;something isn&#39;t right, and even if it&#39;s minor, it must be explained to the public,&quot; adding that &quot;the horse is out of the barn&quot; and that the president had &quot;delayed producing objective evidence.&quot;[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p><a href="/entities/ashe-in-america">Ashe in America</a> treated the refusal as emblematic of a wider pattern in which the <a href="/entities/white-house">White House</a> press operation and its rotating cast of administration spokesmen gaslight the press corps about the president&#39;s condition, which she characterized as debilitating dementia.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Russia Collusion is Back ... Unlike Biden&#39;s Memories&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-26c" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-26c</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/kevin-oconnor.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const kevinOconnor = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  kevinOconnor as default
+};

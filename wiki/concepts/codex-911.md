@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [documentary, 9-11, badlands-media, information-war]
-sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-6e5.md]
+sources: [raw/badlands-news-brief-144.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-988.md]
 confidence: medium
 ---
 
@@ -44,6 +44,16 @@ Badlands Media announced that *CODEX 9/11* was streaming free to all audiences o
 
 In September 2025, after [[tucker-carlson|Tucker Carlson]] told [[piers-morgan|Piers Morgan]] that Israeli intelligence had advance knowledge of the [[september-11-attacks|September 11 attacks]] and previewed a forthcoming documentary series on the subject, Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] suggested Carlson's project could become "a great companion documentary" to CODEX 9/11.[7] He wrote that Zerbo's film definitively demonstrates that 9/11 was an inside job and advances the most compelling theory he had encountered about what happened with the planes — that they were remote-piloted drones — adding that the zeitgeist had shifted and the American people appeared finally prepared to confront the hard truths surrounding the attacks.[7]
 
+## Premiere at GART Deadwood
+
+CODEX 911 premiered at [[gart-9-deadwood|GART Deadwood]], with an early screening made available to holders of the GART 9 virtual pass alongside access to the conference, pre-livestreams and a behind-the-scenes Telegram chat.[8] In July 2025 [[badlands-media|Badlands Media]] promoted a personal Substack feature by director [[brad-zerbo|Brad Zerbo]] titled "September 11th 2001," describing it as the filmmaker's back story and the source of his personal inspiration for the documentary.[8] In the piece Zerbo recounts being woken on the morning of the attacks, watching United Flight 175 strike the second tower, and concluding that this was the moment "Flight 11 became no accident, and crisis became King."[8]
+
+## September 2025 screenings
+
+Around the 24th anniversary of the [[september-11-attacks|September 11 attacks]], Badlands promoted a live screening of CODEX 9/11 at the Paradigm Theatres in Fort Lauderdale, Florida, with additional live screenings in Marietta, Georgia and Yucca Valley, California.[9] [[ashe-in-america|Ashe in America]] urged readers to watch the film that day, writing that "we honor the legacy of the Americans sacrificed on September 11th with the truth."[9]
+
+Lt. Gen. [[steve-kwast|Steve Kwast]] (USAF, Ret.) saw CODEX 9/11 in August 2025 at a Badlands event in Deadwood, South Dakota, and called it "a nuclear weapon in the information war"; two weeks later he joined the Badlands podcast to discuss it, as relayed by [[canncon|CannCon]].[9]
+
 ## References
 1. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 2. Badlands Brief — "Badlands News Brief: Thumb Drive Theories & Early Dismissals", URL: https://badlands.substack.com/p/badlands-news-brief-168
@@ -52,3 +62,5 @@ In September 2025, after [[tucker-carlson|Tucker Carlson]] told [[piers-morgan|P
 5. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 6. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
 7. Badlands Brief — "Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
+8. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
+9. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988

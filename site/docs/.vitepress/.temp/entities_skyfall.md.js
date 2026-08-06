@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"SkyFall","description":"","frontmatter":{"title":"SkyFall","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["ukraine","drones","defense-industry","fpv"],"sources":["raw/badlands-brief-be1.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/skyfall.md","filePath":"entities/skyfall.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/skyfall.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="skyfall" tabindex="-1">SkyFall <a class="header-anchor" href="#skyfall" aria-label="Permalink to &quot;SkyFall&quot;">​</a></h1><p><strong>SkyFall</strong> is a <a href="/entities/ukraine">Ukrainian</a> drone manufacturer producing FPV (first-person view) attack drones for use in the war against <a href="/entities/russia">Russia</a>.[1]</p><h2 id="lindsey-graham-gift" tabindex="-1">Lindsey Graham gift <a class="header-anchor" href="#lindsey-graham-gift" aria-label="Permalink to &quot;Lindsey Graham gift&quot;">​</a></h2><p>According to activist <a href="/entities/laura-loomer">Laura Loomer</a>, an FPV drone was presented to the late Sen. <a href="/entities/lindsey-graham">Lindsey Graham</a> as a birthday gift by SkyFall during his final visit to Kyiv, and the drone would be deployed on the front lines &quot;to kill Russians.&quot;[1] Graham, a prominent advocate of U.S. military aid to Ukraine, died after returning from that trip, and <a href="/entities/volodymyr-zelensky">Volodymyr Zelenskyy</a> attended his funeral in Washington.[1]</p><h2 id="loomer-factory-visit-and-promotion" tabindex="-1">Loomer factory visit and promotion <a class="header-anchor" href="#loomer-factory-visit-and-promotion" aria-label="Permalink to &quot;Loomer factory visit and promotion&quot;">​</a></h2><p>SkyFall released an online advertisement showing Loomer holding one of the company&#39;s drones inside its factory, presenting it as a gift for Russian forces and reminding viewers that Graham had visited that same facility days before his death.[1] Loomer stated that SkyFall and comparable Ukrainian firms were poised to become major players in the U.S. <a href="/concepts/military-industrial-complex">military industrial complex</a>.[1]</p><h2 id="badlands-framing" tabindex="-1">Badlands framing <a class="header-anchor" href="#badlands-framing" aria-label="Permalink to &quot;Badlands framing&quot;">​</a></h2><p><a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> described the advertisement as morbid and situated it within a broader argument that Ukrainian defense interests are expanding into the American arms establishment while Ukrainian-linked operatives are alleged to be active in the Middle East.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;The Beggar Kings Arrive Ahead of Saint Fauci&#39;s Confession&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-be1" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-be1</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/skyfall.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const skyfall = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  skyfall as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"2026 World Baseball Classic","description":"","frontmatter":{"title":"2026 World Baseball Classic","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["sports","baseball","venezuela","united-states"],"sources":["raw/badlands-brief-1cd.md"],"confidence":"high"},"headers":[],"relativePath":"concepts/2026-world-baseball-classic.md","filePath":"concepts/2026-world-baseball-classic.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/2026-world-baseball-classic.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="_2026-world-baseball-classic" tabindex="-1">2026 World Baseball Classic <a class="header-anchor" href="#_2026-world-baseball-classic" aria-label="Permalink to &quot;2026 World Baseball Classic&quot;">​</a></h1><p>The 2026 World Baseball Classic (WBC) was the international baseball tournament whose final was played in March 2026 at LoanDepot Park in Miami, Florida.[1]</p><h2 id="final" tabindex="-1">Final <a class="header-anchor" href="#final" aria-label="Permalink to &quot;Final&quot;">​</a></h2><p>Venezuela defeated Team USA 3–2 on Tuesday night to claim its first-ever WBC championship.[1] The game was played before a heavily pro-Venezuela crowd, energized by the large Venezuelan immigrant community in South Florida, which created an electric atmosphere throughout the contest.[1]</p><p>Venezuela built a 2–0 lead in the third inning on a sacrifice fly by Maikel Garcia that scored Salvador Pérez, followed immediately by a solo home run from Wilyer Abreu.[1] Team USA tied the game in the eighth when Bobby Witt Jr. drew a leadoff walk and Bryce Harper crushed a two-run homer.[1] In the ninth, Luis Arráez walked, Javier Sanoja stole second as a pinch runner, and Eugenio Suárez delivered the go-ahead RBI double to make it 3–2.[1] Closer Daniel Palencia then retired the side in order, striking out Roman Anthony with a 99.7 mph fastball to seal the victory.[1]</p><h2 id="tournament-context" tabindex="-1">Tournament context <a class="header-anchor" href="#tournament-context" aria-label="Permalink to &quot;Tournament context&quot;">​</a></h2><p>The win capped a strong run for Venezuela, which advanced after a pool-stage loss to the Dominican Republic by beating Japan and Italy.[1] For Team USA the result marked a third straight appearance in the WBC final and a second consecutive loss, after falling to Japan in 2023.[1]</p><p>Venezuela manager Omar López praised the team&#39;s unity amid the country&#39;s political tensions, saying the players competed &quot;together with no color, political colors or ideology.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Saving the SAVE Act, Ending the Forever War &amp; What to Make Of Joe Kent&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-1cd" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-1cd</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/2026-world-baseball-classic.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const _2026WorldBaseballClassic = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  _2026WorldBaseballClassic as default
+};

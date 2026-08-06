@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"The Liberty Den","description":"","frontmatter":{"title":"The Liberty Den","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["badlands-media","broadcasting","show"],"sources":["raw/badlands-media-show-schedule-78b.md","raw/badlands-media-show-schedule.md","raw/badlands-media-weekly-show-schedule.md","raw/badlands-media-show-schedule-e18.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/the-liberty-den.md","filePath":"entities/the-liberty-den.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/the-liberty-den.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="the-liberty-den" tabindex="-1">The Liberty Den <a class="header-anchor" href="#the-liberty-den" aria-label="Permalink to &quot;The Liberty Den&quot;">​</a></h1><p>The Liberty Den is a <a href="/entities/badlands-media">Badlands Media</a> program airing Fridays at 10:30pm ET in the January 2023 schedule, hosted by <a href="/entities/jon-herold">Jon Herold</a> and <a href="/entities/the-kate-awakening">The Kate Awakening</a>.[1] The pair close out the network&#39;s week with a casual conversation focused on positivity, frequently featuring a special guest.[1]</p><p>The December 19–25, 2022 schedule listed The Liberty Den on Fridays at 10:30pm ET, with Jon Herold and The Kate Awakening closing the week in a casual, positivity-focused conversation often featuring a special guest.[2]</p><p>The week of December 5–11, 2022 — the “Badlands Media Weekly Show Schedule” post — reaffirmed The Liberty Den in its existing slot as part of the network&#39;s expanded truth-community slate, all airing live on the Patel Patriot channel with library replays on the Badlands Media Network.[3]</p><p>A second Badlands Media schedule post, published January 3, 2023 to open the 2023 broadcast year, carried the same listing and description, and reiterated that all network shows air live on the Patel Patriot Rumble channel with replays archived on the Badlands Media library channel.[4]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands Media Show Schedule&quot;, URL: <a href="https://badlands.substack.com/p/badlands-media-show-schedule-78b" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-media-show-schedule-78b</a></li><li>Badlands Brief — &quot;Badlands Media Show Schedule&quot;, URL: <a href="https://badlands.substack.com/p/badlands-media-show-schedule" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-media-show-schedule</a></li><li>Badlands Media — &quot;Badlands Media Weekly Show Schedule&quot;, URL: <a href="https://badlands.substack.com/p/badlands-media-weekly-show-schedule" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-media-weekly-show-schedule</a></li><li>Badlands Brief — &quot;Badlands Media Show Schedule&quot;, URL: <a href="https://badlands.substack.com/p/badlands-media-show-schedule-e18" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-media-show-schedule-e18</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/the-liberty-den.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const theLibertyDen = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  theLibertyDen as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"North-South Transportation Corridor","description":"","frontmatter":{"title":"North-South Transportation Corridor","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["logistics","trade","iran","russia","multipolar-world","infrastructure"],"sources":["raw/badlands-brief-1cd.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/north-south-transportation-corridor.md","filePath":"concepts/north-south-transportation-corridor.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/north-south-transportation-corridor.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="north-south-transportation-corridor" tabindex="-1">North-South Transportation Corridor <a class="header-anchor" href="#north-south-transportation-corridor" aria-label="Permalink to &quot;North-South Transportation Corridor&quot;">​</a></h1><p>The North-South Transportation Corridor (NSTC) is a multimodal trade and logistics route linking Asia to Moscow, in which <a href="/entities/iran">Iran</a> serves as the critical central node.[1] The <a href="/entities/shanghai-cooperation-organisation">Shanghai Cooperation Organisation</a> has invested billions of dollars in the corridor.[1]</p><h2 id="strategic-significance-in-the-2026-iran-war" tabindex="-1">Strategic significance in the 2026 Iran war <a class="header-anchor" href="#strategic-significance-in-the-2026-iran-war" aria-label="Permalink to &quot;Strategic significance in the 2026 Iran war&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> cited the NSTC in explaining why <a href="/entities/russia">Russia</a> and China appear to be pushing Iran to stay in the fight rather than seeking stabilization of the Persian Gulf.[1] If Iran&#39;s infrastructure is destroyed, he asked, can the NSTC continue to operate effectively?[1]</p><p>He argued both powers have a vested interest in preventing a strategic defeat for Iran because such a defeat would reflect poorly on the worldwide network of alliances they have been building — a political network Badlands calls the <a href="/concepts/sovereign-alliance">Sovereign Alliance</a> — which depends on power projection to challenge unipolar hegemony.[1] If Russia and China cannot protect Iran and keep it sovereign, he asked, what chance do smaller countries with lesser military capabilities have, and why would they join?[1] He further raised the question of whether Xi and Putin now view <a href="/entities/israel">Israel</a> as a growing threat not only to the region but to global trade and logistics.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Saving the SAVE Act, Ending the Forever War &amp; What to Make Of Joe Kent&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-1cd" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-1cd</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/north-south-transportation-corridor.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const northSouthTransportationCorridor = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  northSouthTransportationCorridor as default
+};

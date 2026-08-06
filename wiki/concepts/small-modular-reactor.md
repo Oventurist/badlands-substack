@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nuclear-energy, artificial-intelligence, data-centers, energy]
-sources: [raw/badlands-news-brief-020.md, raw/badlands-news-brief-713.md]
+sources: [raw/badlands-news-brief-020.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ In December 2024, Argentine President [[javier-milei|Javier Milei]] made small m
 
 Badlands contributor [[burning-bright|Burning Bright]] described SMRs as "the leading tech" for what he called the real Green New Deal that Americans could embrace, in contrast to the wind-and-solar model he blamed for the 2021 Texas grid failure, and framed the technology as part of a broader effort to restore a "Nuclear American Dream" he argued was lost after the Eisenhower administration and the assassination of John F. Kennedy.[2] He noted that President-elect [[donald-trump|Donald Trump]] was filling his cabinet with influential figures from the re-emerging nuclear industry, including [[chris-wright|Chris Wright]].[2]
 
+## Granholm on reactors for AI data centers (2024)
+
+In a September 2024 CNBC appearance, US Energy Secretary [[jennifer-granholm|Jennifer Granholm]] indicated that small modular reactors were effectively a "go" as a future power source, responding to questions about how the surging electricity demand of data centers and generative artificial intelligence would be met.[3] Interviewer David Faber framed the dilemma as a collision between the push to replace conventional generation with renewables and an "incredible potential uptick in the need for power," noting discussion of restarting a reactor at [[three-mile-island-nuclear-power-plant|Three Mile Island]] and recommissioning other nuclear sites, with national power needs potentially 20% higher within a handful of years.[3]
+
+Badlands Media read the remarks as part of a broader cascade of "nuclear narratives," describing Granholm's pivot away from the wind-and-solar rhetoric that dominated Green New Deal framing as a significant signal, and noting that small modular reactors are a recurring topic among Trump-aligned Space Force officers.[3] The outlet linked the shift to Microsoft's partnership with Pennsylvania governor Josh Shapiro to restore Three Mile Island, arguing that the trend supported its thesis that the "Great" Reset was being circumvented and transformed into a "Good" Reset.[3]
+
 ## References
 1. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 2. Badlands News Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
+3. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

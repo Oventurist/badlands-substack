@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"L. Louise Lucas","description":"","frontmatter":{"title":"L. Louise Lucas","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["virginia","democratic-party","corruption-investigation","fbi","cannabis"],"sources":["raw/badlands-brief-6fd.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/louise-lucas.md","filePath":"entities/louise-lucas.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/louise-lucas.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="l-louise-lucas" tabindex="-1">L. Louise Lucas <a class="header-anchor" href="#l-louise-lucas" aria-label="Permalink to &quot;L. Louise Lucas&quot;">​</a></h1><p>L. Louise Lucas is a Democratic member of the Virginia state Senate representing Portsmouth and serves as President pro tempore of the chamber, a position that makes her one of the most powerful legislators in the Commonwealth.[1] She has held office for 34 years and is described as a close ally of Virginia Governor <a href="/entities/abigail-spanberger">Abigail Spanberger</a>.[1]</p><h2 id="_2026-fbi-searches" tabindex="-1">2026 FBI searches <a class="header-anchor" href="#_2026-fbi-searches" aria-label="Permalink to &quot;2026 FBI searches&quot;">​</a></h2><p>On Wednesday, May 6, 2026, <a href="/entities/fbi">FBI</a> agents executed court-authorized search warrants at Lucas&#39;s Portsmouth office and at a nearby cannabis business connected to her.[1] The Bureau confirmed that agents were conducting authorized law enforcement activity in Portsmouth and stated there was no threat to public safety.[1]</p><p>People familiar with the matter told the Associated Press that the searches formed part of an ongoing federal corruption investigation involving Lucas, while federal law enforcement officials told the Washington Post that the probe centered on allegations of bribery tied to a cannabis dispensary business.[1] One source indicated the investigation had begun during the Biden administration.[1] Fox News reported that agents searched the dispensary simultaneously with the legislative office.[1]</p><p>Lucas arrived at her office during the searches and told reporters she did not know why agents were present.[1] In a later public statement she characterized the federal action as politically motivated and linked it to Virginia&#39;s recent congressional redistricting dispute.[1] As of Wednesday evening no criminal charges had been announced against her.[1]</p><p>Badlands commentary framed the raid alongside the <a href="/entities/department-of-justice">Department of Justice</a> investigation of Fairfax County Commonwealth&#39;s Attorney <a href="/entities/steve-descano">Steve Descano</a> as evidence of a broadening federal focus on Virginia Democrats.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Trump Rugs the Zionists; FBI Raids the Virginia Democrats&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-6fd" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-6fd</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/louise-lucas.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const louiseLucas = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  louiseLucas as default
+};

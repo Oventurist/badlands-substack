@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump-prosecutions, new-york, lawfare, gag-order, 2023]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-919.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-995.md]
 confidence: medium
 ---
 
@@ -140,6 +140,14 @@ In the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bri
 
 Trump's April 4, 2023 arraignment drew more cameras to Manhattan than perhaps any case in New York state history, but they were largely kept out of the courtroom itself under a state law dating to the 1930s that is among the most restrictive camera bans in the nation.[19] Only Washington, D.C. is more stringent on in-court media coverage, according to a 2022 report by The Fund for Modern Courts; some state lawmakers mounted a renewed push to change the law amid the arraignment.[19] Badlands contributor [[just-human|Just Human]] noted that cameras are barred from federal courtrooms but permitted in most state courtrooms, and suggested that securing a televised trial might be preferable to having the indictment dismissed.[19] The rule is discussed further at [[new-york-ban-on-cameras-in-courtrooms|the New York ban on cameras in courtrooms]].[19]
 
+## Aftermath of the conviction
+
+Following the May 30, 2024 verdict convicting [[donald-trump|Donald Trump]] of 34 felony counts of falsifying business records, celebrations broke out across Manhattan and in the press; former U.S. Attorney Harry Litman told [[msnbc|MSNBC]]'s Nicolle Wallace that it was a "majestic day" and "a day to celebrate."[20] Constitutional scholar [[jonathan-turley|Jonathan Turley]], who attended the trial and live-tweeted it daily, wrote in [[the-hill|The Hill]] that the case was "a target-rich environment for an appeal, with multiple layers of reversible error," while rejecting the argument that the verdict could be overturned on venue grounds in a district that voted roughly 90 percent against Trump — in his view the problem was the prosecutors and the judge, not the jury.[20] Sentencing was set for July 11, 2024, with multiple emergency appeals expected, and Republican politicians pressed to move up the [[2024-republican-national-convention|Republican National Convention]] then scheduled for July 15.[20]
+
+Badlands writer [[ashe-in-america|Ashe in America]] argued that the conviction produced an "America First ripple effect," with online sentiment moving from anger to doom-posting to resolve over the weekend and former Trump critics declaring themselves supporters because "justice should be blind and they can see that it's not."[20] [[burning-bright|Burning Bright]] framed the episode alongside the 2020 election dispute and the broader "Trump Witch Hunt" as an Info War inflection point testing whether audiences would "enjoy the show" or react emotionally within the system's own rules.[20]
+
+The conviction also triggered a fundraising surge: per Eric Trump, the campaign raised more than $200 million in three days, including roughly $70 million from small-dollar donors and $53 million within 24 hours of the verdict, with Trump telling Fox News that at least 30 percent of donors were first-time political donors — figures far exceeding the [[joe-biden|Biden]] campaign's $51 million raised across all of April.[20] Actor [[dennis-quaid|Dennis Quaid]] cited the trial as the reason he decided to vote for Trump, describing it as "a weaponization of our justice system."[20] The article noted Trump faced 88 charges across four criminal cases at the time, all of which he had pleaded not guilty to.[20]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -161,3 +169,4 @@ Trump's April 4, 2023 arraignment drew more cameras to Manhattan than perhaps an
 17. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
 18. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
 19. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
+20. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995

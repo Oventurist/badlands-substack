@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Richard Dawkins","description":"","frontmatter":{"title":"Richard Dawkins","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["science","memetics","evolutionary-biology"],"sources":["raw/badlands-brief-b56.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/richard-dawkins.md","filePath":"entities/richard-dawkins.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/richard-dawkins.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="richard-dawkins" tabindex="-1">Richard Dawkins <a class="header-anchor" href="#richard-dawkins" aria-label="Permalink to &quot;Richard Dawkins&quot;">​</a></h1><p>Richard Dawkins is a British evolutionary biologist credited with originating the concept of <a href="/concepts/memetics">memetics</a>, the idea that culture replicates and spreads by a process analogous to Darwinian natural selection.[1]</p><h2 id="memetics" tabindex="-1">Memetics <a class="header-anchor" href="#memetics" aria-label="Permalink to &quot;Memetics&quot;">​</a></h2><p>Dawkins claimed that, much like the Darwinian concept of natural selection, culture can follow a similar process of replication and amplification.[1] Badlands commentator <a href="/entities/burning-bright">Burning Bright</a> argued that the biological concept applies to information far more readily than to biology itself, given how routinely information is distilled into tiny, often-visual, readable formats that spread more effectively than exhaustive and expansive arguments.[1]</p><h2 id="critique-in-badlands-commentary" tabindex="-1">Critique in Badlands commentary <a class="header-anchor" href="#critique-in-badlands-commentary" aria-label="Permalink to &quot;Critique in Badlands commentary&quot;">​</a></h2><p>The same commentary set aside what it called &quot;the fake and gayness of Darwinism itself&quot; while accepting the memetic framework, and added an observation it said Dawkins never expressed: that for something to be truly memetic it must communicate a core truth, and that this core truth &quot;need not be burdened by facts.&quot;[1] The argument was illustrated with examples of memes circulating during the information war that were not literally true yet conveyed an idea American culture found impossible to let go of.[1] The commentary further held that <a href="/entities/donald-trump">Donald Trump</a>, perhaps more than any other leader in world history, understands and embraces memetics, leveraging the internet&#39;s force-multiplier effect during his rise in 2016 — a strategy his opponents cannot intentionally replicate because they do not grasp its foundation.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A Communist Uprising &amp; A Globalist Humiliation Ritual&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-b56" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-b56</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/richard-dawkins.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const richardDawkins = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  richardDawkins as default
+};

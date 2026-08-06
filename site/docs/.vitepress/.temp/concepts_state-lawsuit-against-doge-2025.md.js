@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"State Lawsuit Against DOGE (2025)","description":"","frontmatter":{"title":"State Lawsuit Against DOGE (2025)","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["doge","litigation","separation-of-powers","elon-musk"],"sources":["raw/badlands-news-brief-7b8.md"],"confidence":"high"},"headers":[],"relativePath":"concepts/state-lawsuit-against-doge-2025.md","filePath":"concepts/state-lawsuit-against-doge-2025.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/state-lawsuit-against-doge-2025.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="state-lawsuit-against-doge-2025" tabindex="-1">State Lawsuit Against DOGE (2025) <a class="header-anchor" href="#state-lawsuit-against-doge-2025" aria-label="Permalink to &quot;State Lawsuit Against DOGE (2025)&quot;">​</a></h1><p>On Thursday, February 13, 2025, a group of 14 states sued <a href="/entities/elon-musk">Elon Musk</a> and President <a href="/entities/donald-trump">Donald Trump</a>, arguing that the authority the <a href="/entities/white-house">White House</a> had granted the tech billionaire and his advisory <a href="/entities/doge">Department of Government Efficiency</a> was unconstitutional.[1]</p><h2 id="the-complaint" tabindex="-1">The complaint <a class="header-anchor" href="#the-complaint" aria-label="Permalink to &quot;The complaint&quot;">​</a></h2><p>The suit was filed by Democratic attorneys general from states including Arizona, Michigan, and Rhode Island.[1] It took aim at the magnitude and scale of Musk&#39;s power, noting that DOGE had led the Trump administration&#39;s efforts to dramatically reduce the size of the federal workforce, dismantle entire agencies, and access sensitive government data.[1]</p><p>Arizona Attorney General <a href="/entities/kris-mayes">Kris Mayes</a> said in a statement that &quot;the founders of this country would be outraged that, 250 years after our nation overthrew a king, the people of this country—many of whom have fought and died to protect our freedoms—are now subject to the whims of a single unelected billionaire.&quot;[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>Writing in the <a href="/concepts/badlands-news-brief">Badlands News Brief</a>, <a href="/entities/burning-bright">Burning Bright</a> framed the DOGE deployment through an idiosyncratic lens — combining the 1987 action film Predator with the movement and communications patterns of ant colonies — and concluded that &quot;the Deep State is committing suicide.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: MAHA, Modi, Musk, &amp; Munich&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-7b8" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-7b8</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/state-lawsuit-against-doge-2025.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const stateLawsuitAgainstDoge2025 = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  stateLawsuitAgainstDoge2025 as default
+};

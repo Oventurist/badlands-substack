@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [romania, sovereignty, soros, elections, europe]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-3a5.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-966.md]
 confidence: medium
 ---
 
@@ -56,9 +56,18 @@ On Saturday, March 1, 2025, tens of thousands of demonstrators gathered in Bucha
 
 Badlands commentator GhostofBasedPatrickHenry wrote that Trump is universally recognized across the world as the symbol of defiance and populist revolt, with people under tyranny calling out his name as Gotham City looks to the night sky for the Batsignal — a promise of retribution against criminals and gangsters.[5]
 
+## January 2025 protests over the annulled election
+
+On Sunday, January 12, 2025, tens of thousands protested in [[romania|Romania]]'s capital against the Constitutional Court's decision the previous month to annul the presidential election after Georgescu, a far-right populist outsider, unexpectedly emerged as the frontrunner by winning the first round on November 24.[6] Demonstrators in Bucharest honked horns and waved Romanian flags while brandishing placards reading "Democracy is not optional" and "We want free elections," with many demanding the presidential race resume from the second round.[6] The court had made the unprecedented move to annul the election just two days before the December 8 runoff, after allegations of electoral violations and Russian interference emerged.[6]
+
+[[george-simion|George Simion]], leader of the [[alliance-for-the-union-of-romanians|Alliance for the Unity of Romanians]], told the protest: "We are protesting against the coup d'état that took place on Dec. 6. We are sorry to discover so late that we were living in a lie and that we were led by people who claimed to be democrats, but are not at all."[6]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] summarized the affair as "everything that threatens my grip on power is Russian interference," observing that the same officials who claim to be saving democracy were making a habit of cancelling elections wherever they could not win them, and that experts now urging traditional right and left parties to unite against the populists were pulling off the mask on a long-standing Uniparty.[6]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
 3. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 4. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 5. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
+6. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966

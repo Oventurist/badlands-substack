@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, iran, special-envoy, negotiations]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-brief-abf.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b38.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-eea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-brief-abf.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b38.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-eea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-9ba.md]
 confidence: medium
 ---
 
@@ -157,6 +157,16 @@ Commenting on remarks by Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] in Ap
 
 Witkoff, President Donald Trump's special envoy, traveled to Moscow with the president's son-in-law Jared Kushner in early December 2025 for talks with Russian President Vladimir Putin.[30] The visit came a day after European leaders held a phone call in which they expressed deep distrust of US peace diplomacy and warned that Washington might betray Ukraine on the question of territory.[30]
 
+## January 2025 shuttle diplomacy
+
+Witkoff, President [[donald-trump|Donald Trump]]'s Middle East envoy, arrived in Israel on Wednesday, January 29, 2025 after holding meetings in [[saudi-arabia|Saudi Arabia]], as part of administration efforts to include the possibility of Israeli-Saudi normalization in a future regional agreement.[31] His trip was aimed at preparing the ground for major negotiations on the second stage of the hostage deal, ensuring Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] would proceed despite domestic political risk and would act to free all hostages, reach a cease-fire, and withdraw from the Gaza Strip.[31]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that after negotiating the ceasefire deal on January 19 — the day before Trump formally took office — Witkoff announced there would be no normalization deal with the Saudis if Israel did not immediately end the war, and that Witkoff had just become the first U.S. diplomat to enter Gaza in twenty years.[31]
+
+## Claims of Russian concessions after the Alaska summit (August 2025)
+
+Witkoff, serving as U.S. special envoy, said that Russia gave in quickly to concessions during [[donald-trump|President Donald Trump]]'s meeting with [[vladimir-putin|Vladimir Putin]] in Anchorage, Alaska — describing the concessions as coming "almost immediately."[32] His remarks came as the U.S. and European allies sorted out security guarantees to accompany a peace deal, and after he said that Putin was on board with permitting the U.S. and other European allies to provide additional protection for Ukraine akin to NATO's Article 5 mutual defense clause.[32] Speaking to Fox News, Witkoff declined to detail the discussions: "I don't want to delve into the specifics of what was discussed, because we're in a negotiation, mediating, and I think we're going to be very successful because of the leadership of President Trump."[32] Badlands contributor Burning Bright read the Trump-Putin dynamic not as a complex web of negotiations but as a grand story meant to destroy the globalist empire.[32]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -188,3 +198,5 @@ Witkoff, President Donald Trump's special envoy, traveled to Moscow with the pre
 28. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 29. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 30. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+31. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+32. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba

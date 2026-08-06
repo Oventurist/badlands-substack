@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [japan, prime-minister, us-japan-relations, nippon-steel]
-sources: [raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md]
+sources: [raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -26,6 +26,12 @@ Ishiba's replacement by Takaichi, a protégé of [[shinzo-abe|Shinzo Abe]], is p
 
 On Monday, July 7, 2025, President [[donald-trump|Donald Trump]] set a 25 percent tax on goods imported from [[japan|Japan]], notifying Ishiba as Japanese Prime Minister by posting a letter on Truth Social addressed to him.[2] The letter warned against retaliation: "If for any reason you decide to raise your Tariffs, then, whatever the number you choose to raise them by, will be added onto the 25 percent that we charge."[2] A parallel letter went to South Korean President [[lee-jae-myung|Lee Jae-myung]], with the new rates set to take effect on August 1.[2]
 
+## Replacement as LDP leader
+
+Ishiba's departure as prime minister prompted the [[2025-liberal-democratic-party-leadership-election|2025 LDP leadership election]] on October 4, 2025, in which [[sanae-takaichi|Sanae Takaichi]] was chosen to succeed him as party leader, with a parliamentary vote to select his replacement as premier expected on October 15.[3]
+
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 2. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
+3. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, government-agency, artemis, moon]
-sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md]
 confidence: medium
 ---
 
@@ -38,9 +38,16 @@ NASA announced in July 2025 that it would provide coverage of prelaunch and laun
 
 Badlands contributor [[jon-herold|Jon Herold]] offered a wry response to the announcement's accompanying imagery, joking that given the size of NASA's budget one would expect the agency to be able to design a spacesuit that did not make astronauts look like the Olympic fencing team.[5]
 
+## Hospitalization of a returning crew (October–November 2024)
+
+In November 2024 a NASA astronaut gave what the Daily Mail described as a cryptic explanation for why his four-person crew had been mysteriously hospitalized after returning to Earth the previous month.[6] Astronauts Matthew Dominick, Michael Barratt and Jeanette Epps were taken to a medical facility in Florida after splashing down on October 25, with one crew member staying overnight for "observation," while Russian cosmonaut Alexander Grebenkin, who returned with them, was also taken to a hospital in nearby Pensacola but did not speak at a live briefing that Friday.[6]
+
+NASA remained tight-lipped about the reason for the hospital visit, and the crew continued to dodge questions at the briefing.[6] "Spaceflight is still something we don't fully understand," Barratt said. "We're finding things that we don't expect sometimes. This was one of those times and we're still piecing things together on this."[6] A trained medical doctor, Barratt referred to the emergency room visit only as a "medical event," saying NASA would reveal all details "in the fullness of time"; an insider told DailyMail.com that "blood pressure issues" could have been responsible.[6]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
 3. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324
 4. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 5. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
+6. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc

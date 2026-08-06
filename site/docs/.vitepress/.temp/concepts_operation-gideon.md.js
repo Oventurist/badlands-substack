@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Operation Gideon","description":"","frontmatter":{"title":"Operation Gideon","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["venezuela","coup","mercenaries","green-berets","regime-change"],"sources":["raw/badlands-news-brief-497.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/operation-gideon.md","filePath":"concepts/operation-gideon.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/operation-gideon.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="operation-gideon" tabindex="-1">Operation Gideon <a class="header-anchor" href="#operation-gideon" aria-label="Permalink to &quot;Operation Gideon&quot;">​</a></h1><p>Operation Gideon was the name given to a failed paramilitary operation to overthrow the government of Venezuela, for which a group of former US Green Berets was arrested in Venezuela in May 2020.[1] The retired special forces soldiers were acting as mercenaries in the operation.[1]</p><p>Several of the mercenaries were released in 2023 as part of a prisoner exchange between Washington and Caracas.[1]</p><h2 id="later-prosecution" tabindex="-1">Later prosecution <a class="header-anchor" href="#later-prosecution" aria-label="Permalink to &quot;Later prosecution&quot;">​</a></h2><p>In October 2025, a federal prosecutor in Florida sought to have the leader of the mercenaries jailed, accusing him of being a flight risk.[1] The veteran had already been arraigned on charges related to the failed coup, with a trial scheduled for February.[1] Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> suggested that the February trial would likely surface &quot;some juicy details regarding the true nature of these regime-change operations.&quot;[1]</p><h2 id="context-in-badlands-analysis" tabindex="-1">Context in Badlands analysis <a class="header-anchor" href="#context-in-badlands-analysis" aria-label="Permalink to &quot;Context in Badlands analysis&quot;">​</a></h2><p>The operation was invoked in the context of reporting that <a href="/entities/nicolas-maduro">Nicolás Maduro</a> had secretly been negotiating economic concessions with the <a href="/entities/trump-administration">Trump administration</a> for months, and of speculation that US military activity off the Venezuelan coast might be aimed less at Maduro than at cartels and at <a href="/concepts/color-revolution">color revolution</a> military operators alleged to be aiding <a href="/entities/maria-corina-machado">María Corina Machado</a> in overthrowing the Venezuelan government.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Counterterrorism Co-Ops, Chinese Challenges, &amp; Channels for Children&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-497" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-497</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/operation-gideon.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const operationGideon = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  operationGideon as default
+};

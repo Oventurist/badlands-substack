@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Cesar Aguilar","description":"","frontmatter":{"title":"Cesar Aguilar","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["arizona","democrat","free-speech","censorship","state-legislature"],"sources":["raw/badlands-news-brief-62c.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/cesar-aguilar.md","filePath":"entities/cesar-aguilar.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/cesar-aguilar.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="cesar-aguilar" tabindex="-1">Cesar Aguilar <a class="header-anchor" href="#cesar-aguilar" aria-label="Permalink to &quot;Cesar Aguilar&quot;">​</a></h1><p>Cesar Aguilar is a Democratic member of the Arizona House of Representatives who drew national attention in September 2023 after describing free speech as &quot;very dangerous&quot; during a state legislative hearing convened to examine free speech violations.[1]</p><h2 id="remarks-at-the-arizona-free-speech-hearing" tabindex="-1">Remarks at the Arizona free speech hearing <a class="header-anchor" href="#remarks-at-the-arizona-free-speech-hearing" aria-label="Permalink to &quot;Remarks at the Arizona free speech hearing&quot;">​</a></h2><p>Aguilar made the comment at a hearing held Tuesday, September 5, 2023, by the newly created <a href="/entities/arizona-house-ad-hoc-committee-on-oversight-accountability-and-big-tech">Arizona House Ad Hoc Committee on Oversight, Accountability, and Big Tech</a>, while confronting an expert witness over why the <a href="/concepts/first-amendment">First Amendment</a> does not permit censorship.[1] The remark was reported by <a href="/entities/the-gateway-pundit">The Gateway Pundit</a>, which characterized it as revealing the &quot;true colors&quot; of lawmakers who favor state regulation of speech.[1]</p><p>The committee itself had been formed to investigate censorship by big tech companies and government officials, including former Arizona Secretary of State <a href="/entities/katie-hobbs">Katie Hobbs</a>, who was accused of working with social media platforms to suppress critics and claims of fraud in the 2020 election.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands Media writer <a href="/entities/ashe-in-america">Ashe in America</a> responded that under the American conception of inalienable rights, government not only should not censor speech it deems false but constitutionally cannot, observing that &quot;speech crimes were largely unthinkable just a few years ago, but it&#39;s a very different world now.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Trump Takes on Big Pharma and GART Kicks Off!&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-62c" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-62c</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/cesar-aguilar.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const cesarAguilar = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  cesarAguilar as default
+};

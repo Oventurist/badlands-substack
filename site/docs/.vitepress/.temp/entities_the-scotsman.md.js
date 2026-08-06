@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"The Scotsman","description":"","frontmatter":{"title":"The Scotsman","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["media","uk","scotland","newspapers"],"sources":["raw/badlands-news-brief-6e6.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/the-scotsman.md","filePath":"entities/the-scotsman.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/the-scotsman.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="the-scotsman" tabindex="-1">The Scotsman <a class="header-anchor" href="#the-scotsman" aria-label="Permalink to &quot;The Scotsman&quot;">​</a></h1><p><strong>The Scotsman</strong> is a Scottish newspaper whose opinion pages were cited in the October 20, 2025 <a href="/concepts/badlands-news-brief">Badlands News Brief</a> for a column headlined &quot;This Seeming Nonchalance About Antisemitism is a Problem For All of Us.&quot;[1]</p><h2 id="cited-column" tabindex="-1">Cited column <a class="header-anchor" href="#cited-column" aria-label="Permalink to &quot;Cited column&quot;">​</a></h2><p>The column argued that one of the reasons for the ugliness of the UK &quot;gender wars&quot; has been some people&#39;s determination to deny that anything is happening at all — the insistence that no women are being discriminated against or threatened, that trans activism poses no threat to women&#39;s rights or safety, and that all such concerns are exaggeration rather than misogyny.[1] It listed the dismissals directed at women who seek single-sex rape crisis services or whose events are vandalised and speakers attacked.[1]</p><p>The writer drew what she called obvious parallels between those dynamics and the rise of <a href="/concepts/antisemitism">antisemitism</a> across the UK amid a wider atmosphere of anti-Israeli fervour, arguing that this is either downplayed, outright denied, or justified with reference to the war in <a href="/entities/gaza">Gaza</a>, particularly since <a href="/concepts/october-7-attacks">October 7, 2023</a>.[1] The column held that no specific standpoint on the Israel–Hamas conflict is needed to oppose antisemitism.[1]</p><p>It further argued that antisemitism, like misogyny, is very old and always morphing through time, and that the modern justification &quot;it&#39;s not hatred of Jews, it&#39;s hatred of Zionists&quot; resolves on inspection into hostility toward anyone who thinks <a href="/entities/israel">Israel</a> has a right to exist — little comfort to the majority of British Jews who hold that view and who are now afraid to be &quot;obviously Jewish&quot; in public.[1]</p><p>The Brief paired the column with the UK government&#39;s announcement of the <a href="/concepts/nhs-antisemitism-and-racism-review">NHS antisemitism and racism review</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Familiar Formulas, Blue Skies, &amp; Antisemitic Nonchalance&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-6e6" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-6e6</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/the-scotsman.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const theScotsman = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  theScotsman as default
+};

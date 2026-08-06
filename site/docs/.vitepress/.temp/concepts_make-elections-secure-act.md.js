@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Make Elections Secure Act","description":"","frontmatter":{"title":"Make Elections Secure Act","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["election-integrity","legislation","paper-ballots","congress","voting"],"sources":["raw/badlands-news-brief-4e1.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/make-elections-secure-act.md","filePath":"concepts/make-elections-secure-act.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/make-elections-secure-act.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="make-elections-secure-act" tabindex="-1">Make Elections Secure Act <a class="header-anchor" href="#make-elections-secure-act" aria-label="Permalink to &quot;Make Elections Secure Act&quot;">​</a></h1><p>The Make Elections Secure Act (MESA) is a federal election reform bill drafted in early 2025 by Brazos Valley congressman <a href="/entities/pete-sessions">Pete Sessions</a>, whose Texas district includes Robertson, Leon and Milam counties.[1]</p><h2 id="provisions" tabindex="-1">Provisions <a class="header-anchor" href="#provisions" aria-label="Permalink to &quot;Provisions&quot;">​</a></h2><p>As described in a news release issued by Sessions in March 2025, MESA would return paper ballots to all federal elections and primaries that receive public money.[1] The bill would also make paper poll books the primary voter check-in method, limit early voting to the three days preceding election day, and restrict mail ballots to active-duty military personnel stationed away from home and to voters with physical, certified medical conditions preventing in-person voting.[1] Sessions said the legislation would align with the president&#39;s commitment to make elections secure again.[1]</p><h2 id="reception" tabindex="-1">Reception <a class="header-anchor" href="#reception" aria-label="Permalink to &quot;Reception&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ashe-in-america">Ashe in America</a> previewed the draft on the Badlands News Brief and said the bill &quot;has the potential to repeal all of the worst parts of the <a href="/concepts/help-america-vote-act">Help America Vote Act</a> (HAVA) and take massive steps towards restoring election integrity.&quot;[1] She said she did not make that claim lightly despite having only skimmed a draft, urging readers who want free and fair elections by the midterms to follow the bill and lobby their legislators.[1] She and co-host Brian planned a full segment on the legislation on an upcoming episode of <a href="/concepts/why-we-vote">Why We Vote</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;SCOTUS Drama and (Altered) Deals Shake Up the Week&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-4e1" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-4e1</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/make-elections-secure-act.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const makeElectionsSecureAct = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  makeElectionsSecureAct as default
+};

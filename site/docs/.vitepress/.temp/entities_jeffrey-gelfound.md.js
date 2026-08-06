@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Jeffrey Gelfound","description":"","frontmatter":{"title":"Jeffrey Gelfound","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["hunter-biden","irs","tax","whistleblower","accounting"],"sources":["raw/badlands-news-brief-204.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/jeffrey-gelfound.md","filePath":"entities/jeffrey-gelfound.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/jeffrey-gelfound.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="jeffrey-gelfound" tabindex="-1">Jeffrey Gelfound <a class="header-anchor" href="#jeffrey-gelfound" aria-label="Permalink to &quot;Jeffrey Gelfound&quot;">​</a></h1><p>Jeffrey Gelfound is a tax accountant with Edward White &amp; Company who was hired by <a href="/entities/hunter-biden">Hunter Biden</a> and later became a cooperating witness in the Internal Revenue Service criminal probe of the first son.[1]</p><h2 id="role-in-the-hunter-biden-tax-investigation" tabindex="-1">Role in the Hunter Biden tax investigation <a class="header-anchor" href="#role-in-the-hunter-biden-tax-investigation" aria-label="Permalink to &quot;Role in the Hunter Biden tax investigation&quot;">​</a></h2><p>According to once-secret IRS memos made public by <a href="/entities/congress">Congress</a> and reviewed by Just the News, Gelfound was engaged to help Hunter Biden clean up a trail of delinquent taxes as <a href="/entities/joe-biden">Joe Biden</a> marched toward the presidency in 2020 on a promise to force the wealthy to pay their &quot;fair share.&quot;[1] IRS agents subsequently determined that Hunter Biden was continuing to allegedly misrepresent his income and deductions to the very accountant he had hired to help.[1]</p><p>The documents indicate Gelfound cooperated with the IRS criminal investigation and was regarded as likely to be a key witness should Hunter Biden be charged with tax crimes by Special Counsel <a href="/entities/david-weiss">David Weiss</a>.[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p><a href="/entities/ashe-in-america">Ashe in America</a> wrote that Gelfound&#39;s testimony across multiple meetings with federal investigators &quot;paints a detailed picture of the influence-peddling schemes in which the Biden Crime Family was engaged,&quot; particularly when combined with the Hunter Biden laptop, the testimony of business partner <a href="/entities/devon-archer">Devon Archer</a>, Suspicious Activity Reports from Hunter&#39;s banks, and &quot;loan repayment&quot; checks written directly to Joe Biden by family members.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Narrative Shielding &amp; Biden Bait&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-204" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-204</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/jeffrey-gelfound.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jeffreyGelfound = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jeffreyGelfound as default
+};

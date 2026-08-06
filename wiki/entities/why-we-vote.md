@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, broadcasting, show]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-8fd.md]
 confidence: medium
 ---
 
@@ -18,8 +18,13 @@ The week of December 5–11, 2022 — the “Badlands Media Weekly Show Schedule
 
 A second Badlands Media schedule post, published January 3, 2023 to open the 2023 broadcast year, carried the same listing and description, and reiterated that all network shows air live on the Patel Patriot Rumble channel with replays archived on the Badlands Media library channel.[4]
 
+## December 2025 episodes
+
+Ashe in America announced that she and CannCon would host Patrick Byrne on Why We Vote to discuss the Venezuelan election fraud story emerging from Tina Peters' First Amendment appeal filings, a Lara Logan interview, and Emerald Robinson's reporting.[5] She also pointed to an earlier episode in which she and Colonel Shawn Smith went through the official narrative on the Peters-commissioned Mesa County reports.[5]
+
 ## References
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule
 3. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
+5. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd

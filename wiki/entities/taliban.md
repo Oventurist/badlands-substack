@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, terrorism, weapons-trafficking]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -79,6 +79,12 @@ In October 2024, [[vladimir-putin|Putin]]'s envoy for Afghanistan [[zamir-kabulo
 
 At the annual diplomatic forum on Afghanistan in Moscow, at which Taliban Foreign Minister Amir Khan Muttaqi was present, Russian Foreign Minister [[sergey-lavrov|Sergey Lavrov]] called on Western countries to lift sanctions on the Taliban, urging them "to acknowledge responsibility for the post-conflict reconstruction of Afghanistan, lift sanctions restrictions, and return Kabul's appropriated assets."[11] Lavrov praised the current Afghan leadership for its fight against drugs and the Islamic State without expressly naming the Taliban.[11]
 
+## Bid to join BRICS (2024)
+
+In September 2024, despite not being formally recognized by any country, the Taliban government of Afghanistan announced that it was seeking to join the [[brics|BRICS]] economic forum.[12] Deputy spokesman Hamdullah Fitrat said that "countries with major resources and the world's biggest economies are associated with the BRICS forum, especially Russia, India, and China," and that Kabul was "keen to expand our relations and participate in the economic forums of the BRICS."[12] The Afghanistan Ministry of Foreign Affairs said it hoped to be invited to the BRICS summit scheduled for October 22–24 in the Russian city of Kazan, but that there was "no information so far" on whether the Taliban could attend.[12]
+
+While no state has extended formal recognition, China and Russia have come closest, hosting Taliban delegations for talks and maintaining embassies in Kabul after the US–NATO withdrawal of August 2021; both have shown willingness to invest in Afghanistan and tap its natural resources, and both have welcomed the Taliban's fight against the rival Islamic State Khorasan (ISIS-K).[12] Analysts quoted in the coverage suggested the Taliban's accession would hand Washington "low-hanging fruit" with which to denigrate BRICS on the world stage, particularly amid US frustration at deepening China–Russia–India cooperation.[12] Badlands Media commentary treated the move as evidence that emergent sovereign states can bypass the international rules-based order, the [[united-nations|United Nations]] and [[nato|NATO]], escaping dollar-denominated sanctions and IMF debt by joining an alternative financial architecture.[12]
+
 ## References
 
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -92,3 +98,4 @@ At the annual diplomatic forum on Afghanistan in Moscow, at which Taliban Foreig
 9. Badlands Brief — "Federal RICO, Disaster Opportunism & Putin's Peace", URL: https://badlands.substack.com/p/badlands-news-brief-62d
 10. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+12. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, trump-legal-team, lawfare, 2020-election]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -32,6 +32,11 @@ Habba also argued that prosecutors across the various Trump cases should not be 
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] framed the removal strategy as part of a "bicameral" fight above and below the [[lawfare|lawfare]] cases, noting that [[mark-meadows|Mark Meadows]] had made a similar move to shift his own indictment to federal court days earlier, and suggesting that "all roads lead to the [[supreme-court-of-the-united-states|Supreme Court]]."[2]
 
+## Resignation as New Jersey U.S. Attorney (December 2025)
+
+On Monday, December 8, 2025, Habba announced that she would step down as New Jersey's top federal prosecutor after a panel of federal appeals court judges ruled that she was unlawfully serving in the role, having overstayed her interim term.[3] President [[donald-trump|Donald Trump]] responded by blaming members of his own party for the collapse of several U.S. attorney nominations, pointing to the [[united-states-senate|Senate]]'s blue slip tradition, which allows home-state senators to veto presidential nominees to district courts and U.S. attorney offices.[3] "The Republicans should be ashamed of themselves that they allow this to go on," Trump said, "because I can't appoint a U.S. attorney that's not a Democrat, because they put a block on it."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
+3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

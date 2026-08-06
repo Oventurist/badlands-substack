@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Seventeenth Amendment","description":"","frontmatter":{"title":"Seventeenth Amendment","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["constitution","senate","federalism","elections"],"sources":["raw/badlands-brief-cc3.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/seventeenth-amendment.md","filePath":"concepts/seventeenth-amendment.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/seventeenth-amendment.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="seventeenth-amendment" tabindex="-1">Seventeenth Amendment <a class="header-anchor" href="#seventeenth-amendment" aria-label="Permalink to &quot;Seventeenth Amendment&quot;">​</a></h1><p>The Seventeenth Amendment to the United States Constitution established the direct popular election of US senators, replacing the original constitutional design in which state legislatures selected the members of the <a href="/entities/united-states-senate">US Senate</a>. In Badlands commentary the amendment is treated as a pivotal structural change that severed the Senate from its original role as the chamber representing the states as sovereign political units.[1]</p><h2 id="badlands-position-repeal" tabindex="-1">Badlands position: repeal <a class="header-anchor" href="#badlands-position-repeal" aria-label="Permalink to &quot;Badlands position: repeal&quot;">​</a></h2><p>Responding to a July 2026 column in <a href="/entities/the-atlantic">The Atlantic</a> by <a href="/entities/jonathan-chait">Jonathan Chait</a> calling for abolition of the Senate, <a href="/entities/ashe-in-america">Ashe in America</a> argued for the opposite remedy: rather than removing the chamber, she proposed repealing the Seventeenth Amendment and returning the Senate to &quot;a body of representation for the states.&quot;[1] Her contention is that because of the Seventeenth Amendment, the political parties have usurped the power of the states under the pretense of acting for &quot;the People.&quot;[1]</p><p>The argument is framed both structurally and tactically. Structurally, repeal would restore a federalist check that makes it harder to pass sweeping national legislation.[1] Tactically, the commentary suggests that only &quot;commies&quot; would object to such a change, and that the reaction to a repeal push would help identify ideological actors who present themselves publicly as moderates.[1] The same passage frames the Senate&#39;s continued capacity to slow the agenda associated with the <a href="/entities/democratic-socialists-of-america">Democratic Socialists of America</a> as a feature worth strengthening rather than eliminating.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Heretical Garbage, Closet Commies, &amp; Fugitive AIs&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-cc3" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-cc3</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/seventeenth-amendment.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const seventeenthAmendment = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  seventeenthAmendment as default
+};

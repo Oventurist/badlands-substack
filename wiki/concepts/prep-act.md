@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, vaccines, liability, hhs, covid-19]
-sources: [raw/badlands-news-brief-79f.md]
+sources: [raw/badlands-news-brief-79f.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -20,5 +20,14 @@ The 27-page notice, dated December 6, was issued 19 months after President [[joe
 
 The timing drew attention because it came on the cusp of an incoming administration expected to aggressively examine vaccine injuries and to release federal vaccine-injury reporting data that Just the News had gone to court to obtain.[1]
 
+## Scope of the COVID-19 liability shield
+
+The PREP Act protections for COVID-19 vaccines rest on a 2020 declaration entered by then–Health Secretary Alex Azar during the administration of President [[donald-trump|Donald Trump]], which the administration of President [[joe-biden|Joe Biden]] subsequently extended.[2] The declaration shields both manufacturers and the people who administer the vaccines from liability, with the only exception being cases of death or serious injury caused by "willful misconduct."[2] According to an opinion issued by the [[department-of-health-and-human-services|U.S. Department of Health and Human Services]], the protection extends even to people who "reasonably could have believed" they were covered when in fact they were not.[2]
+
+## Repeal effort (March 2024)
+
+Legislation introduced on March 5, 2024 by Representative [[chip-roy|Chip Roy]] (R-Texas) would retroactively remove PREP Act protections for COVID-19 vaccine manufacturers, allowing injured Americans to sue.[2] The bill provides that no federal law may make a COVID-19 vaccine manufacturer immune from suit or limit its liability for claims arising from administration or use of the vaccine.[2] Industry defenders warned that stripping the shield would place the ability to address future public health threats at risk, a line Badlands commentator [[simon-esler|Simon Esler]] translated as an admission that accountability would end coercive vaccine development.[2]
+
 ## References
 1. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
+2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

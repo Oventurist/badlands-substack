@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"John Hoffman","description":"","frontmatter":{"title":"John Hoffman","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["minnesota","democratic-party","political-violence","state-senate"],"sources":["raw/badlands-news-brief-69d.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/john-hoffman.md","filePath":"entities/john-hoffman.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/john-hoffman.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="john-hoffman" tabindex="-1">John Hoffman <a class="header-anchor" href="#john-hoffman" aria-label="Permalink to &quot;John Hoffman&quot;">​</a></h1><p>John Hoffman is a Democratic member of the Minnesota State Senate who was shot and wounded, along with his wife Yvette, at their home in Champlin, Minnesota — a suburb of Minneapolis — in the early hours of Saturday, June 14, 2025.[1] The shooting occurred as part of a pair of targeted attacks on Minnesota lawmakers that also killed Minnesota House Speaker <a href="/entities/melissa-hortman">Melissa Hortman</a> and her husband Mark at their Brooklyn Park home.[1]</p><h2 id="the-attack" tabindex="-1">The attack <a class="header-anchor" href="#the-attack" aria-label="Permalink to &quot;The attack&quot;">​</a></h2><p>Minnesota Governor <a href="/entities/tim-walz">Tim Walz</a> described the shootings as &quot;politically motivated&quot; in a news briefing the same day, and investigators said the gunman had been dressed as a police officer.[1] The suspect, 57-year-old <a href="/entities/vance-boelter">Vance Luther Boelter</a>, was captured in Sibley County on the evening of Sunday, June 15, 2025.[1]</p><p>Records cited in press coverage showed that Boelter had served on a state board alongside Hoffman for more than six years, and authorities said they were investigating whether the suspect knew Hoffman or Hortman personally — a connection that made the Hoffman shooting a focus of early investigative reporting.[1] A stack of &quot;No Kings&quot; flyers found in a vehicle tied to the suspect, reported by the Minnesota State Patrol, connected the case in public discussion to the <a href="/concepts/no-kings-protests">&quot;No Kings&quot; protests</a> held nationwide that Saturday.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p><a href="/entities/badlands-media">Badlands Media</a> commentary offered prayers for the Hoffmans and criticized the rapid partisan framing of the attacks by figures in both parties, arguing that attaching an assassin to one party or another was a distraction from what it called the expansion of globalism regardless of election outcomes.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Assassinations, Celebrations, &amp; Another World War III&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-69d" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-69d</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/john-hoffman.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const johnHoffman = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  johnHoffman as default
+};

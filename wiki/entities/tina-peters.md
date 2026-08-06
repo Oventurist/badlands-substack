@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, colorado, clerk, commutation]
-sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-blitz-episode-18.md, raw/badlands-brief-174.md, raw/badlands-brief-5a2.md, raw/badlands-brief-774.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b38.md, raw/badlands-brief-c07.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -129,6 +129,14 @@ In May 2025, Badlands writer Ashe in America argued that the [[department-of-jus
 
 President Donald Trump publicly demanded Peters' release in a December 2025 Truth Social post attacking Colorado Governor Jared Polis, saying she had served more than a year in jail with eight years to go, was a cancer survivor, and had been preserving election records she was obligated under federal law to protect.[18] Badlands host Ashe in America endorsed Trump's reading of the participants' intent but added precision: Peters was convicted of misrepresenting to the people she was investigating who was in her office, a response to arbitrary COVID-era rules issued by Secretary of State Jena Griswold about who could be present in county offices, and none of her charges or convictions were for cheating or meddling in elections.[18] Ashe argued the law was changed after the fact to criminalize what Peters did, called her ongoing treatment 'cruel, unusual, and unconstitutional,' and announced a marathon airing of a three-part series on the Peters story on her Rumble channel alongside coverage of the Peters-commissioned Mesa County reports with Colonel Shawn Smith on Why We Vote.[18]
 
+## December 2025: prison safety claims and federal bond denial
+
+In December 2025, Peters' attorney [[peter-ticktin|Peter Ticktin]] told President Trump and his pardon counsel in a letter that Peters, aged 70, was not safe in Colorado state prison, alleging that inmates had threatened to stab and kill her six months earlier and that she had been attacked by other inmates after transferring units, with guards needing to pull them off of her.[19] Ticktin said a request to move her to a safer unit had been denied six times; the letter offered no supporting evidence and the state corrections department could not immediately verify the claims.[19]
+
+On Monday, December 8, 2025, a federal judge declined to release Peters, who remained the only Trump ally imprisoned for crimes related to efforts to overturn the 2020 election.[19] A state jury had convicted the former Republican clerk of Mesa County of participating in a criminal scheme with fellow election deniers to breach her county's secure voting systems, and she was one year into a nine-year sentence.[19] Trump has championed her case, calling her an "innocent political prisoner," and was reportedly being urged to intervene more aggressively.[19]
+
+Her federal petition for bond was dismissed without prejudice under the [[younger-abstention-doctrine|Younger abstention doctrine]], the court holding that it could not answer whether the trial court had improperly punished her more severely for protected First Amendment speech while that question remained pending in Colorado courts.[19] Judge Varholak acknowledged the importance of the constitutional claims but did not reach their merits, and noted that Peters' counsel had never argued for an exception to Younger despite months of briefing.[19] [[ashe-in-america|Ashe in America]] and [[blue-eyes|Blue Eyes]] reviewed the full order on the program Culture of Change, arguing that Peters should be released because her treatment was the product of weaponized government and asymmetrical justice.[19]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 18", URL: https://badlands.substack.com/p/badlands-blitz-episode-18
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -148,3 +156,4 @@ President Donald Trump publicly demanded Peters' release in a December 2025 Trut
 16. Badlands Brief — "Embrace Disruption, Point Fingers, & Explore Any and All Options", URL: https://badlands.substack.com/p/badlands-news-brief-8a4
 17. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 18. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+19. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

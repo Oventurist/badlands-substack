@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [special-counsel, biden, classified-documents, 2024-election]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-97e.md]
 confidence: medium
 ---
 
@@ -56,6 +56,14 @@ The findings intensified scrutiny of Vice President [[kamala-harris|Kamala Harri
 
 Badlands writer [[simon-esler|Simon Esler]] argued that the establishment's narrow "age" framing was composed of omissions as much as misinformation: it danced around Biden's cognitive struggles and obscured the implications of a human puppet occupying the Office of the President, acknowledging just enough incapacity to justify removing him while avoiding the darker reality of a takeover of the presidency — a reading he tied to [[devolution|Devolution]].[5] He further warned that removing Biden for being "an old man" could be mirrored and projected onto Trump, and read Trump's cultivated public closeness with [[vivek-ramaswamy|Vivek Ramaswamy]] as a counter-move injecting youthful leadership into his campaign.[5] [[burning-bright|Burning Bright]] framed the same polling as a "take the win" moment, noting the establishment's own polls showed little public mandate surviving its destruction of its own figurehead.[5]
 
+## Audio release (May 2025)
+
+The [[wall-street-journal|Wall Street Journal]] obtained and published the underlying audio of the October 2023 [[robert-hur|Hur]] interviews in May 2025, more than a year after the Biden administration released transcripts in March 2024 but refused to make the recordings public.[6] The tapes captured [[joe-biden|Biden]] speaking at times with a frail voice, digressing at length, mixing up his Senate tenure with his vice presidency when asked where he kept his papers in 2017 and 2018, and struggling to recall the year his son Beau died.[6] Their release coincided with new books on Biden's decline by [[jake-tapper|Jake Tapper]] and Alex Thompson and fed directly into Republican arguments about the [[autopen-scandal|autopen]].[6]
+
+## Audio release (May 2025)
+
+The [[wall-street-journal|Wall Street Journal]] obtained and published the underlying audio of the October 2023 [[robert-hur|Hur]] interviews in May 2025, more than a year after the Biden administration released transcripts in March 2024 but refused to make the recordings public.[6] The tapes captured [[joe-biden|Biden]] speaking at times with a frail voice, digressing at length, mixing up his Senate tenure with his vice presidency when asked where he kept his papers in 2017 and 2018, and struggling to recall the year his son Beau died.[6] Their release coincided with new books on Biden's decline by [[jake-tapper|Jake Tapper]] and Alex Thompson and fed directly into Republican arguments about the [[autopen-scandal|autopen]].[6]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -63,3 +71,4 @@ Badlands writer [[simon-esler|Simon Esler]] argued that the establishment's narr
 3. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 4. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
 5. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+6. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

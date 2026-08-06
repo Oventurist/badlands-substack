@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Mishal Al-Sabah","description":"","frontmatter":{"title":"Mishal Al-Sabah","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["kuwait","gulf-cooperation-council","monarchy","middle-east"],"sources":["raw/badlands-news-brief-7b7.md"],"confidence":"low"},"headers":[],"relativePath":"entities/mishal-al-sabah.md","filePath":"entities/mishal-al-sabah.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/mishal-al-sabah.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="mishal-al-sabah" tabindex="-1">Mishal Al-Sabah <a class="header-anchor" href="#mishal-al-sabah" aria-label="Permalink to &quot;Mishal Al-Sabah&quot;">​</a></h1><p>Mishal Al-Sabah is a senior member of the ruling Al-Sabah house of <a href="/entities/kuwait">Kuwait</a>, identified in Badlands coverage as Kuwaiti Crown Prince and photographed seated beside Saudi Foreign Minister <a href="/entities/faisal-bin-farhan">Faisal bin Farhan</a> at the September 2024 <a href="/entities/gulf-cooperation-council">Gulf Cooperation Council</a> meetings in Riyadh.[1]</p><h2 id="dynastic-background" tabindex="-1">Dynastic background <a class="header-anchor" href="#dynastic-background" aria-label="Permalink to &quot;Dynastic background&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> used the photograph as an occasion to sketch the history of the Al-Sabah line.[1] The Bani Utbah tribe settled in Kuwait in the 1700s, when the territory was &quot;nothing more than a small fishing village&quot;; among the tribe were the Al-Sabah and Al-Kalifa families, who became the rulers of Kuwait and of the island nation of Bahrain respectively.[1] The account credits the Bani Utbah with bringing horses to the Middle East from the Steppe region of <a href="/entities/russia">Russia</a>, noting that Arabian stallions are now considered among the finest racing horses in the world.[1]</p><p>Under the Al-Sabahs, Kuwait became a refuge for those seeking shelter, including Iraqi merchants during the period of the American Revolution — who established a shipbuilding industry that turned Kuwait into a small maritime power — and the <a href="/entities/house-of-saud">House of Saud</a>, who sought refuge there in 1890 after the Al Rashid clan burned their village and killed nearly every member of the family.[1] During that period the Sheikhdom became a British protectorate, an association that introduced the British to the teenage Abdulaziz bin Saud, described in the Badlands account as &quot;a moment that would forever reshape world history.&quot;[1] Kuwait is further described as having always been a safe haven for all three Abrahamic religions.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Harris Preps, Sovereigns Speak &amp; ... Haitians Eat Cats?&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-7b7" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-7b7</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/mishal-al-sabah.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const mishalAlSabah = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  mishalAlSabah as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-administration, declassification, odni]
-sources: [raw/badlands-brief-b56.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-817.md]
+sources: [raw/badlands-brief-b56.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-9ba.md]
 confidence: medium
 ---
 
@@ -34,8 +34,13 @@ _The Hill_ described the effort as "an unprecedented campaign from the helm of o
 
 On Wednesday, November 12, 2025, Pulte said in a social media post that the administration was "actively evaluating [[portable-mortgages|portable mortgages]]," days after President [[donald-trump|Donald Trump]]'s call for 50-year mortgages fell flat with industry and consumers.[4] He offered no details on how such a program would work; in theory a portable mortgage would allow a homeowner to transfer an existing mortgage rate from one home to another.[4] The proposals came as the Trump administration sought to address rising voter concerns about affordability, a key issue in a slate of elections Republicans lost by wider-than-expected margins the previous week, and Pulte had been quick to praise Trump's weekend post on 50-year mortgages.[4]
 
+## Cook mortgage-fraud referral (August 2025)
+
+In August 2025 Pulte's [[federal-housing-finance-agency|FHFA]] referred [[federal-reserve|Federal Reserve]] Governor [[lisa-cook|Lisa D. Cook]] to the [[department-of-justice|Department of Justice]] over allegations that she falsified bank documents and property records to obtain favorable mortgage terms on homes in Ann Arbor, Michigan, and Atlanta, Georgia.[5] Anticipating retaliation, Pulte posted on X: "Watch. The hit pieces will start to POUR IN because I am exposing the MORTGAGE FRAUD of the Elites," naming a reporter he said was preparing a story alleging that he was not in charge of the government-sponsored enterprises under the president.[5] He discussed the Cook investigation in a widely circulated clip in which he also attacked Representative [[adam-schiff|Adam Schiff]].[5]
+
 ## References
 1. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 2. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 3. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
+5. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md]
 confidence: medium
 ---
 
@@ -58,6 +58,14 @@ Wray was the recipient of sustained congressional pressure over the [[january-5-
 
 In early February 2023, Wray was subpoenaed by the [[house-judiciary-committee|House Judiciary Committee]] under Chairman [[jim-jordan|Jim Jordan]] over the [[doj-school-board-memo-2021|2021 Justice Department memo]] on threats against school board members, in the committee's first subpoenas of the new Congress; Attorney General [[merrick-garland|Merrick Garland]] and Education Secretary [[miguel-cardona|Miguel Cardona]] were served at the same time.[9]
 
+## December 2024 resignation
+
+On Wednesday, December 11, 2024, the FBI announced that Wray would resign at the end of the [[joe-biden|Biden]] administration, as it became clear he would otherwise be forced out by President-elect [[donald-trump|Donald Trump]].[10] Trump, who had originally nominated Wray after firing his predecessor, had already announced he would nominate [[kash-patel|Kash Patel]] for the role, even though Wray still had three years remaining on his 10-year term; Patel had been meeting with senators to build support for a confirmation vote the following year.[10]
+
+Sources said Wray had wrestled with whether to resign given Trump's stated desire to replace him, and wanted to facilitate an orderly transition, while some inside the bureau worried his departure would normalize the practice of presidents replacing FBI directors they dislike, since the position is meant to straddle administrations and be insulated from politics.[10] Wray had taken the helm of the agency after Trump fired Director [[james-comey|James Comey]] amid investigations into Russian meddling in the 2016 election; Comey's FBI had also investigated Hillary Clinton's use of a private email server before he left the bureau in May 2017.[10]
+
+Though initially seen by many lawmakers as a solid choice to stabilize a rocky ship, Wray ultimately suffered a fate similar to his predecessor's after overseeing an FBI that investigated Trump, producing two separate federal cases against him.[10] Trump was particularly unhappy with the bureau's court-approved search of his Mar-a-Lago resort in August 2022 during the investigation into his alleged mishandling of classified documents, telling NBC's "Meet the Press" that week that he was not "thrilled" with Wray: "He invaded my home. He invaded Mar-a-Lago."[10] Badlands commentary noted that anonymous reports the previous day about the director's thinking had proven accurate, and greeted the announcement with a one-word verdict: "Good."[10]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -69,3 +77,4 @@ In early February 2023, Wray was subpoenaed by the [[house-judiciary-committee|H
 7. Badlands Brief — "Badlands News Brief: US Carriers, FBI Warnings & Election Wins", URL: https://badlands.substack.com/p/badlands-news-brief-780
 8. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960

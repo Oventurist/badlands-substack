@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"European Council","description":"","frontmatter":{"title":"European Council","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["european-union","brussels","institutions","hungary","viktor-orban"],"sources":["raw/badlands-news-brief-49d.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/european-council.md","filePath":"entities/european-council.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/european-council.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="european-council" tabindex="-1">European Council <a class="header-anchor" href="#european-council" aria-label="Permalink to &quot;European Council&quot;">​</a></h1><p>The European Council is the European Union body that brings together the heads of state or government of the EU member states to set the bloc&#39;s overall political direction. Its permanent presidency was created only in 2009, when the Lisbon Treaty introduced the post to the European Union; the role of a permanent president was established specifically to ensure &quot;continuity&quot; in the EU&#39;s ambitions.[1] The main criticisms of the arrangement, however, are that it undermines diversity and equal representation among member states — even though the office was created to secure those very goals.[1]</p><h2 id="_2024-succession-question" tabindex="-1">2024 succession question <a class="header-anchor" href="#_2024-succession-question" aria-label="Permalink to &quot;2024 succession question&quot;">​</a></h2><p>In January 2024, European Council President <a href="/entities/charles-michel">Charles Michel</a> confirmed to several Belgian newspapers that he would stand as a candidate in the European Parliament elections, the first time a sitting president of the European Council had run in an <a href="/entities/european-parliament">European Parliament</a> election.[1] Reporting noted that if Michel were elected as an MEP, the Council presidency would fall vacant, and under the applicable rules the member state holding the rotating presidency — <a href="/entities/hungary">Hungary</a> after the elections — would chair the meetings.[1] The prospect that <a href="/entities/viktor-orban">Viktor Orbán</a> might therefore preside over Council business generated alarm in Brussels, with commentary framing the scenario as Orbán potentially becoming an &quot;emperor&quot; of Europe.[1]</p><p>Commentary published by <a href="/entities/badlands-media">Badlands Media</a> argued that the EU presidency is a largely toothless position, and that the very fact EU Council members feared Orbán acquiring it through happenstance revealed how insecure they felt about their grasp on collectivist power in the wake of the failed Ukrainian proxy war.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-49d" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-49d</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/european-council.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const europeanCouncil = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  europeanCouncil as default
+};

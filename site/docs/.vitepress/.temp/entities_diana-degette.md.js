@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Diana DeGette","description":"","frontmatter":{"title":"Diana DeGette","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["congress","democratic-party","colorado","2026-midterms"],"sources":["raw/badlands-brief-b56.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/diana-degette.md","filePath":"entities/diana-degette.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/diana-degette.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="diana-degette" tabindex="-1">Diana DeGette <a class="header-anchor" href="#diana-degette" aria-label="Permalink to &quot;Diana DeGette&quot;">​</a></h1><p>Diana DeGette is a Democratic member of the United States <a href="/entities/house-of-representatives">House of Representatives</a> from Colorado who, in 2026, lost her party&#39;s primary to <a href="/entities/justice-democrats">Justice Democrats</a>-backed challenger <a href="/entities/melat-kiros">Melat Kiros</a>.[1]</p><h2 id="_2026-primary-defeat" tabindex="-1">2026 primary defeat <a class="header-anchor" href="#_2026-primary-defeat" aria-label="Permalink to &quot;2026 primary defeat&quot;">​</a></h2><p>DeGette&#39;s loss prompted House Democrats to reassess their political strategy, with party members describing the upset as a warning sign that even established progressive incumbents are vulnerable to challenges from their left.[1] Progressive organizations pledged to continue targeting additional Democratic incumbents following the result.[1] The defeat came amid reports that former Vice President <a href="/entities/kamala-harris">Kamala Harris</a> had renewed outreach to Democratic donors and allies as she weighed her next political moves within the party&#39;s evolving leadership landscape.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ashe-in-america">Ashe in America</a>, writing from <a href="/entities/colorado">Colorado</a>, framed the primary as part of a broader pattern in which &quot;the commies are winning&quot; nationally, noting that Colorado voters backed change down ballot while keeping existing party leadership in place — with <a href="/entities/phil-weiser">Phil Weiser</a> securing the gubernatorial nomination and <a href="/entities/jena-griswold">Jena Griswold</a> the nomination for attorney general.[1] The same commentary identified DeGette as the congresswoman who distributed the Ukraine flags waved on the House floor when <a href="/entities/congress">Congress</a> passed Ukraine funding, described by the author as &quot;their money laundering.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A Communist Uprising &amp; A Globalist Humiliation Ritual&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-b56" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-b56</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/diana-degette.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const dianaDegette = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  dianaDegette as default
+};

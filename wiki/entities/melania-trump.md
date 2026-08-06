@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, melania-trump, artificial-intelligence]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-285.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -36,6 +36,12 @@ Her legal team argued that sanctions were warranted because Wolff manufactured a
 
 In early March 2025, First Lady Melania Trump spoke in support of the [[take-it-down-act|Take It Down Act]], legislation to protect Americans against the nonconsensual sharing of intimate images, including deepfakes.[5]
 
+## Vogue criticism of her official portrait
+
+In late January 2025, [[vogue|Vogue]] criticized Melania Trump's official White House portrait, with the magazine's writers saying the photograph made her look like "a freelance magician" and like a guest on "The Apprentice," the NBC reality show hosted by [[donald-trump|Donald Trump]] in the 2000s.[6] In the portrait she wears a dark suit and white blouse, resting her hands on a reflective table with the Washington Monument visible behind her; Vogue identified the outfit as a black Dolce & Gabbana tuxedo jacket with satin-trimmed lapels over a white button-up, paired with a Ralph Lauren cummerbund and trousers.[6] The magazine wrote that the choice of a tuxedo rather than a blazer or blouse "made Trump look more like a freelance magician than a public servant," and said it was unsurprising that a woman who lived in a gold-encrusted penthouse and whose fame is intertwined with a reality television empire would "refuse to abandon theatrics—even when faced with 248 years of tradition."[6]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] defended the portrait, arguing it deliberately conveys a masculine and powerful vibe and that the first lady's pose signals dominance, comparing it to marketing imagery for the [[netflix|Netflix]] series House of Cards and to poses Donald Trump himself has used.[6] He described her wardrobe choices as consistently tasteful and appropriate, read the untied tuxedo and unbuttoned shirt as implying a casual moment at a formal event, and found it ironic that Vogue would mock a supermodel and fashion icon for wearing a man's suit.[6] [[ashe-in-america|Ashe in America]] contrasted the coverage with Vogue's celebratory treatment of Dr. [[jill-biden|Jill Biden]] and noted that Vogue did not feature Melania Trump on its cover during her 2017–2021 tenure as first lady, a departure from its tradition of highlighting first ladies.[6]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -43,3 +49,4 @@ In early March 2025, First Lady Melania Trump spoke in support of the [[take-it-
 3. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
 4. Badlands Brief — "Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
 5. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
+6. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

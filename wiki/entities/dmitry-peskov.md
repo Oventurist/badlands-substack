@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, kremlin, spokesman, ukraine-war, energy]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-1c6.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-1c6.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9bc.md]
 confidence: medium
 ---
 
@@ -77,6 +77,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read 
 
 On July 22, 2025, Peskov said Russia disagrees with [[azerbaijan|Azerbaijan]]'s stance on the Ukraine conflict but hopes the divergence will not hinder efforts to restore bilateral ties following a recent rift, adding that Moscow wants to resolve the tensions with Baku.[14] He acknowledged the differing positions but insisted this had not been an obstacle in relations, saying Moscow seeks "to move past what we hope is a brief period of cooling in bilateral relations and avoid sacrificing mutually beneficial interests for the sake of a short-term situation."[14] See [[2025-russia-azerbaijan-rift|2025 Russia–Azerbaijan rift]].[14]
 
+## Denial of a Trump–Putin call (November 2024)
+
+On Monday, November 11, 2024, the [[kremlin|Kremlin]] denied reports that U.S. President-elect [[donald-trump|Donald Trump]] had spoken to Russian President [[vladimir-putin|Vladimir Putin]] in recent days, and said Putin had no concrete plans yet to speak with him.[15] [[washington-post|The Washington Post]] had first reported the call, citing unidentified sources, and said Trump told Putin not to escalate the Ukraine war; Reuters also reported the call citing an unidentified source.[15] "This is completely untrue. This is pure fiction, it's just false information," Peskov told reporters. "There was no conversation."[15] He added: "This is the most obvious example of the quality of the information that is being published now, sometimes even in fairly reputable publications," and, asked whether Putin planned any contacts with Trump, said, "There are no concrete plans yet."[15]
+
+Badlands writer [[burning-bright|Burning Bright]] read the episode as part of the "Trump-Putin Kayfabe" of the Info War, arguing that the Washington Post likely did have sources but that the two leaders were deliberately leaving the globalist media apparatus on pins and needles while remaining in communication ahead of an eventual "peace bomb."[15]
+
 ## References
 
 1. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
@@ -93,3 +99,4 @@ On July 22, 2025, Peskov said Russia disagrees with [[azerbaijan|Azerbaijan]]'s 
 12. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 13. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 14. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
+15. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc

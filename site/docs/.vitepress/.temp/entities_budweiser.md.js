@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Budweiser","description":"","frontmatter":{"title":"Budweiser","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["corporations","boycotts","americana"],"sources":["raw/a-communist-plot-to-take-over-america.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/budweiser.md","filePath":"entities/budweiser.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/budweiser.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="budweiser" tabindex="-1">Budweiser <a class="header-anchor" href="#budweiser" aria-label="Permalink to &quot;Budweiser&quot;">​</a></h1><p>Budweiser is the American beer brand cited in Badlands Media commentary as one of the clearest examples of a consumer boycott inflicting measurable financial damage on a company perceived as having gone &quot;woke.&quot;<a href="https://badlands.substack.com/p/a-communist-plot-to-take-over-america" target="_blank" rel="noreferrer">[1]</a></p><p><a href="/entities/erik-carlson">Erik Carlson</a> pairs Budweiser with <a href="/entities/target">Target</a> as &quot;an obvious example&quot; supporting his contention that boycotting works: if consumers stop buying products or services from woke companies, those companies lose money.<a href="https://badlands.substack.com/p/a-communist-plot-to-take-over-america" target="_blank" rel="noreferrer">[1]</a></p><p>Budweiser also appears on Carlson&#39;s personal list of the brands that most represent American culture, alongside Coca-Cola, <a href="/entities/disney">Disney</a>, Levi&#39;s, Hershey&#39;s and <a href="/entities/mcdonalds">McDonald&#39;s</a>.<a href="https://badlands.substack.com/p/a-communist-plot-to-take-over-america" target="_blank" rel="noreferrer">[1]</a> That dual status is what makes it central to the article&#39;s argument: as an <a href="/concepts/americana-brands">Americana brand</a> that has, in Carlson&#39;s view, gone out of its way to upset its customer base through wokeness, it fits the pattern <a href="/entities/andy-frisella">Andy Frisella</a> identifies of companies being pushed into positions that invite their own destruction.<a href="https://badlands.substack.com/p/a-communist-plot-to-take-over-america" target="_blank" rel="noreferrer">[1]</a></p><p>Carlson explicitly declines to tell readers to stop boycotting Budweiser, <a href="/entities/target">Target</a>, <a href="/entities/disney">Disney</a> or any other company pushing wokeness, Satanism or the grooming of children — asking only that they weigh the possibility they are serving the <a href="/concepts/deep-state">Deep State</a>&#39;s ends.<a href="https://badlands.substack.com/p/a-communist-plot-to-take-over-america" target="_blank" rel="noreferrer">[1]</a></p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A Communist Plot to Take Over America&quot;, URL: <a href="https://badlands.substack.com/p/a-communist-plot-to-take-over-america" target="_blank" rel="noreferrer">https://badlands.substack.com/p/a-communist-plot-to-take-over-america</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/budweiser.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const budweiser = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  budweiser as default
+};

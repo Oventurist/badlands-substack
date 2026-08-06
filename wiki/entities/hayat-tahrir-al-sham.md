@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [syria, al-qaeda, regime-change, proxy-war]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7a5.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -84,6 +84,18 @@ Over the weekend of December 7-8, 2024, HTS jihadists advanced on [[damascus|Dam
 
 Shortly before the capital fell, [[times-of-israel|Times of Israel]] published video interviews aired on Israeli television in which HTS-aligned rebels credited Israeli strikes on Hezbollah with enabling their advance.[9] One fighter said that "nobody knows if Iran and the regime would have been weakened without the recent Israeli attacks in Syria, which have allowed us to return and free the lands and the country," while a rebel figure from the Idlib area thanked Jerusalem and said the opposition was "very satisfied" with Israel's actions against Hezbollah and other Iran-backed players.[9] The same source said, "They accuse us of cooperating with you because we were quite happy when you attacked Hezbollah, really happy, and we're glad that you won," and added: "We love Israel and we were never its enemies... [Israel] isn't hostile to those who are not hostile toward it. We don't hate you, we love you very much."[9] Badlands treated these statements, together with [[benjamin-netanyahu|Benjamin Netanyahu]] claiming credit for the regime's collapse and promising diplomacy with the victors, as confirming its thesis that the jihadist groups function as instruments of the same interests they nominally oppose.[9]
 
+## Washington reaction and sectarian killings, December 2024
+
+Commentary published in Newsweek in December 2024 noted that a 2018 entry in the Federal Register had declared HTS a "Specially Designated Global Terrorist" organization on account of its lineage with [[al-qaeda|Al Qaeda]], and predicted that a Washington parlor game would now be to guess how quickly that designation would be stricken from the record.[10] The piece compared the swift rehabilitation of the Syrian militants to the public-relations makeover afforded the [[azov-battalion|Azov Regiment]] in Ukraine, decried in that same year, 2018, by progressive Democrats as a "Neo-Nazi" formation before being rebranded as freedom fighters.[10] It allowed that both formations might to some extent have moderated, but observed that without more independent reporting from Syria the supposed evolution of the group was impossible to verify, whatever pluralistic overtures its leadership was publicly making.[10]
+
+Reporting compiled by The Cradle described extremist armed factions across Syria carrying out executions of civilians and soldiers amid the chaos following the fall of [[bashar-al-assad|Bashar al-Assad]]'s government.[10] Al-Mayadeen reported that a video circulating on social media showed armed HTS militants conducting field executions of unarmed men in the village of al-Rabia in the Latakia countryside, referring to the men as "Shabiha," a derogatory term long applied to pro-government Syrian soldiers and civilians.[10] The HTS military operations administration reported ongoing clashes in al-Rabia, including the encirclement of a group of officers inside a fortified farm in the village.[10] In the Nawaha and Al-Asadiya neighborhoods, SNA militants burned civilian houses, stole property and executed at least three people including a woman, according to SOHR, while [[islamic-state|ISIS]] militants killed 54 Syrian army soldiers fleeing an attack in the central province of Homs.[10]
+
+Badlands commentary argued that western and Israeli media had tripped over themselves to rebrand HTS leader [[abu-mohammad-al-jolani|Abu Mohammed al-Jolani]] as a "tolerant terrorist," and questioned how the celebration of a former Al Qaeda commander could be squared with continued 9/11 commemoration.[10]
+
+## Fall of Damascus and its aftermath (December 2024)
+
+Damascus fell in early December 2024 to a coalition of armed opposition forces led by HTS, an event that immediately preceded Israeli forces moving deeper into Syrian territory and seizing the post-1973 demilitarized buffer zone adjacent to the [[golan-heights|Golan Heights]].[11] Badlands contributor [[burning-bright|Burning Bright]] observed that even globalist media found it strange that the advancing forces met little to no resistance from [[bashar-al-assad|Assad]]'s Syrian army as they marched on Aleppo and Damascus, questioning whether Assad had truly fled on a whim or had already been in Moscow for some time.[11] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that "ConInc" and [[benjamin-netanyahu|Netanyahu]] were effectively celebrating Al Qaeda — the group purportedly responsible for 9/11 and for much of the subsequent destabilization of the Middle East.[11]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -95,3 +107,5 @@ Shortly before the capital fell, [[times-of-israel|Times of Israel]] published v
 8. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 
 9. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
+10. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+11. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

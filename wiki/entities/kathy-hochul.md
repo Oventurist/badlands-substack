@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, governor, vaccines, public-health, federalism]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6f7.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ On Wednesday, February 26, 2025 Hochul told a laughing [[metropolitan-transporta
 
 In September 2024, Hochul's former deputy chief of staff [[linda-sun|Linda Sun]] was charged with acting as an illegal agent of the Chinese government, alongside her husband Chris Hu; both pleaded not guilty in Brooklyn.[6] Prosecutors alleged Sun used her New York state government positions to further Beijing's agenda in exchange for compensation and gifts worth millions of dollars.[6] In a WNYC interview Hochul said she was "furious… outraged and absolutely shocked at how brazen her behavior was," calling it "a betrayal of trust—the trust of government, the trust of the people," and stating that her office had fired Sun the previous year upon discovering misconduct and alerted the authorities immediately.[6] Former Governor [[andrew-cuomo|Andrew Cuomo]] also responded to the charges.[6]
 
+## National Guard deployment to the NYC subway (2024)
+
+In March 2024 Hochul announced that she would deploy 750 members of the [[national-guard|National Guard]] to New York City's subway system to assist the [[nypd|New York Police Department]] in a crackdown on crime, including bag searches at the entrances of busy train stations.[7] The move drew attention chiefly for the contrast in media treatment: Senator [[tom-cotton|Tom Cotton]] posted a "hmmm" note reading "Sending in the troops to help restore law and order…," pointing out that [[new-york-times|The New York Times]] had denounced him roughly four years earlier for an op-ed urging National Guard deployment against riots, yet greeted Hochul's actual deployment with what [[jonathan-turley|Jonathan Turley]] called "little more than a journalistic shrug."[7]
+
 ## References
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
 2. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
@@ -45,3 +49,4 @@ In September 2024, Hochul's former deputy chief of staff [[linda-sun|Linda Sun]]
 4. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
 5. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 6. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
+7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

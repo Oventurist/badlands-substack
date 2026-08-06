@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Vermont Supreme Court","description":"","frontmatter":{"title":"Vermont Supreme Court","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["courts","vermont","elections","noncitizen-voting"],"sources":["raw/badlands-news-brief-2a2.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/vermont-supreme-court.md","filePath":"entities/vermont-supreme-court.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/vermont-supreme-court.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="vermont-supreme-court" tabindex="-1">Vermont Supreme Court <a class="header-anchor" href="#vermont-supreme-court" aria-label="Permalink to &quot;Vermont Supreme Court&quot;">​</a></h1><p>The Vermont Supreme Court is the highest court of the State of Vermont. In January 2023 it drew national attention for upholding a municipal charter provision permitting noncitizen residents to vote in local elections.[1]</p><h2 id="montpelier-noncitizen-voting-ruling" tabindex="-1">Montpelier noncitizen voting ruling <a class="header-anchor" href="#montpelier-noncitizen-voting-ruling" aria-label="Permalink to &quot;Montpelier noncitizen voting ruling&quot;">​</a></h2><p>The court ruled that noncitizen residents may continue to vote in municipal elections in Montpelier, Vermont&#39;s capital city, holding that such voting in local elections does not violate the state constitution.[1] Deciding an appeal, the higher court upheld a lower court ruling and dismissed the challengers&#39; claim.[1]</p><p>In its decision the court wrote that &quot;the statute allowing noncitizens to vote in local Montpelier elections does not violate Chapter II, § 42 because that constitutional provision does not apply to local elections.&quot;[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p><a href="/entities/justin-deschamps">Justin Deschamps</a> wrote that the Vermont Supreme Court had &quot;chose[n] to violate their fundamental duty as trustee of the people&#39;s rights and property,&quot; which he described as upholding and defending the rights enumerated by the U.S. Constitution.[1] He argued that a nation is formed by the legal persons who have vested their rights into it as citizens, so that a person who is not a citizen &quot;has no lawful right to participate in the governance of the nation,&quot; and placed the ruling within a broader pattern of institutional decay in which media, education, and entertainment leave the public unable to notice such changes.[1] Related debates over <a href="/concepts/noncitizen-voting">noncitizen voting</a> recurred in other jurisdictions.</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-2a2" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-2a2</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/vermont-supreme-court.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const vermontSupremeCourt = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  vermontSupremeCourt as default
+};

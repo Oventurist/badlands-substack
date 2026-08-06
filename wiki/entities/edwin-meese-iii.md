@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [conservatism, doj, capital-research-center, medal-of-freedom]
-sources: [raw/badlands-news-brief-1c3.md]
+sources: [raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ In 2019, Meese was awarded the Presidential Medal of Freedom by President [[dona
 
 Meese's board position became a point of analytical interest in September 2025 when the Capital Research Center published a report alleging that the [[open-society-foundations|Open Society Foundations]] had given more than $80 million to groups tied to terrorism or extremist violence.[1] Badlands contributor Burning Bright cited the Meese connection as evidence that the report was not an isolated act of advocacy journalism but part of a coordinated build-out — potentially supplying a predicate for the [[antifa|Antifa]] terrorist designation and for RICO charges against [[george-soros|George Soros]] and similar funders.[1] The same commentary argued that the Meese link lent credence to the idea that a civilian-military alliance had been active behind the scenes far longer than many believed.[1]
 
+## Amicus brief in the Trump documents case (March 2024)
+
+Meese, who served as Attorney General under President Ronald Reagan, was one of two outside parties whose amicus briefs Judge [[aileen-cannon|Aileen Cannon]] accepted on March 7, 2024 in the federal classified documents prosecution of [[donald-trump|Donald Trump]].[2] The brief, filed alongside one from the [[america-first-legal|America First Legal Foundation]], argued that the case — in which Trump pleaded not guilty to 40 charges over the alleged illegal retention of classified documents and subsequent obstruction — should be dismissed.[2] Cannon wrote in court filings that the arguments "may be of considerable help" to her, prompting legal experts to debate whether she was leaning toward throwing out the case.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
+2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Sable Offshore","description":"","frontmatter":{"title":"Sable Offshore","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["energy","oil","california","defense-production-act","trump-administration"],"sources":["raw/badlands-brief-9eb.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/sable-offshore.md","filePath":"entities/sable-offshore.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/sable-offshore.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="sable-offshore" tabindex="-1">Sable Offshore <a class="header-anchor" href="#sable-offshore" aria-label="Permalink to &quot;Sable Offshore&quot;">​</a></h1><p>Sable Offshore is a United States petroleum company identified as the operator directed by the administration of <a href="/entities/donald-trump">Donald Trump</a> to restart shuttered oil production operations in California under authorities delegated by the <a href="/concepts/defense-production-act">Defense Production Act</a>.[1]</p><h2 id="santa-ynez-unit-restart" tabindex="-1">Santa Ynez Unit restart <a class="header-anchor" href="#santa-ynez-unit-restart" aria-label="Permalink to &quot;Santa Ynez Unit restart&quot;">​</a></h2><p>In March 2026, the White House invoked Defense Production Act authorities to address energy supply concerns tied to instability involving <a href="/entities/iran">Iran</a>, directing a US oil company to restart petroleum production operations in California that had previously been halted.[1] Badlands contributor <a href="/entities/burning-bright">Burning Bright</a> identified the operator as Sable Offshore and the assets involved as the Santa Ynez Unit and its associated pipeline system, describing the restart as boosting in-state production by roughly 50,000 barrels per day.[1]</p><p>In that framing, the restart displaces foreign crude imports that had been routed through maritime chokepoints such as the <a href="/concepts/strait-of-hormuz">Strait of Hormuz</a>, which were under narrative and physical pressure during the Iran conflict.[1] Burning Bright characterized the action as &quot;the codification (literally) of sovereign mandate,&quot; arguing that energy independence had been converted from a campaign slogan into an explicit national security posture.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands commentary positioned the Sable Offshore restart as phase one of what Burning Bright calls &quot;Sovereign Disentanglement&quot; — the deliberate decentralization of American energy capacity under cover of foreign crisis, with the geopolitical drama functioning as a shield rather than the mission itself.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-9eb" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-9eb</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/sable-offshore.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const sableOffshore = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  sableOffshore as default
+};

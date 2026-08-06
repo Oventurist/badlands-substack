@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Article 51 of the UN Charter","description":"","frontmatter":{"title":"Article 51 of the UN Charter","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["international-law","united-nations","self-defense","iran","israel"],"sources":["raw/badlands-news-brief-808.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/article-51-of-the-un-charter.md","filePath":"concepts/article-51-of-the-un-charter.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/article-51-of-the-un-charter.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="article-51-of-the-un-charter" tabindex="-1">Article 51 of the UN Charter <a class="header-anchor" href="#article-51-of-the-un-charter" aria-label="Permalink to &quot;Article 51 of the UN Charter&quot;">​</a></h1><p>Article 51 of the Charter of the <a href="/entities/united-nations">United Nations</a> is the provision governing the right of member states to self-defense. As described in Badlands Media coverage, it stipulates that member nations are permitted to defend themselves with reciprocal action, provided that they notify the <a href="/entities/united-nations-security-council">UN Security Council</a> in advance and that the response remains proportionate to the initial offense.[1]</p><h2 id="invocation-in-the-2024-iran–israel-exchange" tabindex="-1">Invocation in the 2024 Iran–Israel exchange <a class="header-anchor" href="#invocation-in-the-2024-iran–israel-exchange" aria-label="Permalink to &quot;Invocation in the 2024 Iran–Israel exchange&quot;">​</a></h2><p>The provision became a focal point of commentary during the <a href="/concepts/april-2024-iranian-attack-on-israel">April 2024 Iranian attack on Israel</a>. <a href="/entities/iran">Iran</a> framed its drone and missile barrage as a lawful Article 51 response to the suspected Israeli strike on its diplomatic compound in Damascus, gave advance notice through regional intermediaries, kept the response calibrated, and publicly announced that its kinetic action was concluded.[1]</p><p>Badlands writer <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> argued that Iran&#39;s adherence to these procedural rules was itself the story, since it inverted the customary Western portrayal of Iranian conduct and, by contrast, highlighted violations of international law regarding the inviolability of diplomatic installations.[1] Russian ambassador <a href="/entities/vassily-nebenzia">Vassily Nebenzia</a> made a parallel legal argument at the Security Council, contending that the council&#39;s failure to rebuke the April 1 strike on the Damascus consulate had itself produced the escalation.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Iranian Walk-backs, Trump Trials &amp; Trans Truths&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-808" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-808</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/article-51-of-the-un-charter.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const article51OfTheUnCharter = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  article51OfTheUnCharter as default
+};

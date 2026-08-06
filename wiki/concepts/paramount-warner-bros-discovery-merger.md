@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hollywood, mergers, gulf-capital, media-consolidation]
-sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md]
+sources: [raw/badlands-brief-9ea.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -40,7 +40,16 @@ The letter noted that the investments are structured as non-voting equity, often
 
 [[burning-bright|Burning Bright]] read the senators' intervention as the establishment telegraphing what it truly fears: that Middle Eastern partners already flowing into gaming and sports are now positioning within the final major theater of narrative control.[2] In seeking to stop this convergence, he argued, the establishment reveals itself as a "Protectorate" that wants permanent cultural and geopolitical fracture rather than normalization.[2]
 
+## Netflix deal and Paramount's hostile bid (December 2025)
+
+The contest for [[warner-bros-discovery|Warner Bros. Discovery]] came to a head in December 2025.[4] On Friday, December 5, [[netflix|Netflix]] announced an $83 billion agreement, approved by both boards, to acquire a large part of the company, excluding its cable channels.[4] On Monday, December 8, [[paramount-global|Paramount]] mounted a hostile takeover bid, going around the Warner board directly to shareholders with an all-cash offer of $30 per share — valuing the company at roughly $108 billion including debt — and covering the entire business, including the Warner Bros. studio, HBO Max and cable channels such as CNN.[4]
+
+Paramount justified the maneuver by asserting that the board was "pursuing an inferior proposal" that would face "a challenging regulatory approval process," while chief executive [[david-ellison|David Ellison]] said the offer would "create a stronger Hollywood" and serve "the creative community, consumers and the movie theater industry."[4]
+
+Badlands contributor [[burning-bright|Burning Bright]] laid out two scenarios: a Netflix win yielding a hyper-centralized behemoth pairing the streaming platform with Warner's intellectual-property library and further narrowing the range of permissible narrative, or a Paramount close in which [[jared-kushner|Kushner]]-linked Gulf capital, tech sovereignty via Ellison, global sports assets and roughly $6 billion in synergies would crack Hollywood's unipolar structure under what he called multipolar gravity.[4]
+
 ## References
 1. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 2. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
 3. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
+4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

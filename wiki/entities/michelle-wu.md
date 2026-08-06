@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [boston, mayor, sanctuary-cities, immigration, democrats]
-sources: [raw/badlands-news-brief-4e1.md]
+sources: [raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-9ba.md]
 confidence: medium
 ---
 
@@ -18,6 +18,11 @@ Wu appeared alongside [[eric-adams|Eric Adams]] of New York, [[mike-johnston|Mik
 
 Commentary published in the Badlands News Brief characterized the hearing as "surreal," noting that the four mayors converged on identical talking points — recasting their jurisdictions as "welcoming cities" rather than "sanctuary cities," insisting that they follow all local, state and federal law, and affirming that violent criminals should be deported. Badlands contributor [[ashe-in-america|Ashe in America]] argued that the mayors "lied — brazenly and under oath," given that the [[sanctuary-cities|sanctuary]] designation refers specifically to shielding residents from federal immigration enforcement.[1]
 
+## Response to DOJ sanctuary-city threats (August 2025)
+
+In August 2025 Wu responded sharply to the Trump administration's legal threats over [[sanctuary-cities|sanctuary city]] immigration policies, declaring that "Boston will not back down."[2] At a news conference outside Boston's city hall she said: "The US attorney general asked for a response by today, so here it is: stop attacking our cities to hide your administration's failures. Unlike the Trump administration, Boston follows the law. And Boston will not back down from who we are and what we stand for."[2] The week before, the [[department-of-justice|Department of Justice]] had sent letters to 13 states, from California to Rhode Island, and 22 local governments, from Boston to Seattle, that it deemed "sanctuary jurisdictions," threatening their leaders with prosecution for allegedly "undermining" and "obstructing" federal immigration enforcement.[2] Badlands commentary highlighted White House adviser [[stephen-miller|Stephen Miller]]'s response — "This is as real as it gets" — and argued that giving aid and comfort to America's enemies makes one an enemy of America, adding that "the time for empty talk is over."[2]
+
 ## References
 
 1. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
+2. Badlands News Brief — "Russian Concessions & Criminal Referrals", URL: https://badlands.substack.com/p/badlands-news-brief-9ba

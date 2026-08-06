@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [centcom, pentagon, israel, hezbollah, military]
-sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-683.md]
+sources: [raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -43,6 +43,16 @@ Badlands Media wrote in September 2024 that as [[benjamin-netanyahu|Benjamin Net
 
 Badlands commentary on Israel's October 2024 ground incursion into Lebanon framed [[benjamin-netanyahu|Netanyahu's]] escalation against [[hezbollah]] and [[iran]] as an "all in" wager that directly called out Kurilla's threat that the United States would not back Israel in a war against Hezbollah or Iran.[7] The move was likened to throwing oneself into a tiger pit and daring the zookeepers to mount a rescue.[7] See [[2024-israeli-ground-invasion-of-lebanon]].[7]
 
+## April 2024 Israel coordination visit
+
+In April 2024 Kurilla, as the senior U.S. military commander in charge of the Middle East, was expected to travel to Israel on Thursday, April 11 to coordinate around a possible attack on Israel by Iran and its proxies, according to two Israeli officials.[8] He was to meet Israeli Defense Minister [[yoav-gallant|Yoav Gallant]] and senior Israel Defense Forces officials.[8]
+
+The visit followed public Iranian threats to retaliate for an Israeli strike on Damascus that killed Brig. Gen. [[mohammad-reza-zahedi|Mohammad Reza Zahedi]], a top Quds Force general in charge of Iranian military operations in Lebanon and Syria.[8] Israeli officials said they were preparing for a possible unprecedented direct attack from Iranian soil using ballistic missiles, drones and cruise missiles, and that Israel would retaliate with a direct attack on Iran.[8] A U.S. defense official said it was Department of Defense policy not to discuss flag officer travel for operational security reasons.[8]
+
+## Statement on the December 2024 Syria strikes
+
+Following the December 8, 2024 [[centcom|U.S. Central Command]] airstrikes against more than 75 [[isis|ISIS]] targets in central [[syria|Syria]], Kurilla said: "There should be no doubt - we will not allow ISIS to reconstitute and take advantage of the current situation in Syria."[9] He warned that "all organizations in Syria should know that we will hold them accountable if they partner with or support ISIS in any way."[9]
+
 ## References
 1. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
 2. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
@@ -50,3 +60,5 @@ Badlands commentary on Israel's October 2024 ground incursion into Lebanon frame
 4. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
 5. Badlands Brief — "Badlands News Brief: Peacemakers Come in Many Forms …", URL: https://badlands.substack.com/p/badlands-news-brief-601
 6. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+8. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+9. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

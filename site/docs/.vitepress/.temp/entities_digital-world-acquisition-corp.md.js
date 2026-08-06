@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Digital World Acquisition Corp","description":"","frontmatter":{"title":"Digital World Acquisition Corp","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["spac","dwac","trump-media","markets","truth-social"],"sources":["raw/badlands-news-brief-47f.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/digital-world-acquisition-corp.md","filePath":"entities/digital-world-acquisition-corp.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/digital-world-acquisition-corp.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="digital-world-acquisition-corp" tabindex="-1">Digital World Acquisition Corp <a class="header-anchor" href="#digital-world-acquisition-corp" aria-label="Permalink to &quot;Digital World Acquisition Corp&quot;">​</a></h1><p>Digital World Acquisition Corp. (DWAC) was the special purpose acquisition company (SPAC) that merged with <a href="/entities/trump-media-and-technology-group">Trump Media &amp; Technology Group</a>, the private firm that owns the <a href="/entities/truth-social">Truth Social</a> app platform.[1]</p><h2 id="merger-with-trump-media" tabindex="-1">Merger with Trump Media <a class="header-anchor" href="#merger-with-trump-media" aria-label="Permalink to &quot;Merger with Trump Media&quot;">​</a></h2><p>DWAC announced plans to merge with Trump Media roughly two and a half years before the deal was consummated.[1] On Friday, March 22, 2024, DWAC shareholders voted to approve the merger, a deal reported as capable of eventually netting former president <a href="/entities/donald-trump">Donald Trump</a> a windfall of $3 billion or more.[1]</p><p>The vote came as Trump faced the prospect that New York Attorney General <a href="/entities/letitia-james">Letitia James</a> would begin, the following Monday, to collect on a $454 million civil fraud judgment against him.[1] Shares in the newly combined company, Trump Media, were expected to begin trading publicly the following week under the stock symbol DJT — Trump&#39;s initials.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands contributor <a href="/entities/burning-bright">Burning Bright</a> described the DWAC–TMTG merger and the resulting DJT ticker as &quot;one of the most based 5D chess moves made in the Info War so far,&quot; arguing that members of the American public would now be able to become literal shareholders in an ideology and thereby be directly invested in the future direction of the country.[1] He predicted that adding &quot;financial FOMO&quot; to the ongoing America First culture swing would make things &quot;MAGAbolic.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Media — &quot;Badlands News Brief: Horse Paste &amp; A Couple of Bloodbaths&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-47f" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-47f</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/digital-world-acquisition-corp.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const digitalWorldAcquisitionCorp = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  digitalWorldAcquisitionCorp as default
+};

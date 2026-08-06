@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Michele Singer Reiner","description":"","frontmatter":{"title":"Michele Singer Reiner","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["hollywood","crime","photography","los-angeles"],"sources":["raw/badlands-news-brief-143.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/michele-singer-reiner.md","filePath":"entities/michele-singer-reiner.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/michele-singer-reiner.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="michele-singer-reiner" tabindex="-1">Michele Singer Reiner <a class="header-anchor" href="#michele-singer-reiner" aria-label="Permalink to &quot;Michele Singer Reiner&quot;">​</a></h1><p>Michele Singer Reiner was an American photographer and producer and the wife of filmmaker <a href="/entities/rob-reiner">Rob Reiner</a>. She was found stabbed to death alongside her husband at the couple&#39;s Brentwood home in Los Angeles on Sunday, December 14, 2025; she was 68 years old and her husband was 78.[1]</p><h2 id="death" tabindex="-1">Death <a class="header-anchor" href="#death" aria-label="Permalink to &quot;Death&quot;">​</a></h2><p>The Los Angeles Police Department confirmed on Monday, December 15, 2025 that both Reiners had been found fatally stabbed the previous afternoon. The bodies were reportedly discovered by the couple&#39;s 28-year-old daughter, Romy. LAPD Chief Jim McDonnell described the incident as tragic at a press conference, saying investigators from the department&#39;s Robbery-Homicide Division had worked overnight to take a suspect into custody.[1]</p><p>The couple&#39;s 32-year-old son, <a href="/entities/nick-reiner">Nick Reiner</a>, was arrested late Sunday and booked on suspicion of murder, a felony charge, early Monday morning. The LAPD told CNN that he was not being held on bail, despite widely circulated reports of a $4 million bond.[1]</p><h2 id="aftermath-and-commentary" tabindex="-1">Aftermath and commentary <a class="header-anchor" href="#aftermath-and-commentary" aria-label="Permalink to &quot;Aftermath and commentary&quot;">​</a></h2><p>President <a href="/entities/donald-trump">Donald Trump</a> responded to the killings with a social media post attributing the deaths to Rob Reiner&#39;s political opposition to him, a claim police investigators had not substantiated while the homicide investigation was ongoing.[1] Badlands contributor <a href="/entities/burning-bright">Burning Bright</a> noted in commentary that the <a href="/entities/clinton-foundation">Clinton Foundation</a> had eulogized the Reiners, framing the sequence of events as &quot;seeding&quot; within a broader narrative contest.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Pedish Patricide, ISIS-Inspired Disarmament, &amp; Trump&#39;s Love Language&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-143" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-143</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/michele-singer-reiner.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const micheleSingerReiner = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  micheleSingerReiner as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [georgia, rico, 2020-election, lawfare, fulton-county]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md]
 confidence: medium
 ---
 

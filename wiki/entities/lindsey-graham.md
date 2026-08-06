@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, south-carolina, republicans, iran, neoconservatives]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md]
 confidence: low
 ---
 
@@ -148,6 +148,10 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote
 
 Journalist [[bob-woodward|Bob Woodward]]'s book *War*, details of which were reported by Axios, CNN and *The New York Times* on October 8, 2024, covers Graham's efforts to persuade [[donald-trump|Donald Trump]] to move on from his 2020 election loss.[29] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the disclosure as "a shot across the bow at Lady Lindsey," treating the leak as a deliberate signal rather than incidental reporting.[29]
 
+## Syria posture after the fall of Assad (December 2024)
+
+In December 2024, following the collapse of the [[bashar-al-assad|Assad]] government and Israel's advance into the Syrian buffer zone, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] contrasted Graham's public statements on Syria with President [[donald-trump|Donald Trump]]'s instruction not to get involved.[31] The commentary, which referred to the senator as "Lady Lindsay," noted that Graham had in 2018 called Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] a "thug" and demanded his ouster, and alleged that Graham had helped Senator [[john-mccain|John McCain]] form [[isis|ISIS]] out of the collection of [[cia|CIA]] proxy groups operating across North Africa and the Middle East, with the assistance of [[barack-obama|Barack Obama]] and [[hillary-clinton|Hillary Clinton]].[31] These are claims advanced in Badlands commentary rather than established findings.[31]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -189,3 +193,13 @@ In Axios reporting published on December 4, 2024 about the volatile Middle East 
 27. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 28. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 29. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+
+## May 2023 Russian arrest warrant
+
+In late May 2023 Russia issued an arrest warrant for Graham after an edited video appeared to show him celebrating the deaths of Russian troops.[30] The footage, spliced together from two separate moments of a Kyiv meeting with [[volodymyr-zelensky|Volodymyr Zelensky]] and posted by the Ukrainian president's office, had Graham describing aid to Kyiv as "the best money we've ever spent" while noting that Russian soldiers were "dying."[30] Ukraine later uploaded the full unedited clip after Moscow's criticism, showing the two remarks had been made at different points in the meeting.[30]
+
+Graham said he would wear the warrant as a "Badge of Honor," writing that knowing his commitment to Ukraine had "drawn the ire of Putin's regime brings me immense joy," and pledging to stand with Ukraine "until every Russian soldier is expelled from Ukrainian territory."[30] He also offered to submit to the jurisdiction of the [[international-criminal-court|International Criminal Court]] if his Russian critics did the same.[30] Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] had earlier told reporters that "it's hard to imagine a greater shame for the country than having such senators."[30]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] wrote that while war is inherently ugly, Graham's dehumanising posture and evident relish at Russian deaths showed a lack of grace, and argued that the warrant was an effective piece of moral narrative warfare by Moscow — positioning [[vladimir-putin|Vladimir Putin]] and Russia as a competing moral axis against Western globalism while allowing [[donald-trump|Donald Trump]] and his allies to say little.[30]
+30. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c
+31. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

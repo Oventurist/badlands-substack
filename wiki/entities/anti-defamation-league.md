@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ Critics also pointed to a viral clip in which Greenblatt cited the "genius" behi
 
 Almost exactly a month after [[elon-musk|Elon Musk]] threatened to file a defamation lawsuit against the ADL, the advocacy group agreed in early October 2023 to advertise on [[x-corp|X]], the platform formerly known as Twitter.[3] The ADL had alleged that Musk failed to clamp down on hate speech on the platform since his takeover the previous year, allowing disinformation to proliferate — a charge Musk strongly denied, and which he said left him with no choice but to sue.[3] The organization then went quiet for a month, even as, in ZeroHedge's telling, the Canadian government cheered an actual Nazi.[3] Coverage attributed the reversal to the looming threat of discovery and the prospect of a legal battle against "the man with the deepest pockets in the world," describing the shift as a move from a "Twitter is full of hate and no one should advertise there" narrative to a "well, it's not that bad and we are going to advertise to help save the world" narrative.[3]
 
+## Greenblatt's January 2025 admission of failure
+
+In January 2025, ADL CEO [[jonathan-greenblatt|Jonathan Greenblatt]] told the [[knesset|Knesset]]'s Committee for Immigration, Absorption and Diaspora Affairs that the organization and the wider Jewish community had failed in their efforts to combat the "inferno of antisemitism" of the previous fifteen months.[4] Speaking alongside other American Jewish leaders, he urged Israeli lawmakers to take global antisemitism seriously, said it takes confidence to express humility, and drew on Silicon Valley language about failing forward.[4] He offered no concrete recommendations but argued that neither a new Knesset task force, nor government money, nor updated IDF talking points would solve the problem, calling instead for new strategies and creative tactics across the ADL and the wider NGO sector.[4] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] mocked Greenblatt's invocation of the Hezbollah pager operation and Operation Deep Layer as models, arguing that the ADL's answer to accusations of Israeli war crimes was to build a new special military unit under the planners of the pager attack.[4]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 3. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
+4. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966

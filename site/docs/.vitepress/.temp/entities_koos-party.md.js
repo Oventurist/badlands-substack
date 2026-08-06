@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Koos Party","description":"","frontmatter":{"title":"Koos Party","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["estonia","nato","political-party","treason","russia"],"sources":["raw/badlands-news-brief-306.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/koos-party.md","filePath":"entities/koos-party.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/koos-party.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="koos-party" tabindex="-1">Koos Party <a class="header-anchor" href="#koos-party" aria-label="Permalink to &quot;Koos Party&quot;">​</a></h1><p><strong>Koos</strong> is a small conservative Estonian political party founded in 2022 whose leadership was convicted of treason in December 2025 for allegedly acting on behalf of Russia to undermine Estonian national security.[1]</p><h2 id="platform" tabindex="-1">Platform <a class="header-anchor" href="#platform" aria-label="Permalink to &quot;Platform&quot;">​</a></h2><p>Koos calls for Estonia to leave <a href="/entities/nato">NATO</a>, become a neutral state, remove foreign troops from its territory, and &quot;refrain from participating directly or indirectly in military conflicts between other countries.&quot;[1]</p><h2 id="prosecution" tabindex="-1">Prosecution <a class="header-anchor" href="#prosecution" aria-label="Permalink to &quot;Prosecution&quot;">​</a></h2><p>On Thursday, December 11, 2025, the Harju District Court sentenced Koos co-founder <a href="/entities/aivo-peterson">Aivo Peterson</a> to 14 years in prison for treason. His associates Dmitri Rootsi and Andrei Andronov received sentences of 11 years and 11 years and six months respectively. All three denied wrongdoing and said they would appeal.[1]</p><p>Prosecutors alleged the defendants spread &quot;narratives supporting Russia&#39;s foreign and security policy&quot; intended to undermine public trust in NATO and in Estonia&#39;s military aid to Ukraine. State Prosecutor Triinu Olev-Aas said the defendants &quot;deliberately assisted Russia in activities directed against the Estonian state and society.&quot;[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p><a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> read the case as evidence that NATO&#39;s public credibility was imploding and that &quot;the regime is now targeting its opposition,&quot; while cautioning that the prosecution was not an automatic validation of the specific opposition figures involved. He noted the European Union&#39;s track record of deposing populist uprisings and predicted more populist nationalism and more regime reaction.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Truckloads of Proof, Holiday Intifada, &amp; Europe Must Swallow&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-306" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-306</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/koos-party.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const koosParty = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  koosParty as default
+};

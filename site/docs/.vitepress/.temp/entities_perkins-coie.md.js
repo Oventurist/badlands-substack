@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Perkins Coie","description":"","frontmatter":{"title":"Perkins Coie","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["law-firms","democratic-party","elections"],"sources":["raw/badlands-news-brief-08c.md","raw/badlands-news-brief-144.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/perkins-coie.md","filePath":"entities/perkins-coie.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/perkins-coie.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="perkins-coie" tabindex="-1">Perkins Coie <a class="header-anchor" href="#perkins-coie" aria-label="Permalink to &quot;Perkins Coie&quot;">​</a></h1><p>Perkins Coie is an American law firm long associated with Democratic Party political and election work.[1]</p><p>The firm is best known in the context of election litigation as the former home of attorney <a href="/entities/marc-elias">Marc Elias</a>, who was a partner there before founding the <a href="/entities/elias-law-group">Elias Law Group</a>.[1] Elias&#39;s departure carried with it the bulk of major Democratic institutional clients, and his subsequent <a href="/entities/democracy-docket">Democracy Docket</a> voting-rights litigation program grew out of the practice he built.[1] Reporting on the April 2023 split between Elias and the <a href="/entities/democratic-national-committee">Democratic National Committee</a> identified his Perkins Coie background as central to his standing in Democratic legal circles.[1]</p><h2 id="colorado-secretary-of-state-appointment-2025" tabindex="-1">Colorado Secretary of State appointment (2025) <a class="header-anchor" href="#colorado-secretary-of-state-appointment-2025" aria-label="Permalink to &quot;Colorado Secretary of State appointment (2025)&quot;">​</a></h2><p>In 2021 attorney <a href="/entities/andrew-kline">Andrew Kline</a> joined Perkins Coie full time, remaining with the firm until March 2025, when according to Badlands reporting he was secretly appointed to run Colorado Secretary of State <a href="/entities/jena-griswold">Jena Griswold</a>&#39;s office without any public announcement.[2] <a href="/entities/ashe-in-america">Ashe in America</a> cited the move while covering President <a href="/entities/donald-trump">Donald Trump</a>&#39;s demands for the release of <a href="/entities/tina-peters">Tina Peters</a>, treating the placement of a Perkins Coie lawyer atop the office that prosecuted Peters and sought to remove Trump from the Colorado ballot as evidence of &quot;the whole corrupt temple.&quot;[2]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Real Leaks &amp; Fake News&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-08c" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-08c</a></li><li>Badlands Brief — &quot;Cartels, Crucibles, &amp; Convictions&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-144" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-144</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/perkins-coie.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const perkinsCoie = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  perkinsCoie as default
+};

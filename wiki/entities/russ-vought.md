@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [omb, budget, trump-administration, government-shutdown, federal-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-5a3.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -30,7 +30,13 @@ Speaking on CNN's "State of the Union" on Sunday, July 27, 2025, Vought said the
 
 Critics called the approach an overreach of executive power and [[congress|Congress]] expressed concerns, but Vought countered that the Government Accountability Office "has said it was legal in the 1970s."[3] In a clip circulated by Badlands host [[jon-herold|Jon Herold]], Vought described it as "a fully legal approach to using the impoundment control act... to send up a recissions bill later in the year and be able to have that evaporate at the end of the fiscal year," adding that "nothing is taken off the table for us to be able to deal with the deficits we have."[3] Herold noted that he and [[chris-paul|Chris Paul]] had discussed the tactic weeks before it surfaced publicly.[3]
 
+## Shutdown enforcer
+
+During the [[october-2025-government-shutdown|October 2025 government shutdown]], President [[donald-trump|Donald Trump]] publicly cast Vought as the instrument of permanent cuts to "Democrat agencies," posting on Truth Social that "I have a meeting today with Russ Vought, he of PROJECT 2025 Fame."[4] The BBC described the director of the [[office-of-management-and-budget|Office of Management and Budget]] as a figure who "may not be a household name" but whose [[project-2025|Project 2025]] blueprint — a conservative governing plan assembled largely by former Trump officials while Republicans were out of power — had featured prominently in the previous year's presidential campaign, frequently invoked by Democratic nominee [[kamala-harris|Kamala Harris]] as Trump's "dangerous plan."[4] Trump was reported to be holding up Vought, author of the blueprint's chapter on executive power, as a budgetary angel of death, and on the Thursday night of the shutdown's first week shared an AI-generated parody music video portraying Vought as the grim reaper set to altered lyrics of Blue Öyster Cult's "Don't Fear the Reaper."[4] Badlands host [[burning-bright|Burning Bright]] said he and [[jon-herold|Jon Herold]] had forecast the Trump–Vought cut strategy in advance and that it was proceeding as expected.[4]
+
+
 ## References
 1. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 2. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 3. Badlands Brief — "Badlands News Brief: Burn Bags, Kratom, & Insider Trading", URL: https://badlands.substack.com/p/badlands-news-brief-5a3
+4. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

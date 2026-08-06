@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, florida, republican, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/all-assets-deployed.md, raw/badlands-brief-095.md, raw/badlands-brief-4ec.md, raw/badlands-brief-861.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-860.md]
+sources: [raw/a-glaring-double-standard.md, raw/all-assets-deployed.md, raw/badlands-brief-095.md, raw/badlands-brief-4ec.md, raw/badlands-brief-861.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-959.md]
 confidence: medium
 ---
 
@@ -176,6 +176,18 @@ Ahead of [[hurricane-milton|Hurricane Milton]]'s approach to Florida's Gulf Coas
 
 The dispute produced unusual cross-partisan support for the governor: CNN senior political commentator [[scott-jennings|Scott Jennings]] said Harris was "attacking the governor of a state that's about to get lashed with one of the worst storms" and asked "Is she crazy?," while Biden said on Tuesday that DeSantis was doing a great job and had been given his personal phone number.[29] Badlands contributor [[burning-bright|Burning Bright]] read Biden's siding with DeSantis as part of a wider pattern of establishment figures hedging against the Harris campaign.[29]
 
+## April 2024 pledge to fundraise for Trump
+
+In early April 2024 DeSantis reportedly told donors and supporters at a private gathering that he planned to help raise money for the presidential campaign of [[donald-trump|Donald Trump]].[30] The former Republican presidential candidate made the announcement on a Saturday at South Florida's Hard Rock Hotel and Casino, and a DeSantis adviser confirmed to NBC News, "He did say it in front of a group of people at the Hard Rock."[30]
+
+Texas businessman Roy Bailey, a co-chairman of the DeSantis national finance advisory board who attended the retreat, said the governor was "committed to helping Trump in any and every way" and pledged to raise money for Trump himself as he had in 2020.[30] Bailey added that he knew of DeSantis supporters "all over Texas and all over the country" who would want to help.[30] The news followed Trump's largest fundraiser of the cycle, which had raised $50.5 million.[30]
+
+## Badlands commentary on the H.R.2146 vote
+
+Writing in [[badlands-media|Badlands Media]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] conceded that the fundraising pledge might be evidence of [[kayfabe|kayfabe]] between DeSantis and Trump but rested his objection elsewhere: on June 17, 2015, as a member of Congress, DeSantis voted "YES" on H.R.2146, a bill originally written to protect first responders' pensions from the IRS into which [[mitch-mcconnell|Mitch McConnell]] had folded S.995, language supporting the [[trans-pacific-partnership|Trans-Pacific Partnership]].[30] In that account DeSantis "conspired with the [[uniparty|Uniparty]] in Washington" the day after Trump descended the escalator, an act the writer treats as permanently disqualifying.[30]
+
+The commentary went on to propose using the fundraising story as an offensive information operation — seeding among anti-Trump DeSantis supporters the notion that DeSantis had been working for Trump all along in order to expose disloyal media figures such as John Cardillo and [[jenna-ellis|Jenna Ellis]], invoking the teachings of [[boone-cutler|Boone Cutler]] and [[michael-flynn|General Michael Flynn]] about active participation in the battlespace.[30]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
@@ -206,3 +218,4 @@ The dispute produced unusual cross-partisan support for the governor: CNN senior
 27. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
 28. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 29. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+30. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959

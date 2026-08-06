@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [culture, music, hollywood, antisemitism-controversy, christianity]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-5c8.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -66,6 +66,20 @@ The Vultures artwork features the black eagle of the Prussian coat of arms and a
 
 On Monday, April 21, 2025, Ye disavowed his earlier claims of being a Nazi in a post on X that he later deleted, writing that he had "come to the realization that I'm not a Nazi" while adding that he "can and will say whatever the f*ck I feel like whenever the f*ck I feel like it."[7] Earlier in 2025 he had proclaimed himself "a Nazi" and expressed love for Adolf Hitler following a lengthy series of anti-Semitic posts, and the previous month he had flashed a swastika t-shirt in a TMZ video that he called his "greatest dream" in another since-deleted post.[7] The fallout from these statements cost him hundreds of millions of dollars in lost corporate sponsorships.[7] Badlands commentary speculated that the episode had been an "op" that provoked establishment Republicans into passing hate-speech legislation effectively banning criticism of a specific foreign government, thereby exposing their record on free speech.[7]
 
+## The 2016 Sacramento rant and the Jay-Z allegations
+
+In a December 2024 retrospective, Badlands contributor GhostofBasedPatrickHenry revisited West's November 20, 2016 concert in Sacramento, California, where three songs into the show West stopped the performance to speak about [[donald-trump|Donald Trump]]'s election victory over [[hillary-clinton|Hillary Clinton]].[8] West told the crowd that "everybody in Middle America felt a [certain] way, and they showed you how they felt. Feelings matter. It's a new world, Hillary Clinton. It's a new world, Barack. It's a new world, Jay-Z."[8] During the same rant West strongly implied that [[jay-z|Jay-Z]] had threatened his life and may even have hired people to hurt him.[8]
+
+The Badlands commentary argued that while the inclusion of Clinton and [[barack-obama|Barack Obama]] made obvious political sense, Jay-Z appeared an incongruous third target unless West possessed knowledge of what the writer termed the "pedophile cartel commonly referred to as 'Hollywood.'"[8] The passage was published in the context of a civil lawsuit adding Jay-Z as a defendant alongside [[sean-combs|Sean "Diddy" Combs]].[8]
+
+## Career backstory as told by Badlands
+
+According to the same account, West spent many years as a relatively unknown music producer for major mainstream artists, particularly Jay-Z, becoming a go-to source of hit records because of his musical ability.[8] He spent years attempting to establish himself as a lyricist and rapper but claims to have been stifled by Jay-Z, who held enormous clout over the industry and appeared to prefer keeping West in a subordinate production role.[8]
+
+When West finally released his debut album, *The College Dropout*, in February 2004, one of the five singles chosen to promote it was "Jesus Walks," in which he explicitly decried a music industry he described as controlled by satanists who hate Jesus and promote degeneracy over Christian values.[8]
+
+On October 29, 2019, West appeared on a CBS late-night segment in which celebrities normally ride in a car and sing karaoke with the host; instead, West negotiated to charter a commercial flight filled with the gospel choir assembled for his album [[jesus-is-king|Jesus Is King]], which also toured with him for gospel concerts staged as church services in pursuit of his stated aim of making Christianity appealing to young people again.[8] The Badlands writer observed that only an artist of West's fame and clout could have negotiated such an arrangement with a network, and expressed hope that West was "still around, somewhere."[8]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
@@ -74,3 +88,4 @@ On Monday, April 21, 2025, Ye disavowed his earlier claims of being a Nazi in a 
 5. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 6. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 7. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
+8. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

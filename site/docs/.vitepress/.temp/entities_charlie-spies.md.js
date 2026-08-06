@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Charlie Spies","description":"","frontmatter":{"title":"Charlie Spies","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["republican-national-committee","election-law","campaign-finance","2024-election"],"sources":["raw/badlands-news-brief-4f8.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/charlie-spies.md","filePath":"entities/charlie-spies.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/charlie-spies.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="charlie-spies" tabindex="-1">Charlie Spies <a class="header-anchor" href="#charlie-spies" aria-label="Permalink to &quot;Charlie Spies&quot;">​</a></h1><p>Charlie Spies is a Republican election lawyer who briefly served as chief counsel of the <a href="/entities/republican-national-committee">Republican National Committee</a> in 2024. His departure after roughly two months in the post was reported by NBC News in early May 2024 and covered by Badlands Media as a signal of continuing turbulence inside the party apparatus.[1]</p><h2 id="rnc-tenure-and-departure" tabindex="-1">RNC tenure and departure <a class="header-anchor" href="#rnc-tenure-and-departure" aria-label="Permalink to &quot;RNC tenure and departure&quot;">​</a></h2><p>Spies was hired in March 2024 to lead the committee&#39;s legal efforts during a broad leadership overhaul, which followed <a href="/entities/donald-trump">Donald Trump</a>&#39;s endorsement of <a href="/entities/michael-whatley">Michael Whatley</a> to helm the organization — a change that effectively reshaped the RNC in Trump&#39;s image.[1] Within two months he was parting ways with the committee; a source familiar with the move told NBC News that Spies had been &quot;pushed out.&quot;[1]</p><p>The RNC&#39;s public account differed. Spokesperson Danielle Alvarez said in a statement that &quot;Charlie approached RNC Chief of Staff, Chris LaCivita, about potential time commitment conflicts and it was agreed that, while we appreciate and value Charlie&#39;s expertise and professionalism, he cannot do this role full time and still maintain the obligations to his law firm that he has spent years successfully building.&quot;[1] Spies did not immediately respond to a request for comment.[1]</p><h2 id="reputation" tabindex="-1">Reputation <a class="header-anchor" href="#reputation" aria-label="Permalink to &quot;Reputation&quot;">​</a></h2><p>A campaign official quoted in the reporting described Spies as &quot;the best at what he does, knows the FEC loopholes better than anyone,&quot; while also calling him a &quot;gun for hire.&quot;[1] Reporting noted that Spies was not a supporter of the former president, a fact widely read as central to the brevity of his tenure.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Israel Makes a Move While Trump Plays Chicken&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-4f8" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-4f8</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/charlie-spies.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const charlieSpies = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  charlieSpies as default
+};

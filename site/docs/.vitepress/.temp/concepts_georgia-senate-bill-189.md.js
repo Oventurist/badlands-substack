@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Georgia Senate Bill 189","description":"","frontmatter":{"title":"Georgia Senate Bill 189","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["election-integrity","georgia","legislation","ballot-access"],"sources":["raw/badlands-news-brief-092.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/georgia-senate-bill-189.md","filePath":"concepts/georgia-senate-bill-189.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/georgia-senate-bill-189.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="georgia-senate-bill-189" tabindex="-1">Georgia Senate Bill 189 <a class="header-anchor" href="#georgia-senate-bill-189" aria-label="Permalink to &quot;Georgia Senate Bill 189&quot;">​</a></h1><p><strong>Georgia Senate Bill 189</strong> is election legislation approved by Georgia lawmakers on Thursday, March 28, 2024, ahead of the November general election.[1] The measure gives clearer guidelines for voter eligibility challenges, strengthens the security of paper ballots, and introduces new rules for qualifying for the state&#39;s presidential ballot.[1]</p><p>The bill was a response to an influx of voter challenges in Georgia following former President <a href="/entities/donald-trump">Donald Trump</a>&#39;s loss in the 2020 election, which he claimed was the result of voter fraud; Republican lawmakers in swing states have been attempting to tighten voting restrictions going into the 2024 elections.[1]</p><h2 id="provisions" tabindex="-1">Provisions <a class="header-anchor" href="#provisions" aria-label="Permalink to &quot;Provisions&quot;">​</a></h2><p>SB 189 clarifies what constitutes &quot;probable cause&quot; when a voter&#39;s eligibility is challenged. Probable cause could be established if a voter has been registered in another jurisdiction, has obtained a homestead exemption in a different country, or has given a non-residential address such as a post office box.[1]</p><p>The legislation also provides that any political party that has qualified to appear on the presidential ballot in twenty states will have access to Georgia&#39;s ballot.[1] This eases access for independent presidential candidates such as <a href="/entities/robert-f-kennedy-jr">Robert F. Kennedy Jr.</a>, who otherwise is required to gather enough petition signatures in all fifty states; Kennedy&#39;s super PAC claimed he had already qualified for Georgia&#39;s ballot.[1]</p><h2 id="opposition" tabindex="-1">Opposition <a class="header-anchor" href="#opposition" aria-label="Permalink to &quot;Opposition&quot;">​</a></h2><p>Some Democratic lawmakers objected to the &quot;probable cause&quot; provision, characterizing it as another attempt to disenfranchise voters.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Trans Easter Bait &amp; A Tale of Two Presidents&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-092" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-092</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/georgia-senate-bill-189.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const georgiaSenateBill189 = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  georgiaSenateBill189 as default
+};

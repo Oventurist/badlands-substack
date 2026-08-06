@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, antitrust, us-government]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ As of November 2025 the FTC was reported to be investigating whether two proxy a
 
 In June 2025 FTC Chairman Andrew Ferguson announced that, as part of the agency's approval of the merger between Omnicom and Interpublic Group, the two advertising giants agreed not to collude or discriminate against media outlets based on political or ideological viewpoint.[3] The FTC noted that both firms were founding members of GARM, a cross-industry initiative through which, the agency said, there was collusion to blacklist center-right outlets such as Breitbart News, Fox News, and the Daily Wire.[3] Omnicom and IPG together comprise about a third of the world's "Big Six" advertising firms.[3] Ferguson wrote that a history of "collusion in the [advertising] market for media-buying services, and the increased potential for collusion post-merger make this a rare instance where the imposition of a behavioral remedy is appropriate."[3] Badlands commentary called the outcome a potentially massive win for independent media if the firms actually abide by it, comparing its significance to overturning Citizens United.[3]
 
+## Trump v. Slaughter and the removal-power question (December 2025)
+
+The commission's structural independence came before the [[supreme-court-of-the-united-states|Supreme Court]] in December 2025 in litigation over President [[donald-trump|Donald Trump]]'s dismissal of Commissioner [[rebecca-kelly-slaughter|Rebecca Kelly Slaughter]].[4] At oral argument, the conservative justices appeared receptive to the President's claim that he may fire members of independent agencies: Justice Brett Kavanaugh questioned such agencies' accountability, while Chief Justice John Roberts challenged the continuing relevance of a 1935 precedent that had historically protected them, suggesting that today's FTC wields significant power properly subject to presidential authority.[4] A ruling was anticipated by the end of June.[4] See [[trump-v-slaughter|Trump v. Slaughter]].[4]
+
+Badlands contributor [[chris-paul|Chris Paul]] argued that an independent agency inside the Executive Branch would be extraconstitutional, and that the President must hold plenary authority over every executive officer.[4]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 3. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

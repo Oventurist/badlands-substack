@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, reconstruction, citizenship, civil-rights]
-sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md]
+sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md]
 confidence: medium
 ---
 
@@ -44,9 +44,14 @@ Quoting Evenwel v. Abbott and Purcell v. Gonzalez, the brief argued that "the Co
 
 Polling at the time showed a deeply divided public: a majority of Americans opposed the Colorado and Maine disqualification decisions in some surveys, while others put the balance slightly in favor.[5] The Maine decision was set for review by that state's courts, while oral argument in the Colorado case was scheduled within weeks.[5] Ashe in America argued the Colorado high court's overreach was capturing the national conversation across narrative layers and predicted the Supreme Court would rule before Colorado's primary on Super Tuesday, March 5, 2024.[5]
 
+## The multi-state disqualification campaign (October 2023)
+
+By the end of October 2023 the Section 3 theory was being litigated simultaneously in several states.[6] A group of Colorado voters sought to keep [[donald-trump|Donald Trump]] off the 2024 ballot under what was described as the Constitution's post-Civil War "insurrectionist ban," while Trump filed a lawsuit to shut down a similar case in Michigan and a major hearing in a Minnesota candidacy challenge was scheduled for November 2.[6] Observers emphasized that although the amendment disqualifies officials who took an oath to uphold the Constitution and later "engaged in insurrection" or aided the country's enemies, the Constitution provides no enforcement mechanism, and the clause has been applied only twice since the 19th century — grounds on which many experts regarded the challenges as a legal long shot.[6]
+
 ## References
 1. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
 2. Badlands Brief — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 3. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 4. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 5. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
+6. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf

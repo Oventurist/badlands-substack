@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [gaza, israel, palestine, october-7]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-855.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-95a.md]
 confidence: medium
 ---
 
@@ -219,6 +219,14 @@ In May 2024, reporting indicated a "widespread belief" among US officials that I
 
 During the same period, Hamas fired rockets at the Kerem Shalom Crossing, injuring ten people, as the [[israel-defense-forces|IDF]] prepared for an operation in Rafah.[37] A Hamas delegation held a day of talks in Cairo with [[cia|CIA]] Director [[william-burns|William Burns]] and with Egyptian and Qatari officials before departing, with a return expected; mediators described the Cairo round as near collapse.[37] Hamas reiterated its demand for an end to the war in exchange for freeing hostages, a condition Netanyahu flatly rejected, while a three-phase proposal under discussion would have released 33 of the 132 remaining hostages for a 40-day pause.[37]
 
+## Response to the Trump Gaza peace proposal
+
+On Friday, October 3, 2025, Hamas returned what Axios characterized as a "yes, but" answer to President [[donald-trump|Donald Trump]]'s Gaza peace proposal.[38] In its official response, the group said it was willing to release all remaining hostages in return for an end to the war and a full Israeli military withdrawal from [[gaza|Gaza]], but requested negotiations on many of the details.[38] Trump treated the reply as an opening for a deal, having feared an outright rejection, while Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] told associates in private consultations that he viewed it as a rejection of the plan.[38] Badlands host [[jon-herold|Jon Herold]] asked wryly whether Trump would have to sign a defense cooperation agreement with Hamas to end the war.[38]
+
+
+## July 2025 ceasefire talks
+
+Ahead of [[benjamin-netanyahu|Benjamin Netanyahu]]'s July 2025 visit to Washington, the Israeli prime minister vowed that Hamas's military and governing capabilities would be eliminated and that the group "will not be there," rejecting any hostage deal that would leave it in power in Gaza.[39] An Israeli negotiating team travelled to Doha for indirect talks with the group at the same time.[39] Hamas was reported to have responded "positively" to recently proposed ceasefire terms, while President [[donald-trump|Donald Trump]] publicly stated that he expected to negotiate an end to the Gaza war during his meeting with Netanyahu.[39]
 
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -258,3 +266,5 @@ During the same period, Hamas fired rockets at the Kerem Shalom Crossing, injuri
 35. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 36. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
 37. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
+38. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+39. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-korea, president, martial-law, impeachment]
-sources: [raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-86f.md]
+sources: [raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -48,8 +48,17 @@ The vote was the National Assembly's second attempt at impeachment, after [[peop
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that many were calling for Yoon to be tried for treason and some for the death penalty if convicted, and argued that Yoon had attempted to orchestrate a false flag attack designed to provoke war with North Korea in order to impose martial law and seize authoritarian control.[4] He wrote that such conduct warranted a severe precedent that would "strike fear into the hearts of wicked men for centuries to come," speculated that Yoon was "most likely a puppet of the CIA," and framed the episode as a warning that similar actors had infected the American government, concluding that "the rule of law must be restored."[4]
 
+## Travel ban and insurrection investigation (December 2024)
+
+On Monday, December 9, 2024, South Korea's [[ministry-of-justice-south-korea|Justice Ministry]] banned Yoon from leaving the country following his brief imposition of martial law the previous week — the first time in South Korean history that such a measure had been applied to a sitting president, according to the Dong-A Ilbo daily.[5] The travel ban had been requested by the Corruption Investigation Office for High-ranking Officials and was announced by a Justice Ministry official at a parliamentary hearing.[5] The head of the Corruption Investigation Office said a thorough investigation would be carried out into "the leader and key offenders related to treason," while police had earlier opened an investigation into Yoon on suspicion of "insurrection."[5] Although a sitting South Korean president enjoys immunity from prosecution while in office, that immunity does not extend to allegations of insurrection or treason, for which a president may be arrested or indicted.[5]
+
+Yoon had declared martial law on the Tuesday of the preceding week after accusing the opposition of sympathising with [[north-korea|North Korea]] and preparing to stage a "rebellion," but was forced to retract the declaration less than six hours later after MPs voted against it and thousands of protesters took to the streets.[5] The opposition subsequently filed legal complaints accusing Yoon, former defense minister [[kim-yong-hyun|Kim Yong-hyun]], and martial law commander Park An-Su of treason.[5] [[people-power-party|PPP]] leader [[han-dong-hoon|Han Dong-hoon]] said on Sunday, December 8, that the president would be excluded from foreign and other state affairs and that Prime Minister [[han-duck-soo|Han Duck-soo]] would manage the government.[5]
+
+Badlands commentary by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] called the developments "incredibly based," praising the Korean people and the opposition for immediately shutting down what the writer characterised as a coup, deferring to Colonel [[douglas-macgregor|Douglas Macgregor]]'s analysis, and speculating that the [[cia|CIA]] had grown nervous about developments involving Russia, China, and North Korea.[5] The writer framed the episode as a possible narrative template that would sweep across the world as "the globalist cartel's brittle power begins to shatter."[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
 2. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 3. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 4. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+5. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Hassan Sheikh Mohamud","description":"","frontmatter":{"title":"Hassan Sheikh Mohamud","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["somalia","immigration","trump","elections"],"sources":["raw/badlands-brief-d9f.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/hassan-sheikh-mohamud.md","filePath":"entities/hassan-sheikh-mohamud.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/hassan-sheikh-mohamud.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="hassan-sheikh-mohamud" tabindex="-1">Hassan Sheikh Mohamud <a class="header-anchor" href="#hassan-sheikh-mohamud" aria-label="Permalink to &quot;Hassan Sheikh Mohamud&quot;">​</a></h1><p>Hassan Sheikh Mohamud is the President of <a href="/entities/somalia">Somalia</a>.[1]</p><h2 id="response-to-trump-remarks" tabindex="-1">Response to Trump remarks <a class="header-anchor" href="#response-to-trump-remarks" aria-label="Permalink to &quot;Response to Trump remarks&quot;">​</a></h2><p>In early January 2026, Mohamud issued a public statement condemning remarks attributed to US President <a href="/entities/donald-trump">Donald Trump</a>.[1] In December 2025 Trump had reportedly said, &quot;We can go one way or the other, and we&#39;re going to go the wrong way, if we keep taking in garbage into our country,&quot; adding that Representative <a href="/entities/ilhan-omar">Ilhan Omar</a> &quot;is garbage. She&#39;s garbage. Her friends are garbage.&quot;[1] Mohamud said millions of Somalis contribute positively to societies around the world, but when asked about immigration enforcement he reportedly said, &quot;We respect the sovereignty of other nations when it comes to immigration enforcement.&quot;[1]</p><h2 id="mogadishu-elections" tabindex="-1">Mogadishu elections <a class="header-anchor" href="#mogadishu-elections" aria-label="Permalink to &quot;Mogadishu elections&quot;">​</a></h2><p>Somalia reportedly held its first genuine elections since 1969 on December 25, 2025.[1] Dr Hussein Sheikh Mohamud, Senior Advisor to the President on Constitutional Affairs and Deputy Secretary General of the Justice and Solidarity Party, wrote in an opinion piece that after &quot;56 years of appointed councils, clan negotiations, and backroom deals, over 233,000 Mogadishu residents actually cast votes for their local representatives,&quot; describing &quot;Real voters. Real ballots. Real counting.&quot;[1] Several opposition factions boycotted the vote, citing a lack of inclusivity, questions about the legal framework and a rushed timeline; the presidential advisor countered that &quot;they boycotted because they knew they would lose.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Dueling Color Revolutions, Economic Escalation, &amp; Superseding Somali Scams&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-d9f" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-d9f</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/hassan-sheikh-mohamud.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const hassanSheikhMohamud = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  hassanSheikhMohamud as default
+};

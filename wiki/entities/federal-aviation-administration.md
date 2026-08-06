@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [faa, aviation, airspace, drones, border-security]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-52f.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ The FAA is fighting a class-action lawsuit alleging that it denied roughly 1,000
 
 Complaints about the FAA's hiring policies resurfaced after an [[american-airlines|American Airlines]] passenger plane and a Black Hawk helicopter collided over Washington, DC, in late January 2025, killing 67 people in the country's deadliest aviation disaster in almost a quarter century.[4] It was revealed that controller staffing levels were "not normal" at the time of the collision.[4] Commentary in the [[badlands-news-brief|Badlands News Brief]] argued that the FAA's [[diversity-equity-and-inclusion|DEI]] revelations, the lawsuit, and the recent air disasters were building public support for a return to valuing competence before compassion in staffing safety-critical capabilities.[4]
 
+## 2025 Potomac midair collision
+
+The FAA announced that it and the [[national-transportation-safety-board|National Transportation Safety Board]] were investigating the midair collision of January 29, 2025 involving [[american-airlines|American Airlines]] Flight 5342, a Bombardier CRJ700 operated by [[psa-airlines|PSA Airlines]], and a U.S. Army Sikorsky UH-60 helicopter on approach to Runway 33 at [[ronald-reagan-washington-national-airport|Reagan Washington National Airport]].[5] The accident, which occurred in some of the most tightly restricted airspace in the country, is covered at [[2025-potomac-midair-collision]].[5]
+
 ## References
 
 1. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
 2. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 3. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
 4. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+5. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nato, ukraine, zelensky, summit, corruption]
-sources: [raw/badlands-news-brief-185.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-786.md]
+sources: [raw/badlands-news-brief-185.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-942.md]
 confidence: medium
 ---
 
@@ -40,7 +40,12 @@ Reporting ahead of the summit framed it as Biden's attempt to reassert leadershi
 
 Badlands commentary described the alliance as "limping into their annual meeting, licking their wounds," noting that China had just released footage of Chinese troops drilling in Belarus in apparent preparation to fight NATO in defence of Russia, weeks after [[kim-jong-un|Kim Jong Un]] pledged personnel to the Ukrainian theatre.[3] The writer judged that the diplomat's remark made the event sound "more like a wake than a security summit."[3] Orbán's visit to Moscow became a central point of discussion at the gathering, where allies pledged additional air defences for Ukraine against the full-scale Russian invasion begun in 2022.[3]
 
+## Baltic ministers' Trump-tailored messaging
+
+On the opening day of the summit, the defense ministers of Estonia, Latvia and Lithuania — Europe's most vulnerable frontline states — appeared at a Washington panel hosted by Politico and the German newspaper Welt and made a forcefully Trump-friendly case for the alliance, an approach reported under the label "Mar-a-NATO."[4] The ministers compared [[nato|NATO]] to an exclusive golf club whose members must pay their dues, prodded Germany and other European countries to spend more on national defense, and expressed deep appreciation for [[donald-trump|Donald Trump]]'s support for the Baltic states during his presidency while muting direct criticism of his quasi-isolationist instincts.[4] Estonian Defense Minister [[hanno-pevkur|Hanno Pevkur]] used vocabulary aimed at the golf-loving former president: "NATO is a club. When you have club rules, then you respect the rules ... When you pay your fee in the golf club, you can play. It doesn't matter how big is your wallet."[4]
+
 ## References
 1. Badlands News Brief — "A Biden, a Schwab and a Ukrainian Dwarf Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-185
 2. Badlands Brief — "Badlands News Brief: The Presser Heard Round' the World", URL: https://badlands.substack.com/p/badlands-news-brief-33b
 3. Badlands Brief — "Badlands News Brief: Trump's Plan, Biden's Path & Israel's Dilemma", URL: https://badlands.substack.com/p/badlands-news-brief-786
+4. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942

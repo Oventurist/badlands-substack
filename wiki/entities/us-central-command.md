@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, united-states, iran, strait-of-hormuz]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-be1.md, raw/badlands-brief-b82.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-169.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-884.md, raw/badlands-brief-be1.md, raw/badlands-brief-b82.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-959.md]
 confidence: medium
 ---
 
@@ -34,6 +34,12 @@ CENTCOM confirmed that three U.S. service members were killed and five others se
 
 U.S. Central Command confirmed in a statement on Sunday, January 28, 2024 that three service members were killed and at least 34 injured in a one-way drone attack that "impacted at a base in northeast Jordan."[6] Eight injured service members were medically evacuated for higher-level care, CENTCOM said, and officials expected the number of wounded to rise as personnel sought treatment for symptoms consistent with traumatic brain injury.[6] The strike on the outpost known as Tower 22, near the Syrian border, marked the first time U.S. troops had been killed by enemy fire in the Middle East since the start of the Gaza war; officials said the drone was fired by Iran-backed militants and appeared to come from Syria, though the specific militia responsible remained undetermined.[6]
 
+## April 2024 coordination with Israel over Iranian retaliation
+
+In April 2024 the senior U.S. military commander in charge of the Middle East — CENTCOM commander Gen. [[michael-kurilla|Erik Kurilla]] — was expected to travel to Israel to coordinate around a possible attack on Israel by Iran and its proxies, according to two Israeli officials.[7] He was scheduled to meet Israeli Defense Minister [[yoav-gallant|Yoav Gallant]] and senior Israel Defense Forces officials.[7] A U.S. defense official declined to confirm the trip, citing a Department of Defense policy of not discussing flag officer travel for operational security.[7]
+
+The coordination followed Iranian threats to retaliate for an Israeli strike on Damascus that killed Brig. Gen. [[mohammad-reza-zahedi|Mohammad Reza Zahedi]], and Israeli preparations for a possible unprecedented direct attack from Iranian soil involving ballistic missiles, drones and cruise missiles.[7] Badlands commentary described the public signalling around the visit as gaslighting intended to normalise a strike on Iran, and noted reports of an urgent call by Iranian Foreign Minister [[hossein-amirabdollahian|Hossein Amirabdollahian]] with leaders of Saudi Arabia, the UAE, Qatar and Iraq while the Biden administration pressed those same governments to calm Tehran.[7]
+
 ## References
 1. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 2. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
@@ -41,3 +47,4 @@ U.S. Central Command confirmed in a statement on Sunday, January 28, 2024 that t
 4. Badlands Brief — "Powell's Probe, NATO's Negotiations, & Additional Humiliation Rituals", URL: https://badlands.substack.com/p/badlands-brief-b82
 5. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
 6. Badlands News Brief — "Battle Lines Drawn in All Theaters", URL: https://badlands.substack.com/p/badlands-news-brief-169
+7. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959

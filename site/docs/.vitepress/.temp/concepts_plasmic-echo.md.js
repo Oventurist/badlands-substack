@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Plasmic Echo","description":"","frontmatter":{"title":"Plasmic Echo","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["fbi","classified-documents-case","trump-investigations","lawfare"],"sources":["raw/badlands-news-brief-08a.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/plasmic-echo.md","filePath":"concepts/plasmic-echo.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/plasmic-echo.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="plasmic-echo" tabindex="-1">Plasmic Echo <a class="header-anchor" href="#plasmic-echo" aria-label="Permalink to &quot;Plasmic Echo&quot;">​</a></h1><p>&quot;Plasmic Echo&quot; was the <a href="/entities/fbi">FBI</a> code name for its investigation into <a href="/entities/donald-trump">Donald Trump</a>&#39;s handling of presidential records, revealed in court filings unsealed in April 2024.[1]</p><p>A key exhibit included with a motion to compel filed in January 2024 was an FBI case file labeled &quot;[Redacted] PLASMIC ECHO; Mishandling of Classified or National Defense Information.&quot;[1]</p><h2 id="context" tabindex="-1">Context <a class="header-anchor" href="#context" aria-label="Permalink to &quot;Context&quot;">​</a></h2><p>The unsealed documents in Trump&#39;s classified documents case were said to reveal that the Biden <a href="/entities/white-house">White House</a> colluded with the <a href="/entities/national-archives-and-records-administration">National Archives</a> (NARA) and the FBI to construct a case against the former president.[1] Special Counsel <a href="/entities/jack-smith">Jack Smith</a> sought to conceal this material, telling Judge <a href="/entities/aileen-cannon">Eileen Cannon</a> in February that Trump&#39;s counsel was not entitled to discovery on documents between the White House and NARA, that the court should toss requests for evidence of the alleged coordination, that it should deny Trump&#39;s request for evidence related to secure facilities at his residences, and that his request for unredacted discovery should be denied.[1]</p><p>The defense argued that the emails unsealed on Monday, April 22, 2024 indicated communication between NARA officials, the Biden administration and the <a href="/entities/department-of-justice">Department of Justice</a> regarding Trump&#39;s records, alleging coordination in targeting the former president since 2021.[1] One email from NARA&#39;s general counsel to the national archivist discussed drafting a letter to Attorney General <a href="/entities/merrick-garland">Merrick Garland</a> concerning &quot;missing Trump records,&quot; and subsequent emails revealed coordination between NARA and the Biden White House counsel&#39;s office over the handling of those records.[1] ZeroHedge headlined the revelations with the phrase &quot;F**king Clown Show.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;The Communist Ouroboros Accelerates&quot;, raw/badlands-news-brief-08a.md</li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/plasmic-echo.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const plasmicEcho = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  plasmicEcho as default
+};

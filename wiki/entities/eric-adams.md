@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayors, politics]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -115,6 +115,16 @@ The order prompted the resignation on Thursday, February 13 of [[danielle-sassoo
 
 Lu Jianshun, former chairman of the [[american-changle-association|American Changle Association]] — the New York non-profit whose Manhattan headquarters the [[fbi|FBI]] raided in the fall of 2022 over an alleged secret Chinese police station — donated $4,000 to Adams' mayoral campaign in 2021, according to The New York Times.[20]
 
+## September 2024 federal indictment
+
+On September 26, 2024, a federal indictment against Adams was unsealed charging him with bribery and fraud following a months-long federal investigation into whether his mayoral campaign illegally conspired with Turkish entities to collect foreign donations.[21] Coverage noted that Adams was the first sitting New York City mayor to face criminal charges while in office.[21] The indictment contained five counts, including two counts of solicitation of a contribution by a foreign national, and the Department of Justice stated that Adams faced up to 45 years in prison if convicted on all counts and given the maximum sentence.[21] The charging document alleged that Adams sought and accepted benefits from wealthy foreign individuals and at least one Turkish government official dating back to his tenure as Brooklyn Borough president.[21]
+
+Speaking at a press conference on the day the indictment was unsealed, Adams asked New Yorkers "to wait and hear our defense before making any judgments," and said his "day-to-day will not change."[21] Badlands Media commentary framed the case as one about public trust rather than mere campaign finance technicalities, drawing a comparison to the standard of avoiding even the appearance of impropriety expected of financial-sector fiduciaries.[21] Writers at the outlet also noted the timing of the case alongside the [[sean-combs|Sean Combs]] prosecution, observing that both were brought in the [[southern-district-of-new-york|Southern District of New York]] and shared a common thread of alleged corruption, and speculated that the investigation of Adams and his associates had always "read as a RICO."[21]
+
+## UnitedHealthcare CEO shooting arrest (December 2024)
+
+On Monday, December 9, 2024, Adams announced at a news conference that police had arrested a suspect in the [[killing-of-brian-thompson|shooting death of UnitedHealthcare CEO Brian Thompson]] in Manhattan.[22] "We believe we have a strong person of interest," the mayor said of [[luigi-mangione|Luigi Mangione]], who had been detained in Altoona, Pennsylvania, on gun charges.[22]
+
 ## References
 
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
@@ -137,3 +147,5 @@ Lu Jianshun, former chairman of the [[american-changle-association|American Chan
 18. Badlands Brief — "Badlands News Brief: President of Precedents ...", URL: https://badlands.substack.com/p/badlands-news-brief-6ff
 19. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 20. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+21. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+22. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

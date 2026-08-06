@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Juan Orlando Hernández","description":"","frontmatter":{"title":"Juan Orlando Hernández","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["honduras","drug-trafficking","pardon","trump","narcostate"],"sources":["raw/badlands-news-brief-410.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/juan-orlando-hernandez.md","filePath":"entities/juan-orlando-hernandez.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/juan-orlando-hernandez.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="juan-orlando-hernandez" tabindex="-1">Juan Orlando Hernández <a class="header-anchor" href="#juan-orlando-hernandez" aria-label="Permalink to &quot;Juan Orlando Hernández&quot;">​</a></h1><p>Juan Orlando Hernández is a former president of Honduras who was convicted in United States federal court on drug trafficking and weapons charges and sentenced to 45 years in prison, and whom President <a href="/entities/donald-trump">Donald Trump</a> announced in late November 2025 that he intended to pardon.[1]</p><h2 id="trafficking-conviction" tabindex="-1">Trafficking conviction <a class="header-anchor" href="#trafficking-conviction" aria-label="Permalink to &quot;Trafficking conviction&quot;">​</a></h2><p>At his federal trial in New York, testimony and evidence showed how Hernández maintained Honduras as a bastion of the global drug trade.[1] Prosecutors said he orchestrated a vast trafficking conspiracy that generated millions of dollars for cartels while keeping Honduras one of Central America&#39;s poorest, most violent and most corrupt countries.[1] He was reported to have once boasted that he would &quot;stuff the drugs up the gringos&#39; noses,&quot; and to have accepted a $1 million bribe from the Sinaloa cartel leader known as El Chapo to allow cocaine shipments to transit Honduras.[1] A man was killed in prison to protect him.[1]</p><p>Hernández was convicted in 2024 and sentenced to 45 years, in what was described as one of the most sweeping drug-trafficking cases to come before a U.S. court since the trial of the Panamanian strongman General Manuel Noriega three decades earlier.[1]</p><h2 id="announced-pardon" tabindex="-1">Announced pardon <a class="header-anchor" href="#announced-pardon" aria-label="Permalink to &quot;Announced pardon&quot;">​</a></h2><p>On Friday, 28 November 2025, Trump announced that he would pardon Hernández, then 57, saying that the former president had been the victim of political persecution.[1] Trump offered no evidence to support that characterization.[1] Reporting framed the move as a head-spinning resolution to a case that prosecutors had regarded as a pinnacle achievement, one that struck at the heart of a narcostate.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;New(ish) Negotiations, NATO Nazis, &amp; Neocon Narrative Nonsense&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-410" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-410</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/juan-orlando-hernandez.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const juanOrlandoHernandez = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  juanOrlandoHernandez as default
+};

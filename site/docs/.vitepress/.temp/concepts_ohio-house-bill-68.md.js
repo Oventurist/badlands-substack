@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Ohio House Bill 68","description":"","frontmatter":{"title":"Ohio House Bill 68","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["ohio","legislation","gender-medicine","minors","womens-sports"],"sources":["raw/badlands-news-brief-378.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/ohio-house-bill-68.md","filePath":"concepts/ohio-house-bill-68.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/ohio-house-bill-68.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="ohio-house-bill-68" tabindex="-1">Ohio House Bill 68 <a class="header-anchor" href="#ohio-house-bill-68" aria-label="Permalink to &quot;Ohio House Bill 68&quot;">​</a></h1><p>Ohio House Bill 68 was legislation passed by the <a href="/entities/ohio">Ohio</a> General Assembly in late 2023 that would have prohibited doctors from prescribing puberty blockers and cross-sex hormones to minors and banned boys from competing in girls&#39; sports.[1]</p><h2 id="veto" tabindex="-1">Veto <a class="header-anchor" href="#veto" aria-label="Permalink to &quot;Veto&quot;">​</a></h2><p>Republican Governor <a href="/entities/mike-dewine">Mike DeWine</a> vetoed the bill just hours before the deadline, a decision that stirred heated debate among Republicans.[1] DeWine&#39;s stated rationale was that passing HB68 would mean &quot;the state knows better, what is medically best for their child, than the two people who love that child the most: their parents.&quot;[1]</p><h2 id="donations-controversy" tabindex="-1">Donations controversy <a class="header-anchor" href="#donations-controversy" aria-label="Permalink to &quot;Donations controversy&quot;">​</a></h2><p>The veto drew criticism as appearing to be influenced by substantial donations from organizations supportive of transgender medical care. A review of 2018–2023 contributions showed DeWine received $40,300 from the Ohio Children&#39;s Hospital Association (OCHA), Cincinnati Children&#39;s, Nationwide Children&#39;s Hospital, and ProMedica Children&#39;s Hospital, including two $10,000 OCHA gifts to the Mike DeWine and Jon Husted Transition Fund in December 2018 and December 2022.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands writer <a href="/entities/ashe-in-america">Ashe in America</a> argued the veto inverted the state&#39;s own COVID-era logic on parental authority, and framed the episode as a matter of basic human rights: &quot;Protecting the innocents and most vulnerable should be our primary social objective,&quot; adding, &quot;I fear we&#39;re all going to be judged for this.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Hypocrisy Roundup &amp; Rug-pulls Galore&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-378" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-378</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/ohio-house-bill-68.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ohioHouseBill68 = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ohioHouseBill68 as default
+};

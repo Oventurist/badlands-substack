@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Oakland Unified School District","description":"","frontmatter":{"title":"Oakland Unified School District","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["education","cdc-grants","lgbt-programs","federal-funding","california"],"sources":["raw/badlands-news-brief-32e.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/oakland-unified-school-district.md","filePath":"entities/oakland-unified-school-district.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/oakland-unified-school-district.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="oakland-unified-school-district" tabindex="-1">Oakland Unified School District <a class="header-anchor" href="#oakland-unified-school-district" aria-label="Permalink to &quot;Oakland Unified School District&quot;">​</a></h1><p>The <strong>Oakland Unified School District (OUSD)</strong> is a public school district in Oakland, California. In May 2025 it was reported to have misused federal funds intended for disease prevention to finance LGBT student clubs and gender activism programming.[1]</p><h2 id="alleged-misuse-of-cdc-grant-funds" tabindex="-1">Alleged misuse of CDC grant funds <a class="header-anchor" href="#alleged-misuse-of-cdc-grant-funds" aria-label="Permalink to &quot;Alleged misuse of CDC grant funds&quot;">​</a></h2><p>The money in question came from a <a href="/entities/centers-for-disease-control-and-prevention">Centers for Disease Control and Prevention</a> grant designed to reduce HIV and sexually transmitted diseases among students. According to the report, the funds were instead funneled into Genders &amp; Sexualities Alliance (GSA) clubs.[1]</p><p>Between 2018 and 2023, OUSD received more than $3 million through the CDC&#39;s &quot;Healthy Oakland Teens&quot; initiative. Nearly $60,000 of that was allocated to pay staff members designated &quot;LGBTQ Liaisons&quot; to oversee GSA clubs in middle and high schools and to promote &quot;affirming&quot; environments for LGBT students. An additional $50,000 was later directed toward similar programs aimed at elementary school students.[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>In the <a href="/concepts/badlands-news-brief">Badlands News Brief</a>, <a href="/entities/ashe-in-america">Ashe in America</a> predicted many more disclosures of the same kind, writing that the Biden administration &quot;tried to make everything gay. Even disease prevention,&quot; and asking what other funding streams had been diverted to similar ends.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Energy EOs, Game-Changing AI, &amp; Jewish Election Fraud&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-32e" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-32e</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/oakland-unified-school-district.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const oaklandUnifiedSchoolDistrict = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  oaklandUnifiedSchoolDistrict as default
+};

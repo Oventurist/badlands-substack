@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [assassination, utah, charlie-kirk, manhunt, information-war]
-sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-988.md]
 confidence: medium
 ---
 
@@ -73,8 +73,16 @@ Immediately after the shooting, social media reactions from progressive activist
 
 Badlands contributor Burning Bright interpreted the aftermath as the product of a cornered "network of networks" — dark money interests he said Trump had fired a warning shot at — attempting to weaponize Kirk's death amid a narrative war inside and outside the MAGA coalition.[4] He doubted that white hats had advance knowledge of the assassination but argued that patriots had known something was coming from the dark money "System of Systems," and concluded that the shadow network had blown its cover while handing patriots the narrative shielding and public mandate needed to act.[4]
 
+## Trump Oval Office address
+
+President [[donald-trump|Donald Trump]] issued an Oval Office address over the assassination, calling it "a dark moment for America."[5] Badlands host [[jon-herold|Jon Herold]] responded that "they're never going to get the civil war conditions they want — that's not what this audience is," arguing that a war-like mental posture standing firm against ideology can be adopted without ever advocating violence, and that local Badlands meetups had become a family to lean on in such moments.[5] [[burning-bright|Burning Bright]] argued that Kirk was targeted not merely because his enemies feared him but because they wanted to martyr him and guide the mass psychological fallout of a trauma event toward civil war, writing that "the enemy is desperate — they have LOST the story" and "they WANT the war."[5]
+
+A shooting at Evergreen High School in Colorado on the same day compounded the sense of national trauma, according to [[ashe-in-america|Ashe in America]], who linked the two events in her commentary on the [[evergreen-high-school-shooting|Evergreen High School shooting]].[5]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 2. Badlands Brief — "A Terror Designation & A Breath of Fresh Air", URL: https://badlands.substack.com/p/badlands-news-brief-732
 3. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 4. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+5. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988

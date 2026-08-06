@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [india, sco, multipolar]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-ac2.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-942.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatric
 
 Following the [[2025-kashmir-terrorist-attack|April 2025 terrorist attack]] in southern, India-administered Kashmir that killed 26 people — most of them tourists — and injured dozens more, Modi issued a warning at a rally in the state of Bihar on April 24, 2025.[6] "I say to the whole world, India will identify, trace, and punish every terrorist and their backers. We will pursue them to the ends of the Earth," he said, adding that "every effort will be made to ensure that justice is done."[6] He called for national unity, declaring that "the entire nation is firm in this resolve" and that "India's spirit will never be broken by terrorism."[6] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], who nicknames Modi the "Hugger-in-Chief," suspected [[isis-k|ISIS-K]] and elements of the U.S. [[state-department|State Department]] were behind the attack.[6]
 
+## Order of St. Andrew the Apostle (2024)
+
+In July 2024, President [[vladimir-putin|Vladimir Putin]] officially bestowed on Modi the [[order-of-st-andrew-the-apostle|Order of St. Andrew the Apostle]], [[russia|Russia]]'s highest civilian honour, in a ceremony recognising his "exceptional" contributions to advancing the strategic partnership between Russia and [[india|India]].[7] Modi responded, "Honoured to receive the Order of St. Andrew the Apostle. I dedicate it to the people of India."[7] Badlands commentary highlighted the interfaith symbolism of a Christian leader conferring a Christian accolade on a Hindu leader, comparing it with the [[order-of-abdulaziz-al-saud|Order of Abdulaziz Al Saud]] presented to [[donald-trump|Donald Trump]] by King Salman in 2017.[7]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -49,3 +53,4 @@ Following the [[2025-kashmir-terrorist-attack|April 2025 terrorist attack]] in s
 4. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 5. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 6. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+7. Badlands Brief — "Kamala on the Media Block as Putin Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-942

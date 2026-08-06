@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse(`{"title":"Dobbs v. Jackson Women's Health Organization","description":"","frontmatter":{"title":"Dobbs v. Jackson Women's Health Organization","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["supreme-court","abortion","roe-v-wade","state-bans",2022],"sources":["raw/badlands-news-brief-743.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/dobbs-v-jackson-womens-health-organization.md","filePath":"concepts/dobbs-v-jackson-womens-health-organization.md","lastUpdated":null}`);
+const _sfc_main = { name: "concepts/dobbs-v-jackson-womens-health-organization.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="dobbs-v-jackson-women-s-health-organization" tabindex="-1">Dobbs v. Jackson Women&#39;s Health Organization <a class="header-anchor" href="#dobbs-v-jackson-women-s-health-organization" aria-label="Permalink to &quot;Dobbs v. Jackson Women&#39;s Health Organization&quot;">​</a></h1><p>Dobbs v. Jackson Women&#39;s Health Organization is the 2022 U.S. Supreme Court decision that overturned <a href="/concepts/roe-v-wade">Roe v. Wade</a>, returning abortion regulation to the states.[1]</p><h2 id="aftermath-and-measured-effects" tabindex="-1">Aftermath and measured effects <a class="header-anchor" href="#aftermath-and-measured-effects" aria-label="Permalink to &quot;Aftermath and measured effects&quot;">​</a></h2><p>Since the Dobbs decision in 2022, 14 states have banned abortion with limited exceptions.[1] Despite those restrictions, data released in March 2024 by the <a href="/entities/guttmacher-institute">Guttmacher Institute</a> estimated that 1,026,690 abortions occurred within the formal U.S. health care system in 2023 — the first full calendar year after Dobbs — at a rate of 15.7 per 1,000 women of reproductive age.[1] That represented a 10% increase since 2020 and the highest number and rate recorded in the United States in more than a decade, which the Institute presented as evidence that people continue to seek and obtain abortion care despite reduced access.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands Media&#39;s coverage treated the post-Dobbs abortion debate as a deliberately weaponized wedge issue, arguing that the notion of a single simple answer that one side will eventually &quot;win&quot; is itself a psychological operation, and criticizing what it described as the promotion of abortion as birth control justified by citation of extreme cases.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Biden, Bobulinski &amp; Barbecue&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-743" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-743</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/dobbs-v-jackson-womens-health-organization.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const dobbsVJacksonWomensHealthOrganization = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  dobbsVJacksonWomensHealthOrganization as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md]
 confidence: low
 ---
 
@@ -61,6 +61,10 @@ On Monday, November 20, 2023, TMTG filed a lawsuit in the 12th Judicial Court of
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] noted that X, Truth Social, [[rumble|Rumble]] and the State of Texas all announced major defamation and free speech lawsuits against legacy media outlets on the same day, exactly one year before the 2024 election, treating the convergence as evidence of a coordinated plan.[10]
 
+## Truth.Fi launch
+
+On Wednesday, January 29, 2025, Trump Media and Technology Corp., operator of President [[donald-trump|Donald Trump]]'s [[truth-social|Truth Social]] platform, said it would offer cryptocurrencies and other investments aimed at "American patriots" who have had trouble obtaining banking services, launching the effort under the name [[truth-fi|Truth.Fi]].[11] The company's stock, traded as DJT, rose more than 6% on the announcement.[11] Trump Media said it would use its cash to establish bitcoin, cryptocurrency and crypto-related securities positions, along with customized separately managed accounts and customized exchange-traded funds.[11] The move followed Trump's complaint to Bank of America chief executive Brian Moynihan that banks "don't take conservative business," and his broader claim that Big Tech companies have squashed conservative voices — a claim followed in preceding weeks by Meta Platforms' adjustment of its fact-checking approach on Facebook.[11]
+
 ## References
 
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -73,3 +77,4 @@ On Monday, November 20, 2023, TMTG filed a lawsuit in the 12th Judicial Court of
 8. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 9. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 10. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
+11. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

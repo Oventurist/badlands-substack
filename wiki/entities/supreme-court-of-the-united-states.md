@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, legal-tender, gold-clause, constitution]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-52f.md, raw/badlands-brief-686.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-7bf.md, raw/badlands-brief-959.md, raw/badlands-brief-b34.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-169.md, raw/badlands-brief-174.md, raw/badlands-brief-52f.md, raw/badlands-brief-686.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-7bf.md, raw/badlands-brief-959.md, raw/badlands-brief-b34.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c5b.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-322.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -224,6 +224,15 @@ On February 21, 2023, the Court announced that it would not hear a 2020 election
 
 On December 4, 2025, the Supreme Court agreed to let Texas use a new Trump-backed congressional map in the 2026 midterm elections, with the conservative majority temporarily blocking a lower-court order that had found the map unlawful.[42] The map remains in play while the legal challenge continues, and the court's three liberal justices dissented.[42]
 
+## Relief from court shopping (2025)
+
+A 2025 Supreme Court decision was reported as offering President [[donald-trump|Donald Trump]] some relief from [[court-shopping|court shopping]], the practice by which opponents of his administration filed suits in federal judicial districts with heavily liberal benches in order to obtain favourable rulings and quick blocks of his agenda.[43] Because the federal government has jurisdiction nationwide, litigants suing it can choose from a wider array of districts than in typical cases, and most challenges to Trump initiatives had originated in liberal districts.[43] Badlands contributor [[burning-bright|Burning Bright]] welcomed the litigation wave, on the view that Supreme Court decisions clarify authorities, set precedent and place appropriate guardrails on government.[43]
+
+## October 2025 term and the Venezuelan TPS order
+
+On Friday, October 3, 2025, the Court granted an emergency appeal from the [[trump-administration|Trump administration]] allowing it to end [[temporary-protected-status|Temporary Protected Status]] for more than 300,000 Venezuelan citizens, writing in an unsigned order that "although the posture of the case has changed, the legal arguments and relative harms generally have not," so "the same result that we reached in May is appropriate here."[44] Badlands host [[ashe-in-america|Ashe in America]] marked the start of "SCOTUS season," noting that the October 2025 session opened with three days of oral arguments that week, including an elections case set for Wednesday, and welcomed the outcome in the [[2025-supreme-court-ruling-on-venezuelan-temporary-protected-status|2025 Supreme Court ruling on Venezuelan temporary protected status]].[44]
+
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Are Jack Smith and Fani Willis in on the Plan?", URL: https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in
@@ -267,3 +276,5 @@ On December 4, 2025, the Supreme Court agreed to let Texas use a new Trump-backe
 40. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
 41. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 42. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+43. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+44. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

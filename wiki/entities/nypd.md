@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-enforcement, new-york, policing]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-757.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -30,9 +30,14 @@ On May 6, 2024, the NYPD began mass arrests after more than 1,000 pro-Palestine 
 
 On December 4, 2024, the department opened a manhunt after [[unitedhealthcare]] chief executive [[brian-thompson]] was shot dead outside a Hilton hotel in midtown Manhattan.[5] Police commissioner [[jessica-tisch]] told reporters the shooting was a "brazen, targeted attack" that did "not appear to be a random act of violence," adding that "every indication is that this was a premeditated, pre-planned targeted attack."[5] Chief of detectives Joseph Kenny said Thompson was found on the sidewalk with gunshot wounds to his back and leg and was pronounced dead at Mount Sinai hospital at 7:12 a.m.[5] Investigators reconstructed the sequence from surveillance video showing the masked gunman arriving on foot about five minutes before the victim and ignoring other pedestrians.[5] See [[killing-of-brian-thompson]].[5]
 
+## Arrest in the UnitedHealthcare CEO shooting (December 2024)
+
+At a news conference on Monday, December 9, 2024, NYPD Commissioner Jessica Tisch identified [[luigi-mangione|Luigi Mangione]], 26, as the person of interest arrested in Altoona, Pennsylvania, at a McDonald's in connection with the [[killing-of-brian-thompson|shooting death of UnitedHealthcare CEO Brian Thompson]].[6] Chief of Detectives Joseph Kenny said Mangione was born and raised in Maryland, had ties to San Francisco, and listed a last known address in Honolulu, Hawaii, and that the department would work through extradition with the Manhattan district attorney's office while backtracking his movements from New York to Altoona.[6] NYPD officers and Manhattan prosecutors said they would interview him further.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 3. Badlands Media — "Badlands News Brief: Witch Hunt, Woke's Fall & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-3c1
 4. Badlands Brief — "Trumpian Trials, Proxy State Shenanigans & Vax Backtracks", URL: https://badlands.substack.com/p/badlands-news-brief-6c1
 5. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+6. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

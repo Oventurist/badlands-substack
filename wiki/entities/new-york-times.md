@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -87,6 +87,12 @@ On March 7, 2023, the Times reported that new intelligence reviewed by U.S. offi
 
 Badlands contributor [[just-human|Just Human]] treated the article as a significant narrative shift, calling it remarkable that the Times was receiving intelligence-official leaks and moving from "Russia and Putin did it!" toward Ukrainian attribution, and noting that the story cited [[seymour-hersh|Seymour Hersh]]'s Substack account.[13] He argued the piece was "ripe with factoids and indicators of note" for readers applying a "fake news filter," and paired it with the parallel [[zeit-online|Zeit Online]] investigation as complementary inputs into a fuller picture.[13]
 
+## Troop deployment coverage and the Cotton affair (2024)
+
+In March 2024 the Times faced renewed claims of hypocrisy over its coverage of domestic troop deployments.[14] Senator [[tom-cotton|Tom Cotton]] noted the paper's matter-of-fact treatment of Governor [[kathy-hochul|Kathy Hochul]]'s plan to send 750 [[national-guard|National Guard]] members into New York City's subway system, contrasting it with the paper's public denunciation of him roughly four years earlier for an op-ed calling for National Guard troops to quell violent riots in Washington.[14] That column led to editors being forced out after public confessions and recriminations, with writers including Taylor Lorenz, Caity Weaver, Sheera Frankel and Jacey Fortin arguing that publishing Cotton's viewpoint endangered black reporters.[14] Legal scholar [[jonathan-turley|Jonathan Turley]] described the paper's reaction as "a breathtaking surrender," noting that it apologized, promised an investigation into how an opposing view found its way onto its pages, and pledged to reduce the number of editorials it published — while critics never identified what was historically false in the column itself.[14] When Democratic officials actually ordered such a deployment, Turley wrote, the Times offered "little more than a journalistic shrug."[14]
+
+The same edition of the Badlands News Brief also faulted the Times and other mainstream outlets for "plane-fagging" — tracking the private aircraft of [[donald-trump|Donald Trump]] and [[elon-musk|Elon Musk]] to determine whether the two men were coordinating.[14]
+
 ## References
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
@@ -101,3 +107,4 @@ Badlands contributor [[just-human|Just Human]] treated the article as a signific
 11. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 13. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+14. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, russia, ukraine-war, kursk, badlands-brief]
-sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md]
+sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md]
 confidence: medium
 ---
 
@@ -113,6 +113,12 @@ In a memoir released in May 2024, titled "From the Periphery to the Centre," for
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that whoever had been controlling the Kim family lost that control during the Trump administration, and that Kim had since "rug-pulled" [[john-bolton|John Bolton]]'s hoped-for confrontation, offering rational common sense and an appeal as a father instead of the "madman" role assigned to him.[15] The commentary expressed hope that Kim would work with Trump to transform North Korea, citing Trump's remark that North Korean beaches had the potential to become world-class resorts.[15]
 
+## April 2024 call to prepare for war
+
+On Wednesday, April 10, 2024, Kim said that the unstable geopolitical situation surrounding North Korea meant it was time to be more prepared for war than ever, speaking during an inspection of the country's main military university.[16] He gave field guidance at Kim Jong Il University of Military and Politics — named for his father, who died in 2011 — which the KCNA news agency described as the "highest seat of military education" in the country.[16] Kim told staff and students that "if the enemy opts for military confrontation with the DPRK, the DPRK will deal a death-blow to the enemy without hesitation by mobilizing all means in its possession."[16] The remarks came as North Korea stepped up weapons development and forged closer military and political ties with Russia, allegedly aiding Moscow's war in Ukraine in exchange for help with strategic military projects.[16]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded to the item with sympathy rather than alarm, writing that Kim had appeared genuinely happy and had lost weight while [[donald-trump|Donald Trump]] was in office and seemed to have relapsed into a role he did not want to play once the Biden phase began.[16] He placed Kim within the [[sovereign-alliance|Sovereign Alliance]] and expressed hope that Kim and Trump would one day develop North Korea into a tourist destination and first-world nation.[16]
+
 ## References
 1. Badlands Brief — "Rigged Maps, Russian Grain, & Maduro's Billable Hours", URL: https://badlands.substack.com/p/badlands-brief-9f2
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -129,3 +135,4 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argue
 13. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 14. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 15. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+16. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Shia Islam","description":"","frontmatter":{"title":"Shia Islam","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["islam","succession","iran","persia"],"sources":["raw/arabian-nights.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/shia-islam.md","filePath":"concepts/shia-islam.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/shia-islam.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="shia-islam" tabindex="-1">Shia Islam <a class="header-anchor" href="#shia-islam" aria-label="Permalink to &quot;Shia Islam&quot;">​</a></h1><p>Shia Islam is the minority branch of Islam, comprising roughly 10–15% of all Muslims and found primarily in modern <a href="/entities/iran">Iran</a> and throughout the region of Persia.<a href="https://badlands.substack.com/p/arabian-nights" target="_blank" rel="noreferrer">[1]</a></p><h2 id="doctrine-of-succession" tabindex="-1">Doctrine of succession <a class="header-anchor" href="#doctrine-of-succession" aria-label="Permalink to &quot;Doctrine of succession&quot;">​</a></h2><p>The Shia position originated in the disputed interpretation of the word Mawla — variously &#39;Lord&#39;, &#39;trustee&#39;, and &#39;helper&#39; — which the Prophet <a href="/entities/muhammad">Muhammad</a> once applied to <a href="/entities/ali-ibn-abi-talib">Ali</a>.<a href="https://badlands.substack.com/p/arabian-nights" target="_blank" rel="noreferrer">[1]</a> Upon Muhammad&#39;s death, some followers concluded that Ali, who had been like a son and brother to him, was his chosen heir, and that therefore only Ali&#39;s descendants qualify to lead Islam.<a href="https://badlands.substack.com/p/arabian-nights" target="_blank" rel="noreferrer">[1]</a> The <a href="/concepts/sunni-islam">Sunni</a> majority rejects this, holding that no heir was appointed.<a href="https://badlands.substack.com/p/arabian-nights" target="_blank" rel="noreferrer">[1]</a></p><p>Shia Muslims also take a narrow reading of &quot;Ahl al-Bayt&quot; (People of the House of the Prophet), limiting the group to Muhammad&#39;s cousin, daughter, son-in-law, two grandsons, and eleven wives, whereas Sunnis extend it to all of the Banu Hashim.<a href="https://badlands.substack.com/p/arabian-nights" target="_blank" rel="noreferrer">[1]</a></p><h2 id="geography" tabindex="-1">Geography <a class="header-anchor" href="#geography" aria-label="Permalink to &quot;Geography&quot;">​</a></h2><p>Iran — ancient Persia — is considered the homeland of the Shia, while Afghanistan and Iraq are mixtures of both branches, a condition the article characterizes as arbitrary and intentionally created by the British Crown and East India Company at the end of the First World War.<a href="https://badlands.substack.com/p/arabian-nights" target="_blank" rel="noreferrer">[1]</a></p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Arabian Nights&quot;, URL: <a href="https://badlands.substack.com/p/arabian-nights" target="_blank" rel="noreferrer">https://badlands.substack.com/p/arabian-nights</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/shia-islam.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const shiaIslam = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  shiaIslam as default
+};

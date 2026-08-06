@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Ofcom","description":"","frontmatter":{"title":"Ofcom","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["regulator","uk","censorship","media"],"sources":["raw/5gw-counter-offensive-the-censorship.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/ofcom.md","filePath":"entities/ofcom.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/ofcom.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="ofcom" tabindex="-1">Ofcom <a class="header-anchor" href="#ofcom" aria-label="Permalink to &quot;Ofcom&quot;">​</a></h1><p><strong>Ofcom</strong>, the United Kingdom&#39;s Office of Communications, is the statutory regulator placed at the heart of the <a href="/concepts/online-safety-bill">Online Safety Bill</a>&#39;s enforcement architecture.<a href="https://badlands.substack.com/p/5gw-counter-offensive-the-censorship" target="_blank" rel="noreferrer">[1]</a> The bill&#39;s long-form title explicitly frames it as legislation providing &quot;for and in connection with the regulation by OFCOM of certain internet services.&quot;<a href="https://badlands.substack.com/p/5gw-counter-offensive-the-censorship" target="_blank" rel="noreferrer">[1]</a></p><h2 id="role-under-the-online-safety-bill" tabindex="-1">Role under the Online Safety Bill <a class="header-anchor" href="#role-under-the-online-safety-bill" aria-label="Permalink to &quot;Role under the Online Safety Bill&quot;">​</a></h2><p>Under the OSB, Ofcom is the body that holds technology platforms to the new ruleset, with non-compliance exposing companies to very large fines and, ultimately, to a decision on whether the platform should be banned in the UK.<a href="https://badlands.substack.com/p/5gw-counter-offensive-the-censorship" target="_blank" rel="noreferrer">[1]</a> Badlands Media reads this as giving a single regulator practical leverage to force removal of state critics from major services.<a href="https://badlands.substack.com/p/5gw-counter-offensive-the-censorship" target="_blank" rel="noreferrer">[1]</a></p><h2 id="melanie-dawes" tabindex="-1">Melanie Dawes <a class="header-anchor" href="#melanie-dawes" aria-label="Permalink to &quot;Melanie Dawes&quot;">​</a></h2><p>Ofcom&#39;s recently appointed Chief Executive, Dame Melanie Dawes, was described as genuinely gleeful at the bill&#39;s passage, stating: &quot;Today is a major milestone in the mission to create a safer life online for children and adults in the UK. Everyone at Ofcom feels privileged to be entrusted with this important role, and we&#39;re ready to start implementing these new laws.&quot;<a href="https://badlands.substack.com/p/5gw-counter-offensive-the-censorship" target="_blank" rel="noreferrer">[1]</a></p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;5GW Counter-Offensive - The Censorship Regime and the Road to 2024&quot;, URL: <a href="https://badlands.substack.com/p/5gw-counter-offensive-the-censorship" target="_blank" rel="noreferrer">https://badlands.substack.com/p/5gw-counter-offensive-the-censorship</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/ofcom.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ofcom = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ofcom as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, doj, trafficking, media-narrative]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-40d.md, raw/badlands-brief-314.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-6f4.md, raw/badlands-brief-ac2.md, raw/badlands-brief-8db.md, raw/badlands-brief-f17.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6db.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-174.md, raw/badlands-brief-40d.md, raw/badlands-brief-314.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-6f4.md, raw/badlands-brief-ac2.md, raw/badlands-brief-8db.md, raw/badlands-brief-f17.md, raw/badlands-brief-e9e.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-95a.md]
 confidence: medium
 ---
 
@@ -179,6 +179,12 @@ Coverage noted that Epstein had been linked to numerous well-known figures in sh
 
 In January 2023, [[jes-staley|Jes Staley]], the former chief executive of [[barclays|Barclays]], was accused in documents lodged at a United States court of having "personally observ[ed] the sexual abuse of young women" by Epstein.[29] Staley, then 66, had resigned from Barclays in November 2021 after a preliminary investigation by United Kingdom regulators into his relationship with Epstein, and was named in a suit brought by one of Epstein's victims that also named [[jpmorgan-chase|JP Morgan]], where Staley worked in 2013 while Epstein was a private client.[29] [[jordan-sather|Jordan Sather]] highlighted 2021 reports that regulators had examined Epstein–Staley emails containing the phrase "snow white," arguing this vindicated longstanding claims about coded language in trafficking networks.[29]
 
+## DOJ and FBI memo (July 2025)
+
+In a two-page memo obtained by Axios and reported on July 7, 2025, the [[department-of-justice|Justice Department]] and [[fbi|FBI]] under President [[donald-trump|Donald Trump]] concluded that they had no evidence Epstein blackmailed powerful figures, kept a "client list," or was murdered.[30] The administration simultaneously released video — in both raw and "enhanced" versions — that it said indicated no one entered the area of the Manhattan prison where Epstein was held on the night he died in 2019, material the memo presented as supporting the medical examiner's finding of suicide.[30]
+
+Axios framed the findings as the first time the Trump administration had officially contradicted conspiracy theories about Epstein's activities and death, noting that such theories had been pushed by the FBI's top two officials — Director [[kash-patel|Kash Patel]] and Deputy Director [[dan-bongino|Dan Bongino]] — before their appointments to the bureau.[30] Both men have since said Epstein committed suicide, even as it remained an article of faith online, especially on the right, that Epstein's crimes implicated government officials, celebrities and business leaders and that he was killed to conceal them.[30] Badlands contributor [[jon-herold|Jon Herold]] responded that he and [[chris-paul|Chris Paul]] had warned of the "Epstein Rugpull" on the [[devolution-power-hour|Devolution Power Hour]] exactly one month earlier.[30]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Conflicts, Cartels, & Clemency", URL: https://badlands.substack.com/p/badlands-brief-174
@@ -209,3 +215,4 @@ In January 2023, [[jes-staley|Jes Staley]], the former chief executive of [[barc
 27. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 28. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 29. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
+30. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a

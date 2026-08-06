@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, law-enforcement, media, transparency]
-sources: [raw/badlands-brief-50d.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7e5.md]
+sources: [raw/badlands-brief-50d.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md]
 confidence: medium
 ---
 
@@ -46,6 +46,10 @@ On July 1, 2025, in his capacity as Deputy Director of the [[fbi|FBI]], Bongino 
 
 Bongino framed the action within a wider anti-corruption posture, stating that "public corruption will not be tolerated as the Director and I vigorously pursue bad actors who violated their oaths to all of us" and that the theft of public funds was "a crime against all of us."[6] His closing line — "Results matter. Talk is cheap. And this is not even the beginning of the beginning" — was read by Badlands contributor CannCon as a deliberate signal of further enforcement to come.[6]
 
+## Epstein memo reversal (July 2025)
+
+In July 2025 the [[department-of-justice|Justice Department]] and the [[fbi|FBI]] concluded in a two-page memo obtained by Axios that there was no evidence [[jeffrey-epstein|Jeffrey Epstein]] had blackmailed powerful figures, kept a "client list," or been murdered.[7] The findings placed Bongino in an awkward position: as a social-media influencer and commentator before his appointment, he had been among the prominent MAGA-aligned voices questioning the official account of Epstein's death, as had FBI Director [[kash-patel|Kash Patel]].[7] Both men subsequently stated that Epstein committed suicide.[7] Badlands contributor [[jon-herold|Jon Herold]] noted that he and [[chris-paul|Chris Paul]] had warned of an "Epstein Rugpull" on their show exactly one month before the memo surfaced.[7]
+
 ## References
 
 1. Badlands Brief — "Alternative Annexations & New(ish) Regime Change", URL: https://badlands.substack.com/p/badlands-brief-50d
@@ -54,3 +58,4 @@ Bongino framed the action within a wider anti-corruption posture, stating that "
 4. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 5. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 6. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
+7. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a

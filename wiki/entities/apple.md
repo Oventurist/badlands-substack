@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, apple, surveillance, sp-500, ai]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-959.md]
 confidence: medium
 ---
 
@@ -68,6 +68,12 @@ On December 22, 2025, [[italy|Italy]]'s antitrust authority fined Apple 98.6 mil
 
 ATT, rolled out beginning in April 2021 as part of an update to the operating system powering the iPhone and iPad, forces apps to obtain permission before collecting data to target users with personalized ads.[10] While designed to tighten privacy, it drew criticism from Big Tech rivals who argued it would make it harder for smaller apps to survive without charging consumers.[10] The Italian authority did not criticize the policy per se, but the fact that Apple's system requires third-party app makers to ask users for consent twice in order to comply with Europe's strict privacy rules, saying the "double consent requirement is harmful to developers, whose business model relies on the sale of advertising space, as well as to advertisers and advertising intermediation platforms."[10]
 
+## Indian iPhone production and friendshoring
+
+By April 2024 Apple's India-made iPhone output had topped $14 billion in value, with Bloomberg reporting that roughly 14 percent — about one in seven — of the company's iPhones were being made in India.[11] The rapid increase was read as evidence that Apple was accelerating efforts to reduce its reliance on China amid worsening Sino-US relations, part of the broader [[friendshoring|friendshoring]] trend that followed the trade war begun by [[donald-trump|Donald Trump]].[11]
+
+[[foxconn|Foxconn Technology Group]] assembled nearly 67 percent and Pegatron Corporation about 17 percent of India-made iPhones in the fiscal year ended March 2024, with the balance produced at the Wistron plant in Karnataka taken over by the [[tata-group|Tata Group]], which planned to build one of India's biggest iPhone assembly plants.[11] China nevertheless still produced the largest share of iPhones.[11] Badlands contributor [[burning-bright|Burning Bright]] argued that the shift did not damage China, since [[xi-jinping|Xi Jinping]] had been adversarial toward the US oligarchy represented by Apple and Microsoft and was prioritising domestic Chinese producers, and read the trend as reinforcing multipolarity.[11]
+
 ## References
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
@@ -79,3 +85,4 @@ ATT, rolled out beginning in April 2021 as part of an update to the operating sy
 8. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 9. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 10. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
+11. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959

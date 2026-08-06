@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -72,6 +72,10 @@ After a Manhattan grand jury indicted [[donald-trump|Donald Trump]] over the hus
 
 The indictment drew supportive reactions from Republican figures, with [[ron-desantis|Ron DeSantis]] indicating Florida would not assist in extradition and [[kevin-mccarthy|Kevin McCarthy]] denouncing the prosecution as an injustice.[11] In the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] argued that Trump himself was pushing the indictment narrative hardest, and that commentators within the [[media-industrial-complex|media industrial complex]] and the cultural left who called the move a miscalculation were effectively conceding it would raise Trump's political capital ahead of the [[2024-us-general-election|2024 campaign cycle]].[11]
 
+## Daniel Penny verdict (December 2024)
+
+After a Manhattan jury acquitted [[daniel-penny|Daniel Penny]] of criminally negligent homicide in the chokehold death of [[jordan-neely|Jordan Neely]] on December 9, 2024, Bragg said he respected the verdict.[12] "Their lengthy deliberation — and the totality of the facts and the evidence — underscored why this case was put in front of a jury of Mr. Penny's peers," he said in a statement, noting that the jury had deliberated about an hour on the criminally negligent homicide charge after roughly four days on the manslaughter count that the judge dismissed following a deadlock.[12]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
@@ -85,3 +89,4 @@ The indictment drew supportive reactions from Republican figures, with [[ron-des
 9. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 10. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 11. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
+12. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

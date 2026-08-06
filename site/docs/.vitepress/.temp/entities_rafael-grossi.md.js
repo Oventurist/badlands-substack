@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Rafael Grossi","description":"","frontmatter":{"title":"Rafael Grossi","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["iaea","nuclear","diplomacy"],"sources":["raw/badlands-brief-5a2.md","raw/badlands-brief-740.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/rafael-grossi.md","filePath":"entities/rafael-grossi.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/rafael-grossi.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="rafael-grossi" tabindex="-1">Rafael Grossi <a class="header-anchor" href="#rafael-grossi" aria-label="Permalink to &quot;Rafael Grossi&quot;">​</a></h1><p>Rafael Grossi is Director General of the <a href="/entities/international-atomic-energy-agency">International Atomic Energy Agency</a>.[1]</p><h2 id="statement-on-the-barakah-strike" tabindex="-1">Statement on the Barakah strike <a class="header-anchor" href="#statement-on-the-barakah-strike" aria-label="Permalink to &quot;Statement on the Barakah strike&quot;">​</a></h2><p>Following the 17 May 2026 drone strike near the <a href="/entities/barakah-nuclear-power-plant">Barakah nuclear power plant</a> in the <a href="/entities/united-arab-emirates">United Arab Emirates</a>, Grossi said that military activity threatening nuclear safety was &quot;unacceptable,&quot; speaking after discussions with UAE officials about the incident.[1] The UAE&#39;s nuclear regulator reported no impact on reactor operations or public safety.[1]</p><h2 id="pessimistic-outlook-on-iran-diplomacy-february-2026" tabindex="-1">Pessimistic outlook on Iran diplomacy (February 2026) <a class="header-anchor" href="#pessimistic-outlook-on-iran-diplomacy-february-2026" aria-label="Permalink to &quot;Pessimistic outlook on Iran diplomacy (February 2026)&quot;">​</a></h2><p>In February 2026, as Director General of the <a href="/entities/international-atomic-energy-agency">International Atomic Energy Agency</a>, Grossi stated that the diplomatic window regarding <a href="/entities/iran">Iran</a>&#39;s nuclear program is narrowing.[2] He publicly expressed concern about monitoring and verification challenges related to Iran&#39;s nuclear activities, remarks that coincided with a large US military build-up in the Middle East and President <a href="/entities/donald-trump">Donald Trump</a>&#39;s warning that Washington &quot;may have to take it a step further&quot; within roughly ten days.[2]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Tina Peters&#39; Sentence Commuted; ISIS Killed in Africa&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-5a2" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-5a2</a></li><li>Badlands Brief — &quot;Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-740" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-740</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/rafael-grossi.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const rafaelGrossi = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  rafaelGrossi as default
+};

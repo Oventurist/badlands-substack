@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [decentralization, information-war, napster, censorship, resistance]
-sources: [raw/badlands-brief-02a.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-news-brief-966.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ Ashe in America described the passage as prophetic, pointing to the internet's o
 
 She noted that this is the canonical example offered of the power of the people over information, then raised the question of whether the [[cia|CIA]] wanted the legislation to die or genuinely lost that round — placing her money on the former.[1] The framework is applied directly to contemporary fights over [[artificial-intelligence|AI]] legislation, with states suing over federal preemption, and to the alternative Ashe discussed on [[badlands-blitz|Badlands Blitz]] with [[burning-bright|Burning Bright]]: rather than begging government to protect people from what is fake, individuals should retain "decision rights to determine what's true" and never give them away.[1]
 
+## Invoked in the 2025 DOGE debate
+
+In January 2025, [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] cited Ori Brafman's 2006 book while rebutting MSNBC coverage claiming the [[doge|Department of Government Efficiency]] would have "no actual power."[2] She noted the book's examples of established, too-big-to-fail entities misjudging decentralized challengers — music labels versus Napster, AT&T versus Skype, and the Spanish versus the Apache — quoting its observation that an Apache raid "could be conceived in one place, organized in another, and carried out in yet another," so that decisions were made by "everybody everywhere."[2] Her application was that centralized organizations tend to centralize further when attacked, a fatal mistake against a decentralized threat like DOGE, whereas decentralized organizations become more open, held together by ideology — making the idea of DOGE, and by extension [[elon-musk|Elon Musk]], more powerful than institutional norms.[2]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
+2. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [republican-party, uniparty, political-terminology, maga]
-sources: [raw/badlands-news-brief-132.md]
+sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md]
 confidence: medium
 ---
 
@@ -18,5 +18,12 @@ The term featured heavily in Truth Community analysis of the [[2023-speaker-of-t
 
 [[burning-bright|Burning Bright]] used the term similarly in dismissing the 2024 Republican primary field, describing Trump's rivals as "nothing but Uniparty shills & RINO cast-offs" whose challenge was beneath his notice.[1]
 
+## December 2024 "RINO-hunting season"
+
+In December 2024, Politico reported that [[donald-trump|Donald Trump]]'s MAGA allies were racing to put down the last vestiges of Republican resistance to him in the [[us-senate|Senate]], describing the hunt for what activists derisively call Republicans-In-Name-Only as being "in full swing."[2] Senator [[joni-ernst|Joni Ernst]] of Iowa drew heavy criticism at home after hesitating over Defense Secretary nominee [[pete-hegseth|Pete Hegseth]]; Senator [[bill-cassidy|Bill Cassidy]], one of four remaining senators who voted to impeach Trump in 2021, drew a formal primary challenge; and moderates [[susan-collins|Susan Collins]] and [[lisa-murkowski|Lisa Murkowski]] began catching heat from party activists.[2] Iowa radio host [[steve-deace|Steve Deace]], weighing a challenge to Ernst, said "the pressure valve is now pointed in the direction of the Senate" and that "the tea party was not nearly as organized as the Trump movement is."[2] Trump acolytes were also watching Senators [[john-cornyn|John Cornyn]] of Texas and [[thom-tillis|Thom Tillis]] of North Carolina, both up for reelection in 2026.[2]
+
+Badlands commentary rejected the premise, arguing that "RINOs aren't real" because the Republican name and platform are themselves what the victorious MAGA coalition opposes, and that millions of Americans who are MAGA will never raise the Republican banner given the party's baggage.[2] It contended that Republicans who have long held power need to exit the scene as surely as Democrats do, quoting Trump's January 20, 2017 inaugural line that "a small group in our nation's capital have reaped the rewards of government while the people have borne the cost."[2] The same commentary argued that the "all-powerful-senate" story surrounding confirmation fights is a fiction — advise and confirm being record keeping rather than veto power — but a usefully clarifying one, since public anger over it is inadvertently raising the nation's civics literacy.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
+2. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960

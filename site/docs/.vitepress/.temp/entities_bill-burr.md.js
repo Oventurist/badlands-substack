@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Bill Burr","description":"","frontmatter":{"title":"Bill Burr","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["comedy","media","trump","commentary"],"sources":["raw/badlands-news-brief-220.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/bill-burr.md","filePath":"entities/bill-burr.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/bill-burr.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="bill-burr" tabindex="-1">Bill Burr <a class="header-anchor" href="#bill-burr" aria-label="Permalink to &quot;Bill Burr&quot;">​</a></h1><p>Bill Burr is an American stand-up comedian whose December 2023 remarks about <a href="/entities/donald-trump">Donald Trump</a> on late-night television drew attention in independent media.</p><h2 id="kimmel-interview" tabindex="-1">Kimmel interview <a class="header-anchor" href="#kimmel-interview" aria-label="Permalink to &quot;Kimmel interview&quot;">​</a></h2><p>Speaking to talk show host <a href="/entities/jimmy-kimmel">Jimmy Kimmel</a>, Burr said liberals were &quot;fucking stupid&quot; for the way they had handled Trump and had turned him into a martyr, predicting &quot;he&#39;s coming back&quot; for revenge.[1] Burr framed the comments within a discussion of how he would teach his children about narcissists and sociopaths, describing Trump as &quot;a narcissist – neutral energy – neutral.&quot;[1]</p><p>When Kimmel wondered whether Trump would &quot;go away&quot; if leftists ignored him, Burr replied that Trump had been fading until &quot;you idiot liberals…indicted him and now he&#39;s a martyr,&quot; adding, &quot;He&#39;s coming back, Jimmy! He&#39;s coming back! It&#39;s gonna be great for comedy.&quot;[1] Burr also said he wanted to vote for a president in their forties who would have to live with their decisions, and quipped of Trump and <a href="/entities/joe-biden">Joe Biden</a> that &quot;with any luck, they&#39;ll both die of natural causes before the election.&quot;[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p><a href="/entities/ashe-in-america">Ashe in America</a> dismissed the exchange as two figures &quot;pretending to have original takes on President Trump,&quot; and objected to Burr and Kimmel labeling anyone else a narcissist.[1] Her substantive concern was the pattern: mainstream influencers, leftist podcasters, and legacy outlets simultaneously invoking &quot;Trump Dead&quot; talking points, which she read as narrative deployment from a shared song book and as evidence of escalation born of panic.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Tracking Trump &amp; Rootin&#39; for Putin?&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-220" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-220</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/bill-burr.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const billBurr = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  billBurr as default
+};

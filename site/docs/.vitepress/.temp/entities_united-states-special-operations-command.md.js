@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"United States Special Operations Command","description":"","frontmatter":{"title":"United States Special Operations Command","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["military","pentagon","cybersecurity","special-operations"],"sources":["raw/badlands-news-brief-12a.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/united-states-special-operations-command.md","filePath":"entities/united-states-special-operations-command.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/united-states-special-operations-command.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="united-states-special-operations-command" tabindex="-1">United States Special Operations Command <a class="header-anchor" href="#united-states-special-operations-command" aria-label="Permalink to &quot;United States Special Operations Command&quot;">​</a></h1><p>The United States Special Operations Command (USSOCOM) is the U.S. military unit tasked with conducting special military operations.[1]</p><h2 id="_2023-exposed-server-incident" tabindex="-1">2023 exposed server incident <a class="header-anchor" href="#_2023-exposed-server-incident" aria-label="Permalink to &quot;2023 exposed server incident&quot;">​</a></h2><p>On Monday, February 20, 2023, the <a href="/entities/department-of-defense">U.S. Department of Defense</a> secured an exposed server that had been spilling internal U.S. military emails to the open internet for the previous two weeks, according to TechCrunch reporting summarized in the Badlands News Brief.[1] The server was hosted on <a href="/entities/microsoft">Microsoft</a>&#39;s Azure government cloud for Department of Defense customers, an environment whose servers are physically separated from other commercial customers and can therefore be used to share sensitive but unclassified government data.[1]</p><p>The exposed system was part of an internal mailbox system storing roughly three terabytes of internal military emails, many of them pertaining to USSOCOM.[1] A misconfiguration left the server without a password, allowing anyone on the internet to access the sensitive mailbox data using only a web browser and knowledge of the server&#39;s IP address.[1]</p><p>Badlands contributor <a href="/entities/just-human">Just Human</a> wrote that the exposure could be the result of human error &quot;or ... not,&quot; suggesting it could represent an attempt to compromise USSOCOM&#39;s civilian network, or alternatively a clever means of transferring information that was temporarily resident on that network, and said it would be interesting to see what an investigation determined.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Dueling Presidents, Establishment Secrets &amp; Info Wars&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-12a" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-12a</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/united-states-special-operations-command.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const unitedStatesSpecialOperationsCommand = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  unitedStatesSpecialOperationsCommand as default
+};

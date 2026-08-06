@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, diplomacy, iran]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-951.md]
 confidence: low
 ---
 
@@ -48,6 +48,12 @@ Reporting in early October 2024 on the cancellation of Defense Minister [[yoav-g
 
 Even before that move, it had been speculated that Sa'ar would replace Gallant as Minister of Defense.[8] Although Sa'ar has been a political rival of Netanyahu's, the Badlands analysis argued that he shares the government's appetite for vanquishing its foes, making the question of whether he subscribes to [[greater-israel|Greater Israel]] ideology less relevant than his willingness to prosecute war.[8]
 
+## Public diplomacy budget expansion (December 2025)
+
+In December 2025, the Israeli cabinet allocated 2.35 billion shekels (almost $729 million) to "public diplomacy" in its next budget, an almost five-fold increase over prior spending, and Sa'ar announced the creation of a new Public Diplomacy Division within his ministry at a conference in Jerusalem.[9] He called the move a "significant strategic decision," noting that when public opinion in a third country shifts toward an anti-Israeli stance it can "promptly impact government actions."[9] Of the total, one billion shekels was authorized outright, and Sa'ar said the underlying concept — "that the battle for public awareness is part of national security" — was fundamental to the decision.[9] The previous year [[israel|Israel]] had allocated some $150 million to public diplomacy, itself twenty times the earlier annual average.[9]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] connected the spending to hasbara — Hebrew for "explanation" — and to the prevalence of Israeli-developed software in American health care, national security and transportation infrastructure, citing Erez Maggor's 2021 American Affairs article on how Israeli industrial policy uses public grant conditions to restrict firms' ability to transfer intellectual property and production outside the country's borders.[9]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -57,3 +63,4 @@ Even before that move, it had been speculated that Sa'ar would replace Gallant a
 6. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 7. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 8. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+9. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

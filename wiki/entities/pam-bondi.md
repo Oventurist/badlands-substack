@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney-general, doj, appointments]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-4ec.md, raw/badlands-brief-40d.md, raw/badlands-brief-509.md, raw/badlands-brief-733.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-c2d.md, raw/badlands-brief-d3b.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-144.md, raw/badlands-brief-174.md, raw/badlands-brief-1cd.md, raw/badlands-brief-245.md, raw/badlands-brief-405.md, raw/badlands-brief-4ec.md, raw/badlands-brief-40d.md, raw/badlands-brief-509.md, raw/badlands-brief-733.md, raw/badlands-brief-8db.md, raw/badlands-brief-c07.md, raw/badlands-brief-c2d.md, raw/badlands-brief-d3b.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5d1.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -199,6 +199,10 @@ Paul Fleuret offered a defense, arguing that "it is all a show" and that Bondi w
 
 President Donald Trump authorized Attorney General Bondi to investigate "the unlawful use of online fundraising platforms to make 'straw' or 'dummy' contributions," opening a Justice Department probe that ran parallel to House Republican subpoenas of ActBlue officials in June 2025.[38] Counsel for the subpoenaed ActBlue employees cited the existence of Bondi's investigation in asking the committees to withdraw their requests for transcribed interviews until the Department completed its work.[38]
 
+## Trump's deference on prosecutions (December 2024)
+
+In his December 8, 2024 "Meet the Press" interview, President-elect [[donald-trump|Donald Trump]] said he would leave it to Bondi, his nominee for attorney general, to determine whether to prosecute figures such as special counsel [[jack-smith|Jack Smith]], who led the federal investigations into Trump.[39] "I will say this: No, I'm not doing that unless I find something that I think is reasonable, but that's not going to be my decision," Trump said. "That's going to be Pam Bondi's decision, and, to a different extent, [[kash-patel|Kash Patel]], assuming they're both there, and I think they're both going to get approved."[39]
+
 ## References
 1. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
 2. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -238,3 +242,4 @@ President Donald Trump authorized Attorney General Bondi to investigate "the unl
 36. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 37. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 38. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+39. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

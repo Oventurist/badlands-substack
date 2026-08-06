@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Anna Kuznetsova","description":"","frontmatter":{"title":"Anna Kuznetsova","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["russia","state-duma","ukraine","child-trafficking","landmines"],"sources":["raw/badlands-brief-245.md"],"confidence":"low"},"headers":[],"relativePath":"entities/anna-kuznetsova.md","filePath":"entities/anna-kuznetsova.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/anna-kuznetsova.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="anna-kuznetsova" tabindex="-1">Anna Kuznetsova <a class="header-anchor" href="#anna-kuznetsova" aria-label="Permalink to &quot;Anna Kuznetsova&quot;">​</a></h1><p>Anna Kuznetsova is Deputy Speaker of the Russian State Duma, the lower house of <a href="/entities/russia">Russia</a>&#39;s parliament.[1]</p><h2 id="july-2026-allegations" tabindex="-1">July 2026 allegations <a class="header-anchor" href="#july-2026-allegations" aria-label="Permalink to &quot;July 2026 allegations&quot;">​</a></h2><p>In an interview published on Saturday, July 25, 2026, Kuznetsova alleged that Ukrainian children have been trafficked through the darknet for between $30,000 and $50,000, and said law enforcement agencies in France and other European countries had documented dozens of cases involving the use of Ukrainian children as slave labor.[1] She said preliminary data indicated that more than 60,000 Ukrainian children had been deported without legal representatives, including to European Union countries.[1]</p><p>In a separate report based on the same interview, Kuznetsova said mines she alleged were laid by <a href="/entities/ukraine">Ukrainian</a> forces in border areas had killed more than 50 Ukrainian children and injured more than 120, and that more than 15 children in Russia had been injured by detonations involving Ukrainian antipersonnel mines.[1]</p><h2 id="badlands-reaction" tabindex="-1">Badlands reaction <a class="header-anchor" href="#badlands-reaction" aria-label="Permalink to &quot;Badlands reaction&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> emphasized that one of the highest elected officials in the Russian government had made the claims, and argued that if any American — including anyone from the Trump administration — were involved, they should be treated as unlawful enemy combatants.[1] He asked to what extent the <a href="/entities/state-department">State Department</a> and <a href="/entities/congress">Congress</a> were involved, and suggested the allegations might explain why both political parties have so ardently defended Ukraine&#39;s war effort.[1] These claims are Russian government assertions reported by a partisan outlet and are not independently verified.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Trump Roasts The Press; Teases 2028 Run&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-245" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-245</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/anna-kuznetsova.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const annaKuznetsova = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  annaKuznetsova as default
+};

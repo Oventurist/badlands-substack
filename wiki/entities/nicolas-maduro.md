@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, maduro, regime-change, oil, sanctions]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-577.md, raw/badlands-brief-95a.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-9f2.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e3b.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-1ce.md, raw/badlands-brief-577.md, raw/badlands-brief-95a.md, raw/badlands-brief-990.md, raw/badlands-brief-708.md, raw/badlands-brief-9f2.md, raw/badlands-brief-d17.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e3b.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -265,6 +265,15 @@ In a letter to President [[donald-trump|Donald Trump]] viewed by Reuters on Sept
 
 Hugo Carvajal Barrios, the former Venezuelan intelligence chief who served as Director of Military Intelligence under both Hugo Chávez and Maduro, alleged in a ten-page letter from a US federal prison that Maduro's government systematically used drug trafficking, criminal gangs, espionage networks, and even electoral technology to undermine the United States.[38] The letter asserts that Venezuela's ruling elite operates as a 'narco-terrorist organization' with global reach and explicit anti-American intent, and argues that President Donald Trump's policies toward the country are necessary to US national security.[38]
 
+## FBI money laundering case involving his children
+
+An [[fbi|FBI]] investigation opened in 2019 by the bureau's Miami field office uncovered an international money laundering scheme connected to Maduro's children, in which close allies of the chavista regime opened U.S. bank accounts to move illicit funds in defiance of sanctions.[39] Businessman Arick Komarczyk was charged in a Florida federal court on September 25, 2025 with money laundering and conspiracy to conduct unlicensed money transfers for managing transfers and accounts in the names of Maduro's children and their associates, while his partner Irazmar Carbajal was charged with conspiracy to conduct unauthorized transactions in the [[maduro-family-money-laundering-investigation|Maduro family money laundering investigation]].[39]
+
+## Response to the boat strikes
+
+Maduro rejected allegations that his government runs drug cartels, saying it had "eliminated all major trafficking networks and vanquished prominent gangs," and accused Washington of using the fight against cartels as a pretext to topple him and seize [[venezuela|Venezuela]]'s natural resources.[39] Badlands host [[chris-paul|Chris Paul]] asked why so many figures — including [[elon-musk|Elon Musk]], [[michael-flynn|General Flynn]], [[marco-rubio|Marco Rubio]] and [[patrick-byrne|Patrick Byrne]], along with global NGOs acting for banks and oil companies — were working to remove Maduro from power.[39]
+
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -306,3 +315,4 @@ Hugo Carvajal Barrios, the former Venezuelan intelligence chief who served as Di
 36. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 37. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 38. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+39. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

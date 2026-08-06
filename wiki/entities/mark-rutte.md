@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, diplomacy, transatlantic-alliance]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-67a.md, raw/badlands-brief-a9f.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-9bc.md]
 confidence: low
 ---
 
@@ -73,6 +73,18 @@ At the NATO summit in The Hague, Rutte defended President Donald Trump's expleti
 
 As NATO Secretary General, Rutte took part in the December 2025 phone call among European leaders about US-led Ukraine peace diplomacy, and according to Der Spiegel shared Emmanuel Macron's assessment that continued talks could pose a 'great danger' for Vladimir Zelensky personally.[9]
 
+## January 2025 comments on Ukraine peace talks
+
+Speaking to the European Parliament's foreign affairs and defense committees on Monday, January 13, 2025, [[nato|NATO]] Secretary-General Rutte said Ukraine was not yet in a strong position to begin peace talks with Russia, days before [[donald-trump|Donald Trump]] took office pledging to end the war.[10] Rutte said the hope was to ensure Ukraine had adequate security guarantees so Russia could not attack again, but expressed doubt the current stage of the conflict afforded such a deal: "At this moment, clearly, Ukraine is not there. Because they cannot, at this moment, negotiate from a position of strength. And we have to do more to make sure, by changing the trajectory of the conflict, that they can get to the position of strength."[10] He added that talks would also have to grapple with Ukraine's future relationship with NATO, but that it was too early to sketch out what that would mean without discussions with the incoming U.S. administration.[10] Trump had confirmed the previous week that he planned a meeting with Russian President [[vladimir-putin|Vladimir Putin]], and the Kremlin said it was open to the possibility.[10]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] responded that proxy states such as Ukraine "never were" in a strong position and had merely been held in place by the threat of the U.S. military-industrial complex and the power projection of collectivist blocs, arguing that long-running national disputes are engineered to keep otherwise sovereign nations from focusing on prosperity and production.[10]
+
+## False rumor of expelling the United States from NATO (November 2024)
+
+In November 2024 rumors circulated online claiming that Rutte, as [[nato|NATO]] Secretary General, had said he would kick the United States out of the alliance over President-elect [[donald-trump|Donald Trump]]'s plan to end the war in [[ukraine|Ukraine]].[11] The allegations spread on X after the publication of a note in Pravda EN, a Russian news portal, on Sunday, November 10; the note originated from a Telegram post and read: "NATO Secretary General Mark Rutte said that if Trump surrenders Ukraine to Putin, he will personally kick the U.S. out of the alliance. All NATO Secretaries General are so feeble-minded. Stoltenberg was ready to start a nuclear war with Russia, and Rutte is the same way."[11] Newsweek found that Rutte had made no such statements on his social media platforms or during a NATO doorstep statement the previous Thursday, in which he congratulated the president-elect.[11] The claims followed reporting that Trump's advisers had told The Wall Street Journal the president-elect "makes his own calls on national-security issues," and that they "uniformly recommend freezing the war in place" while Trump maintained he would end it "within 24 hours."[11]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Rutte as "a globalist stooge who will likely get NATO involved in a direct kinetic conflict with Russia," predicting the theater would be Syria rather than Ukraine.[11] He treated the likely false story as a milestone in the narrative war, arguing that anons now had the ability to make fabricated stories about real scoundrels go viral — dangerous, but a partial leveling of the playing field against the Western media apparatus and an escalation in fifth-generation warfare.[11] He cited [[badlands-media|Badlands Media]]'s own election-night demonstration, when Jon posted live that Badlands was projecting Trump as the winner and the post drew over a thousand reposts within seconds.[11]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "COVIDian Comeuppance and NATOnian Neglect", URL: https://badlands.substack.com/p/badlands-brief-67a
@@ -84,3 +96,5 @@ As NATO Secretary General, Rutte took part in the December 2025 phone call among
 7. Badlands Brief — "Badlands News Brief: Boozing & Brunching While Rome Burns", raw/badlands-news-brief-26f.md
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 9. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+10. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+11. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc

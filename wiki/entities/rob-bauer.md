@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, military, russia, europe]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-656.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-9bc.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ Speaking at a European Policy Center think-tank event in Brussels on 25 November
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] dismissed the admiral as "such a blowhard" and linked the timing of the remarks to the abrupt exit of Treasury Secretary Janet Yellen, closing with the rhetorical question of whether readers had bought any Bitcoin yet.[3]
 
+## Warning against a Ukraine deal favoring Putin (November 2024)
+
+In a wide-ranging interview on the sidelines of a European defense summit in Prague on Saturday, November 9, 2024, Bauer — described as the Dutch chairman of NATO's Military Committee — suggested that any peace deal negotiated by President-elect [[donald-trump|Donald Trump]] that allowed Russian President [[vladimir-putin|Vladimir Putin]] to claim victory in [[ukraine|Ukraine]] would undermine the interests of the United States.[4] "If you allow a nation like Russia to win, to come out of this as the victor, then what does it mean for other autocratic states in the world where the U.S. has also interests?" he asked, adding: "It's important enough to talk about Ukraine on its own, but there is more at stake than just Ukraine."[4] The remarks came as Trump repeatedly said he could end the war in a day without explaining how, and as a settlement outlined by Vice President-elect [[jd-vance|JD Vance]] in September echoed what people close to the Kremlin said Putin wanted: Russia keeping captured territory and a guarantee that Ukraine would not join NATO.[4] Transition spokeswoman [[karoline-leavitt|Karoline Leavitt]] responded that Trump had been re-elected because Americans "trust him to lead our country and restore peace through strength around the world."[4]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] answered the admiral bluntly, recommending that "Admiral Bobby Bauer sit down and shut the gaping noise-hole in the middle of his face" and reminding him "who works for whom."[4] He argued that NATO was close to being tossed onto the ash heap of history and that the American people were giddy at the prospect of dismantling the bureaucratic ecosystem surrounding it, deferring to Professor [[jeffrey-sachs|Jeffrey Sachs]] and a clip of his appearance on Judge [[andrew-napolitano|Napolitano]]'s show.[4]
+
 ## References
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
 2. Badlands Brief — "Badlands News Brief: New Gotham City, Iranian Mysteries & Wars Galore", URL: https://badlands.substack.com/p/badlands-news-brief-2ad
 3. Badlands Brief — "It's Our Failed 'Resistance' and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+4. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc

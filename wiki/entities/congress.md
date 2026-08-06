@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, legislature, free-speech, antisemitism, lobbying, appropriations]
-sources: [raw/a-glaring-double-standard.md, raw/a-conflict-of-interest.md, raw/americas-greatest-threat.md, raw/bad-actors.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-708.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-e60.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-914.md]
+sources: [raw/a-glaring-double-standard.md, raw/a-conflict-of-interest.md, raw/americas-greatest-threat.md, raw/bad-actors.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-05f.md, raw/badlands-brief-169.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1c6.md, raw/badlands-brief-311.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-733.md, raw/badlands-brief-708.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-9ea.md, raw/badlands-brief-e60.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -210,6 +210,18 @@ Badlands commentary treated the letter as evidence of a deeper structural proble
 
 Separately, Congress featured in the period's news through the release of [[steve-bannon|Steve Bannon]] after four months' imprisonment for [[contempt-of-congress|contempt of Congress]] arising from his refusal to comply with subpoenas from the [[january-6-committee|House select committee]] investigating the Capitol breach.[35]
 
+## FY2026 NDAA and troop-level mandates (December 2025)
+
+In December 2025, House Republican leaders scheduled a vote on the 3,086-page fiscal year 2026 [[national-defense-authorization-act|National Defense Authorization Act]] for late Wednesday afternoon, having released the text only the preceding Sunday evening.[36] Hard-line conservatives objected publicly to the inclusion of Ukraine funding and the omission of a [[federal-reserve|Federal Reserve]] digital currency ban, while leadership touted provisions targeting diversity and equity programs in the ranks to hold the conference together on the procedural vote.[36] Badlands criticism focused on the bill's use as a vehicle for unrelated domestic policy, noting that the [[road-to-housing-act|ROAD to Housing Act]] — said to contain 28 further acts — had been folded into the defense authorization.[36]
+
+The same legislation moved to limit the [[pentagon|Pentagon]]'s ability to reduce forces abroad, requiring the retention of 76,000 troops in Europe and 28,500 in South Korea unless the department could assure Congress that reductions would not compromise security, and mandating that the Supreme Allied Commander Europe post remain held by an American general.[36] It also allocated $400 million for Ukrainian security assistance with conditions for reclaiming military equipment.[36] Badlands contributor [[chris-paul|Chris Paul]] rejected the notion that Congress possesses such power over the disposition of forces, urging readers to "mock these illegitimate usurpers at every opportunity."[36]
+
+## Senate health care divisions and blue slips (December 2025)
+
+Three days before a scheduled vote on a Democratic proposal to extend expiring Obamacare subsidies, Senate Republicans had not coalesced behind any single alternative, with leaders content to let members freelance even as Democrats and some in their own ranks complained about the absence of direction.[36] Democrats said their entire 47-member caucus would back a three-year extension, while any Republican counter-proposal appeared likely to fall short of the conference's 53 votes and expose internal divisions in a side-by-side vote.[36]
+
+Separately, President [[donald-trump|Donald Trump]] blamed Senate Republicans and the chamber's blue slip tradition — which lets home-state senators veto nominees to district courts and U.S. attorney offices — for stalled U.S. attorney nominations, after [[alina-habba|Alina Habba]] announced her resignation as New Jersey's top federal prosecutor.[36]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -246,3 +258,4 @@ Separately, Congress featured in the period's news through the release of [[stev
 33. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 34. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 35. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+36. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

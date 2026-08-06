@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, commerce, trump-administration, congress]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md]
 confidence: medium
 ---
 
@@ -69,6 +69,10 @@ In late October 2024, while serving as leader of the Trump transition team, Lutn
 
 In that reading, Lutnick's anecdotes about the actual and mass-psychological damage America suffered in 2001 marked him as a power player who understands precisely what was lost — or what was taken — and his presence in the transition suggested that [[donald-trump|Donald Trump]] not only knew who he needed in key positions entering a second administration but had always known.[11] The commentary tied this to Trump's long-standing public skepticism about the official account of 9/11, arguing that the "Trump 2.0 Revenge Tour" takes on added meaning in that light.[11]
 
+## August 1 tariff deadline (July 2025)
+
+Speaking with reporters alongside President [[donald-trump|Donald Trump]] before departing Bedminster, New Jersey on a Sunday evening in July 2025, Commerce Secretary Lutnick confirmed that countries failing to strike a trade deal with the United States by August 1 would revert to the tariff levels set in April.[12] Trump indicated that his administration could send 12 to 15 letters to different countries the following Monday, with some possibly going out as late as Tuesday or Wednesday, and later posted on Truth Social that the letters would begin going out Monday at noon.[12] Badlands contributor [[ashe-in-america|Ashe in America]] anticipated panic cycles over the letters but argued that essentially no one had looked out for the American people in prior trade deals, adding that those screaming loudest were likely those who had benefited most — "looking at you, Congress."[12]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -81,3 +85,4 @@ In that reading, Lutnick's anecdotes about the actual and mass-psychological dam
 9. Badlands Brief — "Badlands News Brief: Autopens, AI Chips, & Astrological Assertions", URL: https://badlands.substack.com/p/badlands-news-brief-4fd
 10. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 11. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+12. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a

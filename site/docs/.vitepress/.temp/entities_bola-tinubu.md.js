@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Bola Tinubu","description":"","frontmatter":{"title":"Bola Tinubu","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["nigeria","head-of-state","counterterrorism","west-africa"],"sources":["raw/badlands-brief-5a2.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/bola-tinubu.md","filePath":"entities/bola-tinubu.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/bola-tinubu.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="bola-tinubu" tabindex="-1">Bola Tinubu <a class="header-anchor" href="#bola-tinubu" aria-label="Permalink to &quot;Bola Tinubu&quot;">​</a></h1><p>Bola Tinubu is the President of <a href="/entities/nigeria">Nigeria</a>.[1]</p><h2 id="joint-counterterrorism-operation-with-the-united-states-may-2026" tabindex="-1">Joint counterterrorism operation with the United States (May 2026) <a class="header-anchor" href="#joint-counterterrorism-operation-with-the-united-states-may-2026" aria-label="Permalink to &quot;Joint counterterrorism operation with the United States (May 2026)&quot;">​</a></h2><p>In May 2026, Tinubu and U.S. President <a href="/entities/donald-trump">Donald Trump</a> both announced that the Islamic State figure <a href="/entities/abu-bilal-al-manuki">Abu-Bilal Al-Manuki</a> had been killed in northeastern Nigeria, according to Reuters.[1] Nigeria&#39;s State House said on 16 May that Nigerian and U.S. forces had carried out a joint counterterrorism operation and that early assessments confirmed Al-Manuki and several lieutenants were killed in a strike on his compound in the Lake Chad Basin.[1]</p><p>The Nigerian Army said the strike took place in Metele, Borno State, in close coordination with U.S. <a href="/entities/africom">Africa Command</a>, beginning around 12:01 a.m. and ending near 4 a.m. on Saturday with no casualties or asset losses.[1] A U.S. official speaking anonymously to the Associated Press said Al-Manuki had been involved in Islamic State organizing and finance and had been plotting attacks against the United States and its interests.[1]</p><h2 id="regional-context" tabindex="-1">Regional context <a class="header-anchor" href="#regional-context" aria-label="Permalink to &quot;Regional context&quot;">​</a></h2><p>Commentary published in the Badlands Brief situated the operation within the wider West African conflict between the <a href="/entities/alliance-of-sahel-states">Alliance of Sahel States</a> and <a href="/entities/ecowas">ECOWAS</a>, arguing that destroying such proxy groups aided Captain <a href="/entities/ibrahim-traore">Ibrahim Traoré</a> and his Sahelian allies even though mainstream coverage would frame it as U.S. alignment with ECOWAS.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Tina Peters&#39; Sentence Commuted; ISIS Killed in Africa&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-5a2" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-5a2</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/bola-tinubu.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const bolaTinubu = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  bolaTinubu as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"James Madison","description":"","frontmatter":{"title":"James Madison","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["founding-fathers","constitution","us-presidents","history"],"sources":["raw/badlands-news-brief-409.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/james-madison.md","filePath":"entities/james-madison.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/james-madison.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="james-madison" tabindex="-1">James Madison <a class="header-anchor" href="#james-madison" aria-label="Permalink to &quot;James Madison&quot;">​</a></h1><p>James Madison was a United States president and is widely regarded as the Father of the Constitution.[1] His Virginia estate, <a href="/entities/montpelier">Montpelier</a>, is operated as a historic site.[1]</p><h2 id="_2023-montpelier-exhibit-controversy" tabindex="-1">2023 Montpelier exhibit controversy <a class="header-anchor" href="#_2023-montpelier-exhibit-controversy" aria-label="Permalink to &quot;2023 Montpelier exhibit controversy&quot;">​</a></h2><p>In May 2023, Madison&#39;s legacy became the focus of a congressional oversight dispute when Reps. <a href="/entities/bob-good">Bob Good</a> (R-VA) and <a href="/entities/eli-crane">Eli Crane</a> (R-AZ) demanded answers about &quot;woke&quot; influences on exhibits at Montpelier and other historical sites.[1] The lawmakers complained that the site lacked exhibits concentrated on Madison&#39;s achievements and on the importance of the Constitution, and urged the <a href="/entities/national-trust-for-historic-preservation">National Trust for Historic Preservation</a> &quot;to focus on the true life and history of James Madison, rather than succumbing to dishonest, &#39;woke,&#39; and radical anti-American prejudices.&quot;[1]</p><p>Badlands Media commentary by <a href="/entities/ashe-in-america">Ashe in America</a> framed the episode as part of a broader rewrite of American history, noting that Madison is considered the Father of the Constitution while the site&#39;s sole constitutional exhibit reportedly presented the supreme law of the land as a &quot;pro-slavery document&quot; — a treatment she described as &quot;<a href="/concepts/critical-race-theory">CRT</a> on steroids.&quot;[1] She linked the controversy to a separate disclosure that the &quot;Chief Innovation Officer&quot; of the <a href="/entities/national-archives-and-records-administration">National Archives and Records Administration</a> had been exploring the use of artificial intelligence to eliminate &quot;inherent bias&quot; in US history.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Quid Pro Joe, Biden&#39;s Border &amp; Train Track Conspiracies&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-409" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-409</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/james-madison.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jamesMadison = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jamesMadison as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense, trump-administration, pentagon, industrial-base]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-52f.md, raw/badlands-brief-5ba.md, raw/badlands-brief-67a.md, raw/badlands-brief-686.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-d17.md, raw/badlands-brief-e8d.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-763.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -140,6 +140,19 @@ Separately, Hegseth was reported to have circulated a memo — first reported by
 
 On December 4, 2025, the Pentagon inspector general released its long-awaited report on Hegseth's role in the Signalgate affair.[28] Investigators concluded that his use of the Signal messaging app to send updates about strikes in Yemen broke rules for handling sensitive information and risked putting troops in danger, even though he has the power to declassify such information as he sees fit.[28] Reporting on the release listed six takeaways: that he broke the rules, kept a very tight circle, offered up incomplete records, produced findings open to interpretation, failed to satisfy Democrats, and had changed his tune; analysts judged that nothing in it would doom Trump's most embattled Cabinet chief, though it could complicate his political future.[28]
 
+## January 2025 Senate confirmation hearing
+
+On January 14, 2025, Hegseth emerged from a tense Senate Armed Services Committee confirmation hearing with the support of the Republican Party intact, following weeks of scrutiny over his fitness and qualifications to lead the [[pentagon|Pentagon]]; a vote of the full [[united-states-senate|Senate]] was expected as soon as the following week.[29] In a hearing that stretched more than four hours, Democrats pressed Hegseth on numerous allegations of misconduct, his views about women in combat, and his ability to lead a department with three million employees and an $849 billion budget.[29] Hegseth claimed to have been the victim of a "smear campaign" focused on an accusation of sexual assault and episodes of drinking to excess, repeatedly answering senators' questions with the phrase "anonymous smears."[29]
+
+Senator [[joni-ernst|Joni Ernst]] of Iowa, a veteran and sexual assault survivor widely seen as critical to his confirmation chances, appeared satisfied with his responses on the role of women in the military and sexual assault prevention, and devoted much of her questioning to shared agreement that the Pentagon should be audited.[29]
+
+[[badlands-media|Badlands Media]] carried special live coverage of the hearing.[29] [[ashe-in-america|Ashe in America]] wrote that the misconduct allegations "were all they had," that the nearly five-hour hearing produced no surprises or shocking revelations, and predicted flatly that Hegseth would be confirmed.[29] [[jon-herold|Jon Herold]] dismissed the proceedings as a "shiny object," arguing that Uniparty Republicans use such hearings to present themselves as MAGA defenders despite having turned on [[donald-trump|Trump]] after 2020.[29]
+
+## Firing of the Navy chief of staff
+
+On Friday, October 3, 2025, Hegseth reportedly fired [[jon-harrison|Jon Harrison]], chief of staff to the Secretary of the Navy, who had helped carry out a reshuffle of the service's bureaucracy.[30] The [[pentagon|Pentagon]] gave no reason, telling Politico only that Harrison "will no longer serve as Chief of Staff to the Secretary of the Navy" and that "we are grateful for his service to the Department."[30] The dismissal followed administration warnings of major trimming of the federal government during the [[october-2025-government-shutdown|October 2025 government shutdown]] and came the same week the [[us-senate|Senate]] confirmed Navy Undersecretary Hung Cao.[30]
+
+
 ## References
 
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
@@ -170,3 +183,5 @@ On December 4, 2025, the Pentagon inspector general released its long-awaited re
 26. Badlands Brief — "Corruption Within Corruption & A Offer of Free Elections", URL: https://badlands.substack.com/p/badlands-news-brief-7e8
 27. Badlands Brief — "Badlands News Brief: Saudi Scoops, Slender Stabbers, & Scorned Scouts", URL: https://badlands.substack.com/p/badlands-news-brief-824
 28. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+29. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+30. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

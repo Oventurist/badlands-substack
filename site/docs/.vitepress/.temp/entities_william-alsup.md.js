@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"William Alsup","description":"","frontmatter":{"title":"William Alsup","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["judiciary","federal-courts","civil-service","trump-administration"],"sources":["raw/badlands-news-brief-373.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/william-alsup.md","filePath":"entities/william-alsup.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/william-alsup.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="william-alsup" tabindex="-1">William Alsup <a class="header-anchor" href="#william-alsup" aria-label="Permalink to &quot;William Alsup&quot;">​</a></h1><p>William Alsup is a United States District Judge in San Francisco who, in March 2025, ordered the second <a href="/entities/donald-trump">Trump</a> administration to reinstate thousands of probationary federal workers dismissed in mass firings across six agencies, including the Department of Defense.[1]</p><h2 id="probationary-worker-ruling" tabindex="-1">Probationary worker ruling <a class="header-anchor" href="#probationary-worker-ruling" aria-label="Permalink to &quot;Probationary worker ruling&quot;">​</a></h2><p>Alsup issued the order on Thursday, March 13, 2025, during a federal court hearing on a lawsuit brought by labor unions and other groups challenging mass terminations directed by the <a href="/entities/office-of-personnel-management">Office of Personnel Management</a>.[1] The plaintiffs argued that the terminations violated the requirements of the <a href="/concepts/administrative-procedure-act">Administrative Procedure Act</a> as well as congressional statutes governing agency hiring and firing practices.[1] The administration was expected to appeal.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ashe-in-america">Ashe in America</a> welcomed the litigation on the grounds that adverse rulings fast-track major separation-of-powers questions to the <a href="/entities/supreme-court-of-the-united-states">Supreme Court</a>, and cited attorney <a href="/entities/mike-davis">Mike Davis</a>&#39;s argument that under Article II of the Constitution the president may fire any executive branch worker at any time for any reason, just as members of Congress and federal judges may dismiss their own staff under Articles I and III.[1] She argued that the plaintiffs&#39; theory amounted to asserting that the president&#39;s constitutional authorities violate the APA, and predicted the courts would ultimately uphold Trump&#39;s Article II powers.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Shutdown Show Down &amp; British Spies for Palestine&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-373" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-373</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/william-alsup.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const williamAlsup = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  williamAlsup as default
+};

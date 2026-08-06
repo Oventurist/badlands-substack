@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"REPO Act","description":"","frontmatter":{"title":"REPO Act","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["russia","ukraine","sanctions","sovereign-assets","congress","treasury"],"sources":["raw/badlands-news-brief-0d4.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/repo-act.md","filePath":"concepts/repo-act.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/repo-act.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="repo-act" tabindex="-1">REPO Act <a class="header-anchor" href="#repo-act" aria-label="Permalink to &quot;REPO Act&quot;">​</a></h1><p>The REPO Act (H.R.4175) is United States legislation authorizing the confiscation of Russian sovereign assets and their transfer toward Ukrainian reconstruction.[1] It was included in the foreign aid package the House voted to pass, which will deliver over $60 billion to Ukraine, and its passage paves the way for the administration of <a href="/entities/joe-biden">joe-biden</a> to confiscate billions in Russian sovereign assets held in US banks.[1]</p><h2 id="provisions" tabindex="-1">Provisions <a class="header-anchor" href="#provisions" aria-label="Permalink to &quot;Provisions&quot;">​</a></h2><p>A summary of the bill on the Congressional website reads: &quot;This bill requires or authorizes various actions related to the confiscation and disposition of Russian sovereign assets (which include funds and other property of Russia&#39;s central bank, direct investment fund, or ministry of finance).&quot;[1] Under the bill, the President must require US financial institutions to notify the <a href="/entities/us-department-of-the-treasury">Department of the Treasury</a> of any Russian sovereign assets located at such institutions, and the President may confiscate any such assets subject to US jurisdiction.[1] Confiscated funds and the proceeds of liquidated property must be deposited into a Ukraine Support Fund established by the bill.[1]</p><h2 id="international-context" tabindex="-1">International context <a class="header-anchor" href="#international-context" aria-label="Permalink to &quot;International context&quot;">​</a></h2><p>The US administration has pursued a controversial plan to transfer frozen Russian assets to Ukraine for reconstruction and has aggressively lobbied G7 countries to join, a significant point given that most of the roughly $300 billion in Russian assets are held in Europe — particularly in France, Germany, and Belgium.[1] The measure was reported by <a href="/entities/zerohedge">zerohedge</a> and carried in the <a href="/concepts/badlands-news-brief">badlands-news-brief</a> as a bonus item.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Kangaroo Courts and Administrative Pedophiles&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-0d4" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-0d4</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/repo-act.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const repoAct = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  repoAct as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican, vice-president, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-6b4.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-861.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-abf.md, raw/badlands-brief-a84.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-914.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-6b4.md, raw/badlands-brief-739.md, raw/badlands-brief-708.md, raw/badlands-brief-861.md, raw/badlands-brief-8c2.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-brief-abf.md, raw/badlands-brief-a84.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -228,6 +228,12 @@ In the closing days of the 2024 campaign, Vance's spokesperson confirmed that th
 
 Though it would be his first appearance on Rogan's show, Vance had appeared on dozens of podcasts since joining the Republican ticket, including two separate recordings the previous week — with Theo Von and Tim Dillon — totaling nearly four hours of content.[41] Trump's own three-hour appearance had spanned the war in Ukraine, his health and whether there is life on Mars, and also gave a venue to his claims of a "stolen" 2020 election.[41]
 
+## Publication of hacked vetting dossier (2024)
+
+In September 2024, blogger [[ken-klippenstein|Ken Klippenstein]] published on his Substack an internal Republican campaign vetting dossier on Vance that was believed to have been obtained by hackers working for Iran.[42] The 271-page document included Vance's Social Security number, personal phone number, physical addresses and private email addresses, which critics said constituted a potential threat to the candidate and his family; The National Pulse declined to link to the material because of the volume of personal information it contained.[42] Klippenstein had previously worked with The Intercept and the commentary program The Young Turks.[42]
+
+The dossier itself was described as typical of campaign vetting products, raising concerns about Vance's past policy positions and statements — including his early opposition to [[donald-trump|Donald Trump]]'s 2016 campaign and questions about his conservative bona fides — and weighing how they might affect the ticket.[42] Reviewers noted that the document portrayed Vance as considerably less radical than national Democrats and the Kamala Harris campaign had suggested, presenting him as thoughtful and open to a wide range of policy positions.[42]
+
 ## References
 
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -271,3 +277,4 @@ Though it would be his first appearance on Rogan's show, Vance had appeared on d
 39. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 40. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 41. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+42. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

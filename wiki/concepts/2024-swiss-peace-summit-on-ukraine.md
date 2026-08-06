@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, switzerland, diplomacy, russia, 2024]
-sources: [raw/badlands-news-brief-67e.md]
+sources: [raw/badlands-news-brief-67e.md, raw/badlands-news-brief-995.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ The most prominent absentee identified was Indian Prime Minister [[narendra-modi
 
 Writing for Badlands, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] treated the Swiss conference and the G7 summit as twin humiliations inflicted on the "Globalist Empire" by what he called the [[sovereign-alliance|Sovereign Alliance]] in a single week.[1] He noted that [[mohammed-bin-salman|Mohammed bin Salman]] and the 57-nation Ummah had adopted the same position and planned to host their own peace conference in the fall that would include Russia, China, Brazil, and India.[1]
 
+## Run-up and EU salvage effort
+
+Weeks before the summit, EU foreign affairs ministers met to discuss how to find a "face-saving outcome" for the gathering, then set for June 15–16, 2024 in Switzerland.[2] [[bloomberg|Bloomberg]] reported that U.S. President [[joe-biden|Joe Biden]] planned to skip the conference in favor of a Hollywood fundraiser, while China and Brazil advanced a rival peace initiative; Brazil and India floated sending only junior officials and Beijing was expected to send at most a senior civil servant.[2] For the EU, the key question was how to progress from the June conference to a possible follow-on meeting in Saudi Arabia in the autumn that would include Russia.[2] Moscow, excluded from the summit, actively worked to discourage key powers from attending, while [[volodymyr-zelensky|Zelensky]] implored leaders to come.[2]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized the event as "a limited hangout" hosted by "the cult of Davos," pointing to its venue at the Bürgenstock resort, where the [[world-economic-forum|World Economic Forum]]'s 2021 conference had been held.[2] He noted that Chinese Foreign Minister [[wang-yi|Wang Yi]] had already declared in a joint statement with Brazil that neither country would attend because Russia was excluded, and mocked the Biden administration for issuing contradictory messaging that Biden would and would not attend owing to a conflicting George Clooney and Julia Roberts fundraiser.[2] He argued that 80-plus countries would gather without the three major world powers to discuss a plan that had been described as "humiliating" when Zelensky first presented it at the 2022 G20 summit, and predicted that the "real" peace conference would be the Saudi-hosted autumn gathering attended by the [[sovereign-alliance|Sovereign Alliance]].[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
+2. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995

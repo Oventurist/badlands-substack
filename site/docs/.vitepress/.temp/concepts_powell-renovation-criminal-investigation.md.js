@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Powell Renovation Criminal Investigation","description":"","frontmatter":{"title":"Powell Renovation Criminal Investigation","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["federal-reserve","doj","grand-jury","monetary-policy"],"sources":["raw/badlands-brief-b74.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/powell-renovation-criminal-investigation.md","filePath":"concepts/powell-renovation-criminal-investigation.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/powell-renovation-criminal-investigation.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="powell-renovation-criminal-investigation" tabindex="-1">Powell Renovation Criminal Investigation <a class="header-anchor" href="#powell-renovation-criminal-investigation" aria-label="Permalink to &quot;Powell Renovation Criminal Investigation&quot;">​</a></h1><p>The Powell renovation criminal investigation is the <a href="/entities/department-of-justice">Department of Justice</a> probe opened in early 2026 into <a href="/entities/federal-reserve">Federal Reserve</a> Chair <a href="/entities/jerome-powell">Jerome Powell</a> over claims that he misled <a href="/entities/congress">Congress</a> about a $2.5 billion renovation of the Fed&#39;s headquarters.[1]</p><h2 id="grand-jury-subpoenas" tabindex="-1">Grand jury subpoenas <a class="header-anchor" href="#grand-jury-subpoenas" aria-label="Permalink to &quot;Grand jury subpoenas&quot;">​</a></h2><p>The Justice Department issued grand jury subpoenas in connection with the allegations, escalating what had previously been a political dispute over the cost and scope of the headquarters project into a criminal matter.[1] Powell characterized the probe as politically motivated pressure on monetary policy and vowed to resist it.[1]</p><h2 id="context" tabindex="-1">Context <a class="header-anchor" href="#context" aria-label="Permalink to &quot;Context&quot;">​</a></h2><p>Badlands presented the investigation alongside Treasury Secretary <a href="/entities/scott-bessent">Scott Bessent</a>&#39;s probes into dark-money NGOs and the wider anti-cartel campaign as elements of a single convergent enforcement posture by the <a href="/entities/trump-administration">Trump administration</a> against entrenched institutional actors.[1] Bessent, in the same period, said 5–10% of the federal budget is lost annually to fraud and improper payments and framed his own waste-elimination work — including a new whistleblower program — as continuing the mission of <a href="/entities/doge">DOGE</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Epsteinian Stalling, Cartel Convergence &amp; Pirates of the Carib-Iran&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-b74" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-b74</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/powell-renovation-criminal-investigation.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const powellRenovationCriminalInvestigation = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  powellRenovationCriminalInvestigation as default
+};

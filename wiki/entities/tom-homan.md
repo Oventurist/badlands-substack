@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, trump-administration, border]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-733.md, raw/badlands-brief-db7.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-9bc.md]
 confidence: medium
 ---
 
@@ -60,6 +60,16 @@ Badlands writer [[burning-bright|Burning Bright]] read the remarks as a delibera
 
 In February 2025 Homan, serving as President [[donald-trump|Donald Trump]]'s border czar, said he had referred New York Representative [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] to the [[department-of-justice|Justice Department]] after her office delivered a presentation giving illegal migrants tips on how to avoid U.S. Immigration and Customs Enforcement.[9] "Is she crossing the line?" Homan asked during a Fox News Channel interview on Thursday evening. "So I'm working with the Department of Justice and finding out, where is that line that they crossed? … I'm not a prosecutor, but we need some further guidance on that."[9] He said he made the referral to the agency's deputy attorney general.[9]
 
+## Appointment as border czar (November 2024)
+
+Shortly before midnight on November 10, 2024, President-elect [[donald-trump|Donald Trump]] posted on [[truth-social|Truth Social]] that he had named Homan — the former acting director of [[immigration-and-customs-enforcement|Immigration and Customs Enforcement]] and an advocate of Trump's mass deportation plans — as his border czar, a move CNN compared to the late-night drama of Trump's first term.[10] In a recent CBS [[60-minutes|"60 Minutes"]] interview Homan had argued that "families could be deported together" while ruling out mass sweeps of neighborhoods or "concentration camps."[10] CNN reported that the selection was likely to bolster the concerns of Trump's opponents about his hardline intentions, though the president-elect had made no secret of his plans on the campaign trail.[10]
+
+Speaking to "Fox & Friends" host Steve Doocy on November 11, 2024, Homan said the incoming administration would increase worksite raids to address labor and sex trafficking nationwide: "Where do we find most victims of sex trafficking and forced labor trafficking? At worksites."[10] He said Trump's top priority would be national security, and ZeroHedge tied the trafficking crisis to what it described as the open southern border policies of the Biden–Harris administration and to more than ten million unvetted illegal aliens in the country.[10]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] noted that while the public square argued about [[recess-appointments|recess appointments]] and efforts to obstruct the incoming president's agenda, Trump was moving quickly to place personnel ready to execute on day one.[10] She highlighted a Breitbart report that Homan, working within the [[white-house|White House]], would have political rather than legal authority to push the Secretary of DHS and ICE to enforce immigration law and would not require Senate confirmation.[10] She characterized him as treating congressional Democrats with the level of respect she believed they deserved and as eager to secure the border and prosecute child sex trafficking, including the demand side, quoting his line, "I'm so pissed off, sir, I'll come back for free."[10]
+
+Badlands writer [[burning-bright|Burning Bright]] grouped Homan — the "Real Border Czar" — with [[kash-patel|Kash Patel]], [[stephen-miller|Stephen Miller]], [[mike-waltz|Mike Waltz]] and [[susie-wiles|Susie Wiles]] as the "lesser" names in the second Trump administration that meant little to normies but a great deal to the Truth Community and to the Deep State.[10]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -71,3 +81,4 @@ In February 2025 Homan, serving as President [[donald-trump|Donald Trump]]'s bor
 7. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 8. Badlands News Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 9. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
+10. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc

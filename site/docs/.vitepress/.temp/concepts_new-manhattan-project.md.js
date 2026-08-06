@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"New Manhattan Project","description":"","frontmatter":{"title":"New Manhattan Project","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["nuclear","energy","narrative","trump","artificial-intelligence"],"sources":["raw/badlands-brief-a20.md"],"confidence":"low"},"headers":[],"relativePath":"concepts/new-manhattan-project.md","filePath":"concepts/new-manhattan-project.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/new-manhattan-project.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="new-manhattan-project" tabindex="-1">New Manhattan Project <a class="header-anchor" href="#new-manhattan-project" aria-label="Permalink to &quot;New Manhattan Project&quot;">​</a></h1><p>The &quot;New Manhattan Project&quot; is a phrase used by President <a href="/entities/donald-trump">Donald Trump</a> and interpreted in Badlands commentary as shorthand for a national mobilization around nuclear energy to power the artificial intelligence era.[1]</p><h2 id="badlands-interpretation" tabindex="-1">Badlands interpretation <a class="header-anchor" href="#badlands-interpretation" aria-label="Permalink to &quot;Badlands interpretation&quot;">​</a></h2><p>Badlands writer <a href="/entities/burning-bright">Burning Bright</a> argued that Trump&#39;s Davos confirmation of an American nuclear pivot vindicated a theory he had developed over several years: that the &quot;Nuclear Nightmare&quot; was an engineered <a href="/concepts/hegelian-dialectic">Hegelian</a> narrative designed to move the United States off the future both Eisenhower and Kennedy envisioned.[1] On this reading, Trump&#39;s habit of calling nuclear &quot;the N word&quot; reflects his understanding that the original Manhattan Project was a narrative deployment rather than an actual one — hence the need for what Trump describes as a New Manhattan Project.[1]</p><p>Burning Bright held that nuclear power has the literal capacity to accelerate the transition to the <a href="/concepts/global-golden-age">Golden Age</a>, which is why establishment institutions pivoted from demonizing nuclear energy to demonizing the <a href="/concepts/artificial-intelligence">artificial intelligence</a> it will power — a shift he saw in <a href="/entities/larry-fink">Larry Fink</a>&#39;s Davos warning on behalf of <a href="/entities/blackrock">BlackRock</a>.[1] Anyone who has accepted the &quot;AI is going to destroy us all&quot; narrative, he wrote, &quot;has been played by the exact same deployment as your grandparents.&quot;[1] <a href="/entities/ashe-in-america">Ashe in America</a> concurred, noting the parallel fear structures of the nuclear arms race and AI risk discourse.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Prosecutions for Democracy &amp; Double-Hatted Peace Panelists&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-a20" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-a20</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/new-manhattan-project.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const newManhattanProject = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  newManhattanProject as default
+};

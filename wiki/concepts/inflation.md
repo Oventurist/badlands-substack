@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, federal-reserve, ponzi-scheme, economics]
-sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md]
 confidence: medium
 ---
 
@@ -32,6 +32,15 @@ Carlson observes that the [[deep-state|Deep State]] does not seriously accuse Tr
 
 Returning to the theme in April 2024, Carlson called inflation "the biggest tax of all" — the tax that comes from the [[federal-reserve|Federal Reserve]] printing money out of nothing, backed by nothing, diluting the purchasing power of money already in circulation.[[2]](https://badlands.substack.com/p/americas-greatest-threat) He assumed that real inflation since [[joe-biden|Joe Biden]] took office was far higher than reported, possibly topping out near 30% cumulatively, which he averaged to about 10% a year for the purpose of estimating how little of a dollar survives taxation.[[2]](https://badlands.substack.com/p/americas-greatest-threat) Because the government can print money whenever it wishes, he argued, it does not need tax revenue at all and can simply pass the resulting inflation on to the public.[[2]](https://badlands.substack.com/p/americas-greatest-threat)
 
+## April 2024 CPI print
+
+The Consumer Price Index report released on Wednesday, April 10, 2024 followed three previous red-hot inflation prints and delivered a fourth consecutive "inflation beat," with supercore inflation running especially hot and every single CPI metric coming in above expectations.[3] Market commentary had anticipated a "miss" — the first of 2024 — not because the data warranted it but because a dovish print would have been the last opportunity for the [[federal-reserve|Federal Reserve]] to set a rate-cut timetable ahead of the November election.[3]
+
+Bloomberg's Chris Antsey wrote that the print was "obviously... very bad news for Joe Biden," noting that the economy was approaching the point where high inflation would still be in voters' minds at the polls regardless of how price figures moved over the summer.[3] His colleague Enda Curran summarised that the data carried both economic and political implications, with poll after poll finding voters "grumpy on the economy."[3]
+
+[[joe-biden|Joe Biden]] issued a statement calling the fight against inflation his "top economic priority" and citing wages rising faster than prices, incomes higher than before the pandemic, and unemployment below four percent for the longest stretch in fifty years.[3] Badlands contributor [[ashe-in-america|Ashe in America]] mocked the framing, observing that anyone managing a household budget could already confirm the metric and that the regime feigns surprise at obvious truths.[3]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
+3. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959

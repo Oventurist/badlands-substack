@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, florida, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -69,7 +69,12 @@ In May 2024, Special Counsel [[jack-smith|Jack Smith]]'s team filed a submission
 
 On January 16, 2024, [[donald-trump|Donald Trump]]'s legal team filed a motion asking Cannon to compel special counsel [[jack-smith|Jack Smith]]'s team to turn over a trove of documents related to the classified documents prosecution, in which Trump faces dozens of felony charges over the retention of classified material at Mar-a-Lago and alleged obstruction of efforts to retrieve it.[11] Smith's office opposed the motion two days later while stating that the government "supports full transparency of the record consistent with witness safety, national security, and the Court's protective order," identifying six exhibits to remain sealed and 22 releasable subject to redactions.[11] Trump's lawyers replied that the special counsel had made no effort to substantiate its vague invocations of witness safety and national security, and a coalition of news media organizations separately moved to have Cannon's court verify that the proposed redactions and withholdings were necessary.[11]
 
+## Amicus briefs on dismissal (March 2024)
+
+On Thursday, March 7, 2024, Cannon accepted two amicus briefs — filed by the [[america-first-legal|America First Legal Foundation]] and by former President Ronald Reagan's Attorney General [[edwin-meese-iii|Edwin Meese]] — arguing that the federal classified documents case against [[donald-trump|Donald Trump]], in which he pleaded not guilty to 40 charges, should be thrown out.[12] Amicus briefs are submitted by people not directly involved in a case who wish to offer their view on the issues at stake.[12] In her filings Cannon wrote that the arguments "may be of considerable help" to her, a phrase that prompted legal experts to debate whether she was leaning toward dismissing the case.[12] Newsweek noted that Cannon, who was nominated to the bench by Trump, had been criticized for multiple rulings that favored the former president in the documents matter.[12]
+
 ## References
+
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 3. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
@@ -81,3 +86,4 @@ On January 16, 2024, [[donald-trump|Donald Trump]]'s legal team filed a motion a
 9. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 10. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
 11. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+12. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

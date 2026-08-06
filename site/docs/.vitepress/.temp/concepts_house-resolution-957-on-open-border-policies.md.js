@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"House Resolution 957 on Open-Border Policies","description":"","frontmatter":{"title":"House Resolution 957 on Open-Border Policies","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["immigration","border","congress","house-resolution",2024],"sources":["raw/badlands-news-brief-2b8.md"],"confidence":"high"},"headers":[],"relativePath":"concepts/house-resolution-957-on-open-border-policies.md","filePath":"concepts/house-resolution-957-on-open-border-policies.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/house-resolution-957-on-open-border-policies.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="house-resolution-957-on-open-border-policies" tabindex="-1">House Resolution 957 on Open-Border Policies <a class="header-anchor" href="#house-resolution-957-on-open-border-policies" aria-label="Permalink to &quot;House Resolution 957 on Open-Border Policies&quot;">​</a></h1><p>House Resolution 957 was a GOP-led measure denouncing President <a href="/entities/joe-biden">Joe Biden</a>&#39;s &quot;open-border policies,&quot; which passed the House of Representatives on Wednesday, January 17, 2024, in a 225–187 vote with all Republicans in support and fourteen Democrats crossing party lines.[1]</p><h2 id="content-and-vote" tabindex="-1">Content and vote <a class="header-anchor" href="#content-and-vote" aria-label="Permalink to &quot;Content and vote&quot;">​</a></h2><p>The resolution denounced the administration&#39;s border policies and urged Biden to &quot;end his administration&#39;s open-border policies.&quot; Its passage delivered a rare legislative rebuke to the leader of the Democratic Party on the politically fraught matter of immigration and border policy.[1]</p><p>Democratic &quot;yes&quot; votes came from Reps. Colin Allred (Texas), Yadira Caraveo (Colo.), <a href="/entities/angie-craig">Angie Craig</a> (Minn.), Henry Cuellar (Texas), Don Davis (N.C.), Jared Golden (Maine), Vicente Gonzalez (Texas), Greg Landsman (Ohio), Susie Lee (Nevada), Jared Moskowitz (Fla.), Wiley Nickel (N.C.), Mary Peltola (Alaska), Marie Gluesenkamp Perez (Wash.), and Eric Sorensen (Ill.).[1]</p><h2 id="reaction" tabindex="-1">Reaction <a class="header-anchor" href="#reaction" aria-label="Permalink to &quot;Reaction&quot;">​</a></h2><p>Explaining his vote, Golden said that &quot;most of us understand that nations need borders, those borders should be secured, and we should enforce the immigration laws on the books,&quot; adding that &quot;most of us also understand that those seeking entry to our country deserve an orderly and predictable immigration process. Right now we have problems on both fronts.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-2b8" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-2b8</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/house-resolution-957-on-open-border-policies.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const houseResolution957OnOpenBorderPolicies = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  houseResolution957OnOpenBorderPolicies as default
+};

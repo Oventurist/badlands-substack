@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, finance, greater-israel, lebanon, syria]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-143.md, raw/badlands-brief-144.md, raw/badlands-brief-311.md, raw/badlands-brief-285.md, raw/badlands-brief-50d.md, raw/badlands-brief-625.md, raw/badlands-brief-708.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-93e.md]
 confidence: medium
 ---
 
@@ -131,6 +131,10 @@ After the Israeli Cabinet approved plans in May 2025 to seize the [[gaza|Gaza St
 
 On July 22, 2025, Smotrich endorsed a "security annexation" of the northern Gaza Strip and said Gaza would become an "inseparable part of the State of Israel."[23] He made the remarks at the [[gaza-riviera-conference|"Gaza Riviera – from vision to reality"]] conference in the [[knesset|Knesset]], at which participants presented plans for reestablishing Jewish settlements in the Gaza Strip.[23] Smotrich, who also serves as a minister in the Defense Ministry, claimed that [[israel-defense-forces|IDF]] Chief of Staff [[eyal-zamir|Eyal Zamir]] favored the idea, and proposed beginning "with the northern border [area of the Strip] and establish three communities there."[23] Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described him as one of "the wicked Pharisees who have returned to power in the Holy Land."[23]
 
+## January 2025 threat to collapse the coalition
+
+As negotiations approached over the second phase of the Israel-Hamas hostage deal in late January 2025, Smotrich, [[benjamin-netanyahu|Benjamin Netanyahu]]'s finance minister, came under pressure from hardliners in his [[religious-zionism-party|Religious Zionism]] party and from the Israeli settler movement to resign from the government, a step that would collapse Netanyahu's coalition and force new elections.[24] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] reported that Smotrich had threatened Netanyahu with following through if the Phase Two exchange was upheld and the war was not resumed, a threat President [[donald-trump|Donald Trump]] was said to be well aware of when he dispatched envoy [[steve-witkoff|Steve Witkoff]] to [[saudi-arabia|Saudi Arabia]].[24]
+
 ## References
 1. Badlands Brief — "Time is on Trump's Side ... But Which Regime is he Fighting?", URL: https://badlands.substack.com/p/badlands-brief-0fb
 2. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
@@ -155,3 +159,4 @@ On July 22, 2025, Smotrich endorsed a "security annexation" of the northern Gaza
 21. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 22. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 23. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
+24. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e

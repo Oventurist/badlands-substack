@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [citizenship, fourteenth-amendment, immigration, scotus, constitutional-law]
-sources: [raw/badlands-brief-686.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-58e.md]
+sources: [raw/badlands-brief-686.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-98c.md]
 confidence: medium
 ---
 
@@ -52,3 +52,12 @@ Badlands commentary welcomed the prospect of the case returning to the [[supreme
 3. Badlands Media — "Badlands News Brief: Nuclear Negotiations, Ethics Probes, & American iPhones", URL: https://badlands.substack.com/p/badlands-news-brief-2d5
 4. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 5. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
+
+## Trump's May 2023 campaign pledge
+
+On May 30, 2023, [[donald-trump|Donald Trump]] released a campaign video renewing an earlier promise to end birthright citizenship for the children of illegal immigrants — whom he called "anchor babies," describing the practice as "birth tourism" — and said he would do so by executive order on day one of a new term.[6] In the ad Trump said he would "sign an executive order making clear to federal agencies that under the correct interpretation of the law going forward the future children of illegal aliens will not receive automatic U.S. citizenship."[6]
+
+The conservative outlet Red State criticised the pledge, arguing that American citizenship is a constitutional question rooted in the Fourteenth Amendment and therefore outside the president's unilateral authority, and that the children in question would themselves become tax-paying citizens with rights; its columnist quipped that Trump was running on "Making Americans Not Americans, Again."[6]
+
+Badlands contributor [[johnny-q|Johnny Q]] disputed that framing, writing that Trump was identifying a longstanding problem of people entering the country to give birth and then drawing on public benefits, and that comparisons to Dred Scott and slavery were inapt.[6] He asked what became of citizens' unalienable rights and why Americans must "take a back seat constantly in the name of woke excuses," agreed that immigration reform should create a clear legal path for people who want to work and pay taxes, and argued that Ronald Reagan, George H. W. Bush and Bill Clinton had all been quiet proponents of illegal immigration because it benefited entrenched government interests.[6]
+6. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Avril Haines","description":"","frontmatter":{"title":"Avril Haines","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["intelligence","surveillance","odni","biden-administration"],"sources":["raw/badlands-news-brief-7a7.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/avril-haines.md","filePath":"entities/avril-haines.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/avril-haines.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="avril-haines" tabindex="-1">Avril Haines <a class="header-anchor" href="#avril-haines" aria-label="Permalink to &quot;Avril Haines&quot;">​</a></h1><p>Avril Haines is the Director of National Intelligence, the official who leads the <a href="/entities/office-of-the-director-of-national-intelligence">Office of the Director of National Intelligence</a> and coordinates the constituent agencies of the United States intelligence community.[1]</p><h2 id="commercially-available-information-review" tabindex="-1">Commercially available information review <a class="header-anchor" href="#commercially-available-information-review" aria-label="Permalink to &quot;Commercially available information review&quot;">​</a></h2><p>In late 2021, Haines tasked a panel of senior advisers with untangling what was described as a web of secretive business arrangements between commercial data brokers and members of the US intelligence community.[1] More than a year before the panel&#39;s findings became public, those advisers informed Haines that the United States government had been secretly amassing a &quot;large amount&quot; of &quot;sensitive and intimate information&quot; on its own citizens.[1]</p><p>The resulting report — declassified in June 2023 and first reported by Wired — described soberly and at length the size and scope of the government effort to accumulate data revealing the minute details of Americans&#39; lives, and was authored by the director&#39;s own panel of experts rather than outside critics.[1] Privacy advocates characterized the findings as a &quot;nightmare scenario,&quot; and attorney Sean Vitka of the nonprofit Demand Progress said the report revealed &quot;what we feared most,&quot; accusing intelligence agencies of flouting the law by buying information about Americans that Congress and the Supreme Court had made clear the government should not possess.[1]</p><p>Because the review was commissioned by Haines herself, coverage in alternative media treated the disclosure as an unusual instance of the intelligence apparatus documenting its own circumvention of privacy protections through what the report called &quot;craven interpretations of aging laws.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Trump Defiant, Biden Protected &amp; Woke Worn&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-7a7" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-7a7</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/avril-haines.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const avrilHaines = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  avrilHaines as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Jeremy Corbyn","description":"","frontmatter":{"title":"Jeremy Corbyn","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["uk-politics","labour-party","foreign-interference","new-york-city","socialism"],"sources":["raw/badlands-news-brief-448.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/jeremy-corbyn.md","filePath":"entities/jeremy-corbyn.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/jeremy-corbyn.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="jeremy-corbyn" tabindex="-1">Jeremy Corbyn <a class="header-anchor" href="#jeremy-corbyn" aria-label="Permalink to &quot;Jeremy Corbyn&quot;">​</a></h1><p>Jeremy Corbyn is a British politician, a former leader of the Labour Party, and a sitting Member of Parliament in the British House of Commons. He is described as the figurehead of the pro-Gaza &quot;Your Party&quot; faction within the Commons, and is characterized in Badlands coverage as a figure of the far left of British politics.[1]</p><h2 id="involvement-in-the-2025-new-york-city-mayoral-race" tabindex="-1">Involvement in the 2025 New York City mayoral race <a class="header-anchor" href="#involvement-in-the-2025-new-york-city-mayoral-race" aria-label="Permalink to &quot;Involvement in the 2025 New York City mayoral race&quot;">​</a></h2><p>Corbyn drew attention in the United States in November 2025 when he joined a phone-banking session on November 2 in support of <a href="/entities/zohran-mamdani">Zohran Mamdani</a>, the Democratic candidate in the <a href="/concepts/new-york-city-mayoral-election-2025">New York City mayoral election</a> held on November 4. The event was organized by the New York City chapter of the <a href="/entities/democratic-socialists-of-america">Democratic Socialists of America</a> using the Action Network platform.[1]</p><p>Corbyn&#39;s participation prompted the <a href="/entities/department-of-justice">U.S. Department of Justice</a> to review concerns about possible foreign interference in the campaign. Under U.S. federal law, foreign nationals are prohibited from contributing money to campaigns or engaging in campaign decision-making, though <a href="/entities/federal-election-commission">Federal Election Commission</a> guidelines permit unpaid volunteer work in limited circumstances. Legal experts quoted in reporting on the episode said Corbyn&#39;s participation likely did not violate federal law, and the Justice Department had not opened a formal investigation.[1]</p><p>Commentators framed the incident less as a clear legal violation than as an illustration of how organizations such as the Democratic Socialists of America blur the line between domestic political organizing and international collaboration.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Victim Cards, Foreign Inference, &amp; Chessboard Stans&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-448" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-448</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/jeremy-corbyn.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jeremyCorbyn = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jeremyCorbyn as default
+};

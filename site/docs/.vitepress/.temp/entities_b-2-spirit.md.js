@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"B-2 Spirit","description":"","frontmatter":{"title":"B-2 Spirit","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["air-force","stealth","iran","operation-midnight-hammer","deterrence"],"sources":["raw/badlands-news-brief-899.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/b-2-spirit.md","filePath":"entities/b-2-spirit.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/b-2-spirit.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="b-2-spirit" tabindex="-1">B-2 Spirit <a class="header-anchor" href="#b-2-spirit" aria-label="Permalink to &quot;B-2 Spirit&quot;">​</a></h1><p>The B-2 Spirit is the U.S. Air Force&#39;s batwing-shaped stealth bomber, a roughly $2 billion aircraft whose cramped but meticulously engineered cockpit can serve as home to a two-person crew for up to 40 hours during ultra-long-range missions.[1]</p><h2 id="role-in-operation-midnight-hammer" tabindex="-1">Role in Operation Midnight Hammer <a class="header-anchor" href="#role-in-operation-midnight-hammer" aria-label="Permalink to &quot;Role in Operation Midnight Hammer&quot;">​</a></h2><p>Seven of the Air Force&#39;s 19 B-2 bombers flew from Whiteman Air Force Base in Missouri to Iran and back in the June 2025 strike code-named <a href="/concepts/operation-midnight-hammer">Operation Midnight Hammer</a>, a 37-hour sortie against the <a href="/entities/fordow-fuel-enrichment-plant">Fordow</a> nuclear site.[1] It was the longest such mission since the U.S. assault on Afghanistan after 9/11.[1] The bombers flew in near-complete radio silence, supported by a constellation of fighter escorts and aerial refueling tankers.[1]</p><p>Each aircraft&#39;s two pilots were trained not only in warfare but in sleep science, nutrition, and psychological resilience, reflecting the human-endurance demands of missions of that duration.[1]</p><h2 id="narrative-dimension" tabindex="-1">Narrative dimension <a class="header-anchor" href="#narrative-dimension" aria-label="Permalink to &quot;Narrative dimension&quot;">​</a></h2><p>Badlands commentary argued that President <a href="/entities/donald-trump">Donald Trump</a> has deliberately &quot;up-branded&quot; the B-2 — casting it as an &quot;unimaginable plane&quot; — because a visibly unmatched conventional strike capability functions as a deterrent against war.[1] The same analysis held that because fourteen 30,000-pound bombs produced no radiological contamination event (the targeted labs being buried deep in mountain rock), there is no environmental argument against destroying other nuclear facilities, effectively dissolving the nuclear deterrent as a strategic shield and permanently ending the &quot;nuclear threat&quot; narrative.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Daddy Issues &amp; Damage Assessments&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-899" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-899</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/b-2-spirit.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const b2Spirit = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  b2Spirit as default
+};

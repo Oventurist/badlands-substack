@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"NEOM","description":"","frontmatter":{"title":"NEOM","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["saudi-arabia","smart-cities","the-line","world-economic-forum","urban-planning"],"sources":["raw/badlands-news-brief-6db.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/neom.md","filePath":"concepts/neom.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/neom.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="neom" tabindex="-1">NEOM <a class="header-anchor" href="#neom" aria-label="Permalink to &quot;NEOM&quot;">​</a></h1><p>NEOM is a large planned development in Saudi Arabia, promoted by Saudi officials as an attempt to build a city that is environmentally friendly and sustainable, offers a very high quality of life, and generates virtually no traffic.[1] Its best-known component is a linear megastructure known as The Line.[1]</p><h2 id="car-free-design" tabindex="-1">Car-free design <a class="header-anchor" href="#car-free-design" aria-label="Permalink to &quot;Car-free design&quot;">​</a></h2><p>At a January 2023 panel in Switzerland titled &quot;The Evolution of Urban Life,&quot; Saudi Minister of State for Foreign Affairs and Climate Envoy <a href="/entities/adel-al-jubeir">Adel bin Ahmed Al-Jubeir</a> said The Line &quot;will revolutionize the way people look at cities and urban planning&quot; and declared plainly, &quot;There will be no cars.&quot;[1] He said residents would move between places efficiently using transportation modes that are environmentally friendly and based on renewable energy, and described private vehicle ownership as wasteful.[1] The remarks were delivered during the <a href="/entities/world-economic-forum">World Economic Forum</a> meeting in Davos.[1]</p><h2 id="criticism" tabindex="-1">Criticism <a class="header-anchor" href="#criticism" aria-label="Permalink to &quot;Criticism&quot;">​</a></h2><p>Critics within the Truth Community read the project as a template for the broader elimination of private property rather than a purely environmental initiative.[1] <a href="/entities/ryan-delarme">Ryan DeLarme</a> of <a href="/entities/badlands-media">Badlands Media</a> characterised NEOM as a &quot;sustainable smart-city hell-scape,&quot; noted reports that it is being constructed with slave labour, and argued that a settlement in one of the most arid and uninhabitable regions on earth, lacking private vehicles or long-distance transport, could become a death trap should anything go wrong.[1] The concept is frequently linked in such commentary to the wider <a href="/concepts/15-minute-cities">15-minute cities</a> debate.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-6db" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-6db</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/neom.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const neom = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  neom as default
+};

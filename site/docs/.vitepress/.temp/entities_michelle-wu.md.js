@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Michelle Wu","description":"","frontmatter":{"title":"Michelle Wu","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["boston","mayor","sanctuary-cities","immigration","democrats"],"sources":["raw/badlands-news-brief-4e1.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/michelle-wu.md","filePath":"entities/michelle-wu.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/michelle-wu.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="michelle-wu" tabindex="-1">Michelle Wu <a class="header-anchor" href="#michelle-wu" aria-label="Permalink to &quot;Michelle Wu&quot;">​</a></h1><p>Michelle Wu is the Democratic mayor of Boston, Massachusetts. She was one of four big-city mayors who testified on Wednesday, March 5, 2025, before the Republican-led <a href="/entities/house-oversight-committee">House Oversight Committee</a> about their cities&#39; so-called &quot;sanctuary city&quot; immigration policies.[1]</p><h2 id="march-2025-house-oversight-testimony" tabindex="-1">March 2025 House Oversight testimony <a class="header-anchor" href="#march-2025-house-oversight-testimony" aria-label="Permalink to &quot;March 2025 House Oversight testimony&quot;">​</a></h2><p>Wu appeared alongside <a href="/entities/eric-adams">Eric Adams</a> of New York, <a href="/entities/mike-johnston">Mike Johnston</a> of Denver and <a href="/entities/brandon-johnson">Brandon Johnson</a> of Chicago. All four are Democrats, and all fielded pointed questioning from Republicans over their jurisdictions&#39; treatment of undocumented immigrants and their limits on local cooperation with federal immigration agents.[1] The mayors argued that such policies are essential so that undocumented residents will report crimes and access city services without fear of deportation, while Republicans accused them of defying <a href="/entities/donald-trump">President Donald Trump</a>&#39;s immigration agenda and of releasing dangerous criminals into American communities.[1]</p><p>Commentary published in the Badlands News Brief characterized the hearing as &quot;surreal,&quot; noting that the four mayors converged on identical talking points — recasting their jurisdictions as &quot;welcoming cities&quot; rather than &quot;sanctuary cities,&quot; insisting that they follow all local, state and federal law, and affirming that violent criminals should be deported. Badlands contributor <a href="/entities/ashe-in-america">Ashe in America</a> argued that the mayors &quot;lied — brazenly and under oath,&quot; given that the <a href="/concepts/sanctuary-cities">sanctuary</a> designation refers specifically to shielding residents from federal immigration enforcement.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;SCOTUS Drama and (Altered) Deals Shake Up the Week&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-4e1" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-4e1</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/michelle-wu.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const michelleWu = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  michelleWu as default
+};

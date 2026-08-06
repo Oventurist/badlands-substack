@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, ideology, religion, middle-east, history]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-467.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-467.md, raw/badlands-news-brief-95a.md]
 confidence: medium
 ---
 
@@ -30,6 +30,15 @@ Commentary in The Guardian argued that Zionism is a Jewish national movement tha
 
 Badlands commentator [[chris-paul|Chris Paul]] responded to the quoted admission that, "short of having a Chinese-style system which you shut down and cut off access to the internet, it's not at all clear how you deal w/ access to [anti-Semitic] material," arguing that the implications are self-defeating: conceding that "refuting the claims" is not a plausible response, and that losing the ability to censor a view means it will spread everywhere, amounts to an admission that the view is "true enough to be compelling to virtually everyone."[2]
 
+## Badlands critique of political Zionism (2025)
+
+In commentary published alongside coverage of [[benjamin-netanyahu|Benjamin Netanyahu]]'s July 2025 visit to Washington, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterised Zionism as an imperial movement seeking to re-establish the Babylonian Empire, predicated in his account on the Babylonian Talmud rather than the Torah, which he said states that the Nation of Israel cannot be re-established — nor the Third Temple rebuilt — until after the arrival of the Jewish messiah.[3]
+
+He noted that Ultra-Orthodox authorities initially opposed 19th-century Zionism, which he attributed to the [[rothschild-family|Rothschild family]] acting through agents such as Moses Hess, on the grounds that it violated the three oaths sworn by the Jewish people: not to force their way into the homeland, not to hasten the end times, and not to rebel against other nations.[3] On this view Zionism constituted rebellion against divine will and a dangerous heresy, though the writer observed that Ultra-Orthodox leadership in Israel appears to have shifted over the intervening two centuries.[3]
+
+The commentary described the movement as driven largely by political ambition to forge empire while also propelled by religious fervour in both Jewish and Evangelical communities, and judged its theological justifications flimsy in both Judaism and Christianity.[3] It further argued that Theodor Herzl, credited as the "Father of Zionism," did not adopt the cause until 1895, when it was already a powerful international coalition, and that he was distrusted by many factions as a secular opportunist who had assimilated with the Gentiles — tolerated because of his political talent and connections to networks in London and Germany, namely the Rothschilds.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands Brief — "Somali Scams, Munchausen Moms, & Another Perfect Phone Call", URL: https://badlands.substack.com/p/badlands-news-brief-467
+3. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a

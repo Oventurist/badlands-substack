@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Independent Counsel","description":"","frontmatter":{"title":"Independent Counsel","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["law","oversight","doj","clinton-administration"],"sources":["raw/america-for-sale-part-1.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/independent-counsel.md","filePath":"concepts/independent-counsel.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/independent-counsel.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="independent-counsel" tabindex="-1">Independent Counsel <a class="header-anchor" href="#independent-counsel" aria-label="Permalink to &quot;Independent Counsel&quot;">​</a></h1><p>An independent counsel is a prosecutor appointed outside the ordinary Justice Department chain of command to investigate senior executive-branch officials, and the Badlands account treats the distinction between such a counsel and the department itself as the hinge of the <a href="/entities/ron-brown">Ron Brown</a> affair.<a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">[1]</a></p><p>A federal appeals court named Miami attorney Daniel S. Pearson, 64, a former state judge and federal prosecutor, as independent counsel to investigate the financial affairs of Commerce Secretary Ron Brown, making Pearson the fourth special counsel then probing officials of the <a href="/entities/bill-clinton">Clinton</a> administration.<a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">[1]</a> His remit was to determine whether Brown had broken the law in his private financial dealings or in his public reports of those transactions, and legal sources expected the inquiry to last well into the 1996 presidential campaign.<a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">[1]</a></p><p>The article argues this was the danger point: an independent counsel investigation was about to open the Pandora&#39;s box of illegal fundraising and the selling of America&#39;s secrets, and Brown was in real danger of conviction precisely because he faced an outside prosecutor rather than a friendly department.<a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">[1]</a> Brown&#39;s death in April 1996 ended the inquiry in its early stages, after which the matter passed to the Justice Department under <a href="/entities/janet-reno">Janet Reno</a> on the grounds that his surviving co-defendants were not administration officials.<a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">[1]</a></p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;America for Sale - Part 1&quot;, URL: <a href="https://badlands.substack.com/p/america-for-sale-part-1" target="_blank" rel="noreferrer">https://badlands.substack.com/p/america-for-sale-part-1</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/independent-counsel.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const independentCounsel = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  independentCounsel as default
+};

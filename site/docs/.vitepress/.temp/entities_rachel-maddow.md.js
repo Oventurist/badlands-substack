@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Rachel Maddow","description":"","frontmatter":{"title":"Rachel Maddow","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["media","msnbc","russiagate","election-denial","narrative"],"sources":["raw/badlands-news-brief-228.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/rachel-maddow.md","filePath":"entities/rachel-maddow.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/rachel-maddow.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="rachel-maddow" tabindex="-1">Rachel Maddow <a class="header-anchor" href="#rachel-maddow" aria-label="Permalink to &quot;Rachel Maddow&quot;">​</a></h1><p>Rachel Maddow is an MSNBC host who, in Badlands Media&#39;s coverage, functions as a central conduit for legacy-media narratives about <a href="/entities/donald-trump">Donald Trump</a> and Russian collusion.[1] In August 2023 she interviewed <a href="/entities/hillary-clinton">Hillary Clinton</a> about the Trump prosecutions, a segment that Badlands writers used to illustrate what they see as the asymmetry and hypocrisy of establishment media.[1]</p><h2 id="the-august-2023-clinton-interview" tabindex="-1">The August 2023 Clinton interview <a class="header-anchor" href="#the-august-2023-clinton-interview" aria-label="Permalink to &quot;The August 2023 Clinton interview&quot;">​</a></h2><p>Clinton sat down with Maddow to discuss the indictments of Trump, characterizing them as a &quot;terrible moment&quot; for America while adding that &quot;The only satisfaction may be that the system is working.&quot;[1] The exchange became awkward, according to the ZeroHedge account aggregated by Badlands, when Maddow launched into an extended criticism of &quot;election deniers&quot; and Clinton — herself a longtime critic of the legitimacy of the 2016 result — sat in silence.[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>Writing for Badlands, <a href="/entities/ashe-in-america">Ashe in America</a> argued that the segment was self-indicting: Maddow &quot;also denied the election results and was one of the main peddlers of the RussiaGate Hoax,&quot; making her an implausible interlocutor for questions about election denial.[1] The commentary framed both women as participants in an ongoing cover-up connected to the <a href="/concepts/russiagate-hoax">RussiaGate hoax</a> and the <a href="/concepts/steele-dossier">Steele dossier</a>, and treated the interview as evidence that the principals &quot;still think they&#39;re going to get away with it.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;A Biden, a Clinton and a Trump Walk Into a SCIF&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-228" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-228</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/rachel-maddow.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const rachelMaddow = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  rachelMaddow as default
+};

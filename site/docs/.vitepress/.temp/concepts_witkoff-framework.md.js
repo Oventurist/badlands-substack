@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Witkoff Framework","description":"","frontmatter":{"title":"Witkoff Framework","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["gaza","hostages","diplomacy","israel"],"sources":["raw/badlands-news-brief-155.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/witkoff-framework.md","filePath":"concepts/witkoff-framework.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/witkoff-framework.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="witkoff-framework" tabindex="-1">Witkoff Framework <a class="header-anchor" href="#witkoff-framework" aria-label="Permalink to &quot;Witkoff Framework&quot;">​</a></h1><p>The &quot;Witkoff framework&quot; is the ceasefire-and-hostage proposal associated with U.S. envoy <a href="/entities/steve-witkoff">Steve Witkoff</a>, under which the war in the Gaza Strip would be paused for roughly 60 days in exchange for the release of about half of the hostages held by <a href="/entities/hamas">Hamas</a>.[1]</p><h2 id="trump-s-rejection-of-a-temporary-pause" tabindex="-1">Trump&#39;s rejection of a temporary pause <a class="header-anchor" href="#trump-s-rejection-of-a-temporary-pause" aria-label="Permalink to &quot;Trump&#39;s rejection of a temporary pause&quot;">​</a></h2><p>During a tense 40-minute phone call with Israeli Prime Minister <a href="/entities/benjamin-netanyahu">Benjamin Netanyahu</a> on Monday, June 9, 2025, President <a href="/entities/donald-trump">Donald Trump</a> reportedly told the premier that the Witkoff framework &quot;will not suffice&quot; and that he must permanently end the war in Gaza, according to Israeli television reporting relayed by <em>The Times of Israel</em>.[1] Trump also told Netanyahu that attacking Iran was off limits for the time being.[1]</p><p>Netanyahu had to that point refused to negotiate a truce-hostage deal that would permanently end the fighting — a red line for him and his far-right coalition partners.[1] Trump reportedly argued that ending the war would assist both the administration&#39;s nuclear negotiations with Iran and normalization talks with Saudi Arabia.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands contributors framed the call as a &quot;rugpull&quot; on Netanyahu and on the <a href="/concepts/christian-zionism">Christian Zionist</a> constituency that had backed the Gaza campaign, predicting that some figures would defy Trump and continue agitating for war with Iran, and linking such advocacy to <a href="/entities/mossad">Mossad</a> influence operations.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: California Crossroads, Selective Insurrection, &amp; Irian Limits&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-155" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-155</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/witkoff-framework.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const witkoffFramework = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  witkoffFramework as default
+};

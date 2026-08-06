@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, special-counsel, 2020-election, indictment, lawfare]
-sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-245.md, raw/badlands-brief-695.md, raw/badlands-brief-739.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e60.md, raw/badlands-brief.md, raw/badlands-news-blast.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-919.md]
+sources: [raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-brief-245.md, raw/badlands-brief-695.md, raw/badlands-brief-739.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e60.md, raw/badlands-brief.md, raw/badlands-news-blast.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6b6.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -220,6 +220,18 @@ In April 2023 CNN reported that former top national security officials had told 
 
 Badlands contributor [[just-human|Just Human]] read that framing as a "huge tell," arguing that it obliges Smith to investigate the underlying claims of election fraud and the alleged fortification of the 2020 election.[37]
 
+## Volume 1 of the final report (January 2025)
+
+Special counsel Jack Smith released the first volume of his final report at midnight on Tuesday, January 14, 2025.[38] Writing in Fox News, [[jonathan-turley|Jonathan Turley]] compared the release to the Supreme Court's Dobbs decision in that "we had seen it before," arguing there was little new in the document and that what it conspicuously did not contain was an explanation of how Smith destroyed his own cases against [[donald-trump|Donald Trump]].[38] Turley noted Smith's reliance on what he called a dubious concurrence by Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]], and described much of the report as "vintage Smith" in dismissing countervailing precedent while insisting he could "obtain and sustain a conviction at trial" — a claim Turley said the report itself undermined.[38]
+
+The report repeated conclusory evidence such as the count of ten uses of the word "fight" in Trump's January 6, 2021 speech, minimized the presidential immunity decision by removing some evidence while keeping largely the original indictment, and handled the obstruction counts in a manner Turley found most telling of a prosecutor who had repeatedly lost cases by overextending constitutional and statutory authority.[38] The Supreme Court's decision in [[fischer-v-united-states|Fischer v. United States]], rejecting the use of obstruction-of-official-proceeding charges against January 6 defendants, was expected to affect hundreds of cases through dismissals or resentencings, including the pending prosecution of Trump on four charges, two of them obstruction counts.[38]
+
+[[jon-herold|Jon Herold]] of [[badlands-media|Badlands Media]] mocked the report's premise that Trump knew there was no election fraud because people with far less access to classified information told him so, likening it to "the landscapers telling the general contractor the electricity doesn't work because CNN said so."[38]
+
+## Trump's post-election comments (December 2024)
+
+In his first post-election interview, aired December 8, 2024, President-elect [[donald-trump|Donald Trump]] continued to attack Smith while saying he would not explicitly order his appointees to pursue political rivals.[39] Asked whether Smith and similar figures should be prosecuted, Trump said the decision would belong to attorney general nominee [[pam-bondi|Pam Bondi]] and, to a different extent, [[kash-patel|Kash Patel]], adding: "No, I'm not doing that unless I find something that I think is reasonable, but that's not going to be my decision."[39] In the same interview Trump again suggested that lawmakers who investigated the January 6, 2021 attack on the Capitol, such as former Representative [[liz-cheney|Liz Cheney]], should be in jail.[39]
+
 ## References
 
 1. Badlands Brief — "Are Jack Smith and Fani Willis in on the Plan?", URL: https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in
@@ -259,3 +271,5 @@ Badlands contributor [[just-human|Just Human]] read that framing as a "huge tell
 35. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
 36. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 37. Badlands Brief — "Badlands News Brief: Trials Galore, Ukraine Backpedal & The Gold Standard", URL: https://badlands.substack.com/p/badlands-news-brief-919
+38. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+39. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

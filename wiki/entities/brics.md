@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -84,6 +84,12 @@ On November 21, 2023, BRICS convened an extraordinary virtual meeting devoted to
 
 At the [[2023-brics-johannesburg-summit|2023 summit in Johannesburg]], which opened on August 22, 2023, Russian President [[vladimir-putin|Vladimir Putin]] addressed the bloc remotely while Foreign Minister [[sergey-lavrov|Sergey Lavrov]] stood in for him in the family photo, because the International Criminal Court warrant and the Rome Statute would have obliged South Africa to arrest him.[12] Putin said [[de-dollarization|de-dollarization]] was "gaining momentum" and irreversible, claimed the five members had reached 26% of global GDP and 31% of the world economy by purchasing power parity against 30% for the [[g7|G7]], and cited a sixfold increase in mutual investment over the prior decade and 20% of global exports.[12] He denounced "illegitimate sanctions" and the "unlawful freezing of sovereign states' assets" while pledging increased fuel, food and fertilizer supplies to the Global South, as [[xi-jinping|Xi Jinping]] urged the bloc to become a geopolitical rival to the G7.[12] Badlands contributor [[burning-bright|Burning Bright]] noted rumors of a gold-backed BRICS currency and argued the summit represented an attack on the U.S. [[petrodollar|petrodollar]].[12]
 
+## Taliban accession bid and the 2024 Kazan summit
+
+In September 2024, the [[taliban|Taliban]] government of Afghanistan announced that it was seeking to join BRICS despite not being formally recognized by any country.[13] Deputy spokesman Hamdullah Fitrat cited existing economic ties and commercial exchanges with Russia, India and China, and the Afghan foreign ministry said it hoped for an invitation to the BRICS summit scheduled for October 22–24 in Kazan, though no information had been received on whether a delegation could attend.[13] Contemporaneous coverage described BRICS as comprising Brazil, Russia, India, China and South Africa, with Iran, the United Arab Emirates, Egypt and Ethiopia recently inducted as new members.[13]
+
+Analysts suggested Taliban membership would hand Washington "low-hanging fruit" with which to denigrate the bloc internationally, particularly given US frustration at deepening China–Russia–India cooperation and those states' refusal to condemn Russian military action in Ukraine.[13] Badlands Media, by contrast, framed the episode as evidence that states outside Western favour can now bypass the international rules-based order, escaping sanctions, central-bank arrangements and IMF lending by joining an alternative financial system rather than adopting the petrodollar.[13]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
@@ -97,3 +103,4 @@ At the [[2023-brics-johannesburg-summit|2023 summit in Johannesburg]], which ope
 10. Badlands Brief — "Badlands News Brief: Grand Juries, Pressure Campaigns, & Elaborate Hoaxes", URL: https://badlands.substack.com/p/badlands-news-brief-779
 11. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+13. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

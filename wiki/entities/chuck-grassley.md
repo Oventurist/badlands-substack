@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, judiciary-committee, oversight, declassification, treason]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -79,6 +79,11 @@ In late May 2025 Grassley publicly pressed President [[donald-trump|Donald Trump
 
 On Thursday, July 20, 2023, Grassley released an unclassified FBI document in which a confidential human source laid out an alleged bribery scheme involving [[joe-biden|Joe Biden]] and [[hunter-biden|Hunter Biden]] and the Ukrainian gas company [[burisma|Burisma]], which the source said had hired Hunter to gain access to his then–vice president father.[12] The disclosure came in the same week that [[james-comer|James Comer]] announced plans for multiple criminal referrals against Hunter Biden.[12]
 
+## Release of the Biden Ukraine FD-1023s
+
+Grassley, as Senate Judiciary Chairman, joined Senator [[ron-johnson|Ron Johnson]] of Wisconsin in releasing two new FBI FD-1023s — records of reporting from the bureau's confidential human sources — focused on allegations of Biden family corruption in [[ukraine|Ukraine]].[14] The records match closely a memo Grassley released in 2023 containing similar claims, and he has pressed to determine why the [[fbi|FBI]] apparently failed to investigate them, telling Director [[kash-patel|Kash Patel]] at a September 2025 hearing that "to date, the FBI has never answered Congress whether they investigated the text messages, audio files and financial records referenced in that 1023."[14]
+
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -93,3 +98,4 @@ On Thursday, July 20, 2023, Grassley released an unclassified FBI document in wh
 11. Badlands Brief — "Badlands News Brief: Pro Putin Propaganda & A Parisian Proxy President", URL: https://badlands.substack.com/p/badlands-news-brief-561
 12.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 13. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
+14. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

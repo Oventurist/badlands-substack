@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"SCAM Act","description":"","frontmatter":{"title":"SCAM Act","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["legislation","immigration","denaturalization","fraud"],"sources":["raw/badlands-brief-144.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/scam-act.md","filePath":"concepts/scam-act.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/scam-act.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="scam-act" tabindex="-1">SCAM Act <a class="header-anchor" href="#scam-act" aria-label="Permalink to &quot;SCAM Act&quot;">​</a></h1><p>The Stop Citizenship Abuse and Misrepresentation (SCAM) Act is a White House-backed bill introduced by Senator <a href="/entities/eric-schmitt">Eric Schmitt</a> (R-Mo.) in January 2026 in direct response to the Minnesota Somali welfare fraud scandal.[1]</p><h2 id="provisions" tabindex="-1">Provisions <a class="header-anchor" href="#provisions" aria-label="Permalink to &quot;Provisions&quot;">​</a></h2><p>The bill would expand denaturalization powers by creating a 10-year post-naturalization window — potentially reducible to five years — during which citizenship could be revoked for specified acts.[1] Qualifying conduct includes defrauding the government of $10,000 or more, aggravated felonies, espionage, and terrorist affiliations, with such acts retroactively disqualifying the &quot;good moral character&quot; required for naturalization.[1]</p><h2 id="reception" tabindex="-1">Reception <a class="header-anchor" href="#reception" aria-label="Permalink to &quot;Reception&quot;">​</a></h2><p>Deputy Chief of Staff <a href="/entities/stephen-miller">Stephen Miller</a> hailed the bill and called the Somali scandal &quot;one of the greatest financial scandals in American history,&quot; vowing immediate denaturalization and deportation for the immigrants involved.[1]</p><p>Badlands Media contributor <a href="/entities/ashe-in-america">Ashe in America</a> wrote that she had repeatedly said &quot;deport the Somalis; prosecute the Americans,&quot; and expressed support for the Act as a means of denaturalizing and deporting scammers who obtained citizenship.[1] She argued that the culture behind the fraud &quot;is incompatible with the American rule of law&quot; and that it should be straightforward to deport criminals from other countries, while also finding the legislation&#39;s name &quot;delightful.&quot;[1] She insisted that passage of the SCAM Act must be paired with prosecution of the Americans who enabled, covered up, and profited from the scheme, calling for an end to the NGOs and a restoration of the rule of law &quot;equally, without fear or favor.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;MLKKK Day, Peace Boards and Power Paradigms&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-144" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-144</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/scam-act.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const scamAct = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  scamAct as default
+};

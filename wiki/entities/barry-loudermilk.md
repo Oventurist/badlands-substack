@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, january-6, oversight, republican, georgia]
-sources: [raw/badlands-news-brief-5c7.md, raw/badlands-news-brief-89f.md]
+sources: [raw/badlands-news-brief-5c7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-970.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ In January 2024 Loudermilk's Republican-led House Oversight subcommittee, invest
 
 The forensics team determined that 117 files had been both encrypted and deleted on January 1, 2023 — days before Thompson's team was required to transmit the data to the successor committee and before Republicans retook the House majority.[2] The team recovered all 117 deleted files, and Loudermilk sought answers as to why they had been removed.[2]
 
+## Footage access for defendants (2023)
+
+On February 28, 2023, Loudermilk announced that House Republicans would permit January 6 defendants to use Capitol security footage in their legal defense, saying Speaker [[kevin-mccarthy|Kevin McCarthy]] had granted access on a "case-by-case basis."[3] He told Politico that "Everyone accused of a crime in this country deserves due process, which includes access to evidence which may be used to prove their guilt or innocence," and that House Republicans intended to make available any relevant documents or videos as requested by defense attorneys.[3] The decision, part of the broader [[january-6-capitol-security-footage-release|January 6 Capitol security footage release]], was reported as potentially affecting ongoing prosecutions from the 2021 riot.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Bidenomics Comes Home to Roost & Mayhem Marches On", URL: https://badlands.substack.com/p/badlands-news-brief-5c7
 2. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
+3. Badlands Brief — "Drones in Russia, J6 Footage & Socialist Policies", URL: https://badlands.substack.com/p/badlands-news-brief-970

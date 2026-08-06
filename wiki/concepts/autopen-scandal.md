@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [joe-biden, executive-orders, pardons, legitimacy, autopen]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-97e.md]
 confidence: low
 ---
 
@@ -76,6 +76,14 @@ In early September 2025, [[john-solomon|John Solomon]] of Just the News reported
 
 Solomon characterized the material as "bombshell documents" that even surprised him regarding what was being discussed behind the scenes at the Biden White House, all of it dug out of the [[national-archives-and-records-administration|National Archives]].[10] Badlands contributor [[ashe-in-america|Ashe in America]] noted the relentless pace of such disclosures and flagged the report as due to drop that same day.[10]
 
+## Trump and Comer after the Hur audio (May 2025)
+
+The May 2025 release of the [[robert-hur|Hur]] interview audio gave the autopen question fresh momentum.[11] [[donald-trump|Donald Trump]] posted on [[truth-social|Truth Social]] that "Whoever had control of the 'AUTOPEN' is looking to be a bigger and bigger scandal by the moment."[11] Kentucky Republican Representative [[james-comer|James Comer]] told Fox News that the interview, conducted "many, many months prior to the heavy use of the autopen," showed that "Joe Biden wasn't capable of making decisions. He wasn't coherent."[11] Conservatives on social media pressed the question of who was controlling the device and whether someone else was effectively acting as president, claims The Independent noted were advanced without supporting evidence.[11] Badlands commentary went further, arguing that Biden's simultaneous cancer diagnosis meant "the criminals using the cancer-riddled dementia patient and his autopen are even more criminal than previously thought," and calling for [[jill-biden|Jill Biden]], the White House medical staff, the chief of staff, the cabinet, [[karine-jean-pierre|Karine Jean-Pierre]] and [[jake-sullivan|Jake Sullivan]] to answer questions under oath.[11]
+
+## Trump and Comer after the Hur audio (May 2025)
+
+The May 2025 release of the [[robert-hur|Hur]] interview audio gave the autopen question fresh momentum.[11] [[donald-trump|Donald Trump]] posted on [[truth-social|Truth Social]] that "Whoever had control of the 'AUTOPEN' is looking to be a bigger and bigger scandal by the moment."[11] Kentucky Republican Representative [[james-comer|James Comer]] told Fox News that the interview, conducted "many, many months prior to the heavy use of the autopen," showed that "Joe Biden wasn't capable of making decisions. He wasn't coherent."[11] Conservatives on social media pressed the question of who was controlling the device and whether someone else was effectively acting as president, claims The Independent noted were advanced without supporting evidence.[11] Badlands commentary went further, arguing that Biden's simultaneous cancer diagnosis meant "the criminals using the cancer-riddled dementia patient and his autopen are even more criminal than previously thought," and calling for [[jill-biden|Jill Biden]], the White House medical staff, the chief of staff, the cabinet, [[karine-jean-pierre|Karine Jean-Pierre]] and [[jake-sullivan|Jake Sullivan]] to answer questions under oath.[11]
+
 ## References
 
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -88,3 +96,4 @@ Solomon characterized the material as "bombshell documents" that even surprised 
 8. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 9. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 10. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
+11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e

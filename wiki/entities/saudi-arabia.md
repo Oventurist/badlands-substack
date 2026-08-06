@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, petrodollar, oil, media]
-sources: [raw/a-week-to-remember.md, raw/a-dereliction-of-duty.md, raw/and-iran-iran-so-far-away.md, raw/arabian-nights.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ae.md, raw/badlands-brief-323.md, raw/badlands-brief-285.md, raw/badlands-brief-5a2.md, raw/badlands-brief-52f.md, raw/badlands-brief-625.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ea.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-bb1.md, raw/badlands-brief-be1.md, raw/badlands-brief-e15.md, raw/badlands-brief-e60.md, raw/badlands-brief-ea5.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md]
+sources: [raw/a-week-to-remember.md, raw/a-dereliction-of-duty.md, raw/and-iran-iran-so-far-away.md, raw/arabian-nights.md, raw/badlands-brief-05f.md, raw/badlands-brief-1c6.md, raw/badlands-brief-1ae.md, raw/badlands-brief-323.md, raw/badlands-brief-285.md, raw/badlands-brief-5a2.md, raw/badlands-brief-52f.md, raw/badlands-brief-625.md, raw/badlands-brief-71c.md, raw/badlands-brief-9ea.md, raw/badlands-brief-ac2.md, raw/badlands-brief-b56.md, raw/badlands-brief-bb1.md, raw/badlands-brief-be1.md, raw/badlands-brief-e15.md, raw/badlands-brief-e60.md, raw/badlands-brief-ea5.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -230,6 +230,12 @@ Saudi Arabia reacted with outrage in late August 2024 to Israeli National Securi
 
 Saudi Arabia reacted with outrage in late August 2024 to Israeli National Security Minister [[itamar-ben-gvir|Itamar Ben-Gvir]]'s call for a synagogue to be built atop the [[al-aqsa-mosque|Al-Aqsa Mosque]].[35] The episode came after years in which Riyadh and [[israel|Israel]] had moved rapidly toward restoring official relations in what was described as a 'deal of the century,' an effort placed on hold by the Gaza war following October 7 and increasingly at risk of collapse.[35] Badlands Media added that Mohammed bin Salman met Mahmoud Abbas the same week.[35]
 
+## Condemnation of Israeli operations in Syria (December 2024)
+
+In a statement issued by its Foreign Ministry on Monday, December 9, 2024, Saudi Arabia accused [[israel|Israel]] of attempting to undermine the restoration of stability in [[syria|Syria]] by broadening its military occupation of Syrian territory following the fall of Damascus.[36] The ministry said Israel's actions demonstrated the "continued violation of the rules of international law and its determination to sabotage Syria's chances of restoring its security, stability and territorial integrity."[36] Iraq and Qatar issued parallel condemnations, with Baghdad urging the UN Security Council to act.[36]
+
+Badlands commentary noted that Senator [[lindsey-graham|Lindsey Graham]], who in 2018 had called Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] a "thug" and demanded his removal from power, had shifted position amid the Syrian crisis.[36] The same commentary recounted that the September 11 attacks were a catalyzing event in the young crown prince's life — he reportedly watched the second tower struck on live television and concluded the world would blame the entire Arab world for crimes committed by a few — and that he vowed revenge against those responsible, whom the writer identified as the same interests behind the toppling of Syria.[36]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -266,3 +272,4 @@ Saudi Arabia reacted with outrage in late August 2024 to Israeli National Securi
 33. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 34. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 35. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+36. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

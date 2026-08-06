@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maga, media, war-room, epstein-files, kayfabe]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md]
 confidence: medium
 ---
 
@@ -111,6 +111,12 @@ When he began serving the sentence, Bannon called himself a "political prisoner,
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] welcomed the release, recounting the widely circulated story that when the Billy Bush tape surfaced in October 2016, Trump's advisers urged him to step aside in favor of Mike Pence, and that Bannon — who had joined the campaign only weeks earlier — was the lone voice telling Trump the American people were with him and that he should stand in the breach.[17] On that basis the commentator argued that Bannon's 2017 "firing" from the White House was kayfabe, staged so that Bannon could leave a media spotlight that had become obsessive and instead build a new media apparatus, which he duly did.[17] He further suggested the four-month absence functioned as a stress test for the wider movement, revealing who could hold together under pressure, and highlighted Bannon's prison anecdotes about befriending minority and Muslim inmates, his remarks on the "politics of money" and the Great Awakening, and his line that "politics is nothing more than professional wrestling."[17]
 
+## January 2025 feud with Elon Musk
+
+On January 14, 2025, Bannon taunted his fellow [[donald-trump|Trump]] ally [[elon-musk|Elon Musk]], telling Politico White House bureau chief Dasha Burns that the president-elect's billionaire right-hand man did not have all that much power.[18] Bannon, a former chief strategist for Trump and host of the "War Room" podcast, allowed that Musk had exercised some influence over Cabinet picks and policy discussions but said he did not "have the ability to actually make decisions and inform those decisions and drive those decisions."[18]
+
+Politico framed the exchange as a prime example of the infighting already underway as Trump's big-tent GOP returned to power, with allies arguing it reflected a governing style in which Trump retains decision-making power while ensuring no single faction gains too much control.[18] In dismissing Musk's influence, Bannon pointed to [[scott-bessent|Scott Bessent]] prevailing over Musk's favorite [[howard-lutnick|Howard Lutnick]] for Treasury secretary, and to the fight over H-1B visas, which he predicted would push Musk closer to the MAGA loyalist position that the program should be abolished entirely.[18]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
@@ -129,3 +135,4 @@ When he began serving the sentence, Bannon called himself a "political prisoner,
 15. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 16. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 17. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
+18. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966

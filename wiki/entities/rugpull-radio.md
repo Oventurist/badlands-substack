@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, broadcasting, show]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -18,8 +18,13 @@ The week of December 5–11, 2022 — the “Badlands Media Weekly Show Schedule
 
 A second Badlands Media schedule post, published January 3, 2023 to open the 2023 broadcast year, carried the same listing and description, and reiterated that all network shows air live on the Patel Patriot Rumble channel with replays archived on the Badlands Media library channel.[4]
 
+## Episode 94: Michael Saylor
+
+Episode 94 of Rugpull Radio featured [[michael-saylor|Michael Saylor]] as a special guest, secured by hosts GMONEY and Patriots In Progress and distributed on Rumble.[5] Badlands Media commentary recommended the episode as an entry point for new viewers, praising the hosts for taking a first-principles approach rather than dwelling on market "actuals," asking no softball questions and producing what the writer called a great deal of signal.[5] The discussion's emphasis on "natural frequency" was described as its major takeaway.[5]
+
 ## References
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule
 3. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
+5. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

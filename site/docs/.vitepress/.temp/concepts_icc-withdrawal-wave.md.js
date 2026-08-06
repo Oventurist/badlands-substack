@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"ICC Withdrawal Wave (2025–2026)","description":"","frontmatter":{"title":"ICC Withdrawal Wave (2025–2026)","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["icc","rome-statute","sovereignty","africa","latin-america"],"sources":["raw/badlands-brief-414.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/icc-withdrawal-wave.md","filePath":"concepts/icc-withdrawal-wave.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/icc-withdrawal-wave.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="icc-withdrawal-wave-2025–2026" tabindex="-1">ICC Withdrawal Wave (2025–2026) <a class="header-anchor" href="#icc-withdrawal-wave-2025–2026" aria-label="Permalink to &quot;ICC Withdrawal Wave (2025–2026)&quot;">​</a></h1><p>The ICC withdrawal wave refers to the sequence of states announcing their exit from the <a href="/entities/international-criminal-court">International Criminal Court</a> beginning in 2025, driven by accusations that the Hague-based body is ineffective and geographically biased.[1]</p><h2 id="participating-states" tabindex="-1">Participating states <a class="header-anchor" href="#participating-states" aria-label="Permalink to &quot;Participating states&quot;">​</a></h2><p>Niger, Mali, and <a href="/entities/burkina-faso">Burkina Faso</a> all began withdrawing in 2025. <a href="/entities/venezuela">Venezuela</a> announced its formal withdrawal in late July 2026, accusing the court of &quot;geographical bias&quot; that disproportionately targets countries in Africa and Latin America. <a href="/entities/chad">Chad</a> followed days later, submitting a formal letter to the United Nations and accusing the court of ineffectiveness and bias against African countries. Under the <a href="/concepts/rome-statute">Rome Statute</a>, withdrawal takes at least one year to complete.[1]</p><h2 id="us-involvement" tabindex="-1">US involvement <a class="header-anchor" href="#us-involvement" aria-label="Permalink to &quot;US involvement&quot;">​</a></h2><p>US Secretary of State <a href="/entities/marco-rubio">Marco Rubio</a> said in July 2026 that the United States was launching a campaign to dismantle the ICC&#39;s threat to national sovereignty. A February 2025 executive order signed by President <a href="/entities/donald-trump">Donald Trump</a> imposed sanctions on the court over its investigations of <a href="/entities/israel">Israel</a>. The <a href="/entities/state-department">State Department</a>&#39;s Bureau of African Affairs publicly welcomed Chad&#39;s withdrawal on X and called on more of the court&#39;s 125 member states to withdraw and &quot;reclaim their sovereignty from this flawed institution.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Narcissistic Sociopathy &amp; Rebranded Sex Robots For Kids&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-414" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-414</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/icc-withdrawal-wave.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const iccWithdrawalWave = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  iccWithdrawalWave as default
+};

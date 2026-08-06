@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"David Sacks","description":"","frontmatter":{"title":"David Sacks","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["artificial-intelligence","crypto","white-house","technology","trump-administration"],"sources":["raw/badlands-brief-7bf.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/david-sacks.md","filePath":"entities/david-sacks.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/david-sacks.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="david-sacks" tabindex="-1">David Sacks <a class="header-anchor" href="#david-sacks" aria-label="Permalink to &quot;David Sacks&quot;">​</a></h1><p>David Sacks is a technology investor who served as the White House AI and Crypto Czar under <a href="/entities/donald-trump">President Donald Trump</a>. He is a central figure in the Trump-aligned technology community&#39;s argument that leading frontier artificial intelligence laboratories are pursuing regulation for competitive rather than safety reasons.[1]</p><h2 id="position-on-ai-regulation" tabindex="-1">Position on AI regulation <a class="header-anchor" href="#position-on-ai-regulation" aria-label="Permalink to &quot;Position on AI regulation&quot;">​</a></h2><p>In late July 2026, Sacks — identified in Badlands coverage as the former White House AI and Crypto Czar (rendered there as &quot;David Sachs&quot;) — publicly stated that he believed <a href="/entities/anthropic">Anthropic</a> and <a href="/entities/openai">OpenAI</a> were seeking government regulation primarily in order to stave off competitors.[1] Badlands commentator <a href="/entities/burning-bright">Burning Bright</a> noted that Sacks&#39; framing tracked &quot;almost beat for beat&quot; the argument he had advanced days earlier on the Devolution Power Hour: that <a href="/entities/sam-altman">Sam Altman</a> and <a href="/entities/dario-amodei">Dario Amodei</a> were acting as retardants rather than accelerants to the AI agenda by inviting state limits on a rapidly accelerating industry.[1]</p><h2 id="significance" tabindex="-1">Significance <a class="header-anchor" href="#significance" aria-label="Permalink to &quot;Significance&quot;">​</a></h2><p>Sacks&#39; remarks were treated in the Badlands account as one of three converging weekend indicators that the administration had aligned itself with the pro-acceleration, pro-<a href="/concepts/open-source-artificial-intelligence">open-source</a> side of the dispute, the others being Commerce Secretary <a href="/entities/howard-lutnick">Howard Lutnick</a>&#39;s reported statement that the administration aims to &quot;protect open source AI,&quot; and China&#39;s continued strategically timed releases of open-weight models.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Entertaining Obstruction &amp; Artificial Shadow Wars&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-7bf" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-7bf</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/david-sacks.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const davidSacks = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  davidSacks as default
+};

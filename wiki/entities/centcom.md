@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, middle-east, us-government]
-sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-421.md]
+sources: [raw/badlands-brief-6b4.md, raw/badlands-brief-9ac.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -47,6 +47,14 @@ From 24 to 27 November 2025, CENTCOM forces and the Syrian Ministry of Interior 
 
 In the week after the Lebanon [[pager-attack|pager attacks]], CENTCOM commander General [[michael-kurilla|Michael Kurilla]] travelled to [[israel|Israel]] twice to warn [[benjamin-netanyahu|Benjamin Netanyahu]] and the [[israel-defense-forces|IDF]] that if they initiated a ground war with Lebanon, Syria or [[iran|Iran]], they would be on their own.[8] Badlands writers, drawing on retired Colonel [[lawrence-wilkerson|Lawrence Wilkerson]]'s remarks to Judge [[andrew-napolitano|Andrew Napolitano]], framed this as a combatant commander effectively usurping the [[white-house|White House]], [[state-department|State Department]] and [[cia|CIA]] to take control of U.S. Middle East diplomacy — a pattern they associate with [[devolution|Devolution]].[8]
 
+## December 2024 strikes on ISIS camps in central Syria
+
+On December 8, 2024, CENTCOM forces conducted dozens of precision airstrikes against known [[isis|ISIS]] camps and operatives in central [[syria|Syria]], striking more than 75 targets with multiple U.S. Air Force assets including B-52s, F-15s, and A-10s.[9] The command said the strikes were part of the ongoing mission to disrupt, degrade, and defeat ISIS and to prevent the group from exploiting the collapse of the Syrian government to reconstitute in central Syria.[9] Battle damage assessments were under way and CENTCOM reported no indications of civilian casualties.[9]
+
+"There should be no doubt — we will not allow ISIS to reconstitute and take advantage of the current situation in Syria," said commander General [[michael-kurilla|Michael Erik Kurilla]], adding that "all organizations in Syria should know that we will hold them accountable if they partner with or support ISIS in any way."[9] CENTCOM said it would continue operations with regional allies and partners to degrade ISIS capabilities throughout the transition period.[9]
+
+Badlands contributor [[burning-bright|Burning Bright]] read the operation as one arm of a "Sovereign Alliance pincer move" against Deep State forces in Syria with analogues to the 2021 Kabul withdrawal, noting the coincidence of the strikes being launched amid chaos that he argued could not plausibly have gone unanticipated by the major players.[9]
+
 ## References
 1. Badlands Brief — "Deliberate Discombobulation Driving Transformational Change", URL: https://badlands.substack.com/p/badlands-brief-6b4
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -56,3 +64,4 @@ In the week after the Lebanon [[pager-attack|pager attacks]], CENTCOM commander 
 6. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
 7. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 8. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
+9. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Yariv Levin","description":"","frontmatter":{"title":"Yariv Levin","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["israel","justice-minister","likud","judicial-reform"],"sources":["raw/badlands-news-brief-08e.md","raw/badlands-news-brief-1a0.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/yariv-levin.md","filePath":"entities/yariv-levin.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/yariv-levin.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="yariv-levin" tabindex="-1">Yariv Levin <a class="header-anchor" href="#yariv-levin" aria-label="Permalink to &quot;Yariv Levin&quot;">​</a></h1><p>Yariv Levin is the Israeli Justice Minister. In late December 2024 he was designated to serve as caretaker prime minister while Prime Minister <a href="/entities/benjamin-netanyahu">Benjamin Netanyahu</a> was incapacitated during surgery to remove his prostate, according to reporting cited by Badlands Media from The Jerusalem Post.[1] Defense Minister <a href="/entities/israel-katz">Israel Katz</a> was designated to chair the political-security cabinet during the same period.[1]</p><p>Levin&#39;s temporary elevation placed the architect of Israel&#39;s contested judicial overhaul in the premiership at the very moment Netanyahu&#39;s attorney, Amit Hadad, obtained approval from the Attorney General&#39;s Office to cancel the prime minister&#39;s scheduled testimony in his ongoing corruption trial.[1] Badlands commentary tied the episode to a broader pattern of delay in that prosecution, including an earlier effort to reorganize the judicial system so that Netanyahu&#39;s ruling party could stack the Supreme Court with justices of its choosing.[1]</p><h2 id="call-for-west-bank-sovereignty-july-2025" tabindex="-1">Call for West Bank sovereignty (July 2025) <a class="header-anchor" href="#call-for-west-bank-sovereignty-july-2025" aria-label="Permalink to &quot;Call for West Bank sovereignty (July 2025)&quot;">​</a></h2><p>In comments reported on July 2, 2025, Levin, serving as <a href="/entities/israel">Israel</a>&#39;s Justice Minister, said &quot;the time has come&quot; for Israel to apply sovereignty across the occupied West Bank.[2] The remarks drew a strong condemnation from <a href="/entities/saudi-arabia">Saudi Arabia</a>, whose Ministry of Foreign Affairs said such a step would violate international law and reiterated the Kingdom&#39;s rejection of settlement expansion on Palestinian land.[2]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: A President&#39;s Passing &amp; A Prime Minister&#39;s Prostate&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-08e" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-08e</a></li><li>Badlands Brief — &quot;Badlands News Brief: IC Ignitions &amp; Double Detonations&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-1a0" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-1a0</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/yariv-levin.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const yarivLevin = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  yarivLevin as default
+};

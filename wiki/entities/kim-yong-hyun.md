@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-korea, defense-minister, martial-law, north-korea, false-flag]
-sources: [raw/badlands-news-brief-61a.md]
+sources: [raw/badlands-news-brief-61a.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -26,6 +26,13 @@ Park stated that the [[defense-counterintelligence-command|Defense Counterintell
 
 Commentary at [[badlands-media|Badlands Media]] emphasized that the allegations were purportedly grounded in testimony given by military leaders to the South Korean Parliament, and that this testimony directly contradicted the account given by the now-disgraced president who had attempted to consolidate power through martial law.[1] While more elaborate claims circulating online — including a plan involving the HID special forces unit — remained difficult to verify, the widely reported core was that Kim, as a political appointee, and Yoon were attempting to provoke a war with North Korea by inducing the North to strike first.[1]
 
+## Arrest for alleged treason (December 2024)
+
+Kim was arrested in early December 2024 over his alleged role in President [[yoon-suk-yeol|Yoon Suk Yeol]]'s decision to declare martial law, according to the Yonhap news agency.[2] Some reports claimed that Kim, who resigned his post on the Wednesday following the declaration, was the official who advised the president to impose martial law.[2] The opposition filed legal complaints accusing Yoon, Kim, and martial law commander Park An-Su of treason.[2]
+
+According to Yonhap, Kim was arrested after voluntarily submitting to questioning by prosecutors on Sunday, December 8, 2024, and was sent to a detention center in eastern Seoul, where his phone was seized.[2] Later the same day, police raided his former office and official residence.[2]
+
 ## References
 
 1. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
+2. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

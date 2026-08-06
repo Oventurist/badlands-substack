@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mergers, hollywood, streaming]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-441.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -40,8 +40,15 @@ In August 2024 shares of Warner Bros. Discovery, parent of [[cnn|CNN]] and TNT, 
 
 For the quarter, Warner Bros. Discovery reported a net loss of $10 billion, including additional charges of $2.1 billion related to the merger, while revenue fell 6.2% to $9.71 billion; the revenue collapse in the Networks segment that includes CNN continued unabated.[4]
 
+## Netflix agreement and Paramount's hostile bid (December 2025)
+
+On Friday, December 5, 2025, [[netflix|Netflix]] announced an $83 billion deal to buy a large part of Warner Bros. Discovery, an agreement approved by the boards of both companies that excluded the company's portfolio of cable channels.[5] The following Monday, [[paramount-global|Paramount]] went around the Warner Bros. Discovery board directly to shareholders with a competing all-cash offer of $30 per share, valuing the company at around $108 billion including debt and covering the entire business — the Warner Bros. movie studio, the HBO Max streaming service and cable channels including CNN.[5]
+
+Paramount said it bypassed the board because it was "pursuing an inferior proposal" that would lead to "a challenging regulatory approval process," while chief executive [[david-ellison|David Ellison]] argued the bid would "create a stronger Hollywood."[5]
+
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 3. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 4. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
+5. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

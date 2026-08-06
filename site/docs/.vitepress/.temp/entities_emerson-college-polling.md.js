@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Emerson College Polling","description":"","frontmatter":{"title":"Emerson College Polling","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["polling","elections","media","2024-election"],"sources":["raw/badlands-news-brief-6d6.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/emerson-college-polling.md","filePath":"entities/emerson-college-polling.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/emerson-college-polling.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="emerson-college-polling" tabindex="-1">Emerson College Polling <a class="header-anchor" href="#emerson-college-polling" aria-label="Permalink to &quot;Emerson College Polling&quot;">​</a></h1><p>Emerson College Polling is the survey research unit of Emerson College, whose national and state-level political polls are widely cited in American campaign coverage. In August 2023 the organization released a national poll of the Republican presidential field that became a focal point of commentary about the shape of the 2024 primary.[1]</p><h2 id="august-2023-national-primary-poll" tabindex="-1">August 2023 national primary poll <a class="header-anchor" href="#august-2023-national-primary-poll" aria-label="Permalink to &quot;August 2023 national primary poll&quot;">​</a></h2><p>The Emerson survey found Florida governor <a href="/entities/ron-desantis">Ron DeSantis</a> tied for second place in the Republican presidential field with entrepreneur <a href="/entities/vivek-ramaswamy">Vivek Ramaswamy</a>, both at 10 percent.[1] Former president <a href="/entities/donald-trump">Donald Trump</a> led the field with 56 percent, retaining a majority of Republican support heading into the first primary debate.[1] The poll&#39;s internal trend lines were the most discussed element of the release: DeSantis had fallen from 21 percent in June, while Ramaswamy had climbed from just 2 percent over the same interval.[1]</p><h2 id="reception-in-independent-media" tabindex="-1">Reception in independent media <a class="header-anchor" href="#reception-in-independent-media" aria-label="Permalink to &quot;Reception in independent media&quot;">​</a></h2><p>The result was treated by ZeroHedge and by commentators at <a href="/entities/badlands-media">Badlands Media</a> as evidence that the DeSantis campaign had collapsed and that Ramaswamy was absorbing the anti-establishment protest vote within the primary electorate.[1] Badlands writers used the numbers to argue that candidate &quot;authenticity&quot; rather than institutional backing was driving movement in the field, and that the polling shift coincided with a strategic pivot by establishment-aligned media figures.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Con Inc. Introduces a New Candidate ... And Trump Was Right!&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-6d6" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-6d6</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/emerson-college-polling.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const emersonCollegePolling = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  emersonCollegePolling as default
+};

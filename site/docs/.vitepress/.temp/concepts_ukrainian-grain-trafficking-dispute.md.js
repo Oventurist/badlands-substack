@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Ukrainian Grain Trafficking Dispute","description":"","frontmatter":{"title":"Ukrainian Grain Trafficking Dispute","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["ukraine","israel","russia","grain","sanctions","shipping"],"sources":["raw/badlands-brief-9f2.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/ukrainian-grain-trafficking-dispute.md","filePath":"concepts/ukrainian-grain-trafficking-dispute.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/ukrainian-grain-trafficking-dispute.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="ukrainian-grain-trafficking-dispute" tabindex="-1">Ukrainian Grain Trafficking Dispute <a class="header-anchor" href="#ukrainian-grain-trafficking-dispute" aria-label="Permalink to &quot;Ukrainian Grain Trafficking Dispute&quot;">​</a></h1><p>The Ukrainian grain trafficking dispute concerns <a href="/entities/ukraine">Ukraine&#39;s</a> ongoing effort to block international shipments of agricultural goods it says were looted from territory occupied by <a href="/entities/russia">Russia</a> since the invasion.[1] In one incident covered by the Badlands Brief, Kyiv summoned <a href="/entities/israel">Israel&#39;s</a> ambassador after accusing Israel of allowing a ship carrying grain taken from Russian-occupied Ukrainian territory to dock and depart from Haifa.[1]</p><p>Ukraine argued that the cargo constituted &quot;looted&quot; agricultural goods from seized areas and said Israel had failed to act despite prior warnings.[1] Israeli officials responded that by the time the concerns were raised the vessel had already left port, making seizure impractical under the circumstances.[1] The episode illustrates the broader pattern of disputes over the movement of Ukrainian grain through international markets, with Kyiv pressing partners to interdict shipments it says originate from occupied regions.[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>Writing on the incident, <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> raised the speculative scenario of Ukraine and Israel turning on one another and neutralizing each other militarily.[1] The commentary asserts that the two countries are connected culturally, religiously, ethnically and historically, characterizes Israel as having been &quot;literally a Ukrainian (Russian) colony,&quot; and argues that despite substantial cooperation between them there is enough ego and hubris on both sides that a falling-out is conceivable, if a longshot.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Rigged Maps, Russian Grain, &amp; Maduro&#39;s Billable Hours&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-9f2" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-9f2</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/ukrainian-grain-trafficking-dispute.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ukrainianGrainTraffickingDispute = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ukrainianGrainTraffickingDispute as default
+};

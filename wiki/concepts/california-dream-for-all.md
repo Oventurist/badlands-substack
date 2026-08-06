@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [california, housing, down-payment-assistance, shared-appreciation]
-sources: [raw/badlands-news-brief-7e6.md]
+sources: [raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Senate President Pro Tempore Toni Atkins (D-San Diego), the legislator responsib
 
 Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] characterized the program as a "slavery disguised as opportunity" play, arguing that subsidizing loans for buyers priced out of desirable metropolitan and suburban markets results in the government "taking ownership of a piece of your loan."[1] The commentary contended that the arrangement leaves the buyer indebted simultaneously to the bank and to the state, and questioned whether any meaningful distinction between the two exists.[1]
 
+## Proposed extension to illegal immigrants (2024)
+
+In 2024 the program became the subject of [[assembly-bill-1840|Assembly Bill 1840]], a measure introduced in mid-January by Assemblyman [[joaquin-arambula|Joaquin Arambula]] that would change existing law to allow illegal immigrants to be eligible for the California Dream for All Fund, described in that coverage as providing interest-free loans for a down payment on a home for first-time buyers.[2] After several amendments the bill advanced to the Committee on Housing and Community Development, where it awaited further action as of early March 2024, drawing criticism from those objecting to granting benefits to people who entered the country illegally.[2] Arambula argued that homeownership has historically been the main way people accumulate generational wealth and that "the social and economic benefits of homeownership should be available to everyone."[2]
+
 ## References
 
 1. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
+2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

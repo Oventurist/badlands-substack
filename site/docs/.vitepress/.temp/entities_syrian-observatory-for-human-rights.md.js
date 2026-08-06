@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Syrian Observatory for Human Rights","description":"","frontmatter":{"title":"Syrian Observatory for Human Rights","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["syria","media","ngo","information-war"],"sources":["raw/badlands-news-brief-4cf.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/syrian-observatory-for-human-rights.md","filePath":"entities/syrian-observatory-for-human-rights.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/syrian-observatory-for-human-rights.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="syrian-observatory-for-human-rights" tabindex="-1">Syrian Observatory for Human Rights <a class="header-anchor" href="#syrian-observatory-for-human-rights" aria-label="Permalink to &quot;Syrian Observatory for Human Rights&quot;">​</a></h1><p>The Syrian Observatory for Human Rights (SOHR) is a UK-based monitoring organization whose reporting on the war in <a href="/entities/syria">Syria</a> has been widely cited by Western governments and media outlets.[1]</p><h2 id="structure-and-criticism" tabindex="-1">Structure and criticism <a class="header-anchor" href="#structure-and-criticism" aria-label="Permalink to &quot;Structure and criticism&quot;">​</a></h2><p>SOHR consists of a single individual, Rami Abdulrahman, who runs the organization from his home in Coventry, England, a property that also functions as a clothing shop. Despite this minimal footprint, its output has been treated as authoritative by major institutions, while the group has consistently faced accusations of anti-Assad bias and sympathy toward armed opposition groups.[1]</p><h2 id="the-assad-poisoning-claim" tabindex="-1">The Assad poisoning claim <a class="header-anchor" href="#the-assad-poisoning-claim" aria-label="Permalink to &quot;The Assad poisoning claim&quot;">​</a></h2><p>In early October 2025, SOHR cited an anonymous source in claiming that former Syrian President <a href="/entities/bashar-al-assad">Bashar al-Assad</a> had been discharged from a hospital in the Moscow Region following a supposed poisoning attempt in September. The rumor was widely circulated by both Western and Russian media outlets.[1]</p><p>Russian Foreign Minister <a href="/entities/sergey-lavrov">Sergey Lavrov</a> rejected the report, stating that Assad and his family were safe in Moscow, that &quot;no poisonings have occurred,&quot; and that &quot;if such rumors appear, I leave them to the conscience of those who spread them.&quot; Badlands commentary treated the episode as one of several information operations aimed at extinguishing whatever residual relevance Assad retains to Syria&#39;s future.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Price Floors, Curveballs, &amp; Benevolent Discrimination&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-4cf" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-4cf</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/syrian-observatory-for-human-rights.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const syrianObservatoryForHumanRights = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  syrianObservatoryForHumanRights as default
+};

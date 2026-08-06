@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, syria, libya, isis, washington]
-sources: [raw/a-conflict-of-interest.md, raw/badlands-news-brief-757.md]
+sources: [raw/a-conflict-of-interest.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-960.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ Moustafa's name resurfaced in December 2024 amid the [[2024-hts-aleppo-offensive
 
 The commentary pointed to a 2013 ABC News segment by George Stephanopoulos and to photographs from the trip in which Moustafa is seated to McCain's left while [[abu-bakr-al-baghdadi|Abu Bakr al-Baghdadi]] — the ISIS leader later killed in a 2019 raid involving the military dog Conan, ordered by President [[donald-trump|Donald Trump]] — is visible in the background.[2] After al-Baghdadi's death, the commentary noted, CNN hosted Moustafa to lament the killing and to call Assad a puppet of [[vladimir-putin|Putin]].[2] The writer argued the episode showed that mainstream media had been straightforward all along about its support for ISIS, and treated the fawning coverage of McCain by his purported political rivals as an illustration of [[uniparty|Uniparty]] dynamics.[2]
 
+## December 2024 CNN appearance
+
+In the days after [[hayat-tahrir-al-sham|HTS]] took Damascus, Moustafa appeared on CNN in a segment with [[jim-acosta|Jim Acosta]] discussing developments in Syria.[3] Badlands commentary highlighted the appearance, identifying him as executive director of the [[syrian-emergency-task-force|Syrian Emergency Task Force]] — which it described as the public-relations division of [[islamic-state|ISIS]] — and recalling a 2011 photograph of him in Syria with Senator [[john-mccain|John McCain]] and [[abu-bakr-al-baghdadi|Abu Bakr al-Baghdadi]].[3] The commentary treated the booking as evidence that ostensibly adversarial outlets were participating in a common narrative management effort around the Syrian regime change.[3]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+3. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960

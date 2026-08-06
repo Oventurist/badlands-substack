@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, pcast, venture-capital, thiel-network]
-sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ In July 2024, Axios reported that Andreessen and his partner [[ben-horowitz|Ben 
 
 The donations followed [[elon-musk|Elon Musk]]'s endorsement of Trump and formation of a supporting PAC, and were consistent with the late-2023 announcement by [[andreessen-horowitz|Andreessen Horowitz]] — the venture firm Andreessen and Horowitz co-founded in 2009 — that its partners would begin donating to political candidates seen as "advancing technology."[3] Axios described the pair as "techno-optimists" and noted that Silicon Valley's Republican camp was growing and throwing around its weight.[3]
 
+## Reported role in DOGE candidate selection (December 2024)
+
+In December 2024, the Financial Times reported, citing two unnamed sources with knowledge of the matter, that Andreessen was helping identify and interview candidates for President-elect [[donald-trump|Donald Trump]]'s advisory commission on cutting government spending, [[doge|DOGE]].[4] An MSNBC opinion piece argued the reported role was hypocritical given Andreessen's recent criticism of unelected decision-makers in the federal government and specifically his complaints about the [[consumer-financial-protection-bureau|Consumer Financial Protection Bureau]], the agency created after the 2008 financial crisis to protect consumers from deceptive financial products.[4]
+
 ## References
 
 1. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
 3. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
+4. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epa, climate, deregulation, trump-administration]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7ed.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-9bc.md]
 confidence: low
 ---
 
@@ -39,6 +39,14 @@ In February 2025, EPA Administrator Zeldin announced that the agency had discove
 
 Energy was also a topic during Zeldin's January 2025 confirmation hearing for administrator of the [[environmental-protection-agency|Environmental Protection Agency]], where Badlands commentary described him as calm and credible under questioning.[6] The broader takeaway offered from that day's hearings was that legislators appeared most concerned with protecting their federal funding and enabling public-private partnerships across sectors.[6]
 
+## Nomination to lead the EPA (November 2024)
+
+On Monday, November 11, 2024, President-elect [[donald-trump|Donald Trump]] named Zeldin, a former New York congressman, to lead the [[environmental-protection-agency|Environmental Protection Agency]] as he continued building out his administration with loyal supporters.[7] Trump said Zeldin would "ensure fair and swift deregulatory decisions that will be enacted in a way to unleash the power of American businesses" while maintaining "the highest environmental standards, including the cleanest air and water on the planet"; the statement misidentified the agency as the "Environmental Protective Agency."[7]
+
+AP News described the pick as a surprise: Zeldin, a Republican who mounted a failed bid for governor of New York in 2022 and left Congress in January 2023, had generally spoken about the military, national security, antisemitism, U.S.–Israel relations, immigration and crime rather than environmental policy.[7] He was among the Republicans who voted against certifying the 2020 election results, never served on committees with environmental oversight, and held a lifetime score of 14% from the League of Conservation Voters over his eight years in Congress.[7]
+
+Badlands writer [[burning-bright|Burning Bright]] framed the announcement as part of a bifurcation in Trump's staffing: high-profile narrative figures such as [[elon-musk|Elon Musk]] and [[robert-f-kennedy-jr|RFK Jr.]] occupying paradigm-shifting roles, while the "real juice" lay with lesser-known names including [[kash-patel|Kash Patel]], [[stephen-miller|Stephen Miller]], [[tom-homan|Tom Homan]], [[mike-waltz|Mike Waltz]] and [[susie-wiles|Susie Wiles]].[7]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
@@ -46,3 +54,4 @@ Energy was also a topic during Zeldin's January 2025 confirmation hearing for ad
 4. Badlands News Brief — "Mid-Transition “QAnon” Claims & A Not Quite Final Farewell", URL: https://badlands.substack.com/p/badlands-news-brief-351
 5. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 6. Badlands Brief — "Badlands News Brief: Unlikely Ambassadors, The Ceasefire Accords, & Predatory Cartoonist", URL: https://badlands.substack.com/p/badlands-news-brief-7ed
+7. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc

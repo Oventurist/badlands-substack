@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse(`{"title":"China's EUV Lithography Program","description":"","frontmatter":{"title":"China's EUV Lithography Program","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["china","semiconductors","euv","technology-war","ai-chips"],"sources":["raw/badlands-news-brief-795.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/china-euv-lithography-program.md","filePath":"concepts/china-euv-lithography-program.md","lastUpdated":null}`);
+const _sfc_main = { name: "concepts/china-euv-lithography-program.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="china-s-euv-lithography-program" tabindex="-1">China&#39;s EUV Lithography Program <a class="header-anchor" href="#china-s-euv-lithography-program" aria-label="Permalink to &quot;China&#39;s EUV Lithography Program&quot;">​</a></h1><p>China&#39;s extreme ultraviolet (EUV) lithography program is an effort — characterized by Reuters as <a href="/entities/china">China</a>&#39;s &quot;Manhattan Project&quot; to rival the West in AI chips — to domestically produce the machines needed to fabricate the most advanced semiconductors.[1]</p><h2 id="the-shenzhen-prototype" tabindex="-1">The Shenzhen prototype <a class="header-anchor" href="#the-shenzhen-prototype" aria-label="Permalink to &quot;The Shenzhen prototype&quot;">​</a></h2><p>In a high-security Shenzhen laboratory, Chinese scientists built a prototype of a machine capable of producing the cutting-edge semiconductor chips that power artificial intelligence, smartphones and weapons central to Western military dominance — achieving what Washington had spent years trying to prevent.[1] Completed in early 2025 and undergoing testing at the time of reporting, the prototype fills nearly an entire factory floor.[1]</p><p>The machine was built by a team of former engineers from the Dutch semiconductor giant <a href="/entities/asml">ASML</a> who reverse-engineered the company&#39;s extreme ultraviolet lithography machines, according to two people with knowledge of the project.[1] The machine is operational and successfully generating extreme ultraviolet light, but had not yet produced working chips.[1]</p><h2 id="strategic-significance" tabindex="-1">Strategic significance <a class="header-anchor" href="#strategic-significance" aria-label="Permalink to &quot;Strategic significance&quot;">​</a></h2><p>EUV machines sit at the heart of a technological Cold War.[1] They use beams of extreme ultraviolet light to etch circuits thousands of times thinner than a human hair onto silicon wafers, a capability currently monopolized by the West; the smaller the circuits, the more powerful the chips.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Brennan Decries Judge Shopping &amp; JD Says It&#39;s Okay to Be White!&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-795" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-795</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/china-euv-lithography-program.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const chinaEuvLithographyProgram = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  chinaEuvLithographyProgram as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [boycott, consumer-activism, culture-war, retail, transgender-issues]
-sources: [raw/badlands-news-brief-79c.md]
+sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-98c.md]
 confidence: medium
 ---
 
@@ -29,3 +29,10 @@ In her account, mothers publicized items such as breast-binding and penis-tuckin
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Target Tumbles, Trump Tops & Feds Fabricate", URL: https://badlands.substack.com/p/badlands-news-brief-79c
+
+## Activist backlash and the LGBTQ counter-campaign
+
+After [[target-corporation|Target]] announced in late May 2023 that it had removed certain products and relocated Pride displays to the back of some stores in response to public protest, LGBTQ activists called for new campaigns warning corporate leaders not to heed opposing voices, and chastising firms that relent under pressure.[2] California State Senator Scott Wiener, a member of the state's LGBTQ legislative caucus, led a pledge declaring: "We need to send a clear message to corporate America that if you're our ally — if you are truly our ally — you need to be our ally, not just when it's easy but also when it's hard."[2] [[breitbart-news|Breitbart]] noted that customers had "voted with their feet — and their wallets," and that those identifying as LGBTQ make up a small share of the U.S. population.[2]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] reported that the demands followed a roughly $9 billion loss in Target's market capitalisation in a single week, and highlighted the retailer's partnership with artist Eric Carnell, whose involvement in three products in the display was confirmed with a "True" rating by [[snopes|Snopes]] after online attempts to debunk it; Carnell had written on Instagram that "Satan is hope, compassion, equality, and love."[2] She argued that Target, [[disney|Disney]], [[bud-light|Bud Light]] and Kohl's were all facing the same choice between profit and ideology, hypothesised that global corporations were measuring success against a second, non-financial set of metrics during the "great reset," and predicted they would choose ideology even at the cost of billions.[2] She added that the very existence of the choice was a win for consumer activism, since a movement large enough to win in the market would not need to demand loyalty "when it's hard," and noted she had stopped shopping at Target in the mid-2000s over its school giving program's donations to [[planned-parenthood|Planned Parenthood]].[2]
+2. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c

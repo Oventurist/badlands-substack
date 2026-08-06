@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [isis, syria, terrorism, weapons, libya, lobbying]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -114,6 +114,12 @@ Badlands contributor [[burning-bright|Burning Bright]] characterised ISIS as a "
 
 With much of international attention gripped by the war in the Gaza Strip, ISIS steadily ramped up operations across continents in early 2024, setting the stage for a resurgence of global mayhem, according to Newsweek.[14] The latent threat came to life in March 2024 when the group claimed responsibility for the massacre at the [[crocus-city-hall-attack|Crocus City Hall]] concert venue outside Moscow, the deadliest militant attack on Russian soil since the 2002 theater hostage crisis in the capital.[14] Experts and officials warned that the next operation could target virtually anyone, including U.S. citizens.[14] Russian authorities, however, declined to echo the Western attribution of the attack to the group's Khorasan branch, pointing instead at Ukraine.[14]
 
+## December 2024 CENTCOM strikes in central Syria
+
+On December 8, 2024, [[centcom|U.S. Central Command]] conducted dozens of precision airstrikes against known ISIS camps, leaders, and operatives in central [[syria|Syria]], hitting more than 75 targets with B-52, F-15, and A-10 aircraft.[15] CENTCOM said the operation was intended to prevent the group from conducting external operations and from exploiting the collapse of the Syrian government to reconstitute in central Syria, and reported no indications of civilian casualties pending battle damage assessment.[15] General [[michael-kurilla|Michael Erik Kurilla]] warned that "all organizations in Syria should know that we will hold them accountable if they partner with or support ISIS in any way."[15]
+
+Badlands commentary alleged that ISIS had originally been formed by Senator [[john-mccain|John McCain]] and Senator [[lindsey-graham|Lindsey Graham]] out of [[cia|CIA]] proxy groups operating across North Africa and the Middle East, with the assistance of [[barack-obama|Barack Obama]] and [[hillary-clinton|Hillary Clinton]] — a claim advanced by the outlet rather than an established finding.[15]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -129,3 +135,4 @@ With much of international attention gripped by the war in the Gaza Strip, ISIS 
 12. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 13. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 14. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
+15. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

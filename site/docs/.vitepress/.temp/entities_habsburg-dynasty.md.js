@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Habsburg Dynasty","description":"","frontmatter":{"title":"Habsburg Dynasty","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["europe","aristocracy","history","holy-roman-empire"],"sources":["raw/badlands-news-brief-41f.md"],"confidence":"low"},"headers":[],"relativePath":"entities/habsburg-dynasty.md","filePath":"entities/habsburg-dynasty.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/habsburg-dynasty.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="habsburg-dynasty" tabindex="-1">Habsburg Dynasty <a class="header-anchor" href="#habsburg-dynasty" aria-label="Permalink to &quot;Habsburg Dynasty&quot;">​</a></h1><p>The <strong>Habsburg dynasty</strong>, otherwise known as the House of Austria, was one of the most prominent royal houses of Europe and among the families represented at the 1815 Congress (Treaty) of Vienna.[1]</p><h2 id="historical-sketch" tabindex="-1">Historical sketch <a class="header-anchor" href="#historical-sketch" aria-label="Permalink to &quot;Historical sketch&quot;">​</a></h2><p>After taking over the Holy Roman Empire and marrying into nearly every royal court in Europe, the Habsburgs sought to preserve the &quot;greatness&quot; of their bloodline by marrying within their own family.[1] The resulting consanguinity produced the pronounced facial deformity popularly known as the &quot;Habsburg jawline,&quot; and Badlands commentary described the family as the most notorious victim of aristocratic inbreeding, with descendants who were eventually too impaired to function.[1]</p><h2 id="use-as-a-political-metaphor" tabindex="-1">Use as a political metaphor <a class="header-anchor" href="#use-as-a-political-metaphor" aria-label="Permalink to &quot;Use as a political metaphor&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> invoked the dynasty in October 2024 as an analogy for the leadership of the <a href="/entities/european-union">European Union</a>.[1] He characterized the bloc as &quot;a menagerie of wannabe aristocrats, desperately trying to LARP the 1815 Treaty of Vienna&quot; — the settlement at which, after the defeat of Napoleon and the end of the French Revolution, Europe&#39;s disgraced aristocrats convened to restore the continent&#39;s monarchies and devised systems to persecute free-thinkers, including blacklists distributed to every university and newspaper in Europe.[1] He noted the irony that those blacklisted became unemployable and emigrated to America, &quot;which only made America that much more based.&quot;[1] He concluded that the European Union had &quot;proven itself to be an even more egregious disaster than the Habsburgs&#39; genetic sequencing.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;FEMA&#39;s Broke. Ukraine is Collapsing. The EU is Doomed.&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-41f" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-41f</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/habsburg-dynasty.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const habsburgDynasty = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  habsburgDynasty as default
+};

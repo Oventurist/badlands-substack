@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, media, americana, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -59,6 +59,12 @@ In a press release, AFL said Disney had "displayed an inexplicable disregard for
 
 In September 2025, Disney-owned ABC took [[jimmy-kimmel|Jimmy Kimmel]]'s late-night program *Jimmy Kimmel Live!* off the air under pressure from the [[trump-administration|Trump administration]], station owners and conservative critics over comments Kimmel made after the killing of activist [[charlie-kirk|Charlie Kirk]].[8] Nearly a week later, The Walt Disney Co. announced his return for Tuesday, September 23, saying in a statement: "Last Wednesday, we made the decision to suspend production on the show to avoid further inflaming a tense situation at an emotional moment for our country. It is a decision we made because we felt some of the comments were ill-timed and thus insensitive."[8] The company said that after "thoughtful conversations with Jimmy," it had reached the decision to return the show.[8]
 
+## September 2024 corporate layoffs
+
+In late September 2024, Disney began a new wave of job cuts described by the company as part of a "cost-saving initiative," with roughly 300 people affected by layoffs that began mid-week and continued over following days.[9] All of the eliminated positions were based in the United States and spanned Disney's corporate operations, including legal, human resources, finance and communications; the Parks, ESPN and Disney Entertainment divisions were not affected in that round.[9] A company spokesperson said Disney "continually evaluate[s] ways to invest in our businesses and more effectively manage our resources and costs," and that a review of the cost structure for corporate-level functions had identified ways for them to operate more efficiently.[9]
+
+The cuts followed a July 31, 2024 round at Disney Entertainment Television in which about 140 people — roughly 2% of that workforce — were let go, and a 14% staff reduction at the animation studio Pixar in May of the same year.[9] They also coincided with a second round of layoffs at [[paramount-global|Paramount Global]], which was aiming to cut 15% of its US workforce with Paramount+ bearing the brunt.[9]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -68,3 +74,4 @@ In September 2025, Disney-owned ABC took [[jimmy-kimmel|Jimmy Kimmel]]'s late-ni
 6. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 7. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 8. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+9. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

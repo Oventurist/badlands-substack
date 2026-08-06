@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"William Gilpin","description":"","frontmatter":{"title":"William Gilpin","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["american-history","railways","colorado","american-system"],"sources":["raw/avoiding-wwiii.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/william-gilpin.md","filePath":"entities/william-gilpin.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/william-gilpin.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="william-gilpin" tabindex="-1">William Gilpin <a class="header-anchor" href="#william-gilpin" aria-label="Permalink to &quot;William Gilpin&quot;">​</a></h1><p><strong>William Gilpin</strong> was an American statesman, Colorado governor during the Civil War and ally of <a href="/entities/abraham-lincoln">Abraham Lincoln</a>, described by <a href="/entities/matthew-ehret">Matthew Ehret</a> as one of the most vocal proponents of a trans-continental railway extending into Eurasia.[1]</p><h2 id="anti-slavery-and-anti-imperial-career" tabindex="-1">Anti-slavery and anti-imperial career <a class="header-anchor" href="#anti-slavery-and-anti-imperial-career" aria-label="Permalink to &quot;Anti-slavery and anti-imperial career&quot;">​</a></h2><p>Gilpin is listed among the &quot;wiser anti-slavery voices&quot; of the nineteenth century who were subverted by the anglophile <a href="/concepts/deep-state">Deep State</a> parasite class running Wall Street and the southern slave power.[1] He became a leading figure of anti-slavery America and developed a reputation as an Anglophobe suspicious of British Imperial intrigue, working closely with patriots who wished to take back the nation from the oligarchical slave power.[1]</p><h2 id="the-cosmopolitan-railway" tabindex="-1">The Cosmopolitan Railway <a class="header-anchor" href="#the-cosmopolitan-railway" aria-label="Permalink to &quot;The Cosmopolitan Railway&quot;">​</a></h2><p>Gilpin published <em>The Cosmopolitan Railway</em> in 1890, at a point when the United States had over 163,000 miles of railway and many other nations were experiencing parallel growth through the same model of political economy.[1] His vision anticipated the later Eurasian land-bridge concepts embodied in the <a href="/concepts/bering-strait-tunnel">Bering Strait Tunnel</a> proposals.[1]</p><h2 id="on-reservations" tabindex="-1">On reservations <a class="header-anchor" href="#on-reservations" aria-label="Permalink to &quot;On reservations&quot;">​</a></h2><p>Gilpin astutely identified Native American reservations as being &quot;like blocks of stone in the wall of a jail against the frontier line,&quot; a formulation Ehret uses to introduce his critique of <a href="/concepts/eco-colonialism">eco-colonialism</a> and the ghettoization of First Nations.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Avoiding WWIII&quot;, URL: <a href="https://badlands.substack.com/p/avoiding-wwiii" target="_blank" rel="noreferrer">https://badlands.substack.com/p/avoiding-wwiii</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/william-gilpin.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const williamGilpin = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  williamGilpin as default
+};

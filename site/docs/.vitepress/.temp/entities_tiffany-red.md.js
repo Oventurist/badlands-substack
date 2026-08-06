@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Tiffany Red","description":"","frontmatter":{"title":"Tiffany Red","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["music-industry","litigation","diddy","songwriters"],"sources":["raw/badlands-news-brief-788.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/tiffany-red.md","filePath":"entities/tiffany-red.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/tiffany-red.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="tiffany-red" tabindex="-1">Tiffany Red <a class="header-anchor" href="#tiffany-red" aria-label="Permalink to &quot;Tiffany Red&quot;">​</a></h1><p><strong>Tiffany Red</strong> is a veteran American songwriter who in March 2024 announced plans to sue the music mogul <a href="/entities/sean-combs">Sean &quot;Diddy&quot; Combs</a> and several record labels, adding to the mounting legal problems surrounding Combs.[1]</p><h2 id="planned-lawsuit" tabindex="-1">Planned lawsuit <a class="header-anchor" href="#planned-lawsuit" aria-label="Permalink to &quot;Planned lawsuit&quot;">​</a></h2><p>Red discussed her intentions during an Instagram Live appearance in which she was visibly distressed and outlined the reasons behind her decision.[1] Known within the industry for her songwriting and her close working association with the singer Cassie, Red said she had decided to confront the situation directly through legal action.[1]</p><p>Her announced claims named multiple defendants: &quot;I am suing Sean Combs, I&#39;m suing Interscope Records, I&#39;m suing Bad Boy Entertainment, I&#39;m suing Epic Records, and I don&#39;t know who else… for tortious interference, for all of the work that I have done that has been [expletive] because of all of this [expletive]. My work was [expletive]; it was derailed. I spent years working with Cassie… the music is incredible, it&#39;s all [expletive] now, it&#39;s got all this nastiness all over it.&quot;[1] Reporting on the planned suit described it as centering on accusations that painted a troubling picture of the environment surrounding Combs, characterized by alleged manipulation and coercion.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands writer <a href="/entities/simon-esler">Simon Esler</a> argued that Red&#39;s suit would &quot;only bring more important details on the sophisticated organized crime at play&quot; in the music industry, framing the Combs litigation as an opening onto entrapment and blackmail operations he said had been duplicated throughout society.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Trump&#39;s Ballot Battles, Racist Mockingbirds and Dying DEI&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-788" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-788</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/tiffany-red.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const tiffanyRed = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  tiffanyRed as default
+};

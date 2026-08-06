@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, appropriations, immigration, ice, congress]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md]
 confidence: low
 ---
 
@@ -52,6 +52,14 @@ In a letter published on Sunday, June 29, the [[american-bankers-association|Ame
 
 Badlands contributor Ashe in America argued that the ideal outcome would be for [[donald-trump|Trump]]'s agenda to be fully funded with the fallout being the end of the uniparty political system.[7] Contributor Burning Bright read Trump's pre-emptive victory lap — "Our Country is going to explode with Massive Growth, even more than it already has since I was Re-Elected" — as a growth signal echoed by Musk, concluding that "the only way out is through."[7]
 
+## Signing and Des Moines rally (July 2025)
+
+President [[donald-trump|Donald Trump]] officially signed the "One Big Beautiful Bill" into law at the White House on the Fourth of July 2025, hours after a speech in Des Moines, Iowa, and touted the bill's passage from the balcony overlooking the South Lawn.[8] In Des Moines the previous day he had spoken for over an hour to cap the America250 event at the Iowa State Fairgrounds, kicking off a yearlong celebration of America's 250th birthday.[8]
+
+The nonpartisan [[congressional-budget-office|Congressional Budget Office]] projected the legislation would increase the national debt by $3.4 trillion, a figure [[elon-musk|Elon Musk]] cited in his opposition before announcing the [[america-party|America Party]] the following day.[8] Critics also focused on its safety-net provisions, which cut more than $1 trillion from [[supplemental-nutrition-assistance-program|SNAP]] and [[medicaid|Medicaid]] combined.[8]
+
+Badlands contributor [[jon-herold|Jon Herold]] argued on the [[devolution-power-hour|Devolution Power Hour]] that Trump could strip the objectionable spending from the bill after the fact, citing heavy signal from [[russ-vought|Russ Vought]] and [[steve-bannon|Steve Bannon]] that the administration would use impoundments to rein in wasteful spending.[8] He pointed back to a June 20, 2023 [[agenda-47|Agenda 47]] video in which Trump said that "bringing back impoundment will give us a crucial tool with which to obliterate the deep state, drain the swamp, and starve the warmongers."[8]
+
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
@@ -60,3 +68,4 @@ Badlands contributor Ashe in America argued that the ideal outcome would be for 
 5. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 6. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 7. Badlands Brief — "Badlands News Brief: Cartel Cybersnoops & Teenage Spider Hackers", URL: https://badlands.substack.com/p/badlands-news-brief-7e5
+8. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a

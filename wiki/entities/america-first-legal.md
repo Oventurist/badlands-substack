@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-advocacy, transparency, intelligence-oversight, conservative]
-sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md]
+sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -44,6 +44,10 @@ In March 2024, AFL — run by former Trump senior adviser [[stephen-miller|Steph
 
 In June 2024, America First Legal filed a formal complaint with the [[federal-election-commission|Federal Election Commission]] against Manhattan District Attorney [[alvin-bragg|Alvin L. Bragg, Jr.]] and Biden's principal campaign committee, Biden for President, alleging violations of the Federal Election Campaign Act.[6] The complaint rested on Bragg's December 2022 hiring of [[matthew-colangelo|Matthew B. Colangelo]], a former senior [[department-of-justice|Department of Justice]] official recruited to advance the office's investigation of [[donald-trump|Donald Trump]] on the basis of his prior work on Trump-related matters at the DOJ and the New York Attorney General's Office, and who had also donated to Bragg's campaign.[6] AFL contended that the prosecution was coordinated with [[joe-biden|Joe Biden]] in order to influence the 2024 presidential election, citing Attorney General [[merrick-garland|Merrick Garland]]'s refusal at a congressional hearing to disclose — or to deny the existence of — communications between the Biden DOJ and Bragg's office.[6]
 
+## Amicus brief in the Trump documents case (March 2024)
+
+On March 7, 2024, Judge [[aileen-cannon|Aileen Cannon]] accepted an amicus brief filed by the America First Legal Foundation, together with one from former Attorney General [[edwin-meese-iii|Edwin Meese]], arguing that the federal classified documents case against [[donald-trump|Donald Trump]] should be thrown out.[7] Trump had pleaded not guilty to 40 charges over claims that he illegally retained classified documents after leaving office and then obstructed the federal effort to retrieve them.[7] Cannon wrote that the arguments in the briefs "may be of considerable help" to her, a remark that prompted speculation among legal experts that she might dismiss the case.[7]
+
 ## References
 1. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
 2. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
@@ -51,3 +55,4 @@ In June 2024, America First Legal filed a formal complaint with the [[federal-el
 4. Badlands News Brief — "Trump Haunts Obama as Clown World Laughs", URL: https://badlands.substack.com/p/badlands-news-brief-4b7
 5. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 6. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
+7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

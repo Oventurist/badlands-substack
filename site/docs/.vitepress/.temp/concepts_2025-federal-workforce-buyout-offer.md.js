@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"2025 Federal Workforce Buyout Offer","description":"","frontmatter":{"title":"2025 Federal Workforce Buyout Offer","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["federal-workforce","opm","deferred-resignation","trump-administration"],"sources":["raw/badlands-news-brief-7c9.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/2025-federal-workforce-buyout-offer.md","filePath":"concepts/2025-federal-workforce-buyout-offer.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/2025-federal-workforce-buyout-offer.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="_2025-federal-workforce-buyout-offer" tabindex="-1">2025 Federal Workforce Buyout Offer <a class="header-anchor" href="#_2025-federal-workforce-buyout-offer" aria-label="Permalink to &quot;2025 Federal Workforce Buyout Offer&quot;">​</a></h1><p>The 2025 federal workforce buyout offer was a government-wide severance proposal announced by the White House on Tuesday, January 28, 2025, offering to pay federal workers who did not wish to return to in-person work through September 30, provided they resigned by February 6.[1] It marked an acceleration of President <a href="/entities/donald-trump">Donald Trump</a>&#39;s already unprecedented effort to shrink the federal workforce.[1]</p><h2 id="terms" tabindex="-1">Terms <a class="header-anchor" href="#terms" aria-label="Permalink to &quot;Terms&quot;">​</a></h2><p>The <a href="/entities/office-of-personnel-management">Office of Personnel Management</a> described the offer as administrative leave with pay and benefits, and a spokeswoman confirmed that agencies would receive implementation details later that Tuesday and would be able to carve out exemptions.[1] A senior administration official told Axios that the government-wide email was intended &quot;to make sure that all federal workers are on board with the new administration&#39;s plan to have federal employees in office and adhering to higher standards,&quot; adding: &quot;We&#39;re five years past COVID and just 6 percent of federal employees work full-time in office. That is unacceptable.&quot;[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands commentary framed the offer as Trump &quot;altering the terms of the deal between the people and the System,&quot; suggesting that employees who take the severance gain a head start in the private sector while those who decline are betting on a welfare state slated for gutting.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Opposition Intensifies. So Does Winning.&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-7c9" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-7c9</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/2025-federal-workforce-buyout-offer.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const _2025FederalWorkforceBuyoutOffer = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  _2025FederalWorkforceBuyoutOffer as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [europe, nord-stream, investigations, baltic-sea]
-sources: [raw/badlands-news-brief-3c0.md]
+sources: [raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -20,5 +20,12 @@ In early February 2024, however, Swedish authorities closed their preliminary in
 
 Commenting in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] noted that Denmark's stated reason was a slight variation on Sweden's jurisdictional excuse — something Swedish authorities apparently took over a year to determine — and that [[germany|Germany]] alone was continuing its own inquiry, with no guarantee any report would be made public.[1]
 
+## NATO accession (March 2024)
+
+Sweden formally joined the [[nato|North Atlantic Treaty Organization]] in Washington on Thursday, March 7, 2024, two years after Russia's invasion of Ukraine forced the country to rethink a national security policy long built on non-alignment.[2] Prime Minister [[ulf-kristersson|Ulf Kristersson]] handed the final accession documentation to the U.S. government, the last step in a drawn-out process of securing the backing of all existing members.[2] U.S. Secretary of State [[antony-blinken|Antony Blinken]] received the papers with the remark, "Good things come to those who wait," and said "everything changed" after Russia's full-scale invasion, citing polling that showed a massive shift in Swedish public opinion.[2] "Swedes realized something very profound: that if Putin was willing to try to erase one neighbor from the map, then he might well not stop there," Blinken said.[2]
+
+The accessions of Sweden and Finland — the latter sharing a 1,340-kilometre (830-mile) border with Russia — were described as the alliance's most significant additions in decades and a blow to Russian President [[vladimir-putin|Vladimir Putin]], who had sought to prevent any further strengthening of NATO.[2] Sweden thereby gained the benefit of the alliance's common defence guarantee, under which an attack on one member is regarded as an attack on all.[2] Badlands commentator [[burning-bright|Burning Bright]] argued that the "security rethink" framing in Western coverage was deliberate but counterproductive, reading as provocation rather than defence to an increasingly tense public.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
+2. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

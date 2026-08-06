@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Jacob Frank","description":"","frontmatter":{"title":"Jacob Frank","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["religion","occult","judaism","illuminati","history"],"sources":["raw/badlands-news-brief-023.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/jacob-frank.md","filePath":"entities/jacob-frank.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/jacob-frank.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="jacob-frank" tabindex="-1">Jacob Frank <a class="header-anchor" href="#jacob-frank" aria-label="Permalink to &quot;Jacob Frank&quot;">​</a></h1><p>Jacob Frank was an 18th-century religious leader who, roughly one hundred years after <a href="/entities/sabbatai-zevi">Sabbatai Zevi</a>, took <a href="/concepts/sabbateanism">Sabbateanism</a> &quot;to the next level,&quot; according to <a href="/entities/justin-deschamps">Justin Deschamps</a> writing in the <a href="/concepts/badlands-news-brief">Badlands News Brief</a>.[1]</p><h2 id="doctrine" tabindex="-1">Doctrine <a class="header-anchor" href="#doctrine" aria-label="Permalink to &quot;Doctrine&quot;">​</a></h2><p>Frank drew from mystical traditions in Judaism, Christianity and Islam, among others, and pushed a form of antinomianism which argued that redemption could be achieved through sinning and then repenting.[1] The famous quote attributed to him — &quot;Since we cannot be saints, let us be sinners&quot; — captures the doctrine.[1]</p><h2 id="associations" tabindex="-1">Associations <a class="header-anchor" href="#associations" aria-label="Permalink to &quot;Associations&quot;">​</a></h2><p>Frank palled around with some of the more influential players in Europe of his era, rubbing elbows with men who would found the <a href="/entities/bavarian-illuminati">Bavarian Illuminati</a> and other geopolitical movements.[1] Deschamps notes with irony that these movements also harbored the ambition of restoring the Holy Land to God&#39;s people.[1]</p><h2 id="modern-claims" tabindex="-1">Modern claims <a class="header-anchor" href="#modern-claims" aria-label="Permalink to &quot;Modern claims&quot;">​</a></h2><p>Deschamps argues that a faction of crypto-Sabbateans or Frankists — &quot;or Satanists, for lack of a better term&quot; — became embedded within the United States over 200 years ago and has grown increasingly active since the end of the Second World War, forming part of what he calls the <a href="/concepts/cabal">Cabal</a>.[1] He offers this lineage, which begins with <a href="/concepts/neoplatonism">Neoplatonism</a> and runs through the Crusades to modern <a href="/concepts/zionism">Zionism</a>, as historical context for the <a href="/concepts/october-7-attacks">October 7 attacks</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Chaos in the Middle East Overshadows That at Home&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-023" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-023</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/jacob-frank.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jacobFrank = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jacobFrank as default
+};

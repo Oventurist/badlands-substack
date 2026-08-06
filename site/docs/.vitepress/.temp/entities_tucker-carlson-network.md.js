@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Tucker Carlson Network","description":"","frontmatter":{"title":"Tucker Carlson Network","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["media","streaming","independent-media"],"sources":["raw/badlands-news-brief-525.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/tucker-carlson-network.md","filePath":"entities/tucker-carlson-network.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/tucker-carlson-network.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="tucker-carlson-network" tabindex="-1">Tucker Carlson Network <a class="header-anchor" href="#tucker-carlson-network" aria-label="Permalink to &quot;Tucker Carlson Network&quot;">​</a></h1><p>The Tucker Carlson Network is a subscription streaming service launched by former Fox News host <a href="/entities/tucker-carlson">Tucker Carlson</a>, announced in December 2023.[1] The service charges $9 a month — or $72 a year for annual subscribers — for interviews, documentaries, behind-the-scenes clips, and &quot;access to Tucker&#39;s personal inbox to ask him anything that&#39;s on your mind.&quot;[1]</p><h2 id="launch-and-rationale" tabindex="-1">Launch and rationale <a class="header-anchor" href="#launch-and-rationale" aria-label="Permalink to &quot;Launch and rationale&quot;">​</a></h2><p>In a video posted to his website on Monday, December 11, 2023, Carlson said the venture was prompted by a sense that &quot;something big is coming,&quot; citing the 2024 presidential election and &quot;entire populations&quot; migrating to new locations.[1] He said &quot;suddenly everything seems at stake — control of the world, and your soul,&quot; and downplayed his former employer <a href="/entities/fox-news">Fox News</a> and its rivals on the grounds that &quot;big media companies won&#39;t help&quot; his audience understand current trends.[1]</p><h2 id="background" tabindex="-1">Background <a class="header-anchor" href="#background" aria-label="Permalink to &quot;Background&quot;">​</a></h2><p>The paid service followed Carlson&#39;s June 2023 launch of a free show on <a href="/entities/x-corp">X</a>, the platform formerly known as Twitter, after his ouster from Fox News.[1] On X he interviewed figures including <a href="/entities/alex-jones">Alex Jones</a> — who had been ordered by a court to pay almost $1 billion over his claim that the 2012 Sandy Hook school massacre was a hoax — and former President <a href="/entities/donald-trump">Donald Trump</a>.[1] With almost 11 million followers on X, Carlson was reported to be betting that a portion of that audience would pay for monthly programming.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Bicameral Lawfare, Trump&#39;s Gambit &amp; the Ouroboros&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-525" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-525</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/tucker-carlson-network.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const tuckerCarlsonNetwork = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  tuckerCarlsonNetwork as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [texas, governor, pardon, self-defense]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-95a.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ In that statement Abbott wrote: "I have already declared an invasion under Artic
 
 House Speaker [[mike-johnson|Mike Johnson]] threw his support behind Abbott, joining other high-profile Republicans urging Texas to defy the ruling, while Democratic Representatives [[joaquin-castro|Joaquin Castro]] and [[greg-casar|Greg Casar]] called on Biden to seize and federalize the Texas Guard.[4] Badlands writer [[burning-bright|Burning Bright]] argued that the practical stakes of this particular patch of border were inconsequential and Texas's legal case far from certain, setting up "a fascinating bit of Federal vs. State lawfare" in February, while the overstatement of the actual facts served a narrative escalation between federal and state forces that he judged a net win for Trumpism.[4]
 
+## 2025 Central Texas floods
+
+During the [[2025-central-texas-floods|2025 Central Texas floods]], which killed at least 82 people over the Fourth of July weekend, Abbott warned that flash flooding continued to pose a danger for parts of Texas with more rain on the way in several areas.[5] State and local officials acting under that warning urged residents of Hunt, a community in [[kerr-county|Kerr County]], to move to higher ground because of the potential for further flooding.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 2. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
 3. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 4. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+5. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a

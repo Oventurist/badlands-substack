@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Halle Berry","description":"","frontmatter":{"title":"Halle Berry","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["hollywood","activism","menopause","california"],"sources":["raw/badlands-news-brief-8fd.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/halle-berry.md","filePath":"entities/halle-berry.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/halle-berry.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="halle-berry" tabindex="-1">Halle Berry <a class="header-anchor" href="#halle-berry" aria-label="Permalink to &quot;Halle Berry&quot;">​</a></h1><p><strong>Halle Berry</strong> is an American actress and the founder of the menopausal care company Respin, through which she has campaigned on women&#39;s midlife health issues.[1]</p><h2 id="criticism-of-gavin-newsom" tabindex="-1">Criticism of Gavin Newsom <a class="header-anchor" href="#criticism-of-gavin-newsom" aria-label="Permalink to &quot;Criticism of Gavin Newsom&quot;">​</a></h2><p>Speaking at The New York Times&#39; DealBook Summit in early December 2025, Berry directly called out California Governor <a href="/entities/gavin-newsom">Gavin Newsom</a> for vetoing the <a href="/concepts/menopause-care-equity-act">Menopause Care Equity Act</a> (AB 432) for the second year in a row, a bill she personally backed and whose veto she called an insult to women&#39;s health.[1] &quot;At this stage in my life, I have zero f---s left to give,&quot; she told the crowd, adding that Newsom &quot;has vetoed our menopause bill, not one, but two years in a row,&quot; that he had overlooked women by devaluing &quot;half the population,&quot; and that &quot;he probably should not be our next president either.&quot;[1] Her remarks reportedly drew gasps from the audience, particularly because Newsom was scheduled to appear at the same summit later that afternoon.[1]</p><h2 id="badlands-commentary" tabindex="-1">Badlands commentary <a class="header-anchor" href="#badlands-commentary" aria-label="Permalink to &quot;Badlands commentary&quot;">​</a></h2><p>Badlands host <a href="/entities/chris-paul">Chris Paul</a> joked about the composition of the conference and whether Berry might play Representative <a href="/entities/ilhan-omar">Ilhan Omar</a> on screen.[1] <a href="/entities/ashe-in-america">Ashe in America</a> took the opposite side of the policy dispute, siding with Newsom&#39;s veto and arguing that Berry&#39;s grievance was not about the availability of menopause treatment but about who pays for it — namely insurance companies — and that the campaign served to prop up &quot;institutional medicine&quot; and a drive toward single-payer health care rather than making treatments affordable or educating women directly.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Manic Midterms, Menopausal Marxists, &amp; Musical Pipe Bombs&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-8fd" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-8fd</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/halle-berry.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const halleBerry = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  halleBerry as default
+};

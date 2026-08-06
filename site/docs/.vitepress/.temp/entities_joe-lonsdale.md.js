@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Joe Lonsdale","description":"","frontmatter":{"title":"Joe Lonsdale","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["venture-capital","technology","banking"],"sources":["raw/badlands-news-brief-1a0.md","raw/badlands-news-brief-69b.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/joe-lonsdale.md","filePath":"entities/joe-lonsdale.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/joe-lonsdale.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="joe-lonsdale" tabindex="-1">Joe Lonsdale <a class="header-anchor" href="#joe-lonsdale" aria-label="Permalink to &quot;Joe Lonsdale&quot;">​</a></h1><p>Joe Lonsdale is an American venture capitalist, the founder of the venture capital firm <a href="/entities/8vc">8VC</a>, and a co-founder of <a href="/entities/palantir">Palantir</a>, the defence-focused data analytics company associated with <a href="/entities/peter-thiel">Peter Thiel</a>.[1]</p><p>In July 2025, Lonsdale was reported to be among the high-profile technology investors backing <a href="/entities/erebor">Erebor</a>, a proposed United States bank led by <a href="/entities/palmer-luckey">Palmer Luckey</a> and intended to serve start-ups and cryptocurrency firms after the collapse of <a href="/entities/silicon-valley-bank">Silicon Valley Bank</a>.[1]</p><h2 id="comments-on-zelensky-s-pennsylvania-trip-september-2024" tabindex="-1">Comments on Zelensky&#39;s Pennsylvania trip (September 2024) <a class="header-anchor" href="#comments-on-zelensky-s-pennsylvania-trip-september-2024" aria-label="Permalink to &quot;Comments on Zelensky&#39;s Pennsylvania trip (September 2024)&quot;">​</a></h2><p>In September 2024, Lonsdale — Palantir co-founder and <a href="/entities/8vc">8VC</a> founding partner — said that Ukrainian President <a href="/entities/volodymyr-zelensky">Volodymyr Zelensky</a>&#39;s taxpayer-funded campaign-season visit to Pennsylvania was &quot;a big, big deal.&quot;[2] Writing on X, he said: &quot;Team Kamala is so concerned about Pennsylvania, they&#39;re using military assets to fly in Zelensky to campaign!&quot;[2] He added that &quot;they&#39;re implying their war creates jobs, and are forcing Z to attack Trump &amp; Vance,&quot; describing the arrangement as &quot;literally funding a foreign leader and using the military to bring him to campaign with them in a battleground state.&quot;[2]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: IC Ignitions &amp; Double Detonations&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-1a0" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-1a0</a></li><li>Badlands Brief — &quot;Badlands News Brief: Trump Calls for Peace as the World Heads Toward War&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-69b" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-69b</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/joe-lonsdale.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const joeLonsdale = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  joeLonsdale as default
+};

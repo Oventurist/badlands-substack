@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, hollywood, paramount, cbs, corporate]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3ab.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-951.md]
 confidence: medium
 ---
 
@@ -56,6 +56,14 @@ In July 2025 [[skydance-media|Skydance]] founder [[david-ellison|David Ellison]]
 
 On July 24, 2025, the [[federal-communications-commission|Federal Communications Commission]] said it would allow Paramount to merge with the Hollywood studio [[skydance-media|Skydance]], clearing the way for one of the most highly scrutinized media deals of the previous decade.[7] Chairman [[brendan-carr|Brendan Carr]] said the agency approved the deal after receiving assurances that the new company was committed to unbiased journalism and would not establish diversity, equity and inclusion programs, and welcomed "Skydance's commitment to make significant changes at the once storied CBS broadcast network."[7]
 
+## Hostile bid for Warner Bros. Discovery (December 2025)
+
+On Monday, December 8, 2025, Paramount mounted a hostile takeover bid for [[warner-bros-discovery|Warner Bros. Discovery]], moving around the target's board and directly to shareholders days after [[netflix|Netflix]] announced an $83 billion agreement, approved by both boards, to acquire a large part of the company.[8] Paramount offered $30 per share in cash, valuing Warner Bros. Discovery at roughly $108 billion including debt, and said it was going to shareholders because the board was "pursuing an inferior proposal" that would face "a challenging regulatory approval process."[8]
+
+Unlike the Netflix transaction, Paramount's offer covered all of Warner Bros. Discovery, including the Warner Bros. movie studio, the HBO Max streaming service and a portfolio of cable channels such as CNN, which were excluded from the Netflix deal.[8] Chief executive [[david-ellison|David Ellison]] said, "We believe our offer will create a stronger Hollywood. It is in the best interests of the creative community, consumers and the movie theater industry."[8]
+
+Badlands contributor [[burning-bright|Burning Bright]] contrasted two outcomes: a Netflix victory producing a hyper-centralized entity fusing streaming scale with Warner's intellectual-property library and narrowing the range of voices, versus a Paramount close in which [[jared-kushner|Kushner]]-linked Gulf capital, tech sovereignty via Ellison, global sports assets and some $6 billion in projected synergies would crack what he called Hollywood's unipolar illusion.[8]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -64,3 +72,4 @@ On July 24, 2025, the [[federal-communications-commission|Federal Communications
 5. Badlands News Brief — "MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 6. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 7. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
+8. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

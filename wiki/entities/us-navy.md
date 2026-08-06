@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, deterrence, red-sea, maritime-security]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-4b7.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -32,8 +32,14 @@ In late January 2024 the Navy announced it would begin enlisting applicants who 
 
 [[ashe-in-america|Ashe in America]] disputed the Navy's framing that COVID-19 school dropout rates were the cause, arguing instead that qualified military-aged American men are deliberately opting out of service, a shift she attributed to the change in commander in chief from [[donald-trump|Donald Trump]] to [[joe-biden|Joe Biden]].[3] She described her own son abandoning a lifelong plan to enlist in the Army after the 2020 election and the military vaccine mandates, and predicted that if relaxed standards fail to produce enough recruits the administration would reinstate selective service and the draft.[3] Conscription worked in World War II because no one doubted the commander in chief's allegiance to America, she argued, worked less well in Vietnam, and would fail in a future major war because the speed of information access means young people are questioning not merely a given war but "the war machine" and the legitimacy of those selling it.[3]
 
+## 250th anniversary ceremony
+
+President [[donald-trump|Donald Trump]] spoke at the Navy's 250th anniversary ceremony in Norfolk, Virginia, on Sunday, October 5, 2025, praising the service for supporting efforts "to blow the cartel terrorists the hell out of the water" in the campaign of strikes on alleged drug vessels off [[venezuela|Venezuela]].[4] During the speech he singled out retired Chief Petty Officer [[felix-maurizio|Felix Maurizio]], who turned 100 that year and served in both the European and Pacific theaters of the Second World War.[4]
+
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: MAGA Gets Branded as Biden Bungles Everything", URL: https://badlands.substack.com/p/badlands-news-brief-07e
 2. Badlands News Brief — "Escalating Elections, Fragmented Forums, & Merry Murder Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-2e4
 3. Badlands News Brief — "Trump Haunts Obama as Clown World Laughs", URL: https://badlands.substack.com/p/badlands-news-brief-4b7
+4. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, ballot-access, fourteenth-amendment, courts, lawfare]
-sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md]
+sources: [raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-9bf.md]
 confidence: medium
 ---
 
@@ -62,6 +62,12 @@ The Colorado Supreme Court had disqualified Trump as a candidate on December 19 
 
 [[ashe-in-america|Ashe in America]] quoted the GOP petition's warning that "the Colorado court has unleashed harms which will creep beyond Colorado's borders," and expressed surprise at both the quality of the filing and the willingness of Colorado GOP attorney Chris Murray to fight the case, noting he was outperforming Scott Gessler's two prior failures.[6] She observed that Murray works for the law firm Brownstein, Hyatt, Farber and Schreck, the registered lobbyist for [[dominion-voting-systems|Dominion Voting Systems]], calling the elections industry "weirdly incestuous" and urging a return to locally controlled precinct-level elections.[6] She also pushed back on weekend clickbait claiming Secretary of State [[jena-griswold|Jena Griswold]] had said she would not count Trump's votes, clarifying that Griswold had said only that if the justices upheld the Colorado decision, Trump would be disqualified and his votes would not count under Colorado law permitting only "qualified" candidates' ballots to be counted.[6] The outcome, she argued, would affect many candidates because everything turned on the insurrection finding, which "must be found to be improper."[6]
 
+## Day two of the trial (October 31, 2023)
+
+On the second day of the trial, an expert on right-wing extremism dissected [[donald-trump|Trump]]'s history of fomenting unrest and testified that his January 6, 2021 speech was unmistakably interpreted by his most militant supporters as "a call to violence" — a key part of the challengers' argument that Trump "engaged" in the insurrection and is therefore ineligible for office.[7] While the trial played out in Colorado, Trump filed a lawsuit to shut down a similar case in Michigan, and a major hearing in another anti-Trump candidacy challenge was set for that Thursday in Minnesota.[7] Commentators noted that although the [[fourteenth-amendment|Fourteenth Amendment]] disqualifies officials who "engaged in insurrection," the Constitution does not specify how to enforce the ban, and it has been applied only twice since the 19th century — a reason many experts viewed the challenges as a legal long shot.[7]
+
+[[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]], covering the proceedings, described the day as "hilarious" and dissected the testimony of the petitioners' first expert witness, sociologist [[pete-simi|Pete Simi]], who she said was destroyed on cross-examination and admitted having no direct evidence that Trump incited anything.[7] The petitioners' second witness was a self-described "Homeland Security expert" who conceded that he had never advised a state or federal executive branch and had never been in a real crisis, having only simulated them in academic settings.[7] Ashe reported that four of the petitioners' witnesses had dropped out of testifying, and characterized the case as "a highly laughable — but very dangerous — attack on [[first-amendment|First Amendment]] protected speech and activities" whose intended precedent was "Minority Report."[7] The trial was set to resume at 10 a.m. Eastern on Wednesday, with Badlands carrying live coverage following Badlands Daily.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 2. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
@@ -69,3 +75,4 @@ The Colorado Supreme Court had disqualified Trump as a candidate on December 19 
 4. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 5. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 6. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
+7. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf

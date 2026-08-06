@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Jeffrey Sachs","description":"","frontmatter":{"title":"Jeffrey Sachs","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["economist","foreign-policy","middle-east","academia"],"sources":["raw/badlands-news-brief-09e.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/jeffrey-sachs.md","filePath":"entities/jeffrey-sachs.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/jeffrey-sachs.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="jeffrey-sachs" tabindex="-1">Jeffrey Sachs <a class="header-anchor" href="#jeffrey-sachs" aria-label="Permalink to &quot;Jeffrey Sachs&quot;">​</a></h1><p><strong>Jeffrey Sachs</strong> is an American economist and academic who has become a prominent critic of United States foreign policy in the Middle East.[1]</p><h2 id="cambridge-union-remarks-on-netanyahu" tabindex="-1">Cambridge Union remarks on Netanyahu <a class="header-anchor" href="#cambridge-union-remarks-on-netanyahu" aria-label="Permalink to &quot;Cambridge Union remarks on Netanyahu&quot;">​</a></h2><p>In January 2025, President-elect <a href="/entities/donald-trump">Donald Trump</a> shared to Truth Social a video clip of Sachs speaking at a Cambridge Union event in which Sachs called Israeli Prime Minister <a href="/entities/benjamin-netanyahu">Benjamin Netanyahu</a> a &quot;deep, dark son of a bitch.&quot;[1] In the clip, Sachs accused Netanyahu of manipulating US foreign policy and orchestrating &quot;endless wars&quot; in the Middle East, claiming that Netanyahu had pursued a systematic strategy since 1995 to eliminate Hamas and Hezbollah by targeting their supporting governments in Iraq, Iran and Syria.[1]</p><p>Sachs argued that &quot;[Netanyahu&#39;s] gotten us into endless wars and because of the power of all of this in US politics, he&#39;s gotten his way,&quot; a reference to the influence of pro-Israel lobbying groups.[1] Trump&#39;s aim in promoting the video was not immediately clear, and the post came just weeks after Netanyahu had described a &quot;very friendly, warm&quot; discussion with Trump about hostage negotiations and Syria policy.[1]</p><h2 id="reception-in-the-truth-community" tabindex="-1">Reception in the Truth Community <a class="header-anchor" href="#reception-in-the-truth-community" aria-label="Permalink to &quot;Reception in the Truth Community&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> wrote that almost everything Sachs said would sound familiar to the Badlands audience, and connected the episode to reports that Netanyahu would not attend Trump&#39;s second inauguration despite having been invited and having attended the 2017 ceremony.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Preemptive Pardons, Syrian Sanctions, &amp; Preparations for Putin&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-09e" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-09e</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/jeffrey-sachs.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const jeffreySachs = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  jeffreySachs as default
+};

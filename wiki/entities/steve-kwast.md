@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, air-force, general, gart, badlands-media]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-860.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-988.md]
 confidence: low
 ---
 
@@ -36,8 +36,13 @@ In May 2025, the Shawn Ryan Show released a long-form interview with Kwast that 
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] recalled that during an August 2024 interview, Kwast described the "hero system" of Africa as broken.[4] The contributor interpreted this as a reference to malevolent colonial interests destroying capable and decent leaders while promoting narcissistic sociopaths who were easy to control — an interpretation he offered as part of his explanation for finding Burkinabè president [[ibrahim-traore|Ibrahim Traoré]] a compelling figure.[4]
 
+## CODEX 9/11 endorsement
+
+Kwast viewed [[codex-911|CODEX 9/11]] in August 2025 at a [[badlands-media|Badlands Media]] event in Deadwood, South Dakota, and called the documentary "a nuclear weapon in the information war."[5] Two weeks later he joined the Badlands podcast to discuss the film, in a clip circulated by [[canncon|CannCon]].[5]
+
 ## References
 1. Badlands Brief — "A Mysterious Masterclass in Multi Sensory Deception", URL: https://badlands.substack.com/p/a-mysterious-masterclass-in-multi
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
 3. Badlands Brief — "Badlands News Brief: Energy EOs, Game-Changing AI, & Jewish Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-32e
 4. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+5. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988

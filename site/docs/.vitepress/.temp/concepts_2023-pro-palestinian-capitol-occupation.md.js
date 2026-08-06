@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"2023 Pro-Palestinian Capitol Occupation","description":"","frontmatter":{"title":"2023 Pro-Palestinian Capitol Occupation","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["protests","capitol","gaza","activism","congress"],"sources":["raw/badlands-news-brief-6f0.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/2023-pro-palestinian-capitol-occupation.md","filePath":"concepts/2023-pro-palestinian-capitol-occupation.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/2023-pro-palestinian-capitol-occupation.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="_2023-pro-palestinian-capitol-occupation" tabindex="-1">2023 Pro-Palestinian Capitol Occupation <a class="header-anchor" href="#_2023-pro-palestinian-capitol-occupation" aria-label="Permalink to &quot;2023 Pro-Palestinian Capitol Occupation&quot;">​</a></h1><p>In October 2023, pro-Palestinian activists occupied a US Capitol building in Washington, DC, accusing lawmakers of having Palestinian blood on their hands as protests over the war in <a href="/entities/gaza">Gaza</a> spread across the United States.[1]</p><h2 id="the-occupation" tabindex="-1">The occupation <a class="header-anchor" href="#the-occupation" aria-label="Permalink to &quot;The occupation&quot;">​</a></h2><p>ZeroHedge reported that far-left pro-Palestinian protests were continuing across the country, with activists occupying the Capitol and directing their accusations at members of <a href="/entities/congress">Congress</a>.[1] The item was framed with the pointed headline question &quot;Insurrection?&quot;, noting that Democrats had spent the preceding years accusing conservatives of insurrection over the occupation of the Capitol.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>The accompanying analysis argued that the first goal of such efforts is a narrative shift in which those who triggered the conflict are recast as victims, with the <a href="/entities/hamas">Hamas</a> fighters who launched the October 7 attacks &quot;dismissed down the memory hole&quot; and the focus placed solely on Palestinian tragedy.[1] It held that the most logical course for America was to stay out of the conflict entirely, but suggested that visible leftist involvement on the side of Hamas might push a majority of Americans toward full support for <a href="/entities/israel">Israel</a>, simply because &quot;any cause backed by woke organizations is a cause worth obstructing.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Biden Bumbles &amp; Narrative Whiplash Abounds&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-6f0" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-6f0</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/2023-pro-palestinian-capitol-occupation.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const _2023ProPalestinianCapitolOccupation = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  _2023ProPalestinianCapitolOccupation as default
+};

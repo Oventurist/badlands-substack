@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, european-union, regulation, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md]
 confidence: low
 ---
 
@@ -38,9 +38,16 @@ On December 18, 2023, the [[european-union|European Union]] opened infringement 
 
 The [[european-commission|European Commission]] said it acted on the basis of its preliminary investigation, including analysis of the risk assessment report X submitted in September, the platform's transparency report published on November 3, and X's replies to a formal request for information that concerned, among other matters, the dissemination of illegal content in the context of [[hamas|Hamas]]' attacks against Israel.[5] X responded that it "remains committed to complying with the Digital Services Act and is cooperating with the regulatory process," while urging that the process remain "free of political influence."[5] Badlands contributor [[burning-bright|Burning Bright]] read the proceedings as an attempt by Brussels to suppress the most powerful information-dissemination platform in the world after establishment institutions lost control of it.[5]
 
+## €120 million fine against X (December 2025)
+
+On Friday, December 5, 2025, the [[european-commission|European Commission]] fined [[x-corp|X]] 120 million euros (about $140 million) following a two-year investigation under the Digital Services Act, citing the platform's "deceptive" blue checkmark and a lack of transparency in its advertising repository.[6] [[elon-musk|Elon Musk]] responded dismissively on X and the following day escalated, calling for the [[european-union|European Union]] to be abolished "and sovereignty returned to individual countries, so that governments can better represent their people."[6]
+
+Senior U.S. officials joined the criticism: Secretary of State [[marco-rubio|Marco Rubio]] called the fine "an attack on all American tech platforms and the American people by foreign governments."[6] Badlands contributor [[burning-bright|Burning Bright]] framed the episode as part of a broader Trump–Musk effort to identify the EU explicitly as the adversary and to challenge its model of narrative control, censorship, and economic interdependence.[6]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands News Brief — "Emotional Programming, Congressional Paralysis & Censorship Reign", URL: https://badlands.substack.com/p/badlands-news-brief-254
 3. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 4. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 5. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+6. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951

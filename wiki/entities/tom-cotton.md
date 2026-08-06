@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, nuclear-policy, defense, republican]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e87.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-c7b.md, raw/badlands-brief-e87.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -38,6 +38,12 @@ On Sunday, June 15, 2025, Cotton said he did not believe [[immigration-and-custo
 
 Breitbart's September 2024 coverage of [[donald-trump|Donald Trump]]'s farmland policy noted that senators had been warning for years about Chinese Communist Party purchases of American land, citing Cotton, who in August 2022 warned that China buying farmland in the United States constitutes a national security threat.[6] The concern gained prominence in connection with the Chinese spy balloon first spotted over Montana, and with CCP-affiliated purchases near US military bases.[6]
 
+## New York Times op-ed affair and the Hochul deployment (2024)
+
+In March 2024 Cotton drew attention to what critics called hypocrisy at [[new-york-times|The New York Times]] over its coverage of troop deployments.[7] Noting the paper's matter-of-fact treatment of Democratic New York Governor [[kathy-hochul|Kathy Hochul]]'s plan to send troops into New York City to crack down on crime, Cotton posted a note on Twitter reading simply, "Sending in the troops to help restore law and order…"[7] His point was that roughly four years earlier the newspaper had publicly denounced him after running his opinion piece calling for the use of [[national-guard|National Guard]] troops to quell violent riots in Washington.[7]
+
+The Cotton column led to editors being forced out amid public confessions and recriminations, with writers including Taylor Lorenz, Caity Weaver, Sheera Frankel and Jacey Fortin arguing that such columns put black reporters in danger.[7] Legal commentator [[jonathan-turley|Jonathan Turley]], who had previously written on the affair, noted that critics never explained what was historically false in the column, and described the paper's response as "a breathtaking surrender" in which it apologized, promised an investigation into how an opposing view reached its pages, and pledged to reduce the number of editorials.[7] After Democratic politicians actually ordered such a deployment — Hochul sending 750 National Guard members into the New York City subway system to assist the [[nypd|New York Police Department]], including bag searches at busy stations — the Times offered, in Turley's words, "little more than a journalistic shrug."[7]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
@@ -45,3 +51,4 @@ Breitbart's September 2024 coverage of [[donald-trump|Donald Trump]]'s farmland 
 4. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
 5. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 6. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

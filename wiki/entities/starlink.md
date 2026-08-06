@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, satellite-internet, spacex, iran, israel, covert-operations]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md]
 confidence: medium
 ---
 
@@ -40,9 +40,16 @@ SpaceX said it was "deeply disappointed and perplexed" by the decision, maintain
 
 In September 2023 Starlink became the center of a controversy over [[elon-musk|Elon Musk]]'s earlier decision to block Kyiv from using the constellation to support a drone attack on the Russian fleet at anchor in Crimea.[5] Musk said on X that "the obvious intent being to sink most of the Russian fleet at anchor," and that "if I had agreed to their request, then SpaceX would be explicitly complicit in a major act of war and conflict escalation."[5] [[mykhailo-podolyak|Mykhailo Podolyak]], a senior aide to [[volodymyr-zelensky|Volodymyr Zelensky]], responded that by "not allowing Ukrainian drones to destroy part of the Russian military (!) fleet via Starlink interference, Elon Musk allowed this fleet to fire Kalibr missiles at Ukrainian cities," accusing Musk of committing and enabling "evil" driven by "a cocktail of ignorance and big ego."[5] Some commentators went so far as to call for the U.S. government to nationalize the [[spacex|SpaceX]] systems serving Ukraine.[5] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the episode as a transparent warmongering deployment in which audiences were being told that refusing kinetic escalation toward world war was itself evil, concluding that "peace is what the enemy fears most."[5]
 
+## House Democratic investigation over Russian use of terminals (2024)
+
+In a letter sent on Wednesday, March 6, 2024, House Democrats launched an investigation into [[elon-musk|Elon Musk]]'s [[spacex|SpaceX]] over concerns that Russian forces had obtained Starlink internet satellite terminals.[6] The letter noted that [[ukraine|Ukraine]] had relied on Starlink during its counteroffensives against Russia and that the U.S. government had poured resources into supporting Kyiv.[6] In 2023 Starlink entered a contract with the U.S. Defense Department to purchase 400 to 500 new terminals and services for Ukraine, and in February 2024 Ukrainian authorities released intercepted Russian communications indicating that Russian forces had illegally deployed and activated Starlink terminals.[6] "Russian procurement of, use of, or interference with Starlink terminals each has the potential to advance Russia's brutal and illegitimate invasion of Ukraine," the letter said.[6] Axios observed that such minority-party letters requesting voluntary turnover of information are often preludes to subpoenas once the party retakes the majority.[6]
+
+Badlands writer [[burning-bright|Burning Bright]] framed the probe as part of a week in which [[donald-trump|Donald Trump]] and Musk — "the two biggest Mind-Movers in the Info War" — converged in the public narrative through hostile establishment reporting, with coverage shifting from campaign-funding speculation to "the Actual theater represented by Starlink, Department of Defense funding and international conflicts."[6] He restated the Badlands view that Musk "didn't buy Twitter ... he seized it on behalf of the Sovereign Alliance," and that the establishment both knew and feared this.[6]
+
 ## References
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 4. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 5. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+6. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae

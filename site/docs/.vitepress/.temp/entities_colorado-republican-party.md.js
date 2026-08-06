@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Colorado Republican Party","description":"","frontmatter":{"title":"Colorado Republican Party","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["colorado","republican-party","elections","ballot-access"],"sources":["raw/badlands-news-brief-8cb.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/colorado-republican-party.md","filePath":"entities/colorado-republican-party.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/colorado-republican-party.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="colorado-republican-party" tabindex="-1">Colorado Republican Party <a class="header-anchor" href="#colorado-republican-party" aria-label="Permalink to &quot;Colorado Republican Party&quot;">​</a></h1><p>The Colorado Republican Party is the state affiliate of the <a href="/entities/republican-party">Republican Party</a> in <a href="/entities/colorado">Colorado</a> and was a principal litigant in the <a href="/concepts/colorado-ballot-disqualification-case">Colorado ballot disqualification case</a> arising from the state supreme court&#39;s removal of <a href="/entities/donald-trump">Donald Trump</a> from the 2024 presidential primary ballot.[1]</p><h2 id="supreme-court-petition" tabindex="-1">Supreme Court petition <a class="header-anchor" href="#supreme-court-petition" aria-label="Permalink to &quot;Supreme Court petition&quot;">​</a></h2><p>On December 27, 2023, the party filed a petition with the <a href="/entities/supreme-court-of-the-united-states">U.S. Supreme Court</a> asking three separate questions regarding the application of Section 3 of the <a href="/concepts/fourteenth-amendment">Fourteenth Amendment</a> and political parties&#39; First Amendment rights to primary their candidate of choice.[1] Trump filed a separate petition on January 3, 2024 posing the narrower question of whether the <a href="/entities/colorado-supreme-court">Colorado Supreme Court</a> had erred.[1] The justices granted review of Trump&#39;s petition and, as of the January 8 brief, had not yet accepted or rejected the party&#39;s.[1]</p><p>The party&#39;s filing was drafted by its attorney <a href="/entities/chris-murray">Chris Murray</a> of <a href="/entities/brownstein-hyatt-farber-schreck">Brownstein, Hyatt, Farber and Schreck</a>, and warned that &quot;the Colorado court has unleashed harms which will creep beyond Colorado&#39;s borders.&quot;[1] Badlands writer <a href="/entities/ashe-in-america">Ashe in America</a> praised the quality of the petition while noting the firm&#39;s lobbying relationship with <a href="/entities/dominion-voting-systems">Dominion Voting Systems</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;SCOTUS Enters the Fray as Biden Barks at MAGA Hats&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-8cb" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-8cb</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/colorado-republican-party.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const coloradoRepublicanParty = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  coloradoRepublicanParty as default
+};

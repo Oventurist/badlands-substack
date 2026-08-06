@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Ron Hanks","description":"","frontmatter":{"title":"Ron Hanks","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["colorado","congress","january-6","election-integrity","veterans"],"sources":["raw/badlands-news-brief-378.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/ron-hanks.md","filePath":"entities/ron-hanks.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/ron-hanks.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="ron-hanks" tabindex="-1">Ron Hanks <a class="header-anchor" href="#ron-hanks" aria-label="Permalink to &quot;Ron Hanks&quot;">​</a></h1><p>Ron Hanks is a United States Air Force veteran and former <a href="/entities/colorado">Colorado</a> state representative who, at the start of 2024, announced a run for the third congressional district seat abandoned by <a href="/entities/lauren-boebert">Lauren Boebert</a>.[1]</p><h2 id="oath-and-january-6" tabindex="-1">Oath and January 6 <a class="header-anchor" href="#oath-and-january-6" aria-label="Permalink to &quot;Oath and January 6&quot;">​</a></h2><p>Hanks swore the oath of office twice, in two different official capacities — as a military officer and as a state legislator — a fact that matters under the disqualification clause of the <a href="/concepts/fourteenth-amendment">Fourteenth Amendment</a>, which applies to prior oath-takers.[1] It is broadly known that he attended January 6 in Washington, D.C., as did thousands of other Coloradans.[1]</p><h2 id="election-denier-list" tabindex="-1">Election-denier list <a class="header-anchor" href="#election-denier-list" aria-label="Permalink to &quot;Election-denier list&quot;">​</a></h2><p>In September 2021, Hanks was named the sixth &quot;Most Dangerous Election Denier in Colorado&quot; by Colorado Newsline, an article for which the outlet subsequently won an award; Badlands writer <a href="/entities/ashe-in-america">Ashe in America</a>, who disclosed being number five on the same list, cited Hanks&#39; inclusion in describing the environment facing Colorado election-integrity activists.[1]</p><h2 id="test-case-for-lawfare" tabindex="-1">Test case for lawfare <a class="header-anchor" href="#test-case-for-lawfare" aria-label="Permalink to &quot;Test case for lawfare&quot;">​</a></h2><p>Ashe in America proposed Hanks&#39; candidacy as an empirical test of the theory that the January 6 insurrection finding in <a href="/concepts/anderson-v-griswold">Anderson v. Griswold</a> would be used to bar veteran January 6 attendees from office, writing that it remained to be seen whether anyone would bring a Fourteenth Amendment claim against his candidacy.[1] She described Hanks as &quot;an honorable man and an excellent choice for Colorado&#39;s third congressional district.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Hypocrisy Roundup &amp; Rug-pulls Galore&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-378" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-378</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/ron-hanks.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ronHanks = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ronHanks as default
+};

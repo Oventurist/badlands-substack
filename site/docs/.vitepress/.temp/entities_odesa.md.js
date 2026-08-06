@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Odesa","description":"","frontmatter":{"title":"Odesa","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["ukraine","russia-ukraine-war","black-sea","ports","energy-infrastructure"],"sources":["raw/badlands-news-brief-2e4.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/odesa.md","filePath":"entities/odesa.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/odesa.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="odesa" tabindex="-1">Odesa <a class="header-anchor" href="#odesa" aria-label="Permalink to &quot;Odesa&quot;">​</a></h1><p><strong>Odesa</strong> is Ukraine&#39;s largest port, situated on the Black Sea, and became the focus of the most intense Russian bombardment the city had experienced in nearly four years of war during December 2025.[1]</p><h2 id="december-2025-bombardment" tabindex="-1">December 2025 bombardment <a class="header-anchor" href="#december-2025-bombardment" aria-label="Permalink to &quot;December 2025 bombardment&quot;">​</a></h2><p>For roughly two weeks beginning in the early morning hours of December 12, Russia concentrated drone and missile strikes on Odesa, mostly targeting the city&#39;s ports and its power infrastructure and leaving residents without power, heat or water.[1] At least nine people were killed.[1] Unlike other major Ukrainian cities, which typically experience bursts of intense bombardment followed by quieter periods, Odesa remained under nearly constant attack throughout the period.[1]</p><p>The New York Times reported the case of Tetiana Rybak, an immobile resident who could not reach a shelter and who asked a social worker to tape over her apartment windows with festive red gift wrap, old military posters and a version of the Lord&#39;s Prayer so that she would no longer see <a href="/entities/russia">Russian</a> drones flying past.[1]</p><h2 id="speculated-motive" tabindex="-1">Speculated motive <a class="header-anchor" href="#speculated-motive" aria-label="Permalink to &quot;Speculated motive&quot;">​</a></h2><p>Ukrainians speculated that Moscow was striking Odesa in retaliation for recent Ukrainian attacks on the &quot;shadow fleet&quot; of tankers that Russia uses to transport oil and evade sanctions.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands host <a href="/entities/chris-paul">Chris Paul</a> questioned the framing of the coverage, drawing a parallel between the Black Sea shadow-fleet attacks and events surrounding Venezuela, and asking why the reporting made it appear that Ukrainians were waging psychological warfare against their own population.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Escalating Elections, Fragmented Forums, &amp; Merry Murder Metrics&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-2e4" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-2e4</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/odesa.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const odesa = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  odesa as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, 9-11, deep-state, history]
-sources: [raw/badlands-news-brief-433.md]
+sources: [raw/badlands-news-brief-433.md, raw/badlands-news-brief-988.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ Gibson raised the collapse of a third structure: "Three buildings collapsed as i
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] endorsed Gibson's post and asked when the public would learn who in the U.S. government was complicit in what he called an act of treason, asserting the attack did not result from a series of unfortunate mistakes but was allowed to happen by people in the Bush administration and the Republican Party — possibly including figures now advising President Trump on geopolitics.[1]
 
+## 24th anniversary commemoration
+
+For the 24th anniversary in September 2025, survivors and victims' families gathered at New York's [[9-11-memorial-and-museum|9/11 Memorial and Museum]] for the annual rite of remembrance, an hours-long recitation of nearly 3,000 names at the site known as ground zero.[2] The [[new-york-times|New York Times]] noted that students today see the events of September 11 as history, belonging to a post-Cold War generation for whom terrorism may be a more familiar threat than nuclear annihilation and whose defining event has been the coronavirus pandemic.[2] [[ashe-in-america|Ashe in America]] wrote that the anniversary landed the day after the [[assassination-of-charlie-kirk|assassination of Charlie Kirk]], leaving her as angry and shaken as she had felt 24 years earlier, and pointed readers to [[codex-911|CODEX 9/11]].[2]
+
 ## References
 
 1. Badlands Brief — "POTUS' 'Reverse Kissinger' & Pete's Pentagon Purge", URL: https://badlands.substack.com/p/badlands-news-brief-433
+2. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988

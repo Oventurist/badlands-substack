@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, citizen-journalism, undercover-journalism, governance]
-sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6db.md]
+sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-959.md]
 confidence: medium
 ---
 
@@ -44,9 +44,16 @@ On Monday, February 20, 2023, O'Keefe told staff in an emotional fifteen-minute 
 
 The Project Veritas hidden-camera model was carried into education reporting by [[accuracy-in-media|Accuracy in Media]], led by Veritas alumnus [[adam-guillette|Adam Guillette]], which in January 2023 released undercover video of employees in school districts around Columbus, Ohio describing how they mislead parents opposed to [[critical-race-theory|critical race theory]].[5] Badlands contributor [[justin-deschamps|Justin Deschamps]], crediting "the footage procured by Project Veritas," argued that such recordings help dispel misplaced trust in an education system he characterised as an instrument of indoctrination.[5]
 
+## The Ashley Biden diary purchase
+
+Project Veritas, based in New York, paid [[aimee-harris|Aimee Harris]] and [[robert-kurlander|Robert Kurlander]] $20,000 each in 2020 for a diary and other personal materials belonging to [[ashley-biden|Ashley Biden]], which the pair had taken from a Delray Beach, Florida property.[6] The organisation stated that it could not authenticate the material and never published it.[6] Harris and Kurlander were indicted in August 2022 for conspiracy to commit interstate transportation of stolen property and pleaded guilty; Harris was sentenced in April 2024 to one month in prison and a term of supervision.[6]
+
+No one from Project Veritas was ever charged with a crime, though the episode led to the FBI raid on [[james-okeefe|James O'Keefe]] and several of the organisation's journalists, after which Barbara S. Jones was appointed special master to review the seized materials.[6] Badlands contributor [[just-human|Just Human]] argued that Project Veritas was at the time functioning as an FBI asset and that the entire scheme was a trap intended to lure the campaign of [[donald-trump|Donald Trump]] — which had declined the diary and advised the sellers to go to the FBI — into circulating possibly forged material about [[joe-biden|Joe Biden]].[6]
+
 ## References
 1. Badlands News Brief — "Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 2. Badlands Brief — "Badlands News Brief: Yellen 'Reassures' & Veritas Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-2b1
 3. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 4. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
 5. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
+6. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959

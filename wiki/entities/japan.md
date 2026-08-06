@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [japan, alliance, energy, nuclear, trade]
-sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-6af.md]
+sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-94b.md]
 confidence: medium
 ---
 
@@ -38,7 +38,13 @@ On Monday, July 7, 2025, President [[donald-trump|Donald Trump]] set a 25 percen
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the Japan tariff as the culmination of a 40-year odyssey, noting that Trump appeared on multiple television programs in the 1980s — most notably Oprah Winfrey — warning of the massive trade imbalance with Japan, explaining that most electronics, particularly VCRs, were by 1987 made in Japan and that it was nearly impossible to bring a US-manufactured good such as a car into the Japanese marketplace.[3]
 
+## 2025 LDP leadership change
+
+In October 2025 Japan's ruling [[liberal-democratic-party|Liberal Democratic Party]] chose hardline conservative [[sanae-takaichi|Sanae Takaichi]] as its leader, putting her on course to become the country's first female prime minister; a parliamentary vote to replace outgoing premier [[shigeru-ishiba|Shigeru Ishiba]] was expected on October 15 following the [[2025-liberal-democratic-party-leadership-election|2025 LDP leadership election]].[4] Badlands host [[burning-bright|Burning Bright]] cited the choice, alongside [[andrej-babis|Andrej Babiš]]'s Czech victory, as evidence that "the Global Hegemon is dead."[4]
+
+
 ## References
 1. Badlands Brief — "Trump's Ultimatum to the Ayatollah, who is gay (allegedly)", URL: https://badlands.substack.com/p/badlands-brief-7b5
 2. Badlands Brief — "Badlands News Brief: Election Fraud Starts Early While the CIA Whines", URL: https://badlands.substack.com/p/badlands-news-brief-3bc
 3. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
+4. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b

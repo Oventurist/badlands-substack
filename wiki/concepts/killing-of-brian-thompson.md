@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [crime, new-york, healthcare, 2024]
-sources: [raw/badlands-news-brief-757.md]
+sources: [raw/badlands-news-brief-757.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ New York Police Department chief of detectives Joseph Kenny said Thompson was fo
 
 Police commissioner [[jessica-tisch]] told a press conference that the shooting was a "brazen, targeted attack" that "does not appear to be a random act of violence," and stated that "every indication is that this was a premeditated, pre-planned targeted attack."[1] The [[nypd|New York Police Department]] launched a search for the suspect.[1] The killing was reported by The Guardian and carried by Badlands Media as a bonus item in its December 5, 2024 news brief.[1]
 
+## Arrest of Luigi Mangione (December 9, 2024)
+
+Police announced on Monday, December 9, 2024, the arrest of a "strong person of interest" in the shooting death of [[unitedhealthcare|UnitedHealthcare]] chief executive [[brian-thompson|Brian Thompson]] in Manhattan.[2] The individual, identified as [[luigi-mangione|Luigi Mangione]], 26, was arrested in Pennsylvania on gun charges and was to face questioning.[2] "We believe we have a strong person of interest," New York Mayor [[eric-adams|Eric Adams]] said at a news conference.[2]
+
+[[nypd|NYPD]] Commissioner Jessica Tisch said at a Monday news conference that Mangione had been apprehended in Altoona, Pennsylvania, at a McDonald's.[2] Chief of Detectives Joseph Kenny said Mangione was born and raised in Maryland, had ties to San Francisco, and had a last known address in Honolulu, Hawaii.[2] Officials said he would face gun charges in Altoona, with Kenny adding that "at some point, we'll work out through extradition to bring him back to New York to face charges here, working with the Manhattan district attorney's office," and that investigators would be "backtracking his steps from New York to Altoona, Pennsylvania."[2] NYPD officers and Manhattan District Attorney's Office prosecutors said they would interview Mangione further.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
+2. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Post-COVID Mass Shootings and State Gun Laws","description":"","frontmatter":{"title":"Post-COVID Mass Shootings and State Gun Laws","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["gun-control","mass-shootings","second-amendment","data"],"sources":["raw/badlands-news-brief-8f3.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/post-covid-mass-shootings-and-state-gun-laws.md","filePath":"concepts/post-covid-mass-shootings-and-state-gun-laws.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/post-covid-mass-shootings-and-state-gun-laws.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="post-covid-mass-shootings-and-state-gun-laws" tabindex="-1">Post-COVID Mass Shootings and State Gun Laws <a class="header-anchor" href="#post-covid-mass-shootings-and-state-gun-laws" aria-label="Permalink to &quot;Post-COVID Mass Shootings and State Gun Laws&quot;">​</a></h1><p>In January 2023, Just the News published an analysis finding that many of the worst mass shootings in the United States since the start of the COVID-19 pandemic occurred in states with tight gun laws.[1] The report was prompted by a mass shooting in California that left 10 people dead that weekend.[1]</p><h2 id="findings" tabindex="-1">Findings <a class="header-anchor" href="#findings" aria-label="Permalink to &quot;Findings&quot;">​</a></h2><p>The single worst mass shooting since the start of the pandemic occurred in <a href="/concepts/uvalde-school-shooting">Uvalde, Texas</a>, where 21 elementary school students were killed; the Giffords Law Center to Prevent Gun Violence gives Texas an F grade for gun laws, as the state allows permitless carry and does not restrict assault weapons.[1] However, of the five worst shootings in the United States since 2020, four occurred in states holding at least a &quot;B&quot; grade from Giffords.[1] Excluding murder-suicides within a family, half of the ten deadliest mass shootings over the period occurred in states that received at least an &quot;A-&quot; gun law grade.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands Media contributor <a href="/entities/justin-deschamps">Justin Deschamps</a> argued that the public is repeatedly told guns are a serious problem and gun control the answer, yet the places where gun control has been in effect for years see the most mass shootings.[1] He predicted that &quot;the globalists will try to spin this in some way — they are master spinsters,&quot; but maintained that &quot;the truth is plain to see.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&amp;M&#39;s?&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-8f3" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-8f3</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/post-covid-mass-shootings-and-state-gun-laws.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const postCovidMassShootingsAndStateGunLaws = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  postCovidMassShootingsAndStateGunLaws as default
+};

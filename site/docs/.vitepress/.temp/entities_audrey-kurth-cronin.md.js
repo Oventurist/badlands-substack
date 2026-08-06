@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Audrey Kurth Cronin","description":"","frontmatter":{"title":"Audrey Kurth Cronin","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["academia","strategy","terrorism","gaza"],"sources":["raw/badlands-news-brief-6b1.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/audrey-kurth-cronin.md","filePath":"entities/audrey-kurth-cronin.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/audrey-kurth-cronin.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="audrey-kurth-cronin" tabindex="-1">Audrey Kurth Cronin <a class="header-anchor" href="#audrey-kurth-cronin" aria-label="Permalink to &quot;Audrey Kurth Cronin&quot;">​</a></h1><p><strong>Audrey Kurth Cronin</strong> is an American scholar of strategy and terrorism who serves as director of the Carnegie Mellon Institute for Strategy and Technology.[1]</p><h2 id="assessment-of-the-israeli-campaign-in-gaza-2024" tabindex="-1">Assessment of the Israeli campaign in Gaza (2024) <a class="header-anchor" href="#assessment-of-the-israeli-campaign-in-gaza-2024" aria-label="Permalink to &quot;Assessment of the Israeli campaign in Gaza (2024)&quot;">​</a></h2><p>In a June 2024 op-ed for Foreign Affairs magazine, summarized by <a href="/entities/tass">TASS</a> and carried in the Badlands News Brief, Cronin argued that Israel&#39;s military operation in Gaza was a &quot;strategic disaster&quot; because support for <a href="/entities/hamas">Hamas</a> among Gazans was increasing rather than declining.[1] She held that while the operation&#39;s primary objective had been to dismantle Hamas, the Israeli armed forces had merely reduced the number of Hamas fighters.[1]</p><p>Cronin cited a March 2024 opinion poll by the Palestinian Center for Policy and Survey Research showing support for Hamas among Gazans topping 50%, a 14-point rise since December 2023.[1] &quot;Simply put, despite some tactical victories, the Israeli war in Gaza has been a strategic disaster,&quot; she concluded.[1] She attributed the shift to the deaths of tens of thousands of civilians, including women and children, to Israeli restrictions on humanitarian aid entering Gaza, and to the Israeli army&#39;s operations in <a href="/concepts/rafah-invasion">Rafah</a> in southern Gaza.[1]</p><p>Badlands contributor <a href="/entities/ghostofbasedpatrickhenry">GhostofBasedPatrickHenry</a> accepted Cronin&#39;s data while rejecting her framing, arguing that whether the campaign counted as a disaster depended on the endgame, and that inflating support for Hamas served <a href="/entities/benjamin-netanyahu">Benjamin Netanyahu</a>&#39;s stated plan for a war lasting at least a decade.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Russia, the MSM and El Salvador Call Out Joe Biden&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-6b1" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-6b1</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/audrey-kurth-cronin.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const audreyKurthCronin = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  audreyKurthCronin as default
+};

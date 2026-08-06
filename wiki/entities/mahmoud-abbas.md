@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestinian-authority, israel-palestine-conflict, diplomacy]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md]
 confidence: medium
 ---
 
@@ -53,6 +53,16 @@ Commentary in the Badlands News Brief noted that President [[donald-trump|Donald
 
 At the September 22, 2025 summit in New York supporting [[palestinian-statehood|Palestinian statehood]], Abbas said the [[palestinian-authority|Palestinian Authority]] would form the government of the West Bank and Gaza, with no role for [[hamas|Hamas]].[7] The United States denied him a visa to attend the events in New York, so he addressed the meeting by video.[7] Speaking to the people of Israel, he said: "Our future and yours depends on peace. Enough war."[7]
 
+## September 2024 United Nations appeal on Gaza
+
+In a September 2024 address, Abbas urged the United Nations to stop the war in Gaza, calling for a comprehensive and permanent ceasefire, an end to attacks by Israeli settlers in the West Bank and East Jerusalem, the delivery of humanitarian aid throughout Gaza, and a full withdrawal of the Israeli military from the enclave.[8] He argued that the [[palestinian-authority|Palestinian Authority]] should have control over all Palestinian territories and said it would hold elections once the war ended.[8] In remarks quoted by Badlands Media, Abbas demanded that the world "stop the killing of children and women," described the situation as genocide, called for an end to weapons shipments to Israel, and said Gaza was "no longer fit for life" after the destruction of homes, educational institutions and medical centres.[8]
+
+Israel's UN ambassador [[danny-danon|Danny Danon]] responded by accusing Abbas of speaking about a peaceful solution only at the United Nations and of failing to condemn the October 7 attack by [[hamas|Hamas]] that triggered the war.[8] Badlands commentary rejected that characterization, noting that Abbas had criticized Hamas for not informing the Palestinian Authority of its planned attack and had blamed the group for the ensuing destruction visited on the Palestinian people.[8]
+
+## Longstanding conflict with Hamas
+
+Badlands Media compiled a record of Abbas's confrontations with Hamas to argue that he has been the principal Palestinian figure attempting to curb the organization.[8] In 2007, after Hamas drove both Palestinian Authority security forces and the [[israel-defense-forces|Israel Defense Forces]] out of Gaza, Abbas stated that his government would hold no dialogue with the "murderous terrorists" of Hamas.[8] In 2017 he said he would not appoint Hamas officials to the Palestinian government unless they recognized the state of Israel.[8] In 2018, after Hamas attempted to assassinate his prime minister with a roadside bomb during a mission to negotiate the peaceful transfer of Gaza's government to the Palestinian Authority, Abbas sanctioned Hamas and cut it off financially in an effort to destroy it.[8] According to the same commentary, Hamas survived because [[benjamin-netanyahu|Benjamin Netanyahu]] devised a scheme in which Israel carried briefcases containing tens of millions of dollars in cash into Gaza for families with ties to Hamas — a plot exposed by a cabinet minister who resigned and went public.[8] The outlet further noted that in July 2024, on the night before Netanyahu addressed Congress, [[donald-trump|Donald Trump]] posted a letter Abbas had sent him expressing concern over the attempt on Trump's life, complete with a hand-written note.[8]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
@@ -61,3 +71,4 @@ At the September 22, 2025 summit in New York supporting [[palestinian-statehood|
 5. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
+8. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2

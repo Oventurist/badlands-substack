@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Dana Williamson","description":"","frontmatter":{"title":"Dana Williamson","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["california","corruption","campaign-finance","department-of-justice","newsom"],"sources":["raw/badlands-news-brief-817.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/dana-williamson.md","filePath":"entities/dana-williamson.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/dana-williamson.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="dana-williamson" tabindex="-1">Dana Williamson <a class="header-anchor" href="#dana-williamson" aria-label="Permalink to &quot;Dana Williamson&quot;">​</a></h1><p>Dana Williamson is a California Democratic political operative who served as chief of staff to Governor <a href="/entities/gavin-newsom">Gavin Newsom</a> from late 2022 through late 2024.[1] On Wednesday, November 12, 2025, Williamson, aged 53, was arrested and charged with stealing $225,000 from inactive political campaign funds and transferring the money into a friend&#39;s account, according to the <a href="/entities/department-of-justice">Department of Justice</a>.[1]</p><h2 id="allegations" tabindex="-1">Allegations <a class="header-anchor" href="#allegations" aria-label="Permalink to &quot;Allegations&quot;">​</a></h2><p>Federal prosecutors allege that between February 2022 and September 2024 — a period overlapping her tenure in the governor&#39;s office — Williamson conspired with a colleague to funnel campaign money through a series of business entities before the funds were ultimately moved into personal accounts.[1] The indictment further alleges that Williamson conspired with a business associate to create false, backdated contracts after she received a civil subpoena in January 2024 from the U.S. Attorney&#39;s Office concerning Paycheck Protection Program (PPP) loans made to her business.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Writing in the <a href="/concepts/badlands-news-brief">Badlands News Brief</a>, <a href="/entities/ashe-in-america">Ashe in America</a> characterized the core of the case as disguising personal luxuries as business expenses to evade taxation, and speculated that similar conduct is widespread within campaign-finance &quot;business expenses,&quot; given how many &quot;morally flexible&quot; people occupy campaign roles.[1] The commentary framed the PPP-related allegations as evidence that COVID-era fraudsters who believed they had escaped scrutiny are now in a state of panic, and argued that equal justice requires the law to apply to lawmakers and their staffs in practice and not only in theory.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: MAGA Cracks, Fund Funnels, &amp; Devilish Bees&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-817" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-817</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/dana-williamson.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const danaWilliamson = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  danaWilliamson as default
+};

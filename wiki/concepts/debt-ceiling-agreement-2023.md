@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: event
 tags: [congress, fiscal-policy, debt-ceiling, 2023]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-72e.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-98c.md]
 confidence: medium
 ---
 
@@ -47,3 +47,12 @@ Signed into law by President [[joe-biden|Joe Biden]] over the objections of cons
 2. Badlands Brief — "Badlands News Brief: Debt Ceiling, Cancel Culture & Incorruptibility", URL: https://badlands.substack.com/p/badlands-news-brief-096
 3. Badlands Brief — "Badlands News Brief: Debt Deals, China Chiefs & Epstein's Banks", URL: https://badlands.substack.com/p/badlands-news-brief-319
 4. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
+
+## Student loan repayment restart provision
+
+Analysis published at the end of May 2023 highlighted a provision of the agreement announced between [[joe-biden|Joe Biden]] and Speaker [[kevin-mccarthy|Kevin McCarthy]] — formally titled the Fiscal Responsibility Act — that prohibited the Biden administration from further extending the pause on federal student loan repayments that had been in place since March 2020.[5] The pause postponed roughly $5 billion per month in repayments, and had most recently been extended until 60 days after the [[supreme-court-of-the-united-states|Supreme Court]] ruled on the separate $400 billion loan forgiveness plan.[5] The agreement left the forgiveness plan itself untouched but barred any further extension of the moratorium "except as expressly authorized by an act of Congress," which analysts at [[goldman-sachs|Goldman Sachs]] read as guaranteeing a restart of payments in September 2023.[5]
+
+Economists warned the restart would act as a fiscal drag. Jefferies compared the return of monthly payments to the 2013 fiscal cliff, when tax increases cut consumer spending, and [[jpmorgan-chase|JPMorgan]] chief U.S. economist Michael Feroli estimated the end of the moratorium would reduce annual disposable personal income by roughly $38 billion.[5] [[zerohedge|ZeroHedge]] framed the change as the end of a "nonpayment boondoggle" that would precipitate a collapse in household spending.[5]
+
+Badlands contributor [[burning-bright|Burning Bright]] argued that the episode was less a genuine fiscal crisis than a narrative trap for what he called the Uniparty establishment, stripping cultural progressives of one of the Biden era's signature inducements while pushing the real economy toward a spending contraction — an outcome he characterised as ultimately useful to the "Truth Community" because it accelerated public awakening to fiscal mismanagement.[5]
+5. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c

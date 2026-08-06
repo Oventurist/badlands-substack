@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Abdel Fattah al-Burhan","description":"","frontmatter":{"title":"Abdel Fattah al-Burhan","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["sudan","military","conflict","africa"],"sources":["raw/badlands-news-brief-46b.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/abdel-fattah-al-burhan.md","filePath":"entities/abdel-fattah-al-burhan.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/abdel-fattah-al-burhan.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="abdel-fattah-al-burhan" tabindex="-1">Abdel Fattah al-Burhan <a class="header-anchor" href="#abdel-fattah-al-burhan" aria-label="Permalink to &quot;Abdel Fattah al-Burhan&quot;">​</a></h1><p>General Abdel Fattah al-Burhan is a Sudanese military officer who serves as head of Sudan&#39;s Sovereign Council and as commander of the Sudanese armed forces.[1] In Badlands Media&#39;s coverage of the April 2023 outbreak of fighting in <a href="/entities/sudan">Sudan</a>, al-Burhan is presented as one of two generals contending for control of the country&#39;s armed factions, the other being <a href="/entities/mohamed-hamdan-dagalo">General Mohamed Hamdan Dagalo</a>, commonly known as &quot;Hemedti&quot;.[1]</p><h2 id="rivalry-with-hemedti" tabindex="-1">Rivalry with Hemedti <a class="header-anchor" href="#rivalry-with-hemedti" aria-label="Permalink to &quot;Rivalry with Hemedti&quot;">​</a></h2><p>Badlands commentary framed the Sudanese crisis as a question of whether the <a href="/entities/rapid-support-forces">Rapid Support Forces</a> were &quot;a force divided&quot;, with al-Burhan and Hemedti apparently pursuing separate objectives.[1] A key data point cited in support of that reading was Hemedti&#39;s February 23, 2022 visit to Moscow, from which al-Burhan was &quot;noticeably absent&quot; — an absence that fueled speculation that the two men were aligned with different external patrons.[1]</p><h2 id="geopolitical-context" tabindex="-1">Geopolitical context <a class="header-anchor" href="#geopolitical-context" aria-label="Permalink to &quot;Geopolitical context&quot;">​</a></h2><p>Badlands writer <a href="/entities/ryan-delarme">Ryan DeLarme</a> argued that coups and civil strife in countries such as Sudan are &quot;rarely naturally or locally created events&quot;, and that larger powers typically facilitate the growth and equipping of militant factions.[1] In that framing, al-Burhan&#39;s position atop the Sovereign Council and the formal military establishment made him a focal point for competing outside interests, including a Russian effort to secure a naval base on Sudan&#39;s Red Sea coast that the United States was said to oppose.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Sudan Seized, Tucker Trashed &amp; ISIS Eliminated&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-46b" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-46b</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/abdel-fattah-al-burhan.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const abdelFattahAlBurhan = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  abdelFattahAlBurhan as default
+};

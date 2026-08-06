@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Spirit Cooking","description":"","frontmatter":{"title":"Spirit Cooking","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["occult","performance-art","elites","symbolism"],"sources":["raw/badlands-news-brief-2ca.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/spirit-cooking.md","filePath":"concepts/spirit-cooking.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/spirit-cooking.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="spirit-cooking" tabindex="-1">Spirit Cooking <a class="header-anchor" href="#spirit-cooking" aria-label="Permalink to &quot;Spirit Cooking&quot;">​</a></h1><p>Spirit cooking is the label attached to a genre of ritualistic performance art most closely associated with artist <a href="/entities/marina-abramovic">Marina Abramovic</a>, and, within the Truth Community, a shorthand for what commentators describe as the occult aesthetic of Western elite culture.[1]</p><h2 id="description-in-badlands-coverage" tabindex="-1">Description in Badlands coverage <a class="header-anchor" href="#description-in-badlands-coverage" aria-label="Permalink to &quot;Description in Badlands coverage&quot;">​</a></h2><p>Badlands Media contributor <a href="/entities/ashe-in-america">Ashe in America</a> characterized spirit cooking events as gatherings where &quot;elites pretend(?) to eat human flesh, drink human blood, and celebrate human suffering and dehumanization,&quot; staged as art exhibits and attended by some of the world&#39;s most powerful figures.[1] The parenthetical question mark encapsulates the community&#39;s core suspicion: that the performance frame provides deniability for conduct that would otherwise be indefensible.[1]</p><p>The same commentary argued that the artistic framing functions as a class filter — those who object are told they simply lack the sophistication of the &quot;cultured elite&quot; to understand the work.[1]</p><h2 id="relationship-to-trafficking-allegations" tabindex="-1">Relationship to trafficking allegations <a class="header-anchor" href="#relationship-to-trafficking-allegations" aria-label="Permalink to &quot;Relationship to trafficking allegations&quot;">​</a></h2><p>Spirit cooking is treated in Badlands writing as the visible surface of an alleged &quot;cult of Lucifarian pedovores&quot; said to sit behind an epidemic of child sex and organ trafficking, a claim publicly dismissed as &quot;a dangerous QAnon conspiracy theory.&quot;[1] The September 2023 reports that Ukrainian President Volodymyr Zelensky had invited Abramovic to serve as an ambassador working with displaced Ukrainian children made the theme newly concrete for these writers.[1] See also <a href="/concepts/child-trafficking">child trafficking</a>.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Ukrainian Nazis, Spirit Cooks &amp; Potato Presidents&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-2ca" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-2ca</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/spirit-cooking.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const spiritCooking = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  spiritCooking as default
+};

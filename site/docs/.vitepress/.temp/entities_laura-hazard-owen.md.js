@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Laura Hazard Owen","description":"","frontmatter":{"title":"Laura Hazard Owen","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["media","journalism","media-criticism"],"sources":["raw/badlands-brief-740.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/laura-hazard-owen.md","filePath":"entities/laura-hazard-owen.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/laura-hazard-owen.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="laura-hazard-owen" tabindex="-1">Laura Hazard Owen <a class="header-anchor" href="#laura-hazard-owen" aria-label="Permalink to &quot;Laura Hazard Owen&quot;">​</a></h1><p>Laura Hazard Owen is a journalist with <a href="/entities/niemanlab">NiemanLab</a>, the Harvard-affiliated outlet covering the news industry, who in February 2026 publicly exposed that a widely shared <a href="/entities/the-atlantic">Atlantic</a> essay about an unvaccinated child dying of measles was fiction.[1]</p><h2 id="the-bruenig-disclosure" tabindex="-1">The Bruenig disclosure <a class="header-anchor" href="#the-bruenig-disclosure" aria-label="Permalink to &quot;The Bruenig disclosure&quot;">​</a></h2><p>Owen wrote that when she first read <a href="/entities/elizabeth-bruenig">Elizabeth Bruenig</a>&#39;s story she was &quot;stunned&quot; at the apparent revelation that an Atlantic staff writer&#39;s unvaccinated child had died of measles in the 2020s.[1] On reaching the editor&#39;s note describing the piece as &quot;based on extensive reporting and interviews with physicians,&quot; she concluded the piece was fiction and sent a gift link to her &quot;mom group&quot; asking, &quot;What do we think about this choice? I am very conflicted!!!&quot;[1] Her stated concern was that although the piece was heavily researched, it was not a true story, and that the very readers whose minds it aimed to change — parents who do not vaccinate — would dismiss it as fake.[1]</p><p><a href="/entities/zerohedge">ZeroHedge</a> amplified Owen&#39;s finding, reporting that The Atlantic had been &quot;busted fabricating&quot; the dead-kid measles story.[1]</p><h2 id="reception-in-the-truth-community" tabindex="-1">Reception in the Truth Community <a class="header-anchor" href="#reception-in-the-truth-community" aria-label="Permalink to &quot;Reception in the Truth Community&quot;">​</a></h2><p>Badlands contributor <a href="/entities/ashe-in-america">Ashe in America</a> credited the episode as an instance of pro-vaccine journalists &quot;policing their own for once,&quot; while mocking the assumption that Atlantic or Harvard-adjacent commentary could persuade vaccine-skeptical parents on anything substantive.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.&quot;, URL: <a href="https://badlands.substack.com/p/badlands-brief-740" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-brief-740</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/laura-hazard-owen.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const lauraHazardOwen = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  lauraHazardOwen as default
+};

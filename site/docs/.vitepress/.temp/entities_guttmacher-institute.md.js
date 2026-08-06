@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Guttmacher Institute","description":"","frontmatter":{"title":"Guttmacher Institute","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["abortion","research","statistics","dobbs","reproductive-policy"],"sources":["raw/badlands-news-brief-743.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/guttmacher-institute.md","filePath":"entities/guttmacher-institute.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/guttmacher-institute.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="guttmacher-institute" tabindex="-1">Guttmacher Institute <a class="header-anchor" href="#guttmacher-institute" aria-label="Permalink to &quot;Guttmacher Institute&quot;">​</a></h1><p>The Guttmacher Institute is a research and policy organization focused on reproductive health that publishes widely cited abortion statistics in the United States.[1]</p><h2 id="monthly-abortion-provision-study-2024-findings" tabindex="-1">Monthly Abortion Provision Study (2024 findings) <a class="header-anchor" href="#monthly-abortion-provision-study-2024-findings" aria-label="Permalink to &quot;Monthly Abortion Provision Study (2024 findings)&quot;">​</a></h2><p>In March 2024 the Institute released findings from its Monthly Abortion Provision Study estimating that 1,026,690 abortions occurred within the formal U.S. health care system in 2023 — the first full calendar year after the Supreme Court&#39;s decision in <a href="/concepts/dobbs-v-jackson-womens-health-organization">Dobbs v. Jackson Women&#39;s Health Organization</a> overturned <a href="/concepts/roe-v-wade">Roe v. Wade</a>.[1] That figure represents a rate of 15.7 abortions per 1,000 women of reproductive age, a 10% increase since 2020 — the last year for which comprehensive estimates were available — and the highest number and rate measured in the United States in over a decade.[1]</p><p>The Institute framed the increase as evidence that people continue to seek and obtain abortion care despite drastic reductions in access, noting that since the Dobbs decision in 2022, 14 states have banned abortion with limited exceptions.[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands Media commentary by <a href="/entities/simon-esler">Simon Esler</a> argued that the abortion debate functions as a psychological operation — a wedge deliberately driven between left and right — while also asserting that rising abortion numbers are not a sign of a healthy civilization, and urging readers to hold principled positions without treating their neighbors as enemies.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Biden, Bobulinski &amp; Barbecue&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-743" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-743</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/guttmacher-institute.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const guttmacherInstitute = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  guttmacherInstitute as default
+};

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [trump-allies, america-first, 2022, media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-509.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-724.md, raw/badlands-brief-835.md, raw/badlands-brief-8c2.md, raw/badlands-brief-a84.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-1ef.md, raw/badlands-brief-40d.md, raw/badlands-brief-50d.md, raw/badlands-brief-509.md, raw/badlands-brief-625.md, raw/badlands-brief-6b4.md, raw/badlands-brief-724.md, raw/badlands-brief-835.md, raw/badlands-brief-8c2.md, raw/badlands-brief-a84.md, raw/badlands-brief-a20.md, raw/badlands-brief-c07.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-99e.md]
 confidence: medium
 ---
 
@@ -213,6 +213,25 @@ Patel's activities during the investigation of the [[assassination-of-charlie-ki
 
 "He has heard concerns about how this looks," an administration official said in a statement. "There are a lot of shaking heads."[39] Christopher O'Leary, a senior former FBI counterterrorism official, said Patel's handling of the investigation showed that "he's got zero leadership experience and capabilities," while a current law enforcement official said the "horrific event" of Kirk's killing showcased Patel's "public inability to meet the moment as a leader."[39] Badlands contributor [[jon-herold|Jon Herold]] responded that it was strange to see so many people becoming defensive of the FBI in the face of criticism of the Kirk investigation, noting that many of the same voices had been calling for the bureau's dismantling months earlier.[39]
 
+## Epstein memo reversal (July 2025)
+
+In July 2025 the [[department-of-justice|Justice Department]] and the [[fbi|FBI]] under Patel's directorship concluded, in a two-page memo obtained by Axios, that there was no evidence [[jeffrey-epstein|Jeffrey Epstein]] had blackmailed powerful figures, kept a "client list," or been murdered, and the administration released raw and "enhanced" video said to show that no one entered the area of the Manhattan prison where Epstein was held the night he died in 2019.[40] Axios characterised the memo as the first time the Trump administration had officially contradicted conspiracy theories about Epstein's activities and death — theories that had been promoted by the bureau's top two officials before their appointments.[40] As social media influencers and activists, Patel and Deputy Director [[dan-bongino|Dan Bongino]] had been among those in MAGA world who questioned the official version of how Epstein died; both have since said Epstein committed suicide.[40]
+
+## Biden Ukraine source reports
+
+Patel said there is no record that the [[fbi|FBI]] sought to thoroughly investigate claims by three separate confidential human sources that the family of [[joe-biden|Joe Biden]] engaged in corruption in [[ukraine|Ukraine]].[41] At a September 2025 hearing with Patel, Senate Judiciary Chairman [[chuck-grassley|Chuck Grassley]] said that "to date, the FBI has never answered Congress whether they investigated the text messages, audio files and financial records referenced in that 1023," part of the dispute over the [[fbi-confidential-source-reports-on-biden-ukraine-corruption|FBI confidential source reports on Biden Ukraine corruption]].[41]
+
+
+## Path to the FBI directorship, December 2024
+
+When the [[fbi|FBI]] announced on December 11, 2024 that Director [[christopher-wray|Christopher Wray]] would resign at the end of the [[joe-biden|Biden]] administration, the move cleared the way for Patel, whom President-elect [[donald-trump|Donald Trump]] had already announced he would nominate for the role.[42] Wray still had three years remaining on his 10-year term, and Patel had been meeting with senators to build support for a confirmation vote the following year.[42]
+
+Patel's nomination, alongside that of [[tulsi-gabbard|Tulsi Gabbard]] for intelligence chief, was described by Politico as one of the unorthodox picks testing the [[us-senate|Senate]]'s willingness to indulge Trump, and as a driver of the Republican infighting and purity tests that marked the transition.[42] Badlands commentary rejected the framing that the Senate holds approval rights over such picks, arguing that "advise and confirm is not veto power" and that confirming Trump's choice of Patel to lead the FBI amounts to record keeping.[42] Other commentary in the same brief asked whether the stage was being set for Director Patel to release the 9/11 files, the JFK files and the Epstein client list.[42]
+
+## Trump's December 2024 "Meet the Press" comments
+
+Asked by moderator [[kristen-welker|Kristen Welker]] in a December 8, 2024 NBC interview about Patel — his choice to lead the [[fbi|FBI]], who had spoken about the need to target the "deep state" — President-elect [[donald-trump|Donald Trump]] said that "if they think that somebody was dishonest or crooked or a corrupt politician, I think he probably has an obligation to do it."[43] Trump denied that he would direct Patel to pursue his rivals, responding "No. Not at all. Not at all."[43] He added that decisions on prosecuting figures such as special counsel [[jack-smith|Jack Smith]] would be made by [[pam-bondi|Pam Bondi]] and, to a different extent, Patel, "assuming they're both there, and I think they're both going to get approved."[43]
+
 ## References
 
 1. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
@@ -254,3 +273,7 @@ Patel's activities during the investigation of the [[assassination-of-charlie-ki
 37. Badlands Brief — "Badlands News Brief: Grand Juries, Pressure Campaigns, & Elaborate Hoaxes", URL: https://badlands.substack.com/p/badlands-news-brief-779
 38. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 39. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+40. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+41. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+42. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+43. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e

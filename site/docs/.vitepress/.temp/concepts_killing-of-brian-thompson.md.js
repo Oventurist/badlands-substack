@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Killing of Brian Thompson","description":"","frontmatter":{"title":"Killing of Brian Thompson","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"concept","tags":["crime","new-york","healthcare",2024],"sources":["raw/badlands-news-brief-757.md"],"confidence":"medium"},"headers":[],"relativePath":"concepts/killing-of-brian-thompson.md","filePath":"concepts/killing-of-brian-thompson.md","lastUpdated":null}');
+const _sfc_main = { name: "concepts/killing-of-brian-thompson.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="killing-of-brian-thompson" tabindex="-1">Killing of Brian Thompson <a class="header-anchor" href="#killing-of-brian-thompson" aria-label="Permalink to &quot;Killing of Brian Thompson&quot;">​</a></h1><p>The killing of Brian Thompson was the fatal shooting of the chief executive of <a href="/entities/unitedhealthcare">unitedhealthcare</a> in midtown Manhattan on the morning of Wednesday, December 4, 2024.[1]</p><h2 id="events" tabindex="-1">Events <a class="header-anchor" href="#events" aria-label="Permalink to &quot;Events&quot;">​</a></h2><p><a href="/entities/brian-thompson">brian-thompson</a>, 50, was shot outside the Hilton hotel at 1335 Avenue of the Americas just after 6:45 a.m., having arrived early for his company&#39;s annual investor conference.[1] Police said a masked man approached him and fired repeatedly.[1] Surveillance video showed the gunman arriving on foot roughly five minutes before Thompson and apparently ignoring other pedestrians, approaching Thompson from behind, shooting him in the back, and continuing to fire as he advanced on the victim.[1] Thompson was seen walking alone toward the Hilton at 6:44 a.m.[1]</p><p>New York Police Department chief of detectives Joseph Kenny said Thompson was found on the sidewalk in front of the Hilton with gunshot wounds to his back and leg.[1] He was rushed to Mount Sinai hospital in critical condition and pronounced dead at 7:12 a.m.[1]</p><h2 id="police-response" tabindex="-1">Police response <a class="header-anchor" href="#police-response" aria-label="Permalink to &quot;Police response&quot;">​</a></h2><p>Police commissioner <a href="/entities/jessica-tisch">jessica-tisch</a> told a press conference that the shooting was a &quot;brazen, targeted attack&quot; that &quot;does not appear to be a random act of violence,&quot; and stated that &quot;every indication is that this was a premeditated, pre-planned targeted attack.&quot;[1] The <a href="/entities/nypd">New York Police Department</a> launched a search for the suspect.[1] The killing was reported by The Guardian and carried by Badlands Media as a bonus item in its December 5, 2024 news brief.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-757" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-757</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("concepts/killing-of-brian-thompson.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const killingOfBrianThompson = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  killingOfBrianThompson as default
+};

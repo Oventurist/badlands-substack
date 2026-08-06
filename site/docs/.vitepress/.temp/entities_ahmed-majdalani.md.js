@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Ahmed Majdalani","description":"","frontmatter":{"title":"Ahmed Majdalani","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["palestinian-authority","plo","gaza","ramallah","diplomacy"],"sources":["raw/badlands-news-brief-4e1.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/ahmed-majdalani.md","filePath":"entities/ahmed-majdalani.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/ahmed-majdalani.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="ahmed-majdalani" tabindex="-1">Ahmed Majdalani <a class="header-anchor" href="#ahmed-majdalani" aria-label="Permalink to &quot;Ahmed Majdalani&quot;">​</a></h1><p>Ahmed Majdalani is a senior Palestinian official, a longtime minister in the <a href="/entities/palestinian-authority">Palestinian Authority</a> and a member of the Palestine Liberation Organization Executive Council. He is described as a confidant of PA President <a href="/entities/mahmoud-abbas">Mahmoud Abbas</a>.[1]</p><h2 id="opposition-to-the-gaza-relocation-proposal" tabindex="-1">Opposition to the Gaza relocation proposal <a class="header-anchor" href="#opposition-to-the-gaza-relocation-proposal" aria-label="Permalink to &quot;Opposition to the Gaza relocation proposal&quot;">​</a></h2><p>In an interview conducted at his Ramallah office and published in early March 2025 by The Times of Israel, Majdalani said the Palestinian Authority would cut ties with the United States if <a href="/entities/donald-trump">President Donald Trump</a> advanced his proposal to take over the Gaza Strip and relocate its residents.[1] He characterized implementation of the plan as the &quot;expulsion&quot; of Gaza&#39;s roughly two million residents, amounting to an &quot;existential threat&quot; to the Palestinian cause.[1]</p><p>Pressed repeatedly on whether that opposition meant the PA was prepared to sever relations with Washington again, Majdalani answered each time: &quot;Of course,&quot; adding, &quot;Why would we have ties if Mr. Trump sticks to this proposal?&quot;[1] He clarified that Ramallah remained prepared to work with Trump if the idea were abandoned, and pointed to statements by senior US aides who had softened the <a href="/concepts/gaza-relocation-proposal-2025">Gaza relocation proposal</a> and suggested openness to shelving it if Arab allies produced an alternative post-war plan that removed <a href="/entities/hamas">Hamas</a> from power.[1]</p><p>Badlands commentary read Majdalani&#39;s remarks as evidence that Abbas and the Fatah faction of the PA had concluded, as the author had, that Trump&#39;s Gaza plan was an opening negotiating position rather than an intended outcome.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;SCOTUS Drama and (Altered) Deals Shake Up the Week&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-4e1" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-4e1</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/ahmed-majdalani.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ahmedMajdalani = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ahmedMajdalani as default
+};

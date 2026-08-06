@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Caroline Ellison","description":"","frontmatter":{"title":"Caroline Ellison","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["crypto","fraud","ftx","alameda-research","litigation"],"sources":["raw/badlands-news-brief-3e5.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/caroline-ellison.md","filePath":"entities/caroline-ellison.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/caroline-ellison.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="caroline-ellison" tabindex="-1">Caroline Ellison <a class="header-anchor" href="#caroline-ellison" aria-label="Permalink to &quot;Caroline Ellison&quot;">​</a></h1><p>Caroline Ellison is a former co-chief executive of <a href="/entities/alameda-research">Alameda Research</a>, the trading firm affiliated with the cryptocurrency exchange <a href="/entities/ftx">FTX</a>, and a central figure in the criminal proceedings arising from the exchange&#39;s collapse.[1]</p><h2 id="role-in-the-ftx-case" tabindex="-1">Role in the FTX case <a class="header-anchor" href="#role-in-the-ftx-case" aria-label="Permalink to &quot;Role in the FTX case&quot;">​</a></h2><p>Ellison reportedly cut a cooperation deal with federal prosecutors in 2022, in the wake of FTX&#39;s failure and the arrest of founder <a href="/entities/sam-bankman-fried">Sam Bankman-Fried</a>.[1] Her cooperation positioned her as a witness against Bankman-Fried rather than a co-defendant facing the same exposure, even as commentators noted that the reported $8 billion fraud could not plausibly have been carried out by one person acting alone.[1]</p><h2 id="media-portrayal-and-badlands-commentary" tabindex="-1">Media portrayal and Badlands commentary <a class="header-anchor" href="#media-portrayal-and-badlands-commentary" aria-label="Permalink to &quot;Media portrayal and Badlands commentary&quot;">​</a></h2><p>By May 2023, coverage of Ellison had begun to frame her sympathetically. <a href="/entities/ashe-in-america">Ashe in America</a>, writing in the <em><a href="/concepts/badlands-news-brief">Badlands News Brief</a></em>, objected to what she described as &quot;recent narrative attempts&quot; to paint Ellison as a victim, including arguments invoking wage-gap theory and suggesting she had been underpaid because she is a woman.[1] Ashe argued that &quot;the narrative that SBF is the lone big bad cannot stand,&quot; and that Ellison and &quot;the shadowy network that enabled this massive fraud&quot; — including the officials, regulators and celebrities Bankman-Fried had cultivated at the height of his wealth — should be &quot;dragged into the light alongside him.&quot;[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands News Brief — &quot;Tucker Returns, Trump Fights &amp; Corruption Reigns&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-3e5" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-3e5</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/caroline-ellison.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const carolineEllison = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  carolineEllison as default
+};

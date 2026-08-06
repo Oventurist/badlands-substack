@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [literature, dissent, soviet-union, moral-philosophy]
-sources: [raw/badlands-brief-e9e.md]
+sources: [raw/badlands-brief-e9e.md, raw/badlands-news-brief-988.md]
 confidence: low
 ---
 
@@ -18,5 +18,10 @@ In June 2026 Badlands contributor [[ashe-in-america|Ashe in America]] told reade
 
 Ashe reported that posting the excerpt drew a reply she used to sharpen the point, writing that the biggest lie is that elections are real and that Americans consented to be governed through a lawful process, and that this lie remains the foundation of all the others precisely because it is the most uncomfortable to confront.[1]
 
+## Later citations
+
+Writing on the 24th anniversary of the [[september-11-attacks|September 11 attacks]], [[ashe-in-america|Ashe in America]] invoked Solzhenitsyn's observation that "in our country the lie has become not just a moral category but a pillar of the State," applying it to the official narrative of the attacks and to the American information war.[2]
+
 ## References
 1. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
+2. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988

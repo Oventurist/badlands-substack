@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Gosha Rubchinskiy","description":"","frontmatter":{"title":"Gosha Rubchinskiy","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["fashion","russia","kanye-west","yeezy","moscow"],"sources":["raw/badlands-news-brief-447.md"],"confidence":"low"},"headers":[],"relativePath":"entities/gosha-rubchinskiy.md","filePath":"entities/gosha-rubchinskiy.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/gosha-rubchinskiy.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="gosha-rubchinskiy" tabindex="-1">Gosha Rubchinskiy <a class="header-anchor" href="#gosha-rubchinskiy" aria-label="Permalink to &quot;Gosha Rubchinskiy&quot;">​</a></h1><p>Gosha Rubchinskiy is a Russian fashion designer and artist based in Moscow, best known internationally for streetwear collections drawing on post-Soviet imagery.[1] His first collection, &quot;Empire of Evil,&quot; presented at the end of 2008 for SS/09, referenced Ronald Reagan&#39;s Cold War description of the USSR; his second, &quot;Growing and Expanding,&quot; was shown in a disused Orthodox church-turned-gym in Moscow&#39;s suburbs.[1]</p><h2 id="association-with-kanye-west" tabindex="-1">Association with Kanye West <a class="header-anchor" href="#association-with-kanye-west" aria-label="Permalink to &quot;Association with Kanye West&quot;">​</a></h2><p>Rubchinskiy first met <a href="/entities/kanye-west">Kanye West</a> in Moscow on November 15, 2016.[1] Two days later, during a concert in San Jose, West stopped the show to denounce Hillary Clinton and <a href="/entities/barack-obama">Barack Obama</a> as corrupt and to express support for <a href="/entities/donald-trump">Donald Trump</a>, while also calling out Jay-Z.[1] On that same November 15, Rubchinskiy announced that Kaliningrad would host his Fall 2017 show — a city built in 1946 on the ruins of Königsberg, capital of the Old Prussian Duchy established in 1255 and home of the Order of Teutonic Knights, later a seat of power for the Polish-Lithuanian Commonwealth.[1]</p><p>On December 13, 2023, West announced in a post on X that Rubchinskiy had become the new lead designer for his brand, Yeezy.[1] In late June 2024, Russian media reported that West had arrived in Moscow for Rubchinskiy&#39;s birthday celebrations, with the state TASS news agency quoting television presenter Yana Rudkovskaya as saying he was staying &quot;in the heart of the capital.&quot;[1] Badlands commentator GhostofBasedPatrickHenry treated the Rubchinskiy connection, the Prussian iconography on West&#39;s album Vultures, and the timing of West&#39;s Moscow visits as deliberate symbolic signalling rather than coincidence.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;The Old Guard Braces for Impact as Panic Spreads&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-447" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-447</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/gosha-rubchinskiy.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const goshaRubchinskiy = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  goshaRubchinskiy as default
+};

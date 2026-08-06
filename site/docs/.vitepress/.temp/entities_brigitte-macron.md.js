@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Brigitte Macron","description":"","frontmatter":{"title":"Brigitte Macron","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["france","first-lady","macron","viral-video"],"sources":["raw/badlands-news-brief-561.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/brigitte-macron.md","filePath":"entities/brigitte-macron.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/brigitte-macron.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="brigitte-macron" tabindex="-1">Brigitte Macron <a class="header-anchor" href="#brigitte-macron" aria-label="Permalink to &quot;Brigitte Macron&quot;">​</a></h1><p>Brigitte Macron is the First Lady of France and the wife of French President <a href="/entities/emmanuel-macron">Emmanuel Macron</a>.[1]</p><h2 id="hanoi-airplane-door-incident-may-2025" tabindex="-1">Hanoi airplane-door incident (May 2025) <a class="header-anchor" href="#hanoi-airplane-door-incident-may-2025" aria-label="Permalink to &quot;Hanoi airplane-door incident (May 2025)&quot;">​</a></h2><p>In late May 2025 Brigitte Macron became the subject of a widely circulated video clip recorded after the presidential couple&#39;s aircraft landed in Hanoi, Vietnam, during a Southeast Asia tour. The footage shows President Macron standing in the open doorway of the aircraft when an out-of-frame hand appears to shove his face away; the president recovers his composure, smiles and waves, and later disembarks alongside his wife.[1]</p><p>The Élysée Palace and the president himself downplayed the episode. Speaking to reporters on 26 May 2025, Macron dismissed speculation that the first lady had shoved him, saying the couple were merely being playful — an account summarised in the press as &quot;horsing around.&quot;[1]</p><h2 id="commentary" tabindex="-1">Commentary <a class="header-anchor" href="#commentary" aria-label="Permalink to &quot;Commentary&quot;">​</a></h2><p>Badlands Media contributors treated the official explanation sceptically. <a href="/entities/ashe-in-america">Ashe in America</a> argued that the couple&#39;s body language contradicted the &quot;playing around&quot; narrative, noting that Brigitte declined her husband&#39;s arm while descending the aircraft stairs and that Emmanuel&#39;s fists were clenched during the subsequent tarmac press availability. She also drew attention to a woman visible in the footage with a ripped shirt and a bloody shoulder, asking what had actually taken place aboard the aircraft.[1] Contributor Brad Cologero Getz offered a blunter reading, remarking that &quot;Macron got mushed&quot; and describing being &quot;mushed&quot; as a greater humiliation than being struck.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: Pro Putin Propaganda &amp; A Parisian Proxy President&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-561" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-561</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/brigitte-macron.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const brigitteMacron = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  brigitteMacron as default
+};

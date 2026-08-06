@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Brendan Whitworth","description":"","frontmatter":{"title":"Brendan Whitworth","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["business","anheuser-busch","bud-light","corporate"],"sources":["raw/badlands-news-brief-208.md"],"confidence":"medium"},"headers":[],"relativePath":"entities/brendan-whitworth.md","filePath":"entities/brendan-whitworth.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/brendan-whitworth.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="brendan-whitworth" tabindex="-1">Brendan Whitworth <a class="header-anchor" href="#brendan-whitworth" aria-label="Permalink to &quot;Brendan Whitworth&quot;">​</a></h1><p>Brendan Whitworth is the Chief Executive of Anheuser-Busch, the U.S. arm of <a href="/entities/anheuser-busch-inbev">Anheuser-Busch InBev</a>.[1]</p><h2 id="july-2023-layoffs" tabindex="-1">July 2023 layoffs <a class="header-anchor" href="#july-2023-layoffs" aria-label="Permalink to &quot;July 2023 layoffs&quot;">​</a></h2><p>In late July 2023, following months of slumping <a href="/entities/bud-light">Bud Light</a> sales, Anheuser-Busch InBev laid off hundreds of workers at its U.S. offices, cuts affecting less than 2% of its roughly 18,000-person U.S. workforce.[1] The company said the layoffs would not affect front-line workers such as brewery and warehouse staff, and that the restructuring eliminated corporate and marketing roles at major U.S. offices including St. Louis, New York and Los Angeles.[1]</p><p>In a written statement, Whitworth said: &quot;While we never take these decisions lightly, we want to ensure that our organization continues to be set for future long-term success. These corporate structure changes will enable our teams to focus on what we do best—brewing great beer for everyone.&quot;[1]</p><h2 id="criticism" tabindex="-1">Criticism <a class="header-anchor" href="#criticism" aria-label="Permalink to &quot;Criticism&quot;">​</a></h2><p><a href="/entities/ashe-in-america">Ashe in America</a>, writing in the <a href="/concepts/badlands-news-brief">Badlands News Brief</a>, argued that the consequences of the marketing decision — the promotion built around <a href="/entities/dylan-mulvaney">Dylan Mulvaney</a> — fell on 645 employees rather than on executives.[1] She noted that Bud Light was reporting a permanent loss of 25% of its business as a result of the failed campaign, that this was unlikely to affect executive compensation, and that unless the laid-off staff were in the marketing department the outcome was immoral.[1] &quot;The buck stops at the top when the bucks are free flowing,&quot; she wrote, but when revenues fall the blame is directed at customers while employees absorb the impact.[1]</p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;Badlands News Brief: The Walls Are Closing in ... Or So We&#39;re Told&quot;, URL: <a href="https://badlands.substack.com/p/badlands-news-brief-208" target="_blank" rel="noreferrer">https://badlands.substack.com/p/badlands-news-brief-208</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/brendan-whitworth.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const brendanWhitworth = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  brendanWhitworth as default
+};

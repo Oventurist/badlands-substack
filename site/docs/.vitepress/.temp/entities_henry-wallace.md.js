@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Henry Wallace","description":"","frontmatter":{"title":"Henry Wallace","created":"2026-08-06T00:00:00.000Z","updated":"2026-08-06T00:00:00.000Z","type":"entity","tags":["fdr","united-nations","anti-colonialism","new-deal"],"sources":["raw/a-gateway-to-a-new-world-of-cooperation.md"],"confidence":"low"},"headers":[],"relativePath":"entities/henry-wallace.md","filePath":"entities/henry-wallace.md","lastUpdated":null}');
+const _sfc_main = { name: "entities/henry-wallace.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="henry-wallace" tabindex="-1">Henry Wallace <a class="header-anchor" href="#henry-wallace" aria-label="Permalink to &quot;Henry Wallace&quot;">​</a></h1><p><strong>Henry Wallace</strong> is named in Badlands Media commentary alongside <a href="/entities/franklin-d-roosevelt">Franklin Roosevelt</a> as a figure whose conception of the <a href="/entities/united-nations">United Nations</a> differed sharply from what the organisation later became.<a href="https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation" target="_blank" rel="noreferrer">[1]</a></p><h2 id="the-un-as-wallace-envisioned-it" tabindex="-1">The UN as Wallace envisioned it <a class="header-anchor" href="#the-un-as-wallace-envisioned-it" aria-label="Permalink to &quot;The UN as Wallace envisioned it&quot;">​</a></h2><p>Contributor <a href="/entities/matthew-ehret">Matthew Ehret</a> writes that the UN as envisioned by Roosevelt or Wallace was never meant to be a world government, but rather a platform for dialogue and for the harmonisation of security and economic interests among civilizations.<a href="https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation" target="_blank" rel="noreferrer">[1]</a> This framing supports the essay&#39;s wider claim that the drive toward supranational technocratic government associated with the <a href="/concepts/great-reset">Great Reset</a> represents a departure from, not a fulfilment of, the post-war design.<a href="https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation" target="_blank" rel="noreferrer">[1]</a></p><h2 id="context" tabindex="-1">Context <a class="header-anchor" href="#context" aria-label="Permalink to &quot;Context&quot;">​</a></h2><p>Wallace is placed within the same anti-colonial post-war vision that Ehret associates with the original <a href="/concepts/bretton-woods-system">Bretton Woods</a> arrangements — fixed exchange rates to block speculation and long-term credit for large-scale development intended to internationalise the New Deal.<a href="https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation" target="_blank" rel="noreferrer">[1]</a></p><h2 id="references" tabindex="-1">References <a class="header-anchor" href="#references" aria-label="Permalink to &quot;References&quot;">​</a></h2><ol><li>Badlands Brief — &quot;A Gateway to a New World of Cooperation&quot;, URL: <a href="https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation" target="_blank" rel="noreferrer">https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation</a></li></ol></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("entities/henry-wallace.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const henryWallace = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  henryWallace as default
+};
