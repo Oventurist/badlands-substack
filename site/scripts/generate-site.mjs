@@ -234,7 +234,10 @@ export default defineConfig({
   title: "Badlands Wiki",
   description: "Community-compiled knowledge base of the Badlands Media corpus",
   cleanUrls: true,
-  lastUpdated: true,
+  // lastUpdated disabled: with 6,600+ pages VitePress runs git log per
+  // page at build time, blowing past Vercel's 45-min limit. Pages already
+  // carry their own updated date in frontmatter.
+  lastUpdated: false,
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
@@ -243,10 +246,9 @@ export default defineConfig({
       { text: "Graph", link: "/graph/" },
     ],
     sidebar: ${JSON.stringify(sidebar, null, 2)},
-    search: {
-      provider: "local",
-      options: { translations: { button: { buttonText: "Search", buttonAriaLabel: "Search" } } },
-    },
+    // local search disabled: it builds a full-text index over every page at
+    // build time (7K+ pages), which is a major part of the >45min build.
+    // Re-add via a hosted search provider if needed later.
     footer: { message: "Sourced from the Badlands Media corpus. Content reflects the views of the original authors." },
   },
 });
