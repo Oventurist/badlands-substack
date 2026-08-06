@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, oligarch, sanctions, spygate]
-sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-a9e.md]
+sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b65.md]
 confidence: medium
 ---
 
@@ -28,8 +28,13 @@ In January 2023, former [[fbi|FBI]] counterintelligence official [[charles-mcgon
 
 Deripaska, described in reporting as a wealthy Russian with close ties to President [[vladimir-putin|Vladimir Putin]], remained the central figure in the McGonigal prosecution through sentencing.[3] McGonigal pleaded guilty in August 2023 to conspiracy to violate U.S. sanctions and money laundering for working on Deripaska's behalf after leaving the FBI, and was sentenced on December 14, 2023 by Judge [[jennifer-rearden|Jennifer Rearden]] to 50 months in prison.[3] Prosecutors emphasized that while heading the New York counterintelligence division McGonigal had supervised investigations of Russian oligarchs including Deripaska himself, and argued that a foreign government would readily choose a former U.S. counterintelligence chief "on their payroll" over military supplies.[3]
 
+## Role in the Levinson rescue scheme
+
+Once Russia's richest man, Deripaska formed the aluminum company Rusal in 2000 and in 2007 merged it with the aluminum division of [[glencore|Glencore]], the Swiss commodities trading house repeatedly featured in Badlands corruption coverage.[4] Air Force intelligence officer [[bob-kent|Bob Kent]] contracted with Deripaska to fund a $20 million operation to rescue [[bob-levinson|Bob Levinson]], the retired FBI agent captured in Iran in 2007, in exchange for expedited green cards for Deripaska's family.[4] Former prosecutor [[david-mcgee|David McGee]] was brought into the effort because he knew both Levinson and Deripaska from his work on the DOJ Organized Crimes Task Force, and [[andrew-mccabe|Andrew McCabe]] served as the FBI point man.[4] The operation, planned during President Obama's first term, was called off on the eve of execution when the Clinton [[state-department|State Department]] became spooked.[4]
+
 ## References
 
 1. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 2. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
 3. Badlands Brief — "Badlands News Brief: The Simulation Gets Very ... Very Weird", URL: https://badlands.substack.com/p/badlands-news-brief-a9e
+4. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65

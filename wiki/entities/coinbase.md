@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, exchange, sec, custody]
-sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-677.md]
+sources: [raw/badlands-news-brief-09d.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -20,7 +20,12 @@ Coinbase's role in crypto custody was implicated in the congressional fight over
 
 In May 2024 the [[donald-trump|Trump]] campaign announced that it would begin accepting cryptocurrency donations, with supporters able to donate using "any cryptocurrency accepted through the Coinbase Commerce product."[2] The campaign cast the move as an act of solidarity with opponents of "socialistic government control" over U.S. financial markets, and tied President [[joe-biden|Joe Biden]] to Senator [[elizabeth-warren|Elizabeth Warren]]'s self-described "anti-crypto army."[2]
 
+## March 2024 dismissal ruling
+
+On 27 March 2024 U.S. District Judge [[katherine-polk-failla|Katherine Polk Failla]] in Manhattan federal court largely rejected Coinbase's bid to dismiss the [[securities-and-exchange-commission|SEC]]'s complaint, ruling that the claim the exchange engaged in unregistered sales of securities could be heard by a jury at trial.[3] Coinbase shares fell roughly 2.5% on the news.[3] The regulator had first sued in June 2023, alleging the company acted as an unregistered broker and exchange and demanding it be "permanently restrained and enjoined" from continuing to do so.[3] Failla wrote that the "crypto" nomenclature "may be of recent vintage, but the challenged transactions fall comfortably within the framework that courts have used to identify securities for nearly eighty years," and found the SEC had adequately alleged that Coinbase's Staking Program constituted the unregistered offer and sale of securities; she did dismiss the claim that Coinbase acted as an unregistered broker through its Wallet application.[3] Badlands writer [[burning-bright|Burning Bright]] paired the ruling with [[swift|SWIFT]]'s CBDC platform announcement, noting that because the SEC treats bitcoin alone as a free-market commodity, the US government de facto regards all other digital currencies as securities.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Iranian Crashes, Israeli Maneuvers & Trumpian Rhetoric", URL: https://badlands.substack.com/p/badlands-news-brief-09d
 2. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+3. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

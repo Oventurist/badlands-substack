@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, investment, media, bankruptcy]
-sources: [raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ff.md]
+sources: [raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-b5a.md]
 confidence: low
 ---
 
@@ -22,7 +22,12 @@ The [[badlands-media|Badlands Media]] news brief that carried the report framed 
 
 Having taken over [[vice-media|Vice Media]] in bankruptcy in 2023, Fortress was by January 2024 seeking to sell the company's [[refinery29|Refinery29]] women's lifestyle site, according to Wall Street Journal reporting.[2] The move followed a failed attempt to find a buyer for Vice in its entirety, a package that included the namesake news brand, the production studio and the creative agency.[2] Fortress was in discussions with prospective bidders for Refinery29, whose revenue had declined to roughly $30 million from about $50 million the previous year.[2]
 
+## Failed sale of Vice Media (2024)
+
+Fortress's effort to sell [[vice-media|Vice Media]] and its brands failed, and in February 2024 the publisher announced it would stop publishing content on vice.com and eliminate several hundred positions.[3] The restructuring, set out in an internal memo by Chief Executive [[bruce-dixon|Bruce Dixon]], formed part of a plan to make the company profitable since new owners took control the previous June.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
 2. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
+3. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

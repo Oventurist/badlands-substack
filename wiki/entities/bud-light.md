@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brands, brewing, boycott, marketing, culture-war]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md]
 confidence: medium
 ---
 
@@ -40,6 +40,12 @@ Union chief marketing officer Layne Cox said domestic beer brands were reaping t
 
 By May 2023 the Bud Light episode had become the standard reference point for what happens when a brand pushes its customers too far, cited alongside Fox News's alienation of the fans of its highest-rated host.[5] Commentators applied the template directly to the [[los-angeles-dodgers|Los Angeles Dodgers]]' handling of the [[sisters-of-perpetual-indulgence|Sisters of Perpetual Indulgence]] at Pride Night, with Badlands contributor [[johnny-q|Johnny Q]] predicting the club's reconciliation with the group would produce the same effect as Bud Light's attempt at virtue signaling — a catastrophic loss of business through ticket sales and attendance.[5]
 
+## Trump's call for a second chance
+
+On February 6, 2024, former President [[donald-trump|Donald Trump]] wrote on Truth Social that Bud Light's parent company [[anheuser-busch-inbev|Anheuser-Busch]] is not "woke" and suggested it "deserves a second chance," saying "The Bud Light ad was a mistake of epic proportions, and for that a very big price was paid."[6] The reference was to the brand's 2023 decision to produce a customized can featuring transgender activist [[dylan-mulvaney|Dylan Mulvaney]], which triggered a sustained boycott and cost the parent company billions of dollars in revenue.[6] While asserting Anheuser-Busch was not woke, Trump said he could name "plenty that are."[6]
+
+[[simon-esler|Simon Esler]] argued that the distinction Trump drew was important: [[esg|ESG]] scores function as a social credit system for corporations, and there is a difference between American companies struggling to navigate the weaponization of "corporate responsibility" and firms that are active, willing participants in the culture war.[6] He warned that if Bud Light were destroyed entirely, farmers, blue-collar workers and middle-class families would bear the cost, and advocated using consumer pressure to demonstrate the profitability of operating outside ESG frameworks, gradually building a parallel economy rather than accelerating a destruction the "enemy" intends.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -47,3 +53,4 @@ By May 2023 the Bud Light episode had become the standard reference point for wh
 3. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 5. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
+6. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c

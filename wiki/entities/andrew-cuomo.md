@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, politics, mayoral-race, democrats]
-sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8d6.md]
+sources: [raw/badlands-news-brief-153.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-8d6.md, raw/badlands-news-brief-b78.md]
 confidence: medium
 ---
 
@@ -36,8 +36,15 @@ On the eve of the [[new-york-city-mayoral-election-2025|2025 New York City mayor
 
 On 1 October 2025, hours before the beginning of Yom Kippur, Cuomo apologized to Jewish New Yorkers for the COVID-19 lockdowns he had imposed five years earlier, which banned large gatherings, closed schools and disrupted religious traditions.[4] The apology came while Cuomo was running as an underdog in his political comeback bid for mayor, and on the holiest day of the Jewish calendar, when one is meant to atone for sins.[4] In the video Cuomo said he had made decisions to protect the health and safety of New Yorkers during a once-in-a-century pandemic that killed about 80,000 residents.[4] Badlands contributor [[ashe-in-america|Ashe in America]] mocked the message as "Sorry I killed your parents and grandparents. Please elect me governor!", asking what had happened to competent political consultants and concluding that Cuomo is "a terrible product."[4]
 
+## Democratic resistance to a comeback (2024)
+
+In October 2024, reporting described Cuomo as wanting out of the political wilderness while many fellow New York Democrats wished he would stay there.[5] Concern that he might run for New York City mayor led a nascent collection of labor, business and advocacy groups to consider an organized effort to counter any comeback, according to a person familiar with the planning and fundraising who was granted anonymity to discuss internal conversations.[5]
+
+Separately, some Democratic leaders privately encouraged state Attorney General [[letitia-james|Tish James]] — who had helped run Cuomo out of office three years earlier — to mount a bid for mayor if [[eric-adams|Eric Adams]] stepped down.[5] A James mayoral run was seen as likely to box out Cuomo, since she would draw support from Black voters in her home borough of Brooklyn, a base considered vital to the former governor's prospects.[5] The maneuvering reflected how quickly the New York political landscape had shifted as Adams defended against a federal corruption indictment, faced other criminal inquiries and calls for his resignation, with the collapse of his career offering Cuomo an opening.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Very Productive Phone Calls & Presidential Memorandums", URL: https://badlands.substack.com/p/badlands-news-brief-153
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 3. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 4. Badlands Brief — "Badlands News Brief: Inadvertent Israeli Attacks, Delightful Deep Fakes, & A Suing Shaman", URL: https://badlands.substack.com/p/badlands-news-brief-8d6
+5. Badlands Brief — "Badlands News Brief: The Trump-Musk Pincer Closes as Disaster Strikes the Regime", URL: https://badlands.substack.com/p/badlands-news-brief-b78

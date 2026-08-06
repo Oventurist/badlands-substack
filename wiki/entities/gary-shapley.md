@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [whistleblower, internal-revenue-service, hunter-biden]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ A fourteen-year veteran of the agency, Shapley alleged in June 2023 that Hunter 
 
 Shapley's testimony was the trigger for House Speaker [[kevin-mccarthy|Kevin McCarthy]]'s announcement that Republicans would begin an impeachment inquiry into Attorney General [[merrick-garland|Merrick Garland]] by July 6, 2023 if the whistleblower claims checked out.[4] Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] argued that the implication of Shapley's allegations was that Garland had lied under oath in his March 1, 2023 congressional testimony about the authority granted to U.S. Attorney [[david-weiss|David Weiss]].[4]
 
+## July 2023 House Oversight hearing
+
+Shapley appeared alongside fellow IRS whistleblower [[joseph-ziegler|Joseph Ziegler]] at a [[house-oversight-committee|House Oversight Committee]] hearing on Wednesday, July 19, 2023, at which the two men testified about alleged political interference in the [[hunter-biden|Hunter Biden]] tax investigation.[5] Critics of the majority-party Democrats on the panel argued that members were unable to rebut the whistleblowers' factual testimony and instead delivered speeches invoking former President [[donald-trump|Donald Trump]] and George Floyd.[5] Badlands contributor [[burning-bright|Burning Bright]] wrote that the hearing went "about as poorly as you could possibly imagine from the perspective of the [[biden-crime-family|Biden Crime Family]]," with House Democrats tacitly accepting most of the allegations against Hunter Biden while attempting to insulate his father from them.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 3. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 4. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+5. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

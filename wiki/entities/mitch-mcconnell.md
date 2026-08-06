@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, republican-party, neoconservatism, death-rumors, kentucky]
-sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-b35.md]
 confidence: medium
 ---
 
@@ -54,6 +54,12 @@ When the [[us-senate|Senate]] confirmed [[robert-f-kennedy-jr|Robert F. Kennedy 
 
 On March 7, 2023, in his capacity as Senate Minority Leader, McConnell called it a "mistake" for [[tucker-carlson|Tucker Carlson]] and [[fox-news|Fox News]] to broadcast never-before-seen [[january-6-capitol-security-footage-release|January 6 security footage]], a position he took alongside Senate Majority Leader [[chuck-schumer|Chuck Schumer]]'s call for [[rupert-murdoch|Rupert Murdoch]] to stop Carlson from airing further material.[8] Writing in the [[badlands-news-brief|Badlands News Brief]], [[patel-patriot|Patel Patriot]] argued that both McConnell and Schumer had promoted transparency in government only when it benefited their own political agendas, and asked what they were afraid of.[8]
 
+## Endorsement of Trump (March 2024)
+
+On Wednesday, March 6, 2024, Senate Minority Leader McConnell endorsed former President [[donald-trump|Donald Trump]]'s bid for the White House, marking a turnaround in the icy relationship between two of the most prominent Republicans in the country.[9] He unveiled the endorsement only after news broke that [[nikki-haley|Nikki Haley]], Trump's final remaining primary opponent, was dropping out following Trump's Super Tuesday wins.[9] McConnell said it was "abundantly clear that former President Trump has earned the requisite support of Republican voters to be our nominee," and that it "should come as no surprise that as nominee, he will have my support."[9] He cited their joint accomplishments during Trump's presidency, including tax reform and "a generational change of our federal judiciary — most importantly, the Supreme Court," and said he looked forward to switching from playing defense against Biden administration policies to sustained offense.[9] The move followed weeks of back-channel talks between [[chris-lacivita|Chris LaCivita]], Trump's campaign manager, and Josh Holmes, McConnell's longtime top political aide.[9]
+
+[[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] dismissed the endorsement as an afterthought, writing that McConnell "still thinks he is relevant" and describing him as "a walking advertisement for age limits, term limits, trading limits, and other necessary Congressional reforms," while noting that his time in leadership was drawing to a close.[9]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
@@ -63,3 +69,4 @@ On March 7, 2023, in his capacity as Senate Minority Leader, McConnell called it
 6. Badlands Brief — "Badlands News Brief: Rise and Fall of the Warmongers ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-2e8
 7. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 8. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
+9. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35

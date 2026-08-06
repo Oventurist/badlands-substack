@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, 2020-election, testimony]
-sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-b35.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Lawyers for Trump and the other defendants hammered at Bradley's credibility, re
 
 [[ashe-in-america|Ashe in America]] reported that Bradley was impeached a number of times regarding his recollection, and that his testimony revealed the "convenience" of his memory where Wade was concerned.[2] The movants also established that Bradley had reviewed Merchant's motion, made edits and said "looks good" — though he later claimed he referred only to the inclusion of his edits — and that he advised Merchant of no defect beyond those edits, effectively approving the motion's allegations about the relationship.[2] Trump attorney [[steve-sadow|Steve Sadow]] pressed him repeatedly on why he would speculate about allegations against a friend to a lawyer he knew was filing them; Bradley had no good answers before the judge halted the questioning.[2] The hearing was set to resume on the record that Friday at 1 p.m. ET.[2]
 
+## Role in the disclosure of the Willis–Wade relationship
+
+Testimony by attorney [[ashleigh-merchant|Ashleigh Merchant]] before the [[georgia-senate|Georgia Senate]] Committee on Special Investigations on March 6, 2024 described Bradley, Nathan Wade's former law partner, as a key early source of information about Wade's personal circumstances.[3] According to Merchant, Bradley was upset over what happened in Wade's divorce and disapproved of how Wade had treated his wife, remarking that he himself would not leave a wife without alimony.[3] Merchant recounted Bradley telling her that Wade left his wife of nearly 30 years shortly after the couple dropped their youngest child off at college, and after Wade met Fulton County District Attorney Fani Willis.[3]
+
 ## References
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 2. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
+3. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35

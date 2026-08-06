@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md]
 confidence: low
 ---
 
@@ -41,6 +41,12 @@ In the Badlands News Brief covering March 13, 2024, Esler wrote on two items. On
 
 On the NHS decision to stop prescribing puberty blockers to children, Esler argued the drugs are dangerous even within their approved indication of precocious puberty, whose listed risks amount largely to reduced adult height and social ostracization, and described the off-label use of the drugs to halt puberty for gender-affirming care as resting on those shady foundations.[6] He argued that if the reaction constituted a moral panic it was a justified one, citing the development of a micropenis in boys placed on blockers and the consequent need for surgeons to harvest intestinal or colon tissue for later vaginoplasty.[6]
 
+## Commentary in the February 23, 2024 brief
+
+In the Badlands News Brief of February 23, 2024, Esler contributed two commentaries.[7] On the [[google-gemini|Gemini]] image-generation failure he invoked "garbage in, garbage out," arguing that bias is baked into AI both by firms building critical race theory into their systems and because models trained on decades of mainstream news reproduce what the culture has already elevated; he said he sometimes uses AI to steel-man his own arguments, and identified [[transhumanism|transhumanism]] as the intersection of the AI, gender-ideology and virtual-reality trends.[7] While amused by [[elon-musk|Elon Musk]]'s calling out of Google, he warned that Musk's brain-chip work and openness to merging human thought with technology went relatively unchecked in a culture already teaching children they can swap out body parts.[7]
+
+On the Greek objection to the [[netflix|Netflix]] portrayal of [[alexander-the-great|Alexander the Great]], Esler argued for describing the conflict explicitly as [[neo-marxism|Neo-Marxist]] warfare so that the lens of strategy, operations and tactics could be applied, identifying [[queering-history|queering history]] as a primary strategic objective and the series as an operation serving it.[7] He described Neo-Marxist warfare as building "counter-hegemonies" that invert perceived white, heteronormative, cisnormative patriarchal power structures, called [[diversity-equity-and-inclusion|DEI]] and [[esg|ESG]] scores massive counter-hegemony operations, and urged readers to "bring the war itself into the Overton window."[7]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -48,3 +54,4 @@ On the NHS decision to stop prescribing puberty blockers to children, Esler argu
 4. Badlands News Brief — "Trump Counters, Musk Sues & Biden Lies", URL: https://badlands.substack.com/p/badlands-news-brief-2db
 5. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 6. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+7. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

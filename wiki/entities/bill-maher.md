@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, democrats, dsa, 2028-election]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a57.md]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -64,6 +64,10 @@ On an April 2024 episode of "Real Time" on HBO, Maher devoted a "New Rule" segme
 
 Badlands writer Burning Bright argued that Maher, as Hollywood establishment, belonged to a class of "protectors desperately attempting to rebrand themselves as exposers," and that his public about-face had been "carefully crafted, timed, and planned" ahead of the 2024 election cycle.[8]
 
+## Pelosi interview on migration (August 2024)
+
+On Friday, August 30, 2024, [[nancy-pelosi|Nancy Pelosi]] appeared on Maher's "Real Time" and, in ZeroHedge's characterization, said the quiet part out loud by openly stating her desire to turn all undocumented migrants into documented ones and by endorsing subsidized housing for illegal aliens.[9] Badlands contributor Ashe in America cited the exchange as an admission that the open-border policy amounts to mass amnesty, and connected it to [[gavin-newsom|Gavin Newsom]]'s housing proposals.[9]
+
 ## References
 
 1. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
@@ -74,3 +78,4 @@ Badlands writer Burning Bright argued that Maher, as Hollywood establishment, be
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Badlands News Brief: Biden Baits Israel as Solar Storms Bring the Weird", URL: https://badlands.substack.com/p/badlands-news-brief-83b
 8. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+9. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

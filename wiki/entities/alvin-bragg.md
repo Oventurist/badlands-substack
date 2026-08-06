@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md]
 confidence: medium
 ---
 
@@ -82,6 +82,15 @@ Ahead of the anticipated March 2023 indictment of [[donald-trump|Donald Trump]],
 
 House Speaker [[kevin-mccarthy|Kevin McCarthy]] publicly attacked Bragg at a press conference during the House Republican retreat on March 19, 2023, saying "it should be equal justice in America" and telling prosecutors to "stop going after people because you have political differences."[13] McCarthy noted that Bragg "brags about lowering felonies to misdemeanors as a prosecutor" while crime in New York left people "afraid to walk the streets," argued that Republican victories in New York races were driven in part by the DA's failure to protect citizens, and asserted that the statute of limitations in the Trump matter had lapsed.[13] Law professor [[jonathan-turley|Jonathan Turley]] separately described the Soros-backed DA's "made-for-TV" prosecution as "legally pathetic."[13]
 
+## March 2023 Grand Jury Fumble and National Exposure
+
+In late March 2023, as his Manhattan grand jury weighed charges against Donald Trump, Bragg drew withering criticism from the New York Post, which argued that he had "exposed his incompetence nationwide" by fumbling the case.[14] Bragg attempted to blame the circus atmosphere surrounding the probe on Trump himself, but critics noted that it was Bragg who took the case to a grand jury, and that the invitation for Trump to testify — traditionally a signal that grand jurors are ready to indict — was certain to leak, whether from the former president or from Bragg's own office.[14] Bragg also declined to cooperate with a House probe of his handling of the Trump case.[14]
+
+Commentators tied the episode to Bragg's broader record, beginning with his Day One memo instructing prosecutors to stop seeking prison in a range of cases, a policy he had barely revised even as Manhattan crime — particularly shoplifting that was crushing retail establishments — continued to climb, with murders and shootings the exception thanks to targeted [[nypd|NYPD]] enforcement.[14] The Post concluded that the whole nation was learning what New Yorkers already knew: that Bragg simply was not very good at his job.[14]
+
+Badlands Media's [[burning-bright|Burning Bright]] argued that Bragg had "quickly shifted from hero of the Left to national laughing stock" — hated by the Right for partisan lawfare and by the Left for failing to consummate their anti-Trump fantasies — and that the public exposure of a corrupt and partisan establishment justice system was a significant net effect of [[donald-trump|Donald Trump]]'s narrative mastery.[14] Burning Bright further read Bragg's public meltdown, which specifically referenced Trump's own seeding of the indictment narrative, as evidence that the indictment story had been deployed deliberately to smoke out adversaries and pre-empt a media shock-and-awe campaign.[14]
+
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Based Bodegas, Limp Sanctions & Scared Bankers", URL: https://badlands.substack.com/p/badlands-news-brief-0cd
@@ -97,3 +106,4 @@ House Speaker [[kevin-mccarthy|Kevin McCarthy]] publicly attacked Bragg at a pre
 11. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or Are They?", URL: https://badlands.substack.com/p/badlands-news-brief-907
 12. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 13. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+14. Badlands Brief — "Badlands News Brief: Bragg's Panic, Trump's Calm & China's Proposal", URL: https://badlands.substack.com/p/badlands-news-brief-b64

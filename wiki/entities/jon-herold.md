@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, founder]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b26.md]
 confidence: high
 ---
 
@@ -87,6 +87,10 @@ Asked where a [[donald-trump|Trump]]–[[vladimir-putin|Putin]] summit might tak
 
 Herold covered [[donald-trump|Donald Trump]]'s Riyadh visit on the May 13, 2025 edition of The Daily Herold, summarizing his reaction to the president's remarks on Saudi accession to the [[abraham-accords|Abraham Accords]] with the phrase "Jimmies fully rustled."[17] [[ashe-in-america|Ashe in America]] named Herold, alongside [[burning-bright|Burning Bright]] and [[chris-paul|Chris Paul]], as having gamed out the Saudi-Israel normalization scenario as a theory of a potential future for years beforehand.[17]
 
+## Observation on the Bedminster audio (June 2023)
+
+Herold noted on Twitter that the [[cnn|CNN]]-released Bedminster recording had a "staged" feel, pointing out that [[donald-trump|Donald Trump]] ruffles papers so loudly while being recorded that his words are at times difficult to make out.[18] [[burning-bright|Burning Bright]] cited the observation in the Badlands News Brief and built on it to argue that the episode fit a recurring pattern of media "gotchas" that boomerang on their authors.[18]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -105,3 +109,4 @@ Herold covered [[donald-trump|Donald Trump]]'s Riyadh visit on the May 13, 2025 
 15. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 16. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 17. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+18. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

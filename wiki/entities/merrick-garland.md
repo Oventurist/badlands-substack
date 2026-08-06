@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, mar-a-lago, weaponization]
-sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-brief-2c5.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-8d8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -91,6 +91,10 @@ On Friday, July 18, 2025, [[america-first-legal|America First Legal]] released d
 
 The disclosures allowed the group to complete the timeline between the [[national-school-boards-association|National School Boards Association]] memo — which had urged the DOJ to use the Patriot Act against parents objecting to mask mandates and Critical Race Theory — and the publication of the [[garland-memo|October 4 memo]], confirming AFL's October 2021 prediction that political leadership had circumvented and disregarded the advice of department lawyers.[14]
 
+## The June 2023 Trump indictment
+
+Commenting on the June 8, 2023 [[2023-trump-classified-documents-indictment|indictment of Donald Trump]], legal writer [[technofog|TechnoFog]] said that Attorney General Garland had "done what his predecessors - Comey, McCabe, Mueller - could not," framing the charge as the culmination of years of what he described as prosecutorial and investigative abuses at the [[department-of-justice|Department of Justice]].[15] TechnoFog wrote that the department, which under Garland had instigated the investigation and appointed Special Counsel [[jack-smith|Jack Smith]], had thereby inserted itself into the 2024 presidential election.[15]
+
 ## References
 
 1. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
@@ -107,3 +111,4 @@ The disclosures allowed the group to complete the timeline between the [[nationa
 12. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
 13. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
 14. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+15. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, russiagate]
-sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md]
+sources: [raw/badlands-news-brief-01d.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -70,6 +70,26 @@ During the September 2023 funding fight, Gaetz was central to the [[house-freedo
 
 At the [[september-2023-garland-house-judiciary-hearing|House Judiciary Committee hearing]] on September 20, 2023, Gaetz hammered Attorney General [[merrick-garland|Merrick Garland]] on the relationship between [[hunter-biden|Hunter Biden]] and [[joe-biden|Joe Biden]], with particular focus on the art-dealing scandal.[11] [[ashe-in-america|Ashe in America]] observed that the arrangement bore the classic earmarks of influence peddling and money laundering, yet Garland confirmed that he had neither asked questions about it nor investigated it.[11]
 
+## Withdrawal from the attorney general nomination (November 2024)
+
+On Wednesday, November 20, 2024, Gaetz announced that he was withdrawing his name from consideration to serve as Attorney General in the incoming Trump administration, citing concerns that his confirmation process had become a distraction.[12] In a statement he highlighted his recent meetings with senators and thanked them for their support and feedback, writing that "while the momentum was strong, it is clear that my confirmation was unfairly becoming a distraction to the critical work of the Trump/Vance Transition" and that "Trump's DOJ must be in place and ready on Day 1."[12] He added that he remained "fully committed to see that Donald J. Trump is the most successful President in history" and that he would forever be honored to have been nominated to lead the [[department-of-justice|Department of Justice]].[12] NBC News reported that the withdrawal followed increased scrutiny over allegations of sexual misconduct, and that [[donald-trump|Donald Trump]] named [[pam-bondi|Pam Bondi]] as his replacement pick within hours.[12]
+
+## Origins of the misconduct allegations
+
+The Badlands account traces the allegations to former Florida tax collector [[joel-greenberg|Joel Greenberg]], who was arrested in June 2020 and charged in August 2020 with sex trafficking of a minor, identity theft and production of false identification documents.[12] In the summer of 2020 Greenberg's lawyer approached the [[bill-barr|Bill Barr]] DOJ offering evidence that a congressman — Gaetz — had slept with a minor in exchange for clemency, and a secret investigation was allegedly opened.[12]
+
+In March 2021 Gaetz appeared on [[tucker-carlson|Tucker Carlson]] Tonight and described an extortion attempt against his father, [[don-gaetz|Don Gaetz]], by former federal prosecutor [[david-mcgee|David McGee]] seeking $25 million, purportedly to finance the rescue of captured former FBI agent [[bob-levinson|Bob Levinson]] in return for a promised pardon from President [[joe-biden|Joe Biden]].[12] The scheme had been assembled by Air Force intelligence officer [[bob-kent|Bob Kent]], involved Russian oligarch [[oleg-deripaska|Oleg Deripaska]] as financier, and had [[andrew-mccabe|Andrew McCabe]] as the FBI point man; McGee was indicted in September 2021 and later convicted and sentenced to five years in prison.[12]
+
+Cartoonist [[scott-adams|Scott Adams]] subsequently published texts from [[jake-novak|Jake Novak]], broadcast media director of the Consulate General of Israel in New York, in which Novak pressed the claim that Gaetz was guilty; Adams rejected the claims as not credible.[12] The Badlands commentary notes that Gaetz is one of the few members of Congress who has never taken money from the Israel lobby ([[aipac|AIPAC]]), and asks whether the 17-year-old storyline — true or not — was part of a plot to compromise him, and whether Trump nominated him as bait to draw out AIPAC-aligned senators and surface the story publicly.[12] With Gaetz having already resigned from Congress, the brief speculated about him filling [[marco-rubio|Marco Rubio]]'s Senate seat.[12]
+
+## America First posture in July 2023
+
+Badlands contributor [[burning-bright|Burning Bright]] singled out Gaetz in July 2023 as "putting his political capital where his mouth is," describing him as continuing to lead the vanguard of the America First contingent within Congress amid the fight over the federal investigations of [[donald-trump|Donald Trump]].[13]
+
+## Resolution to censure Judge Chutkan (August 2023)
+
+In August 2023, Gaetz introduced a resolution to censure U.S. District Court Judge [[tanya-chutkan|Tanya Chutkan]] and to open an investigation into her "for showing open bias and partisanship in her official duties on the bench."[14] Chutkan was overseeing the [[department-of-justice|Department of Justice]] case against [[donald-trump|Donald Trump]] for conspiracy in his challenge of the 2020 election results, and had handled numerous prosecutions arising from the January 6, 2021 Capitol protest investigated by special counsel [[jack-smith|Jack Smith]], in which about 1,000 people had been sentenced.[14] Gaetz said her "extreme sentencing of January 6th defendants, while openly supporting the violent Black Lives Matter riots of 2020, showcases a complete disregard for her duty of impartiality and the rule of law," a reference to remarks she made at one January 6-related sentencing.[14]
+
 ## References
 
 1. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
@@ -83,3 +103,6 @@ At the [[september-2023-garland-house-judiciary-hearing|House Judiciary Committe
 9. Badlands Brief — "Badlands News Brief: Ukraine Bursts, Tucker Returns & Trump Promises", URL: https://badlands.substack.com/p/badlands-news-brief-72e
 10. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 11. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
+12. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65
+13. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+14. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

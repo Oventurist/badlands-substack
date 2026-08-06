@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel-iran-conflict, military-strike, nuclear-program, 2025]
-sources: [raw/badlands-news-brief-540.md, raw/badlands-news-brief-69d.md]
+sources: [raw/badlands-news-brief-540.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -55,3 +55,19 @@ In the following brief, [[chris-paul|Chris Paul]] questioned what conclusive pro
 ## References
 1. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
 2. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
+
+## June 17, 2025 escalation
+
+By Tuesday, June 17, 2025, fears of a wider war were growing after President [[donald-trump|Donald Trump]] called for Iran's "unconditional surrender," cited the possibility of killing its supreme leader, and referred to [[israel|Israel]]'s war effort with the word "we" — all read as suggestions that the United States could enter the conflict against [[iran|Iran]].[3] The conflict continued unabated into its sixth day; past midnight on Wednesday sirens sounded in areas of Israel as the Israeli military reported detecting Iranian missile launches on two occasions in short succession.[3] Around the same time the Israeli military published an evacuation warning for an industrial area in Tehran, saying it would attack military infrastructure there, and shortly afterward said its Air Force was conducting strikes in the Tehran area.[3] Trump's social media comments came as Israel pressed the [[white-house|White House]] to intervene militarily to end Iran's nuclear program.[3]
+
+## Russian reaction
+
+Russia's Foreign Ministry said on Tuesday that Israel's ongoing strikes against Iran's nuclear facilities were "illegal from the point of view of international law, create unacceptable threats to international security and push the world towards a nuclear catastrophe," urging the Israeli leadership to "come to its senses and immediately stop raids on nuclear installations."[3] The ministry warned that escalation risked further destabilizing the entire region and said the harsh international reaction showed the Jewish state was supported only by countries acting as its "accomplices."[3] Israel began bombing Iran on Friday, June 13, claiming Tehran was nearing completion of a nuclear bomb; Iran dismissed the accusations as groundless and retaliated with waves of drone and missile strikes.[3] Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]] told reporters that Israel was uninterested in mediation amid a "galloping escalation," called on both sides to exercise "maximum restraint," and said that while [[russia|Russia]]'s offer to mediate stood, it saw Israel as not yet interested in a peaceful solution.[3]
+
+## Badlands commentary
+
+[[jon-herold|Jon Herold]] characterized the conflict as an "exposure op" and a psyop, pointing to Trump's 2024 disclosure that Iran had given advance notice of its "retaliation" so that no American troops would be killed.[3] [[burning-bright|Burning Bright]] noted that [[vladimir-putin|Vladimir Putin]] had called Trump for a roughly hour-long birthday call in which both agreed the Israel–Iran war should end, arguing that two men ostensibly destined for opposite sides of a generational war conducting friendly calls was hiding in "plain sight."[3] Burning Bright also offered a "bicameral" reading of Trump's statements: that "IRAN CAN NOT HAVE A NUCLEAR WEAPON" may mean Iran does not and will not, either because the weapons are narrative or because a deal is already done; that "much bigger than" a ceasefire implies a peace deal already agreed; that Trump need not reach out for peace talks over a completed deal; that "complete and total control of the skies" may refer to information flow rather than kinetic assets; and that "we know exactly where the so-called 'Supreme Leader' is hiding" leaves wide latitude as to whom Trump means and which nation that person represents.[3] The same template, he suggested, is playing out in Ukraine and will likely play out in Taiwan.[3]
+
+[[chris-paul|Chris Paul]] responded to remarks by [[shawn-ryan|Shawn Ryan]] about "fake wars" with an extended argument that ordinary people cannot reliably distinguish real from manufactured conflicts, that false-flag-initiated wars are by definition unjust, and that the rational response is to refuse to believe stories told by wealthy and powerful people who lie in order to exploit the public.[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that hostilities between Israel and Russia were beginning "right on cue," noting that [[benjamin-netanyahu|Netanyahu]] rejected Russian mediation while Putin openly called him a war criminal, and suggested that Russian military assets deployed in Israel to shut down that government no longer sounded far-fetched.[3]
+
+3. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

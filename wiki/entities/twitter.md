@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, elon-musk, big-tech]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ A February 6, 2023 [[new-york-times|New York Times]] investigation, relayed by [
 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued the technical task should not be difficult, suggesting the company "apply whatever algorithm targeted pro-Trump accounts and retool it to target child porn instead," and credited Musk with at least acknowledging the problem rather than ignoring it.[8] He speculated that the platform may have been sabotaged by outgoing staff and questioned why the New York Times had shown no comparable outrage before Musk's purchase, concluding that the coverage was driven by the desire to attack a perceived enemy in a corporate culture war.[8]
 
+## Competition with Threads (July 2023)
+
+The July 2023 launch and rapid unraveling of Meta's [[threads|Threads]] was widely read as a failed attempt to displace Twitter.[9] Badlands contributor [[ashe-in-america|Ashe in America]] argued that Community Notes, Twitter Spaces, bot reductions and scraping limits under [[elon-musk|Elon Musk]] had restored balance to the platform and to the national dialogue, and that Musk's announcement of creator monetization payouts drew users back from Threads within days.[9]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
@@ -68,3 +72,4 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued the technical task sho
 6. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 7. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
 8. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908
+9. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

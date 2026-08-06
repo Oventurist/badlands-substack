@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, federal-courts, florida, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba8.md]
 confidence: medium
 ---
 
@@ -91,13 +91,21 @@ On Monday, January 13, 2025, Judge Aileen M. Cannon issued a five-page order cle
 
 At the same time, Cannon required prosecutors and defense lawyers to appear before her in court that Friday to argue whether the department could release to members of [[congress|Congress]] the part of the report dealing with the classified documents case she oversaw.[16] Her docket had become the focal point of a week of emergency filings begun by [[walt-nauta|Waltine Nauta]] and [[carlos-de-oliveira|Carlos De Oliveira]], joined by Trump and by [[jeff-clark|Jeffrey Clark]], all seeking to enjoin release of the report on due process grounds.[16]
 
-## References
-
 ## Scrutiny over the pace of the documents case (June 2024)
 
 By late June 2024, Cannon's supervision of the Mar-a-Lago documents case was drawing building criticism after she devoted three days to exploring what were described as long-shot motions from [[donald-trump|Donald Trump]]'s legal team.[17] Those motions questioned the legitimacy of special counsel [[jack-smith|Jack Smith]]'s appointment and the funding of his office, and Cannon took the highly unusual step of inviting outside groups into her Fort Pierce courtroom to weigh in.[17]
 
 The New York Times had reported days earlier that two of Cannon's judicial colleagues urged her to hand off the case, including one concerned about the optics after a higher court criticized one of her actions.[17] No trial date was set; Cannon had suspended the start date indefinitely, arguing she needed to weigh carefully a pile of pretrial motions asking her to toss the proceedings.[17] Reporting noted that although attorneys generally avoid open criticism of a judge, that norm had shifted as motions mounted in the case.[17]
+
+## Scheduling of the classified documents trial (July 2023)
+
+At a nearly two-hour hearing in federal court in Fort Pierce, Florida on Tuesday, July 18, 2023, Judge Cannon signaled that a December start date might be too soon for [[donald-trump|Donald Trump]]'s criminal trial over the alleged mishandling of classified documents, but declined to say whether she would grant the defense request to delay the trial until after the 2024 election.[18] She said she would issue a written order "promptly."[18] Observers noted that the ordinarily routine matter of setting a trial date underscored the unprecedented nature of prosecuting a former president who was simultaneously campaigning to reclaim the White House.[18]
+
+## Order blocking disclosure of the Jack Smith report (January 2025)
+
+In a 14-page order issued Tuesday, January 21, 2025, Cannon blocked the [[justice-department|Justice Department]] from showing selected lawmakers portions of special counsel [[jack-smith|Jack Smith]]'s report on the classified documents case against [[donald-trump|Donald Trump]].[19] The judge, a Trump appointee, held that there was no legal basis for the department to confidentially share the report with the leaders of the House and Senate Judiciary Committees.[19] Politico reported that the ruling could make it easier for the incoming Trump administration to bury the report, which recounts Smith's investigation into the classified records Trump stored at his Mar-a-Lago home after his first term and his alleged attempt to obstruct efforts to retrieve them.[19]
+
+## References
 
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -115,3 +123,6 @@ The New York Times had reported days earlier that two of Cannon's judicial colle
 14. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
 15. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 16. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+17. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+18. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+19. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8

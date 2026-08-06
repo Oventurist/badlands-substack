@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [biden-family, congress, subpoena, contempt-of-congress]
-sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-afb.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-afb.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -124,6 +124,20 @@ IRS whistleblower [[gary-shapley|Gary Shapley]] alleged in June 2023 that Biden 
 
 Separately, in the inaugural issue of [[capitol-times-magazine|Capitol Times Magazine]], [[patrick-byrne|Patrick Byrne]] claimed that in the fall of 2021 Biden approached the Iranian government with the offer: "You Iranians have $8 billion frozen in a bank account in South Korea. My father will unfreeze it in return for $800 million being funneled into a numbered account for us. And if you do this deal with us, it will lubricate other negotiations which have recently started between us."[22] Asked to confirm that he was alleging the Bidens sought an Iranian bribe and that the United States government had known since December 2021, Byrne answered, "That is 100% correct."[22] [[ashe-in-america|Ashe in America]] emphasized that the alleged bribe occurred during [[joe-biden|Joe Biden]]'s presidency.[22]
 
+## October 2024: Trump signals openness to a pardon
+
+In October 2024 [[donald-trump|Donald Trump]] said he was open to pardoning Hunter Biden if reelected, a significant reversal after years of attacking the president's son as the centerpiece of his "Biden crime family" theme.[23] Asked by conservative radio host Hugh Hewitt whether he would consider a pardon, Trump replied, "I wouldn't take it off the books," referring to Hunter's June 2024 conviction on three felonies in a federal gun trial and his September guilty plea to federal tax charges.[23] Trump added: "See, unlike Joe Biden, despite what they've done to me, where they've gone after me so viciously... Hunter's a bad boy. There's no question about it. He's been a bad boy. All you had to do is see the laptop from hell. But I happen to think it's very bad for our country."[23]
+
+Trump had long cited Hunter's legal difficulties as evidence of a liberal double standard under [[joe-biden|Joe Biden]]'s Justice Department while framing his own prosecutions as political retribution; his online criticism was severe enough that Hunter's lawyers once sent him a cease-and-desist letter citing fear of inciting violence.[23] That posture was complicated when both men were convicted of felonies within weeks of each other in 2024 and Joe Biden said he would not pardon his son, after which the Trump campaign cast the gun trial as a "distraction from the real crimes of the Biden Crime Family."[23]
+
+[[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] wrote that he had predicted such a pardon for over a year, arguing it would supply fresh material to the "Hunter flipped" theory while acting as narrative shielding for a second Trump term, since "to unify the nation, Trump needs to be seen as a builder, not a conqueror."[23] He also restated his "#OurBoyBlue" framing of Joe Biden, contending that the Scranton Bidens had served as ideal foils for Trump during an accelerated era of public awakening.[23]
+
+## 2022–2023 plea negotiations and the threat to call the president
+
+Documents obtained by [[politico|Politico]] and reported in August 2023 — a 32-page letter plus more than 300 pages of previously unreported emails and exchanges between Biden's legal team and prosecutors — illuminated the negotiations that nearly produced a broad plea deal.[24] On Halloween 2022, three weeks after news leaked that federal agents believed they had enough evidence to charge him with illegally buying a gun as a drug user, his lawyer [[chris-clark|Chris Clark]] wrote to the U.S. attorney overseeing the probe calling the leak "illegal," arguing the prosecution would be seen as purely political and might violate the Second Amendment.[24]
+
+Clark then warned that if the [[department-of-justice|Justice Department]] charged the president's son, the defense would put President [[joe-biden|Joe Biden]] on the witness stand, writing that "President Biden now unquestionably would be a fact witness *for the defense* in any criminal trial."[24] The contemplated agreement would have resolved both the gun purchase and several years of unpaid taxes, and could have insulated Biden from future prosecution by a Republican-led Justice Department.[24] The deal collapsed abruptly after Republicans attacked it publicly and a judge raised questions about its terms, renewing the prospect of a trial as his father ramped up his 2024 reelection bid.[24]
+
 ## References
 1. Badlands Brief — "Epstein Boomerangs & Bipartisan Bullsh*t", URL: https://badlands.substack.com/p/badlands-news-brief-6d2
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
@@ -147,3 +161,5 @@ Separately, in the inaugural issue of [[capitol-times-magazine|Capitol Times Mag
 20. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 21. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 22. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+23. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3
+24. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

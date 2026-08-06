@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [omb, budget, trump-administration, government-shutdown, federal-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-94b.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -35,8 +35,22 @@ Critics called the approach an overreach of executive power and [[congress|Congr
 During the [[october-2025-government-shutdown|October 2025 government shutdown]], President [[donald-trump|Donald Trump]] publicly cast Vought as the instrument of permanent cuts to "Democrat agencies," posting on Truth Social that "I have a meeting today with Russ Vought, he of PROJECT 2025 Fame."[4] The BBC described the director of the [[office-of-management-and-budget|Office of Management and Budget]] as a figure who "may not be a household name" but whose [[project-2025|Project 2025]] blueprint — a conservative governing plan assembled largely by former Trump officials while Republicans were out of power — had featured prominently in the previous year's presidential campaign, frequently invoked by Democratic nominee [[kamala-harris|Kamala Harris]] as Trump's "dangerous plan."[4] Trump was reported to be holding up Vought, author of the blueprint's chapter on executive power, as a budgetary angel of death, and on the Thursday night of the shutdown's first week shared an AI-generated parody music video portraying Vought as the grim reaper set to altered lyrics of Blue Öyster Cult's "Don't Fear the Reaper."[4] Badlands host [[burning-bright|Burning Bright]] said he and [[jon-herold|Jon Herold]] had forecast the Trump–Vought cut strategy in advance and that it was proceeding as expected.[4]
 
 
+## Shutdown execution and CIGIE defunding (October 2025)
+
+Shortly after the Senate's failed October 1, 2025 funding vote, Vought notified federal department and agency heads to begin preparations for a lapse, writing in a memo that "[a]ffected agencies should now execute their plans for an orderly shutdown" and that it was "unclear how long Democrats will maintain their untenable posture, making the duration of the shutdown difficult to predict."[5] His [[office-of-management-and-budget|Office of Management and Budget]] had also warned that absent an agreement before October 1 it would lay off some non-essential workers in addition to furloughs, alongside the previously scheduled departure of more than 100,000 federal employees under buyout agreements.[5]
+
+In the same period, OMB under Vought ordered a funding cutoff to the [[council-of-the-inspectors-general-on-integrity-and-efficiency|Council of the Inspectors General on Integrity and Efficiency]], which said it would cease its statutorily mandated functions and furlough 25 permanent employees, suspending oversight and training support for 72 inspectors general.[5] Attorney John Vecchione of the [[new-civil-liberties-alliance|New Civil Liberties Alliance]] argued that OMB had the legal authority to halt the funding because part of CIGIE's budget comes from interagency transfers overseen by OMB's deputy director for management.[5]
+
+## Shutdown as a vehicle for permanent cuts (September 2025)
+
+In September 2025 Russ Vought, as Director of the [[office-of-management-and-budget|Office of Management and Budget]], directed federal agencies to draft reduction-in-force plans for permanent job eliminations in the event of a shutdown beginning 1 October, rather than the temporary furloughs typical of past funding lapses.[6] Reporting characterized Vought as using the threat of permanent cuts as leverage in the standoff with Democrats in [[congress|Congress]] over government spending.[6]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] treated the relative disappearance of the federal "transformation program" from headlines as a positive sign, arguing that "Vought & Co" had been working behind the scenes to finalize permanent cuts and that a shutdown provided "the perfect vehicle to eliminate the next round of wasteful bureaucracy."[6] She predicted the layoffs would come in waves, as private-sector RIFs typically do, since the transformation was being "quarterbacked by private sector guys."[6]
+
 ## References
 1. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 2. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 3. Badlands Brief — "Badlands News Brief: Burn Bags, Kratom, & Insider Trading", URL: https://badlands.substack.com/p/badlands-news-brief-5a3
 4. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
+5. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+6. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

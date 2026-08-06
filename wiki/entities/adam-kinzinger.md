@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, january-6, investigations, republican]
-sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-ba4.md]
 confidence: low
 ---
 
@@ -24,7 +24,12 @@ Following the March 2024 release of preliminary findings by the [[house-administ
 
 After [[tucker-carlson|Tucker Carlson]] aired footage relating to January 6 that Badlands commentary described as debunking the official account, Kinzinger appeared on MSNBC and said, "Nobody's children will believe that garbage Tucker was spewing last night."[3] Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in America]] argued that the notable feature of Kinzinger's reaction was not his irritation but his focus on shaping the historical record for future generations, describing him as a key player in the [[january-6-committee|January 6 Committee]]'s attempt to control the insurrection narrative.[3]
 
+## Attacks on Tucker Carlson (August 2023)
+
+On August 21, 2023, after [[tucker-carlson|Tucker Carlson]] posted video of a meeting with a Serbian diplomatic delegation, Kinzinger called him "a traitor to the US" on Twitter.[4] Hours later Carlson released an interview with retired Colonel [[douglas-macgregor|Douglas Macgregor]] arguing that the Ukraine war had to end and that Ukraine was losing badly.[4] Badlands contributor [[ashe-in-america|Ashe in America]] predicted Kinzinger would attack the decorated combat veteran as well, wrote that the former lawmaker's participation in what she called the sham [[january-6-committee|January 6 Committee]] coverup "is actually treason," and argued that like other establishment "oath breakers" he was projecting his own crimes onto truth-tellers — a tactic she said had stopped working as roughly two-thirds of the public became wise to government corruption.[4]
+
 ## References
 1. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
 2. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 3. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
+4. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

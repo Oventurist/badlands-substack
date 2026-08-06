@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, transparency, epstein, doj, congress]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-314.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-314.md, raw/badlands-news-brief-b98.md]
 confidence: medium
 ---
 
@@ -32,6 +32,15 @@ The [[department-of-justice|Department of Justice]] released over 3 million page
 
 Victims' advocates and attorneys criticized the release as inadequate, arguing that millions of additional documents remain withheld and that it fails to address key questions such as Epstein's lenient 2007 plea deal, potential immunity arrangements, and government failures in investigating his abuse of hundreds of victims over decades.[2] Democrats including Rep. [[jamie-raskin|Jamie Raskin]] described the process as a potential cover-up, citing over 10,000 redactions and the halving of released pages relative to the identified total.[2] No further DOJ actions or prosecutions were planned at the time.[2]
 
+
+## Judicial unsealing orders (December 2025)
+
+In December 2025, U.S. District Judge [[paul-engelmayer|Paul A. Engelmayer]] ruled that the [[department-of-justice|Justice Department]] may publicly release investigative materials from the sex trafficking case against [[ghislaine-maxwell|Ghislaine Maxwell]], following the department's November request to unseal grand jury transcripts, exhibits and related records from the Maxwell and [[jeffrey-epstein|Epstein]] cases.[3] The order followed passage of the Epstein Files Transparency Act the previous month, which requires the Justice Department to publish Epstein-related records in a searchable format by December 19th.[3]
+
+Engelmayer became the second judge to authorize disclosure of previously sealed Epstein records; a Florida judge had approved the release of transcripts from an abandoned federal grand jury investigation into Epstein dating to the 2000s the week before, while a separate request tied to Epstein's 2019 sex trafficking case remained pending.[3] Badlands commentator [[burning-bright|Burning Bright]] argued that whether or not the "Epstein Op" was as Truthers understood it, [[donald-trump|Trump]] had "nothing to fear," and that the establishment's pursuit of another "toothless gotcha" would leave the public more suspicious of everyone in a position of power.[3]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
+3. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

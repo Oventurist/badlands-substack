@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, ratcliffe, venezuela, intelligence, diplomacy]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-323.md, raw/badlands-brief-71c.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -74,3 +74,9 @@ Badlands contributor [[burning-bright|Burning Bright]] argued that "Grand Conspi
 9. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 10. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 11. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+
+## Ratcliffe letter and the 2025 China intelligence disclosure
+
+Badlands readers were reminded in June 2025 that as Director of National Intelligence, Ratcliffe wrote a letter alleging that the intelligence community had manipulated and withheld credible intelligence about China for political ends — a document published by [[jon-herold|Jon Herold]] in Part 7 of the [[devolution|Devolution]] series.[12] The letter was cited repeatedly during [[mike-lindell|Mike Lindell]]'s trial as evidence of the basis for his beliefs about American elections.[12] Ratcliffe subsequently became [[central-intelligence-agency|CIA]] Director, and Badlands commentary observed that election disclosure was accelerating around him.[12] See [[fbi-recall-of-2020-china-election-intelligence|FBI recall of 2020 China election intelligence]].[12]
+
+12. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

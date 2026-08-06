@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, politics, uniparty]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md]
 confidence: medium
 ---
 
@@ -64,6 +64,16 @@ The February 15, 2024 [[badlands-news-brief|Badlands News Brief]], subtitled "Ru
 
 Badlands treated the April 2024 House vote on the [[april-2024-foreign-aid-package|foreign aid package]] as a defining Uniparty spectacle, headlining its April 22, 2024 brief "The Uniparty Celebrates as Warmongers Grow Desperate."[10] Writer Burning Bright argued that while [[donald-trump|Donald Trump]] took a sledgehammer to the Democratic establishment in his first term, his "second, silent term" — mistakenly referred to as the Biden administration — has been about exposing the Uniparty, and that Speaker [[mike-johnson|Mike Johnson]] and Kevin McCarthy before him had "done a stellar job exposing the controlled opposition dynamic."[10] The same commentary held that the process conflated the "Globalist Proxy States" of Ukraine, Israel and Taiwan with broader elite interests, and framed the contest as a "Mind War" whose success is measured by the direction of the collective mind.[10]
 
+## Proxy candidates and the 2024 primaries
+
+Writing in January 2024, [[burning-bright|Burning Bright]] described "Proxy Candidates and Proxies in general" as a macro concept being programmed into the American collective mind, ranging from puppet presidents such as Zelenskyy and [[joe-biden|Joe Biden]] to the GOP debates and primaries, which he said had made strikingly apparent that political parties and candidates are "little more than shells for the systematized interests that back them."[11] He argued that with the DeSantis and Vivek Ramaswamy campaigns it was always less important to focus on the candidates than on the players backing them financially and narratively — a contingent he identified with the "blue check Con Inc. brigade."[11] In his reading, [[nikki-haley|Nikki Haley]] was being used "by hook or by crook" to expose that the Uniparty is very real and unified against [[donald-trump|Donald Trump]], "which means it's unified against us."[11]
+
+[[simon-esler|Simon Esler]] applied the same frame to the [[jeff-dewit|Jeff DeWit]] bribery recording, describing [[kari-lake|Kari Lake]] as a force in exposing the "NWO Uniparty" and arguing that decades of media scolding against conspiracy theorizing now function as "one huge retrospective red pill."[11]
+
+## The 2024 Republican endorsements of Harris
+
+The August 2024 letter in which more than 200 former staffers to George H. W. Bush, [[george-w-bush|George W. Bush]], [[john-mccain|John McCain]] and [[mitt-romney|Mitt Romney]] endorsed [[kamala-harris|Kamala Harris]] was treated by Badlands Media as a clean demonstration of the concept, with contributor Chris Paul writing that "the greatest thing the Uniparty ever did for the world was convince it they absolutely did exist."[12] A companion analysis by Burning Bright described the [[2024-democratic-national-convention|Democratic National Convention]] as bicameral in nature — a success for both the Uniparty establishment and for patriots — in which the establishment cast "one final spell of illusion" by parading legacy figures to assert that Harris was "a real candidate deposing a real president in a real election," while the resulting clarity meant "the WHOLE world agrees where the battle lines are drawn."[12]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Badlands Blitz Episode 23", URL: https://badlands.substack.com/p/badlands-blitz-episode-23
@@ -75,3 +85,5 @@ Badlands treated the April 2024 House vote on the [[april-2024-foreign-aid-packa
 8. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 9. Badlands Brief — "Badlands News Brief: Russian Space Nukes & Uniparty Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-553
 10. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+11. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+12. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f

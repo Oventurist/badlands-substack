@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [corruption, biden, rico, devolution, narrative]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-88b.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ In August 2023, [[house-oversight-committee|House Oversight Committee]] chairman
 
 [[burning-bright|Burning Bright]] described the Biden corruption storyline and the Justice Department's pursuit of [[donald-trump|Donald Trump]] as parallel narratives in what he called the War of Stories: one delivering near-daily disclosures of Biden corruption with no visible justice, the other exposing a two-tier justice system.[4] He predicted the first narrative would eventually "collapse into the realm of the Real" while the hunt against Trump would fall apart before the nation's eyes, both serving to prepare the collective mind for what he termed the real "Witch Hunt."[4]
 
+## IRS whistleblower hearing (July 2023)
+
+The July 19, 2023 [[house-oversight-committee|House Oversight Committee]] hearing with IRS whistleblowers [[gary-shapley|Gary Shapley]] and [[joseph-ziegler|Joseph Ziegler]] was described by Badlands contributor [[burning-bright|Burning Bright]] as a disaster for the Biden family, with House Democrats tacitly conceding the allegations against [[hunter-biden|Hunter Biden]] while straining to separate his father from them.[5]
+
 ## References
 
 
@@ -43,3 +47,4 @@ In August 2023, [[house-oversight-committee|House Oversight Committee]] chairman
 2. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
 3. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 4. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
+5. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

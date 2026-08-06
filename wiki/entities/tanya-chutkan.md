@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, doge, litigation, federal-courts]
-sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-aac.md]
+sources: [raw/badlands-news-brief-048.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -60,6 +60,14 @@ The ruling came while the D.C. Circuit Court had yet to decide whether the forme
 
 When the [[supreme-court-of-the-united-states|Supreme Court]] decided [[trump-v-united-states|Trump v. United States]] on July 1, 2024, it punted to the trial court the question of whether [[donald-trump|Donald Trump]]'s alleged conduct in the January 6 case was protected, leaving Chutkan — the U.S. district judge overseeing that case — to determine which of the charged acts qualified as "official."[9] Because Chief Justice [[john-roberts|John Roberts]] held that Trump was absolutely immune for conduct involving his discussions with Justice Department officials, and because the trial had already been postponed indefinitely, the ruling all but guaranteed the case would not reach trial before the November 2024 election.[9]
 
+## Control of the 2020 election case timeline (August 2024)
+
+On August 30, 2024, special counsel [[jack-smith|Jack Smith]] declined to propose a new trial timeline for [[donald-trump|Donald Trump]] in the 2020 election subversion case, telling Chutkan in a 10-page joint filing with Trump's attorneys that scheduling was entirely her call.[10] The filing responded to Chutkan's own request for guidance and a schedule after the Supreme Court's ruling on presidential immunity upended the case.[10] Prosecutors wrote that "the Court's decisions on how to manage its docket are firmly within its discretion," and urged her to take up Trump's many motions to dismiss at roughly the same time so as to keep the case moving.[10]
+
+## Gaetz censure resolution (August 2023)
+
+In August 2023, Representative [[matt-gaetz|Matt Gaetz]] (R-Fla.) introduced a resolution to censure Chutkan and open an investigation into her "for showing open bias and partisanship in her official duties on the bench."[11] Chutkan was then overseeing the [[department-of-justice|Justice Department]] case against [[donald-trump|Donald Trump]] for conspiracy in his challenge of the 2020 election results, brought by special counsel [[jack-smith|Jack Smith]], and had already handled many cases arising from the January 6, 2021 Capitol protest, in which about 1,000 people had been sentenced and where she was known for handing down harsh prison terms.[11] Gaetz said her "extreme sentencing of January 6th defendants, while openly supporting the violent Black Lives Matter riots of 2020, showcases a complete disregard for her duty of impartiality and the rule of law," apparently referring to remarks she made during one January 6-related sentencing.[11]
+
 ## References
 1. Badlands Brief — "A Meddling Musk & Sanctions for Soros", URL: https://badlands.substack.com/p/badlands-news-brief-048
 2. Badlands Brief — "Badlands News Brief: Trump Surges, COVID Flags & Ukraine Slips", URL: https://badlands.substack.com/p/badlands-news-brief-0ec
@@ -70,3 +78,5 @@ When the [[supreme-court-of-the-united-states|Supreme Court]] decided [[trump-v-
 7. Badlands Brief — "Badlands News Brief: Bicameral Biden Presides Over a Global Minefield", URL: https://badlands.substack.com/p/badlands-news-brief-a27
 8. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b
 9. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
+10. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+11. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

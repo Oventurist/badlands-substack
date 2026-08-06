@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, defense, technology, elon-musk, contracts]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b40.md]
 confidence: medium
 ---
 
@@ -50,6 +50,12 @@ In September 2023 SpaceX was at the center of an international dispute after it 
 
 In a letter sent on Wednesday, March 6, 2024, House Democrats opened an investigation into SpaceX over concerns that Russian forces had obtained the company's [[starlink|Starlink]] internet satellite terminals.[7] The letter emphasised that [[ukraine|Ukraine]] had relied on Starlink in its counteroffensives and that the U.S. government had committed substantial resources to supporting Kyiv.[7] It noted that in 2023 the company had entered a contract with the U.S. Defense Department to supply 400 to 500 new terminals and services for Ukraine, and that in February 2024 Ukrainian authorities released intercepted Russian communications indicating illegal deployment and activation of Starlink terminals by Russian forces.[7] "Russian procurement of, use of, or interference with Starlink terminals each has the potential to advance Russia's brutal and illegitimate invasion of Ukraine," the letter stated.[7] Axios noted that minority-party letters of this kind often precede subpoenas should the party regain the majority.[7] Badlands writer [[burning-bright|Burning Bright]] read the probe as part of a broader establishment campaign against [[elon-musk|Elon Musk]] and [[donald-trump|Donald Trump]], shifting from campaign-finance speculation to Starlink, Defense Department funding and international conflict.[7]
 
+## US Deorbit Vehicle contract (June 2024)
+
+In late June 2024, [[nasa|NASA]] awarded SpaceX a contract worth nearly $1 billion to develop and deliver the US Deorbit Vehicle, the spacecraft that will steer the [[international-space-station|International Space Station]] out of orbit by the end of the decade.[8] NASA said the selection "will provide the capability to deorbit the space station and ensure avoidance of risk to populated areas," with the vehicle guiding the station into the Pacific Ocean.[8]
+
+The ISS, launched in 1998, had recently had its operational life extended from 2024 to 2030, while Russia planned to withdraw in the coming years to focus on its own station.[8] Ken Bowersox, associate administrator for the Space Operations Mission Directorate at NASA Headquarters, said the decision would help NASA and its international partners "ensure a safe and responsible transition in low Earth orbit at the end of station operations" while supporting future commercial destinations.[8] [[elon-musk|Elon Musk]] wrote on X the day before the announcement that "The Moon Station that Starship will enable will be great."[8]
+
 ## References
 1. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -58,3 +64,4 @@ In a letter sent on Wednesday, March 6, 2024, House Democrats opened an investig
 5. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
 6. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40

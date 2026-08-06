@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, spokesperson, defense-department]
-sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-762.md]
+sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ As Pentagon spokesman, Parnell told the *Wall Street Journal* in September 2025 
 ## References
 1. Badlands Brief — "Badlands News Brief: Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
+
+## Greenland command announcement (June 2025)
+
+As chief [[pentagon|Pentagon]] spokesman, Parnell announced on Tuesday, June 17, 2025, that President [[donald-trump|Donald Trump]] had ordered [[greenland|Greenland]] removed from [[united-states-european-command|U.S. European Command]] and placed under [[united-states-northern-command|U.S. Northern Command]].[3] Parnell said the change "will strengthen the Joint Force's ability to defend the U.S. homeland, contributing to a more robust defense of the western hemisphere and deepening relationships with Arctic allies and partners."[3] See [[2025-transfer-of-greenland-to-us-northern-command|2025 transfer of Greenland to U.S. Northern Command]].[3]
+
+3. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

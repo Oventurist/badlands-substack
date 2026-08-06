@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, russia, intelligence, us-russia-relations]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -59,8 +59,13 @@ Badlands contributor [[burning-bright|Burning Bright]] characterized the [[us-em
 
 The attack also figured in reporting on a broader resurgence of the [[islamic-state|Islamic State]], which claimed responsibility for the massacre; it was described as the deadliest militant attack on Russian soil since the 2002 Moscow theater hostage crisis.[4]
 
+## Russian criticism of the US attribution
+
+Russian Foreign Ministry spokeswoman [[maria-zakharova|Maria Zakharova]] said in late March 2024 that the United States had backed itself into a corner by rushing to blame the [[islamic-state|Islamic State]] for the attack while the incident was still in progress.[5] Speaking on a Sputnik radio broadcast, she said the fact that "within the first 24 hours, even before the fire was put out, the Americans started screaming that it wasn't Ukraine" was itself "a piece of incriminating evidence."[5] She called the speed with which Washington reached forthright conclusions astonishing, saying it took only a few hours "to get to a microphone, turn on the lights, summon the press and draw a conclusion about who is to blame for this horribly bloody terrorist attack."[5] Zakharova argued that by naming ISIS the US prompted political scientists and international relations experts to recall "what ISIS really is," concluding: "You are behind all those ISIS-type structures, you — the United States, Great Britain — yourselves brought them into being."[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 3. Badlands Media — "Badlands News Brief: Irregular Warfare, Washington & So Much Winning", URL: https://badlands.substack.com/p/badlands-news-brief-18e
 4. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
+5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

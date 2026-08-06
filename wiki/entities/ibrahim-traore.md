@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, burkina-faso, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md]
 confidence: medium
 ---
 
@@ -72,6 +72,13 @@ Badlands contributor GhostofBasedPatrickHenry, describing Traoré as at 36 the w
 
 In late August 2023, Traoré received a Russian delegation led by Deputy Defence Minister [[yunus-bek-yevkurov|Yunus-Bek Yevkurov]] in Ouagadougou to discuss possible military cooperation, in a meeting the [[burkina-faso|Burkina Faso]] presidency described as a follow-up to his talks with [[vladimir-putin|Vladimir Putin]] at the Russia-Africa summit in St. Petersburg in July.[11] The agenda covered military-sphere cooperation including the training of Burkinabè cadet officers and officers at all levels, pilots among them, in Russia.[11] Traoré had taken power in a September 2022 coup against Lieutenant Colonel [[paul-henri-sandaogo-damiba|Paul-Henri Sandaogo Damiba]], and relations with Moscow deepened thereafter.[11]
 
+
+## December 2025 Benin and airspace disputes
+
+Amid the December 2025 coup attempt in [[benin|Benin]], Badlands noted that Traoré had previously accused that country of establishing French military bases along its border — claims Beninese President [[patrice-talon|Patrice Talon]] had publicly denied over several years — feeding allegations that the [[alliance-of-sahel-states|AES]] had backed the mutineers.[12] Badlands published a video of Traoré making those claims together with an AI-generated transcript.[12]
+
+Days later, Traoré's government in [[burkina-faso|Burkina Faso]] grounded a [[nigeria|Nigerian]] Air Force C-130 for entering Burkinabè airspace without authorization, and Ibrahima Maiga, described as a close ally of Traoré, publicly questioned the aircraft's flight path and asserted its transponder had been switched off.[12]
+
 ## References
 
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
@@ -85,3 +92,5 @@ In late August 2023, Traoré received a Russian delegation led by Deputy Defence
 9. Badlands News Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 10. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 11. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+12. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

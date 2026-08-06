@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [california, democrats, politics, media]
-sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-brief-6a1.md, raw/badlands-brief-7bf.md, raw/badlands-brief-884.md, raw/badlands-brief-774.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -155,6 +155,14 @@ On Thursday 25 July 2024, California governor Gavin Newsom ordered state agencie
 
 California is home to roughly one-third of the nation's homeless population, a problem that had dogged Newsom since he took office, with thousands of tents and makeshift shelters lining freeways and filling parking lots and public parks.[30] Under the order, agencies including state parks and the department of transportation were required to prioritise clearing encampments posing safety risks, such as those along waterways, while giving "reasonable" advance notice, offering connections to local services, and storing belongings for at least 60 days; local governments were urged to adopt similar protocols.[30]
 
+## Migrant housing proposal (August 2024)
+
+In the September 2, 2024 Badlands News Brief, contributor Ashe in America accused [[nancy-pelosi|Nancy Pelosi]] of co-signing Newsom's plan to provide free housing to what she described as criminal invaders, following Pelosi's appearance on [[bill-maher|Bill Maher]]'s "Real Time" in which she voiced support for subsidized housing for illegal aliens and for converting all undocumented migrants into documented ones.[31]
+
+## Proposed 28th Amendment (2023)
+
+In June 2023, Newsom called for a new [[28th-amendment-proposal|28th Amendment]] to the U.S. Constitution aimed at curbing gun violence and protecting public safety, proposing stricter regulation of gun ownership that he argued would not infringe [[second-amendment|Second Amendment]] rights.[32] He emphasized the need for "common sense constitutional protections and gun safety measures" that he said enjoyed broad cross-party support, while Second Amendment advocates vowed to fight the effort.[32] Badlands writer [[johnny-q|Johnny Q]] characterized the proposal as a precursor to a 2028 presidential run and an eventual executive-ordered gun confiscation, arguing that California is already among the most gun-restrictive states yet suffers persistent gun crime driven by gangs and the illegal gun trade rather than licensed dealers.[32] Johnny Q predicted the amendment had no chance of passage and would be struck down in the courts, concluding its real function was to pander to the far left while pacifying moderates.[32]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
@@ -186,3 +194,5 @@ California is home to roughly one-third of the nation's homeless population, a p
 28. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 29. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 30. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
+31. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+32. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

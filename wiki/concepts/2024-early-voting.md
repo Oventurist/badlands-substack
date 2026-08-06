@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, early-voting, mail-in-voting, 2024-election]
-sources: [raw/badlands-news-brief-55f.md]
+sources: [raw/badlands-news-brief-55f.md, raw/badlands-news-brief-bb3.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ She further argued that the public should not have interim turnout data at all, 
 
 She noted that convenience is the standard public justification, and that for at least three million voters that appeared true, while cautioning that midway turnout numbers are reported by "the political monsters that run elections" — the same people who benefit most from electoral outcomes.[1] Her recommendation was for everyone to vote in person on Election Day with the most up-to-date information, starving the machine of advance data, while stressing that the paramount thing is to vote.[1]
 
+## Nevada's Republican early-vote surge
+
+By late October 2024, reported early-voting turnout in [[nevada|Nevada]] showed Republicans outnumbering Democrats, reversing the usual national pattern in which Democrats dominate early ballots.[2] Democrats led statewide mail-in voting by 17,298 while Republicans led in-person early voting by 25,173, out-polling Democrats even in [[clark-county|Clark County]] and Washoe County.[2] Republicans made up 52 percent of statewide in-person early voters against 28 percent for Democrats and 20 percent "other."[2] Veteran reporter [[jon-ralston|Jon Ralston]] called the in-person figures "startling," reported that the Democratic "Clark firewall" had fallen to about 6,500 — roughly one-seventh of its 2020 level — and declared the emergence of a Republican "rural firewall."[2]
+
+[[ashe-in-america|Ashe in America]] treated the numbers as a leading indicator rather than a vote count, invoking [[seth-keshel|Seth Keshel]]'s analysis and arguing that comparable Republican turnout in Georgia, Pennsylvania and Wisconsin could put the national popular vote within reach for [[donald-trump|Donald Trump]] — an outcome she relished partly because of Colorado's adoption of the [[national-popular-vote-interstate-compact|National Popular Vote Interstate Compact]].[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
+2. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3

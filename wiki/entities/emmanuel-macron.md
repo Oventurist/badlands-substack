@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b5f.md]
 confidence: medium
 ---
 
@@ -152,6 +152,10 @@ Badlands commentary named Macron, alongside Germany's [[olaf-scholz|Olaf Scholz]
 
 June 2024 coverage of [[justin-trudeau|Justin Trudeau]]'s by-election defeat placed France's Emmanuel Macron among the sinking post-pandemic incumbents, describing him as scrambling for survival.[24]
 
+## Response to the Durov arrest, August 2024
+
+After French authorities detained [[telegram|Telegram]] founder [[pavel-durov|Pavel Durov]] over the weekend of August 24–25, 2024, Macron came under sustained international criticism, with figures including [[elon-musk|Elon Musk]] describing the case as selective persecution of a free-speech advocate.[25] In a rare direct intervention on Monday, August 26, Macron said: "The arrest of Telegram's president on French territory took place as part of an ongoing judicial investigation. This is in no way a political decision. It is up to the judges to decide," and condemned what he called "false information" circulating about the case.[25] The claim that the [[arrest-of-pavel-durov|arrest]] was not politically motivated was widely mocked, and ZeroHedge reported that Macron appeared to be feeling the pressure as the prosecutor's office indicated the detention might run until August 28.[25]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent", URL: https://badlands.substack.com/p/badlands-brief-1cd
@@ -178,3 +182,4 @@ June 2024 coverage of [[justin-trudeau|Justin Trudeau]]'s by-election defeat pla
 22. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 23. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
 24. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+25. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f

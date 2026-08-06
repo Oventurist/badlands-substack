@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, cybersecurity, revolving-door, microsoft, russiagate]
-sources: [raw/badlands-brief-739.md, raw/badlands-news-brief-357.md]
+sources: [raw/badlands-brief-739.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-b53.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Badlands contributor Ashe in America characterized Monaco as, in her opinion, on
 
 In October 2025, [[michael-benary|Michael Ben'Ary]], head of the national security section at the [[eastern-district-of-virginia-us-attorneys-office|U.S. Attorney's Office for the Eastern District of Virginia]], was reportedly fired hours after journalist [[julie-kelly|Julie Kelly]] publicized his prior service as senior counsel to Monaco during her tenure as Deputy Attorney General in the Biden administration.[2] Kelly argued that President [[donald-trump|Donald Trump]] could not de-weaponize the Justice Department "if you have in powerful positions people who were top advisers to the very architects of the lawfare against the president."[2]
 
+## Microsoft pressure and the K Street chill (September 2025)
+
+Trump's attempt to jawbone Microsoft into firing Monaco, then serving as a top Washington operative for the company, put [[k-street|K Street]] on high alert about whom it hires.[3] Politico reported that much of the private sector was paralyzed by Trump's broader effort to leverage the might of government to bend companies to his whims, and that the pressure was magnified in government-affairs shops where corporations sought to curry his favor and avoid his wrath.[3] Lobbyist Jeff Forbes of Forbes Tate Partners described firms asking which MAGA-aligned Republican they could hire, while a veteran Democratic consultant said that carrying "a target on your back because of past political affiliation in what has traditionally been a very nonpartisan area is a totally new dynamic."[3] Badlands contributor [[ashe-in-america|Ashe in America]] treated the complaint as an admission, welcoming accountability for lobbyists' "America-last work."[3]
+
 ## References
 1. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
 2. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
+3. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53

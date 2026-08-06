@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, advisors, trump-administration, foreign-policy]
-sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-af5.md]
+sources: [raw/badlands-brief-257.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-497.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -54,6 +54,12 @@ Macgregor further argued that the chosen strategy — indiscriminate bombing of 
 
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited these assessments in rebutting [[nikki-haley|Nikki Haley]]'s "Finish Them!" artillery-shell inscription, arguing that destroying an enemy and achieving victory are almost never the same thing where lasting peace is the endgame.[9]
 
+## August 2023 Tucker Carlson interview
+
+On August 21, 2023, Macgregor appeared on episode 18 of [[tucker-carlson|Tucker Carlson]]'s program on X, titled "Into the abyss," to argue that the war in Ukraine had to end immediately.[10] In the interview the retired colonel said the U.S. Armed Forces had "lost a sense of what is right," that morale and discipline had fallen to levels comparable to the late 1970s, and that existing cracks of disunity risked widening into massive "fissures" under the pressure of the war.[10] He also stated plainly that Ukraine was losing the war badly.[10]
+
+The episode aired hours after Carlson posted video of himself meeting a Serbian diplomatic delegation, which prompted [[adam-kinzinger|Adam Kinzinger]] to call Carlson "a traitor to the US" on Twitter.[10] Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] anticipated that Kinzinger would attack the decorated combat veteran as well, argued that Kinzinger's own participation in the [[january-6-committee|January 6 Committee]] amounted to treason, and described establishment figures as projecting their crimes onto those telling the truth — a tactic she said was no longer working now that roughly two-thirds of the public was alert to government corruption.[10]
+
 ## References
 
 1. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
@@ -66,3 +72,4 @@ Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited thes
 7. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 8. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
 9. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
+10. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

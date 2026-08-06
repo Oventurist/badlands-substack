@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, trade, tariffs, greenland, transatlantic]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-07c.md, raw/badlands-brief-094.md, raw/badlands-brief-a84.md, raw/badlands-brief-b62.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
@@ -144,6 +144,16 @@ Simultaneously, European governments were sidelined from American diplomacy on [
 
 In April 2024 the [[european-parliament|European Parliament]] approved the [[eu-asylum-and-migration-pact|EU Asylum and Migration Pact]], obliging member states to accept a share of new arrivals into the bloc or pay a fine for each migrant they refuse.[23] Parliament President [[roberta-metsola|Roberta Metsola]] said the framework had been "10 years in the making" and that the EU had kept its word, while nationalist critics such as [[marine-le-pen|Marine Le Pen]] argued the measure transfers sovereign control over migration to a centralizing Brussels.[23] Badlands commentary by [[ashe-in-america|Ashe in America]] cast the pact as part of a decades-old globalist project of mass migration justified through concepts such as "climate refugees," and urged Europeans to follow the path of [[brexit|Brexit]].[23]
 
+## Digital COVID certificates and global vaccine passports
+
+The European Union originated the concept of the digital vaccine passport through the [[eu-digital-covid-certificate|EU Digital COVID-19 Certificate]], an interoperable credential created to preserve free movement within its borders during the pandemic.[24] The EU and the [[world-health-organization|World Health Organization]] signed an agreement on November 30, 2022, to ensure transparency and coordination on future health issues, and met in Geneva in June 2023 to discuss preparations for "future pandemics," including a global [[digital-vaccine-passport|digital vaccine passport]].[24] [[thierry-breton|Thierry Breton]], the EU Commissioner for Internal Market, said that with 80 countries and territories connected to the EU certificate the bloc had "set a global standard," and welcomed the WHO's decision to build its global system on the EU framework.[24] Critics including Armstrong Economics and Badlands writer [[ryan-delarme|Ryan DeLarme]] argued that the initiative amounts to an effort to control populations through vaccination mandates and to normalize linking biometric data to digital identity.[24]
+
+## WTO challenge and tariff retaliation (May 2025)
+
+On 7 May 2025 the European Union declared its intention to contest the United States' reciprocal tariff policy at the [[world-trade-organization|World Trade Organization]], in an announcement made by Commissioner [[maros-sefcovic|Maros Sefcovic]] at the EU Council building.[25] The [[european-commission|European Commission]] simultaneously launched a public consultation on countermeasures targeting U.S. imports valued at $107.4 billion — reported as a roughly 95 billion euro retaliation package — covering agricultural and industrial goods including bourbon and tequila.[25] President [[donald-trump|Donald Trump]] had previously threatened a 200 percent tariff on EU alcohol imports.[25] The Commission said its objective was "to reaffirm that internationally agreed rules matter and these cannot be unilaterally disregarded by any WTO member, including the US."[25] See [[2025-eu-wto-challenge-to-us-tariffs|2025 EU WTO challenge to US tariffs]].[25]
+
+In the same week the Trump administration concluded the [[2025-us-uk-trade-deal|US-UK trade deal]], prompting Badlands commentary that the EU and its allies would struggle to hold a hard line once the United Kingdom had settled first.[25]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -169,3 +179,5 @@ In April 2024 the [[european-parliament|European Parliament]] approved the [[eu-
 21. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 22. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 23. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+24. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+25. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b

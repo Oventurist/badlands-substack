@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, justice-department, classified-documents, special-counsel, 2023]
-sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md]
+sources: [raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -52,8 +52,17 @@ On the tape Trump and his aides also joked about [[hillary-clinton|Hillary Clint
 
 [[burning-bright|Burning Bright]] noted that [[jon-herold|Jon Herold]] had pointed out on Twitter the "staged" feel of the audio, in which Trump ruffles papers so loudly that his words are sometimes hard to make out.[4] Burning Bright tied the episode to Trump's repeated invocation of the [[perfect-phone-call|"Perfect Phone Call"]] with Zelensky and to the [[mar-a-lago-raid|Mar-a-Lago Raid]] as a reverse [[wrap-up-smear|wrap-up smear]], arguing that whenever the "gotcha media" thinks it has caught Trump, "the boomerang comes back around with significantly more force than they were expecting."[4]
 
+## Announcement of the indictment
+
+On the evening of June 8, 2023, [[donald-trump|Donald Trump]] announced on Truth Social that he had been indicted, writing posts that framed the case as concerning "the Boxes Hoax."[5] Legal commentator [[technofog|TechnoFog]] reported that the indictment, brought by the [[department-of-justice|Department of Justice]] under the [[joe-biden|Biden]] administration, concerned the handling of documents and possibly Trump's response to a grand jury subpoena requesting materials bearing classification markings.[5] TechnoFog wrote that while the action had been expected from a Justice Department that instigated the investigation and appointed Special Counsel [[jack-smith|Jack Smith]], it was no less shocking because it represented new territory, and that Attorney General [[merrick-garland|Merrick Garland]] had "done what his predecessors — Comey, McCabe, Mueller — could not."[5] He concluded that the DOJ had inserted itself into the 2024 presidential election and disenfranchised millions of voters.[5]
+
+## Badlands narrative analysis
+
+[[justin-deschamps|Justin Deschamps]] argued in the Badlands News Brief that, whether or not Trump's case was "the first indictment," the proceeding would expose false narratives about Trump's alleged guilt that had festered for years.[5] He described a propaganda technique in which a sensational belief is pushed without evidence, resting on the authority of experts and amplified to create the impression of universal acceptance, so that targets accept it under social pressure and then defend it to retain group belonging.[5] In his framing, the tension built up around Trump's arrest would be released as case details emerged, creating the risk that the globalists' own lie would be dispelled if exculpatory information penetrated the deceived population.[5] Deschamps predicted widespread defection from anti-Trump narratives, a reversal of roles in which Trump moves from villain to hero, and a media that loses its clout permanently — while cautioning that globalists retain many tricks, as do Trump and the patriots.[5]
+
 ## References
 1. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 3. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 4. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+5. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

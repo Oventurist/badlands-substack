@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, speaker-of-the-house, republican-party]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -148,6 +148,10 @@ Speaking on Fox & Friends on Monday, June 26, 2023, McCarthy said House Republic
 
 [[ashe-in-america|Ashe in America]] wrote that the impeachment tease was triggered by the implication that Garland lied under oath in March 2023, and observed that the underlying facts should be easy for House investigators to verify — noting that McCarthy would ostensibly have verified them before raising impeachment.[25]
 
+## Defense of Trump over January 6 (July 2023)
+
+Speaking to reporters on Wednesday, July 19, 2023, House Speaker McCarthy defended [[donald-trump|Donald Trump]] against reports that the [[department-of-justice|Department of Justice]] was weighing charges over his conduct surrounding the January 6, 2021 riot at the Capitol, saying, "I don't see how he could be found criminally responsible. What criminal activity did he do? He told people to be peaceful."[26] McCarthy said he and Trump had spoken the previous day and that the former president was frustrated at being targeted by the Justice Department; he denied holding any "strategy session" with Republicans on how to respond to Trump's indictments.[26] Badlands contributor [[burning-bright|Burning Bright]] read McCarthy's remarks as evidence of battle lines being drawn inside the GOP between figures aligning with Trump and those backing establishment or UniParty alternatives such as [[ron-desantis|Ron DeSantis]].[26]
+
 ## References
 
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
@@ -175,3 +179,4 @@ Speaking on Fox & Friends on Monday, June 26, 2023, McCarthy said House Republic
 23. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 24. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
 25. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+26. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

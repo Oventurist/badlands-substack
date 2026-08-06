@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, film, gart, deadwood]
-sources: [raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -20,8 +20,13 @@ A new trailer for CODEX 9/11 was released by [[brad-zerbo|Brad Zerbo]] in early 
 
 In July 2025 Badlands Media promoted the premiere of CODEX 911 at GART Deadwood, offering virtual tickets through its events page.[3] The network published filmmaker [[brad-zerbo|Brad Zerbo]]'s personal essay "September 11th 2001" as the back story and personal inspiration for the film, in which Zerbo recounted watching the towers burn and seeing United Flight 175 strike the second tower, writing that "everything changed" and that it was the moment "Flight 11 became no accident, and crisis became King."[3]
 
+## World premiere announcement
+
+In July 2025 [[badlands-media|Badlands Media]] announced that [[brad-zerbo|Brad Zerbo]]'s "groundbreaking and much anticipated" 9/11 documentary CODEX 911 would have its world premiere at the ninth stop of the [[great-american-restoration-tour|Great American Restoration Tour]], with attendees able to join in person or watch remotely via a virtual ticket.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 2. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+4. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

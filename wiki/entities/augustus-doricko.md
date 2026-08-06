@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cloud-seeding, weather-modification, executives, texas]
-sources: [raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-news-brief-95a.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -20,6 +20,11 @@ In the same thread, Doricko stated flatly that Rainmaker had conducted no operat
 
 Badlands commentary noted that the resulting "debunking" was quickly repurposed by mainstream outlets to blame climate change and alleged NOAA funding cuts by [[donald-trump|Donald Trump]] instead.[1]
 
+## Public denial after the Texas floods
+
+Speaking out after the deadly flash floods that struck central Texas in early July 2025, Doricko said [[rainmaker-technology-corporation|Rainmaker]] — which works with Texas farmers during droughts — "unequivocally had nothing to do with the flooding."[2] The floods killed more than 80 people, with many still missing, as the Guadalupe River rose 20 to 26 feet in 90 minutes.[2] [[badlands-media|Badlands Media]] contributor [[canncon|CannCon]] ridiculed Doricko for a subsequent analogy comparing "moving forward" after 109 deaths to football, declaring his political prospects finished.[2] See [[2025-central-texas-floods|2025 central Texas floods]].[2]
+
 ## References
 
 1. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+2. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

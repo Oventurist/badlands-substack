@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [afghanistan, taliban, diplomacy, trump, negotiation]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-6b1.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b6c.md]
 confidence: low
 ---
 
@@ -35,6 +35,10 @@ Badlands contributor [[burning-bright|Burning Bright]] cited the April 2023 kill
 
 Badlands commentary on the June 2024 [[taliban|Taliban]] delegation to the St. Petersburg International Economic Forum invoked the Doha Agreement as the explanatory frame, citing [[just-human|Just Human]]'s research that the Taliban had given their word to [[donald-trump|Donald Trump]] to hunt [[isis|ISIS]], [[al-qaeda|Al Qaeda]] and other [[cia|CIA]]-linked mercenaries in exchange for a U.S. withdrawal from [[afghanistan|Afghanistan]].[6] Contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued the Taliban had kept that word — killing the [[isis-k|ISIS-K]] operatives responsible for the 2021 [[abbey-gate-bombing|Abbey Gate]] attack and shutting down the CIA's heroin network — while Washington had not, and read Russia's move toward delisting the group and cooperating against CIA-backed terrorists as an extension of the same arrangement.[6]
 
+## Continuing influence on Russian Afghanistan policy (2024)
+
+Badlands contributor [[burning-bright|Burning Bright]] argued in May 2024 that Russia's rapid rapprochement with the [[taliban|Taliban]] — including proposals to remove the group from Moscow's terrorist list and an invitation to the St. Petersburg International Economic Forum — had the Doha Agreement "written all over it."[7] In this reading, Russia's reliance on the Taliban to contain [[isis-k|ISIS-K]] after the Kabul withdrawal of August 2021 constituted a continuation of [[donald-trump|Trump]]'s post-Doha vision, as did the Taliban's emerging role brokering energy talks between Russia and Pakistan.[7]
+
 ## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
@@ -42,3 +46,4 @@ Badlands commentary on the June 2024 [[taliban|Taliban]] delegation to the St. P
 4. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
 5. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 6. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
+7. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

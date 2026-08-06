@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, prosecutors, ftx]
-sources: [raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ba8.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ By February 2025 Sassoon was serving as the acting United States Attorney for th
 
 Sassoon appealed on Wednesday, February 12 to Attorney General [[pam-bondi|Pam Bondi]] and expressed her alarm at being ordered to drop the case.[2] Two senior federal prosecutors in Washington resigned alongside her, and NBC News described the departures as a stunning public rebuke of the new Justice Department leadership in one of the country's highest-profile criminal cases.[2] The resignations followed a Wednesday-night purge of U.S. Attorneys around the country; the Justice Department did not return Badlands' request for comment on the intent and mechanisms of those terminations.[2] President [[donald-trump|Donald Trump]], asked about the Adams matter at his reciprocal-trade press conference on Thursday, stated definitively that he had not spoken with the DOJ about the case at all.[2]
 
+## Appointment as acting US Attorney in Manhattan (January 2025)
+
+Within the first 24 hours of the second [[donald-trump|Trump]] administration, Sassoon was named acting head of the US attorney's office in Manhattan, as the new administration reached into critical US attorneys' offices to install interim leaders in a break from past practice.[3] She was described as best known for the successful 2023 prosecution of Sam Bankman-Fried for fraud in his cryptocurrency business.[3] Acting leaders were announced in three of the most important federal prosecutors' offices — two in New York City and one in Washington — with [[john-durham-jr|John Durham]], son of the former special counsel, taking the Brooklyn office; at [[justice-department|Justice Department]] headquarters, top career officials in critical divisions were reassigned.[3] Badlands writer [[ashe-in-america|Ashe in America]] framed the appointments as necessary to end the weaponization of the justice system, arguing that doing so requires purging the system of those who weaponized it.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Media Panic, Elitist Advances & Dead Chickens", URL: https://badlands.substack.com/p/badlands-news-brief-2f8
 2. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+3. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8

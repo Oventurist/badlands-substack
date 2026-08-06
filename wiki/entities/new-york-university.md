@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [education, protests, israel-hamas-war, campus-activism]
-sources: [raw/badlands-news-brief-08a.md]
+sources: [raw/badlands-news-brief-08a.md, raw/badlands-news-brief-bad.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ NYU law student Byul Yoon criticized the administration's response, calling it "
 
 The NYU arrests were reported alongside similar actions at [[yale-university|Yale University]] and the closure of Harvard Yard by [[harvard-university|Harvard University]] as part of a coordinated institutional attempt to contain protests over Israel's war with [[hamas|Hamas]].[1]
 
+## Gaza encampment protests, April 2024
+
+New York University was one of several campuses where so-called "Gaza camps" formed in April 2024, with students refusing to disperse.[2] Video captured at the university and circulated by Modernity News showed that some of the demonstrators could not explain what they were protesting: asked to state the main goal of the night's protest, one participant answered that the goal was "just showing our support for Palestine and demanding that NYU stops — I honestly don't know all of what NYU is doing."[2] She then asked a masked friend whether she knew, receiving the reply "I wish I was more educated," and admitted "I'm not either," saying she had come over from [[columbia-university|Columbia University]] after being told to.[2] The episode was cited as evidence that the [[2024-pro-palestinian-campus-protests|campus protest wave]] was partly organized and imported rather than spontaneous and informed.[2]
+
 ## References
 1. Badlands News Brief — "The Communist Ouroboros Accelerates", raw/badlands-news-brief-08a.md
+2. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad

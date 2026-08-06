@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, new-york, trump-prosecutions, hush-money-case]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -76,6 +76,16 @@ On June 25, 2024, Justice Merchan loosened the gag order in [[donald-trump|Donal
 
 In early June 2024 Merchan provided the lawyers in the [[trump-hush-money-case|Trump hush money case]] with information about a comment posted on the court's Facebook page reading, "My cousin is a juror and says Trump is getting convicted. Thank you folks for all your hard work!!!" — a remark indicating that a juror may have disclosed a predetermined guilty verdict.[13] Conservative Treehouse called the public release "very sketchy," arguing that Merchan "doesn't have an integrity bone" and that the comment he chose to highlight was innocuous and random.[13] The outlet speculated that either something bigger was being diluted by the story, or Merchan was provoking [[donald-trump|Donald Trump]] into discussing jurors and thereby violating his gag order ahead of sentencing, or he was seeking to create a mistrial in order to exit the case or restart it with an extended gag order.[13]
 
+## March 2024 gag order
+
+On the eve of the "hush money" trial concerning alleged payments to adult film actress [[stormy-daniels|Stormy Daniels]] during the 2016 election, Merchan issued a gag order blocking [[donald-trump|Donald Trump]] from making public comments about court staff, jurors, witnesses or prosecutors, writing that "given that the eve of trial is upon us, it is without question that the imminency of the risk of harm is now paramount."[14] Trump responded on [[truth-social|Truth Social]] that the decision imperiled his First Amendment rights, said Merchan was "suffering from an acute case of Trump Derangement Syndrome," and asserted that the judge's adult daughter "represents Crooked Joe Biden, Kamala Harris, Adam 'Shifty' Schiff, and other Radical Liberals" and had posted a picture of him behind bars, making a fair trial impossible.[14] He further accused [[joe-biden|Joe Biden]], [[merrick-garland|Merrick Garland]] "and their Hacks and Thugs" of tracking him across the country in an effort to persecute him, while constitutional law professor [[jonathan-turley|Jonathan Turley]] suggested appealing the order.[14]
+
+## Jury instructions in the hush money trial
+
+Merchan's charge to the jury on May 28, 2024 drew intense criticism from legal commentators. Constitutional law professor [[jonathan-turley|Jonathan Turley]] described one element as "the coup de grace instruction," noting that Merchan told jurors there was no need to agree on what occurred and that they could disagree over which of the three predicate crimes had been committed.[15] Turley argued that this meant a jury could split 4-4-4 and still be treated as unanimous.[15]
+
+Turley also observed that the jury would not be given written copies of the instructions but could ask for portions to be read back, prompting Missouri Attorney General [[andrew-bailey|Andrew Bailey]] to respond, "This is absolute insanity."[15] Mid-afternoon on the first day of deliberations the jury sent a note to the court containing four specific requests.[15] Badlands Media contributor [[ashe-in-america|Ashe in America]] wrote that if the Trump prosecutions constituted a corruption exposure operation, "Merchan's courtroom is doing a lot of heavy lifting."[15]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -91,3 +101,5 @@ In early June 2024 Merchan provided the lawyers in the [[trump-hush-money-case|T
 11. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 12. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 13. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+14. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
+15. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

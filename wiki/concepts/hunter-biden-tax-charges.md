@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, doj, special-counsel, tax, 2024-election]
-sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-711.md]
+sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-bd6.md]
 confidence: medium
 ---
 
@@ -22,6 +22,12 @@ Special counsel [[david-weiss|David Weiss]] said in a statement that Hunter Bide
 
 Badlands Media writer [[burning-bright|Burning Bright]] argued it was "impossible to ignore both the Convergence and Parallels between the legal campaigns against both Hunter Biden and Donald Trump," noting that the two most famous political names in the country were "basically trading headlines depending on the day of the week" in a manner he read as intentional.[1] He referenced theories that Hunter is a potential cooperating human source and that [[donald-trump|Donald Trump]] is a [[department-of-justice|DOJ]] asset deploying a "Disclosure Defense" strategy concerning the 2020 elections.[1] Drawing on discussions with [[just-human|Just Human]], he asked whether [[narrative-shielding|narrative shielding]] might be applied not only to individual figures in the information war but to institutions such as the DOJ — with the department effectively assisting Trump through trials he will ultimately prevail in, while using both him and Hunter to set the templates that will "take the rest down."[1]
 
+## Arraignment, January 2024
+
+[[hunter-biden|Hunter Biden]] pleaded not guilty to the nine tax-related charges at his arraignment in federal court on Thursday, January 11, 2024.[3] He appeared in Los Angeles before U.S. District Judge [[mark-scarsi|Mark Scarsi]], who had been appointed by [[donald-trump|Donald Trump]] — the same week the former president himself appeared in court in connection with the criminal case over efforts to overturn the 2020 presidential election.[3] The roughly thirty-minute hearing saw Scarsi note that Biden had complied with his previous conditions of release and that "the court appreciates that and notes it for the record," and the judge proposed a potential trial date of June 20, only a few months before the 2024 general election.[3]
+
+Badlands writer [[paul-fleuret|Paul Fleuret]] filed the story under "no sh*t, Sherlock," singling out NBC's opening description of Hunter as "the last surviving son of President Joe Biden" as a lowkey admission about the difficulty of surviving adulthood with [[joe-biden|Joe Biden]] as a father.[3] He noted the plea came less than a day after Hunter's appearance on Capitol Hill, where he left as soon as [[marjorie-taylor-greene|Marjorie Taylor Greene]] began speaking, during a hearing in which the House GOP formally recommended he be held in contempt for defying a subpoena for testimony.[3] Describing Hunter as "a walking trainwreck," Fleuret asked who was actually controlling the slow-motion demolition of the Biden family, and suggested Hunter may have rolled on his father and be playing a scripted role on the stage.[3]
+
 ## Guilty plea, September 2024
 
 On Thursday, September 5, 2024, [[hunter-biden|Hunter Biden]] entered a guilty plea to all nine federal tax charges brought against him by special counsel [[david-weiss|David Weiss]], his attorney told the court, a move that shocked federal prosecutors.[2] He had initially pleaded not guilty, and his attorney [[abbe-lowell|Abbe Lowell]] said earlier that day in federal court that Biden intended to switch his plea.[2] Federal prosecutor [[leo-wise|Leo Wise]] responded that "this is the first we are hearing about this," and a source familiar with the special counsel's team told Fox News Digital that the plea was not a done deal but merely an offer the defense had put on the table.[2]
@@ -33,3 +39,4 @@ Judge [[mark-scarsi|Mark Scarsi]] had Hunter Biden agree under oath that he woul
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Swamp Exposed & Proxies Disabled", URL: https://badlands.substack.com/p/badlands-news-brief-65a
 2. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
+3. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6

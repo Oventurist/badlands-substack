@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, arctic-frost, lawfare, january-6]
-sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md]
+sources: [raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-bcc.md]
 confidence: medium
 ---
 
@@ -88,6 +88,12 @@ On Wednesday 24 July 2024, FBI Director Christopher Wray said it was not clear w
 
 Trump, who was rushed offstage with a bloodied ear, had said that night that he was "shot with a bullet that pierced the upper part of my right ear," describing "a whizzing sound, shots, and immediately felt the bullet ripping through the skin" in a post on Truth Social.[14] A week after the shooting his campaign released a doctor's note from Texas Rep. Ronny Jackson, a former White House physician, stating that Trump had sustained a gunshot wound to his right ear that came "less than a quarter of an inch from entering his head," and that he was "doing well… recovering as expected."[14]
 
+## July 2024 testimony on the Trump assassination attempt
+
+On Wednesday, July 24, 2024, Wray testified before the [[house-judiciary-committee|House Judiciary Committee]] about the [[attempted-assassination-of-donald-trump-2024|July 13 assassination attempt]] against [[donald-trump|Donald Trump]] in Butler, Pennsylvania, revealing new details about the gunman's preparations.[15] He said 20-year-old [[thomas-matthew-crooks|Thomas Crooks]] had flown a drone near the rally site roughly two hours before opening fire and that investigators recovered the drone from Crooks' vehicle, believing he watched its streamed video to scout the area.[15] Agents recovered three "relatively crude" explosive devices — two from the vehicle and one from Crooks' residence — along with a transmitter capable of remote detonation, though the receivers on the devices were switched off.[15] Wray confirmed eight spent cartridges were found on the roof from which Crooks fired, killing one attendee and wounding Trump and two others, and said the bureau had overcome a "significant technical challenge" to access Crooks' phone, discovering he used encrypted messaging apps.[15] He also disclosed that Crooks had searched Google for "how far away Oswald was from Kennedy," a detail Wray called significant as to the shooter's state of mind.[15]
+
+Badlands commentator [[ashe-in-america|Ashe in America]] wrote that Wray's opening statement focused on the FBI's honor while, following the pattern of prior hearings, he declined to answer substantive questions — invoking an "ongoing investigation," qualifying every answer, and refusing to comment on the July 13 law enforcement response.[15] She characterised this as the essence of plausible deniability, noting that former Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]] had punted substantive questions to the [[fbi|FBI]] at Monday's Oversight Committee hearing, as had witnesses at Tuesday's Homeland Security Committee hearing, implying the FBI director should have had answers.[15] Wray offered no information on shell casings from the counter-snipers.[15] Chairman [[jim-jordan|Jim Jordan]] used his opening to recount the bureau's recent failings, while Ranking Member [[jerrold-nadler|Jerry Nadler]] was accused by Badlands of spreading "blueanon" theories, including that the attacker of Paul Pelosi was a far-right extremist and that the attempt on Trump's life was unsurprising and Trump's own fault.[15] On questions about foreign threats inside the United States and attacks on soft targets, Wray could not say how many terrorist individuals or groups were in the country and affirmed a severe lack of vetting, which Ashe read as prelude to a demand for more money and fewer civil liberties.[15]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
@@ -104,3 +110,4 @@ Trump, who was rushed offstage with a bloodied ear, had said that night that he 
 12. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 13. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 14. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
+15. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc

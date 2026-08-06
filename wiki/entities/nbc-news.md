@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, broadcast-news]
-sources: [raw/badlands-brief-e15.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-152.md]
+sources: [raw/badlands-brief-e15.md, raw/badlands-brief-e9e.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -30,9 +30,14 @@ In November 2023 NBC News published a national poll, conducted by Democratic pol
 
 In March 2023 an NBC News correspondent broadcasting from inside [[crimea|Crimea]] described the peninsula as a militarized town locked in "a very, very dangerous standoff," questioned the feasibility of the demilitarization sought by [[victoria-nuland|Victoria Nuland]], and reported that Crimeans regard themselves as Russians.[4] A companion NBC written report noted that Kyiv, its Western allies and the [[united-nations|United Nations]] deem the 2014 annexation illegal and that [[volodymyr-zelensky|Volodymyr Zelensky]] had vowed to retake Crimea, while profiling a 73-year-old resident who "speaks Russian, feels Russian and lives here."[4] Ukrainian officials and pro-Kyiv pundits were reported to be outraged at the segment.[4] Badlands contributor [[burning-bright|Burning Bright]] joked that NBC had "accidentally sent a based media correspondent to the Crimea," and treated the coverage as a sign the [[media-industrial-complex|Media Industrial Complex]] was losing control of the Ukraine narrative.[4]
 
+## Ronna McDaniel hiring reversal
+
+In March 2024 NBC News dropped former Republican National Committee boss [[ronna-mcdaniel|Ronna McDaniel]] as a paid contributor less than a week after announcing her hiring, in what the New York Post described as a humiliating turnaround following a mutiny among the network's stars.[5] MSNBC prime-time headliner [[rachel-maddow|Rachel Maddow]] and the co-hosts of "Morning Joe" were among those who sparked the revolt over bringing the [[donald-trump|Trump]]-backing politico on board.[5] NBCUniversal chairman [[cesar-conde|Cesar Conde]] took "full responsibility" for both hiring and firing McDaniel in a memo to furious staffers obtained by the Post.[5]
+
 ## References
 
 1. Badlands Brief — "Intel Treason & Insider Trading", URL: https://badlands.substack.com/p/badlands-brief-e15
 2. Badlands Brief — "Earned Deportations, Irish Knife Fights, & the Eventual "Liberation" of Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-e9e
 3. Badlands News Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
 4. Badlands Media — "Badlands News Brief: Ukraine U-Turn, Biden Bumbles & Committees Command", URL: https://badlands.substack.com/p/badlands-news-brief-152
+5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

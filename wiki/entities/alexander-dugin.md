@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, philosophy, geopolitics, multipolarity]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-471.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-bd2.md]
 confidence: low
 ---
 
@@ -26,7 +26,12 @@ In April 2025, Dugin published an essay arguing that the rise of [[donald-trump|
 
 Against that elite's commitment to globalism, unipolarity, and woke ideology, Dugin set the MAGA ideology of traditional values, binary gender, protection from mass migration, strengthened sovereignty, preserved nation-states, and a multipolar "Great Power Order" — a shift he characterized as an ideological and geopolitical revolution.[3] He attributed the relative ease of Trump's victory over deep-state resistance to the prior ideological conversion of the high-tech sector and parts of the security and intelligence communities along [[dark-enlightenment|Dark Enlightenment]] lines, and described Trump's decisiveness as a global plan to accelerate the progression of time itself — "philosophy, strategy, and even metaphysics."[3] Badlands commentator [[chris-paul|Chris Paul]] wrote that Dugin recognizes the deeper layer of the [[deep-state|Deep State]] and the Regime's ongoing infiltration of all sides.[3]
 
+## Cited in the "paper tiger" exchange (September 2025)
+
+Badlands commentary on the September 2025 "real bear, not a paper tiger" exchange between Moscow and Washington cited posts from Dugin, described as a [[vladimir-putin|Putin]] adviser and political philosopher, alongside those of special envoy [[kirill-dmitriev|Kirill Dmitriev]], as Russian-side signal supporting the reading that [[donald-trump|Donald Trump]]'s pro-Ukraine rhetoric was strategic rather than a genuine change of posture.[4]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands News Brief — "Terror at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-1d1
 3. Badlands Brief — "Badlands News Brief: Robot Runners, Prisoner Swaps, & Control of Crimea", URL: https://badlands.substack.com/p/badlands-news-brief-471
+4. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

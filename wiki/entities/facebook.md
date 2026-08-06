@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, social-media, censorship, meta]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-46e.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -28,6 +28,11 @@ In January 2023 Facebook and its subsidiary [[instagram|Instagram]] modified the
 
 In the same month, NBC News reported that [[donald-trump|Donald Trump]] was preparing to return to Facebook as well as [[twitter|Twitter]].[2]
 
+## Suppression of the Hunter Biden laptop story
+
+Facebook played a key role in censoring the Hunter Biden laptop story before the 2020 election on the basis of what proved to be false claims that the reporting was a Russian disinformation operation; some observers argued that this suppression, together with a multitude of others, could have changed the outcome of the vote.[3] In late August 2024 [[donald-trump|Donald Trump]] warned in his book [[save-america|*Save America*]] that Facebook founder [[mark-zuckerberg|Mark Zuckerberg]] would "spend the rest of his life in prison" if election meddling were proven, writing that Zuckerberg had told him "there was nobody like Trump on Facebook" while nonetheless steering the platform against him.[3] Zuckerberg had apologized the previous week for caving to government censorship requests.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
+3. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

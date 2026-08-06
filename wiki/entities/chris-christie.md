@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, new-jersey, trump-transition]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-49d.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ Christie was quickly replaced as head of the transition effort by the president-
 
 At an Iowa town hall on Fox News on January 10, 2024, [[donald-trump|Donald Trump]], asked whether he would be open to mending fences with any of the rivals he had run against, replied, "Oh, sure. I will, I will," and added: "I've already started to like Christie better."[2] Badlands contributor [[burning-bright|Burning Bright]] noted that Christie had "officially dropped out of a GOP race he was never really in," and that the race was not relevant to the presidential picture come November.[2]
 
+## 2024 campaign launch and Trump feud
+
+Christie launched his 2024 presidential campaign in New Hampshire on June 6, 2023.[3] Days later, after [[donald-trump|Donald Trump]] posted a doctored video purporting to show Christie making the announcement at an all-you-can-eat buffet, the former New Jersey governor responded publicly that he had "struggled with my weight for 20 years" but had not struggled with his character, adding, "I'll put that up against Donald Trump's any day. If that's the best he's got, then he's lost his fastball."[3] Christie called Trump's behavior childish and likened him to "a spoiled baby" who had squandered an opportunity to improve the country.[3]
+
+Badlands writer [[ashe-in-america|Ashe in America]] mocked the exchange as "the most ridiculous story of the week," describing Christie as claiming victim status over his weight and noting that he had won the New Jersey governorship in 2010 by adopting a bull-in-a-china-shop persona.[3] She catalogued his record of scandals — Bridgegate, "Beachgate," and his reputation as "The Absent Governor" for spending more than half the year outside New Jersey — and cited a Monmouth University poll showing him less popular in the presidential race than [[nikki-haley|Nikki Haley]].[3] Ashe characterized the launch as the second recent campaign rollout that felt like a Hail Mary from the outset, arguing that those launching such campaigns were "talentless swamp creatures" and that, with [[ron-desantis|Ron DeSantis]] faltering the same week, more Americans were waking up to Trump's inevitability in 2024.[3]
+
 ## References
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
 2. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
+3. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

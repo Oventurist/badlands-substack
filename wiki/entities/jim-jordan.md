@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-judiciary, oversight, jack-smith]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md]
 confidence: medium
 ---
 
@@ -107,6 +107,10 @@ Amid the [[2023-speaker-of-the-house-election|2023 speaker of the House election
 
 As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jordan opened the committee's roughly five-hour oversight hearing with Attorney General [[merrick-garland|Merrick Garland]] on September 20, 2023 by declaring, "The fix is in."[22] He added that "even with the face-saving indictment of [[hunter-biden|Hunter Biden]] last week, everyone knows the fix is in," and accused Garland several times of "slow walking" the Hunter Biden investigation to benefit President [[joe-biden|Joe Biden]].[22] The hearing, covered at [[september-2023-garland-house-judiciary-hearing|September 2023 Garland House Judiciary Hearing]], also ranged over the department's handling of probes into [[donald-trump|Donald Trump]] and the events of January 6.[22]
 
+## July 2024 Wray hearing
+
+As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jordan opened the panel's July 24, 2024 hearing with [[christopher-wray|FBI Director Christopher Wray]] by meticulously recounting the bureau's recent failings, outlining the many scandals and law enforcement events for which, in Badlands' framing, the American people were still awaiting answers.[23] The hearing centered on the [[fbi|FBI]]'s investigation of the [[attempted-assassination-of-donald-trump-2024|July 13 attempt]] on [[donald-trump|Donald Trump]]'s life.[23]
+
 ## References
 
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -131,3 +135,4 @@ As chairman of the [[house-judiciary-committee|House Judiciary Committee]], Jord
 20. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 21. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b
 22. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
+23. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc

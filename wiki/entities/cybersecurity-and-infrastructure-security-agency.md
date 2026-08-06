@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, elections, election-security, dhs]
-sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-brief-707.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -35,9 +35,14 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|As
 CISA issued a joint cybersecurity advisory on March 12, 2025 with the [[fbi|Federal Bureau of Investigation]] and the Multi-State Information Sharing and Analysis Center warning about [[medusa-ransomware|Medusa]], a ransomware-as-a-service variant credited with over 300 known victims across critical infrastructure sectors as of February 2025.[5] Badlands commentator [[ashe-in-america|Ashe in America]] treated the warning skeptically, asking whether it came from "the cyber experts at CISA or from environmental lawyers cosplaying as cyber experts at CISA," and concluding that the agency had earned the scrutiny.[5]
 
 
+## Baltimore bridge collapse role
+
+Following the [[francis-scott-key-bridge-collapse|Francis Scott Key Bridge collapse]], an unclassified CISA memo reported that federal officials were monitoring roughly 1.8 million gallons of fuel aboard the container ship [[dali|Dali]] for its "spill potential."[6] A separate memo obtained by ABC News showed that the [[department-of-homeland-security|Department of Homeland Security]] had deemed the water near the crash site unsafe for divers.[6] [[ashe-in-america|Ashe in America]] closed her commentary on the pollution question by noting sardonically that with CISA involved, the episode was "sure to be the safest and most secure boat-crash-turned-fuel-spill in history."[6]
+
 ## References
 1. Badlands Brief — "TACO Tuesday Reigns Supreme as the Age of Accountability Nears", URL: https://badlands.substack.com/p/badlands-brief-707
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 3. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 4. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 5. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+6. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

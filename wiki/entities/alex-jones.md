@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, censorship, infowars, x, free-speech]
-sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md]
+sources: [raw/badlands-news-brief-220.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-b5a.md]
 confidence: high
 ---
 
@@ -42,9 +42,14 @@ In April 2024 Jones announced that he planned to sue the [[cia|Central Intellige
 
 Asked whom the agency had targeted, O'Blennis named Jones, implying the agency had been involved in the litigation against him and had encouraged Sandy Hook families to sue, telling them "there's no federal statute being broken but you have the option for a civil case and it's a pretty good case in our opinion."[5] He also remarked that there is "nothing like putting out a fake social media thing to like really get people mad."[5]
 
+## Commentary on the February 2024 AT&T outage
+
+During the nationwide [[at-and-t|AT&T]] cellular outage of February 22, 2024, Jones — described by Gizmodo as America's most well-known professional conspiracy theorist — insisted on his show that there was an 80 percent chance the disruption was the work of China, with a smaller chance that it was "the globalists themselves" carrying out a "false flag" attack.[6] AT&T said that evening that the outage was not a cyberattack but the result of "the application and execution of an incorrect process" during network expansion.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Tracking Trump & Rootin' for Putin?", URL: https://badlands.substack.com/p/badlands-news-brief-220
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
 3. Badlands Brief — "Badlands News Brief: Heightened Homohysteria, AI Scabs, & A Dutch Diddler", URL: https://badlands.substack.com/p/badlands-news-brief-4ee
 4. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 5. Badlands Brief — "Badlands News Brief — Fearmongering and Capitulation Rule the News Cycle", URL: https://badlands.substack.com/p/badlands-news-brief-959
+6. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

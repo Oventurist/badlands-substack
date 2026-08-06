@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-1c6.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -108,6 +108,12 @@ CNN reported that gunmen opened fire on places of worship in two cities of Russi
 
 Days before the November 2024 election, CNN chief media analyst [[brian-stelter|Brian Stelter]] shared on X a comment from an anonymous television executive: "If half the country has decided that Trump is qualified to be president, that means they're not reading any of this media, and we've lost this audience completely. A Trump victory means mainstream media is dead in its current form."[20] [[zerohedge|ZeroHedge]] argued the remark was accurate, noting that trust in corporate media had slid for decades and imploded to record lows, and framing the 2020s as the decade the curtain was lifted on a "censorship blob" of legacy media, government, big tech, fact-checking nonprofits and globalist billionaires.[20] [[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] responded that legacy media's death had nothing to do with the election because, like the printed *Newsweek* discontinued in 2012, "they're already dead."[20]
 
+## Bedminster tape exclusive (June 2023)
+
+On June 26, 2023, CNN exclusively obtained and first aired on "Anderson Cooper 360" the audio recording of the 2021 Bedminster, New Jersey meeting in which [[donald-trump|Donald Trump]] discussed holding secret documents he had not declassified — evidence central to special counsel [[jack-smith|Jack Smith]]'s indictment.[21] The network reported new details from the two-minute tape, including Trump's apparent indication that he was holding a Pentagon document with plans to attack Iran and his remark "These are the papers," which had not appeared in the indictment.[21]
+
+Badlands contributor [[justin-deschamps|Justin Deschamps]] characterized the exclusive as an example of [[deep-state|Deep State]] media narrative fixation, arguing that CNN and its peers know the legal theory denying a president unilateral declassification authority is dubious yet continue to advance it, betting that most viewers never look beyond the surface.[21]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -130,3 +136,4 @@ Days before the November 2024 election, CNN chief media analyst [[brian-stelter|
 18. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 19. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 20. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+21. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

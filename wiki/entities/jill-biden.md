@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [first-lady, white-house, education]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-59b.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -32,6 +32,12 @@ Dr. Jill Biden, a Phillies fan who attended Game 4 of the 2022 World Series agai
 
 Following the release of the [[robert-hur|Hur]] audio and the announcement of [[joe-biden|Joe Biden]]'s cancer diagnosis in May 2025, Badlands writer Ashe in America argued that Jill Biden, along with the many doctors and medical staff around the president, the chief of staff, the cabinet, [[karine-jean-pierre|Karine Jean-Pierre]] and [[jake-sullivan|Jake Sullivan]], "need to answer questions under oath" about who was exercising presidential authority.[5]
 
+## "The View" remarks on the Supreme Court, May 2024
+
+Appearing on ABC's "The View" on Wednesday, May 29, 2024, Biden said Americans "will lose all of our rights" if another Republican is confirmed to the [[supreme-court-of-the-united-states|Supreme Court]].[6] Responding to co-host Sara Haines, who cited total abortion bans in 14 states and attacks on IVF, Biden said conditions "could get a lot worse under a Trump presidency," adding that voters should "believe him when he uses words like dictator, bloodbath, third term, violence."[6] She said women's rights and IVF were at stake and that [[joe-biden|Joe Biden]] wanted to codify [[roe-v-wade|Roe]].[6]
+
+[[ashe-in-america|Ashe in America]] responded that the "rights" invoked were "the emotional fever dream of the progressive left," arguing that the genuinely inalienable rights of speech, arms, privacy, movement, assembly, free exchange and representation were no longer secure in 2024, and characterizing the First Lady as gaslighting left-leaning women into "saving democracy by destroying the Republic."[6]
+
 ## References
 
 1. Badlands Brief — "Tucker, Fauci, Biden & Biology", URL: https://badlands.substack.com/p/badlands-news-brief-082
@@ -39,3 +45,4 @@ Following the release of the [[robert-hur|Hur]] audio and the announcement of [[
 3. Badlands News Brief — "A Song of Ice and Fire, Fraud, and Foreign Flashpoints", URL: https://badlands.substack.com/p/badlands-news-brief-59b
 4. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 5. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+6. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

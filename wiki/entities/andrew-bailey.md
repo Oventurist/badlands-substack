@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, law-enforcement, trump-administration]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -38,6 +38,10 @@ Following the withdrawal of [[matt-gaetz|Matt Gaetz]] and the selection of [[pam
 
 Ahead of the Bank of England's December 2025 stress test of the private equity and private credit industries, Governor Andrew Bailey had said in October that the collapse of two large US companies — car parts maker First Brands and auto dealership and lender Tricolor — might be a warning of bigger problems to come.[6]
 
+## Reaction to the Merchan jury instructions (May 2024)
+
+As Missouri Attorney General, Bailey publicly criticized the conduct of the [[trump-hush-money-case|New York hush money trial]].[7] Responding to [[jonathan-turley|Jonathan Turley]]'s observation that jurors would not be given written copies of Judge [[juan-merchan|Juan Merchan]]'s instructions but could ask for them to be read again, Bailey posted: "This is absolute insanity."[7]
+
 ## References
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
@@ -46,3 +50,4 @@ Ahead of the Bank of England's December 2025 stress test of the private equity a
 4. Badlands News Brief — "Biden Melts Down as Judges Are Themselves Judged", URL: https://badlands.substack.com/p/badlands-news-brief-5fb
 5. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 6. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+7. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

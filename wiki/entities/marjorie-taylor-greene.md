@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, georgia, iran, america-first]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-b9e.md]
 confidence: low
 ---
 
@@ -72,6 +72,22 @@ The request cited [[georgia-state-election-board|Georgia State Election Board]] 
 
 Greene featured in a February 2023 controversy over political bias in [[chatgpt|ChatGPT]], after tech writer Andy Meek found that the model declined to write a poem about her, replying that she was "a controversial figure" and that it was not appropriate for an AI language model "to take a partisan stance or express opinions."[14] Summit News noted that the same model readily produced an effusive poem praising [[hunter-biden|Hunter Biden]], whom it characterized as no less controversial.[14]
 
+## Chair of the DOGE subcommittee (November 2024)
+
+In November 2024, sources told Fox News Digital that Greene would chair the Delivering on Government Efficiency Subcommittee, a new [[house-oversight-committee|House Oversight Committee]] panel created by Chairman [[james-comer|James Comer]] to work with the newly formed Department of Government Efficiency ([[doge|DOGE]]) led by [[elon-musk|Elon Musk]] and [[vivek-ramaswamy|Vivek Ramaswamy]].[15] The subcommittee was expected to focus on rooting out waste, fraud and abuse in the federal government, investigating wasteful spending, examining ways to reorganize federal agencies to improve efficiency, and identifying solutions to eliminate bureaucratic red tape.[15] Comer met with Ramaswamy and his incoming DOGE team ahead of the announcement, and Ramaswamy confirmed the meeting with Comer and Greene.[15]
+
+## IRS whistleblower hearing (July 2023)
+
+During the July 19, 2023 [[house-oversight-committee|House Oversight Committee]] hearing with IRS whistleblowers [[gary-shapley|Gary Shapley]] and [[joseph-ziegler|Joseph Ziegler]], Greene produced one of the proceeding's most dramatic moments by walking through salacious allegations concerning [[hunter-biden|Hunter Biden]]'s personal conduct.[16] Badlands contributor [[johnny-q|Johnny Q]] grouped her with other America First Republicans whose public statements, he argued, would shape voter perceptions heading into the 2024 general election.[16]
+
+## Atlanta rally on Ukraine aid (October 2024)
+
+Speaking at a campaign rally in Atlanta on Wednesday, October 16, 2024, Greene said Americans were furious with the administration for sending billions of dollars to Ukraine while treating its own citizens "worse than dirt."[17] She contrasted the response of President [[joe-biden|Joe Biden]] and Vice President [[kamala-harris|Kamala Harris]] to domestic disasters with their eagerness to fund Kiev, naming Lahaina, East Palestine, and western North Carolina — the sites of catastrophic wildfires, a toxic train derailment, and flooding caused by Hurricane Helene.[17]
+
+"There is anger in this country that is unspeakable, over how the Biden-Harris administration has thrown away these Americans as if their lives do not matter. As if their tax dollars never mattered. And treated them so that they're only worth 750 measly bucks," she said, adding, "Oh, but Congress will write that check for $60 billion over and over again for Ukraine. Won't they?"[17] U.S. lawmakers had approved almost $180 billion in Ukraine aid since 2022, and Greene has repeatedly voted against those spending packages.[17]
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] responded that only a handful of members of [[congress|Congress]] — naming [[eli-crane|Eli Crane]] among them — were worth anything, and that even figures like [[matt-gaetz|Matt Gaetz]] underestimated the depth of public contempt for Washington's permanent class.[17] He described that contempt as a "gravity well" of unseen but felt centrifugal force capable of annihilating the capital's cherished institutions, and argued the accumulated disasters of the Biden years had only deepened it.[17]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -88,3 +104,6 @@ Greene featured in a February 2023 controversy over political bias in [[chatgpt|
 12. Badlands Brief — "Somali Probes, JD Plots, & A Lawfare RICO", URL: https://badlands.substack.com/p/badlands-news-brief-752
 13. Badlands Brief — "Badlands News Brief: Grand Juries, Pressure Campaigns, & Elaborate Hoaxes", URL: https://badlands.substack.com/p/badlands-news-brief-779
 14. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
+15. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65
+16. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+17. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e

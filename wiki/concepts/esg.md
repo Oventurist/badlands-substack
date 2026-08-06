@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [esg, corporatocracy, finance, woke-capital]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md]
 confidence: low
 ---
 
@@ -44,8 +44,13 @@ Shepard argued that ESG, which started as guidelines, had turned into heavy-hand
 
 The retreat extended to corporate communications: [[breitbart|Breitbart]] quoted a June 12, 2023 Wall Street Journal report finding that "finance chiefs and other executives have significantly quieted down in public settings about their environmental and employee diversity efforts."[4] [[ashe-in-america|Ashe in America]] read the silence on shareholder calls as the strongest available evidence that consumer boycotts were affecting corporate bottom lines more than previously reported.[4]
 
+## Corporate social credit and the middle class
+
+[[simon-esler|Simon Esler]] has described the corporate environment created by ESG scores as intentionally destructive — "no less than a social credit score for corporations."[5] In his account, for companies such as Disney that are openly devoted to the woke agenda, ESG scores represent a form of communist warfare that weaponizes culture through a corporatocracy.[5] A second angle of the weapon, he argued, is the further destruction of the middle class: [[anheuser-busch-inbev|Anheuser-Busch]] gave in to the corporate social credit system with the [[dylan-mulvaney|Dylan Mulvaney]] campaign, the people turned on the company, and the resulting boycott was a necessary response — but if [[bud-light|Bud Light]] were to collapse entirely, farmers, blue-collar workers and middle-class families would suffer.[5] Esler urged discernment between American firms struggling to navigate the weaponization of "corporate responsibility" and those that are willing participants in the culture war, and advocated using consumer will to demonstrate the existence of profits outside ESG scores, building a parallel economy at a pace that preserves middle-class stability.[5]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
 3. Badlands Brief — "Badlands News Brief: Firing Squads, Purebloods and Woke's Decline", URL: https://badlands.substack.com/p/badlands-news-brief-70d
 4. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+5. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c

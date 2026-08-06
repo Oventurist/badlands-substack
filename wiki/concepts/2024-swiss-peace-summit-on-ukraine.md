@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, switzerland, diplomacy, russia, 2024]
-sources: [raw/badlands-news-brief-67e.md, raw/badlands-news-brief-995.md]
+sources: [raw/badlands-news-brief-67e.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Weeks before the summit, EU foreign affairs ministers met to discuss how to find
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] characterized the event as "a limited hangout" hosted by "the cult of Davos," pointing to its venue at the Bürgenstock resort, where the [[world-economic-forum|World Economic Forum]]'s 2021 conference had been held.[2] He noted that Chinese Foreign Minister [[wang-yi|Wang Yi]] had already declared in a joint statement with Brazil that neither country would attend because Russia was excluded, and mocked the Biden administration for issuing contradictory messaging that Biden would and would not attend owing to a conflicting George Clooney and Julia Roberts fundraiser.[2] He argued that 80-plus countries would gather without the three major world powers to discuss a plan that had been described as "humiliating" when Zelensky first presented it at the 2022 G20 summit, and predicted that the "real" peace conference would be the Saudi-hosted autumn gathering attended by the [[sovereign-alliance|Sovereign Alliance]].[2]
 
+## Zelensky's appeal for Biden's attendance
+
+On May 28, 2024, [[volodymyr-zelensky|Volodymyr Zelensky]] said during a visit to Brussels that [[vladimir-putin|Vladimir Putin]] would give [[joe-biden|Joe Biden]] a standing ovation if the U.S. president skipped the summit, then scheduled for June 15–16 near Lucerne.[3] He said it would not be "a strong decision," adding that "the peace summit needs President Biden and so do the other leaders who look at the reaction of the United States."[3] The conference had been organised at Zelensky's request to secure "a just and lasting peace," but Russia was not invited, leaving unclear what it could achieve.[3] More than 160 delegations were invited, including members of the G7, the G20, the EU, the Council of Europe and the UN, and Zelensky said he was still awaiting responses from China and Brazil, stressing that "every voice is important."[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Returns to DC as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-67e
 2. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
+3. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

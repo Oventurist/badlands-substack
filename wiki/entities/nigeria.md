@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nigeria, west-africa, counterterrorism, boko-haram]
-sources: [raw/badlands-brief-5a2.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md]
+sources: [raw/badlands-brief-5a2.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-b98.md]
 confidence: medium
 ---
 
@@ -32,7 +32,16 @@ Nigeria is split between a Muslim-majority north and a largely Christian south, 
 
 Badlands host GhostofBasedPatrickHenry situated the threat in a regional frame, noting that Nigeria is the headquarters of [[ecowas|ECOWAS]], the political and economic union governing West Africa, which has been engaged in a proxy conflict against Burkina Faso, Mali, and Niger since those states left the bloc to form the [[alliance-of-sahel-states|Alliance of Sahel States]].[3] He said Nigeria and Ivory Coast, another ECOWAS power center, had engaged in subversive action against Sahelian leadership, and argued it was unsurprising for a globalist power center to target Christians within its own citizenry.[3] He also noted that Trump had invited Burkina Faso's President Captain [[ibrahim-traore|Ibrahim Traoré]] to his January inauguration, an invitation Traoré declined.[3]
 
+
+## Intervention in the 2025 Benin coup attempt
+
+In December 2025, Nigerian airstrikes played a decisive role in crushing an attempted coup in neighboring [[benin|Benin]] after mutinous soldiers tried to seize power and capture President [[patrice-talon|Patrice Talon]].[4] The Benin government stated that "Nigeria came to our assistance by carrying out airstrikes later in the day, which immobilized some of the armored vehicles used by the mutineers."[4] Badlands commentary framed Nigeria as the seat of power of [[ecowas|ECOWAS]], the UN-created regional authority from which the [[alliance-of-sahel-states|Alliance of Sahel States]] has defected, making the intervention an escalation of the France/EU/UN versus AES/Russia contest.[4]
+
+A day later, [[burkina-faso|Burkina Faso]] grounded a Nigerian Air Force C-130 carrying 11 military personnel at Bobo-Dioulasso, saying the aircraft had entered Burkinabè airspace without authorization; ECOWAS and the Nigerian government maintained the plane had been bound for Portugal and entered the airspace unintentionally following an in-flight emergency.[4] Burkinabè figure Ibrahima Maiga publicly questioned the flight path and asserted the aircraft had turned off its transponder.[4]
+
 ## References
 1. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 2. Badlands News Brief — "Pedish Patricide, ISIS-Inspired Disarmament, & Trump's Love Language", URL: https://badlands.substack.com/p/badlands-news-brief-143
 3. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
+4. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

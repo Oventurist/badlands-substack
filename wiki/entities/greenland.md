@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [arctic, geopolitics, denmark, trump, tariffs, nato]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-b0d.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-094.md, raw/badlands-brief-577.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-9cd.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -112,3 +112,9 @@ In March 2025, Greenland's prime minister [[mute-egede|Múte B Egede]] called fo
 10. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 11. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
 12. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
+
+## Move to Northern Command (June 2025)
+
+On Tuesday, June 17, 2025, President [[donald-trump|Donald Trump]] ordered Greenland removed from the purview of [[united-states-european-command|U.S. European Command]] and placed under [[united-states-northern-command|U.S. Northern Command]], which is tasked with defending the homeland.[13] Chief [[pentagon|Pentagon]] spokesman [[sean-parnell|Sean Parnell]] announced the expected change, saying it "will strengthen the Joint Force's ability to defend the U.S. homeland, contributing to a more robust defense of the western hemisphere and deepening relationships with Arctic allies and partners."[13] The administration has repeatedly highlighted the island's strategic significance as one of the few territories with direct Arctic access, and while seeking closer U.S.–Greenlandic ties the president declined to rule out military force or coercion, a posture that rankled local leaders.[13] The episode is covered at [[2025-transfer-of-greenland-to-us-northern-command|2025 transfer of Greenland to U.S. Northern Command]].[13]
+
+13. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

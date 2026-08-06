@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, epstein-files, oversight]
-sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md, raw/badlands-news-brief-a34.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-bb3.md]
 confidence: medium
 ---
 
@@ -26,7 +26,19 @@ Badlands commentary characterized the effort — described as a joint push with 
 
 In February 2025 Raskin drew criticism from Badlands commentators over remarks about [[elon-musk|Elon Musk]] made amid a wave of threats and vandalism directed at [[tesla|Tesla]] owners and dealerships, including notes left on vehicles in Arcata, California by a group calling itself [[students-against-nazi-extremism|Students Against Nazi Extremism]].[3] The hosts argued that Raskin was being overtly xenophobic about a successful legal immigrant and that his rhetoric amounted to dog-whistling supporters toward further acts of violence against Tesla and possibly Musk himself; they also described him as appearing demoralized and defeated in the clip in question.[3]
 
+## IRS whistleblower hearing (July 2023)
+
+As ranking member of the [[house-oversight-committee|House Oversight Committee]], Raskin dismissed the July 19, 2023 hearing featuring IRS whistleblowers [[gary-shapley|Gary Shapley]] and [[joseph-ziegler|Joseph Ziegler]] with a "Pink Panther" reference, calling the Republican investigation an "Inspector Clouseau-style quest for something that doesn't exist."[4] Critics said Raskin and his Democratic colleagues could not rebut the whistleblowers' testimony and relied instead on rhetorical deflection toward [[donald-trump|Donald Trump]].[4]
+
+## October 2024: Trump transition warning
+
+As the top Democrat on the House Oversight Committee, Raskin raised concern in October 2024 over [[donald-trump|Donald Trump]]'s delay in entering into the standard presidential transition agreements with the Biden administration.[5] In a letter to Trump and running mate [[jd-vance|JD Vance]], first reported by NBC News, Raskin wrote that the Trump team was "breaking the precedent set by every other presidential candidate since 2010" by declining to accept federal transition resources and had "refused to commit to a smooth transition."[5] The Maryland Democrat said the team's actions demonstrated "a spectacular disregard for the successful continuation of the essential institutions of American democratic government."[5]
+
+Two deadlines for the relevant memoranda of understanding — one with the [[general-services-administration|General Services Administration]] and one with the White House — had already passed, while Vice President [[kamala-harris|Kamala Harris]]' team had signed both.[5] The first agreement, with a September 1 signing deadline, set out terms for office space, IT services and other equipment for a candidate's transition team.[5]
+
 ## References
 1. Badlands Brief — "Nationalized Elections, Nazi Bankers & Sovereign Shielding", URL: https://badlands.substack.com/p/badlands-brief-314
 2. Badlands News Brief — "Supreme Court Backs Trump & The REEEEEE Commences", URL: https://badlands.substack.com/p/badlands-news-brief-4d9
 3. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
+4. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
+5. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3

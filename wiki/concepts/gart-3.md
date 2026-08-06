@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, events, great-awakening, conferences]
-sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-8cb.md]
+sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bd6.md]
 confidence: medium
 ---
 
@@ -33,3 +33,4 @@ A "Last Call for GART 3: Irvine!" notice ran in the [[badlands-media|Badlands Ne
 1. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 3. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
+4. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6

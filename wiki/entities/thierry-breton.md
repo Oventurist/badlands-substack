@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, censorship, elections, france]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -35,8 +35,13 @@ On Monday, September 16, 2024, Breton resigned as the [[european-union|European 
 On Monday, December 18, 2023, Breton announced that the [[european-union|EU]] had opened infringement proceedings against [[x-corp|X]] — the first probe under the [[digital-services-act|Digital Services Act]] — in response to suspected breaches of the platform's transparency obligations and its duties to counter illegal content and disinformation, as well as what the bloc called a "deceptive" design of its user interface relating to blue checks.[4] X replied that it remained committed to complying with the Act and urged that the process remain "free of political influence."[4]
 
 
+## Digital COVID certificate advocacy
+
+As EU Commissioner for Internal Market, Breton championed the [[eu-digital-covid-certificate|EU Digital COVID-19 Certificate]], stating in 2023 that "with 80 countries and territories connected to the EU Digital COVID-19 Certificate, the EU has set a global standard."[5] He said the certificate had been an important tool in the pandemic response and had facilitated international travel and tourism, and expressed satisfaction that the [[world-health-organization|World Health Organization]] would build on its "privacy-preserving principles and cutting-edge technology" to create a global tool against future pandemics.[5] His remarks were cited in Badlands coverage critical of the emerging [[digital-vaccine-passport|digital vaccine passport]] system.[5]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 3. Badlands Brief — "Badlands News Brief: MORE Shooter Shenanigans ... and TrumpaMania Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-4cb
 4. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+5. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

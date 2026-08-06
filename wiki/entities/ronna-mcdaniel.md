@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [rnc, republican-party, 2024-election]
-sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-ae3.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the resignat
 
 At the Republican presidential debate in Miami on November 8, 2023, candidate [[vivek-ramaswamy|Vivek Ramaswamy]] used his opening remarks to call for McDaniel's resignation as RNC chairwoman, saying, "I think there's something deeper going on in the Republican Party here, and I am upset about what happened last night," in reference to the previous day's off-year elections.[2] He said, "We've become a party of losers at the end of the day. Is it cancer in the Republican establishment?" and tallied losses under her leadership: "since Ronna McDaniel took over as chairwoman of the RNC in 2017, we have lost 2018, 2020, 2022 — no red wave, that never came. We got trounced last night in 2023."[2] He offered to yield his debate time if she would come onstage and tell GOP voters she was resigning.[2]
 
+## NBC News hiring and firing
+
+In March 2024 [[nbc-news|NBC News]] hired McDaniel, by then the former Republican National Committee boss, as a paid contributor, announcing the move on a Friday and dropping her less than a week later in what the New York Post called a humiliating turnaround.[3] The reversal followed a mutiny among the network's stars, with MSNBC prime-time headliner [[rachel-maddow|Rachel Maddow]] and the co-hosts of "Morning Joe" among those who revolted against bringing the [[donald-trump|Trump]]-backing politico on board.[3] NBCUniversal chairman [[cesar-conde|Cesar Conde]] took "full responsibility" for both the hiring and the firing in a memo to furious staffers obtained by the Post.[3]
+
 ## References
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 2. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
+3. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [facebook, meta, big-tech, cia, free-speech, dei]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -69,6 +69,10 @@ In September 2025 the [[general-services-administration|General Services Adminis
 
 Court documents unsealed on March 23, 2024, as part of the [[klein-v-meta-antitrust-lawsuit|Klein v. Meta antitrust class action]] alleged that Meta's Facebook had for nearly a decade allowed [[netflix]] to view users' private direct messages so the streaming company could better tailor its content.[11] The filings claimed the two firms "enjoyed a special relationship," with Facebook granting "bespoke access" to user data and entering "custom partnerships and integrations that helped supercharge Facebook's ad targeting and ranking models" from at least 2011.[11] Lawyers tied the arrangement to the personal relationship between [[mark-zuckerberg|Mark Zuckerberg]] and Netflix co-founder [[reed-hastings|Reed Hastings]], asserting that within a month of Hastings joining Facebook's board the companies signed an "Inbox API" agreement granting Netflix programmatic access to user message inboxes.[11] [[badlands-media|Badlands Media]] treated the disclosure as another entry in a pattern of platforms breaking data-privacy promises, arguing the cycle would continue until users, not companies, own their data.[11]
 
+## Threads (2023)
+
+Meta launched the microblogging app [[threads|Threads]] in the United States on July 5, 2023 as a rival to [[twitter|Twitter]], reaching more than 100 million sign-ups within its first weekend.[12] The surge proved short-lived: SimilarWeb data cited in July 2023 showed daily active users collapsing from 49 million to 23.6 million in a single week, with US engagement falling from a July 7 peak of roughly 21 minutes to about six minutes.[12] Badlands contributor [[ashe-in-america|Ashe in America]] argued the app was conceived as an establishment answer to freer speech on [[twitter|Twitter]] after [[elon-musk|Elon Musk]]'s acquisition, but that its "echo chamber brand promise" could not compete with Twitter's new creator monetization payouts.[12]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -82,3 +86,4 @@ Court documents unsealed on March 23, 2024, as part of the [[klein-v-meta-antitr
 9. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 10. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 11. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
+12. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

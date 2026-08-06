@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ice, immigration, enforcement, trafficking, sanctuary-jurisdictions]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -159,6 +159,10 @@ ICE reported the arrest of [[jon-luke-evans|Jon Luke Evans]], a Jamaican nationa
 
 Divisions of Immigration and Customs Enforcement participated in the seven-day federal law enforcement patrol of Washington, D.C. that began at midnight on August 7, 2025, an operation led by the [[united-states-park-police|U.S. Park Police]] and joined by the [[fbi|FBI]], [[drug-enforcement-administration|DEA]] and [[bureau-of-alcohol-tobacco-firearms-and-explosives|ATF]].[29]
 
+## Dallas facility shooting (September 2025)
+
+On the morning of Wednesday, 24 September 2025, an ICE facility in Dallas was, in officials' words, "showered with bullets" by a sniper; one detainee was killed and two were critically injured, while no ICE agents were hurt.[30] The gunman, identified as [[joshua-jahn|Joshua Jahn]], fired indiscriminately at the building at around 6:20 a.m., striking a van in the sallyport that held detainees, and was later found dead on the roof of a nearby immigration attorney's office from a self-inflicted gunshot wound.[30] [[fbi|FBI]] Director [[kash-patel|Kash Patel]] said an unspent shell casing recovered at the scene bore the words "ANTI ICE," though the motive remained unclear.[30] The attack is described in detail at [[dallas-ice-facility-shooting|the Dallas ICE facility shooting]].[30]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Somali Shatterpoints, Cartel Countermeasures, & Erosion of the World Order", URL: https://badlands.substack.com/p/badlands-brief-094
@@ -190,3 +194,4 @@ Divisions of Immigration and Customs Enforcement participated in the seven-day f
 27. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
 28. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 29. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+30. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

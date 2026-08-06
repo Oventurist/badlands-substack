@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, 2024, congressional-testimony]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ac3.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-ac3.md, raw/badlands-news-brief-bcc.md]
 confidence: medium
 ---
 
@@ -34,7 +34,12 @@ In one heated exchange, Rep. [[nancy-mace|Nancy Mace]] (R-SC) pressed Cheatle on
 
 Badlands commentary characterized much of the questioning as campaign theater, noting that several House Democrats attempted to reframe the Secret Service failures as a gun control matter — described as a transparent and bad look for those who made the argument.[3] Rep. [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] was singled out as the strongest performer, on the grounds that she avoided partisan talking points, called out colleagues seeking campaign soundbites, and invoked the shooter's AR-15 only to establish the weapon's range in relation to the security perimeter failure.[3] Contributors concluded that bureaucrats fundamentally misunderstand accountability, and that the hearing served as a "bright mirror" of what could become a dark repeat of the [[warren-commission|Warren Commission]] that followed the assassination of [[john-f-kennedy|John F. Kennedy]].[3]
 
+## Aftermath of her resignation
+
+Badlands' July 2024 coverage noted that at Monday's House Oversight Committee hearing Cheatle, then Secret Service director, punted substantive questions about the [[attempted-assassination-of-donald-trump-2024|July 13 Butler shooting]] to the [[fbi|FBI]], as did law enforcement witnesses at Tuesday's Homeland Security Committee hearing — an implication, commentator [[ashe-in-america|Ashe in America]] argued, that [[christopher-wray|FBI Director Christopher Wray]] should have had answers when he testified on Wednesday.[4] Reporting from Axios cited in the same brief recorded that Cheatle resigned on Tuesday, July 23, 2024 following blistering criticism and mounting bipartisan calls for her departure.[4]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 3. Badlands Brief — "Secrets of the Secret Service ... and Circling Sharks in DC", URL: https://badlands.substack.com/p/badlands-news-brief-ac3
+4. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc

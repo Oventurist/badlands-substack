@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, government-agency, artemis, moon]
-sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md]
 confidence: medium
 ---
 
@@ -49,6 +49,10 @@ NASA remained tight-lipped about the reason for the hospital visit, and the crew
 A [[spacex|SpaceX]] crew capsule reached the [[international-space-station|International Space Station]] on Sunday, March 16, 2025, just over a day after launch, delivering replacements for NASA's two stuck astronauts, [[butch-wilmore|Butch Wilmore]] and [[sunita-williams|Suni Williams]].[7] The four newcomers, representing the United States, Japan and Russia, were to learn the station's operations from the pair before Wilmore and Williams departed later that week in a SpaceX capsule docked since the previous year, ending a mission that began in June 2024 and passed the nine-month mark in March 2025.[7] The two had expected a week-long flight when they launched on [[boeing|Boeing]]'s first crewed Starliner test, but the capsule encountered so many problems that NASA insisted it come back empty, leaving its test pilots behind to await a SpaceX lift.[7]
 
 
+## Selection of a US Deorbit Vehicle (June 2024)
+
+In late June 2024, NASA announced that [[spacex|SpaceX]] had been selected to develop and deliver the US Deorbit Vehicle, under a contract worth nearly $1 billion, to steer the [[international-space-station|International Space Station]] out of orbit by the end of the decade and into the Pacific Ocean while avoiding risk to populated areas.[8] The station, launched in 1998, had recently had its operational life extended from 2024 to 2030, with Russia planning to withdraw and build its own station.[8] Ken Bowersox, associate administrator for the Space Operations Mission Directorate at NASA Headquarters in Washington, said the selection would help NASA and its international partners "ensure a safe and responsible transition in low Earth orbit at the end of station operations," support plans for future commercial destinations, and allow continued use of space near Earth.[8]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
@@ -57,3 +61,4 @@ A [[spacex|SpaceX]] crew capsule reached the [[international-space-station|Inter
 5. Badlands Brief — "Badlands News Brief: Non-Binding Motions & Psycho-Emotional Problems", URL: https://badlands.substack.com/p/badlands-news-brief-3ab
 6. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
 7. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40

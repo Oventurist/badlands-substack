@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md]
 confidence: medium
 ---
 
@@ -90,6 +90,12 @@ In September 2024, the [[taliban|Taliban]] government of Afghanistan announced t
 
 Analysts suggested Taliban membership would hand Washington "low-hanging fruit" with which to denigrate the bloc internationally, particularly given US frustration at deepening China–Russia–India cooperation and those states' refusal to condemn Russian military action in Ukraine.[13] Badlands Media, by contrast, framed the episode as evidence that states outside Western favour can now bypass the international rules-based order, escaping sanctions, central-bank arrangements and IMF lending by joining an alternative financial system rather than adopting the petrodollar.[13]
 
+## Palestinian application, 2024
+
+In August 2024, Palestine announced it would officially apply to join BRICS following a meeting between Russian President [[vladimir-putin|Vladimir Putin]] and Palestinian Authority President [[mahmoud-abbas|Mahmoud Abbas]] earlier that month, after which Abbas was invited to the 2024 summit.[14] The Palestinian Authority's ambassador to Russia, Abdel Hafeez Nofal, said the application would follow the country's participation in the annual summit: "We received an invitation from President Putin to President Abbas, and he was invited to participate in the BRICS summit. The most important thing is that [Palestinian representatives] will participate in this event."[14]
+
+The move fit a broader pattern of accession interest. The bloc had expanded its membership for the first time since 2001 the previous year, welcoming the United Arab Emirates, Iran, Egypt and Ethiopia in 2023, and had continued discussing further growth as additional nations sought inclusion.[14] Badlands Media argued that integrating Palestine into the bloc would advance its recognition as a state under the [[montevideo-convention|Montevideo Convention]] criteria and grant it autonomy from the United Nations, the United States and Israel, describing the [[2024-brics-kazan-summit|Kazan summit]] in October as effectively "a huge party to celebrate the end of central banking."[14]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
@@ -104,3 +110,4 @@ Analysts suggested Taliban membership would hand Washington "low-hanging fruit" 
 11. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 13. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+14. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f

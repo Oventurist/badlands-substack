@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [space, nasa, spacex, boeing, orbital-station]
-sources: [raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b40.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ On Sunday, March 16, 2025, just over a day after blasting off, a [[spacex|SpaceX
 
 The rotation closed out an unexpectedly extended mission that had begun the previous June. Wilmore and Williams expected to be gone just a week when they launched on [[boeing|Boeing]]'s first crewed flight, but the Starliner capsule encountered so many problems that NASA insisted it return empty, leaving its test pilots aboard the station; they hit the nine-month mark earlier in March 2025.[1]
 
+## Planned deorbit
+
+The station, launched in 1998, had its operational life extended from 2024 to 2030, after which it is to be removed from orbit; Russia has said it plans to withdraw from the program in the coming years to focus on building its own station.[2] In late June 2024, [[nasa|NASA]] awarded [[spacex|SpaceX]] a contract worth nearly $1 billion to develop and deliver a US Deorbit Vehicle capable of steering the station out of orbit and into the Pacific Ocean while avoiding risk to populated areas.[2] Ken Bowersox of NASA's Space Operations Mission Directorate said the selection would help NASA and its international partners ensure a safe and responsible transition in low Earth orbit at the end of station operations, while supporting plans for future commercial destinations.[2]
+
 ## References
 1. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+2. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [omb, executive-office-of-the-president, budget, shutdown, federal-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -32,8 +32,15 @@ On March 28, 2024, OMB announced revisions to the federal minimum categories on 
 
 Rep. [[thomas-massie|Thomas Massie]] disclosed in a December 2023 interview with [[tucker-carlson|Tucker Carlson]] that the [[joe-biden|Biden]] administration's OMB director had written to Speaker [[mike-johnson|Mike Johnson]] imploring him to approve additional spending for Ukraine, on the stated rationale of revitalizing the American defense industrial base.[4] According to Massie, the letter included a list of states that would receive money for manufacturing munitions, which he cited as evidence that lawmakers back such packages because the funds flow back to the [[military-industrial-complex|military-industrial complex]] and to their own districts.[4]
 
+## Shutdown reduction-in-force directive (September 2025)
+
+Ahead of a possible government shutdown on 1 October 2025, the Office of Management and Budget instructed federal agencies to prepare reduction-in-force plans for mass firings, specifically targeting employees working on programs not legally required to continue.[5] In a memo shared with Politico ahead of its release to agencies, OMB directed agencies to identify programs, projects and activities where discretionary funding would lapse on 1 October with no alternative funding source available, and for those areas to begin drafting RIF plans going beyond standard furloughs and permanently eliminating jobs in programs inconsistent with President [[donald-trump|Donald Trump]]'s priorities.[5]
+
+The move marked a significant break from how shutdowns had been handled in recent decades, when most furloughs were temporary and employees returned once [[congress|Congress]] voted to reopen the government.[5] OMB Director [[russ-vought|Russ Vought]] was described as using the threat of permanent job cuts as leverage in the spending standoff with congressional Democrats.[5] The memo stated that "programs that did not benefit from an infusion of mandatory appropriations will bear the brunt of a shutdown."[5]
+
 ## References
 1. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 2. Badlands Brief — "Unprecedented Opportunities & Rich Men's Tricks", URL: https://badlands.substack.com/p/badlands-news-brief-357
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 4. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+5. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

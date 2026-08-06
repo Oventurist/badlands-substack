@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, secretary-of-defense, ukraine, biden-administration]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-301.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8cb.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-301.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-780.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-b86.md]
 confidence: medium
 ---
 
@@ -102,6 +102,12 @@ The [[pentagon|Pentagon]] announced the hospitalization on Friday, and Austin is
 
 Badlands writer [[burning-bright|Burning Bright]] treated the episode as an "organic little white pill masquerading as a black pill," arguing that the story's memetic power came from being simultaneously surprising, funny and slightly frightening: surprising that the supposed commander-in-chief did not know what his defense secretary was doing, funny that Biden did not know what was happening at any given time, and terrifying to normie audiences on both counts.[19] While conceding it was impossible to know whether the reporting was accurate, he wrote that the affair lined up with the idea of [[continuity-of-government|Continuity of Government]]/[[devolution|Devolution]] and with the notion of a "Fake Admin" and a "Fake President" leading the country in name only.[19]
 
+## Warning to Israel on civilian casualties (December 2023)
+
+Speaking at the Reagan National Defense Forum in Simi Valley, California, on December 2, 2023, Austin warned that [[israel|Israel]] risked a "strategic defeat" if it failed to protect Palestinian civilians in [[gaza|Gaza]] during its war against [[hamas|Hamas]].[20] "The center of gravity is the civilian population and if you drive them into the arms of the enemy, you replace a tactical victory with a strategic defeat," he said.[20] Austin added that he had personally pressed Israeli leaders to avoid civilian casualties and to prevent settler violence in the West Bank, and pledged that Washington "will continue to press Israel to protect civilians and to ensure the robust flow of humanitarian aid."[20]
+
+The remarks came as U.S. officials grew more vocal about the next phase of Israeli operations after a temporary truce expired, with the administration of [[joe-biden|Joe Biden]] cautioning that a campaign in southern Gaza had to be conducted more precisely than the first phase of the war.[20] Austin simultaneously emphasized that Israel had a duty to respond to terrorist attacks such as the October 7 Hamas assault that killed at least 1,200 Israelis.[20] [[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] read the [[pentagon|Pentagon]] chief's language as evidence of an accelerated "Overton's Goalpost" shift mirroring the trajectory of the Ukraine proxy war on a much faster timeline.[20]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -123,3 +129,4 @@ Badlands writer [[burning-bright|Burning Bright]] treated the episode as an "org
 17. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 18. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 19. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
+20. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86

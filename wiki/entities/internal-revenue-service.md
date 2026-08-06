@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taxation, 1913, federal-agency]
-sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md]
+sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -101,6 +101,10 @@ In the Oval Office on Thursday, April 17, 2025, Trump alleged that the Biden adm
 
 In September 2023 the agency was sued by [[hunter-biden|Hunter Biden]], who alleged that IRS agents unlawfully disclosed his tax return information and that the agency failed to establish safeguards ensuring the confidentiality of his records.[19] The complaint, filed in federal court in Washington, D.C. and assigned to Judge [[timothy-kelly|Timothy Kelly]], sought disclosure documents, $1,000 per unauthorized disclosure, and attorneys' fees, and centered on statements by agency whistleblowers [[gary-shapley|Gary Shapley]] and [[joseph-ziegler|Joseph Ziegler]].[19] The matter is covered at [[hunter-biden-v-internal-revenue-service|Hunter Biden v. Internal Revenue Service]].[19]
 
+## Whistleblower disclosures of June 2023
+
+IRS criminal supervisory special agent [[gary-shapley|Gary Shapley]], a fourteen-year veteran of the agency, alleged in June 2023 that [[hunter-biden|Hunter Biden]] had received preferential treatment from investigators examining his tax affairs and his alleged false statements on a gun permit application.[20] Shapley's testimony, released through congressional Republicans, became the proximate trigger for House Speaker [[kevin-mccarthy|Kevin McCarthy]]'s threat to open an impeachment inquiry into Attorney General [[merrick-garland|Merrick Garland]] by July 6, 2023.[20]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
@@ -121,3 +125,4 @@ In September 2023 the agency was sued by [[hunter-biden|Hunter Biden]], who alle
 17. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 18. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 19. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+20. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-law, democrats, litigation, shadow-cabal]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-618.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bcd.md]
 confidence: medium
 ---
 
@@ -57,6 +57,12 @@ In July 2025 Elias represented the [[equality-state-policy-center|Equality State
 
 Elias's election litigation practice was closely associated with challenges to state voter roll maintenance programs during the 2024 cycle, including the effort to block Virginia's removal of noncitizens from its rolls.[8] After the [[supreme-court-of-the-united-states|Supreme Court]] stayed a lower court ruling on October 30, 2024 and allowed Governor [[glenn-youngkin|Glenn Youngkin]]'s program to proceed, Badlands writer [[ashe-in-america|Ashe in America]] quipped, "Someone check on Marc Elias. He was really excited about noncitizens voting in Virginia."[8]
 
+## North Carolina voter roll intervention (June 2025)
+
+In early June 2025 Elias moved to intervene in a [[department-of-justice|Justice Department]] lawsuit filed against North Carolina over the state's allegedly inaccurate voter registration rolls.[9] The suit alleged that the North Carolina Board of Elections had used a registration form that failed to require identifying information such as a driver's license number or the last four digits of a Social Security number, as required by the [[help-america-vote-act|Help America Vote Act]], and the department said the litigation advanced President [[donald-trump|Donald Trump]]'s [[executive-order-14248|Executive Order 14248]], "Preserving and Protecting the Integrity of American Elections."[9] The North Carolina Alliance for Retired Americans retained the [[elias-law-group|Elias Law Group]] to file the motion to intervene, as reported by the Carolina Journal.[9]
+
+[[ashe-in-america|Ashe in America]] wrote that Elias was "fighting to keep voter rolls inflated and corrupted in North Carolina," describing him as a political animal who served as election attorney to [[hillary-clinton|Hillary Clinton]] and the [[democratic-national-committee|DNC]].[9] She recounted that before leaving [[perkins-coie|Perkins Coie]] in 2021 Elias chaired the firm's Political Law Group, covering election law, campaign finance and political litigation almost exclusively for Democratic clients, and that under his leadership it became one of the most influential such practices in the country — with a client list including the DNC, the Democratic Senatorial Campaign Committee, the Democratic Congressional Campaign Committee and many Democratic members of Congress.[9] She further asserted that Elias led the legal response to challenges of the 2020 presidential election outcome, including pressure on counties to certify results, and noted that he had deleted all of his tweets.[9]
+
 ## References
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "Triggering Summits & Allegedly Fair Elections", URL: https://badlands.substack.com/p/badlands-brief-618
@@ -66,3 +72,4 @@ Elias's election litigation practice was closely associated with challenges to s
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 8. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
+9. Badlands Brief — "Badlands News Brief: Guns for Gaza & Musk v. Trump", URL: https://badlands.substack.com/p/badlands-news-brief-bcd

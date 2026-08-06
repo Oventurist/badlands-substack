@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, broadcast-news, legacy-media, lewiston]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-481.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-b5a.md]
 confidence: medium
 ---
 
@@ -32,7 +32,16 @@ In October 2024 CBS News was formally issued an FCC complaint over its surreptit
 
 Badlands' analysis judged that the [[federal-communications-commission|FCC]]'s 3–2 Democratic majority made accountability unlikely before January 20, 2025, while calling the scandal "massive because of its deception" and antithetical to journalistic integrity.[3] The brief also noted that per Ad Week the CBS interview drew 5.7 million viewers, only Harris's third most watched media appearance of the cycle, part of a broader decline in mainstream news audiences.[3] The episode is treated in full at [[2024-cbs-60-minutes-harris-interview-edit|2024 CBS 60 Minutes Harris interview edit]].[3]
 
+## Seizure of Catherine Herridge's files (2024)
+
+In February 2024 CBS faced an uproar after the firing of acclaimed investigative reporter [[catherine-herridge|Catherine Herridge]] and the network's subsequent seizure of her files, computers and records, including information on privileged sources.[4] Writing in The Hill, law professor Jonathan Turley reported "trouble brewing at Black Rock," the CBS headquarters, and said the position taken by CBS had alarmed many — including the union — as an attack on free press principles by one of the nation's most esteemed press organizations.[4]
+
+Turley wrote that current and former CBS employees he spoke with confidentially could not recall the company ever taking such a step before, and that one former CBS journalist said colleagues were confused about the layoff of a correspondent who broke news regularly and did a lot of original reporting, adding that the seizure had sent a "chilling signal" in the ranks of CBS.[4] Turley framed the piece with a quotation from CBS icon [[edward-r-murrow|Edward R. Murrow]]: "Anyone who isn't confused really doesn't understand the situation."[4]
+
+In Badlands commentary, [[ashe-in-america|Ashe in America]] described the alleged confiscation as one of the worst violations of freedom of the press in modern history, called CBS part of what she termed the global corporate communist cabal, and argued that a network unwilling to fight such an overreach was "clearly ... not in the journalism business any longer," proposing that unions sue, journalists walk off and sources refuse to cooperate.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 3. Badlands Brief — "Badlands News Brief: Donald's Drive-Thru Goes Viral as Iran Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-481
+4. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

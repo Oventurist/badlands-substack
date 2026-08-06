@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-advocacy, transparency, intelligence-oversight, conservative]
-sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-brief-f83.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-4b7.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ On March 7, 2024, Judge [[aileen-cannon|Aileen Cannon]] accepted an amicus brief
 
 On Friday, July 18, 2025, America First Legal released documents it said conclusively proved that the October 4, 2021 [[garland-memo|Garland memo]] labeling concerned parents as "domestic terrorists" was a political operation of weaponized government rather than lawful execution of federal law by the [[department-of-justice|Department of Justice]].[8] The group said the never-before-seen records, obtained through three and a half years of effort, exposed the Biden [[white-house|White House]]'s involvement in pushing a weaponized DOJ as well as strong dissent from career attorneys in the Department's Civil Rights Division, who warned there was no federal authority or legal basis to target the parents because their speech was protected by the First Amendment.[8] The release allowed AFL to complete the timeline between the [[national-school-boards-association|National School Boards Association]] memo to DOJ and publication of the October 4 memo, confirming its October 7, 2021 prediction that normal process had been bypassed by political leadership disregarding DOJ lawyers' advice.[8]
 
+## Progressive insurance discrimination suit (2023)
+
+In August 2023, AFL and others sued the [[progressive-corporation|Progressive Corporation]] for what the complaint called "patently unlawful" racism, over a program offering $25,000 grants to help black-owned businesses purchase vehicles while barring white, Asian, Latino and other entrepreneurs from applying.[9] The suit was filed on behalf of [[nathan-roberts|Nathan Roberts]], owner of the Ohio-based Freedom Truck Dispatch, who was ineligible because he is white; Progressive said the grants existed to help black-owned firms that had historically struggled to access capital, and did not respond to press requests for comment.[9] AFL lawyer [[gene-hamilton|Gene Hamilton]] described the case as part of a broader assault on big corporations that inject "racial considerations into every aspect of their business operations, employment practices, and so much more."[9]
+
 ## References
 1. Badlands Brief — "A Mostly Peaceful War Continues to Escalate Toward De-Escalation", URL: https://badlands.substack.com/p/badlands-brief-f83
 2. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
@@ -61,3 +65,4 @@ On Friday, July 18, 2025, America First Legal released documents it said conclus
 6. Badlands Brief — "Badlands News Brief: Contempt, Combat Tactics and Cuts?", URL: https://badlands.substack.com/p/badlands-news-brief-70a
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 8. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+9. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, 2024-election, first-lady, speculation]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c4.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-b40.md]
 confidence: low
 ---
 
@@ -36,6 +36,12 @@ After Biden's widely criticized June 27, 2024 debate performance against [[donal
 
 Badlands commentary listed her position among the contradictions being pushed into public consciousness by what it called a "Deep State Archipelago": "Michelle Obama is NOT going to seek candidacy ... unless she does," alongside claims that [[hillary-clinton|Hillary Clinton]] and [[barack-obama|Barack Obama]] publicly backed Biden while their aides and consultants signalled a later move.[6]
 
+## Frustration with the Bidens and When We All Vote (June 2024)
+
+In late June 2024, Axios reported that Michelle Obama had privately expressed frustration over how the Biden family largely exiled her close friend [[kathleen-buhle|Kathleen Buhle]] after Buhle's messy divorce from [[hunter-biden|Hunter Biden]] in 2017.[7] Those family tensions, together with the former First Lady's disdain for partisan politics, were cited by sources as part of the reason one of the Democrats' most popular voices had not campaigned for [[joe-biden|Joe Biden]]'s re-election even as [[barack-obama|Barack Obama]] served as a willing surrogate.[7] She had also been initially reluctant to campaign for Biden after he became the 2020 nominee.[7] Biden's team maintained that relations between the families were strong, while sources dated the change to 2015 — the year Biden weighed a presidential run without Obama's encouragement and the year his son Beau died of cancer.[7]
+
+[[ashe-in-america|Ashe in America]] dismissed the report as "a (too) long gossip piece" recycling old drama, and argued that the genuinely newsworthy subject was Michelle Obama's [[when-we-all-vote|When We All Vote]], which she called "the mother of all NGOs" and described as the umbrella under which the other election-related NGOs operate.[7] Ashe noted that the organization was established in 2018, shortly before Biden spoke about his "voter fraud" network, adding drily that she was sure the two facts were unrelated.[7]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -44,3 +50,4 @@ Badlands commentary listed her position among the contradictions being pushed in
 4. Badlands Brief — "Presidential Immunity & Rugpulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-484
 5. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 6. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
+7. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40

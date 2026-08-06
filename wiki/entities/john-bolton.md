@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, pnac, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-257.md, raw/badlands-brief-52f.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-ba8.md]
 confidence: medium
 ---
 
@@ -60,6 +60,10 @@ Bolton pleaded not guilty in court on the morning after the 18-count indictment 
 
 [[burning-bright|Burning Bright]] wrote that the indictment would have actual effects on the battlespace but that its biggest benefit to Trump's justice campaign was psychological: because Bolton is a "former Trump ally," the move served simultaneously as [[narrative-shielding|narrative shielding]] and as a warning shot that nobody is safe — friends close, enemies closer.[7] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that four days before the indictment, Colonel [[douglas-macgregor|Douglas Macgregor]] told Judge [[andrew-napolitano|Andrew Napolitano]] that it was [[sheldon-adelson|Sheldon Adelson]] who convinced Trump to bring Bolton into the administration, reading this as both signal and proof of "drafting" — Trump using the inertia of the NeoCon/Zionist agenda to advance the white hat plan.[7] [[ashe-in-america|Ashe in America]] inverted the Atlantic's headline, asking "what if the others are just like the Bolton case?", predicting superseding indictments that add new charges and new defendants for Comey and James as well, and questioning why the magazine appeared to be rewriting the Erik Siebert story.[7]
 
+## Removal of Secret Service detail (January 2025)
+
+Bolton confirmed to Newsweek on Tuesday, January 21, 2025 that President [[donald-trump|Donald Trump]] had ended the [[united-states-secret-service|Secret Service]] protection assigned to him.[8] In a statement shared by email, the former official said the Secret Service had called late the previous night — just hours after Trump took office — to inform him that his protection would end at noon that day.[8] Bolton, a national-security hawk who played a key role in shaping US foreign policy during the first Trump administration, had continued to require Secret Service protection because of threats from Iran even after leaving the White House in 2019.[8] After Bolton was fired by Trump, the president terminated his security detail; former President [[joe-biden|Joe Biden]] reinstated the protection upon taking office in 2021.[8] Bolton said he was "disappointed" by the renewed removal.[8]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Bicameral Deal-Making and Accelerationism Acknowledged", URL: https://badlands.substack.com/p/badlands-brief-257
@@ -68,3 +72,4 @@ Bolton pleaded not guilty in court on the morning after the 18-count indictment 
 5. Badlands Brief — "Badlands News Brief: Very Productive Phone Calls & Presidential Memorandums", URL: https://badlands.substack.com/p/badlands-news-brief-153
 6. Badlands News Brief — "Pre-Dawn Raids, Russiagate Racketeering, & Real-Time Adverse Reporting", URL: https://badlands.substack.com/p/badlands-news-brief-32d
 7. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+8. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8

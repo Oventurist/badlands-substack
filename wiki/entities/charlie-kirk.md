@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, conservative, campus-politics]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b53.md]
 confidence: low
 ---
 
@@ -75,6 +75,10 @@ In July 2025 Kirk figured prominently in the fallout over the [[doj-fbi-epstein-
 After President [[donald-trump|Donald Trump]] publicly acknowledged "real starvation" in [[gaza|Gaza]] in late July 2025, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] singled out Kirk for criticism, writing "Charlie Kirk, you're on notice" and accusing him of having "tried to play both sides" on the Israel-Gaza question for too long.[12]
 
 
+## Publication of the Netanyahu letter (September 2025)
+
+At the end of September 2025 Kirk's letter to Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] was published in full, following accusations that it had initially been misrepresented.[13] The letter had become a point of contention among conservatives feuding over Kirk's views on Israel since he was shot dead while speaking in Utah on September 10.[13] Netanyahu had quoted from the letter when speaking about Kirk in the aftermath of the assassination, but conservative podcaster [[candace-owens|Candace Owens]], a friend of Kirk's, said Netanyahu "did not give the letter the proper context."[13] After the New York Post published the full text, some commentators argued that Owens' own narrative had been disproved.[13]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -88,3 +92,4 @@ After President [[donald-trump|Donald Trump]] publicly acknowledged "real starva
 10. Badlands Brief — "Badlands News Brief: Autopens, AI Chips, & Astrological Assertions", URL: https://badlands.substack.com/p/badlands-news-brief-4fd
 11. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 12. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+13. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53

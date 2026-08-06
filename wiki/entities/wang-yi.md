@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, diplomacy, foreign-policy, us-china-relations]
-sources: [raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-a7b.md]
+sources: [raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-bcc.md]
 confidence: medium
 ---
 
@@ -30,6 +30,11 @@ The conversation followed sharp criticism from the Israeli foreign ministry over
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] argued that the alignment of Saudi Arabia, China, and [[russia|Russia]] behind de-escalation — against a Western bloc calling for escalation — was producing "narrative whiplash" in a public long told those three nations were evil.[2]
 
+## Meeting with Kuleba, July 2024
+
+Wang met Ukrainian foreign minister [[dmytro-kuleba|Dmytro Kuleba]] in the southern Chinese city of Guangzhou on July 24, 2024 — Kuleba's first visit to China since Russia's February 2022 invasion — in talks read as a sign of Kyiv's greater openness to a negotiated end to the war and to a more central Chinese role.[3] Hosting the Ukrainian diplomat served Beijing's ambition to play a bigger part in global security challenges as a counterweight to the United States and to rebut Western criticism of its close alignment with Russia.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump's Support, Durham's Return & Xi's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-1d7
 2. Badlands Brief — "Badlands News Brief: A Potato Visits Israel; A Ukrainian Does Not ...", URL: https://badlands.substack.com/p/badlands-news-brief-a7b
+3. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc

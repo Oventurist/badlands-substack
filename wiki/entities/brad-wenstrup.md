@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, covid-19, wuhan, oversight, republican]
-sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-384.md]
+sources: [raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ In early September 2024, Wenstrup, as chairman of the [[house-select-subcommitte
 
 In May 2024, as Chairman of the [[select-subcommittee-on-the-coronavirus-pandemic|Select Subcommittee on the Coronavirus Pandemic]], Wenstrup released a statement confirming that the [[department-of-health-and-human-services|Department of Health and Human Services]] had accepted the subcommittee's recommendation to formally debar [[ecohealth-alliance|EcoHealth Alliance, Inc.]][6] HHS agreed to initiate official debarment proceedings and to impose a government-wide suspension of U.S. taxpayer funds to the organization, including a halt on all active grants.[6]
 
+## Request for Fauci's personal records, May 2024
+
+On Wednesday, May 29, 2024, Wenstrup requested access to the cellphone and personal email records of former National Institute of Allergy and Infectious Diseases director [[anthony-fauci|Anthony Fauci]], ahead of Fauci's scheduled testimony the following week before the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]].[7] Wenstrup said new evidence suggested Fauci had used personal channels for government communication.[7]
+
+The request followed the disclosure that Fauci's senior advisor [[david-morens|David Morens]] had emailed former [[ecohealth-alliance|EcoHealth Alliance]] president [[peter-daszak|Peter Daszak]] in 2021 stating he could route material to Fauci privately to dodge Freedom of Information Act requests: "I can either send stuff to Tony on his private gmail, or hand it to him at work. He is too smart to let colleagues send him stuff that could cause trouble."[7] Wenstrup called the information concerning and opened an investigation into a "secret back channel" Morens had alluded to in a separate email.[7]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Biden Bungles Rafah as Trump Trials Collapse", URL: https://badlands.substack.com/p/badlands-news-brief-0c1
@@ -54,3 +60,4 @@ In May 2024, as Chairman of the [[select-subcommittee-on-the-coronavirus-pandemi
 4. Badlands Media — "Badlands News Brief: Fauci, Trudeau and the Bidens Under the Microscope", URL: https://badlands.substack.com/p/badlands-news-brief-276
 5. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 6. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
+7. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

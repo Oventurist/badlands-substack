@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md]
 confidence: low
 ---
 
@@ -81,6 +81,10 @@ On November 13, 2023, TMTG and [[digital-world-acquisition-corp|Digital World Ac
 
 Shares of Trump Media jumped about 9% in extended trading on Monday, March 24, 2025 after the parent of the president's social media company announced an agreement with [[crypto-com|Crypto.com]] to launch a series of exchange-traded funds and related products.[14] The company, which runs the Truth Social platform, had been hammered by investors through the year despite [[donald-trump|President Donald Trump]]'s return to the White House; prior to the after-hours gain the stock was down 38% in 2025.[14] Trump Media said the ETFs and exchange-traded products would carry a "Made in America" focus and would launch later that year, subject to regulatory approval — described as Trump's latest foray into crypto after his family introduced several Trump-branded non-fungible tokens and memecoins and announced plans to start a crypto bank of sorts.[14] Badlands contributor [[gmoney|GMONEY]] reacted that it "seems BIG" and joked about awaiting a "$TRUMP shitcoin ETF."[14]
 
+## Trading debut
+
+Trump Media, the parent company of [[truth-social|Truth Social]], rose sharply on its stock market debut in late March 2024, closing its first trading day at $57.99 for a gain of 16% and reaching a valuation of roughly $8 billion — greater than established companies such as Mattel and Western Union.[15] A frenzy of interest in the stock briefly halted trading because of extreme volatility.[15] [[donald-trump|Donald Trump]] holds 60% of the company's stock, making him the primary beneficiary of the strong performance.[15] Trump helped create Truth Social after he was banned from Twitter in the aftermath of the January 6 Capitol riot, and although the ban was rescinded once [[elon-musk|Elon Musk]] bought the platform, he chose to stay with Truth Social; research firm Similarweb estimated Truth Social had about 5 million active users against roughly 500 million for X.[15]
+
 ## References
 
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -97,3 +101,4 @@ Shares of Trump Media jumped about 9% in extended trading on Monday, March 24, 2
 12. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
 13. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 14. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
+15. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, geopolitics, iran-war]
-sources: [raw/badlands-brief-724.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-b01.md]
+sources: [raw/badlands-brief-724.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-22b.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-b01.md, raw/badlands-news-brief-b9c.md]
 confidence: medium
 ---
 
@@ -62,6 +62,12 @@ Medvedev characterized [[kamala-harris|Kamala Harris]] as "dumb, inexperienced, 
 
 Separately, Medvedev reiterated to Russian state news agency RT that adding Ukraine to [[nato|NATO]] could lead to World War III.[8]
 
+## February 2024 warning to NATO
+
+Writing on Telegram on Wednesday, February 7, 2024, Medvedev — by then deputy chairman of Russia's Security Council — warned that a full-scale war between Russia and [[nato|NATO]] would leave Moscow with no choice but to deploy its nuclear assets, while reiterating that his country was not seeking a conflict with the US-led military bloc.[9] He pushed back against statements by numerous Western leaders urging their populations to prepare for a potential conflict with Moscow, noting that Russia had repeatedly said it had no plans to stage a conflict with NATO or the [[european-union|European Union]] despite the latter's continuing "dangerous drivel" on the issue.[9]
+
+Medvedev suggested the narrative was designed to divert the attention of Western voters away from massive spending on aid for Ukraine, an effort he said many had already grown tired of, arguing that the fatigue stemmed from Western leaders' desire to help "a dying country that is foreign to taxpayers" while neglecting social problems at home.[9] "Therefore, every day the leaders of these countries broadcast: We need to prepare for war with Russia and continue to help Ukraine," he said.[9] He nonetheless cautioned that a Moscow–NATO war would differ drastically from the Ukraine conflict and would not rely on artillery, tanks and drones, observing that the alliance's combined population of nearly one billion and defense spending reaching $1.5 trillion made it far superior to Russia in conventional terms.[9]
+
 ## References
 
 1. Badlands Brief — "Cancel Culture Comes for Holy Week in Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-724
@@ -72,3 +78,4 @@ Separately, Medvedev reiterated to Russian state news agency RT that adding Ukra
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
 8. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+9. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c

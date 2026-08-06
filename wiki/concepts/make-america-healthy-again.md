@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [public-health, food-policy, maha, chronic-disease]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
@@ -47,9 +47,16 @@ The September 22, 2025 [[2025-white-house-tylenol-autism-announcement|White Hous
 
 The granting of waivers to six additional states — West Virginia, Florida, Colorado, Louisiana, Oklahoma and Texas — allowing them to bar soda, candy and other high-sugar foods from purchase under [[snap|SNAP]] was reported as a win for MAHA advocates, with the restrictions set to take effect in 2026.[5] The waivers brought to twelve the number of states restricting junk-food purchases, following earlier approvals for Nebraska, Iowa, Indiana, Arkansas, Idaho and Utah.[5]
 
+## Casey Means nomination backlash (May 2025)
+
+The MAHA movement fractured publicly in May 2025 over President [[donald-trump|Donald Trump]]'s nomination of [[casey-means|Casey Means]] as Surgeon General, with many adherents objecting that Means had not completed her surgical residency and was not a practicing clinical physician.[6] Health Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] defended her, saying the backlash revealed "just how far off course our healthcare conversations have veered" and that she was the ideal replacement because she had left the traditional medical system rather than in spite of it.[6] Kennedy's former running mate [[nicole-shanahan|Nicole Shanahan]] went so far as to imply that Kennedy was lying or being handled.[6]
+
+Badlands writer Ashe in America noted the irony of a movement built on rejecting the established system appealing to that system's credentialing, and restated MAHA's core problem statement as a "bundle of perverse incentives" — a business transformation project rather than a medical one, requiring the weight of the federal government to force change across multiple industry verticals against their profit motivations in pursuit of health solutions that treat the whole human.[6] On that reading, making America healthy again "doesn't need the right doctor in a bureaucratic seat," but "the right leader with a stomach for change."[6]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
 3. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 4. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 5. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+6. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b

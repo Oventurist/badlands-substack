@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [saudi-arabia, donald-trump, 2017, qanon, symbolism]
-sources: [raw/arabian-nights.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-ba8.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ The article calls it "infamous" and describes it as an event that became iconic 
 
 Months later, when an anonymous poster appeared on 4chan following the Las Vegas shooting, it was the cryptic recounting of the Sword Dance in Saudi Arabia — rather than prophecies of arrests of political villains — that captured the author's attention and drew him into following the drops, which soon focused heavily on "SA."[1] The Sword Dance thus functions in the article as the emblem of the convergence between Trump and [[mohammed-bin-salman|Mohammed bin Salman]], two figures the author describes as warriors on separate quests to slay the same dragon.[1]
 
+## The 2025 inauguration sword dance
+
+[[donald-trump|Trump]] performed a sword dance again in public during his second inauguration festivities in January 2025, a moment Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] initially mentioned only in passing because of how happy [[melania-trump|Melania]] appeared in the clip, calling it his favorite moment of the entire day.[2] He subsequently argued that the significance of the repeat performance could not be ignored, recalling that the last time Trump performed a sword dance in public — in Saudi Arabia in 2017 — a purge against a corrupt oligarchy subsequently occurred.[2] He invited readers to compare Melania's inauguration dress to the thawb, the traditional robes worn by the Saudi royals performing the ardah alongside Trump in 2017, and noted that the [[saudi-purge|Saudi Purge]] lasted over two years and saw thousands prosecuted for betraying the Kingdom through malicious corruption.[2] The observation was offered alongside Trump's announced purge of more than 1,000 [[joe-biden|Biden]] appointees.[2]
+
 ## References
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
+2. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8

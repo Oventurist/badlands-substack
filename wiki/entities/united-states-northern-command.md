@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, homeland-defense, pentagon, domestic-deployment]
-sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-brief-11d.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ On February 5, 2024, Northern Command underwent a change of command presided ove
 1. Badlands News Brief — "Fake MAGA Break-ups and Based Accelerationism", URL: https://badlands.substack.com/p/badlands-news-brief-11d
 2. Badlands Brief — "Smith Slips, China Encroaches & Trump Preps", URL: https://badlands.substack.com/p/badlands-news-brief-6bc
 3. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+
+## Acquisition of Greenland in its area of responsibility (2025)
+
+On June 17, 2025, President [[donald-trump|Donald Trump]] ordered [[greenland|Greenland]] moved from [[united-states-european-command|U.S. European Command]] into Northern Command's area of responsibility, on the rationale that the command is charged with defending the U.S. homeland.[4] Chief [[pentagon|Pentagon]] spokesman [[sean-parnell|Sean Parnell]] said the shift would strengthen the Joint Force's ability to defend the homeland, contribute to a more robust defense of the western hemisphere, and deepen relationships with Arctic allies and partners.[4] See [[2025-transfer-of-greenland-to-us-northern-command|2025 transfer of Greenland to U.S. Northern Command]].[4]
+
+4. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

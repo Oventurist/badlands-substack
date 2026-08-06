@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [openai, ai, pentagon, surveillance]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-4ab.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-b92.md]
 confidence: medium
 ---
 
@@ -40,6 +40,12 @@ Altman is a co-founder of [[worldcoin|Worldcoin]], a venture that offers free cr
 
 Five days of turmoil at [[openai|OpenAI]] ended early on Wednesday, 22 November 2023, when the company announced on X that it had "reached an agreement in principle for Sam Altman to return to OpenAI as CEO," alongside a new initial board of Bret Taylor as chair, [[larry-summers|Larry Summers]] and Adam D'Angelo.[6] Altman wrote that everything he had done over the preceding days was "in service of keeping this team and its mission together," that joining [[microsoft|Microsoft]] the prior Sunday evening had seemed the best path at the time, and that with the new board and Satya Nadella's support he looked forward to returning.[6] The reinstatement was expected to satisfy the more than 700 employees who had threatened to resign and join Microsoft unless the directors stepped down.[6] See [[2023-openai-leadership-crisis|2023 OpenAI leadership crisis]].[6]
 
+## Chip and hardware fundraising before the ouster
+
+In the weeks leading up to his ouster from [[openai|OpenAI]], Altman was actively working to raise billions of dollars from some of the world's largest investors for a new chip venture, according to people familiar with the matter.[7] He had been travelling to the Middle East to fundraise for the project, which was code-named [[tigris|Tigris]], and planned to spin up an AI-focused chip company producing semiconductors to compete with those of [[nvidia|Nvidia Corp.]], which then dominated the market for artificial intelligence tasks.[7] The venture had not yet been formed and talks with investors were in early stages, the people said, asking not to be named because the discussions were private.[7]
+
+Altman was also seeking money for an AI-focused hardware device he had been developing in tandem with former [[apple|Apple Inc.]] design chief [[jony-ive|Jony Ive]], holding talks about both ventures with [[softbank|SoftBank Group Corp.]], Saudi Arabia's [[public-investment-fund|Public Investment Fund]], [[mubadala-investment-company|Mubadala Investment Company]] and others as he sought tens of billions of dollars for the new companies.[7] Many details of the scale and focus of his chip ambitions, as well as the project's codename, had not previously been reported.[7]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -48,3 +54,4 @@ Five days of turmoil at [[openai|OpenAI]] ended early on Wednesday, 22 November 
 4. Badlands Brief — "Badlands News Brief: Propagandist Panic. The People Approve.", URL: https://badlands.substack.com/p/badlands-news-brief-2cb
 5. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
 6. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
+7. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92

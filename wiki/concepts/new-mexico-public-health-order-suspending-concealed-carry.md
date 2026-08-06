@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [second-amendment, gun-rights, new-mexico, emergency-powers, litigation]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-670.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-bbb.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ AP News reporting cited in the September 11, 2023 Badlands News Brief added that
 
 [[ashe-in-america|Ashe in America]] framed the legal question through [[marbury-v-madison|Marbury v. Madison]] (1803): all laws repugnant to the Constitution are null and void, so a governor cannot suspend the Second Amendment.[2] She noted that [[ted-lieu|Ted Lieu]] and [[david-hogg|David Hogg]] reached the same conclusion, but attributed their reasoning to a desire for federal-level restrictions rather than any commitment to states' rights, comparing it to establishment demands for federal abortion legislation after [[roe-v-wade|Roe v. Wade]] was returned to the states.[2]
 
+## Federal court blocks the order
+
+On Wednesday, September 13, 2023, U.S. District Judge [[david-urias|David Urias]] blocked part of the public health order, granting a temporary restraining order that halted the suspension of the right to openly carry or conceal guns in public until a further hearing in early October.[3] The order had been imposed the previous Friday and applied a statistical threshold for violent crime that covered only Albuquerque and the surrounding area; the second-term governor cited recent shootings around the state that left children dead, saying something needed to be done.[3] Urias, who was appointed to the federal bench by President [[joe-biden|Joe Biden]], agreed with plaintiffs who accused [[michelle-lujan-grisham|Lujan Grisham]] of trampling on constitutional rights, while saying he did not blame her for trying to act "in the face of these terrible deaths" and that his duty was to decide a much narrower question about the rights afforded under the U.S. Constitution.[3] The ruling was described as a setback for the governor amid mounting criticism and widening political divides; she said in a statement the same day that she would not be resigned to the status quo.[3]
+
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
+3. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb

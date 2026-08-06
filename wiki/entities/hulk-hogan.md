@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [wrestling, celebrity, senate, florida]
-sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a04.md]
+sources: [raw/badlands-news-brief-1ba.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ba8.md]
 confidence: low
 ---
 
@@ -42,6 +42,12 @@ Following the November 2024 selection of [[linda-mcmahon|Linda McMahon]] as secr
 
 Writing in the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] referred to "the passing of the legendary Hulk Hogan" as a moment when "Trumpa-a-Mania" appeared to be winding down — before President [[donald-trump|Donald Trump]]'s new armored golf escort, [[golf-force-one|"Golf Force One"]], supplied fresh political lore.[6]
 
+## "Jesse Watters Primetime" remarks on the Biden pardons (January 2025)
+
+Appearing on Fox News Channel's "Jesse Watters Primetime" on Monday, January 20, 2025, Hogan quipped about the flurry of pardons issued by [[joe-biden|Joe Biden]] in the closing moments of his presidency, which included clemency for family members involved in the Biden family business such as brothers [[james-biden|James]] and [[frank-biden|Frank Biden]].[7] Asked by host [[jesse-watters|Jesse Watters]] how he was feeling, Hogan replied, "Brother, I am so, so stressed out. Brother, you know, riddle me this, riddle me that nobody's afraid of the old man who don't know where he's at, brother. What a day."[7] He went on: "Pardon me this. Pardon me that. Pardon my brother, my uncle, my sister, Cheney. Everybody in the world. Fauci, he pardons. The only person he didn't pardon was Hunter's little baby with a stripper in case he does anything wrong" — a reference to [[navy-joan-roberts|Navy Joan Roberts]], the daughter of [[hunter-biden|Hunter Biden]] and [[lunden-roberts|Lunden Roberts]].[7]
+
+Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that the clip was time-stamped 8:41 PM Eastern, placing it in the time slot of the Badlands program The Book of Trump, which had been cancelled at the last minute that night so the hosts could remain on the inauguration livestream — an hour during which [[donald-trump|Trump]] was signing executive orders and fielding press questions.[7] He counted the appearance as putting Hogan at three-for-three for going viral during The Book of Trump's 8:00 PM hour since the show premiered on January 6, and noted that during that same Monday night's WWE live show, wrestler CM Punk called out Hogan and demanded a match, promising to "kill" Hulkamania.[7] He read the challenge as both a reason for Hogan to keep the streak alive and an example of "pageantry" removed from politics — the same contrived fiction, he argued, practiced in Washington, DC.[7]
+
 
 ## References
 
@@ -51,3 +57,4 @@ Writing in the [[badlands-news-brief|Badlands News Brief]] of July 29, 2025, con
 4. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e
 5. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 6. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+7. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8

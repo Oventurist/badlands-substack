@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maha, rfk-jr, chronic-disease, agriculture, food-policy]
-sources: [raw/badlands-news-brief-362.md]
+sources: [raw/badlands-news-brief-362.md, raw/badlands-news-brief-b53.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ GOP Rep. Mark Alford, who represents a broad swath of soybean and corn farms sou
 
 [[ashe-in-america|Ashe in America]] wrote that if Big Food and Big Ag were truly sweating, the direction of travel was correct.[1] Responding to criticism that Kennedy focuses too heavily on food and environmental health rather than the pharmaceutical and medical cartel, she argued both tracks can be pursued at once — pulling the mRNA shots and prosecuting those responsible, while also stopping global conglomerates from poisoning the public — noting that Trump upgraded and expanded Guantanamo Bay during his first term.[1]
 
+## AI pediatric cancer initiative (September 2025)
+
+On Tuesday, September 30, 2025, President [[donald-trump|Donald Trump]] signed an order directing his administration to invest $50 million in AI-driven pediatric cancer research, part of a broader embrace of artificial intelligence across federal agencies that came as the administration was slashing biomedical research spending and pausing grants.[2] The order directs the presidentially appointed Make America Healthy Again Commission to work with the Office of Science and Technology Policy to harness data from a childhood cancer data initiative Trump established during his first term, according to OSTP director [[michael-kratsios|Michael Kratsios]].[2] Officials said there would be a broad call for research proposals using AI to fight childhood cancer, and that the effort would also harness electronic health records and claims data to inform research and clinical trial design.[2]
+
+Badlands contributor [[chris-paul|Chris Paul]] questioned the premise, asking whether it would be better to stop poisoning children first and see whether the diseases abate, rather than granting the State permanent access to the condition of children's health.[2] He argued it is remarkable what is permitted on the basis that drugs and obedience will fix problems, "especially when the people making the drugs are the same ones causing disease."[2]
+
 ## References
 
 1. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
+2. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53

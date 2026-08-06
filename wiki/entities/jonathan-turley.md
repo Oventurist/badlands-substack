@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [legal-scholar, war-powers, congress, commentary]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-9e8.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6f0.md, raw/badlands-brief-f83.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-12e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-b60.md]
 confidence: low
 ---
 
@@ -104,6 +104,20 @@ In March 2023, Turley was among the legal scholars who questioned the legal basi
 
 Turley wrote that the DA "is struggling to twist state laws to effectively prosecute a federal case long ago rejected by the Justice Department against Trump," recalling that he had explained in 2018 how difficult such a federal case would be under existing election laws and that the same theory was now being "shoehorned into a state claim."[18] He noted that the most-discussed charge would rest on the claim that Trump used legal expenses to conceal hush payments allegedly used to violate federal election laws, and remarked that experts insisting such concealment must be charged "were conspicuously silent when [[hillary-clinton|Hillary Clinton]] faced a not-dissimilar campaign-finance allegation."[18]
 
+## Column on the CBS seizure of Catherine Herridge's files (2024)
+
+In February 2024 Turley wrote in The Hill about the uproar at [[cbs-news|CBS]] following the firing of investigative reporter [[catherine-herridge|Catherine Herridge]] and the network's seizure of her files, computers and records, including information on privileged sources.[19] He opened by quoting CBS icon [[edward-r-murrow|Edward R. Murrow]] — "Anyone who isn't confused really doesn't understand the situation" — and described trouble brewing at Black Rock, the network's headquarters.[19] Turley reported that the CBS position had alarmed many, including the union, as an attack on free press principles by one of the nation's most esteemed press organizations, and that current and former employees he spoke with confidentially could not recall the company ever taking such a step before, with one describing a "chilling signal" in the ranks.[19] [[ashe-in-america|Ashe in America]] cited his argument that this was the kind of overreach a genuine journalistic organization would fight "to the point of imprisonment."[19]
+
+## Commentary on the Merchan jury instructions
+
+On May 28, 2024, as the jury in the [[trump-hush-money-case|Trump hush money case]] began deliberations, Turley posted a running critique of Judge [[juan-merchan|Juan Merchan]]'s charge to the jury on X.[20] He wrote that "Merchan just delivered the coup de grace instruction," explaining that the judge "said that there is no need to agree on what occurred" and that jurors "can disagree on what the crime was among the three choices," so that a 4-4-4 split would still be treated as unanimous.[20]
+
+Turley separately noted that jurors would not receive written copies of their instructions but could request that portions be read aloud again — an observation that drew the response "This is absolute insanity" from Missouri Attorney General [[andrew-bailey|Andrew Bailey]].[20] Turley also relayed that the jury had sent the court a note mid-afternoon containing four specific requests.[20]
+
+## Advice on the 2024 New York gag order
+
+After Judge [[juan-merchan|Juan Merchan]] issued a gag order in March 2024 barring [[donald-trump|Donald Trump]] from commenting publicly on court staff, jurors, witnesses or prosecutors in the New York "hush money" case, Turley suggested that Trump appeal the order.[21]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -124,3 +138,6 @@ Turley wrote that the DA "is struggling to twist state laws to effectively prose
 16. Badlands Brief — "Donald Trump, Dennis Quaid and Steven Seagal Walk into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-995
 17. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 18. Badlands Brief — "Badlands News Brief: Trump Arrest ... Panic or No Panic?", URL: https://badlands.substack.com/p/badlands-news-brief-9e8
+19. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+20. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+21. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

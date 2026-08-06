@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [documentary, nickelodeon, child-exploitation, hollywood]
-sources: [raw/badlands-news-brief-a57.md]
+sources: [raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ On an April 2024 episode of "Real Time" on HBO, [[bill-maher|Bill Maher]] addres
 
 Badlands writer Burning Bright characterized the moment as "the systematic destruction of the Old Guard" being implemented largely by the Old Guard's own hand, noting that Maher is Hollywood establishment and that Anons and Truthers reserve disdain for a class of "protectors desperately attempting to rebrand themselves as exposers."[1] The commentary argued Maher's public about-face was carefully crafted, timed and planned, and asked whether it represented rats fleeing a sinking ship ahead of the 2024 election or "proxy puppets dancing to the tune of different composers."[1] It attributed part of the cultural turn within the Entertainment Industrial Complex to the momentum [[donald-trump|Donald Trump]] began in 2016 and the America First movement, concluding that "[They] are losing" and are attempting to get ahead of exposures to come — "very slowly ... and then all at once."[1]
 
+## Court records beyond the documentary
+
+Reporting published in late March 2024 found that the abuse problem at [[nickelodeon|Nickelodeon]] was more extensive than the documentary conveyed: court records showed the channel employed or worked with five convicted child molesters plus two others accused of pedophilia, and child safety activists argued it had been "infiltrated" by predators drawn to the access it provided.[2] Two of the offenders, including dialogue coach [[brian-peck|Brian Peck]], were highlighted in the HBO documentary, while Nickelodeon said it had since improved its safeguards.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+2. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [belarus, diplomacy, board-of-peace]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-6a1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-4cf.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-6a1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-b5f.md]
 confidence: medium
 ---
 
@@ -44,9 +44,14 @@ Lukashenko noted that, according to the Belarusian national airline Belavia, US 
 
 Badlands contributor GhostofBasedPatrickHenry argued that the deal had likely been in the works or effectively in place for a long time, reasoning that given Belarus's strategic relationship with [[vladimir-putin|Vladimir Putin]] and [[russia|Russia]], Lukashenko would not consider an agreement with the United States without Putin's encouragement — and that an imminent US-Belarus announcement implies a US-Russia deal is not far behind.[5] He credited the "vodka diplomacy" Lukashenko employed in negotiations with Trump lawyer-turned-envoy John Coale during the summer of 2025, which led to the release of 14 American hostages.[5]
 
+## 2024 Belarus–Ukraine border standoff
+
+In August 2024, Lukashenko said he had deployed nearly one-third of Belarus's armed forces to the border with Ukraine, telling state-run television that the move responded to Kyiv massing troops near its own border with Belarus.[6] Ukraine's foreign ministry rejected that pretext in a statement issued late on Sunday, August 25, warning Belarusian officials "not to make tragic mistakes for their country under Moscow's pressure" and demanding a pullback and a halt to "unfriendly actions."[6] Kyiv cited intelligence reports that Belarus was amassing "a significant number of personnel, including Special Operations Forces, weapons, and military equipment," as well as mercenaries of the former [[wagner-group|Wagner]] private military company, in the Gomel region bordering Ukraine "under the guise of exercises."[6] The ministry emphasized that "Ukraine has never taken and is not going to take any unfriendly actions against the Belarusian people."[6]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "The G7 Laments the G2", URL: https://badlands.substack.com/p/badlands-brief-6a1
 3. Badlands News Brief — "New York Insurrection, A Rapturous Reception, & Lying Tools", URL: https://badlands.substack.com/p/badlands-news-brief-0b0
 4. Badlands Brief — "'X' Marks the Spot & Vineyard Mysteries Abound", URL: https://badlands.substack.com/p/badlands-news-brief-3f8
 5. Badlands Brief — "Badlands News Brief: Price Floors, Curveballs, & Benevolent Discrimination", URL: https://badlands.substack.com/p/badlands-news-brief-4cf
+6. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f

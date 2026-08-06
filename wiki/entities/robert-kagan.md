@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, pnac, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-b86.md]
 confidence: medium
 ---
 
@@ -22,7 +22,14 @@ In May 2026 Kagan published an article in [[the-atlantic|The Atlantic]] entitled
 
 In late October 2024 Kagan, then editor-at-large at [[washington-post|The Washington Post]], resigned in response to owner [[jeff-bezos|Jeff Bezos]]'s decision that the paper would make no presidential endorsement in the 2024 race.[3] Badlands Media noted his departure amid the wider staff revolt over the [[2024-newspaper-non-endorsements|non-endorsement]], again identifying him as the husband of [[victoria-nuland|Victoria Nuland]].[3]
 
+## "A Trump dictatorship is increasingly inevitable" (November 2023)
+
+On November 30, 2023, the [[washington-post|Washington Post]] published a Kagan opinion essay arguing that "there is a clear path to dictatorship in the United States, and it is getting shorter every day."[4] Kagan wrote that [[donald-trump|Donald Trump]] would lock up the Republican nomination within thirteen weeks, citing a RealClearPolitics polling average showing Trump leading his nearest competitor by 47 points and the rest of the field combined by 27 points, and dismissed as nonsense the claim that Trump was unelectable in a general election given his parity with or lead over [[joe-biden|Joe Biden]].[4] He described months of "self-delusion" in which observers hoped [[ron-desantis|Ron DeSantis]], [[nikki-haley|Nikki Haley]] or the indictments against Trump would change the trajectory, likening the country to passengers on a riverboat drifting toward a waterfall.[4]
+
+[[badlands-media|Badlands Media]] writer [[burning-bright|Burning Bright]] argued the piece marked "narrative convergence," with establishment messaging shifting from denial to a combined "Qualify-Distract-Admit" posture that implicitly conceded the inevitability of a Trump victory in 2024.[4]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 3. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
+4. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [litigation, fourteenth-amendment, colorado, ballot-access, supreme-court]
-sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-948.md]
+sources: [raw/badlands-news-brief-378.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b92.md]
 confidence: medium
 ---
 
@@ -40,7 +40,14 @@ On December 6, 2023, the Colorado Supreme Court heard argument on whether former
 
 Ashe outlined four possible dispositions: upholding the district court on both the Fourteenth Amendment and insurrection questions; overturning both; upholding on the amendment while overturning the insurrection finding (her preferred result); or overturning on the amendment while upholding the insurrection finding, which would remove Trump from the ballot.[3] She noted that Olsen had defended Judge Sarah Wallace's civil-court finding that Trump intentionally incited insurrection, a criminal-style determination Ashe considered improper.[3] The ruling was expected early the following week and in any event before the statutory deadline of December 29, 2023, with implications for 22 other Section 3 challenges nationwide and an appeal to the U.S. Supreme Court considered certain regardless of outcome.[3]
 
+## District court ruling (November 2023)
+
+On Friday evening, 17 November 2023, Judge [[sarah-wallace|Sarah Wallace]] issued a 102-page ruling rejecting the use of the amendment to prevent voters from voting for Trump in the 2024 election, holding that "there is scant direct evidence regarding whether the presidency is one of the positions subject to disqualification" and that "'officers of the United States' did not include the President of the United States."[4] Legal commentator [[jonathan-turley|Jonathan Turley]], a longstanding critic of the Section 3 theory, wrote that while Wallace reached the right conclusion she committed fundamental errors in her analysis of the free speech elements of the case, and characterized the suit as a chilling effort by Secretary of State [[jena-griswold|Jena Griswold]] to use her office to prevent voters from casting ballots for a leading presidential candidate.[4] Polling at the time showed Trump and Joe Biden in a statistical dead heat in Colorado, 42 percent to 38 percent, within the margin of error.[4]
+
+[[ashe-in-america|Ashe in America]] argued that the significance of the case lay not in ballot access — which lawyers regarded as settled in Trump's favour absent an attempt by [[jack-smith|Jack Smith]] or [[fani-willis|Fani Willis]] to build upon it — but in [[lawfare|lawfare]], since the first 95 pages of the opinion affirmed the January 6 committee narrative, "the pseudo-science of far right extremism, thought crimes, speech crimes, and the Fourteenth Amendment being superior to the First."[4] Because the outcome was technically a win, she expected no appeal, while hoping that a motion to intervene filed by [[treniss-evans|Treniss Evans]] might be granted if the petitioners did appeal.[4] She also noted the timing of the [[january-6-capitol-security-footage-release|release of January 6 Capitol security footage]] hours before the ruling, arguing the videos directly undercut the court's insurrection conclusions.[4]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 2. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 3. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948

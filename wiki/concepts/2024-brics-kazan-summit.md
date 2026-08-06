@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [brics, multipolarity, de-dollarization, russia, diplomacy]
-sources: [raw/badlands-news-brief-27c.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-bb3.md]
 confidence: medium
 ---
 
@@ -28,5 +28,12 @@ Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] was notably absen
 
 A second Badlands take, from [[burning-bright|Burning Bright]], argued the summit was "dripping with signal" and represented rapid narrative progression en route to "Trump the Peacemaker."[1] In this reading Putin, Xi and [[donald-trump|Donald Trump]] are the principal market-movers both in the realm of the real and in the psychological theater of the Info War; by calling the Western world a "hegemony" and poking at "New World Order" framing, the "New Axis" of Russia and China lets Info Warriors treat them either as Alpha Chads of the [[sovereign-alliance|Sovereign Alliance]] or as necessary villains for the current arc.[1] "Two legs of the tripod are in place," the commentary concluded, awaiting the third.[1]
 
+## India-China thaw on the sidelines
+
+Shortly before [[narendra-modi|Narendra Modi]] and [[xi-jinping|Xi Jinping]] were due to arrive in Kazan for the summit hosted by [[vladimir-putin|Vladimir Putin]], India announced an agreement with China on patrolling arrangements along the Line of Actual Control, easing the [[india-china-border-dispute|India-China border dispute]] four years after deadly clashes.[2] Indian Foreign Secretary [[vikram-misri|Vikram Misri]] said weeks of diplomatic and military contacts had produced "disengagement and a resolution of the issues that had arisen in these areas in 2020," while Chinese Foreign Ministry spokesman [[lin-jian|Lin Jian]] confirmed the two sides had "reached a solution."[2] Speculation had mounted that the two leaders would use the Kazan sidelines to discuss normalizing relations.[2]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] presented the timing as evidence that the [[brics|BRICS]]-centered "Sovereign Alliance" was establishing itself as the champion of peace and prosperity while the West declined, expressing envy at not being in Kazan planning "The Future."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
+2. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3

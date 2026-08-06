@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, antitrust, us-government]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ The commission's structural independence came before the [[supreme-court-of-the-
 
 Badlands contributor [[chris-paul|Chris Paul]] argued that an independent agency inside the Executive Branch would be extraconstitutional, and that the President must hold plenary authority over every executive officer.[4]
 
+## Workshop on pediatric gender medicine (July 2025)
+
+On July 9, 2025 the commission held a Washington, D.C. workshop titled "Dangers of 'Gender-Affirming Care' For Minors," convened the same day the [[department-of-justice|Department of Justice]] announced more than twenty subpoenas to doctors and clinics suspected of performing transgender medical procedures on children.[5] The pairing signaled a coordinated executive-branch push, with DOJ chief of staff [[chad-mizelle|Chad Mizelle]] saying the administration was also drafting legislation with Congress.[5] See [[doj-subpoenas-of-pediatric-gender-clinics|DOJ subpoenas of pediatric gender clinics]].[5]
+
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
 3. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 4. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+5. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

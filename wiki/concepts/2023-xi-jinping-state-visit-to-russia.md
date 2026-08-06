@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, russia, ukraine, diplomacy, multipolar, 2023]
-sources: [raw/badlands-news-brief-3c1.md]
+sources: [raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-b64.md]
 confidence: medium
 ---
 
@@ -22,5 +22,13 @@ After the Tuesday meeting there appeared to be no sign of a diplomatic breakthro
 
 Badlands commentator [[burning-bright|Burning Bright]] criticized "either-or" rhetoric within a community that prides itself on heterodox thought, arguing that theories often treated as incongruent are in fact complementary.[1] He held that the "peacemaker" moves by Xi and Putin on the world stage lent more credence to the [[devolution|Devolution]]/Continuity of Government theory, writing that [[donald-trump|Trump]] "never left" and had been "silent-running while necessary objectives are forwarded" — objectives he cautioned should not be assumed to be exclusively domestic.[1]
 
+## Departure from Moscow and the "New World Order" Exchange
+
+As [[xi-jinping|Xi Jinping]] left Moscow on Wednesday, March 22, 2023, he and [[vladimir-putin|Vladimir Putin]] set their sights on shaping a new world order, having concluded a two-day visit during which Xi offered no direct support for Putin's war in Ukraine.[2] Xi made a strong show of solidarity with Putin against the West but barely mentioned the Ukraine conflict, stating on the Tuesday that China held an "impartial position"; there was no sign that his efforts to act as peacemaker had produced results.[2] On departing, Xi told Putin, "Now there are changes that haven't happened in 100 years. When we are together, we drive these changes," to which Putin replied, "I agree," and Xi answered, "Take care of yourself dear friend, please."[2]
+
+The [[white-house|White House]] responded that China's position was not impartial and urged Beijing to pressure Russia into withdrawing from Ukraine's sovereign territory in order to end Europe's largest conflict since the Second World War.[2] Badlands commentator [[burning-bright|Burning Bright]] read the summit as Russia and China forcefully moving the world toward a vision of peace and prosperity, predicting that opposition from the United States and the globalist West would drive states such as Saudi Arabia, Egypt and Turkey further into the [[brics|BRICS]] bloc, and that [[donald-trump|Donald Trump]] would return to power by codifying that mandate and alliance.[2]
+
+
 ## References
 1. Badlands Media — "Badlands News Brief: Witch Hunt, Woke's Fall & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-3c1
+2. Badlands Brief — "Badlands News Brief: Bragg's Panic, Trump's Calm & China's Proposal", URL: https://badlands.substack.com/p/badlands-news-brief-b64

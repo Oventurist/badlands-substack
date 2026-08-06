@@ -1,7 +1,0 @@
-## Warning of "war in the streets" (June 2024)
-
-Following the conviction of [[donald-trump|Donald Trump]] in May 2024, Paul warned that the fallout of the weaponization of the justice system could lead to "war in the streets."[6] Appearing on Fox Business and asked for his reaction to the conviction, he called it "a sad day in America" and said that what worried him was "something even bigger than Donald Trump."[6]
-
-"I worry about strife. I worry about war in the streets. I worry about 50 percent of the public believing that the court system will be used against them," Paul said, adding: "I worry when half the country thinks they won't be treated fairly, what happens and how people react."[6] He contrasted the case with the treatment of [[hillary-clinton|Hillary Clinton]] over her email server, noting that on an $8 million expense "they slapped her on the wrist cause she got an $8 thousand fine."[6] Paul further suggested that Trump was "the only person ever prosecuted for this particular crime," observing that there are probably thousands of records violations in New York that never reach court.[6]
-
-Badlands contributor [[ashe-in-america|Ashe in America]] respectfully dissented, writing that she was not concerned about war in the streets from regular Americans, who were instead advocating for and donating to Trump.[6]

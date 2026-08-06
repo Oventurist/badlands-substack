@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [watchdog, foia, litigation, clinton-administration]
-sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md]
+sources: [raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/badlands-brief-a20.md, raw/badlands-brief-abf.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -77,3 +77,15 @@ Judicial Watch said it was pursuing the next steps in preparation for litigation
 9. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 10. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 11. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
+
+## Oregon voter roll lawsuit (2024–2025)
+
+In June 2025 Judicial Watch announced that the U.S. [[department-of-justice|Department of Justice]] had filed a statement of interest supporting its federal lawsuit against Oregon's secretary of state over failures to clean up the state's voter rolls in accordance with federal law.[12] Filed in October 2024, the suit argues Oregon violated Section 8 of the [[national-voter-registration-act|National Voter Registration Act]] by failing to make a "reasonable effort" to remove ineligible voters, alleging that 29 of Oregon's 36 counties removed few or no registrations, that 35 counties reported registration rates over 100%, and that Oregon has the nation's highest known rate of inactive voter registrations.[12] U.S. District Court Judge [[michael-j-mcshane|Michael J. McShane]] scheduled a hearing for June 18, 2025, in Eugene.[12] See [[judicial-watch-v-oregon-voter-roll-maintenance-lawsuit|Judicial Watch v. Oregon voter roll maintenance lawsuit]].[12]
+
+12. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+
+## Illinois voter roll case (2025)
+
+On July 8, 2025 the [[department-of-justice|Justice Department]] filed a statement of interest backing Judicial Watch in [[judicial-watch-v-illinois-state-board-of-elections|Judicial Watch v. Illinois State Board of Elections]], reinforcing that states must take "reasonable efforts" under the [[national-voter-registration-act|National Voter Registration Act]] to remove ineligible voters and maintain transparent rolls.[13] Assistant Attorney General [[harmeet-dhillon|Harmeet K. Dhillon]] said the Department would vigorously enforce those list maintenance requirements.[13] [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] urged that courts retain jurisdiction to enforce any settlement, citing the group's earlier Colorado NVRA settlement in JW v. Griswold.[13]
+
+13. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

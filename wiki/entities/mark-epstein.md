@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, records, transparency, new-york]
-sources: [raw/badlands-news-brief-175.md, raw/badlands-news-brief-8cb.md]
+sources: [raw/badlands-news-brief-175.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ He stated that the autopsy showed his brother had been dead for at least two hou
 
 The interview aired as unsealed court documents naming [[jeffrey-epstein|Jeffrey Epstein]]'s associates — including former President [[bill-clinton|Bill Clinton]] — dominated national coverage, and [[zerohedge|ZeroHedge]] observed that the "eliteness" of that list meant many people stood to benefit from Epstein's perpetual silence.[2] [[ashe-in-america|Ashe in America]] wrote that the account was a valuable first-hand refresher on the case and quoted Carlson's remark that "anyone who could murder someone in a federal detention facility obviously has a lot of power," adding that while she was not confident the full truth would emerge, she was not blackpilled — Clinton's presence on Epstein's plane had once been dismissed as conspiracy theory and was now accepted fact.[2]
 
+## Reaction to the 2025 FBI memo
+
+In July 2025, Mark Epstein, then 70, publicly ridiculed a federal memo stating that no additional evidence in the case would be released and that his brother's death in federal custody had indeed been a suicide, calling the [[fbi|FBI]]'s reasoning "stupid."[3] He said that when he pressed New York officials for answers they would not even provide him with the 911 call reporting the death at the Manhattan federal jail, that his brother had been looking forward to a bail hearing at the time, and that the autopsy findings were inconsistent with suicide.[3] [[badlands-media|Badlands Media]] contributor [[jordan-sather|Jordan Sather]] framed the renewed media focus as an inversion of [[donald-trump|Trump]]'s advice to stop talking about [[jeffrey-epstein|Epstein]], arguing the coverage was "chess, not checkers."[3]
+
 ## References
 
 1. Badlands Brief — "Hamas Chief Killed & Ukraine Propaganda Drilled", URL: https://badlands.substack.com/p/badlands-news-brief-175
 2. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
+3. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

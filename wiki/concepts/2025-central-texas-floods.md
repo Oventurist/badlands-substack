@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [texas, flooding, disaster, weather-modification, emergency-management]
-sources: [raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-news-brief-95a.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -34,6 +34,13 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that the devastat
 
 The disaster generated a secondary controversy when [[sade-perkins|Sade Perkins]], a former Houston city board appointee, posted a viral TikTok video characterizing Camp Mystic as "White-only, conservative [and] Christian."[1]
 
+## Casualties, warnings, and the cloud-seeding controversy
+
+Flash floods swept across central Texas on Friday, July 4, 2025, killing more than 80 people with many still missing, as the Guadalupe River surged by more than 20 to 26 feet within 90 minutes and forced mass evacuations.[2] The [[national-weather-service|National Weather Service]] activated flood warnings across Texas expected to last at least into the following Monday morning; by NWS data, flooding is the second-deadliest weather hazard in the United States after extreme heat.[2]
+
+[[rainmaker-technology-corporation|Rainmaker]] chief executive [[augustus-doricko|Augustus Doricko]] publicly stated that his cloud-seeding company "unequivocally had nothing to do with the flooding."[2] [[badlands-media|Badlands Media]] contributors were unpersuaded: [[canncon|CannCon]] mocked Doricko's football analogy about moving forward after 109 deaths, and [[ashe-in-america|Ashe in America]] jabbed at establishment critics who "were against man made climate change before they were for man made climate change" when [[weather-modification|weather modification]] entered the conversation.[2]
+
 ## References
 
 1. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+2. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

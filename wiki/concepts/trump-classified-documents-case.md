@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, trump, classified-documents, presidential-immunity, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -68,6 +68,10 @@ On December 4, 2023, Judge [[aileen-cannon|Aileen Cannon]] denied special counse
 
 On Thursday, May 2, 2024, [[donald-trump|Donald Trump]] filed a motion to dismiss the Florida classified documents indictment on the grounds of "selective and vindictive prosecution."[9] The filing followed an earlier attempt by his legal team to throw out the case under the [[presidential-records-act|Presidential Records Act]], which Judge [[aileen-cannon|Aileen Cannon]] had rejected on April 4, 2024.[9] The new motion cited special counsel [[robert-hur|Robert Hur]]'s February 2024 report, in which Hur wrote that "with one exception, there is no record of the Department of Justice prosecuting a former president or vice president for mishandling classified documents from his own administration."[9] The motion argued that "the exception is President Trump," that the basis was "his politics and status as President Biden's chief political rival," and that further discovery and a hearing were necessary before the superseding indictment was dismissed.[9]
 
+## July 2023 scheduling hearing
+
+At a hearing in Fort Pierce, Florida on July 18, 2023, Judge [[aileen-cannon|Aileen Cannon]] signaled that December 2023 might be too soon to begin the trial, while declining to rule on the defense request for an indefinite postponement until after the 2024 election.[10] She said a written order would follow "promptly."[10] Badlands contributor [[burning-bright|Burning Bright]] argued that each indictment, lawsuit and smear campaign was strengthening [[donald-trump|Donald Trump]]'s standing as the anti-establishment candidate and that public legal and narrative battles of this kind were a necessary feature of a period of disclosure.[10]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
@@ -78,3 +82,4 @@ On Thursday, May 2, 2024, [[donald-trump|Donald Trump]] filed a motion to dismis
 7. Badlands Brief — "Badlands News Brief: The Trump Train Rolls on ... Fake MAGA Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-89f
 8. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 9. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
+10. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [citizenship, fourteenth-amendment, immigration, scotus, constitutional-law]
-sources: [raw/badlands-brief-686.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-brief-686.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-2d5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-ba8.md]
 confidence: medium
 ---
 
@@ -64,5 +64,10 @@ On May 30, 2023, [[donald-trump|Donald Trump]] released a campaign video renewin
 The conservative outlet Red State criticised the pledge, arguing that American citizenship is a constitutional question rooted in the Fourteenth Amendment and therefore outside the president's unilateral authority, and that the children in question would themselves become tax-paying citizens with rights; its columnist quipped that Trump was running on "Making Americans Not Americans, Again."[6]
 
 Badlands contributor [[johnny-q|Johnny Q]] disputed that framing, writing that Trump was identifying a longstanding problem of people entering the country to give birth and then drawing on public benefits, and that comparisons to Dred Scott and slavery were inapt.[6] He asked what became of citizens' unalienable rights and why Americans must "take a back seat constantly in the name of woke excuses," agreed that immigration reform should create a clear legal path for people who want to work and pay taxes, and argued that Ronald Reagan, George H. W. Bush and Bill Clinton had all been quiet proponents of illegal immigration because it benefited entrenched government interests.[6]
+## First wave of litigation (January 2025)
+
+The legal backlash to [[donald-trump|Donald Trump]]'s second term began immediately with challenges to his day-one decision to overhaul birthright citizenship.[8] Late on Monday, January 20, 2025, organisations including the [[american-civil-liberties-union|American Civil Liberties Union]] and the [[legal-defense-fund|Legal Defense Fund]] filed a lawsuit calling Trump's action unconstitutional, in a case widely expected to test the limits of his executive power.[8] Beyond the birthright citizenship suit, Trump faced challenges to other day-one executive orders, including a [[national-treasury-employees-union|National Treasury Employees Union]] action against his order easing the dismissal of career federal employees, and he was expected to face a flurry of further legal actions in the following weeks.[8] Badlands writer [[ashe-in-america|Ashe in America]] noted that initial reporting had placed the number of states joining the birthright challenge at seventeen but that it had since risen to twenty-two, predicting a long and drawn-out conflict.[8]
+
 6. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c
 7. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+8. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8

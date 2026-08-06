@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, election-integrity, arizona, republican-party]
-sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a89.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/badlands-brief-144.md, raw/badlands-brief-323.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-b68.md]
 confidence: low
 ---
 
@@ -52,6 +52,10 @@ As assistant attorney general for civil rights in the [[department-of-justice|Ju
 
 As former Republican National Committee for California chairwoman, Dhillon posted online the January 3, 2024 order by U.S. District Judge [[david-carter|David O. Carter]] dismissing with prejudice the [[california-ballot-disqualification-case|California lawsuit]] seeking to keep [[donald-trump|Donald Trump]] off the state's primary ballot.[10] "The remnants of the last California case to keep President Trump off the ballot here were dismissed today by Judge David O. Carter!!" she wrote on X.[10]
 
+## Illinois voter roll statement of interest
+
+In July 2025 Dhillon, as Assistant Attorney General for the Civil Rights Division, was the public face of the [[department-of-justice|Justice Department]]'s statement of interest in [[judicial-watch-v-illinois-state-board-of-elections|Judicial Watch v. Illinois State Board of Elections]].[11] "It is critical to remove ineligible voters from the registration rolls so that elections are conducted fairly, accurately, and without fraud," she said, adding that under the [[national-voter-registration-act|National Voter Registration Act]] states have the responsibility to conduct a robust list maintenance program and that the Department would vigorously enforce those requirements.[11]
+
 ## References
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
 2. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -63,3 +67,4 @@ As former Republican National Committee for California chairwoman, Dhillon poste
 8. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 9. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 10. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
+11. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

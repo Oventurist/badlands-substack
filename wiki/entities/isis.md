@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [isis, syria, terrorism, weapons, libya, lobbying]
-sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md]
+sources: [raw/a-dereliction-of-duty.md, raw/a-conflict-of-interest.md, raw/assad-day-in-damascus.md, raw/badlands-brief-509.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b40.md]
 confidence: medium
 ---
 
@@ -124,6 +124,14 @@ Badlands commentary alleged that ISIS had originally been formed by Senator [[jo
 
 Following the June 2024 coordinated attacks on churches, synagogues and police posts in [[dagestan|Dagestan]], Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that ISIS had "suddenly decided to make its dramatic return," killing 20 people and injuring 25 on the same day he said the [[state-department|State Department]] was responsible for cluster munitions striking families on a beach.[16] He described ISIS as a mercenary group created by Secretary of State [[hillary-clinton|Hillary Clinton]] under President [[barack-obama|Barack Obama]] and completely destroyed in a joint effort by [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]] in 2019, arguing that any re-emerged cell must be connected to the former administration or the [[cia|CIA]].[16]
 
+## Border smuggling reports and the mercenary thesis (June 2024)
+
+On the eve of the first 2024 presidential debate, a media firestorm erupted over reports that 400 migrants had crossed the U.S.–Mexico border with the aid of a human smuggling network linked to ISIS, with [[cnn|CNN]] and NBC both citing anonymous U.S. officials.[17] The story landed as immigration was set to dominate the debate between [[joe-biden|Joe Biden]] and [[donald-trump|Donald Trump]].[17]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the item to restate the Badlands position that ISIS "is not a 'radical Islamic terrorist' organization."[17] He reported having personally interviewed two veterans who served on High-Value Target teams, one in Afghanistan and one in Iraq, and said that in ten years of raiding ISIS safe houses to extract terrorist leaders neither had ever found a Quran or any Islamic prayer materials, nor any evidence that a Muslim lived at those locations.[17] What they did find, he wrote, was an abundance of western pornography, video game consoles, DVDs and other contraband that would be extremely difficult to acquire in remote parts of the Middle East without friends in the West.[17]
+
+He further cited [[vladimir-putin|Vladimir Putin]]'s repeated statements that ISIS fighters are highly paid mercenaries rather than religious zealots, matching the veterans' account that recruiters find "the degenerate losers in any village" and offer them U.S. cash.[17] The take folded the smuggling reports into a broader claim that the [[state-department|State Department]] — the Brief's deliberate substitute for the [[central-intelligence-agency|CIA]] — had waged kinetic war abroad for years and now appeared prepared to do so on U.S. soil.[17]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
@@ -141,3 +149,4 @@ Following the June 2024 coordinated attacks on churches, synagogues and police p
 14. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 15. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 16. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+17. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40

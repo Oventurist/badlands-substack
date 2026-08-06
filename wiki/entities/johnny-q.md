@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, commentator]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -46,6 +46,12 @@ In June 2023, Johnny Q argued that the surefire way for people to protest is wit
 
 He characterized woke indoctrination, political polarization and virtue signaling as beginning to fail, describing the phenomenon as "cancel culture cancels itself" and as the most effective tool against itself — in his framing the best way to defeat Marxism and a sign of a collective awakening.[9] He urged readers not to forget the power of boycotting and to relearn its use in what he called the information war of Good versus Evil.[9]
 
+## June 2023 commentary
+
+In the June 9, 2023 Badlands News Brief, Johnny Q wrote two of the edition's "Our Take" segments.[10] On Governor [[gavin-newsom|Gavin Newsom]]'s proposed [[28th-amendment-proposal|28th Amendment]], he argued the measure was a precursor to an executive-ordered gun confiscation should Newsom reach the White House in 2028, that an amendment written to suppress the [[second-amendment|Second Amendment]] amounted to "the communist elimination of the guaranteed rights of all Americans," and that California's gun violence stems from armed robberies, gangs, and the illegal gun trade rather than law-abiding gun shops.[10] He faulted failed background checks, federal ineptitude, and poor state-federal communication for allowing prohibited or mentally ill purchasers through, and criticized state justice departments for keeping inaccurate records while red-flagging law-abiding citizens.[10] He closed with the line: "Welcome to America, Gavin, where we will not take a knee to tyrannical authoritarianism."[10]
+
+On the California Legislature's Pride Month honor for the drag performer and adult film director [[sister-roma|Sister Roma]], invited by state senator [[scott-wiener|Scott Wiener]], Johnny Q questioned what an adult film director does for the community and argued the recognition left genuinely charitable people unrecognized.[10] He cited the Los Angeles Dodgers Pride Night backlash as evidence that drag-nun figures had provoked broad opposition among celebrities, players, and fans.[10] Describing California as "in full decline" — businesses leaving, lawlessness rampant, homelessness everywhere, crumbling infrastructure, drugs, and collapsed education standards under a Democratic super-majority — he nonetheless saw hope in growing public resistance, beginning with COVID mandates on children and continuing over what he called the hypersexualization of children.[10]
+
 ## References
 
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
@@ -57,3 +63,4 @@ He characterized woke indoctrination, political polarization and virtue signalin
 7. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 8. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 9. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+10. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

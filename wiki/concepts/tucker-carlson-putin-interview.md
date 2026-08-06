@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, russia, ukraine, interview, information-war]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a66.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-b9c.md]
 confidence: medium
 ---
 
@@ -32,8 +32,19 @@ Carlson argued the war had "utterly reshaped the global military and trade allia
 
 Badlands writer [[ashe-in-america|Ashe in America]] called the endeavor "genius" and a signal of a new phase of "Con, Inc" disclosures, noting that many figures who stayed Trump-loyal during the primary were now alarmed at Americans hearing from Russians firsthand because the interview threatened the resources invested in the Russia narrative.[3] She singled out [[sebastian-gorka|Sebastian Gorka]], who tweeted, "I remember when Americans didn't do PR for KGB colonels. Well, without being agents of the Kremlin," and asked why a self-described conservative would not want Americans to hear the Russian side, concluding that authoritarians always justify censorship as being "for your safety."[3]
 
+## European sanctions threat
+
+Carlson's visit to Russia, and his announcement on Tuesday, February 6, 2024 that he would "soon" be releasing the interview, prompted current and former members of the [[european-parliament|European Parliament]] to suggest he could be targeted by [[european-union|European Union]] lawmakers.[4] [[guy-verhofstadt|Guy Verhofstadt]], a former Belgian prime minister and sitting MEP, told [[newsweek|Newsweek]] that Carlson's work in Russia could put the former [[fox-news|Fox News]] host "in hot water" with the EU, called for the bloc to explore a "travel ban" on him, and described him as "a mouthpiece" of [[donald-trump|Donald Trump]] and Putin.[4] Verhofstadt added: "As Putin is a war criminal and the EU sanctions all who assist him in that effort, it seems logical that the External Action Service examine his case as well."[4]
+
+## Effect on X
+
+Anticipation of the interview — released exclusively on [[x-corp|X]] and Carlson's own website — drove a surge of downloads of [[elon-musk|Elon Musk]]'s platform among iPhone and iPad users on Apple's App Store, with X becoming the number one free app there ahead of ChatGPT, [[threads|Threads]], and TikTok.[4] ZeroHedge reported that the prospect of the interview had already caused a stir among neoconservatives and the legacy outlets it described as overseeing the censorship-industrial complex.[4]
+
+[[burning-bright|Burning Bright]] read the download surge as the Truth Community's message reaching mainstream audiences, writing "Welcome to the show, Normieville."[4] He argued that many Anons who followed the Q operation had long anticipated a partnership between Trump, Putin, [[xi-jinping|Xi Jinping]] and [[mohammed-bin-salman|Mohammed bin Salman]] against a globalist cabal — a grouping he calls the [[sovereign-alliance|Sovereign Alliance]] — and that direct-path Info Warriors capable of traversing narrative layers and front-running the [[overton-window|Overton Window]] would serve as the informational and psychological support for newly arriving normies.[4]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 2. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 3. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66
+4. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c

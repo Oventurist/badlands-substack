@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [argentina, milei, israel]
-sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-713.md]
+sources: [raw/badlands-brief-1c6.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-b92.md]
 confidence: medium
 ---
 
@@ -41,6 +41,12 @@ In the [[argentina-2025-legislative-elections|legislative elections of October 2
 
 In December 2024 Milei unveiled the [[argentine-nuclear-plan|Argentine Nuclear Plan]], a programme intended to make [[argentina|Argentina]] a global energy powerhouse by building [[small-modular-reactor|Small Modular Reactors]] to power commercial sectors and other large-scale operations.[7] "After years of stagnation, nuclear energy is making a powerful comeback, and we are determined to lead, not follow," he declared, citing Argentina's natural resources, skilled workforce and Patagonia's cold climate as ideal for energy-intensive technologies such as AI, and calling nuclear "the only source that is sufficiently efficient, abundant and rapidly scalable to cope with the development of our civilization."[7] Badlands commentator [[burning-bright|Burning Bright]] noted that opinion on Milei varies within the truth community, but that by the public narrative he had shrunk the federal government while increasing GDP and eliminating a large deficit — mirroring promises [[donald-trump|Donald Trump]] made for his second term.[7]
 
+## 2023 presidential victory
+
+Milei won Argentina's presidential election in provisional results announced on 19 November 2023, wrenching the country to the right with a bombastic anti-establishment campaign that drew comparisons to that of former U.S. president [[donald-trump|Donald Trump]], all against the backdrop of one of the world's highest inflation rates.[8] His rival [[sergio-massa|Sergio Massa]] conceded the run-off on Sunday evening in a brief speech even before official results were announced, saying "Milei is the president elected for the next 4 years" and confirming he had already called to congratulate him.[8] Provisional results showed Milei with over 55 percent of the vote — 13,781,154 ballots — with more than 94 percent counted, according to the National Electoral Chamber, which had not yet declared an official winner.[8]
+
+The victory marked an extraordinary rise for the former television pundit, who entered the race as a political outsider promising to "break up with the status quo" exemplified by Massa.[8] His campaign pledge to dollarize Argentina, if enacted, was expected to thrust the country into new territory, since no country of Argentina's size had previously turned over the reins of its own monetary policy to Washington decisionmakers.[8] Badlands writer [[ashe-in-america|Ashe in America]], recalling that Milei had stunned the world in August by taking the majority of primary votes as a third-party candidate, predicted that his connections with Russia would be immediately investigated and that fabricated scandals would follow, described his plan for government as "a Libertarian fever dream and a Hail Mary to save his nation," and asked whether the world would discover that "the Argentine Paradox was a feature, not a bug."[8] See [[2023-argentine-general-election|2023 Argentine general election]].[8]
+
 ## References
 1. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 2. Badlands Brief — "Devolucion, Sedition, Somalis, and Patagonia Pyros", URL: https://badlands.substack.com/p/badlands-brief-d17
@@ -49,3 +55,4 @@ In December 2024 Milei unveiled the [[argentine-nuclear-plan|Argentine Nuclear P
 5. Badlands Brief — "Climbing Confidence, a Congolese Crisis, & Uncorroborated KGB Claims", URL: https://badlands.substack.com/p/badlands-news-brief-457
 6. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 7. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
+8. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92

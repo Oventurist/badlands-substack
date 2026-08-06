@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, russia, energy, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md]
 confidence: medium
 ---
 
@@ -66,6 +66,13 @@ At a press briefing on Tuesday, October 7, 2025, Security Minister [[mahamadou-s
 
 A Russian delegation led by Deputy Defence Minister [[yunus-bek-yevkurov|Yunus-Bek Yevkurov]] travelled to Burkina Faso in late August 2023 to meet the country's military leader, [[ibrahim-traore|Ibrahim Traoré]], and discuss possible military cooperation, the Burkinabè presidency announced.[8] According to Ouagadougou, the meeting followed talks between Traoré and Russian President [[vladimir-putin|Vladimir Putin]] on the sidelines of the Russia-Africa summit in St. Petersburg in July 2023, and addressed "areas of cooperation that mainly concern the military sphere, including the training of Burkinabe cadet officers and officers at all levels, including pilots in Russia."[8] Ties with Moscow had deepened since the September 2022 coup that brought Traoré to power against Lieutenant Colonel [[paul-henri-sandaogo-damiba|Paul-Henri Sandaogo Damiba]], who had himself ousted President Roch Marc Christian Kaboré in January of that year.[8] [[ashe-in-america|Ashe in America]] framed the visit as part of a Russian sweep through the Sahel — Bamako, then Ouagadougou, then Bangui in the [[central-african-republic|Central African Republic]] — as Western credibility in West Africa eroded.[8]
 
+
+## Grounding of a Nigerian Air Force C-130 (December 2025)
+
+In December 2025, Burkina Faso's military government grounded a [[nigeria|Nigerian]] Air Force C-130 carrying 11 military personnel, prompting the [[alliance-of-sahel-states|Alliance of Sahel States]] to place its defenses on maximum alert.[9] The move came a day after the Nigerian Army carried out operations to help foil a coup in neighboring [[benin|Benin]].[9] Authorities said the aircraft was forced to land "following an in-flight emergency situation" at Bobo-Dioulasso in southwestern Burkina Faso, roughly 910km (565 miles) from Cotonou, Benin's economic capital, and that an investigation "revealed the absence of authorization for the overflight of Burkinabe territory by this military aircraft."[9]
+
+The AES condemned the "unfriendly act" as a "disregard of international law" and a violation of member-state sovereignty, and said it had placed its air defense systems on maximum alert, authorized to "neutralize any aircraft that violates the confederal airspace."[9] [[ecowas|ECOWAS]] and Nigeria said the plane had been bound for Portugal and had strayed unintentionally; Ibrahima Maiga, a close ally of President Captain [[ibrahim-traore|Ibrahim Traoré]], questioned the flight path and asserted the aircraft had switched off its transponder, while reminding the public that any dispute lay between the leaderships and not the peoples of the respective nations.[9]
+
 ## References
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
@@ -75,3 +82,5 @@ A Russian delegation led by Deputy Defence Minister [[yunus-bek-yevkurov|Yunus-B
 6. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 7. Badlands News Brief — "The Palisades Patsy, A Gazan Golden Age, & African Espionage", URL: https://badlands.substack.com/p/badlands-news-brief-42c
 8. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+9. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

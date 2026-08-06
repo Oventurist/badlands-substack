@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, congo, corruption, m23]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-26f.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-b53.md]
 confidence: medium
 ---
 
@@ -24,6 +24,14 @@ Kabila was said to have returned to Goma, the city seized by the rebels in Janua
 
 Badlands commentary framed the seizure as part of an arc beginning with Executive Order 13818 of December 20, 2017, which froze the assets of Israeli mining oligarch [[dan-gertler|Dan Gertler]] over his exploitation of the DRC, including the use of child slavery.[2] Contributor GhostofBasedPatrickHenry described Kabila as the man Gertler bribed to secure his monopoly over DRC mineral rights, and speculated that pressure applied to three American mercenaries repatriated by the DRC to the Trump administration might ultimately implicate Gertler and former Mossad director [[yossi-cohen|Yossi Cohen]] as well.[2] The seizure coincided with the U.S.-brokered [[drc-rwanda-declaration-of-principles|DRC–Rwanda Declaration of Principles]].[2]
 
+## Death sentence for treason (September 2025)
+
+On Tuesday, September 30, 2025, a military court in Congo convicted Kabila of treason and other charges and sentenced him to death.[3] Kabila, who had been on trial in absentia since July and whose whereabouts were unknown, was accused of treason, involvement in an insurrection movement, conspiracy, and supporting terrorism; the prosecutor asked for the death penalty.[3] The government said he had collaborated with [[rwanda|Rwanda]] and the [[m23|M23]] rebel group that seized key cities in eastern Congo in a lightning January assault and has since occupied them, allegations Kabila denied.[3] In May the country's Senate had voted to repeal his immunity from prosecution, a move Kabila denounced at the time as dictatorial; he had lived outside Congo in self-imposed exile but returned in April to Goma, one of the rebel-held cities, and it is not known whether he stayed there.[3]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the verdict as bringing a saga full circle that he had tracked since May 2024.[3] In his account, Kabila became president of the DRC in 2001 when his father was assassinated and remained in office until 2018, leaving only after he was effectively forced to withdraw from an election once the Panama Papers leak revealed that he had granted Israeli diamond magnate [[dan-gertler|Dan Gertler]] a monopoly over the DRC's rare earth minerals — estimated to be worth over $24 trillion — after Gertler paid him more than $280 million.[3] Gertler and his associates then engaged in human trafficking to staff his mines with children until he was targeted by Executive Order 13818 in December 2017.[3] The commentary concludes that Kabila not only deprived his countrymen of billions in unrealized wealth but perpetuated a system of child slavery dating to the colonial era of King Leopold's Belgian Congo, and that he is guilty of treason among other things.[3]
+
 ## References
+
 1. Badlands Brief — "African Acceleration, Powell's Replacement, & MEGA Democracy", URL: https://badlands.substack.com/p/badlands-brief-1ce
 2. Badlands Brief — "Badlands News Brief: Boozing & Brunching While Rome Burns", raw/badlands-news-brief-26f.md
+3. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53

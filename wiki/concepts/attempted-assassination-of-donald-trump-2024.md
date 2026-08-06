@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, assassination, deep-state, secret-service, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -76,7 +76,12 @@ Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]], who rejected call
 
 Badlands commentary paired the security story with [[joe-biden|Joe Biden]]'s abrupt COVID-19 cancellation the same week, framing both as facets of a single effort to strip Americans of political choice, and describing 2024 as a year in which all major narratives — the Trump prosecutions, the Biden panic, the "Shot Heard Around the World," and the attempts at a "Change of Batter" — were converging.[6] Axios also reported that the assassination attempt appeared to have advanced [[benjamin-netanyahu|Benjamin Netanyahu]]'s long effort to repair relations with [[donald-trump|Donald Trump]].[6]
 
+## Accountability one year later
+
+Nearly a year after the shooting, in July 2025, the [[united-states-secret-service|Secret Service]] suspended six staffers without pay or benefits over the failures of that day.[7] Contemporary accounts recapped the event: on July 13, 2024, Trump, then the frontrunner for the Republican presidential nomination, was speaking at a rally in Butler, Pennsylvania when a 20-year-old gunman opened fire; a bullet grazed his ear, agents shielded him with their bodies, and as he was swept away he raised his fist and mouthed "Fight, fight, fight."[7] The gunman, [[thomas-matthew-crooks|Thomas Matthew Crooks]], killed one person and injured two others before a Secret Service sniper fatally shot him.[7] Deputy Director [[matt-quinn|Matt Quinn]] conceded the attempt was an "operational failure" for which the agency was "totally accountable."[7]
+
 ## References
+
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
 3. Badlands Brief — "Badlands News Brief: Change of Batter, Indeed …", URL: https://badlands.substack.com/p/badlands-news-brief-42e

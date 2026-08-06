@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nord-stream, sabotage, russia, china, energy, geopolitics]
-sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac8.md]
+sources: [raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-420.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b9c.md]
 confidence: medium
 ---
 
@@ -98,7 +98,22 @@ In October 2024, Russian Foreign Ministry spokeswoman [[maria-zakharova|Maria Za
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] linked the Kremlin's Nord Stream claim to reports the previous day alleging US and UK backing of efforts by neo-Nazi terrorists in Ukraine to blow up infrastructure at the Kursk nuclear power plant, asking readers whether they were "starting to see a pattern."[12] His conclusion was that the [[state-department|State Department]] is "the largest and most sophisticated terrorist organization in the world," and that the world despises the US government at least as much as Americans do because it has habitually destroyed foreign neighborhoods, enslaved children and overthrown governments.[12]
 
+## Polish arrest of Volodymyr Z. (September 2025)
+
+On Tuesday, September 30, 2025, Poland detained a Ukrainian man identified as Volodymyr Z. over alleged involvement in the 2022 explosions, following a European Arrest Warrant issued by a German court.[13] Volodymyr, reportedly a diving instructor, was represented by Polish lawyer Tymoteusz Paprocki, who insisted there were no grounds to extradite his client to Germany.[13] Paprocki argued that "considering the full-scale war in Ukraine and the fact that Nord Stream is owned by the Russian company Gazprom, which finances these activities, the defence currently does not see any possibility of bringing charges against anyone who participated in these activities."[13]
+
+The September 2022 explosions largely destroyed the undersea pipelines designed to deliver gas to the European Union directly from Russia rather than via Ukraine, and their destruction — initially blamed by Western governments on Russia — forced EU governments to seek alternative, more expensive energy sources.[13] In August 2025 Italian authorities had arrested another Ukrainian, identified as Serhii K., suspected of coordinating the attacks; German prosecutors alleged that Serhii and a group planted explosive devices near the Danish island of Bornholm after departing from Rostock, Germany, in a sailing yacht, and he faced charges of collusion to cause an explosion, anti-constitutional sabotage, and destruction of critical infrastructure.[13]
+
+Badlands contributor [[burning-bright|Burning Bright]] framed the arrest under the headings "Deep State. Invisible Enemy. Weaponized Agencies," arguing that [[donald-trump|Donald Trump]] had identified these forces as the target since his first inauguration, and that under such a framing government shutdowns are not Damoclesian threats to the awakened but promises.[13]
+
+## Swedish closure of the investigation (February 2024)
+
+Prosecutors in Stockholm announced on Wednesday, February 7, 2024 that they had shut down the investigation into who was behind the 2022 sabotage explosions that crippled Russia's Nord Stream pipelines to Germany.[14] Sweden had long said it suspected an unknown state actor, but an official statement from its top prosecutor's office concluded that "there is no Swedish jurisdiction and that the investigation should therefore be closed," because "nothing has emerged to indicate that Sweden or Swedish citizens were involved in the attack that took place in international waters."[14] The same statement asserted that authorities now had a "good picture" of the incident after a "systematic and thorough" investigation, with Public Prosecutor [[mats-ljungqvist|Mats Ljungqvist]] adding, "It is not Sweden's task to continue this investigation."[14] The case was handed off to Germany even as [[seymour-hersh|Seymour Hersh]] continued to fill in details of his account.[14]
+
+[[burning-bright|Burning Bright]] argued that the closure and the simultaneous European threat to sanction [[tucker-carlson|Tucker Carlson]] represented converging information-war deployments — the [[overton-window|Overton]] goalpost and the shark fin template — with the EU establishment reviving "Russia Russia Russia!" in the mainstream mind while distancing itself from what he called one of the more obvious false flags in years.[14] He maintained that the Nord Stream 2 sabotage was not merely an act of information war against the Russian Federation but an act of kinetic war carried out by one member of the Western hegemon against another, whether the United States against Germany or some other intra-European actor, leaving at minimum the likelihood that the Western hegemon attacked its own infrastructure to kickstart a third world war.[14] "The Swedes are the first to blink. They won't be the last," he wrote.[14]
+
 ## References
+
 1. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 2. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 3. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
@@ -111,3 +126,5 @@ In October 2024, Russian Foreign Ministry spokeswoman [[maria-zakharova|Maria Za
 10. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
 11. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 12. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+13. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+14. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c

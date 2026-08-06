@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, texas, republicans, iran, israel]
-sources: [raw/badlands-brief-509.md, raw/badlands-brief-6b4.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-brief-6b4.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b63.md]
 confidence: low
 ---
 
@@ -58,3 +58,9 @@ In a newly released and visibly tense interview in June 2025, Cruz forcefully de
 5.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 6. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 7. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+
+## June 2025 Carlson interview and Iran
+
+In June 2025, Cruz was among the "Congressional Zionists" that [[tucker-carlson|Tucker Carlson]] challenged over support for war with [[iran|Iran]], an exchange Badlands contributors characterized as a public humiliation.[8] [[ashe-in-america|Ashe in America]] noted that Cruz was elected to the Senate in 2012 and has served on the [[senate-select-committee-on-intelligence|Senate Select Committee on Intelligence]] since 2017, and argued that a member of that committee for eight years should have been able to answer basic demographic questions about the country he was describing as the gravest threat to America.[8] His inability to do so while advocating sending American sons to fight, she wrote, was "embarrassing for America" and "enraging to Americans."[8]
+
+8. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

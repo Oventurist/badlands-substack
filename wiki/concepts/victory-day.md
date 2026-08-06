@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russia, ukraine, nato, symbolism, 2026]
-sources: [raw/badlands-brief-835.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ This year's event omitted the customary display of tanks and heavy equipment; in
 
 Quoting his earlier series *Righteous Russia, Part 6*, he argued that Russia had made the "Invisible Enemy" visible by offering an enemy more ubiquitous than any family name: the [[azov-battalion|Azov battalion]], the Black Sun, "the ultimate evil in the normie consciousness."[1] He described this as an evil that George Soros, [[anthony-fauci|Anthony Fauci]] and the Bidens had mingled with openly as well as in shadows and ledgers, and as "four spokes on a wheel," concluding that to engage the public one must return to archetypes — "you've got to expose some Nazis."[1]
 
+## 80th anniversary (2025)
+
+Russia's 80th anniversary Victory Day observance in May 2025 was attended by Chinese leader [[xi-jinping|Xi Jinping]], who was welcomed to Moscow by [[vladimir-putin|Vladimir Putin]] on 8 May for the parade and associated events in Red Square.[2] The two signed a joint statement further deepening their strategic partnership and pledged to defend a multipolar world order while countering "neo-Nazism and militarism."[2] The same week, President [[donald-trump|Donald Trump]] issued a proclamation designating 8 May as [[victory-day-for-world-war-ii-2025|Victory Day for World War II]] in the United States, marking the 80th anniversary of the Allied victory in Europe.[2] Badlands writer Burning Bright treated the convergence — a Russian and Chinese declaration against the "Nazi Hegemon" in Moscow and an American Victory Day proclamation a day earlier — as a single story: "Victory Day, indeed."[2]
+
 ## References
 
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
+2. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b

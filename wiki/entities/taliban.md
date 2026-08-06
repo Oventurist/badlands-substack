@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, terrorism, weapons-trafficking]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-509.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bbb.md]
 confidence: medium
 ---
 
@@ -85,6 +85,24 @@ In September 2024, despite not being formally recognized by any country, the Tal
 
 While no state has extended formal recognition, China and Russia have come closest, hosting Taliban delegations for talks and maintaining embassies in Kabul after the US–NATO withdrawal of August 2021; both have shown willingness to invest in Afghanistan and tap its natural resources, and both have welcomed the Taliban's fight against the rival Islamic State Khorasan (ISIS-K).[12] Analysts quoted in the coverage suggested the Taliban's accession would hand Washington "low-hanging fruit" with which to denigrate BRICS on the world stage, particularly amid US frustration at deepening China–Russia–India cooperation.[12] Badlands Media commentary treated the move as evidence that emergent sovereign states can bypass the international rules-based order, the [[united-nations|United Nations]] and [[nato|NATO]], escaping dollar-denominated sanctions and IMF debt by joining an alternative financial architecture.[12]
 
+## The opium ban and the 2024 UNODC report
+
+After the Taliban banned narcotics production in 2022, opium cultivation in Afghanistan — long the world's dominant supplier — fell by 95 percent in a single year, contributing to a roughly 75 percent decline in global production even as output in Myanmar rose 36 percent.[13] The [[united-nations-office-on-drugs-and-crime|United Nations Office on Drugs and Crime]] warned in its World Drug Report published in late June 2024 that the crash could drive up overdose deaths as heroin users switched to synthetic opioids already proving lethal in Europe, and that heroin purity was expected to decline.[13] Preliminary field observations suggested a possible slight increase in cultivation in 2024, but not a return to pre-ban levels.[13]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the report as an inadvertent confession, writing that critics were complaining because [[donald-trump|Donald Trump]] turned control of Afghanistan over to the Taliban and "the Talibros immediately ended the heroin industry," which he identified as the reason for the subsequent explosion in synthetic fentanyl.[13] He argued that blaming the Taliban for overdose deaths caused by pharmaceutical-grade synthetics inverted responsibility, and that the corporate press was unintentionally making the case for prosecuting Big Pharma.[13]
+
+## Russian rapprochement, May 2024
+
+By May 2024 Russia had moved further than any other major power toward normalizing relations with the Taliban.[14] Analyst [[andrew-korybko|Andrew Korybko]] catalogued a rapid sequence of signals: a Russian diplomat's statement on May 16 that the Afghan Taliban were no longer Russia's enemy; a May 17 announcement by Deputy Prime Minister Alexei Overchuk that Afghanistan would expand the range of goods it exports to Russia; a May 24 assessment by the FSB director that the Taliban could stabilize Afghanistan if left to its own devices; and, on May 27, both an invitation for the Taliban to attend the St. Petersburg International Economic Forum and a proposal from Russian ministries to [[vladimir-putin|Vladimir Putin]] to remove the group from the terrorist list.[14] Korybko argued the driving motive was a strategic energy deal with Pakistan that would complete Russia's "Ummah Pivot" and Greater Eurasian Partnership, and that Moscow now regarded the Taliban as a regional security provider containing [[isis-k|ISIS-K]].[14] He noted the Taliban nonetheless remained international outcasts over their failure to form an ethno-politically inclusive government and their treatment of women, with engagement proceeding on pragmatic economic and security grounds.[14]
+
+Badlands contributor [[burning-bright|Burning Bright]] read the developments as [[sovereign-alliance|Sovereign Alliance]] signals bearing the imprint of the [[doha-agreement|Doha Agreement]], describing Russia's reliance on the Taliban against ISIS-K as a continuation of [[donald-trump|Trump]]'s post-Doha vision, highlighting the Taliban's role brokering Russia–Pakistan energy talks, and framing Moscow's outreach as built around multipolarity designed to avoid vassal-state dependence on major powers such as China.[14]
+
+## Reception of China's ambassador (September 2023)
+
+On Wednesday, September 13, 2023, the Taliban hailed the arrival of China's new ambassador to Afghanistan, [[zhao-sheng|Zhao Sheng]], with fanfare, saying it was a sign for other nations to come forward and establish relations with them.[15] Zhao's car swept through the tree-lined driveway of the Presidential Palace escorted by a police convoy; he was greeted by uniformed troops and met top-ranking officials including Mohammad Hassan Akhund, who heads the administration, and Foreign Affairs Minister [[amir-khan-muttaqi|Amir Khan Muttaqi]].[15] It was the first time since the Taliban takeover that an ambassador to Kabul had been given such lavish protocol.[15]
+
+The Taliban seized power in August 2021 as U.S. and [[nato|NATO]] forces withdrew after two decades of war; their leaders remain under sanctions, no country recognizes them as Afghanistan's legitimate rulers, and the country's United Nations seat is still held by the former Western-backed government led by Ashraf Ghani.[15] Only a handful of nations maintain working diplomatic missions in Afghanistan, among them China — the world's second-largest economy — with both sides open about a desire for closer ties, especially commercial ones.[15]
+
 ## References
 
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
@@ -99,3 +117,6 @@ While no state has extended formal recognition, China and Russia have come close
 10. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 11. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 12. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+13. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+14. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+15. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb

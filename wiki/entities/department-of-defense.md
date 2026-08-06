@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, darpa, defense, technology, surveillance]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-3ae.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-07c.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ In February 2023 the Department of Defense secured an exposed server that had be
 
 On Thursday, February 2, 2023, the Department of Defense publicly confirmed that an object seen over the Billings, Montana area the previous day was an intelligence-gathering balloon "most certainly launched by the People's Republic of China," a statement that transformed a local airspace closure at [[billings-logan-international-airport|Billings Logan International Airport]] into the national [[chinese-spy-balloon-incident-2023|Chinese spy balloon incident]].[4]
 
+## Transgender service member policy memo (2023)
+
+In July 2023 the outlet The Dossier published a previously unavailable 34-page Department of Defense memo on the "care of service members who identify as transgender," detailing benefits granted to that cohort including deployment waivers and indefinite waivers of physical fitness standards.[5] The memo circulated after President [[joe-biden|Joe Biden]] reversed the [[transgender-military-ban|transgender military ban]] instituted under [[donald-trump|Donald Trump]].[5] Critics argued the policies undermined [[military-readiness|military readiness]] at a time when the armed forces faced their worst recruiting environment since the end of conscription in 1973, and that the department was functioning "more of a social welfare and social justice program than an entity purposed with defeating an aggressing army."[5]
+
 ## References
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 3. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 4. Badlands News Brief — "Mutations, Laptops & Chinese Balloons", URL: https://badlands.substack.com/p/badlands-news-brief-3ae
+5. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [independent-media, commentary, censorship, newsguard]
-sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-79f.md]
+sources: [raw/badlands-news-brief-363.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-b98.md]
 confidence: medium
 ---
 
@@ -30,8 +30,15 @@ In December 2024 an unsubstantiated rumor circulated widely on X that Pool had s
 
 He noted the rumor surfaced the same day as reports that The Daily Wire was open to an acquisition offer from [[fox-corporation|Fox]], and recalled that in early September 2024, after the [[department-of-justice|DOJ]] announced its investigation into [[tenet-media|Tenet Media]]'s Russian-linked funding, Pool told Shapiro on air that "Russia sucks."[3]
 
+
+## Feud with Candace Owens (December 2025)
+
+A public feud between Pool and [[candace-owens|Candace Owens]] escalated in December 2025 after Pool accused Owens of benefiting from Charlie Kirk's murder.[4] Owens responded with a blistering rebuttal, accusing Pool of lacking "intellect," acting out of "weakness," and being "less than a man," and characterizing his on-air rant as "a display of estrogen" rather than toughness.[4] She said he would "never dare speak to a man like that," told him to "get [his] affairs in order," and denied having targeted him in her own content.[4] Badlands commentator [[chris-paul|Chris Paul]] joked only that it was "extra funny that these videos are delivered by a guy named 'Callin' Rug'."[4]
+
 ## References
 
 1. Badlands News Brief — "The Free Market of Ideas Condemns the Regime", raw/badlands-news-brief-363.md
 2. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 3. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
+4. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

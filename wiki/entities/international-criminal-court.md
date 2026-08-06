@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [icc, international-law, sovereignty, rome-statute, united-nations]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-414.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8a9.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-414.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-b65.md]
 confidence: medium
 ---
 
@@ -62,6 +62,12 @@ Badlands commentary at the time drew a sharp distinction between the ICC and the
 
 In April 2025 Italian media reported that Russian President [[vladimir-putin|Vladimir Putin]] would not be at risk of arrest in Italy under the ICC warrant, because Italian officials never completed the procedures required to make it valid.[8] The Hague-based court had issued warrants for Putin and Russian Commissioner for Children's Rights [[maria-lvova-belova|Maria Lvova-Belova]] in 2023 over the alleged unlawful deportation and transfer of children from former Ukrainian territories, and a year later issued additional warrants for senior Russian commanders including former Defense Minister [[sergei-shoigu|Sergey Shoigu]] and General [[valery-gerasimov|Valery Gerasimov]] over attacks on civilian infrastructure.[8] Moscow does not recognize the court's jurisdiction, denies the accusations, and has declared the warrants null and void.[8] Badlands commentary noted that Italy under [[giorgia-meloni|Giorgia Meloni]] had also declined in January to enforce ICC warrants against [[benjamin-netanyahu|Benjamin Netanyahu]] and [[yoav-gallant|Yoav Gallant]], and read a major European state treating the court as illegitimate as evidence of waning UN clout.[8]
 
+## Arrest warrants for Netanyahu and Gallant (November 2024)
+
+On Thursday, November 21, 2024, the ICC issued arrest warrants for Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] and former defense minister [[yoav-gallant|Yoav Gallant]] in a ruling that shook military, diplomatic and legal circles.[9] The court cited reasonable grounds to believe the two had committed the war crime of starvation as a method of warfare, along with the crimes against humanity of murder, persecution and other inhumane acts.[9]
+
+Israel and the United States condemned the ruling — the first time the court had issued arrest warrants for officials of a democratic state — as biased or beyond the ICC's mandate, while the European Union, France, Ireland and several other countries said they would honor the warrants.[9] As a practical matter the warrants meant Netanyahu and Gallant would likely be unable to travel to most European countries and many of the ICC's 120-plus member states, though they could still travel to the United States, which is not a member, as well as to various Middle Eastern states; some states have simply ignored ICC warrants, as there is no effective enforcement mechanism.[9] Badlands commentary noted that [[benny-gantz|Benny Gantz]] was not among those indicted and predicted that [[aipac|AIPAC]]-aligned members of Congress would rush to denounce the United Nations over the ruling.[9]
+
 ## References
 1. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 2. Badlands Brief — "Narcissistic Sociopathy & Rebranded Sex Robots For Kids", URL: https://badlands.substack.com/p/badlands-brief-414
@@ -71,3 +77,4 @@ In April 2025 Italian media reported that Russian President [[vladimir-putin|Vla
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Badlands News Brief: Netanyahu & Zelenskyy Beg Biden as Exposure Continues", URL: https://badlands.substack.com/p/badlands-news-brief-8ba
 8. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
+9. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65

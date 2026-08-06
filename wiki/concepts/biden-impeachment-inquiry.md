@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [impeachment, congress, biden-family, oversight]
-sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b2b.md]
+sources: [raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bbb.md]
 confidence: medium
 ---
 
@@ -62,6 +62,12 @@ Democrats and several independent witnesses countered that no proof existed that
 
 [[ashe-in-america|Ashe in America]] called the hearing "a surreal experience," writing that Republican members methodically laid out direct evidence of Joe Biden's knowledge of and participation in influence-peddling schemes spanning Russia, China and Ukraine while Democrats responded by shouting "No evidence! Debunked!" and pivoting to Trump.[7] She noted that all Republican witnesses agreed the inquiry should continue, and that Comer confirmed Thursday evening that investigators were moving forward with subpoenas for [[jim-biden|Jim]] and Hunter Biden's bank records.[7] [[burning-bright|Burning Bright]] read the launch as a rare combination of "Overton's Goalpost" and "Narrative Whiplash," predicting Democrats would defend an indefensible candidate on national television while their media allies quietly spun up alternative candidates, and suggesting that the [[deep-state|Deep State]] would end up "caught holding the Biden Bag" if Biden survived the drama in office.[7]
 
+## Expediting the wider Biden investigations
+
+House Ways and Means Chairman [[jason-smith|Jason Smith]] told Breitbart News in an exclusive interview on Wednesday, September 13, 2023 — the day after the inquiry was announced — that it would "expedite" House Republicans' investigations of the wider Biden family.[8] Speaker [[kevin-mccarthy|Kevin McCarthy]] framed the launch as covering "abuse of power, obstruction, and corruption," said Republicans had uncovered "serious and credible allegations," and named Smith, [[jim-jordan|Jim Jordan]] and [[james-comer|James Comer]] to lead the effort.[8] Smith said the announcement would "speed up" the process after the [[internal-revenue-service|IRS]], the [[department-of-justice|Department of Justice]], the [[fbi|FBI]] and the [[united-states-secret-service|Secret Service]] had "continued to stall," and noted that the three chairmen had asked 13 federal employees to sit for interviews.[8] He also complained that Attorney General [[merrick-garland|Merrick Garland]]'s appointment of a special counsel was being used to "obstruct" the congressional investigation.[8]
+
+[[burning-bright|Burning Bright]] argued that events under the Biden administration were slotting into templates set during the Trump administration — that observers were, as [[chris-paul|Chris Paul]] put it, watching "reruns," the latest being the impeachment inquiry itself.[8] More than the legal and political precedents such deployments set, he wrote, the narratives would prove most useful as engineered drama played out before the American mind, adding that those who "cheered during the initial salvo" were "not having as much fun in the Year of the Boomerang."[8]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
@@ -71,3 +77,4 @@ Democrats and several independent witnesses countered that no proof existed that
 5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 6. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
 7. Badlands Brief — "Badlands News Brief: Biden Embattled & Trump Betrayed", URL: https://badlands.substack.com/p/badlands-news-brief-b2b
+8. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb

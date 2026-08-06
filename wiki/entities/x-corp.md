@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, censorship, brazil, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-214.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -113,6 +113,18 @@ In late June 2024, X owner [[elon-musk|Elon Musk]] said the platform would not b
 
 Separately, X replaced its identity-verification contractor [[au10tix|AU10TIX]] — whose parent was identified in Badlands coverage as the Israeli firm [[i-sec|I-SEC]] — with the payment processor [[stripe|Stripe]], after users raised concerns that the verification process, which required a government-issued photo ID and home address, was handled by a company tied to Israeli intelligence.[19]
 
+## Suspension in Brazil (August 30, 2024)
+
+Brazil's top court ordered the immediate suspension of X in the country on August 30, 2024, after owner [[elon-musk|Elon Musk]] refused to name a legal representative for the platform in Brazil.[20] Justice [[alexandre-de-moraes|Alexandre de Moraes]] wrote that the company had repeatedly and deliberately disrespected court orders and had contributed to "an environment of total impunity and lawlessness in Brazilian social networks, including during the 2024 local elections."[20] He alleged that "extremist groups and digital militias" used X for the "massive dissemination of Nazi, racist, fascist, hateful and anti-democratic speeches," and ordered daily fines of 50,000 reais — about $8,900 — for anyone accessing the platform via VPN.[20]
+
+## Media Matters litigation advances
+
+On the same day, a federal judge in Texas ruled that X's lawsuit against [[media-matters-for-america|Media Matters]] could proceed to trial, Judge Reed O'Connor writing that the court had personal jurisdiction, venue was proper, and the plaintiff had properly pled its claims.[20] X had filed the suit in November 2023, alleging the nonprofit used manipulative and deceptive tactics to convince advertisers including Apple, IBM and Disney that hateful content appeared beside their brands, and that it fabricated the results.[20]
+
+## App Store surge ahead of the Carlson–Putin interview
+
+Ahead of [[tucker-carlson|Tucker Carlson]]'s February 2024 interview with [[vladimir-putin|Vladimir Putin]], X saw a surge in downloads by iPhone and iPad users on Apple's App Store, with the platform becoming the number one free app there — beating out ChatGPT, [[threads|Threads]] and TikTok, according to a widely cited post by X user Whole Mars Catalog.[22] The interview was released exclusively on X and Carlson's own website, and ZeroHedge reported that the prospect of it had already caused a stir among neoconservatives and the legacy media outlets it described as overseeing the censorship-industrial complex.[22] [[burning-bright|Burning Bright]] treated the surge as evidence of Truth Community messaging breaking into mainstream awareness, writing "Welcome to the show, Normieville."[22]
+
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Lawsuits Can Be Very Effective ...", URL: https://badlands.substack.com/p/badlands-news-brief-051
@@ -133,3 +145,11 @@ Separately, X replaced its identity-verification contractor [[au10tix|AU10TIX]] 
 17. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 18. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 19. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
+20. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+
+## Yaccarino resignation and the Grok controversy (July 2025)
+
+On July 9, 2025 [[linda-yaccarino|Linda Yaccarino]] announced her resignation as chief executive of X after two years spent trying to revive the platform's advertising business and turn it into an "everything app," thanking [[elon-musk|Elon Musk]] for entrusting her with "protecting free speech, turning the company around, and transforming X into the Everything App."[21] Her departure came amid a turbulent stretch for the company: a day earlier [[xai|xAI]] had been forced to remove Grok posts on X containing antisemitic comments and replies, and said it had taken action to ban hate speech before Grok posts to the platform.[21] Musk unveiled [[grok-4|Grok 4]] the same night as the resignation.[21] [[canncon|CannCon]] linked the two events and urged the removal of censorship guardrails and shadow bans following the exit of the "Censorship WEF Queen."[21]
+
+21. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
+22. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c

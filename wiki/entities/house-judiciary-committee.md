@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house, oversight, doj-slush-fund, investigations]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b1d.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-1ae.md, raw/badlands-brief-1ef.md, raw/badlands-brief-733.md, raw/badlands-brief-a1a.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md]
 confidence: medium
 ---
 
@@ -90,6 +90,10 @@ On Monday, July 1, 2024, the committee filed a lawsuit against Attorney General 
 
 On Wednesday, September 20, 2023 the committee held a roughly five-hour oversight hearing with Attorney General [[merrick-garland|Merrick Garland]] in which Republican members attacked the [[department-of-justice|Justice Department]]'s handling of criminal probes into [[donald-trump|Donald Trump]], [[hunter-biden|Hunter Biden]], the events of January 6 and other high-profile investigations.[16] Chairman [[jim-jordan|Jim Jordan]] opened with the assertion that "the fix is in" even after what he called the face-saving indictment of Hunter Biden the previous week, and accused Garland of slow-walking that investigation.[16] Members including [[thomas-massie|Thomas Massie]], [[matt-gaetz|Matt Gaetz]] and [[kevin-kiley|Kevin Kiley]] generated viral exchanges over alleged perjury, the Biden family art-dealing arrangement and the origins of the [[doj-school-board-memo-2021|school board memo]] respectively.[16] Garland responded that Republican efforts to target career officials were "dangerous" and pledged that the department would not be intimidated.[16] See [[september-2023-garland-house-judiciary-hearing|September 2023 Garland House Judiciary Hearing]].[16]
 
+## July 2024 hearing with FBI Director Wray
+
+The committee heard testimony from [[fbi|FBI]] Director [[christopher-wray|Christopher Wray]] on July 24, 2024 concerning the bureau's investigation of the [[attempted-assassination-of-donald-trump-2024|July 13 assassination attempt]] against [[donald-trump|Donald Trump]] in Pennsylvania.[17] Wray disclosed that gunman [[thomas-matthew-crooks|Thomas Crooks]] had flown a drone near the rally site about two hours before firing, that three crude explosive devices and a remote transmitter were recovered, that eight spent cartridges were found on the roof, and that agents had accessed Crooks' phone and found encrypted messaging apps.[17] Chairman [[jim-jordan|Jim Jordan]] opened by cataloguing the FBI's recent failings, while Ranking Member [[jerrold-nadler|Jerry Nadler]] was accused by Badlands of blaming Trump for the attempt on his own life.[17] Badlands commentator [[ashe-in-america|Ashe in America]] wrote that Wray largely declined to answer substantive questions, invoking the ongoing investigation and refusing to discuss the July 13 law enforcement response — a pattern set by the Oversight and Homeland Security committee hearings earlier that week, at which witnesses had deferred to the FBI.[17]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
@@ -107,3 +111,4 @@ On Wednesday, September 20, 2023 the committee held a roughly five-hour oversigh
 14. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 15. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 16. Badlands Brief — "Badlands News Brief: Trump Skips Debates, FED Paralyzed & Garland Grilled", URL: https://badlands.substack.com/p/badlands-news-brief-b1d
+17. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc

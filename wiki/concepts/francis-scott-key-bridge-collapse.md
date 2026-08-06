@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [baltimore, maritime, infrastructure, disaster, salvage]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -47,8 +47,15 @@ On April 2, 2024, the Baltimore District of the [[us-army-corps-of-engineers|US 
 
 A temporary alternate channel reopened that week, allowing trapped ships and cargo to move again, with a US Air Force fuel barge the first vessel permitted through; even so, activity at the [[port-of-baltimore|Port of Baltimore]] had crashed and was expected to remain paralyzed until the main channel reopened.[4] [[ashe-in-america|Ashe in America]] raised unresolved questions about fuel and an underground pipeline, noted emerging scrutiny of contaminated fuel aboard the Dali, and predicted "climate narratives incoming."[4] The commentary also noted that President [[joe-biden|Joe Biden]] announced he would visit the bridge site that Friday, which the writer characterised as an opportunity to exploit the disaster politically.[4]
 
+## Hazardous cargo and pollution concerns
+
+On March 27, 2024 the [[national-transportation-safety-board|National Transportation Safety Board]] disclosed that the cargo ship that caused the collapse was carrying hazardous materials, with Chair [[jennifer-homendy|Jennifer Homendy]] stating that 56 containers aboard held hazardous goods including corrosives, flammables and lithium ion batteries.[5] Homendy said some containers had been breached and that a sheen identified in the water would be dealt with by authorities, and that the voyage data recorder had been recovered.[5] She estimated the investigation could take 12 to 24 months, with a preliminary report in two to four weeks, adding that the NTSB would not hesitate to issue urgent safety recommendations in the interim and describing the inquiry as "a massive undertaking" following "a very tragic event."[5]
+
+[[ashe-in-america|Ashe in America]] contrasted the sheen with the early statement from ship owner [[grace-ocean|Grace Ocean]] that all crew and both pilots were accounted for, no injuries were reported and "there has also been no pollution," calling the assertion suspect in timing and circumstance.[5] Local reporting quoted an official document noting "minor sheening on-scene," with booming ordered and staged but withheld until search-and-rescue and dive operations were complete, and put the potential oil spill at 1.8 million gallons of marine grade diesel.[5] An unclassified memo from the [[cybersecurity-and-infrastructure-security-agency|Cybersecurity and Infrastructure Security Agency]] confirmed that federal officials were monitoring that fuel for its "spill potential," while the [[department-of-homeland-security|Department of Homeland Security]] deemed the water near the crash site unsafe for divers.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: Dali, Diddy & DJT", URL: https://badlands.substack.com/p/badlands-news-brief-491
 3. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 4. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
+5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fema, dhs, disaster-response, federal-agency, gregg-phillips]
-sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md]
+sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md]
 confidence: medium
 ---
 
@@ -48,6 +48,14 @@ In August 2025 the [[trump-administration|Trump administration]] reversed a poli
 
 As [[hurricane-milton|Hurricane Milton]] bore down on Florida in October 2024, less than two weeks after [[hurricane-helene|Hurricane Helene]] flooded communities across the Southeast, reporting described the federal government as potentially nearing a collapse of its capacity to assist with major disasters.[7] FEMA's disaster relief fund, which pays for repair and rebuilding, and FEMA's flood insurance program — along with the [[small-business-administration|Small Business Administration]]'s loans to stricken businesses and homeowners — were all described as possibly within weeks of running out of cash, based on remarks by President [[joe-biden|Joe Biden]], Homeland Security Secretary [[alejandro-mayorkas|Alejandro Mayorkas]] and insurance analysts.[7] FEMA nonetheless sought to assure the public that it had enough money to meet its "life-saving" responsibilities for both storms.[7] Lawmakers of both parties urged Congress to return to Washington before the November election to approve additional disaster funding, but House fiscal conservatives balked and Speaker [[mike-johnson|Mike Johnson]] said he had no plans to recall members.[7] Florida Governor [[ron-desantis|Ron DeSantis]] said during the same period that he was in contact with FEMA officials while preparing the state for Milton.[7]
 
+## Whistleblower allegations over Hurricane Helene
+
+In early October 2024, multiple whistleblowers alleged that FEMA had been painfully slow to deploy first responders to help victims of [[hurricane-helene|Hurricane Helene]], and that its conduct on the ground was making matters worse.[8] The allegations of mismanagement came days after the agency took a beating over Secretary [[alejandro-mayorkas|Alejandro Mayorkas]]'s admission that it would not be able to foot the bill for the historic hurricane season.[8]
+
+A whistleblower letter sent to Representative [[matt-gaetz|Matt Gaetz]] detailed how the department had wasted and misappropriated funds in Helene's wake and was "exacerbating the emergency."[8] The letter further alleged that "hundreds if not thousands" of first responders and service members had been left "without deployment orders," with some waiting around in hotels and others sitting idle while Americans throughout the Southeast were in dire need.[8]
+
+Badlands commentary observed that new stories of FEMA failing at its core mission were emerging daily, noting that NBC News reported 220 deaths while Appalachians on the ground described entire towns washed away, thousands missing, and an apocalyptic toll.[8] Contributors criticized the agency for devoting resources to a public "rumor response" page debunking claims about its performance and urging Americans to disregard information not from "official sources," even as Mayorkas, [[pete-buttigieg|Pete Buttigieg]] and other officials were accused of grounding drones and private search-and-rescue flights, confiscating supplies, and punishing unofficial responders.[8] They also highlighted the detail, buried in reporting, that [[congress|Congress]] had appropriated an additional $20 billion to FEMA only one week before Mayorkas said the agency was not adequately resourced for the remainder of the season, concluding that in a tragedy FEMA not only fails to help but actively obstructs people from helping themselves.[8]
+
 ## References
 
 1. Badlands News Brief — "Weed Wins, Globalist Whisking, & Lizard-Led Impeachments", URL: https://badlands.substack.com/p/badlands-news-brief-0ef
@@ -57,3 +65,4 @@ As [[hurricane-milton|Hurricane Milton]] bore down on Florida in October 2024, l
 5. Badlands News Brief — "Bidens, UFOs and Vaccines", URL: https://badlands.substack.com/p/badlands-news-brief-68f
 6. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 7. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
+8. Badlands Brief — "Badlands News Brief: The Trump-Musk Pincer Closes as Disaster Strikes the Regime", URL: https://badlands.substack.com/p/badlands-news-brief-b78

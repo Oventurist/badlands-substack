@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, culture-war, white-lives-matter]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-b98.md]
 confidence: low
 ---
 
@@ -54,6 +54,13 @@ In November 2023 Owens, then host of the "Candace Owens" talk show at [[daily-wi
 
 [[burning-bright|Burning Bright]] described the episode as the start of a "[[con-inc|Con Inc.]] circular firing squad" unfolding amid the [[uniparty|Uniparty]]'s push for domestic support for a new Forever War, suggesting Owens' turn against her own camp could indicate "patriot assets being activated," or simply truth finding its own level before an increasingly bipartisan audience.[8]
 
+
+## Feud with Tim Pool (December 2025)
+
+In December 2025 Owens escalated a public feud with podcast host [[tim-pool|Tim Pool]] after Pool accused her of benefiting from the murder of Charlie Kirk.[9] Responding to Pool's on-air rant, Owens said his behavior was "not a display of testosterone" but "actually a display of estrogen," adding, "He's not a man, he's not tough. And he would never dare speak to a man like that."[9]
+
+She further called Pool "a coward" and "less than a man," likening him to "a person who is having financial issues" who gambles, loses, "comes back home and beats his wife and kids," and told him to "get [his] affairs in order" and stop blaming her, noting that she had not focused her content on him while "you have been explicitly attacking me."[9]
+
 ## References
 
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -64,3 +71,5 @@ In November 2023 Owens, then host of the "Candace Owens" talk show at [[daily-wi
 6. Badlands Brief — "Myanmar's Mayhem, Musk's Marxists, & the Military's Secret Memo", URL: https://badlands.substack.com/p/badlands-news-brief-1c8
 7. Badlands Brief — "Truckloads of Proof, Holiday Intifada, & Europe Must Swallow", URL: https://badlands.substack.com/p/badlands-news-brief-306
 8. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
+9. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

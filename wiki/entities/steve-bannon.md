@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maga, media, war-room, epstein-files, kayfabe]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -136,3 +136,9 @@ Politico framed the exchange as a prime example of the infighting already underw
 16. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
 17. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 18. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
+
+## June 2025 break with Israel policy
+
+In mid-June 2025, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Bannon and [[tucker-carlson|Tucker Carlson]] were undergoing a "redemption arc" for their conduct over a critical 48 hours in the MAGA story.[19] The commentary noted that Bannon had never really publicly criticized [[israel|Israel]] before — a fact long used by critics to argue that Trump and his entourage were Zionist-captured — and that he "could not have picked a better moment to turn heel and speak truth against Israel" as the American public was inundated with what the author called military-grade propaganda in favor of another Middle East war.[19] Bannon and Carlson also discussed the "1963 coup" and the claim that America has lived under foreign subjugation since [[john-f-kennedy|John F. Kennedy]]'s public execution.[19]
+
+19. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

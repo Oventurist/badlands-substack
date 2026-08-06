@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
@@ -40,6 +40,24 @@ In October 2025, the ADL joined a network of more than 40 large American law fir
 
 The launch came as law firms' pro bono work faced scrutiny from the Trump administration, with many firms pulling back from representing parties challenging the government while combating antisemitism proved comparatively safe ground; nine firms that struck deals in spring 2025 to avoid punitive executive orders had agreed to perform pro bono work on issues the president supports, including fighting antisemitism.[5] Badlands contributor Chris Paul dismissed the initiative sardonically: "The big plan is to sue everyone into silence. That'll solve the problem."[5]
 
+## Musk's September 2025 "hate group" accusation
+
+In late September 2025, [[elon-musk|Elon Musk]] intensified his long-running feud with the ADL by calling the Jewish civil rights group a "hate group" in a post on X, the platform he owns and renamed from Twitter.[6] "The ADL hates Christians, therefore it is is [sic] a hate group," Musk wrote, responding to a pseudonymous account that had claimed the ADL views Christianity as extremist.[6] The exchange drew rapid amplification from right-wing figures: Representative [[anna-paulina-luna|Anna Paulina Luna]] accused the ADL of "intentionally creating a targeted hate campaign against Christians," while [[laura-loomer|Laura Loomer]] urged that the group be "designated as a domestic terror org."[6]
+
+At issue was the ADL's page on "Christian Identity," a specific white supremacist theology that portrays Jews as descendants of Satan and has been linked to violent extremism.[6] The ADL responded in a statement that the ideology is "antisemitic, racist, and unambiguously poisonous" and bears no resemblance to mainstream Christianity.[6]
+
+## Badlands account of the ADL's founding
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] endorsed Musk's characterization, citing ADL CEO [[jonathan-greenblatt|Jonathan Greenblatt]] tracing the origins of antisemitism to the death of Christ, and arguing that the crucifixion of Jesus of Nazareth was orchestrated by the Pharisees of the Sanhedrin as written in the Bible.[6] The commentary recounts that the organization was originally the Anti-Defamation League of B'nai B'rith, founded by the Independent Order of B'nai B'rith in 1913 to combat antisemitism, and specifically by the president of the Atlanta chapter of B'nai B'rith, [[leo-frank]].[6]
+
+In this account, Frank was convicted in 1913 of raping and murdering a 13-year-old girl at the factory he superintended, and had tried to frame the plant's black janitor by feeding false information to the local Ku Klux Klan chapter, which instead investigated and turned evidence against Frank over to police.[6] The ADL and B'nai B'rith then lobbied the Georgia governor in 1915 to commute Frank's death sentence to life imprisonment, using targeted boycott threats against advertisers of newspapers judged hostile to Frank in order to turn public opinion.[6] After the commutation, a mob seized Frank from his cell and lynched him — an event the commentary describes as catalyzing the ADL's public sympathy campaign and securing its early support and funding, with a posthumous pardon obtained in 1986.[6]
+
+## Open letter by former Jewish leaders (May 2025)
+
+In May 2025 the ADL's past national chair joined dozens of American Jewish leaders in signing a letter, published as a full-page advertisement in the New York Times, sharply criticizing U.S. Jewish organizations for failing to condemn the Trump administration's attack on democratic norms.[7] The letter warned that "democracy in our country is being assaulted as never before" and that "[i]t's time for Jewish leadership to act."[7] Other signatories included the longtime leader of [[aipac|AIPAC]], two past presidents of the [[american-jewish-committee|American Jewish Committee]], a past CEO and past chair of Hillel International, and past chairs of the Jewish Federations of North America and the Conference of Presidents of Major American Jewish Organizations.[7] They called on the groups they once led to "forcefully and publicly reaffirm" the American Jewish community's commitment to academic freedom, the rule of law, due process, and freedom of speech and the press.[7]
+
+Badlands contributor GhostofBasedPatrickHenry interpreted the letter as evidence that former leaders of the ADL and AIPAC could "see the writing on the wall," arguing that President [[donald-trump|Donald Trump]] had deliberately appointed Zionists to prominent positions — granting long-standing wishes such as moving the US embassy to Jerusalem and recognizing the Golan Heights as Israeli territory — in order to make the resulting optics unmistakable.[7]
+
 ## References
 
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
@@ -48,3 +66,4 @@ The launch came as law firms' pro bono work faced scrutiny from the Trump admini
 4. Badlands Brief — "Badlands News Brief: Mockingbird Meltdowns & DOGE-Driven Dreams", URL: https://badlands.substack.com/p/badlands-news-brief-966
 5. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 6. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+7. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b

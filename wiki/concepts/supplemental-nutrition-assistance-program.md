@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [welfare, immigration, usda, litigation]
-sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-95a.md]
+sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-bc7.md]
 confidence: medium
 ---
 
@@ -30,7 +30,14 @@ In July 2025, food banks reported that they were wholly unprepared to feed milli
 
 According to Feeding America, the SNAP cuts alone would eliminate between six billion and nine billion meals annually — roughly the same number the food bank network provided in the prior year — meaning food banks would have to double their operations to close the gap.[2] Badlands contributor [[ashe-in-america|Ashe in America]] rejected the framing, arguing that the premise that removing waste, fraud and abuse from SNAP and other welfare programs would drive millions more Americans to food banks was "a completely invented problem."[2] [[chris-paul|Chris Paul]] added a broader media critique, contending that official stories accompanied by perfect but unprovable explanations for their own flaws are characteristic of fabrication.[2]
 
+## Shutdown-era visibility and the Colorado debate
+
+Coverage during the autumn 2025 government shutdown argued that the funding lapse had inadvertently revealed to the public just how many Americans receive food stamps, an outcome The Gateway Pundit suggested [[chuck-schumer|Chuck Schumer]] and other Democrats had not anticipated.[3] The account traced the program's evolution from "food stamps," seen as temporary help for struggling families, to the rebranded and destigmatized SNAP, with enrollment actively encouraged and participation now far broader.[3] As the shutdown dragged on, reports about the scale of the program were described as stunning to taxpayers.[3]
+
+Badlands contributor Ashe in America used Colorado as a case study, criticizing Attorney General [[phil-weiser|Phil Weiser]] for a post on X about SNAP cuts that she called emotional blackmail, noting he had more than two dozen cases against the Trump administration and was running for governor.[3] She contrasted a state Division of Insurance projection that 75,000 Colorado residents would lose subsidized health plans as Biden-era enhanced subsidies expired with Weiser's figure of 600,000 Coloradans dependent on SNAP.[3] Against a July 1, 2024 Census Bureau state population of 5,957,493, that implied roughly 10% of Coloradans relied on the program, below a national average of about 12%.[3] She linked the figure to her earlier reporting that 10% of Colorado jobs come from the non-profit sector, asking what overlap exists between the subsidized problem-solvers and the dependents, and concluded that "a sizable population segment feels entitled to dependence."[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
 2. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
+3. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7

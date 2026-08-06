@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, bankruptcy, digital-media, legacy-media]
-sources: [raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md]
+sources: [raw/badlands-news-brief-550.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-b5a.md]
 confidence: medium
 ---
 
@@ -40,8 +40,15 @@ In February 2024, Vice Media — once valued at $5.7 billion in 2017 and acquire
 
 Badlands contributor Simon Esler recalled a Vice documentary on a town where bestiality was normalized, in which the filmmakers framed men's sex with donkeys as preparation to be better lovers for their future wives.[3] He argued that societies still justifying sex with animals are "sociologically and morally behind us," that this is a case where what the left calls an imperialist, colonialist mindset is the correct view, and that Vice's normalization of such material formed part of a genuine conspiracy to inject Satanic values into the culture.[3]
 
+## End of publishing on Vice.com (February 2024)
+
+In February 2024 Vice Media said it would stop publishing content on its flagship website and planned to cut hundreds of jobs, following a failed effort by owner [[fortress-investment-group|Fortress Investment Group]] to sell the embattled digital publisher and its brands.[4] The moves were laid out in an internal memo from Chief Executive [[bruce-dixon|Bruce Dixon]], a copy of which was reviewed by [[wall-street-journal|The Wall Street Journal]].[4]
+
+"It is no longer cost-effective for us to distribute our digital content the way we have done previously," Dixon told employees, saying the company could instead partner with established media companies to distribute its content and that "as part of this shift, we will no longer publish content on vice.com."[4] He said [[refinery29|Refinery29]], the company's women's lifestyle-focused site, would continue as a stand-alone publishing business and that Vice was in advanced discussions to sell it.[4] Dixon wrote that the strategic shift required realigning resources and streamlining operations, "eliminating several hundred positions," with affected employees to be notified the following week.[4] The cuts formed part of a plan to make the company profitable after new owners took control of Vice in June 2023.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
 2. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 3. Badlands Brief — "Haley Sucks, Biden Dips & the CIA Does PR", URL: https://badlands.substack.com/p/badlands-news-brief-782
+4. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, trump-administration, congress]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -136,3 +136,15 @@ Noem said FEMA had been funding the Roosevelt Hotel, which she described as serv
 18. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
 19. Badlands Brief — "Posse Comitatus & Haggling with Hamas", URL: https://badlands.substack.com/p/badlands-news-brief-94b
 20. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
+
+## June 2025 hospitalization
+
+On Tuesday, June 17, 2025, Homeland Security Secretary Noem was transported by ambulance to a hospital in Washington, DC, after an allergic reaction, the [[department-of-homeland-security|Department of Homeland Security]] said.[21] DHS spokeswoman Tricia McLaughlin stated, "Secretary Noem had an allergic reaction today. She was transported to the hospital out of an abundance of caution. She is alert and recovering."[21] CNN observed several Secret Service agents posted at entrances outside the emergency room at the hospital where the secretary was admitted.[21]
+
+21. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+
+## Minnesota visa fraud claims (December 2025)
+
+At a roundtable meeting with President [[donald-trump|Donald Trump]] on Wednesday, December 3, 2025, Noem said that a review of Minnesota's visa programs had found that 50 percent of the visas examined were fraudulent.[22] "You told me to look into Minnesota and their fraud on visas and their programs: 50% of them are fraudulent, which means that that wacko Gov. (Tim) Walz either is an idiot or he did it on purpose — and I think he's both, sir," she said, referring to Governor [[tim-walz|Tim Walz]].[22] The remarks followed reporting that more than a billion dollars had been siphoned from Minnesota's COVID-era aid programs by Somali-linked fraud networks, with proceeds alleged to have reached [[al-shabaab|Al-Shabaab]].[22] Noem said her department and the governor had discussed the issue early on, but that Walz had sat on his hands and instead came after the whistleblowers who called out the fraud in Minneapolis.[22] Badlands contributor [[ashe-in-america|Ashe in America]] observed that naturalized citizens implicated in such schemes could face loss of citizenship, and said she was awaiting the results of parallel investigations elsewhere, including Colorado.[22]
+
+22. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

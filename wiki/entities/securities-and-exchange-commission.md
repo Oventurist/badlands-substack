@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, sec, trump-media, dwac]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md]
 confidence: low
 ---
 
@@ -57,6 +57,10 @@ On Thursday, June 27, 2024, the [[supreme-court-of-the-united-states|Supreme Cou
 
 At the [[bitcoin-2024-nashville-conference|Bitcoin 2024 conference]] in Nashville on July 27, 2024, [[donald-trump|Donald Trump]] pledged to remove SEC chair [[gary-gensler|Gary Gensler]] if elected and to implement a crypto advisory council, telling attendees that under his administration "we will have regulations, but from now on the rules will be written by people who love your industry, not hate your industry."[9] The remarks were widely read as a repudiation of the commission's enforcement-driven posture toward digital assets.[9]
 
+## March 2024 Coinbase ruling
+
+On 27 March 2024 the SEC scored a major win in its lawsuit against the cryptocurrency exchange [[coinbase|Coinbase]] when U.S. District Judge [[katherine-polk-failla|Katherine Polk Failla]] ruled that its claim that the exchange engaged in unregistered sales of securities could be heard by a jury at trial.[10] The agency had filed suit in June 2023, alleging Coinbase acted as an unregistered broker and exchange and asking that it be "permanently restrained and enjoined" from doing so; the court found the SEC had adequately alleged that Coinbase's Staking Program involved the unregistered offer and sale of securities, while dismissing the unregistered-broker claim concerning the Wallet application.[10] Badlands contributor [[burning-bright|Burning Bright]] wrote that although the SEC is rightly seen by much of the alternative media as part of the Deep Administrative State, more was going on than met the eye, noting that the agency treats bitcoin as a free-market commodity rather than a security — implying the US government considers all other digital currencies to be securities — and asking whether, alongside [[donald-trump|Trump]]'s pledges to block CBDCs, the banks might eventually be undone by their own securities laws.[10]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -67,3 +71,4 @@ At the [[bitcoin-2024-nashville-conference|Bitcoin 2024 conference]] in Nashvill
 7. Badlands Brief — "Badlands News Brief: Military in Memphis & Patrols in Poland", URL: https://badlands.substack.com/p/badlands-news-brief-1ed
 8. Badlands Brief — "The Old Guard Braces for Impact as Panic Spreads", URL: https://badlands.substack.com/p/badlands-news-brief-447
 9. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+10. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

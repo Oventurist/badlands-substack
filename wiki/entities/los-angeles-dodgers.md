@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sports, baseball, woke-capital, los-angeles, pride-night]
-sources: [raw/badlands-news-brief-5eb.md]
+sources: [raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Johnny Q wrote that sports and public events had historically been a space where
 
 The Red State framing placed the Dodgers alongside Bud Light and Fox News as 2023 case studies in brands discovering the cost of insulting a large share of the people who pay their salaries.[1]
 
+## Pride Night backlash
+
+Badlands writer [[johnny-q|Johnny Q]] cited the Dodgers' Pride Night controversy in June 2023 as evidence of widespread public resistance to drag-nun performers such as [[sister-roma|Sister Roma]], noting that the episode "wrought outrage from many in Los Angeles and beyond," with pushback from celebrities, baseball players, and fans alike.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
+2. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

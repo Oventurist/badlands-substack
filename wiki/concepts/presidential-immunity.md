@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, executive-power, trump, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a66.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-528.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-bad.md]
 confidence: medium
 ---
 
@@ -70,6 +70,14 @@ On Tuesday, February 6, 2024, a three-judge panel of the U.S. Court of Appeals f
 
 Badlands writer [[jon-herold|Jon Herold]] framed the ruling as the D.C. Circuit affirming Judge [[tanya-chutkan|Tanya Chutkan]]'s decision to deny Trump's immunity claims, and anticipated the appeal moving upward: "Supreme Court, here we come!"[9]
 
+## April 2024 Supreme Court oral argument
+
+On Thursday, April 25, 2024, the [[supreme-court-of-the-united-states|Supreme Court]] heard argument on the limits of presidential immunity in an unprecedented and historic case with significant implications for former [[donald-trump|President Donald Trump]], his legal fights, and the 2024 race for the White House.[10] Trump pressed an argument already rejected by two lower courts: that as a former executive he remains immune from prosecution for official actions taken while in office.[10] Prosecutors saw the novel argument as one that would put presidents beyond the reach of the criminal justice system even after leaving office.[10] Seated on the bench were three conservatives Trump had nominated — Justices Neil Gorsuch, Brett Kavanaugh, and [[amy-coney-barrett|Amy Coney Barrett]] — though observers noted the court's verdict could still cut against the presumptive GOP nominee's claims.[10]
+
+Reporting on the argument concluded that the already-slim likelihood of a criminal trial brought by special counsel [[jack-smith|Jack Smith]] before the 2024 election had dwindled further in the face of withering scrutiny from the court's conservative majority.[10] One by one, the six Republican-appointed justices took whacks at Smith's effort to quickly and cleanly reject the immunity claim arising from Trump's attempt to subvert the 2020 election.[10] Over more than two and a half hours, the justices instead forecast a result requiring lower courts to spend months analyzing aspects of the alleged election plot — from organizing fraudulent slates of electors to leaning on the Justice Department to sow false doubts about the results — in order to determine which acts count as sufficiently "official" presidential duties to be shielded from criminal charges.[10] Even a government victory in those proceedings would virtually ensure that no trial could occur until after the election.[10]
+
+[[d-john-sauer|D. John Sauer]] argued for Trump and [[michael-dreeben|Michael Dreeben]] argued for the Department of Justice, with much of the exchange focused on official versus private acts; the consensus among justices and attorneys alike was that a president has no immunity for private criminal acts, leaving the treatment of official acts as the open question.[10] Badlands Media commentary characterized the case law and binding precedent as sparse, attributing that to an immunity long understood and respected until, in the writer's telling, the Biden regime chose to blow it up to interfere with the coming election.[10] Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]] warned that complete presidential immunity could turn "the Oval Office into the seat of criminal activity in this country" and embolden future presidents to commit crimes in office, while Sauer replied that her fears were unwarranted because Trump was merely asking the court to follow the law as understood for 234 years.[10] Justice [[samuel-alito|Samuel Alito]] observed that "what we decide will apply to all future presidents," a point the Badlands writer turned into a symmetry argument: if Trump is immune, so is [[joe-biden|Biden]], and if Trump can be criminally prosecuted for official acts, then so can Biden.[10]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 2. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
@@ -80,3 +88,4 @@ Badlands writer [[jon-herold|Jon Herold]] framed the ruling as the D.C. Circuit 
 7. Badlands Brief — "Badlands News Brief: Biden Pushes Back as Peacemakers Posture", URL: https://badlands.substack.com/p/badlands-news-brief-528
 8. Badlands Brief — "Trumpian Rug Pulls, Biden Whispers & NATO Panic", URL: https://badlands.substack.com/p/badlands-news-brief-6c4
 9. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66
+10. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad

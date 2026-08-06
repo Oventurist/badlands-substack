@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, south-carolina, republicans, iran, neoconservatives]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-bb3.md]
 confidence: low
 ---
 
@@ -159,6 +159,10 @@ After the [[2025-oval-office-clash|February 2025 Oval Office clash]] between Pre
 
 Badlands contributor [[ashe-in-america|Ashe in America]] responded by cataloguing Graham's history of regime-change advocacy — Iraq from 2003, Libya in 2011, Syria from 2011, Iran from 2015, North Korea from 2017, Russia from 2022 including calls for [[vladimir-putin|Vladimir Putin]]'s assassination — and adding Ukraine in 2025 as the newest entry.[32] She noted that the pivot was a more complicated script than usual given that Graham had been "wearing Zelensky as a backpack up to the moment of the Oval Office smackdown."[32]
 
+## Pressure on Ukraine's draft age (2024)
+
+Amid the [[ukrainian-desertion-crisis|Ukrainian desertion crisis]] of 2024, in which Ukrainian prosecutors opened 51,000 desertion cases in nine months, Graham was among American politicians pressing Kyiv to lower its conscription age to 18 after Ukraine had already cut it from 27 to 25.[33] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] singled Graham out for scorn over the push, mocking him as "Lady Lindsey" and predicting he would ultimately answer for what the writer called a century of accumulated sins.[33]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -211,3 +215,4 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] wrote that while war 
 30. Badlands Brief — "Badlands News Brief: Debt Debacle, Russia Rages & Woke Whines", URL: https://badlands.substack.com/p/badlands-news-brief-98c
 31. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 32. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff
+33. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3

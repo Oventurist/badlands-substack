@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump-prosecutions, new-york, lawfare, gag-order, 2023]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0d4.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-360.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-4f8.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-995.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a21.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bc7.md, raw/badlands-news-brief-bec.md]
 confidence: medium
 ---
 
@@ -188,6 +188,31 @@ Badlands contributor [[burning-bright|Burning Bright]] noted that shares of DJT 
 
 On June 25, 2024, Justice [[juan-merchan|Juan M. Merchan]] loosened the gag order in the Manhattan case, allowing [[donald-trump|Trump]] to criticize witnesses who testified against him, including [[michael-cohen|Michael Cohen]], and providing that after his July 11 sentencing he could also publicly assail prosecutors and their relatives.[26] A separate order barring disclosure of juror identities or attacks on jurors by name remained in effect, though Merchan permitted broad complaints about the jury, writing that "it would be this court's strong preference to extend those protections" while concluding the law required dropping them.[26]
 
+## March 2023 Pre-Indictment Narrative Phase
+
+In the days before any indictment was returned, reporting that [[alvin-bragg|Alvin Bragg]] would charge the former president dominated national and social media, shaping the political environment in which the case unfolded.[27] Coverage focused on Bragg's decision to take the matter to a grand jury and on the invitation to [[donald-trump|Donald Trump]] to testify, a step traditionally read as a sign that jurors were prepared to indict.[27] Bragg publicly attributed the surrounding spectacle to Trump while refusing to cooperate with a House inquiry into his handling of the case.[27]
+
+Badlands commentary treated the pre-indictment phase as an information-warfare event rather than a purely legal one, arguing that Trump had seeded the indictment narrative himself and thereby extracted "all of the optical benefits of an Actual Event" from a merely potential one — smoking out political adversaries, blunting any coordinated media campaign, and further positioning himself as anti-establishment.[27] Polling conducted between March 17 and March 21, 2023 by [[mclaughlin-and-associates|McLaughlin & Associates]] was cited as evidence that the prosecution was backfiring politically, with Trump's standing improving in both general-election and primary matchups.[27]
+
+
+## Jury instructions and deliberations
+
+Jury deliberations opened on May 28, 2024 amid widespread criticism of Judge [[juan-merchan|Juan Merchan]]'s instructions.[28] [[jonathan-turley|Jonathan Turley]] called one element "the coup de grace instruction," noting that Merchan told jurors they need not agree on what occurred and could disagree over which of the three predicate crimes applied, meaning a 4-4-4 split would still be treated as unanimous.[28] Turley also pointed out that jurors would not be given written copies of the instructions but could ask for them to be read again, prompting Missouri Attorney General [[andrew-bailey|Andrew Bailey]] to call the arrangement "absolute insanity."[28] Mid-afternoon the jury sent a note with four specific requests to the court.[28] [[ashe-in-america|Ashe in America]] described the case as "the NY Election Interference" trial and wrote that the world was bracing for a guilty verdict.[28]
+
+During the same week the [[joe-biden|Biden]] re-election campaign abandoned six weeks of distance from the courthouse at 100 Centre Street and held its own surrogate event outside, with communications director [[michael-tyler|Michael Tyler]] telling reporters the campaign came "because you all are here."[28] [[burning-bright|Burning Bright]] argued the move meant Democrats were doubling down on a prosecution that had raised [[donald-trump|Trump]]'s poll numbers.[28]
+
+## October 2025 appeal
+
+On October 28, 2025, President [[donald-trump|Donald Trump]] submitted a 96-page appeal to a New York court seeking to overturn his conviction in the Manhattan hush money case, with his lawyers outlining multiple arguments for dismissal.[29] The brief argued federal law preemption — that the state statute used to convict him conflicts with federal campaign finance rules, so New York should not have prosecuted him under it.[29] It also invoked [[presidential-immunity|presidential immunity]], contending the trial wrongly admitted evidence and testimony about Trump's actions while president, citing Supreme Court rulings affirming immunity for official presidential acts.[29]
+
+The appeal further claimed the jury was not properly instructed to agree unanimously on which "unlawful acts" Trump allegedly committed, a potential violation of New York law, and that prosecutors failed to prove he intended to defraud anyone or cover up a crime.[29] Trump's team also argued that Justice [[juan-merchan|Juan Merchan]] should have recused himself for perceived partiality, citing his political contributions and statements.[29] The brief asked the court either to dismiss the charges entirely or to reverse the conviction.[29] Badlands contributor Chris Paul characterized the case as "a fake indictment based on mainstream media reporting and novel legal theories" that was never going to survive appellate review.[29]
+
+## The grand jury indictment (March 30, 2023)
+
+On Thursday, March 30, 2023, a Manhattan grand jury voted to indict [[donald-trump|Donald Trump]] for his alleged role in organizing hush money payments made to the adult film performer [[stormy-daniels|Stormy Daniels]] during his 2016 campaign, capping a yearslong probe.[30] [[cnn|CNN]] described the indictment as historic, marking the first time a former US president and major presidential candidate had ever been criminally charged.[30] Trump, a Florida resident, was expected to be arraigned the following week.[30]
+
+Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] argued that the prosecutors had chosen the worse of two options: declining to indict would have let Trump exhaust the political energy of a merely potential event, whereas indicting him "kicked off the greatest—and eventually most cathartic—presidential campaign in U.S. history ... and almost two years early."[30] He also read CNN's emphasis on the precedent as an inadvertent admission of the psychological effect of the move, asking which other names such a precedent might "come back around on in the coming years."[30]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
@@ -216,3 +241,7 @@ On June 25, 2024, Justice [[juan-merchan|Juan M. Merchan]] loosened the gag orde
 24. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
 25. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
 26. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+27. Badlands Brief — "Badlands News Brief: Bragg's Panic, Trump's Calm & China's Proposal", URL: https://badlands.substack.com/p/badlands-news-brief-b64
+28. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+29. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7
+30. Badlands Brief — "Badlands News Brief: Trump's Indictment, DeSantis & the Dollar", URL: https://badlands.substack.com/p/badlands-news-brief-bec

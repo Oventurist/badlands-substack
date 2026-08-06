@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, elections, nationalism, europe]
-sources: [raw/badlands-brief-50d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8cd.md]
+sources: [raw/badlands-brief-50d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -91,6 +91,12 @@ In a statement released in early May 2025, Germany's domestic intelligence agenc
 
 The AfD nearly tripled its support in municipal elections in Germany's most populous state, North Rhine-Westphalia, on Sunday, September 14, 2025, according to initial results, winning nearly 15 percent of the vote and finishing third.[14] The outcome underscored the party's growing appeal to voters outside its strongholds in the states of the former East Germany, where it is the strongest political force.[14] AfD leaders came to see the more populous west of the country — including the declining industrial cities of North Rhine-Westphalia, home to steel factories and a diminishing coal industry — as the key to expanding the party's base, particularly among working-class voters increasingly defecting to the far right.[14]
 
+## Thuringia and Saxony breakthrough (September 2024)
+
+On September 1, 2024 the AfD won its first state election in Germany since the Nazi era, taking 32 to 33 percent in Thuringia according to ARD and ZDF projections and finishing well ahead of the [[christian-democratic-union|Christian Democratic Union]]'s roughly 24 percent — see the [[2024-thuringia-state-election|2024 Thuringia state election]].[15] Projections also showed the party in close contention in neighboring Saxony, where the CDU had governed since reunification in 1990 and where both parties hovered around 31 to 32 percent, in the [[2024-saxony-state-election|2024 Saxony state election]].[15] Newsweek said the outcomes underscored deepening discontent with the government of Chancellor [[olaf-scholz|Olaf Scholz]].[15]
+
+Badlands commentary rejected the "return of the Nazis" framing entirely, arguing that the Nazis never left and that the Nazi high command had ruled continental Europe for 79 years through [[nato|NATO]] and later the [[european-union|European Union]], whose 1993 founding documents the writer said closely resemble the Third Reich's postwar plans for Europe.[15]
+
 ## References
 1. Badlands Brief — "Alternative Annexations & New(ish) Regime Change", URL: https://badlands.substack.com/p/badlands-brief-50d
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -106,3 +112,4 @@ The AfD nearly tripled its support in municipal elections in Germany's most popu
 12. Badlands News Brief — "Post Mortems, Dog Fights, & Flight Risks", URL: https://badlands.substack.com/p/badlands-news-brief-721
 13. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 14. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
+15. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

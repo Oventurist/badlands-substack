@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [january-6, congress, media, transparency, 2023]
-sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-970.md]
+sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-970.md, raw/badlands-news-brief-b92.md]
 confidence: medium
 ---
 
@@ -48,9 +48,16 @@ On Tuesday, February 28, 2023, House Republicans agreed to permit January 6 defe
 
 Badlands contributor [[chris-paul|Chris Paul]] framed the release as evidence that McCarthy was "beginning to silence the doubters," calling the turnover of January 6 footage — particularly to Carlson, described as "as big as it gets in mainstream media" — a significant development capable of rapidly disrupting the mainstream media narrative surrounding January 6.[1] The same commentary linked the footage decision to McCarthy's parallel maneuvering over [[ukraine-aid-funding-controversy|Ukraine aid]] in must-pass spending bills.[1]
 
+## Speaker Johnson's November 2023 public release
+
+On 17 November 2023 House Speaker [[mike-johnson|Mike Johnson]] announced that more than 40,000 hours of January 6 Capitol Police security video would be made public on a dedicated website starting immediately and ramping up in the coming months.[5] A senior congressional aide told The Epoch Times that individual video clips released to media or other requesters would have the faces of identifiable individuals blurred, a restriction that drew immediate fire from some January 6 criminal case defendants: "So while we are significantly expanding the amount of clips that will be available and who can request them, we will be blurring faces with respect to individuals who are identifiable," the source said.[5] "To restore America's trust and faith in their government we must have transparency," Johnson wrote on X, calling the move "another step towards keeping the promises I made when I was elected to be your Speaker."[5]
+
+[[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] highlighted that the tapes dropped a few hours before the Colorado ruling by Judge [[sarah-wallace|Sarah Wallace]], calling the timing "curious" because the judge had found that January 6 was an insurrection incited by [[donald-trump|Donald Trump]] while the videos directly undercut her legal conclusions.[5] She observed that new video cuts countering the January 6 committee narrative were being released daily, that "reruns are first runs for many," and that a great deal of due process must follow: "There were no mistakes in this narrative. It was a coverup and it was a crime."[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Dueling Presidents, Establishment Secrets & Info Wars", URL: https://badlands.substack.com/p/badlands-news-brief-12a
 2. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 3. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 4. Badlands Brief — "Drones in Russia, J6 Footage & Socialist Policies", URL: https://badlands.substack.com/p/badlands-news-brief-970
+5. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, georgia, nonprofits, green-energy, grants]
-sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-745.md]
+sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-b92.md]
 confidence: medium
 ---
 
@@ -23,6 +23,11 @@ In February 2025 the Environmental Protection Agency under Administrator Lee Zel
 
 Badlands commentary emphasized that Abrams "is all about elections" and is connected to a wide ecosystem of NGOs, making the size of the award significant.[2] It also noted that in January 2025 the Georgia Ethics Commission voted unanimously to fine two nonprofit organizations founded by Abrams after they admitted violating state law by campaigning for her 2018 gubernatorial campaign — a fact treated as directly relevant to the decision to route another $2 billion toward her network.[2] Commentators further pointed to her attendance at the Bilderberg meeting in 2019.[2]
 
+## Arrest of Jimmie Gardner (2023)
+
+In November 2023 Abrams's brother-in-law [[jimmie-gardner|Jimmie Gardner]] was arrested in Tampa, Florida, on human trafficking allegations, with the [[tampa-police-department|Tampa Police Department]] saying the 57-year-old had allegedly attempted to engage in sexual acts with a 16-year-old girl at a hotel at International Plaza.[3] Abrams was identified in coverage of the arrest as a former Georgia gubernatorial candidate; the item was carried by [[badlands-media|Badlands Media]] as part of a sequence on politically and media-connected figures charged in child exploitation cases.[3]
+
 ## References
 1. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
 2. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
+3. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, nuclear, foreign-ministry]
-sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-311.md]
+sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-b9e.md]
 confidence: medium
 ---
 
@@ -26,6 +26,15 @@ Badlands Media contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]]
 
 After Israeli troops launched an incursion into Syria and Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] declared his intent to expand Israeli holdings in the [[golan-heights|Golan Heights]], Ryabkov — as Russian Deputy Foreign Minister — issued the Kremlin's response, advising "hotheads" in West Jerusalem to refrain from trying to exploit the situation in Syria.[2] He warned that Israel should avoid being "intoxicated by opportunities" presented by the ongoing crisis.[2] Badlands read the remarks as evidence that Russia and Israel were on a collision course over the post-Assad settlement.[2]
 
+## Warning to Israel over Iran's nuclear facilities (October 2024)
+
+In mid-October 2024, Ryabkov told reporters that Russia warned Israel against even a hypothetical strike on [[iran|Iran]]'s nuclear facilities. "We have repeatedly warned and continue to warn and caution [Israel] against even hypothetically considering the possibility of an attack on [Iran's] nuclear facilities and nuclear infrastructure. This would be a catastrophic development and a complete rejection of the existing postulates in the sphere of nuclear security," he said.[3]
+
+The warning followed the [[islamic-revolutionary-guard-corps|IRGC]]'s massive ballistic and hypersonic missile barrage against Israel on the evening of October 1, launched in retaliation for the deaths of senior [[hamas|Hamas]], [[hezbollah|Hezbollah]], and IRGC leaders; Tehran claimed 90 percent of its missiles hit their targets while Israel said some 180 missiles were fired and most were intercepted.[3] Israel's Chief of the General Staff vowed to "choose the right time" to surprise Iran with an attack, and on October 11 Foreign Minister Sergei Lavrov said in Laos that striking Tehran's peaceful nuclear facilities in response would be a very serious provocation.[3]
+
+Badlands commentary paired the warning with an assessment that Israel's routes of attack were closing: Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] had barred Saudi airspace to both sides, Turkish airspace would risk a [[nato|NATO]] Article 5 claim by President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]], and Iraq — the only remaining corridor — was expected to be covered by Russian forces and the [[wagner-group|Wagner Group]].[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Playing the Opposite Game with Deep State Propaganda", URL: https://badlands.substack.com/p/badlands-news-brief-1ae
 2. Badlands Brief — "Theatrical Judges, Syrian Statements & Canadian Defections", URL: https://badlands.substack.com/p/badlands-news-brief-311
+3. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e

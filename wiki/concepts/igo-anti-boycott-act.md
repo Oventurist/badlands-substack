@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, israel, boycott, free-speech, congress]
-sources: [raw/badlands-news-brief-222.md]
+sources: [raw/badlands-news-brief-222.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
@@ -28,6 +28,15 @@ Critics of H.R. 867 argue that the legislation conflicts with the right to free 
 
 Commentary published in the *Badlands News Brief* by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] endorsed the criticism of Lawler and called for the entire Congress to be investigated for potential foreign influence.[1]
 
+## Right-wing revolt and collapse (May 2025)
+
+The bill collapsed in the week of 5 May 2025 after what Scheerpost described as a rare revolt by right-wing lawmakers who argued it posed a direct threat to Americans' First Amendment rights, despite backing from Republican leadership and [[aipac|AIPAC]].[2] As characterized in that reporting, H.R. 867 would have imposed fines of up to $1 million and prison terms of up to 20 years on Americans who supported international boycotts of Israel, including boycotts led by the United Nations.[2]
+
+Scheduled for a vote on Monday, the bill was abruptly pulled from the House calendar after backlash from a broad coalition of critics that included the [[council-on-american-islamic-relations|Council on American-Islamic Relations]] as well as conservative figures such as Representatives [[thomas-massie|Thomas Massie]], [[marjorie-taylor-greene|Marjorie Taylor Greene]] and [[matt-gaetz|Matt Gaetz]].[2] Greene stated: "I will be voting NO. It is my job to defend Americans' rights to buy or boycott whomever they choose without the government harshly fining them or imprisoning them."[2]
+
+Badlands contributor Jon Herold responded by asking why dual citizenship for elected officials had not been banned, and argued that AIPAC should not be permitted to lobby American politicians.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Intelligence Narratives & Seemingly Impossible Deals", URL: https://badlands.substack.com/p/badlands-news-brief-222
+2. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, judiciary, 2020-election]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -50,6 +50,16 @@ On Wednesday, March 13, 2024, McAfee quashed six counts of the Fulton County rac
 
 The ruling resolved a pending motion unrelated to the separate effort to disqualify District Attorney Fani Willis, on which McAfee's decision was expected within days.[8] Commentators divided over whether the dismissal signalled anything about his thinking on disqualification: Norm Eisen read it as a slight lean toward keeping Willis, while CNN's Elie Honig treated it purely as an embarrassing setback for the prosecution.[8]
 
+## Campaign donation to Fani Willis
+
+In February 2024 the Daily Caller reported that McAfee had made a small $150 donation to [[fani-willis|Fani Willis]]'s campaign for Fulton County District Attorney before his own appointment to the bench.[9] McAfee, sworn in on February 1, 2023 after being appointed by Republican Governor [[brian-kemp|Brian Kemp]], made the contribution in June 2020 while still working as an assistant U.S. Attorney for the [[department-of-justice|Department of Justice]], according to financial disclosures.[9] The New York Times had earlier reported that McAfee formerly worked under Willis when she led the complex trial division in the Fulton County District Attorney's Office.[9] Atlanta criminal defense attorney [[philip-holloway|Philip Holloway]] called the donation "nominal" but said it should still have been disclosed to the defendants so they could judge whether it amounted to a conflict of interest.[9]
+
+The disclosure came as McAfee was preparing to rule on whether Willis should be disqualified over allegations that she financially benefited from appointing her romantic partner [[nathan-wade|Nathan Wade]] to the Trump case, a decision expected within about a week.[9] [[ashe-in-america|Ashe in America]] wrote that while the donation was small and years old, the judge's failure to disclose it was concerning because even the appearance of impropriety can materially harm public trust.[9] She nonetheless credited McAfee with having been fair — allowing [[harrison-floyd|Harrison Floyd]] to explore evidence blocked in other courts, letting Willis speak at length on the stand, and reviewing Terrence Bradley's text messages in camera — and said his handling of the case had stirred in her some hope that justice still existed.[9] She also asked pointedly who benefited from the character assassination of the first judge who appeared fair.[9]
+
+## Bond decisions of August 21, 2023
+
+On Monday, August 21, 2023, McAfee set bond for [[donald-trump|Donald Trump]] at $200,000 in the [[state-of-georgia-v-trump|Fulton County election interference case]], along with $100,000 each for attorneys [[john-eastman|John Eastman]] and [[kenneth-chesebro|Kenneth Chesebro]], $50,000 for [[ray-smith-iii|Ray Smith III]], and $10,000 for [[scott-hall|Scott Hall]].[10] The bond agreements he approved barred every defendant from performing any act to intimidate a codefendant or witness or otherwise obstruct the administration of justice, with Trump's agreement expressly covering "no direct or indirect threat."[10] All nineteen defendants were required to report to the [[fulton-county-jail|Fulton County Jail]] for processing by noon that Friday.[10]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -60,3 +70,5 @@ The ruling resolved a pending motion unrelated to the separate effort to disqual
 6. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 7. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 8. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+9. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+10. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, qatar, gaza, international-law, middle-east]
-sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-988.md]
+sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-b53.md]
 confidence: medium
 ---
 
@@ -48,7 +48,14 @@ The [[white-house|White House]] confirmed that Trump had directed Special Envoy 
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that Netanyahu had "really stepped in it this time," writing that bombing Doha — a city that came to symbolize peace after the [[doha-agreement|Doha agreement]] between Trump and the Taliban in 2020 — might in hindsight prove one of the worst decisions of Netanyahu's political career.[3] He noted that Emir [[tamim-bin-hamad-al-thani|Sheikh Tamim]] is one of Trump's oldest friends in the Middle East, and that Trump had mediated the rivalry between Tamim and Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] during the [[qatar-diplomatic-crisis-2017|2017 blockade of Qatar]].[3] He concluded that Americans must choose between honoring a new friendship with the Arab states and remaining "captive to the narratives of yesteryear."[3]
 
+## Netanyahu's apology at the White House (September 2025)
+
+On Monday, September 29, 2025, the White House said that Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] had apologized to [[qatar]] for striking its territory, during a meeting with President [[donald-trump|Donald Trump]].[4] The Israeli military had targeted senior Hamas leadership in Qatar with an airstrike earlier that month, also killing a Qatari security official.[4] Trump had distanced himself from the decision to strike a top Middle East ally, writing on Truth Social at the time that it "does not advance Israel or America's goals"; Qatar has been a key host of talks aimed at a ceasefire between Israel and Hamas and hosts about 10,000 U.S. troops.[4]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the White House scene as "nothing short of a humiliation ritual," arguing that the image of Netanyahu telephoning Sheikh Tamim Al Thani of Qatar to apologize for the missile fired into Doha would not soon be forgotten in the Islamic world, and that it was Trump who forced the apology.[4] He contended that the Eastern world respects strength and honor and that such acts would help win Muslim trust on the road to the Golden Age, citing as further evidence Trump's suggestion at the press conference that questions about the proposed peace deal be deferred since the other side had not yet reviewed it, before offering Netanyahu a question from "a friendly Israeli reporter" — an exchange in which Netanyahu was said to stumble for words.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
 2. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 3. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
+4. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53

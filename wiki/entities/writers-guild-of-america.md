@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, union, hollywood, strikes, artificial-intelligence]
-sources: [raw/a-time-to-strike.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-5ec.md]
+sources: [raw/a-time-to-strike.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ By July 2023 the 11,000 WGA screenwriters who had been on strike since May were 
 
 On September 24, 2023 the Writers Guild reached a tentative agreement with the [[alliance-of-motion-picture-and-television-producers|Alliance of Motion Picture and Television Producers]] to end its strike after nearly five months, and picketing was suspended.[3] The parties finalized the framework of the deal after untangling a stalemate over artificial intelligence and writing-room staffing levels.[3] The guild told members it had "reached a tentative agreement on a new 2023 MBA, which is to say an agreement in principle on all deal points, subject to drafting final contract language," an announcement that came just after sunset and the start of Yom Kippur following five days of long negotiations.[3] Details were withheld pending release ahead of membership ratification votes.[3]
 
+## June 2023: sixth week of the strike
+
+By the June 9, 2023 Badlands News Brief, the WGA strike had entered its sixth week with no deal in sight.[4] Production and writers rooms had shut down across all of late-night television and on major series including ABC's *Abbott Elementary* and Netflix's *Stranger Things*, while some productions such as the U.K.-based set of Amazon Prime's *The Lord of the Rings: The Rings of Power* continued shooting with nonwriting producers.[4] That same week [[sag-aftra|SAG-AFTRA]] authorized a strike by a roughly 98 percent margin while the [[directors-guild-of-america|Directors Guild of America]] reached a separate tentative deal with the studios, a split Badlands commentary characterized as a collapse of guild solidarity.[4]
+
 ## References
 1. Badlands Brief — "A Time to Strike", URL: https://badlands.substack.com/p/a-time-to-strike
 2. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 3. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
+4. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

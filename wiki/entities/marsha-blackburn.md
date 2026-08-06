@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, tennessee, republican, threats]
-sources: [raw/badlands-news-brief-779.md]
+sources: [raw/badlands-news-brief-779.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ The case was carried in the [[badlands-media|Badlands Media]] news brief as a bo
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Grand Juries, Pressure Campaigns, & Elaborate Hoaxes", URL: https://badlands.substack.com/p/badlands-news-brief-779
+
+## June 2025 reaction to the China election intelligence disclosure
+
+After [[kash-patel|FBI Director Kash Patel]] disclosed the recalled 2020 intelligence alleging a Chinese plot to manufacture fraudulent mail-in votes, Blackburn posted a public response that Badlands contributor [[chris-paul|Chris Paul]] argued should have drawn "unbridled rage" from MAGA rather than encouragement, contending that she was lying both about not having known and about the solution she proposed, and asking why anyone would settle for such a reply after five years of lies from the establishment GOP.[2] See [[fbi-recall-of-2020-china-election-intelligence|FBI recall of 2020 China election intelligence]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

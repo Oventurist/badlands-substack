@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, russia, ukraine-war, kursk, badlands-brief]
-sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md]
+sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bbb.md]
 confidence: medium
 ---
 
@@ -137,6 +137,12 @@ On October 15, 2024, [[north-korea|North Korea]] blew up the northern sections o
 
 In late June 2024, Kim announced that he would send North Korean troops to fight alongside Russian forces in [[ukraine|Ukraine]], a move circulated via BRICS-focused accounts on X.[20] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] had joked on the program Breaking History that the gesture must be symbolic, since North Korean troops could not be more effective than battle-hardened Russian troops, but retracted the quip after seeing footage circulating on X — offering an apology to "Mr. Supreme Leader."[20] He folded the deployment into a broader speculative scenario in which [[nato|NATO]] and the [[israel-defense-forces|IDF]] confront a coalition of Arabs, Russians and North Koreans in the Middle East.[20]
 
+## Vladivostok summit toast (September 2023)
+
+At the [[2023-kim-jong-un-putin-vladivostok-summit|September 13, 2023 Vladivostok meeting]] with [[vladimir-putin|Vladimir Putin]], Kim praised a "heroic" Russian army that he said Putin would lead to a "great victory" over its enemies.[21] Raising a toast at an official dinner, Kim said, "We are confident that the Russian army and people will win a great victory in the just fight to punish evil groups who pursue hegemony, expansion, and ambition," and added on Russian television, "I will always be standing with Russia."[21] Putin replied that "An old friend is better than two new ones" and hailed "the future strengthening of cooperation and friendship between our countries."[21]
+
+Roughly two hours of one-on-one talks preceded the dinner, with heavy speculation that they concerned Moscow buying North Korean ammunition for use in [[ukraine|Ukraine]].[21] Putin toured Russia's Far East spaceport, the Vostochny Cosmodrome, with Kim and observed that "the leader of the DPRK shows great interest in rocket technology, and they are trying to develop (their presence in) space."[21] As the two leaders — cast by the West as "pariahs" — prepared to meet, Pyongyang fired two ballistic missiles into the sea in a further warning to [[south-korea|South Korea]] and the United States.[21]
+
 ## References
 1. Badlands Brief — "Rigged Maps, Russian Grain, & Maduro's Billable Hours", URL: https://badlands.substack.com/p/badlands-brief-9f2
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -158,3 +164,4 @@ In late June 2024, Kim announced that he would send North Korean troops to fight
 18. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 19. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 20. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
+21. Badlands Brief — "Badlands News Brief: The Info War is Getting Stranger ...", URL: https://badlands.substack.com/p/badlands-news-brief-bbb

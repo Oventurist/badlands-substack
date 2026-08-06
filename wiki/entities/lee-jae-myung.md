@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [south-korea, heads-of-state, alliance]
-sources: [raw/badlands-brief-fcb.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a98.md]
+sources: [raw/badlands-brief-fcb.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-bd7.md]
 confidence: medium
 ---
 
@@ -40,6 +40,12 @@ Badlands commentary reported that $150 billion of the $350 billion would be inve
 
 During the same trip, Trump said that scheduling would not permit a rumored meeting with [[kim-jong-un|Kim Jong Un]]; GhostofBasedPatrickHenry expressed skepticism, recalling that Trump's May 2018 cancellation of a Kim summit was followed by the Singapore meeting anyway.[6]
 
+## First anniversary of the martial law crisis (December 2025)
+
+Marking the first anniversary of the December 3, 2024 martial law declaration, Lee said on Wednesday, December 3, 2025, that work remained to be done to address the fallout of his predecessor's failed bid and that the country had to ensure the perpetrators were brought to justice.[7] He said the action by former President [[yoon-suk-yeol|Yoon Suk Yeol]] had threatened an irreparable setback, but that the people rose up and stopped the military with their bare hands.[7] "The recklessness of those who tried to destroy constitutional order and even plan a war all for their personal ambitions must be brought to justice," Lee said, adding that "the December 3 coup d'etat was not just a crisis for democracy in one country," because the collapse of South Korean democracy would have meant a setback for world democracy.[7]
+
+Reporting noted that Yoon's declaration plunged a country long viewed as a democratic success story into months of turmoil, just as President [[donald-trump|Donald Trump]]'s tariffs on global trading partners rattled South Korea's export-reliant economy.[7] Yoon was ousted, and Lee — who had lost to him in the 2022 presidential poll — won a snap election in June with a mandate to steer the country out of the shock, while those accused of involvement were arrested and tried for subversion.[7] Since taking office Lee had struck a U.S. tariff deal after two summits with Trump, though deep social fissures remained and conservatives voiced concerns about persecution.[7] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote satirically of the affair as the "Great Poop Balloon War of '24" and concluded that Lee "seems like a great friend to America and the MAGA movement," which he said was the best that could be asked of foreign leaders.[7]
+
 ## References
 1. Badlands Brief — "The Never-Ending, "Very Complete," Bicameral War", URL: https://badlands.substack.com/p/badlands-brief-fcb
 2. Badlands Brief — "Badlands News Brief: Korea Joins the Shenanigans as Drama Gives Way to Comedy", URL: https://badlands.substack.com/p/badlands-news-brief-2f5
@@ -47,3 +53,4 @@ During the same trip, Trump said that scheduling would not permit a rumored meet
 4. Badlands Brief — "Badlands News Brief: Shutdown Consequences, Canadian Propaganda, & Console War Conclusions", URL: https://badlands.substack.com/p/badlands-news-brief-545
 5. Badlands Brief — "Badlands News Brief: ICE Swarms, TikTok Pivots, & Shoes Stay On", URL: https://badlands.substack.com/p/badlands-news-brief-6af
 6. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+7. Badlands Brief — "Bogus Visas, Brazilian Sanctions, and Foreign Boat Battles", URL: https://badlands.substack.com/p/badlands-news-brief-bd7

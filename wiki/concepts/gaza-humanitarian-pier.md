@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gaza, humanitarian-aid, us-military, biden-administration, israel]
-sources: [raw/badlands-news-brief-a21.md]
+sources: [raw/badlands-news-brief-a21.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -26,6 +26,15 @@ The pier operation had already been paused for two days the previous week after 
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] compared the episode to the Afghanistan withdrawal "in terms of slapstick comedy and shameless buffoonery," suggesting the spectacle of a $320 million structure coming apart and dragging tug boats ashore read like a deliberate jolt to observers lost in "hyper-analysis."[1] Writing sardonically, the commentator said the imagery humiliated the global hegemony and highlighted its weakness and incompetence, "foreshadowing their impending demise," while invoking the [[4th-psychological-operations-group|4th Psyop Group]] inflatable-tank deceptions of the Second World War and the widely circulated footage of Afghan teenagers running alongside a departing C-17 Globemaster.[1]
 
+## Structural failure and removal, May 2024
+
+On Tuesday, May 28, 2024, the [[pentagon|Pentagon]] announced that the pier was being temporarily removed after a section of the structure broke off, a further setback to aid delivery efforts for Palestinians.[2] Pentagon spokesperson [[sabrina-singh|Sabrina Singh]] said the separated portion would be towed over the following 48 hours to Ashdod port in Israel for repairs, that the work would take over a week, and that the pier would then be returned to its position off the Gaza coast.[2] U.S. officials speaking anonymously told Reuters that bad weather was believed to have caused the break.[2] The pier had been announced by [[joe-biden|Joe Biden]] in March 2024, was estimated to cost $320 million for its first 90 days, involved about 1,000 U.S. service members, and had been operational for roughly two weeks.[2]
+
+### Badlands commentary
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described the breakdown as a completed "humiliation event" with a spirit similar to the Afghanistan withdrawal, and revisited speculation that the pier was intended to evacuate refugees to Europe and the United States.[2] He pointed to a circulating map of the evacuation routes Israel had instructed Palestinians to follow — residents of northern Gaza told to head south, residents of Rafah told to head north, with roughly a million people reported to have left Rafah — arguing that the two flows converged precisely where the pier had been installed.[2] Noting that the IDF bulldozed Gaza's only airport, Yasser Arafat International, in 2002 and that all crossings out of Gaza had recently been closed, he contended the pier would represent the only route for moving displaced people out, and concluded that the next major migrant crisis may have been averted or delayed.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
+2. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

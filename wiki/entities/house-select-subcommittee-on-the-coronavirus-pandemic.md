@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, covid-19, wuhan]
-sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-af7.md]
+sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -38,8 +38,15 @@ On Tuesday, September 3, 2024, the subcommittee posted a series of statements on
 
 On March 5, 2023, the subcommittee released a memo presenting new evidence that [[anthony-fauci|Dr. Anthony Fauci]] had "prompted" the creation of the [[proximal-origin-paper|"Proximal Origin of SARS-CoV-2"]] paper by a cadre of scientists in order to disprove the COVID-19 [[lab-leak-theory|lab-leak theory]].[4] The memo described a February 1, 2020 conference call involving Fauci, [[national-institutes-of-health|NIH]] Director [[francis-collins|Dr. Francis Collins]] and at least eleven other scientists, several of whom warned that the virus may have leaked from a lab in Wuhan and may have been intentionally genetically manipulated, and noted that four of those participants drafted the paper three days later and sent it to Fauci and Collins.[4]
 
+## Request for Fauci's personal communications (May 2024)
+
+On May 29, 2024, subcommittee chairman [[brad-wenstrup|Brad Wenstrup]] requested access to the personal email and cellphone records of former National Institute of Allergy and Infectious Diseases director [[anthony-fauci|Anthony Fauci]], ahead of Fauci's testimony before the panel the following week.[5] Wenstrup said new evidence indicated that Fauci had used personal channels for government business.[5]
+
+The request followed a 2021 email in which Fauci's senior advisor [[david-morens|David Morens]] told former [[ecohealth-alliance|EcoHealth Alliance]] president [[peter-daszak|Peter Daszak]] that he could route material to Fauci privately to dodge Freedom of Information Act requests, writing that Fauci "is too smart to let colleagues send him stuff that could cause trouble."[5] Wenstrup opened an investigation into what he called a "secret back channel" that Morens had referenced in separate correspondence.[5]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Wuhan Leak, AZ Claims & Gender Wars", URL: https://badlands.substack.com/p/badlands-news-brief-238
 2. Badlands Brief — "Badlands News Brief: Sovereign Signals, New(ish) Alliances & Reckonings", URL: https://badlands.substack.com/p/badlands-news-brief-316
 4. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+5. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

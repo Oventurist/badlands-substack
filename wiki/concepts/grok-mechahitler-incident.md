@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [artificial-intelligence, grok, xai, elon-musk, content-moderation]
-sources: [raw/badlands-news-brief-201.md]
+sources: [raw/badlands-news-brief-201.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -24,5 +24,10 @@ Badlands contributor Ashe in America compared the episode to a 2023 incident in 
 
 According to an account circulating on X — sourcing the commentary itself acknowledged was weak, but which it chose to run with pending debunking — a Grok developer wanted the world to see what the tool was capable of and tweaked the code accordingly, meaning that everything Grok said during the episode was "well substantiated" per its own instructions.[1] The story concluded with the developer being fired, reportedly without regrets, having wanted people to know what Grok could do.[1] Andrew Torba, the Gab founder, was said to have broadly confirmed the account and to have stated the underlying point openly.[1] The Badlands commentary closed by invoking the maxim that the most entertaining outcome is the most likely.[1]
 
+## Aftermath
+
+[[xai|xAI]] was forced to remove the inappropriate Grok posts from [[x-corp|X]], which included antisemitic comments and replies to users, and stated that "since being made aware of the content, xAI has taken action to ban hate speech before Grok posts on X."[2] [[elon-musk|Elon Musk]] unveiled [[grok-4|Grok 4]] on the night of July 9, 2025, one day after the removals, and the controversy coincided with [[linda-yaccarino|Linda Yaccarino]]'s resignation as X chief executive.[2] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said he had warned of this trajectory nearly two years earlier on Badlands Daily when [[glenn-youngkin|Glenn Youngkin]] signed what he described as the nation's first antisemitism hate speech law conflating the definition with anti-Zionism.[2]
+
 ## References
 1. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
+2. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, commerce, trump-administration, congress]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a5d.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-0a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-7c6.md, raw/badlands-brief-959.md, raw/badlands-brief-eea.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b53.md]
 confidence: medium
 ---
 
@@ -87,6 +87,12 @@ In May 2025, Lutnick reportedly agreed to transfer his stake in [[cantor-fitzger
 
 Commenting in the May 21, 2025 [[badlands-news-brief|Badlands News Brief]], [[gmoney|GMONEY]] redirected attention to Cantor Fitzgerald's portfolio, noting that the firm had bought 1.07 million [[microstrategy|Strategy]] ($MSTR) shares for $326.53 million at an average price of $304 per share in the first quarter of 2025, bringing total holdings to 4.65 million shares worth more than $1.93 billion — roughly 49.98% of the firm's portfolio — and asking why it was not buying the tokens named in Trump's crypto executive order instead.[14]
 
+## Seizure of the CHIPS initiative from Natcast (September 2025)
+
+In September 2025 Lutnick's [[department-of-commerce|Commerce Department]] abruptly yanked funding from [[natcast]], the Silicon Valley nonprofit the Biden administration had chosen to lead a $7.4 billion semiconductor initiative, leaving the program in limbo, triggering mass layoffs, and pushing the group to the brink of shutdown.[15] Lutnick derided the little-known organization as a "semiconductor slush fund that did nothing but line the pockets of Biden loyalists with American tax dollars," basing his incursion on charges that it was not on sound legal footing and saying his goal was to keep control of federal funds.[15] Politico described the episode, reported after interviews with more than 50 people, as the most extensive account to date of the fallout from his decision to reclaim billions approved under former President Joe Biden.[15]
+
+Badlands contributor [[jon-herold|Jon Herold]] argued that such headlines become comical once one understands [[switch-theory|switch theory]] and that the chips initiative was really [[donald-trump|Trump's]] to begin with.[15]
+
 ## References
 
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
@@ -103,3 +109,4 @@ Commenting in the May 21, 2025 [[badlands-news-brief|Badlands News Brief]], [[gm
 12. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
 13. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 14. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
+15. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, benghazi, libya, weapons]
-sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md]
+sources: [raw/a-dereliction-of-duty.md, raw/always-fight-back.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-314.md, raw/badlands-brief-40d.md, raw/badlands-brief-52f.md, raw/badlands-brief-b74.md, raw/badlands-brief-8db.md, raw/badlands-brief-c91.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3df.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-547.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-b9e.md]
 confidence: medium
 ---
 
@@ -201,6 +201,32 @@ Ahead of the June 2024 presidential debate, Hillary Clinton wrote an opinion pie
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], writing in the same brief about the June 2024 attacks in [[dagestan|Dagestan]], characterized [[isis|ISIS]] as a mercenary group created by Clinton as secretary of state under President [[barack-obama|Barack Obama]] and destroyed in a joint effort by Trump and [[vladimir-putin|Vladimir Putin]] in 2019.[32]
 
+## Mentions in the June 2023 news cycle
+
+Clinton featured twice in the Badlands News Brief for June 26, 2023.[33] On the Bedminster audio released by [[cnn|CNN]], [[donald-trump|Donald Trump]] and his aides joked about her private email practices: after a staffer said "Hillary would print that out all the time, you know. Her private emails," Trump replied, "No, she'd send it to [[anthony-weiner|Anthony Weiner]]," prompting laughter.[33]
+
+Separately, [[patrick-byrne|Patrick Byrne]]'s article in [[capitol-times-magazine|Capitol Times Magazine]] recapped his account of a blackmail scheme against Clinton in which he says he acted with federal authorities, adding the new assertion that when the FBI dropped the sting on Clinton, agents also threatened his life.[33]
+
+## COP28 extreme heat claims (December 2023)
+
+Addressing the [[cop28|COP28]] climate conference in December 2023, Clinton claimed that "extreme heat" had killed half a billion people, most of them women and girls, without citing a source.[34] She said that climate-related deaths were beginning to be counted and recorded and that "by far the biggest killer is extreme heat," asserting that extreme heat had killed 61,000 people in Europe during the previous summer.[34] "We don't have that kind of number yet from Africa, Asia, Latin America but we know and estimate that we probably could measure about 500,000 deaths and the majority of those are women and girls and particularly pregnant women," she added.[34]
+
+[[badlands-media|Badlands Media]] writer [[ashe-in-america|Ashe in America]] treated the remarks as a signal that "the new regime talking points have dropped" ahead of the 2024 election season, pairing them with [[bill-nye|Bill Nye]]'s statement that voting was the most important climate action, and noted rumors that Clinton might mount another presidential run should [[joe-biden|Joe Biden]] be replaced by his own party.[34]
+
+## "We lose total control" remarks on social media censorship (2024)
+
+In early October 2024, Clinton told CNN host Michael Smerconish that social media companies must moderate content on their platforms or else "we lose total control."[35] Critics asked who exactly Clinton meant by "we," suggesting the referent was not the American people but what they termed the Censorship Blob — a mixture of federal agencies, legacy media, big tech, and fact-checkers that had held a monopoly on narrative control for decades.[35]
+
+Clinton pointed to state-level action, saying "We can look at the state of California, the state of New York, I think some other states have also taken action," but added that "we need national action, and sadly, our [[congress|Congress]] has been dysfunctional when it comes to addressing these threats to our children."[35] She called for repealing [[section-230|Section 230]] of the Communications Act, which shields social media platforms from liability for third-party content, arguing that the original view of platforms as mere "pass-throughs" was "an overly simple view."[35] She warned that if platforms "whether it's Facebook or Twitter/X or Instagram or TikTok, whatever they are," fail to moderate and monitor content, "we lose total control," and stressed that the consequences were not merely social and psychological but "real life."[35]
+
+Badlands commentary treated the remarks as evidence of establishment panic at the collapse of narrative dominance, drawing an analogy to the [[hartford-convention|Hartford Convention]] of 1814 and the decline of the [[federalist-party|Federalist Party]], and arguing that some actors care about power so completely that they would rather see the world burn than see somebody else wield it.[35]
+
+## October 2024 re-emergence in the campaign narrative
+
+Badlands commentary in mid-October 2024 placed Clinton at the center of an alleged intra-establishment maneuver during the closing weeks of the presidential race.[36] [[burning-bright|Burning Bright]] wrote that Clinton had re-entered the narrative cycle on the back of a book tour while invoking Pizzagate as a cautionary tale, in what he read as an attempt to front-run a Kamala-themed October surprise; in his framing, the surprise would emanate from the [[deep-state|Deep State]] rather than from patriots, and Clinton's concern was not the surprise itself but that it might be traced back to her.[36]
+
+The same commentary argued that Clinton's round of endorsements for [[kamala-harris|Kamala Harris]] amounted to slotting herself deliberately into the election storyline, and that Harris — aware of this — had grown "increasingly unhinged" as her campaign collapsed, which was offered as the reason she skipped the [[alfred-e-smith-memorial-foundation-dinner|Al Smith Dinner]] where [[donald-trump|Donald Trump]] had previously trained his rhetorical fire on Clinton.[36] Writing after the leaked [[ethel-kennedy|Ethel Kennedy]] memorial exchange between [[joe-biden|Joe Biden]] and [[barack-obama|Barack Obama]], Burning Bright framed the closing weeks as a possible "intra-Deep State Royal Rumble," with Obama forced to choose between Biden and "a fresh Clinton Coup."[36]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
@@ -234,3 +260,7 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], writ
 30. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 31. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 32. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+33. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+34. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
+35. Badlands Brief — "Badlands News Brief: The Trump-Musk Pincer Closes as Disaster Strikes the Regime", URL: https://badlands.substack.com/p/badlands-news-brief-b78
+36. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e

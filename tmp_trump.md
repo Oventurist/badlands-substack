@@ -1,7 +1,0 @@
-## Post-conviction polling, June 2024
-
-Polls taken immediately after Trump's May 2024 conviction on 34 counts showed no negative impact on his support and even a slight increase in favorability, particularly among independent voters.[187] A Daily Mail poll conducted by J.L. Partners found 22 percent of respondents held a more positive view of Trump as a result of the conviction, against 16 percent who held a more negative view — a net 6 percentage point boost, indicating the prosecution had backfired.[187]
-
-[[burning-bright|Burning Bright]] observed that the largest swings toward Trump came among independents and voters born after 1981 — Millennials and Generation Z — demographics respectively described as politically homeless and as among the hardest to reach in the early MAGA era, and noted that voter enthusiasm leaned heavily toward Trump.[187] He argued that although attempts at election interference might still be made, doing so amid an accelerating public mandate for Trump and Agenda 47 risked shattering the final illusions of establishment control.[187]
-
-Reacting to the verdict, Senator [[rand-paul|Rand Paul]] warned of possible "war in the streets" stemming from the weaponization of the justice system.[187] [[ashe-in-america|Ashe in America]] responded that she was not concerned about violence from ordinary Americans, who were instead advocating for and donating to Trump, and predicted he would decisively win the popular vote and hold the people's mandate by Election Day.[187]

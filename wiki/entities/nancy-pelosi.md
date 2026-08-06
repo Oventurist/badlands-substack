@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -82,6 +82,12 @@ In August 2024 The New Yorker profiled Pelosi under the heading "Nancy Pelosi's 
 
 In January 2023, Pelosi's daughter [[alexandra-pelosi|Alexandra Pelosi]] told The New York Times that the [[paul-pelosi-attack|attack on Paul Pelosi]] had weighed heavily on her mother, who over Thanksgiving "had priests coming, trying to have an exorcism of the house and having prayer services" at the family's San Francisco home.[11] The [[archdiocese-of-san-francisco|Archdiocese of San Francisco]] subsequently told [[the-gateway-pundit|The Gateway Pundit]] that it was "unaware of the exorcism question you raised," undercutting the account.[11] Badlands contributor [[ryan-delarme|Ryan DeLarme]] dismissed the story as a publicity stunt or falsehood, while speculating it might have been coded messaging that the house "was now clean."[11]
 
+## Remarks on migrant amnesty (August 2024)
+
+On Friday, August 30, 2024, Pelosi appeared on [[bill-maher|Bill Maher]]'s "Real Time" and, in ZeroHedge's characterization, "said the quiet part out loud" by openly stating her desire to turn all undocumented migrants into documented ones.[12] She also voiced support for providing subsidized housing for illegal aliens.[12]
+
+ZeroHedge framed the remarks against what it called the devastating effects of the Biden-Harris administration's open border policies, citing millions of unvetted illegal entrants including ISIS-linked individuals, Iranian assassins hunting former Trump officials, cartel and Chinese Communist Party fentanyl trafficking blamed for more than 100,000 American overdose deaths a year, and armed Venezuelan prison gangs seizing control of apartment complexes in Colorado.[12] [[badlands-media|Badlands Media]] contributor Ashe in America wrote that Pelosi "should be in prison," accusing her of co-signing [[gavin-newsom|Gavin Newsom]]'s plan to give free housing to what she termed criminal invaders while admitting that the open-border plan amounts to mass amnesty.[12] The commentary noted that Colorado authorities were dismissing the apartment takeovers as isolated incidents, and cited reports on X that the Hell's Angels were en route to Aurora, Colorado.[12]
+
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -94,3 +100,4 @@ In January 2023, Pelosi's daughter [[alexandra-pelosi|Alexandra Pelosi]] told Th
 9. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
 10. Badlands News Brief — "Kamala Takes the Cheese as Things Get Weird Out East", URL: https://badlands.substack.com/p/badlands-news-brief-441
 11. Badlands Brief — "Badlands News Brief: FBI Charges, Exorcisms and ... Woke M&M's?", URL: https://badlands.substack.com/p/badlands-news-brief-8f3
+12. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

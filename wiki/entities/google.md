@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, big-tech, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
@@ -70,7 +70,22 @@ Badlands commentary was skeptical that reinstatement was sufficient. [[chris-pau
 
 In February 2024 Google faced sustained criticism after its [[google-gemini|Gemini]] AI image generator was documented producing historically inaccurate "diverse" outputs, including black Vikings, and appearing to exclude white people from image results.[12] [[jack-krawczyk|Jack Krawczyk]], Senior Director of Product Management for Gemini Experiences, told Fox News Digital the company was "working to improve these kinds of depictions immediately," conceding the product was "missing the mark here" while defending the broader goal of generating "a wide range of people."[12] Critics questioned whether the statement amounted to an apology at all, and treated the episode as evidence of ideological bias deliberately encoded into Google's consumer AI products.[12]
 
+## DOJ breakup proposal (November 2024)
+
+In November 2024, U.S. regulators asked a federal judge to break up Google to prevent it from continuing to suppress competition through its dominant search engine, after a court found the company had maintained an abusive monopoly over the previous decade.[13] The proposed remedy, floated in a 23-page filing by the [[department-of-justice|Department of Justice]], called for the sale of Google's Chrome web browser and restrictions preventing Android from favoring Google's own search engine.[13] DOJ lawyers argued that a sale of Chrome "will permanently stop Google's control of this critical search access point and allow rival search engines the ability to access the browser that for many users is a gateway to the internet."[13] Regulators stopped short of demanding a sale of Android but asserted the judge should make clear that divestiture of the smartphone operating system could still be required if an oversight committee continued to see evidence of misconduct.[13] The proposal followed an August ruling by U.S. District Judge [[amit-mehta|Amit Mehta]] branding the company a monopolist.[13]
+
+Badlands commentary opposed the action as federal overreach, arguing that market dominance does not automatically equal monopoly, that Chrome is one of many browsers available, and that default-installation agreements with hardware makers closely resemble the Microsoft/Windows claims long ago rejected by U.S. courts.[13] The commentary allowed that AdWords practices or search manipulation and suppression might involve genuinely criminal conduct, but held that a superior product stack producing market dominance is not itself a monopoly, and looked to the incoming Trump DOJ to take a liberty-preserving approach.[13]
+
+## Stock decline over Apple AI search testimony (May 2025)
+
+Google's stock fell sharply in May 2025 after an [[apple|Apple]] executive testified in court that the iPhone maker was considering adding artificial intelligence search engines to its web browser as search traffic declined.[14] The share price tumbled 9 percent on the Wednesday that [[eddy-cue|Eddy Cue]], Apple's senior vice president of services, took the stand, before recovering by nearly 2 percent the following day.[14] Cue testified that Safari search traffic had fallen for the first time the prior month because of AI, and said Apple would likely add AI search providers such as OpenAI, Anthropic and Perplexity to the browser, though "they probably won't be the default."[14]
+
+## Pause of Gemini image generation (February 2024)
+
+On February 22, 2024, [[alphabet|Alphabet’s]] Google announced on X that its artificial intelligence model [[google-gemini|Gemini]] would pause the image generation of people, after the model produced numerous images of black and Asian people when prompted but declined to do the same for white people.[15] “We’re already working to address recent issues with Gemini’s image generation feature. While we do this, we’re going to pause the image generation of people and will re-release an improved version soon,” the company wrote, adding that it was “aware that Gemini is offering inaccuracies in some historical image generation depictions.”[15] [[elon-musk|Elon Musk]] responded by calling the product’s head, [[jack-krawczyk|Jack Krawczyk]], “a racist douchenozzle” over his past postings on X.[15] Badlands contributor [[simon-esler|Simon Esler]] treated the episode as a case of “garbage in, garbage out,” attributing the outcome both to companies deliberately embedding critical race theory in their systems and to models trained on decades of mainstream news reproducing existing cultural bias.[15]
+
 ## References
+
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands News Brief — "Trump Doubles Down as Kamala Crumbles", URL: https://badlands.substack.com/p/badlands-news-brief-020
 3. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
@@ -83,3 +98,6 @@ In February 2024 Google faced sustained criticism after its [[google-gemini|Gemi
 10. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 11. Badlands Brief — "Lawfare Losers & Azov-Adjacent Suicide Attempts", URL: https://badlands.substack.com/p/badlands-news-brief-880
 12. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
+13. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65
+14. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+15. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

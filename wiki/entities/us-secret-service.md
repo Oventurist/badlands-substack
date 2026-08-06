@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-enforcement, presidential-protection, mar-a-lago, security]
-sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-a0c.md]
+sources: [raw/badlands-brief-285.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-bcc.md]
 confidence: high
 ---
 
@@ -55,6 +55,10 @@ They also detailed how agents lost contact with one another on radios and cell p
 
 Badlands writer [[ashe-in-america|Ashe in America]] argued that the failure of protective agencies to conduct after-action reviews and remedial training in response to these shortcomings may have paved the way for the 13 July 2024 assassination attempt on [[donald-trump|Donald Trump]], and questioned why the material had been suppressed during [[anderson-v-griswold|Anderson v. Griswold]].[7]
 
+## Post-Butler security posture
+
+Following the [[attempted-assassination-of-donald-trump-2024|July 13, 2024 assassination attempt]], the Secret Service encouraged [[donald-trump|Donald Trump]] not to hold large outdoor rallies in some instances, a shift first reported by the Washington Post and confirmed by Axios on July 24.[8] Sources emphasised that this did not mean the Republican nominee would never again hold a big outdoor event, but that the choice between indoor and outdoor venues would be made case by case as part of increased security measures.[8] With no outdoor events scheduled in the following days, Trump's team began searching for indoor venues capable of accommodating the large crowds he typically drew, while the agency and the campaign held ongoing conversations about how any future outdoor events would be handled.[8] The change underscored how seriously both sides were treating security after the shooting, which led to Director [[kimberly-cheatle|Kimberly Cheatle]]'s resignation on July 23.[8]
+
 ## References
 1. Badlands Brief — "Tuckabee Unites The Arab World As Mexico Courts Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-285
 2. Badlands Brief — "Problems Litter the Game Board; But Solutions Are Coming ...", URL: https://badlands.substack.com/p/badlands-news-brief-10a
@@ -63,3 +67,4 @@ Badlands writer [[ashe-in-america|Ashe in America]] argued that the failure of p
 5. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
 6. Badlands Brief — "Badlands News Brief: They're the Conspiracy Theorists, Now ...", URL: https://badlands.substack.com/p/badlands-news-brief-74a
 7. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
+8. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc

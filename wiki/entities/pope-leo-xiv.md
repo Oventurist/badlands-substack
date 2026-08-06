@@ -4,13 +4,19 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [catholic-church, vatican, trump, religion]
-sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
 # Pope Leo XIV
 
-Pope Leo XIV is the reigning pontiff of the Catholic Church, who in April 2026 became the subject of a public clash with President [[donald-trump|Donald Trump]].[1]
+Pope Leo XIV is the reigning pontiff of the Catholic Church, who in April 2026 became the subject of a public clash with President [[donald-trump|Donald Trump]].[1] Born Cardinal Robert Francis Prevost, he was elected by the Vatican conclave in May 2025 as the first American-born pope, taking leadership of the world's 1.4 billion Catholics.[5]
+
+## Election (May 2025)
+
+Prevost, 69 at the time of his election and originally from Chicago, chose the papal name Leo XIV.[5] He had most recently served as head of the dicastery responsible for the appointment of bishops and as archbishop emeritus of Chiclayo, Peru.[5] His first public words, delivered from the balcony of St. Peter's Basilica, were "Peace be with all you," and were met with joyful cheering from a crowd of roughly 150,000 people according to Italian officials.[5]
+
+Badlands commentator Jordan Sather urged readers not to let enthusiasm over an American pope cloud their judgment, arguing that Prevost's social-media timeline suggested he was "quite woke."[5] Sather noted that despite Prevost being from the United States, roughly 90% of his timeline was in Spanish, and said the new pope had spent only two of the previous twenty years in the States.[5] He further asserted that Prevost had promoted COVID-19 vaccines and George Floyd/Black Lives Matter themes, and had recently criticized Trump and [[jd-vance|JD Vance]] over immigration policy.[5]
 
 ## Clash with Donald Trump
 
@@ -39,3 +45,4 @@ He pointed to Leo XIII's 1891 encyclical "On Capital and Labor," which sought gr
 2. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 3. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 4. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+5. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, author, post-liberal, labor]
-sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-af7.md]
+sources: [raw/a-bright-red-line.md, raw/a-look-at-recent-features-84d.md, raw/a-look-at-recent-features.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/assad-day-in-damascus.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-blast.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b83.md]
 confidence: low
 ---
 
@@ -135,6 +135,12 @@ Commenting on the March 2023 congressional allegation that [[anthony-fauci|Antho
 DeLarme tied the moment to [[joe-biden|Biden]]'s interest in [[who-pandemic-accord|pandemic accords]] that he said would let the [[world-health-organization|WHO]] circumvent the Constitution in the name of "global health," and urged the [[house-oversight-committee|House Oversight Committee]] to also examine the promotion of Remdesivir alongside the downplaying of cheap alternatives such as hydroxychloroquine and [[ivermectin|Ivermectin]], so that any fall of Fauci would vindicate those who had staked their reputations on those treatments.[25]
 
 
+## Commentary on digital vaccine passports
+
+In the June 9, 2023 Badlands News Brief, DeLarme wrote the "Our Take" on plans by the [[european-union|European Union]] and the [[world-health-organization|World Health Organization]] to implement a global [[digital-vaccine-passport|digital vaccine passport]].[26] He described the effort as the work of an "international criminal syndicate" still seeking to control the masses through forced vaccination despite what he called the complete failure of the mRNA vaccine to prevent transmission or infection.[26] Citing [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]]'s warning that "when the next pandemic comes knocking — and it will — we must be ready," he observed that global health authorities seemed confident another pandemic was coming.[26]
+
+DeLarme noted the November 30, 2022 WHO–EU agreement on coordination for future health issues and quoted EU Commissioner [[thierry-breton|Thierry Breton]]'s praise for the [[eu-digital-covid-certificate|EU Digital COVID-19 Certificate]] as a global standard.[26] He argued that WHO language about helping "facilitate global mobility" in practice means limiting freedom of movement for the masses, that a core objective is to cement "public health" in the mass mind as a conduit for superseding national and personal sovereignty, and that the program seeks to normalize marrying biometric data to digital identification.[26] He closed by noting the WHO press release's emphasis on low- and middle-income countries, writing that "the poorer nations of the world will once again be guinea pigs for the ruling class."[26]
+
 ## References
 
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
@@ -162,3 +168,4 @@ DeLarme tied the moment to [[joe-biden|Biden]]'s interest in [[who-pandemic-acco
 23. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 24. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 25. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+26. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

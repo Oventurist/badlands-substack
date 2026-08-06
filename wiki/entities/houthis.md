@@ -4,13 +4,17 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [yemen, red-sea, iran-proxies, shipping]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md]
 confidence: medium
 ---
 
 # Houthis
 
 The Houthis are a Yemeni armed movement widely described as an [[iran|Iranian]] proxy force. In late 2023 the group launched what observers characterized as a full-blown war on commercial shipping in the [[red-sea-shipping-crisis|Red Sea]], attacking container vessels with drones and missiles on a daily basis.[1]
+
+## January 2024 coalition strikes
+
+On January 11, 2024, the United States and its allies launched air and missile strikes at Houthi targets across [[yemen|Yemen]] after the group staged multiple drone and missile attacks on ships traversing the Red Sea, in an operation involving U.S. aircraft, ships and submarines with British participation and support from Australia, Canada, the Netherlands and Bahrain.[14] The strikes followed weeks of warnings by Washington and its allies that went unheeded, and President [[joe-biden|Joe Biden]] described the action as a clear message that the United States and its partners would not allow hostile actors to imperil freedom of navigation in one of the world's most critical commercial routes.[14] The episode is covered in detail at [[january-2024-us-uk-strikes-on-houthi-targets]].[14] Badlands commentators placed the Houthis alongside [[hamas|Hamas]] and [[hezbollah|Hezbollah]] as Iranian proxies being battered simultaneously by Israeli, American and allied forces amid what [[just-human|Just Human]] characterized as an ongoing shadow war against [[iran|Iran]].[14]
 
 ## Attacks on shipping and U.S. warships
 
@@ -102,3 +106,4 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote
 11. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
 12. Badlands News Brief — "Epstein Fallout Continues as the Biden Admin Implodes", URL: https://badlands.substack.com/p/badlands-news-brief-a89
 13. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
+14. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6

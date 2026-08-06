@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, donald-trump, new-york, courts]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-b04.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-bd6.md]
 confidence: high
 ---
 
@@ -76,6 +76,12 @@ Outside the courtroom, by contrast, Trump was combative, telling reporters durin
 
 On Wednesday, November 15, 2023, [[donald-trump|Donald Trump]]'s legal team filed a motion for a mistrial, claiming that purported bias on the part of the trial judge and his principal law clerk had "tainted" the case.[12] "This appearance of bias threatens both Defendants' rights and the integrity of the judiciary as an institution," Trump's counsel wrote in the 30-page motion.[12] The filing pointed to posts made by Judge [[arthur-engoron|Arthur Engoron]] to a Wheatley School alumni page that the judge appears to run, referencing the case or individuals involved in it, including Trump, his son [[eric-trump|Eric Trump]], and Trump attorney [[alina-habba|Alina Habba]].[12] The motion cited New York judicial conduct rules providing that "a judge shall not make any public comment about a pending or impending proceeding in any court within the United States or its territories."[12]
 
+## Closing arguments (January 2024)
+
+Closing arguments in the $370 million civil fraud trial took place on Thursday, January 11, 2024, with [[donald-trump|Donald Trump]] bringing the campaign trail into the courthouse and delivering campaign-style speeches both inside and outside the courtroom to attack the case and the attorney general who brought it.[13] His decision to launch into a monologue at the conclusion of his lawyers' closing arguments reflected both the seriousness of the threat to his business and brand — New York Attorney General [[letitia-james|Letitia James]] was seeking to bar him from doing business in the state — and his eagerness to turn the proceeding to advantage while running for president.[13] Judge [[arthur-engoron|Arthur Engoron]], who had already found Trump liable for fraud, said he planned to issue a full decision by the end of the month.[13]
+
+[[ashe-in-america|Ashe in America]] described the proceeding as "the Letitia James witch hunt about inflated business valuations where there has been no injury or harm either alleged or proven," and predicted Engoron's findings of fact would amount to declaring Trump satanic and his conclusions of law to liability for "eleventy billion dollars."[13] She wrote that CNN's record of the day showed more of the same, with the prosecution granted poetic license and wide berth while Trump and his attorneys were cut off mid-thought, and noted that Engoron was expected to rule by January 31 on the accompanying charges having already ruled on the top-line count.[13] She added that Trump would be back in court the following week for another round with [[e-jean-carroll|E. Jean Carroll]], framing the sequence as election interference rather than serious law.[13]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
@@ -90,3 +96,4 @@ On Wednesday, November 15, 2023, [[donald-trump|Donald Trump]]'s legal team file
 10. Badlands Brief — "Badlands News Brief: Deadline Deals and Crime Families", URL: https://badlands.substack.com/p/badlands-news-brief-a29
 11. Badlands Brief — "Badlands News Brief: Supreme Court Rumblings & Witch Hunts Galore", URL: https://badlands.substack.com/p/badlands-news-brief-aaf
 12. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
+13. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, lawfare, elections, coup, judiciary]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b65.md]
 confidence: medium
 ---
 
@@ -33,7 +33,12 @@ On Friday, July 18, 2025, Brazil's Supreme Court ordered former President Bolson
 
 Trump threatened 50 percent tariffs on Brazilian goods starting August 1, in part to pressure Brazilian authorities to end what he called a "witch hunt" against Bolsonaro, and Washington imposed visa restrictions on Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]], his family, and other unnamed court officials in response to the search warrants and restraining orders targeting Bolsonaro.[3] President [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]] called the visa bans "arbitrary" and "baseless," said foreign interference in the judiciary was "unacceptable," and declared that no intimidation would compromise Brazil's institutions in defending "the democratic rule of law."[3] Badlands commentary characterized the sequence as scripted rather than organic, likening Lula to "Brazil's Joe Biden" overseeing a raid on a former president's home.[3]
 
+## 2022 coup plot indictment (November 2024)
+
+On Thursday, November 21, 2024, Brazilian federal police indicted Bolsonaro alongside 36 other individuals — 37 in total — as part of an investigation into an alleged coup plot to keep him in power following the 2022 presidential election won by [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]].[4] Police alleged, according to CNN Brasil, that Bolsonaro had "full knowledge" of a plan to prevent Lula and his government from taking office.[4] The federal police sent their investigation report, hundreds of pages long, to the Supreme Court in Brasília, with Brazil's attorney general to decide whether to confirm the indictments or scrap the investigation; if confirmed, a trial was expected the following year.[4] Bolsonaro has repeatedly denied claims that he attempted to remain in power after Lula's victory.[4]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+4. Badlands Brief — "Badlands News Brief: What's the Deal with the Gaetz Rug Pull?", URL: https://badlands.substack.com/p/badlands-news-brief-b65

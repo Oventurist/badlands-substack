@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [solicitor-general, department-of-justice, litigation, executive-power]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-97e.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-bad.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ In May 2025, as Solicitor General, Sauer asked the [[supreme-court-of-the-united
 
 As Solicitor General, Sauer argued the Trump administration's case before the [[supreme-court-of-the-united-states|Supreme Court]] in May 2025 on the power of lower courts to issue [[nationwide-injunctions|universal injunctions]], a dispute arising from three national injunctions blocking [[donald-trump|Trump]]'s executive order on [[birthright-citizenship|birthright citizenship]].[6] Justice [[elena-kagan|Elena Kagan]] pressed him on how the high court would manage lower-court challenges without universal injunctions and told him the administration had been "losing uniformly" on the substantive question, remarking, "If I were in your shoes, there's no way I'd approach the court with this case!"[6]
 
+## Arguing the immunity case, April 2024
+
+Sauer argued for [[donald-trump|President Donald Trump]] before the [[supreme-court-of-the-united-states|Supreme Court]] on April 25, 2024, in the case testing whether a president is immune from prosecution for official acts, opposite [[michael-dreeben|Michael Dreeben]] for the Department of Justice.[7] Much of the more than two and a half hours of argument focused on the line between official and private acts, with both bench and counsel agreeing that no immunity attaches to private criminal conduct.[7] Responding to Justice [[ketanji-brown-jackson|Ketanji Brown Jackson]]'s warning that complete immunity could turn "the Oval Office into the seat of criminal activity in this country," Sauer argued that her fears were unwarranted because Trump was simply asking the court to follow the law as it had been understood for 234 years — and that if a chief executive were going to turn the presidency into a seat of criminality, it would already have happened.[7] Commentators reading the argument concluded that the justices' interest in remanding for fact-bound analysis of which acts were official made a pre-election trial nearly impossible.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 2. Badlands Brief — "Badlands News Brief: A President's Passing & A Prime Minister's Prostate", URL: https://badlands.substack.com/p/badlands-news-brief-08e
@@ -43,3 +47,4 @@ As Solicitor General, Sauer argued the Trump administration's case before the [[
 4.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 5. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 6. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
+7. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad

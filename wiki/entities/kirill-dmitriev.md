@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, gaza, infrastructure]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-80e.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ Dmitriev called the negotiations "extremely productive" but said that "a lot of 
 
 Badlands commentary framed the episode as a test of the [[sovereign-alliance|Sovereign Alliance]], arguing that all available assets would be deployed to prevent a rapprochement between Trump and Putin because an alliance between Russia and MAGA would mean the end of the unipolar world order.[5]
 
+## Cited in the "paper tiger" exchange (September 2025)
+
+In coverage of the September 2025 exchange in which the Kremlin insisted Russia was "a real bear" rather than a paper tiger, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] cited a post from Dmitriev, described as Russian Special Envoy to the United States, as signal from the Russian side supporting the thesis that [[donald-trump|Donald Trump]] was deliberately pushing Ukraine and NATO into a confrontation with the Russian military.[6]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
 3. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 4. Badlands Brief — "Annexes, Envoys, & Warmongers", URL: https://badlands.substack.com/p/badlands-news-brief-592
 5. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
+6. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

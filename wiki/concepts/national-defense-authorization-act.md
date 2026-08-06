@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [defense-policy, congress, legislation, industrial-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-951.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c2d.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b98.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ Badlands criticism focused on the bill's use as a legislative vehicle: the [[roa
 
 The FY2026 NDAA also constrained the [[pentagon|Pentagon]]'s ability to draw down forces abroad, maintaining 76,000 troops in Europe and 28,500 in South Korea unless the department could assure [[congress|Congress]] that reductions would not compromise security, and requiring that the Supreme Allied Commander Europe post continue to be held by an American general.[3] The bill allocated $400 million for Ukrainian security assistance along with conditions for reclaiming military equipment, even as U.S. officials emphasized that European allies must assume greater defense responsibility by 2027.[3] Badlands contributor [[chris-paul|Chris Paul]] rejected the premise that Congress possesses such authority over the disposition of forces.[3]
 
+
+## ROAD to Housing Act stripped (December 2025)
+
+During final House negotiations in December 2025, the bipartisan [[road-to-housing-act|ROAD to Housing Act]] was stripped from the NDAA; the House-passed version, HR 3838, excluded the ROAD amendment.[4] Advocates had described the housing measure as the most significant federal housing reform in a decade, and its removal delayed the reform indefinitely.[4] Badlands commentator [[jon-herold|Jon Herold]] noted that the bill ran to 3,088 pages and that it remained unclear what lawmakers would ultimately vote on.[4]
+
 ## References
 
 1. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 2. Badlands Brief — "Fake News Propaganda Exposed, Iranian Investment Opportunities, and Talibros in Moscow", URL: https://badlands.substack.com/p/badlands-brief-c2d
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+4. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

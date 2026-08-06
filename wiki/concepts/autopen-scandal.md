@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [joe-biden, executive-orders, pardons, legitimacy, autopen]
-sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-a9a.md]
+sources: [raw/badlands-brief-1ae.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-a9a.md, raw/badlands-news-brief-bc7.md, raw/badlands-news-brief-bd2.md]
 confidence: low
 ---
 
@@ -98,8 +98,17 @@ Turner's findings paralleled a March 2025 report from the [[heritage-foundation|
 
 Badlands contributor [[canncon|CannCon]] noted that [[donald-trump|President Trump]] had discussed the autopen scandal during questions at his joint statement with [[elon-musk|Elon Musk]], summarising the stakes as "it really means you're not President," and argued that the disclosures were laying the foundation for keeping the 2020 election dispute front and centre.[13]
 
-## References
+## House Oversight referral to the Justice Department (October 2025)
 
+On October 28, 2025, House Republicans called on the Justice Department to investigate the Biden administration's use of an autopen, an effort they hoped would unwind various actions taken by former President [[joe-biden|Joe Biden]].[14] A 100-page report released by the [[house-oversight-committee|House Oversight and Government Reform Committee]] capped an investigation launched after questions about Biden's mental acuity.[14] Committee chairman [[james-comer|James Comer]] also asked the D.C. Department of Health's Board of Medicine to investigate Biden's physician, but the most consequential requests fell to Attorney General [[pam-bondi|Pam Bondi]], including whether any Biden pardons should be overturned.[14]
+
+The report acknowledged that presidents across administrations have used autopens to sign actions they authorized, but argued that Biden was "cognitively impaired" and that his staff took a "laissez faire approach that treated the use of the autopen as a mundane practice" without documenting a chain of command on decisions.[14] It did not, however, identify a specific incident in which investigators could demonstrate the autopen was used without Biden's authorization.[14] Badlands contributor Chris Paul responded that "the pardons have always been fake," describing the storyline as a translation layer that would be playing out even if [[donald-trump|Trump]] were out of the picture.[14]
+
+## Autopen portrait in the Presidential Walk of Fame (September 2025)
+
+In September 2025 the [[white-house|White House]] unveiled a "Presidential Walk of Fame" near the Oval Office featuring framed portraits of past presidents, with [[joe-biden|Joe Biden]]'s portrait replaced by an image of an autopen signing his name.[15] The BBC noted that [[donald-trump|Donald Trump]] had previously claimed Biden used an autopen to sign important documents, including pardons.[15] Badlands editor [[jon-herold|Jon Herold]] responded "Love it," while [[burning-bright|Burning Bright]] called the post one of the greatest the White House or Trump had ever put out.[15] The display itself is covered at [[presidential-walk-of-fame|Presidential Walk of Fame]].[15]
+
+## References
 1. Badlands Brief — "DC Exposes Itself as the Middle East Gets Gloriously Strange", URL: https://badlands.substack.com/p/badlands-brief-1ae
 2. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
 3. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
@@ -113,3 +122,5 @@ Badlands contributor [[canncon|CannCon]] noted that [[donald-trump|President Tru
 11. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 12. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 13. Badlands Brief — "Proxy Wars & The Prevention of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a9a
+14. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7
+15. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, retail, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b92.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ In June 2023, Target was cited alongside [[anheuser-busch-inbev|Anheuser-Busch]]
 
 Reported threats to Target employees over the company's Pride displays were later invoked by [[starbucks|Starbucks]] managers in Oklahoma as a safety rationale for removing flags from store windows.[4] Contemporary reporting described a "Target and Bud Light stock-market disaster" that prompted executives across corporate America to reduce public advocacy on green and social initiatives.[4] Badlands contributor [[johnny-q|Johnny Q]] listed Target with [[bud-light|Bud Light]] and Kohl's as brands made to bear the example of backlash from parents.[4]
 
+## 2023 Christmas merchandise backlash
+
+In November 2023 Target again triggered conservative criticism after rolling out Christmas decorations that some saw as too "woke," including a black Santa in a wheelchair and a figurine draped in rainbow-colored "pride" paraphernalia.[5] The conservative [[x-corp|X]] account [[end-wokeness|End Wokeness]], which had over 1.8 million followers, shared photographs of the ornaments with the caption "Target outdid itself this year for Christmas."[5] Commenters reacted critically and hinted at or outright called for a boycott, with one writing "Wow. Just wow. You would think they would have learned from the last time. When will companies finally start to realize it? Go woke, go broke!" and another saying "Everyone getting ready to boycott Target again until they go bankrupt."[5] Others recalled the earlier boycott calls that followed the retailer's summer "pride" clothing line, which had included LGBT-themed items meant for children.[5]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
 3. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 4. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
+5. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92

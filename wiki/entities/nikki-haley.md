@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, republican, israel, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md]
 confidence: medium
 ---
 
@@ -90,6 +90,16 @@ In the days after the loss, billionaire [[reid-hoffman|Reid Hoffman]] — among 
 
 [[burning-bright|Burning Bright]] framed Haley through the concept of proxy candidates, arguing that parties and candidates are "little more than shells for the systematized interests that back them," and that Haley, "by hook or by crook," was being used to expose the fact that the [[uniparty|Uniparty]] is real and unified against Trump.[15]
 
+## Withdrawal from the 2024 race
+
+Following dismal results on Super Tuesday, Haley planned to end her presidential campaign as early as the morning of Wednesday, March 6, 2024, according to a Wall Street Journal report citing people familiar with her plans.[16] Of the 15 states holding Republican contests, she secured a victory only in Vermont, in addition to a win in the District of Columbia.[16] The NBC News delegate tracker showed [[donald-trump|Donald Trump]] leading with 1,057 delegates against Haley's 92.[16] Her departure effectively guaranteed Trump the Republican nomination and a November showdown with President [[joe-biden|Joe Biden]].[16] The Federalist's Sean Davis highlighted an exit-poll finding that 92 percent of Haley's voters approved of Biden's performance.[16]
+
+Writing for [[badlands-media|Badlands Media]], [[ashe-in-america|Ashe in America]] noted that Haley beat Trump in Vermont by roughly 3,000 votes while losing the rest of the country, and pointed out that although Vermont had voted Republican in 71 percent of presidential elections since 1900, it had voted Democrat 100 percent of the time since 2000 — suggesting Vermont voters examine their elections in light of the [[help-america-vote-act|Help America Vote Act]] passed in 2002.[16] She concluded that Haley "never had a path because she's an unlikable war monger," and welcomed the end of her "humiliating 15 minutes."[16]
+
+## Nevada primary loss to "None of These Candidates"
+
+In the [[2024-nevada-republican-primary|2024 Nevada Republican primary]] held on February 6, 2024, Haley failed to win despite being the only major candidate on the ballot, finishing second to the ballot line "None of These Candidates" by roughly 22,000 votes and taking less than a third of the total.[17] More than 60 percent of participants voted for no one, while 2,705 cast ballots for [[mike-pence|Mike Pence]]; [[ashe-in-america|Ashe in America]] tallied 26,038 votes for "none of these candidates" against Haley's 14,328, a margin of about 27 percent.[17] Turnout was just 42,702 voters — 7.6 percent of the state's registered Republicans — with [[donald-trump|Donald Trump]] absent from the ballot because Nevada was concurrently running a party caucus.[17] Trump joked that Haley would soon be claiming victory.[17]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -107,3 +117,5 @@ In the days after the loss, billionaire [[reid-hoffman|Reid Hoffman]] — among 
 13. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
 14. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
 15. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+16. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35
+17. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c

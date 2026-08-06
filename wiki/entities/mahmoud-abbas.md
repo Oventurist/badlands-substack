@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [palestinian-authority, israel-palestine-conflict, diplomacy]
-sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-news-brief-030.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b10.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-b5f.md]
 confidence: medium
 ---
 
@@ -83,6 +83,12 @@ In late August 2025, the United States announced it would not allow Abbas to tra
 
 Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] attributed the move to an entrenched Zionist element within the State Department, citing the earlier reassignment of spokeswoman [[tammy-bruce|Tammy Bruce]] to a deputy UN ambassadorship alongside [[mike-waltz|Mike Waltz]], and predicted [[donald-trump|Trump]] would reverse it before the General Assembly.[12] He noted that Trump had once described Abbas as a "father-like figure" in a December 2021 interview with Israeli journalist Barak Ravid, and had posted Abbas's condolence letter over the 2024 assassination attempt the night before [[benjamin-netanyahu|Netanyahu]] addressed a joint session of Congress.[12]
 
+## 2024 BRICS invitation and Palestinian application
+
+In early August 2024, Russian President [[vladimir-putin|Vladimir Putin]] met Abbas, and the Palestinian leader was subsequently invited to attend the 2024 [[brics|BRICS]] summit in Kazan that October.[13] Palestinian Authority ambassador to Russia Abdel Hafeez Nofal confirmed that Palestine would formally apply to join the bloc after participating in the summit, stating: "We received an invitation from President Putin to President Abbas, and he was invited to participate in the BRICS summit."[13]
+
+Badlands Media argued that the invitation demonstrated Palestine's capacity to enter into relations with other states — one of the four statehood criteria under the [[montevideo-convention|Montevideo Convention]] — and that the emerging strategy was to treat Palestine as a fully recognized nation and integrate it into the BRICS financial architecture.[13] The commentary also recalled Abbas's letter to [[donald-trump|Donald Trump]] following the July 2024 assassination attempt, to which Trump replied with a handwritten Truth Social note reading "Everything will be good," posted the night before [[benjamin-netanyahu|Benjamin Netanyahu]] addressed a joint session of Congress for the fifth time.[13] Trump was quoted as having told Abbas, "I want you to be the Palestinian President who signs the final, and most important, peace deal."[13]
+
 ## References
 1. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 2. Badlands News Brief — "Jordanian Jam Sessions, Unpaused Loans, & Disbanded Brotherhoods", URL: https://badlands.substack.com/p/badlands-news-brief-079
@@ -96,3 +102,4 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] attri
 10. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
 11. Badlands Brief — "Badlands News Brief: Middle Eastern Shenanigans & Dasting Data Dominate", URL: https://badlands.substack.com/p/badlands-news-brief-b10
 12. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+13. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f

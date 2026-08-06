@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, republican-party, kentucky]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b86.md]
 confidence: medium
 ---
 
@@ -113,6 +113,10 @@ Earlier in the dispute Biden had insisted he would testify only in a public hear
 
 In November 2023 Comer, as chairman of the [[house-oversight-committee|House Oversight Committee]], signed subpoenas for [[hunter-biden|Hunter Biden]] and [[james-biden|James Biden]] after weeks of evidence concerning cash transfers among Biden family members, and requested transcribed interviews with Sara Biden, Hallie Biden, Elizabeth Secundy, Melissa Cohen and [[tony-bobulinski|Tony Bobulinski]].[22] He said the committee had "followed the money and built a record of evidence revealing how Joe Biden knew, was involved, and benefited from his family’s influence peddling schemes," and insisted that "unlike the many lies President Biden told the American people about his family’s business schemes, bank records don’t lie."[22] Comer told Just the News that family members would be interviewed first and President [[joe-biden|Joe Biden]] last, warning that anyone defying the subpoenas would be held in contempt of Congress.[22] Badlands commentary dismissed the subpoena-signing photo op as "a silly made-for-TV moment" and evidence that the federal legislative branch is "largely ceremonial and meaningless," within the broader [[biden-family-influence-peddling-investigation|Biden family influence peddling investigation]].[22]
 
+## Release of Owasco PC bank records (December 2023)
+
+On December 4, 2023, Comer released subpoenaed bank records through a [[house-oversight-committee|House Oversight Committee]] video posted on Twitter showing that [[hunter-biden|Hunter Biden]]'s business entity [[owasco-pc|Owasco PC]] had made direct monthly payments to [[joe-biden|Joe Biden]], apparently beginning in September 2018.[23] "This wasn't a payment from Hunter Biden's personal account but an account for his corporation that received payments from China and other shady corners of the world," Comer said.[23] He argued the transfers were "part of a pattern revealing Joe Biden knew about, participated in and benefited from his family's influence peddling schemes."[23]
+
 ## References
 
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -137,3 +141,4 @@ In November 2023 Comer, as chairman of the [[house-oversight-committee|House Ove
 20. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 21. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 22. Badlands Brief — "Badlands News Brief: Debates, Rallies ... and Deep State Implosions", URL: https://badlands.substack.com/p/badlands-news-brief-ae3
+23. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86

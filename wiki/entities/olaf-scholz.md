@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [germany, chancellor, migration, european-politics]
-sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-adc.md]
+sources: [raw/badlands-news-brief-017.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-58c.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -40,6 +40,10 @@ Politicians from parties in Scholz's coalition expressed concern that Russia may
 
 Scholz was identified in Badlands commentary, together with France's [[emmanuel-macron|Emmanuel Macron]], as among the leaders most clearly rattled by the [[2024-european-parliament-elections|June 2024 European Parliament elections]], in which both were rejected by double-digit deficits.[6] The commentary treated the outcome as a bellwether of European sentiment shifting toward strong borders and anti-interventionism rather than as an immediate change to German leadership.[6]
 
+## Eastern state election setbacks (September 2024)
+
+Newsweek reported that the outcomes of the September 2024 eastern German state elections underscored deepening discontent with Scholz's government, which had been mired in unpopularity and internal conflicts.[7] In the [[2024-thuringia-state-election|Thuringia state election]] the [[alternative-for-germany|Alternative for Germany]] won 32 to 33 percent, its first state election victory since the Nazi era, far outpacing the [[christian-democratic-union|Christian Democratic Union]]'s roughly 24 percent, while the [[2024-saxony-state-election|Saxony contest]] was projected as a near tie between the two parties.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -48,3 +52,4 @@ Scholz was identified in Badlands commentary, together with France's [[emmanuel-
 4. Badlands Brief — "Badlands News Brief: The Winds of Change Approach DC …", URL: https://badlands.substack.com/p/badlands-news-brief-58c
 5. Badlands Brief — "Trump's Ballot Battles, Racist Mockingbirds and Dying DEI", URL: https://badlands.substack.com/p/badlands-news-brief-788
 6. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+7. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

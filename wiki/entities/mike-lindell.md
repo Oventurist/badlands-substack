@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, 2020-election, business, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-8fd.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-398.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-85c.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-b63.md]
 confidence: medium
 ---
 
@@ -73,3 +73,9 @@ In December 2025 the MyPillow founder filed state paperwork indicating he might 
 9. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 10. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
 11. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
+
+## "Blockers" theory and the June 2025 China intelligence disclosure
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that during Lindell's June 2025 trial the concept of his "blockers" crystallized into an acceptable theory of a coordinated effort to prevent the truth about American elections from becoming known — sometimes through limited media access for newsworthy stories, sometimes through silencing, deplatforming and debanking messengers, and always through agreement between election security authorities such as [[chris-krebs|Chris Krebs]] and [[ryan-macias|Ryan Macias]] and their "acceptable opposition" such as [[j-alex-halderman|J. Alex Halderman]] and [[harri-hursti|Harri Hursti]] that elections cannot be hacked, rigged, stolen or subverted where paper ballots and risk-limiting audits exist.[12] She described a more treasonous category of blocker: the U.S. intelligence community manipulating intelligence about China because the revelations might have politically aided Trump.[12] A letter by then-[[john-ratcliffe|Director of National Intelligence John Ratcliffe]] alleging that manipulation was referenced multiple times during Lindell's trial as evidence for the basis of his beliefs about elections, and on the day his verdict was delivered, testimony about Chinese intelligence was confirmed by [[kash-patel|FBI Director Kash Patel]]'s declassification.[12] See [[fbi-recall-of-2020-china-election-intelligence|FBI recall of 2020 China election intelligence]].[12]
+
+12. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63

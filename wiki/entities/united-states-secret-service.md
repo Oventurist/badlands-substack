@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, security, 2024, oversight]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b68.md]
 confidence: medium
 ---
 
@@ -63,6 +63,10 @@ Judicial Watch said it was preparing for litigation and had more than 25 FOIA an
 
 On the night of Sunday, November 12, 2023, agents protecting [[naomi-biden|Naomi Biden]], granddaughter of President [[joe-biden|Joe Biden]], opened fire in the Georgetown neighborhood of Washington, D.C. after three people were seen breaking a window of a parked, unoccupied unmarked Secret Service SUV.[11] No one was struck by the gunfire, the agency said in a statement, and the three suspects fled in a red car, prompting a regional bulletin to the Metropolitan Police Department.[11] [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] used the incident to question federal competence, noting that the agent "discharged his firearm — and missed" while the suspects escaped, and arguing that if this was the protection afforded presidential family members, ordinary citizens had every reason to retain the right of self-defense.[11]
 
+## July 2025 disciplinary action over Butler
+
+In July 2025, nearly a year after the Butler shooting, the Secret Service suspended six staffers without pay or benefits over the failures surrounding the attempt on Trump's life.[12] Deputy Director [[matt-quinn|Matt Quinn]] admitted the attempted assassination was an "operational failure" for which the agency was "totally accountable," and said the service was working on fixing the root causes rather than treating the suspensions as a conclusion.[12] Badlands commentator [[ashe-in-america|Ashe in America]] called the action a welcome start while insisting there be "no more cover ups."[12]
+
 ## References
 
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -76,3 +80,4 @@ On the night of Sunday, November 12, 2023, agents protecting [[naomi-biden|Naomi
 9. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 10. Badlands Brief — "Badlands News Brief: Escalation, Litigation & Sovereign Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a3c
 11. Badlands Brief — "Badlands News Brief: China Joe Takes the Stage as Trump's Power Grows", URL: https://badlands.substack.com/p/badlands-news-brief-acf
+12. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68

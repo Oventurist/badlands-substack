@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [who, globalism, public-health, ngo]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-2c5.md, raw/badlands-brief-695.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-ba8.md]
 confidence: low
 ---
 
@@ -74,7 +74,16 @@ The rejection was issued jointly by the [[state-department|State Department]] an
 
 At the [[world-economic-forum|World Economic Forum]] annual meeting in January 2024, the WHO warned world leaders that the world could face a pandemic twenty times worse than COVID-19.[11] WHO scientists held a session calling on leaders to work together on strategies to prevent or manage such an event, appearing on a panel titled "Preparing for Disease X."[11] [[disease-x|Disease X]] — a term the WHO coined in 2018 — is not a real disease but a placeholder for a hypothetical unknown pathogen used in preparedness planning.[11] Among the issues raised was the development of better communication strategies to reduce misinformation and conspiracy theories, even as commentators on X called the session itself a conspiracy against freedom.[11]
 
+## Global digital vaccine passport initiative
+
+In June 2023, the WHO met with the [[european-union|European Union]] in Geneva to discuss preparations for "future pandemics," including plans to implement a global [[digital-vaccine-passport|digital vaccine passport]].[12] The two bodies had signed an agreement on November 30, 2022, to ensure transparency and coordination on future health issues.[12] The WHO announced it was establishing a global digital health certification network built on the framework, principles, and open technologies of the [[eu-digital-covid-certificate|EU Digital COVID-19 Certificate]], taking on standard-setting and validation of digital signatures to prevent fraud while stating it would not access underlying personal data, which would remain the domain of governments.[12] Director-General [[tedros-adhanom-ghebreyesus|Tedros Adhanom Ghebreyesus]] justified the effort by warning that another variant or a deadlier pathogen could emerge and that "when the next pandemic comes knocking — and it will — we must be ready to answer decisively, collectively, and equitably."[12] Badlands writer [[ryan-delarme|Ryan DeLarme]] argued that the WHO's stated aim of facilitating "global mobility" in practice means restricting freedom of movement, and noted that the accompanying press release identified low- and middle-income countries as particular targets.[12]
+
+## US announcement of intent to withdraw (January 2025)
+
+On January 21, 2025, the WHO issued a statement saying it regretted the announcement that the United States intended to withdraw from the organization, and asserting that the WHO "plays a crucial role in protecting the health and security of the world's people, including Americans."[13] The statement noted that the United States was a founding member of the WHO in 1948 and had participated in shaping and governing its work ever since, alongside 193 other member states, including through the World Health Assembly and Executive Board, and expressed hope that Washington would reconsider.[13] Badlands writer [[jordan-sather|Jordan Sather]] linked the move to the simultaneous US withdrawal from the Paris Climate Accord on day one of the second [[donald-trump|Trump]] term, remarking that "globalists" were "big mad" and noting Trump's scheduled virtual address to the World Economic Forum later that week.[13] See [[us-withdrawal-from-the-world-health-organization|US withdrawal from the World Health Organization]].[13]
+
 ## References
+
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Bioweapons Sneak Into the News Cycle as Israeli Shenanigans Ensue", URL: https://badlands.substack.com/p/badlands-brief-2c5
 3. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
@@ -86,3 +95,5 @@ At the [[world-economic-forum|World Economic Forum]] annual meeting in January 2
 9. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 10. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 11. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
+12. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+13. Badlands Brief — "Badlands News Brief: Hopium for Health AI, Hulk on Hunter, & A Happy WHO Adieu", URL: https://badlands.substack.com/p/badlands-news-brief-ba8

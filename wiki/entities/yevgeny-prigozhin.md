@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, wagner-group, mercenaries, prigozhin, plane-crash]
-sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-ac7.md]
+sources: [raw/badlands-news-brief-050.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md]
 confidence: medium
 ---
 
@@ -40,8 +40,14 @@ On June 23–24, 2023, Prigozhin launched an armed action against the Russian de
 
 The [[washington-post|Washington Post]] reported that US intelligence agencies had detected in mid-June that Prigozhin — who had long accused the Russian defense establishment of bungling the war in Ukraine — was planning armed action, and urgently briefed the [[white-house|White House]] and other agencies so they would not be caught off guard.[4] Badlands contributors read the entire affair as probable military deception rather than a genuine coup, noting Prigozhin's earlier feigned collapse at Bakhmut.[4]
 
+## Status after the mutiny
+
+Following the June 2023 mutiny, Prigozhin was presumed to be in [[belarus|Belarus]], but the [[federal-security-service|FSB]] and the Russian Prosecutor's Office issued statements on June 26 implying that the criminal case for treason against him remained open.[5] In his address that evening, [[vladimir-putin|Vladimir Putin]] said "traitors will face justice" while offering Wagner fighters the choice of contracting with the Ministry of Defense, returning home, or relocating to Belarus.[5]
+
+
 ## References
 1. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Russia's Retreat, Dominion's Domain & Street 'Justice'", URL: https://badlands.substack.com/p/badlands-news-brief-2e7
 4. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
+5. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26

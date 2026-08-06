@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, private-military, africa, sahel, syria]
-sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ac7.md]
+sources: [raw/badlands-brief-405.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b5f.md]
 confidence: medium
 ---
 
@@ -66,6 +66,15 @@ In June 2023 Wagner chief [[yevgeny-prigozhin|Yevgeny Prigozhin]] launched a sho
 
 Badlands commentary read the episode as military deception, noting that Wagner had staged a comparable feigned collapse at Bakhmut three weeks earlier to bait a Ukrainian counter-offensive, after which [[vladimir-putin|Putin]] publicly commended the contractor unit for its effectiveness.[11]
 
+## Aftermath of the June 2023 mutiny
+
+In his June 26, 2023 address, [[vladimir-putin|Vladimir Putin]] said that "the vast majority of the fighters and commanders of the Wagner group are also patriots of Russia, devoted to their people and the state," and offered them the opportunity to sign contracts with the Ministry of Defense or other law enforcement agencies, to return to their families, or to go to [[belarus|Belarus]].[12] He also praised Russian pilots apparently shot down by Wagner mercenaries during the [[wagner-group-mutiny|mutiny]] for having "saved Russia from tragic devastating consequences."[12]
+
+
+## Presence in Belarus, 2024
+
+In August 2024, Ukraine's foreign ministry cited intelligence indicating that Wagner mercenaries were among the forces massing in Belarus's Gomel region on the Ukrainian border, alongside Belarusian personnel, Special Operations Forces, weapons and equipment deployed "under the guise of exercises."[13] Kyiv warned Belarusian officials to pull back or risk becoming further embroiled in the war.[13] Badlands commentator GhostofBasedPatrickHenry treated reports of Wagner's departure from Ukraine skeptically, linking them to doubts about the plane crash that killed Yevgeny Prigozhin and suggesting the group's presence in Belarus signalled an impending Russian move to end the war; he also flagged renewed attention to Wagner's operations in Africa.[13]
+
 ## References
 
 1. Badlands Brief — "Agencies Aflutter, Corporate Compacts & Discombobulated Drones", URL: https://badlands.substack.com/p/badlands-brief-405
@@ -79,3 +88,5 @@ Badlands commentary read the episode as military deception, noting that Wagner h
 9. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 10. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
 11. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
+12. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+13. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f

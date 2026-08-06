@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, rico, 2020-election, prosecutor]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-b5a.md]
 confidence: medium
 ---
 
@@ -92,6 +92,10 @@ At the February 15, 2024 [[fani-willis-disqualification-hearing|disqualification
 
 On Monday, January 22, 2024, Cobb County Superior Court Judge [[henry-thompson]] unsealed Wade's divorce records, allowing the public to sift through personal information that could involve his boss and alleged romantic partner, District Attorney [[fani-willis]].[16] Thompson simultaneously stayed a subpoena from Wade's estranged wife [[joycelyn-wade]], who had sought to depose Willis that week, ruling that Nathan Wade should be deposed first before the court determined whether Willis held unique personal information warranting sworn testimony; an evidentiary hearing was set for January 31.[16] Writing in the [[badlands-news-brief]], [[ashe-in-america]] observed that the stay raised the profile of Wade's own testimony and made his divorce a matter of public interest, posing the question of whether he would implicate or protect Willis — and noting that with the bank records already public, protecting her might mean perjuring himself.[16] She added that his divorce liability was the least of his problems, since the relationship was the subject of an inquiry in the RICO case before Judge [[scott-mcafee]], with a hearing scheduled for February 15 and financial records that she said implicated collusion with the White House.[16]
 
+## Disqualification stakes (February 2024)
+
+By late February 2024 the central question before Judge [[scott-mcafee|Scott McAfee]] was whether District Attorney [[fani-willis|Fani Willis]] could continue prosecuting [[donald-trump|Donald Trump]] or whether her relationship with Wade would disqualify them both, with a ruling expected as early as the following week.[17] Reporting on a $150 campaign donation McAfee had made to Willis in 2020 noted that the judge would soon have to decide whether Willis should be disqualified over allegations that she financially benefited from appointing her romantic partner to work on the Trump case.[17] Writing in the Badlands News Brief, [[ashe-in-america|Ashe in America]] characterized the pair's arrangement as an "all-cash-all-luxury-but-totally-legit relationship" and closed her commentary by remarking that "Nathan Wade invoiced the [[white-house|White House]]."[17]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -110,3 +114,4 @@ On Monday, January 22, 2024, Cobb County Superior Court Judge [[henry-thompson]]
 14. Badlands Brief — "Badlands News Brief: Bicameral Biden Presides Over a Global Minefield", URL: https://badlands.substack.com/p/badlands-news-brief-a27
 15. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
 16. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+17. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [germany, saxony, elections, afd, election-integrity]
-sources: [raw/badlands-news-brief-711.md]
+sources: [raw/badlands-news-brief-711.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Alongside the software investigation, the AfD called for an end to [[mail-in-vot
 
 [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] held the AfD's response up as a model — "this is how it's done. Audit elections even — especially — if you win" — and said mail-in balloting and software issues are a global concern.[1] She relayed Holly at Altitude's proposal for a "public trust prenup": auditing every election regardless of outcome, using independent audits rather than government-run risk-limiting audits conducted without oversight, on the grounds that public trust demands verifiably accurate elections.[1] She suggested Americans give the idea serious consideration ahead of the November 2024 vote, adding that "apparently, the populists in Germany agree."[1]
 
+## September 2024 result
+
+Projections by ARD and ZDF on September 1, 2024 showed a tight race in Saxony between the [[christian-democratic-union|Christian Democratic Union]] and the [[alternative-for-germany|Alternative for Germany]], with both parties hovering around 31 to 32 percent of the vote.[2] The CDU had maintained power in Saxony continuously since German reunification in 1990.[2] The result came the same day the AfD won outright in the neighboring [[2024-thuringia-state-election|Thuringia state election]], and Newsweek framed both outcomes as underscoring deepening discontent with the government of Chancellor [[olaf-scholz|Olaf Scholz]].[2]
+
 ## References
 1. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
+2. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

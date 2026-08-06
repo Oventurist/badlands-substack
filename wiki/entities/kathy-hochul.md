@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york, governor, vaccines, public-health, federalism]
-sources: [raw/badlands-brief-311.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-9ae.md]
+sources: [raw/badlands-brief-311.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-b35.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ In September 2024, Hochul's former deputy chief of staff [[linda-sun|Linda Sun]]
 
 In March 2024 Hochul announced that she would deploy 750 members of the [[national-guard|National Guard]] to New York City's subway system to assist the [[nypd|New York Police Department]] in a crackdown on crime, including bag searches at the entrances of busy train stations.[7] The move drew attention chiefly for the contrast in media treatment: Senator [[tom-cotton|Tom Cotton]] posted a "hmmm" note reading "Sending in the troops to help restore law and order…," pointing out that [[new-york-times|The New York Times]] had denounced him roughly four years earlier for an op-ed urging National Guard deployment against riots, yet greeted Hochul's actual deployment with what [[jonathan-turley|Jonathan Turley]] called "little more than a journalistic shrug."[7]
 
+## National Guard deployment to the New York City subway (2024)
+
+On Wednesday, March 6, 2024, Hochul announced that hundreds of [[national-guard|National Guard]] soldiers and State Police officers would begin patrolling New York City subway platforms and checking riders' bags that week.[8] She said a large show of force in the system — operated by the [[metropolitan-transportation-authority|Metropolitan Transportation Authority]], a state agency — would help commuters and visitors feel safe.[8] The deployment added to an already substantial police presence, after Mayor [[eric-adams|Eric Adams]] ordered an additional 1,000 officers into the subways in February following a 45 percent spike in major crimes in January compared with the prior year.[8] Grand larcenies were the main driver of the January increase, according to police; after crime rates retreated in February, the overall rise in major crimes for the year as of March 3 stood at 13 percent.[8] Coverage noted that officials can be as sensitive to the perception that mass transit is dangerous as to actual increases in crime, given the system's importance to the city's post-pandemic recovery.[8]
+
 ## References
 1. Badlands Brief — "Massie Faces Massive Loss as Zionists Get Twitchy", URL: https://badlands.substack.com/p/badlands-brief-311
 2. Badlands Brief — "Hunters Become the Hunted as Traitors Reveal Themselves", URL: https://badlands.substack.com/p/badlands-brief-8db
@@ -50,3 +54,4 @@ In March 2024 Hochul announced that she would deploy 750 members of the [[nation
 5. Badlands Brief — "Badlands News Brief: Predictable Pandemics & A Thespian's Next Steps", URL: https://badlands.substack.com/p/badlands-news-brief-4a9
 6. Badlands Brief — "Badlands News Brief: Psyops Abound as the Media Landscape Shifts Rapidly", URL: https://badlands.substack.com/p/badlands-news-brief-6f7
 7. Badlands Brief — "Badlands News Brief: Will the One True POTUS Please Stand Up?", URL: https://badlands.substack.com/p/badlands-news-brief-9ae
+8. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35

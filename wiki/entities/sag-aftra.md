@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, union, hollywood, actors, entertainment]
-sources: [raw/badlands-news-brief-47a.md]
+sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Union president [[fran-drescher|Fran Drescher]] announced the strike in a press 
 
 The strike is covered in greater detail at [[2023-hollywood-labor-strikes|2023 Hollywood labor strikes]].[1]
 
+## June 2023 strike authorization vote
+
+In early June 2023, SAG-AFTRA members voted to authorize a strike against the major film and television studios by a margin of nearly 98 percent, setting up the possibility of the first actors' strike since 1980.[2] The union said it would strike if it could not reach a new contract with the [[alliance-of-motion-picture-and-television-producers|Alliance of Motion Picture and Television Producers]] by June 30, with streaming residuals at the center of the dispute.[2] Nadia Alexander, a member of both SAG and the [[writers-guild-of-america|Writers Guild of America]], said she voted yes because actors "have been getting the short end of the stick from streaming."[2] Because the [[2023-hollywood-labor-strikes|writers strike]] had already halted much production, an actors strike would have made scripted filming nearly impossible for U.S. companies.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
+2. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, rnc, 2024-election]
-sources: [raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a57.md]
+sources: [raw/badlands-news-brief-7db.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b5a.md]
 confidence: medium
 ---
 
@@ -26,6 +26,13 @@ Her elevation sparked fury among a subset of the GOP activist base on social med
 
 As co-chair of the [[republican-national-committee|Republican National Committee]], Lara Trump announced in April 2024 that the party was "hiring hundreds of election integrity staff across the map — more than ever before," and would recruit thousands more observers to protect the vote in 2024.[2] She said state campaign officials were tasked with recruiting, training, and shifting poll watchers and poll workers "day in and day out."[2] The announcement accompanied a joint campaign–RNC pledge to deploy 100,000 attorneys and volunteers to battleground states.[2]
 
+## Ballot harvesting pledge (February 2024)
+
+In an exclusive interview with [[epoch-times|The Epoch Times]] before a February 21, 2024 campaign stop — given while she was still a candidate for co-chair of the [[republican-national-committee|Republican National Committee]] at [[donald-trump|Donald Trump]]'s recommendation — Lara Trump declared: "We need to have the biggest legal ballot harvesting operation this country has ever seen."[3] She said efforts of "historic" proportions were needed to ensure Republicans, including her father-in-law, won the November 5 election.[3]
+
+[[ballot-harvesting|Ballot harvesting]], legal in many states, allows people to deliver other voters' absentee or mail-in ballots to election officials; Republicans have long frowned upon the practice while Democrats have made use of it, and some fear it facilitates election fraud.[3] Of Democratic practice she said, "Whether or not they do it legally, that's up for discussion," and argued it was time for Republicans to start "attacking the game differently."[3] Outlining her vision for a revamped RNC, she said: "It feels, for a long time, like the Democrats have been playing chess and we've been playing checkers," adding that her goal was for the party "to be the opposite, to be steps ahead of them, and on our toes, and ahead of the game, and facing forward the whole time."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Nuland Neutered, Biden Blasted and Trump Triumphant", URL: https://badlands.substack.com/p/badlands-news-brief-7db
 2. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+3. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a

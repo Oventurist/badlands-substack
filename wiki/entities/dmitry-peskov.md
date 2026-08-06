@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, kremlin, spokesman, ukraine-war, energy]
-sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-1c6.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9bc.md]
+sources: [raw/badlands-brief-0bd.md, raw/badlands-brief-1c6.md, raw/badlands-brief-e3f.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd2.md]
 confidence: medium
 ---
 
@@ -83,8 +83,11 @@ On Monday, November 11, 2024, the [[kremlin|Kremlin]] denied reports that U.S. P
 
 Badlands writer [[burning-bright|Burning Bright]] read the episode as part of the "Trump-Putin Kayfabe" of the Info War, arguing that the Washington Post likely did have sources but that the two leaders were deliberately leaving the globalist media apparatus on pins and needles while remaining in communication ahead of an eventual "peace bomb."[15]
 
-## References
+## "Real bear, not a paper tiger" (September 2025)
 
+On Wednesday, 24 September 2025, Kremlin spokesperson Dmitry Peskov responded on RBC Radio to [[donald-trump|Donald Trump]]'s description of Russia as a "paper tiger" with what Politico called a zoology lesson: "Russia is by no means a tiger. Russia is traditionally seen as a bear. There is no such thing as paper bears. Russia is a real bear ... There is nothing paper about it."[17] The remark answered Trump's overtly pro-Ukraine comments mocking Russia's failure to win the war swiftly and suggesting Kyiv could recover all of its territory, and Moscow also brushed off his claim that "Putin and Russia are in BIG Economic trouble, and this is the time for Ukraine to act."[17]
+
+## References
 1. Badlands Brief — "Mossad Bait & Labor Tackles", URL: https://badlands.substack.com/p/badlands-brief-0bd
 2. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 3. Badlands Brief — "Blondie's Ouster, Peters Sentence, & Several Foreign Ops", URL: https://badlands.substack.com/p/badlands-brief-e3f
@@ -100,3 +103,7 @@ Badlands writer [[burning-bright|Burning Bright]] read the episode as part of th
 13. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 14. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
 15. Badlands News Brief — "Trump's Avengers Assemble as Globalists Tremble", URL: https://badlands.substack.com/p/badlands-news-brief-9bc
+## June 2025 remarks on the Israel–Iran war
+In a call with reporters on Tuesday, June 17, 2025, Kremlin spokesman Peskov said [[israel|Israel]] was uninterested in mediation efforts over its conflict with [[iran|Iran]] amid a "galloping escalation," and called on both sides to exercise "maximum restraint."[16] "The situation is continuing to escalate rapidly. The level of unpredictability is absolute," he said, adding that [[russia|Russia]]'s offer to mediate between the warring sides stood but that Moscow saw Israel as not yet interested in a peaceful solution.[16] See [[june-2025-israeli-strikes-on-iran|June 2025 Israeli strikes on Iran]].[16]
+16. Badlands Brief — "Badlands News Brief: Military Strikes, Labor Strikes, & Greenland's Status Upgrade", URL: https://badlands.substack.com/p/badlands-news-brief-b63
+17. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2

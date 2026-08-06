@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [georgia, rico, 2020-election, lawfare, fulton-county]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -96,6 +96,12 @@ On Wednesday, March 13, 2024, Fulton County Superior Court Judge Scott McAfee di
 
 Badlands commentary noted that the quashed counts included those relating to the Brad Raffensperger phone call and to the defendants' oaths of office, and argued that the phone call had been arguably the strongest element of the state's case, even as the RICO charge and the prosecution as a whole survived.[14] The ruling resolved a pending motion unrelated to the disqualification question, with a decision on that separate matter expected imminently.[14]
 
+## Bond hearings, August 21, 2023
+
+On Monday, August 21, 2023, Fulton County Superior Court Judge [[scott-mcafee|Scott McAfee]] set bond for [[donald-trump|Donald Trump]] at $200,000, along with $100,000 each for attorneys [[john-eastman|John Eastman]] and [[kenneth-chesebro|Kenneth Chesebro]], $50,000 for [[ray-smith-iii|Ray Smith III]], and $10,000 for [[scott-hall|Scott Hall]].[15] Trump and the other eighteen defendants were given until noon that Friday to appear at the [[fulton-county-jail|Fulton County Jail]] for processing, and Trump said that evening on his own social media platform that he intended to surrender on Thursday.[15] Eastman was expected to surrender on Wednesday; the California judge overseeing his disbarment proceedings wrote in a Monday filing that "the court is willing to make certain changes in this week's trial to accommodate Dr. Eastman's surrender in Fulton County, Georgia."[15]
+
+Every defendant's bond agreement contained a provision that the defendant "shall perform no act to intimidate any person known to him or her to be a codefendant or witness in this case or to otherwise obstruct the administration of justice," and Trump's agreement specified that this covered "no direct or indirect threat" against codefendants or witnesses — a term widely read as a constraint on his social media commentary.[15] Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] argued that on the eve of the public arrest and likely mug shot the mood among Trump's supporters was "excited" rather than reactive, that any anxiety in the air belonged to his political enemies, and invited readers to judge whether the week would make Trump look like part of the Establishment or an existential threat to it.[15]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
@@ -112,3 +118,4 @@ Badlands commentary noted that the quashed counts included those relating to the
 12. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
 13. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
 14. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+15. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hollywood, labor, strikes, streaming, entertainment]
-sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-5ec.md]
+sources: [raw/badlands-news-brief-47a.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-b83.md]
 confidence: medium
 ---
 
@@ -32,6 +32,15 @@ He also highlighted the emergence of returned Disney CEO [[bob-iger|Bob Iger]] a
 
 The writers' strike ended in tentative settlement on September 24, 2023, when the [[writers-guild-of-america|Writers Guild of America]] and the [[alliance-of-motion-picture-and-television-producers|Alliance of Motion Picture and Television Producers]] reached an agreement after nearly five months, suspending picketing.[2] The breakthrough came once the parties untangled their stalemate over artificial intelligence and writing-room staffing levels, the issues that had defined the dispute.[2] The framework was announced in a joint statement just after sunset and the start of Yom Kippur, following five days of long negotiations, with deal details to be disclosed before membership ratification votes.[2]
 
+## June 2023: strike authorization and an "existential fight"
+
+By early June 2023, the [[writers-guild-of-america|Writers Guild of America]] strike had entered its sixth week with no deal in sight, and [[sag-aftra|SAG-AFTRA]] voted to authorize a strike by a margin of nearly 98 percent, raising the prospect of the first actors' strike against the major film and television studios since 1980 — when the issue was residuals from videotape and cable television rather than streaming.[3] SAG-AFTRA said it would strike if it could not reach a new contract with the [[alliance-of-motion-picture-and-television-producers|Alliance of Motion Picture and Television Producers]] by June 30.[3] Nadia Alexander, a member of both SAG and the WGA, said she voted yes because "actors have been getting the short end of the stick from streaming. All creators are."[3]
+
+The writers strike had already shut down production and writers rooms across all of late-night television and on major shows including ABC's *Abbott Elementary* and Netflix's *Stranger Things*, while some productions such as the U.K.-based set of Amazon Prime's *The Lord of the Rings: The Rings of Power* continued shooting with nonwriting producers.[3] An actors strike would make filming scripted movies and television nearly impossible for U.S. companies.[3] In a break from guild solidarity, the [[directors-guild-of-america|Directors Guild of America]] reached a tentative deal with the studios that week securing wages, benefits, streaming residuals, and AI protections.[3]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] wrote that technology is reshaping every industry and that Hollywood creators are correct that their contract terms have not kept pace, since studios retained traditional terms that deny creators a fair share of streaming gains.[3] Noting that creators described the moment as an "existential fight" and one "about values," she argued that the strike had already sharply degraded the studios' ability to deliver content to shrinking audiences, and suggested that the buyer most affected by the creators' fight was the U.S. intelligence community.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The System of Systems Fades ... and Fights", URL: https://badlands.substack.com/p/badlands-news-brief-47a
 2. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
+3. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83

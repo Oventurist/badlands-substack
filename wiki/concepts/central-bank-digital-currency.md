@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cbdc, digital-currency, blockchain, monetary-policy, federal-reserve]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -50,8 +50,13 @@ In the U.S. context, a CBDC would entail the [[federal-reserve|Federal Reserve]]
 
 Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Burning Bright]] called Trump's CBDC comments "a pretty seismic development as it relates to the Info War," aligning them with [[chris-paul|Chris Paul]]'s framing that Trump reflects the views of MAGA back at them as the War of Stories evolves.[4] He described Trump as the central pillar of the sociopolitical Overton Window, with Anons and Truthers front-running that window and creating an energizing feedback loop that lets Trump shift the macro window forward in disclosure and understanding; in his reading, the Truth Community already understood the dangers of CBDCs and Trump was confirming them while prepping the wider public for conversations about true decentralization.[4]
 
+## SWIFT interoperability platform
+
+In March 2024 the global bank messaging network [[swift|SWIFT]] told Reuters it planned to launch within one to two years a new platform connecting the wave of CBDCs then in development to the existing financial system, a step described as one of the most significant yet for the nascent CBDC ecosystem.[5] Roughly 90% of the world's central banks were reported to be exploring digital versions of their currencies, most anxious not to be left behind by bitcoin and other cryptocurrencies while grappling with technological complexity.[5] SWIFT innovation head [[nick-kerigan|Nick Kerigan]] said a six-month trial with a 38-member group of central banks, commercial banks and settlement platforms had focused on making different countries' CBDCs interoperable across differing protocols, reducing payment system fragmentation risk.[5] Badlands writer [[burning-bright|Burning Bright]] read the announcement alongside the [[securities-and-exchange-commission|SEC]]'s courtroom win over [[coinbase|Coinbase]], noting that the SEC treats only bitcoin as a commodity and asking whether, with [[donald-trump|Trump]] pledging to block CBDCs, the banks might be undone by their own securities laws.[5]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 3. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
 4. Badlands Brief — "Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth", URL: https://badlands.substack.com/p/badlands-news-brief-2b8
+5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

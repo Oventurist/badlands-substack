@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md]
 confidence: low
 ---
 
@@ -154,6 +154,18 @@ The subcommittee memo recounted that on February 1, 2020, Fauci, [[national-inst
 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] asked whether Fauci would walk free or whether justice would finally be served, cautioning that Fauci is only one of many participants in what he called the [[pandemic-industrial-complex|"pandemic industrial complex"]], alongside [[bill-gates|Bill Gates]], [[tedros-adhanom-ghebreyesus|Tedros Ghebreyesus]], Peter Daszak, Shi Zhengli, Rochelle Walensky, [[albert-bourla|Albert Bourla]] and others.[21] He warned against Fauci becoming a sacrificial lamb used to placate the public while the wider apparatus continued unabated, noting that [[joe-biden|Biden]] was at the same time eyeing [[who-pandemic-accord|pandemic accords]] that DeLarme said would let the [[world-health-organization|WHO]] circumvent the Constitution in the name of "global health."[21] He urged the [[house-oversight-committee|House Oversight Committee]] to also examine the promotion of Remdesivir while the efficacy of cheap drugs such as hydroxychloroquine and [[ivermectin|Ivermectin]] was downplayed, so that any fall of Fauci would vindicate those who recommended cheaper alternatives.[21]
 
+## Congressional demand for personal email and phone records (May 2024)
+
+On May 29, 2024, [[house-select-subcommittee-on-the-coronavirus-pandemic|House COVID-19 Committee]] Chairman [[brad-wenstrup|Brad Wenstrup]] requested access to the personal email and cellphone records of Fauci, the former director of the National Institute of Allergy and Infectious Diseases, ahead of Fauci's scheduled testimony the following week.[22] Wenstrup said new evidence indicated that Fauci had used personal email and a personal cellphone for government communication.[22]
+
+The request followed disclosure of a 2021 email in which Fauci's senior advisor [[david-morens|David Morens]] told former [[ecohealth-alliance|EcoHealth Alliance]] president [[peter-daszak|Peter Daszak]] that he could evade the Freedom of Information Act on Fauci's behalf, writing: "I can either send stuff to Tony on his private gmail, or hand it to him at work. He is too smart to let colleagues send him stuff that could cause trouble."[22] Wenstrup called the information concerning and opened an investigation into a "secret back channel" that Morens had referenced in separate correspondence.[22]
+
+## June 2024 public testimony before the coronavirus subcommittee
+
+On April 24, 2024, Subcommittee Chair [[brad-wenstrup|Brad Wenstrup]] (R-Ohio) announced that Fauci was locked in to testify before the [[select-subcommittee-on-the-coronavirus-pandemic|Select Subcommittee on the Coronavirus Pandemic]] on June 3, his first public hearing since retiring as the president's chief medical advisor in 2022; Fauci had agreed to appear late the previous year.[23] "Retirement from public service does not excuse Dr. Fauci from accountability to the American people," Wenstrup said, adding that Americans would have an opportunity to hear directly from him about his role in overseeing the national pandemic response, shaping pandemic-era policies, and promoting "singular questionable narratives" about the [[lab-leak-theory|origins of COVID-19]].[23]
+
+Fauci had already testified in a closed-door, two-day hearing in January 2024, in which, according to Wenstrup, he admitted to serious systemic failures in the public health system that deserved further investigation.[23] Among the revelations cited were Fauci's statement that the six-feet social distancing guidance used to shut down small businesses across the country "sort of just appeared" and was likely not based on scientific data; his acknowledgment that he signed off on every foreign and domestic NIAID grant without personally reviewing the proposals; and his admission that the vaccine mandates he promoted could increase public vaccine hesitancy in the future.[23]
+
 ## References
 
 
@@ -177,3 +189,5 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] asked whether Fauci would wal
 19. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 20. Badlands Brief — "Badlands News Brief: The Turns on COVID, Ukraine & the Establishment Have Begun", URL: https://badlands.substack.com/p/badlands-news-brief-8f0
 21. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
+22. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+23. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad

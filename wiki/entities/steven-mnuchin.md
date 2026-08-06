@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, trump-administration, crypto, foia]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-365.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-b35.md]
 confidence: medium
 ---
 
@@ -26,6 +26,13 @@ The announcement came a day after the House of Representatives passed a bipartis
 
 Badlands contributor [[simon-esler|Simon Esler]], citing research by independent journalist [[ian-carroll|Ian Carroll]], argued that Mnuchin's bid represented Israeli rather than purely American interests and questioned how much of the "TikTok is a CCP weapon" narrative served as cover for other influence operations on the platform.[2]
 
+## New York Community Bancorp investment (2024)
+
+In March 2024, Mnuchin's investment firm [[liberty-strategic-capital|Liberty Strategic Capital]] participated in a $1 billion capital raise for the embattled regional lender [[new-york-community-bancorp|New York Community Bancorp]], alongside Hudson Bay Capital, Reverence Capital Partners, Citadel Global Equities, other institutional investors, and members of the bank's management.[3] As part of the deal, NYCB named [[joseph-otting|Joseph Otting]] — the former Comptroller of the Currency under [[donald-trump|Donald Trump]] and Mnuchin's former colleague at OneWest Bank — as its new chief executive, and Mnuchin joined the bank's expanded board.[3] Mnuchin said that "in evaluating this investment, we were mindful of the bank's credit risk profile."[3]
+
+[[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] read the transaction as a significant signal of a civilian-military alliance extending into the U.S. financial sector, placing it alongside [[stephen-miller|Stephen Miller]]'s [[america-first-legal|America First Legal]] as instruments used against entrenched interests, and contrasting it with the 2023 collapses of [[silicon-valley-bank|Silicon Valley Bank]] and [[first-republic-bank|First Republic Bank]].[3]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
+3. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [irs, whistleblower, hunter-biden, congress]
-sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-news-brief-204.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ In the Badlands framing, the Ziegler and Shapley material — combined with the 
 
 Ziegler's public statements, congressional testimony, and interviews — together with those of fellow whistleblower [[gary-shapley|Gary Shapley]] and their attorneys — formed the core of [[hunter-biden-v-internal-revenue-service|Hunter Biden's September 2023 lawsuit]] against the [[internal-revenue-service|IRS]], although neither agent was named as a defendant.[2]
 
+## July 2023 House Oversight hearing
+
+Ziegler testified with [[gary-shapley|Gary Shapley]] before the [[house-oversight-committee|House Oversight Committee]] on July 19, 2023 regarding the handling of the [[hunter-biden|Hunter Biden]] tax investigation.[3] Commentators observed that Democratic members of the panel offered no substantive counterargument to the whistleblowers' testimony, instead invoking [[donald-trump|Donald Trump]] and George Floyd, while ranking member [[jamie-raskin|Jamie Raskin]] characterized the Republican probe as an "Inspector Clouseau-style quest for something that doesn't exist."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Narrative Shielding & Biden Bait", URL: https://badlands.substack.com/p/badlands-news-brief-204
 2. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+3. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

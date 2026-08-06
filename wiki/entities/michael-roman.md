@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, 2020-election, lawfare]
-sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-6fc.md]
+sources: [raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-b35.md]
 confidence: medium
 ---
 
@@ -26,8 +26,13 @@ Roman's attorney, [[ashleigh-merchant|Ashleigh Merchant]], authored the motion s
 
 Roman's motion produced a formal evidentiary hearing in Fulton County. On February 12, 2024, Judge [[scott-mcafee|Scott McAfee]] confirmed that the hearing would proceed as scheduled that Thursday at 9:30 a.m. Eastern, and said it was "possible" the misconduct allegations "could result in disqualification" if evidence showed District Attorney [[fani-willis|Fani Willis]] had financially benefited from the case.[3] Willis, special prosecutor [[nathan-wade|Nathan Wade]] and a number of employees of the district attorney's office had been subpoenaed to testify by Roman, whose motion filed the previous month sought to dismiss the election charges against him and disqualify Willis on the grounds that she had engaged in a "personal, romantic relationship" with Wade resulting in financial gain for both.[3] McAfee said the state had admitted a relationship existed, leaving the existence and extent of any financial benefit as the core question requiring an evidentiary record.[3]
 
+## Disqualification motion and Georgia Senate testimony
+
+Roman, a former Trump campaign official and one of 18 co-defendants charged alongside [[donald-trump|Donald Trump]] in the Georgia election interference case, is represented by attorney [[ashleigh-merchant|Ashleigh Merchant]].[4] Merchant first revealed that Fulton County District Attorney Fani Willis and special prosecutor Nathan Wade were in a romantic relationship when she filed a January 8, 2024 motion on Roman's behalf seeking to disqualify Willis and her office from the case.[4] She subsequently became the first person subpoenaed by the [[georgia-senate|Georgia Senate]] Committee on Special Investigations, testifying on March 6, 2024 about how she uncovered the relationship.[4]
+
 ## References
 
 1. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 2. Badlands Brief — "Badlands News Brief: Trump Trounces Haley (Again) as the Media Spins", URL: https://badlands.substack.com/p/badlands-news-brief-3c0
 3. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
+4. Badlands Brief — "Badlands News Brief: Trump & Musk Meet as RINOs Run for the Hills", URL: https://badlands.substack.com/p/badlands-news-brief-b35

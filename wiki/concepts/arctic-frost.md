@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, investigation, surveillance, weaponization, congress]
-sources: [raw/badlands-brief-40d.md, raw/badlands-brief-abf.md, raw/badlands-brief-a20.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-a98.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-brief-abf.md, raw/badlands-brief-a20.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-bc7.md]
 confidence: medium
 ---
 
@@ -60,6 +60,20 @@ Grassley said the material had been obtained "through legally protected whistleb
 
 The disclosures fueled calls for the impeachment of Judge [[james-boasberg|James Boasberg]]; Senator [[mike-lee|Mike Lee]] posted publicly asking whether Boasberg should be impeached.[7] Badlands commentator Ashe in America answered in the affirmative but argued the more important remedy would be to abolish the district courts and return the justice domain to the people through citizen grand juries, to be proven out in the treason trials she expects.[7]
 
+## Physical surveillance of Scott Perry (September 2025 disclosure)
+
+Unclassified records reviewed by the New York Post and reported at the end of September 2025 showed that the [[fbi|FBI]] surveilled Representative [[scott-perry|Scott Perry]] at his congressional office and private residence roughly a month before seizing his cell phone and demanding information for the probe.[8] The files showed Perry was trailed by bureau agents in July and August 2022, with one document stating that the "[g]oal from surveillance is to get a pattern of life, identify his vehicle, and possibly identify a location to serve him with a SW [seizure warrant]."[8] Agents logged notes on July 25 at his home just south of Harrisburg, Pennsylvania, and at two Washington, D.C. workplaces, and surveilled him at a capital recreation center on August 4.[8]
+
+The records were first obtained by House Judiciary Committee Chairman [[jim-jordan|Jim Jordan]] as part of his oversight of Arctic Frost, which the newly uncovered FBI files described as a "sensitive election law investigation" targeting nearly 100 Republican-aligned entities after Trump's 2020 electoral loss.[8] Badlands contributor [[ashe-in-america|Ashe in America]] argued that the surveillance was unremarkable in kind — that the agencies surveil anyone at will and that the FBI functions as "the muscle for the criminal cartel that runs our government" — while noting that Perry and Jordan's outrage seemed most authentic when directed at their own treatment.[8]
+
+## October 2025 disclosures
+
+Reporting by Just the News in late October 2025 concluded that the Arctic Frost probe targeting [[donald-trump|Donald Trump]] and MAGA world was born at the highest levels of the Biden White House and Justice Department.[9] Recently declassified material chronicled the 2022 lawfare assault on the then-former president as criminal inquiries accelerated while he leaned toward running again.[9] New evidence showed that then-Attorney General [[merrick-garland|Merrick Garland]], then-Deputy Attorney General [[lisa-monaco|Lisa Monaco]], and then-FBI Director [[christopher-wray|Christopher Wray]] signed off on the launch of the inquiry into Trump related to the Capitol riot.[9] Unearthed emails also showed the Biden White House Counsel's Office coordinating with an anti-Trump FBI agent to hand over phones that had belonged to Trump and former Vice President Mike Pence.[9]
+
+Senator [[chuck-grassley|Chuck Grassley]] released a document from early April 2022 showing that Garland, Monaco and Wray initialed a memo seeking "Approval to Open a Certain Sensitive Investigative Matter [SIM] Investigation."[9] Separately, the [[house-judiciary-committee|House Judiciary Committee]] published new Arctic Frost documents revealing that investigators used FBI field offices across the country and requested $16,600 in travel funds to conduct more than 40 interviews.[9] The records indicated that 45 individuals — including Steve Bannon, Scott Perry, Rudolph Giuliani, Jeffrey Clark, John Eastman and Mark Meadows — were potentially under investigation, with another 111 individuals such as Peter Navarro, Dan Scavino, Jeff Rosen and Ed Martin also potentially swept in.[9]
+
+Badlands contributor Ashe in America noted that the 198 pages of redacted documents produced by [[jim-jordan|Jim Jordan]]'s committee included several pages of seemingly encrypted text, and wrote that she personally knew several people named on the lists, describing their only offense as "having the wrong politics."[9] She characterized the operation as an unbelievable breach of the social contract and a direct violation of the perpetrators' constitutional oaths, expressing frustration that no treason prosecutions had followed.[9]
+
 ## References
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
@@ -69,3 +83,5 @@ The disclosures fueled calls for the impeachment of Judge [[james-boasberg|James
 5. Badlands Brief — "Badlands News Brief: Quantum Tunneling, Natural Conflicts, & Pirates for Gaza", URL: https://badlands.substack.com/p/badlands-news-brief-060
 6. Badlands Brief — "Shutdown Showcase, Attempted Tariff Takedowns, & the Launch of Mammany Hall", URL: https://badlands.substack.com/p/badlands-news-brief-095
 7. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
+8. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
+9. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7

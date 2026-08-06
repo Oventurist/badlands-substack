@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, foreign-ministry, iran-war]
-sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-ac8.md]
+sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b60.md]
 confidence: medium
 ---
 
@@ -61,6 +61,10 @@ As Russian Foreign Ministry spokeswoman, Zakharova said that the February 2025 d
 
 In October 2024, Zakharova stated that Russia had proof of United States and United Kingdom involvement in the [[nord-stream-sabotage|sabotage of the Nord Stream pipelines]], answering a question about data obtained by the Russian Foreign Intelligence Service (SVR).[10] "This evidence exists," she said, adding that whether Moscow published it — a decision that would itself reveal what kind of evidence it was — would depend on how the situation around the investigation unfolded.[10] She complained that Russia had repeatedly offered cooperation publicly and through law enforcement legal channels and received "zero response," singling out Germany as a state that ought to want to exchange materials, while describing the positions of Denmark and Sweden as long settled.[10] Zakharova further said Russia had been ready — indeed had insisted — to present its material within a United Nations-aegis investigation, but that the West blocked the initiative, leaving Moscow to pursue a national investigation whose evidence base officials such as SVR Director Sergey Naryshkin had referenced.[10]
 
+## Remarks on the Crocus City Hall attack
+
+In late March 2024 Zakharova said the United States had backed itself into a corner by rushing to blame the [[islamic-state|Islamic State]] for the [[crocus-city-hall-attack|Crocus City Hall terror attack]] while the incident was still under way.[11] Speaking on Sputnik radio, she said the fact that "within the first 24 hours, even before the fire was put out, the Americans started screaming that it wasn't Ukraine" amounted to "a piece of incriminating evidence" in itself.[11] She said the speed with which Washington reached conclusions was astonishing, taking only a few hours "to get to a microphone, turn on the lights, summon the press and draw a conclusion about who is to blame."[11] Zakharova argued that naming ISIS prompted experts to recall what the group actually is, concluding: "You are behind all those ISIS-type structures, you — the United States, Great Britain — yourselves brought them into being."[11]
+
 ## References
 1. Badlands Brief — "Blondie's Ouster, Peters Sentence, & Several Foreign Ops", URL: https://badlands.substack.com/p/badlands-brief-e3f
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
@@ -72,3 +76,4 @@ In October 2024, Zakharova stated that Russia had proof of United States and Uni
 8. Badlands News Brief — "Iranian Walk-backs, Trump Trials & Trans Truths", URL: https://badlands.substack.com/p/badlands-news-brief-808
 9. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 10. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+11. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60

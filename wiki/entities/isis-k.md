@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [terrorism, afghanistan, isis, abbey-gate]
-sources: [raw/badlands-news-brief-46b.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-46b.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -28,8 +28,13 @@ Following the [[2025-kashmir-terrorist-attack|April 2025 attack]] in India-admin
 
 The June 2024 gun attacks on places of worship in [[dagestan|Dagestan]] came three months after ISIS-K claimed responsibility for the assault on Crocus City Hall in Moscow, which killed more than 140 people in one of Russia's deadliest terrorist atrocities in years.[3] No group claimed the Dagestan attacks, though Russian law enforcement told TASS the gunmen were "adherents of an international terrorist organization."[3]
 
+## Russian threat reassessment (May 2024)
+
+By May 2024 Russia had come to view the [[taliban|Taliban]] as a regional security provider capable of containing ISIS-K, a shift analyst [[andrew-korybko|Andrew Korybko]] documented alongside Moscow's moves to delist the group as a terrorist organization and invite it to the St. Petersburg International Economic Forum.[4] Badlands contributor [[burning-bright|Burning Bright]] described ISIS-K as a Deep State terror group and argued that the Taliban's role in containing it since the Kabul withdrawal of August 2021 represented a continuation of [[donald-trump|Trump]]'s post-[[doha-agreement|Doha Agreement]] vision.[4] Contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] separately noted that abandoned U.S. military equipment had been used by the Taliban to hunt down the ISIS-K operatives who bombed Kabul airport and killed thirteen American service members.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 2. Badlands Brief — "Badlands News Brief: Ongoing Judicial Coups. Newly Jailed Judges.", URL: https://badlands.substack.com/p/badlands-news-brief-8a9
 3. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+4. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c

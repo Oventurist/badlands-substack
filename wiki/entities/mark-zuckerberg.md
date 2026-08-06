@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meta, facebook, big-tech, free-speech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md]
 confidence: medium
 ---
 
@@ -69,6 +69,20 @@ Zuckerberg also said his firm briefly "demoted" content relating to [[hunter-bid
 
 Badlands writer [[burning-bright|Burning Bright]] described Zuckerberg as "the most notorious of the social media censor czars" disclosing what critics already knew — that he had acted as a key vector of the globalist regime's enforcement arm — and argued that in a war defined by the dissemination, obfuscation and cultivation of information, censorship is an act of war whose practitioners should be treated as enemy combatants.[10] He contrasted the admission with France's simultaneous imprisonment of [[telegram|Telegram]] founder [[pavel-durov|Pavel Durov]] on charges he said would not look out of place in an Orwell novel, reading the convergence as a sign of enemy panic and patriot narrative control rather than enemy dominance.[10]
 
+## Trump's life-imprisonment warning (August 2024)
+
+In late August 2024, Modernity News reported that [[donald-trump|Donald Trump]] had warned in his forthcoming book [[save-america|*Save America*]] that Zuckerberg and anyone else who illegally interferes in the election would be jailed for life if Trump won the presidency.[11] Trump wrote that the [[facebook|Facebook]] founder would "spend the rest of his life in prison" if meddling were proven, and that he was "watching him closely" ahead of the November election.[11] Recalling his first term, Trump said Zuckerberg would visit the White House and "bring his very nice wife to dinners, be as nice as anyone could be," while secretly mounting a "plot against the President," adding: "He told me there was nobody like Trump on Facebook. But at the same time, and for whatever reason, steered it against me."[11]
+
+The report tied the warning to Facebook's role in censoring the Hunter Biden laptop story before the 2020 election on the basis of false claims that it was Russian disinformation, suppression that some observers argued could have changed the outcome of the vote.[11] [[badlands-media|Badlands Media]] contributor Ashe in America noted that Zuckerberg had apologized the previous week for caving to government censorship requests, calling the sequence of events — apology, book release, and election-interference warning — an interesting set of plot points at the top of the public mind.[11]
+
+## August 2024 letter to the House Judiciary Committee
+
+On the evening of Monday, August 26, 2024, Zuckerberg sent a letter to House Judiciary Chairman [[jim-jordan|Jim Jordan]] as part of a congressional investigation, admitting that senior Biden administration officials had "repeatedly pressured" [[facebook|Facebook]] teams to suppress COVID-19-related information the platform would not otherwise have censored, and that the administration "expressed a lot of frustration with our teams when we didn't agree."[12] He wrote that Facebook should not have compromised its standards "due to pressure from any Administration in either direction," adding: "I believe the government pressure was wrong, and I regret that we were not more outspoken about it. I also think we made some choices that, with the benefit of hindsight and new information, we wouldn't make today."[12] He said he was ready "to push back if something like this happens again."[12] The letter followed his earlier admission to Joe Rogan that the FBI had pressured Facebook into censoring the Hunter Biden laptop story.[12]
+
+## Threads launch and collapse (July 2023)
+
+Zuckerberg launched [[threads|Threads]] on July 5, 2023 and celebrated its rapid growth past 100 million sign-ups, posting, "Can't believe it's only been five days!"[13] Commentators said he had taken a premature victory lap: within two weeks data from SimilarWeb showed daily active users falling from 49 million to 23.6 million and average US engagement dropping from about 21 minutes to six minutes per day.[13]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -81,3 +95,6 @@ Badlands writer [[burning-bright|Burning Bright]] described Zuckerberg as "the m
 8. Badlands Brief — "It Was the Trumpest of TIMEs ...", URL: https://badlands.substack.com/p/badlands-news-brief-61a
 9. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 10. Badlands News Brief — "Transition Teams at Home and Abroad ...", URL: https://badlands.substack.com/p/badlands-news-brief-a0c
+11. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
+12. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
+13. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76

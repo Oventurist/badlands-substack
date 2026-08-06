@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidency, libya, syria, isis, muslim-brotherhood, labor]
-sources: [raw/a-conflict-of-interest.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/a-dereliction-of-duty.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-740.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b39.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-mysterious-masterclass-in-multi.md, raw/a-more-perfect-labor-union.md, raw/a-swan-song-for-the-msm.md, raw/a-dereliction-of-duty.md, raw/a-virus-or-a-metaphor.md, raw/a-week-to-remember.md, raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-brief-740.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-3f5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-87b.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-be1.md]
 confidence: medium
 ---
 
@@ -202,6 +202,12 @@ In late July 2024, NBC News reported that Obama was on the verge of publicly end
 
 His backing was expected to add star power to a campaign already gathering momentum: Harris travelled to Houston to give the keynote speech at the [[american-federation-of-teachers|American Federation of Teachers]] national convention, whose 1.7 million-member delegation had voted to endorse her bid, one of a flurry of endorsements from major labor unions with fewer than 100 days remaining before the presidential election.[36]
 
+## Ethel Kennedy memorial exchange (October 2024)
+
+At [[ethel-kennedy|Ethel Kennedy]]'s memorial service in Washington on Wednesday, October 16, 2024, Obama was captured on video in an off-mic conversation with President [[joe-biden|Joe Biden]] that a forensic lip reader translated for the New York Post.[37] Biden said of Vice President [[kamala-harris|Kamala Harris]], "She's not as strong as me," to which Obama replied, "I know … that's true," adding, "We have time"; moments earlier Obama had said, "it's important that we have some time together," possibly referring to joint campaigning with Harris.[37] Obama was believed to have supported the July 21, 2024 push that forced Biden to relinquish the nomination.[37]
+
+Badlands writer [[burning-bright|Burning Bright]] read the moment as a sign of internal fracture, asking whether "the fading visage of the haggard Barack Obama" was being forced to betray his oldest political ally to throw in with a fresh [[hillary-clinton|Clinton]] bid.[37] Separately, [[ashe-in-america|Ashe in America]] argued that the Harris campaign's uniformly self-destructive choices were unlikely to reflect incompetence from the Obama-aligned apparatus, whose handlers she described as historically skillful — implying deliberate sabotage.[37]
+
 ## References
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Mysterious Masterclass in Multi Sensory Deception", URL: https://badlands.substack.com/p/a-mysterious-masterclass-in-multi
@@ -239,3 +245,5 @@ His backing was expected to add star power to a campaign already gathering momen
 34. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 35. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 36. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
+37. Badlands Brief — "Badlands News Brief: Trump Roasts the Deep State While Kamala Hides", URL: https://badlands.substack.com/p/badlands-news-brief-b9e
+38. Badlands Brief — "Badlands News Brief: Obamas Resurface as the Establishment Hedges", URL: https://badlands.substack.com/p/badlands-news-brief-be1

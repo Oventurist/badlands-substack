@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, israel, congress, foreign-influence]
-sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b7b.md]
 confidence: medium
 ---
 
@@ -38,8 +38,16 @@ In a tense interview released in June 2025, Senator [[ted-cruz|Ted Cruz]] forcef
 
 Badlands writer [[ashe-in-america|Ashe in America]] responded that the real test of whether AIPAC constitutes foreign lobbying is the value exchange — donations traded for foreign policy determinations benefiting a foreign nation — and argued that the long-standing conservative line, that American and Israeli interests are simply inseparable, amounts to storytelling that carves out an unlawful but unquestioned lobbying exemption for a single foreign nation.[4]
 
+## Setbacks in May 2025
+
+AIPAC-backed legislation suffered a public defeat in May 2025 when the [[igo-anti-boycott-act|IGO Anti-Boycott Act]] (H.R. 867), supported by Republican leadership and AIPAC, was pulled from the House calendar after a revolt by right-wing lawmakers who called it a threat to First Amendment rights.[5] Badlands contributor Jon Herold responded by arguing that AIPAC should not be permitted to lobby American politicians and questioning why dual citizenship for elected officials had not been banned.[5]
+
+In the same week, a letter published as a full-page advertisement in the New York Times and signed by dozens of American Jewish leaders — among them AIPAC's longtime former leader and the past national chair of the [[anti-defamation-league|Anti-Defamation League]] — criticized establishment Jewish organizations for failing to condemn what the signatories described as the Trump administration's assault on democratic norms.[5]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Tsunamis, Bombshells, & Signed Declarations", URL: https://badlands.substack.com/p/badlands-news-brief-22b
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 4. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+5. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b

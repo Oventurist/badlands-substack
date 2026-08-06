@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, litigation, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bbc.md]
 confidence: medium
 ---
 
@@ -75,6 +75,10 @@ In January 2023 the New York Post reported, and the Daily Caller relayed, that B
 
 On Saturday, July 19, 2025, [[ftx|FTX]]'s native token FTT surged roughly 43 percent to $1.30 following false reports that Bankman-Fried had received a pardon from President [[donald-trump|Donald Trump]]; no such clemency grant appeared on the Justice Department's website.[10] Bankman-Fried was actively seeking a presidential pardon with the support of his parents, Joseph Bankman and Barbara Fried, and other allies, while serving a 25-year prison sentence following his fraud conviction related to FTX's collapse.[10] Several crypto industry figures had previously received presidential pardons from Trump, including BitMEX co-founders Arthur Hayes, Benjamin Delo, and Samuel Reed, as well as Silk Road creator Ross Ulbricht.[10]
 
+## Conviction, November 2023
+
+On Thursday, November 2, 2023, after 15 days of testimony and roughly four and a half hours of deliberation, a jury in a lower Manhattan courtroom found Bankman-Fried guilty on all seven counts of fraud and money laundering.[11] U.S. District Judge [[lewis-kaplan|Lewis Kaplan]] had read the jury about 60 pages of instructions before the case was handed over at approximately 3:15 p.m.[11] Sentencing was scheduled for March 28, with Bankman-Fried facing more than 100 years in prison if given the maximum on all counts; he indicated he would appeal.[11] The trial concluded far faster than the anticipated run through Thanksgiving.[11] The 31-year-old MIT graduate and son of two Stanford legal scholars, who founded [[ftx|FTX]] in 2019 two years after forming [[alameda-research|Alameda Research]], had pleaded not guilty to all charges.[11]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
@@ -87,3 +91,4 @@ On Saturday, July 19, 2025, [[ftx|FTX]]'s native token FTT surged roughly 43 per
 8. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 9. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 10. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+11. Badlands Brief — "Badlands News Brief: Israel's Package, Biden's Border and Putin's Nukes", URL: https://badlands.substack.com/p/badlands-news-brief-bbc

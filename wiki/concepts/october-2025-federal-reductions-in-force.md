@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [government-shutdown, rif, federal-workforce, omb, doge]
-sources: [raw/badlands-news-brief-497.md]
+sources: [raw/badlands-news-brief-497.md, raw/badlands-news-brief-bc7.md]
 confidence: medium
 ---
 
@@ -20,5 +20,14 @@ Badlands contributor [[ashe-in-america|Ashe in America]] framed the layoffs as t
 
 She argued that the government is full of dead weight talent precisely because it has always been nearly impossible to fire government workers, calling RIFs in government "a miracle" that never happen.[1] Acknowledging that people with family and friends affected would find it hard, she maintained that the transformation must continue in order to "make American great again and realize the Golden Age," noting that the federal government amounts to roughly 25 percent of GDP, which is how it acquired the resources and manpower to be excessively involved in Americans' lives.[1] She closed with the formulation that "everyone gets a hair cuts, and some heads get shaved. Accelerate."[1]
 
+## Injunction barring further RIFs
+
+On October 28, 2025, U.S. District Judge [[susan-illston|Susan Illston]] indefinitely extended her order banning the Trump administration from mass-firing federal employees during the shutdown, granting a preliminary injunction blocking reductions in force at most major government agencies.[2] Barring action by a higher court, the ruling limited the administration's ability to continue downsizing the federal government and to leverage the shutdown to cut federal programs and agencies favored by Democrats.[2]
+
+Illston, a San Francisco-based Clinton appointee, held that the [[office-of-personnel-management|Office of Personnel Management]], the [[office-of-management-and-budget|Office of Management and Budget]] "and the federal agency defendants are enjoined from issuing any more RIF notices because of the shutdown."[2] She also barred the administration from implementing RIF notices issued during the shutdown and indicated she might hold further proceedings to resolve disputes over RIFs already in the works before the shutdown began on October 1.[2] The administration was expected to appeal to the 9th Circuit Court of Appeals.[2]
+
+Badlands contributor Burning Bright questioned whether observers were "looking at the wrong thing," arguing that government layoff statistics were being treated as the scoreboard while the more significant question was how many NGOs depend on an ongoing river of cash flowing out of the agencies.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Counterterrorism Co-Ops, Chinese Challenges, & Channels for Children", URL: https://badlands.substack.com/p/badlands-news-brief-497
+2. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7

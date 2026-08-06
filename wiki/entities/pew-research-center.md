@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [polling, research, media, social-media]
-sources: [raw/badlands-news-brief-85c.md]
+sources: [raw/badlands-news-brief-85c.md, raw/badlands-news-brief-ba4.md]
 confidence: medium
 ---
 
@@ -20,5 +20,12 @@ A Pew analysis reported in June 2025 found that the share of "news influencers" 
 
 [[badlands-media|Badlands]] contributor [[chris-paul|Chris Paul]] used the findings to question which mainstream "Christian conservatives" on television, podcasts and X are fully committed to telling the truth and how many are instead protecting the Republican half of the [[uniparty|Uniparty]].[1] He argued that people who see their solutions through State power and believe they need leaders and protectors to make the State stop violating their rights are "grovelers" and "statists," and that both conservatism and Christianity preclude such groveling.[1] Such figures, he wrote, "are not 'on the right'" but leftists who claim to hate abortion, illegal immigration and LGBTQ activism while helping the Uniparty Left achieve all of it, growing richer and more powerful in the process.[1]
 
+## August 2023 nuclear power survey
+
+In August 2023, Pew published a survey finding that about 57% of Americans — a majority — favored building more nuclear power generation plants nationwide, an increase of 14 percentage points since 2020.[2] The survey found respondents still preferred solar power (82%) and wind power (75%) over nuclear, but the direction of movement on nuclear was the headline result, coming as demand for electricity rose under an "electrify everything" push that included transportation.[2] The findings were widely circulated after [[elon-musk|Elon Musk]] advocated greater nuclear use on X, and were cited alongside remarks by nuclear advocate [[charles-oppenheimer|Charles Oppenheimer]] on the technology's safety record.[2]
+
+Badlands contributor [[paul-fleuret|Paul Fleuret]] read the polling as evidence that many Americans were "no longer buying into the push to 'go green,'" arguing that so sharp a shift in so short a period signalled that the green narrative was being lost and that the public increasingly saw climate change politics as a worldwide power grab.[2]
+
 ## References
 1. Badlands Brief — "Sudden Independence & Legitimately Toxic Unity", URL: https://badlands.substack.com/p/badlands-news-brief-85c
+2. Badlands Brief — "Badlands News Brief: Trump's Slings and Arrows ... Hunter's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-ba4

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [turkey, geopolitics, sovereign-alliance, middle-east]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-509.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f4.md, raw/badlands-brief-7bf.md, raw/badlands-brief-949.md, raw/badlands-brief-990.md, raw/badlands-brief-be1.md, raw/badlands-brief-e9e.md, raw/badlands-brief-ec9.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-509.md, raw/badlands-brief-67a.md, raw/badlands-brief-6f4.md, raw/badlands-brief-7bf.md, raw/badlands-brief-949.md, raw/badlands-brief-990.md, raw/badlands-brief-be1.md, raw/badlands-brief-e9e.md, raw/badlands-brief-ec9.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-311.md, raw/badlands-news-brief-356.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-6f7.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b52.md]
 confidence: medium
 ---
 
@@ -175,6 +175,12 @@ Badlands commentary on the February 2025 U.S.-Russia talks in Istanbul argued th
 
 Erdoğan was one of two foreign leaders — the other being Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] — credited with persuading [[donald-trump|Donald Trump]] to lift United States sanctions on Syria and normalize relations with its new government, an announcement Trump made at the [[saudi-us-investment-forum|Saudi-US Investment Forum]] in Riyadh on May 13, 2025.[29] Trump said the move toward rapprochement followed discussions with the crown prince and the Turkish president, and the decision was made despite objections from within his own administration and from Israel.[29] See [[syria-sanctions-relief|Syria sanctions relief]].
 
+## Regional diplomacy and African leverage (2024)
+
+The September 2, 2024 Badlands News Brief cited Erdogan as a central figure in what it calls the Sovereign Alliance's reshaping of the Middle East.[30] It noted that when Turkey faced financial collapse the previous year, Saudi Arabia injected billions of dollars to keep the country propped up, and that Erdogan repaid that deposit in August 2024 as reported by the Financial Times.[30]
+
+The brief also pointed to a Financial Times article titled "Turkey's expanding leverage in Africa," which described Erdogan's efforts to settle the escalating conflict between Somalia and Ethiopia, as well as Turkey's growing influence in the Sahel region encompassing Burkina Faso, Mali and Nigeria.[30] It further reported that Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] had called Erdogan to discuss the situation in Palestine, matching the dynamics [[sergey-lavrov|Sergey Lavrov]] was describing.[30] Russian diplomacy at the time was aimed at normalizing relations between Damascus and Ankara, long-time adversaries since Turkey's 2012 involvement in Syria alongside [[nato|NATO]] and its continued hold on northern Syrian territory.[30]
+
 ## References
 
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
@@ -207,3 +213,4 @@ Erdoğan was one of two foreign leaders — the other being Saudi Crown Prince [
 27. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 28. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 29. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
+30. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52

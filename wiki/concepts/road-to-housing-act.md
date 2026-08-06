@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, housing, congress, ndaa, omnibus]
-sources: [raw/badlands-news-brief-951.md]
+sources: [raw/badlands-news-brief-951.md, raw/badlands-news-brief-b98.md]
 confidence: medium
 ---
 
@@ -24,6 +24,15 @@ According to the Badlands analysis, the ROAD to Housing Act was not merely one a
 
 The controversy illustrates a recurring theme in Badlands coverage of [[congress|Congress]]: that omnibus and must-pass legislation is routinely used to enact policy that could not survive scrutiny on its own merits.[1] Because members face pressure to support the annual defense authorization, riders attached to it are difficult to strip out without jeopardizing the underlying bill.[1]
 
+
+## Removal from the 2026 NDAA
+
+In December 2025 the House of Representatives stripped the bipartisan ROAD to Housing Act from the [[national-defense-authorization-act|National Defense Authorization Act]], delaying what advocates called the most significant federal housing reform in a decade.[2] The version of the NDAA passed by the House (HR 3838) excluded the ROAD amendment, meaning the comprehensive housing bill was removed from the package.[2]
+
+Formally titled the Renewing Opportunity in the American Dream (ROAD) to Housing Act of 2025, the measure had been introduced in the Senate by Sen. [[tim-scott|Tim Scott]] as S. 2651 and passed unanimously out of the Senate Committee on Banking, Housing, and Urban Affairs on July 29, 2025.[2] Badlands commentator [[jon-herold|Jon Herold]] observed that the act appeared to have been removed from the House version and that the final vote text remained to be seen, adding that he would continue working through the "3,088 page monstrosity."[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
+2. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
+

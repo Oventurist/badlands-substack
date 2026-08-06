@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pentagon, ukraine, kursk, us-policy, spokesperson]
-sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a61.md]
+sources: [raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b6c.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ On Wednesday, December 11, 2024, Singh, as [[pentagon|Pentagon]] Deputy Press Se
 
 At a [[pentagon|Pentagon]] press briefing in late January 2023, Singh was pressed repeatedly on whether the United States would supply F-16 fighter jets to [[ukraine|Ukraine]] and declined to rule it out, saying only "we haven't announced other packages yet."[4] The exchange followed President [[joe-biden|Joe Biden]]'s announcement of 31 Abrams M1A2 tanks and public remarks by Ukrainian defence ministry adviser [[yuriy-sak|Yuriy Sak]] that fighter jets were "the next big hurdle."[4]
 
+## Statements on the Gaza pier (May 2024)
+
+On May 28, 2024, Singh announced that a portion of the [[gaza-humanitarian-pier|U.S. military-built pier]] off the coast of Gaza had separated and that the structure would be towed over the following 48 hours to Ashdod port in Israel for repairs.[5] She said the repairs would take over a week, after which the pier would be returned to its position off the Gaza coast.[5] The [[pentagon|Pentagon]] characterized the removal as temporary, while U.S. officials speaking anonymously attributed the break to bad weather.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Deep State has a Rough Weekend", URL: https://badlands.substack.com/p/badlands-news-brief-5aa
 2. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 3. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
 4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+5. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
