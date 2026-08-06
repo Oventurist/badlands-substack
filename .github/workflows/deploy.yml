@@ -25,7 +25,11 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # 16 GB / 8-core runner: the standard 7 GB runner OOMs on 10K-page
+    # builds even with NODE_OPTIONS raised (6GB heap + OS = 7GB ceiling).
+    # Larger runners cost 3x Actions minutes, but public repos have
+    # unlimited minutes — so this is free.
+    runs-on: ubuntu-latest-8core
     steps:
       - name: Checkout
         uses: actions/checkout@v4

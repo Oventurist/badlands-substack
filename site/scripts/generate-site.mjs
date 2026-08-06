@@ -91,14 +91,6 @@ async function writePage(outDir, file, content, pages, currentSlug) {
   await fs.writeFile(path.join(outDir, file), rewritten, "utf-8");
 }
 
-function sidebarItem(pages, section, sectionLabel) {
-  const items = Object.values(pages)
-    .filter((p) => p.section === section)
-    .sort((a, b) => a.title.localeCompare(b.title))
-    .map((p) => ({ text: p.title, link: `/${section}/${p.slugToUse ?? ""}`.replace(/\/$/, "") + `/${p.file.replace(/\.md$/, "")}` }));
-  return { text: sectionLabel, collapsible: true, collapsed: false, items };
-}
-
 async function main() {
   const pages = await collectPages();
   console.log(`collected ${Object.keys(pages).length} pages`);
@@ -223,11 +215,8 @@ Every wiki page as a node; every \`[[wikilink]]\` between pages as an edge. Enti
 `;
   await fs.writeFile(path.join(DOCS, "graph.md"), graphPage, "utf-8");
 
-  // sidebar config
-  const sidebar = [
-    sidebarItem(pages, "entities", "Entities"),
-    sidebarItem(pages, "concepts", "Concepts"),
-  ];
+  // sidebar intentionally removed (see config below): 10K+ pages in the
+  // sidebar OOM'd the build and was unusable as navigation.
   const config = `import { defineConfig } from "vitepress";
 
 export default defineConfig({
@@ -245,10 +234,12 @@ export default defineConfig({
       { text: "Concepts", link: "/concepts/" },
       { text: "Graph", link: "/graph/" },
     ],
-    sidebar: ${JSON.stringify(sidebar, null, 2)},
-    // local search disabled: it builds a full-text index over every page at
-    // build time (7K+ pages), which is a major part of the >45min build.
-    // Re-add via a hosted search provider if needed later.
+    // sidebar removed: with 10K+ pages the full sidebar made every rendered
+    // page carry a huge inlined JSON payload (JS heap OOM at build) and was
+    // unusable anyway. Navigation is via the nav bar, the interactive graph,
+    // and wikilinks between pages.
+    // local search disabled: full-text index over 10K pages is a major
+    // build-time cost. Re-add via a hosted search provider if needed later.
     footer: { message: "Sourced from the Badlands Media corpus. Content reflects the views of the original authors." },
   },
 });
