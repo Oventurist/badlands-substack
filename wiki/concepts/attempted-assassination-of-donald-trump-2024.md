@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trump, assassination, deep-state, secret-service, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/a-week-to-remember.md, raw/are-we-being-distracted.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-e3e.md, raw/donald-trump-and-george-washington.md]
 confidence: medium
 ---
 
@@ -100,6 +100,24 @@ On Tuesday, July 30, 2024, Acting Secret Service Director [[ronald-rowe|Ronald R
 
 Communication breakdowns, radio interoperability problems, cellular issues and inadequate redundancies dominated the session.[10] Senator [[chuck-grassley|Chuck Grassley]] pressed on the communication failures, while Senator [[ron-johnson|Ron Johnson]] demanded 302 reports for all FBI interviews and criticised the Secret Service for failing to memorialise its encrypted communications from July 13.[10] Abbate testified that the Bureau still did not know how [[thomas-matthew-crooks|Crooks]] had got a long gun onto the roof of a secured area.[10] Badlands commentary concluded that after four congressional hearings a "chasm of uncertainty" persisted, that the officials' testimony amounted to plausible deniability and "lessons learned," and that the greatest victim of the bureaucratic dysfunction was public trust.[10]
 
+## Carlson's inside-job case
+
+Writing two days after the shooting, [[erik-carlson|Erik Carlson]] estimated that perhaps 5 percent of the information surrounding the attempt was publicly known and predicted that disinformation would be circulated to muddy the waters, but said several conclusions were already available.[11] He stated plainly that he believed the attempt was an inside job, coordinated and allowed to occur by at least some members of law enforcement and the [[united-states-secret-service|Secret Service]].[11] His central argument was that the security lapses were too extreme to be explained by incompetence alone: he did not dispute that agencies are incompetent, only that they could be "THAT incompetent."[11]
+
+Carlson listed the questions he considered unanswerable under the official account: how the shooter carried a 12-foot ladder, 50 rounds of ammunition and an AR-15 roughly a mile to the rally and climbed onto the roof of the closest building with a clear line to [[donald-trump|Trump]] without drawing attention; why no drones surveilled the area; why no security was posted on nearby rooftops; why law enforcement did not act when rallygoers reported the shooter; and why the counter-sniper waited until several rounds had been fired before returning fire despite having watched the shooter through his scope.[11] He rejected the "sloped roof" justification for leaving the position unguarded.[11] He also questioned the choice of an AR-15 rather than a hunting or sniper rifle and whether the shots even came from the man who was killed, drawing an explicit parallel to the widespread rejection of the claim that the shots that killed [[john-f-kennedy|JFK]] came from [[lee-harvey-oswald|Oswald]]'s rifle.[11] Because the [[deep-state-cabal|Deep State Cabal]] could not have relied on a single inexperienced gunman to succeed, he reasoned, there had to have been another shooter or shooters.[11]
+
+Carlson noted the reported details he found implausible — that the alleged shooter had been asked to leave his high school rifle club for poor marksmanship — and remarked that Trump would have been safer hiring security from a local biker bar and paying them in beer.[11] He contrasted the speed of the [[fbi|FBI]]'s "acted alone" determination, made a day after the incident and before the phone was unlocked, with the Bureau's continuing failure to clarify the October 2017 [[las-vegas-shooting|Las Vegas Massacre]].[11] Unlike Las Vegas, he expected the full details of Butler to surface quickly, and predicted that those involved would be punished for treason.[11]
+
+## Market anomaly before the shooting
+
+Carlson pointed to the behaviour of [[trump-media-and-technology-group|DJT]] stock, which fell sharply after [[joe-biden|Biden]]'s poor performance in the [[2024-presidential-debate|presidential debate]] — the opposite of what he expected — and to reports that Wall Street traders had been shorting the stock in anticipation of a decline.[11] He argued that no investor could have known in advance that a lone gunman would attempt to kill Trump, and treated the short positions as evidence of foreknowledge of a planned assassination, adding that those players had "stepped right into a bear trap."[11]
+
+## Cultural and spiritual reading
+
+Carlson described a rapid reversal in public sentiment: attacking Trump verbally became political suicide overnight, with insensitivity now costing people relationships, influence and jobs after nearly a decade in which such attacks carried no consequences, a shift he attributed to the collapse of [[trump-derangement-syndrome|Trump Derangement Syndrome]] as a socially acceptable posture.[11] Simultaneously, he wrote, it became acceptable to support Trump publicly, allowing "closeted" supporters to come out.[11] Trump's raised fist and cry of "fight, fight, fight!" was read as a message that he refused to go away and that Americans should refuse to cower.[11]
+
+He contrasted the absence of rioting, looting or arson by [[maga-coalition|MAGA]] supporters after the attempt with the 2020 riots that followed the death of a career criminal, presenting this as a refutation of the narrative that MAGA incites violence.[11] Trump's survival, he argued, was divine intervention, and he compared it to the preservation of [[george-washington|George Washington]] at the [[battle-of-the-monongahela|Battle of the Monongahela]] in 1755, some 30 miles from Butler.[11] He concluded that both men were chosen and protected by God — one to make America, the other to make America great again — and that the "shot heard around the world" resulted not in the death of Trump, MAGA or America but in the death of the Deep State Cabal, in what he characterised as a spiritual war the enemy cannot win.[11] He explicitly rejected the claim that the attempt was staged, while holding that the incident was being used to heal and unite the country.[11]
+
 ## References
 
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
@@ -111,3 +129,4 @@ Communication breakdowns, radio interoperability problems, cellular issues and i
 8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
 9. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1
 10. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+11. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

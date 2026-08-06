@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, opposition, propaganda]
-sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ea1.md]
+sources: [raw/a-bright-red-line.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ea1.md, raw/exploiting-the-dead.md]
 confidence: low
 ---
 
@@ -38,9 +38,25 @@ Hours after news of the death broke, his widow [[yulia-navalnaya|Yulia Navalnaya
 
 Badlands contributor [[burning-bright|Burning Bright]] deliberately selected the most dramatic Western account of the death in order to illustrate a media-analysis point: when the media moves in lock step to advance a coordinated, emotionally manipulative narrative immediately after an ostensibly random event, he argued, the opposite reading is often the better starting point.[5] He pointed to the black-and-white, "Hollywoodesque" headshot used as the article's title card as a marker of pre-planned messaging.[5] Against the Western portrait of Navalny as savior and freedom fighter, Burning Bright reported that many Russians regard him as a fomenter of [[color-revolution|color revolution]], an avowed Nazi sympathizer, and a self-described neo-Marxist globalist who sought to remake Russia as an EU- and UN-aligned state.[5] He argued the timing of the death — days after the Tucker Carlson interview with Putin — was provoking the very awakening such coverage was meant to suppress.[5]
 
+## Commodification of the death and the $60 billion question
+
+In "Exploiting the Dead," Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that Navalny's death was the single most parroted and commodified story in the corporate media in late February 2024, and asked why American media institutions devoted so much energy to a foreign activist's death at a moment of abundant domestic crisis.[6] He proposed that the answer was most likely the $60 billion in Ukraine aid then stalled in [[congress|Congress]].[6] DeLarme noted that the Russian government maintained Navalny had been guilty of embezzlement and "extremist activities," while the [[joe-biden|Biden]] administration and U.S. legacy media portrayed him as a blameless political prisoner, and that Biden's assertion that [[vladimir-putin|Vladimir Putin]] and "his thugs" were responsible was, at the time, unsupported by tangible evidence.[6]
+
+DeLarme contended it was tactically illogical for Putin to kill Navalny: the man had been imprisoned near the Arctic for almost three years, out of sight and posing no threat, his approval in Russia had barely cracked double digits at its height, and a 2018 Reuters report put his support below 2 percent with many Russians saying they did not know who he was.[6] Putin, meanwhile, was enjoying a rally-'round-the-flag surge in domestic approval and had just used the [[tucker-carlson|Tucker Carlson]] interview to address Western audiences directly — optics that an execution would have destroyed.[6] DeLarme's own conjecture, which he acknowledged lacked any smoking-gun evidence, was that the Western security state was the more likely author of the death and that the accompanying media blitz had been planned in advance.[6]
+
+## Nationalist and xenophobic record
+
+DeLarme argued that the Navalny celebrated by Western liberal pundits would have been cancelled in the United States absent his utility as the West's answer to Putin.[6] He cited a 2007 video in which Navalny compared Muslim immigrants in Russia to "cockroaches" that should be "exterminated" while advocating gun ownership, and another in which, dressed as a dentist, he compared migrants in Moscow to tooth cavities and recommended "full sanitisation" with everything in the way "carefully but decisively removed through deportation."[6] Navalny took part in the Russian March, an annual ultranationalist demonstration associated with far-right groups and slogans such as "Russia for ethnic Russians," and never apologised for either the march or the videos; shortly before releasing the clips he was expelled from the liberal Yabloko party over his "nationalist activities."[6]
+
+## Selective grief
+
+DeLarme framed the coverage as selective outrage, contrasting the saturation treatment of Navalny with the comparative silence surrounding the death of American citizen [[gonzalo-lira|Gonzalo Lira]] in a Ukrainian prison the previous month, the killing of an American teenager in the West Bank, and the long-running U.S. effort to extradite [[julian-assange|Julian Assange]].[6] He also noted the irony of Washington condemning the imprisonment of a political opponent while itself seeking to remove [[donald-trump|Donald Trump]] from ballots and prosecute him — the difference being that Trump was leading opinion polls while Navalny had almost no domestic following.[6]
+
 ## References
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
+
 2. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 3. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
 4. Badlands Brief — "Badlands News Brief: Sorosian Strings, Kayfabian Comms & the Woke House", URL: https://badlands.substack.com/p/badlands-news-brief-e5c
 5. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+6. Badlands Media — "Exploiting the Dead", URL: https://badlands.substack.com/p/exploiting-the-dead

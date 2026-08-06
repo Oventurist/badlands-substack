@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, culture-war, white-lives-matter]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-ec8.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-ec8.md, raw/from-ye-to-oy-vey.md]
 confidence: low
 ---
 
@@ -69,6 +69,10 @@ In late June 2023, Owens publicly abandoned [[ron-desantis|Ron DeSantis]] and re
 
 [[alex-jones|Alex Jones]] escalated his conflict with Owens in late December 2025, telling her "I want your war" and accusing her followers of threatening and doxxing him.[11] Jones had publicly broken with Owens earlier in the month over what he called easily refutable accusations she made relating to the murder of [[charlie-kirk|Charlie Kirk]], vowing to "rip to pieces" everything she says and does, and subsequently calling her "a globalist agent."[11]
 
+## Paris "White Lives Matter" appearance (October 2022)
+
+Owens appeared alongside [[kanye-west|Ye (Kanye West)]] at the Yeezy Season 9 fashion show in Paris on October 3, 2022, where the two posed for photographers wearing T-shirts reading "White Lives Matter."[12] Badlands Media's December 2023 retrospective argued that both participants and many observers understood the display as a joke — two Black Americans stating what the author considered obvious — and that mainstream coverage manufactured the ensuing outrage by tying the slogan to white supremacist and far-right organizations.[12] The essay treated the episode as the opening move in a cancellation campaign spearheaded by the [[anti-defamation-league|Anti-Defamation League]].[12] See [[white-lives-matter-t-shirt-controversy|White Lives Matter T-shirt controversy]].[12]
+
 ## References
 
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -82,3 +86,4 @@ In late June 2023, Owens publicly abandoned [[ron-desantis|Ron DeSantis]] and re
 9. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
 10. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
 11. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
+12. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

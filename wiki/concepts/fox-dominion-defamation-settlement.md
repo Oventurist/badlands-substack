@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, elections, litigation, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-fcb.md]
 confidence: high
 ---
 
@@ -41,3 +41,9 @@ Writing days after [[tucker-carlson|Tucker Carlson]]'s April 2023 departure from
 2. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 3. Badlands Brief — "Badlands News Brief: Sudan Seized, Tucker Trashed & ISIS Eliminated", URL: https://badlands.substack.com/p/badlands-news-brief-46b
 4. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
+
+## Confidentiality dispute and leak demand (May 2023)
+
+Part of the settlement was a confidentiality obligation covering items disclosed during discovery.[5] In a letter dated Friday, May 5, 2023, lawyers for [[fox-news|Fox News]] told [[dominion-voting-systems|Dominion Voting Systems]] that documents Fox had produced in the litigation "were disclosed to media organizations and published for mass consumption," and urged Dominion to "investigate and confirm that you are not the source of these improper disclosures," warning that such leakage would violate "the text and spirit of the parties agreement."[5] The immediate trigger was the publication of leaked, redacted text messages from [[tucker-carlson|Tucker Carlson]], reported by [[the-hill|The Hill]].[5] Dominion denied involvement, saying "nobody associated with Dominion shared these confidential materials with the press."[5] Badlands commentator [[ashe-in-america|Ashe in America]] treated the episode as farce, observing that Fox had "folded a straight flush with $787M in the pot" and that Carlson's replacement program had debuted to 1.7 million viewers, barely half his average.[5]
+
+5. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

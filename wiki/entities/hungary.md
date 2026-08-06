@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [europe, immigration, european-union, elections]
-sources: [raw/badlands-brief-07c.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-669.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-brief-9ac.md, raw/badlands-brief-a6b.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-fa7.md]
 confidence: medium
 ---
 
@@ -41,3 +41,9 @@ On October 6, 2025, Prime Minister [[viktor-orban|Viktor Orban]] said Hungary wo
 3. Badlands Brief — "On-Ramps to Off-Ramps and the Beginnings of the Golden Age", URL: https://badlands.substack.com/p/badlands-brief-a6b
 4. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
 5. Badlands Brief — "Dumb Questions, Pentagon Pizzas, & Zero Trust", URL: https://badlands.substack.com/p/badlands-news-brief-669
+
+## Withdrawal from the International Criminal Court (2025)
+
+Hungary announced its withdrawal from the [[international-criminal-court|International Criminal Court]], with a senior official in Prime Minister [[viktor-orban|Viktor Orban]]'s government confirming the decision hours after Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] — who is sought under an ICC arrest warrant — arrived in the country for a state visit.[6] Orban had invited Netanyahu as soon as the warrant was issued the previous November, saying the ruling would have "no effect" in his country.[6] Hungary is a founding member of the court, which counts 125 member states, and became the first European Union nation to pull out, though the withdrawal has no impact on ongoing proceedings.[6] Badlands commentary framed the move as evidence of a "Sovereign Alliance" drafting off the momentum of the globalist order and pointing toward a multipolar rather than one-world settlement.[6]
+
+6. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7

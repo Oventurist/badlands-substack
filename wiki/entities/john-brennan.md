@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, benghazi, drones, counterterrorism]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-07c.md, raw/badlands-brief-143.md, raw/badlands-brief-1ef.md, raw/badlands-brief-625.md, raw/badlands-brief-8db.md, raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-ffa.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -90,6 +90,16 @@ In June 2023, the publication of a January 19, 2021 letter signed by [[donald-tr
 Speaking to Maria Bartiromo on Fox News on July 28, 2025, [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] alleged that Brennan — [[barack-obama|Barack Obama]]'s CIA director — along with former [[fbi|FBI]] Director [[james-comey|James Comey]] and [[hillary-clinton|Hillary Clinton]], had lied under oath about their involvement in the Russian election-interference narrative, and confirmed that he had made criminal referrals on that basis.[14] Ratcliffe characterized the underlying operation as "a Hillary Clinton campaign scheme" centered on the [[steele-dossier|Steele Dossier]].[14]
 
 
+## New York Times op-ed with Clapper (July 2025)
+
+On July 30, 2025, Brennan and [[james-clapper|James Clapper]] published a New York Times op-ed defending the intelligence community's 2016 Russia findings against claims by DNI [[tulsi-gabbard|Tulsi Gabbard]] and CIA Director [[john-ratcliffe|John Ratcliffe]] that Obama administration officials manufactured politicized intelligence, silenced intelligence professionals and engaged in a "treasonous conspiracy" against [[donald-trump|Donald Trump]]; the two called those claims "patently false."[15] They restated the January 2017 assessment's conclusions that [[vladimir-putin|Vladimir Putin]] personally ordered an influence campaign to damage [[hillary-clinton|Hillary Clinton]] and that Russia developed a "clear preference" for Trump, using hacked Democratic emails, state-funded media, intermediaries and paid social media users, and argued that multiple yearslong reviews validated the assessment.[15]
+
+Badlands commentary framed the op-ed as damage control published one day before the declassification of the [[durham-annex|Durham annex]], and pointed to accompanying signs of what it described as regime panic, including Marc Elias urging the media not to cover the scandal and Chris Cuomo distancing himself with admissions that he had been misled.[15]
+
+## Alleged protection of Hezbollah (Badlands analysis)
+
+Badlands contributor Joe Lange writes that [[hezbollah|Hezbollah]] was a major worldwide drug trafficker protected by the [[barack-obama|Obama]] administration after its connections to cartels in Mexico and Colombia were discovered, and identifies John Brennan, as Obama's [[central-intelligence-agency|CIA]] director, as one of the group's biggest defenders during that administration.[16] Lange flags this as an important point and states that Brennan will re-emerge in a significant way later in his article series.[16]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
@@ -105,3 +115,5 @@ Speaking to Maria Bartiromo on Fox News on July 28, 2025, [[cia|CIA]] Director [
 12. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 13. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 14. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+15. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa
+16. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

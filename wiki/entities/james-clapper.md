@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence-community, dni, russiagate]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-cff.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-754.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-ffa.md]
 confidence: medium
 ---
 
@@ -31,8 +31,17 @@ In June 2023, a signed letter from [[donald-trump|Donald Trump]] dated January 1
 
 On August 13, 2025, DNI [[tulsi-gabbard|Tulsi Gabbard]] declassified a Top Secret email showing Clapper's efforts to suppress concerns raised by then-[[national-security-agency|NSA]] Director [[mike-rogers|Mike Rogers]] about the January 2017 Intelligence Community Assessment.[4] On December 22, 2016, Rogers had written to Clapper, then-FBI Director [[james-comey|James Comey]] and then-CIA Director [[john-brennan|John Brennan]] expressing serious concerns over the NSA's lack of "sufficient access," warning that NSA personnel "aren't fully comfortable saying that they have had enough time to review all of the intelligence to be absolutely confident in their assessments."[4] Clapper replied, "We may have to compromise on our 'normal' modalities" and "more time is not negotiable."[4] His response came just hours before the ICA's authors were set to deliver the initial draft to Intelligence Community leaders.[4] Gabbard said Clapper's own words confirmed that complying with the order to manufacture intelligence was a "team sport."[4]
 
+## New York Times op-ed with Brennan (July 2025)
+
+On July 30, 2025, Clapper and [[john-brennan|John Brennan]] published a New York Times op-ed titled "Let's Set the Record Straight on Russia and 2016," responding to claims by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] and CIA Director [[john-ratcliffe|John Ratcliffe]] that senior Obama administration officials manufactured politicized intelligence, silenced intelligence professionals and engaged in a "treasonous conspiracy" to undermine the presidency of [[donald-trump|Donald Trump]].[5] The two former officials called those allegations "patently false" and an attempt to rewrite history.[5]
+
+The op-ed recapped the January 2017 intelligence community assessment, which found that Russian President [[vladimir-putin|Vladimir Putin]] had ordered an influence campaign to undermine public faith in the US democratic process and to harm the electability of [[hillary-clinton|Hillary Clinton]].[5] It noted the assessment's finding that Russia developed a "clear preference" for Trump, employed hacking of Democratic Party email accounts with public release of the stolen data through digital allies, and complemented those covert operations with disguised overt efforts by Russian intelligence agencies, state-funded media, third-party intermediaries and paid social media users.[5] Clapper and Brennan wrote that while some external critiques noted parts of the Russia investigation could have been handled better, multiple yearslong reviews validated the assessment's findings and analytic rigor.[5]
+
+Badlands commentary observed that the piece appeared one day before the [[durham-annex|Durham annex]] was declassified, calling it one of the worst public relations moves available and characterizing it as damage control and a continuation of a conspiracy "wholly lacking in verisimilitude."[5]
+
 ## References
 1. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
 2. Badlands Brief — "Badlands News Brief: PsyOps and PsyActs EVERYWHERE ...", URL: https://badlands.substack.com/p/badlands-news-brief-754
 3. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 4. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
+5. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [assassination-attempt, butler-pennsylvania, 2024-election, badlands-brief]
-sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-e3e.md, raw/donald-trump-and-george-washington.md]
 confidence: medium
 ---
 
@@ -26,8 +26,14 @@ Testifying before the [[house-judiciary-committee|House Judiciary Committee]] on
 
 Testimony at the July 30, 2024 Senate hearing left central questions about Crooks unresolved: FBI Deputy Director [[paul-abbate|Paul Abbate]] said the Bureau still did not know how Crooks had got a long gun onto the roof of a secured area under [[united-states-secret-service|Secret Service]] protection.[4] The hearing also surfaced the existence of a potential social media account owned by the shooter, and questions about exactly when the Secret Service first saw him on the roof.[4]
 
+## Skepticism of the lone-gunman account
+
+Badlands contributor [[erik-carlson|Erik Carlson]] rejected the [[fbi|FBI]]'s rapid conclusion that Crooks acted alone, noting that the Bureau reached that judgment a day after the shooting while still unable to unlock his phone.[5] Carlson highlighted the reported logistics as implausible: that Crooks carried a 12-foot ladder, 50 rounds of ammunition and an AR-15 roughly a mile to the rally without attracting attention, and that he had reportedly been asked to leave his high school rifle club for being a poor shot.[5] He questioned why an AR-15 was used rather than a hunting or sniper rifle, whether the shots that struck [[donald-trump|Trump]] came from Crooks at all, and argued that any planned operation would have required additional shooters rather than depending on an inexperienced 20-year-old.[5]
+
 ## References
+
 1. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
 2. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
 3. Badlands Brief — "BiBi Goes to DC, Wray Responds & Biden Concedes", URL: https://badlands.substack.com/p/badlands-news-brief-bcc
 4. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+5. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

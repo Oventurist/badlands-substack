@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, foreign-policy, america-first]
-sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md]
+sources: [raw/badlands-brief-c91.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-cfa.md, raw/donald-trump-and-george-washington.md]
 confidence: medium
 ---
 
@@ -34,8 +34,15 @@ Badlands commentary read the episode through an irregular-warfare lens: because 
 
 During the 2024 campaign Trump boasted about the scale of the movement in a podcast interview, telling WWE legend Mark "The Undertaker" Calaway on his *Six Feet Under* show that "we have MAGA—Make America Great Again—you know all about it. Right now, it's 200 million people, maybe even more, representing a majority of the country."[3] Newsweek noted that the figure was nearly triple his 2020 popular vote of roughly 74 million, that he offered no evidence for it, and that he had often inflated figures regarding his political base and rally attendance throughout the campaign.[3] Trump called MAGA "the greatest movement in the history of any country."[3] The interview formed part of his strategy of engaging male voters through online platforms, and turned to his long involvement with professional wrestling, including appearances at WWE events and his participation in the 2007 "Battle of the Billionaires" at WrestleMania 23.[3]
 
+## Response to the Butler shooting
+
+[[erik-carlson|Erik Carlson]] pointed to the coalition's conduct after the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] on July 13, 2024 as a rebuttal of the standing narrative that MAGA incites violence — a narrative he traced back to before January 6 and its later form, the claim that a restored Trump administration would use power to eliminate all opposition.[4] Where the 2020 death of a career criminal was followed by rioting, looting, arson and killings, he wrote, the attempt on Trump's life produced no rioting or destruction, only supporters thanking God that he survived — "a stark difference."[4]
+
+Carlson also argued that the shooting gave the movement social permission it had previously lacked: supporters who had concealed their allegiance could declare it openly, and Trump's raised fist and cry of "fight, fight, fight!" served as an instruction to Americans to stop cowering and stand strong and united.[4] He framed the moment as bigger than a four-year election cycle — not the Republicans retaking the [[white-house|White House]] but "the dismantling and rebuilding of an entire new system," and ultimately a spiritual war.[4]
+
 ## References
 
 1. Badlands Brief — "Trump Rugs the Deltas with an Early MOU", URL: https://badlands.substack.com/p/badlands-brief-c91
 2. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 3. Badlands News Brief — "Trump Talks Taxes as Deep State Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cfa
+4. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, energy, oil, geopolitics, sovereign-alliance]
-sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-ea6.md]
+sources: [raw/badlands-brief-414.md, raw/badlands-brief-5a2.md, raw/badlands-brief-884.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-ea6.md, raw/brightlands-taiwan-tipping.md]
 confidence: medium
 ---
 
@@ -111,3 +111,12 @@ On Tuesday, September 10, 2024, U.S. Deputy Secretary of State [[kurt-campbell|K
 11. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 12. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
 13. Badlands Brief — "Badlands News Brief: Trump-a-Mania Rages On, Brother!", raw/badlands-news-brief-ea6.md
+
+
+## 2022 China–Taiwan narrative analysis
+
+In "Taiwan Tipping," published in October 2022 as the first entry in the ongoing Badlands Media China series, [[burning-bright|Burning Bright]] argued that tensions between China and [[taiwan|Taiwan]] — and by extension between China and the western hegemony that had ruled the globalist order relatively unchallenged until the intervention of [[vladimir-putin|Vladimir Putin]] in Russia — were resurfacing as part of a wider [[crisis-cascade|Crisis Cascade]].[14] He noted that Chinese tensions with the United States were nothing new, recalling that [[donald-trump|Donald Trump]] had inflamed the narrative during his presidency through repeated warnings about Chinese encroachment on Taiwanese sovereignty and through his trade war targeting Chinese supply chains and the U.S. conglomerates that profited from them.[14]
+
+The author stated a belief that "there are two Chinas," paralleling his view that there is an American contingent of patriots and an "American" faction of Deep State operators, while conceding he could not penetrate the Chinese theater deeply enough to identify which actors belonged to which faction.[14] He wrote that the timing of [[xi-jinping|Xi Jinping]]'s escalatory rhetoric following Putin's implied some level of coordination, and that from a narrative standpoint Russia and China formed the most formidable pair of adversaries to the western hegemony since the Axis powers of World War II — while adding that he personally did not accept the premise that Putin and Xi are "bad."[14]
+
+14. Badlands Brief — "Taiwan Tipping: The Curious Case of Intermittent Escalation", URL: https://badlands.substack.com/p/taiwan-tipping

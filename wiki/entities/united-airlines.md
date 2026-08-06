@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aviation, starlink, wifi, elon-musk, airlines]
-sources: [raw/badlands-news-brief-290.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c0a.md]
+sources: [raw/badlands-news-brief-290.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-fbd.md]
 confidence: medium
 ---
 
@@ -32,8 +32,15 @@ On the morning of Monday, March 18, 2024, United Airlines chief executive [[scot
 
 Badlands contributor [[simon-esler|Simon Esler]] rejected that framing, arguing that the cluster looked less like coincidence than like the "generated instances" described in the [[operation-northwoods|Northwoods Memorandum]] and formed part of a controlled demolition of the airline industry aligned with the [[great-reset|Great Reset]].[4] He cited Denmark's announced green tax on flights, recounted his own eight-hour delay and cancellation on [[american-airlines|American Airlines]], and pointed to the death of a Boeing whistleblower as a sign of desperation.[4]
 
+## 2025 network changes: Tenerife cut, Denver expansion
+
+In late April 2025 United announced a revision of its international network, discontinuing service to Tenerife, Spain while expanding at its Denver International Airport hub.[5] On October 26, 2025 the airline was to launch two new international routes from Denver to Punta Cana in the Dominican Republic and to Mexico City, using Boeing 737 MAX 8 aircraft on both services.[5] The routes formed part of United's broader growth strategy at Denver, where it had been working to secure additional gate space and expand its offerings, and were described as a direct response to increasing regional competition, particularly from [[southwest-airlines|Southwest Airlines]].[5]
+
+Badlands commentary treated the airline sector as an illustration of the "efficient" world produced by handing the future over to technology — perfectly efficient for the monopolists running it and atrocious for everyone downstream — arguing that such systems collapse at the first hint of resistance because their operators are either too dependent on the technology to solve problems or structurally prevented from implementing solutions.[5] A second contributor found it humorous that United was countering Southwest's competitive pressure at the very moment Southwest, under pressure from [[elliott-investment-management|Elliott Investment Management]], was dismantling the distinctive elements of its own brand.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Global Grifters, Fleeing Fellows, and a Surprisingly Friendly Funeral", URL: https://badlands.substack.com/p/badlands-news-brief-290
 2. Badlands Brief — "The Biden Era Fades Away as the World is Reshaped", URL: https://badlands.substack.com/p/badlands-news-brief-713
 3. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 4. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
+5. Badlands Brief — "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, world-economic-forum, technocracy]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-news-brief-948.md, raw/dark-equation.md]
 confidence: low
 ---
 
@@ -38,3 +38,9 @@ Commenting on the [[daily-wire|Daily Wire]] and [[the-federalist|Federalist]] la
 3. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 4. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+
+## Worldcoin as repackaged Great Reset
+
+In the Badlands Media article "Dark Equation," [[ryan-delarme|Ryan DeLarme]] characterized [[sam-altman|Sam Altman]]'s [[worldcoin|Worldcoin]] iris-scanning cryptocurrency project as "a repackaging of the same old Great Reset / [[fourth-industrial-revolution|fourth industrial revolution]] malarky we've been hearing come out of Davos for years now."[6] Although the venture was marketed as a way to offset the disruption artificial intelligence was expected to cause, DeLarme read it as a step in a broader push by the United Nations, the [[world-economic-forum|World Economic Forum]] and a growing number of governments toward a global biometric identification system tied to a [[central-bank-digital-currency|central bank digital currency]].[6]
+
+6. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

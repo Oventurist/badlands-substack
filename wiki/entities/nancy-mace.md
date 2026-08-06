@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, south-carolina, republicans, maga, primary]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-0a2.md, raw/badlands-brief-724.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-86f.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-0a2.md, raw/badlands-brief-724.md, raw/badlands-brief-fd9.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -44,10 +44,20 @@ When [[hunter-biden|Hunter Biden]] made a surprise appearance at his [[contempt-
 
 Mace was the interviewee in the March 10, 2024 edition of ABC's *This Week* that gave rise to [[donald-trump|Donald Trump]]'s defamation suit against [[george-stephanopoulos|George Stephanopoulos]] and [[abc-news|ABC News]].[6] After playing a clip of Mace discussing having been a victim of rape, Stephanopoulos asked how she squared her endorsement of Trump with that testimony, asserting that "judges and two separate juries have found him liable for rape and for defaming the victim of that rape" — a claim he repeated ten times despite the jury in the [[e-jean-carroll|E. Jean Carroll]] case having found Trump liable for sexual abuse rather than rape.[6] The suit settled in December 2024 with ABC agreeing to pay $15 million to a future presidential foundation and museum plus $1 million in attorney fees, along with a published statement of regret naming the Mace interview.[6]
 
+## House floor speech alleging rape and sexual predation (February 2025)
+
+On the night of Monday, February 10, 2025, Mace — who in preceding weeks had floated a run for governor of South Carolina — accused her former fiancé and three other men of having drugged and raped her and other women, and of filming and photographing women and underage girls in lewd circumstances without their consent.[7] In what The New York Times called a stunningly graphic speech with little precedent, she named the men and displayed their photographs on a placard of the kind lawmakers typically use for policy charts, describing what she called the "premeditated, calculated exploitation of innocent women and girls in my district."[7] Speaking on the House floor, Mace was shielded by the Constitution's speech and debate clause even as she accused the men of repeatedly assaulting incapacitated women and filming it.[7]
+
+Mace also accused South Carolina Attorney General [[alan-wilson|Alan Wilson]] of killing the investigation, protecting rapists, and threatening to investigate and arrest her; Wilson's office responded that she had never brought the matter to him and called her allegations "categorically false."[7] Badlands noted the added awkwardness that Wilson's adoptive father is Mace's House colleague, Rep. Joe Wilson (R-SC).[7]
+
+[[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] said she watched the full hour-long speech and found it deeply disturbing, citing the "ring" Mace described, the conduct of officials and law enforcement, and the level of documentation Mace claimed to hold, and predicted that South Carolina inquiries must follow.[7] She observed that the speech carried little legal risk for the congresswoman, who enjoys the same floor protections as [[adam-schiff|Adam Schiff]], and urged everyone to watch it: "It's time for the darkness to come into the light."[7]
+
 ## References
+
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
 2. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 3. Badlands Brief — "Cancel Culture Comes for Holy Week in Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-724
 4. Badlands Brief — "Bicameral Courts, Congressional Creeps & Curious Cartels", URL: https://badlands.substack.com/p/badlands-brief-fd9
 5. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 6. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
+7. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

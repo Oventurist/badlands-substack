@@ -24,5 +24,9 @@ The article says Goodlatte and [[trey-gowdy|Trey Gowdy]] played major roles in c
 
 Attorney General [[jeff-sessions|Jeff Sessions]] launched the [[john-huber|Huber]] investigation in response to a request from Goodlatte, Gowdy and Senator [[chuck-grassley|Chuck Grassley]].[[1]](https://badlands.substack.com/p/america-for-sale-part-2) After completing their House investigations, Goodlatte and Gowdy handed their evidence to Grassley in the Senate.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) Trump publicly thanked both men, telling them their work "will never be forgotten."[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
 
+## The House-to-Senate handoff
+
+Badlands Media's "Do You Believe in Coincidences?" names Goodlatte, with [[devin-nunes|Devin Nunes]] and [[trey-gowdy|Trey Gowdy]], as a recipient of declassified material purposely provided by [[donald-trump|Donald Trump]] for the House investigations into the Russian collusion hoax.[2] A Q drop reproduced in the article twice repeats that "Goodlatte, Gowdy and Sessions all resigned," which the author reads as the deliberate conversion of the three into expert witnesses guiding the [[united-states-senate|Senate]]'s successor investigations into [[spygate|Spygate]] and [[obamagate|Obamagate]].[2]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2

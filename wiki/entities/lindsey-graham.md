@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, south-carolina, republicans, iran, neoconservatives]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-1ae.md, raw/badlands-brief-2c5.md, raw/badlands-brief-285.md, raw/badlands-brief-509.md, raw/badlands-brief-708.md, raw/badlands-brief-71c.md, raw/badlands-brief-805.md, raw/badlands-brief-8db.md, raw/badlands-brief-b38.md, raw/badlands-brief-b56.md, raw/badlands-brief-be1.md, raw/badlands-brief-c7b.md, raw/badlands-brief-b82.md, raw/badlands-brief-d9f.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-11d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-bfe.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f6f.md, raw/badlands-news-brief-ff6.md, raw/did-israel-possess-foreknowledge.md]
 confidence: low
 ---
 
@@ -170,6 +170,11 @@ At the 58th annual Silver Elephant Gala, a major Republican fundraiser held in S
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said the clip validated his position that Graham — whom he has accused of working with [[john-mccain|John McCain]] to help create [[isis|ISIS]] — is irredeemable, describing the speech as overtly threatening the United States.[36]
 
+
+## Rhetoric after October 7, 2023
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identified Graham, alongside [[nikki-haley|Nikki Haley]], as a United States neoconservative whose calls to "flatten Gaza" and to "finish them" after the [[october-7-attacks|October 7 attack]] inflamed longstanding hostilities and furnished [[israel|Israel]] a pretext for regional expansion.[42] DeLarme contrasted this with the strong Republican opposition seen at the start of the conflict in Ukraine, expressing disappointment that the Right had not learned from the War on Terror.[42]
+
 ## References
 
 1. Badlands Brief — "Mixed Gender Crews, Trafficking Stings, & Shadow Cabal Reruns", URL: https://badlands.substack.com/p/badlands-brief-029
@@ -271,3 +276,10 @@ Badlands host GhostofBasedPatrickHenry read the remarks as the beginning of a tu
 
 39. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
 40. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+
+## Ukraine aid proposals (October 2023)
+
+As senators discussed passing a single large Ukraine aid package to cover an entire year, Graham (R-SC) put the price tag at $70 billion — below the roughly $100 billion figure the [[joe-biden|Biden]] administration was reported to be weighing.[41]
+
+41. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+42. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, syria, ukraine, geopolitics]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-e40.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-143.md, raw/badlands-brief-169.md, raw/badlands-brief-5a2.md, raw/badlands-brief-70c.md, raw/badlands-brief-708.md, raw/badlands-brief-bb1.md, raw/badlands-brief-e87.md, raw/badlands-brief-f62.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-e40.md, raw/death-blossom.md]
 confidence: medium
 ---
 
@@ -126,3 +126,11 @@ In January 2023, Russia and [[iran|Iran]] integrated their interbank communicati
 16. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 17. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
 18. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+
+## Badlands framing of the 2022 Poland strike
+
+In "Death Blossom" (November 23, 2022), [[burning-bright|Burning Bright]] argued that Russia was the intended target of a narrative operation surrounding the [[2022-poland-missile-strike|missile strike on Polish territory]], in which an errant strike was to be framed as the work of an "aggressive and unhinged Russia" and used to trigger [[nato|NATO]] escalation.[19] He described the framing as collapsing within roughly twelve hours under decentralized public scrutiny.[19]
+
+Consistent with his [[righteous-russia|Righteous Russia]] series, he treated Russian forces as allied to the [[sovereign-alliance|Sovereign Alliance]] rather than adversarial, predicting that the "hot" factions exposed by the episode would be removed by American or, "more likely," allied Russian forces so that the next errant strike would be even less successful.[19] He also argued that the [[media-industrial-complex|Media Industrial Complex]]'s February–March 2022 portrayal of Russians as "mustache-twirling villains" was already eroding among reachable audiences.[19]
+
+19. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom

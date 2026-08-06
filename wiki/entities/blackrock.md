@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: medium
 ---
 
@@ -49,6 +49,20 @@ A federal district court judge denied BlackRock's motion to dismiss Texas Attorn
 
 By January 2023 BlackRock, the world's biggest asset manager, faced increasing backlash over environmental, social and governance investing, with a handful of U.S. states pulling billions of dollars from BlackRock funds over accusations of "greenwashing," harming the fossil fuel industry and turbocharging America's "woke" culture.[9] At the [[world-economic-forum|World Economic Forum]] in Davos, chief executive [[larry-fink|Larry Fink]] said the [[esg|ESG]] narrative had been tarnished and had become "ugly" and personal.[9]
 
+## Universal ownership and the January 2023 Badlands analysis
+
+In a January 17, 2023 feature subtitled "The WEF's Weapons of Mass Economic Destruction," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] described BlackRock, Inc. and [[vanguard-group|the Vanguard Group]] as the two largest investment companies in the world and the recurring names at the top of nearly every major corporation's institutional holder list.[10] BlackRock manages almost $10 trillion in assets, the vast majority of it invested [[passive-investing|passively]] through stock indexes rather than by stock-by-stock selection, on behalf of institutions and pension funds, such that most Americans have money in a BlackRock account directly or indirectly without knowing it.[10]
+
+Although BlackRock is not the ultimate owner of the shares it manages, it can and does vote those shares on behalf of clients under its published proxy voting policy, which DeLarme argues gives it extraordinary influence over the management and policy of behemoths such as [[exxonmobil|Exxon]] and Microsoft.[10] He notes that only three other managers — [[fidelity-investments|Fidelity]], Vanguard and [[state-street|State Street]] — come close to BlackRock in size, that BlackRock is a major shareholder in each of them, and that the largest shareholders of BlackRock and Vanguard are BlackRock and Vanguard themselves.[10]
+
+As evidence that the firm exercises this power actively rather than passively, DeLarme cites BlackRock's opposition to the re-election of 800 separate company directors in the third quarter of 2021, and its removal and replacement of Exxon board members, after which the oil company dropped several drilling projects despite global underinvestment in energy production.[10] He attributes part of the resulting rise in gasoline prices to BlackRock and argues the conduct makes no financial or logistical sense absent a political agenda.[10] He further describes the firm as a major contributor to the dominance of leftism in corporate America, pointing to Fink's New York Times op-ed arguing that "rich countries must put more taxpayer money to work in driving the net-zero transition abroad" and that achieving net zero by 2050 "will require unprecedented levels of investment in technology and infrastructure."[10]
+
+### Cross-industry holdings
+
+The article catalogues BlackRock and Vanguard's position at the top of the institutional holder lists across the packaged food sector ([[pepsico|PepsiCo]], [[coca-cola|Coca-Cola]] and the grocer [[spartannash|SpartanNash]]), media ([[comcast|Comcast]], [[disney|Disney]], AT&T's Time Warner, [[news-corp|News Corp]] and [[new-york-times|The New York Times]], of which 94.42% of shares are institutionally held), technology ([[meta-platforms|Meta]], [[alphabet|Alphabet]], Apple, Microsoft, Intel and IBM), and pharmaceuticals ([[pfizer|Pfizer]], Monsanto-[[bayer-ag|Bayer]], [[johnson-and-johnson|Johnson & Johnson]], [[moderna|Moderna]] and [[novavax|NovaVax]]).[10] DeLarme stresses that most of the pharmaceutical firms in that list developed the experimental mRNA COVID-19 vaccines, producing a circumstance in which BlackRock- and Vanguard-owned media convinced the public of the efficacy of BlackRock- and Vanguard-owned drugs.[10]
+
+He argues that holding a monopoly over any one of Big Media, Big Tech or Big Pharma would be significant, but that a simultaneous stranglehold on all three creates the potential for the world's first truly global totalitarian dictatorship — a prospect he links to the normalization of individual social credit scores and corporate [[esg|ESG]] scores.[10] The concluding evidence offered for BlackRock's role in such a project is Fink's membership in both the [[world-economic-forum|World Economic Forum]] and the [[council-on-foreign-relations|Council on Foreign Relations]], organizations DeLarme says have made clear their goal of creating a [[one-world-government|one-world government]].[10]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -64,3 +78,10 @@ By January 2023 BlackRock, the world's biggest asset manager, faced increasing b
 
 At the January 2024 [[world-economic-forum|World Economic Forum]] gathering in Davos, BlackRock vice chairman [[philipp-hildebrand|Philipp Hildebrand]] warned that the prospect of a [[donald-trump|Donald Trump]] return to the White House posed a "fundamental" challenge to Europe.[8] Hildebrand, whose remarks were reported by the Daily Telegraph, urged Europe to use the moment to become a technological superpower less dependent on the United States and said European defence capabilities were "just not there."[8] He described the situation as "an opportunity for the construction of Europe" but cautioned that a Trump-driven transatlantic "rupture" — the risk he attributed to European Central Bank president [[christine-lagarde|Christine Lagarde]] — "would challenge Europe fundamentally."[8]
 9. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+10. Badlands Brief — "BlackRock, Inc. And the Vanguard Group", URL: https://badlands.substack.com/p/blackrock-inc-and-the-vanguard-group
+
+## Aladdin cited as an early AI power centre (April 2023)
+
+An April 2023 Badlands Media essay on the hazards of [[artificial-intelligence|artificial intelligence]] pointed readers to a video highlighting BlackRock's Aladdin risk-management tool as evidence of "how long AI has been in the works and how much control some AI tools have already amassed."[11] The author invoked Aladdin to argue that the point at which mitigations against AI-driven data saturation were needed may already lie in the past, and that solutions such as imposing energy costs through [[bitcoin|Bitcoin]] must be implemented immediately.[11]
+
+11. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital

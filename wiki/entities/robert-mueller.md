@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, special-counsel, russiagate, obituary]
-sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md]
+sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md, raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md]
 confidence: medium
 ---
 
@@ -43,8 +43,22 @@ The malicious prosecution lawsuit filed by [[michael-flynn|Michael Flynn]] on Ma
 
 In 2025, Mueller's family disclosed to The New York Times that the former FBI director and special counsel, then 81, had been diagnosed with Parkinson's disease in the summer of 2021.[4] According to the family statement, he retired from the practice of law at the end of that year, taught at his law school alma mater during the fall of both 2021 and 2022, and retired at the end of 2022; the family asked that his privacy be respected.[4]
 
+## Claims of leverage and flipping
+
+[[joe-lange|Joe Lange]] argues that Mueller was compromised long before his appointment and was ultimately turned against those who installed him.[5] Q drop 3 (October 29, 2017) named Mueller and [[rod-rosenstein|Rod Rosenstein]] as key players in the [[uranium-one-deal|Uranium One]] scandal and asked why [[donald-trump|Trump]] had met Mueller under the cover of an FBI director interview when Mueller was legally unable to serve in that role again.[5] Q drop 1704 stated that if Rosenstein was dirty Mueller must also be dirty, and vice versa — a "common denominator" Lange identifies as their shared participation in a "protection racket" shielding [[hillary-clinton|Hillary Clinton]] and [[barack-obama|Barack Obama]].[5]
+
+Lange also notes Mueller's long friendship with [[james-comey|James Comey]], dating from the George W. Bush administration, arguing that in burying the Clinton email server investigation Comey was protecting Mueller as well as Clinton, because the [[anthony-weiner|Weiner]]–[[huma-abedin|Abedin]] laptop trove reached back to Clinton's first months at the State Department and thus to Uranium One.[5]
+
+Q drop 2512 (November 30, 2018) said "MUELLER removed via DECLAS" and that he would face charges over Uranium One while "working to save himself."[5] Lange reads this as meaning Mueller's power to pursue Trump was removed rather than Mueller himself, and dates the flip to April 2018, when [[rudy-giuliani|Rudy Giuliani]] joined Trump's legal team holding an "insurance file" and entered direct discussions with him.[5] By April 27, 2018, per Q drop 1286, Mueller had told Trump he was "not a criminal target."[5] In this account the [[mueller-special-counsel-investigation|special counsel investigation]] continued for another year but redirected toward the [[podesta-group|Podesta Group]] and other targets, with Mueller handing the [[michael-cohen|Michael Cohen]] matter to [[geoffrey-berman|Geoffrey Berman]] at the [[southern-district-of-new-york|SDNY]].[5] These claims reflect Badlands Media interpretation rather than established fact.
+
+## The end of the Special Counsel investigation
+
+Badlands Media's "Do You Believe in Coincidences?" describes Mueller as the "blockade" installed to supply grounds for impeaching [[donald-trump|Donald Trump]], and argues that his [[mueller-special-counsel-investigation|investigation]] instead became "the biggest boomerang in history."[6] The final 448-page report found no evidence of collusion with Russia by Trump or anyone associated with him, and the convictions obtained against a few associates concerned unrelated charges.[6] Reporting to Attorney General [[william-barr|William Barr]] from February 14, 2019, Mueller is depicted in a Q drop as conceding that the surveillance campaign rested on the [[steele-dossier|Steele dossier]] and media corroboration of it, that the dossier's partisan funding was never taken into account, and that the FISA court was not made aware of all the details.[6] The investigation was formally ended on March 22, 2019.[6] Barr then released a summary he had written himself, which Deputy Attorney General [[rod-rosenstein|Rod Rosenstein]] signed off on, and which enabled Trump to claim complete exoneration before the full report appeared.[6]
+
 ## References
 1. Badlands Brief — "Trump's Ultimatum to the Ayatollah, who is gay (allegedly)", URL: https://badlands.substack.com/p/badlands-brief-7b5
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 3. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 4. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
+5. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+6. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences

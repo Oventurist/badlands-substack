@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, rico, organized-crime, litigation, accountability]
-sources: [raw/badlands-news-brief-13f.md, raw/badlands-news-brief-5c8.md]
+sources: [raw/badlands-news-brief-13f.md, raw/badlands-news-brief-5c8.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -27,6 +27,13 @@ She emphasized that in 2016 Clinton was not only the Democratic nominee for the 
 
 In April 2025 the [[justice-department|Justice Department]] said its two New York indictments charging 27 alleged [[tren-de-aragua|Tren de Aragua]] and Anti-Tren associates were the first brought against the Venezuelan gang under RICO.[2]
 
+## Invocation in Badlands "Biden, Inc." commentary
+
+A December 2024 Badlands feature argued that the Biden family's alleged activities were not isolated incidents but a broader criminal enterprise violating the RICO statutes.[3] The connections it enumerated were [[burisma|Burisma Holdings]] as a money-laundering conduit through Ukrainian energy deals, [[ftx|FTX]] as a political slush fund, [[chinese-communist-party|CCP]] influence purchased through business dealings, and links between pharmaceutical companies and [[anthony-fauci|Anthony Fauci]]'s [[national-institutes-of-health|NIH]] over gain-of-function funding and treatment suppression.[3]
+
+The article claimed that the [[white-hats|White Hats]] are using RICO statutes to expose these connections, focusing on patterns of corruption that transcend borders and institutions, and argued that the approach is aimed at systemic change rather than prosecution alone.[3] No such racketeering case exists in the public record.[3]
+
 ## References
 1. Badlands Brief — "Fake News Attempts to Provoke Real Wars", URL: https://badlands.substack.com/p/badlands-news-brief-13f
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
+3. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

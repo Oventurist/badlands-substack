@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, pla, xi-jinping, purge]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-71c.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-71c.md, raw/empires-enigma.md]
 confidence: medium
 ---
 
@@ -30,3 +30,8 @@ Chinese authorities formally announced investigations into CMC Vice Chairman Gen
 
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
+3. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma
+
+## Loss of authority over the armed police
+
+The December 2022 Badlands Media feature "Empire's Enigma" reports that the [[peoples-armed-police|People's Armed Police]], which ostensibly guards internal security, formerly reported to the CCP Central Military Commission and the [[state-council-of-china|State Council]] but now reports to [[xi-jinping|Xi Jinping]] personally.[3] Combined with Xi's direct hold on the central command structure of the [[peoples-liberation-army|People's Liberation Army]] and the first-ever creation of a commander-in-chief position in the PLA Joint Battle Command, the article concludes that a single leader holds sole authority over both the army and the paramilitary police for the first time.[3]

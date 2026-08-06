@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [brics, de-dollarization, geopolitics, south-africa, russia]
-sources: [raw/badlands-news-brief-881.md]
+sources: [raw/badlands-news-brief-881.md, raw/bric-by-bric.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ Putin claimed the five BRICS members — Russia, China, India, Brazil and South 
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... But Not on Us", URL: https://badlands.substack.com/p/badlands-news-brief-881
+
+## Burning Bright's post-summit assessment
+
+Writing on August 29, 2023, [[burning-bright|Burning Bright]] argued that although the summit produced no gold-backed currency — a prospect many in the Truth Community had anticipated with "breathless and specific predictions" — it was nonetheless a major event on both the Narrative and the "Actual" level.[2] He characterized the summit itself as a Narrative event by nature, and had opened his commentary with the refrain "The multi-polar world order isn't coming. It's here."[2]
+
+In his reading the summit's decisive outcome was the codified intent of [[saudi-arabia|Saudi Arabia]] and other Persian Gulf states to join the bloc, which he called a "stunning and irreversible blow" to [[deep-state|Deep State]] power projection across the military, financial and energy domains.[2] He estimated the expanded bloc would control more than 60% of global energy markets, contrasting this with the [[biden-administration|Biden administration]]'s continued drawdown of the [[strategic-petroleum-reserve|Strategic Petroleum Reserve]] and its failure to restart domestic drilling permits suspended after the 2020 election.[2] He predicted a gold-backed currency would "likely still come down the road."[2]
+
+2. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric

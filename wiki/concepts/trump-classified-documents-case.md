@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [lawfare, trump, classified-documents, presidential-immunity, courts]
-sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-de1.md]
+sources: [raw/badlands-news-brief-092.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-6bc.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
@@ -90,3 +90,11 @@ Although the case had long been stalled and a trial before the November election
 9. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
 10. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 11. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1
+
+## May 2023 cooperation reporting
+
+Before charges were filed, *The New York Times* reported in May 2023 that federal prosecutors had obtained the confidential cooperation of a person who had worked for [[donald-trump|Trump]] at Mar-a-Lago, part of an intensifying effort to determine whether Trump ordered boxes containing sensitive material moved out of a storage room as the government sought to recover them.[12] Through a wave of new subpoenas and grand jury testimony, the [[department-of-justice|Justice Department]] worked to establish how the documents taken from the White House were stored, who had access to them, how the Mar-a-Lago security camera system worked, and what Trump told aides and lawyers about the material — with the central question being whether he sought to hide documents after the May 2022 subpoena demanding their return.[12]
+
+Badlands commentator [[johnny-q|Johnny Q]] dismissed the coverage as a recycled October 2022 storyline resurrected to slow Trump's momentum, arguing that the DOJ had threatened to prosecute aide [[walt-nauta|Walt Nauta]] after he changed his testimony having wanted to plead the Fifth, and that the star witness may have been entrapped by [[jack-smith|Jack Smith]]'s team.[12] He called the implied theory — that Trump told "his beverage boy" to move boxes of classified documents — unbelievable, and characterized the episode as another instance of "Get Trumpism."[12]
+
+12. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

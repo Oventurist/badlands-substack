@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [queer-theory, education, neo-marxism, family]
-sources: [raw/ai-can-help-us-expose-the-nwo.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
 confidence: low
 ---
 
@@ -18,3 +18,9 @@ Queer Theory also functions within the [[esg|ESG]] scoring system: social and go
 
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
+
+## Cited in the child sacrifice thesis
+
+Badlands Media contributor [[simon-esler|Simon Esler]] cited queer theory, alongside warped sex education, as the vehicle for the explicit [[sexualization-of-children|sexualization of children]] being implemented in public schools.[2] He asked how that development is framed by the hypothesis that an elite class considers [[child-sacrifice|child sacrifice]] normal and is using its power over culture to normalize it for others, arguing that on the [[fifth-generation-warfare|fifth-generation]] battlefield war has shifted from the destruction of human life toward dominance over human cognition.[2]
+
+2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep

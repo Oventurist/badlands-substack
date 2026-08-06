@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, trump, media, information-war]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md]
 confidence: medium
 ---
 
@@ -52,6 +52,12 @@ Badlands host GhostofBasedPatrickHenry opened his November 2025 show *Geopolitic
 
 Badlands contributor [[burning-bright|Burning Bright]] cited the November 2025 [[white-house|White House]] dinner for Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] as proof for "anyone still doubting that Kayfabe is the premier narrative weapon of choice for Donald Trump," pointing to the optics of [[elon-musk|Elon Musk]] appearing as a guest of honor months after his public feud with the president.[9] The reading was that "Trump and Elon signal GROWTH" — "all gas, no breaks to the Golden Age."[9]
 
+## Electoral kayfabe (Erik Carlson, February 2023)
+
+[[erik-carlson|Erik Carlson]] applied kayfabe to American electoral politics in his February 14, 2023 essay "Balance, Necessary for Control," defining it as a pro-wrestling term for two sides pretending to be at odds to create drama as part of a storyline, and casting the [[cabal|Cabal]] as the match-maker who ultimately determines the winners of elections.[10] The wrestlers, in his framing, are the [[rino|RINO]] and liberal Democrat politicians; a voter leaning slightly right sees the RINO as the "babyface" and one leaning slightly left sees the same figure as the "heel," but the outcome of the match is predetermined either way because the [[deep-state|Deep State]] Cabal cannot leave decisions affecting its control to citizens.[10]
+
+Carlson argued the show is staged so people believe a democratic process is occurring; without belief that their votes count, the system fails and the Cabal's power, which rests entirely on the [[illusion-of-democracy|illusion]], ceases to exist.[10] He identified [[donald-trump|Donald Trump]] as the figure who broke the work: Trump actually was different, did not work for "the pro-wrestling league's owner," and was not paid to pull his punches or overreact to vicious slaps.[10]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -67,3 +73,4 @@ Burning Bright argued there is a reason kayfabe and false feuds are among the si
 Commenting on June 16, 2025 reporting that Russian diplomats faced a "nerve-wracking" situation in [[israel]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] said everything about the headline, including the accompanying picture, had "a WrestleMania feel to it."[8] He defined kayfabe as the moment when an onscreen character turns from heel to hero or vice versa, and argued that genuine instances are rarer than the breadth of internet analysis would suggest — but that [[vladimir-putin|Putin]] would qualify as the most significant public figure to have such a moment.[8] He predicted it would be Putin negotiating peace in the Middle East with [[donald-trump|Trump]] supporting him, a narrative that would defy the preconceived notions of Putin the corporate media had cultivated in the public all their lives, while cautioning that nothing about the saga's resolution would be simple or clean.[8] He added that the staging felt "a little too perfect" for a Putin arrival into the arena.[8]
 8. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f
 9. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+10. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control

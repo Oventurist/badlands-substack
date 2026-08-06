@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [transparency, foia, litigation, federal-agencies]
-sources: [raw/badlands-news-brief-cce.md]
+sources: [raw/badlands-news-brief-cce.md, raw/clowns-in-america.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ The episode is cited within the [[badlands-media|Badlands Media]] corpus as an e
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
+
+## Evasion by private email server (Badlands account)
+
+The August 2023 Badlands article "Clowns in America" argues that the Freedom of Information Act is "a huge deal" and instrumental in giving power back to the people, and that "the enemy truly fears it."[2] Writer [[joe-lange|Joe Lange]] asserted that this fear was the reason [[hillary-clinton|Hillary Clinton]] set up a private email server in the first place — to avoid the FOIA laws that had exposed many of her husband's crimes during his presidency — and that President [[barack-obama|Barack Obama]] did the same, later getting caught lying about it.[2] Lange added that Obama sought to hide the arrangement by classifying material under state secrets or top secret designations.[2]
+
+2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america

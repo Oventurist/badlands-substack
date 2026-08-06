@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, conservative, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-948.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-948.md, raw/brazil-breaking.md]
 confidence: low
 ---
 
@@ -37,3 +37,9 @@ On December 5, 2023, The Daily Wire joined [[the-federalist|The Federalist]] and
 2. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 3. Badlands News Brief — "Dictators, Sovereigns and Bipartisan Peace", URL: https://badlands.substack.com/p/badlands-news-brief-8f1
 4. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
+
+## Pre-election Bolsonaro interview (2022)
+
+Ahead of the [[2022-brazilian-general-election|2022 Brazilian general election]], The Daily Wire conducted an interview with Brazilian president [[jair-bolsonaro|Jair Bolsonaro]] that became a key source for Badlands Media's analysis of the contest.[5] In it Bolsonaro said the [[brazilian-armed-forces|armed forces in Brazil]] had been invited to join in electoral transparency and that they had told him it was impossible to grant a seal of credibility or reliability to the voting system given its many vulnerabilities, and he described appointing his own cabinet with one third drawn from the military.[5] The Badlands author cited the outlet with a wry aside acknowledging his readers' mixed feelings about it, while treating the interview's content as significant.[5]
+
+5. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking

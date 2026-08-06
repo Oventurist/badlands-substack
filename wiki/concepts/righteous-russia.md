@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, russia, burning-bright, sovereign-alliance]
-sources: [raw/badlands-news-brief-561.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/badlands-news-brief-561.md, raw/badlands-news-brief-6e6.md, raw/death-blossom.md]
 confidence: medium
 ---
 
@@ -31,3 +31,11 @@ In October 2025 [[burning-bright|Burning Bright]] closed an essay on [[donald-tr
 ## References
 1. Badlands Brief — "Badlands News Brief: Pro Putin Propaganda & A Parisian Proxy President", URL: https://badlands.substack.com/p/badlands-news-brief-561
 2. Badlands Brief — "Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+
+## Referenced in "Death Blossom" (November 2022)
+
+[[burning-bright|Burning Bright]] pointed back to the Righteous Russia series in his November 23, 2022 Badlands Media essay "Death Blossom," writing that he had begun painting the picture of the cornered, wounded [[the-beast|Beast]] "months ago" during that series.[3] The series is credited there as the origin of his framing of the globalist side as a dying but still-lethal animal trapped in a ravine at the edge of the world.[3]
+
+The same essay extended the series' sympathetic reading of Russian conduct in the [[russia-ukraine-war|Russia-Ukraine war]], arguing that the November 2022 missile strike on [[poland|Polish]] (and therefore [[nato|NATO]]) territory was an attempt to frame an "aggressive and unhinged Russia," and suggesting that the hot factions exposed by the episode would likely be removed by American or — "more likely" — allied Russian forces, so that the next errant strike would be even less successful.[3]
+
+3. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom

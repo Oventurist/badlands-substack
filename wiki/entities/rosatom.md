@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, uranium, nuclear, uranium-one, state-owned]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d1d.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ff1.md]
 confidence: medium
 ---
 
@@ -45,3 +45,9 @@ On Tuesday, June 24, 2025, Rosatom announced that Russia and [[mali|Mali]] had a
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
 3. Badlands Brief — "Russian Oil, Turkish Nukes, & American Indictments", URL: https://badlands.substack.com/p/badlands-news-brief-09b
 4. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+
+
+## Burkina Faso agreement (2025)
+In June 2025 Rosatom chief executive [[aleksey-likhachev|Alexey Likhachev]] signed an agreement with [[burkina-faso|Burkina Faso]]'s Energy Minister Yacouba Zabré Gouba to expand peaceful nuclear energy cooperation, including radiation technologies and specialist training, on the sidelines of the St. Petersburg International Economic Forum.[5] Likhachev called the signing "an important milestone in strengthening the partnership between Russia and Burkina Faso" and said Rosatom was "ready to provide advanced technologies and expert support to implement joint projects aimed at sustainable development and enhancing the region's energy security."[5] Rosatom's statement said the pact builds on a roadmap signed the previous March with Burkina Faso's Ministry of Energy during the ATOMEXPO forum in Sochi.[5] See [[2025-russia-burkina-faso-nuclear-energy-agreement]].[5]
+
+5. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

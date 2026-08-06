@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [azerbaijan, south-caucasus, diplomacy, zangezur-corridor]
-sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-f46.md]
+sources: [raw/badlands-news-brief-50f.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-dcb.md, raw/badlands-news-brief-f46.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -36,6 +36,10 @@ Aliyev defended Azerbaijan's increased military budget as a response to an arms 
 
 Escalating further, Aliyev said that "we are neighbors with such a fascist state, and the threat of fascism is not going away. Therefore, fascism must be destroyed. Either the Armenian leadership will destroy it or we will. We have no other choice."[3] He demanded that France and other arms suppliers terminate their contracts with Armenia and that weapons already delivered be returned, expressing hope his words would be heeded now that, in his phrasing, "the Soros era has ended in America" with [[donald-trump|Trump]]'s return.[3]
 
+## Statements on Armenian-Iranian drug trafficking
+
+Addressing the Commonwealth of Independent States Heads of State Council by videoconference in 2021, Azerbaijani president Ilham Aliyev said that after [[azerbaijan|Azerbaijan]] regained control of the 130-kilometer (81-mile) section of its state border with [[iran|Iran]] that had been under Armenian control for about thirty years, it blocked a drug trafficking route from Iran through the Jabrayil district to [[armenia|Armenia]] and on to Europe.[6] He noted that the volume of heroin seized on other sections of the Azerbaijan-Iran border had doubled compared with the same period in previous years, and concluded that for roughly three decades Armenia, in collusion with Iran, had used the occupied territories of Azerbaijan to carry out drug trafficking to Europe.[6] Aliyev emphasized that throughout the years of occupation he had repeatedly said the occupied territories were being used "for drug trafficking and training of international terrorists," adding: "It is a proven fact today."[6] Badlands contributor Joe Lange treats these statements as confirmation that the [[second-karabakh-war|Second Karabakh War]] severed a major heroin corridor from [[afghanistan|Afghanistan]] into Europe.[6]
+
 ## References
 1. Badlands News Brief — "Alaska For Peace, Iranian Objections, & A Mid-Decade Census", URL: https://badlands.substack.com/p/badlands-news-brief-50f
 2. Badlands Brief — "Badlands News Brief: The Corruption of Anti-Corruption & Obama Bites Back", URL: https://badlands.substack.com/p/badlands-news-brief-91b
@@ -57,3 +61,4 @@ Hosting the COP29 United Nations climate talks in Baku in November 2024, Aliyev 
 Badlands commentary linked the outburst to the energy politics of the Gaza war, noting that Azerbaijani crude supplies a large share of Israel's oil through the [[baku-tbilisi-ceyhan-pipeline|Baku-Tbilisi-Ceyhan pipeline]] and that Macron had called for an arms embargo against Israel a month earlier, casting Aliyev's attack on French imperialism as one more sign of globalist leaders turning on one another.[5]
 
 5. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
+6. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

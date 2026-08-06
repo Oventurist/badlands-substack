@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republicans, georgia, iran, america-first]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-533.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-752.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-b9e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c78.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fc2.md]
 confidence: low
 ---
 
@@ -137,3 +137,11 @@ During the [[house-oversight-committee|House Oversight Committee]]'s May 16, 202
 20. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
 21. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
 22. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+
+## Rejection of the MAGA label (December 2025)
+
+In a "60 Minutes" interview aired on a Sunday in December 2025, Greene — once a staunch supporter of President [[donald-trump|Donald Trump]]'s MAGA agenda — suggested she no longer associated herself with that label.[23] Asked by anchor [[lesley-stahl|Lesley Stahl]], "Are you MAGA?", Greene replied, "I'm America first."[23] Pressed on whether that was different from MAGA, she answered that "MAGA is President Trump's phrase. That's his, his political policies," referring to the "Make America Great Again" slogan that propelled Trump's 2016 campaign to victory, adding, "I call myself America first."[23] When Stahl said, "But you're not saying you're MAGA. That's over," Greene shook her head and repeated, "I'm America first. Yep."[23]
+
+Badlands commentator [[burning-bright|Burning Bright]] read the episode as part of "nearly a year of engineered intra-MAGA turmoil," arguing that the establishment was "spinning out in a void of their own making" because it was beginning to realize the movement Trump began was not ending but "being reborn," and that "the sifting is the signal."[23]
+
+23. Badlands News Brief — "Redundant Creatives, Gay Frogs in India, & the Battle of the Our Boys", URL: https://badlands.substack.com/p/badlands-news-brief-fc2

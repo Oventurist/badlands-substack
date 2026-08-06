@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [industrial-policy, semiconductors, critical-minerals, commerce-department, federal-loans]
-sources: [raw/badlands-brief-db7.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f53.md]
+sources: [raw/badlands-brief-db7.md, raw/badlands-news-brief-06d.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f53.md, raw/chips-and-dips.md]
 confidence: medium
 ---
 
@@ -62,3 +62,11 @@ In June 2024, Badlands contributor [[burning-bright|Burning Bright]] surveyed a 
 ## TSMC Arizona awards (April 2024)
 
 In April 2024 the Department of Commerce announced a preliminary agreement under the Act with [[tsmc|TSMC]], providing $6.6 billion in grants and $5 billion in loans to support a third Arizona chip factory and raising the company's total Arizona investment to $65 billion.[8] Commerce Secretary [[gina-raimondo|Gina Raimondo]] framed the award in national security terms, noting the 2-nanometer chips involved would be crucial to artificial intelligence chips powering the defense industry.[8] Badlands writer [[burning-bright|Burning Bright]] cited the award as one of the most observable "Actuals" supporting both [[devolution|Devolution]] theory and his "Switch" economic theory, predicting the plants would seed a US manufacturing boom once online from 2025.[8]
+
+## "CHIPS and Dips" (December 2022)
+
+In a December 21, 2022 feature titled "CHIPS and Dips: The Shadow Presidency and the Oligarchy" — the sixth entry in [[badlands-media|Badlands Media]]'s China series — [[burning-bright|Burning Bright]] treated the CHIPS Act as one of the clearest available proofs of [[devolution|Devolution]].[9] He argued that the Act severely limits the fiscal benefit of U.S. companies doing business in China, restricting foreign production and Chinese interference in an industry he described as a red-line national security directive.[9] Writing that semiconductors did not enter public consciousness in a significant way until the lockdowns of 2020, when international restriction policies contracted Chinese trade and made western dependence on cheap Chinese production stark, he noted with surprise that semiconductors are the most-traded commodity in the world — more than oil, more than steel, more than any single staple.[9]
+
+Burning Bright held that the Act, though signed by [[joe-biden|Joe Biden]], either ideologically mirrored the policies of the [[trump-administration|Trump Administration]] or continued them outright, in a silent break from the will of Biden's ostensible globalist masters.[9] He cited [[apple|Apple]]'s transition of production from China to Arizona as a concrete outcome, placing it alongside the Biden administration's approval of a Gulf oil terminal and the continued strengthening of [[brics|BRICS]] as evidence that a [[multipolar-world-order|multipolar world order]] was being forged out of the globalist system.[9]
+
+9. Badlands Brief — "CHIPS and Dips", URL: https://badlands.substack.com/p/chips-and-dips

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md]
 confidence: low
 ---
 
@@ -56,6 +56,13 @@ Truth Social's parent, [[trump-media-and-technology-group|Trump Media]], made it
 
 [[just-human|Just Human]] argued in March 2023 that Trump's Truth Social posts and public statements had highlighted the [[manhattan-district-attorneys-office|Manhattan District Attorney's Office]] and focused national attention on it "like never before," a contrast with the earlier failed investigation under [[cyrus-vance-jr|Cy Vance]].[9]
 
+
+## Erik Carlson on rebuilding Truth Social (February 2024)
+
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] recalled that when Truth Social first launched, patriots were able to communicate with one another again and the experience was "awesome," but that after [[elon-musk|Elon Musk]] bought Twitter and readmitted much of the truth community, there was a mass exodus from Truth Social back to [[x-platform|X]], and the platform "has never been the same."[12] He argued that community effort should instead go toward building up Truth Social and [[rumble|Rumble]], comparing engagement on Twitter to Don Quixote battling windmills.[12]
+
+Carlson also linked the platform's stalled development to the [[securities-and-exchange-commission|SEC]]'s blocking of the [[digital-world-acquisition-corp|DWAC]] merger with [[trump-media-and-technology-group|Trump Media and Technology Group]], writing that [[donald-trump|Trump]] launched Truth Social two years earlier but has been unable to build it out without access to the raised funds — meaning no cable channels, movies, or news and entertainment apps until a merger completes.[12]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -81,3 +88,4 @@ Truth Social's parent, [[trump-media-and-technology-group|Trump Media and Techno
 
 
 11. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+12. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

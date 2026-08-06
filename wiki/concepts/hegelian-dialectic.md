@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, narrative, manipulation, censorship]
-sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-d6a.md]
+sources: [raw/badlands-brief-9eb.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-d6a.md, raw/bric-by-bric.md]
 confidence: medium
 ---
 
@@ -33,3 +33,9 @@ Badlands contributor [[burning-bright|Burning Bright]] described what he called 
 1. Badlands Brief — "Dems Demand a Post-Trump Strategy as Hamas Haggles for Peace", URL: https://badlands.substack.com/p/badlands-brief-9eb
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 3. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+
+## Narrative foundations in "BRIC by BRIC"
+
+In his August 2023 essay "BRIC by BRIC," [[burning-bright|Burning Bright]] gave a general statement of the frame, defining the Hegelian Dialectic as "Problem > Reaction > Solution" and arguing that globalist and collectivist elites had used it for the better part of a century "to first trick and then coerce the populace along greased psychological rails toward predetermined solutions that only seem to benefit the System."[4] He attributed its effectiveness to an insidious but accurate understanding that human beings are innately drawn to stories, characters and symbols, which allows storytellers to pervert moral frameworks and install false idols.[4] He described the reversal of this dynamic as the [[good-reset|'Good' Reset]] and framed the broader contest as a [[war-of-stories|War of Stories]].[4]
+
+4. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric

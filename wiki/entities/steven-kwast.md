@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, air-force, psychological-warfare, badlands]
-sources: [raw/badlands-news-brief-c44.md]
+sources: [raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ff1.md]
 confidence: low
 ---
 
@@ -20,3 +20,9 @@ Burning Bright argued in the same segment that the tariff episode functioned as 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
+
+
+## June 2025 Badlands interview on Africa
+On the day in June 2025 that Russia and Burkina Faso signed their nuclear energy agreement, Kwast was interviewed by [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] on the subject of what he called the broken "hero system" in Africa.[2] The case study used in the discussion was [[burkina-faso|Burkina Faso]] and the rise of Captain [[ibrahim-traore|Ibrahim Traoré]], presented as the best available indication that Africa's hero system can be revived.[2] The host described the timing as serendipitous and urged listeners to hear the conversation, praising Kwast's calibre and character.[2] See [[2025-russia-burkina-faso-nuclear-energy-agreement]].[2]
+
+2. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

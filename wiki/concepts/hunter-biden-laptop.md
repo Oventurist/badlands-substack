@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [hunter-biden, intelligence-community, censorship, congress]
-sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f7d.md]
+sources: [raw/badlands-news-brief-152.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-e8f.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
@@ -99,3 +99,9 @@ Podcaster [[joe-rogan|Joe Rogan]], speaking with comedian [[theo-von|Theo Von]] 
 
 11. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
 12. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
+
+## Blinken and the Devolution Part 24 dig (May 2023)
+
+The suppression of the laptop story was the central subject of [[jon-herold|Jon Herold]]'s twenty-fourth [[devolution|Devolution]] installment in May 2023, which examined [[antony-blinken|Antony Blinken]]'s actions and connections in the effort alongside the [[central-intelligence-agency|CIA]] and [[hunter-biden|Hunter Biden]] himself.[13] Herold wrote that [[donald-trump|Donald Trump]] knew what was on the laptop, called [[joe-biden|Joe Biden]] a criminal, and condemned the media as criminal for not reporting on it, and that the Trump administration regarded the suppression as election interference.[13] He asked readers to consider why any of the information was emerging at all if Biden and his associates were genuinely in full control.[13] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued the dig connected the documented suppression campaign to circumstantial evidence that the Biden administration was operating in a compartmentalized, faction-oriented fashion as individual actors tried to keep their crimes hidden from one another.[13]
+
+13. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

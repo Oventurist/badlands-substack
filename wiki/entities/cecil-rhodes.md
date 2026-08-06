@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [british-empire, rhodes-scholarship, secret-societies]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-adc.md, raw/canadas-transition-to-collectivist.md]
 confidence: medium
 ---
 
@@ -20,6 +20,13 @@ In his 1877 will, Rhodes called for the creation of "a society which should have
 
 [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] described Rhodes as an agent for the Rothschild banking family dispatched to Africa in the 1880s to establish the "Cape to Cairo" railway for the British, intended to connect the north African coast to South Africa.[2] He noted that the British South Africa Company, founded by Rhodes, named the colony of Rhodesia — the future [[zimbabwe|Zimbabwe]] — after him in 1895, and invited readers to consider how the local population was treated by British and Prussian prospectors, observing that Rhodesia shared a large border with German East Africa.[2]
 
+## The Round Table and Canada
+
+[[matthew-ehret|Matthew Ehret]] writes that Rhodes's [[round-table-movement|Round Table]], founded in 1902, became a driving force in shaping imperial grand strategy in order to recapture the lost colonies of the Americas and establish a world federation under the City of London.[3] In that project it was [[canada|Canada]] that incubated hundreds of [[rhodes-scholarship|Rhodes Scholars]] between 1907 and 1952, who then infiltrated the United States — a pattern exposed by American journalist Eugene Griffin in the 1951 *Chicago Tribune* article "Canada Offers Fine Field to Rhodes' Wards."[3] Griffin described Rhodes as the "empire builder and diamond mogul who wanted the United States taken back into Britain's fold."[3]
+
+Ehret adds that the international web of Round Table think tanks — headed by [[chatham-house|Chatham House]] and its American branch the [[council-on-foreign-relations|Council on Foreign Relations]] — coordinated several generations of Oxford Rhodes Scholars and followed Rhodes's mandate to create a "church of the British Empire" and recapture the colonies that declared independence in 1776.[3]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: Globalists Panic as Populism Takes Over the Zeitgeist", URL: https://badlands.substack.com/p/badlands-news-brief-adc
+3. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist

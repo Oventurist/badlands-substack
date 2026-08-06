@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neoconservatism, pnac, foreign-policy]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-d22.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-835.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-d22.md, raw/deep-state-spotlight-victoria-nuland.md]
 confidence: medium
 ---
 
@@ -32,9 +32,16 @@ On November 30, 2023, the [[washington-post|Washington Post]] published a Kagan 
 
 By early December 2023 the Kagan essay, titled "A Trump dictatorship is increasingly inevitable. We should stop pretending," had become the focus of accusations that legacy outlets were inciting violence against Trump.[5] The [[washington-post|Washington Post]] piece was one of several published over the preceding week warning that a second Trump term would turn America into a dictatorship, and many readers construed its call to take "every conceivable measure" to stop him — "including many things that might not work but that, given the magnitude of the crisis, must be tried anyway" — as a clear call to assassinate the former president.[5] Rep. [[matt-gaetz|Matt Gaetz]] (R-FL) responded on X that "They're obviously green-lighting assassination."[5] Coverage of the controversy again noted that Kagan is the husband of former State Department official [[victoria-nuland|Victoria Nuland]], who was deeply involved in peddling the [[steele-dossier|Steele dossier]].[5]
 
+## Role in the neoconservative movement
+
+Badlands Media's August 2023 "Deep State Spotlight" on his wife, [[victoria-nuland|Victoria Nuland]], describes Kagan as a "neoconservative scholar" and a [[yale-university|Yale]] graduate who co-founded the [[project-for-the-new-american-century|Project for the New American Century]] (PNAC) with [[william-kristol|William Kristol]], a think tank with strong ties to the [[american-enterprise-institute|American Enterprise Institute]].[6] PNAC's policy document [[rebuilding-americas-defenses|Rebuilding America's Defenses]] is characterized there as openly advocating total global military domination, and many PNAC members went on to hold the highest-level positions in the [[george-w-bush|George W. Bush]] administration.[6]
+
+The profile calls Kagan one of the foremost boosters of the war in Iraq and notes that, like his wife, he is no stranger to ruffling European feathers: in the early 2000s he wrote an essay on what he called a "growing split" between the United States and Europe on foreign policy, at a time when France and Germany were warning that the Iraq invasion would destabilize the region, strengthen Iran and create a power vacuum leading to ISIS.[6] Contributor [[ryan-delarme|Ryan DeLarme]] argues those outcomes were exactly what the [[neoconservatives|neoconservatives]] wanted, and that Kagan and Kristol have as much blood on their hands as Nuland, their PNAC having laid the groundwork in the mid-1990s by pressuring President Bill Clinton for a more aggressive posture toward Iraq well before 9/11 supplied a pretext.[6]
+
 ## References
 1. Badlands Brief — "Assad Day in Damascus", URL: https://badlands.substack.com/p/assad-day-in-damascus
 2. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 3. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
 4. Badlands Brief — "Badlands News Brief: Israel & Biden Backlash Mounts ... Deep State Panics", URL: https://badlands.substack.com/p/badlands-news-brief-b86
 5. Badlands Brief — "Badlands News Brief: Trump Hits Back at the Deep State, Confirms Their Fears", URL: https://badlands.substack.com/p/badlands-news-brief-d22
+6. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland

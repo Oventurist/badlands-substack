@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [january-6, congress, media, transparency, 2023]
-sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-970.md, raw/badlands-news-brief-b92.md]
+sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-970.md, raw/badlands-news-brief-b92.md, raw/carlsons-j6-disclosure-strategy-is.md]
 confidence: medium
 ---
 
@@ -44,6 +44,16 @@ On Tuesday, February 28, 2023, House Republicans agreed to permit January 6 defe
 
 [[justin-deschamps|Justin Deschamps]] called McCarthy's decision a moment of sanity but predicted it would not free all of the wrongfully incarcerated defendants, in part because in his view January 6 was not a genuine criminal investigation but a political witch hunt through which the [[deep-state|Deep State]] used grievous allegations to hold Americans in the "DC Gulag."[4] He argued that plea deals taken by some defendants to accelerate their release build a case against the remaining defendants by making allegations of sedition and insurrection appear more valid — the logic that if someone admits to insurrection, an insurrection must have occurred — and that the same effect operates on the general population, where one person's capitulation becomes a fact-in-law used to prove the event itself.[4] He described the practice as classic gulag-style political intimidation used by tyrannical governments, and suggested history would mark the episode either as proof of the fall of America or as the moment the people rose to take back their freedoms.[4]
 
+## Audience reach of the March 2023 broadcasts
+
+Badlands Media contributor [[ashe-in-america|Ashe in America]] argued that the significance of the March 2023 broadcasts lay in the size and composition of the audience they reached rather than in the volume of footage aired.[6] Citing Ad Week, she reported that on Monday, March 6, 2023 Carlson's program drew 3,695,000 viewers, compared with 582,000 for [[cnn|CNN]]'s [[anderson-cooper|Anderson Cooper]] and 1,230,000 for [[msnbc|MSNBC]]'s Chris Hayes; the following night Carlson gained 441,000 viewers to reach 4,136,000 while Cooper fell to 577,000 and Hayes rose to 1,436,000, with the disclosures on the agenda of both rival programs.[6] She calculated that roughly 6,149,000 people learned, many for the first time, that a viable alternative to the government's January 6 narrative existed.[6]
+
+In her account the first three broadcasts established five propositions for that audience: that January 6, 2021 was not a violent insurrection; that [[brian-sicknick|Brian Sicknick]] did not die at the hands of protesters; that protesters inside the Capitol believed they were permitted to be there; that [[us-capitol-police|Capitol Police]] were enabling [[jacob-chansley|Jacob Chansley]] and other protesters; and that the [[january-6-committee|January 6 Committee]] willfully lied and withheld evidence.[6] She characterised the pacing of the releases as deliberate foundation-laying for viewers unfamiliar with the material rather than as withholding, noting that Carlson himself lacked the authority to publish the archive unilaterally and had run every clip past the Capitol Police before broadcast.[6]
+
+## McCarthy's pledge of full public release
+
+In a March 8, 2023 interview with [[breitbart-news|Breitbart News]], Speaker [[kevin-mccarthy|Kevin McCarthy]] vowed a full public release of the Capitol surveillance tapes, saying "we just want to make sure we go through them all, and it takes time," and noting that the Capitol Police had raised a single security concern which was mitigated — a concern relating to a portion of the building that Rep. [[eric-swalwell|Eric Swalwell]] had himself displayed online for the previous two years.[6] Ashe in America wrote that she would not hold her breath because "government promises are pie crust — easily made, easily broken," while adding that she was more optimistic than ever that the government's account would be undone.[6]
+
 ## Political reading
 
 Badlands contributor [[chris-paul|Chris Paul]] framed the release as evidence that McCarthy was "beginning to silence the doubters," calling the turnover of January 6 footage — particularly to Carlson, described as "as big as it gets in mainstream media" — a significant development capable of rapidly disrupting the mainstream media narrative surrounding January 6.[1] The same commentary linked the footage decision to McCarthy's parallel maneuvering over [[ukraine-aid-funding-controversy|Ukraine aid]] in must-pass spending bills.[1]
@@ -61,3 +71,4 @@ On 17 November 2023 House Speaker [[mike-johnson|Mike Johnson]] announced that m
 3. Badlands Brief — "Badlands News Brief: January 6 and Nord Stream Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-8f4
 4. Badlands Brief — "Drones in Russia, J6 Footage & Socialist Policies", URL: https://badlands.substack.com/p/badlands-news-brief-970
 5. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
+6. Badlands Brief — "Carlson's J6 Disclosure Strategy is Brilliant", URL: https://badlands.substack.com/p/carlsons-j6-disclosure-strategy-is

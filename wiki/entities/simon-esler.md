@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d8f.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d8f.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
 confidence: low
 ---
 
@@ -68,3 +68,13 @@ On the ruling permitting the [[2022-buffalo-supermarket-shooting|Buffalo shootin
 
 8. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
 9. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+
+## "Child Sacrifice as a Pillar of Deep State Control" (March 2024)
+
+On March 25, 2024, Esler published a long-form essay for Badlands Media arguing that elite [[child-sacrifice|child sacrifice]] is the concept most vigorously suppressed by the modern information war.[10] Opening with a discussion of cyclical time drawn from his own experience of recurring personal challenges, he asked whether the elites of the past normalized child sacrifice, whether an elite class is normalizing it today, and whether the tools of [[fifth-generation-warfare|fifth-generation warfare]] are being used both to cover for elites practicing it and to normalize it culturally.[10]
+
+The essay analyzed [[michael-flynn|Michael Flynn]]'s January 2024 retweet of an [[ian-carroll|Ian Carroll]] video on [[pizzagate|Pizzagate]] against the doctrine set out in *The Citizen's Guide to Fifth-Generation Warfare*, traced [[molech|Moloch]] and [[baal|Baal]] symbolism through the [[hillary-clinton|Clinton]]–[[huma-abedin|Abedin]] email and the [[balenciaga|Balenciaga]] "Baalenciaga" prop, and grounded the historical argument in [[david-soren|David Soren]]'s archaeological work on [[carthage|Carthage]].[10] It further covered [[mk-ultra|MK Ultra]], [[valerie-sinason|Valerie Sinason]]'s work on [[satanic-ritual-abuse|Satanic Ritual Abuse]] and [[false-memory-syndrome|"False Memory Syndrome"]], the [[canadian-residential-schools|Canadian residential school]] mass grave controversy, and the cases of [[jeffrey-epstein|Jeffrey Epstein]] and [[sean-combs|Sean Combs]].[10]
+
+Esler concluded that campaigners may be taking bait by trying to prove Satanic elites literally kill children, when the more effective approach is to expose the visible cultural changes that reveal forms of child sacrifice, summarizing that "a culture that accepts literal child sacrifice is downstream from a culture that accepts the sacrifice of childhood innocence."[10] The piece carried the standard [[badlands-media|Badlands Media]] disclaimer that contributor articles represent the opinions of their authors, and directed readers to Esler's own Substack.[10]
+
+10. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep

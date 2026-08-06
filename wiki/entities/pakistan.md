@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pakistan, isi, regime-change, nuclear, geopolitics]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-brief-625.md, raw/badlands-brief-707.md, raw/badlands-brief-9ea.md, raw/badlands-brief-bb1.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -43,6 +43,10 @@ Weekend talks between the United States and Iran hosted in Pakistan collapsed af
 
 During the June 2026 Iran–Israel de-escalation, Tehran's foreign ministry and president signaled that diplomacy remained active, with Pakistan playing a mediating role between the parties.[5] The talks proceeded as Israeli operations against [[hezbollah|Hezbollah]] in [[lebanon|Lebanon]] continued and [[iran|Iran]] insisted that any comprehensive deal address the Lebanon theater.[5]
 
+## Alleged role in proliferation and heroin trafficking (Badlands analysis)
+
+Badlands contributor Joe Lange writes that Pakistan was not merely a safe haven for terrorists and for heroin trafficking out of [[afghanistan|Afghanistan]], but also a safe haven for nuclear proliferation around the world, and that all of it was a purposeful [[central-intelligence-agency|CIA]] operation.[6] He places Pakistan at the center of nuclear proliferation while it simultaneously protected the agency's terrorist networks and narcotics operations, and treats it as the template for understanding [[armenia|Armenia]], whose proliferation activity the media ignored in the same way it ignored Pakistan's.[6] Rogue nuclear states, in this framing, exist to provide protection for the CIA's proxy terror and drug networks.[6]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
@@ -50,3 +54,4 @@ During the June 2026 Iran–Israel de-escalation, Tehran's foreign ministry and 
 3. Badlands Brief — "TACO Tuesday Reigns Supreme as the Age of Accountability Nears", URL: https://badlands.substack.com/p/badlands-brief-707
 4. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
 5. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
+6. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

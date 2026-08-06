@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agencies, food-policy, snap, federal-government]
-sources: [raw/badlands-news-brief-03a.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-fbd.md]
 confidence: medium
 ---
 
@@ -14,5 +14,10 @@ The U.S. Department of Agriculture (USDA) is the federal agency that administers
 
 The agency's gatekeeping role over SNAP rules became a point of contention in the 2025 food-policy debate: previous efforts by states including Minnesota, California and New York to restrict the purchase of junk food with SNAP benefits were rejected by the USDA.[1] Senator [[rand-paul|Rand Paul]]'s [[nutritious-snap-act|Nutritious SNAP Act of 2025]] was framed in part as a response to those rejections, aiming to restore state flexibility over the program and to respect state decisions to combat chronic disease.[1]
 
+## Kickback scheme prosecution (2025)
+
+In April 2025 former USDA program director [[kirk-perry|Kirk Perry]], 60, of Lorain, Ohio, pleaded guilty to conspiracy to commit money, property, and honest services wire fraud in a kickback scheme that billed the government nearly $400,000 for work never performed.[2] Perry admitted that from August 2015 through November 2022 he arranged for his nephew Jamarea Grant to be hired by two companies under contract with the USDA Office of Assistant Secretary for Civil Rights, with Grant reporting directly to Perry, who also approved the invoices for Grant's time.[2] Perry additionally transferred roughly $125,000 of the USDA payments out of Grant's bank account into his own.[2] The plea was announced by U.S. Attorney Edward R. Martin Jr. and Special Agent in Charge Jeldrys Lowry of the USDA Office of Inspector General, and was entered before Judge [[colleen-kollar-kotelly|Colleen Kollar-Kotelly]].[2] Badlands commentary treated the case as evidence that the [[donald-trump|Trump]] administration was prosecuting public corruption.[2]
+
 ## References
 1. Badlands Brief — "SCOTUS and Subsidies, Banker Bonuses, and Six More Years of Lindsay Graham", URL: https://badlands.substack.com/p/badlands-news-brief-03a
+2. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd

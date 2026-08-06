@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [media, narrative, censorship, information-war, maga]
-sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e7c.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-blitz-episode-19.md, raw/badlands-brief-257.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e7c.md, raw/death-blossom.md, raw/empires-enigma.md]
 confidence: medium
 ---
 
@@ -64,3 +64,19 @@ In the April 14, 2023 Badlands News Brief, [[burning-bright|Burning Bright]] exp
 [[the-gateway-pundit|The Gateway Pundit]] separately contrasted the blanket primetime coverage given to the [[january-6-committee|January 6th select committee]] with the total mainstream silence surrounding the September 18, 2023 [[2023-house-capitol-security-oversight-hearing|House hearing]] at which former Capitol Police Chief [[steven-sund|Steven Sund]] testified.[6]
 
 6. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## Premature narrative expenditure (November 2022)
+
+In "Death Blossom" (November 23, 2022), [[burning-bright|Burning Bright]] argued that [[donald-trump|Donald Trump]]'s decision to announce his 2024 announcement eight days in advance put the Media Industrial Complex "and all its architects on the back foot," provoking them into the premature weaponization of anti-Trump and anti-MAGA/America First narratives that would have been better held until the 2024 cycle was fully underway.[7] The result, in his reading, was spent ammunition: with the MAGA waters calming, the complex had "one less arrow of division in their increasingly-light quiver."[7]
+
+The essay generalized this into the "Death Blossom" thesis — that the globalist side is expending psychological, narrative and kinetic ammunition at an unsustainable rate and to increasingly lackluster or self-defeating results, which is why Badlands writers call it the "Finite" side of the [[fifth-generation-warfare|Fifth-Generation War]].[7] Burning Bright also credited the complex with having sold audiences a portrait of [[ukraine|Ukraine]] and its leadership in February and March 2022 that was already visibly eroding by late 2022.[7]
+
+7. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+
+## The turn on Xi Jinping (December 2022)
+
+In "Empire's Enigma," [[burning-bright|Burning Bright]] observed that the same media apparatus which spent [[donald-trump|Donald Trump]]'s first term casting him as the symbolic return of an infamous Nazi-era leader had turned its judging eye and venomous pens on [[xi-jinping|Xi Jinping]] — a figure those outlets had openly defended and excused during that very term, as Trump dismantled the deals the Chinese leader had apparently won.[8] He treated this reversal as evidence of a [[brics|BRICS]]-opposed play by globalists, and therefore as an argument that BRICS serves the interests of sovereigns worldwide.[8]
+
+The essay also urged readers to examine the narratives the internationally aligned complex advances about every player on the game board rather than the rhetoric of leaders themselves, arguing that actual events must map onto narratives for the latter to hold weight.[8] Burning Bright noted that the complex's "threat to our Democracy" refrain is applied to Trump, [[vladimir-putin|Putin]], [[jair-bolsonaro|Jair Bolsonaro]] and Xi alike, and suggested that in each case the accusation may be accurate with respect to the accusers' own designs.[8]
+
+8. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [climate, collectivism, sovereignty, esg]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-1c6.md, raw/badlands-news-brief-362.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-brief-1c6.md, raw/badlands-news-brief-362.md, raw/death-to-dei.md, raw/energy-consolidation.md]
 confidence: low
 ---
 
@@ -26,7 +26,19 @@ A May 2025 CBS News report highlighted by Badlands linked early-season heat wave
 
 Badlands contributor [[ashe-in-america|Ashe in America]] argued the story was political rather than medical, pointing to Gounder's complaint that surveillance work by NOAA and the CDC was being cut by the [[trump-administration|Trump administration]], and to an accompanying study claiming homicide and suicide kill more pregnant people nationwide than any medical cause — a study she said was pushing gun control in the name of pregnant women.[3] She concluded that the broader narrative aims to make women afraid of pregnancy, and advised staying hydrated and using a fan, adding that this was not medical advice.[3]
 
+## Climate as money laundering and fear control
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued that the climate narrative functions simultaneously as a money-laundering channel and a mechanism of political control: the belief that failing to fund climate organizations and cut carbon footprints will end the world within a decade drives voters to a single party on the basis of one policy alone.[4] Above all, he wrote, the narrative "creates fear, which is the most valuable tool for control," since frightened people "will believe almost anything and do almost anything they are told" — a dynamic he compared to Covid.[4] Carlson listed climate change alongside abortion, [[diversity-equity-and-inclusion|DEI]], the [[transgender-movement|Trans Movement]], LGBTQ+ advocacy and [[black-lives-matter|BLM]] as defining causes of the [[democratic-party|Democrat Party]], all of which he said were created, funded or promoted by the [[deep-state|Deep State Cabal]], and he asserted that the elites promoting them privately "fully understand that Climate Change is a hoax."[4]
+
+## Carlson's control thesis (2023)
+
+In a May 15, 2023 essay, Badlands contributor [[erik-carlson|Erik Carlson]] argued that climate policy is a pretext for [[energy-consolidation|energy consolidation]] — funnelling all consumption into electricity so that access can be centrally metered and switched off.[5] He noted that electricity is still generated from the coal, oil, gasoline, natural gas and nuclear power being publicly demonized, so the operative distinction is not clean versus dirty but direct consumer access versus grid-mediated access.[5]
+
+Carlson offered the collapse of electric-vehicle and solar share prices under [[joe-biden|Biden]] as evidence that the stated policy purpose is false, since firms positioned to benefit from electrification instead lost most of their value.[5] He also argued that the exemption of India and China — in his description the world's largest polluters — from obligations imposed on the United States shows the agenda is not environmental, adding that corporations he associates with the [[deep-state|Deep State]] deliberately manufacture in China because it lacks environmental restrictions.[5] His summary claim is that "the biggest evidence that climate change is a hoax is who supports it," namely the same people behind other episodes later shown to be hoaxes, and that carbon taxes and lost jobs deliver no demonstrated benefit to the planet.[5]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Spain Wins The [American] World Cup", URL: https://badlands.substack.com/p/badlands-brief-1c6
 3. Badlands Brief — "Based Oklahoma, An African Ambush, & An Allegedly Big Beautiful Bill", URL: https://badlands.substack.com/p/badlands-news-brief-362
+4. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+5. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation

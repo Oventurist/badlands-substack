@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [catholic-church, vatican, trump, religion]
-sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-news-brief-410.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-b7b.md, raw/control-the-financial-system-control.md]
 confidence: medium
 ---
 
@@ -40,9 +40,14 @@ In one of his first public speeches after becoming the first US-born pope, Leo X
 
 He pointed to Leo XIII's 1891 encyclical "On Capital and Labor," which sought greater respect for workers' rights and unions, limited working hours and fair wages, and quoted its warning that "the discussion is not easy, nor is it void of danger" and that "it is no easy matter to define the relative rights and mutual duties of the rich and of the poor, of capital and of labor."[4] Leo XIV said he saw clear parallels between the Gilded Age conditions his predecessor addressed and the present AI boom, with its massive data centers, AI bots and tech billionaires.[4]
 
+## Election in the context of financial-system change
+
+Erik Carlson placed the election of the first US-born pope within his narrative of the [[cabal|Cabal]] losing control of the [[vatican-bank|Vatican Bank]]: England became the first country to sign a trade deal with the United States, and just minutes later the new Pope was announced — a week after the White House had released AI-generated images of [[donald-trump|Trump]] as Pope.[6] Asking "what are the odds?" and "who is in control?", Carlson argued that whatever one makes of the new Pope's past statements, the Vatican is no longer controlled by the Cabal.[6]
+
 ## References
 1. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
 2. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
 3. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 4. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 5. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+6. Badlands Brief — "Control the Financial System, Control the World", URL: https://badlands.substack.com/p/control-the-financial-system-control

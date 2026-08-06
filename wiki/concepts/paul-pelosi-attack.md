@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [crime, san-francisco, pelosi, transparency, body-camera]
-sources: [raw/badlands-news-brief-2a2.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/big-tech-climbing-aboard-the-trump.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Media representatives were able to pick up CDs containing the footage and audio 
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
+
+## Alleged coincidence with the Musk Twitter acquisition
+
+Badlands contributor [[erik-carlson|Erik Carlson]] highlighted in August 2024 that the attack on Paul Pelosi occurred on October 28, 2022 — the same date [[elon-musk|Elon Musk]] officially completed his purchase of [[twitter|Twitter]].[2] Carlson presented the shared date as more than coincidence, suggesting it could represent [[deep-state|Deep State]] retaliation and a warning to any figure in [[big-tech|Big Tech]] contemplating a break with the Cabal, while leaving the conclusion to readers.[2] He also raised the question of which side [[nancy-pelosi|Nancy Pelosi]] was playing for, and for how long, in the context of the same realignment.[2]
+
+2. Badlands Brief — "Big Tech Climbing Aboard the Trump Train", URL: https://badlands.substack.com/p/big-tech-climbing-aboard-the-trump

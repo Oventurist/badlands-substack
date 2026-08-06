@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, immigration, wisconsin, lawfare]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-news-brief-26f.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-fa7.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ In July 2026 Dugan was sentenced to a $5,000 fine with no prison time.[1] Presid
 
 Badlands contributor [[ashe-in-america|Ashe in America]] characterized the sentence as a perversion of justice, writing that Dugan had used the authority of the bench to help a "criminal invader" evade federal immigration enforcement inside a public courtroom and received only a fine.[1] The commentary contrasted Dugan's sentence with the eight-year, three-month prison term imposed on [[tina-peters|Tina Peters]], arguing the disparity sets a precedent that weaponizing government office for ideological ends carries little consequence — and concluding that Americans should "expect more Hannah Dugans."[1]
 
+## Suspension by the Wisconsin Supreme Court (April 2025)
+
+On Tuesday, April 29, 2025 the [[wisconsin-supreme-court|Wisconsin Supreme Court]] suspended Dugan, saying it was in the public interest to relieve the Milwaukee County Circuit judge of her duties while she faced two federal charges.[3] The [[fbi|FBI]] had taken her into custody the previous Friday morning at the county courthouse on charges of concealing an individual to prevent his discovery and arrest and of obstructing or impeding a proceeding.[3] According to an FBI affidavit filed in court, Dugan escorted [[eduardo-flores-ruiz|Eduardo Flores-Ruiz]] and his lawyer out of the courtroom through the jury door on April 18 as a way to help avert his arrest by [[immigration-and-customs-enforcement|ICE]].[3] Flores-Ruiz, a Mexican national, had been charged with battery for allegedly punching someone thirty times in the face after that person complained about his loud music.[3]
+
 ## References
 
 1. Badlands Brief — "FaKKKe Racists Plead Not Guilty & You Can Expect More Dugans", URL: https://badlands.substack.com/p/badlands-brief-a9f
 2. Badlands Brief — "Badlands News Brief: Boozing & Brunching While Rome Burns", raw/badlands-news-brief-26f.md
+3. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7

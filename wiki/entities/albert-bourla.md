@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pfizer, big-pharma, covid-19, executives]
-sources: [raw/badlands-news-brief-505.md]
+sources: [raw/badlands-news-brief-505.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ Under Bourla, Pfizer deployed part of its COVID windfall into acquisitions, incl
 
 ## References
 1. Badlands Media — "Badlands News Brief: The Biden Crime Family Begins to Unravel ...", URL: https://badlands.substack.com/p/badlands-news-brief-505
+
+## 2023 Bilderberg attendance
+
+Pfizer chief executive Albert Bourla attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, where artificial intelligence was the primary topic of discussion.[2] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] singled Bourla out among the "globalist players" present, alongside [[stacey-abrams|Stacey Abrams]], [[world-economic-forum|World Economic Forum]] President [[borge-brende|Børge Brende]] and [[jen-easterly|Jen Easterly]].[2]
+
+2. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

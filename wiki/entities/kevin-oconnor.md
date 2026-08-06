@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, physician, biden-health, cognitive-testing]
-sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-e44.md]
+sources: [raw/badlands-news-brief-26c.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ As President [[joe-biden|Joe Biden]]'s personal physician, O'Connor released an 
 1. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
 2. Badlands Media — "Badlands News Brief: Biden's Health, J6 Justice & Balloon Brigades", URL: https://badlands.substack.com/p/badlands-news-brief-d45
 3. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## February 2023 presidential physical
+
+O'Connor conducted President [[joe-biden|Joe Biden]]'s physical examination on February 16, 2023, the second of Biden's presidency after one on November 19, 2021, and determined that Biden was a "healthy, vigorous, 80-year-old male, who is fit successfully execute the duties of the Presidency, to include those as Chief Executive, Head of State, and Commander in Chief."[4] In May 2023, 61 House Republicans led by Rep. [[ronny-jackson|Ronny Jackson]] cited that finding in a letter demanding a cognitive assessment, arguing that the exam "excluded the evaluation of your cognitive and mental abilities, which is where our concerns, and the concerns of the American public, lie."[4]
+
+4. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

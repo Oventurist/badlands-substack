@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, cable-news]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f94.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-169.md, raw/badlands-brief-c2d.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
@@ -159,3 +159,11 @@ In February 2023, [[hunter-biden|Hunter Biden]]'s lawyers threatened Fox News an
 23. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
 24. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
 25. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+
+## May 2023 developments
+
+Two Fox stories featured in the May 8, 2023 [[badlands-news-brief|Badlands News Brief]].[26] On a Thursday morning broadcast, anchor [[bill-hemmer|Bill Hemmer]] interviewed former Vice President [[mike-pence|Mike Pence]], who warned that "a storm is coming one week from today at the Southern Border" as thousands of migrants massed ahead of the expiration of [[title-42|Title 42]].[26] Separately, the network reported the resignation of CDC Director [[rochelle-walensky|Rochelle Walensky]], who announced she would leave the [[centers-for-disease-control-and-prevention|CDC]] at the end of June.[26]
+
+In a letter dated Friday, May 5, 2023, Fox's lawyers demanded that [[dominion-voting-systems|Dominion Voting Systems]] conduct an internal investigation into the leak of documents Fox had produced in discovery — including redacted text messages from [[tucker-carlson|Tucker Carlson]] — arguing the disclosures violated "the text and spirit of the parties agreement" behind the [[fox-dominion-defamation-settlement|$787 million settlement]].[26] Dominion denied being the source.[26] Badlands commentator [[ashe-in-america|Ashe in America]] observed that the network had "folded a straight flush with $787M in the pot," and that Carlson's replacement, "Fox News Tonight," debuted to 1.7 million viewers — barely half his average.[26]
+
+26. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

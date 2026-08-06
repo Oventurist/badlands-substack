@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton-network, cabal, dynasty, muslim-brotherhood, state-department]
-sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md]
+sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/disinformation-is-necessary.md]
 confidence: medium
 ---
 
@@ -55,3 +55,19 @@ Abedin also figures in the article's account of the secret 2009 mission to [[nor
 2. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 3. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 4. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+
+## The Moloch email
+
+An email exchange between Abedin and [[hillary-clinton|Hillary Clinton]] referencing [[molech|Moloch]] became one of the evidentiary threads of the [[pizzagate|Pizzagate]] controversy.[5] Badlands Media contributor [[simon-esler|Simon Esler]] observed that Moloch is commonly known as an ancient god of [[child-sacrifice|child sacrifice]], and that although some reference sources report scholarly claims that the word denotes the sacrifice itself, the usage in the exchange treats Moloch as a deity to be sacrificed *to*.[5] Esler used the exchange to argue that a wall of manipulated information surrounds evidence connecting elites to a culture of child sacrifice.[5]
+
+5. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+
+## The Weiner laptop emails
+
+When FBI Director [[james-comey|James Comey]] announced he was closing the [[hillary-clinton|Hillary Clinton]] email investigation for a second time days before the 2016 election, he certified to Congress that the bureau had "reviewed all of the communications" discovered on a personal laptop used by Abedin and her husband, [[anthony-weiner|Anthony Weiner]]; Real Clear Investigations reported that virtually none of that account was true.[6] One career FBI special agent involved in the case complained to New York colleagues that officials in Washington had tried to "bury" the new trove, which he believed contained the full archive of Clinton's emails, including long-sought missing messages from her first months at the State Department.[6]
+
+[[joe-lange|Joe Lange]] argues the date range is the significant detail: emails from Clinton's earliest months as Secretary of State would encompass the [[uranium-one-deal|Uranium One]] deal and therefore expose [[robert-mueller|Robert Mueller]]'s role in covering it up as FBI director, giving Comey a personal motive to protect his longtime friend as well as Clinton.[6] The laptop was among the matters overseen by the [[southern-district-of-new-york|SDNY]], and [[rudy-giuliani|Rudy Giuliani]]'s New York law-enforcement relationships are said to have given him access to far more of its contents than was ever disclosed publicly, forming part of his "insurance file."[6]
+
+Q drop 3 (October 29, 2017) ended with the instruction "Follow Huma," which Lange flags as central and connects to a promised future argument linking Abedin, the Podesta brothers and the [[september-11-attacks|September 11 attacks]].[6] Q drop 15 had listed "11.6 - Huma indicted."[6] These claims reflect Badlands Media interpretation rather than established fact.
+
+6. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary

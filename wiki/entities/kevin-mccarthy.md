@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, speaker-of-the-house, republican-party]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f32.md, raw/badlands-news-brief-f94.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-11b.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-72e.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-83d.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-f26.md, raw/badlands-news-brief-f25.md, raw/badlands-news-brief-f32.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-ff6.md]
 confidence: medium
 ---
 
@@ -219,3 +219,9 @@ The remarks were considered significant because, after McCarthy's appearance on 
 
 31. Badlands Brief — "Badlands News Brief: Trump's Strength Grows and Ukraine's Support Slows", URL: https://badlands.substack.com/p/badlands-news-brief-f32
 32. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+
+## Aftermath of the ouster (October 2023)
+
+Following McCarthy's removal as Speaker, Senate Republican Leader [[mitch-mcconnell|Mitch McConnell]] expressed disappointment on the Senate floor, praising McCarthy's persistence: "The Speaker and I worked closely throughout his tenure, but I was particularly struck by his persistence. He literally willed the President of the United States to the negotiating table and kept coming back again and again until he had helped secure the nation's full faith and credit," calling him "a partner I could trust to be honest and candid."[33] Representative [[matt-gaetz|Matt Gaetz]] (R-FL) had launched the effort to oust McCarthy after accusing him of cutting a secret deal with Democrats on Ukraine aid.[33] The vacancy also stalled White House decision-making on a prospective large Ukraine spending package, which officials said would await the election of a new speaker.[33]
+
+33. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6

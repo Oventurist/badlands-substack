@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia, nato, war, foreign-policy]
-sources: [raw/badlands-news-brief-185.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-7bf.md]
+sources: [raw/badlands-news-brief-185.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-7bf.md, raw/dear-america-are-you-ready-to-do.md]
 confidence: medium
 ---
 
@@ -53,3 +53,9 @@ President [[donald-trump|Donald Trump]] and Russian President [[vladimir-putin|V
 2. Badlands Brief — "Badlands News Brief: The Witch Hunt Hits a Few Snags as the Landscape Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-2a0
 3. Badlands Brief — "Badlands News Brief: Biden Does Ukraine, Vax Data & Veritas Shakeup", URL: https://badlands.substack.com/p/badlands-news-brief-4a6
 4. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
+
+## Escalation toward direct US involvement (2022)
+
+By late October 2022 the conflict had, in the view of [[badlands-media|Badlands Media]] commentary, moved toward direct confrontation between the United States and the [[russia|Russian Federation]] following the deployment of the [[101st-airborne-division|101st Airborne Division]] to the border of Russia's newly annexed Ukrainian territories.[5] [[brian-cates|Brian Cates]] warned that inserting US troops into a ground campaign against a Russian military already "blooded" in the Eastern European theater differed fundamentally from earlier campaigns in [[iraq|Iraq]] and [[afghanistan|Afghanistan]], because it risked a direct shooting war with a nuclear power.[5] See [[us-ground-war-over-ukraine-debate|the debate over a US ground war over Ukraine]].[5]
+
+5. Badlands Brief — "Dear America: Are You Ready To Do Your Global Duty And Send Your Child To Die For Ukraine?", URL: https://badlands.substack.com/p/dear-america-are-you-ready-to-do

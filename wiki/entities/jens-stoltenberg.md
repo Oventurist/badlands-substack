@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, norway, ukraine, russia, diplomacy]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e7c.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e7c.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -83,3 +83,9 @@ In an interview published Sunday, September 17, 2023 by Germany's Funke Media Gr
 [[badlands-media|Badlands Media]] commentator [[ryan-delarme|Ryan DeLarme]] argued that when "Deep-State controlled" figures such as Milley and Stoltenberg agree on something it has nothing to do with American interests, citing Raytheon's roughly 40% share-price gain since the start of the Ukraine effort as evidence that the object is producing, selling and using weapons rather than winning.[10]
 
 10. Badlands Brief — "Badlands News Brief: A Fed, a Ukrainian & a DeSimp Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-e7c
+
+## 2023 Bilderberg attendance
+
+NATO Secretary-General Jens Stoltenberg attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal.[11] The Badlands Media article "Dark Equation" listed him among the "illustrious figures" who joined the artificial-intelligence-focused gathering, alongside Ukrainian Foreign Minister [[dmytro-kuleba|Dmytro Kuleba]], Pfizer chief [[albert-bourla|Albert Bourla]] and [[peter-thiel|Peter Thiel]].[11]
+
+11. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

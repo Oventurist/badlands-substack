@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [intelligence, information-warfare, disinformation, deep-state]
-sources: [raw/badlands-news-brief-378.md]
+sources: [raw/badlands-news-brief-378.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ The concept was invoked in January 2024 to frame the anticipated release of [[je
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
+
+## The Canadian mass grave narrative
+
+Badlands Media contributor [[simon-esler|Simon Esler]] applied the concept to the summer 2022 claim by the Canadian government and media to have uncovered mass graves of indigenous children at [[canadian-residential-schools|residential schools]].[2] Alternative Canadian outlets such as *[[the-counter-signal|The Counter Signal]]* debunked the mass grave claim, yet the underlying abuses were real, which raised the question of why the government would perform a limited hangout around the torture of native children.[2] Citing [[kevin-annett|Kevin Annett]]'s *Murder by Decree*, Esler suggested the motive was to conceal [[mk-ultra|MK Ultra]] programs into which the [[royal-canadian-mounted-police|RCMP]] allegedly delivered victims under direction from the [[pentagon|Pentagon]].[2]
+
+2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep

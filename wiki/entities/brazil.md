@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, censorship, judiciary, foreign-policy, free-speech]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-889.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-889.md, raw/brazil-breaking.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ Brazil became the focus of an international free-speech confrontation in August 
 ## References
 1. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 2. Badlands Brief — "Harris Speaks as Law and Order Top the Public Mind", URL: https://badlands.substack.com/p/badlands-news-brief-889
+
+## Disputed 2022 presidential election
+
+Brazil drew intense attention from the American alternative-media community in late 2022, when the [[2022-brazilian-general-election|2022 Brazilian general election]] delivered a declared victory for [[luiz-inacio-lula-da-silva|Luiz Inacio Lula da Silva]] over incumbent [[jair-bolsonaro|Jair Bolsonaro]].[3] Badlands Media described the country as another Christian nationalist nation seemingly having its democratic process subverted by those with the means and the systems to see it done, and reported widespread protests and national tensions following the result.[3] Before the vote, Bolsonaro had said the [[brazilian-armed-forces|Brazilian Armed Forces]] were invited to join in electoral transparency and had concluded that no seal of credibility could be granted to the voting system given its many vulnerabilities, and after it, reports circulated that the military apparatus might enact full-scale audits of recent elections and their underlying systems.[3] The essay argued that Brazil could prove the "first elections domino," with ripple effects felt worldwide and particularly in the United States ahead of its own midterm elections.[3]
+
+3. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking

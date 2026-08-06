@@ -3,8 +3,8 @@ title: Haiti
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
-tags: [haiti, caribbean, gang-violence, foreign-aid]
-sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-a15.md]
+tags: [haiti, caribbean, gang-violence, foreign-aid, occupation, citibank]
+sources: [raw/badlands-news-brief-120.md, raw/badlands-news-brief-743.md, raw/badlands-news-brief-a15.md, raw/friends-in-high-places.md]
 confidence: medium
 ---
 
@@ -38,7 +38,18 @@ By March 2024 armed gangs had taken over much of Port-au-Prince and violence was
 
 On March 13, 2024, at the request of the State Department, US Southern Command deployed the Marine Fleet Anti-terrorism Security Team to reinforce the embassy in Port-au-Prince and to assist in evacuating non-essential American personnel.[3] The Department of Defense simultaneously doubled funding for the Multinational Security Support mission, working with Haitian, Kenyan and other partners to expedite its deployment in support of the Haitian National Police.[3] Badlands writer Burning Bright characterized the situation as a convergence of actual and narrative developments, noting that the Clinton Foundation remained firmly entrenched in public memory regarding Haiti.[3]
 
+## American occupation and Citibank, 1914–1947
+
+Haiti fought and won its freedom from France and became the first black nation to win its freedom, which Joe Lange argues is why it was targeted.[4] In December 1914 eight American Marines walked out of the headquarters of Haiti's national bank with $500,000 in gold packed in wooden boxes, drove the loot by wagon to the shore past American soldiers in civilian clothes, and loaded it onto a waiting gunboat; the gold was in the vault of a Wall Street bank within days.[4]
+
+The operation was a precursor to the full-scale invasion of Haiti the following summer, after which American forces ruled the country by force for 19 years, one of the longest military occupations in American history; even after the soldiers left in 1934, Haiti remained under the control of American financial officers for another 13 years.[4] The United States justified the invasion as a matter of necessity and national security, arguing that some other power would take over if it did not.[4]
+
+New York Times reporting cited in the article found that under heavy pressure from [[national-city-bank|National City Bank]], [[citigroup|Citigroup]]'s predecessor, the Americans elbowed the French aside, dissolved Haiti's parliament at gunpoint — after legislators refused to amend the constitution to allow foreigners to own land — killed thousands of people, controlled Haiti's finances for more than 30 years, and shipped a large portion of its earnings to bankers in New York.[4] United Nations officials determined in 1949 that Haitian farmers often lived on a diet "close to starvation level."[4]
+
+The invasion followed a detailed plan drawn up by the United States Navy the previous year; American soldiers seized the presidential office and the customs houses that handled import and export taxes, and by that fall Haiti had signed a treaty giving the United States full financial control through American "advisers" who oversaw revenue collection and approved or denied expenses.[4] Martial law became the rule of the land, private newspapers were muzzled and journalists jailed.[4] The reconstituted national bank charged the government for every deposit and expense while generating profits for foreign shareholders, and issued a loan on which Haiti received about $9 million but owed nearly $12.3 million in face value.[4] National City Bank told a Senate Finance Committee filing in 1932 that it had secured one of its largest margins during the 1920s from a debt it controlled in Haiti.[4] Lange writes that [[citibank|Citibank]] ruined Haiti, that the country has never recovered, and that the Clintons and [[george-w-bush|George W. Bush]] would later play worse roles still in its history.[4]
+
 ## References
 1. Badlands Brief — "J6 Returns to Headlines as Fear Mars AI and Airplanes", URL: https://badlands.substack.com/p/badlands-news-brief-120
 2. Badlands Brief — "Badlands News Brief: Biden, Bobulinski & Barbecue", URL: https://badlands.substack.com/p/badlands-news-brief-743
 3. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+4. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places

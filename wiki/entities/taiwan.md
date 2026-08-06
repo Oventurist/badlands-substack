@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taiwan, china, geopolitics, maritime-disputes, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ee9.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-323.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ee9.md, raw/brightlands-taiwan-tipping.md]
 confidence: medium
 ---
 
@@ -98,3 +98,12 @@ During the [[2023-macron-state-visit-to-china|2023 Macron state visit to China]]
 In April 2023, following the meeting in California between President [[tsai-ing-wen|Tsai Ing-wen]] and US House Speaker [[kevin-mccarthy|Kevin McCarthy]], China conducted a major show of force in which the [[peoples-liberation-army|PLA]] rehearsed "sealing off" the island; see [[2023-chinese-military-drills-around-taiwan|2023 Chinese military drills around Taiwan]].[13] Reports on Monday, April 10 cited at least 58 aircraft buzzing the island and nine warships approaching its territorial waters, a day after at least 70 Chinese aircraft breached its air defense identification zone and eleven military ships encircled it, including a rare deployment of J-15 fighter jets.[13] State broadcaster CCTV said the drills had "simulated joint precision strikes against key targets on Taiwan island and surrounding waters."[13] French President [[emmanuel-macron|Emmanuel Macron]] argued days later that Europe should avoid being dragged into a China–United States confrontation over Taiwan.[13]
 
 13. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9
+
+
+## Burning Bright's 2022 analysis
+
+In the October 2022 Badlands Media essay "Taiwan Tipping," [[burning-bright|Burning Bright]] rejected the common Western reading of Taiwan as an innocent and democratic bystander on the world stage, describing the island instead as one of a number of strategically significant proxy states for globalist interests ranging from the [[european-union|EU]] to [[nato|NATO]], and as a technological powerhouse supplying the largest companies in the American oligarchy with cheap means of production and labor.[14] He nonetheless argued that Taiwan's standing in the Collective Western Mind as an underdog — matching or exceeding the psychological mapping applied to Ukraine — should not be discounted, since it would be essential to getting mainstream audiences to engage actively with the theater.[14]
+
+The essay noted that many analysts had expected the situation to "go hot" in August 2022 on the back of [[nancy-pelosi|Nancy Pelosi]]'s contentious visit to the island, and that the repeated escalation and de-escalation since then had produced [[narrative-whiplash|Narrative Whiplash]] even among close observers.[14] The author argued that the public came away from those scares believing the ruling powers were incapable of rational decisions and that their attempts to contain the eastern theater might themselves trigger catastrophic consequences.[14] He predicted that if the situation did go kinetic it would mirror the Russia–Ukraine deployment, and that whatever the outcome the [[biden-administration|Biden administration]] would be made to look foolish while [[donald-trump|Donald Trump]] appeared prophetic.[14]
+
+14. Badlands Brief — "Taiwan Tipping: The Curious Case of Intermittent Escalation", URL: https://badlands.substack.com/p/taiwan-tipping

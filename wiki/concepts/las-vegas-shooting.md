@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2017, mass-shooting, saudi-arabia, qanon]
-sources: [raw/arabian-nights.md, raw/badlands-news-brief-9de.md]
+sources: [raw/arabian-nights.md, raw/badlands-news-brief-9de.md, raw/donald-trump-and-george-washington.md]
 confidence: low
 ---
 
@@ -22,6 +22,12 @@ The October 2017 attack, also known as the Route 91 shooting, is described as th
 
 [[ashe-in-america|Ashe in America]] wrote that the [[stephen-paddock|Stephen Paddock]] lone shooter story is "a cover up of epic proportions," pointing to 911 recordings from that night indicating shootings across the Las Vegas strip and a helicopter hijacking, alongside other suppressed evidence.[2] She added that many people investigating the incident subsequently turned up dead or went silent in the days after the tragedy, and urged readers unfamiliar with "the real story" to get up to speed.[2]
 
+## Cited as an unresolved FBI case
+
+In July 2024 [[erik-carlson|Erik Carlson]] used the Las Vegas Massacre of October 2017 as a benchmark for the [[fbi|FBI]]'s selective certainty, noting that the Bureau still had no clarity on the events in Las Vegas years later yet was able to declare within a day that the gunman in the [[attempted-assassination-of-donald-trump-2024|Butler, Pennsylvania attempt on Donald Trump]] had acted alone.[3] Unlike Las Vegas, he predicted, the details of the Butler shooting would not take long to emerge because those responsible were "making it obvious to us."[3]
+
 ## References
+
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
 2. Badlands Brief — "Badlands News Brief: The Establishment Goes Full RICO Against Trump", URL: https://badlands.substack.com/p/badlands-news-brief-9de
+3. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

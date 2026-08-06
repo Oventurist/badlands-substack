@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, space, defense, procurement]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f1d.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f1d.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: medium
 ---
 
@@ -39,3 +39,9 @@ In June 2025 the Space Force was reported to be partnering with [[spacex|SpaceX]
 
 3. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
 4. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+
+## The Softwar thesis (2023)
+
+A Space Force major, Jason P. Lowery, was the author of the thesis published as *Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin*, which an April 2023 Badlands Media essay treated as a serving officer's formal argument that [[bitcoin|Bitcoin]] is a national strategic priority.[5] The essay presented [[softwar|Softwar]] as a war doctrine fought primarily on the digital rather than the physical battlefield, projecting force non-kinetically, and described Bitcoin under that doctrine as a "weapon of peace" against all enemies foreign and domestic — including [[artificial-intelligence|artificial intelligence]].[5] The author regarded the fact that the thesis came from within the Space Force as significant to its credibility, and urged readers to read the book.[5]
+
+5. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital

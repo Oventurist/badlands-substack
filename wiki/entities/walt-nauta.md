@@ -4,13 +4,19 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mar-a-lago, classified-documents, doj, trump]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b02.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
 # Walt Nauta
 
 Walt Nauta is a personal aide to former President [[donald-trump|Donald Trump]] and a co-defendant in the [[justice-department|Justice Department]]'s classified records prosecution of Trump.[1]
+
+## Cooperation reporting, May 2023
+
+Before charges were filed, *The New York Times* reported in May 2023 that federal prosecutors investigating Trump's handling of classified documents had obtained the confidential cooperation of a person who had worked for him at Mar-a-Lago, as part of an intensifying effort to determine whether Trump ordered boxes of sensitive material moved out of a storage room while the government sought their return.[4] Through a wave of new subpoenas and grand jury testimony, the [[department-of-justice|Justice Department]] sought a fuller picture of how the documents were stored, who had access to them, how the Mar-a-Lago security camera system worked, and what Trump told aides and lawyers about the material — with the central question being whether Trump sought to hide documents after a subpoena issued in May 2022 demanded their return.[4]
+
+Badlands commentator [[johnny-q|Johnny Q]] dismissed the reporting as a recycled story dating to October 2022, resurrected to slow Trump's political momentum.[4] He argued that the DOJ had threatened to prosecute Nauta after the aide, who had wanted to plead the Fifth, changed his testimony, and characterized him as a star witness possibly entrapped by [[jack-smith|Special Counsel Jack Smith]]'s team.[4] Johnny Q derided as unbelievable the implied theory that Trump had told "his beverage boy" to move boxes of classified documents, calling the episode another instance of "Get Trumpism" pursued in the absence of real evidence.[4]
 
 ## Superseding indictment
 
@@ -33,3 +39,4 @@ Exactly one week before January 13, 2025, Waltine Nauta and co-defendant [[carlo
 1. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 3. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
+4. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

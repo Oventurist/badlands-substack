@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, big-tech, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f44.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-880.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f76.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fcd.md, raw/dark-equation.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -89,6 +89,14 @@ On February 22, 2024, [[alphabet|Alphabet’s]] Google announced on X that its a
 
 On Monday, August 5, 2024, U.S. District Judge [[amit-mehta|Amit Mehta]] ruled that Google's search engine had been illegally exploiting its dominance to squash competition and stifle innovation, in a decision described as capable of shaking up the internet and hobbling one of the world's best-known companies.[18] Mehta's 277-page opinion concluded that "Google is a monopolist, and it has acted as one to maintain its monopoly," and found that the company "enjoys an 89.2% share of the market for general search services, which increases to 94.9% on mobile devices."[18] The ruling followed a ten-week trial featuring testimony from top executives at Google, Microsoft and Apple, and came three months after closing arguments in the [[justice-department|Justice Department]]'s case.[18] Badlands Media commentary characterised Google's control over information as conferring an advantage over the collective mind with few historical precedents, and judged the ruling "MUCH more than simply a shot across the bow" even if it would not dismantle the company overnight.[18] See [[united-states-v-google-antitrust-trial|United States v. Google]].[18]
 
+## Fusion power purchase (2025)
+
+In June 2025 Google struck a deal to buy 200 megawatts of [[fusion-power|fusion power]] as the company struggled to reach its sustainability goals amid the growing energy demands of artificial intelligence.[19] It announced a partnership with [[commonwealth-fusion-systems|Commonwealth Fusion Systems]] to offtake power from that firm's first commercial plant in Virginia, which is set to bring 400 megawatts online starting in the early 2030s.[19] Michael Terrell, Google's head of advanced energy, wrote that fusion is "clean, abundant and inherently safe," while cautioning that "commercializing fusion is immensely challenging, and success is not guaranteed."[19]
+
+## Alleged CIA origin and foreign installations (Badlands analysis)
+
+Badlands contributor Joe Lange describes Google as a company that was created as a CIA spy operation, and argues that cofounder [[eric-schmidt|Eric Schmidt]] used that relationship to help install [[central-intelligence-agency|CIA]] computer systems abroad — three in [[north-korea|North Korea]] and four in [[armenia|Armenia]].[21] He treats Google search statistics as corroborating evidence, noting that Armenia ranked as the top country in the world for searches on "qanon" and attributing the anomaly to CIA operators using the Armenian machines to wage a narrative war against [[qanon|Q]] and the anon movement rather than to genuine Armenian public interest.[21]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
@@ -125,3 +133,13 @@ On September 2, 2025, District Judge [[amit-mehta|Amit Mehta]] refused to break 
 
 17. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
 18. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+19. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd
+
+## DeepMind, Eric Schmidt and the AI debate
+
+The Badlands Media article "Dark Equation" recounts that Google acquired the UK-based artificial-intelligence research lab [[deepmind|DeepMind]] around the time of the falling-out between [[elon-musk|Elon Musk]] and co-founder [[larry-page|Larry Page]], with Musk saying Google's approach to AI had "great potential for good, but there's also potential for bad."[20] The article also reported that the so-called "Godfather of A.I." quit Google in 2023 so that he could speak openly about the dangers posed by AI-generated deepfakes.[20]
+
+Former Google chief executive [[eric-schmidt|Eric Schmidt]] is described as chairing the [[bilderberg|Bilderberg Group]], heading the [[national-security-commission-on-artificial-intelligence|National Security Commission on Artificial Intelligence]], and funding the salaries of more than two dozen Biden administration employees — a combination [[ryan-delarme|Ryan DeLarme]] cited as reason for concern about the direction of AI policy.[20]
+
+20. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+21. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

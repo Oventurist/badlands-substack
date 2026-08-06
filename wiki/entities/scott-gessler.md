@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colorado, attorney, election-law, fourteenth-amendment, donald-trump]
-sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md]
+sources: [raw/badlands-news-brief-356.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/beyond-absurdity.md]
 confidence: medium
 ---
 
@@ -26,8 +26,13 @@ Gessler represented [[donald-trump|Donald Trump]] at the December 6, 2023 argume
 
 Scott Gessler, representing [[donald-trump|Donald Trump]] in the [[colorado-ballot-disqualification-case|Colorado ballot disqualification case]], argued that a political work product — the [[january-6-committee|January 6 Committee]] report — cannot result in an actionable legal finding of insurrection, especially when accompanied by a Senate acquittal, but did not contest the substance of the report itself.[3] Commentary by [[ashe-in-america|Ashe in America]] questioned whether that approach would suffice to persuade five justices that a finding of insurrection was improper absent due process.[3]
 
+## The riot-versus-insurrection distinction
+
+Arguing for the intervenors at the December 6, 2023 appeal in [[anderson-v-griswold|Anderson v. Griswold]], Gessler maintained that January 6 was more "properly categorized" as "a riot" than an "insurrection."[4] When a justice raised the "sharpened flagpoles" and other "homemade weapons" used at the Capitol, Gessler replied that improvised weaponry was consistent with a riot, whereas a premeditated insurrection intended to take over the government would have been more organized and more intentionally armed; the justice appeared to accept the distinction.[4] Another justice noted that because Gessler had not briefed the court on counter-arguments about the insurrection, there was little basis on which to dispute the district court's ruling — an observation [[ashe-in-america|Ashe in America]] took as implying that Gessler had dropped the ball on the very issue that motivated the intervenors' appeal, and as a possible escape hatch letting the court uphold Judge [[sarah-wallace|Sarah Wallace]]'s decision while blaming the intervenors' legal work.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Kash Unleashed, Zelensky Abandoned & Trump Championed", URL: https://badlands.substack.com/p/badlands-news-brief-356
 2. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 3. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+4. Badlands Media — "Beyond Absurdity", URL: https://badlands.substack.com/p/beyond-absurdity

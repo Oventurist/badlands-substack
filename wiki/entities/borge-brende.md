@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [world-economic-forum, epstein, resignation, norway, davos]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-7c6.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ At the time of [[klaus-schwab|Klaus Schwab]]'s May 2024 step-back from day-to-da
 
 1. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
 2. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+
+## 2023 Bilderberg attendance
+
+As President of the [[world-economic-forum|World Economic Forum]], Børge Brende attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, where artificial intelligence dominated the agenda.[3] [[ryan-delarme|Ryan DeLarme]] listed him among the globalist figures whose presence linked the closed-door [[bilderberg|Bilderberg]] conference to the public-facing Davos agenda.[3]
+
+3. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

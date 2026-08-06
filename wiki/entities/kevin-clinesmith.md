@@ -18,6 +18,10 @@ Badlands Media commentary invoked the Clinesmith case in March 2025 to argue tha
 
 The pairing of the Clinesmith and Epps cases was used to support the argument that Boasberg is "a political animal" whose "bias is on the record," even as the Badlands take stressed that the legal basis of the impeachment rested on the [[alien-enemies-act|Alien Enemies Act]] and presidential authority rather than on judicial bias alone.[1]
 
+## The altered FISA email
+
+"Do You Believe in Coincidences?" recounts that Clinesmith, an [[fbi|FBI]] attorney, admitted to altering an email used in the [[carter-page-fisa-warrants|FISA application]] against [[carter-page|Carter Page]] by inserting the phrase "and not a source," thereby indicating that Page was not a CIA source when in fact he was.[2] The article treats this as knowing falsification and as evidence of an "institutional lack of candor," concluding that [[james-comey|James Comey]]'s entire FISA application and the investigation built on it rested on a lie.[2] The falsification was exposed through the [[john-durham|Durham]] investigation launched by Attorney General [[william-barr|William Barr]].[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Extra-Judicial Judges & Master Manipulating Monsters", URL: https://badlands.substack.com/p/badlands-news-brief-324

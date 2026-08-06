@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [regime-change, propaganda, communism, elections]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md]
 confidence: low
 ---
 
@@ -46,6 +46,10 @@ His account held that American society had been broadly resistant to these effor
 
 Badlands writers argued in July 2024 that the international reaction to Venezuela's disputed presidential election carried "all the hallmarks of a color revolution," pointing to the enthusiasm of established Western institutions for [[nicolas-maduro|Nicolás Maduro]]'s removal and to violent criminal gang leaders posting social media videos proclaiming "power to the people."[7] The commentary held that it could simultaneously be true that large-scale election fraud entering the news cycle is a net positive for narrative seeding and that globalist interests had been moving against Venezuela for years.[7] The coverage was characterised as laying groundwork for the operation to "make its way north" in time for the November U.S. elections, summarised as: "This is a trial run. Exercise discernment."[7]
 
+## Applied to the 2023 French riots
+
+Writing in July 2023 about the [[2023-french-riots|French riots]], [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] argued that "the enemy thrives on chaos, especially when that chaos is kinetic," and stated that while patriots had used game theory and [[fifth-generation-warfare|fifth-generation warfare]] within information warfare, color revolutions are "ALWAYS the work of Globalist power structures."[8] He read the French unrest as a mirror of similar destabilization attempts made in Israel months earlier and as a sign of desperation on the part of those structures.[8]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Badlands Blitz Episode 4: Color Revolutions Come Home to Roost", URL: https://badlands.substack.com/p/badlands-blitz-episode-4
@@ -54,3 +58,4 @@ Badlands writers argued in July 2024 that the international reaction to Venezuel
 5. Badlands Media — "Badlands News Brief: PsyActs, Leakers & Color Revolutions", URL: https://badlands.substack.com/p/badlands-news-brief-6e3
 6. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 7. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
+8. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc

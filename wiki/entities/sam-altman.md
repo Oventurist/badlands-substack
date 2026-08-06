@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [openai, ai, pentagon, surveillance]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-b92.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-news-brief-2cb.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-b92.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -46,6 +46,18 @@ In the weeks leading up to his ouster from [[openai|OpenAI]], Altman was activel
 
 Altman was also seeking money for an AI-focused hardware device he had been developing in tandem with former [[apple|Apple Inc.]] design chief [[jony-ive|Jony Ive]], holding talks about both ventures with [[softbank|SoftBank Group Corp.]], Saudi Arabia's [[public-investment-fund|Public Investment Fund]], [[mubadala-investment-company|Mubadala Investment Company]] and others as he sought tens of billions of dollars for the new companies.[7] Many details of the scale and focus of his chip ambitions, as well as the project's codename, had not previously been reported.[7]
 
+## Senate testimony and AI regulation (May 2023)
+
+Altman testified before a US Senate Judiciary subcommittee in May 2023 regarding the rise of artificial intelligence and its potential to disrupt numerous industries.[8] He stated that "the regulation of A.I. is essential," calling for "appropriate safety requirements, including internal and external testing prior to release," but stopped short of demanding complete government regulation, arguing that governance must be "flexible enough to adapt to new technological developments" while "incentivizing safety while ensuring that people are able to access the technology's benefits."[8] At a related Senate hearing, Senator [[josh-hawley|Josh Hawley]] compared artificial intelligence to the printing press and the nuclear bomb, describing two possible futures: one in which AI empowers humanity, and one marked by a "huge technological breakthrough" with "severe, terrible" consequences.[8]
+
+[[ryan-delarme|Ryan DeLarme]] questioned Altman's motives, noting observers' suspicion that large AI firms fear open-source models and therefore favor licensing schemes that burden open-source developers.[8] DeLarme further speculated that promoting alarm about AI-generated deepfakes could serve as "narrative shielding" against future hard video evidence implicating deep-state figures.[8]
+
+## Bilderberg attendance and Worldcoin
+
+Days after his Senate testimony, Altman attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, where artificial intelligence was the primary topic, joining [[microsoft|Microsoft]]'s [[satya-nadella|Satya Nadella]], [[deepmind|DeepMind]]'s [[demis-hassabis|Demis Hassabis]] and [[bilderberg|Bilderberg]] chair [[eric-schmidt|Eric Schmidt]].[8] DeLarme surmised that Altman's presence at the conference would "bode well for his career and the continued success of [[openai|OpenAI]]."[8]
+
+One day before the congressional testimony, the *Financial Times* reported Altman was close to securing roughly $100 million for [[worldcoin|Worldcoin]], his plan to use iris-scanning technology to create a global cryptocurrency.[8] DeLarme argued this gave Altman a compounding incentive to warn publicly about AI, since the danger narrative both justified licensing barriers against competitors and reinforced the purported need for his biometric currency.[8]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -55,3 +67,4 @@ Altman was also seeking money for an AI-focused hardware device he had been deve
 5. Badlands Brief — "Badlands News Brief: Biden Bills, African Coups & Optics", URL: https://badlands.substack.com/p/badlands-news-brief-2d2
 6. Badlands Brief — "Badlands News Brief: Lindell's Promise & JFK's Legacy", URL: https://badlands.substack.com/p/badlands-news-brief-4ab
 7. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
+8. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

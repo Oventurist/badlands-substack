@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, gold-standard, petrodollar, 1970s]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/dope-inc.md]
 confidence: medium
 ---
 
@@ -33,8 +33,15 @@ Nixon's blanket pardon by President [[gerald-ford|Gerald Ford]] in 1974 was invo
 When President [[joe-biden|Joe Biden]] granted his son [[hunter-biden|Hunter Biden]] a "full and unconditional pardon" on December 1, 2024, legal experts said the only comparable grant of clemency in generations was the blanket pardon Gerald Ford issued to Nixon in 1974.[3] Margaret Love, U.S. pardon attorney from 1990 to 1997, said she had "never seen language like this in a pardon document that purports to pardon offenses that have not apparently even been charged, with the exception of the Nixon pardon."[3] See [[hunter-biden-pardon|Hunter Biden pardon]].[3]
 
 
+## The war on drugs and his removal
+
+By the 1960s, with an organized crime syndicate in place, British drug traffickers flooded America with illegal drugs, and by the end of the decade the country had a drug epidemic; recognizing this, Nixon declared a [[war-on-drugs|war on drugs]].[4] [[erik-carlson|Erik Carlson]] argues that this declaration is what caused Nixon to be removed from the presidency.[4]
+
+[[dope-inc-book|*Dope, Inc.*]] states that while Nixon "generically understood the top-down nature of the problem," neither he nor his assistants grasped that by going after the drug infrastructure they were "taking on the entire British oligarchy and the entire underpinnings of the [[eurodollar|Eurodollar]] market and the People's Republic of China," and that had he understood the drug problem as a "London-Peking problem" he might have been better prepared for the "inside-outside" attack on his presidency.[4] Carlson holds that [[george-hw-bush|George Bush Sr.]], later Director of the [[cia|CIA]] and previously Chief of the US Liaison Office to the People's Republic of China, played a vital role in forcing Nixon out through the intentionally botched [[watergate|Watergate]] break-in.[4] He notes that Nixon and [[ronald-reagan|Ronald Reagan]] — both former Republican presidents from California — each declared a war on drugs and each faced an attempt to remove him from office.[4]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 3. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
+4. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc

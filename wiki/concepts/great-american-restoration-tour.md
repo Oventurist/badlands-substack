@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, events, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-f99.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fbd.md, raw/gart-myrtle-beach-is-almost-here.md]
 confidence: medium
 ---
 
@@ -96,6 +96,10 @@ Following GART 9 in Deadwood, [[badlands-media|Badlands Media]] host Jon recappe
 
 [[burning-bright|Burning Bright]] wrote that the organisation was as firm in its mission as ever coming off the Deadwood stop, thanked attendees for helping accelerate the Great Awakening, and said that while there absolutely is a plan, supporters need not wait for permission to advance it.[22] [[ashe-in-america|Ashe in America]] used the same segment to promote CODEX 9/11, invoking [[operation-northwoods|Operation Northwoods]] and the 2001 roles of James Clapper, John Brennan and Robert Mueller.[22]
 
+## GART 2, Cocoa Beach, September 2023
+
+The July 3, 2023 [[badlands-media|Badlands Media]] news brief promoted the second Great American Restoration Tour event, GART 2, scheduled for September 7–10, 2023 at the Hilton Cocoa Beach Oceanfront in Cocoa Beach, Florida.[24] Billed as a live, ticketed version of the network's programming, the weekend was to feature in-person editions of Badlands shows, live Q&A sessions with Badlands panels, and meet-and-greets with hosts.[24] In-person tickets included a Friday-night welcome reception plus breakfast and lunch through the weekend, with a VIP package adding a kickoff dinner and meet-and-greet; virtual tickets were offered for those unable to attend.[24] Organizers reported that tickets were moving quickly following the success of the first event in Arizona, and that speakers and the itinerary were still to be announced.[24]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Brief — "Shutdown Showcase, Attempted Tariff Takedowns, & the Launch of Mammany Hall", URL: https://badlands.substack.com/p/badlands-news-brief-095
@@ -124,3 +128,22 @@ Following GART 9 in Deadwood, [[badlands-media|Badlands Media]] host Jon recappe
 ## GART 2 promotion (July 2023)
 
 The July 5, 2023 Badlands News Brief promoted the second Great American Restoration Tour event, scheduled for September 7-10, 2023 in Cocoa Beach, Florida at the Hilton Cocoa Beach Oceanfront.[23] The billing promised live, in-person versions of Badlands Media shows, live Q&A sessions with Badlands panels, and meet-and-greets with show hosts throughout the weekend.[23] In-person tickets included a Welcome Reception with [[badlands-media|Badlands Media]] on Friday night and breakfast and lunch all weekend, with attendees encouraged to "level up in the Information War together."[23] The VIP package had already sold out by that point while general admission tickets covering all three days of panels remained available, and virtual tickets to stream the entirety of GART 2 were offered to those unable to attend in person; organizers said tickets were moving fast because of the success of the first event in Arizona, with speakers and itinerary to be announced.[23]
+24. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
+
+## GART 8 in Plymouth (May 2025)
+
+The May 1, 2025 Badlands News Brief announced that the eighth Great American Restoration Tour event was kicking off that week in Plymouth, and that no News Brief would be published the following day or the following Monday because of it.[25] Readers unable to attend in person were directed to a virtual ticket so they could "be a part of the action" and get their fix of [[badlands-media|Badlands Media]] programming during the break in publication.[25]
+
+25. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd
+
+## GART 6 Myrtle Beach announcement (October 2024)
+
+On October 18, 2024, [[badlands-media|Badlands Media]] published a dedicated announcement post declaring that the sixth stop along the Great American Restoration Tour was "almost here," set for Myrtle Beach, South Carolina from November 14 to 17, 2024.[26] The post repeated the tour's standard framing, describing the events as a great opportunity to meet and network with fellow patriots and to create "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place."[26]
+
+Full weekend VIP and General Admission tickets — which included a Friday night welcome reception — had sold out by the time of the announcement, with organizers thanking supporters for their response.[26] A limited number of single-day and discounted combo two-day tickets remained available for locals wanting to attend part of the conversations and festivities, sold through the Badlands TicketSpice page.[26]
+
+Virtual tickets were offered separately for those who had never attended a GART event in person, granting a stream of the entirety of the event including panels on Friday, Saturday and Sunday, plus long-term DVR access to panel replays after the weekend so viewers unable to watch live would not miss out.[26] The virtual pass also carried access to an exclusive GART [[telegram|Telegram]] chat where holders could interact with hundreds of fellow Badlanders and Badlands hosts, see behind-the-scenes photos and videos, and take part in "virtual shenanigans galore."[26]
+
+The announcement noted the timing of the stop relative to a "certain national event" — the November 2024 United States general election, held on November 5 — which organizers said would set up discussion of "all manner of shenanigans … or red wave winnings."[26] A full schedule of panels and activities was promised for later release, alongside a published list of which Badlands contributors would appear in Myrtle Beach or on stream, described as "most of us."[26]
+
+26. Badlands Brief — "GART Myrtle Beach is Almost Here!", URL: https://badlands.substack.com/p/gart-myrtle-beach-is-almost-here

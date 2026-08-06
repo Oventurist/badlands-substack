@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [crypto, fraud, finance, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-b0f.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -30,9 +30,16 @@ On March 28, 2024, founder [[sam-bankman-fried|Sam Bankman-Fried]] was sentenced
 
 On Saturday, July 19, 2025, FTX's native token FTT rose about 43 percent to $1.30 after false reports circulated that founder [[sam-bankman-fried|Sam Bankman-Fried]] had received a pardon from President [[donald-trump|Donald Trump]]; no such grant appeared on the Justice Department's clemency website.[4] Bankman-Fried was pursuing a pardon with support from his parents, Joseph Bankman and Barbara Fried, while serving a 25-year sentence for fraud connected to the exchange's collapse.[4]
 
+## Role in the "Biden, Inc." framing
+
+A December 2024 Badlands feature characterized FTX as a cryptocurrency exchange that funneled money into political campaigns and, in the author's assertion, likely served as a slush fund for the [[deep-state|Deep State]].[5] It claimed that by manipulating decentralized systems, operatives were able to divert funds without oversight, and that the exchange's collapse was less a discrete scandal than "a window into how digital tools are weaponized against the public."[5] The speed with which narratives were spun around the collapse was itself presented as evidence of a diversion from its true purpose.[5]
+
+The article tied FTX to alleged election manipulation in 2020 through the financial networks connected to [[hunter-biden|Hunter Biden]], arguing that decentralized finance, once seen as a tool for liberation, had been hijacked to fund suppression.[5] FTX was also named among the financial networks the author claimed [[executive-order-13818|EO 13818]] could be used to dismantle, alongside BlackRock, State Street, Vanguard, and pre-acquisition Twitter.[5] These claims are interpretive assertions from alternative-media commentary rather than findings of the bankruptcy or criminal proceedings arising from the exchange's collapse.[5]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Resurfacing, the Uniparty & Election Fraud", URL: https://badlands.substack.com/p/badlands-news-brief-252
 2. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
 3. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
 4. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+5. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

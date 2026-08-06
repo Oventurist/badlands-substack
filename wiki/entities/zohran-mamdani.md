@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayor, icc, netanyahu, politics]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ecd.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-a89.md, raw/badlands-brief-8db.md, raw/badlands-brief-e8d.md, raw/badlands-brief.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ecd.md, raw/badlands-news-brief-f6e.md, raw/badlands-news-brief-fc2.md]
 confidence: medium
 ---
 
@@ -143,3 +143,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] warned the meeting coul
 16. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
 17. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd
 18. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+
+## Threat to arrest Netanyahu (December 2025)
+
+As New York mayor, Mamdani repeatedly stated that he would instruct the [[nypd|NYPD]] to arrest Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] if he set foot in New York, citing the [[international-criminal-court|International Criminal Court]] arrest warrant against him.[19] Netanyahu is wanted by the ICC for alleged war crimes and crimes against humanity committed against Palestinians in the Gaza Strip, including the use of starvation as a method of warfare and the targeting of civilians.[19] On 3 December 2025 Netanyahu announced that he still planned to visit New York, dismissing Mamdani's statements about enforcing the warrant and raising the question of whether a U.S. city mayor has authority to arrest a foreign head of state under international law.[19]
+
+Badlands reaction was mixed: [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] answered simply, "Accelerate," while [[chris-paul|Chris Paul]] framed the standoff in his running "Our Boy" bracket as "Our Boy Mom vs Our Boy Yoo-Hoo."[19] [[ashe-in-america|Ashe in America]] dismissed the underlying legal debate, writing that "international law is even faker than regular law."[19]
+
+19. Badlands News Brief — "Redundant Creatives, Gay Frogs in India, & the Battle of the Our Boys", URL: https://badlands.substack.com/p/badlands-news-brief-fc2

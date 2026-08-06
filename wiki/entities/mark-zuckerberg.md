@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [meta, facebook, big-tech, free-speech, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-143.md, raw/badlands-brief-52b.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-713.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f61.md, raw/big-tech-climbing-aboard-the-trump.md]
 confidence: medium
 ---
 
@@ -129,3 +129,9 @@ Zuckerberg personally introduced [[threads|Threads]] in July 2023, writing "Let'
 After [[elon-musk|Elon Musk]] floated an "epic location" in Italy for their long-discussed mixed martial arts bout, Zuckerberg posted on [[threads|Threads]]: "I've been ready to fight since the day Elon challenged me. If he ever agrees on an actual date, you'll hear it from me. Until then, please assume anything he says has not been agreed on."[19] He added that he was "not holding my breath for Elon" and would share details of his next fight when ready, saying that when he competes he wants to spotlight elite athletes by working with professional organizations such as the [[ufc|UFC]] or ONE to "create a great card."[19] Badlands commentator [[ashe-in-america|Ashe in America]] picked Zuckerberg to win on the strength of his training and experience despite Musk's size advantage.[19] See [[musk-zuckerberg-cage-match|Musk–Zuckerberg cage match]].[19]
 
 19. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+
+## Post-assassination-attempt apology to Trump (August 2024)
+
+In an August 2024 Badlands essay on [[big-tech|Big Tech]]'s realignment toward [[donald-trump|Donald Trump]], contributor [[erik-carlson|Erik Carlson]] reported that Trump said Zuckerberg had apologized to him following the failed assassination attempt on Trump's life, and had indicated he would not support a Democrat in the 2024 election.[20] Carlson framed the apology as a test case for whether the movement could "forgive Big Tech," arguing that Zuckerberg had been "hugely responsible" for the outcome of the 2020 election — banning Trump and other conservatives from [[facebook|Facebook]], suppressing discussion of the [[hunter-biden-laptop|Hunter Biden laptop]], and funding election drop boxes in key battleground states.[20] Carlson drew a line at crimes against humanity, human trafficking and child abuse, but suggested lesser corruption might be forgiven where a figure demonstrably changes course.[20]
+
+20. Badlands Brief — "Big Tech Climbing Aboard the Trump Train", URL: https://badlands.substack.com/p/big-tech-climbing-aboard-the-trump

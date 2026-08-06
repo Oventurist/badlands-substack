@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, turkey, syria, lebanon, trump-administration]
-sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-be1.md, raw/badlands-brief-eea.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-58e.md]
+sources: [raw/badlands-brief-0fb.md, raw/badlands-brief-be1.md, raw/badlands-brief-eea.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-fc2.md]
 confidence: medium
 ---
 
@@ -78,3 +78,11 @@ In July 2025, [[syria|Syria]]'s interim government asked [[turkey|Turkey]] for s
 7. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
 8. Badlands Brief — "Mushroom Zombies, Palantir, & Election DAY", URL: https://badlands.substack.com/p/badlands-news-brief-355
 9. Badlands Brief — "Badlands News Brief: Pardon Probes & Russia Gate Redux", URL: https://badlands.substack.com/p/badlands-news-brief-58e
+
+## Doha Forum remarks on Israeli democracy (December 2025)
+
+Speaking on a Sunday evening in December 2025 at the 23rd edition of the annual [[doha-forum|Doha Forum]] in Qatar's capital, U.S. Special Envoy to Syria Barrack appeared to suggest that Israel is not a democracy.[10] "We have never had a democracy in [the Middle East]...I don't see a democracy," Barrack said, adding that "Israel can claim it is a democracy, but in this region, what's worked the best, whether you like it or you do not like it, is a benevolent monarchy."[10]
+
+Barrack took part in a Doha Forum panel on Syria alongside Damascus' foreign minister Asaad Hassan al-Shaibani, Qatari state minister Mohammed bin Abdulaziz Al-Khulaifi, and Norwegian foreign minister Espen Barth Eide, and argued that Syria must define its own future "without going in with Western expectations of, 'we want a democracy in 12 months.'"[10] He separately warned Baghdad not to involve itself in Israel's war against Hezbollah, telling officials the country could face Israeli strikes if it or Iran-backed militias there intervened, according to the Saudi state-run Al Hadath outlet.[10] Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] noted that [[mark-levin|Mark Levin]] reacted angrily to the remarks.[10]
+
+10. Badlands News Brief — "Redundant Creatives, Gay Frogs in India, & the Battle of the Our Boys", URL: https://badlands.substack.com/p/badlands-news-brief-fc2

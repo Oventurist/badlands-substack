@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [dei, corporate-policy, florida, disney]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-bed.md, raw/badlands-news-brief-d50.md, raw/death-to-dei.md]
 confidence: medium
 ---
 
@@ -58,6 +58,14 @@ By August 2024 the anti-woke campaign waged by commentator and filmmaker [[robby
 
 [[ashe-in-america|Ashe in America]] framed DEI as, after climate policy, one of globalism's most powerful munitions - a form of "weaponized empathy" - and cited a March 2024 Rasmussen survey finding that just 25% of American adults think DEI programs make companies better, arguing that the more Americans learn about DEI the more they reject it.[7] The commentary held that both major parties propagate globalism and demonize nationalism, that more than 30% of Americans reject the two-party construct by identifying as independent or third party, and that consumer pressure had shown "the customer is, actually, always right."[7]
 
+## "Death to DEI" critique
+
+In a March 2025 essay, Badlands contributor [[erik-carlson|Erik Carlson]] argued that the people who create, promote and fund DEI — along with [[black-lives-matter|BLM]], climate and LGBTQ+ agendas — do not share the goals or values of the rank-and-file supporters who adhere to them in good faith.[8] He described DEI as, above all, a laundering channel: as [[doge|DOGE]] examined federal spending records it found what he characterized as massive corruption and waste running through DEI programs, citing programs supporting trans and LGBTQ+ acceptance in Muslim countries and funding drag-show workshops in South America, and asking whether such programs are actually funded at all or whether the money is diverted back to corrupt American politicians and their financial backers.[8]
+
+Carlson called DEI "Affirmative Action on steroids," tracing it to the [[affirmative-action|affirmative action]] executive order signed by [[lyndon-b-johnson|Lyndon B. Johnson]] in 1965, which he argued was itself designed to create hate, doubt and division.[8] He wrote that DEI is "designed to cause hate from the people who lose out on getting a job or a promotion because that job goes to someone who is less qualified, but fits the DEI agenda," and that one of its hidden goals is to convince recipients that they are inadequate and cannot compete without a tilted playing field — "designed to sow hate AND doubt."[8]
+
+He further argued that DEI "intentionally sets people up to fail," comparing the practice to sending a soldier to war unprepared and unarmed or putting a six-year-old behind the wheel of a car, and asked what could be more hateful than subjecting someone to the ridicule that follows an engineered failure.[8] Placing DEI alongside the [[transgender-movement|Trans Movement]], [[climate-change-narrative|climate change]] and abortion as pillars of the [[democratic-party|Democrat Party]], he described the whole complex as tools of the [[deep-state|Deep State Cabal]] used to launder money, maintain control through fear, and advance an elite agenda of population control.[8] Carlson concluded that [[donald-trump|Donald Trump]] is systematically removing these "tools of torture, humiliation and destruction," that "DEI must DIE, and it is dying," and that the exposure of DEI is itself being used to take down the Cabal — "what poetic justice."[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
@@ -66,3 +74,4 @@ By August 2024 the anti-woke campaign waged by commentator and filmmaker [[robby
 5. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 6. Badlands Brief — "Badlands News Brief: Immigration Dominates Headlines as Devo Proofs Abound", URL: https://badlands.substack.com/p/badlands-news-brief-bed
 7. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+8. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei

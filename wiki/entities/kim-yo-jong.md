@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, diplomacy, russia, kim-family]
-sources: [raw/badlands-news-brief-125.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-ffa.md]
 confidence: medium
 ---
 
@@ -18,6 +18,13 @@ Kim Yo Jong featured in Badlands Media's coverage of the deepening relationship 
 
 Badlands described Kim Yo Jong as her brother's powerful sister, treating her statements as authoritative expressions of the North Korean leadership's posture rather than as ceremonial commentary.[1] Her remarks came in the run-up to Putin's announced two-day state visit to [[north-korea|North Korea]] in June 2024, his first trip to the country in 24 years.[1]
 
+## Denuclearization remarks (July 2025)
+
+In remarks carried by North Korean state media at the end of July 2025, Kim Yo Jong — described as the powerful sister of [[kim-jong-un|Kim Jong Un]] — said that relations between President [[donald-trump|Donald Trump]] and her brother are "not bad," while warning that any attempt to pressure North Korea into abandoning its nuclear arsenal would be viewed as "nothing but a mockery."[2] The [[white-house|White House]] responded that Trump held three historic summits with Kim in his first term that "stabilized the Korean Peninsula" and produced the first leader-level agreement on denuclearization, and that "the President retains those objectives and remains open to engaging with Leader Kim to achieve a fully de-nuclearized North Korea."[2]
+
+Badlands contributor Chris Paul noted the timing, coming one day after a trade deal with South Korea, and framed the exchange as part of the unwinding of South Korea's status as what he characterized as a regime proxy state and site of US military occupation in the 66 years since the Korean War's nominal end.[2]
+
 ## References
 
 1. Badlands News Brief — "Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
+2. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa

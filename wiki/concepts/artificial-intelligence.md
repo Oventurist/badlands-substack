@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [artificial-intelligence, technology, singularity, censorship, globalism]
-sources: [raw/artificial-intelligence.md, raw/badlands-brief-f62.md]
+sources: [raw/artificial-intelligence.md, raw/badlands-brief-f62.md, raw/dark-equation.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: medium
 ---
 
@@ -54,6 +54,24 @@ Badlands contributor [[ashe-in-america|Ashe in America]] described tension betwe
 
 Her proposed remedy was not government-funded universal basic income but genuine ownership of personal data: AI tools require human data to function, and AI companies obtain that data — "the most valuable asset in the so-called value exchange" — for free by exploiting terms and conditions.[2] Requiring companies to pay users would slow AI execution and speed to market, increase costs on AI companies, create liability and penalties for exploitation, create human jobs and possibly new industries, and compensate people properly.[2] She cited video game developer Patrick Stafford's 2019 warning that behavioral gameplay data can be combined into robust personal profiles that privacy experts fear may be used "in sinister ways we can't expect," and called for a "Data Bill of Rights, with teeth," restricting infringement by both technology companies and the U.S. government — adding that even that would only be a start, and that "the only solution" ultimately is real human elections.[2]
 
+## The 2023 regulation debate and "Dark Equation"
+
+Writing in May 2023, [[ryan-delarme|Ryan DeLarme]] surveyed the conflicting public positions on artificial intelligence — that it will solve all problems, that machines can never truly become sentient, that it will usher in a totalitarian dystopia, or that, as with any tool, everything depends on how it is used — and confined his own analysis to AI's application to social engineering, governance, surveillance and "cultural hypnosis."[3] He noted the surge in popularity of [[openai|OpenAI]]'s [[chatgpt|ChatGPT]] and the fact that AI systems were generating art and photography that beat lifelong practitioners in competition.[3]
+
+[[sam-altman|Sam Altman]]'s Senate Judiciary subcommittee testimony calling AI regulation "essential" was accompanied by the resignation of the so-called "Godfather of A.I." from [[google|Google]] so that he could speak openly about the dangers of AI-generated deepfakes.[3] Senator [[josh-hawley|Josh Hawley]] likened the technology to the printing press and the nuclear bomb, warning of either an empowering future or a "huge technological breakthrough" with "severe, terrible" consequences.[3] DeLarme raised two suspicions about the regulatory push: that incumbent firms fear open-source models and want licensing burdens placed on their creators, and that popularizing deepfake alarm could provide "narrative shielding" against future authentic video evidence implicating deep-state figures.[3]
+
+The article situated these developments alongside [[elon-musk|Elon Musk]]'s warnings about [[artificial-super-intelligence|Artificial Super Intelligence]], the AI-focused [[2023-bilderberg-meeting|2023 Bilderberg meeting]], [[eric-schmidt|Eric Schmidt]]'s leadership of the [[national-security-commission-on-artificial-intelligence|National Security Commission on Artificial Intelligence]], and Altman's [[worldcoin|Worldcoin]] biometric identity venture, presenting AI governance as inseparable from an agenda of biometric digital identity and digital currency.[3]
+
 ## References
 1. Badlands Brief — "Artificial Intelligence", URL: https://badlands.substack.com/p/artificial-intelligence
 2. Badlands Brief — "Sovereign Signals, Israeli Subversion, and the SAVE America Ultimatum", URL: https://badlands.substack.com/p/badlands-brief-f62
+3. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+4. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+
+## AI-generated data as a system-level hazard (April 2023)
+
+An April 2023 essay by [[patriots-in-progress|Patriots in Progress]], written from the perspective of an aerospace system safety engineer, framed AI as one of several converging exponential technologies — alongside blockchains, virtual reality, 3D printing, big data, the internet of things and autonomous robotics — and applied formal hazard analysis to it.[4] The specific hazard identified was AI's increasing ability to produce life-like text, audio and video at ever greater scale, and the resulting threat to humanity's ability to distinguish what really happened from AI-generated fantasy.[4] In the worst case, the author warned, the result would be "a false reality no one created that no one weaponized against us."[4]
+
+The essay drew on Jeff Booth's book *The Price of Tomorrow* for the claim that Moore's law-style doubling produces exponential rates of change with small early effects and large late ones, quoting Booth's observation that "the explosion in knowledge and positive feedback loop from learning is accelerating to the point that we are finding it hard to keep up with the changes."[4] It cited the launch of [[openai|OpenAI]]'s [[chatgpt|ChatGPT]], and an episode in which Major Jason Lowery, [[preston-pysh|Preston Pysh]] and an AI voice tool jointly produced a summary of [[softwar|Softwar]] delivered in the voice and style of comedian Kevin Hart although no human wrote or spoke the words.[4]
+
+The author argued the danger is not that digital forensics will be unavailable but that, absent an explicit and easy-to-execute verification process, the public will capitulate to "the sea of infinite opportunity of convenience and fantasy" — noting that basic human-generated scams such as the long-running "Nigerian prince" email fraud still cost Americans hundreds of thousands of dollars a year.[4] He connected the hazard to [[fifth-generation-warfare|fifth-generation warfare]] and AI-enabled psychological operations, and pointed to BlackRock's Aladdin system as evidence of how long AI tools have been operating and how much control they have already accumulated.[4] His proposed mitigation was to impose "severe physical costs" on AI-generated data via [[bitcoin|Bitcoin]] micro-transactions.[4]

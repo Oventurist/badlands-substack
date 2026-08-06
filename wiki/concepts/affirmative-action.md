@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [affirmative-action, supreme-court, education, civil-rights]
-sources: [raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f99.md]
+sources: [raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fbc.md, raw/death-to-dei.md]
 confidence: high
 ---
 
@@ -40,7 +40,17 @@ An ABC News/Ipsos poll conducted using Ipsos' KnowledgePanel found that a majori
 
 Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] placed the ruling inside a "War of Stories" framing, noting that while it made surface-level sense for the Court to issue the decision before its summer recess, the timing echoed the release of the [[roe-v-wade|Roe v. Wade]] reversal the previous June, which had arrived just before Independence Day and given a weary MAGA movement a needed boost. After two [[donald-trump|Trump]] indictments and much else, he argued, the movement had received another significant win just before the Fourth of July, which he speculated might be a teaser for [[agenda-47|Agenda 47]].[1]
 
+## June 2023 Supreme Court ruling and Badlands reaction
+
+In the closing days of its June 2023 term the [[supreme-court-of-the-united-states|Supreme Court]] struck down affirmative action in college admissions as part of a batch of rulings that also decided [[303-creative-llc-v-elenis|303 Creative LLC v. Elenis]] and invalidated [[joe-biden|Joe Biden]]'s student loan relief program.[3] Rep. [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] described the rulings collectively as signaling "a dangerous creep towards authoritarianism and centralization of power in the court."[3] Badlands writer [[burning-bright|Burning Bright]] counted the affirmative-action decision among a run of losses for what he termed the American Marxist Deep State, alongside [[roe-v-wade|Roe v. Wade]], constitutional carry, federal student debt forgiveness, and compelled LGBT messaging in business.[3]
+
+## Origins and Badlands critique
+
+Affirmative action went into effect through an executive order signed by President [[lyndon-b-johnson|Lyndon B. Johnson]] in 1965.[4] Badlands contributor [[erik-carlson|Erik Carlson]] argued that Johnson "may be the most racist president America has ever known, at least in modern times," and that affirmative action was never intended to help black Americans but was "designed to create hate, doubt and division."[4] Carlson described modern [[diversity-equity-and-inclusion|DEI]] as "Affirmative Action on steroids," extending the same alleged design of engineered resentment and self-doubt into the present.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
 2. Badlands Brief — "Badlands News Brief: MAGA Rises as the Regime Falls", URL: https://badlands.substack.com/p/badlands-news-brief-f99
+3. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
+4. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei

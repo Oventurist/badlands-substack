@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [child-protection, united-nations, grooming, culture-war]
-sources: [raw/badlands-news-brief-7e6.md]
+sources: [raw/badlands-news-brief-7e6.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
 confidence: low
 ---
 
@@ -25,3 +25,11 @@ Deschamps expressed skepticism that the effort would ultimately succeed, given w
 ## References
 
 1. Badlands Brief — "GART is Here! Plus, Exposure & Disclosure Abound", URL: https://badlands.substack.com/p/badlands-news-brief-7e6
+
+## The child sacrifice framing
+
+In March 2024, Badlands Media contributor [[simon-esler|Simon Esler]] argued that the normalization of pedophilia should be understood as part of a longer historical pattern of elite [[child-sacrifice|child sacrifice]], drawing on archaeological evidence from [[carthage|Carthage]] showing that ritual killing of children began among the elite class and was gradually "democratized" into the wider population.[2] He contended that today's cultural powerhouses — citing [[balenciaga|Balenciaga]]'s "Baalenciaga" prop invoking [[baal|Baal]] — are echoing that process, while a shadow government runs psychological operations to hide evidence that child sacrifice is common among the elite.[2]
+
+Esler further argued that the sextortion operations attributed to [[jeffrey-epstein|Jeffrey Epstein]], [[harvey-weinstein|Harvey Weinstein]] and [[sean-combs|Sean Combs]] show cultural institutions habitually sacrificing the innocence of minors, and that campaigners may be better served exposing visible cultural changes than attempting to prove literal Satanic killings to a mind-controlled public.[2]
+
+2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep

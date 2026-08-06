@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fundraising, clinton-administration, democratic-party, 1996-campaign]
-sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a40.md]
+sources: [raw/america-for-sale-part-1.md, raw/badlands-brief-245.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-fa1.md, raw/bernie-sanders-establishment-tool.md]
 confidence: medium
 ---
 
@@ -57,7 +57,20 @@ By June 2025, months into the tenure of new chair [[ken-martin|Ken Martin]], the
 
 Internally, a protracted public fight with vice chair [[david-hogg|David Hogg]] — who blindsided officials with a plan to challenge incumbent Democrats — included the leak of embarrassing audio of Martin questioning his own role and ended with Hogg's exit in June 2025.[10] Martin also declined to renew the Rules and Bylaws Committee assignments of labor leaders [[randi-weingarten|Randi Weingarten]] and [[lee-saunders|Lee Saunders]], whose unions represent a combined 3.2 million workers; both subsequently left the DNC questioning its direction.[10] Badlands writer [[ashe-in-america|Ashe in America]] argued the collapse in donor money exposed the extent to which the party's apparent popular support had been astroturfed through NGO and campaign-finance laundering channels, citing the [[usaid|USAID]] scandals and the [[actblue|ActBlue]] allegations.[10]
 
+## 2025 vice chair election redo
+
+In June 2025 DNC members voted 294–99 to redo the committee's vice chair election, teeing up two separate votes for the positions held by [[david-hogg|David Hogg]] and Pennsylvania state Representative [[malcolm-kenyatta|Malcolm Kenyatta]].[11] Oklahoma DNC member [[kalyn-free|Kalyn Free]], who had run for a vice chair position and lost, filed the challenge in late February, alleging that the way the vice chair election was conducted unfairly gave male candidates an advantage over the female candidates.[11] The DNC Credentials Committee determined in May that it would move forward with the challenge and put the matter to the full committee.[11]
+
+The remedy adopted was two separate virtual votes: one running June 12 to 14 for a male vice chair ballot, and another running June 15 to 17 open to candidates of any gender.[11] Hogg announced through his Leaders We Deserve group that he would forgo a run for his DNC spot.[11] Badlands writer [[ashe-in-america|Ashe in America]] called the participants "election deniers" and argued that holding a new election to appease a losing candidate's claim of systemic misogyny was "just plain sad," while [[jon-herold|Jon Herold]] quipped that "the DNC is attempting to abort David Hogg."[11]
+
+## 2016 rigging of the primaries against Bernie Sanders
+
+A 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] described the DNC's conduct in the 2016 presidential primaries as the decisive test of whether the Democratic Party contained any genuine anti-establishment faction.[12] The committee, firmly behind [[hillary-clinton|Hillary Clinton]], rigged the primaries against [[bernie-sanders|Bernie Sanders]], who then retreated rather than press the fight, to the dismay of many of his supporters.[12] The essay noted that the rigging was documented not only by outside critics but by Donna Brazile — described as about as establishment a Democrat as one can find — who detailed it in one of her books, as reported by [[vanity-fair|Vanity Fair]].[12] Asked in that period by Chuck Todd whether his fellow Democrats had been fair to him, Sanders answered: "No... Look, we're taking on the establishment. That's pretty clear."[12]
+
+[[wikileaks|WikiLeaks]] published nearly 20,000 emails sent or received by a handful of top DNC committee officials and provided an online tool for searching them.[12] WikiLeaks did not identify its source, but the essay stated it is widely believed to have been disillusioned DNC staffer [[seth-rich|Seth Rich]], who was killed shortly after the leak; WikiLeaks founder [[julian-assange|Julian Assange]] appeared to suggest Rich was murdered for his role in it, and a sustained shame campaign has since been directed at anyone alleging foul play.[12] The essay's central charge was that the same party that speaks constantly of "threats to our democracy" rigged its own nominating system so that its preferred candidate would defeat the people's candidate.[12]
+
 ## References
+
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
 3. Badlands Brief — "The Never-Ending, "Very Complete," Bicameral War", URL: https://badlands.substack.com/p/badlands-brief-fcb
@@ -68,3 +81,5 @@ Internally, a protracted public fight with vice chair [[david-hogg|David Hogg]] 
 8. Badlands Brief — "Badlands News Brief: Gheyliens, Ukrainian Nazis & Post Office Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-423
 9. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 10. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+11. Badlands Brief — "Badlands News Brief: Evacuations, Election Theft, & Eternal War", URL: https://badlands.substack.com/p/badlands-news-brief-fa1
+12. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool

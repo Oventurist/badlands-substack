@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, epstein-files, oversight]
-sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e39.md]
+sources: [raw/badlands-brief-314.md, raw/badlands-news-brief-4d9.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -49,3 +49,9 @@ Two deadlines for the relevant memoranda of understanding — one with the [[gen
 At a House Oversight and Accountability Committee hearing on Wednesday, January 17, 2024, Raskin claimed that Republicans were blocking a potential Senate border bill on "orders from" former President [[donald-trump|Donald Trump]].[6] "Rather than joining Democrats and Biden in good faith, bipartisan negotiations to make progress on immigration, they are taking orders from Donald Trump and actively obstructing a bipartisan border deal," he said.[6]
 
 Speaker [[mike-johnson|Mike Johnson]] had reportedly said days earlier that he would "absolutely not" accept the package, signaling that any eventual Senate border deal would be dead on arrival in the House, though Republican senators were reported to be unconcerned by his refusal.[6] Because border security was Trump's signature issue and his support in the House continued to grow, strategists doubted he would bless a deal with the White House during the primary season.[6]
+
+## Treasury request on Republican fundraising platforms (May 2025)
+
+In May 2025 Raskin, as the top Democrat on the House Judiciary Committee, joined [[joe-morelle|Joe Morelle]] and [[gerald-connolly|Gerald Connolly]] in asking the [[us-department-of-the-treasury|Treasury Department]] to produce evidence of suspicious transactions tied to Republican and Trump-aligned fundraising platforms, including [[winred|WinRed]] and the Musk-affiliated [[america-pac|America PAC]].[7] The request for "suspicious activity reports" was a direct response to the Republican campaign against [[actblue|ActBlue]] over allegations of illegal foreign donations, part of an escalating fight over each party's small-dollar fundraising engine.[7]
+
+7. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

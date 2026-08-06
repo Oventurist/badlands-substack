@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, lawfare, elections, coup, judiciary]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-f14.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-f14.md, raw/brazil-breaking.md]
 confidence: medium
 ---
 
@@ -49,3 +49,11 @@ On Thursday, November 21, 2024, Brazilian federal police indicted Bolsonaro alon
 On Saturday, September 7, 2024 — Brazil's Independence Day — Bolsonaro led a mass demonstration against the government's censorship campaign directed at [[elon-musk|Elon Musk]]'s [[x-corp|X]] platform, as thousands of Brazilians filled city streets.[5] Addressing Supreme Court Justice [[alexandre-de-moraes|Alexandre de Moraes]], Bolsonaro said: "I hope that the Federal Senate puts the brakes on Alexandre de Moraes, this dictator who does more harm to Brazil than Luiz Inacio Lula da Silva himself."[5] Notable X accounts, including journalist [[michael-shellenberger|Michael Shellenberger]], reported from São Paulo's main boulevard, where tens of thousands gathered in opposition to President [[luiz-inacio-lula-da-silva|Luiz Inácio Lula da Silva]] and to Moraes's nationwide block of X.[5]
 
 Badlands contributor GhostofBasedPatrickHenry noted that corporate media had simply omitted the demonstration from reported reality, arguing that outlets serve masters who forbid coverage of subjects threatening the constructed narrative.[5] The commentary further suggested that Bolsonaro's departure from office was as strategic as [[donald-trump|Donald Trump]]'s, allowing both to play the part of resistance leaders against the established order, alongside Musk's acquisition of Twitter and his emergence as figurehead of the free speech movement.[5]
+
+## 2022 election and the armed forces (November 2022)
+
+Badlands Media's November 1, 2022 essay "Brazil Breaking" examined Bolsonaro's defeat in the [[2022-brazilian-general-election|2022 Brazilian general election]] by [[luiz-inacio-lula-da-silva|Luiz Inacio Lula da Silva]], arguing that despite record turnouts and the elimination of his intra-party competition in the October first round, the incumbent had been placed on the "losing" end of the vote.[6] In a pre-election interview with the [[daily-wire|Daily Wire]], Bolsonaro said that what made him more confident about the ongoing elections was that the [[brazilian-armed-forces|armed forces in Brazil]] had been invited to join in electoral transparency, and that the military had told him it was impossible to grant a seal of credibility or reliability to the voting system given its many vulnerabilities.[6] The Badlands author read these remarks as Bolsonaro publicly projecting both the engineered corruption of the electoral systems and the military's active monitoring of them heading into the vote.[6]
+
+In the same interview Bolsonaro described breaking with the practice by which presidents accepted top-down impositions from political parties in staffing their cabinets, saying he personally appointed his ministers, one third of them members of the military and another third civilian professionals keenly aware of their responsibilities.[6] The essay treated this pattern as linking Bolsonaro to [[donald-trump|Donald Trump]], [[vladimir-putin|Vladimir Putin]] and possibly [[xi-jinping|Xi Jinping]] as populist leaders installing mixed military-civilian leadership and, in at least two cases, publicly disputing contentious election results — evidence, perhaps, of an emerging [[sovereign-alliance|Sovereign Alliance]].[6] It also noted [[jon-herold|Jon Herold]]'s observation that Bolsonaro's alliance with the military on the eve of the election recalled draft executive orders prepared but never actioned by Trump, suggesting Brazil could serve as a legal and narrative template for later American operations.[6]
+
+6. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking

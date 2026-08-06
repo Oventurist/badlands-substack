@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brands, brewing, boycott, marketing, culture-war]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e86.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e86.md, raw/control-through-language.md]
 confidence: medium
 ---
 
@@ -56,6 +56,13 @@ Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]]
 
 After months in which the political right and much of the [[ufc|UFC]]'s audience "pulverized" the brand over a promotion featuring a transgender influencer, Bud Light returned as the UFC's official beer sponsor in a reported nine-figure deal completed in the autumn of 2023, reviving an affiliation dating back more than fifteen years.[9] UFC chief executive [[dana-white|Dana White]] defended parent company [[anheuser-busch|Anheuser-Busch]] publicly in conservative media and privately helped broker a détente, including a "great conversation" between [[kid-rock|Kid Rock]] and Anheuser-Busch's chief executive in his green room at Madison Square Garden in November 2023.[9] The boycott was soon off, and after a February 2024 phone call from White, final holdout [[donald-trump|Donald Trump]] suggested on social media that the company deserved "a second chance."[9]
 
+
+## Erik Carlson on the boycott’s casualties (February 2024)
+
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] revisited the boycott to argue that although Budweiser lost billions in sales and stock price, the people really hurt were the average, hardworking employees in Budweiser's factories, warehouses and delivery fleets.[11] He wrote that those brought in to raise the company's DEI compliance to WEF standards cared nothing for the company or its employees, walked away from "the scene of the accident they caused," and were paid well for what he called intentionally destructive efforts.[11]
+
+Carlson maintained the trans advertising campaign was deliberate rather than a blunder — "they aren't really that stupid" — and that destroying an American brand Americans identify with, and the American economy with it, was the goal.[11] While saying he was not telling anyone to support a company pushing such messaging, he cautioned that consumers boycotting American firms may be unwittingly carrying out the [[cabal|Cabal]]'s will, since foreign competitors pick up the lost business.[11]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "Badlands News Brief: Hunters Hunted, Gender Confusion & the Spiritual War", URL: https://badlands.substack.com/p/badlands-news-brief-13b
@@ -79,3 +86,4 @@ By mid-May 2023 the backlash against Bud Light showed no sign of abating and had
 Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that the contagion illustrated a larger point: that nearly every major corporation is in some way compelled or willing to participate in what he called the globalist agenda through [[esg|ESG]] or [[diversity-equity-and-inclusion|DEI]] initiatives, so that boycotting one or two companies is insufficient.[10] In his reading, profit is a bonus rather than the objective for such actors — corporations burn money to advance the agenda because the aim is control and indoctrination rather than wokeness as such — and the remedy is to build a fully functional and superior [[parallel-economy|parallel economy]], redirecting spending toward America-first businesses as the existing system implodes.[10]
 
 10. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
+11. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

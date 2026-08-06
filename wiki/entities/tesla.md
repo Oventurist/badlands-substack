@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, artificial-intelligence, semiconductors, electric-vehicles, elon-musk]
-sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-b2b.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f6e.md, raw/energy-consolidation.md]
 confidence: medium
 ---
 
@@ -100,3 +100,6 @@ On the analyst side, Tesla (TSLA) absorbed three new price-target cuts as firms 
 Soros Fund Management's first-quarter 2023 holdings report with the Securities and Exchange Commission, filed in May, revealed that the firm no longer held any Tesla stock, having previously owned roughly 130,000 shares along with some call options.[14] Barron's, cited by [[breitbart|Breitbart]], noted that while sales by prominent investors can move share prices, the disclosure had little effect: Tesla traded up about 0.4 percent premarket and roughly one percent in morning trading, even as S&P 500 futures fell 0.2 percent.[14] The divestment coincided with [[elon-musk|Elon Musk]]'s public assertion that [[george-soros|George Soros]] "hates humanity."[14]
 14. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
 15. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+## Share price in the energy consolidation argument (2023)
+In a May 15, 2023 Badlands Media essay on [[energy-consolidation|energy consolidation]], contributor [[erik-carlson|Erik Carlson]] used Tesla as the first of five electric car companies he listed from memory to test whether the [[joe-biden|Biden]] administration's climate agenda had rewarded the EV sector.[16] He reported Tesla down 42 percent between the January 20, 2021 inauguration and the time of writing — the smallest decline in his EV sample, which also included [[nikola|Nikola]], [[rivian|Rivian]], [[polestar|Polestar]] and [[nio|Nio]].[16] Carlson argued that a sector supposedly favored by policy should have appreciated, and that the uniform collapse indicated the stated rationale for those policies was not the real one.[16]
+16. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation

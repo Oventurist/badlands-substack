@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, blackrock, davos, artificial-intelligence]
-sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md]
 confidence: medium
 ---
 
@@ -41,6 +41,12 @@ Fink, as chief executive of [[blackrock|BlackRock]] and described as a longtime 
 
 Speaking to Bloomberg TV at the [[world-economic-forum|World Economic Forum]] in Davos on January 17, 2023, Fink said of [[esg|ESG]] investing: "Let's be clear, the narrative is ugly, the narrative is creating this huge polarization."[5] He added that [[blackrock|BlackRock]] was "trying to address the misconceptions," that it was hard "because it's not business any more, they're doing it in a personal way," and that for the first time in his professional career "attacks are now personal" with critics trying to "demonize the issues."[5] [[ryan-delarme|Ryan DeLarme]] characterized ESG in the [[badlands-news-brief|Badlands News Brief]] as a China-inspired scoring system — a social credit system for corporations measuring adherence to globalist agendas rather than obedience to the CCP — and noted that independent media outlets and America First politicians had spent the previous year attacking the concept.[5]
 
+## Net-zero advocacy and elite memberships (2023 profile)
+
+A January 2023 Badlands Media feature by [[ryan-delarme|Ryan DeLarme]] described Fink as BlackRock's founder, chief executive and figurehead, and as a member of both the [[world-economic-forum|World Economic Forum]] and the [[council-on-foreign-relations|Council on Foreign Relations]], which the article characterizes as the clandestine think tank of the ruling elite.[6] DeLarme argues that both organizations have made it abundantly clear their goal is to create a [[one-world-government|one-world government]] by any means necessary.[6]
+
+The profile cites Fink's op-ed in _The New York Times_ arguing that "rich countries must put more taxpayer money to work in driving the net-zero transition abroad" and that "[a]chieving the net-zero transition" by 2050 "will require unprecedented levels of investment in technology and infrastructure."[6] DeLarme treats this as evidence that [[blackrock|BlackRock]] under Fink has no reservations about using its shareholder power to promote left-wing political priorities, pointing to the firm's opposition to the re-election of 800 company directors in the third quarter of 2021 and its board intervention at [[exxonmobil|Exxon]], after which the company dropped several drilling projects.[6]
+
 ## References
 
 1. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
@@ -48,3 +54,4 @@ Speaking to Bloomberg TV at the [[world-economic-forum|World Economic Forum]] in
 3. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 4. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 5. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+6. Badlands Brief — "BlackRock, Inc. And the Vanguard Group", URL: https://badlands.substack.com/p/blackrock-inc-and-the-vanguard-group

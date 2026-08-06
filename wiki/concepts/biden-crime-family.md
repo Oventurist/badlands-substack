@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [corruption, biden, rico, devolution, narrative]
-sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d24.md]
+sources: [raw/badlands-news-brief-208.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-fbc.md]
 confidence: medium
 ---
 
@@ -40,6 +40,10 @@ In August 2023, [[house-oversight-committee|House Oversight Committee]] chairman
 
 The July 19, 2023 [[house-oversight-committee|House Oversight Committee]] hearing with IRS whistleblowers [[gary-shapley|Gary Shapley]] and [[joseph-ziegler|Joseph Ziegler]] was described by Badlands contributor [[burning-bright|Burning Bright]] as a disaster for the Biden family, with House Democrats tacitly conceding the allegations against [[hunter-biden|Hunter Biden]] while straining to separate his father from them.[5]
 
+## July 2023 timeline and FARA comparison
+
+A 19-point Breitbart timeline published July 1, 2023 assembled evidence from whistleblowers, the [[hunter-biden-laptop|"Laptop from Hell"]], [[james-comer|James Comer]], Sen. [[chuck-grassley|Chuck Grassley]], and the Senate's 2020 report, supporting Comer's characterization of the family's international business arrangements as an "organized crime" operation.[7] [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] wrote that in any other reality the accumulated evidence would have produced national outrage, and argued that access to [[joe-biden|Joe Biden]] was the product [[hunter-biden|Hunter Biden]] was selling to foreign governments seeking to influence US foreign policy and aid.[7] She contrasted DOJ silence on the family with its public [[foreign-agents-registration-act|FARA]] rhetoric in the dismissed case against [[steve-wynn|Steve Wynn]], and closed with Thomas Paine's December 1776 observation that "tyranny, like hell, is not easily conquered."[7]
+
 ## References
 
 
@@ -54,3 +58,4 @@ The July 19, 2023 [[house-oversight-committee|House Oversight Committee]] hearin
 The [[hunter-biden-plea-agreement|Hunter Biden plea agreement]] of 20 June 2023 intensified the "Biden Crime Family" framing, with Badlands writers noting that the son of a sitting president was pleading guilty to tax and gun crimes while the family faced daily coverage of far larger, unrelated allegations.[6] [[tucker-carlson|Tucker Carlson]] devoted an episode of "Tucker on Twitter" to the family, observing that none of the charges concerned influence peddling and citing an FBI source's account of a $10 million payment from [[burisma|Burisma]] to Hunter and [[joe-biden|Joe Biden]], before listing "racketeering, money laundering, wire fraud" as crimes the Bidens appeared to have committed.[6] [[ryan-delarme|Ryan DeLarme]] noted that more than 150 [[suspicious-activity-report|Suspicious Activity Reports]] had been filed involving the Bidens.[6]
 
 6. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+7. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc

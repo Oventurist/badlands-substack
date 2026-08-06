@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, russia, ukraine-war, kursk, badlands-brief]
-sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f76.md]
+sources: [raw/badlands-brief-9f2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a0c.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-bbb.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-f76.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -147,6 +147,10 @@ Roughly two hours of one-on-one talks preceded the dinner, with heavy speculatio
 
 Badlands commentary in August 2025 credited Kim Jong Un with a "PsyAct" that subverted escalation with South Korea by baiting President Yoon Suk Yeol into a martial law gambit that military leadership found too trivial to justify a kinetic response.[23] The same commentary noted his forces' role in the Russian region of Kursk and an offer to send 6,000 engineers and builders to assist with reconstruction there.[23]
 
+## Alleged CIA hostage status (Badlands analysis)
+
+Badlands contributor Joe Lange interprets [[qanon|Q]] drop 1245's instruction to "define hostage" as indicating that Kim Jong Un was himself a hostage of the [[central-intelligence-agency|CIA]] rather than an independent dictator, and that [[donald-trump|Donald Trump]] set him free as part of making the world safer.[27] In this account the mechanism of control was technical: three CIA [[snow-white-supercomputers|supercomputers]] operating inside [[north-korea|North Korea]], installed with the help of [[eric-schmidt|Eric Schmidt]] and [[bill-richardson|Bill Richardson]], which [[mike-pompeo|Mike Pompeo]] took offline.[27] Three North Korean generals were also freed from CIA control and closed the agency's "pathway" to those systems, which Lange offers as the reason [[barack-obama|Barack Obama]] was unable to reach Kim Jong Un secretly after the puppet strings were cut.[27]
+
 ## References
 
 1. Badlands Brief — "Rigged Maps, Russian Grain, & Maduro's Billable Hours", URL: https://badlands.substack.com/p/badlands-brief-9f2
@@ -194,3 +198,4 @@ In June 2025 Russian Deputy Prime Minister [[marat-khusnullin|Marat Khusnullin]]
 
 During a Beijing military parade in early September 2025 marking the victory over Japan in World War II, President [[donald-trump|Donald Trump]] posted on Truth Social asking [[xi-jinping|Xi Jinping]] to "give my warmest regards to [[vladimir-putin|Vladimir Putin]] and Kim Jong-un, as you conspire against the United States of America."[26] Badlands commentary argued that Trump has a documented history of high-profile kayfabe with Kim — citing May 2018, when he announced plans to cancel a summit only to attend it on the originally scheduled day — and suggested that if all three leaders belong to the [[sovereign-alliance|Sovereign Alliance]], Trump's "conspiracy" remark may be literally true with "the US" standing in for the [[deep-state|Deep State]].[26] Kim's daughter [[kim-ju-ae|Kim Ju-ae]] accompanied him to Beijing, making her international debut.[26]
 26. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
+27. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

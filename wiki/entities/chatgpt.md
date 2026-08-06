@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, llm, openai, censorship]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d46.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-02a.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d46.md, raw/dark-equation.md, raw/dont-be-symbol-minded.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: medium
 ---
 
@@ -56,3 +56,25 @@ OpenAI's ChatGPT reportedly offered users instructions on how to murder, self-mu
 4. Badlands News Brief — "Deflated Balloons, Sketchy AI & Democrat Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-8f9
 5. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 6. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+
+## Popular adoption in 2023
+
+By May 2023 ChatGPT, developed by [[openai|OpenAI]], was experiencing a surge in popularity, with people using it for purposes ranging from Bible study to navigating a break-up.[7] Writing in "Dark Equation," [[ryan-delarme|Ryan DeLarme]] noted that the same class of AI systems was generating art and even photography capable of winning competitions against individuals who had spent their entire lives honing their craft.[7] The chatbot's rise formed the backdrop to [[sam-altman|Sam Altman]]'s May 2023 Senate testimony on regulating [[artificial-intelligence|artificial intelligence]].[7]
+
+7. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+
+## Criticism as a substitute for earned knowledge
+
+In "Don't Be Symbol-Minded" (November 15, 2025), [[matthew-ehret|Matthew Ehret]] criticized the belief — which he attributed to [[peter-duke|Peter Duke]] — that ChatGPT and AI can create summaries of complex writings and books in order to save readers time.[8] Ehret allowed that a layman's grasp of a technical paper obtained this way need not be destructive, provided one does not become deluded into believing that the knowledge gathered by such "modern Cliff Notes" is equivalent to the real knowledge earned by actively reading source texts; in his reading Duke made no such differentiation between thumbnail pseudo-knowledge and true earned knowledge.[8]
+
+Ehret linked the tool to a wider epistemological failure, describing simplistic pattern-recognition analysis "akin to ChatGPT, Grok or OpenAI" as the method that leads observers of symbol data — such as the spread of the [[phrygian-cap|Phrygian cap]] across revolutionary banners — to become "black pilled" and conclude that every freedom struggle was [[controlled-opposition|controlled opposition]].[8] He judged [[neuro-linguistic-programming|NLP]]- and AI-managed thinking "incommensurably inferior" to human creative reason, and concluded that neither ChatGPT nor Grok would ever be able to arrive at conclusions requiring reasoning from [[universal-principles|universal principles]].[8]
+
+8. Badlands Brief — "Don't Be Symbol-Minded", URL: https://badlands.substack.com/p/dont-be-symbol-minded
+
+## The Lowery–Pysh–Kevin Hart chain (April 2023)
+
+An April 2023 Badlands Media essay used ChatGPT as the central illustration of AI's capacity to produce convincingly human output.[9] It quoted [[openai|OpenAI]]'s announcement that "we've trained a model called ChatGPT which interacts in a conversational way," able to answer follow-up questions, admit mistakes, challenge incorrect premises and reject inappropriate requests, and noted the accompanying hype "coming from virtually every information circle and source."[9]
+
+The author described receiving a long tweet from Major Jason Lowery which he read as ordinary human writing, only to learn minutes later that it was a screenshot of ChatGPT 4.0 output summarising [[softwar|Softwar]].[9] [[preston-pysh|Preston Pysh]] then used ChatGPT to rewrite that summary in the style of comedian Kevin Hart, and afterwards posted an AI voice rendition of the rewritten text in Hart's voice — output the author found "mind blowing" precisely because no human wrote the words and no human spoke them, and the real Kevin Hart's feelings, emotions and thoughts were merely mimicked.[9] The episode grounded the essay's argument that AI-generated renditions will be indistinguishable from reality in enough ways to fool anyone who does not identify and consider the source.[9]
+
+9. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital

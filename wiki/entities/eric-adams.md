@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [new-york-city, mayors, politics]
-sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ec8.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f00.md]
+sources: [raw/badlands-brief-e8d.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-31b.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-502.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ec8.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f00.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -147,7 +147,12 @@ Investigators were also examining the potential involvement of a Brooklyn constr
 
 On August 12, 2025, Mohamed Bahi, a former community affairs liaison to New York City's Muslim community and an aide to Adams, pleaded guilty in Manhattan federal court to one count of conspiracy relating to the organization of illegal campaign contributions, resolving one of the outstanding indictments arising from investigations into the first-term mayor.[26] In a four-minute plea allocution Bahi said a volunteer with the Eric Adams 2021 campaign instructed him to organize a December 2020 fundraiser at which he collected straw-donor contributions from employees that both he and the campaign knew would be reimbursed by their companies' owners, adding, "I understood that the Adams campaign would then seek matching funds for their contributions."[26]
 
+## DOJ direction to dismiss charges (February 2025)
+
+In February 2025 a senior official at the U.S. Department of Justice directed federal prosecutors to dismiss the charges against Adams, a Democrat known for his close ties to President [[donald-trump|Donald Trump]].[27] In a two-page memo obtained by The Associated Press, acting Deputy Attorney General [[emil-bove|Emil Bove]] — a former prosecutor in the Manhattan office that brought the case — stated that the decision to drop the charges was made without evaluating the strength of the prosecution and was not intended to undermine the attorneys who filed it.[27] Bove wrote that the timing of the charges and "more recent actions" by former U.S. Attorney [[damian-williams|Damian Williams]] had compromised the integrity of the proceedings, citing increased prejudicial pretrial publicity that he warned could influence potential witnesses and the jury pool.[27] The move followed months of speculation that Trump's Justice Department might intervene to end the case, in which Adams was accused of accepting bribes in the form of free or discounted travel and of receiving illegal campaign contributions.[27]
+
 ## References
+
 
 1. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -175,3 +180,4 @@ On August 12, 2025, Mohamed Bahi, a former community affairs liaison to New York
 24. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
 25. Badlands Brief — "Badlands News Brief: Trump Trials, Peacemakers & Narrative Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-ee7
 26. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+27. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

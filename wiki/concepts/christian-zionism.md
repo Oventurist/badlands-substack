@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [religion, israel, christianity, middle-east, theology]
-sources: [raw/badlands-brief-695.md, raw/badlands-brief-724.md, raw/badlands-brief-7ed.md, raw/badlands-brief-959.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-brief-724.md, raw/badlands-brief-7ed.md, raw/badlands-brief-959.md, raw/cataclysmic-silence.md]
 confidence: medium
 ---
 
@@ -43,3 +43,9 @@ In his February 20, 2026 interview with [[tucker-carlson|Tucker Carlson]], U.S. 
 2. Badlands Brief — "Cancel Culture Comes for Holy Week in Jerusalem", URL: https://badlands.substack.com/p/badlands-brief-724
 3. Badlands Brief — "Religious Regime Change, Sacked Security Sacked, & More Medicare Malice", URL: https://badlands.substack.com/p/badlands-brief-7ed
 4. Badlands Brief — "We Are the Champions of the World", URL: https://badlands.substack.com/p/badlands-brief-959
+
+## Role in Middle East escalation commentary (2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued in August 2024 that Christian Zionists who advocate for "America First" were likely drawing the United States into a wider war in the Middle East, while both presidential candidates and the sitting president largely refrained from any significant statements on the crisis.[5] He framed the resulting posture theologically as well as strategically, asking whether the coming Messiah's hypothetical landing pad in [[israel|Israel]] was being treated as more important than peace in the region.[5]
+
+5. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence

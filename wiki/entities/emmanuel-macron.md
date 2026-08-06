@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [france, europe, politics]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-dbb.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-1cd.md, raw/badlands-brief-7ed.md, raw/badlands-brief-cd8.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7a5.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-adc.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-fbc.md]
 confidence: medium
 ---
 
@@ -172,6 +172,10 @@ On Tuesday, August 19, 2025, Israeli Prime Minister [[benjamin-netanyahu|Benjami
 
 Late in July 2025, Macron had said France would formally recognize a Palestinian state during a UN meeting in September, drawing a swift rebuke from Israel.[28] The announcement placed France among a growing list of nations to have recognized Palestinian statehood since the start of the Gaza war nearly two years earlier, with many Western nations following Paris's lead.[28] Badlands commentary grouped Macron with Australian Prime Minister [[anthony-albanese|Anthony Albanese]] as leaders whose nations were shifting away from unconditional support for Israel, and read Netanyahu's antisemitism accusation as a sign of "unbridled hubris."[28]
 
+## Response to the 2023 French riots
+
+As the [[2023-french-riots|2023 French riots]] entered a fifth consecutive night in early July 2023, Macron canceled a planned state visit to Germany and convened officials on Sunday, July 2 to develop strategies for suppressing what was described as the worst violence France had experienced since the 2018 [[yellow-vest-movement|Yellow Vest]] protests.[29] His government deployed more than 45,000 police officers and dozens of military armored vehicles nationwide; 719 people were arrested by the early hours of Sunday, down from 1,300 the previous night.[29] French officials attributed the spread of the unrest to social media, an explanation rejected by commentator Paul Joseph Watson, who blamed unmanaged mass migration instead.[29]
+
 ## References
 1. Badlands Brief — "A Fiesta of Fake Elections, Fake Files & Fake Crises", URL: https://badlands.substack.com/p/badlands-brief-05f
 2. Badlands Brief — "Saving the SAVE Act, Ending the Forever War & What to Make Of Joe Kent", URL: https://badlands.substack.com/p/badlands-brief-1cd
@@ -202,3 +206,4 @@ Late in July 2025, Macron had said France would formally recognize a Palestinian
 26. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
 27. Badlands Brief — "Badlands News Brief: Zelensky Rages, COVID Concedes & Soros Surrounded", URL: https://badlands.substack.com/p/badlands-news-brief-d8e
 28. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
+29. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc

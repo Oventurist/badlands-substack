@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, narrative-warfare, globalism, awakening, badlands-brief]
-sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/badlands-news-brief-19b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-cf8.md, raw/brazil-breaking.md]
 confidence: medium
 ---
 
@@ -32,3 +32,11 @@ Badlands contributor [[burning-bright|Burning Bright]] invoked the System of Sys
 1. Badlands Brief — "Trump Transforms as Biden Goes Into Hiding", URL: https://badlands.substack.com/p/badlands-news-brief-19b
 2. Badlands Brief — "Badlands News Brief: The Walls Are Closing in ... Or So We're Told", URL: https://badlands.substack.com/p/badlands-news-brief-208
 3. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+
+## Origins in Burning Bright's 2022 writing
+
+The System of Systems framing was developed at length by [[burning-bright|Burning Bright]] over many months of writing at [[badlands-media|Badlands Media]], where he described a global war between aligned but not always unified sovereigns and the forces of globalism.[4] In his November 2022 essay on the [[2022-brazilian-general-election|Brazilian election]], he defined "Their Democracy" as a System built atop other Systems: a confluence of political, administrative, cultural and clandestine outfits that had erected faulty and corrupt structures atop those originally built to serve the people.[4] By taking over the public levers of finance, education, entertainment and administration, he argued, the controllers had obscured both their designs and any chance to undo them beneath layers of lawfare, narrative confusion and mass psychological operations, deploying overt operations — from election-fraud campaigns to proxy wars — only to fend off rare organized efforts to disrupt their hegemony.[4]
+
+He cautioned that while the breadth and complexity of the System of Systems could be admired intellectually, analysis should never lose sight of the rot underlying it or of the intent behind it, which he characterized as the willful subjugation of sovereign men and women in the West and beyond.[4] Bolsonaro's statement that the voting system could not be granted a seal of credibility given its many vulnerabilities prompted the author's one-word reply: "Systems."[4]
+
+4. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking

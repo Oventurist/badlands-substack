@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, advertising, censorship]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-news-brief-410.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-news-brief-410.md, raw/control-through-language.md]
 confidence: medium
 ---
 
@@ -29,6 +29,14 @@ The ambition was described as both philosophical and practical: in a world of fr
 
 Badlands commentary responded to the framing on metaphysical grounds, with Chris Paul questioning the premise that the purpose of soul and consciousness is to maximize pleasure and minimize pain temporarily before vanishing, and asking what system would generate such an idea and desire the world it necessitates.[2]
 
+
+## Erik Carlson on disengaging from X (February 2024)
+
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] endorsed Badlands contributor [[chris-paul|Chris Paul]]'s decision to quit X for good, a decision for which Paul had taken criticism from people invoking [[qanon|Q]]'s June 24, 2020 Post 4510 instruction never to retreat from the battlefield of Twitter and Facebook.[3] Carlson countered that no patriot-controlled platforms such as [[truth-social|Truth Social]] or [[rumble|Rumble]] existed on that date, and that [[elon-musk|Elon Musk]] did not yet own the platform.[3] He said he visits X daily to follow people not present elsewhere but rarely posts or interacts, declining to spend time arguing with bots, paid shills and what he described as psychologically unwell users.[3]
+
+He also argued the [[european-union|EU]]'s Digital Service Agreement gives the [[deep-state|Deep State]] a mechanism to expel X from Europe if enough platform speech can be twisted into disinformation or "hate speech," and that MAGA engagement on X therefore supplies the pretext — making Trump supporters a liability who are in any case being "shadow banned into oblivion."[3] His conclusion was that brainwashed people do not change their beliefs when presented with facts, so winning arguments on X accomplishes nothing.[3]
+
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "New(ish) Negotiations, NATO Nazis, & Neocon Narrative Nonsense", URL: https://badlands.substack.com/p/badlands-news-brief-410
+3. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

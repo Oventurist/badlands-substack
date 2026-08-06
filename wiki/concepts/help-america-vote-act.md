@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, elections, voting-technology]
-sources: [raw/always-fight-back.md, raw/badlands-brief-40d.md, raw/badlands-brief-805.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-899.md]
+sources: [raw/always-fight-back.md, raw/badlands-brief-40d.md, raw/badlands-brief-805.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-899.md, raw/blockchain-good-blockchain-voting.md]
 confidence: medium
 ---
 
@@ -34,9 +34,14 @@ In November 2025 the [[department-of-justice|Department of Justice]]'s Civil Rig
 
 In June 2025 the Justice Department invoked HAVA in a lawsuit against Robert Page, the Orange County, California Registrar of Voters, alleging he refused to provide records related to the removal of non-citizens from the county's voter registration rolls and failed to maintain an accurate voter list as the statute requires.[5] Assistant Attorney General Harmeet K. Dhillon of the Civil Rights Division said jurisdictions that refuse to disclose requested voter information violate well-established federal election laws and would be held accountable.[5]
 
+## The 2023 blockchain-voting critique
+
+In a March 2023 Badlands Media article, [[holly-at-altitude|Holly at Altitude]] argued that the introduction of technology into U.S. elections through HAVA in 2002 produced three consequences: it turned elections into a multi-billion-dollar industry overnight; it set up the conditions allowing an overly complicated, privately developed, owned, and managed election "machine" to develop; and it placed elected and non-elected officials with almost no technical skills and zero cybersecurity expertise in charge of evaluating, recommending, selecting, purchasing, running, managing, auditing, and verifying the mandated technology — a problem she said persists today.[6] She wrote that HAVA fundamentally changed the voting system designed by the Founding Fathers, moving voting from a decentralized civic process of paper ballots cast at local precincts on election day and hand-counted by local officials and volunteers to a centralized, tech-driven and, in her view, corrupted apparatus.[6] The article used this history as the basis for opposing [[blockchain-voting]], on the grounds that replacing one corrupted multi-billion-dollar election industry with another would not cure the system's underlying problems.[6]
+
 ## References
 1. Badlands Media — "Always Fight Back", URL: https://badlands.substack.com/p/always-fight-back
 2. Badlands Brief — "Clinton Clashes, Royal Trafficking, & Fond WEF Farewells", URL: https://badlands.substack.com/p/badlands-brief-40d
 3. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 4. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 5. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+6. Badlands Media — "Blockchain, Good. Blockchain Voting, Bad.", URL: https://badlands.substack.com/p/blockchain-good-blockchain-voting

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [special-counsel, russiagate, department-of-justice]
-sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-6b6.md, raw/durham-continues-to-reveal-previously.md]
 confidence: medium
 ---
 
@@ -60,6 +60,12 @@ Badlands contributor [[just-human|Just Human]] described "Durham panic" in the a
 
 Badlands contributor [[just-human|Just Human]] noted in February 2023 that the director of [[joint-task-force-vulcan|Joint Task Force Vulcan]], the Justice Department task force created in August 2019 to prosecute the leadership of [[ms-13|MS-13]], is [[john-j-durham|John J. Durham]], a son of Special Counsel John H. Durham.[8] The observation surfaced in coverage of a four-count indictment unsealed in Central Islip against thirteen of MS-13's highest-ranking leaders.[8]
 
+## Prosecutorial strategy as counter-programming
+
+Writing in October 2022 as the [[igor-danchenko|Danchenko]] trial wound down in Alexandria, Virginia, Badlands Media contributor [[brian-cates|Brian Cates]] argued that Durham was prosecuting the RussiaGate "joint venture" in reverse, using the most minor charges available against low-level participants as venues to surface evidence suppressed for half a decade.[9] On this reading, Durham recognised that no fair jury pool existed after years of saturation coverage from the New York Times, Washington Post, CNN, ABC, NBC, CBS, Fox News, Time, Newsweek, NPR and the major social platforms, and that he had to counter what Cates called [[mass-formation-psychosis|mass formation psychosis]] before attempting major indictments.[9] Cates stipulated that enough evidence existed by June 2019, and certainly after Inspector General [[michael-horowitz|Michael E. Horowitz]]'s December 2019 FISA abuse report, for indictments to have issued in early 2020 — but that Durham, a realist, knew what would have followed had he moved while [[donald-trump|Trump]] was in office and [[william-barr|Barr]] was Attorney General.[9]
+
+Through the [[michael-sussmann|Sussmann]] and Danchenko trials Durham placed on the record the [[hillary-clinton|Clinton]] campaign's private spy ring, its target list and database trawling, the construction of the [[alfa-bank-hoax|Alfa Bank Hoax]], the February 2017 approach to the [[central-intelligence-agency|CIA]] using data taken from [[executive-office-of-the-president|Executive Office of the President]] servers after the inauguration, the [[fbi|FBI]]'s failure to verify any [[steele-dossier|Steele Dossier]] allegation, its $1 million corroboration offer to [[christopher-steele|Christopher Steele]], and its knowledge that Danchenko had been investigated for espionage.[9] He also demonstrated that more than 80 percent of the attorney–client privilege claims raised by the campaign, [[perkins-coie|Perkins Coie]], [[fusion-gps|Fusion GPS]] and [[rodney-joffe|Rodney Joffe]]'s contractors to resist grand jury subpoenas were bogus on their face.[9] Cates concluded that Durham could, if he chose, bring charges for theft of classified information, espionage and treason.[9] See [[durham-special-counsel-investigation|Durham Special Counsel investigation]].[9]
+
 ## References
 1. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
 2. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
@@ -69,3 +75,4 @@ Badlands contributor [[just-human|Just Human]] noted in February 2023 that the d
 6. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 7. Badlands Brief — "Badlands News Brief: Media Panic, Elitist Advances & Dead Chickens", URL: https://badlands.substack.com/p/badlands-news-brief-2f8
 8. Badlands Brief — "Badlands News Brief: The Wheels of Justice Roll On", URL: https://badlands.substack.com/p/badlands-news-brief-6b6
+9. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously

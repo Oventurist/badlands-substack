@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cbdc, digital-currency, blockchain, monetary-policy, federal-reserve]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-entering-the-millennial-reign.md, raw/badlands-brief-579.md, raw/badlands-news-brief-2b8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-f4c.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fcb.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -59,6 +59,12 @@ In March 2024 the global bank messaging network [[swift|SWIFT]] told Reuters it 
 
 In January 2023 the [[badlands-news-brief|Badlands News Brief]] highlighted the [[federal-reserve-bank-of-new-york|New York Federal Reserve]]-sponsored [[project-cedar|Project Cedar]] pilot, agreed to in November 2022 by banks including Wells Fargo, Citigroup, HSBC and Mastercard, as a possible pathway to a new type of U.S. dollar.[6] [[ryan-delarme|Ryan DeLarme]], citing macroeconomist and CIA advisor [[jim-rickards|Jim Rickards]], wrote that Project Cedar together with [[executive-order-14067|Executive Order 14067]] could be one of several avenues leading to a new currency, and that overthrowing the U.S. dollar in favor of a trackable central bank digital currency was a critical part of the Davos agenda.[6]
 
+## Expiration dates and purchase restrictions discussed at Summer Davos 2023
+
+At the [[world-economic-forum|World Economic Forum]]'s 14th annual Meeting of the New Champions in Tianjin, China — known as "Summer Davos" — a 30-minute panel discussion on June 28, 2023 featured Cornell University economist [[eswar-prasad|Eswar Prasad]] arguing that the global economy is "at the cusp of physical currency essentially disappearing."[7] Prasad said programmable CBDCs and their underlying technology could take the international economic landscape "toward a dark path or a better place," and identified the programmability of CBDC units — including the ability to attach expiry dates — as one of the "huge potential gains" of digitized money, while noting that governments could also use central bank money to socially engineer society and restrict "less desirable" purchases.[7]
+
+[[badlands-media|Badlands Media]] writer [[ryan-delarme|Ryan DeLarme]] responded that CBDCs with expiration dates would force citizens to spend on the government's timetable and open the door to restrictions on what individuals may buy.[7] He compared digital currency to nuclear energy — not inherently harmful, but dangerous depending on its use — and observed that both the Canadian and Chinese governments had explored expiry dates, arguing that after the [[joe-biden|Biden]] administration's commitment to globalist initiatives and the forfeiture of freedoms during COVID, he was not convinced CBDCs would stay out of America's near future.[7]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
@@ -66,3 +72,18 @@ In January 2023 the [[badlands-news-brief|Badlands News Brief]] highlighted the 
 4. Badlands Brief — "Badlands News Brief: Congress Limps Along as the Nation Grits Its Teeth", URL: https://badlands.substack.com/p/badlands-news-brief-2b8
 5. Badlands Brief — "Badlands News Brief: Baltimore Fallout Continues as Nickelodeon Exposes Itself", URL: https://badlands.substack.com/p/badlands-news-brief-b60
 6. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+7. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
+
+## As the "solution" to a debt reset
+
+Writing in May 2023 after the [[federal-reserve|Federal Reserve]] reported [[2023-credit-card-debt-surge|the second-fastest monthly increase in credit card debt on record]], Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that the bankers' answer to accumulated consumer leverage would not be a return to sound money but the deliberate triggering of another global bankruptcy — one in a long line of "great resets" — ushering in a more permanent, sustainable and freedom-compromising financial system.[8] In this framing, Central Bank Digital Currencies are marketed as salvation from the loss of consumer goods, paired with universal basic income tokens so that a broke population can still purchase the latest devices.[8]
+
+8. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
+
+## Biometric identity and Worldcoin
+
+In "Dark Equation," [[ryan-delarme|Ryan DeLarme]] described the Davos crowd as openly advocating AI-powered biometric digital identities, digital currencies, and the transhuman integration of the Internet-of-Things into human bodies.[9] He presented [[sam-altman|Sam Altman]]'s [[worldcoin|Worldcoin]] — an iris-scanning global cryptocurrency promoted as a way to distinguish humans from bots and to fund a universal basic income offsetting AI-driven job losses — as a subtle "baby step" toward that end state.[9]
+
+DeLarme characterized Worldcoin as a repackaging of [[great-reset|Great Reset]] and [[fourth-industrial-revolution|fourth industrial revolution]] rhetoric, and as part of a push by the United Nations, the [[world-economic-forum|World Economic Forum]] and a growing number of governments toward a global biometric identification system attached to a central bank digital currency controlled by "the generations-old money lender class."[9] He explicitly declined to argue that all CBDCs or cryptocurrencies are inherently bad, stating instead that the involvement of the [[bilderberg|Bilderberg Group]], Silicon Valley and the World Economic Forum is the cause for concern: "It's not necessarily the tool that is the problem; it is allowing the same international cabal of ruthless failures to be in charge of how it's used."[9]
+
+9. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

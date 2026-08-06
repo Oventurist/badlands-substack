@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, journalism, tabloid]
-sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d50.md, raw/donald-trump-and-george-washington.md]
 confidence: medium
 ---
 
@@ -19,6 +19,10 @@ In June 2024 the Post reported that President [[joe-biden|Joe Biden]] appeared t
 The same brief cited Post reporting that Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] had dissolved his six-member war cabinet following the departure of former general [[benny-gantz|Benny Gantz]], with Netanyahu telling his security cabinet that the body had existed only because of the coalition agreement with Gantz and that "as soon as Gantz left – there was no need for a cabinet anymore."[1] The Post noted that Netanyahu would instead rely on a small group of ministers including Defense Minister [[yoav-gallant|Yoav Gallant]] and Strategic Affairs Minister [[ron-dermer|Ron Dermer]].[1]
 
 Badlands' use of the Post reflects its editorial practice of quoting establishment sources at length before supplying its own interpretation.[1]
+
+## Trump interview after the Butler shooting
+
+On July 14, 2024, the day after the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]], the Post published an interview conducted aboard Trump's private plane as he travelled to Milwaukee for the Republican National Convention.[5] Described as grateful and at times defiant, Trump recounted the "very surreal experience" that nearly ended his life and told the paper, "I'm not supposed to be here, I'm supposed to be dead."[5] He said the doctor who treated him "never saw anything like this, he called it a miracle," and wore a large loose white bandage over his right ear while his staff insisted that no photographs be taken.[5] [[erik-carlson|Erik Carlson]] quoted the interview at length in a Badlands Media essay pairing Trump's survival with that of [[george-washington|George Washington]] at the [[battle-of-the-monongahela|Battle of the Monongahela]].[5]
 
 ## The Shokin European Commission scoop
 
@@ -37,3 +41,4 @@ The New York Post reported on August 20, 2024 that [[donald-trump|Donald Trump]]
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 3. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+5. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

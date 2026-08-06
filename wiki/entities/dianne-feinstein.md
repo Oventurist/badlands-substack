@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, california, democrats, elections]
-sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-70d.md]
+sources: [raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-70d.md, raw/deep-state-spotlight-gavin-newsom.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Badlands Media contributors treated the contest for Feinstein's seat primarily a
 
 After the retirement announcement, [[ryan-delarme|Ryan DeLarme]] wrote that while many were celebrating her departure, 50 years of damage had already been done and those seeking to replace her might prove far worse than Feinstein ever was.[2] He questioned whether she was stepping down willingly given her age, or being told to step down by what he called the puppet masters to make way for Schiff, and asked whether the Chinese Communist Party had "ended her contract."[2] DeLarme predicted the left and the media would treat her as a saint when, in his account, her legacy was that of a congressional stooge and a leaker who employed a Chinese spy and swindled the public for decades.[2] He also cited her role in the attempt to derail [[brett-kavanaugh|Brett Kavanaugh]]'s confirmation through what he described as the Christine Blasey Ford [[wrap-up-smear|wrap-up smear]], and noted that on a Senate salary of $174,000 a year she had, like [[nancy-pelosi|Nancy Pelosi]], accumulated a fortune he put at $110 million.[2]
 
+## Succession by appointment (October 2023)
+
+Feinstein died in office, and on October 1, 2023 Governor [[gavin-newsom|Gavin Newsom]] appointed [[laphonza-butler|Laphonza Butler]] to occupy the resulting vacancy.[3] Newsom's press release lauded the appointee as "the first openly Black lesbian to serve in Congress," omitting her prior experience as a consultant for the governor's inner circle of operatives and as a lobbyist for Uber and AirBnB.[3] [[ryan-delarme|Ryan DeLarme]] cited the appointment as a leading illustration of Newsom's mastery of [[identity-politics|identity politics]].[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Archives, Shifty Schiff, PelosiGate and Durham Panic", URL: https://badlands.substack.com/p/badlands-news-brief-2a2
 2. Badlands Brief — "Badlands News Brief: Firing Squads, Purebloods and Woke's Decline", URL: https://badlands.substack.com/p/badlands-news-brief-70d
+3. Badlands Brief — "Deep State Spotlight: Gavin Newsom", URL: https://badlands.substack.com/p/deep-state-spotlight-gavin-newsom

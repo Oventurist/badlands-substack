@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [shadow-war, information-war, deep-state, badlands-media]
-sources: [raw/badlands-blitz-episode-25.md]
+sources: [raw/badlands-blitz-episode-25.md, raw/death-blossom.md]
 confidence: low
 ---
 
@@ -18,3 +18,9 @@ Episode 25 of The Blitz, published on 18 July 2026 under the subtitle "It's Trea
 
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 25", URL: https://badlands.substack.com/p/badlands-blitz-episode-25
+
+## The game board in late 2022
+
+[[burning-bright|Burning Bright]]'s November 23, 2022 essay "Death Blossom" framed the Shadow War as a "movable, often-obscured game board" on which moves and countermoves are actioned by both the globalist side and the emerging sovereign coalition.[2] He argued that the correct analytical questions are always the same: what moves have appeared on the board of late, who actioned them, and who merely reacted.[2] By that measure he judged [[donald-trump|Donald Trump]] to have been the active player through November 2022, while the enemy reacted — including, in his reading, by attempting to attribute the [[2022-poland-missile-strike|Poland missile strike]] to [[russia|Russia]].[2]
+
+2. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom

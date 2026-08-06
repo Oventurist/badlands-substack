@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [music-industry, sex-trafficking, blackmail, homeland-security, celebrity]
-sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-158.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-2ad.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-d50.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -134,6 +134,22 @@ Badlands commentary linked the case to a broader pattern: five days earlier fede
 
 A fund linked to Combs appeared among the nearly 100 entities named when a federal judge ordered [[x-corp|X]] to unseal the shareholder list of X Holdings Corp. in August 2024, placing the hip-hop mogul alongside prominent Silicon Valley venture capitalists in the financing of [[elon-musk|Elon Musk]]'s purchase of [[twitter|Twitter]].[17]
 
+## Framing as ritual sacrifice
+
+In March 2024, Badlands Media contributor [[simon-esler|Simon Esler]] placed the accusations against Combs alongside those against [[jeffrey-epstein|Jeffrey Epstein]], noting that both cases involved hidden cameras — Combs allegedly having hundreds throughout his mansion to record the sex crimes of music and Hollywood elites — and both involved underground tunnels, with Combs's property, which contains an underwater tunnel, situated next door to the [[playboy-mansion|Playboy mansion]].[18]
+
+Esler argued that when it is revealed, as through [[harvey-weinstein|Harvey Weinstein]] and now Combs, that cultural institutions such as the Hollywood and music industries operate by habitually sacrificing the innocence of minors, the biblical concept of warfare against principalities becomes relevant.[18] While stating he knew of no evidence that Combs used explicitly Satanic ritual in his abuse and sextortion operation, Esler contended that repeated sexual abuse of minors to seek personal power, and the use of that power to steer culture-controlling industries, is itself a form of ritual.[18]
+
+He enumerated the elements he considered constitutive of a [[child-sacrifice|ritual sacrifice]]: a minor is chosen for vulnerability; the exploitation of that vulnerability is carefully arranged by people like Combs; the child is groomed to prepare them for the abuse; the environment is tailored with powerful drugs and alcohol to inebriate both the target celebrity and the minor; cameras capture the exchange of power; and the minor's suffering is itemized into a token of power lorded over the target influencer.[18] These, he wrote, are the known phases of a rite of passage in which the child becomes merely an item of power, repeated to increasingly dominate everyone around the perpetrator.[18]
+
+## Role in the Ye cancellation (Badlands account)
+
+Badlands Media's December 2023 essay "From Ye to Oy Vey!" placed Combs at the center of the October 2022 effort to bring [[kanye-west|Ye (Kanye West)]] back into line after the [[white-lives-matter-t-shirt-controversy|White Lives Matter T-shirt controversy]].[19] On October 5, 2022, Combs posted on Instagram that he had "always been there" and would "always support my brother Kanye as a freethinker," while adding of the shirt, "I don't rock with it, you know what I'm saying? I'm not with it."[19]
+
+He then sought a face-to-face meeting with West, which the essay's author interpreted as an attempt to "reel Ye back in" and get him back on narrative, coupled with insistence that West apologize.[19] West's public reply on October 7, 2022 — "This ain't a game... Ima use you as an example to show the Jewish people that told you to call me that no one can threaten or influence me. I told you this was war." — got him banned from [[instagram|Instagram]].[19]
+
+The essay noted that on November 16, 2023, a former girlfriend filed a lawsuit against Combs alleging sex trafficking, rape and long-term sexual abuse, with further similar allegations emerging shortly afterward, and drew a connection between those accusations and what the author described as [[deep-state|Deep State]] Cabal patterns.[19]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
 2. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
@@ -152,3 +168,5 @@ A fund linked to Combs appeared among the nearly 100 entities named when a feder
 15. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
 16. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
 17. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+18. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+19. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

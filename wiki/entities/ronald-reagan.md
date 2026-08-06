@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidents, hollywood, cold-war, military]
-sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ A subsequent theory held that the real October surprise was an effort by the Rea
 
 In October 2025, the government of [[ontario|Ontario]] aired an [[ontario-reagan-tariff-advertisement|advertisement]] in the United States featuring Reagan speaking negatively about tariffs, prompting President [[donald-trump|Donald Trump]] to terminate all trade negotiations with [[canada|Canada]] on October 23.[3] The Ronald Reagan Presidential Foundation and Institute said the ad misrepresented a presidential radio address Reagan delivered in April 1987 and that his remarks had been edited without permission, though it did not specify what was misleading.[3] Ontario Premier [[doug-ford|Doug Ford]] had said the province would spend $75 million on the ad campaign.[3]
 
+## War on drugs and the assassination attempt
+
+[[erik-carlson|Erik Carlson]] observes that beyond being former Republican US presidents from California, Reagan and [[richard-nixon|Richard Nixon]] shared two things: each declared a [[war-on-drugs|war on drugs]], and each faced an attempt to remove him from office.[4] Nixon was removed through what Carlson calls a hoax led by [[george-hw-bush|George Bush Sr.]] and the [[cia|CIA]], while Reagan was shot by an assassin with close ties to the Bush family.[4] Bush was Vice President at the time of the assassination attempt and a former Director of the CIA.[4] The [[iran-contra-affair|Iran-Contra Affair]], funded in part by CIA cocaine trafficking into Los Angeles, was exposed during Reagan's presidency in 1986.[4]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 3. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+4. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc

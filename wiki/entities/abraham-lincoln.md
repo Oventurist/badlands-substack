@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, civil-war, american-system]
-sources: [raw/avoiding-wwiii.md]
+sources: [raw/avoiding-wwiii.md, raw/combating-the-transhumanist-religion.md]
 confidence: medium
 ---
 
@@ -24,3 +24,9 @@ During the Civil War the British provided weapons, warships, logistical support,
 
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
+
+## Carey and the American System
+
+Badlands contributor [[matthew-ehret|Matthew Ehret]] notes that Lincoln's economic advisor was [[henry-c-carey|Henry C. Carey]] (1793–1879), a champion of American industrial growth and a leading anti-Malthusian.[2] Carey refuted the "dismal science" of the [[british-east-india-company|British East India Company]] economists [[john-stuart-mill|J. S. Mill]] and [[david-ricardo|David Ricardo]] and their [[law-of-diminishing-returns|law of diminishing returns]], demonstrating in *Unity of Law* (1872) that technological progress made unproductive lands more productive and that the power to support life increased in a non-zero-sum system of mutual cooperation.[2] Ehret places this principle of self-perfectibility in science, technology and statecraft in a line running from [[benjamin-franklin|Benjamin Franklin]] and the founding documents of 1776 and 1787 through Lincoln's presidency to [[john-f-kennedy|John F. Kennedy]].[2]
+
+2. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion

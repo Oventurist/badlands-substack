@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [tariffs, trade, steel, aluminum, reciprocal-trade, trump-administration]
-sources: [raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-cb6.md]
+sources: [raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -26,6 +26,17 @@ For the time being, Trump had reneged on planned 25% across-the-board tariffs on
 
 On 10 February 2025 President [[donald-trump|Donald Trump]] signed an order enacting a 25% tariff on steel imports, and the following day the European Steel Association [[eurofer|Eurofer]] warned of severe consequences for EU producers.[2] Eurofer President [[henrik-adam|Henrik Adam]] said EU steel exports could drop by up to 3.7 million tonnes, noting that the United States was the second-largest export market for European producers and accounted for 16% of total EU steel exports in 2024, losses he said could not be offset elsewhere.[2] Adam argued that global overcapacity was already being dumped on the vulnerable EU market at very cheap prices from Asia, North Africa and the Middle East, undermining investment in the green transition and driving de-industrialisation; he cited 9 million tonnes of EU capacity closed in 2024 with over 18,000 job cuts announced, and said the executive order would inevitably exacerbate the situation.[2] Badlands commentary treated the warning as evidence that tariffs were the strongest bargaining chip available to Washington against European leaders seeking to sustain the Ukraine war without United States support.[2]
 
+## Imposition and the China dimension
+
+On Monday, February 10, 2025, Trump imposed a 25% tariff on all steel and aluminum imports into the United States with no exceptions or exemptions.[3] Although the United States sources most of its steel from Canada, Brazil and Mexico, coverage noted the tariffs were largely — albeit indirectly — aimed at China.[3] "This is a big deal — making America rich again," Trump said in announcing the measure.[3]
+
+## Aluminum oligarch backdrop
+
+[[badlands-media|Badlands Media]] contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] used the tariff announcement to trace the ownership history of the global aluminum industry.[3] He noted that China Hongqiao Group became the world's largest aluminum producer by output in 2015, displacing the Russian firm [[rusal|Rusal]], which remains second.[3] Rusal was founded in 2000 in a merger between Sibirsky Aluminum and [[roman-abramovich|Roman Abramovich]]'s Millhouse Capital by oligarch [[oleg-deripaska|Oleg Deripaska]], described as the victor of the 1990s "aluminum wars" over post-Soviet state assets.[3] Deripaska allegedly negotiated a $10 million contract in 2017 with Paul Manafort to promote Russian interests in the Trump administration, a thread of the Russiagate scandal.[3]
+
+In 2007 Rusal merged with SUAL Group and Glencore International AG to form UC Rusal, with Deripaska as chairman — the same year [[glencore|Glencore]] entered into dealings with [[dan-gertler|Dan Gertler]]; Deripaska is also a close friend of Nathaniel Rothschild, a major Glencore investor.[3] In June 2018, Treasury Secretary [[steven-mnuchin|Steve Mnuchin]] announced that Rusal and Deripaska's En+ Group were being targeted for evading sanctions on Russian companies, accusing Deripaska of instigating violence in eastern Ukraine and implying money laundering and bribery; Rusal's top executives, Deripaska included, resigned, and he was later sanctioned by [[vladimir-putin|Vladimir Putin]] after criticizing the 2022 invasion of Ukraine.[3] GhostofBasedPatrickHenry concluded that "the drag net is tightening," asking whether the oligarchs who control the world's resources were being taken down.[3]
+
 ## References
 1. Badlands Brief — "The Star Spangled Banner, Bureaucrat Bleach Bit, & an Unknown Balance of Bullion", URL: https://badlands.substack.com/p/badlands-news-brief-7ce
 2. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
+3. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

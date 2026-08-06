@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [big-tech, microsoft, ai, nuclear, sp-500]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-739.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d21.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-brief-739.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d21.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -96,3 +96,9 @@ In commentary on the episode, [[ashe-in-america|Ashe in America]] noted that clo
 11. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 12. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 13. Badlands Brief — "Badlands News Brief: Chinese Interference and Narrative Seeding", URL: https://badlands.substack.com/p/badlands-news-brief-d21
+
+## 2023 Bilderberg attendance
+
+Microsoft chief executive [[satya-nadella|Satya Nadella]] attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, where artificial intelligence was the primary topic.[14] The Badlands Media article "Dark Equation" grouped Microsoft with [[openai|OpenAI]] and [[deepmind|DeepMind]] as firms whose leadership simultaneously builds advanced AI systems and participates in the closed-door forums shaping policy toward them.[14]
+
+14. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

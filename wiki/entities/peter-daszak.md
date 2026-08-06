@@ -3,21 +3,17 @@ title: "Peter Daszak"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
-tags: [ecohealth-alliance, covid-19, gain-of-function, foia, congressional-investigations]
-sources: [raw/badlands-news-brief-b6c.md]
+tags: [peter-daszak, ecohealth-alliance, gain-of-function, wuhan, coronavirus]
+sources: [raw/behold-a-trojan-horse.md]
 confidence: medium
 ---
 
-# Peter Daszak
+Peter Daszak is a scientist and head of the [[ecohealth-alliance|EcoHealth Alliance]], an organization that funneled research funding from the U.S. [[niaid|National Institute of Allergy and Infectious Diseases (NIAID)]] to the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] for coronavirus research.[1] A May 2023 Badlands Media article cited him in the context of its argument that the proposed [[who-pandemic-treaty|pandemic treaty]] and [[international-health-regulations|IHR]] amendments ignore the danger of U.S.-funded labs creating bioweapons.[1]
 
-Peter Daszak is a British-American zoologist and the former president of [[ecohealth-alliance|EcoHealth Alliance]], the nonprofit research organization that subcontracted U.S. federal grant money to coronavirus research in Wuhan, China.[1] He became a central figure in congressional scrutiny of the origins of COVID-19 and of the federal grant-making apparatus overseen by [[anthony-fauci|Anthony Fauci]].[1]
+The article quoted a 2015 statement by Daszak in which he argued for stoking public demand for medical countermeasures such as a pan-coronavirus vaccine, saying "the media and the economics will follow the hype" and "Investors will respond if they see profit at the end of the process."[1] Daszak was also cited as having publicly boasted about manipulating a killer SARS-like virus in Wuhan and as having claimed to have been "working with" the U.S. Central Intelligence Agency.[1]
 
-## Role in the Fauci back-channel emails
-
-Daszak's correspondence became evidence in the [[house-select-subcommittee-on-the-coronavirus-pandemic|House Select Subcommittee on the Coronavirus Pandemic]]'s investigation into whether senior National Institute of Allergy and Infectious Diseases officials deliberately evaded federal records law.[1] Fauci's senior advisor [[david-morens|David Morens]] emailed Daszak in 2021 to describe a means of routing material around the Freedom of Information Act, writing: "I can either send stuff to Tony on his private gmail, or hand it to him at work. He is too smart to let colleagues send him stuff that could cause trouble."[1]
-
-That email, surfaced by the subcommittee, prompted committee chairman [[brad-wenstrup|Brad Wenstrup]] to request access to Fauci's personal email and cellphone records ahead of Fauci's planned testimony, and to open an investigation into what Wenstrup called a "secret back channel" alluded to in separate Morens correspondence.[1]
+The article used Daszak's remarks to frame the pandemic-response apparatus as self-interested, arguing that the treaty and IHR prepare for a "purported inevitability" of outbreaks rather than cracking down on the creation of bioweapons in U.S.-funded laboratories.[1]
 
 ## References
 
-1. Badlands Brief — "Manhatt-Insanity, Biden Gorillas & Muskian Moves", URL: https://badlands.substack.com/p/badlands-news-brief-b6c
+1. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse

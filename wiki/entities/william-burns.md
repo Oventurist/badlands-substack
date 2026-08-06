@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, diplomacy, russia, wikileaks, cable]
-sources: [raw/a-bright-red-line.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f99.md]
+sources: [raw/a-bright-red-line.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee7.md, raw/badlands-news-brief-f99.md, raw/cataclysmic-silence.md]
 confidence: medium
 ---
 
@@ -106,3 +106,9 @@ In early November 2023 the White House dispatched Burns to Israel, where he arri
 ## Reported regular visits to Kyiv (2023)
 
 In a July 2023 CNN interview, host [[erin-burnett|Erin Burnett]] told Ukrainian President [[volodymyr-zelensky|Volodymyr Zelensky]] that "the U.S. CIA Chief Bill Burns has come and visited you regularly. He was here recently," and asked what Zelensky had told him about plans to retake territory in the counteroffensive.[13] Zelensky confirmed a good relationship with the [[central-intelligence-agency|CIA]] and frequent intelligence discussions with the agency, and was reportedly surprised that his regular, confidential conversations with Burns had leaked to the press.[13]
+
+## Rome ceasefire talks (July 2024)
+
+On the Sunday before the [[assassination-of-ismail-haniyeh|assassination of Ismail Haniyeh]], Burns was in Rome meeting negotiators from Qatar and Egypt to discuss a ceasefire between [[israel|Israel]] and [[hamas|Hamas]], and officials were hopeful an agreement was about to happen.[14] Within a few hours of the meeting, Hamas released a statement saying the Israelis were going back on their promises, and the conversations began to fall apart; days later Haniyeh, described by Fox News correspondent [[trey-yingst|Trey Yingst]] as Hamas's head negotiator, was killed in Tehran.[14] Badlands contributor [[ryan-delarme|Ryan DeLarme]] noted Burns's memberships in the World Economic Forum, Bilderberg, and the Munich Security Conference circles in describing him as Biden's CIA director.[14]
+
+14. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence

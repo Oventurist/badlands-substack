@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [yemen, red-sea, iran-proxies, shipping]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e39.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-37f.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-a89.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-bd6.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -129,3 +129,9 @@ By December 20, 2023, logistics company [[kuehne-nagel|Kuehne + Nagel Internatio
 In January 2024 the [[joe-biden|Biden]] administration announced it would redesignate the Iran-backed Houthis as a terrorist group, three years after removing them from the Foreign Terrorist Organizations list, in response to repeated attacks on shipping in the Red Sea.[18] The group was placed on the Specially Designated Global Terrorist (SDGT) list, triggering sanctions intended to deter further attacks on global trade in the Red Sea and Gulf of Aden.[18] A senior administration official said the attacks were "a clear example of terrorism and a violation of international law and a major threat to life, global commerce," and that they jeopardized the delivery of humanitarian assistance.[18]
 
 The decision followed dozens of Houthi attacks on commercial vessels, including anti-ship ballistic missiles launched from Yemen into the Red Sea; the group said the campaign was a response to Israel's military operations against Hamas in the Gaza Strip.[18] [[burning-bright|Burning Bright]] framed the reversal as another instance of the Biden administration undoing its own reversal of a [[donald-trump|Trump]] administration decision in full public view, calling it a distinctly "Devolution-y" pattern.[18]
+
+## Continued strikes on Israel after the 2025 US ceasefire
+
+In May 2025 the Houthis continued launching ballistic missiles at Israel despite a ceasefire deal reached with the United States, prompting Senator [[lindsey-graham|Lindsey Graham]] to say he was "very sad and disappointed" that the attacks persisted after all the efforts to deal with the group.[19] Graham suggested that President [[donald-trump|Donald Trump]]'s desire to resolve conflicts quickly might not serve US interests and said he expected [[israel|Israel]] might act against Iran directly in response.[19] Badlands commentary argued that the Houthis would continue attacking Israel only so long as the IDF operated in Gaza, and that negotiating peace would end the strikes.[19]
+
+19. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, taxation, democrats, massachusetts, wealth-tax]
-sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-677.md]
+sources: [raw/badlands-news-brief-31b.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-677.md, raw/celebrating-15-years-of-indictments.md]
 confidence: medium
 ---
 
@@ -34,8 +34,13 @@ On May 28, 2025, Warren, a senior member of the Senate Armed Services Committee,
 
 Warren is a vocal critic of cryptocurrency who has pushed to clamp down on the nascent industry.[4] In a re-election advertisement posted to X in March 2023 she said she was building an "anti-crypto army," a phrase the [[donald-trump|Trump]] campaign seized on in May 2024 when it announced it would begin accepting cryptocurrency donations through Coinbase Commerce.[4] The campaign cast Warren as a surrogate for President [[joe-biden|Joe Biden]] and framed her stance as an attack on "Americans' right to make their own financial choices," declaring that "MAGA supporters, now with a new cryptocurrency option, will build a crypto army moving the campaign to victory on November 5th!"[4]
 
+## Bitcoin criticism
+
+A January 2024 Badlands Brief essay on the fifteenth anniversary of the [[bitcoin-genesis-block|Bitcoin Genesis Block]] cited Warren — referred to derisively as "Senator Pocahontas" — together with [[jamie-dimon|Jamie Dimon]] as examples of figures for whom [[bitcoin|Bitcoin]] "lives rent-free" in the mind because it cannot be stopped and steadily erodes what the author called their abstract power hierarchy.[5] The essay grouped both under the adage that "those who scream the loudest" reveal the most about what threatens them.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Government Spending & Unprecedented Unhappiness", URL: https://badlands.substack.com/p/badlands-news-brief-31b
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 3. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 4. Badlands Brief — "Badlands News Brief: Globalists Threaten Their Own as Bidenomics Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-677
+5. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politics, tech, education, culture]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f9f.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-6fd.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-53d.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-ac1.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f9f.md, raw/believe-half-of-what-you-see.md]
 confidence: low
 ---
 
@@ -87,6 +87,10 @@ Days after the first Republican primary debate — which [[donald-trump|Donald T
 
 Badlands commentators were skeptical. [[ryan-delarme|Ryan DeLarme]] dismissed the story as a slow-news-day write-up and pointed to [[michael-flynn|Michael Flynn]]'s appearance on the PBD Podcast, where Flynn called Ramaswamy's political and life experience "razor thin" while conceding he would make a good Treasury Secretary; DeLarme read Flynn's simultaneous acknowledgment of frequent communication with Trump as a sign the ticket question had already been settled internally.[16] [[johnny-q|Johnny Q]] said he was no Vivek fan and cited Ramaswamy's business ties to a vaccine company as a concern, while conceding it was a net positive that he had surpassed [[ron-desantis|Ron DeSantis]] with ease, and expressing trust in Trump's ultimate judgment.[16] [[burning-bright|Burning Bright]] argued that "Vivek's rise is directly proportional to DeSantis's fall," citing [[just-human|Just Human]] on donors jumping from one sinking ship to the next, and read Trump's praise as "a pretty epic dig" — patting Ramaswamy on the head and sending him off with "a glass of Vice President commiserations."[16]
 
+## Badlands commentary on the 2023 debates
+
+In the November 2023 essay "Believe Half of What You See," [[erik-carlson|Erik Carlson]] wrote that Ramaswamy was burning every bridge in the GOP while [[donald-trump|Donald Trump]] stayed away holding rallies, comparing him to Don Rickles at a celebrity roast where none of the targets were laughing.[17] Carlson argued that Ramaswamy was doing Trump's work for him — attacking rivals on the debate stage — while sparing Trump the appearance of dividing the party, which he judged a smart move, since Republican voters might see Trump as a "big ol' meany" if he did the demolition himself.[17]
+
 ## References
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
 2. Badlands Brief — "Trump Rugs the Zionists; FBI Raids the Virginia Democrats", URL: https://badlands.substack.com/p/badlands-brief-6fd
@@ -104,3 +108,4 @@ Badlands commentators were skeptical. [[ryan-delarme|Ryan DeLarme]] dismissed th
 14. Badlands Brief — "Globalists Are Having a Bad Time ...", URL: https://badlands.substack.com/p/badlands-news-brief-d68
 15. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
 16. Badlands Brief — "Badlands News Brief: Trump Trolls, Tucker Trends & Ukraine Rages", URL: https://badlands.substack.com/p/badlands-news-brief-f9f
+17. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see

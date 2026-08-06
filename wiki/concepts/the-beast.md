@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [eschatology, revelation, antichrist, prophecy, globalism]
-sources: [raw/are-we-entering-the-millennial-reign.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/death-blossom.md]
 confidence: medium
 ---
 
@@ -28,3 +28,11 @@ Applied to the present, he argues there is no shortage of data to support the co
 
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
+
+## "Death Blossom" (November 2022)
+
+In "Death Blossom," published at Badlands Media on November 23, 2022, [[burning-bright|Burning Bright]] used the Beast as his controlling metaphor for the globalist "System of Systems" that the Fifth-Generation War is being fought against.[2] He described the Beast as trapped in a ravine at the edge of the world — tired, bleeding from many wounds, harried by hounds and shadowed by hunters from the cliffs — and therefore paranoid, reactive and "more prone to lunging and swiping and biting than of thinking."[2] Its movements are fast and its attacks erratic, and every outward move it manages to action only pushes it one step closer to going over the edge or collapsing in the bloody trenches it has dug in the ice and snow.[2]
+
+Central to the essay is the observation that the Beast remains lethal precisely because it is dying: while it knows it is doomed, to the hounds nearest its snapping maw and splitting claws its power appears magnified as it approaches its inevitable ending.[2] Burning Bright identified the Beast explicitly as the System of Systems spanning the Political, Narrative, Cultural and Social domains, and argued that those systems must first be recognized for what they are before they can be taken down.[2] The essay's title refers to the indiscriminate, all-directions expenditure of psychological, narrative and kinetic ammunition that he read as the signature of a cornered enemy — the reason writers at Badlands Media describe the globalist side as the "Finite" or losing player in the conflict.[2]
+
+2. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom

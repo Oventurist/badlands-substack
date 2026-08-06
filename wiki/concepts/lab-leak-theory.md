@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [covid-origins, wuhan, gain-of-function, accountability]
-sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-brief-67a.md, raw/badlands-brief-d94.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-ca7.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-fbd.md]
 confidence: medium
 ---
 
@@ -81,3 +81,11 @@ In April 2023, former Director of National Intelligence [[john-ratcliffe|John Ra
 
 [[burning-bright|Burning Bright]] treated the testimony as corroboration of long-standing Truth Community claims, noting continued internal debate over not only the origins of COVID-19 but its nature — virus, bioweapon, PsyOp, PsyAct, or all of the above — and advising readers to focus less on the actual and more on the potential, since any eventual reveals would further expose the [[deep-state|Deep State]]'s [[system-of-systems|System of Systems]].[8]
 9. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## Chinese rejection and counter-accusation (April 2025)
+
+On April 30, 2025 the Chinese government issued [[2025-china-covid-origins-white-paper|a white paper]] insisting that the lab leak theory was "extremely unlikely" and accusing the United States of being the true origin point of COVID-19.[10] Beijing said "substantial evidence" suggested the virus might have been present in the United States earlier than the outbreak in China, and accused Washington of "shamelessly politicizing SARS-CoV-2 origins tracing" to divert attention from its own pandemic failures.[10] The counter-accusation followed the White House's revamping of its COVID-19 information earlier that month to assert that the virus had leaked from the [[wuhan-institute-of-virology|Wuhan Institute of Virology]], a position President [[donald-trump|Donald Trump]] had publicly declared.[10]
+
+Badlands commentary predicted that the Chinese narrative would incrementally lead back to Ukraine and the biological research facilities that [[victoria-nuland|Victoria Nuland]] acknowledged the United States had funded there, potentially implicating [[hunter-biden|Hunter Biden]], [[metabiota|Metabiota]] and [[rosemont-seneca|Rosemont Seneca]].[10]
+
+10. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd

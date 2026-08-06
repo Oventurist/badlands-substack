@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [open-society-foundations, philanthropy, soros, ngo]
-sources: [raw/badlands-news-brief-228.md, raw/badlands-news-brief-93d.md]
+sources: [raw/badlands-news-brief-228.md, raw/badlands-news-brief-93d.md, raw/did-israel-possess-foreknowledge.md]
 confidence: medium
 ---
 
@@ -26,7 +26,13 @@ The handover was made public in June 2023, when [[george-soros|George Soros]], t
 
 [[breitbart|Breitbart]] reported that Alex Soros had visited the [[white-house|White House]] at least 17 times in just over a year and had met with prominent Democrats.[2] Badlands contributor [[ryan-delarme|Ryan DeLarme]] noted the unusual publicity of the transfer given his father's preference for discretion.[2] Contributor [[johnny-q|Johnny Q]] wrote that Alex Soros was concerned about [[donald-trump|Donald Trump]] retaking the White House, was positioned on the far left on abortion and transgender issues, had taken an interest in District Attorney [[alvin-bragg|Alvin Bragg]]'s New York case and commented on the classified-documents case assigned to Florida, and intended to further advance the [[open-society-foundations|Open Society Foundations]].[2]
 
+
+## Ukraine reconstruction financing
+
+In December 2023, Aleksander Soros met with Ukrainian President [[volodymyr-zelensky|Zelensky]] to reaffirm the commitment of his [[open-society-foundations|Open Society Foundations]], described as Ukraine's largest independent financier.[3] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited the meeting as evidence that the Ukraine conflict was entering the phase in which financial interests circle a war-torn region for reconstruction contracts, alongside preparations by [[blackrock|BlackRock]] and [[jpmorgan-chase|JPMorgan]] to mobilize private and public capital toward rebuilding the Ukrainian economy.[3] See [[war-profiteering|war profiteering]].[3]
+
 ## References
 
 1. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
+3. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cia, state-department, iran, neoconservatism]
-sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md]
+sources: [raw/badlands-brief-d9f.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-275.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -25,8 +25,13 @@ Asked on The Guy Benson Show in late March 2024 whether he would be open to serv
 
 In the third episode of [[tucker-on-twitter|"Tucker on Twitter"]] on June 13, 2023, [[tucker-carlson|Tucker Carlson]] singled out Pompeo for a particularly scathing assessment while cataloguing the internal enemies [[donald-trump|Donald Trump]] accumulated in office.[3] Carlson said the former Secretary of State and CIA Director "undermined Trump's often-stated commitment to peace and non-intervention abroad, at every turn," and that "his every waking hour was devoted to fomenting war in some far away foreign country or other."[3] He also derided Pompeo's flattery of Trump as "indelibly repulsive," saying, "No one with self respect could do that, but Mike Pompeo did it effortlessly, with relish and verve."[3] Carlson noted that Pompeo had since aligned with the [[department-of-justice|Justice Department]] in arguing that the classified-documents precedent set in the Hillary Clinton matter should not shield Trump.[3]
 
+## Alleged dismantling of CIA supercomputers (Badlands analysis)
+
+Badlands contributor Joe Lange argues that a principal reason for placing Mike Pompeo as director of the [[central-intelligence-agency|CIA]] was to locate and take down the agency's seven [[snow-white-supercomputers|Snow White supercomputers]].[4] According to this account Pompeo cleansed the top of the CIA and put the three machines located in [[north-korea|North Korea]] — numbers 1, 2 and 5 — offline, which severed the mechanism of control over [[kim-jong-un|Kim Jong Un]] and prevented [[barack-obama|Barack Obama]] from making secret contact with him.[4] The remaining four systems, located in [[armenia|Armenia]], were all taken offline on the same day, August 30, 2018, months after the velvet revolution that removed the CIA-aligned Armenian leadership.[4]
+
 ## References
 
 1. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 2. Badlands Brief — "Badlands News Brief: Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
 3. Badlands Brief — "Badlands News Brief: Tucker's Tour de Force, Trump Besieged & More", URL: https://badlands.substack.com/p/badlands-news-brief-275
+4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

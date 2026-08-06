@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, fbi, cia, badlands-brief]
-sources: [raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md]
+sources: [raw/badlands-brief-a89.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-a04.md, raw/durham-continues-to-reveal-previously.md, raw/do-you-believe-in-coincidences.md]
 confidence: medium
 ---
 
@@ -37,9 +37,19 @@ Whistleblower disclosures released by Director of National Intelligence [[tulsi-
 In a July 28, 2025 Fox News interview, [[cia|CIA]] Director [[john-ratcliffe|John Ratcliffe]] described the dossier as the instrument of "a Hillary Clinton campaign scheme," alleging that [[hillary-clinton|Hillary Clinton]] conspired to falsely accuse [[donald-trump|Donald Trump]] of colluding with Russia, and that Clinton, [[james-comey|James Comey]] and [[john-brennan|John Brennan]] lied under oath about their involvement.[5]
 
 
+## Disclosures at the Danchenko trial
+
+Evidence surfaced by Special Counsel [[john-durham|John Durham]] at the October 2022 [[igor-danchenko|Danchenko]] trial established that the [[fbi|FBI]] verified none of the dossier allegations it lifted into the spy warrant on [[carter-page|Carter Page]].[6] With the 2016 election approaching and no corroboration in hand, the Bureau offered [[christopher-steele|Christopher Steele]] up to $1 million in October 2016 to substantiate the reporting; Steele could not verify a single allegation.[6] At the time the warrant issued, Steele had not identified his primary sub-source to the Bureau, and the [[crossfire-hurricane|Crossfire Hurricane]] team supposedly learned only in late December that the sub-source was Danchenko — a man the FBI's Baltimore field office had investigated for suspected espionage.[6] The warrant was renewed three times regardless, the last renewal involving the [[mueller-special-counsel-investigation|Mueller Special Counsel's Office]].[6] The trial also identified longtime Democratic operative [[charles-h-dolan-jr|Charles H. "Chuck" Dolan]] as one of the dossier's sources.[6] Badlands contributor [[brian-cates|Brian Cates]] speculated, without claiming proof, that data stolen from federal databases in the course of building the [[alfa-bank-hoax|Alfa Bank Hoax]] may also have found its way into the dossier.[6]
+
+## Basis for the Special Counsel appointment
+
+Badlands Media's "Do You Believe in Coincidences?" treats the dossier as the sole substantive basis for both the [[carter-page-fisa-warrants|Carter Page FISA warrants]] and the appointment of a Special Counsel by Deputy Attorney General [[rod-rosenstein|Rod Rosenstein]].[7] The article says [[bruce-ohr|Bruce Ohr]] served as intermediary between [[christopher-steele|Christopher Steele]], the [[fbi|FBI]] and [[crowdstrike|CrowdStrike]], while [[nellie-ohr|Nellie Ohr]] gathered material for the dossier at CrowdStrike, with the whole product paid for by [[hillary-clinton|Hillary Clinton]].[7] A transcript published in a Q drop depicts [[robert-mueller|Robert Mueller]] telling Attorney General [[william-barr|William Barr]] that the dossier "along with media corroboration of those findings" was the justification for the surveillance campaign, that its partisan funding was "never taken into consideration," and that the FISA court was not made aware of all details surrounding it.[7]
+
 ## References
 1. Badlands Brief — "Trump's DOJ Gets Busy as the Boss Jets to Beijing", URL: https://badlands.substack.com/p/badlands-brief-a89
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 3. Badlands News Brief — "A Biden, a Clinton and a Trump Walk Into a SCIF", URL: https://badlands.substack.com/p/badlands-news-brief-228
 4. Badlands Brief — "Brennan Decries Judge Shopping & JD Says It's Okay to Be White!", URL: https://badlands.substack.com/p/badlands-news-brief-795
 5. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
+6. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
+7. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences

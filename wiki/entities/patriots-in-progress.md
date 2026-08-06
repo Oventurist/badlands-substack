@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [substack, badlands-media, citizen-journalism, bitcoin, prophecy]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: medium
 ---
 
@@ -34,8 +34,25 @@ Patriots in Progress contributed two analyses to that day's [[badlands-news-brie
 
 On the [[iran-russia-banking-integration|integration of Iranian and Russian banking systems]], the contributor argued that objections to [[swift|SWIFT]] stem from its historical use to coerce political compliance, that sanctions frequently harm ordinary citizens through falling currency demand, and that the move — alongside [[brics|BRICS]] discussions of a shared currency basket — pointed toward the eventual end of the [[petrodollar|petrodollar]] system and a possible hyperinflation event.[4]
 
+## "Celebrating 15 Years of Indictments and Justice!" (January 2024)
+
+On January 3, 2024 — the fifteenth anniversary of the [[bitcoin-genesis-block|Bitcoin Genesis Block]] — the contributor, who signs as "PIP," published a long essay for Badlands Media arguing that the justice many anons had been awaiting has already been delivered, in a form they did not expect.[5] The piece opened by establishing definitions of wrongdoing, justice and incentive drawn from Oxford Languages, invoked the Golden Rule of Matthew 7:12, and grounded its ethics in the inviolability of private property and a person's claim on the products of their own labor.[5]
+
+The essay argued that the information war splits into a group exposing corruption and a group concealing it, and that the first group repeatedly fails because it attacks symptoms (lies) instead of the root cause (incentives).[5] Applying 1 Timothy 6:10 — the love of money as the root of all kinds of evil — the author held that leaders will always debase their population's money for gain, producing a "system of slavery" sustained by the hidden tax of [[inflation|inflation]].[5]
+
+Its conclusion was that [[bitcoin|Bitcoin]] already constitutes both the indictment and the arrest of that system, citing [[jason-lowery|Jason Lowery]]'s [[softwar|Softwar]], [[julian-assange|Julian Assange]], [[edward-snowden|Edward Snowden]]'s NOSTR post on [[charlie-munger|Charlie Munger]], and Sun Tzu's maxim that every battle is won before it is fought.[5] A postscript directed readers still "bloodthirsty for gallows" at [[guantanamo-bay|GITMO]] to Deuteronomy 32:35, closing with "GOD WINS!"[5] The article carried the standard Badlands disclaimer that contributor pieces represent the author's own opinions, and pointed readers to more of PIP's free work at the Patriots in Progress Substack.[5]
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 3. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 4. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+5. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
+
+## "Don't Bring Shiny Rocks to Digital Gunfights" (April 2023)
+
+On April 7, 2023, Patriots in Progress published a Badlands Media essay subtitled "Using Bitcoin to Impose Severe Physical Costs on AI," which opened with the greeting "Shadilay, Pepes!" and framed itself as a summary of a thought exercise about converging technological breakthroughs.[6] The author identified himself professionally as an Aerospace System Safety Engineer who had spent tens of thousands of hours identifying, prioritising and mitigating hazards on highly complex systems, and applied that discipline to [[artificial-intelligence|artificial intelligence]].[6]
+
+The essay listed decentralised and centralised blockchains, AI, virtual reality, 3D printing, big data, the internet of things and advanced autonomous robotics as technologies converging on the same period of history, and argued that humanity must either harness and mitigate them or risk being enslaved in "a digital prison from which there is no escape."[6] It drew on Major Jason Lowery's [[softwar|Softwar]] and Jeff Booth's *The Price of Tomorrow*, and closed by proposing [[bitcoin|Bitcoin]] micro-transactions — including a Counterparty-protocol asset the author himself minted — as a filter imposing "severe physical costs" on AI-generated data.[6] The author noted his work with GMONEY on [[rugpull-radio|Rugpull Radio]] discussing the interconnections of Q, Trump, Bitcoin and Pepe, and directed readers to his own Patriots in Progress Substack.[6]
+
+6. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital

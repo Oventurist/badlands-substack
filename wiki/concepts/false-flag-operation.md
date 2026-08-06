@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, psychological-operations, media]
-sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md]
+sources: [raw/badlands-news-brief-096.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-c50.md, raw/death-blossom.md, raw/false-flags-and-the-occult.md]
 confidence: medium
 ---
 
@@ -36,3 +36,25 @@ In July 2023 the term was deployed simultaneously by both belligerents in Ukrain
 1. Badlands Brief — "Badlands News Brief: Debt Ceiling, Cancel Culture & Incorruptibility", URL: https://badlands.substack.com/p/badlands-news-brief-096
 2. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
 3. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+
+## Seeding false-flag literacy (November 2022)
+
+In "Death Blossom" (November 23, 2022), [[burning-bright|Burning Bright]] treated the false flag as one of the core "Macro concepts" that the Truth community has engaged with for years and that mainstream audiences were beginning to absorb.[4] He argued that [[donald-trump|Donald Trump]]'s November 2022 narrative deployments served, among other purposes, to seed the [[collective-mind|Collective Mind]] with false-flag literacy alongside the broader complexity of [[fifth-generation-warfare|Fifth-Generation Warfare]].[4]
+
+His principal contemporary example was the [[2022-poland-missile-strike|missile strike on Polish territory]], which he read as an attempt to attribute an errant strike to [[russia|Russia]] in order to justify escalation — an operation he said fell apart within roughly twelve hours once subjected to decentralized public analysis.[4] The episode, in his framing, demonstrated that the decisive counter to a false flag is mass investigation, dissection and dissemination of the story "before the First Act even gets going."[4]
+
+4. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+
+## Definition and historical precedent (2023)
+
+In "False Flags and the Occult" (March 17, 2023), [[justin-deschamps|Justin Deschamps]] defined a false flag as a political or military action carried out with the intention of blaming an opponent for it.[5] The goal is to gain advantage over the populace, another state actor or another country by triggering an event and attributing it elsewhere; a false flag can also consist of spinning an organic event to suit the agenda of a control group, a definition broad enough that Deschamps argued false flag operations are ongoing and routine.[5]
+
+He noted that governments rarely openly admit orchestrating such operations, but that it does happen, citing two entries from a widely circulated list of forty-two admitted cases: the 1931 [[mukden-incident|Mukden Incident]], in which Japanese troops blew up a train track and blamed China to justify invading Manchuria, and the [[gleiwitz-incident|Gleiwitz incident]], in which an SS major admitted at Nuremberg to faking attacks on German people and resources and blaming the Poles to justify the invasion of Poland.[5]
+
+## Occult and financial framing
+
+Deschamps situated false flags within a broader structure in which elite oligarchs, globalists and their middle-manager functionaries in banking, trade, finance and government work hand-in-glove with covert intelligence agencies.[5] He cited [[whitney-webb|Whitney Webb]]'s *One Nation Under Blackmail* for the argument that criminal cartels do not merely exploit the banking system but work directly with it to manufacture chaos that governments then legislate to solve at taxpayer expense.[5] Within the framework of [[mark-passio|Mark Passio]]'s [[chaos-sorcery|chaos sorcery]], the false flag is one of many cultural-warfare weapons wielded by what Passio calls the dark occult groups of the world.[5]
+
+The article's central claim is that the number of suspected false flag attacks falling on alleged occult holidays suggests an occult-religious significance, and specifically that a disproportionate share cluster in the forty-day [[season-of-sacrifice|season of sacrifice]] between March 19th and May 1st.[5] The [[oklahoma-city-bombing|Oklahoma City bombing]] of April 19, 1995 is presented as the archetypal case.[5]
+
+5. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult

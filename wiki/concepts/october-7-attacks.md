@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, hamas, gaza, terrorism, middle-east, iran]
-sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3b2.md]
+sources: [raw/badlands-news-brief-023.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-ff6.md, raw/did-israel-possess-foreknowledge.md, raw/from-ye-to-oy-vey.md]
 confidence: high
 ---
 
@@ -59,8 +59,35 @@ The attacks reverberated internationally within days. Russian President [[vladim
 
 Former President [[donald-trump|Donald Trump]], speaking in Cedar Rapids, Iowa, said the United States was "closer to World War III than we've ever been," warning that another conflict could involve "weaponry the likes of which this world has never seen before."[4] Google search interest in the phrase "Will I get drafted to war?" rose above its February 2022 peak from the Russian invasion of Ukraine, reaching its highest level since the 2007 Iraq troop surge.[4]
 
+
+## Foreknowledge allegations
+
+In December 2023, Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argued that Israeli authorities and unidentified financial actors may have possessed advance knowledge of the assault, which he referred to by its Hamas codename Operation Al-Aqsa Flood.[6] He noted that in the days before the massacre — which claimed more than 1,400 lives — [[egypt|Egypt]] reportedly warned that "something big" was coming, yet no precautions were taken to bolster defenses along what is said to be one of the most fortified borders on the planet.[6] Reporting by The Guardian and Haaretz indicated Israeli intelligence had picked up chilling warnings and evidence of Hamas training for such an attack months in advance.[6]
+
+DeLarme also cited reporting that the operation's success surprised Hamas operatives themselves, who essentially ran out of plan after advancing further toward Tel Aviv than anticipated.[6] A study by [[robert-jackson-jr|Robert J. Jackson Jr.]] and [[joshua-mitts|Joshua Mitts]] documenting a spike in [[short-selling|short selling]] of Israeli securities before October 7 became the centerpiece of the argument, and prompted an inquiry by the [[israel-securities-authority|Israel Securities Authority]].[6] These claims are treated at length at [[israel-october-7-foreknowledge-allegations|Israel October 7 foreknowledge allegations]].[6]
+
+## Badlands skepticism and the Ye anniversary (December 2023)
+
+A December 2023 Badlands Media essay by Erik Carlson noted that the Hamas attack of October 7, 2023 fell 366 days after [[kanye-west|Ye (Kanye West)]] appeared on [[tucker-carlson|Tucker Carlson]]'s Fox program to discuss the [[white-lives-matter-t-shirt-controversy|White Lives Matter T-shirt controversy]], and used the coincidence to frame a year-over-year comparison of narrative management.[7]
+
+The essay expressed open skepticism of the official account, citing the common claim that Israel helped create [[hamas|Hamas]] in 1987, the density of surveillance around Gaza, reports that the Israeli military was on stand-down for the first six to seven hours of the attacks, and Egypt's claim to have warned Israel of a potential attack several days beforehand.[7] Carlson concluded that only two explanations were available — either [[israel|Israel]] knew and chose to do nothing, or its military was the most inept in history — and questioned why the United States would respond by sending more money, noting that the subsequent destruction of Gaza made the incompetence explanation harder to credit.[7]
+
+He also described the American reaction as a forced binary in which few would say they supported neither side, with neutrality treated as antisemitic by one camp and Islamophobic by the other.[7] The essay highlighted what it called a "glitch in the Matrix" in progressive support for Hamas — gay, trans and feminist activists marching for a movement whose governing norms would imprison or execute them, and Palestinian women facing up to three years in prison for non-life-saving abortions.[7] It linked the demographic backdrop to [[barack-obama|Barack Obama]]'s administration dropping 26,171 bombs on seven Muslim-majority countries in 2016 alone while admitting their citizens as refugees and granting citizenship.[7] Also noted was the viral resurfacing and rapid scrubbing of a 21-year-old letter attributed to [[osama-bin-laden|Osama bin Laden]] during the conflict.[7]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 3. Badlands News Brief — "Israel Strikes Again as The FED Pivots", URL: https://badlands.substack.com/p/badlands-news-brief-2f2
 4. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
+
+## Casualty accounting and hostage revisions (October 9, 2023)
+
+Two days after the assault, Israeli authorities and emergency organizations produced the first large-scale accountings of the killing.[5] At least 900 Israelis were reported killed and nearly 2,400 wounded, the hostage estimate was revised upward to roughly 150, and Palestinian emergency sources reported 560 dead and more than 2,700 wounded in Gaza amid continued Israeli bombardment.[5] The volunteer rescue organization [[zaka|ZAKA]] announced that it had cleared 108 bodies from [[kibbutz-beeri|Kibbutz Be'eri]] alone and was not finished, describing a site littered with weapons, grenades and RPGs.[5] President [[joe-biden|Joe Biden]] confirmed that eleven Americans had been killed and said more were "likely" in captivity.[5]
+
+Reporting the same day indicated that officers of the [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guard Corps]] had planned and approved the operation, a claim that immediately reshaped the domestic US political argument over Iran policy and the suspended envoy [[rob-malley|Rob Malley]].[5]
+
+[[burning-bright|Burning Bright]] framed the moment through the lens of information warfare, writing that "all real wars are the result of lost Info Wars" and praising what he saw as the decentralized [[truth-community|Truth Community]]'s refusal to be provoked into mindless warmongering.[5] He argued that emotionally charged rhetoric is a feature rather than a bug of the [[war-of-stories|War of Stories]], deployed by all sides on the game board including patriots, and that the contest underway was a war for the collective mind.[5]
+
+5. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+6. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge
+7. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

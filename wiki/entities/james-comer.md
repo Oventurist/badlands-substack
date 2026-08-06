@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, oversight, republican-party, kentucky]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-de8.md, raw/badlands-news-brief-e81.md, raw/badlands-news-brief-eca.md, raw/badlands-news-brief-f54.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-1cd.md, raw/badlands-brief-314.md, raw/badlands-brief-6f4.md, raw/badlands-brief-e9e.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-786.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-9e7.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-b86.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-c9d.md, raw/badlands-news-brief-d06.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-de8.md, raw/badlands-news-brief-e81.md, raw/badlands-news-brief-eca.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-fbc.md]
 confidence: medium
 ---
 
@@ -149,6 +149,10 @@ Speaking to Fox News on Wednesday, July 5, 2023, Comer said he was "hopeful" tha
 
 [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] responded that the disclosures had reached the point of "so what," arguing that the [[hunter-biden-laptop|Biden Laptop Report]] had already been published and delivered repeatedly to law enforcement and justice officials with jurisdiction, and that what was needed was action rather than further evidence.[32]
 
+## July 2023 "organized crime" characterization
+
+In coverage summarized on July 1, 2023, Comer, as chairman of the [[house-oversight-committee|House Oversight Committee]], described the [[joe-biden|Biden]] family's international business arrangements as an "organized crime" operation.[33] He had also recently identified "six specific policy decisions" made by Joe Biden that he said indicated the president could be "compromised."[33] Comer's findings, along with material from whistleblowers, the [[hunter-biden-laptop|"Laptop from Hell"]], Sen. [[chuck-grassley|Chuck Grassley]], and the Senate's 2020 report, formed the basis of a widely circulated 19-point timeline of the family's dealings.[33]
+
 ## References
 
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
@@ -192,3 +196,4 @@ On Tuesday, August 5, 2025, Comer formally issued deposition subpoenas compellin
 ## The $3 million CCP wire disclosure (March 2023)
 
 In mid-March 2023, Comer revealed that bank records obtained via subpoena had implicated a "new Biden family member" — one never before identified as part of what he called the influence-peddling scheme — in the [[house-oversight-committee|House Oversight Committee]]'s investigation into the first family's finances.[31] He said a $3 million wire from two individuals tied to the [[chinese-communist-party|Chinese Communist Party]] reached [[hunter-biden|Hunter Biden]] associate [[rob-walker|John "Rob" Walker]] just weeks after [[joe-biden|Joe Biden]] left the vice presidency in 2017, and that "the very next day after that wire was received, the Walker account started transferring money into three different Biden family members' accounts."[31] Comer made the disclosures in interviews with [[fox-news|Fox News]], including with host [[sean-hannity|Sean Hannity]], having said the week before that evidence of CCP money flowing to the Biden family was "as bad as we thought."[31] Badlands commentator [[burning-bright|Burning Bright]] noted that Comer was effectively accusing a sitting president of acting as an unregistered foreign agent of the CCP.[31]
+33. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [green-agenda, depopulation, global-governance, energy]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-158.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-70c.md, raw/badlands-news-brief-158.md, raw/defeating-the-depopulation-agenda.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ dwarfing the Yellow Vests, even as he argued for building France's industrial
 base to compete with China — messaging Badlands read as a concession to
 populist nationalism.[3]
 
+## Ehret's critique
+
+[[matthew-ehret|Matthew Ehret]] argues that the Green New Deal and the broader [[gaia-cult|Gaia religion]] masquerading as "ecologism" is nothing other than a new form of [[eugenics|eugenics]] presented as a socially conscious reform of the system.[4] He contends that the program is not even green, since a world covered by solar panels would increase desertification of the earth through heating, and that it has no connection to the original New Deal.[4] Reducing global CO2 emissions to "acceptable levels" in accord with the will of what he calls today's British Empire would, on his account, bring nothing but chaos, famine and depopulation.[4]
+
+Ehret traces the agenda's blueprint to the [[club-of-rome|Club of Rome]]'s 1972 study [[limits-to-growth|*Limits to Growth*]], and identifies eco-warrior central bankers such as [[mark-carney|Mark Carney]] and [[mario-draghi|Mario Draghi]] as the technocrats who began rewiring the world economy around Green New Deals and decarbonization — ignoring, he writes, that CO2 is plant food and that the carbon molecule is the driving force behind life on earth.[4] Against it he sets the Chinese-led [[belt-and-road-initiative|Belt and Road Initiative]], which he calls the "REAL New Deal," with more than 130 countries on board and the scale of twenty Marshall Plans.[4]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
 3. Badlands Brief — "Badlands News Brief: Middle Eastern Powder Kegs & Crisis Cascades Abound", URL: https://badlands.substack.com/p/badlands-news-brief-158
+4. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda

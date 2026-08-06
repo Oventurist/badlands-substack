@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law, trump-legal-defense, new-york]
-sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-news-brief-25f.md, raw/badlands-news-brief-652.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -28,3 +28,8 @@ On May 28, 2025, President [[donald-trump|Donald Trump]] announced on Truth Soci
 1. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
 2. Badlands Brief — "Badlands News Brief: Cocaine & Climate Change", URL: https://badlands.substack.com/p/badlands-news-brief-652
 3. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+4. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4
+
+## Memo directing dismissal of the Eric Adams case (February 2025)
+
+As acting Deputy Attorney General, Bove directed federal prosecutors in February 2025 to dismiss the corruption charges against New York Mayor [[eric-adams|Eric Adams]].[4] In a two-page memo obtained by The Associated Press, Bove — himself a former prosecutor in the Manhattan office that brought the case — stated that the decision was made without evaluating the strength of the prosecution and was not intended to undermine the attorneys who filed it.[4] He wrote that the timing of the charges and "more recent actions" by former U.S. Attorney [[damian-williams|Damian Williams]] had compromised the integrity of the proceedings, citing prejudicial pretrial publicity that could influence potential witnesses and the jury pool.[4] Adams had been accused of accepting bribes in the form of free or discounted travel and of receiving illegal campaign contributions.[4]

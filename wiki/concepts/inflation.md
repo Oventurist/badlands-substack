@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, federal-reserve, ponzi-scheme, economics]
-sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e40.md]
+sources: [raw/a-week-to-remember.md, raw/americas-greatest-threat.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-dfa.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md]
 confidence: medium
 ---
 
@@ -53,6 +53,12 @@ Inflation peaked at 9.1 percent annually in June 2022, a 40-year high that spark
 
 Badlands contributor [[patriots-in-progress|Patriots in Progress]] argued in January 2023 that the ramifications of massive fiat currency creation during the COVID-19 pandemic were plainly evident in Americans' grocery, gas and energy bills.[6] Year-over-year compounding inflation had produced large price increases across the board, and the higher cost of living significantly strained the average household budget, with 57% of Americans unable to afford a $1,000 emergency.[6] The [[2022-real-disposable-income-decline|decline in real disposable income during 2022]] was reported as the largest since 1932, leaving Americans as financially stretched as at any point since the Great Depression.[6]
 
+## Inflation as a hidden tax and "goal for theft"
+
+A January 2024 Badlands Brief essay described inflation as a "hidden tax" through which those able to create currency out of thin air appropriate the production and stored energy of people who must work to obtain that currency.[7] Noting a June 2023 report that inflation had fallen significantly from its prior-summer peak but remained double the [[federal-reserve|Federal Reserve]]'s 2 percent target, the author argued that maintaining any positive inflation target is by definition a policy goal of debasing the currency.[7]
+
+The essay quantified the effect: at 2 percent annual debasement a dollar is worth 50 cents after 35 years and roughly 25 cents after 70 years, meaning a lifetime of stored labor can be expropriated implicitly — before accounting for the explicit federal, state and local taxes layered on top.[7] It framed the resulting unlimited purchasing power as the mechanism by which corruption is concealed and justice avoided, and presented [[bitcoin|Bitcoin]]'s fixed supply as the elimination of that root-cause incentive.[7]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
@@ -60,3 +66,4 @@ Badlands contributor [[patriots-in-progress|Patriots in Progress]] argued in Jan
 4. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
 5. Badlands Brief — "Hunter's Plea, Powell's Plight & Trump's Plan", URL: https://badlands.substack.com/p/badlands-news-brief-dfa
 6. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+7. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [attorney, trump-legal-team, lawfare, 2020-election]
-sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-c40.md]
+sources: [raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-6d6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-c40.md, raw/badlands-news-brief-fa7.md]
 confidence: medium
 ---
 
@@ -52,6 +52,10 @@ On Monday, January 22, 2024, the trial of [[e-jean-carroll]]'s defamation suit a
 
 In April 2023 Habba obtained a concession from Carroll's attorney [[roberta-kaplan|Roberta Kaplan]] that [[e-jean-carroll|E. Jean Carroll]] had been told at some point about outside funding by a nonprofit, despite Carroll's earlier denials of outside backing.[7] Habba wrote to Judge [[lewis-kaplan|Lewis A. Kaplan]] raising significant concerns as to "the plaintiff's bias and motive in commencing the litigation."[7] She argued that Democratic mega-donor [[reid-hoffman|Reid Hoffman]] — "one of the largest donors to the Democratic party" and on record saying he would "spend as much as [he] possibly can" to prevent another Trump presidency — had since 2017 been "funding groups to create a bulwark against Mr. Trump's agenda."[7] Habba also noted that Hoffman had contributed more than $600,000 to the legal defense fund of Bean LLC, otherwise known as [[fusion-gps|Fusion GPS]], the firm behind the [[steele-dossier|Steele Dossier]].[7]
 
+## Election Integrity Task Force (April 2025)
+
+As U.S. Attorney for the District of New Jersey, Habba announced on April 29, 2025 the creation of a federal task force to preserve and protect the integrity of elections conducted in that district.[8] The body, named the [[election-integrity-task-force|Election Integrity Task Force]], consists of federal prosecutors from her office working alongside law enforcement officers from the [[fbi|Federal Bureau of Investigation]], the [[department-of-homeland-security|Department of Homeland Security]] and other federal agencies to implement the directives of President [[donald-trump|Trump]]'s March 25, 2025 executive order concerning elections.[8] Habba emphasized that her office and its federal partners were committed to ensuring the integrity of elections in the district and that the administration of all elections complies with federal law.[8] Badlands contributor [[ashe-in-america|Ashe in America]] welcomed the initiative's focus on voter list maintenance and election-crime prosecution while criticizing its jurisdiction as limited to New Jersey alone.[8]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Trump Card ...", URL: https://badlands.substack.com/p/badlands-news-brief-3b0
 2. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
@@ -60,3 +64,4 @@ In April 2023 Habba obtained a concession from Carroll's attorney [[roberta-kapl
 5. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
 6. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
 7. Badlands Brief — "Badlands News Brief: GART, 9/11 & Deep State Billionaires", URL: https://badlands.substack.com/p/badlands-news-brief-c40
+8. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7

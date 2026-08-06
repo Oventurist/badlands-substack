@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, military, pla, xi-jinping, purge]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-ee9.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-960.md, raw/badlands-news-brief-ee9.md, raw/empires-enigma.md]
 confidence: medium
 ---
 
@@ -49,3 +49,11 @@ In December 2024, [[taiwan|Taiwan]]'s Defense Ministry described a PLA naval sur
 In April 2023 the PLA staged three days of wargames around [[taiwan|Taiwan]] in response to President [[tsai-ing-wen|Tsai Ing-wen]]'s meeting with US House Speaker [[kevin-mccarthy|Kevin McCarthy]] in California, stating that it was rehearsing "sealing off" the island; see [[2023-chinese-military-drills-around-taiwan|2023 Chinese military drills around Taiwan]].[5] A PLA army statement said aircraft, ships and troops had been sent into "the maritime areas and air space of the Taiwan Strait, off the northern and southern coasts of the island, and to the island's east," and that the exercises included simulated "maritime blockades" and "targeted ambush assaults on enemy mooring vessels."[5] State broadcaster CCTV reported that forces "continued to maintain the situation of closely encircling the island" and that the command was "ready for combat at all times, and will resolutely destroy any type of 'Taiwan independence' separatist or foreign interference attempts."[5]
 
 5. Badlands Brief — "Badlands News Brief: Taiwan Tensions, More Leaks & Biden's Fall", URL: https://badlands.substack.com/p/badlands-news-brief-ee9
+
+## Command consolidation under Xi Jinping
+
+The December 2022 Badlands Media feature "Empire's Enigma" identifies the PLA's central command structure as the site of [[xi-jinping|Xi Jinping]]'s most direct hold on power.[6] Scholar [[tai-ming-cheung|Tai Ming Cheung]] of the University of California San Diego is quoted as observing in October 2017 that "No other Chinese Communist Party leader, not even Mao Zedong, has controlled the military to the same extent as Xi does today. Mao had to share power with powerful revolutionary-era marshals."[6]
+
+According to the article, Xi created for the first time a commander-in-chief position in the PLA Joint Battle Command, a designation typically split among generals.[6] Because the [[peoples-armed-police|People's Armed Police]] was simultaneously moved from the [[central-military-commission|Central Military Commission]] and the [[state-council-of-china|State Council]] to report to Xi personally, he came to hold sole authority over both the regular army and the paramilitary police for the first time in the history of the [[chinese-communist-party|Chinese Communist Party]].[6] The piece also records that his 2013–17 anti-corruption drive punished more than 100 generals and admirals, and that generals [[xu-caihou|Xu Caihou]], [[guo-boxiong|Guo Boxiong]] and [[sun-zhengcai|Sun Zhengcai]] were among six leaders removed over alleged coup attempts.[6]
+
+6. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma

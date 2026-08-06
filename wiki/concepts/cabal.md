@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy, elites, banking]
-sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md]
+sources: [raw/1913.md, raw/ai-can-help-us-expose-the-nwo.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/are-we-being-distracted.md, raw/balance-necessary-for-control.md, raw/expand-your-thinking.md]
 confidence: low
 ---
 
@@ -38,8 +38,22 @@ Against the common claim that [[central-bank-digital-currency|CBDCs]] are the ca
 
 [[erik-carlson|Erik Carlson]] extended the cabal concept from finance to culture, arguing that [[transgender-athletes|transgender participants]] in the [[paris-olympics-2024-opening-ceremony|Paris Olympics opening ceremony]] were being used by the Cabal to upset and distract the world — without understanding that they were being used, believing instead that they were being appreciated — while spectators failed to grasp that they were being purposely manipulated by the show.[4] He described the [[international-olympic-committee|Olympic Committee]] as having been commissioned by its controllers to make people angry.[4] The underlying purpose alleged is the same as in the financial sphere: a divided and distracted population is more easily controlled, and the anger was intended to conceal the dismantling of the old-guard financial system that [[donald-trump|Trump]] signalled through [[tax-free-tips|tax-free tips]] and his [[bitcoin|Bitcoin]] Conference remarks.[4]
 
+## Balance as a control mechanism
+
+In "Balance, Necessary for Control" (February 14, 2023), [[erik-carlson|Erik Carlson]] argued that the Cabal's power depends on keeping the population divided near the middle, since a lopsided majority triggers herd defection that makes the system fail — a stampede he compared to someone yelling "fire!" in a crowded theater.[5] He described a workable margin of about 52/48, warned that 51/49 invites fraud suspicions, and held that beyond roughly 60/40 control collapses.[5]
+
+On this account the Cabal also narrows the philosophical distance between the two parties, pairing [[rino|RINOs]] with moderate liberals so that "both sides work for the same people," and decides every four or eight years which side will win and which way policy will lean.[5] Carlson described the arrangement as [[kayfabe|kayfabe]] sustaining an [[illusion-of-democracy|illusion of democracy]], and said the Cabal "controls the world through illusion" so that when the illusion breaks its power ends.[5] He argued that [[donald-trump|Donald Trump]]'s election cost the Cabal control it had held for decades if not centuries, that election fraud was needed to hide the true size of his majority, and that the Cabal "risked everything" to reclaim the executive office and may have been forced to install [[joe-biden|Joe Biden]] despite preferring someone else.[5]
+
+## Symbolism as vulnerability
+
+The essay "Expand Your Thinking" (May 25, 2023) built on the [[qanon|Q]] statement that the cabal's "need for symbolism will be their downfall."[6] Its author, [[american-hypnotist|American Hypnotist]], reasoned that if the cabal uses symbolism to communicate out in the open without giving itself away to the masses, then decoding those symbols is sufficient to expose it — "easier said than done," he conceded, but a way forward.[6]
+
+On this view, right-brained associative and linguistic thinking is described as "a vital key we need to develop for defeating the cabal," and the website [[decoding-symbolism|Decoding Symbolism]] is recommended to [[anons|anons]] as a training ground for spotting symbolic correspondences within the framework of the Q drops.[6] The same essay treats mainstream culture and academia as vehicles for installed maps of reality, arguing that people credulously accept whatever comes from the mainstream and that this deference is itself a form of captured perception.[6]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
 2. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 3. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 4. Badlands Brief — "Are We Being Distracted?", URL: https://badlands.substack.com/p/are-we-being-distracted
+5. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
+6. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, film, media, culture, propaganda]
-sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-dbd.md, raw/does-the-cia-still-control-iran.md]
 confidence: medium
 ---
 
@@ -57,3 +57,10 @@ In June 2025, [[wikileaks|WikiLeaks]] claimed that Hollywood screenwriters "who 
 3. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
 4. Badlands Brief — "Badlands News Brief: Orange Friday, Election Action, & McKinsey's Gives Advice", URL: https://badlands.substack.com/p/badlands-news-brief-71f
 5. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+
+## Carlson on CIA script control (2023)
+
+In "Does the CIA Still Control Iran?", [[erik-carlson|Erik Carlson]] wrote that he considers Ben Affleck "one of the CIA's greatest assets in Hollywood," and that the [[central-intelligence-agency|CIA]] exercises considerable control over the industry, from Affleck to Matt Damon and George Clooney.[6] In his account the agency also controls writers and in many cases has final approval on scripts, with actors, directors, producers and writers tasked with making the CIA look good — or at least not as bad — and indispensable to democracy, while changing public perception of history.[6]
+
+Carlson listed *The Titanic*, *Schindler's List*, *Pearl Harbor*, *All the President's Men*, *Snowden*, *The Social Network* and [[argo-film|*Argo*]] as films produced to put out a CIA-preferred version of history, sometimes telling that history to audiences for the first time.[6] He noted that *Pearl Harbor* was released three months before 9/11, in his reading preparing minds to accept the propaganda that followed, and that *Argo* appeared just before the CIA admitted its involvement in the [[1953-iranian-coup|1953 Iranian coup]].[6] He explicitly disclaimed any Holocaust denial, saying only that "if your understanding of anything comes from a Hollywood movie, you are deceived."[6]
+6. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran

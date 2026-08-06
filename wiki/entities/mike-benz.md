@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, censorship, commentary]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md]
 confidence: low
 ---
 
@@ -52,3 +52,11 @@ Benz also weighed in on the viral outrage over the New York seizure and euthanas
 6. Badlands News Brief — "Strategy & Micro Protests", URL: https://badlands.substack.com/p/badlands-news-brief-71c
 7. Badlands Brief — "Badlands News Brief: Russia Responds as Trump's Revenge Tour Takes Shape", URL: https://badlands.substack.com/p/badlands-news-brief-9c6
 8. Badlands Brief — "Badlands News Brief: Marauding, Squirrel-Murdering Psychopaths Panic Ahead of the Election", URL: https://badlands.substack.com/p/badlands-news-brief-b01
+
+## Commentary on the USAID dismantling (February 2025)
+
+During the first month of [[donald-trump|Donald Trump]]'s second term — the period [[steve-bannon|Steve Bannon]] called the [[days-of-thunder|days of thunder]] — Benz featured prominently in interviews and lectures analyzing the exposure and dismantling of [[usaid|USAID]], which he characterized as "an angel that's lost its way."[9] While supportive of scrutinizing the agency, Benz cautioned that the operation carried civilizational risk, warning: "We are fundamentally restructuring the entirety of the American empire… we are conducting open heart surgery on the vital organs of the American empire itself, and I'm not fully sure that the people who are conducting that open heart surgery understand the anatomy of the organs they are operating on."[9]
+
+Benz's framework was influential enough that Badlands contributor [[ryan-delarme|Ryan DeLarme]] applied a "Benzian analysis" to the proposed closure of the [[department-of-education|Department of Education]], arguing that fragmenting the educational landscape could make it more susceptible to localized ideological battles and deepen America's culture war rather than unifying national identity.[9]
+
+9. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder

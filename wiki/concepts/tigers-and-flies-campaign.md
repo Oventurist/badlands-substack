@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, anti-corruption, xi-jinping, pla, purge]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-520.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-520.md, raw/empires-enigma.md]
 confidence: medium
 ---
 
@@ -27,3 +27,10 @@ In April 2025 Badlands commentary, [[burning-bright|Burning Bright]] presented t
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands News Brief — "Indian iPhones, A Sovereign Bromance, & Allegedly Real IDs", URL: https://badlands.substack.com/p/badlands-news-brief-520
+3. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma
+
+## Scope of the campaign per "Empire's Enigma" (December 2022)
+
+The Badlands Media China series feature "Empire's Enigma" records that [[xi-jinping|Xi Jinping]] spent the period from 2013 to 2017 waging a highly public war against corruption in the [[chinese-communist-party|Chinese Communist Party]], officially punishing 1.4 million party members, including more than 100 generals and admirals.[3] His stated goal was to "restore public respect for the Party," a matter he framed as one of "survival or extinction."[3]
+
+Xi subsequently expanded the [[central-commission-for-discipline-inspection|Discipline Commission]] to seek out corruption and levy punishment against local and government-adjacent officials, including doctors, professors and executives.[3] The article links the campaign to the early removal of six party leaders for alleged coup attempts — [[zhou-yongkang|Zhou Yongkang]], [[bo-xilai|Bo Xilai]], [[ling-jihua|Ling Jihua]], [[xu-caihou|Xu Caihou]], [[guo-boxiong|Guo Boxiong]] and [[sun-zhengcai|Sun Zhengcai]] — and to the transfer of judicial appointments from local councils to internal affairs, so that Xi and his loyalists have installed all Chinese judges since 2013.[3] [[burning-bright|Burning Bright]] argues that, read together, these measures may amount to the systematic rooting out of legacy globalist corruption from the halls of power in China rather than to simple autocratic consolidation.[3]

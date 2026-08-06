@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iaea, nuclear, diplomacy]
-sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-740.md, raw/badlands-news-brief-e54.md]
+sources: [raw/badlands-brief-5a2.md, raw/badlands-brief-740.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-ff1.md]
 confidence: medium
 ---
 
@@ -28,3 +28,9 @@ On Monday, April 15, 2024, in the aftermath of Iran's weekend drone and missile 
 1. Badlands Brief — "Tina Peters' Sentence Commuted; ISIS Killed in Africa", URL: https://badlands.substack.com/p/badlands-brief-5a2
 2. Badlands Brief — "Aliens. A Fake Kid Dies From Fake Measles. And the Princely Prosecution That Was Promised.", URL: https://badlands.substack.com/p/badlands-brief-740
 3. Badlands Brief — "The Trial Begins, Israel Threatens & the NYT Admits", URL: https://badlands.substack.com/p/badlands-news-brief-e54
+
+
+## Assessment after the June 2025 US strikes on Iran
+After US bombers and submarines struck Iran's Fordow, Natanz and Isfahan nuclear sites in June 2025, Grossi said he believed Iran's stockpile of near-bomb-grade enriched uranium — stored in special casks small enough to fit in the trunks of about ten cars — had been moved before the attack.[4] His assessment aligned with evidence cited by two Israeli officials that Iran had relocated equipment and uranium from the site in the preceding days, and with the admission by senior US officials that they did not know the whereabouts of the stockpile.[4] Grossi also said the strikes had caused "a sharp degradation in nuclear safety and security."[4]
+
+4. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

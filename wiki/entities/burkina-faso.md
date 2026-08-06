@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [africa, sahel, russia, energy, coup]
-sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-de1.md]
+sources: [raw/badlands-brief-1ce.md, raw/badlands-brief-5a2.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-de1.md, raw/badlands-news-brief-ff1.md]
 confidence: medium
 ---
 
@@ -97,3 +97,9 @@ The withdrawal of mining rights was directed at France, Burkina Faso's former co
 9. Badlands Brief — "Badlands News Brief: Blue Flips, Hails Mary, & Greasy Trolls", URL: https://badlands.substack.com/p/badlands-news-brief-b98
 10. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
 11. Badlands Brief — "Badlands News Brief: The Pick Is in ... As Is the Panic", URL: https://badlands.substack.com/p/badlands-news-brief-de1
+
+
+## 2025 nuclear energy agreement with Russia
+In June 2025 Burkina Faso formalised an agreement with Russia to expand peaceful nuclear energy cooperation, covering joint projects in radiation technologies and the training of Burkinabè specialists.[12] The pact was signed by Energy Minister Yacouba Zabré Gouba and [[rosatom|Rosatom]] chief executive [[aleksey-likhachev|Alexey Likhachev]] on the sidelines of the St. Petersburg International Economic Forum, building on a roadmap agreed the previous March at the ATOMEXPO forum in Sochi.[12] Badlands commentary noted that about 80 percent of the country's population lacks access to electricity, making it one of the world's most destitute nations, and that Captain [[ibrahim-traore|Ibrahim Traoré]] has refused outside money — including a reported $200 billion offer from Saudi Crown Prince [[mohammed-bin-salman|Mohammed bin Salman]] — to preserve national sovereignty.[12] The Russian arrangement was characterised as different because it is bilateral and would let Burkinabè students train in Moscow to maintain their own future nuclear infrastructure.[12] See [[2025-russia-burkina-faso-nuclear-energy-agreement]].[12]
+
+12. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

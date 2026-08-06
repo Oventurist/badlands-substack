@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-service, security, 2024, oversight]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e18.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-e44.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-245.md, raw/badlands-brief-8c2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-acf.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-e18.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-e44.md, raw/donald-trump-and-george-washington.md]
 confidence: medium
 ---
 
@@ -116,3 +116,11 @@ On Thursday, July 13, 2023 the Secret Service announced that it had ended its in
 16. Badlands Brief — "All the World's a Stage ... And the Actors Are on Strike", URL: https://badlands.substack.com/p/badlands-news-brief-e18
 17. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 17. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Allegations of complicity in the Butler shooting
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued in July 2024 that the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] in Butler, Pennsylvania was an inside job in which at least some members of law enforcement and the Secret Service participated by coordinating or permitting the attack.[19] His argument rested on the claim that the security lapses could not be explained by incompetence alone — he did not dispute that the agencies are incompetent, only that they could be "THAT incompetent."[19]
+
+Carlson catalogued the failures he considered inexplicable: no drone surveillance of the rally site, no personnel posted on the roofs of nearby structures, no response when rallygoers reported a man climbing with a rifle, and a counter-sniper who withheld fire until several rounds had already been discharged despite having the shooter in his scope.[19] He rejected the explanation that the roof's slope made it too dangerous to occupy.[19] He remarked sardonically that [[donald-trump|Trump]] would have been safer recruiting security from a local biker bar and paying them in beer, and characterised the agent who sheltered behind Trump during the shooting as a "mall cop."[19] Carlson also observed that Trump's protective detail at the subsequent [[2024-republican-national-convention|Republican National Convention]] was visibly larger and more imposing, which he read as an admission that the Butler protection had been inadequate.[19]
+
+19. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, diplomacy, foreign-minister, nuclear]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-245.md, raw/badlands-brief-1c6.md, raw/badlands-brief-52f.md, raw/badlands-brief-9f2.md, raw/badlands-brief-abf.md, raw/badlands-brief-8db.md, raw/badlands-brief-c5b.md, raw/badlands-brief-c07.md, raw/badlands-brief-cd8.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-e38.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ae.md, raw/badlands-brief-245.md, raw/badlands-brief-1c6.md, raw/badlands-brief-52f.md, raw/badlands-brief-9f2.md, raw/badlands-brief-abf.md, raw/badlands-brief-8db.md, raw/badlands-brief-c5b.md, raw/badlands-brief-c07.md, raw/badlands-brief-cd8.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-ff1.md]
 confidence: medium
 ---
 
@@ -118,3 +118,9 @@ On October 9, 2024, Araghchi met Saudi Crown Prince [[mohammed-bin-salman|Mohamm
 Speaking on Sunday, June 15, 2025, Araghchi said Israel had "crossed a new red line in international law" by attacking Iranian nuclear sites during [[operation-rising-lion|Operation Rising Lion]], and that Iran was launching missiles and drones at Israel in response.[16] He insisted that the Iranian nuclear programme was peaceful and that his country's doctrine was "rooted in our belief in the prohibition and illegitimacy of nuclear weapons," while noting that Israel is widely believed to possess nuclear weapons it neither confirms nor denies.[16]
 
 16. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+
+## Moscow visit during the US strikes (June 2025)
+Araghchi travelled to Moscow in June 2025 for a pre-arranged visit that coincided with the US strikes on Iran's nuclear facilities, and said he expected a "crucial" meeting with Russian President [[vladimir-putin|Vladimir Putin]].[17] The trip followed Israel's attack on Iran the previous week, launched on the claim that Tehran was on the brink of developing a nuclear weapon — an accusation Iranian officials rejected while responding with retaliatory strikes — and preceded what Washington described as "massive precision strikes" on facilities at Fordow, Natanz and Esfahan.[17] The attacks were widely condemned as violations of international law, and IAEA Director General [[rafael-grossi|Rafael Grossi]] said they caused "a sharp degradation in nuclear safety and security."[17] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] of [[badlands-media|Badlands Media]] argued Araghchi's presence in Moscow showed that more was at stake than Iran's nuclear programme, pointing to Iran's strategic geography as the crossroads between the eastern and western hemispheres.[17]
+
+17. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

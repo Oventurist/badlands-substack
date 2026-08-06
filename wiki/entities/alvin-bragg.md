@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [prosecutor, new-york, manhattan-district-attorney, crime]
-sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ef9.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-25e.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-6ff.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-907.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-b64.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-ef9.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md, raw/disinformation-is-necessary.md]
 confidence: medium
 ---
 
@@ -152,3 +152,11 @@ By April 2024, Bragg's prosecution of [[donald-trump|Donald Trump]] had drawn su
 Prosecutor [[joshua-steinglass|Joshua Steinglass]] told the jury that one of the crimes at issue in listing payments to [[stormy-daniels|Stormy Daniels]] as a legal expense was [[new-york-election-law-17-152|New York Law 17-152]], which makes it a misdemeanor for two or more persons to conspire to promote or prevent the election of a person to public office by unlawful means where the conspiracy is acted upon.[21] The resulting argument, as Turley characterized it, was that Trump committed a crime by conspiring to unlawfully promote his own candidacy — paying to quash an embarrassing story and reimbursing his lawyer through legal-expense entries.[21] Badlands commentary framed the trials as a war of attrition in which prosecutors might seek off-ramps rather than risk either a proven acquittal or Supreme Court review.[21]
 
 21. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+
+## The jurisdiction argument
+
+In "Disinformation is Necessary," [[joe-lange|Joe Lange]] describes Bragg as an "overzealous, Soros funded district attorney" whose prosecution of [[donald-trump|Donald Trump]] over the [[stormy-daniels|Stormy Daniels]] payment was political from the beginning.[22] He argues Trump was never in genuine danger because the district attorney had no jurisdiction: former Federal Election Commission member Hans von Spakovsky told Fox News Digital that "if the state charges are based on a supposed violation of federal campaign finance law, then the Manhattan DA is way off base," that "a settlement payment of a nuisance claim is not a federal campaign expense," and that "the state DA has no authority to prosecute a federal campaign finance violation in any event" — such matters falling to the FEC or the Justice Department, both of which had long declined to act.[22]
+
+Lange notes that Trump's lawyers succeeded in delaying sentencing until after the 2024 election, after which the judge imposed only an unconditional discharge, making the conviction itself the sole punishment.[22] He also highlights that on the very day Bragg arraigned Trump, Daniels was ordered to pay him $121,972 in legal fees from her failed defamation suit — a juxtaposition he treats as more than coincidence.[22] These claims reflect Badlands Media interpretation rather than established fact.
+
+22. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary

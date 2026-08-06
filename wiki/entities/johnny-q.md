@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, commentator]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-da3.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b83.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
@@ -72,3 +72,9 @@ On [[jens-stoltenberg|Jens Stoltenberg]]'s refusal to set an [[f-16-fighting-fal
 9. Badlands Brief — "Badlands News Brief: Trump Defiant, Biden Protected & Woke Worn", URL: https://badlands.substack.com/p/badlands-news-brief-7a7
 10. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
 11. Badlands Brief — "Biden Baffles, Kennedy Debates & Pride Falls", URL: https://badlands.substack.com/p/badlands-news-brief-da3
+
+## Commentary on the Mar-a-Lago documents reporting (May 2023)
+
+In the May 8, 2023 [[badlands-news-brief|Badlands News Brief]], Johnny Q responded to *The New York Times* report that prosecutors had secured the confidential cooperation of a Mar-a-Lago employee in the [[trump-classified-documents-case|classified documents investigation]], writing "Nauta, the perfect last name … not a bit of evidence."[12] He argued the story dated to October 2022 and had been resurrected in a feeble attempt to slow [[donald-trump|Trump]]'s momentum, and that the [[department-of-justice|DOJ]] had threatened to prosecute [[walt-nauta|Walt Nauta]] after the witness — who had wanted to plead the Fifth — changed his testimony.[12] Calling [[jack-smith|Jack Smith]]'s case one whose star witness may have been entrapped by the special counsel's own team, he dismissed the theory that Trump told "his beverage boy" to move boxes of classified documents as unfathomable and "violently stupid conjecture from the MSM & DOJ," another case of "Get Trumpism" mounted in the absence of reality.[12]
+
+12. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

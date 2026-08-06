@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, nuclear, enrichment, israel, military]
-sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-e38.md]
+sources: [raw/badlands-news-brief-69d.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-959.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-ff1.md]
 confidence: medium
 ---
 
@@ -46,3 +46,9 @@ Writing for [[badlands-media|Badlands Media]], [[ghostofbasedpatrickhenry|Ghosto
 During Israel's [[operation-rising-lion|Operation Rising Lion]] campaign, reporting attributed to people familiar with the deliberations identified Iran's well-defended Fordow enrichment facility as a possible US target should President [[donald-trump|Donald Trump]] order American participation.[4] The site is buried under a mountain and is generally considered by military experts to be out of reach of all but the most powerful bombs.[4]
 
 4. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+
+## Damage assessment after the June 2025 US strikes
+Fordow was one of three Iranian nuclear sites, alongside Natanz and Isfahan, struck by US bombers and submarines in June 2025 and described by [[pentagon|Pentagon]] officials as having sustained "severe damage."[5] Senior officials nonetheless conceded they did not know the whereabouts of Iran's supply of near-bomb-grade uranium, and Iran said personnel at the nuclear sites had been evacuated before the attacks.[5] Reuters reporting cited by RT indicated that Israeli officials had pressed [[donald-trump|Donald Trump]] during a tense phone call to abandon his two-week deadline to Tehran and join the strikes immediately, arguing there was only a limited window to use American bunker-busting bombs against the deeply buried Fordow facility.[5]
+
+5. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

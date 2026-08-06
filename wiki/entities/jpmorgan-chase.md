@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, debanking, litigation, january-6]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-695.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4cf.md, raw/badlands-news-brief-550.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-f0e.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -136,3 +136,9 @@ The order followed JPMorgan Chase's own suit against VTB, filed in New York the 
 The Russian court said it had ordered the seizure of all funds in JPMorgan bank accounts in Russia, including correspondent accounts and those opened in the name of a subsidiary, while stating that it had not seized securities and property held by JPMorgan funds, nor the jpmorgan.ru domain.[20] JPMorgan Chase declined to comment on the interim measures, and VTB did not immediately comment, having previously declined to discuss its legal disputes with the bank.[20]
 
 20. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+
+## US Virgin Islands subpoena of Elon Musk (May 2023)
+
+In May 2023 the government of the [[us-virgin-islands|U.S. Virgin Islands]] moved to subpoena [[elon-musk|Elon Musk]] for documents in its suit seeking to hold JPMorgan liable for sex trafficking committed by [[jeffrey-epstein|Jeffrey Epstein]].[21] The territory, where Epstein maintained an estate, had sued the bank in 2022, alleging that its investigation showed JPMorgan enabled Epstein's recruiters to pay victims and was "indispensable to the operation and concealment of the Epstein trafficking enterprise."[21] The Virgin Islands stated in a court filing that it believed Epstein may have referred or attempted to refer Musk to JPMorgan as a potential client; lawyers for the bank did not immediately respond to requests for comment.[21]
+
+21. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

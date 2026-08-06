@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, gop, maga, speaker, mike-johnson]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e96.md, raw/badlands-news-brief-ff6.md]
 confidence: high
 ---
 
@@ -92,3 +92,11 @@ On Tuesday evening, October 24, 2023, House Republicans picked Rep. [[mike-johns
 No floor vote was held that Tuesday.[10] Badlands contributor [[ashe-in-america|Ashe in America]] described the day as "a rollercoaster" and reported a rumor on the Hill that [[kevin-mccarthy|Kevin McCarthy]] would come back up for a vote — a prediction she credited to Badlands' own [[canncon|CannCon]] on the day McCarthy was ousted.[10] With the House due to reassemble Wednesday at noon, she wrote that those paying attention were not holding their breath, and argued that "the longer the House goes without a Speaker, the better off Americans will be. The gridlock favors the people."[10]
 
 10. Badlands Brief — "Badlands News Brief: Blinken Drones & Congress Stalls", URL: https://badlands.substack.com/p/badlands-news-brief-e96
+
+## Senate Republican preferences: Scalise versus Jordan
+
+As the race for Speaker unfolded in October 2023, Senate Republicans split between a mainstream candidate and a populist.[11] The mainstream faction largely backed Majority Leader [[steve-scalise|Steve Scalise]] (R-LA), viewed as a stabilizing force who could best collaborate with Senate Republican Leader [[mitch-mcconnell|Mitch McConnell]] (R-KY) in steering must-pass bills through legislative intricacies; to these senators a rapid transition to Scalise's leadership was deemed imperative to appease voter apprehensions about the GOP's governing capabilities.[11]
+
+MAGA-aligned populists instead rallied behind Representative [[jim-jordan|Jim Jordan]] (R-OH), who enjoyed the robust endorsement of former President [[donald-trump|Donald Trump]].[11] Championed as a "fighter," Jordan was praised by supporters for his unyielding stance against opposition and his dedication to disrupting Washington's established order, symbolizing an assertive, defiant GOP unafraid of unbridled confrontation.[11] The unresolved contest also delayed decisions on a potential large Ukraine aid package, which the White House said would wait until a speaker was seated, expected that Wednesday.[11]
+
+11. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6

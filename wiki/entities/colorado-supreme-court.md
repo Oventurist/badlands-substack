@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [courts, colorado, trump-disqualification, fourteenth-amendment]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d5c.md, raw/badlands-news-brief-ff6.md]
 confidence: medium
 ---
 
@@ -66,3 +66,9 @@ The court's holdings were sweeping: that the district court did not abuse its di
 7. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 8. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
 9. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+
+## Masterpiece Cakeshop gender-transition case (2023)
+
+In October 2023 the court agreed to hear the case brought against Christian baker [[jack-phillips|Jack Phillips]] over his refusal to create a cake celebrating a gender transition, a suit filed in 2018 by a transgender lawyer.[10] Phillips, who had already prevailed at the US Supreme Court in a separate 2012 dispute, called the court's decision to take the case "the light at the end of the tunnel" after more than eleven years of litigation and said the state court "turned us down in our first case, but I think they realize now that I serve everybody."[10] See [[masterpiece-cakeshop-litigation]].[10]
+
+10. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6

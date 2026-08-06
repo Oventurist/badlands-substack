@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, california, oversight, state-department]
-sources: [raw/badlands-news-brief-656.md]
+sources: [raw/badlands-news-brief-656.md, raw/badlands-news-brief-ff6.md]
 confidence: medium
 ---
 
@@ -26,3 +26,9 @@ Badlands contributor Ashe in America argued that State Department employees migh
 
 ## References
 1. Badlands Brief — "It's Our Failed 'Resistance' and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
+
+## Criticism of Rob Malley (October 2023)
+
+After the Hamas assault on Israel, Issa told [[new-york-post|The New York Post]] that suspended Iran envoy [[rob-malley|Rob Malley]] "deserves extensive scrutiny — yesterday, today and tomorrow," following reporting that officers of the [[islamic-revolutionary-guard-corps|Islamic Revolutionary Guard Corps]] had planned and signed off on the attack that killed at least 900 people.[2] He added that the reports "could not be more concerning" and hinted at what could be "the worst [[state-department|State Department]] scandal since Alger Hiss."[2]
+
+2. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6

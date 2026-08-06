@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [spac, dwac, trump-media, markets, truth-social]
-sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-f0b.md]
+sources: [raw/badlands-news-brief-47f.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-f0b.md, raw/control-through-language.md]
 confidence: medium
 ---
 
@@ -42,8 +42,14 @@ In September 2023 the long-delayed merger between [[trump-media-and-technology-g
 
 Badlands writer [[burning-bright|Burning Bright]] framed the extension as a "shot/chaser" rebuke to a week of mainstream commentary predicting DWAC's imminent collapse, noting that institutional experts had claimed the company would never obtain the shareholder votes required for the extension.[4] He observed that the new merger timeline placed completion just before the 2024 election, adding sardonically that he was "sure that's just a coincidence," and characterized the delays as stemming from [[securities-and-exchange-commission|SEC]] obstruction.[4]
 
+
+## Erik Carlson on the stalled merger (February 2024)
+
+Badlands Media contributor [[erik-carlson|Erik Carlson]] described DWAC in a February 5, 2024 essay as the special purpose acquisition company [[donald-trump|Trump]] used to merge with [[trump-media-and-technology-group|Trump Media]], explaining that a SPAC has no commercial operations and exists solely to raise capital via an IPO in order to acquire or merge with an existing company.[5] He wrote that DWAC had begun raising money more than two years earlier for that purpose, and accused the [[securities-and-exchange-commission|SEC]] of using unprecedented tactics to block the merger and keep the capital — in his framing, money ordinary investors contributed — from reaching Trump.[5]
+
 ## References
 1. Badlands Media — "Badlands News Brief: Horse Paste & A Couple of Bloodbaths", URL: https://badlands.substack.com/p/badlands-news-brief-47f
 2. Badlands Brief — "Badlands News Brief: A Fiery Fani, a Plotting Putin & a Bumbling Biden Walk into a Bar", URL: https://badlands.substack.com/p/badlands-news-brief-a6e
 3. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
 4. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
+5. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

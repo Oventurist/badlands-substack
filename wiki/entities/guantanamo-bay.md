@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [detention, military-commissions, september-11, defense-department]
-sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-93e.md]
+sources: [raw/badlands-news-brief-264.md, raw/badlands-news-brief-373.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-93e.md, raw/celebrating-15-years-of-indictments.md]
 confidence: medium
 ---
 
@@ -32,8 +32,15 @@ On Wednesday, January 29, 2025, President [[donald-trump|Donald Trump]] said he 
 
 Badlands contributor [[burning-bright|Burning Bright]] argued that the ground had been laid to fulfill the GITMO order some time earlier, since expansion construction at the base never stopped under the prior administration, and that the public narrative was simply being deployed on a delay relative to what he called the Actuals.[4]
 
+## GITMO in movement expectations
+
+Guantanamo Bay features prominently in the expectations of parts of the [[qanon|Q]] following, where it is commonly imagined as the venue for military tribunals against political elites. A January 2024 Badlands Brief essay addressed those expectations directly, asking rhetorically whether readers were waiting for [[donald-trump|Trump]] to return, arrest his enemies and have the military "administer justice in GITMO."[5]
+
+The essay's author argued that while such a spectacle "would provide for some great entertainment," physical arrests and tribunals would be meaningless if the underlying monetary system could be reconstituted a few generations later, and that the durable remedy lies instead in [[bitcoin|Bitcoin]] removing the incentive at its root.[5] In a postscript aimed at readers "still bloodthirsty for gallows and swinging bodies at GITMO," the author cited Deuteronomy 32:35 — "Vengeance is Mine, and recompense" — and left the judgment to the reader.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 2. Badlands News Brief — "Shutdown Show Down & British Spies for Palestine", URL: https://badlands.substack.com/p/badlands-news-brief-373
 3. Badlands News Brief — "Monkeypox ... For Real? And Other Info War Oddities", URL: https://badlands.substack.com/p/badlands-news-brief-36a
 4. Badlands Brief — "Badlands News Brief: A Midflight Collision, Dems Choose Division, Menendez Gets Prison", URL: https://badlands.substack.com/p/badlands-news-brief-93e
+5. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments

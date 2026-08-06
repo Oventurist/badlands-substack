@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hush-money-case, trump-prosecutions, new-york, 2016-election]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-f0e.md, raw/disinformation-is-necessary.md]
 confidence: medium
 ---
 
@@ -72,3 +72,11 @@ On the same day the trial proceeded, reports emerged that [[kanye-west|Kanye Wes
 
 
 10. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+
+## Defamation suit and the "distraction" reading
+
+Daniels, whose legal name is Stephanie Clifford, sued [[donald-trump|Donald Trump]] for defamation after he called an allegation of hers a "total con job" in a tweet on 18 April 2018.[11] A 9th Circuit Court of Appeals judge, Samuel James Otero, dismissed the case on the ground that Trump's statement was protected by the First Amendment, and ordered Daniels to pay $293,000 in legal fees.[11] She appealed on the ground that the fees were unreasonable and excessive, lost, and was ordered to pay a further $245,000.[11] In total she was ordered to pay Trump over $600,000.[11] On the day Trump was fingerprinted and arraigned in Manhattan on 34 felony counts, Daniels was ordered to pay him $121,972 — a coincidence of timing [[joe-lange|Joe Lange]] treats as significant.[11] The BBC noted that the civil defamation suit was entirely separate from the Manhattan indictment, which concerned a payment alleged to be improperly recorded hush money.[11]
+
+Lange argues the entire Daniels storyline was a purposeful distraction and part of a sting operation, and that Trump was never in danger of imprisonment over anything related to it.[11] He cites former Federal Election Commission member Hans von Spakovsky, who told Fox News Digital that "a settlement payment of a nuisance claim is not a federal campaign expense" and that "the state DA has no authority to prosecute a federal campaign finance violation in any event."[11] On this basis Lange contends [[alvin-bragg|Alvin Bragg]] lacked jurisdiction and Trump would always have won on appeal at the Supreme Court; the conviction that did follow was delayed to sentencing after the 2024 election and resulted only in an unconditional discharge.[11] See [[trump-hush-money-case|the hush money case]].[11] These claims reflect Badlands Media interpretation rather than established fact.
+
+11. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary

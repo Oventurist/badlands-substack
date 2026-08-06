@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [sponsor, supplements, badlands-media]
-sources: [raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-bd2.md]
+sources: [raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-ff1.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ NativePath Collagen was promoted in the Badlands News Brief of 25 September 2025
 ## References
 1. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
 2. Badlands Media — "Badlands News Brief: Abstract Portraits, Real Bears, & Free Game Classes", URL: https://badlands.substack.com/p/badlands-news-brief-bd2
+
+
+## Badlands sponsorship (June 2025)
+NativePath appeared as a sponsor in the June 2025 Badlands News Brief, offering the [[badlands-media|Badlands Media]] audience 45 percent off the retail price of its collagen product.[3] The advertisement described NativePath Collagen as a single-ingredient formula with no fillers, additives or artificial sweeteners, made only with type 1 and type 3 collagen fibres and third-party tested for heavy metals to ensure purity and safety.[3]
+
+3. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

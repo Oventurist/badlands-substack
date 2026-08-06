@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, judiciary-committee, oversight, declassification, treason]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f7d.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-brief-165.md, raw/badlands-brief-245.md, raw/badlands-brief-314.md, raw/badlands-brief-9ac.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-168.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-f14.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f7d.md, raw/badlands-news-brief-ffa.md]
 confidence: medium
 ---
 
@@ -157,5 +157,10 @@ On June 12, 2023, Grassley read on the Senate floor from a largely unredacted ve
 
 Grassley added that the FBI record indicated then-Vice President Biden "may have been involved in Burisma employing Hunter Biden," referring to [[burisma|Burisma]] and its owner [[mykola-zlochevsky|Mykola Zlochevsky]].[24] Badlands commentators responded with the refrain "Trust Grassley," criticized the FBI's redactions to the document sent to Congress as lacking any plausible national-security justification, and read the disclosure alongside [[donald-trump|Donald Trump]]'s federal indictment as evidence that investigations were converging.[24]
 
+## Durham annex remarks (July 2025)
+
+Speaking on Fox News on Thursday, July 31, 2025, Grassley said the newly released [[durham-annex|Durham annex]] shows that the [[fbi|FBI]] had information a decade ago "that they never followed up on," and that the agency "had a hand in" attempts to "stop Trump" through the Russia collusion hoax.[25] He suggested the annex "brings attention to the fact that there was either a Clinton conspiracy to make this happen, or Russian disinformation," adding that "either way, it was an attempt to stop Trump."[25] Grassley pointed to annex findings that FBI officials judged two Russian-language memos and hacked emails "likely not be credible," including one document indicating that the [[hillary-clinton|Clinton]] campaign was routinely obtaining information from Attorney General [[loretta-lynch|Loretta Lynch]] about "the plans and intentions of the FBI."[25]
+
 23. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 24. Badlands Brief — "Badlands News Brief: The All-Out Biden Blitz Boomerang ... And More", URL: https://badlands.substack.com/p/badlands-news-brief-f7d
+25. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa

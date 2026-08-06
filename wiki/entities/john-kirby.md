@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, spokesman, pentagon, white-house]
-sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-d6a.md]
+sources: [raw/badlands-news-blast.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-536.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-ac7.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f9f.md]
 confidence: medium
 ---
 
@@ -66,6 +66,12 @@ On the morning of Tuesday, February 20, 2024, Kirby announced that the [[white-h
 
 Badlands contributor [[burning-bright|Burning Bright]] argued the announcement provided "the illusion of mandate" for sanctions that would not work, pointing to Russia's rising GDP and strengthening currency, and framed the episode as an application of the [[hegelian-dialectic|Hegelian Dialectic]] following Putin's interview with [[tucker-carlson|Tucker Carlson]].[9]
 
+## Claims of Russia–North Korea arms negotiations (August 2023)
+
+On Wednesday, August 30, 2023, Kirby, as [[white-house|White House]] national security spokesman, accused Moscow of seeking North Korean weapons for use in its military operation in Ukraine at a moment when tensions with Pyongyang were mounting.[10] He stopped short of saying there was smoking-gun evidence of arms transfers already accomplished, instead strongly suggesting potential sales in the near future: "We urge the DPRK to cease its arms negotiations with Russia and abide by the public commitments that Pyongyang has made to not provide or sell arms to Russia."[10] Kirby referenced new intelligence which he said showed that [[vladimir-putin|Vladimir Putin]] and [[kim-jong-un|Kim Jong Un]] were "actively advancing" high-level talks for more weapons, and claimed that Russian Defense Minister [[sergei-shoigu|Sergei Shoigu]], while in Pyongyang late the previous month, had been there "to try to convince Pyongyang to sell artillery ammunition to Russia."[10]
+
+Writing in the [[badlands-media|Badlands Media]] news brief, [[ashe-in-america|Ashe in America]] argued that "the ruling junta in the US wants World War III," and recalled that Kirby had said earlier that year that congressional approval would not affect Ukraine war funding in any way.[10]
+
 ## References
 1. Badlands Brief — "UFO's, Epstein Logs & Racist Squirrels?", URL: https://badlands.substack.com/p/badlands-news-blast
 2. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
@@ -76,3 +82,4 @@ Badlands contributor [[burning-bright|Burning Bright]] argued the announcement p
 7. Badlands Brief — "Biden Hemorrhages Already-Nonexistent Support", URL: https://badlands.substack.com/p/badlands-news-brief-6fc
 8. Badlands Brief — "Whose Coup Is It Anyway? ... And Other Questions", URL: https://badlands.substack.com/p/badlands-news-brief-ac7
 9. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+10. Badlands Brief — "Badlands News Brief: Trump Trolls, Tucker Trends & Ukraine Rages", URL: https://badlands.substack.com/p/badlands-news-brief-f9f

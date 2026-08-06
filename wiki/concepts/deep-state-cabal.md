@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, cabal, finance, central-banking, 2024-election]
-sources: [raw/a-week-to-remember.md, raw/badlands-blitz-episode-25.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-blitz-episode-25.md, raw/donald-trump-and-george-washington.md]
 confidence: medium
 ---
 
@@ -34,6 +34,13 @@ Carlson concludes that the Cabal has already lost the war and that the coming pe
 
 Badlands commentary has treated overt presidential statements about election integrity as direct blows to the Cabal. Episode 25 of The Blitz, published 18 July 2026 and subtitled "It's Treason, Then ...", was given over entirely to [[donald-trump|Donald Trump]]'s election fraud speech of the preceding Thursday night and to what hosts [[burning-bright|Burning Bright]] and [[ashe-in-america|Ashe in America]] described as its implications for the Deep State cabal.[2] The hosts characterised the speech as seismic and argued it represented the beginnings of a true phase shift in both the [[shadow-war|Shadow War]] and the [[information-war|Information War]] at once.[2]
 
+## Alleged role in the Butler assassination attempt
+
+[[erik-carlson|Erik Carlson]] argued in July 2024 that the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] was coordinated and allowed to happen by the Deep State Cabal, with the participation of at least some elements of law enforcement and the [[united-states-secret-service|Secret Service]].[3] He inferred foreknowledge from Wall Street short positions taken against [[trump-media-and-technology-group|DJT]] stock in the days before the shooting, writing that the players involved had "stepped right into a bear trap."[3] Because no planner could have relied on an inexperienced 20-year-old to succeed, he reasoned, additional shooters were likely, even if the Cabal could safely predict that a particular agent would cower behind [[donald-trump|Trump]] during the attack.[3]
+
+Carlson expected those responsible to be identified and punished for treason in time, and read the failed attempt as a decisive strategic defeat: the "shot heard around the world" resulted not in the death of Trump, [[maga-coalition|MAGA]] or America but in "the death of the Deep State Cabal."[3] He framed the wider conflict as a spiritual war the enemy has discovered it cannot win, and said Trump's message in refusing to cower was that the Cabal would not prevail.[3]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Badlands Blitz Episode 25", URL: https://badlands.substack.com/p/badlands-blitz-episode-25
+3. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, blockchain, cryptocurrency, badlands-media]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: high
 ---
 
@@ -87,6 +87,12 @@ Having fallen below $112,000 days earlier, bitcoin returned above $117,000 late 
 
 Bitcoin topped $60,000 on Wednesday, February 28, 2024 for the first time since 2021, reaching a collective market capitalization of nearly $1.2 trillion.[15] Shortly after noon Eastern that day it lost about $2,800, or over 4%, in a matter of minutes as reports spread on X of a [[coinbase|Coinbase]] glitch that showed users zero balances.[15] Badlands contributor [[ashe-in-america|Ashe in America]] noted that BTC was north of $62,000 later that day after passing $64,000 earlier, and doubted the narrative that investors had sold within minutes purely in reaction to the exchange outage.[15]
 
+## Bitcoin as indictment and arrest
+
+A January 3, 2024 Badlands Brief essay marking the fifteenth anniversary of the [[bitcoin-genesis-block|Genesis Block]] framed Bitcoin as an instrument of justice rather than an investment.[16] The essay described Bitcoin as "simply an uncorruptible spreadsheet" and, in a more relatable metaphor, as a decentralized history of bank statements that publishes transparent and accurate updates every ten minutes which no one can alter.[16] It contrasted this with all prior monetary ledgers — glass, beads, bronze, silver, gold, and [[fiat-currency|fiat]] — which the author characterized as centrally controlled and arbitrarily revisable.[16]
+
+On that reading, each new block "unseals another indictment" against systemic corruption, with nearly 825,000 blocks produced in fifteen years, while the protocol's fixed issuance constitutes an ongoing "arrest" because it removes the ability of those closest to currency creation to seize purchasing power through [[inflation|inflation]].[16] The essay invoked [[jason-lowery|Jason Lowery]]'s [[softwar|Softwar]] thesis, a 2014 remark by [[julian-assange|Julian Assange]] on cryptography's defensive power, and a 2023 NOSTR post by [[edward-snowden|Edward Snowden]] naming [[charlie-munger|Charlie Munger]], and grouped [[elizabeth-warren|Elizabeth Warren]] and [[jamie-dimon|Jamie Dimon]] among the loudest critics.[16]
+
 ## References
 
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
@@ -104,3 +110,11 @@ Bitcoin topped $60,000 on Wednesday, February 28, 2024 for the first time since 
 13. Badlands Brief — "Clinton's Count, Biden's Cancer, & America's Credit", URL: https://badlands.substack.com/p/badlands-news-brief-97e
 14. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 15. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
+16. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
+17. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+
+## Bitcoin as a filter against AI-generated data (April 2023)
+
+In "Don't Bring Shiny Rocks to Digital Gunfights," Badlands contributor [[patriots-in-progress|Patriots in Progress]] proposed Bitcoin as a mitigation for the hazard of [[artificial-intelligence|AI]]-generated text, audio and video overwhelming the public's ability to distinguish reality from fabrication.[17] The mechanism he described associates bits of data with an energy cost through a micro-transaction, creating an auditable, immutable record of a real-world physical cost and thereby a database of data that has "paid the cost."[17] Such payments would be trivial for individual humans but, he argued, cost-prohibitive to replicate across an effectively infinite set of AI-generated data.[17]
+
+The author acknowledged that paying the cost does not itself guarantee that surviving data is truthful — only that a scarce resource was expended to gain entry to the record.[17] As a demonstration he pointed to an asset he had created on a Bitcoin Layer 2, the Counterparty protocol, carrying animation and an audio track, noting that observers can verify the price paid, the time of the action and the wallet that performed it.[17] He framed the approach through Major Jason Lowery's [[softwar|Softwar]] thesis and noted that [[michael-saylor|Michael Saylor]], [[jack-dorsey|Jack Dorsey]] and [[elon-musk|Elon Musk]] had separately described using Bitcoin against bot farms.[17] The essay closed with the injunction "do not give your Bitcoin to AI."[17]

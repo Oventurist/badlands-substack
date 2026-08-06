@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, organized-crime, terrorism, cia, latin-america]
-sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f18.md]
+sources: [raw/badlands-brief-708.md, raw/badlands-brief-9ea.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-316.md, raw/badlands-news-brief-4bb.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e14.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f18.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -118,6 +118,10 @@ Badlands contributor Burning Bright argued that most if not all terror cells wor
 
 In late January 2025, federal agents rounded up roughly fifty Tren de Aragua members at a makeshift, invite-only nightclub in Adams County, Colorado, just outside the Denver city limits, in an operation announced by the [[drug-enforcement-administration|Drug Enforcement Administration]].[18] The busts netted cash, weapons, guns and drugs, including Tusi or "pink cocaine," a narcotic the gang has played a major role in distributing across the United States.[18] The arrests formed part of nationwide raids in the first week of the second [[trump-administration|Trump administration]] that also apprehended child rapists and suspected ISIS terrorists.[18] See [[2025-denver-tren-de-aragua-raid|the raid]].[18]
 
+## Haines ruling on AEA removals (May 2025)
+
+On May 13, 2025, a federal judge in Pennsylvania ruled that the [[donald-trump|Trump]] administration may use the [[alien-enemies-act|Alien Enemies Act of 1798]] to deport Venezuelan citizens accused of Tren de Aragua membership, provided it offers "sufficient notice and due process."[19] The case arose from Trump's mid-March proclamation designating Tren de Aragua a foreign terrorist organization and authorizing AEA removals of alleged members.[19] Judge Stephanie Haines granted the petitioner's requested preliminary injunction in part and denied it in part, holding that presidents may issue such a proclamation to remove alien members of foreign terrorist organizations while requiring the government to provide greater notice to those subject to removal.[19]
+
 ## References
 1. Badlands Brief — "AMERICA IS BACK", URL: https://badlands.substack.com/p/badlands-brief-708
 2. Badlands Brief — "A Politician is Swallowelled Whole as the Middle East Realigns in Real Time", URL: https://badlands.substack.com/p/badlands-brief-9ea
@@ -137,3 +141,4 @@ In late January 2025, federal agents rounded up roughly fifty Tren de Aragua mem
 16. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14
 17. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
 18. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
+19. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, irgc, assassination, protests]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-5ba.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-e44.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-5ba.md, raw/badlands-news-brief-55f.md, raw/badlands-news-brief-e44.md, raw/does-the-cia-still-control-iran.md]
 confidence: medium
 ---
 
@@ -39,3 +39,10 @@ Badlands' July 2024 commentary asserted that [[benjamin-netanyahu|Benjamin Netan
 2. Badlands Brief — "Guardians, Shields, & Iranian House Arrest", URL: https://badlands.substack.com/p/badlands-brief-5ba
 3. Badlands Brief — "Badlands News Brief: The Machine Grows Desperate as Threats to Trump Increase", URL: https://badlands.substack.com/p/badlands-news-brief-55f
 4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Carlson's account of the strike
+
+Writing in July 2023, [[erik-carlson|Erik Carlson]] situated the killing of Soleimani in the sequence that followed [[donald-trump|Donald Trump]]'s withdrawal from the [[joint-comprehensive-plan-of-action|Iran Deal]] and the bombing of [[syria|Syria]] in April 2018, after which [[iran|Iran]] fired rockets at US military bases in Iraq on dozens of occasions.[5] He wrote that Trump aides John Bolton and Mike Pompeo begged the president to take out Soleimani, but that Trump refused unless Americans were killed; seven months later, after a contractor was killed and four US servicemen were injured in rocket attacks believed to be directed from Iran, Trump ordered the drone strike that killed Soleimani in Baghdad on 3 January 2020.[5]
+
+Carlson noted that the [[united-nations|United Nations]] called the assassination "unlawful" and that the American media described Soleimani as akin to a "holy man," and asked pointedly where the UN and the press had been during the preceding attacks — and what Soleimani was doing in Baghdad in the first place.[5] He added that the eagerness of Bolton and Pompeo to see the strike carried out much earlier "takes on new meaning" in light of what he characterized as their later backstabbing of Trump.[5]
+5. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran

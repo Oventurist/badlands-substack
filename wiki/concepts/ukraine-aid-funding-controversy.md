@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, foreign-aid, defense-contractors, congress, corruption]
-sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-f39.md]
+sources: [raw/badlands-news-brief-06d.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-aaf.md, raw/badlands-news-brief-c19.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-ff6.md, raw/exploiting-the-dead.md]
 confidence: medium
 ---
 
@@ -64,6 +64,18 @@ Johnson made clear that House Republicans would not bundle Ukraine aid with mone
 
 [[burning-bright|Burning Bright]] argued that the "No New Wars" paradigm was about the only thing on which there was bipartisan agreement within the [[collective-mind|Collective Mind]], and that the Establishment seemed unable to absorb it.[9] He observed that both Right and Left were being drawn into focused debates on direct issues rather than party affiliation, which was losing its anchoring amid the most contentious geopolitical topics of the moment, and that such earnest cross-tribal argument acts as a natural filter distilling the best ideas — ideas that only those ostensibly in control appeared unwilling to recognize.[9]
 
+## The stalled $60 billion supplemental (February 2024)
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] traced the $60 billion Ukraine request to October 2023, when the [[joe-biden|Biden]] administration asked Congress for the additional funds despite a documented tendency for money sent to Ukraine to go unaccounted for, with the traceable portion largely feeding the arms manufacturers of the [[military-industrial-complex|Military Industrial Complex]].[14] After a series of multibillion-dollar packages, the spigot was closed when [[mike-johnson|Mike Johnson]] became Speaker of the House and held to his pledge that no spending packages would pass until the border was secured and that further Ukraine aid would be offset by spending cuts.[14]
+
+The [[bipartisan-border-bill-2024|bipartisan border bill]] sponsored by [[mitch-mcconnell|Mitch McConnell]] was, in DeLarme's account, dead on arrival: the America First wing of the Republican party judged that it did literally nothing to secure the border, and McConnell subsequently conceded to the New York Times that he had never truly prioritised border security.[14] Twenty Republican senators and every Democrat voted to pass the resulting package, sending $60 billion to Ukraine, $17 billion to Israel, and further sums to Taiwan and for strikes on Yemen.[14] DeLarme observed that not a single House Democrat appeared willing to vote against billions for the arms industry, with what dissent existed arising only from Israel's inclusion.[14]
+
+The remaining obstacle was Speaker Johnson's promise, fortified by members of the [[house-freedom-caucus|Republican Freedom Caucus]] who had vowed to remove him if he brought the bill to the floor — a credible threat given his very small working margin of roughly four or five votes.[14] DeLarme described this as the first exception since the Trump administration to what he called the unspoken rule of Washington: the inevitability of the Military Industrial Complex getting what it wants.[14]
+
+## Futility argument
+
+DeLarme argued there was no path to Ukrainian victory regardless of American spending, noting that Russia outproduced all of NATO in military equipment and artillery shells, that Ukraine was conscripting men in their forties and fifties and people with chronic conditions, and that after roughly $120 billion in U.S. spending plus tens of billions from Europe, Russia occupied 20 percent of Ukraine and was likely to occupy more.[14] From this he concluded that Ukrainian victory was never the priority of the Western establishment, and posed the question of where the money was actually going.[14]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Devolution Proofs Abroad and White Pills in the Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-06d
 2. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
@@ -106,3 +118,12 @@ A [[pew-research-center|Pew Research Center]] survey conducted January 18–24, 
 Badlands contributor [[burning-bright|Burning Bright]] read the numbers as evidence that the "Great Awakening" was progressing, noting that less than twelve months into the war what had seemed an endless cash cow for globalist interests — and a perpetual media story — had already worn out its welcome with a growing, increasingly bipartisan segment of the American public whose quality of life was deteriorating while bureaucrats debated lending more money to "another Forever War quagmire in distant lands."[12]
 
 12. Badlands News Brief — "Hunter Hunted, Biden's Bane & Ukraine Fatigue", URL: https://badlands.substack.com/p/badlands-news-brief-f39
+
+## Proposed $100 billion package (October 2023)
+
+The Telegraph reported in October 2023 that President [[joe-biden|Joe Biden]] was considering asking Congress for a $100 billion Ukraine spending package.[13] The stated purpose was to fund the proxy war through the 2024 election without repeatedly contending with growing congressional opposition, since majorities in both chambers still supported arming Ukraine.[13] A source told the paper the "big package" idea was "firmly supported by many throughout the administration," with supporters wanting "a one-and-done big bill, and then not have to deal with it until after the next election."[13] Defense News separately reported that multiple senators had proposed a year-long package, with [[lindsey-graham|Lindsey Graham]] (R-SC) suggesting $70 billion.[13]
+
+An administration official said no decisions would be made about the structure or size until a new House speaker replaced [[kevin-mccarthy|Kevin McCarthy]].[13] Even with majority support in Congress, bringing a massive package to the House floor was expected to be difficult because of the sway GOP opponents of the policy held over the speaker — [[matt-gaetz|Matt Gaetz]] having launched the ouster effort after accusing McCarthy of a secret Ukraine deal with Democrats.[13] A $100 billion authorization would bring total US spending on the war to roughly $213 billion.[13]
+
+13. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+14. Badlands Media — "Exploiting the Dead", URL: https://badlands.substack.com/p/exploiting-the-dead

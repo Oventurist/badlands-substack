@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [olympics, paris, culture-war, sports, 2024]
-sources: [raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b39.md]
+sources: [raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b39.md, raw/dont-be-symbol-minded.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ The Games opened amid a scandal over the participation of Dutch beach volleyball
 
 1. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 2. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
+
+## Occult symbolism claims
+
+Writing in November 2025, [[matthew-ehret|Matthew Ehret]] described the Paris Games as "recent occult-ridden French Olympics," noting that a [[phrygian-cap|Phrygian cap]] served as the official mascot and that the ceremonies featured a number of Mithraic themes throughout.[3] Ehret had earlier presented this case in a segment titled "The Occult Messaging of the Olympics" on [[del-bigtree|Del Bigtree]]'s The Highwire.[3] In his reading the cap as deployed in Paris — as during the French Revolution — paid homage to the [[mystery-cults|mystery cults]] of Mithra, Cybele-Attis and Orpheus, which had sought to destroy Christianity in its early years.[3] He nonetheless cautioned against generalizing from that instance to the conclusion that every state emblem bearing the cap indicates mystery-cult control.[3]
+
+3. Badlands Brief — "Don't Be Symbol-Minded", URL: https://badlands.substack.com/p/dont-be-symbol-minded

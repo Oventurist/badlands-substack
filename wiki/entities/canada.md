@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, trade, globalism, tariffs, north-america]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-cf8.md]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-cf8.md, raw/canadas-transition-to-collectivist.md]
 confidence: medium
 ---
 
@@ -45,9 +45,18 @@ On Thursday night, October 23, 2025, President [[donald-trump|Donald Trump]] sai
 
 Ontario Premier [[doug-ford|Doug Ford]] had said the province would spend $75 million on ads running in the United States featuring Reagan criticizing tariffs.[4] Badlands contributor [[ashe-in-america|Ashe in America]] characterized the campaign as Canadian information warfare intended to manipulate American courts and turn Americans against Trump, describing the tariffs as a corrective measure for a trade imbalance.[4]
 
+## Ehret's historical account of Canada as a British weapon
+
+In an October 2024 essay, [[matthew-ehret|Matthew Ehret]] argued that Canada has played the role of an anti-republican hub in world affairs for generations, framing the elevation of [[mark-carney|Mark Carney]] over [[justin-trudeau|Justin Trudeau]] as the latest instance.[5] In the 19th century, he wrote, Canada was recognized as a principal enemy of the USA, as Confederate intelligence enjoyed vast patronage and support from the British Empire through its web of intelligence bases in Montreal and Toronto — networks that coordinated terrorist operations against the Union from the north and paid and directed [[john-wilkes-booth|John Wilkes Booth]] to murder [[abraham-lincoln|Abraham Lincoln]] after the war's end.[5] Ehret cites Barry Sheehy's 2017 book *Montreal: City of Secrets* for these claims.[5]
+
+After [[cecil-rhodes|Cecil Rhodes]]'s [[round-table-movement|Round Table]] was founded in 1902 to recapture the lost colonies of the Americas under a world federation headed by the City of London, it was Canada that incubated hundreds of [[rhodes-scholarship|Rhodes Scholars]] between 1907 and 1952 who then infiltrated the United States.[5] Journalist Eugene Griffin's 1951 *Chicago Tribune* series reported that Canada "acts as a connecting link between England and the United States," and that the foreign office of external affairs minister [[lester-b-pearson|Lester B. Pearson]] contained 23 Rhodes Scholars among 183 staff officers.[5]
+
+Ehret also recounts that American plans [[war-plan-red|War Plan Red]] and War Plan Orange, championed by Brigadier General [[billy-mitchell|Billy Mitchell]] and adopted as US doctrine in 1930, were framed as a response to the earlier Anglo-Canadian invasion plan Defence Scheme 1.[5] In the 20th century, he continues, the green agenda's infiltration of US foreign and energy policy was driven in large measure by Canada's [[maurice-strong|Maurice Strong]], who reorganized the [[liberal-party-of-canada|Liberal Party]] from 1963 to 1970, ran the foreign ministry, founded the [[canadian-international-development-agency|Canadian International Development Agency]], mentored [[klaus-schwab|Klaus Schwab]] and co-founded the [[world-economic-forum|World Economic Forum]].[5]
+
 ## References
 
 1. Badlands Brief — "You're Silly, and You Smell Like Syrup", URL: https://badlands.substack.com/p/badlands-brief-a84
 2. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
 3. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 4. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
+5. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist

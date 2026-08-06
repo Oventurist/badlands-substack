@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [globalism, esg, wef, corporate-governance]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md]
 confidence: medium
 ---
 
@@ -28,3 +28,9 @@ A January 2023 Foreign Affairs essay, "The Dawn of Stakeholder Geopolitics," arg
 ## References
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+
+## Origins in the 1973 Davos Manifesto
+
+[[matthew-ehret|Matthew Ehret]] traces stakeholder capitalism to the [[davos-manifesto|Davos Manifesto]] crafted at the [[world-economic-forum|World Economic Forum]]'s 1973 event, which outlined [[klaus-schwab|Klaus Schwab]]'s formulation of the doctrine.[3] He notes that the [[club-of-rome|Club of Rome]]'s 1968 neo-Malthusian computer models, used to justify supposedly fixed [[limits-to-growth|limits to growth]], were incorporated into the Forum at that same event — tying stakeholder capitalism to the closed-system imperial economics of [[john-stuart-mill|J. S. Mill]] and [[david-ricardo|David Ricardo]] that [[henry-c-carey|Henry C. Carey]] had refuted.[3]
+
+3. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fema, dhs, disaster-response, federal-agency, gregg-phillips]
-sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-ddb.md]
+sources: [raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-41f.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-b78.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -78,4 +78,11 @@ In March 2025 the Justice Department announced federal charges against three def
 
 On March 12 the [[fbi|FBI]] separately announced charges against [[serina-baker-hill|Serina Baker-Hill]], a senior [[customs-and-border-protection|Customs and Border Protection]] official, for a scheme to defraud FEMA through disaster aid and for lying to federal agents, stemming from a 2023 application for FEMA funds after the Detroit floods.[10] Badlands writer [[ashe-in-america|Ashe in America]] questioned whether the FEMA fraud claims would ever have come to light had [[donald-trump|Donald Trump]] not won the election.[10]
 
+## Musk clawback demand over NYC migrant hotels (February 2025)
+
+On February 10, 2025, [[elon-musk|Elon Musk]] threatened to claw back $59 million that he said FEMA had sent "last week to luxury hotels in New York City to house illegal migrants," a claim New York City Hall officials rebutted the same day.[11] Musk said in an early-morning post on X that the funds had been "just discovered" by his [[department-of-government-efficiency|Department of Government Efficiency]], even as President [[donald-trump|Trump]] called for a complete overhaul of FEMA that could see the agency shuttered.[11] "Sending this money violated the law and is in gross insubordination to the President's executive order," Musk wrote.[11] City Hall officials told the New York Post that no one had reached out to act on Musk's demand.[11]
+
+[[badlands-media|Badlands Media]] contributor [[brad-cologero-getz|Brad Cologero Getz]] rejected the city's defense that it had spent $7 billion of its own while FEMA supplied only $237 million, arguing that "FEMA is for disaster relief, not disaster funding" and that the $237 million "should be used for one thing. To deport them."[11]
+
 10. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+11. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

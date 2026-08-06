@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, voting, election-integrity, congress]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -48,9 +48,16 @@ In August 2025 President [[donald-trump|Donald Trump]] said he would launch a mo
 
 [[badlands-media|Badlands Media]] contributor [[ashe-in-america|Ashe in America]] rejected counter-arguments from [[andrew-yang|Andrew Yang]] that voting had become too difficult, writing that two decades of the existing system had produced "fake voters, fake ballots, fake counts, and the lowest levels of institutional trust in US history," and characterising Yang as a globalist promoter of taxpayer-funded universal basic income.[5]
 
+## Allegations in "Biden, Inc. Flips"
+
+A December 2024 Badlands feature argued that mass mail-in voting, introduced under the justification of pandemic safety, created significant vulnerabilities in ballot validation and counting processes.[6] It claimed that irregularities emerged across multiple swing states, citing whistleblower accounts of discarded ballots, late-night vote dumps, and unverifiable voter rolls.[6]
+
+The article situated this within a broader thesis that the COVID-19 pandemic was weaponized to enable election interference: lockdowns and fear campaigns were said to have justified the expansion of mail voting, while complicit media outlets dismissed integrity concerns as conspiracy theories and platforms including Twitter and Facebook suppressed investigative reporting in coordination with government agencies.[6] These allegations reflect the outlet's [[deep-state|Deep State]] framework and are not supported by adjudicated findings.[6]
+
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 3. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 4. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 5. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
+6. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

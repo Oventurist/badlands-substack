@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [sanctions, human-rights, corruption, trump]
-sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/badlands-brief-abf.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-ee8.md, raw/biden-inc-flips.md, raw/does-the-cia-still-control-iran.md]
 confidence: medium
 ---
 
@@ -38,6 +38,12 @@ In December 2025 Badlands contributor GhostofBasedPatrickHenry argued that Execu
 
 Israeli mining billionaire [[dan-gertler|Dan Gertler]] was sanctioned by the Trump administration in late 2017 under Executive Order 13818, described in Badlands commentary as "infamous" and titled "Blocking the Property of Persons Involved in Serious Human Rights Abuse or Corruption."[7] Former [[mossad]] director [[yossi-cohen|Yossi Cohen]] lobbied for the lifting of those sanctions, and [[ron-dermer|Ron Dermer]] secured their suspension days before [[donald-trump|Donald Trump]] left office; the US Treasury immediately re-applied them once the press reported on the move.[7]
 
+## Role in the Continuity of Government framing
+
+A December 2024 Badlands feature described EO 13818, signed by [[donald-trump|Donald Trump]] on December 20, 2017, as expanding the scope of the Magnitsky Act to allow the U.S. government to target individuals and entities involved in human rights abuses or systemic corruption globally, including through the freezing and confiscation of assets tied to trafficking, financial fraud, and exploitation.[8]
+
+The article emphasized that the order has been renewed annually, including under [[joe-biden|Joe Biden]], and argued that an administration working against the [[white-hats|White Hats]] would have rescinded rather than extended it.[8] On that reading it remains a live instrument for dismantling financial networks tied to domestic and foreign corruption, with the author naming [[ftx|FTX]], BlackRock, State Street, Vanguard, and pre-acquisition Twitter as examples.[8] The piece also argued that the order's broad scope permits targeting individuals and corporations said to have knowingly perpetuated harm under the guise of public health.[8] These interpretations are commentary rather than documented policy.[8]
+
 ## References
 1. Badlands Brief — "Long-Term Legal Remedies & A Reboot of Russian Relations", URL: https://badlands.substack.com/p/badlands-brief-abf
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
@@ -50,3 +56,9 @@ Israeli mining billionaire [[dan-gertler|Dan Gertler]] was sanctioned by the Tru
 
 When a Russian court ordered the seizure of $439.5 million from [[jpmorgan-chase|JPMorgan Chase]] in April 2024, Badlands contributor GhostofBasedPatrickHenry reminded readers of Executive Order 13818, describing it as the order [[donald-trump|Donald Trump]] signed in December 2017 giving the president authority to seize the property of individuals or companies involved in serious human trafficking operations.[6] He noted that JPMorgan had already been shown to be entangled with [[jeffrey-epstein|Jeffrey Epstein]], with former executive [[jes-staley|Jes Staley]] accused of ties to child trafficking crimes, and argued that the only narrative better than the US government seizing JPMorgan assets was a foreign government doing so.[6]
 7. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+8. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+
+## Cited in the Eric Schmidt timeline (2023)
+
+[[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] cited the order in July 2023 while discussing [[eric-schmidt|Eric Schmidt]], describing it as the executive order [[donald-trump|President Trump]] put out on 20 December 2017 blocking the property of persons involved in serious human rights abuse.[9] Carlson pointed out that Schmidt announced he was stepping down from Alphabet on 21 December 2017 — "literally the next day" — and called the sequence "kind of suspicious," folding it into his wider argument that Schmidt and the [[central-intelligence-agency|CIA]] were involved in [[north-korea|North Korea]].[9]
+9. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran

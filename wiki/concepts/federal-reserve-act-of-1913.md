@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, 1913, central-banking]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/do-we-have-a-contract-with-the-federal.md]
 confidence: medium
 ---
 
@@ -26,3 +26,11 @@ The Act was one of three 1913 measures the article treats as a single program: t
 
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
+
+## Federal, not state, enactment
+
+A later Badlands Media legal analysis emphasized that the states themselves did not pass the Federal Reserve Act — the federal government did.[2] It was not the New York Congress nor the legislature of Massachusetts that enacted it, but the federal [[us-congress|Congress]], and while states may become party to the resulting contract with [[federal-reserve|the Federal Reserve]] through various means, they are not its origin, so specific mechanisms are required to make them parties.[2]
+
+On the same reasoning the article argued that by congressional act the United States made itself liable to pay the Federal Reserve system in order to receive the benefits of using [[federal-reserve-note|Federal Reserve Notes]], with the federal government acting as [[agency-law|agent]] for the American people.[2] Because the Act was federal, the author held that its corporate consequences attach to individuals in their capacity as federal citizens under [[fourteenth-amendment|the 14th Amendment]] rather than as [[state-citizenship|state citizens]].[2]
+
+2. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal

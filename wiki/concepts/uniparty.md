@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [congress, politics, uniparty]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-blitz-episode-23.md, raw/badlands-brief-165.md, raw/badlands-brief-1ae.md, raw/badlands-brief-58d.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-204.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-d6a.md, raw/believe-half-of-what-you-see.md, raw/bernie-sanders-establishment-tool.md, raw/fake-news-until-proven-real.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -78,7 +78,24 @@ The August 2024 letter in which more than 200 former staffers to George H. W. Bu
 
 After the United States vetoed a [[united-nations-security-council|UN Security Council]] ceasefire resolution on Gaza days after pressing for more taxpayer funding for the war in Ukraine, Badlands contributor [[burning-bright|Burning Bright]] wrote that the macro picture seeping into the collective mind is that the Uniparty establishment "will stop at nothing to perpetuate its endless war machine, even to the chagrin of the rest of the supposedly-civilized world."[13]
 
+## Badlands commentary, November 2023
+
+In the November 2023 essay "Believe Half of What You See," [[erik-carlson|Erik Carlson]] asked whether more Uniparty members remained to be exposed, naming [[ronna-mcdaniel|Ronna McDaniel]] — chairwoman of the [[republican-national-committee|Republican National Committee]] and niece of Mitt Romney — as an example, and noting that she had been re-elected around the time Kevin McCarthy took the Speakership.[14] He asked whether the recent election had been meant to go badly and whether further RINOs were still to be primaried out.[14] The essay also treated the conduct of primary rivals such as [[nikki-haley|Nikki Haley]] and [[ron-desantis|Ron DeSantis]] as evidence of establishment figures being surfaced and discredited in public view.[14]
+
+## Both-party outsider moment of 2016
+
+A 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] used the uniparty framework to explain the 2015–2016 political moment, when seemingly anti-establishment figures emerged on both sides of the aisle and polled well against their uniparty opposition: [[donald-trump|Donald Trump]] humiliating establishment Republicans such as Jeb Bush and Chris Christie in the primaries, and [[bernie-sanders|Bernie Sanders]] challenging [[hillary-clinton|Hillary Clinton]].[15] Both insurgencies created rifts in their party voter bases and showcased a popular desire to move away from a deeply embedded uniparty.[15]
+
+The essay argued the two trajectories then diverged. Trump, despite the Russiagate smear and a string of indictments, built a cultural movement that is rendering establishment Republicans obsolete — evidenced by low interest in the first two 2023 Republican primary debates and by the broadly favorable voter response to [[kevin-mccarthy|Kevin McCarthy]]'s ouster as Speaker.[15] Sanders, by contrast, capitulated in 2016 and again in 2020 and, by endorsing [[joe-biden|Joe Biden]] in 2023 while attacking [[cornel-west|Cornel West]], became in the author's framing another pawn of the permanent political class in Washington.[15] The essay also identified the treatment of third-party candidacies as a "threat to democracy" — and the reflexive labeling of non-compliant candidates as Russian assets — as a mechanism by which the uniparty defends itself.[15]
+
+## Splintering over Israel and Gaza (December 2023)
+
+A December 2023 Badlands Media essay by Erik Carlson argued that the Uniparty, which a year earlier had been held in lockstep by a cancel culture usable against both sides, had by late 2023 split into pro-Israel and pro-Hamas/Palestine factions while still working in unison to create war and protect the Cabal.[17] The essay noted this was nothing new for the neoconservatives, who had always been pro-Israel, but that the progressive left had divided in two for the first time — "never before has the left opposed Israel."[17]
+
+Carlson described the progressive coalition of climate activists, pro-abortion feminists, Jews, Muslims and trans rights activists as now at each other's throats, with shared hatred of [[donald-trump|Donald Trump]] no longer a strong enough adhesive to hold them together.[17] He read the split as an act of desperation: in order to manufacture support for both sides of a war, the Cabal had exposed too much, and the resulting incoherence would drive more people to peel back layers and recognize the puppet strings.[17] Americans, he argued, were being forced to pick a side, with neutrality or advocacy of coexistence risking accusations of antisemitism from one camp and Islamophobia from the other.[17]
+
 ## References
+
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Badlands Blitz Episode 23", URL: https://badlands.substack.com/p/badlands-blitz-episode-23
 3. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -92,3 +109,13 @@ After the United States vetoed a [[united-nations-security-council|UN Security C
 11. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 12. Badlands Brief — "Badlands News Brief: Debates About Debates, RINO Country & Building BRICS", URL: https://badlands.substack.com/p/badlands-news-brief-b5f
 13. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+14. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see
+15. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
+16. Badlands Brief — "Fake News Until Proven Real ...", URL: https://badlands.substack.com/p/fake-news-until-proven-real
+
+## "Designed to fail" (2024)
+
+Writing in May 2024, [[erik-carlson|Erik Carlson]] argued that the Uniparty is "designed to fail" and that its dysfunction and insanity were then on full display.[16] He contrasted MAGA and America First, which he said share common interests — placing America's interests over foreign interests, protecting freedom of speech, the right to bear arms and freedom of religion — with a Uniparty composed of pro-Israel and anti-Israel factions, Muslims, gays and trans people, pro-war and anti-war constituencies, Communists and Capitalists, and both women's rights activists and women's rights suppressors.[16] Such a coalition, he wrote, can only last so long, and bringing RINO neocons together with progressive liberals to fight [[donald-trump|Trump]] was purely an act of desperation.[16]
+
+He cited the Uniparty's banning of [[tiktok|TikTok]] as an example of the coalition simultaneously courting and infuriating young voters whom the [[biden-administration|Biden Administration]] needed in the 2024 election.[16]
+17. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

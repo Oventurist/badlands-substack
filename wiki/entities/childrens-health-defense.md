@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [health, pharma, vaccines, advocacy, rfk-jr]
-sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-a61.md]
+sources: [raw/badlands-news-brief-12b.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-fbd.md]
 confidence: medium
 ---
 
@@ -46,3 +46,9 @@ On January 26, 2023, Children's Health Defense filed suit in federal court in Wa
 2. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
 3.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
 4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+
+## Lawsuit against the CDC (April 2025)
+
+The nonprofit, formerly led by Health and Human Services Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], sued the [[centers-for-disease-control-and-prevention|Centers for Disease Control and Prevention]] in April 2025, accusing the agency - then under Kennedy's own oversight - of pressuring doctors to administer COVID-19 vaccines to disadvantaged children through the federal [[vaccines-for-children-program|Vaccines for Children]] program.[5] The suit sought to force the CDC to abandon a "scientifically untethered" vaccination policy.[5] Its lead plaintiff was Dr. Samara Cardenas, an Anaheim pediatrician who said her refusal to administer COVID-19 shots on medical judgment cost her nearly 2,000 Medicaid patients and closed her practice; the complaint, filed April 25 in the U.S. District Court for the Central District of California, alleged that the CDC "punish[es] ethical physicians" and promotes an "unnecessary mass vaccination" campaign targeting the nation's poorest children.[5]
+
+5. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd

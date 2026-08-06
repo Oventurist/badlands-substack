@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid, biolabs, public-health, censorship]
-sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/anthony-fauci.md, raw/badlands-brief-414.md, raw/badlands-brief-67a.md, raw/badlands-brief-be1.md, raw/badlands-brief-d94.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-109.md, raw/badlands-news-brief-238.md, raw/badlands-news-brief-276.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a3.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b6c.md, raw/badlands-news-brief-bad.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d32.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-da3.md, raw/behold-a-trojan-horse.md]
 confidence: low
 ---
 
@@ -200,6 +200,15 @@ Badlands contributor [[burning-bright|Burning Bright]] wrote that he did not exp
 Following Fauci's departure from government, Badlands reported in June 2023 that "with Dr. Fauci having exited stage left," the mainstream media had anointed vaccine scientist [[peter-hotez|Peter Hotez]] as its new vaccine-promoting talking head.[29] Hotez's refusal to debate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] on [[joe-rogan|Joe Rogan]]'s podcast, despite a charity pot exceeding $1.52 million, became the focus of that coverage.[29]
 
 
+## "Biden, Inc. Flips" allegations
+
+A December 2024 Badlands feature grouped Fauci's [[national-institutes-of-health|National Institutes of Health]] with pharmaceutical manufacturers in what it described as a coordinated effort to profit from fear and crisis through links to [[gain-of-function-research|gain-of-function research]] and the suppression of alternative COVID-19 treatments.[30] The article asserted that emails between NIH officials and pharmaceutical executives highlight these alliances, and characterized the arrangement as being about consolidating control rather than saving lives.[30] It further claimed that Ukrainian laboratories conducted illegal research funded indirectly by U.S. entities such as the NIH.[30] These are unverified commentary claims advanced within a broader [[deep-state|Deep State]] framework.[30]
+
+## Predictions cited in "Behold, a Trojan Horse" (May 2023)
+
+A May 2023 Badlands Media article, "Behold, a Trojan Horse," cited Fauci's statement that there would "absolutely be another outbreak" and that it could happen as soon as "next year."[31] The author argued this aligned with a claim by WHO virologist [[marion-koopmans|Marion Koopmans]] that the [[world-health-organization|WHO]] had been planning for "ten years of infectious diseases" with 2020 as only year one, suggesting another scare was just what the public needed to embrace the proposed [[pandemic-treaty|pandemic treaty]] and [[international-health-regulations|IHR amendments]].[31] Fauci's remark was presented as evidence that a looming-outbreak narrative was being cultivated to build public demand for an entity "above the US Government" that would force America to cede pandemic authority to the WHO.[31]
+
+
 ## References
 
 
@@ -229,3 +238,5 @@ Following Fauci's departure from government, Badlands reported in June 2023 that
 25. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 26. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 27. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
+30. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+31. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse

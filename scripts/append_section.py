@@ -1,33 +1,19 @@
 import sys, re, io, json
-
-def run(path, basename, refline, section):
-    with open(path, 'r', encoding='utf-8', newline='') as f:
-        txt = f.read()
-    nl = '\r\n' if '\r\n' in txt else '\n'
-    m = re.search(r'^sources: \[(.*?)\]', txt, re.M)
-    if not m:
-        raise SystemExit('no sources line in ' + path)
-    items = [x.strip() for x in m.group(1).split(',') if x.strip()]
-    src = 'raw/%s.md' % basename
-    if src in items:
-        n = items.index(src) + 1
-        newsrc = m.group(0)
-    else:
-        items.append(src)
-        n = len(items)
-        newsrc = 'sources: [%s]' % ', '.join(items)
-    txt = txt[:m.start()] + newsrc + txt[m.end():]
-    txt = re.sub(r'^updated: .*$', 'updated: 2026-08-06', txt, count=1, flags=re.M)
-    body = section.replace('{n}', str(n)).replace('\r\n', '\n').replace('\n', nl)
-    ref = ('%d. %s' % (n, refline)).replace('\n', nl)
-    if not txt.endswith(nl):
-        txt += nl
-    txt += nl + body.rstrip() + nl + nl + ref + nl
-    with open(path, 'w', encoding='utf-8', newline='') as f:
-        f.write(txt)
-    print('%s -> [%d]' % (path, n))
-
-if __name__ == '__main__':
-    spec = json.load(open(sys.argv[1], encoding='utf-8'))
-    for item in spec['pages']:
-        run(item['path'], spec['basename'], spec['refline'], item['section'])
+# usage: python append_section.py <path> <rawbase> <jsonfile-with-body-template>
+path, rawbase, bodyfile = sys.argv[1], sys.argv[2], sys.argv[3]
+txt = io.open(path, encoding='utf-8').read()
+nl = '\r\n' if '\r\n' in txt else '\n'
+t = txt.replace('\r\n', '\n')
+m = re.search(r'^sources: \[(.*?)\]\s*$', t, re.M)
+srcs = [s.strip() for s in m.group(1).split(',') if s.strip()]
+entry = 'raw/%s.md' % rawbase
+if entry in srcs:
+    n = srcs.index(entry) + 1
+else:
+    srcs.append(entry); n = len(srcs)
+    t = t[:m.start()] + 'sources: [%s]' % ', '.join(srcs) + t[m.end():]
+t = re.sub(r'^updated: .*$', 'updated: 2026-08-06', t, count=1, flags=re.M)
+body = io.open(bodyfile, encoding='utf-8').read().replace('{N}', str(n))
+t = t.rstrip('\n') + '\n\n' + body.strip() + '\n'
+io.open(path, 'w', encoding='utf-8', newline=nl).write(t)
+print('OK', path, 'n=', n)

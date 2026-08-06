@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [clemency, corruption, rule-of-law, biden-family]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-7a5.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-2f5.md, raw/badlands-news-brief-397.md, raw/badlands-news-brief-7a5.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -57,6 +57,12 @@ The White House Press Secretary, [[karine-jean-pierre|Karine Jean-Pierre]], held
 
 Badlands contributor [[ashe-in-america|Ashe in America]] used the exchange to question the authorship of the accompanying presidential statement, arguing that referring publicly to a message as being "in his own voice" is communications jargon for a tightly controlled channel and that no professional should undermine that channel by naming it.[5] The commentary suggested Jean-Pierre had internally advocated for the president to speak in his own voice to project strength and authenticity while preserving her own ability to deflect questions, and speculated pointedly about who was actually writing in Biden's voice.[5]
 
+## "Spotlight, not a shield" reading
+
+A December 17, 2024 Badlands feature titled "Biden, Inc. Flips" argued that the pardon, dismissed by some as presidential overreach, was in fact a calculated move orchestrated by the [[white-hats|White Hats]] to force the activities of "Biden, Inc." into public view rather than to grant absolution.[6] Because the clemency covers a critical timeframe of Hunter Biden's activities, the author contended, it brings his alleged dealings with bioweapons labs, trafficking networks, and money-laundering schemes into sharp focus and keeps them in public consciousness.[6] The move was characterized as a chess gambit — sacrificing one piece to expose the entire board — that amplifies rather than reduces exposure across state, international, and military jurisdictions.[6]
+
+The feature further argued that the pardon is legally symbolic, on the theory that crimes against humanity and acts of treason fall outside civilian protections once an individual is classified as an enemy combatant and adjudicated under the [[uniform-code-of-military-justice|Uniform Code of Military Justice]] before [[military-tribunals|military tribunals]] operating under [[continuity-of-government|Continuity of Government]] protocols.[6] Within this framing the pardon opens "a wide swath of DECLAS dating back to 2014," feeding the incremental [[declas|declassification]] program said to underpin the [[great-awakening|Great Awakening]] and to strengthen what the author calls the Public Mandate for action.[6] These claims are interpretive assertions from the alternative-media commentary sphere and are not supported by documented legal proceedings.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 2. Badlands News Brief — "Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
@@ -64,3 +70,4 @@ Badlands contributor [[ashe-in-america|Ashe in America]] used the exchange to qu
 4. Badlands News Brief — "Pardon Me, Blue, but Whose Team Are You Really On?", URL: https://badlands.substack.com/p/badlands-news-brief-397
 
 5. Badlands Brief — "Damascus Has Fallen ... Cui Bono?", URL: https://badlands.substack.com/p/badlands-news-brief-7a5
+6. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

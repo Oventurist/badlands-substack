@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, founding-fathers]
-sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md]
+sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md, raw/donald-trump-and-george-washington.md]
 confidence: medium
 ---
 
@@ -30,7 +30,16 @@ Washington had little to no knowledge or experience employing cavalry as a set p
 
 After a demonstration of riding stunts before Washington and his officers, Pulaski argued for the superiority of cavalry over infantry and received a commission as "Commander of Horse" in time for the Battle of Brandywine in September 1777, where his charge turned the tide and saved Washington's life.[3]
 
+## The Monongahela deliverance
+
+Washington's survival at the [[battle-of-the-monongahela|Battle of the Monongahela]] on July 9, 1755, during the [[french-and-indian-war|French and Indian War]], is treated in Badlands commentary as the founding American instance of providential protection.[4] Then a 23-year-old colonel, Washington rode back and forth across the battlefield for two hours delivering the general's orders to other officers and troops while the Native American combatants specifically targeted officers; of 86 British and American officers, 63 became casualties, and Washington was the only officer on horseback not shot down.[4]
+
+In a letter to his brother after the battle, Washington wrote: "By the all-powerful dispensations of Providence, I have been protected beyond all human probability or expectation; for I had four bullets through my coat, and two horses shot under me, yet [I] escaped unhurt, although death was leveling my companions on every side of me!"[4] The account, as related by Dr. [[bo-wagner|Bo Wagner]] in an August 15, 2013 *Cleveland Corner* column, holds that fifteen years later an old and respected Indian chief sought Washington out to explain that he had led the warriors against him and had ordered his men to concentrate their fire on the "tall and daring warrior," only to find that "a power mightier far than we shielded you," concluding that Washington was "the particular favorite of Heaven, and who can never die in battle."[4]
+
+[[erik-carlson|Erik Carlson]] invoked the episode in July 2024 to frame the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] in Butler, Pennsylvania — some 30 miles from the Monongahela battlefield in present-day Pittsburgh and 269 years and four days later — as a parallel act of divine protection, arguing that both Washington and [[donald-trump|Donald Trump]] were chosen and shielded by God: one to make America, the other to make America great again.[4]
+
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
 2. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 3. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
+4. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

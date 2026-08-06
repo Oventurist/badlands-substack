@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-virgin-islands, epstein, litigation, subpoena, caribbean]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ea7.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-a56.md, raw/badlands-news-brief-ea7.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -58,3 +58,9 @@ The territory filed suit against [[jpmorgan-chase|JPMorgan Chase & Co.]] in Dece
 5. Badlands Brief — "Badlands News Brief: Putin Pandemonium Competes with A Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-575
 6. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
 7. Badlands Brief — "Badlands News Brief: Trump Mania, Insider Banking & ... Poop?", URL: https://badlands.substack.com/p/badlands-news-brief-ea7
+
+## Subpoena of Elon Musk in the JPMorgan suit (May 2023)
+
+In May 2023 the territorial government sought to subpoena [[elon-musk|Elon Musk]] for documents in its lawsuit against [[jpmorgan-chase|JPMorgan Chase]], which alleges the bank was liable for sex trafficking committed by [[jeffrey-epstein|Jeffrey Epstein]], who kept an estate in the islands.[8] The suit, filed in 2022, contended that JPMorgan enabled Epstein's recruiters to pay victims and was "indispensable to the operation and concealment of the Epstein trafficking enterprise."[8] In its filing the territory said it believed Epstein may have referred or tried to refer Musk to JPMorgan as a potential client; Musk has never been publicly accused of wrongdoing connected to Epstein and his spokespeople have denied reports that Epstein advised him on business matters.[8]
+
+8. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

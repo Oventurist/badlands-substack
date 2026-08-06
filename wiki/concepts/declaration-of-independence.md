@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [founding-documents, natural-rights, law, united-states]
-sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md, raw/combating-the-transhumanist-religion.md, raw/do-we-have-a-contract-with-the-federal.md]
 confidence: medium
 ---
 
@@ -37,3 +37,19 @@ The Declaration records that every stage of oppression was met with petitions fo
 ## References
 1. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
 2. Badlands Brief — "Happy Independence Day!", URL: https://badlands.substack.com/p/badlands-news-brief-7c5
+
+## Self-perfectibility and the right of alteration
+
+Badlands contributor [[matthew-ehret|Matthew Ehret]] cites the Declaration in arguing that forms of government are themselves technologies, designed with objective goals and endowed with the seeds of their own self-improvement.[3] He notes that [[benjamin-franklin|Benjamin Franklin]] and the other authors wrote that "whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness."[3]
+
+Ehret pairs this with the phrase "a more perfect union" from the 1787 Constitution, presenting the founding documents of 1776 and 1787 as instituting an operating principle of constant self-perfectibility — a system never meant to become fixed or static, since a crystallized structure suffocating the creative spirit that produced it would doom society to decadence, stupefaction and tyranny.[3] He offers this conception, alongside [[friedrich-schiller|Friedrich Schiller]]'s criterion for judging institutions, as the humanist answer to [[transhumanism|transhumanism]].[3]
+
+3. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
+
+## Consent of the governed as Natural Law
+
+Badlands Media's March 2023 analysis of the American monetary system treats the Declaration as an invocation of [[natural-law|Natural Law]], noting its statement that governments are instituted among men and receive their authority by consent of the governed.[4] The article calls Natural Law "THE system of law invoked in the Declaration as the origin of the United States itself."[4]
+
+That framing sets up the article's central tension: whether the government works for the people under Natural Law, or the people work for [[federal-reserve|the Federal Reserve]] under contract via Corporate Law.[4] The author resolves it with [[emerich-de-vattel|Emerich de Vattel]]'s maxim from [[law-of-nations|The Law of Nations]] that men naturally free and independent cannot lose those blessings without their consent, and closes by urging readers to do as the Declaration commands and institute systems of governance that truly serve the people.[4]
+
+4. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal

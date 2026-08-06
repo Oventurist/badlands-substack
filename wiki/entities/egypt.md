@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [middle-east, military, diplomacy]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-a21.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-7b7.md, raw/badlands-news-brief-a21.md, raw/did-israel-possess-foreknowledge.md]
 confidence: medium
 ---
 
@@ -34,6 +34,11 @@ The same week, [[turkey|Turkey]] and Egypt held a diplomatic meeting for the fir
 
 On May 27, 2024 a member of Egypt's security forces was killed in a shooting near the [[rafah-border-crossing|Rafah border crossing]] with the Gaza Strip, with Egypt's military spokesperson announcing an investigation and Egypt warning it would take necessary measures to prevent a recurrence.[5] Egyptian security sources said the soldier had opened fire after seeing an Israeli armoured vehicle cross a boundary line while troops pursued and killed several Palestinians, and that Israeli return fire killed him and touched off a wider exchange in which several Israeli soldiers were wounded.[5] Israel had seized the Rafah crossing from the Gaza side earlier that month, drawing strong Egyptian criticism.[5] Badlands commentary invoked the memory of Egyptian President Nasser and the mid-century Arab-Israeli conflicts, warning the episode risked dragging Egypt into the war; the incident is treated in full at [[2024-rafah-border-shooting-incident|the 2024 Rafah border shooting incident]].[5]
 
+
+## Warning before October 7, 2023
+
+In the days leading up to the [[october-7-attacks|October 7, 2023 Hamas attack]] on [[israel|Israel]], Egypt reportedly warned that "something big" was coming.[6] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cited the warning as evidence that Israeli authorities had advance notice yet took no precautions to bolster their defenses, a central element of the [[israel-october-7-foreknowledge-allegations|October 7 foreknowledge allegations]].[6]
+
 ## References
 
 1. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -41,3 +46,4 @@ On May 27, 2024 a member of Egypt's security forces was killed in a shooting nea
 3. Badlands Brief — "13 Germans, A Seized Smartwatch, & An American Tithe's Worth of Fraud", URL: https://badlands.substack.com/p/badlands-brief-c07
 4. Badlands Brief — "Badlands News Brief: Harris Preps, Sovereigns Speak & ... Haitians Eat Cats?", URL: https://badlands.substack.com/p/badlands-news-brief-7b7
 5. Badlands Brief — "Badlands News Brief: Trumpian Deliberations, Libertarian LARPs & Israeli Misfires", URL: https://badlands.substack.com/p/badlands-news-brief-a21
+6. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge

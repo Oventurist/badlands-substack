@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, dwac, trump, sec]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-7c0.md, raw/badlands-brief-e3b.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-47f.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-b04.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/donald-trump-and-george-washington.md]
 confidence: low
 ---
 
@@ -100,6 +100,13 @@ In August 2025 Trump Media, which trades on Nasdaq and NYSE Texas under the tick
 
 In September 2023 the long-delayed merger between Trump Media & Technology Group and its funding partner [[digital-world-acquisition-corp|Digital World Acquisition Corp.]] was rescued days before the blank-check company faced liquidation, when DWAC shareholders approved a one-year extension of the merger deadline.[18] Without the extension DWAC would have been liquidated on September 8, 2023.[18] Neither DWAC nor Trump Media, which operates [[truth-social|Truth Social]], responded to requests for comment from [[cbs-news|CBS News]], and DWAC shares — once $175 in 2021 — rose 3.9% to $17.16 in afternoon trading.[18] DWAC chief executive [[eric-swider|Eric Swider]] thanked supporters in a Truth Social post while asking observers to "understand my silence."[18] Badlands writer [[burning-bright|Burning Bright]] noted that the merger was fighting through [[securities-and-exchange-commission|SEC]] delays and that the fresh timeline placed the deal's completion just before the 2024 election.[18]
 
+
+## Erik Carlson on the blocked merger (February 2024)
+
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] explained the structure to readers: a SPAC is a special purpose acquisition company without commercial operations, formed strictly to raise capital through an initial public offering in order to acquire or merge with an existing company, and [[digital-world-acquisition-corp|DWAC]] was the SPAC [[donald-trump|Trump]] used to merge with Trump Media.[20] He wrote that DWAC began raising money more than two years earlier with the intention of later merging with Trump Media, giving Trump the capital to build media properties competing with mainstream media and offering news and entertainment that is neither woke nor designed to mind-control the population.[20]
+
+Carlson accused the [[securities-and-exchange-commission|SEC]] of unprecedented tactics to block the merger and of corruptly withholding investor money, arguing that [[truth-social|Truth Social]] and the wider planned media empire cannot be built out until the deal closes.[20]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
@@ -128,3 +135,10 @@ Nunes wrote that the pattern was particularly troubling because [[naked-short-se
 
 
 19. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+20. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+
+## DJT share price and the Butler shooting
+
+[[erik-carlson|Erik Carlson]] treated the behaviour of DJT stock in July 2024 as circumstantial evidence of foreknowledge of the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]].[21] He observed that the share price fell hard after [[joe-biden|Joe Biden]]'s poor showing in the [[2024-presidential-debate|presidential debate]] — the opposite of what he would have expected — and that the decline was subsequently explained by Wall Street participants shorting the stock in anticipation of a fall.[21] Carlson asked what those traders knew, concluded that they had anticipated an attempt on [[donald-trump|Trump]]'s life, and argued the [[deep-state|Deep State]] players involved had "stepped right into a bear trap."[21]
+
+21. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington

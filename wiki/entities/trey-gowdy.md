@@ -26,6 +26,10 @@ The America for Sale series pairs Gowdy with House Judiciary Chairman [[bob-good
 
 Gowdy, Goodlatte and Senator [[chuck-grassley|Chuck Grassley]] jointly requested the investigation that Attorney General [[jeff-sessions|Jeff Sessions]] assigned to U.S. Attorney [[john-huber|John Huber]], working with Inspector General [[michael-horowitz|Michael Horowitz]].[[2]](https://badlands.substack.com/p/america-for-sale-part-2) Their resignations, together with that of Sessions, are presented as coordinated rather than coincidental — "military planning at its finest."[[2]](https://badlands.substack.com/p/america-for-sale-part-2) After finishing their House investigations into Obama administration crimes, Gowdy and Goodlatte handed their evidence to Grassley as Senate Judiciary Chairman, evidence the article says concerns treason at the highest levels and is connected to the [[clinton-foundation|Clinton Foundation]], [[huma-abedin|Huma Abedin]] and [[doug-band|Doug Band]].[[2]](https://badlands.substack.com/p/america-for-sale-part-2) Trump publicly thanked both men, telling them what they had done "will never be forgotten."[[2]](https://badlands.substack.com/p/america-for-sale-part-2)
 
+## The House-to-Senate handoff
+
+"Do You Believe in Coincidences?" places Gowdy among the House investigators — with [[devin-nunes|Devin Nunes]] and [[bob-goodlatte|Bob Goodlatte]] — who received purposely declassified material from [[donald-trump|Donald Trump]] and used it to expose the Russian collusion hoax.[3] Q material quoted in the article repeats that "Goodlatte, Gowdy and Sessions all resigned," which the author interprets as a coordinated transformation of the investigators into "expert witnesses" who brought [[united-states-senate|Senate]] inquiries up to speed and pointed them toward the key players once the Senate Judiciary Committee's oversight of the [[us-department-of-justice|DOJ]] and [[fbi|FBI]] could be used.[3]
+
 ## References
 
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, georgia, nonprofits, green-energy, grants]
-sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-b92.md]
+sources: [raw/badlands-brief-70c.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-b92.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -31,3 +31,9 @@ In November 2023 Abrams's brother-in-law [[jimmie-gardner|Jimmie Gardner]] was a
 1. Badlands Brief — "Trump Taps Surprising New DNI While Media Freaks Out About Everything", URL: https://badlands.substack.com/p/badlands-brief-70c
 2. Badlands Brief — "Trump Teases Saudi Trillions; Biden Bros Embezzled Billions", URL: https://badlands.substack.com/p/badlands-news-brief-745
 3. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
+
+## 2023 Bilderberg attendance
+
+Stacey Abrams attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, where artificial intelligence was the primary topic.[4] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]], who described her as a "failed US politician," listed her among the globalist players present at the gathering.[4]
+
+4. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

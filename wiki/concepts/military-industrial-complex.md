@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [military-industrial-complex, war, propaganda, defense]
-sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d24.md]
+sources: [raw/a-bright-red-line.md, raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-d24.md, raw/bernie-sanders-establishment-tool.md]
 confidence: medium
 ---
 
@@ -26,14 +26,17 @@ In a December 2023 interview with [[tucker-carlson|Tucker Carlson]], Rep. [[thom
 
 In January 2023, as the [[pentagon|Pentagon]] declined to rule out sending F-16 fighter jets to [[ukraine|Ukraine]] following the announcement of 31 Abrams tanks, [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] argued that the war had exposed a partisan inversion in which the Democratic Party and its progressive base had become the constituency sustaining the war machine.[4] He contended that beyond the money laundering and human trafficking possible under the fog of war, nothing generates more money than war itself, and that the sheer existence of the Military Industrial Complex is evidence enough of the incentive.[4] In his view, MIC leadership loses no sleep over whether a given war is justified or in America's interest, a pattern he described as historically consistent.[4]
 
+## Bernie Sanders and defense manufacturing in Vermont
+
+A 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] cited [[bernie-sanders|Bernie Sanders]] as a case study in the political economy of the military-industrial complex, arguing that Sanders rails against big defense corporations at rallies while omitting his own long entanglement with them.[6] Burlington's boom-era economy during his mayoralty was propped up in part by a [[general-electric|General Electric]] plant — GE then among the nation's largest defense contractors — and by the "profligate military spending" Sanders campaigned against.[6] The plant employed three thousand workers, had nearly doubled its defense contracts by 1986, and produced Vulcan Gatling guns for attack helicopters and fighter jets.[6] When his own progressive supporters picketed the facility, Sanders sided with GE executives, denounced the protests, and had some protesters arrested.[6] He later brought a [[lockheed-martin|Lockheed Martin]] research center to [[burlington-vermont|Burlington]] and secured the basing of 18 [[f-35|F-35]] fighter jets at the city's airport for the Vermont National Guard, leading the World Socialist Web Site to call him a "silent partner of American militarism."[6]
+
 ## References
+
 1. Badlands Brief — "A Bright Red Line", URL: https://badlands.substack.com/p/a-bright-red-line
 2. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 3. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
-
 ## 2023 Pentagon accounting error
-
 Badlands writer [[justin-deschamps|Justin Deschamps]] treated the [[pentagon|Pentagon]]'s June 2023 disclosure of a $6.2 billion overvaluation of weapons sent to Ukraine as an artifact of "a massive, decade-long money laundering operation for the military industrial complex," noting that the correction conveniently freed additional funds for Ukraine just as congressional appropriations were dwindling.[5] See [[2023-pentagon-ukraine-aid-accounting-error|2023 Pentagon Ukraine aid accounting error]].[5]
-
 5. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+6. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool

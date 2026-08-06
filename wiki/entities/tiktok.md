@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, ccp, algorithms, ai]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-e10.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/a-new-hollywood.md, raw/badlands-news-brief-08a.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-592.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -126,3 +126,9 @@ Coverage framed the request as a potential first major clash between Trump and a
 A May 2025 Salon report highlighted the contradiction between US states banning TikTok on government devices while continuing to use the platform for tourism promotion.[17] Since 2022, more than 30 states — including Texas, Florida, and Montana — restricted TikTok on official networks, citing national security concerns, with Texas Governor [[greg-abbott|Greg Abbott]] calling it a platform that "offers this trove of potentially sensitive information to the Chinese government," even as state tourism accounts such as Visit Texas kept posting.[17]
 
 At the federal level, President [[joe-biden|Joe Biden]] signed a bill in April 2024 requiring [[bytedance|ByteDance]] to sell TikTok or face a nationwide ban, but the deadline passed months later without a sale, and the app remained running and increasingly central to tourism marketing across the country.[17] [[badlands-media|Badlands Media]] commentator [[jon-herold|Jon Herold]] noted the absence of recent news about TikTok's ultimate fate in the US, observing that the ban delay was in effect until June 19.[17]
+
+## Musk denies interest in buying TikTok (February 2025)
+
+In remarks recorded at the WELT Economic Summit on January 28, 2025 and released the following month, [[elon-musk|Elon Musk]] stated that he was not planning to buy TikTok and had no plans for what he would do with it if he owned it.[18] "I haven't made a bid for TikTok, nor do I have any plans regarding what I would do if I owned it," Musk said, noting that he usually does not buy companies, with Twitter — now X — being the exception, undertaken to "protect freedom of speech."[18] The [[joe-biden|Biden]] administration had previously ordered TikTok's Chinese parent company [[bytedance|ByteDance]] to sell the platform, which has around 170 million U.S.-based users, on national security grounds.[18]
+
+18. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

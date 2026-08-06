@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [israel, diplomacy, iran]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-559.md, raw/badlands-brief-625.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-fcd.md]
 confidence: low
 ---
 
@@ -58,6 +58,10 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] conne
 
 After Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] told his AK Party in Parliament in June 2025 that [[benjamin-netanyahu|Benjamin Netanyahu]] had "long surpassed the tyrant Hitler in the crime of genocide," Sa'ar responded on X: "The sultan, in his own eyes, in yet another inflammatory speech, continues to incite against Israel and against the Israeli prime minister."[10] Erdogan's remarks had condemned both Israel's conduct in Gaza and its ongoing attacks on [[iran|Iran]], and asserted that Iran had the legal right to respond.[10]
 
+## Syria talks and Abraham Accords expansion (June 2025)
+
+Amid the [[2025-israel-syria-security-talks|2025 Israel-Syria security talks]], Sa'ar — who in preceding months had described Syria's president as a "terrorist in disguise" and warned against falling for his charm — said on June 30, 2025 that "Israel is interested in expanding the circle of the [[abraham-accords|Abraham Accords]]."[11] He named Syria and Lebanon as neighbours Israel seeks to include while safeguarding its security interests, and stressed that "Israel applied its laws to the [[golan-heights|Golan Heights]] over 40 years ago, and in any peace agreement, the Golan will remain an inseparable part of the State of Israel."[11]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Narrative Warfare For Your Safety", URL: https://badlands.substack.com/p/badlands-brief-559
@@ -69,3 +73,4 @@ After Turkish President [[recep-tayyip-erdogan|Recep Tayyip Erdogan]] told his A
 8. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 9. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 10. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
+11. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd

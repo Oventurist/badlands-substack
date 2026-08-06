@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, lawfare, first-amendment, media]
-sources: [raw/badlands-brief-095.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-617.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-fbc.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ In July 2023 the Justice Department charged Israeli think-tank co-director [[gal
 
 [[james-comer|James Comer]] said in July 2023 that the criminal referrals he intended to file against [[hunter-biden|Hunter Biden]] could include violations of the Foreign Agents Registration Act, alongside allegations of money laundering, racketeering and wire fraud.[3]
 
+## The Wynn suit and asymmetric enforcement claims
+
+In May 2022 the [[department-of-justice|Department of Justice]] filed a FARA suit against casino magnate [[steve-wynn|Steve Wynn]], alleging he had used his relationship with President [[donald-trump|Donald Trump]] to advocate for the Chinese Communist Party's sought-after return of US asylum seeker [[miles-guo|Miles Guo]].[4] Assistant Attorney General Matthew G. Olsen said at the time that the filing "demonstrates the department's commitment to ensuring transparency in our democratic system," adding that "where a foreign government uses an American as its agent to influence policy decisions in the United States, FARA gives the American people a right to know."[4] The case was ultimately dismissed by US District Judge [[james-boasberg|James Boasberg]].[4] Badlands writer [[ashe-in-america|Ashe in America]] cited the episode as an example of asymmetrical justice, noting that no comparable FARA statements had come from the attorney general's office regarding the [[biden-crime-family|Biden family]]'s documented dealings with the Chinese Communist Party and Ukraine.[4]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
 3.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+4. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, military-operation, nuclear, trump-administration, 2025]
-sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-899.md]
+sources: [raw/badlands-brief-b34.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-ff1.md]
 confidence: medium
 ---
 
@@ -25,3 +25,13 @@ Operation Midnight Hammer was the code name for the 37-hour B-2 Spirit strike on
 ## References
 1. Badlands Brief — "The Old Guard Is Very Confused About What's Happening to Them", URL: https://badlands.substack.com/p/badlands-brief-b34
 2. Badlands Brief — "Badlands News Brief: Daddy Issues & Damage Assessments", URL: https://badlands.substack.com/p/badlands-news-brief-899
+
+
+## Aftermath and uncertainty over the uranium stockpile
+Following the strikes, top US officials said it was too soon to say whether Iran retained the ability to make a nuclear weapon, and the location of its existing stockpile of enriched uranium was unknown.[3] [[pentagon|Pentagon]] officials said the three targeted sites — [[fordow-fuel-enrichment-plant|Fordow]], [[natanz-nuclear-facility|Natanz]] and [[isfahan|Isfahan]] — had sustained "severe damage," while senior officials conceded they did not know the whereabouts of Iran's supply of near-bomb-grade uranium.[3] [[rafael-grossi|Rafael Mariano Grossi]], director of the [[international-atomic-energy-agency|International Atomic Energy Agency]], said he believed the stockpile — stored in special casks small enough to fit in the trunks of about ten cars — had been moved, and two Israeli officials with knowledge of the intelligence said there was evidence Iran had moved equipment and uranium from the site in recent days.[3] Iran itself acknowledged the attacks and said personnel working at the nuclear sites had been evacuated beforehand.[3]
+
+Reaction abroad was sharply split.[3] The Council on American-Islamic Relations called the US attack an "illegal and unjustified" act of war undertaken under pressure from an "out-of-control" Israeli government and despite the longstanding conclusion of US intelligence that Iran was not building a nuclear weapon.[3] [[aipac|AIPAC]] praised the strikes ordered by [[donald-trump|Donald Trump]] and said the United States "must now work with our allies to protect our troops and regional interests against Iranian attacks."[3] Grossi separately said the strikes had caused "a sharp degradation in nuclear safety and security."[3]
+
+[[badlands-media|Badlands Media]] hosts read the operation as primarily narrative rather than kinetic.[3] [[jon-herold|Jon Herold]] pointed to the evacuation of the facilities as evidence that the stated casus belli did not hold, invoking his Devolution series on irregular warfare and its maxim that "victory may sometimes depend not on whose army wins, but whose story wins."[3] [[burning-bright|Burning Bright]] argued that "the deals HAVE been done the whole time; these are translation events," and that "the war is fake. The story is real."[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued Trump had telegraphed the limited character of the strike in advance, citing TASS reporting that he backed a "limited strike" to avoid "another Libya," a reference to the 2011 NATO regime-change operation against Gaddafi.[3]
+
+3. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

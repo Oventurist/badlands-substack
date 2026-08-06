@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, intelligence, accountability, hoax, media]
-sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-e40.md]
+sources: [raw/badlands-blitz-episode-14.md, raw/badlands-brief-625.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-26c.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -109,6 +109,10 @@ At the end of January 2023, the [[columbia-journalism-review|Columbia Journalism
 
 Badlands contributor [[burning-bright|Burning Bright]] wrote that legacy outlets had failed in discernment and objectivity when sourcing and confirming erroneous claims generated — and sometimes paid for — by [[donald-trump|Donald Trump]]'s political opposition, and that the spectacle of media watchdogs turning on the most prestigious organizations in their world indicated a mass shift taking place behind the scenes.[14] In this reading, vectors within the [[media-industrial-complex|Media Industrial Complex]] were attempting to get ahead of forthcoming revelations about Russiagate just as they were about COVID-era government propaganda, and no amount of spin or circular firing squad would avert accountability.[14]
 
+## Exposure as a turning point (May 2023)
+
+When [[john-durham|John Durham]]'s final report was released in May 2023, [[donald-trump|Donald Trump]] said through a spokesman that it "proves" the federal government had coordinated to interfere in the 2016 election, writing on [[truth-social|Truth Social]] that "the American Public was scammed" and describing the affair as "the Democrat Hoax that was perpetrated upon me and the American people."[15] [[badlands-media|Badlands Media]] commentator [[burning-bright|Burning Bright]] argued that the significance of the moment was chiefly temporal: the Russia collusion hoax had marked the beginning of the Deep State's narrative offensive against Trump and the MAGA movement, and its formal exposure — reported even by outlets such as [[cnn|CNN]] — might mark the beginning of the reverse process.[15] [[justin-deschamps|Justin Deschamps]] added that although the report accomplished less than some hoped, legacy media attempts to keep the Russiagate narrative alive were exhausting what public credibility those outlets retained, while the America First movement focused on issues voters cared about.[15]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 14: The Dawning Age of American Accountability", URL: https://badlands.substack.com/p/badlands-blitz-episode-14
 2. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
@@ -124,3 +128,4 @@ Badlands contributor [[burning-bright|Burning Bright]] wrote that legacy outlets
 12. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
 13. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
 14. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+15. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

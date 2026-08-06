@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [republican-party, uniparty, political-terminology, maga]
-sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md]
+sources: [raw/badlands-news-brief-132.md, raw/badlands-news-brief-960.md, raw/balance-necessary-for-control.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ In December 2024, Politico reported that [[donald-trump|Donald Trump]]'s MAGA al
 
 Badlands commentary rejected the premise, arguing that "RINOs aren't real" because the Republican name and platform are themselves what the victorious MAGA coalition opposes, and that millions of Americans who are MAGA will never raise the Republican banner given the party's baggage.[2] It contended that Republicans who have long held power need to exit the scene as surely as Democrats do, quoting Trump's January 20, 2017 inaugural line that "a small group in our nation's capital have reaped the rewards of government while the people have borne the cost."[2] The same commentary argued that the "all-powerful-senate" story surrounding confirmation fights is a fiction — advise and confirm being record keeping rather than veto power — but a usefully clarifying one, since public anger over it is inadvertently raising the nation's civics literacy.[2]
 
+## RINOs as one half of the staged balance
+
+[[erik-carlson|Erik Carlson]] treated RINOs as a structural component of political control rather than a mere epithet.[3] In "Balance, Necessary for Control" (February 14, 2023) he wrote that for decades the appearance of balance in the United States was maintained by placing "RINO's on one side and Moderate Liberals on the other," adding flatly that "both sides work for the same people."[3] Within his [[kayfabe|kayfabe]] analogy the RINO is the wrestler whom right-leaning voters read as the babyface and left-leaning voters read as the heel, while the [[cabal|Cabal]] fixes the result of the match.[3]
+
+Carlson also argued that RINOs lost their utility once [[donald-trump|Donald Trump]] exposed them in office: figures such as [[mitt-romney|Mitt Romney]], [[mitch-mcconnell|Mitch McConnell]] and [[lindsey-graham|Lindsey Graham]] have been largely out of the spotlight since Trump left, holding no real value to the Cabal on the current stage because no one on the Right still believes they fight for them.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Speaker Trump, Proxy War Funding & Emergency Alerts", URL: https://badlands.substack.com/p/badlands-news-brief-132
 2. Badlands Brief — "Wray Goes to Sleep, Syria Gets Weird and Xi Gets an Invite", URL: https://badlands.substack.com/p/badlands-news-brief-960
+3. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control

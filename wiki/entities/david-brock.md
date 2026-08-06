@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, democratic-party, operative, media-matters]
-sources: [raw/a-cancer-on-modern-journalism.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ Observers across the political spectrum remained skeptical. The conservative-lib
 
 Independent journalists have theorized that Brock founded Media Matters to funnel money into the Democratic establishment and to create an effective media pressure group.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism) He later spent millions establishing the super PAC [[correct-the-record|Correct the Record]], whose purpose was to scour the internet and confront users posting unflattering comments about Hillary Clinton.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism) The lawsuit brought by [[elon-musk|Elon Musk]] and the Texas investigation led by [[ken-paxton|Ken Paxton]] are described as a boomerang returning to Brock.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
+## Badlands framing (December 2023)
+
+Badlands Media's December 2023 essay "From Ye to Oy Vey!" described Brock as the founder of [[media-matters-for-america|Media Matters for America]] in 2004, an organization publicly presented as a watchdog monitoring conservative media but which the author characterized as a Soros-funded operation that extinguishes conservative voices, pushes progressive "woke" narratives and protects the [[deep-state|Deep State]] elite.[2]
+
+The essay also noted that Brock's former long-term boyfriend was [[james-alefantis|James Alefantis]], owner of the Comet Ping Pong restaurant in Washington, D.C. that stands at the center of the [[pizzagate|Pizzagate]] allegations, and used the relationship to link Media Matters' attacks on [[elon-musk|Elon Musk]] to a wider web of alleged institutional protection.[2]
+
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
+2. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

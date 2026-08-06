@@ -1,0 +1,35 @@
+---
+title: "Anons"
+created: 2026-08-06
+updated: 2026-08-06
+type: concept
+tags: [citizen-journalism, q-movement, open-source-intelligence, badlands-media]
+sources: [raw/biden-inc-flips.md, raw/expand-your-thinking.md]
+confidence: low
+---
+
+# Anons
+
+"Anons" — short for anonymous researchers, and often paired with the terms "patriots" and "digital soldiers" — refers to the decentralized community of online citizen investigators associated with the Q-adjacent alternative-media ecosystem. Badlands Media commentary treats them as indispensable participants in the disclosure process rather than passive audiences.[1]
+
+## Citizen researchers
+
+Anons are described as modern-day investigators who use open-source intelligence and collaborative analysis to expose alleged corruption.[1] Their capacity to crowdsource information and identify patterns across political, financial, and criminal networks is presented as instrumental to establishing the connections that the movement claims exist.[1] The community slogan "We are the news now!" is invoked to summarize this self-conception.[1]
+
+## Digital advocacy
+
+Through podcasts, social media, and alternative platforms, the article argues, patriots have created a decentralized information network that bypasses traditional media gatekeepers — a grassroots movement described as critical to public awakening and to spreading awareness of the claimed operation.[1] This function complements the [[white-hats|White Hat]] strategy of media bypass and staged [[declas|declassification]].[1]
+
+## A unified vision
+
+The article frames the movement as built on a shared commitment to truth, justice, and freedom, with Anons and patriots cast as active participants shaping the outcome of events rather than spectators.[1] The author adds a more esoteric register, stating that Anons are "healing" the world and offering the injunction "Protect your DNA."[1] Their collective work is presented as feeding the [[great-awakening|Great Awakening]] and reinforcing what the article calls the Public Mandate for action.[1]
+
+## Symbolic decoding as anon training
+
+The essay "Expand Your Thinking" (May 25, 2023), by [[american-hypnotist|American Hypnotist]], argued that symbolic thinking is "precisely the kind of thinking we need to develop as anons," on the [[qanon|Q]] premise that the [[cabal|cabal]]'s need for symbolism will be its downfall.[2] If the cabal communicates in the open through symbols without giving itself away, the essay reasoned, then the people decoding those symbols is enough to end the deception.[2]
+
+To that end it pointed anons to the website [[decoding-symbolism|Decoding Symbolism]] as a training ground — recommended for its methodology rather than endorsed for its conclusions — and framed the exercise as one that develops right-hemisphere associative thinking while furthering the mission at the same time.[2] The author warned against the reflex to jump prematurely to belief or disbelief, which narrows thinking rather than expanding it, and against expecting even erudite researchers to be free of blind spots.[2] He closed by suggesting that any reader who trains in this mode of thought may be the next anon to piece together a communication that changes the game for everybody.[2]
+
+## References
+1. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+2. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking

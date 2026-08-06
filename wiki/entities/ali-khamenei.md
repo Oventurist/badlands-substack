@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, supreme-leader, iran-war, middle-east]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e38.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-52f.md, raw/badlands-brief-7ed.md, raw/badlands-brief-774.md, raw/badlands-brief-8db.md, raw/badlands-brief-d9f.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-e38.md, raw/cataclysmic-silence.md]
 confidence: medium
 ---
 
@@ -100,3 +100,9 @@ As Iran waited on high alert in late January 2024 to see how [[joe-biden|Joe Bid
 During Israel's [[operation-rising-lion|Operation Rising Lion]] air campaign in June 2025, Khamenei said Iran would not surrender and warned that any US military intervention would bring irreparable consequences.[15] His statement came as President [[donald-trump|Donald Trump]] publicly repeated a demand for Iran's unconditional surrender while reportedly approving attack plans without issuing a final order.[15]
 
 15. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
+
+## Response to the Haniyeh assassination (2024)
+
+Following the [[assassination-of-ismail-haniyeh|assassination of Ismail Haniyeh]] in Tehran during the inauguration of Iran's new president, Khamenei ordered retaliation directly against [[israel|Israel]], a response Badlands contributor [[ryan-delarme|Ryan DeLarme]] attributed to how damaging the strike was to Iran's national honor.[16] DeLarme described the episode as an embarrassing security failure in what should have been one of the most secure locations in the country, and treated Khamenei's assurance of an imminent response — alongside [[hezbollah|Hezbollah]] missile tests against targets in northern Israel — as evidence the region was moving toward a wider war.[16]
+
+16. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence

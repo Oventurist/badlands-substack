@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [energy, national-security, biden-administration, oil]
-sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-f0b.md]
+sources: [raw/badlands-news-brief-670.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-f0b.md, raw/bric-by-bric.md]
 confidence: medium
 ---
 
@@ -35,3 +35,9 @@ When [[saudi-arabia|Saudi Arabia]] and [[russia|Russia]] extended their oil prod
 1. Badlands Brief — "Badlands News Brief: Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 2. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 3. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
+
+## Drawdown contrasted with BRICS energy share (August 2023)
+
+Writing after the [[2023-brics-johannesburg-summit|2023 BRICS Johannesburg summit]], [[burning-bright|Burning Bright]] contrasted the projected BRICS control of more than 60% of global energy markets with the [[biden-administration|Biden administration]]'s continued drawdown of the Strategic Petroleum Reserve and its failure to restart the domestic drilling permits it had suspended following the 2020 election.[4] He presented the juxtaposition as a narrative liability for the administration and as evidence that "real power" resides in energy projection rather than in financial instruments.[4]
+
+4. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric

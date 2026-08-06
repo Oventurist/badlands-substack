@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [eastern-europe, nato, borders, defense]
-sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-f94.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-news-brief-03a.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-855.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-f94.md, raw/death-blossom.md]
 confidence: medium
 ---
 
@@ -72,3 +72,9 @@ Badlands commentary linked the timing to Volodymyr Zelensky's scheduled White Ho
 6. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
 7. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 8. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+
+## November 2022 missile strike
+
+Badlands Media contributor [[burning-bright|Burning Bright]] treated the November 2022 [[2022-poland-missile-strike|missile strike on Polish territory]] as a pivotal episode in the [[fifth-generation-warfare|Fifth-Generation War]], noting that because Poland is a [[nato|NATO]] member, an attributed Russian strike on its soil carried the potential to trigger alliance-wide escalation.[9] He described the incident as an attempt to frame an errant strike as the work of an "aggressive and unhinged" [[russia|Russia]], and argued that the framing collapsed within roughly twelve hours under decentralized public scrutiny.[9]
+
+9. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom

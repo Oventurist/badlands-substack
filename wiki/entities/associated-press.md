@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, wire-service, legacy-media]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e99.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e99.md, raw/behold-a-trojan-horse.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ AP News supplied the September 2023 report on New Mexico Governor [[michelle-luj
 
 The AP's report on [[2024-trump-return-to-capitol-hill|Donald Trump's return to Capitol Hill]] on June 13, 2024 became a case study for Badlands critics of the wire service.[4] Contributor [[ashe-in-america|Ashe in America]] wrote that the piece opened by calling the visit a "triumphant return" while describing it in the same sentence as Trump's first since sending the mob to "fight like hell," a juxtaposition she called schizophrenic paranoia rather than snark.[4] She noted the sourcing imbalance — several supportive Republicans quoted against two Democrats, only one of them a relevant legislator — and disputed the article's assertions that Trump had purged the GOP of critics and silenced most skeptics, arguing voters removed the critics and that the AP itself has never stopped publishing warnings about him.[4] She emphasized that the article ran under the "Politics" category rather than "Opinion," a few paragraphs above the wire service's claim to be "the most trusted source of information on election night, with a history of accuracy dating to 1848."[4]
 
+## Coverage of the WHO Pandemic Treaty (May 2023)
+
+In a May 2023 Badlands Media article, "Behold, a Trojan Horse," the AP's reporting that the proposed [[pandemic-treaty|pandemic treaty]] would "not threaten national sovereignty" was cited as a reassurance the author treated as "a huge red flag."[8] The article contrasted the AP's framing with analysts and experts — such as [[james-roguski|James Roguski]] and [[francis-boyle|Francis Boyle]] — who warned the treaty and the [[international-health-regulations|IHR amendments]] would concentrate power in the [[world-health-organization|WHO]] and override national sovereignty.[8]
+
 ## References
+
 1. Badlands Brief — "The Regime is Totally Winning Amidst Continued Meltdown", URL: https://badlands.substack.com/p/badlands-news-brief-040
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 3. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
@@ -51,3 +56,4 @@ In July 2023 the Associated Press reported, on the basis of more than 100 open r
 In February 2025 the AP was banned from covering White House events and travelling aboard Air Force One over its refusal to adopt "Gulf of America" in place of "Gulf of Mexico" in its style guide, and it sued press secretary [[karoline-leavitt|Karoline Leavitt]] and other officials in response.[7] U.S. District Judge [[trevor-mcfadden|Trevor McFadden]] declined to restore access immediately, placing the case on an expedited track while leaving the ban in force, and the [[white-house|White House]] responded that questioning the president in the Oval Office and aboard Air Force One "is a privilege granted to journalists, not a legal right."[7] Days later Leavitt announced that the White House rather than the [[white-house-correspondents-association|White House Correspondents' Association]] would henceforth select the press pool, ending a century of practice.[7] See [[associated-press-white-house-access-ban|Associated Press White House access ban]].[7]
 
 7. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
+8. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse

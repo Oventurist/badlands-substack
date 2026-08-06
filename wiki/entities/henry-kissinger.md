@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [diplomacy, petrodollar, globalism, nixon-administration]
-sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md]
+sources: [raw/badlands-news-brief-24e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-a3b.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -32,7 +32,15 @@ In 1973 Kissinger shared the Nobel Peace Prize with his North Vietnamese counter
 
 [[burning-bright|Burning Bright]] wrote that Kissinger's influence — and more importantly his "systemic origins" — elevated him to a status of infamous rather than famous, with his name becoming synonymous with the concept of shadow government and with realpolitik for all American generations since.[3] While the Establishment might attempt to convince "the Normie Layers of the Collective Mind" that practical politics had always been the way of Kissinger and his ilk, the commentary argued, the Truth Community understands that there is "a game below and above the game," and that Kissinger was a major player in it.[3]
 
+## Artificial intelligence and Bilderberg
+
+In "Dark Equation," [[ryan-delarme|Ryan DeLarme]] described Kissinger as "a deep politician who is both a Nobel Prize winner and a war criminal," writing that he rose to prominence under the tutelage of Fritz G. A. Kraemer and David Rockefeller.[4] Among the episodes DeLarme cited were an April 1969 phone call to Richard Nixon in which Kissinger advised the use of nuclear weapons in Vietnam, his running of the 1973 Chile coup d'état, and a role in the assassination of Orlando Letelier.[4]
+
+Kissinger attended [[bilderberg|Bilderberg]] meetings on and off since 1957 and was present at the [[2023-bilderberg-meeting|2023 gathering]] in Lisbon.[4] He said his interest in artificial intelligence began after [[eric-schmidt|Eric Schmidt]] persuaded him to attend a lecture on the subject at the 2016 Bilderberg conference, and the two co-authored the 2021 book *The Age of AI: And Our Human Future*.[4] DeLarme presented Kissinger's closeness to Schmidt, and his long standing in the international intelligence apparatus and in the deep politics of the wider world, as reasons for concern about the direction of the artificial-intelligence policy conversation.[4]
+
 ## References
+
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 3. Badlands Brief — "Badlands News Brief: The DOJ Deploys All Assets and an Infamous Politico Dies", URL: https://badlands.substack.com/p/badlands-news-brief-a3b
+4. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

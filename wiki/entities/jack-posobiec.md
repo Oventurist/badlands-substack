@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [influencer, con-inc, tyler-robinson-case, media]
-sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-644.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-644.md, raw/dear-america-are-you-ready-to-do.md]
 confidence: medium
 ---
 
@@ -24,7 +24,12 @@ A Turning Point USA contributor as well as a journalist, Posobiec broke the July
 
 In March 2023 Posobiec posted that [[nina-jankowicz|Nina Jankowicz]] was asking for donations to fund a lawsuit, adding that this came "one year after I got her removed from the Dept of Homeland Security" — a reference to her short tenure leading the [[disinformation-governance-board|Disinformation Governance Board]] at the [[department-of-homeland-security|Department of Homeland Security]].[3] The post, dated March 3, 2023, drew roughly 1,740 reposts and 9,680 likes and was cited in Badlands commentary as an example of the mocking public reaction that greeted Jankowicz's fundraising appeal against [[fox-news|Fox News]].[3]
 
+## Circulation of the 101st Airborne report (2022)
+
+In October 2022 Posobiec, described as an investigative journalist and media personality, drew [[brian-cates|Brian Cates]]'s attention to a [[cbs-news|CBS News]] report on the deployment of the [[101st-airborne-division|101st Airborne Division]] near the Ukrainian border, sharing it on Truth Social.[4] Cates built his Badlands Media column urging Americans to speak out against a possible US ground war over [[ukraine|Ukraine]] around that report.[4]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands Brief — "Badlands News Brief: The DOJ's Hypocrisy, Zelensky's Failure and DeSantis' Decline", URL: https://badlands.substack.com/p/badlands-news-brief-3f0
 3. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
+4. Badlands Brief — "Dear America: Are You Ready To Do Your Global Duty And Send Your Child To Die For Ukraine?", URL: https://badlands.substack.com/p/dear-america-are-you-ready-to-do

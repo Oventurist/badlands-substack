@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [aerospace, corporations, europe, deep-state]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/control-through-language.md]
 confidence: medium
 ---
 
@@ -66,6 +66,13 @@ On March 18, 2024, [[united-airlines|United Airlines]] chief executive [[scott-k
 
 As reported by Aviation Week on November 16, 2025, Boeing again placed [[saudi-arabia|Saudi Arabia]] at the center of its export strategy, promoting the [[f-15ex|F-15EX Eagle II]] as a candidate for the Kingdom's next fighter jet review.[10] Ahead of the Dubai Airshow, the company indicated that it aimed to secure new F-15EX orders in the Middle East and that Saudi Arabia remained a primary focus for both upgrades of existing F-15C/D airframes and possible new-build acquisitions.[10] The proposal competes against the European Eurofighter Typhoon and the Dassault Rafale as well as a potential [[f-35|F-35]] approval, and follows Boeing's first public acknowledgment of Saudi F-15EX interest at the World Defense Show in Riyadh in early 2024.[10]
 
+
+## Wokeism narrative (2024 commentary)
+
+Writing on February 5, 2024, Badlands Media contributor [[erik-carlson|Erik Carlson]] observed that after a door detached from a Boeing airplane in mid-flight, the narrative being pushed was that the company had made too many diversity hires and had focused more on celebrating LGBTQ+ initiatives than on building safe airplanes, with [[esg|ESG]], DEI and [[wokeism|wokeism]] suddenly under attack in mainstream coverage.[11] Carlson agreed with the underlying sentiment that Boeing and the airlines should hire the most qualified people to build and fly aircraft, but questioned why the media was abruptly permitted to turn on wokeism at all.[11]
+
+He placed the episode inside a broader economic-warfare argument: Boeing's biggest competitor is [[airbus|Airbus]], Boeing produces in the United States while most Airbus planes are produced in Europe, and in his account wokeism was created in Europe — especially by think tanks run by the [[city-of-london|City of London]] — so that the demise of American businesses benefits foreign competitors.[11]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands News Brief — "Fani Hunts Alone as Putin Keeps the Throne", URL: https://badlands.substack.com/p/badlands-news-brief-054
@@ -77,3 +84,4 @@ As reported by Aviation Week on November 16, 2025, Boeing again placed [[saudi-a
 8. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 9. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
 10. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+11. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

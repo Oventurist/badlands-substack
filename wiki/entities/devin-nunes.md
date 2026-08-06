@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, trump-media, congress, oversight]
-sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-brief-7c0.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-a46.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-f0e.md, raw/do-you-believe-in-coincidences.md]
 confidence: medium
 ---
 
@@ -53,6 +53,10 @@ As CEO of [[trump-media-and-technology-group|Trump Media & Technology Group]], N
 
 The concern followed the company's Nasdaq listing in late March 2024, its flagship product being the social network [[truth-social|Truth Social]].[7] Nunes wrote that the pattern was particularly troubling because [[naked-short-selling|naked short selling]] often entails sophisticated market participants profiting at the expense of retail investors, and that reports indicated DJT was, as of April 3, 2024, the single most expensive stock to short in U.S. markets by a significant margin — meaning brokers had a significant financial incentive to lend non-existent shares.[7] The letter was released publicly on Tuesday, April 23, 2024.[7]
 
+## House investigations into the Russia collusion hoax
+
+Badlands Media's "Do You Believe in Coincidences?" names Nunes, alongside [[trey-gowdy|Trey Gowdy]] and [[bob-goodlatte|Bob Goodlatte]], as one of the House members to whom [[donald-trump|Donald Trump]] purposely "leaked" declassified information while they investigated the Russian collusion hoax.[8] Those inquiries are credited with introducing the American public to the claim that the Trump campaign had been spied on and framed by the Obama administration, which in turn is said to have forced the opposing party to prioritise retaking the House in the 2018 midterms in order to shut the investigations down.[8]
+
 ## References
 
 1. Badlands Brief — "Games of Chicken, Spirit Fails, & Rampant Satanism", URL: https://badlands.substack.com/p/badlands-brief-7c0
@@ -62,3 +66,4 @@ The concern followed the company's Nasdaq listing in late March 2024, its flagsh
 5. Badlands Brief — "Very Fine Marxists and Chinese Finger Traps", URL: https://badlands.substack.com/p/badlands-news-brief-a46
 6. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
 7. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+8. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences

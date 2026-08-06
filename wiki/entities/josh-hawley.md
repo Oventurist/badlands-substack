@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [senate, republican, ai-policy, populism]
-sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-c07.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-ce1.md]
+sources: [raw/badlands-brief-4ec.md, raw/badlands-brief-c07.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-252.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-ce1.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -57,3 +57,9 @@ On September 16, 2024, Hawley released a whistleblower report detailing security
 6. Badlands Brief — "Badlands News Brief: The Presser Heard Round' the World", URL: https://badlands.substack.com/p/badlands-news-brief-33b
 7. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 8. Badlands Brief — "Badlands News Brief: Trump Sends Comms as Diddlers Get Indicted", URL: https://badlands.substack.com/p/badlands-news-brief-ce1
+
+## Senate hearing on artificial intelligence (2023)
+
+During a 2023 Senate hearing on artificial intelligence, Senator Josh Hawley compared the technology to the invention of the printing press and to the nuclear bomb.[9] He said the development could lead humanity toward one of two futures: one in which AI empowers humanity, or one marked by a "huge technological breakthrough" with "severe, terrible" consequences.[9] The remarks accompanied testimony by [[openai|OpenAI]] chief executive [[sam-altman|Sam Altman]] before a Senate Judiciary subcommittee on the rise of [[artificial-intelligence|artificial intelligence]].[9]
+
+9. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

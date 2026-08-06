@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [welfare, immigration, usda, litigation]
-sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-bc7.md]
+sources: [raw/badlands-news-brief-763.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-bc7.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -36,8 +36,13 @@ Coverage during the autumn 2025 government shutdown argued that the funding laps
 
 Badlands contributor Ashe in America used Colorado as a case study, criticizing Attorney General [[phil-weiser|Phil Weiser]] for a post on X about SNAP cuts that she called emotional blackmail, noting he had more than two dozen cases against the Trump administration and was running for governor.[3] She contrasted a state Division of Insurance projection that 75,000 Colorado residents would lose subsidized health plans as Biden-era enhanced subsidies expired with Weiser's figure of 600,000 Coloradans dependent on SNAP.[3] Against a July 1, 2024 Census Bureau state population of 5,957,493, that implied roughly 10% of Coloradans relied on the program, below a national average of about 12%.[3] She linked the figure to her earlier reporting that 10% of Colorado jobs come from the non-profit sector, asking what overlap exists between the subsidized problem-solvers and the dependents, and concluded that "a sizable population segment feels entitled to dependence."[3]
 
+## Cited as an engineered fraud stream (Badlands analysis)
+
+Badlands contributor Joe Lange points to the SNAP program as an example of a government benefit deliberately structured with fraud in mind, functioning as a taxpayer money stream used to fund politicians and their supporters.[4] Citing Forbes, he notes that the average monthly benefit in 2016 was $125.40 per person, but that the notable figure was the growth in benefit fraud: fraud dollars determined by investigations jumped to $592.7 million in 2016, up a staggering 61 percent from $367.1 million in 2012, according to U.S. Department of Agriculture data, while the number of fraud investigations reached 963,965, up more than 30 percent from 2012.[4] The context for the discussion is [[nancy-pelosi|Nancy Pelosi]]'s April 2018 interview opposing Republican farm bill cuts to SNAP — the same interview in which she disclosed having traveled to [[north-korea|North Korea]].[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Ice Maiden, A Command Overhaul, & A Thrice Jewish President", URL: https://badlands.substack.com/p/badlands-news-brief-763
 2. Badlands Brief — "Kingmakers, Rainmakers, & Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-95a
 3. Badlands Brief — "Badlands News Brief: Duplicitous Dependence, Precarious Pardons, & A State Sanctioned Kidnapping", URL: https://badlands.substack.com/p/badlands-news-brief-bc7
+4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

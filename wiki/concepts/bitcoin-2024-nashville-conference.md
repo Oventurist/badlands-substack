@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, cryptocurrency, trump, 2024-election, nashville]
-sources: [raw/badlands-news-brief-4c5.md]
+sources: [raw/badlands-news-brief-4c5.md, raw/big-tech-climbing-aboard-the-trump.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ Badlands commentator [[burning-bright|Burning Bright]] described the Nashville r
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+
+## Trump's Bitcoin stockpile pledge
+
+Speaking at the conference, [[donald-trump|Donald Trump]] said he wanted the US government to stockpile [[bitcoin|Bitcoin]], using it to protect the US dollar and the American economy, and that he wanted Bitcoin to be produced domestically in the United States.[2] Badlands contributor [[erik-carlson|Erik Carlson]] cited the remarks as evidence that Trump had become a genuine backer of Bitcoin and was partnering with leaders in [[big-tech|Big Tech]] and cryptocurrency ahead of a possible return to office.[2] Carlson linked the pledge to a broader thesis that America must produce Bitcoin in-house and build up domestic [[artificial-intelligence|artificial intelligence]] capacity or risk "a digital invasion."[2]
+
+2. Badlands Brief — "Big Tech Climbing Aboard the Trump Train", URL: https://badlands.substack.com/p/big-tech-climbing-aboard-the-trump

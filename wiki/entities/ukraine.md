@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, maidan, ned, solidarity-center, nato]
-sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-f76.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/assad-day-in-damascus.md, raw/badlands-brief-07c.md, raw/badlands-brief-0bd.md, raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-brief-70c.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1f2.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-61a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ea6.md, raw/badlands-news-brief-f76.md, raw/death-blossom.md]
 confidence: medium
 ---
 
@@ -175,3 +175,11 @@ Separately, U.S. Deputy Secretary of State [[kurt-campbell|Kurt Campbell]] accus
 
 Ukrainian forces have used artificial intelligence to let groups of drones coordinate attacks on Russian positions, in one reported case a trio of drones that flew under cover of darkness and decided among themselves exactly when to strike.[24] Ukraine has conducted such swarm attacks for much of the preceding year, and analysts said they were unaware of the technology being used regularly in combat before the Ukrainian operations.[24] Details are covered at [[ai-drone-swarms|AI-powered drone swarms]].[24]
 24. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
+
+## Alleged framing operation, November 2022
+
+Badlands Media contributor [[burning-bright|Burning Bright]] alleged in "Death Blossom" (November 23, 2022) that Ukraine had attempted to frame [[russia|Russia]] for the [[2022-poland-missile-strike|missile strike on Polish territory]], describing it as "Ukraine's seeming attempt to frame Russia for the kick-off of World War 3."[25] He grouped Ukraine with [[nato|NATO]] as co-authors of a paired Actual-Potential deployment that, had it succeeded, could have precipitated global war and a forced reset of the international order.[25]
+
+He further argued that the episode advanced public re-evaluation of Ukraine itself, contending that reachable minds were beginning to grasp that Ukraine and its leadership "aren't quite what the [[media-industrial-complex|Media Industrial Complex]] first portrayed" in the opening months of the [[russia-ukraine-war|war]].[25]
+
+25. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom

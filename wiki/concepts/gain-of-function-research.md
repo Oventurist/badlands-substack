@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [biosecurity, nih, pandemic, congress, oversight]
-sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a61.md]
+sources: [raw/badlands-news-brief-125.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-8dc.md, raw/badlands-news-brief-a61.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -32,8 +32,15 @@ The stated intent was to reduce the potential for laboratory-related incidents o
 
 In January 2023 the terminology surrounding gain-of-function work became a political flashpoint when [[project-veritas|Project Veritas]] released undercover footage of a man identified as [[pfizer|Pfizer]] executive [[jordan-trishton-walker|Jordan Trishton Walker]] describing a "[[directed-evolution|directed evolution]]" programme to mutate COVID-19 and keep the disease profitable.[4] Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that "directed evolution" was a euphemistic rebranding of gain-of-function research that had not been meant for public exposure, and that the resulting Big Tech throttling and partial media blackout — including the deletion of a [[daily-mail|Daily Mail]] article — showed an interrupted narrative-management effort.[4]
 
+## "Biden, Inc. Flips" allegations
+
+A December 2024 Badlands feature described gain-of-function research conducted in Ukrainian laboratories as one of the most damning elements of the alleged "Biden, Inc." enterprise, asserting that these facilities masqueraded as legitimate research institutions while funneling money into experiments that violated international law.[5] It claimed the work was funded indirectly by U.S. entities such as the [[national-institutes-of-health|National Institutes of Health]] and that [[hunter-biden|Hunter Biden]]'s financial ties place him and his associates at the heart of the resulting global crisis.[5]
+
+The article argued that media outlets and government entities did not merely look away but actively promoted disinformation, labeling inquiry into laboratory origins as conspiracy theory.[5] It framed the resulting pandemic as a tool for control, with lockdowns and fear campaigns used to justify mass [[mail-in-voting|mail-in voting]], and characterized mRNA products as experimental treatments coerced upon billions under emergency use authorization.[5] These claims are contested and unverified.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
 2. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 3. Badlands Brief — "Badlands News Brief: Gazan Seizures & Gay Porn Scandals", URL: https://badlands.substack.com/p/badlands-news-brief-8dc
 4. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
+5. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

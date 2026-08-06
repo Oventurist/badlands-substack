@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [artificial-intelligence, xai, elon-musk, pentagon, information-war]
-sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-f6f.md]
+sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-f6f.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -38,8 +38,13 @@ On 11 August 2025 the social media platform X appeared to temporarily suspend Gr
 
 In May 2025, after [[elon-musk|Elon Musk]] unveiled a video of Tesla's [[optimus|Optimus]] robot dancing and described the footage on X as a "real real-time" demonstration, a user asked Grok to evaluate the machine.[4] Grok replied that Optimus showed "advanced mobility with its dancing, highlighting strong balance and coordination," but that "its real-world use is limited, mainly in Tesla's factories for simple tasks, with broader deployment planned for 2026."[4] It ranked Optimus last among the top five humanoid robots, calling it "impressive mobility but early in practical application."[4] The candid answer from Musk's own chatbot contrasted sharply with the promotional framing of the demo and drew criticism from both fans and skeptics.[4]
 
+## Badlands framing as an uncontrollable AI (December 2023)
+
+A December 2023 Badlands Media essay by Erik Carlson cited the forthcoming rollout of Grok as a further reason the [[deep-state|Deep State]] was working to destroy [[elon-musk|Elon Musk]].[5] The argument was that just as the woke establishment no longer controls the algorithms on [[twitter|Twitter]], it would have no ability to program the platform's AI to say woke things or to prevent it from "spilling the beans" on the Deep State.[5] The essay linked this to the European Union's cautioning of advertisers against the platform and to the [[digital-services-act|Digital Services Act]], described as legislation allowing the EU to censor the internet and block content it does not want Europeans to see.[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Grand Conspiracies & Massive Reductions", URL: https://badlands.substack.com/p/badlands-news-brief-1e6
 2. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 3. Badlands Brief — "Badlands News Brief: New Whistleblowers, Cartel Hitlists, & Extended Tariffs", URL: https://badlands.substack.com/p/badlands-news-brief-d1c
 4. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f
+5. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

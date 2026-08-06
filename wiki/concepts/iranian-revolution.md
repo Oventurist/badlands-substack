@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [iran, revolution, cia, islamism, oil]
-sources: [raw/badlands-news-brief-24e.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md]
 confidence: medium
 ---
 
@@ -28,3 +28,10 @@ Blinken later attributed the failure of American regime-change efforts in Iran t
 
 ## References
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
+
+## Carlson's account
+
+[[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] described the revolution more simply as the ousting of [[mohammad-reza-pahlavi|the Shah]] after 26 years of rule, followed by the eventual installation of the anti-American Ayatollah [[ruhollah-khomeini|Khomeini]], and the seizure of 52 American diplomats by militant Iranian students in November 1979 in the [[iran-hostage-crisis|Iran Hostage Crisis]].[2] Where his account diverges from the conventional one is in its aftermath: Carlson argued that having lost complete control over [[iran|Iran]], the [[central-intelligence-agency|CIA]] set out to make the country the world's new enemy — "making lemonade out of lemons" — and decided to infiltrate it rather than retake it, so that Iran contains both people and organizations that genuinely hate the United States and factions controlled by the agency.[2]
+
+He compared belief that a group of protestors could permanently overthrow a CIA-controlled country to belief that protestors with sledgehammers ended the Soviet Union at the Berlin Wall, where no snipers fired, in contrast to Ukraine in 2014 where snipers picked off demonstrators because, in his reading, the [[deep-state|Deep State]] needed chaos to break a pro-Putin government.[2]
+2. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md]
 confidence: low
 ---
 
@@ -154,3 +154,9 @@ Musk's remark was made in reply to commentator [[brian-krassenstein|Brian Krasse
 
 23. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
 24. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+
+## Death rumor (May 2023)
+
+On the morning of Monday, May 15, 2023, a viral tweet from the account "Politics For All Ireland" claimed that Soros, then 92, had died of a heart attack; the tweet was subsequently deleted.[25] A representative of Soros said the rumor was untrue, and Soros posted his own denial, writing: "Rumors that I had a heart attack are completely false. I am alive and healthy."[25] [[the-gateway-pundit|The Gateway Pundit]], which covered the episode, described Soros as a billionaire Democrat mega-donor who had financed coups in the United States and abroad, while [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] responded to the denial with the single line, "Oh. That's too bad."[25]
+
+25. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

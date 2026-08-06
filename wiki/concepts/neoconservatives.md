@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [politics, republican-party, neocons]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-165.md, raw/badlands-news-brief-dbd.md, raw/deep-state-spotlight-victoria-nuland.md]
 confidence: medium
 ---
 
@@ -30,7 +30,14 @@ Badlands commentary in March 2026 described the NeoCon establishment — charact
 
 Badlands commentary treated the abrupt end of the [[twelve-day-war|Twelve Day War]] in June 2025 as a humiliation for neoconservatives, with [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] writing, "WW3 is cancelled. NeoCons RUGGED. (Again.)" after President [[donald-trump|Donald Trump]] disclosed on Truth Social that he had been coordinating with both Iran and Qatar.[3] He pointed to [[mark-levin|Mark Levin]] as the archetype, describing him as someone who "is only happy when there is a constant state of war" and citing Levin's insult of an Iraq War veteran who opposed another Middle East ground invasion.[3] [[chris-paul|Chris Paul]] separately criticized "the neocons and their useful idiots" for having promoted the claim that Trump and Benjamin Netanyahu had spent two months deceiving Iran and the Gulf states.[3]
 
+## Survival across administrations
+
+Badlands Media's August 2023 "Deep State Spotlight" on [[victoria-nuland|Victoria Nuland]] uses her career to argue that neoconservatism was never actually discredited or retired after the Bush years, despite the liberal establishment's posture that neoconservative thought had been relegated to the junk heap of history.[4] Nuland, a key adviser to [[dick-cheney|Dick Cheney]] on the invasion of Iraq, went on to serve under [[hillary-clinton|Hillary Clinton]], [[john-kerry|John Kerry]] and [[joe-biden|Joe Biden]], which contributor [[ryan-delarme|Ryan DeLarme]] presents as proof that the movement's practitioners are indifferent to which party holds power.[4]
+
+The movement's intellectual machinery is traced to the [[project-for-the-new-american-century|Project for the New American Century]], founded by [[robert-kagan|Robert Kagan]] and [[william-kristol|William Kristol]], whose document [[rebuilding-americas-defenses|Rebuilding America's Defenses]] advocated global military domination, and to the [[military-industrial-congressional-complex|Military-Industrial-Congressional Complex]] that funds it.[4] DeLarme describes an "unholy matrimony" between the establishment left and the neoconservatives, driven together by bipartisan support for the war in [[ukraine|Ukraine]] and above all by their shared hatred of [[donald-trump|Donald Trump]], whose 2016 platform condemned endless-war policies and whose administration marked the only period when these forces were out of power.[4] The result, in his account, is that liberals now sympathize with the very war hawks they once loathed, though he sees the arrangement's growing visibility as an opening for common ground between MAGA conservatives and disillusioned liberals who remember the post-9/11 world.[4]
+
 ## References
 1. Badlands Brief — "A Communist Plot to Take Over America", URL: https://badlands.substack.com/p/a-communist-plot-to-take-over-america
 2. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
 3. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+4. Badlands Media — "Deep State Spotlight: Victoria Nuland", URL: https://badlands.substack.com/p/deep-state-spotlight-victoria-nuland

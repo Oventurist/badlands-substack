@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [crt, education, neo-marxism, ideology]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-6db.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-6db.md, raw/death-to-dei.md]
 confidence: low
 ---
 
@@ -22,6 +22,12 @@ In January 2023, school districts around Ohio's capital of Columbus were reporte
 
 Badlands contributor [[justin-deschamps|Justin Deschamps]] used the episode to argue that the modern education system is primarily an instrument of indoctrination, invoking the maxim "Give me a child until he is 7 and I will show you the man" and contending that parents are treated as a threat to the narrative.[2]
 
+## Alleged Frankfurt School origin
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote that critical race theory and [[political-correctness|political correctness]] were not introduced to America "to nurture respect for one another," but were created in pre-Nazi Germany at the [[frankfurt-school|Frankfurt School]] for the purpose of infiltrating and destroying an enemy state from within — defeating an adversary "without a shot being fired."[3] In that account CRT belongs to the same lineage as [[affirmative-action|affirmative action]] and [[diversity-equity-and-inclusion|DEI]], all described as instruments of division deployed by the [[deep-state|Deep State Cabal]].[3]
+
 ## References
+
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
+3. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, ngo, usaid, information-war]
-sources: [raw/badlands-news-brief-7b8.md]
+sources: [raw/badlands-news-brief-7b8.md, raw/days-of-thunder.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ WikiLeaks further asserted that the relationship between Bourgault and Jennings 
 
 ## References
 1. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
+
+## USAID funding and censorship allegations
+
+[[usaid|USAID]] has been a significant funder of Internews, providing roughly $473 million to the organization, which is described by critics as a U.S. intelligence-linked body created to promote "press freedom" and "train journalists."[2] Internews has been accused of supporting online censorship efforts, notably through its "Countering Disinformation Guide" and other initiatives intended to shape media narratives both abroad and domestically.[2] The relationship became a focal point of criticism in February 2025 during the [[days-of-thunder|days of thunder]], when USAID's role in the [[censorship-industrial-complex|censorship industrial complex]] came under scrutiny alongside the agency's internal [[usaid-disinformation-primer|Disinformation Primer]].[2]
+
+2. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder

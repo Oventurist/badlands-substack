@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, minerals, trump-administration, diplomacy]
-sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f23.md]
+sources: [raw/badlands-brief-da2.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-aff.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f23.md, raw/badlands-news-brief-fbd.md]
 confidence: medium
 ---
 
@@ -49,12 +49,21 @@ Ukrainian lawmaker [[artyom-dmitruk|Artyom Dmitruk]], a critic of the government
 
 [[badlands-media|Badlands]] writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] observed that industry experts and geologists had voiced similar doubts, largely because the surveys underpinning the resource claims are Soviet-era and Soviet-made, and questioned how much of that skepticism reflected genuine geological concern versus anti-Soviet Russophobia ingrained in American culture since the Second World War.[7] He argued that the expert lists of obstacles omitted Ukraine's role as a hub for illicit trafficking — human, organ, and drug — which he characterized as offering higher and more reliable returns with far lower startup costs than mining, and suggested that oligarchs would resist mineral development because it would draw global scrutiny to the country.[7]
 
+## Signing of the joint reconstruction fund (April 30, 2025)
+
+On Wednesday, April 30, 2025 — two months after the Oval Office confrontation — the [[donald-trump|Trump]] administration and the Ukrainian government finalized a deal creating a joint fund to boost reconstruction of the war-torn nation, calling for investment in Kyiv's oil, gas and rare mineral industries.[8] Ukraine's Economy Minister [[yulia-svyrydenko|Yulia Svyrydenko]] posted on X that the fund would be managed 50/50 and that future military aid from Washington could be counted as a contribution.[8] "Together with the United States, we will create a fund that will attract Western investments to our country," she wrote, adding that neither party would have a majority vote, "reflecting an equal partnership between Ukraine and the United States."[8]
+
+The fund was to be filled with income only from new licenses "for projects in the field of critical materials and oil and gas," split evenly between the two countries, while the United States could contribute through "NEW assistance — for example, air defense systems for Ukraine."[8] Svyrydenko also clarified that "the agreement does not mention any debt obligations of Ukraine to the US," which had been a key sticking point for Kyiv.[8]
+
+Badlands commentary called the outcome "a total rugpull," arguing that because the fund is a joint venture the Ukrainian government retains a say in where profits are directed and that the structure amounts to an investment vehicle for the war effort against Russia, prolonging the conflict.[8] The commentator objected that the absence of debt obligations meant the United States would not be reimbursed for the hundreds of billions of dollars he alleged had been laundered and stolen from American taxpayers, read the signing as a largely symbolic gesture indicating the Trump administration no longer viewed the [[volodymyr-zelensky|Zelensky]] government as a viable partner, and predicted that both Kyiv and [[benjamin-netanyahu|Netanyahu]]'s government in Tel Aviv would pursue their wars without U.S. assistance while Trump sided with [[vladimir-putin|Putin]] and Iran in the spirit of peace.[8]
+
 ## References
 1. Badlands Brief — "America Wins, Zionists Seethe", URL: https://badlands.substack.com/p/badlands-brief-da2
 2. Badlands Brief — "Badlands News Brief: Inbound America: Terrorists, Trillions, & Diplomats", URL: https://badlands.substack.com/p/badlands-news-brief-3a5
 3. Badlands News Brief — "SCOTUS Drama and (Altered) Deals Shake Up the Week", URL: https://badlands.substack.com/p/badlands-news-brief-4e1
 4. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 5. Badlands Brief — "Badlands News Brief: Multipolar Power Projection & European Lamentations", URL: https://badlands.substack.com/p/badlands-news-brief-aff
+8. Badlands Brief — "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd
 
 ## Johnson's "extortionate" assessment (February 2025)
 

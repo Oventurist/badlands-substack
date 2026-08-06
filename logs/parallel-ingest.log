@@ -640,3 +640,281 @@
 [08:00:24] STATUS: done=151 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
 [08:00:29] worker1: OK badlands-news-brief-efd.md in 1886s (46 pages cite it)
 [08:00:31] worker1: claimed badlands-news-brief-fcd.md
+[08:00:54] STATUS: done=152 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:01:05] worker10: OK badlands-news-brief-f44.md in 1005s (43 pages cite it)
+[08:01:07] worker10: claimed badlands-news-brief-fde.md
+[08:01:24] STATUS: done=153 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:01:54] STATUS: done=153 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:02:24] STATUS: done=153 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:02:46] worker5: OK badlands-news-brief-f94.md in 619s (27 pages cite it)
+[08:02:48] worker5: claimed badlands-news-brief-fe3.md
+[08:02:54] STATUS: done=154 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:03:11] worker2: OK badlands-news-brief-f9f.md in 548s (10 pages cite it)
+[08:03:13] worker2: claimed badlands-news-brief-fe4.md
+[08:03:24] STATUS: done=155 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:03:54] STATUS: done=155 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:04:24] STATUS: done=155 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:04:46] worker0: OK badlands-news-brief-fc2.md in 301s (22 pages cite it)
+[08:04:48] worker0: claimed badlands-news-brief-ff1.md
+[08:04:48] worker7: OK badlands-news-brief-fa1.md in 543s (17 pages cite it)
+[08:04:50] worker7: claimed badlands-news-brief-ff6.md
+[08:04:54] STATUS: done=157 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:05:24] STATUS: done=157 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:05:54] STATUS: done=157 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:06:24] STATUS: done=157 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:06:54] STATUS: done=157 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:07:10] worker8: OK badlands-news-brief-f6f.md in 1041s (30 pages cite it)
+[08:07:12] worker8: claimed badlands-news-brief-ffa.md
+[08:07:24] STATUS: done=158 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:07:54] STATUS: done=158 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:08:15] worker9: OK badlands-news-brief-fc0.md in 545s (6 pages cite it)
+[08:08:17] worker9: claimed balance-necessary-for-control.md
+[08:08:19] worker5: OK badlands-news-brief-fe3.md in 329s (11 pages cite it)
+[08:08:21] worker5: claimed behold-a-trojan-horse.md
+[08:08:24] STATUS: done=160 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:08:27] worker10: OK badlands-news-brief-fde.md in 436s (17 pages cite it)
+[08:08:29] worker10: claimed believe-half-of-what-you-see.md
+[08:08:38] worker4: OK badlands-news-brief-fbc.md in 624s (21 pages cite it)
+[08:08:40] worker4: claimed bernie-sanders-establishment-tool.md
+[08:08:54] STATUS: done=162 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:09:19] worker11: OK badlands-news-brief-fa7.md in 675s (19 pages cite it)
+[08:09:21] worker11: claimed beyond-absurdity.md
+[08:09:24] STATUS: done=163 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:09:54] STATUS: done=163 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:10:24] STATUS: done=163 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:10:54] STATUS: done=163 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:11:24] STATUS: done=163 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:11:54] STATUS: done=163 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:11:59] worker6: OK badlands-news-brief-fcb.md in 719s (27 pages cite it)
+[08:12:01] worker6: claimed biden-inc-flips.md
+[08:12:21] worker0: OK badlands-news-brief-ff1.md in 450s (23 pages cite it)
+[08:12:24] worker0: claimed big-tech-climbing-aboard-the-trump.md
+[08:12:24] STATUS: done=165 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:12:51] worker7: OK badlands-news-brief-ff6.md in 475s (28 pages cite it)
+[08:12:53] worker7: claimed blackrock-inc-and-the-vanguard-group.md
+[08:12:54] STATUS: done=166 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:13:16] worker9: OK balance-necessary-for-control.md in 296s (8 pages cite it)
+[08:13:18] worker9: claimed blockchain-good-blockchain-voting.md
+[08:13:24] STATUS: done=167 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:13:29] worker3: OK badlands-news-brief-fbd.md in 881s (21 pages cite it)
+[08:13:31] worker3: claimed brazil-breaking.md
+[08:13:48] worker11: OK beyond-absurdity.md in 263s (8 pages cite it)
+[08:13:50] worker11: claimed bric-by-bric.md
+[08:13:54] STATUS: done=169 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:14:24] STATUS: done=169 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:14:54] STATUS: done=169 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:15:24] STATUS: done=169 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:15:29] worker1: OK badlands-news-brief-fcd.md in 895s (22 pages cite it)
+[08:15:31] worker1: claimed brics-vs-the-wef.md
+[08:15:54] STATUS: done=170 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:16:23] worker10: OK believe-half-of-what-you-see.md in 471s (19 pages cite it)
+[08:16:24] STATUS: done=171 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:16:25] worker10: claimed brightlands-taiwan-tipping.md
+[08:16:54] STATUS: done=171 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:17:24] STATUS: done=171 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:17:40] worker4: OK bernie-sanders-establishment-tool.md in 537s (14 pages cite it)
+[08:17:42] worker4: claimed canadas-transition-to-collectivist.md
+[08:17:54] STATUS: done=172 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:18:24] STATUS: done=172 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:18:34] worker9: OK blockchain-good-blockchain-voting.md in 314s (6 pages cite it)
+[08:18:36] worker9: claimed carlsons-j6-disclosure-strategy-is.md
+[08:18:54] STATUS: done=173 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:18:58] worker7: OK blackrock-inc-and-the-vanguard-group.md in 363s (9 pages cite it)
+[08:19:00] worker7: claimed cataclysmic-silence.md
+[08:19:24] STATUS: done=174 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:19:45] worker11: OK bric-by-bric.md in 352s (13 pages cite it)
+[08:19:46] worker8: OK badlands-news-brief-ffa.md in 751s (20 pages cite it)
+[08:19:47] worker11: claimed celebrating-15-years-of-indictments.md
+[08:19:48] worker8: claimed child-sacrifice-as-a-pillar-of-deep.md
+[08:19:54] STATUS: done=176 failed=2 recovered=2 unresolved=0 alive=12/12 finished=0
+[08:20:21] worker11: FAIL celebrating-15-years-of-indictments.md in 30s rc=0 report=None cited=0 rate_limit=True backoff=30s
+[08:20:21]   stderr: 
+[08:20:21]   stdout tail: API call failed after 3 retries: HTTP 429: Hold up for a bit, you've exceeded the rate limit on your API key.
+[08:20:24] STATUS: done=176 failed=3 recovered=2 unresolved=1 alive=12/12 finished=0
+[08:20:25] worker2: OK badlands-news-brief-fe4.md in 1029s (27 pages cite it)
+[08:20:26] worker9: OK carlsons-j6-disclosure-strategy-is.md in 107s (1 pages cite it)
+[08:20:27] worker2: claimed celebrating-15-years-of-indictments.md
+[08:20:28] worker9: claimed chips-and-dips.md
+[08:20:30] worker8: FAIL child-sacrifice-as-a-pillar-of-deep.md in 37s rc=0 report=None cited=0 rate_limit=True backoff=30s
+[08:20:30]   stderr: 
+[08:20:30]   stdout tail: API call failed after 3 retries: HTTP 429: Hold up for a bit, you've exceeded the rate limit on your API key.
+[08:20:53] worker11: claimed child-sacrifice-as-a-pillar-of-deep.md
+[08:20:54] STATUS: done=178 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:21:02] worker8: claimed clowns-in-america.md
+[08:21:20] worker6: OK biden-inc-flips.md in 556s (26 pages cite it)
+[08:21:22] worker6: claimed combating-the-transhumanist-religion.md
+[08:21:24] STATUS: done=179 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:21:46] worker10: OK brightlands-taiwan-tipping.md in 318s (7 pages cite it)
+[08:21:48] worker10: claimed coming-soon.md
+[08:21:54] STATUS: done=180 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:22:14] worker3: OK brazil-breaking.md in 520s (9 pages cite it)
+[08:22:17] worker3: claimed control-the-financial-system-control.md
+[08:22:20] worker0: OK big-tech-climbing-aboard-the-trump.md in 592s (12 pages cite it)
+[08:22:22] worker0: claimed control-through-language.md
+[08:22:24] STATUS: done=182 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:22:54] STATUS: done=182 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:23:02] worker10: OK coming-soon.md in 72s (2 pages cite it)
+[08:23:04] worker10: claimed countering-an-ocean-of-deceit.md
+[08:23:14] worker1: OK brics-vs-the-wef.md in 461s (16 pages cite it)
+[08:23:16] worker1: claimed cracks-in-the-curtain.md
+[08:23:24] STATUS: done=184 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:23:54] STATUS: done=184 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:24:24] STATUS: done=184 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:24:54] STATUS: done=184 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:25:24] STATUS: done=184 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:25:54] STATUS: done=184 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:26:05] worker9: OK chips-and-dips.md in 335s (9 pages cite it)
+[08:26:07] worker9: claimed cultural-warfare-and-the-american.md
+[08:26:24] STATUS: done=185 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:26:53] worker7: OK cataclysmic-silence.md in 470s (13 pages cite it)
+[08:26:54] STATUS: done=186 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:26:55] worker7: claimed dark-equation.md
+[08:27:24] STATUS: done=186 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:27:38] worker4: OK canadas-transition-to-collectivist.md in 592s (25 pages cite it)
+[08:27:40] worker4: claimed days-of-thunder.md
+[08:27:54] STATUS: done=187 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:28:24] STATUS: done=187 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:28:54] STATUS: done=187 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:29:16] worker0: OK control-through-language.md in 411s (21 pages cite it)
+[08:29:18] worker0: claimed dear-america-are-you-ready-to-do.md
+[08:29:24] STATUS: done=188 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:29:54] STATUS: done=188 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:30:13] worker1: OK cracks-in-the-curtain.md in 414s (16 pages cite it)
+[08:30:15] worker1: claimed death-blossom.md
+[08:30:24] STATUS: done=189 failed=4 recovered=2 unresolved=2 alive=12/12 finished=0
+[08:30:30] worker5: OK behold-a-trojan-horse.md in 1326s (22 pages cite it)
+[08:30:32] worker5: claimed death-to-dei.md
+[08:30:33] worker10: OK countering-an-ocean-of-deceit.md in 444s (12 pages cite it)
+[08:30:35] worker10: claimed deep-state-spotlight-gavin-newsom.md
+[08:30:40] worker2: OK celebrating-15-years-of-indictments.md in 610s (14 pages cite it) [RECOVERED after earlier failure]
+[08:30:42] worker2: claimed deep-state-spotlight-kamala-harris.md
+[08:30:54] STATUS: done=192 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:31:24] STATUS: done=192 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:31:30] worker3: OK control-the-financial-system-control.md in 551s (15 pages cite it)
+[08:31:32] worker3: claimed deep-state-spotlight-victoria-nuland.md
+[08:31:54] STATUS: done=193 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:31:56] worker8: OK clowns-in-america.md in 651s (26 pages cite it)
+[08:31:59] worker8: claimed defeating-the-depopulation-agenda.md
+[08:32:01] worker4: OK days-of-thunder.md in 257s (11 pages cite it)
+[08:32:03] worker4: claimed did-israel-possess-foreknowledge.md
+[08:32:24] STATUS: done=195 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:32:54] STATUS: done=195 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:33:13] worker6: OK combating-the-transhumanist-religion.md in 710s (34 pages cite it)
+[08:33:15] worker6: claimed disinformation-is-necessary.md
+[08:33:24] STATUS: done=196 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:33:54] STATUS: done=196 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:34:03] worker0: OK dear-america-are-you-ready-to-do.md in 283s (8 pages cite it)
+[08:34:05] worker0: claimed do-we-have-a-contract-with-the-federal.md
+[08:34:24] STATUS: done=197 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:34:54] STATUS: done=197 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:35:24] STATUS: done=197 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:35:54] STATUS: done=197 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:36:18] worker9: OK cultural-warfare-and-the-american.md in 608s (22 pages cite it)
+[08:36:20] worker9: claimed do-you-believe-in-coincidences.md
+[08:36:24] STATUS: done=198 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:36:54] STATUS: done=198 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:37:12] worker3: OK deep-state-spotlight-victoria-nuland.md in 337s (9 pages cite it)
+[08:37:14] worker3: claimed does-the-cia-still-control-iran.md
+[08:37:24] STATUS: done=199 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:37:54] STATUS: done=199 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:38:24] STATUS: done=199 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:38:28] worker0: OK do-we-have-a-contract-with-the-federal.md in 259s (16 pages cite it)
+[08:38:30] worker0: claimed dollars-dope-and-deception.md
+[08:38:54] STATUS: done=200 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:39:22] worker4: OK did-israel-possess-foreknowledge.md in 437s (19 pages cite it)
+[08:39:24] worker4: claimed donald-trump-and-george-washington.md
+[08:39:24] STATUS: done=201 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:39:54] STATUS: done=201 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:40:24] STATUS: done=201 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:40:54] STATUS: done=201 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:40:58] worker10: OK deep-state-spotlight-gavin-newsom.md in 621s (16 pages cite it)
+[08:41:00] worker10: claimed dont-be-symbol-minded.md
+[08:41:17] worker2: OK deep-state-spotlight-kamala-harris.md in 632s (10 pages cite it)
+[08:41:19] worker2: claimed dont-bring-shiny-rocks-to-digital.md
+[08:41:20] worker5: OK death-to-dei.md in 646s (20 pages cite it)
+[08:41:23] worker5: claimed dope-inc.md
+[08:41:24] STATUS: done=204 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:41:33] worker7: OK dark-equation.md in 875s (33 pages cite it)
+[08:41:35] worker7: claimed durham-continues-to-reveal-previously.md
+[08:41:54] STATUS: done=205 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:42:24] STATUS: done=205 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:42:54] STATUS: done=205 failed=4 recovered=3 unresolved=1 alive=12/12 finished=0
+[08:43:12] worker11: OK child-sacrifice-as-a-pillar-of-deep.md in 1337s (38 pages cite it) [RECOVERED after earlier failure]
+[08:43:14] worker11: claimed empires-enigma.md
+[08:43:24] STATUS: done=206 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:43:33] worker8: OK defeating-the-depopulation-agenda.md in 692s (38 pages cite it)
+[08:43:35] worker1: OK death-blossom.md in 796s (22 pages cite it)
+[08:43:35] worker8: claimed energy-consolidation.md
+[08:43:37] worker1: claimed enjoy-the-show.md
+[08:43:54] STATUS: done=208 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:44:24] STATUS: done=208 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:44:54] STATUS: done=208 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:45:24] STATUS: done=208 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:45:54] STATUS: done=208 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:46:24] STATUS: done=208 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:46:26] worker1: OK enjoy-the-show.md in 166s (4 pages cite it)
+[08:46:28] worker1: claimed everything-is-connected.md
+[08:46:47] worker3: OK does-the-cia-still-control-iran.md in 571s (20 pages cite it)
+[08:46:49] worker3: claimed exclusive-gart-3-live-stream-thursday.md
+[08:46:54] STATUS: done=210 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:47:24] STATUS: done=210 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:47:54] STATUS: done=210 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:48:24] STATUS: done=210 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:48:54] STATUS: done=210 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:49:24] STATUS: done=210 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:49:30] worker3: OK exclusive-gart-3-live-stream-thursday.md in 158s (4 pages cite it)
+[08:49:33] worker3: claimed expand-your-thinking.md
+[08:49:54] STATUS: done=211 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:50:24] STATUS: done=211 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:50:35] worker9: OK do-you-believe-in-coincidences.md in 852s (16 pages cite it)
+[08:50:37] worker9: claimed exploiting-the-dead.md
+[08:50:51] worker0: OK dollars-dope-and-deception.md in 738s (24 pages cite it)
+[08:50:53] worker0: claimed exploring-hermeticism.md
+[08:50:54] STATUS: done=213 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:51:24] STATUS: done=213 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:51:54] STATUS: done=213 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:52:24] STATUS: done=213 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:52:47] worker7: OK durham-continues-to-reveal-previously.md in 669s (20 pages cite it)
+[08:52:49] worker7: claimed fake-news-until-proven-real.md
+[08:52:54] STATUS: done=214 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:53:10] worker5: OK dope-inc.md in 706s (27 pages cite it)
+[08:53:12] worker5: claimed false-flags-and-the-occult.md
+[08:53:23] worker11: OK empires-enigma.md in 606s (23 pages cite it)
+[08:53:24] STATUS: done=216 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:53:25] worker11: claimed follow-the-money.md
+[08:53:54] STATUS: done=216 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:54:08] worker10: OK dont-be-symbol-minded.md in 784s (17 pages cite it)
+[08:54:10] worker10: claimed four-pillars-of-government-control.md
+[08:54:13] worker6: OK disinformation-is-necessary.md in 1255s (26 pages cite it)
+[08:54:15] worker6: claimed friends-in-high-places.md
+[08:54:24] STATUS: done=218 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:54:33] worker8: OK energy-consolidation.md in 655s (26 pages cite it)
+[08:54:35] worker8: claimed from-ye-to-oy-vey.md
+[08:54:50] worker9: OK exploiting-the-dead.md in 250s (9 pages cite it)
+[08:54:50] worker3: OK expand-your-thinking.md in 315s (8 pages cite it)
+[08:54:53] worker9: claimed gart-myrtle-beach-is-almost-here.md
+[08:54:53] worker3: claimed gaslighting-from-all-sides.md
+[08:54:54] STATUS: done=221 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:55:25] STATUS: done=221 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:55:55] STATUS: done=221 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:56:25] STATUS: done=221 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:56:49] worker2: OK dont-bring-shiny-rocks-to-digital.md in 926s (15 pages cite it)
+[08:56:51] worker2: claimed gazing-into-the-abyss.md
+[08:56:55] STATUS: done=222 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:57:25] STATUS: done=222 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:57:55] STATUS: done=222 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:58:07] worker9: OK gart-myrtle-beach-is-almost-here.md in 192s (3 pages cite it)
+[08:58:10] worker9: claimed gender-ideology-has-become-law.md
+[08:58:25] STATUS: done=223 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:58:42] worker4: OK donald-trump-and-george-washington.md in 1156s (16 pages cite it)
+[08:58:44] worker4: claimed generational-dependence-syndrome.md
+[08:58:55] STATUS: done=224 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:59:04] worker1: OK everything-is-connected.md in 754s (33 pages cite it)
+[08:59:06] worker1: claimed george-soros-a-british-creation.md
+[08:59:15] worker7: OK fake-news-until-proven-real.md in 382s (8 pages cite it)
+[08:59:18] worker7: claimed george-soros-shadow-network.md
+[08:59:25] STATUS: done=226 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[08:59:35] worker5: OK false-flags-and-the-occult.md in 380s (20 pages cite it)
+[08:59:37] worker5: claimed get-woke-go-broke.md
+[08:59:55] STATUS: done=227 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0
+[09:00:25] STATUS: done=227 failed=4 recovered=4 unresolved=0 alive=12/12 finished=0

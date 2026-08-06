@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democratic-party, california, swalwell]
-sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-brief-9ac.md, raw/badlands-brief-98d.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-053.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-24e.md, raw/badlands-news-brief-441.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-d1c.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-e7c.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -100,6 +100,10 @@ In early October 2023, days after [[kevin-mccarthy|Kevin McCarthy]] was removed 
 
 Badlands' July 2024 commentary noted that the articles of impeachment against [[kamala-harris|Kamala Harris]] introduced by Rep. [[andy-ogles|Andy Ogles]] arrived as Pelosi was "back in the news for being two-faced," referencing reporting on how she navigated [[joe-biden|Joe Biden]]'s withdrawal through public deference and private power.[15] The same piece described impeachment proceedings as a reminder of the 117th Congress, over which Pelosi presided as Speaker, and separately criticized Rep. [[bennie-thompson|Bennie Thompson]]'s January 6 committee for refusing to investigate Pelosi's actions as the official responsible for Capitol security on January 6, 2021.[15]
 
+## Trips to Armenia and North Korea (Badlands analysis)
+
+Badlands contributor Joe Lange treats two of Nancy Pelosi's foreign trips as evidence of panic among figures compromised by shadow-government dealings with rogue states.[19] Reuters reported that the House Speaker confirmed she would make a snap visit to [[armenia|Armenia]] after border clashes with [[azerbaijan|Azerbaijan]] killed more than 200 people, traveling with two Armenian-American members of Congress on what she called a "rather spontaneous" decision.[19] Lange asks why the Speaker would make such a trip immediately after the CIA lost control of a proxy state.[19] Separately, in an April 2018 interview — given while she was publicly opposing Republican farm bill cuts to the [[supplemental-nutrition-assistance-program|SNAP]] program — Pelosi admitted she had traveled to [[north-korea|North Korea]], where officials told her, "Look, we just make these to sell. You want to buy them? We'll sell them to you," in reference to ballistic missiles.[19] [[qanon|Q]] flagged the admission as a "Big ERROR," said the words used regarding intelligence and buying and selling "will bury her," and instructed readers to "think net worth"; Lange argues she visited both rogue states for the same reason and feared exposure of collusion in helping them acquire nuclear weapons with taxpayer money, a theme he links to the [[uranium-one-deal|Uranium One deal]] investigation.[19]
+
 ## References
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -133,3 +137,4 @@ At the September 18, 2023 [[2023-house-capitol-security-oversight-hearing|House 
 In episode 15 of [[tucker-on-twitter|Tucker on Twitter]], former [[us-capitol-police|Capitol Police]] Chief [[steven-sund|Steven Sund]] gave [[tucker-carlson|Tucker Carlson]] an account of January 6 that [[ashe-in-america|Ashe in America]] summarised as showing the day was not an insurrection by Trump supporters but the final step of "traitors in government."[18] Writing for [[badlands-media|Badlands Media]], she concluded that on the gassing and gaslighting of Americans that day, "the buck stops with Nancy Pelosi," and urged readers to demand justice for January 6.[18]
 
 18. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+19. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

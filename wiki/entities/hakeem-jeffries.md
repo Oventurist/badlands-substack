@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, congress, house, midterms]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-a57.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-98d.md, raw/badlands-brief-990.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-fbd.md]
 confidence: medium
 ---
 
@@ -60,6 +60,12 @@ During the [[september-2023-government-shutdown-standoff|September 2023 governme
 
 After the House passed the [[april-2024-foreign-aid-package|April 2024 foreign aid package]] on a 311 to 112 vote, Jeffries as House Democratic leader said that "traditional House Republicans led by Speaker [[mike-johnson|Mike Johnson]] have risen to the occasion" and that "we have a responsibility to push back against authoritarianism."[12]
 
+## El Salvador trips (April 2025)
+
+Asked on Monday, April 28, 2025 whether Democrats should continue advocating for the return of [[kilmar-abrego-garcia|Kilmar Abrego Garcia]] and other men wrongly shipped to El Salvador by traveling to the country, Jeffries replied that "Donald Trump has the lowest approval rating of any president in modern American history."[13] While publicly agnostic about such trips - including one taken by Reps. Robert Garcia, Yassamin Ansari, Maxwell Frost and Maxine Dexter - the minority leader privately viewed them as having run their course, according to two Democratic aides and a lawmaker who spoke to The Bulwark, and had discouraged further excursions even as pressure mounted within the party to escalate against [[donald-trump|Trump]] over the transfer of 238 men to a prison system known for human rights abuses.[13] "They want to let the El Salvador stuff slow down," a senior House staffer said.[13]
+
+Jeffries's office initially declined to comment, but after publication a spokesperson, Christie Stephenson, called the item false and "thinly sourced," noting that "Jeffries has repeatedly said, House Democrats will never stop fighting for the release of Mr. Abrego Garcia" - while, the outlet observed, omitting that the office had not pushed back when contacted before publication.[13] Badlands commentary judged the retreat the right call substantively but a tactical error to let leak, calling it an acknowledgement that the trips were a stunt and that Democrats were in strategic retreat, and predicted Jeffries would be mocked for his caucus but survive if the stunts stopped.[13]
+
 ## References
 
 1. Badlands Brief — "Trump Conducts the Chaos as the Uniparty Concentrates Fire", URL: https://badlands.substack.com/p/badlands-brief-165
@@ -74,3 +80,4 @@ After the House passed the [[april-2024-foreign-aid-package|April 2024 foreign a
 10. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 11. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 12. Badlands Brief — "Badlands News Brief: The Uniparty Celebrates as Warmongers Grow Desperate", URL: https://badlands.substack.com/p/badlands-news-brief-a57
+13. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd

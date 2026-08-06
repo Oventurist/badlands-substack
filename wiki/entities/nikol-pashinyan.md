@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [armenia, south-caucasus, elections, diplomacy]
-sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-50f.md]
+sources: [raw/badlands-brief-ec9.md, raw/badlands-news-brief-50f.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ On Friday, August 8, 2025, Pashinyan joined Azerbaijani President [[ilham-aliyev
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that both Pashinyan and Aliyev had earlier worked to entrap [[vladimir-putin|Vladimir Putin]] in a quagmire when, in 2020, Russia deployed peacekeeping troops to the same corridor to halt fighting between the two countries.[2] The commentary argued that both leaders appeared "giddy" because they believed the deal threatened Iran, while noting that allegations of [[azerbaijan|Azerbaijan]] already being used by the IDF to launch drone strikes on Tehran made claims about Armenia becoming a new attack platform feel redundant.[2] The contributor said the corridor's fate would be clarified by the behavior of Pashinyan and Aliyev after the [[2025-trump-putin-alaska-summit|Trump–Putin meeting in Alaska]] scheduled for that Friday.[2]
 
+## 2018 velvet revolution
+
+Nikol Pashinyan emerged as the leader of the opposition during the mass demonstrations that forced the resignation of Armenian Prime Minister [[serzh-sargsyan|Serzh Sargsyan]] in April 2018.[3] After Sargsyan stepped down, Pashinyan demanded a snap parliamentary election and told a rally in Yerevan that he was "ready to discuss conditions of Sargsyan's resignation and transfer of power."[3] The protests, which began on April 13 and drew thousands into the streets against a government critics accused of corruption and authoritarian rule, followed Sargsyan's move to circumvent presidential term limits by taking the newly empowered prime ministership created in a 2015 constitutional referendum.[3] Badlands contributor Joe Lange frames the resulting "velvet revolution" as part of a worldwide awakening and links it to the alleged shutdown of four CIA [[snow-white-supercomputers|supercomputers]] in [[armenia|Armenia]] on August 30, 2018.[3]
+
 ## References
 1. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
 2. Badlands News Brief — "Alaska For Peace, Iranian Objections, & A Mid-Decade Census", URL: https://badlands.substack.com/p/badlands-news-brief-50f
+3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

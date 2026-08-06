@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: low
 ---
 
@@ -117,3 +117,25 @@ Over the weekend of August 3–4, 2024, Flynn responded to Elon Musk on social m
 15. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 16. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
 17. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+
+## The President's Daily Brief trap (Badlands account)
+
+In the August 2023 Badlands article "Clowns in America," [[joe-lange|Joe Lange]] credited Flynn with engineering the insertion of evidence into President [[barack-obama|Barack Obama]]'s [[presidents-daily-brief|President's Daily Brief]] documenting that [[hillary-clinton|Hillary Clinton]]'s private server had exposed national secrets to China, thereby creating a legally admissible paper trail; the article names FBI analyst [[tonya-ugoretz|Tonya Ugoretz]] as the officer who placed the material and describes Flynn as the man who "knows where all the bodies are buried."[18] Because Obama and his aides were themselves using the server under pseudonyms, the briefing left them trapped between self-incrimination and documented inaction.[18]
+
+Citing PJ Media, Badlands noted that Obama fired Flynn as head of the [[defense-intelligence-agency|Defense Intelligence Agency]] in April 2014 over his opposition to the Iran nuclear deal, and that [[peter-strzok|Peter Strzok]] and [[lisa-page|Lisa Page]] discussed drama over one of Obama's daily briefings on the very same day — a coincidence Lange rejected, arguing that Flynn had trapped them and that his prosecutors subsequently sought fraudulent charges to convict him.[18] When the Justice Department moved to dismiss the case brought by special counsel [[robert-mueller|Robert Mueller]] on the grounds that agents had no justifiable reason to question him about his conversations with Russian Ambassador Sergei Kislyak, Obama privately complained that the "rule of law is at risk," misstating the charge as perjury.[18] Badlands concluded that the plan to convict and disgrace Flynn had backfired.[18]
+
+18. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+
+## Amplification of the Pizzagate reassessment (January 2024)
+
+On January 3, 2024, Flynn retweeted a video by citizen journalist [[ian-carroll|Ian Carroll]] which Badlands Media contributor [[simon-esler|Simon Esler]] described as proving not only that [[pizzagate|Pizzagate]] was never debunked but that a sophisticated form of [[fifth-generation-warfare|fifth-generation warfare]] had been used to psychologically operate on the public in order to maintain the cover-up.[19]
+
+Esler analyzed the video against *The Citizen's Guide to Fifth-Generation Warfare*, the book Flynn co-authored with [[boone-cutler|Boone Cutler]], quoting its definition of hybrid warfare as bot-amplified contrived news and selective reporting that generates polarizing emotionality while censoring the opposition and promoting a smaller supportive audience.[19] He argued that the treatment of Pizzagate posters by [[politifact|PolitiFact]] and similar outlets matched that description exactly, and that Carroll's research further validated the book's account of an information feedback loop and of shadow government involvement, illustrated by the diagram "It's a Big Club and You Ain't In It."[19]
+
+19. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+
+## Comparison of AI to nuclear warfare (2023)
+
+An April 2023 Badlands Media essay cited a piece by Flynn comparing artificial intelligence to nuclear warfare and arguing that AI is already aimed at the American public within the domain of [[fifth-generation-warfare|fifth-generation warfare]].[20] The quoted passage states that "foreign-born AI-driven psychological programming has emerged as a formidable weapon in the arsenal of fifth-generation warfare," that "it wreaks havoc on the social, political and psychological fabric of our nation," and that although the methods of attack differ from conventional ones, the devastation it causes inflicts lasting damage on a nation's core.[20] The essayist used Flynn's framing to support his own argument that [[bitcoin|Bitcoin]] micro-transactions could impose "severe physical costs" on AI-generated content and thereby help distinguish authentic communication from machine-generated fabrication.[20]
+
+20. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital

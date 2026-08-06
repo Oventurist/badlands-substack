@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [public-health, biosecurity, federal-agency, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -51,6 +51,10 @@ Responding to the signing of the [[covid-19-origin-act-of-2023|COVID-19 Origin A
 
 Former NIH director [[francis-collins|Francis Collins]], the nation's top public health official during the Covid-19 pandemic, admitted in closed-door congressional testimony released in May 2024 that the origins of the coronavirus remain up for debate and that the lab-leak theory is not a conspiracy.[7] He also conceded there was no scientific evidence to support the [[centers-for-disease-control-and-prevention|CDC]]'s six-foot social-distancing guidance.[7]
 
+## "Biden, Inc. Flips" allegations
+
+A December 2024 Badlands feature alleged that Ukrainian laboratories conducting [[gain-of-function-research|gain-of-function research]] were funded indirectly by U.S. entities including the NIH, and that this research contributed directly to the COVID-19 pandemic.[8] It further claimed that emails between NIH officials and pharmaceutical executives evidence unethical alliances linking [[anthony-fauci|Anthony Fauci]]'s agency to the suppression of alternative COVID-19 treatments and to profiteering during a global crisis.[8] The article placed these claims within an alleged racketeering enterprise it argued was prosecutable under the [[racketeer-influenced-and-corrupt-organizations-act|RICO statutes]].[8] None of these allegations has been substantiated by investigation or litigation.[8]
+
 ## References
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
 2. Badlands Brief — "Badlands News Brief: Fake Polls Abound as the Sovereign Alliance Makes Moves", URL: https://badlands.substack.com/p/badlands-news-brief-125
@@ -59,3 +63,4 @@ Former NIH director [[francis-collins|Francis Collins]], the nation's top public
 5. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 6. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 7. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+8. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

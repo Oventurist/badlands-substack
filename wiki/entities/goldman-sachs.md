@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, philanthropy, wall-street, investigations]
-sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md]
+sources: [raw/badlands-brief-169.md, raw/badlands-brief-6f4.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-276.md, raw/energy-consolidation.md]
 confidence: medium
 ---
 
@@ -35,9 +35,16 @@ In September 2023, Goldman Sachs CEO [[david-solomon|David Solomon]] publicly re
 
 Goldman Sachs had itself been fined millions of dollars by the SEC in 2022 for misreporting and mismanaging its ESG investment vehicles.[5] Badlands contributor [[ashe-in-america|Ashe in America]] argued that the bank's apparent retreat was rhetorical rather than real, citing a market-sizing study that listed Goldman Sachs alongside [[blackrock|BlackRock]] among the leading contributors to projected ESG market growth through 2030, and contending that Goldman needed fossil fuel revenue to subsidize its green agenda.[5] She wrote that "the consent on ESG has been largely manufactured by entities like Goldman Sachs," and drew a parallel with [[larry-fink|Larry Fink]]'s earlier apparent rebuke of ESG's effect on business performance.[5]
 
+## Alleged role in First Solar favoritism
+
+In a May 2023 Badlands Media essay on [[energy-consolidation|energy consolidation]], contributor [[erik-carlson|Erik Carlson]] wrote that before the 2008 election Goldman Sachs was heavily invested in the solar manufacturer [[first-solar|First Solar]] while simultaneously serving as a major contributor to [[barack-obama|Barack Obama]]'s campaign, as were other large donors holding First Solar positions.[6] After the election, Carlson wrote, Obama placed two Goldman Sachs executives — [[bruce-heyman|Bruce Heyman]] and [[david-heller|David Heller]] — on his finance committee.[6]
+
+Carlson connected these appointments to the subsequent flow of public money to First Solar, including 2009 stimulus funds, [[department-of-energy|Department of Energy]] guaranteed loans, and green energy subsidies, and to the $455.7 million subsidy underwriting sales to First Solar's own Canadian subsidiary [[st-clair-solar|St. Clair Solar]].[6] He noted that Heyman later became Ambassador to Canada and asked whether the sequence was coincidental.[6]
+
 ## References
 1. Badlands Brief — "Condemnation, Calibration, & Constitutional Boxes", URL: https://badlands.substack.com/p/badlands-brief-169
 2. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
 3. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
 4. Badlands Brief — "Sex-Based Hierarchy, Shadow Banking, & Schrödinger's List", URL: https://badlands.substack.com/p/badlands-news-brief-201
 5. Badlands Media — "Badlands News Brief: Fauci, Trudeau and the Bidens Under the Microscope", URL: https://badlands.substack.com/p/badlands-news-brief-276
+6. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation

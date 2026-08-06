@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [legislation, appropriations, immigration, ice, congress]
-sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-f1a.md]
+sources: [raw/badlands-brief-71c.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-7e5.md, raw/badlands-news-brief-95a.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-fcd.md]
 confidence: low
 ---
 
@@ -74,6 +74,12 @@ An analysis by the nonpartisan [[tax-foundation|Tax Foundation]] released in Aug
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] presented the figures as confirmation that the foundations of what he calls a coming Golden Age had been laid quietly over preceding years, describing the moment as the advent of a new American epoch.[11]
 
+## Senate vote-a-rama, June 30, 2025
+
+On June 30, 2025, the Senate remained locked in a marathon amendment-voting session known as a "vote-a-rama," which had run twelve hours with no final vote in sight as lawmakers continued offering changes to the bill.[12] President [[donald-trump|Donald Trump]] pressured his party to pass the sweeping tax cuts and spending package in time for him to sign it by the Fourth of July; the measure would need to return to the House after Senate passage before reaching his desk.[12]
+
+Technology billionaire [[elon-musk|Elon Musk]] issued a stark warning on X that day, saying any lawmaker who votes in favor of the bill "will lose their primary next year if it is the last thing I do on this Earth."[12] Badlands host [[jon-herold|Jon Herold]] framed the moment as a test of blind loyalty, asking readers who had trusted Trump on the vaccines why the "big, beautiful bill" should be treated any differently.[12]
+
 ## References
 1. Badlands Brief — "Persian Devolution, Minnesotan Maneuvers & Chinese Checkers", URL: https://badlands.substack.com/p/badlands-brief-71c
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
@@ -86,3 +92,4 @@ An analysis by the nonpartisan [[tax-foundation|Tax Foundation]] released in Aug
 9. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 10. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
 11. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
+12. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd

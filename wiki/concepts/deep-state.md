@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [deep-state, narrative, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dae.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/are-we-being-distracted.md, raw/avoiding-wwiii.md, raw/badlands-blitz-episode-25.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-dae.md, raw/believe-half-of-what-you-see.md, raw/biden-inc-flips.md, raw/death-to-dei.md, raw/energy-consolidation.md, raw/fake-news-until-proven-real.md]
 confidence: medium
 ---
 
@@ -87,6 +87,26 @@ Writing in February 2024, Badlands contributor [[simon-esler|Simon Esler]] place
 
 Reporting on the [[trump-transition-fbi-background-check-bypass|Trump transition's bypass of FBI background checks]] in November 2024 tied the decision to the president-elect's deep mistrust of the national security establishment, which he derides as the Deep State.[14] Sources said Trump had privately questioned the need for law enforcement background checks at all, and national security attorney Dan Meyer said the incoming administration wanted not to coordinate norms but "to hammer the norm."[14] Badlands Media concluded its commentary on the episode with the line "Deep State most affected."[14]
 
+## Emotional manipulation and narrative framing (Badlands, November 2023)
+
+In the November 2023 essay "Believe Half of What You See," [[erik-carlson|Erik Carlson]] described the Deep State primarily as an apparatus of emotional manipulation rather than simple censorship.[15] He argued that its mind controllers cannot tolerate people occupying a middle position — on Israel and [[hamas|Hamas]], for instance, the demand is total support for one side and total destruction of the other, with an America First focus treated as unacceptable.[15] Carlson suggested the Deep State had tried to strike while the iron was hot during the Middle East frenzy but missed its window, as the public calmed faster than expected.[15]
+
+He wrote that all the Deep State media wants is an initial reaction, because although most of its lies are eventually exposed, the emotional residue persists; people are controlled by feelings even when the facts do not support them.[15] Carlson also alleged the deliberate use of racial division — citing the sudden media focus on violence against Asian Americans, almost always illustrated with Black assailants, and the routine airing of mug shots and crime videos featuring Black suspects — describing the Black community as an abused stepchild of the Deep State, used to advance its agendas.[15] He argued insecurities are preyed upon by bots and paid shills leaving negative comments on social media, and the desire for justice is exploited through clips of injustice.[15]
+
+## "Biden, Inc. Flips" framing
+
+A December 2024 Badlands feature presented the alleged "Biden, Inc." enterprise as a component of a vast Deep State network encompassing election interference, bioweapons laboratories, human trafficking, and the COVID-19 pandemic.[16] It argued that civilian courts and agencies infiltrated by Deep State actors must be bypassed in favor of [[military-tribunals|military tribunals]] operating under [[continuity-of-government|Continuity of Government]] protocols, and that the [[racketeer-influenced-and-corrupt-organizations-act|RICO statutes]] provide the legal theory for tying disparate entities together.[16]
+
+The article described [[ftx|FTX]] as a probable Deep State slush fund and claimed that the COVID-19 pandemic was deliberately exploited to justify mass [[mail-in-voting|mail-in voting]] and to manipulate public behavior, with media outlets and technology platforms suppressing dissent.[16] It framed the counter-effort as a [[white-hats|White Hat]] campaign of incremental [[declas|declassification]] aimed at dismantling corrupt systems, empowering local governance, and rebuilding public trust.[16] These are movement claims rather than documented findings.[16]
+
+## Woke policy as a Cabal instrument
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued in March 2025 that woke movements — [[diversity-equity-and-inclusion|DEI]], [[black-lives-matter|BLM]], the [[climate-change-narrative|climate change]] and LGBTQ+ agendas, abortion and the [[transgender-movement|Trans Movement]] — were all created, funded or promoted by the Deep State Cabal to launder money, maintain control, and ultimately serve an elitist agenda of population control.[17] He wrote that these policies are used "to create chaos and pandemonium," to divide and destroy, to instill a slave-like mentality and adherence to power, and "to minimize God, while making gods out of the elites," who he said desire to be worshiped.[17]
+
+Carlson maintained that the elites promoting these causes are themselves sexist, racist and homophobic, understand climate change to be a hoax, and that the hidden goal of woke policy is to make the public more prejudiced, more ashamed and more mentally unwell — "divided through hate and controlled through fear and guilt. All by design."[17] He invoked the maxim that the Cabal accuses others of the crimes it commits and projects its own prejudices onto others, and said its money laundering extends beyond domestic programs into Deep State-created wars, most recently in Ukraine.[17] He cited a claim by [[volodymyr-zelensky|Volodymyr Zelenskyy]] on a [[tucker-carlson|Tucker Carlson]] podcast that Ukraine had not received half of what the US government says it sent, and that half the weapons sent had been sold to the Mexican cartels.[17]
+
+Historically, Carlson tied the Cabal's methods to the [[fbi|FBI]] and [[cia|CIA]] presence in the Civil Rights and [[feminist-movement|Feminist]] movements, to the [[frankfurt-school|Frankfurt School]] origins of [[political-correctness|political correctness]] and [[critical-race-theory|critical race theory]], and to the [[tavistock-institute|Tavistock Institute]] as the source of the Trans Movement.[17] He concluded that the exposure of DEI is now being used to take down the Cabal, and that "the weapons the Deep State has used to control and divide society are now being used to destroy them."[17]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
@@ -102,3 +122,22 @@ Reporting on the [[trump-transition-fbi-background-check-bypass|Trump transition
 12. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 13. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
 14. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
+15. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see
+16. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+17. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+
+## Energy as a control mechanism
+
+In a May 15, 2023 essay, Badlands contributor [[erik-carlson|Erik Carlson]] argued that the Deep State cabal is consolidating access to energy in order to create "one valve they can turn on or off," on the reasoning that households with multiple energy options retain leverage the cabal does not want them to have.[18] If all energy arrives as electricity, he wrote, prices can be raised arbitrarily, charging can be made illegal or time-limited, and a revolution can be suppressed by flipping a switch or raising rates by 400 percent.[18] The argument is developed at [[energy-consolidation|energy consolidation]].[18]
+
+Carlson also asserted that the Deep State has never cared about the environment, citing the exemption of India and China from carbon obligations imposed on the United States and the fact that corporations he describes as Deep State-run manufacture in China precisely because it has no environmental restrictions.[18] Separately he argued that the same actors put in place the safety nets that repeatedly divert last-minute crises — debt ceilings, shutdowns, banking failures — because they are the ones who designed those valves.[18] He credited [[donald-trump|Trump]]'s handling of Covid with forcing the economy open years ahead of a cabal timetable he estimated at five years.[18]
+
+18. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation
+
+## Expiring lies and the implosion thesis
+
+In a May 10, 2024 essay, [[erik-carlson|Erik Carlson]] argued that the Deep State is imploding, pointing to a [[uniparty|Uniparty]] coalition so internally contradictory — pro-Israel and anti-Israel, pro-war and anti-war, Communists and Capitalists — that its dysfunction could not be sustained.[19] He described the fusion of RINO neocons with progressive liberals to oppose [[donald-trump|Trump]] as an act of desperation.[19]
+
+Carlson likened the Deep State to a monkey swinging between cracking branches, distracting from each unravelling lie with a new one, and argued that lies which once lasted decades — WWII, the JFK assassination, 9/11, Covid, climate change — now expire within weeks or days as more people awaken.[19] He held that the cabal understands this and is content with harvesting only the initial emotional reaction of fear and anger, treating each narrative as disposable once the next is ready; the argument is developed at [[fear-as-a-control-mechanism|fear as a control mechanism]] and [[media-distrust-as-default|media distrust as default]].[19] He cited the [[cia|CIA]]'s [[lifelog|LifeLog]] reappearing as [[facebook|Facebook]] as an illustration of the deceiver in disguise, one of several [[big-bad-wolf-parables|big bad wolf parables]] he applies to the Deep State.[19]
+
+19. Badlands Brief — "Fake News Until Proven Real ...", URL: https://badlands.substack.com/p/fake-news-until-proven-real

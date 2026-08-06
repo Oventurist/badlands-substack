@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cisa, election-security, intelligence, cybersecurity, morgan-stanley]
-sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-5a3.md]
+sources: [raw/badlands-news-brief-189.md, raw/badlands-news-brief-5a3.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ The appointment was abruptly ended the following day. On Wednesday, July 30, Sec
 
 1. Badlands Media — "Badlands News Brief: It's a Big Club. And It's Going Down.", URL: https://badlands.substack.com/p/badlands-news-brief-189
 2. Badlands Brief — "Badlands News Brief: Burn Bags, Kratom, & Insider Trading", URL: https://badlands.substack.com/p/badlands-news-brief-5a3
+
+## 2023 Bilderberg attendance
+
+Jen Easterly, director of the US Cybersecurity and Infrastructure Security Agency, attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal.[3] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] named her among the attendees that caught his attention, citing her presence as evidence of the overlap between US information-security officialdom and the [[bilderberg|Bilderberg]] network.[3]
+
+3. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

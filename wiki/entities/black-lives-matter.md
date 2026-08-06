@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [activism, race, democratic-party, 2024-election]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-e44.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-e44.md, raw/death-to-dei.md]
 confidence: medium
 ---
 
@@ -38,6 +38,12 @@ In May 2025, [[aston-mack|Aston Mack]], a 35-year-old Black Lives Matter activis
 
 Following [[joe-biden|Joe Biden]]'s July 21, 2024 withdrawal and the rapid consolidation of party support behind [[kamala-harris|Kamala Harris]], Black Lives Matter publicly objected and called for a democratic nominating process.[5] Badlands contributor [[ashe-in-america|Ashe in America]] cited the organization's reaction as evidence that even parts of the left were angered by what she described as the oligarchy overriding primary voters for the third consecutive Democratic cycle.[5]
 
+## Allegations of financial fraud
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote in March 2025 that BLM — "not the concept, but the organization" — is "a complete fraud," describing it as both a corporate and Democrat money-laundering operation and an outfit whose black leaders had been exposed skimming donations for personal enrichment.[6] He asserted that none of the donations had found their way back into the black community and that multiple BLM leaders had been exposed buying houses and paying off debt with contributors' money, with one leader purchasing multiple high-end homes in neighborhoods that were 98–99% white — a pattern he called corrupt and hypocritical, "corruption hidden behind a concept."[6]
+
+Carlson used BLM as his central illustration of the gap between the elites who create and fund such movements and the "foot soldier" supporters who back them in good faith, describing sign-holding activists at a local intersection who he assumed were unaware of the organization's alleged corruption, or who had been persuaded by CNN and MSNBC that reports of it were fake news.[6] He grouped BLM with [[diversity-equity-and-inclusion|DEI]], [[climate-change-narrative|climate change]] and LGBTQ+ agendas as causes created, funded or promoted by the [[deep-state|Deep State Cabal]] to launder money and maintain control.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
@@ -45,3 +51,4 @@ Following [[joe-biden|Joe Biden]]'s July 21, 2024 withdrawal and the rapid conso
 3. Badlands News Brief — "Peacemakers, Fake Kennedys & Fear Mongers", URL: https://badlands.substack.com/p/badlands-news-brief-3b2
 4. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 5. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+6. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei

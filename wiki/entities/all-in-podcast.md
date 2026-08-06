@@ -4,13 +4,17 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [podcast, silicon-valley, venture-capital, media, 2024-election]
-sources: [raw/badlands-news-brief-d56.md]
+sources: [raw/badlands-news-brief-d56.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
 # All-In Podcast
 
 The **All-In Podcast** is a technology and politics program hosted by Craft Ventures co-founder [[david-sacks|David Sacks]] together with entrepreneurs Chamath Palihapitiya, Jason Calacanis, and David Friedberg.[1]
+
+## 2023 RFK Jr. interview
+
+In May 2023 the podcast hosted Democratic presidential candidate [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], in an episode that drew wide attention in the [[truth-community|Truth Community]].[2] Host [[jason-calacanis|Jason Calacanis]] asked Kennedy directly whether he believed the [[central-intelligence-agency|CIA]] had been involved in the murder of his uncle, President [[john-f-kennedy|John F. Kennedy]], and Kennedy answered without hesitation that the agency was "definitely involved in the murder and the 60-year cover-up," adding that it was still withholding records it is legally obligated to release.[2]
 
 ## 2024 Trump interview
 
@@ -22,3 +26,4 @@ On AI, Trump argued that leadership would require double or triple current US el
 
 ## References
 1. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+2. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

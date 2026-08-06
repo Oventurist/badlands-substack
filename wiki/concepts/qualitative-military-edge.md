@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [israel, saudi-arabia, f-35, arms-sales, us-policy]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-748.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-fcd.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ Badlands commentary traces the QME's legal lineage to the Foreign Military Sales
 
 The QME was cited in May 2025 as the likely limiting factor on the [[2025-us-saudi-arms-deal|$142 billion US–Saudi arms deal]], particularly Saudi requests for [[f-35|F-35]] jets — echoing 2017, when a roughly $110 billion arms agreement yielded munitions but no F-35s for Riyadh.[3] [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that the QME hamstrings American diplomacy, underwrites a de facto unipolar order requiring global US military presence, and should be repealed to empower allies such as [[saudi-arabia|Saudi Arabia]] to police their own region.[3]
 
+## Erosion narrative, mid-2025
+
+In commentary published June 30, 2025, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that the QME was already slipping away as a practical matter: with Saudi Arabia offered a record-setting military sales package, rumours circulating of lifting weapons sanctions against Turkey, and [[syria-sanctions-relief|sanctions on Syria]] being lifted, all of Israel's neighbours were gaining access to cutting-edge military technology.[4] He framed this alongside demands by Syria's new leadership that the IDF withdraw from Syrian territory, concluding that [[benjamin-netanyahu|Netanyahu]]'s vision of a dominant Israeli military empire in the Middle East was instead producing stronger, increasingly cooperative neighbours and an incipient regional economic boom — conditions unfavourable to empire-building.[4]
+
 ## References
 
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands Brief — "Badlands News Brief: Democracy Shields, Entitled Foreigners, & Epstein's Boomerang", URL: https://badlands.substack.com/p/badlands-news-brief-582
 3. Badlands Brief — "Badlands News Brief: Remembrance, Razor Blade Throat, & Ukrainian Drone Assassins", URL: https://badlands.substack.com/p/badlands-news-brief-748
+4. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd

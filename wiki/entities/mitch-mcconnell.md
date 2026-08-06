@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-senate, republican-party, neoconservatism, death-rumors, kentucky]
-sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f23.md, raw/badlands-news-brief-f46.md]
+sources: [raw/badlands-brief-805.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-2e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-f0b.md, raw/badlands-news-brief-f23.md, raw/badlands-news-brief-f46.md, raw/badlands-news-brief-ff6.md, raw/exploiting-the-dead.md]
 confidence: medium
 ---
 
@@ -68,6 +68,10 @@ On Wednesday, February 28, 2024, McConnell — the longest-serving Senate leader
 
 On Thursday, February 20, 2025, McConnell announced the impending close of his four-decade [[united-states-senate|Senate]] career in a midday floor speech, capping a legacy of turning American government rightward while also marking the fading of an era in Republican politics.[13] The announcement came nearly a year after he said he would step down as Republican leader, and after a decade of watching a growing number of his colleagues — and the party he helped shape — slide toward [[donald-trump|Donald Trump]]'s populism, as his own relationship with Trump deteriorated.[13]
 
+## The 2024 border bill and Ukraine aid
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified McConnell as the sponsor of the [[bipartisan-border-bill-2024|bipartisan border bill]] whose text, once revealed, dashed Republican hopes of securing the border; the America First wing of the party judged that it did literally nothing on the border and treated it as dead on arrival.[16] DeLarme reported that McConnell confessed to the New York Times that he had never truly prioritised border security, describing it as a hollow gesture toward his constituents while ensuring the security state got what it wanted.[16] Twenty Republican senators joined every Democrat in voting to pass the resulting package, which sent $60 billion to Ukraine, $17 billion to Israel, and further funds to Taiwan and for strikes on Yemen.[16] DeLarme grouped McConnell with [[chuck-schumer|Chuck Schumer]] as [[uniparty|uniparty]] representatives who had dropped any pretense of addressing the border before aiding Ukraine and Israel, and noted that the coordinated messaging around [[alexei-navalny|Alexei Navalny]]'s death produced the rare spectacle of McConnell's statements mirroring those of [[hakeem-jeffries|Hakeem Jeffries]].[16]
+
 ## References
 1. Badlands Brief — "RIP Lindsey Graham", URL: https://badlands.substack.com/p/badlands-brief-805
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
@@ -98,3 +102,10 @@ Badlands contributor [[ashe-in-america|Ashe in America]] responded that four neu
 McConnell's tenure as the top Senate Republican, which spanned eighteen years, ended with the November 13, 2024 election of [[john-thune|John Thune]] as Senate majority leader.[14] McConnell had announced in February 2024 that he would retire from GOP leadership at the end of the year, prompting Thune — his whip since 2019 — to launch a leadership bid shortly afterward.[14] Thune had already been managing much of the Senate floor operation after McConnell suffered a concussion from a fall in 2023.[14]
 
 14. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
+
+## October 2023 remarks on the speakership
+
+After the ouster of Speaker [[kevin-mccarthy|Kevin McCarthy]], McConnell expressed disappointment on the Senate floor, praising McCarthy's persistence and describing him as "a partner I could trust to be honest and candid."[15] Mainstream Senate Republicans backing [[steve-scalise|Steve Scalise]] for the speakership cited his ability to collaborate with McConnell in guiding must-pass bills through legislative intricacies.[15]
+
+15. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6
+16. Badlands Media — "Exploiting the Dead", URL: https://badlands.substack.com/p/exploiting-the-dead

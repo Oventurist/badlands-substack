@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, russiagate, impeachment, intelligence-community, ukraine]
-sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-880.md]
+sources: [raw/badlands-brief-949.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-880.md, raw/clowns-in-america.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ Badlands contributor [[ashe-in-america|Ashe in America]] noted that the Biden Ju
 1. Badlands Brief — "Tulsi Exposes Traitors; Peace Talks in Pakistan", URL: https://badlands.substack.com/p/badlands-brief-949
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 3. Badlands Brief — "Lawfare Losers & Azov-Adjacent Suicide Attempts", URL: https://badlands.substack.com/p/badlands-news-brief-880
+
+## Texts about an Obama presidential daily briefing
+
+The August 2023 Badlands article "Clowns in America," citing PJ Media, reported that text messages between Strzok and FBI lawyer [[lisa-page|Lisa Page]] show that Strzok and then-FBI Assistant Director William Priestap were concerned about sharing sensitive evidence with the departing [[barack-obama|Obama]] White House.[4] Other texts from the same day show the pair discussing apparent drama involving one of Obama's [[presidents-daily-brief|presidential daily briefings]] — the same day in April 2014 that Obama fired [[michael-flynn|Michael Flynn]] as head of the [[defense-intelligence-agency|Defense Intelligence Agency]] over his opposition to the Iran nuclear deal.[4] These messages were not released by the FBI but were made available to John Solomon in September 2018, who reported that investigators were examining whether Obama's disdain for Flynn influenced FBI leadership's decision to reject its own agent's recommendation to close the Flynn probe in January 2017 and instead pursue an interview at which agents might catch him in a lie.[4] Badlands writer [[joe-lange|Joe Lange]] rejected the coincidence, arguing Flynn had trapped them.[4]
+
+4. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america

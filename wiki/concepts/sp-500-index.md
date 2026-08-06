@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [markets, economy, index, concentration, big-tech]
-sources: [raw/america-has-a-cia-run-economy.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/control-through-language.md]
 confidence: medium
 ---
 
@@ -30,6 +30,14 @@ Carlson notes that the 2025 leaders are all artificial-intelligence-focused big 
 
 Citing the 1911 Supreme Court ruling that broke [[standard-oil|Standard Oil]] into 34 separate entities for violating federal antitrust law, the article asks whether comparable breakups are the path forward for limiting the influence of the top 1% of publicly traded American companies.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
+
+## "Control Through Language" (February 2024)
+
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] used a week of media coverage celebrating the S&P 500 at an all-time high as his central example of narrative manipulation, arguing the coverage was designed to convince Americans the economy was doing well under [[joe-biden|Joe Biden]].[2] He conceded the index was indeed at a record but argued it had merely returned to where it stood two years earlier, meaning no actual growth over that period — comparable, in his analogy, to working forty hours a week for two years without pay.[2] He added that the vast majority of the past year's recovery came from just seven stocks, mostly mega-corporations he describes as controlled by [[cabal|Cabal]] elites, while the other 493 fared poorly.[2]
+
+Carlson further stressed that publicly traded companies represent only about 1% of US companies and businesses, so that the index cannot stand in for the other 99% — a substitution he likened to treating America's "one-percenters" as representative of the middle class, the working class and the poor.[2] Broadening to the [[russell-2000-index|Russell 2000]] and factoring in "real" [[inflation|inflation]] of roughly 33%, he concluded the market had lost about a third of its purchasing power since Biden took office.[2]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
+2. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

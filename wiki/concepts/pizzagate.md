@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy, clinton, epstein, congressional-testimony]
-sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-7ad.md]
+sources: [raw/badlands-brief-52f.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-683.md, raw/badlands-news-brief-7ad.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/from-ye-to-oy-vey.md]
 confidence: low
 ---
 
@@ -34,8 +34,24 @@ Badlands commentary treated Clinton's remarks as a signal rather than a warning,
 
 The Pizzagate symbolism resurfaced in June 2023 when a joint investigation by the [[wall-street-journal|Wall Street Journal]] and the [[stanford-internet-observatory|Stanford Internet Observatory]] reported that [[meta-platforms|Meta]]-owned [[instagram|Instagram]] hosted a large organized pedophile network whose participants used coded emojis, including "cheese pizza" — sharing its initials with "child pornography" — and a map image standing for "minor-attracted person."[4] [[badlands-media|Badlands Media]] commentary by [[justin-deschamps|Justin Deschamps]] argued that the finding demonstrated the pizza association originally raised during the Comet Ping Pong controversy "wasn't invalid after all," while cautioning that this did not make every claim about elite child trafficking true.[4] The commentary contended that beneath a "well-manicured Potemkin village facade" there existed a sophisticated network servicing pedophiles that received far less attention from the [[justice-department|DoJ]] and [[congress|Congress]] than January 6 prosecutions or parents attending school board meetings.[4]
 
+## Flynn's 2024 amplification and the fifth-generation warfare reading
+
+On January 3, 2024, [[michael-flynn|General Michael Flynn]] retweeted a video by citizen journalist [[ian-carroll|Ian Carroll]] arguing not only that Pizzagate was never debunked but that a sophisticated form of [[fifth-generation-warfare|fifth-generation warfare]] had been used to psychologically condition the public into maintaining the cover-up.[5] Badlands Media contributor [[simon-esler|Simon Esler]] compared Carroll's research to the definition of hybrid warfare in *The Citizen's Guide to Fifth-Generation Warfare* by Flynn and [[boone-cutler|Boone Cutler]], which describes cyberwarfare combined with bot-amplified contrived news, selective reporting, emotionality that polarizes an audience, censorship of the opposition and promotion of a smaller supportive audience.[5] Anyone who tried to post about Pizzagate when it broke was either censored or hit by [[politifact|PolitiFact]] or another fact-checking outfit in exactly the manner described, and PolitiFact had been funded at its 2015 launch by the [[gates-foundation|Gates Foundation]] to the tune of $382,997 — an example Esler presented as a microcosm of how such an operation is run.[5] Carroll's work was also said to expose an information feedback loop and to validate the involvement of a shadow government.[5]
+
+## The Moloch email thread
+
+Esler singled out one evidentiary thread as illustrative of what the public might have concluded absent the psychological operation: an email between [[hillary-clinton|Hillary Clinton]] and [[huma-abedin|Huma Abedin]] referencing [[molech|Moloch]], commonly known as an ancient god of [[child-sacrifice|child sacrifice]].[5] He noted that reference sources such as Wikipedia muddy the question by reporting scholarly arguments that Moloch denotes the sacrifice itself rather than a deity, but argued that the email's usage plainly treats Moloch as a deity to be sacrificed *to*.[5] Any ordinary member of the public investigating the matter, he wrote, would encounter a strange wall of manipulated information surrounding evidence connecting these elites to a culture of child sacrifice.[5]
+
+## Chain of custody described by Badlands (December 2023)
+
+A December 2023 Badlands Media essay by Erik Carlson set out the sequence it holds behind the Pizzagate story: [[seth-rich|Seth Rich]], a DNC staffer angered that the 2016 Democratic nomination had gone to Hillary Clinton over Bernie Sanders, used a thumb drive to copy files and sent them to [[wikileaks|WikiLeaks]], headed by [[julian-assange|Julian Assange]].[6] Those files included the emails of [[john-podesta|John Podesta]], which critics argued contained requests for trafficking children using FBI-acknowledged code words such as "hot dogs," "walnut sauce" and "cheese pizza."[6] Rich was subsequently killed walking home from a bar in Washington, D.C. in what was described as a robbery despite nothing being taken.[6]
+
+The essay identified [[james-alefantis|James Alefantis]], owner of the Comet Ping Pong restaurant at the center of the story, as the former long-term boyfriend of [[david-brock|David Brock]], founder of [[media-matters-for-america|Media Matters for America]].[6] It added that the Standard Hotel in Los Angeles also has a ping pong-themed bar, and pointed readers toward the names [[adam-schiff|Adam Schiff]], Ed Buck and Rachel Chandler.[6] Carlson argued that [[elon-musk|Elon Musk]]'s litigation against Media Matters could open the door to exposing not only media manipulation but government censorship, murder, child trafficking and election fraud.[6]
+
 ## References
 1. Badlands Brief — "As Expected Energy Wars, 'Life Insurance', & Crazies Keeping Their Guns (Maybe)", URL: https://badlands.substack.com/p/badlands-brief-52f
 2. Badlands Brief — "'X' Marks the Spot & Vineyard Mysteries Abound", URL: https://badlands.substack.com/p/badlands-news-brief-3f8
 3. Badlands Brief — "Israel Invades, MAGA Sues & Ports Close", URL: https://badlands.substack.com/p/badlands-news-brief-683
 4. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
+5. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+6. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

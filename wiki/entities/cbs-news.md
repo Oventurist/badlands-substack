@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, broadcast-news, legacy-media, lewiston]
-sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-df2.md]
+sources: [raw/badlands-news-brief-0db.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-481.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-df2.md, raw/dear-america-are-you-ready-to-do.md]
 confidence: medium
 ---
 
@@ -53,3 +53,9 @@ In a Truth Social post on Monday, April 14, 2025, [[donald-trump|President Donal
 Badlands commentary endorsed Trump's position, arguing that all of the CIA's alleged propaganda outlets should lose their broadcasting licenses for engaging in illegal psychological warfare operations against the American people, and calling for those involved to be tried and their activities disclosed.[5]
 
 5. Badlands Brief — "Badlands News Brief: Big Beautiful Bills & Saudi-Syrian Symbiosis", URL: https://badlands.substack.com/p/badlands-news-brief-df2
+
+## Report on the 101st Airborne deployment (2022)
+
+In October 2022 a CBS News report on the positioning of the [[101st-airborne-division|101st Airborne Division]] near [[ukraine|Ukraine]]'s border with the newly annexed [[russia|Russian Federation]] territories was circulated by [[jack-posobiec|Jack Posobiec]] on Truth Social and became the point of departure for [[brian-cates|Brian Cates]]'s [[badlands-media|Badlands Media]] column questioning whether Americans had consented to a ground war over Ukraine.[6] Unusually for Badlands treatment of the network, the CBS reporting itself was cited as straightforward evidence of the deployment rather than as narrative management.[6]
+
+6. Badlands Brief — "Dear America: Are You Ready To Do Your Global Duty And Send Your Child To Die For Ukraine?", URL: https://badlands.substack.com/p/dear-america-are-you-ready-to-do

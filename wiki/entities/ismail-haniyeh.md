@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hamas, middle-east, assassination, iran]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-a3c.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ee8.md, raw/cataclysmic-silence.md]
 confidence: medium
 ---
 
@@ -66,3 +66,10 @@ Haniyeh, described as [[hamas]]'s political leader, was among the five men for w
 6. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 7. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 8. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+9. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence
+
+## Role as negotiator
+
+Fox News correspondent [[trey-yingst|Trey Yingst]] described Haniyeh as the head negotiator for [[hamas|Hamas]], noting that his killing came days after CIA director [[william-burns|William Burns]] met Qatari and Egyptian negotiators in Rome amid hopes of an imminent ceasefire.[9] The Qatari prime minister, who had led much of the mediation, asked, "How can mediation succeed when one party assassinates the negotiator on the other side?"[9] Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that the [[assassination-of-ismail-haniyeh|assassination]] called into question whether ceasefire negotiations had ever been seriously on the table.[9]
+
+Haniyeh had long been a target: in the wake of the [[october-7-attacks|October 7 attacks]], [[israel|Israel]] announced it would attempt to assassinate the entirety of Hamas's political and military leadership.[9] DeLarme emphasized that what made the killing notable was its timing and its location — carried out in Tehran during the inauguration of the new Iranian president, an embarrassing security failure for [[iran|Iran]] that prompted [[ali-khamenei|Ayatollah Ali Khamenei]] to order direct retaliation against Israel.[9]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [politician, republican, israel, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f1d.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-1ab.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-575.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-788.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-af5.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b35.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-d45.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f1d.md, raw/believe-half-of-what-you-see.md, raw/did-israel-possess-foreknowledge.md]
 confidence: medium
 ---
 
@@ -125,6 +125,15 @@ On February 20, 2024, Haley vowed to remain in the Republican presidential prima
 
 Badlands contributor [[burning-bright|Burning Bright]] observed that most headlines and commentary around the February 2024 Michigan primaries had been relegated to the memetic quality of Haley's "continued political death spiral," distracting from what he saw as the more significant signal in the Democratic [[2024-michigan-democratic-primary|uncommitted protest vote]].[23]
 
+## Badlands commentary: "(MIC)y Haley"
+
+In the November 2023 essay "Believe Half of What You See," [[erik-carlson|Erik Carlson]] nicknamed Haley "(MIC)y Haley" — a reference to the [[military-industrial-complex|military industrial complex]] — arguing that she was perpetually pushing for war.[27] He wrote that Haley had pretended to support [[donald-trump|Donald Trump]] while he was president, likely hoping to draw him into a war, and that her subsequent campaign to replace him made her look like a backstabbing traitor.[27] Carlson speculated that Haley kept saying things conservatives did not want to hear as though she were being forced to expose the Neocon arm of the [[deep-state|Deep State]] and its plans, perhaps as penance under some arrangement, and that she did not appear to be genuinely trying to win the nomination.[27]
+
+
+## Rhetoric after October 7, 2023
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] grouped Haley with [[lindsey-graham|Lindsey Graham]] as United States neoconservatives whose calls to "flatten Gaza" and to "finish them" in the days after the [[october-7-attacks|October 7 attack]] stoked age-old animosity between [[israel|Israel]] and Palestine.[28] He argued that such rhetoric gave Israel a pretext to pursue long-planned expansion throughout the Middle East and echoed the crazed zeal that followed 9/11.[28]
+
 ## References
 
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
@@ -164,3 +173,5 @@ In October 2025 Haley's Catholic son, [[nalin-haley|Nalin Haley]], became a prom
 ## Debate boycott before the New Hampshire primary
 
 After finishing third in the January 2024 Iowa caucuses, Haley announced that she would not participate in any further primary debates unless [[donald-trump|Donald Trump]] joined them, a stance that contributed to the cancellation of both the [[cnn|CNN]] and [[abc-news|ABC News]]/WMUR debates planned before the New Hampshire primary.[25] "We've had five great debates in this campaign. Unfortunately, Donald Trump has ducked all of them," she wrote on X, adding: "He has nowhere left to hide. The next debate I do will either be with Donald Trump or with Joe Biden. I look forward to it."[25] CNN instead scheduled a town-hall event with Haley for that Thursday.[25]
+27. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see
+28. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge

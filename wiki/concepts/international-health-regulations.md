@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [who, public-health, sovereignty, international-law]
-sources: [raw/badlands-news-brief-b04.md, raw/badlands-news-brief-c50.md]
+sources: [raw/badlands-news-brief-b04.md, raw/badlands-news-brief-c50.md, raw/behold-a-trojan-horse.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Author and researcher [[james-roguski|James Roguski]] argued that the two propos
 
 Months earlier, in July 2023, [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] described the IHR amendments as the quieter second front of a three-part campaign for supranational emergency authority.[2] He wrote that while public attention was fixed on the proposed [[pandemic-treaty|Pandemic Treaty]], the amendment package was advanced in parallel and would put the [[world-health-organization|World Health Organization]] "in a position to supersede the governments of the world in the event of another pandemic," adding that the amendments were "starting to be exposed for what they are."[2] DeLarme grouped the effort with the [[united-nations|United Nations]] "emergency platform" proposal contained in the [[pact-for-the-future|Pact for the Future]] and slated for adoption at the [[summit-of-the-future|Summit of the Future]].[2]
 
+## Detailed provisions in "Behold, a Trojan Horse" (May 2023)
+
+A May 2023 Badlands Media article, "Behold, a Trojan Horse," argued the IHR amendments — which it said appeared more likely to be adopted than the parallel [[pandemic-treaty|pandemic treaty]] — posed the greater threat to sovereignty.[3] The piece reported that 307 IHR amendments had been proposed and that researcher [[james-roguski|James Roguski]] compiled a list of the top reasons to oppose them, including changing the WHO "from an advisory organization … to a governing body whose proclamations would be legally binding" (Articles 1 and 42); removing language preserving "respect for dignity, human rights and fundamental freedoms of people" (Article 3); giving the WHO authority to require medical examinations, proof of prophylaxis, proof of vaccine, and to implement contact tracing, quarantine and treatment (Article 18); instituting "a system of global health certificates in digital or paper format"; and empowering the WHO's Emergency Committee "to override decisions made by sovereign nations regarding health measures" (Article 43).[3] The article cited the [[brownstone-institute|Brownstone Institute]] warning the amendments would expand the definitions of pandemics and health emergencies to include "potential" rather than actual harm and would change IHR recommendations for states "from 'non-binding' to mandatory," and cited [[reclaim-the-net|Reclaim the Net]] reporting the WHO sought expanded surveillance powers requiring states to build "collaborative surveillance networks" and increased influence over targeting "misinformation" and "disinformation."[3] It further argued the amendments would grant the WHO Director-General, [[tedros-ghebreyesus|Tedros Ghebreyesus]], unilateral power to declare emergencies and "control over certain country resources."[3]
+
 ## References
 1. Badlands Brief — "China Joe Strikes Out & Trumpism on Trial", URL: https://badlands.substack.com/p/badlands-news-brief-b04
 2. Badlands Brief — "Badlands News Brief: The Cocaine White House, False Flags & Free Speech", URL: https://badlands.substack.com/p/badlands-news-brief-c50
+3. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse

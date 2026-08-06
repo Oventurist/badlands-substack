@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lobbying, israel, congress, foreign-influence]
-sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-d56.md]
+sources: [raw/badlands-news-brief-22b.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-d56.md, raw/cataclysmic-silence.md]
 confidence: medium
 ---
 
@@ -52,6 +52,11 @@ In the same week, a letter published as a full-page advertisement in the New Yor
 4. Badlands News Brief — "A Constellation of Corruption & A Goldilocks Galaxy", URL: https://badlands.substack.com/p/badlands-news-brief-a40
 5. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
 6. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+7. Badlands Brief — "Cataclysmic Silence", URL: https://badlands.substack.com/p/cataclysmic-silence
+
+## Capture of the American electoral system
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that the United States body politic and electoral system is as captured by the pro-Israel lobby as it has ever been, with the American Israel Public Affairs Committee spending tens of millions of dollars to fund supportive congressional election campaigns and to help unseat pro-Palestine candidates and officials.[7] On that basis he suggested that lip service to [[israel|Israel]] by figures such as [[donald-trump|Donald Trump]], [[joe-biden|Joe Biden]], and [[kamala-harris|Kamala Harris]] is an unavoidable reality of American politics, especially at the presidential level, and should not automatically be read as a reliable guide to how a given administration would actually handle escalation in the Middle East.[7]
 
 ## Campaign against Jamaal Bowman (2024)
 

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [michigan, governor, democrats, 2020-election, trump-administration]
-sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-eca.md]
+sources: [raw/badlands-news-brief-02a.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-6c1.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-eca.md, raw/badlands-news-brief-fa7.md]
 confidence: medium
 ---
 
@@ -73,3 +73,9 @@ In July 2023, The Gateway Pundit invoked Whitmer's record while criticizing a [[
 A report publicized in March 2023 found that Whitmer used federal pandemic relief money to create [[critical-race-theory|critical race theory]] and social justice courses for teachers.[10] She reportedly allotted $1.4 million in [[cares-act|CARES Act]] funds to the Michigan State University College of Education, the University of Michigan's School of Education, and Michigan Virtual to develop online social justice modules.[10] The [[department-of-education|U.S. Department of Education]]'s Office of Inspector General said in a report released in September 2022 that the state could not support the process it used to select those three providers, and that the program's purpose was to train teachers to implement professional learning standards developed by the Governor's Education Advisory Council.[10] Whitmer created that council in 2019, personally chose all fifteen of its members, and signed off on granting the money.[10]
 
 Badlands contributor [[absolutetruth1776|AbsoluteTruth1776]] described the finding as a "shocking non-surprise" and, citing the funding alongside the alleged kidnapping plot against her, her COVID-19 lockdowns and mandates, and Michigan's economic condition, argued she "may very well win the award for worst Governor in America."[10]
+
+## Appearance with Trump at Selfridge (April 2025)
+
+On Tuesday, April 29, 2025 Whitmer joined President [[donald-trump|Donald Trump]] and Defense Secretary [[pete-hegseth|Pete Hegseth]] at Selfridge Air National Guard Base in Michigan, where Trump touted the acquisition of 21 F-15EX Eagle II fighter jets before travelling on to a rally at Macomb Community College in Warren marking the first 100 days of his second term.[11] Badlands contributor [[ashe-in-america|Ashe in America]] noted that Whitmer appeared to be moderating and was now making public appearances alongside Trump, asking whether this represented an "ongoing humiliation ritual or shrew(d) political calculus."[11]
+
+11. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, justice-department, russiagate, privacy-act, mueller]
-sources: [raw/badlands-news-brief-4c5.md]
+sources: [raw/badlands-news-brief-4c5.md, raw/clowns-in-america.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ In July 2024, Page and Strzok reached settlements with the [[justice-department|
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
+
+## Texts about an Obama presidential daily briefing
+
+The August 2023 Badlands article "Clowns in America," citing PJ Media, reported that text messages between FBI counterintelligence agent [[peter-strzok|Peter Strzok]] and Page — an FBI lawyer described as his former mistress — show that Strzok and then-FBI Assistant Director William Priestap were concerned about sharing sensitive evidence with the departing [[barack-obama|Obama]] White House.[2] Other texts from the same day show the two discussing apparent drama over one of Obama's [[presidents-daily-brief|presidential daily briefings]], on the same day in April 2014 that Obama fired [[michael-flynn|Michael Flynn]] as head of the [[defense-intelligence-agency|Defense Intelligence Agency]].[2] The messages were not released by the FBI but were made available to John Solomon in September 2018.[2] Badlands writer [[joe-lange|Joe Lange]] read the timing as evidence that Flynn had set a trap for the Obama administration.[2]
+
+2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america

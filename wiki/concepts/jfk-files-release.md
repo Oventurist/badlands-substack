@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [declassification, jfk, transparency, executive-order]
-sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b0d.md]
+sources: [raw/badlands-news-brief-298.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-b0d.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -66,6 +66,14 @@ A parallel investigation reported that the release of more than 77,000 pages had
 
 [[badlands-media|Badlands]] contributor [[jon-herold|Jon Herold]] argued the release was never going to identify who actually killed Kennedy, and that what emerged instead was documentation of the behavior of the [[deep-state|deep state]] and how it remains relevant and prevalent today: "It never stopped."[6]
 
+## FBI discovery of 2,400 additional records (February 2025)
+
+Weeks before the March tranche, the [[fbi|FBI]] disclosed that it had discovered roughly 2,400 records tied to President [[john-f-kennedy|John F. Kennedy]]'s assassination that had never been provided to the board tasked with reviewing and disclosing the documents.[7] The still-secret records were contained in about 14,000 pages of material the Bureau found in a review triggered by President [[donald-trump|Donald Trump]]'s January 23, 2025 executive order demanding the release of all JFK assassination records.[7] The discovery came 61 years after Kennedy was killed in Dallas and followed decades of government reluctance to release all related documents, a reluctance that had fueled extensive conspiracy theorizing.[7] The existence of the newly found documents was disclosed to the [[white-house|White House]] that Friday, when the [[office-of-the-director-of-national-intelligence|Office of the Director of National Intelligence]] submitted its plan to disclose the assassination records under Trump's order.[7] The contents remained closely held; the three sources who relayed their existence to Axios said they had not seen the documents.[7]
+
+[[jefferson-morley|Jefferson Morley]], an assassination expert and vice president of the [[mary-ferrell-foundation|Mary Ferrell Foundation]] — the nation's largest online source of records on Kennedy's killing, and a litigant against the U.S. government for further disclosure — called the find significant: "This is huge. It shows the FBI is taking this seriously."[7]
+
+[[badlands-media|Badlands Media]] contributor [[paul-fleuret|Paul Fleuret]] described the JFK files as the topic that first drew him into the research community and expressed "cautious optimism" about the release, noting that [[kash-patel|Kash Patel]] and Ezra Watnick had both counseled the public not to expect much beyond what was already known.[7] He observed that it is "one of the worst kept secrets in history" that the [[central-intelligence-agency|CIA]] withheld files from the [[warren-commission|Warren Commission]] and the public, and that many researchers — himself included — had assumed those missing files were long since destroyed.[7] That the material apparently survived, and surfaced "as the rot is being ripped away from DC," led him to conclude that Patel and Watnick may have been offering "a bit of a head-fake" and that his optimism about the truth finally emerging had "risen significantly."[7]
+
 ## References
 1. Badlands News Brief — "Pirated Pardons & Delayed Declassifications", URL: https://badlands.substack.com/p/badlands-news-brief-298
 2. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
@@ -73,3 +81,4 @@ A parallel investigation reported that the release of more than 77,000 pages had
 4. Badlands Brief — "Badlands News Brief: Overexposed Engagement Farmers & Maple-Flavored Monarchs", URL: https://badlands.substack.com/p/badlands-news-brief-42b
 5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 6. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
+7. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

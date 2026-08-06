@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, info-war, commentary, badlands-brief]
-sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e40.md]
+sources: [raw/badlands-brief-2c0.md, raw/badlands-brief-686.md, raw/badlands-brief-861.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-12a.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-e40.md, raw/control-through-language.md]
 confidence: medium
 ---
 
@@ -125,6 +125,11 @@ In the June 24, 2025 Badlands News Brief, Chris Paul asked readers to recall the
 
 In the January 31, 2023 edition of the [[badlands-news-brief|Badlands News Brief]], Paul analyzed [[donald-trump|Donald Trump]]'s $50 million suit against [[bob-woodward|Bob Woodward]], [[simon-and-schuster|Simon & Schuster]] and [[paramount-global|Paramount Global]], writing that Woodward's team "changed [Trump's] words and the context" of them.[26] He questioned Woodward's reputation as the "best journalist ever," suggesting the standing held only among journalists working to take down duly elected presidents.[26] Paul argued that Woodward recorded Trump ostensibly to write a book and then doctored and sold the recordings, and that the most interesting part of the [[trump-v-woodward-lawsuit|lawsuit]] was the omitted conversation that, in his reading, totally refuted the basis for the Ukraine impeachment.[26] He expanded the argument in a Twitter thread linked from the brief.[26]
 
+
+## Departure from X (February 2024)
+
+In a February 5, 2024 Badlands Media essay, [[erik-carlson|Erik Carlson]] noted that Paul, whom he described as "a very smart and interesting guy on Badlands Media," had announced he was quitting Twitter ([[x-platform|X]]) for good.[27] Carlson wrote that Paul took heat for the decision from people arguing that patriots are called to remain on the "battlefield," citing [[qanon|Q]]'s June 24, 2020 Post 4510 instruction never to retreat from Twitter or Facebook.[27] Carlson sided with Paul, observing that no patriot-controlled platforms such as [[truth-social|Truth Social]] or [[rumble|Rumble]] existed in June 2020 and that [[elon-musk|Elon Musk]] did not then own the platform.[27]
+
 ## References
 
 1. Badlands Brief — "Southern Hospitality Superseded Plus Cross Burning", URL: https://badlands.substack.com/p/badlands-brief-2c0
@@ -153,3 +158,4 @@ In the January 31, 2023 edition of the [[badlands-news-brief|Badlands News Brief
 24. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 25. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
 26. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
+27. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [medicine, physicians, h-1b, immigration, healthcare-workforce]
-sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md]
+sources: [raw/badlands-news-brief-09b.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-df1.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ On 13 June 2023, *JAMA Network Open*, a journal published by the association, ca
 
 2. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
 3. Badlands Brief — "Surprise Grand Juries, Side Bar Sanctions, & the Emir's First Time", URL: https://badlands.substack.com/p/badlands-news-brief-df1
+
+## Alleged origins as a licensing gatekeeper
+
+In his December 2024 essay on the four pillars of government control, Badlands contributor [[erik-carlson|Erik Carlson]] presents the AMA as the final instrument in the Rockefeller family's capture of American medicine.[4] After funding medical schools and research through the [[rockefeller-institute-of-medical-research|Rockefeller Institute of Medical Research]] and shifting instruction away from natural remedies toward chemical-based treatments, he writes, one last hurdle remained — and so the American Medical Association was created.[4] Control of the association meant control over who became a licensed physician: practitioners who did not adhere to chemical-based treatment could not legally practice medicine, and doctors continuing the natural medicine that had been the norm for thousands of years were deemed "nutjobs."[4] Carlson characterizes the result as a healthcare system that profits from keeping Americans sick, and cites distrust of doctors and hospitals rising from 28.5% early in the COVID-19 pandemic to 59.9% less than four years later.[4]
+
+4. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

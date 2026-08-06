@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, finance, xai, kingdom-holding, saudi-purge]
-sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ The Badlands reading of this arrangement is that MBS is effectively deploying Al
 
 The Saudi prince was listed among the investors in X Holdings Corp. when a federal judge ordered [[x-corp|X]] to unseal its shareholder list in August 2024.[2] [[burning-bright|Burning Bright]] observed that Alwaleed has not been in control of his own assets since 2017, when they were seized by [[mohammed-bin-salman|Mohammed bin Salman]], whom Badlands identifies as a [[sovereign-alliance|Sovereign Alliance]] player.[2]
 
+## Alleged role as chief puppet master (Badlands analysis)
+
+Badlands contributor Joe Lange writes that [[qanon|Q]] identified [[saudi-arabia|Saudi Arabia]] as the largest of the cabal's puppet masters because it held the most money and control, but specifies that the operative figure was not the Saudi government: it was Prince Alwaleed, who was arrested in Saudi Arabia in 2017 along with hundreds of his allies in the royal family and government.[3] Removing the most powerful puppet master first accomplished two things in this account: it cut the strings of all his puppets and immediately made them more vulnerable, and it shut off the money supply that had sustained their power.[3] Lange asserts that Alwaleed controlled the [[central-intelligence-agency|CIA]] at the time, which made him [[donald-trump|Donald Trump]]'s single biggest threat upon taking office, and situates the Saudi purge as the first step in the sequence "SA -> NK. NK -> ARMENIA. ARMENIA -> Iran."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
 2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

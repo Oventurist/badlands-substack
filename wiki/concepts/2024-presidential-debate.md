@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [2024-election, biden, trump, media, deep-state]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b40.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-384.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-aac.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-fe3.md]
 confidence: medium
 ---
 
@@ -89,3 +89,11 @@ The [[supreme-court-of-the-united-states|Supreme Court]] effectively removed pre
 6. Badlands Brief — "Badlands News Brief: Wins at Home and Deals Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-aac
 7. Badlands Brief — "The Supreme Court Looms Over the First Debate", URL: https://badlands.substack.com/p/badlands-news-brief-b22
 8. Badlands Brief — "Badlands News Brief: Debates, Decisions and Disasters for the Deep State", URL: https://badlands.substack.com/p/badlands-news-brief-b40
+## Market and congressional fallout (September 11, 2024)
+
+On the morning after the September 10, 2024 debate between [[kamala-harris|Kamala Harris]] and [[donald-trump|Donald Trump]] in Philadelphia, major U.S. stock indexes plunged as investors reassessed the odds of a Harris presidency: the Dow fell more than 550 points (1.4 percent), the S&P 500 declined 1.1 percent and the Nasdaq Composite lost 0.70 percent.[9] Adding to the market's woes, the consumer price index showed core inflation — excluding food and energy — unexpectedly heating up in August at 0.3 percent against expectations of 0.2 percent, up from 0.2 percent in July, which caused traders to sharply discount the odds of a 50-basis-point [[federal-reserve|Federal Reserve]] rate cut the following week.[9]
+
+Harris repeatedly baited Trump over the more than 90-minute debate with attacks on the size of his rallies, his family fortune and world leaders "laughing" at him; several House Republicans told The Hill she had succeeded in getting under his skin and that the performance was "disappointing" and "not good."[9] Axios likewise judged that Trump "took Harris' bait throughout the evening," making rambling statements and personal attacks unlikely to appeal to moderate voters.[9] Harris's campaign called for a second debate immediately afterward, which Trump conditioned on "a fair network."[9]
+
+Badlands commentary dissented from the mainstream verdict: [[ashe-in-america|Ashe in America]] noted that the majority of commentary on X opposed the leading takes of the legacy media, while [[burning-bright|Burning Bright]] argued the debate itself was a humiliation ritual and that Trump had won it.[9] Shortly after the debate ended, [[taylor-swift|Taylor Swift]] endorsed Harris on Instagram.[9]
+9. Badlands Brief — "Kamalaflation, Sovereign Meetings & MAGA Joe?", URL: https://badlands.substack.com/p/badlands-news-brief-fe3

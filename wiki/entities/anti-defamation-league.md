@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, watchdog, censorship, advertising-pressure]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-9eb.md, raw/badlands-news-brief-132.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-b7b.md, raw/badlands-news-brief-f0b.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -62,6 +62,14 @@ Badlands contributor GhostofBasedPatrickHenry interpreted the letter as evidence
 
 In early September 2023 [[elon-musk|Elon Musk]] threatened to ban the ADL from [[x-corp|X]], formerly Twitter, saying he had "no choice" but to file a defamation lawsuit against the organization, which had earlier called for a pause on ad spending on the platform.[8] Musk blamed the group and allied activists for "most of X's revenue loss."[8] The ADL alleged that Musk had failed to clamp down on hate speech since his takeover of the platform in 2022, allowing disinformation to proliferate, a charge Musk strongly denied.[8] Reporting at the time also indicated that the ADL had pressured X to deplatform the anti-woke account [[libs-of-tiktok|Libs of TikTok]], run by conservative Jewish woman [[chaya-raichik|Chaya Raichik]].[8] Badlands writer [[burning-bright|Burning Bright]] characterized the ADL in this dispute as one of the censorious pillars of the [[deep-state|Deep State]]'s control apparatus.[8]
 
+## Role in the Ye cancellation and the Musk campaign (Badlands analysis, December 2023)
+
+A December 2023 Badlands Media essay by Erik Carlson identified the ADL as the organization that spearheaded the campaign to cancel [[kanye-west|Ye (Kanye West)]] following the [[white-lives-matter-t-shirt-controversy|White Lives Matter T-shirt controversy]] of October 2022, describing it as making an example of him for anyone else considering stepping out of line.[9] The essay characterized the ADL as "the lead sled dog of the 'woke' media," the body that determines what is offensive and who should be offended.[9]
+
+The same piece argued that the ADL later turned the same machinery on [[elon-musk|Elon Musk]].[9] It stated that after Musk's acquisition of [[twitter|Twitter]], the ADL communicated with the platform's advertisers, effectively threatening to direct activist pressure at any company that continued to advertise; Musk estimated that roughly 60 percent of Twitter's advertising revenue had been lost to this pressure.[9] The essay noted the ADL's more recent attacks on Musk over his agreement that mass illegal immigration harms America and his claim that the ADL promotes "anti-white" messaging, after which media outlets and the White House accused him of antisemitism.[9] It observed the irony that Musk, who a year earlier had judged Ye too toxic for his platform, was by late 2023 himself fighting the ADL.[9]
+
+Carlson's broader thesis was that the ADL is not primarily concerned with protecting Jewish people but is "100% Deep State," existing to advance [[deep-state|Deep State]] narratives.[9] By conspicuously shielding Jews from criticism, he argued, the organization generates a [[streisand-effect|Streisand Effect]] that amplifies the myth that Jews run the world, thereby diverting scrutiny from what he called the Cabal's real puppet masters.[9]
+
 ## References
 
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
@@ -72,3 +80,4 @@ In early September 2023 [[elon-musk|Elon Musk]] threatened to ban the ADL from [
 6. Badlands Brief — "Hate Groups, Slush Funds, & Shut Downs", URL: https://badlands.substack.com/p/badlands-news-brief-b53
 7. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
 8. Badlands Brief — "Badlands News Brief: Musk vs. the ADL, Truth Social's Future & More", URL: https://badlands.substack.com/p/badlands-news-brief-f0b
+9. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

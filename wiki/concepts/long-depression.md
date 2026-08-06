@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economic-history, deflation, gold-standard]
-sources: [raw/1913.md]
+sources: [raw/1913.md, raw/cracks-in-the-curtain.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ Bankers would call this period the Long Depression because the [[gold-standard|g
 
 The article argues the Long Depression was doing more damage to the rich and powerful than to citizens, and that they consequently needed something to permanently suppress the citizens — motivating the push by the [[populist-party|Populist Party]] and others for a federal income tax.[[1]](https://badlands.substack.com/p/1913)
 
+## As evidence against the gold standard
+
+A later Badlands Media essay by [[justin-deschamps|Justin Deschamps]] cites the Long Depression to the opposite purpose, treating it as evidence that the [[gold-standard|gold standard]] has itself been used and manipulated many times in history.[2] In that account, a de facto gold standard operated in Great Britain during the 18th century before being overturned by a bimetal standard of silver and gold; when silver was later fully demonetized, an official gold standard was implemented, and it was at that moment that the US economy experienced one of its worst depressions — the so-called Long Depression beginning in 1873.[2]
+
 ## References
 1. Badlands Brief — "1913: The Year the Cabal Enslaved America", URL: https://badlands.substack.com/p/1913
+2. Badlands Brief — "Cracks in the Curtain", URL: https://badlands.substack.com/p/cracks-in-the-curtain

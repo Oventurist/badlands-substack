@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, reconstruction, citizenship, civil-rights]
-sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md]
+sources: [raw/badlands-brief-686.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a0.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6d2.md, raw/badlands-news-brief-9bf.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-bfb.md, raw/do-we-have-a-contract-with-the-federal.md]
 confidence: medium
 ---
 
@@ -65,3 +65,11 @@ The [[supreme-court-of-the-united-states|U.S. Supreme Court]] had never ruled on
 6. Badlands Brief — "14th Time's the Charm to 'Get Trump?'", URL: https://badlands.substack.com/p/badlands-news-brief-9bf
 7. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 8. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
+
+## Dual citizenship and the Federal Reserve
+
+A March 2023 Badlands Media legal analysis built an argument about the reach of [[federal-reserve|the Federal Reserve]]'s corporate code on the Amendment's citizenship clause, which provides that "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States AND of the state wherein they reside."[9] The author read the conjunction as establishing that every American holds two classes of citizenship at once — federal and state.[9]
+
+From that premise the article argued that the federal government acts as the individual's [[agency-law|agent]] only in his capacity as a federal citizen, since it was the federal [[us-congress|Congress]] — not the legislature of New York or Massachusetts — that passed the Federal Reserve Act.[9] The [[jurisdiction]] of the Fed's corporate code therefore does not automatically extend to a person as a state citizen, but does apply to him as a federal citizen.[9] See [[state-citizenship]].
+
+9. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [free-speech, media, culture-war, employment]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-46e.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-096.md, raw/badlands-news-brief-46e.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -34,7 +34,14 @@ The May 2023 flashpoint was the demand that a scene be cut from [[monty-pythons-
 
 The January 2023 backlash against [[ivan-provorov|Ivan Provorov]], the [[philadelphia-flyers|Philadelphia Flyers]] defenseman who declined to wear an LGBT pride jersey on religious grounds, was cited by [[badlands-media|Badlands]] contributors [[johnny-q|Johnny Q]] and [[absolute-1776|Absolute1776]] as a case study in cancel culture attempting to silence dissenting voices.[3] They argued that public support for Provorov showed the silent majority becoming loud, and that the [[national-hockey-league|NHL]]'s refusal to fully capitulate placed it on the same slippery slope previously travelled by the NFL and MLB.[3]
 
+## Ye and Musk as sequential test cases (December 2023)
+
+A December 2023 Badlands Media essay by Erik Carlson used the year separating the cancellation of [[kanye-west|Ye (Kanye West)]] from the campaign against [[elon-musk|Elon Musk]] to argue that cancel culture functions as an enforcement mechanism rather than a spontaneous social reaction.[4] In this account the [[anti-defamation-league|Anti-Defamation League]] acts as arbiter of what is offensive and who should be offended, spearheading campaigns designed to make examples of high-profile targets and deter others from stepping out of line.[4]
+
+The essay observed that by early December 2022 essentially every individual and business had cut ties with Ye, that few defended his free speech rights, and that people who privately agreed with his claims kept silent rather than be cancelled alongside him.[4] It argued the mechanism had been used to keep both wings of the [[uniparty|Uniparty]] in lockstep.[4] Carlson also described the reflexive deployment of Nazi accusations as a debate-ending device applied to positions such as border security, America First, criticism of riots, and support for [[donald-trump|Donald Trump]].[4] By late 2023, he argued, the same machinery was being aimed at Musk over his statements on illegal immigration and on "anti-white" messaging, with manufactured outrage including performative threats to trade Teslas for Rivians.[4]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Badlands News Brief: Debt Ceiling, Cancel Culture & Incorruptibility", URL: https://badlands.substack.com/p/badlands-news-brief-096
 3. Badlands Brief — "Badlands News Brief: Globalist Rage, Biden Docs & Hockey Shenanigans", URL: https://badlands.substack.com/p/badlands-news-brief-46e
+4. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

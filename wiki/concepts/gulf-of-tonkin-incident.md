@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [vietnam-war, false-flag-operation, cia, state-department, cold-war]
-sources: [raw/badlands-news-brief-565.md]
+sources: [raw/badlands-news-brief-565.md, raw/clowns-in-america.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ The incident was recounted in June 2024 as part of an argument that Vietnam and 
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+
+## Badlands framing as a CIA operation
+
+In the August 2023 article "Clowns in America," [[joe-lange|Joe Lange]] asked whether anyone really believes the Gulf of Tonkin incident was not a [[central-intelligence-agency|CIA]] operation staged in order to trigger a war, concluding that it worked and the United States went to war.[2] In his account the motive was not the containment of communism but control of the opium supply of the [[golden-triangle|Golden Triangle]], which the [[french-connection|French Connection]] network had lost when France lost the Indochina war.[2] The resulting [[vietnam-war|Vietnam War]] is said to have put the United States into massive debt, increased the power of the military industrial complex, forced the country off the gold standard, and provided cover for the [[secret-war-in-laos|secret war in Laos]].[2]
+
+2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america

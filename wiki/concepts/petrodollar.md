@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [monetary-system, oil, dollar, brics, saudi-arabia]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md]
 confidence: medium
 ---
 
@@ -66,3 +66,11 @@ A June 2024 Badlands account traced the petrodollar's creation directly to the 1
 6. Badlands Brief — "Badlands News Brief: Globalists Cry, Trump Plots and the Saudis Hold Court", URL: https://badlands.substack.com/p/badlands-news-brief-e6c
 7. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 8. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+
+## "BRIC by BRIC" critique (August 2023)
+
+In August 2023, [[burning-bright|Burning Bright]] described the petrodollar as "little more than a zombified marionette" that corrupts the constitutional, gold- and silver-backed unit of exchange proposed by the Founding Fathers.[9] He argued its value had been "completely divorced from the means of production and GDP," resting instead on a forced, artificial market in which foreign nations must buy Saudi oil in U.S. dollars or face the [[military-industrial-complex|Military Industrial Complex]].[9] On this account the military and financial pillars of the system are mutually reinforcing, the war machine existing to subjugate nations that defy "the illusory might of the US Petrodollar."[9]
+
+He held that American patriots could root "against" the dollar without rooting against the nation, since the currency had been used both to erode the sovereignty of emerging nations abroad and the purchasing power of citizens at home.[9] He expected the transition to a gold- or commodities-backed system to be rough but "mercifully brief" — long enough for Americans to confront what had been taken from them, short enough to avert wholesale financial devastation and to furnish a public mandate for the successor system.[9]
+
+9. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric

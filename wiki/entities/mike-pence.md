@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vice-president, january-6, 2020-election, republicans]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-c5c.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
@@ -65,6 +65,14 @@ On Friday, July 14, 2023, former Fox News host [[tucker-carlson|Tucker Carlson]]
 
 [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] argued that figures such as Pence, Ron DeSantis and [[mike-pompeo|Mike Pompeo]] should be assessed through the lens of [[fifth-generation-warfare|Fifth-Generation warfare]] and the net effects of their narrative deployments rather than through isolated clips.[10] In his framing, Trump's first term exposed the DNC and the overtly corrupt political establishment, while the period he called the second term — the Biden administration — was largely about completing the destruction of the Old Guard and exposing the [[uniparty|Uniparty]] establishment in the lead-up to 2024, with figures like Pence advancing that exposure whether intentionally or not.[10]
 
+## "A storm is coming" (May 2023)
+
+In early May 2023, Pence appeared on [[fox-news|Fox News]] on a Thursday morning and warned anchor [[bill-hemmer|Bill Hemmer]] that "a storm is coming one week from today at the Southern Border," referring to an anticipated influx of illegal immigrants as thousands of migrants massed outside the U.S.–Mexico border awaiting the expiration of [[title-42|Title 42]].[11]
+
+Badlands commentator [[justin-deschamps|Justin Deschamps]] treated the phrasing as potentially significant beyond immigration policy.[11] He described Pence as perhaps the most reviled of [[donald-trump|Donald Trump]]'s one-time close associates, noting that Americans feel a deep sense of betrayal over his inaction in 2020, when many believe he could have acted to stop alleged election fraud but chose not to.[11] Deschamps also relayed the counter-theory that Pence was playing a part in a much larger operation whose aim extended beyond winning an election: that the fraud of 2020 had to be allowed through so the "sleeping giant" of the American public would rise from its slumber, an awakening Deschamps judged to be working but still in the "you've got to get mad as hell" phase.[11]
+
+Because followers of the Q material hold that the word "storm" carries meanings tied to [[the-storm|a broader takedown of the Deep State]], Deschamps asked whether Pence might be a candidate to deliver the long-anticipated declaration "My fellow Americans. The Storm is upon us." — a statement most had assumed would come from Trump, though the Q material is never specific about who would make it or when.[11]
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -76,3 +84,4 @@ On Friday, July 14, 2023, former Fox News host [[tucker-carlson|Tucker Carlson]]
 8. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
 9. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 10. Badlands Brief — "Hollywood Crumbles While the Uniparty Is Exposed", URL: https://badlands.substack.com/p/badlands-news-brief-c5c
+11. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [amazon, washington-post, big-tech, cia, trump]
-sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e98.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-db6.md, raw/badlands-news-brief-e98.md, raw/badlands-news-brief-fcd.md]
 confidence: medium
 ---
 
@@ -40,6 +40,10 @@ Bezos conceded the paper was failing the second requirement, wrote that "a victi
 He invoked Eugene Meyer, publisher of the Post from 1933 to 1946, as holding the same view, called ending endorsements a principled decision, and said he wished the change had been made earlier and further from the emotions of the election — attributing the timing to inadequate planning rather than intentional strategy.[5]
 Badlands writer [[burning-bright|Burning Bright]] read the essay as a self-described elite writing a thousand words to defend not interfering in an election, and situated it among a wave of op-eds reflecting elite panic at the loss of narrative control.[5]
 
+## Venice wedding (June 2025)
+
+In late June 2025 Bezos and [[lauren-sanchez|Lauren Sanchez]] held a multi-day wedding celebration in Venice attended by more than 200 socially and financially elevated guests, who moved between luxury accommodations and parties across the weekend, culminating in a retro-themed "pajama party" at the Arsenale on Saturday, June 28.[6] In April, when selecting Venice as the celebration's location, the couple set a 3-million-euro ($3.5 million) gift in motion to three Venetian charities while asking guests to forgo personal gifts.[6] Italy's tourism ministry estimated a 957-million-euro ($1.12 billion) benefit to the overall tourism economy.[6]
+
 ## References
 
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
@@ -55,3 +59,4 @@ The comments followed his October 2024 decision to bar the [[washington-post|Was
 Badlands contributor [[burning-bright|Burning Bright]] placed the remarks within what he had called [[hibernation-theory|Hibernation Theory]], the idea that the Deep State, having largely survived the first public-facing Trump administration, believed it could survive another.[4] He argued that figures like Bezos and [[mark-zuckerberg|Mark Zuckerberg]] — whom he did not regard as long-time sleepers in the mold of [[elon-musk|Elon Musk]] — appeared to be going further still, into wholesale narrative capitulation ahead of Trump 2.0, whether because their strings had been cut or because they were saving face.[4]
 4. Badlands Brief — "The Syrian Powder Keg Ignites as Russia Speaks Out", URL: https://badlands.substack.com/p/badlands-news-brief-db6
 5. Badlands Brief — "Badlands News Brief: The Media Machine Panics as Battle Lines Are Drawn", URL: https://badlands.substack.com/p/badlands-news-brief-e98
+6. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd

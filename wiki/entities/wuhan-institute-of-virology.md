@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [covid-19, china, lab-leak, virology]
-sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-f2b.md]
+sources: [raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-f2b.md, raw/behold-a-trojan-horse.md]
 confidence: medium
 ---
 
@@ -32,8 +32,14 @@ In June 2023 an ANI report circulated an interview in which a researcher from th
 
 Chao Shao said that he and his colleagues were given four strains of the virus to determine which could spread most effectively, and recounted that another researcher at the institute, Shan Chao, admitted their superior had supplied the strains so the team could test infectivity across various species, including humans.[4] Writing for [[badlands-media|Badlands Media]], [[burning-bright|Burning Bright]] said he did not know whether COVID-19 was an engineered bioweapon or a psychological operation built on an ordinary illness and guessed it was "a bit of both," while arguing that the lockdown-era governmental overreach was itself among the most traumatic events of recent decades.[4]
 
+## Role in "Behold, a Trojan Horse" (May 2023)
+
+A May 2023 Badlands Media article, "Behold, a Trojan Horse," noted that the [[ecohealth-alliance|EcoHealth Alliance]] funneled research dollars from the U.S. [[national-institute-of-allergy-and-infectious-diseases|National Institute of Allergy and Infectious Diseases (NIAID)]] to the Wuhan Institute of Virology for coronavirus research.[5] The article cited [[peter-daszak|Peter Daszak]] as having publicly boasted about manipulating a "killer SARS-like virus" at the institute, and argued that U.S.-funded labs such as WIV were potentially creating bioweapons — a danger the proposed [[pandemic-treaty|pandemic treaty]] and [[international-health-regulations|IHR amendments]] supposedly ignore.[5] The institute was cast as a key site in the alleged "Pandemic Virus Industrial Complex" driving the pandemic agenda.[5]
+
 ## References
+
 1. Badlands Brief — "Fauci Squirms, Pollsters Panic & Elections Erupt", URL: https://badlands.substack.com/p/badlands-news-brief-3e8
 2. Badlands Brief — "Badlands News Brief: MAHA, Modi, Musk, & Munich", URL: https://badlands.substack.com/p/badlands-news-brief-7b8
 3. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
 4. Badlands Brief — "Badlands News Brief: Trump Trolls, Biden Snaps & Ukraine Fails", URL: https://badlands.substack.com/p/badlands-news-brief-f2b
+5. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse

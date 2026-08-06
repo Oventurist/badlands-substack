@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, advocacy, x-corp, advertising, litigation]
-sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b92.md]
+sources: [raw/badlands-news-brief-65a.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-b52.md, raw/badlands-news-brief-b92.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -36,8 +36,15 @@ Musk framed the report as part of a pattern, saying X "has seen a number of atta
 
 [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] wrote that the announcement felt "particularly good for those who've been directly targeted by Media Matters," a group he said included many Anon accounts and collectives, Badlands Media among them, while conspicuously excluding "the Con Inc. brigade" of conservative influencers who never lost their blue checks.[4] He predicted that "the Wolves in Sheep's Clothing will be revealed, one Sorosian paycheck at a time."[4]
 
+## Badlands framing as a Deep State attack dog (December 2023)
+
+A December 2023 Badlands Media essay by Erik Carlson named Media Matters as the "lead attack dog" deployed against [[elon-musk|Elon Musk]].[5] The essay noted the organization was founded by [[david-brock|David Brock]] in 2004 and presented publicly as a watchdog monitoring conservative media for accountability, while arguing that in practice the Soros-funded group extinguishes conservative voices, promotes progressive "woke" narratives, and protects the [[deep-state|Deep State]] elite.[5]
+
+The piece further connected the organization to the [[pizzagate|Pizzagate]] milieu by noting that Brock's former long-term boyfriend was [[james-alefantis|James Alefantis]], owner of the Comet Ping Pong restaurant in Washington, D.C.[5] Carlson argued that Musk's litigation against Media Matters — see [[x-corp-v-media-matters|X Corp. v. Media Matters]] — could prove far larger than a media-manipulation dispute, opening doors to government censorship, murder, child trafficking and election fraud, and that for this reason the Cabal was "panicking like never before."[5]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Swamp Exposed & Proxies Disabled", URL: https://badlands.substack.com/p/badlands-news-brief-65a
 2. Badlands Brief — "Badlands News Brief: Trump Trolls, Soros Slithers & Flags Fly", URL: https://badlands.substack.com/p/badlands-news-brief-93d
 3. Badlands Brief — "Badlands News Brief: The Free Speech Battlefield Heats Up", URL: https://badlands.substack.com/p/badlands-news-brief-b52
 4. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
+5. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

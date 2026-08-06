@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, russia-ukraine-war, donetsk, battles]
-sources: [raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ea1.md, raw/exploiting-the-dead.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ The capture was Russia's most significant triumph since taking Bakhmut in May 20
 
 Badlands contributor [[burning-bright|Burning Bright]] framed the fall of the city as the proxy war's "grandest defeat yet" for globalist interests, arguing that it helped finalize a land bridge from eastern Russia to Crimea and consolidated Russian control over the territory Moscow had said it intended to annex, and noting that it came within days of the [[tucker-carlson|Tucker Carlson]] interview with [[vladimir-putin|Vladimir Putin]] and the death of [[alexei-navalny|Alexei Navalny]].[2]
 
+## Role in the U.S. aid debate
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] described the capture of Avdiivka as Russia's most significant victory in months and the biggest change in the frontline in half a year or more, valuable because it allowed Russian forces to cut Ukrainian supply lines.[3] He argued the fall of the city destroyed the mainstream media's framing of the war as a stalemate and undercut the charade that Ukraine could still win, at precisely the moment Western officials at the [[munich-security-conference|Munich Security Conference]] were pressing for the stalled $60 billion American aid package.[3] Politico reported that Avdiivka, a decade-long Ukrainian stronghold, fell over the weekend, giving the Kremlin its first major conquest since May, with Ukraine low on ammunition and infantry and its generals urging mobilisation of 500,000 more troops.[3]
+
 ## References
 1. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
 2. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+3. Badlands Media — "Exploiting the Dead", URL: https://badlands.substack.com/p/exploiting-the-dead

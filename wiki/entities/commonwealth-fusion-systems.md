@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, fusion, virginia, technology, nuclear]
-sources: [raw/badlands-news-brief-d36.md]
+sources: [raw/badlands-news-brief-d36.md, raw/badlands-news-brief-fcd.md]
 confidence: medium
 ---
 
@@ -28,5 +28,10 @@ By contrast, conventional light-water reactors generate electricity through stea
 
 Badlands writer [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] framed the project as a rebuke to what he characterized as decades of deliberate obstruction of Mid-Atlantic energy infrastructure, referencing the [[mountain-valley-pipeline|Mountain Valley Pipeline]] and the cancelled [[atlantic-coast-pipeline|Atlantic Coast Pipeline]], and calling the fusion plant "a huge middle finger to oligarchs like [[george-soros|George Soros]]."[1] [[burning-bright|Burning Bright]] was cited as having written extensively about emerging technologies expected to usher in a new epoch.[1]
 
+## Google offtake agreement (June 2025)
+
+In June 2025 [[google|Google]] announced a deal to buy 200 megawatts of [[fusion-power|fusion power]] from Commonwealth Fusion Systems, offtaking from the company's first commercial plant in Virginia, which is set to bring 400 megawatts of power online starting in the early 2030s.[2] Google framed the purchase as a response to the growing energy demands of artificial intelligence and its own sustainability targets.[2]
+
 ## References
 1. Badlands Brief — "Our Boy Blue, the Apprentice and the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-d36
+2. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd

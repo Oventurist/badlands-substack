@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [national-security, cold-war, deep-state, foreign-policy]
-sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md]
+sources: [raw/badlands-news-brief-1ae.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-e44.md, raw/badlands-news-brief-f14.md, raw/defeating-the-depopulation-agenda.md]
 confidence: medium
 ---
 
@@ -34,15 +34,22 @@ Badlands commentary in March 2025 invoked Brzezinski's 1998 book *The Grand Ches
 
 Badlands' July 2024 commentary described [[operation-cyclone|Operation Cyclone]] as Brzezinski's 1979 [[central-intelligence-agency|CIA]] plan to arm the mujahideen in Afghanistan against the Soviets, under which he recruited the Saudi national [[osama-bin-laden|Osama bin Laden]], provided him with the best available military training and weapons, and gave him the resources to build a network of fighters drawn from across the Middle East.[4] The article noted that Brzezinski is the father of broadcaster Mika Brzezinski and referenced a 1981 photograph of Brzezinski together with bin Laden.[4]
 
+## The Grand Chessboard and the Middle East
+
+Badlands commentary attributes much of the alleged NeoCon and globalist design for the Middle East to Brzezinski's 1998 book [[grand-chessboard|The Grand Chessboard]], which is described as laying out the region's future as the establishment envisioned it.[5] On that reading, the plan was to build Iran into a legitimate military power and then trigger a war between the Sunni and Shia branches of Islam, drawing in the United States, NATO, and Russia — a sequence characterized as "the recipe for World War 3."[5]
+
+The analysis stresses that Brzezinski explicitly identified a triumvirate alliance between Iran, Russia, and China as the single development that could defeat the plan, and stated that it must be prevented at all costs.[5] It also notes that neither [[mohammed-bin-salman|Mohammed bin Salman]] nor his father appears in the book, and that Saudi Arabia scarcely figures in its projected future at all — an omission presented as the reason MBS's rise upended the design.[5]
+
+## Between Two Ages and the technetronic elite
+
+[[matthew-ehret|Matthew Ehret]] calls Brzezinski the "neo-con whisperer" and a close friend of [[francis-fukuyama|Francis Fukuyama]], noting that he had defined the new technocratic elite two decades before the [[the-end-of-history|End of History]] thesis in his 1970 manifesto *Between Two Ages: America's Role in the Technetronic Age*.[6] There Brzezinski wrote that the coming era would see "the gradual appearance of a more controlled society," one "dominated by an elite, unrestrained by traditional values."[6]
+
+Asked whom these specialists would represent, Ehret answers from the book itself: "The nation-state as a fundamental unit of man's organized life has ceased to be the principal creative force: International banks and multi-national corporations are acting and planning in terms that are far in advance of the political concepts of the nation-state."[6] In Ehret's reading this post-nation-state "masterclass" operated through both left and right mainstream parties across the Trans-Atlantic, using "noble lies" and psychological warfare to keep populations fearful, ignorant and complacent.[6]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Playing the Opposite Game with Deep State Propaganda", URL: https://badlands.substack.com/p/badlands-news-brief-1ae
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
 3. Badlands News Brief — "Unearthed Autopens, Inevitable Ceasefires, & 56 Human Kidneys", URL: https://badlands.substack.com/p/badlands-news-brief-541
 4. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 5. Badlands Brief — "Badlands News Brief: Delays in Fake Justice & Signs of the Real Thing", URL: https://badlands.substack.com/p/badlands-news-brief-f14
-
-## The Grand Chessboard and the Middle East
-
-Badlands commentary attributes much of the alleged NeoCon and globalist design for the Middle East to Brzezinski's 1998 book [[grand-chessboard|The Grand Chessboard]], which is described as laying out the region's future as the establishment envisioned it.[5] On that reading, the plan was to build Iran into a legitimate military power and then trigger a war between the Sunni and Shia branches of Islam, drawing in the United States, NATO, and Russia — a sequence characterized as "the recipe for World War 3."[5]
-
-The analysis stresses that Brzezinski explicitly identified a triumvirate alliance between Iran, Russia, and China as the single development that could defeat the plan, and stated that it must be prevented at all costs.[5] It also notes that neither [[mohammed-bin-salman|Mohammed bin Salman]] nor his father appears in the book, and that Saudi Arabia scarcely figures in its projected future at all — an omission presented as the reason MBS's rise upended the design.[5]
+6. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda

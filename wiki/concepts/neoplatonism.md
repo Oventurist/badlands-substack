@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [philosophy, occult, religion, elites, history]
-sources: [raw/badlands-news-brief-023.md]
+sources: [raw/badlands-news-brief-023.md, raw/exploring-hermeticism.md]
 confidence: medium
 ---
 
@@ -28,5 +28,10 @@ The Neoplatonic worldview fit neatly with the aristocratic belief that monarchs 
 
 Deschamps traces the same current forward through [[sabbateanism|Sabbateanism]] and [[jacob-frank|Frankism]], the [[bavarian-illuminati|Bavarian Illuminati]], and ultimately into modern [[zionism|Zionism]] and the Christian factions that continue to fan the flames of crusade and conquest for Israel.[1]
 
+## Relationship to Hermeticism
+
+In Ryan DeLarme's February 2023 Badlands Media survey of [[hermeticism|Hermeticism]], Neoplatonism is named as one of the currents with which the Hermetic writings emerged in parallel during Late Antiquity, alongside early Christianity and [[gnosticism|Gnosticism]].[2] DeLarme also notes believed overlap between the Hermetic material and the Chaldaean Oracles and late Orphic and Pythagorean literature, situating Neoplatonism within the same syncretic Hellenistic-Egyptian milieu that produced the [[corpus-hermeticum|Corpus Hermeticum]].[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Chaos in the Middle East Overshadows That at Home", URL: https://badlands.substack.com/p/badlands-news-brief-023
+2. Badlands Brief — "Exploring Hermeticism", URL: https://badlands.substack.com/p/exploring-hermeticism

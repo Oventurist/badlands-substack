@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, central-banking, debt-system, cabal]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md]
 confidence: low
 ---
 
@@ -30,8 +30,15 @@ In February 2023 the family moved to take its flagship investment bank, [[rothsc
 
 Badlands contributor [[justin-deschamps|Justin Deschamps]] called the family "the fathers of the modern financial system," working hand-in-glove with the 19th-century modernized legal system, and argued that the same house that profited enormously from the Napoleonic-era transaction was unlikely to be sitting back while [[world-economic-forum|World Economic Forum]] globalists pushed the [[great-reset|Great Reset]].[4] He wrote that the world uses Rothschild methods — that they are "the architects of bank, trade, and finance" and formulated the asset-management systems used by [[blackrock|BlackRock]] and [[vanguard-group|Vanguard]] — while conceding there was little concrete to interpret beyond the firm's warning that 2023 would be "a more challenging year given the macroeconomic and geopolitical environment."[4]
 
+## As archetype of financial parasitism
+
+In the February 2023 essay "Cracks in the Curtain," [[justin-deschamps|Justin Deschamps]] presents the Rothschilds as the leading illustration of a distorted money system, describing them as the banking families of Europe who have accumulated incalculable amounts of wealth, with some estimates in the trillions.[5] Their banks and law firms, he writes, went on to become the blueprint for the entire global financial system, still in use to this day.[5]
+
+The argument is that the primary purpose of [[money|money]] — helping an advanced society measure work and resource contribution — has been so thoroughly distorted over the centuries that some people need not work much at all to thrive, most conspicuously in abstract financial industries where almost nothing is produced yet the proportion of money paid out is astronomical.[5] While conceding that such families do contribute something, Deschamps holds that the share of benefits they receive from society as a whole is equally astronomical, and calls this a huge red flag for those seeking to restore freedom and prosperity.[5] He concludes that the people with the most influence over society have become parasites when they should instead be the most altruistic, and identifies charities and well-crafted media campaigns as the guise of philanthropy through which such elites advance their agenda.[5]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
 3. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 4. Badlands Brief — "Badlands News Brief: State of Confusion, Kamala Mayhem & Boiled Eggs", URL: https://badlands.substack.com/p/badlands-news-brief-547
+5. Badlands Brief — "Cracks in the Curtain", URL: https://badlands.substack.com/p/cracks-in-the-curtain

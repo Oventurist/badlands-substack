@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [economics, multipolarity, nationalization, reshoring, badlands-framework]
-sources: [raw/badlands-news-brief-6e6.md]
+sources: [raw/badlands-news-brief-6e6.md, raw/bric-by-bric.md]
 confidence: low
 ---
 
@@ -26,3 +26,9 @@ The "actuals" of the Good Reset are presented as necessary, but the accompanying
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+
+## Earlier usage: reversing the Hegelian trend
+
+The term predates the 2025 economic framing. In his August 2023 essay "BRIC by BRIC," [[burning-bright|Burning Bright]] used "the 'Good' Reset" to name what he described as the turning of [[hegelian-dialectic|Hegelian]] narrative techniques back against their originators, citing a longer treatment published at his own Burning Bright Substack.[2] In that usage the Good Reset is primarily a narrative and psychological inversion — the recapture of storytelling power in the [[war-of-stories|War of Stories]] — of which the economic and monetary transition away from the [[petrodollar|petrodollar]] is one expression.[2]
+
+2. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [justice, doj, hunter-biden, donald-trump, narrative]
-sources: [raw/badlands-news-brief-d24.md]
+sources: [raw/badlands-news-brief-d24.md, raw/celebrating-15-years-of-indictments.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ The second item was the setting of an August 14, 2023 court date in [[donald-tru
 
 Polling was cited in support: a Harvard/Harris survey finding 55% of likely voters believed the Trump indictment was politically motivated and 56% that it amounted to 2024 election interference, and a CNN poll finding 71% believed it at least partly politically motivated.[1]
 
+## Incentives as the root cause
+
+A January 2024 Badlands Brief essay by [[patriots-in-progress|Patriots in Progress]] posed the two-tier system as a set of open questions: why so-called justice is administered disproportionately in favor of the protected tier, why it is sometimes administered against people who committed no wrongdoing, how the system can pursue the 45th President of the United States absent proof of wrongdoing, and how it avoids acting against the 46th where the author asserts proof exists.[2] The author summarized the condition as a "banana republic."[2]
+
+Rather than treating lies and selective prosecution as the problem itself, the essay applied causal-analysis techniques — cause-and-effect diagrams, fishbone analysis and the five-why method — to argue that exposure of wrongdoing addresses only symptoms, while the root cause is the incentive structure created by the ability to create currency.[2] Citing 1 Timothy 6:10 on the love of money as a root of all kinds of evil, it argued that unlimited purchasing power is what allows the protected tier to conceal corruption and evade accountability, and that removing that capacity through [[bitcoin|Bitcoin]] constitutes the only durable remedy.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Hunter's Slap & Trump's Trap", URL: https://badlands.substack.com/p/badlands-news-brief-d24
+2. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments

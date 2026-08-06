@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [globalism, great-reset, institutions]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/dark-equation.md]
 confidence: low
 ---
 
@@ -187,3 +187,19 @@ At the January 2023 Davos meeting, the WEF faced internal dissent: current and f
 25. Badlands News Brief — "Big Pharma, Big Lies and Big Boomerangs", URL: https://badlands.substack.com/p/badlands-news-brief-a61
 26. Badlands Brief — "Badlands News Brief: Lake and Abbott Take a Stand as Haley Falls", URL: https://badlands.substack.com/p/badlands-news-brief-b19
 27. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+
+## Malthusian origins and the Great Narrative Project
+
+[[matthew-ehret|Matthew Ehret]] argues that the Forum absorbed the [[club-of-rome|Club of Rome]]'s 1968 neo-Malthusian computer models — used to justify supposedly fixed [[limits-to-growth|limits to humanity's growth]] — during its 1973 event, at which the [[davos-manifesto|Davos Manifesto]] outlining [[klaus-schwab|Klaus Schwab]]'s notions of [[stakeholder-capitalism|stakeholder capitalism]] was crafted.[28] In this account the Forum thereby institutionalized the closed-system economics of the [[british-east-india-company|British East India Company]] economists [[john-stuart-mill|J. S. Mill]] and [[david-ricardo|David Ricardo]], refuted a century earlier by [[henry-c-carey|Henry C. Carey]].[28]
+
+Ehret also identifies [[yuval-noah-harari|Yuval Noah Harari]] as "a leading figure of the WEF Great Narrative Project", describing the Forum's [[transhumanism|transhumanist]] gospel of new technology-based religions emerging from Silicon Valley and an emergent "high caste" of "golden collar Davos elites" presiding over a global [[useless-eaters|useless class]].[28] He contrasts this unipolar vision of stasis with [[vladimir-putin|Vladimir Putin]]'s call for sovereign states to set the rules of a [[multipolar-world-order|multipolar]] order.[28]
+
+28. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
+
+## Bilderberg, AI and biometric identity
+
+The Badlands Media article "Dark Equation" describes a pipeline in which machinations born in the closed-door meetings of the [[bilderberg|Bilderberg Group]] are presented in a more public-facing way at the World Economic Forum in Davos the following year.[29] WEF President [[borge-brende|Børge Brende]] attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon.[29]
+
+[[ryan-delarme|Ryan DeLarme]] wrote that the "globalist Davos crowd" has been repeatedly open about what it would like to impose on civilization: AI-powered biometric digital identities, digital currencies, and the transhuman integration of the Internet-of-Things into human bodies.[29] He identified [[sam-altman|Sam Altman]]'s [[worldcoin|Worldcoin]] as a continuation of a push by the United Nations, the World Economic Forum and a growing number of governments toward a global biometric identification system attached to a [[central-bank-digital-currency|central bank digital currency]].[29]
+
+29. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [philanthropy, dark-money, ngos, bill-gates]
-sources: [raw/badlands-news-brief-5d5.md]
+sources: [raw/badlands-news-brief-5d5.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ In late June 2025 the foundation decided to stop funding grants to nonprofits th
 
 Badlands contributor [[burning-bright|Burning Bright]] treated the severance as a "shatterpoint" in a wider convergence of corruption narratives, describing Arabella as a dark-money network funneling billions into leftist political operations and asserting that over $450 million had flowed through such channels since 2008.[1] The commentary framed Gates' "strategic pivot" as a response to escalating investigations, and linked it to what it called a pre-planned exposure sequence encompassing NGO infiltration, dark money, and the 2025 dismantling of USAID.[1]
 
+## Funding of PolitiFact
+
+Badlands Media has separately cited the foundation's role in launching the fact-checking apparatus. When [[politifact|PolitiFact]] was first started in 2015, it was funded by the Gates Foundation to the tune of $382,997.[2] Contributor [[simon-esler|Simon Esler]] presented this grant as a tangible microcosm of how a [[fifth-generation-warfare|fifth-generation warfare]] psychological operation is run — a small, studiable ecosystem in which a philanthropic funder underwrites the fact-checking mechanism that then suppresses disfavored stories such as [[pizzagate|Pizzagate]] — while noting that the full-scale operation was much larger and more sophisticated.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Comedown Ops & Southbound Warships", URL: https://badlands.substack.com/p/badlands-news-brief-5d5
+2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep

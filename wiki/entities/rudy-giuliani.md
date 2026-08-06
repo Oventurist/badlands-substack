@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republicans, regime-change, iran, commentary]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-cc9.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-cc9.md, raw/disinformation-is-necessary.md]
 confidence: medium
 ---
 
@@ -62,3 +62,15 @@ On the evening of August 30, 2025, Giuliani, then 81, was severely injured in a 
 On 26 September 2023, [[hunter-biden|Hunter Biden]] sued Giuliani in the U.S. District Court for the Central District of California, alleging that Giuliani had violated his privacy rights by illegally disseminating data taken from his laptop.[7] The complaint calls Giuliani "primarily responsible" for the "total annihilation" of Biden's digital privacy and names his former attorney [[robert-costello|Robert Costello]] as a co-defendant.[7] Biden's lawyers characterised the defendants' conduct as hacking, tampering with and disseminating data taken from his devices, and disputed that the material came from a "laptop" at all, describing it instead as an "external drive."[7] Badlands writer [[burning-bright|Burning Bright]] argued the suit represented a shifting of the goalposts, in that Hunter Biden was now conceding the data existed while contesting how it was obtained.[7] See [[hunter-biden-v-giuliani|Hunter Biden v. Giuliani]].[7]
 
 7. Badlands Brief — "Badlands News Brief: Hunter Sues, Ukraine Backpedals & Big Mike Preps", URL: https://badlands.substack.com/p/badlands-news-brief-cc9
+
+## Joining the Trump legal team (2018)
+
+Giuliani joined the legal team representing [[donald-trump|President Trump]] in the Russia investigation in April 2018, a hire confirmed by attorney Jay Sekulow, who said Giuliani would be accompanied by former federal prosecutors Jane Serene Raskin and Marty Raskin.[8] Giuliani told The Washington Post he wanted to help the president "negotiate an end" to the investigation into Russian interference in the 2016 election, adding that he had "high regard for the president and for Bob Mueller."[8]
+
+[[joe-lange|Joe Lange]] argues Giuliani had been deliberately held back until that moment. Q drop 1180, posted the same day he joined, read: "Rudy. NYC. Relationships High. 'Insurance File.' Quiet until now. Join POTUS' legal team. Direct discussions avail [now] w/ MUELLER."[8] The companion drop 1181 added, "We have everything. How can we use what we know? How do you 'legally' inject/make public/use as evidence?"[8] Lange contends Giuliani's deep relationships within the New York legal system gave him access to non-public material — including evidence bearing on [[robert-mueller|Robert Mueller]]'s role in the [[uranium-one-deal|Uranium One]] cover-up drawn from the [[anthony-weiner|Weiner]]–[[huma-abedin|Abedin]] laptop trove, material gathered in Ukraine, and evidence from the Hunter Biden laptop.[8]
+
+Q drop 1273 (April 25, 2018) noted that "Rudy met w/ MUELLER today" and asked whether this marked the "End of POTUS investigation?" while other investigations continued.[8] Two days later Q drop 1286 recorded that [[james-comey|Comey]], [[rod-rosenstein|Rosenstein]] and Mueller had each told Trump he was not a criminal target.[8] Q drop 1370 asked why "RUDY recently join[ed] POTUS' legal team after being 'quiet' for so long" and what "must be cleaned first."[8]
+
+Giuliani was himself under investigation by the [[southern-district-of-new-york|SDNY]] under [[geoffrey-berman|Geoffrey Berman]], publicly framed as an inquiry into Ukraine lobbying violations.[8] Lange argues the real jeopardy lay with [[tony-podesta|Tony Podesta]] and the [[podesta-group|Podesta Group]], and notes that despite reported grand jury activity Giuliani was never charged — evidence, in his reading, that the SDNY inquiry was a legal conduit for introducing the "insurance file" into ongoing criminal investigations.[8] These claims reflect Badlands Media interpretation rather than established fact.
+
+8. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary

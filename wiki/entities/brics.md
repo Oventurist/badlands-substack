@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/brics-vs-the-wef.md, raw/chips-and-dips.md, raw/empires-enigma.md]
 confidence: medium
 ---
 
@@ -151,3 +151,35 @@ Speaking at a meeting of the bloc's foreign ministers in Nizhny Novgorod, Russia
 Badlands contributor [[ashe-in-america|Ashe in America]] linked the announcement to the [[2024-european-parliament-elections|2024 European Parliament elections]] held days earlier, arguing that BRICS was enabling national sovereignty at precisely the moment Europeans were demanding it, and that the use of local currency exchange and blockchain pointed to a prioritization of diplomacy over dominance.[19] She noted that as of 2023 BRICS accounted for 32% of global GDP against a little more than 24% for the United States in 2022, calling the coalition formidable against Western global dominance and the news a reinforcement of an inevitable [[multipolar-world|multipolar world]] with a reasonable execution framework.[19]
 20. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 21. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+
+## "BRIC by BRIC" (August 2023)
+
+In an August 29, 2023 feature titled "BRIC by BRIC: Emergence of the Multi-Polar World," [[burning-bright|Burning Bright]] argued that the [[2023-brics-johannesburg-summit|Johannesburg summit]] was seismic on both a Narrative and an "Actual" level, even though the widely rumored gold-backed currency was not announced.[22] He described BRICS — Brazil, Russia, India, China, South Africa and a large field of emerging applicants — as a forum for international trade, settlement and cooperation whose early iterations amounted to a "soft, whispered challenge to the Western Hegemon," but whose recent meetings had "thrown down the gauntlet."[22]
+
+He held that the summit's most consequential outcome was the announced inclusion of [[saudi-arabia|Saudi Arabia]] and other Persian Gulf nations, an accession long rumored whose effects he expected to be first mass-psychological and later material.[22] With Saudi entry, he claimed, BRICS would control more than 60% of global energy markets.[22] Citing figures for the bloc's rivalry with the [[g7|G7]], he framed rooting for a BRICS power bloc not as a betrayal of American values but as an extolling of sovereignty, freedom and liberty, arguing that competition is a virtue in any genuinely free market and that Western framing of BRICS as inherently threatening "gives away the Narrative game."[22]
+
+22. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric
+
+## "BRICS vs. The WEF" (September 2024)
+
+In a September 5, 2024 feature, [[matthew-ehret|Matthew Ehret]] addressed the claim that the BRICS states are controlled opposition secretly aligned with the [[world-economic-forum|World Economic Forum]].[23] The suspicion, he wrote, arises from the February 4, 2022 Joint Declaration signed by [[xi-jinping|Xi Jinping]] and [[vladimir-putin|Vladimir Putin]] on "International Relations Entering a New Era and the Global Sustainable Development," whose invocation of sustainable development and world economic order caused many western readers to conclude the Eurasian powers were "just as rotten as the creatures navigating the liberal Borg order from their high pedestals at Davos."[23]
+
+Ehret's answer was that two diametrically opposed concepts underlie the word "sustainability": a western version rooted in [[malthusianism|Malthusian]] scarcity and depopulation, and a Eurasian version defined by expanding energy throughput, water infrastructure and industrial capacity.[23] As evidence he pointed to China and India's sabotage of the [[2009-copenhagen-climate-summit|2009 Copenhagen climate summit]], China's construction of the world's first fourth-generation pebble bed reactor in Shandong in December 2021, plans for at least 150 new reactors in fifteen years, India's 23 operating reactors with 12 more planned, Russia's 19 reactors built between 2012 and 2021 (15 of them abroad), the $64 billion [[south-north-water-transfer-project|South-North Water Transfer Project]], and the [[belt-and-road-initiative|Belt and Road Initiative]].[23]
+
+He contrasted energy trajectories directly: US national energy production fell from 26,545 TWh in 2000 to 25,825 TWh in 2021, while China's rose from 12,470 TWh to 43,791 TWh over the same interval, with Chinese life expectancy rising from 44 years in 1963 to 77.5 and overtaking a US figure that had fallen to 76.1 by September 2022.[23] China's middle class grew from 3% of the population in 2000 to 54%, and its purchasing power parity surpassed that of the United States.[23]
+
+Ehret concluded that the multipolar operating system is "incompatible with the ancient formula for depopulation, war and stupidification used by oligarchy's for thousands of years," and previewed a follow-up comparing NAFTA and the European Union with the Eurasian Economic Union, the Regional Comprehensive Economic Partnership, BRICS, the SCO, CELAC and the African Union.[23]
+
+23. Badlands Brief — "BRICS vs. The WEF", URL: https://badlands.substack.com/p/brics-vs-the-wef
+
+## "CHIPS and Dips" (December 2022)
+
+Writing in December 2022, [[burning-bright|Burning Bright]] listed the continued strengthening of BRICS — which he characterized as a sovereign and free trade alliance — among the developments indicating that a [[multipolar-world-order|multipolar world order]] was being forged from the ashes of the globalist system.[24] He identified [[xi-jinping|Xi Jinping]] as a founding and central figure of the bloc alongside [[vladimir-putin|Vladimir Putin]] of Russia, [[jair-bolsonaro|Jair Bolsonaro]] of "politically-embattled" Brazil and [[narendra-modi|Narendra Modi]] of India, which he called a growing production powerhouse.[24] The foundation being laid, he wrote, was for a world order built on the individuality, sovereignty and nationalist strength of each nation, serving itself first by trading with others to mutual benefit rather than by the designs of centralized collectivist oligarchs.[24]
+
+24. Badlands Brief — "CHIPS and Dips", URL: https://badlands.substack.com/p/chips-and-dips
+
+## Globalist opposition as evidence of value (December 2022)
+
+In the China series feature "Empire's Enigma," [[burning-bright|Burning Bright]] argued that the mainstream turn against [[xi-jinping|Xi Jinping]] and China was indicative of a larger BRICS-opposed play by globalists, leading him to conclude that BRICS "is very much in the interest of sovereigns the world over."[25] He tied the bloc's prospects to Xi's stated intention of joining [[vladimir-putin|Vladimir Putin]] in ushering in a multipolar international order to replace a Western hegemony the piece describes as damaging to Chinese, Russian and American citizens alike while enriching the oligarchies of all lands.[25]
+
+25. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma

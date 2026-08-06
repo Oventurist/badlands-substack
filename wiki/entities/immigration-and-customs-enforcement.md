@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ice, immigration, enforcement, trafficking, sanctuary-jurisdictions]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d7a.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-dbd.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-094.md, raw/badlands-brief-165.md, raw/badlands-brief-144.md, raw/badlands-brief-b38.md, raw/badlands-brief-b82.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-321.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d7a.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-dbd.md, raw/badlands-news-brief-fa1.md]
 confidence: medium
 ---
 
@@ -229,12 +229,17 @@ Badlands host [[jordan-sather|Jordan Sather]] noted that ICE was averaging about
 35. Badlands Brief — "Badlands News Brief: Communist Cozenage & A Dictatorial Dmitry", URL: https://badlands.substack.com/p/badlands-news-brief-d7a
 36. Badlands Brief — "Badlands News Brief: Defamation, Deportation & Deals, Deals, Deals", URL: https://badlands.substack.com/p/badlands-news-brief-d74
 37. Badlands Brief — "Badlands News Brief: Destination Deportations, Alligator Alcatraz, & WWIII Gets Rugged", URL: https://badlands.substack.com/p/badlands-news-brief-dbd
+38. Badlands Brief — "Badlands News Brief: Evacuations, Election Theft, & Eternal War", URL: https://badlands.substack.com/p/badlands-news-brief-fa1
 
 ## School protocols ahead of the second Trump term (January 2025)
 
 In the weeks before [[donald-trump|Donald Trump]]'s second inauguration, New York City and other school districts prepared educators and immigrant families for a potential wave of deportations by ICE.[36] New York City principals were instructed that if immigration agents arrived at a public school they should ask the officers to wait outside and call a school district lawyer.[36] The system had enrolled roughly 40,000 recent immigrant students since 2022, and in a December 2024 letter to principals the district's chief operating officer, Emma Vadehra, wrote, "We hope using this protocol will never be necessary."[36]
 
 Badlands contributor [[ashe-in-america|Ashe in America]] characterized the coverage as "emotional blackmail," arguing that children are used to tug heartstrings, that Americans are not at fault for unlawful entry, and that forgiveness of the trespass does not require enabling criminal conduct or displacing those waiting lawfully in line — concluding that appeals to emotion of this kind would intensify and should be resisted.[36]
+
+## Omaha meat plant raid (June 2025)
+
+On June 10, 2025, ICE agents raided the Glenn Valley Foods processing plant in Omaha, Nebraska, arresting up to 80 illegal immigrants said to be working under fake IDs.[38] Footage showed three bystanders outside the plant blocking a tinted black ICE van loaded with detainees; the agent driving continued toward them, the trio refused to move while filming, and they were struck before jumping onto the hood, which halted the van and threw them off.[38] "You f***ing ran me over," one of the men told the agent in video captured by the Flatwater Free Press.[38] The incident is detailed at [[glenn-valley-foods-ice-raid|the Glenn Valley Foods ICE raid]].[38]
 
 ## "Alligator Alcatraz" detention proposal (June 2025)
 

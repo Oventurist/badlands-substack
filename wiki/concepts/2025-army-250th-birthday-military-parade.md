@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [military-parade, washington-dc, us-army, secret-service, trump]
-sources: [raw/badlands-news-brief-574.md, raw/badlands-news-brief-69d.md]
+sources: [raw/badlands-news-brief-574.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-fa1.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ Additional [[badlands-media|Badlands Media]] commentary described the day as one
 
 [[burning-bright|Burning Bright]] argued that Trump was not taking a premature victory lap because he believed the fight was won, but because he knew the outcome was coming — "on the back of the very deployments and First Principles, America First tactics the enemy is doubling down on opposing."[1] The commentary framed the parade as Trump drawing a line of demarcation between the past and the future, a line the commentator said had actually been drawn when Trump descended the golden escalator years earlier, with the public and the opposition both having already chosen sides.[1] Burning Bright tied the moment to his "Acceleratia" long-form series, describing opponents as entering "the final rings of Acceleratia" and wishing they could go back.[1]
 
+## Veterans Affairs invitation
+
+Ahead of the event, the Department of Veterans Affairs announced that veterans and the public in the National Capital Region were invited to attend a free festival and parade marking 250 years of the [[united-states-army|United States Army]] serving and defending the American people, with a livestream broadcast available nationally.[3] The Army hosted events throughout June in honor of its June 14, 1775 founding, culminating in the national birthday celebration on June 14 in Washington, D.C.[3] The celebration was held on the National Mall and featured a wreath-laying ceremony at Arlington National Cemetery, live music, a parade, fireworks, and appearances by senior military leaders and veterans; at 2:50 p.m. ET citizens across the country were encouraged to join a national moment of recognition reflecting on the Army's legacy.[3]
+
+Badlands contributor [[burning-bright|Burning Bright]] remarked that [[donald-trump|Donald Trump]] is infamous for strong rhetoric but that his messaging around the anniversary "might take the cake," adding that if one believes he is part of a much larger plan and that the country faces a multi-dimensional, generational insurgency, his warlike posture "makes all the sense in the world."[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Mandatory Deprogramming & Military Parades", URL: https://badlands.substack.com/p/badlands-news-brief-574
 2. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
+3. Badlands Brief — "Badlands News Brief: Evacuations, Election Theft, & Eternal War", URL: https://badlands.substack.com/p/badlands-news-brief-fa1

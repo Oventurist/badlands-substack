@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, border-security, trafficking, funding]
-sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-029.md, raw/badlands-brief-165.md, raw/badlands-brief-323.md, raw/badlands-brief-4ec.md, raw/badlands-brief-52f.md, raw/badlands-brief-5a2.md, raw/badlands-brief-7bf.md, raw/badlands-brief-861.md, raw/badlands-brief-990.md, raw/badlands-brief-c07.md, raw/badlands-brief-e9e.md, raw/badlands-brief-e87.md, raw/badlands-brief-e3b.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-158.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-889.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-d56.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -201,3 +201,9 @@ The firings came on top of hundreds of more general cuts that had begun across D
 
 28. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
 29. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+
+## Reported border luggage service (May 2023)
+
+In May 2023 [[real-americas-voice|Real America's Voice]] correspondent [[ben-bergquam|Ben Bergquam]] reported from Yuma, Arizona that [[us-border-patrol|Border Patrol]] agents operating under DHS were retrieving tagged bags belonging to illegal border crossers and delivering them onward, a practice [[steve-bannon|Steve Bannon]] characterized as an "illegal alien concierge service."[30] [[the-gateway-pundit|The Gateway Pundit]] framed the account as evidence that the department was providing concierge treatment to migrants, and [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] argued the practice showed limited resources being diverted from national security, following earlier reports of taxpayer-funded cell phones and immigration court dates scheduled in the 2030s.[30]
+
+30. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

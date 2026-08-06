@@ -3,8 +3,8 @@ title: Mike Waltz
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
-tags: [national-security, trump-administration, israel, first-amendment]
-sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ee6.md]
+tags: [national-security, trump-administration, israel, first-amendment, ukraine]
+sources: [raw/badlands-brief-58d.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-688.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-fa7.md]
 confidence: medium
 ---
 
@@ -53,6 +53,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] repor
 
 In early May 2025 Waltz, then national security advisor, was photographed using [[telemessage|TeleMessage]] — an Israel-founded modified version of [[signal|Signal]] that archives messages for compliance purposes — during a Cabinet meeting.[7] Days later the app's operator, Smarsh, temporarily suspended all TeleMessage services after a reported hack disclosed by 404 Media; the reporting indicated the hacker had not obtained the messages of Waltz or his interlocutors, but the incident raised questions about the security of an app widely used by senior government officials.[7]
 
+## Remarks on Ukrainian corruption (April 2025)
+
+In a Monday interview with [[fox-news|Fox News]] in late April 2025, Waltz — then serving as U.S. National Security Adviser — called for proper oversight of the financial assistance Washington provides to Kiev and described [[ukraine|Ukraine]] as one of the most corrupt nations in the world.[8] "I will say Ukraine was one of, and is one of, the most corrupt countries in the world," he said, stressing that Washington has to "always guard the taxpayer dollars."[8] He also rebuked the administration of [[donald-trump|Trump]]'s predecessor for failing to provide proper oversight of how Kiev spent the aid it received.[8] The [[us-congress|U.S. Congress]] had authorized roughly $175 billion for Ukraine since 2022, although a significant portion of that funding went to American industries and government activities related to the conflict.[8] His comments came days after Trump held a face-to-face conversation with [[volodymyr-zelensky|Vladimir Zelensky]] on the sidelines of Pope Francis' funeral at the Vatican.[8]
+
+Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read the remark as Waltz having "shiv'd all of his establishment Republican colleagues in the back," agreeing that Ukraine ranks among the most corrupt countries in the world and arguing that the Uniparty establishment in Washington used that corruption to launder and steal billions of dollars from the American people.[8] The commentary cited [[pentagon|Pentagon]] Inspector General [[robert-storch|Robert Storch]]'s report of the previous November that "corruption continues to complicate Ukraine's efforts to achieve its EU and NATO aspirations," particularly because of multiple scandals in the Defense Ministry, and called for an investigation of every member of Congress with financial ties to Ukraine — especially those who voted to send hundreds of billions of dollars there.[8]
+
 ## References
 1. Badlands Brief — "White Knuckling Weaponized Government", URL: https://badlands.substack.com/p/badlands-brief-58d
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -61,3 +67,4 @@ In early May 2025 Waltz, then national security advisor, was photographed using 
 5. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 6. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 7. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
+8. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7

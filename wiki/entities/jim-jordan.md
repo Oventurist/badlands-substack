@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, house-judiciary, oversight, jack-smith]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-ddb.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-fa4.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-152.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-505.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-6f0.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-79c.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-a7b.md, raw/badlands-news-brief-b1d.md, raw/badlands-news-brief-bcc.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-ff6.md]
 confidence: medium
 ---
 
@@ -173,3 +173,9 @@ Badlands writer [[ashe-in-america|Ashe in America]] observed that the FBI was pr
 Separately in March 2025, spokespeople for Jordan and Speaker [[mike-johnson|Mike Johnson]] did not immediately respond to requests for comment on which committees would lead Johnson's announced congressional probe into attacks on [[tesla|Tesla]].[29]
 
 29. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
+
+## 2023 Speaker candidacy
+
+During the October 2023 speakership contest, Jordan was the candidate of MAGA-aligned populists and enjoyed the robust endorsement of former President [[donald-trump|Donald Trump]].[30] Championed as a "fighter" by his proponents, he was praised for his unyielding stance against opposition and his dedication to disrupting Washington's established order, with supporters presenting his leadership as symbolizing an assertive, defiant GOP unafraid of unbridled confrontation.[30] Mainstream Senate Republicans by contrast favored Majority Leader [[steve-scalise|Steve Scalise]].[30]
+
+30. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6

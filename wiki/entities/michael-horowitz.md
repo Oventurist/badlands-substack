@@ -22,6 +22,10 @@ The article stresses that the Inspector General's office is independent, that an
 
 In May 2024 Horowitz, as Justice Department watchdog, revealed in a letter to Deputy Attorney General [[lisa-monaco|Lisa Monaco]] that the [[fbi|FBI]] lacks protections for whistleblowers who claim they are being sidelined in retaliation for going to Congress.[2] An inspector general's report released that Tuesday found that the bureau had sidelined dozens of whistleblowers by suspending their security clearances for more than a year — despite a top bureau official having denied such retaliation in closed-door depositions before Congress.[2] Horowitz's five-page missive noted that the bureau provided no avenues for whistleblowers to retain employment while their clearances were under review.[2]
 
+## Work alongside John Huber
+
+"Do You Believe in Coincidences?" recounts that Attorney General [[jeff-sessions|Jeff Sessions]] tasked Horowitz, as Inspector General, to work with special prosecutor [[john-huber|John Huber]] following Huber's unannounced appointment in November 2017, covering the [[carter-page-fisa-warrants|Carter Page FISA]] applications, Uranium One, the Clinton Foundation and Hillary Clinton's private email server.[3] Q material quoted in the piece notes that the Office of the Inspector General was tasked with reviewing declassification requests to determine what counted as sensitive information, and that Acting Attorney General [[matthew-whitaker|Matthew Whitaker]] approved the release of classified documents to the House "in conjunction with OIG."[3]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Badlands News Brief: Debates Set, Funding Found & NGO's Defied", URL: https://badlands.substack.com/p/badlands-news-brief-384

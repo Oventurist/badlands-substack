@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [platform, free-speech, video, censorship, 5gw]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f94.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-brief-a1a.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5b2.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7b1.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-a29.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-ca1.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md]
 confidence: medium
 ---
 
@@ -70,6 +70,11 @@ Rumble chief executive [[chris-pavlovski|Chris Pavlovski]] occupied the "new med
 
 As the Online Safety Bill cleared the UK Parliament in September 2023, Rumble publicly rejected a request from the British government that it deplatform Russell Brand, who was then being targeted by state media and government officials.[14] Badlands contributor Ryan DeLarme cited the company's emphatic refusal as a counterpoint to an expanding censorship regime in Britain and the United States ahead of the 2024 election season.[14]
 
+
+## Erik Carlson on patriot-controlled platforms (February 2024)
+
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] cited Rumble alongside [[truth-social|Truth Social]] as patriot-controlled platforms that did not exist when [[qanon|Q]] posted on June 24, 2020, "Never retreat from the battlefield (Twitter, FB, etc.)" — a point he used to argue that the instruction no longer binds users to [[x-platform|X]].[15] He concluded that community effort should be directed toward building up Truth Social and Rumble rather than arguing on X.[15]
+
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
@@ -94,3 +99,4 @@ In February 2025 the U.S. District Court for the Middle District of Florida rule
 
 13. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
 14. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+15. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language

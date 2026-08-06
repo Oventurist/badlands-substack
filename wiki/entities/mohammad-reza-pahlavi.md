@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, monarchy, oil, cia, revolution]
-sources: [raw/badlands-news-brief-24e.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md]
 confidence: medium
 ---
 
@@ -24,3 +24,8 @@ According to [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], the Shah had
 
 ## References
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
+
+## Carlson's account
+
+[[erik-carlson|Erik Carlson]], writing for [[badlands-media|Badlands Media]] in July 2023, described the Shah as the CIA-, US- and British-friendly leader installed in place of [[mohammad-mosaddegh|Mohammad Mossadegh]] at British request after Mossadegh nationalized Iranian oil and expelled British Petroleum.[2] In this account the [[1953-iranian-coup|coup]] that put him in power was headed by [[kermit-roosevelt-jr|Kermit Roosevelt Jr.]], Mossadegh was tried for treason and placed under house arrest, and the Shah ruled for 26 years before being ousted during the [[iranian-revolution|Iranian Revolution]] of 1979, after which the anti-American Ayatollah [[ruhollah-khomeini|Khomeini]] was eventually put into power.[2] Carlson treated the 26 years of the Shah's rule as the period of overt [[central-intelligence-agency|CIA]] control of [[iran|Iran]], arguing that the agency's subsequent refusal to retake the country by force — despite the pretext offered by the [[iran-hostage-crisis|hostage crisis]] — shows it had found a contrived enemy more useful than a client.[2]
+2. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran

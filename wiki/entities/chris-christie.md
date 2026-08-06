@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republican-party, new-jersey, trump-transition]
-sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-b83.md]
+sources: [raw/badlands-news-brief-110.md, raw/badlands-news-brief-49d.md, raw/badlands-news-brief-b83.md, raw/believe-half-of-what-you-see.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Christie launched his 2024 presidential campaign in New Hampshire on June 6, 202
 
 Badlands writer [[ashe-in-america|Ashe in America]] mocked the exchange as "the most ridiculous story of the week," describing Christie as claiming victim status over his weight and noting that he had won the New Jersey governorship in 2010 by adopting a bull-in-a-china-shop persona.[3] She catalogued his record of scandals — Bridgegate, "Beachgate," and his reputation as "The Absent Governor" for spending more than half the year outside New Jersey — and cited a Monmouth University poll showing him less popular in the presidential race than [[nikki-haley|Nikki Haley]].[3] Ashe characterized the launch as the second recent campaign rollout that felt like a Hail Mary from the outset, arguing that those launching such campaigns were "talentless swamp creatures" and that, with [[ron-desantis|Ron DeSantis]] faltering the same week, more Americans were waking up to Trump's inevitability in 2024.[3]
 
+## Badlands commentary on the 2023 debates
+
+In the November 2023 essay "Believe Half of What You See," Badlands Media contributor [[erik-carlson|Erik Carlson]] singled out Christie as emblematic of what he called the clown show of the Republican primary debates, writing that Christie appeared to believe he had a shot at the presidency despite being, in Carlson's phrase, less popular than cancer, and that he continued showing up to publicly humiliate himself on stage.[4] Carlson mocked Christie's weight at length and argued he could not fill [[donald-trump|Donald Trump]]'s shoes.[4]
+
 ## References
 1. Badlands Brief — "RON! Throws in the Towel as Globalists Panic", URL: https://badlands.substack.com/p/badlands-news-brief-110
 2. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 3. Badlands Brief — "Trump Indicted ... AGAIN! ... & Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-b83
+4. Badlands Brief — "Believe Half of What You See", URL: https://badlands.substack.com/p/believe-half-of-what-you-see

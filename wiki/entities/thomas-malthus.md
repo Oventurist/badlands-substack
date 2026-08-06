@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, malthusianism, climate, population, history]
-sources: [raw/badlands-news-brief-52f.md]
+sources: [raw/badlands-news-brief-52f.md, raw/combating-the-transhumanist-religion.md, raw/defeating-the-depopulation-agenda.md]
 confidence: medium
 ---
 
@@ -18,5 +18,21 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[ghostofbasedpatric
 
 According to this reading, the "disciples of Malthus" created a lie of artificial scarcity in order to frighten society into abandoning that spirit, with the "climate crisis" representing the most draconian expression of the project.[1] The piece linked Malthusian thinking directly to the [[network-of-central-banks-and-supervisors-for-greening-the-financial-system|NGFS]] and to figures it labeled the "Four Horsemen of the Climate Cult" — [[maurice-strong|Maurice Strong]], [[henry-kissinger|Henry Kissinger]], [[klaus-schwab|Klaus Schwab]], and [[zbigniew-brzezinski|Zbigniew Brzezinski]].[1]
 
+## Carey's refutation and the American answer
+
+In a November 2025 essay, [[matthew-ehret|Matthew Ehret]] recounted how [[abraham-lincoln|Abraham Lincoln]]'s economic advisor [[henry-c-carey|Henry C. Carey]] refuted the Malthusian system in *Unity of Law* (1872).[2] Carey wrote that Malthus had assumed cultivation always commenced on the richest soils and that rising numbers must force recourse to inferior soils with steadily diminishing returns to labor; [[david-ricardo|David Ricardo]] then built the landlord's rising rent share on that premise, and [[john-stuart-mill|J. S. Mill]] pronounced the resulting [[law-of-diminishing-returns|law of diminishing returns]] "the most important proposition in political economy".[2] The effect, Carey argued, was to present the growing inequality of the people of England as "a great law established by the Creator for government of the human race", making the subjection of the masses appear a necessary result of divine institutions.[2]
+
+Carey demonstrated instead that technological progress made unproductive lands more productive and that the power to support life increased in a non-zero-sum system of mutual cooperation.[2] Ehret notes that the same closed-system premises later fed the [[club-of-rome|Club of Rome]]'s 1968 [[limits-to-growth|limits-to-growth]] revival and, through the 1973 [[davos-manifesto|Davos Manifesto]], the [[world-economic-forum|World Economic Forum]].[2]
+
+[[john-f-kennedy|John F. Kennedy]] took aim at what Ehret calls "the virus of Thomas Malthus" in his 1961 speech to the American Academy of Sciences, saying that Malthus's claim that man would forever press on the limits of subsistence expressed "not a law of nature, but merely the limitation then of scientific and social wisdom."[2] Ehret argues the material record vindicates the anti-Malthusians: world population rose from one billion in 1800 to nearly eight billion, and US life expectancy from about 40 years to 78.[2]
+
+## The 1799 Essay and its heirs
+
+[[matthew-ehret|Matthew Ehret]] describes Malthus as the figure whose ideology, popularized on behalf of the British Empire, was adopted by the self-styled "neo-Malthusians" of the [[club-of-rome|Club of Rome]], the [[world-wildlife-fund|WWF]] and the [[1001-nature-trust|1001 Club]].[3] Malthus' 1799 *Essay on the Principle of Population* pessimistically observed that human population grows geometrically while food production grows arithmetically, leading invariably to a crisis point of over-population — a crisis point that supplied the mathematical foundation for the concept later dubbed "carrying capacity" by the authors of [[limits-to-growth|*Limits to Growth*]].[3]
+
+Rather than permit populations to develop their minds and make the discoveries and inventions that would offset that crisis point, Ehret writes, Malthus and his heirs knew the British Empire which employed him could never exist were that creative power unleashed, and so he coldly advocated the elimination of the "unfit to make way for the more fit."[3] Not adept at the subtleties of modern newspeak, Malthus went so far as to propose that all children born beyond what would be required to keep the population at a desired level "must necessarily perish, unless room be made for them by the deaths of grown persons," and that society should facilitate rather than impede the operations of nature in producing this mortality.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+2. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
+3. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda

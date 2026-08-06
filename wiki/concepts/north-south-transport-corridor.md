@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [trade, infrastructure, iran, russia, geopolitics]
-sources: [raw/badlands-brief-e9a.md, raw/badlands-brief-ec9.md]
+sources: [raw/badlands-brief-e9a.md, raw/badlands-brief-ec9.md, raw/brics-vs-the-wef.md]
 confidence: medium
 ---
 
@@ -24,6 +24,13 @@ The final piece needed to complete the corridor is the [[rasht-astara-railway|Ra
 
 Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that President [[donald-trump|Donald Trump]]'s announcement of the [[trump-route-for-international-peace-and-prosperity|Trump Route for International Peace and Prosperity]] through [[armenia|Armenia]] — promising American energy companies access "from Central Asia all the way to the United States" — amounted to signaling that the US intends to join the NSTC.[2] The likely tie-in point would be [[kazakhstan|Kazakhstan]], site of a previously announced $4 billion US railroad equipment deal, connecting across eastern Russia to Alaska.[2] Related developments included the restoration of Baku–Tbilisi passenger rail service between Azerbaijan and Georgia after its COVID-era suspension, and [[china|China]]'s launch of a new container rail corridor linking Kazakhstan, Uzbekistan, China, and Afghanistan.[2] The cumulative effect, the analysis held, is the assembly of the largest transportation system in the world across the Eurasian landmass, with Trump aligning himself with Putin and [[xi-jinping|Xi Jinping]] against the Paris-based [[suez-company|Suez Company]] and its [[city-of-london|City of London]] affiliates.[2]
 
+## Route and synergy with the BRI
+
+A September 2024 analysis by [[matthew-ehret|Matthew Ehret]] describes the International North-South Transport Corridor (INSTC) as running from Russia through Azerbaijan, Armenia and Iran to India, with an additional eastern extension stretching from Russia through Kazakhstan, Turkmenistan and Kyrgyzstan into Iran and India.[3] Once goods from Russia reach Iran by either the western or eastern branch, they can be delivered to markets in India, South Asia and East Africa through the Indian Ocean ports of Chabahar and Bandar Abbas.[3]
+
+Contrary to the claims of some Atlantic Council-affiliated analysts, Ehret argues the east–west [[belt-and-road-initiative|Belt and Road]] corridors and the north–south INSTC are highly synergistic and united in a grand strategic outlook for Eurasian growth and integration in a post-zero-sum world order.[3] He credits this category of programme with empowering sovereign nations against privatized central banks, raising living standards, increasing abundance rather than scarcity, and replacing divide-and-conquer imperial strategy with peaceful cooperation.[3]
+
 ## References
 1. Badlands Brief — "Bessent's Bounty Hunters and Olympic Phallacies", URL: https://badlands.substack.com/p/badlands-brief-e9a
 2. Badlands Brief — "Carefree Midterms, Space Networks, & Turned Tables", URL: https://badlands.substack.com/p/badlands-brief-ec9
+3. Badlands Brief — "BRICS vs. The WEF", URL: https://badlands.substack.com/p/brics-vs-the-wef

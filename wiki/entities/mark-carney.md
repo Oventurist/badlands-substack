@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, banking, green-finance, goldman-sachs, city-of-london]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-dca.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-brief-02a.md, raw/badlands-brief-05f.md, raw/badlands-brief-1ce.md, raw/badlands-brief-311.md, raw/badlands-brief-3d4.md, raw/badlands-brief-314.md, raw/badlands-brief-577.md, raw/badlands-brief-a84.md, raw/badlands-brief-db7.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-5a3.md, raw/badlands-news-brief-719.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-dca.md, raw/canadas-transition-to-collectivist.md, raw/defeating-the-depopulation-agenda.md]
 confidence: medium
 ---
 
@@ -149,6 +149,22 @@ Carney said a call between Ottawa and the [[white-house|White House]] was expect
 
 Badlands contributor [[burning-bright|Burning Bright]] called Carney's response a "pitiful tariff temper tantrum" demonstrating Trump's control over the battlespace, arguing that by embracing economic decoupling and lionizing Canadian sovereignty Carney was boosting nationalism rather than undermining it.[22]
 
+## Ehret's account of Carney's pedigree (October 2024)
+
+Writing in October 2024, [[matthew-ehret|Matthew Ehret]] treated the positioning of the former Bank of England chair as the replacement for the "beleaguered tool" [[justin-trudeau|Justin Trudeau]] — via his appointment as chairman of Canada's new Taskforce for Economic Growth — as a reminder of the role British Canada has played as an anti-republican hub in world affairs for generations.[23] Ehret called Carney the spiritual heir of [[maurice-strong|Maurice Strong]] and the [[round-table-movement|Round Table Movement]], being set up to take control of Canada.[23]
+
+Ehret quoted the *National Post*'s Peter Foster, who wrote that "Since the advent of the COVID pandemic, Carney has been front and centre in the promotion of a political agenda known as the 'Great Reset,' or the 'Green New Deal,' or 'Building Back Better,'" all of which are "predicated on the claim that COVID, and its disruption of the global economy, provides a once-in-a-lifetime opportunity not just to regulate climate, but to frame a more fair, more diverse, more inclusive, more safe and more woke world."[23]
+
+In Ehret's summary, Carney is "one of the most important insiders and mascots for the oligarchy," serving as UN Special Envoy for Climate Action and Finance, former [[goldman-sachs|Goldman Sachs]] investment banker, [[world-economic-forum|World Economic Forum]] trustee alongside fellow Oxford trainee [[chrystia-freeland|Chrystia Freeland]], former governor of the [[bank-of-canada|Bank of Canada]] and then the [[bank-of-england|Bank of England]], and chair of the [[financial-stability-board|Financial Stability Board]] from 2011 to 2018, where he is said to have overseen the growth of the derivatives time bomb designed to take down the trans-Atlantic financial system in a future controlled detonation.[23] Carney was also made president of [[chatham-house|Chatham House]], the Royal Institute for International Affairs, whose American branch was established in 1921 as the [[council-on-foreign-relations|Council on Foreign Relations]].[23]
+
+### Green finance vehicles
+
+Ehret notes that Carney endorsed the Financial Stability Board's [[task-force-on-climate-related-financial-disclosures|Task Force on Climate Related Financial Disclosures]], created in 2015 and used as the guideline for the UK government's July 2019 white paper *Green Finance Strategy: Transforming Finance for a Greener Future*, which aimed to consolidate the UK's position as a global hub for green finance "endorsed by institutions representing $118 trillion of assets globally."[23] The same task force spawned the Green Finance Initiative in 2016, a vehicle for diverting international capital flows into green tech.[23] Under the influence of Carney and [[king-charles-iii|King Charles]], the Bank of England and allied City of London banks promoted [[green-bonds|green bonds]] to redirect pension plans and mutual funds into green projects, and Carney has said that over 6.5 trillion euros could be mobilized under the [[esg|Ecological, Social, Governance Index]].[23]
+
+## Eco-warrior central banking
+
+[[matthew-ehret|Matthew Ehret]] groups Carney with [[mario-draghi|Mario Draghi]] as "eco-warrior central bankers" and anti-human technocrats who began plans to rewire the entire world economy around a program of total depopulation centred on Green New Deals and decarbonization.[24] Ehret argues this program ignores that CO2 is plant food and that the carbon molecule is the driving force behind life on earth, and situates Carney's climate finance work within the [[gaia-cult|Gaia cult]] and the wider [[depopulation-agenda|depopulation agenda]] descended from the [[club-of-rome|Club of Rome]].[24]
+
 ## References
 
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
@@ -173,3 +189,5 @@ Badlands contributor [[burning-bright|Burning Bright]] called Carney's response 
 20. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 21. Badlands Brief — "Badlands News Brief: Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 22. Badlands Brief — "Elise UNnominated, 41% Frauds, & Escalating Canadian Conflicts", URL: https://badlands.substack.com/p/badlands-news-brief-dca
+23. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
+24. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda

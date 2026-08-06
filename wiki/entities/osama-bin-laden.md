@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [al-qaeda, cia, 9-11, stand-down]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-news-brief-e44.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-news-brief-e44.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ Bin Laden remained untouchable, the article contends, until [[barack-obama|Barac
 
 Badlands' July 2024 commentary held that [[al-qaeda|Al Qaeda]] was a product of [[operation-cyclone|Operation Cyclone]], the 1979 [[central-intelligence-agency|CIA]] program devised by [[zbigniew-brzezinski|Zbigniew Brzezinski]] to arm the Afghan mujahideen against the Soviets, through which bin Laden — a Saudi national — was recruited, trained, armed and resourced to build a transnational fighter network.[2] It cited a 1981 photograph of Brzezinski and bin Laden together, and noted that when bin Laden formed his group in 1988 — the same year Hamas was founded — he named it after the CIA base where the fighters had trained, Al Qaeda being Arabic for "The Base."[2]
 
+## Resurfacing of the "Letter to America" (November 2023)
+
+Badlands Media's December 2023 essay "From Ye to Oy Vey!" noted that a 21-year-old paper attributed to bin Laden, critical of the United States and Israel, resurfaced during the Israel–Hamas conflict, went viral, and was scrubbed from the internet within roughly a day.[3] The author asked why the document should surface at that particular moment and concluded it was likely intended to add fuel to the fire.[3]
+
+The essay restated the Badlands view of bin Laden as a CIA-created boogeyman, noted that the bin Laden family were close friends of the Bush family, and that the bin Ladens were the only civilians permitted to fly out of the United States immediately after the [[september-11-attacks|September 11 attacks]] that bin Laden was alleged to have orchestrated.[3] It further asserted that the "CIA-created" [[barack-obama|Barack Obama]] had bin Laden killed and his body thrown into the ocean shortly before Obama's second election.[3]
+
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+3. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

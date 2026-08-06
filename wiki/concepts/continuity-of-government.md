@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [continuity-of-government, devolution, national-security, badlands-media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-d17.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-148.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -40,6 +40,18 @@ A second Badlands Media schedule post, published January 3, 2023 to open the 202
 
 Commenting on the May 2023 expiration of [[title-42|Title 42]], [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] cited the Continuity of Government thesis to explain why the [[joe-biden|Biden]] administration appeared to be strengthening rather than dismantling Trump-era border restrictions.[5] He acknowledged that those who believe such a plan is in place are accused of "hopium" in light of what he called the Regime's destructive agenda, but argued it is possible to hold a rational conviction of the former while acknowledging, tracking and preparing for the latter — summarizing the posture with the warning that an enemy in a "Death Spiral" will still produce a "Death Blossom" on the way down.[5]
 
+## COG as a framework for prosecuting corruption
+
+A December 2024 Badlands feature, "Biden, Inc. Flips," described COG as central to an ongoing operation against entrenched corruption.[6] It noted that the protocols were originally designed during the Cold War to preserve government functions during a nuclear attack, and argued that they have since evolved into a framework for addressing national crises more broadly, including institutional collapse and systemic corruption.[6]
+
+Three aspects were emphasized. Under **transition to military oversight**, COG is said to enable military leadership to assume control of critical functions when civilian institutions are compromised, keeping investigations, intelligence gathering, and judicial processes unimpeded.[6] Under **securing national stability**, COG is described as a stabilizing force that leverages surveillance networks and rapid-response teams to maintain governance during crisis.[6] Under **bypassing corruption**, civilian courts and agencies said to be infiltrated by the [[deep-state|Deep State]] are circumvented in favor of [[military-tribunals|military tribunals]] operating under the [[uniform-code-of-military-justice|Uniform Code of Military Justice]].[6]
+
+### Executive orders as legal infrastructure
+
+The same feature argued that COG is not a theoretical construct but an active operational framework underpinned by a series of executive orders signed by [[donald-trump|Donald Trump]] and subsequently renewed or maintained by [[joe-biden|Joe Biden]].[6] It cited [[executive-order-13818|EO 13818]] on human-rights abuse and corruption sanctions, [[executive-order-13848|EO 13848]] on foreign election interference, [[executive-order-13959|EO 13959]] on securities investments financing Chinese military companies, [[executive-order-13919|EO 13919]] delegating [[defense-production-act|Defense Production Act]] authority, and [[executive-order-13737|EO 13737]] concerning Antiquities Act revocations.[6] Their functions were grouped as exposing financial corruption, targeting adversarial influence, establishing military preparedness, and preserving continuity amid crises.[6]
+
+The author treated Biden’s quiet renewal of EO 13818 and EO 13848 in particular as significant, reasoning that an administration hostile to the [[white-hats|White Hats]] would have rescinded rather than extended them, and suggesting either strategic acquiescence or operational controls beyond the visible administration.[6] On this reading COG is far from a Cold War relic but an active mechanism for safeguarding sovereignty, dismantling corruption, and orchestrating a systemic awakening — claims that remain interpretive and unverified.[6]
+
 ## References
 
 1. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
@@ -47,3 +59,4 @@ Commenting on the May 2023 expiration of [[title-42|Title 42]], [[burning-bright
 3. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 5. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
+6. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

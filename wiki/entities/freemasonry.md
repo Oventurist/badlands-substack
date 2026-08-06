@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [secret-societies, syria, middle-east, conspiracy]
-sources: [raw/badlands-news-brief-53f.md, raw/badlands-news-brief-f18.md]
+sources: [raw/badlands-news-brief-53f.md, raw/badlands-news-brief-f18.md, raw/false-flags-and-the-occult.md]
 confidence: medium
 ---
 
@@ -38,3 +38,8 @@ On January 19, 2025, one day before leaving office, former President [[joe-biden
 
 1. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 2. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
+3. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
+
+## Claimed descent from the mystery schools
+
+The March 2023 Badlands essay "False Flags and the Occult" places Freemasonry in a lineage running back to the ancient [[eleusinian-mysteries|Eleusinian Mystery Schools]], describing modern initiation lodges such as Free Masonry as the schools' living continuation.[3] In that framing the mystery schools were the esoteric counterpart to the exoteric worship of publicly endorsed gods, and were later used to recruit and bind members of the general population into a secret power cult serving the [[shadow-men|shadow men]] operating behind the scenes.[3]

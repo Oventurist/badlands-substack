@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, flynn, doj, classified, trump]
-sources: [raw/america-for-sale-part-2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-b0f.md]
+sources: [raw/america-for-sale-part-2.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-ff1.md]
 confidence: low
 ---
 
@@ -26,3 +26,9 @@ Over the weekend of July 19–20, 2025, Cohen — described as the former Senior
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Badlands News Brief: Fake Candidates, Plea Deals & War Drums", URL: https://badlands.substack.com/p/badlands-news-brief-264
 3. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
+
+
+## Comments on the June 2025 Iran strikes
+On the Sunday following the June 2025 US strikes on Iran's nuclear facilities, Cohen-Watnick said that President [[donald-trump|Donald Trump]] had used his control over narrative and timelines to eliminate the nuclear threat.[4] [[burning-bright|Burning Bright]] of [[badlands-media|Badlands Media]] cited the remark as corroboration of his own prediction, published the same day, that Trump would use narratives and timeline manipulation to achieve exactly that outcome, summarising the episode as proof that "the war is fake. The story is real."[4]
+
+4. Badlands Brief — "Badlands News Brief: Military Might, MoronGPT, & A Mutiny of The Men", URL: https://badlands.substack.com/p/badlands-news-brief-ff1

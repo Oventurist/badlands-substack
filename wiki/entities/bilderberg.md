@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, deep-state, elite-networks]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d61.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-862.md, raw/badlands-news-brief-d61.md, raw/canadas-transition-to-collectivist.md, raw/dark-equation.md]
 confidence: low
 ---
 
@@ -34,8 +34,22 @@ The Bilderbergers operate under the [[chatham-house-rule|Chatham House Rule]], u
 
 Badlands contributor [[ryan-delarme|Ryan DeLarme]] described the Bilderbergers as "yet another group of extremely powerful men and women—many of them historically belonging to or working for royal European bloodlines—who convene annually in semisecret to discuss the 'issues of the day,'" adding that more conspiracy-minded observers who claim the group manufactures and manages world events "may not be wrong."[3] He noted that artificial intelligence had been a recurring topic at Bilderberg meetings for the previous decade, and singled out Stacey Abrams's presence at closed-door sessions on "US leadership" as the most striking detail, remarking that international elites holding such meetings with "somebody who's been rejected repeatedly by the American people just doesn't sit well with me."[3] DeLarme also pointed readers to Badlands Media's ongoing *Men Behind the Curtain* series for further background on the group.[3]
 
+## Ehret's account of the 1954 founding
+
+[[matthew-ehret|Matthew Ehret]] writes that [[prince-bernhard-of-the-netherlands|Prince Bernhard of the Netherlands]] convened the founding meeting of the Bilderberg group in 1954, and that UNESCO founder Sir [[julian-huxley|Julian Huxley]] and [[prince-philip|Prince Philip Mountbatten]] were both present — the same three men who co-founded the [[world-wildlife-fund|World Wildlife Fund]].[4] In his framing the meeting served to advance a "grand conversion of society into a willful self-extermination."[4] Philip and Bernhard later co-founded the [[1001-nature-trust|1001 Nature Trust]] in 1970 to fund the blossoming environmental movement.[4]
+
+Ehret also identifies Canadian environmental organizer [[maurice-strong|Maurice Strong]] as a member of the Bilderberg Steering Committee, alongside his roles founding the [[world-economic-forum|World Economic Forum]] and chairing the 1992 [[rio-earth-summit|Rio Summit]].[4]
+
+## Artificial intelligence and the 2023 Lisbon meeting
+
+In "Dark Equation," [[ryan-delarme|Ryan DeLarme]] reported that the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon took artificial intelligence as its primary topic, and that former [[google|Google]] chief executive [[eric-schmidt|Eric Schmidt]] serves as chair of the group.[5] DeLarme described Bilderberg as one of several subversive policy-creation think tanks amounting to a modern global shadow government, credited with shaping international relations across much of the last century.[5] He noted the claim that Bilderberg's closed-door meetings are where "machinations are born," later presented publicly at the [[world-economic-forum|World Economic Forum]] in Davos the following year.[5]
+
+[[henry-kissinger|Henry Kissinger]], cited as the archetypal deep-state figure to pass through the group, has attended its meetings on and off since 1957 and said his interest in artificial intelligence began after Schmidt persuaded him to attend a Bilderberg lecture on the subject in 2016.[5] Against claims that the group is a shadow of its former self, DeLarme argued that Schmidt's documented influence inside the Biden administration shows Bilderberg "still has its tendrils in the various halls of power, whether it be the board room or the Oval Office."[5] He also criticized the severe lack of transparency around the meetings, in which the public receives a list of talking points but almost no context about what was actually discussed.[5]
+
 ## References
 
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 2. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
 3. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61
+4. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
+5. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

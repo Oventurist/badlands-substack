@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [defense-tech, surveillance, military-industrial-complex]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-861.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-355.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-f76.md, raw/dark-equation.md]
 confidence: low
 ---
 
@@ -61,3 +61,9 @@ Reporting on the August 2024 court-ordered unsealing of [[x-corp|X]]'s sharehold
 
 Reporting that [[ukraine|Ukrainian]] forces were fielding AI-coordinated drone swarms prompted Badlands host [[chris-paul|Chris Paul]] to ask whether a Palantir-like company operates in Ukraine as one does in Israel, "or is it just Palantir in all three places?"[8] He questioned what Palantir CEO Alex Karp means when he says he is defending "the West" rather than America, comparing the usage to that of David Frum, Douglas Murray and other neoconservative figures in prominent positions.[8] The underlying technology is covered at [[ai-drone-swarms|AI-powered drone swarms]].[8]
 8. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
+
+## Mention in "Dark Equation"
+
+The Badlands Media article "Dark Equation" identified [[peter-thiel|Peter Thiel]] as a co-founder of both PayPal and Palantir when listing him among the attendees of the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal, a conference devoted primarily to artificial intelligence.[9]
+
+9. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

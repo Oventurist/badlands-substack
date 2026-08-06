@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-government, healthcare, cms, trump-administration]
-sources: [raw/badlands-brief-861.md, raw/badlands-news-brief-60c.md]
+sources: [raw/badlands-brief-861.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-ffa.md]
 confidence: medium
 ---
 
@@ -20,7 +20,12 @@ Oz appeared alongside Vice President [[jd-vance|JD Vance]] in February 2026 when
 
 As head of Medicaid and Medicare, Oz joined Health Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] at a press conference at the [[department-of-health-and-human-services|Department of Health and Human Services]] headquarters in Washington, D.C. on Thursday, December 18, 2025 to announce measures effectively banning gender-affirming care for transgender minors nationwide.[2] The restrictions take the form of two proposed rules from Medicaid and Medicare: the first prohibits doctors and hospitals from receiving federal Medicaid reimbursement for gender-affirming care provided to patients younger than 18, and the second blocks all Medicaid and Medicare funding for any services at hospitals that provide pediatric gender-affirming care.[2]
 
+## Health Tech Ecosystem Initiative (July 2025)
+
+As CMS Administrator, Oz appeared at the [[white-house|White House]] alongside President [[donald-trump|Donald Trump]], Health Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]], CMS advisor and DOGE administrator [[amy-gleason|Amy Gleason]], and AI and Crypto Czar [[david-sacks|David Sacks]] for the announcement of the [[health-tech-ecosystem-initiative|Health Tech Ecosystem Initiative]], a program to expand interoperable digital health records.[3] Badlands contributor Chris Paul described the presentations by Oz and Gleason as "downright dystopian," arguing that pitching the system as patient control over medical data and reduced "friction" was a familiar framing for advancing surveillance and control.[3]
+
 ## References
 
 1. Badlands Brief — "Floridian Terror Boats, Venezuelan Deck Chairs, & the War on Fraud", URL: https://badlands.substack.com/p/badlands-brief-861
 2. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
+3. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa

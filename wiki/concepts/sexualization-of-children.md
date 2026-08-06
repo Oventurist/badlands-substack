@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [culture-war, family, globalism, badlands-commentary]
-sources: [raw/badlands-news-brief-d61.md]
+sources: [raw/badlands-news-brief-d61.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
 confidence: low
 ---
 
@@ -28,3 +28,11 @@ He described r-selected strategies as characteristic of large-scale herd animals
 
 ## References
 1. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61
+
+## Framing as cultural normalization of child sacrifice
+
+Badlands Media contributor [[simon-esler|Simon Esler]] placed the sexualization of children within a broader argument about elite [[child-sacrifice|child sacrifice]], asking how the hypothesis that elites are seeking to normalize child sacrifice frames the explicit sexualization of children implemented in public schools through warped sex education and [[queer-theory|queer theory]].[2] He grouped this with the repositioning of the children's entertainer Lil Nas X toward Satanic imagery as visible evidence of a steered culture.[2]
+
+Drawing on the archaeology of [[carthage|Carthage]], where child sacrifice spread gradually from the elite class to the professional classes and artisans, Esler argued that the modern equivalent would be a mind control operation engineering a culture blind to childhood innocence — the "war on innocence" as an echo of Carthaginian elites conditioning their people.[2] His conclusion was that "a culture that accepts literal child sacrifice is downstream from a culture that accepts the sacrifice of childhood innocence."[2]
+
+2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep

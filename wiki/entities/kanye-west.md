@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [culture, music, hollywood, antisemitism-controversy, christianity]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-db7.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-189.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-99e.md, raw/badlands-news-brief-f0e.md, raw/from-ye-to-oy-vey.md]
 confidence: medium
 ---
 
@@ -90,6 +90,14 @@ The commentary drew a parallel to 2018, when reports of West exploring an entry 
 
 The same commentary argued that the antisemitism campaign against West began when he and Candace Owens wore "White Lives Matter" shirts at the Paris Fashion Show in October 2022, a period in which West was also conspicuously wearing and naming Balenciaga apparel just as the Balenciaga photoshoot scandal was unfolding — including the black mask worn during his appearance on Alex Jones's show.[9] The writer pointed to the 2018 song "Violent Crimes" as evidence of West's preoccupation with protecting his daughters from exploitation, and to his repeated public expressions of dread that his mother-in-law would one day exploit them for money and clout.[9] The timing was noted as significant: the announcement came the same day Trump went to trial over hush-money payments to Stormy Daniels, with West's prospective partner being Daniels's ex-husband.[9]
 
+## "From Ye to Oy Vey!" retrospective (December 2023)
+
+A December 2023 Badlands Media retrospective by Erik Carlson revisited the arc of West's cancellation as a template for what it argued was later attempted against [[elon-musk|Elon Musk]].[10] The piece dated the sequence to the Yeezy Season 9 show in Paris on October 3, 2022, where West and [[candace-owens|Candace Owens]] wore "White Lives Matter" T-shirts, and noted that West's father [[ray-west|Ray West]], a former Black Panther, called the shirt funny — "just a Black man stating the obvious."[10] West brought the controversy to a mass audience on [[tucker-carlson|Tucker Carlson]]'s Fox program on October 6, 2022, exactly 366 days before the [[october-7-attacks|October 7 attacks]] on Israel.[10]
+
+The article recounted [[sean-combs|Diddy]]'s October 5, 2022 Instagram statement supporting West as a freethinker while rejecting the shirt, and West's October 7 reply that he would use Diddy "as an example to show the Jewish people that told you to call me that no one can threaten or influence me," which the author read as an attempt by Diddy to "reel Ye back in" onto narrative.[10] That post triggered West's ban from [[instagram|Instagram]], owned by [[mark-zuckerberg|Mark Zuckerberg]].[10] West's October 8, 2022 tweet about going "death con 3 On JEWISH PEOPLE" got him banned from pre-Musk [[twitter|Twitter]]; Carlson's colleague at Badlands argued the phrase referenced DEFCON 3 alert status — a pledge to begin exposing rather than a threat of violence.[10]
+
+After Musk purchased Twitter on October 27, 2022, West was welcomed back on November 20, then removed again on December 2, 2022 for posting a swastika embedded in a Star of David — an image the author interpreted as West accusing Jewish power brokers of behaving like fascists toward him.[10] The retrospective argued West was cancelled for two claims it considered factually true but socially forbidden: that white lives matter, and that Jewish people are disproportionately represented in positions of power in Hollywood, media, corporations and politics.[10] It named the [[anti-defamation-league|Anti-Defamation League]] as the organization that spearheaded the drive to cancel West and make an example of him.[10] See also the [[white-lives-matter-t-shirt-controversy|White Lives Matter T-shirt controversy]].[10]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
 2. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
@@ -100,3 +108,4 @@ The same commentary argued that the antisemitism campaign against West began whe
 7. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 8. Badlands Brief — "Trumpamania, Maneuver Defense & Kanye's War", URL: https://badlands.substack.com/p/badlands-news-brief-99e
 9. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+10. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey

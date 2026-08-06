@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, oil, nationalization, coup]
-sources: [raw/badlands-news-brief-24e.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ A worldwide embargo was launched against Iran in response, and in 1953 President
 
 ## References
 1. Badlands News Brief — "Shutdown Looms as Game Theory Plays Out", URL: https://badlands.substack.com/p/badlands-news-brief-24e
+
+## Carlson's account
+
+In his July 2023 essay for [[badlands-media|Badlands Media]], [[erik-carlson|Erik Carlson]] described Mossadegh as the democratically elected prime minister whose removal was headed by [[kermit-roosevelt-jr|Kermit Roosevelt Jr.]], grandson of Theodore Roosevelt.[2] In this account, when Mossadegh nationalized the Iranian oil industry and kicked out foreign companies — in particular British Petroleum — his removal was deemed necessary by the [[central-intelligence-agency|CIA]] and its British "puppet masters," who asked the United States to install a CIA-, US- and British-friendly leader in his place, [[mohammad-reza-pahlavi|the Shah of Iran]].[2] Mossadegh was tried for treason and placed under house arrest, while the Shah ruled for 26 years until the [[iranian-revolution|Iranian Revolution]] of 1979.[2] Carlson added that the [[1953-iranian-coup|coup]] involved CIA propaganda, a rigged election and paid thugs creating violence in the streets of Tehran.[2]
+2. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran

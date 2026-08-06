@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [super-bowl, new-orleans, security, secret-service, false-flag-speculation]
-sources: [raw/badlands-news-brief-e01.md]
+sources: [raw/badlands-news-brief-e01.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -24,5 +24,12 @@ Fleuret drew a series of parallels to the film *The Sum of All Fears*, in which 
 
 Fleuret additionally remarked on the selection of [[kendrick-lamar|Kendrick Lamar]] as halftime performer, speculating about whether he would play "Not Like Us," a song whose later verses attack child rapists.[1]
 
+## Officiating controversy
+
+The officiating crew was described as a "third team" under scrutiny in Super Bowl 2025.[2] After a postseason in which the perception grew that the NFL wanted officials to call games in favor of the Kansas City Chiefs, the issue did not dominate the game itself; the refs made some questionable calls, but they went both ways and the lopsided score rendered them inconsequential in the 40–22 Philadelphia Eagles win.[2] Chiefs wide receiver [[deandre-hopkins|DeAndre Hopkins]] pushed back on the media narrative afterward, asking, "I saw a lot of things in the media about the refs, but what are you all going to say now about the refs and us? There was a lot of touchy calls. Are you going to report that? Are you going to talk about the refs now?"[2]
+
+[[badlands-media|Badlands Media]] contributor [[chris-paul|Chris Paul]] argued the sequence was a legitimacy operation, comparing it to what he called the Regime's handling of the 2024 election: run national media stories for weeks alleging the [[nfl|NFL]] had rigged games for Kansas City, have Kansas City lose, then run follow-up stories like the Hopkins piece.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Cis-Privileged Sports & The Sum of All Sundays", URL: https://badlands.substack.com/p/badlands-news-brief-e01
+2. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

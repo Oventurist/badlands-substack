@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, colorado, election-integrity]
-sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f94.md]
+sources: [raw/badlands-brief-174.md, raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-001.md, raw/badlands-news-brief-2e7.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-f1d.md, raw/badlands-news-brief-f94.md, raw/badlands-news-brief-fcb.md]
 confidence: medium
 ---
 
@@ -97,3 +97,11 @@ The $787.5 million defamation settlement that Fox agreed to pay Dominion Voting 
 12. Badlands Brief — "Badlands News Brief: Weaponization, Willis, and World War III", URL: https://badlands.substack.com/p/badlands-news-brief-c1e
 13. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
 14. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+
+## Fox demand for an internal leak probe (May 2023)
+
+In a letter dated Friday, May 5, 2023, lawyers for [[fox-news|Fox News]] asked officials at Dominion Voting Systems to conduct an internal investigation, saying the company had learned that documents Fox produced in the litigation "were disclosed to media organizations and published for mass consumption."[15] The letter urged Dominion to "investigate and confirm that you are not the source of these improper disclosures," arguing that leakage of court documents and redacted exhibits would violate "the text and spirit of the parties agreement."[15] The demand followed the publication of redacted text messages from former top host [[tucker-carlson|Tucker Carlson]].[15] Dominion denied responsibility, stating that "nobody associated with Dominion shared these confidential materials with the press."[15]
+
+Badlands commentator [[ashe-in-america|Ashe in America]] mocked the exchange as a strongly worded letter demanding that Dominion investigate itself "again," and characterized the storyline as having jumped the shark after the network "inexplicably folded a straight flush with $787M in the pot."[15] She noted that a week after the settlement Carlson was out effective immediately, replaced by "Fox News Tonight" before an audience barely half his average with a 1.7 million debut, after which the leaks began.[15]
+
+15. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb

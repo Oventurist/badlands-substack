@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, doj, ms-13, vindictive-prosecution]
-sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-ecd.md]
+sources: [raw/badlands-brief-6f0.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-c44.md, raw/badlands-news-brief-dbb.md, raw/badlands-news-brief-ecd.md, raw/badlands-news-brief-fbd.md]
 confidence: medium
 ---
 
@@ -87,3 +87,11 @@ Badlands commentary described Abrego Garcia as an alleged MS-13 operative "maske
 7. Badlands Brief — "Badlands News Brief: A British TERF Triumph & A Senator Snubbed in El Salvador", URL: https://badlands.substack.com/p/badlands-news-brief-c44
 8. Badlands News Brief — "A Moscow Mission, Historic Agreements, & A New Fed Chair", URL: https://badlands.substack.com/p/badlands-news-brief-dbb
 9. Badlands Brief — "Salvadoran Screwworms, Chinese Students, & Satan's Attorney", URL: https://badlands.substack.com/p/badlands-news-brief-ecd
+
+## Impeachment articles and Democratic retreat (April 2025)
+
+Abrego Garcia's case featured in seven articles of impeachment filed against President [[donald-trump|Donald Trump]] in late April 2025 by Rep. [[shri-thanedar|Shri Thanedar]], one of which claimed Trump had "violated the Supreme Court's 'order'" to return him to the United States - an assertion the reporting disputed, and which described Abrego Garcia as an MS-13 gang member.[10]
+
+At the same time, House Minority Leader [[hakeem-jeffries|Hakeem Jeffries]] privately concluded that Democratic delegations traveling to El Salvador to spotlight the case of Abrego Garcia and the other men wrongly shipped there had run their course, discouraging further trips even as pressure mounted in the party over the transfer of 238 men to a prison system known for human rights abuses.[10] A spokesperson later disputed the reporting, saying "House Democrats will never stop fighting for the release of Mr. Abrego Garcia."[10]
+
+10. Badlands Brief - "Badlands News Brief: Covid, Kickbacks, & Credible Intelligence", URL: https://badlands.substack.com/p/badlands-news-brief-fbd

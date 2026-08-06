@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, energy, corruption, biden-family]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-36a.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-409.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-da5.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-d7d.md, raw/biden-inc-flips.md]
 confidence: medium
 ---
 
@@ -60,6 +60,12 @@ Government memos obtained by [[just-the-news|Just the News]] and reported in Aug
 
 Federal prosecutors alleged that former FBI informant [[alexander-smirnov|Alexander Smirnov]] falsely told agents that executives associated with Burisma — where [[hunter-biden|Hunter Biden]] had worked — had paid the Bidens $5 million each, and that a Burisma official said it would take investigators ten years to locate "illicit payments" to President [[joe-biden|Joe Biden]].[13] Smirnov was charged in February 2024 with making false statements and creating a false and fictitious record, pleaded not guilty, and was ordered held until an April 23, 2024 trial.[13]
 
+## Role in the "Biden, Inc." framing
+
+A December 2024 Badlands feature described Burisma Holdings as a conduit for laundering money through energy deals tied to Ukrainian elites, alleging that its contracts facilitated questionable transactions that enriched political allies and shielded illegal activity.[15] The piece argued that the arrangement "was not just about energy; it was about power" — power to control narratives, silence dissent, and enrich those complicit — and claimed that behind each lucrative contract lay a trail of compromised officials and backdoor deals.[15]
+
+Burisma was listed alongside [[ftx|FTX]], [[chinese-communist-party|CCP]]-linked business dealings, and pharmaceutical and [[national-institutes-of-health|NIH]] connections as one of the pillars of an alleged criminal enterprise the author said was prosecutable under the [[racketeer-influenced-and-corrupt-organizations-act|RICO statutes]].[15] No such prosecution has been brought, and the allegations remain unsubstantiated commentary.[15]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 2. Badlands Media — "Badlands News Brief: A Potato is Threatened with Impeachment & Other Stories ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e2
@@ -95,3 +101,4 @@ In his July 31, 2023 transcribed interview with the [[house-committee-on-oversig
 In August 2023 [[viktor-shokin|Viktor Shokin]], the Ukrainian prosecutor fired while investigating Burisma, spoke publicly for the first time since 2019 and told Fox News it was his "firm personal conviction" that the Bidens had been bribed.[14] A 2020 U.S. Senate committee report confirmed that Shokin had an active and ongoing investigation into Burisma and its owner [[mykola-zlochevsky|Mykola Zlochevsky]], who hired [[hunter-biden|Hunter Biden]] to sit on the company's board and who granted Burisma permits to drill for oil and gas in Ukraine while he was serving as Minister of Ecology and Natural Resources.[14] Shokin stated in a 2019 deposition that there were five criminal cases against Zlochevsky, including money laundering, corruption, illegal funds transfers, and profiteering through shell corporations while a sitting minister.[14]
 
 14. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
+15. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips

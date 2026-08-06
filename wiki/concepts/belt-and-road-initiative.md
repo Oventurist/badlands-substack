@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [china, infrastructure, bri, development, multipolar]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-6f0.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/a-re-alignment-of-world-systems.md, raw/and-iran-iran-so-far-away.md, raw/avoiding-wwiii.md, raw/badlands-news-brief-6f0.md, raw/brics-vs-the-wef.md, raw/defeating-the-depopulation-agenda.md]
 confidence: medium
 ---
 
@@ -42,9 +42,31 @@ Corridors stretch through northern lines via Russia and the Central Asian states
 
 In October 2023 Beijing hosted a Belt and Road Forum marking the tenth anniversary of the initiative, at which [[xi-jinping|Xi Jinping]] welcomed two dozen world leaders and more than a hundred delegations, mostly from the Global South.[5] The gathering took place under the shadow of the war between [[israel|Israel]] and [[hamas|Hamas]], and CNN described the initiative as an ambitious yet controversial undertaking to boost connectivity and trade through Chinese infrastructure projects.[5] On the sidelines, [[vladimir-putin|Vladimir Putin]] said he and Xi had "discussed in detail the situation in the Middle East" and that he had briefed Xi on "the Ukrainian track," adding that "all these external factors are common threats, and they strengthen Russian-Chinese interaction."[5] Chinese state media said Xi had conducted an "in-depth exchange of views" on Israel and the Palestinians without further detail, and Beijing had yet to name or condemn Hamas in its statements.[5]
 
+## The three corridors
+
+A September 2024 analysis by [[matthew-ehret|Matthew Ehret]] valued the Belt and Road Initiative — also called the New Silk Road — at $4 trillion and divided it into three corridors.[6] The Northern Corridor, the most developed and most heavily used, consists of railways and pipelines running from China through Kazakhstan and Russia to Europe; some Atlanticist geopoliticians would like it shut down to further isolate Russia's transport and commercial routes.[6] The Southern Corridor, less developed, involves continuous rail links from China through Pakistan, Afghanistan, Iran, Iraq, Syria and Lebanon and potentially Turkey, reaching Europe via Levantine ports and Turkish land connections, with the potential to be extended through projects such as the 2,000 km Persian Gulf–Red Sea high-speed railway.[6] The Middle Corridor, formally the Trans-Caspian International Transport Route (TITR), carries multimodal rail and sea freight from China to Europe via Kyrgyzstan, Turkmenistan, Azerbaijan, Armenia, Georgia and Turkey; although it is the shortest route, transitioning between land and sea legs across the Caspian adds cost and complexity.[6]
+
+On 30 March 2022 Turkey, Azerbaijan, Kazakhstan and Georgia signed a quadrilateral agreement to advance the Baku–Tbilisi–Kars railway, the Baku–Tbilisi–Ceyhan pipeline and the Trans Anatolian National Gas Pipeline (TANAP), part of the wider Southern Gas Corridor spanning seven countries, 3,500 km of pipeline and $35 billion in investment.[6] The Caspian basin holds the fourth largest natural gas reserves in the world.[6]
+
+Ehret argues the east–west BRI corridors and the north–south [[north-south-transport-corridor|International North-South Transport Corridor]] are highly synergistic rather than competing, and that together they empower sovereign nations against privatized central banks, raise living standards, increase abundance rather than scarcity, and induce cooperation in place of divide-and-conquer imperial methods.[6]
+
+## Uptake and western counter-programmes
+
+By this account the BRI has "already won over much of Africa," with BRI-connected rail, ports and infrastructure offering relief to nations long constrained by IMF and World Bank conditionalities.[6] Pakistan and much of Southwest Asia are increasingly integrated through the China-Pakistan Economic Corridor, twenty Arab states consolidated major BRI projects over three years, Iran finalized a $400 billion deal with China in July 2021, and much of Latin America has joined, with China holding controlling stakes in over 40 strategic ports across the region.[6] Even Turkey and Saudi Arabia, described as western-controlled puppet states, are said to have recognized their lack of a future in the collapsing unipolar order.[6]
+
+Western answers to the BRI — [[build-back-better|Build Back Better]] and B3W, the Green Belt Initiative of March 2021, the Global Green Gateway announced by [[ursula-von-der-leyen|Ursula von der Leyen]] in September 2021, and the G7's [[partnership-for-global-infrastructure-and-investment|Partnership for Global Infrastructure and Investment]] of June 2022 — are characterized as underdefined branding exercises that failed for want of financing mechanisms and concrete plans.[6]
+
+## The "REAL New Deal"
+
+[[matthew-ehret|Matthew Ehret]] presents the Belt and Road Initiative, first announced in 2013 and integrated with the Russian-led [[eurasian-economic-union|Eurasian Economic Union]] and [[polar-silk-road|Polar Silk Road]], as the practical alternative to the [[green-new-deal|Green New Deal]] and the [[depopulation-agenda|depopulation agenda]].[7] With the 2013 initiative, he writes, a new game was in town — one that rejected depopulation and defended sovereign national power as a weapon to rein in fifth columnists, evidenced by [[vladimir-putin|Putin]]'s clashes with Russian oligarchs and by China's crackdown on more than 4.7 million corrupt CPC officials since [[xi-jinping|Xi Jinping]] took office.[7]
+
+Ehret calls the initiative the "REAL New Deal," noting that it now has more than 130 countries on board and is the size of twenty Marshall Plans, and argues that it requires a return to an ethic founded on a love of mankind and belief in scientific and technological progress.[7] He quotes Xi's address to the Dialogue of Asian Civilizations, in which Xi said that for a civilization to endure it must adapt to changing times and break new ground, and that the best way to spur innovation and creativity is to come into contact with different civilizations and draw upon their strengths.[7] Against the closed-system logic of the [[the-end-of-history|End of History]] lobby, the initiative embodies what Ehret calls open system thinking premised on cooperation, advanced industrial progress and long-term planning.[7]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 3. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 4. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
 5. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0
+6. Badlands Brief — "BRICS vs. The WEF", URL: https://badlands.substack.com/p/brics-vs-the-wef
+7. Badlands Brief — "Defeating the Depopulation Agenda", URL: https://badlands.substack.com/p/defeating-the-depopulation-agenda

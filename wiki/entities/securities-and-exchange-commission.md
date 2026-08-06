@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, sec, trump-media, dwac]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/did-israel-possess-foreknowledge.md]
 confidence: low
 ---
 
@@ -70,6 +70,16 @@ Following the December 2024 investor lawsuit against the team behind the [[hawk-
 
 The Securities and Exchange Commission, an independent federal agency that enforces federal securities laws administratively or by filing civil actions in court, faced a structural constitutional challenge that the Supreme Court agreed on June 30, 2023 to hear as SEC v. Jarkesy.[13] After the commission's administrative law judge confirmed securities violations by George Jarkesy and his firm Patriot28, the SEC reviewed and ratified the decision and ordered $300,000 in civil penalties.[13] A divided Fifth Circuit then held that dual removal protections for administrative law judges unconstitutionally insulated them from presidential oversight, that the commission's proceedings infringed the Seventh Amendment right to a jury trial, and that Congress had unconstitutionally delegated its lawmaking powers to the agency.[13]
 
+
+## Alleged obstruction of the DWAC–Trump Media merger (2024 commentary)
+
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] wrote that the SEC had used unprecedented tactics to block the merger between [[digital-world-acquisition-corp|DWAC]] and the [[trump-media-and-technology-group|Trump Media and Technology Group]], keeping the raised capital from reaching [[donald-trump|Trump]] and preventing him from building out his media operations.[14] In his framing the [[deep-state|Deep State]] cannot afford for Trump to have both funds and direct reach to the public, and the money being withheld is in substance money ordinary investors put into DWAC.[14] He argued that until the merger goes through, [[truth-social|Truth Social]] and other planned Trump media — cable channels, movies, news and entertainment apps, and potentially a Netflix-like app offering non-woke entertainment — cannot take off.[14]
+
+
+## Calls to investigate pre-October 7 trading
+
+In their December 2023 study of trading ahead of the [[october-7-attacks|October 7 Hamas attack]], [[robert-jackson-jr|Robert J. Jackson Jr.]] — himself a former SEC commissioner — and [[joshua-mitts|Joshua Mitts]] urged the Securities and Exchange Commission and the [[financial-industry-regulatory-authority|Financial Industry Regulatory Authority]] to investigate why and how financial markets may have anticipated the attack.[15] While the identities behind the anomalous [[short-selling|short selling]] were not discernible from public data, the authors noted that the SEC and FINRA would know the traders' names.[15] They further argued that informed trading of this kind exploits gaps in U.S. and international enforcement of legal prohibitions on trading on material nonpublic information.[15]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Amplified Antagonism, Phantom Palestinians, & Hitler's Micropenis", URL: https://badlands.substack.com/p/badlands-news-brief-066
@@ -89,3 +99,5 @@ On October 5, 2023, the SEC sued [[elon-musk|Elon Musk]] in the Northern Distric
 11. Badlands News Brief — "Speaker Deception, Ukraine Fatigue & FBI Corruption", URL: https://badlands.substack.com/p/badlands-news-brief-d73
 12. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
 13. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+14. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+15. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge

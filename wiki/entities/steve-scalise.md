@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, republican, louisiana, house-leadership]
-sources: [raw/badlands-brief-fd9.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-82f.md]
+sources: [raw/badlands-brief-fd9.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-28e.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-ff6.md]
 confidence: medium
 ---
 
@@ -63,3 +63,9 @@ As House Majority Leader during the [[september-2023-government-shutdown-standof
 7. Badlands Brief — "Trump Trifecta, COVID Concealment & Sorosian Slime", URL: https://badlands.substack.com/p/badlands-news-brief-5a7
 8. Badlands Brief — "Johnson's Package Goes Flaccid ... And Other Stories", URL: https://badlands.substack.com/p/badlands-news-brief-79f
 9. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
+
+## 2023 Speaker candidacy
+
+In October 2023 Scalise, then House Majority Leader, was the preferred candidate of mainstream Senate Republicans in the contest to replace [[kevin-mccarthy|Kevin McCarthy]] as Speaker.[10] They saw him as a stabilizing force best able to collaborate with Senate Republican Leader [[mitch-mcconnell|Mitch McConnell]] in guiding must-pass legislation through procedural complexity, and considered a rapid transition to his leadership imperative to reassure voters about the GOP's capacity to govern.[10] He was contrasted with the populist candidate [[jim-jordan|Jim Jordan]], who carried [[donald-trump|Donald Trump]]'s endorsement.[10]
+
+10. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6

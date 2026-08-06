@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [law-firms, democratic-party, elections]
-sources: [raw/badlands-news-brief-08c.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-news-brief-08c.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-c14.md, raw/durham-continues-to-reveal-previously.md]
 confidence: medium
 ---
 
@@ -26,7 +26,12 @@ The order suspended security clearances for the firm's lawyers, barred them from
 
 Federal District Court Judge [[beryl-howell|Beryl Howell]] enjoined implementation of the order.[3] Commentary in Chronicles Magazine, excerpted by [[badlands-media|Badlands]], argued that Howell's injunction "spoils a righteous core with judicial activism": while she was right that the First Amendment and principles of American justice require that lawyers be able to deliver candid advice and zealous advocacy, she went too far in ignoring the case that Perkins Coie conspired with Clinton and Fusion GPS to improperly influence the 2016 election and destabilize the Trump presidency through the fraudulent [[steele-dossier|Steele dossier]], and then misled government investigators about its provenance.[3]
 
+## Supervision of the Alfa Bank operation
+
+Evidence surfaced by Special Counsel [[john-durham|John Durham]] at the [[michael-sussmann|Sussmann]] trial placed Perkins Coie at the centre of the [[hillary-clinton|Clinton]] campaign's private cyber operation: the data stolen from federal agency databases was developed into the [[alfa-bank-hoax|Alfa Bank Hoax]] "under the watchful eyes and direction" of the campaign's lawyers at the firm before being handed to the news media, the [[fbi|FBI]] and the [[central-intelligence-agency|CIA]].[4] Durham further demonstrated that the campaign, Perkins Coie, [[fusion-gps|Fusion GPS]] and [[rodney-joffe|Rodney Joffe]]'s contractors attempted to defeat federal grand jury subpoenas with attorney-client privilege assertions of which more than 80 percent were facially bogus.[4]
+
 ## References
 1. Badlands Brief — "Real Leaks & Fake News", URL: https://badlands.substack.com/p/badlands-news-brief-08c
 2. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 3. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+4. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously

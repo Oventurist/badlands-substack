@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venezuela, maduro, capture]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-d9f.md, raw/badlands-brief-e8d.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -26,8 +26,13 @@ Flores pleaded not guilty in a New York federal court to charges related to thos
 
 When 283 Venezuelan lawmakers elected the previous May were sworn in alongside interim president [[delcy-rodriguez|Delcy Rodríguez]], Flores was the only lawmaker not in attendance, as she remained in US custody.[3]
 
+## Reception of Maikelys Espinoza (May 2025)
+
+On May 14, 2025, Venezuelan state television showed Flores, as the country's first lady, holding 2-year-old Maikelys Antonella Espinoza Bernal in her arms at the airport upon the child's return to Venezuela after both her parents were removed from the United States.[4] Venezuela's leaders publicly celebrated the child's arrival in the [[maikelys-antonella-espinoza-bernal-custody-case|custody case]] that had drawn international attention.[4]
+
 ## References
 
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Dueling Color Revolutions, Economic Escalation, & Superseding Somali Scams", URL: https://badlands.substack.com/p/badlands-brief-d9f
 3. Badlands Brief — "Miraflores New Tenant, Walz Awakens, & Kelly's Court Martial", URL: https://badlands.substack.com/p/badlands-brief-e8d
+4. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

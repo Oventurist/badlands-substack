@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [russiagate, durham, foia, doj, crossfire-hurricane]
-sources: [raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-38a.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -41,9 +41,16 @@ The report also revealed that the FBI had three concurrent investigations touchi
 
 Badlands commentator [[burning-bright|Burning Bright]] argued that coverage of the Durham Report illustrated [[overtons-goalpost|Overton's Goalpost]] in full force — the sequence by which a claim is first denied and its evidence suppressed, then partially conceded, then admitted as mostly true but immaterial, then admitted as entirely true and damning while insisting everyone already knew it and that conspiracy theorists were right only by accident, before distraction operations are deployed.[4] He characterized the dialectic as a sign the Truth Community was winning rather than cause for frustration.[4]
 
+## Trump's response to the final report
+
+Responding through a spokesman on Monday, May 15, 2023, former President [[donald-trump|Donald Trump]] said the report "proves" a coordinated effort by the federal government to interfere with the 2016 U.S. election.[5] Writing on [[truth-social|Truth Social]], Trump said: "WOW! After extensive research, Special Counsel John Durham concludes the FBI never should have launched the Trump-Russia Probe! In other words, the American Public was scammed, just as it is being scammed right now by those who don't want to see GREATNESS for AMERICA!"[5] He added that "The Durham Report spells out in great detail the Democrat Hoax that was perpetrated upon me and the American people," compared it to "2020 Presidential Election Fraud, just like 'stuffing' the ballot boxes, only more so," and said that "with an honest Media, we are looking at the Crime of the Century!"[5] The reaction was reported by [[zerohedge|ZeroHedge]] under the framing that the report concluded the [[fbi|FBI]] had opened the Trump probe despite having no verified intelligence.[5]
+
+[[badlands-media|Badlands Media]] contributor [[justin-deschamps|Justin Deschamps]] wrote that while the report did less than some had hoped, dismissing it as meaningless was "a doomer's take," predicting that legacy media efforts to spin the findings would fail to persuade anyone not already hostile to Trump.[5] [[burning-bright|Burning Bright]] emphasized what he called the temporal significance of the report: because the Russia collusion narrative marked the start of the Deep State's "narrative blitzkrieg" against Trump and the MAGA movement, its exposure might mark the start of something equally consequential in the other direction.[5]
+
 ## References
 
 1. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 3. Badlands Brief — "Badlands News Brief: Trump's Support, Durham's Return & Xi's Threats", URL: https://badlands.substack.com/p/badlands-news-brief-1d7
 4. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
+5. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, jpmorgan, debanking, litigation, finance]
-sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-ac1.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-ac1.md, raw/celebrating-15-years-of-indictments.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ Commentary published by [[badlands-media|Badlands Media]] argued that the signif
 
 In January 2024, Dimon met Ukrainian president [[volodymyr-zelensky|Volodymyr Zelensky]] for the first time at the [[world-economic-forum|World Economic Forum]] in Davos, Switzerland, greeting him with "God bless you" as they shook hands ahead of a sit-down with Wall Street financiers.[7] Zelensky used the meeting to pitch Ukraine as open for business, tweeting that "attracting private capital to rebuild Ukraine is important to us" and expressing hope that [[jpmorgan-chase|JPMorgan]] would help draw global investors and corporations into the Ukrainian economy.[7] The encounter came amid continued wrangling in Washington over a proposed $61 billion package of military and financial support, and a day after Zelensky asked his Swiss hosts to organize a "high-level peace conference" on the war with Russia.[7]
 
+## Bitcoin criticism
+
+A January 2024 Badlands Brief essay marking fifteen years of the [[bitcoin-genesis-block|Bitcoin Genesis Block]] referred to Dimon as "Jeffrey Epstein's Banker" and named him alongside Senator [[elizabeth-warren|Elizabeth Warren]] as figures inside whose minds [[bitcoin|Bitcoin]] "lives rent-free," because the protocol cannot be stopped and continually undermines what the author described as an abstract power hierarchy.[8] The essay placed both under the heading "those who scream the loudest," treating vocal hostility to Bitcoin as evidence of the threat it poses to incumbents of the monetary system.[8]
+
 ## References
 
 1. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
@@ -59,3 +63,4 @@ In January 2024, Dimon met Ukrainian president [[volodymyr-zelensky|Volodymyr Ze
 5. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 6. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 7. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
+8. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments

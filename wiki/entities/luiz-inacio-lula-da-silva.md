@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brazil, brics, diplomacy, energy]
-sources: [raw/badlands-news-brief-966.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ec8.md]
+sources: [raw/badlands-news-brief-966.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-ec8.md, raw/brazil-breaking.md]
 confidence: medium
 ---
 
@@ -61,3 +61,9 @@ The Economist nonetheless argued that at 80 it was "simply too risky" for Brazil
 5. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
 6. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 7. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
+
+## 2022 election victory as seen by Badlands (November 2022)
+
+Badlands Media's November 1, 2022 essay "Brazil Breaking" described Lula, characterized as a globalist and European Union sympathizer, as having been declared the winner of the [[2022-brazilian-general-election|2022 Brazilian general election]] over incumbent [[jair-bolsonaro|Jair Bolsonaro]].[8] The article disputed the legitimacy of the outcome, noting record turnouts in the months before the vote and the elimination of Bolsonaro's intra-party rivals in the October first round, and argued that the result was already rivaling the 2020 United States presidential election in controversy.[8] It framed the disputed contest as potentially the first in a global sequence of election-integrity confrontations, with the [[brazilian-armed-forces|Brazilian Armed Forces]] reportedly weighing full-scale audits amid widespread protests.[8]
+
+8. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking

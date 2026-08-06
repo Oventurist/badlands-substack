@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [icc, international-law, sovereignty, rome-statute, united-nations]
-sources: [raw/badlands-brief-245.md, raw/badlands-brief-414.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/badlands-brief-245.md, raw/badlands-brief-414.md, raw/badlands-brief-bce.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-677.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ba.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-b65.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-ddb.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-fa7.md]
 confidence: medium
 ---
 
@@ -99,3 +99,11 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] dispu
 
 11. Badlands Brief — "Badlands News Brief: Capricious Ceasefires & Reunited Spy Chiefs", URL: https://badlands.substack.com/p/badlands-news-brief-ddb
 12. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+
+## Hungarian withdrawal (2025)
+
+[[hungary|Hungary]]'s government announced it was withdrawing from the ICC, a senior official in Prime Minister [[viktor-orban|Viktor Orban]]'s government confirming the decision hours after Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]] — sought under an ICC arrest warrant — arrived in Hungary for a state visit.[13] Orban had invited Netanyahu as soon as the warrant was issued the previous November, saying the ruling would have "no effect" in his country.[13] ICC judges had said there were "reasonable grounds" that Netanyahu bore "criminal responsibility" for alleged war crimes and crimes against humanity during the war between Israel and Hamas, a decision Netanyahu condemned as "antisemitic."[13] Hungary is a founding member of the court, which counts 125 member states, and became the first European Union nation to pull out; the withdrawal has no impact on ongoing proceedings.[13]
+
+[[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] welcomed the move as an example of what he called the Sovereign Alliance "drafting" off the momentum of the Globalist Hegemony, the way a race car drafts off the car ahead of it.[13] He described the ICC — which he asserted was established by [[george-soros|George Soros]] at The Hague in 2002 — as a "totally illegitimate entity" with no jurisdiction or authority to issue criminal indictments, and argued that countries revolting against the ICC and the [[united-nations|United Nations]] signal a coming multipolar order rather than a one-world government.[13]
+
+13. Badlands Brief — "Badlands News Brief: Bush-Era Bombshells & MAGA Morale", URL: https://badlands.substack.com/p/badlands-news-brief-fa7

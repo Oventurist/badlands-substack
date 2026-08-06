@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, political-action-committee, wisconsin, musk]
-sources: [raw/badlands-brief-98d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md]
+sources: [raw/badlands-brief-98d.md, raw/badlands-news-brief-4b9.md, raw/badlands-news-brief-74a.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ Besides Musk, the PAC was reported to be supported by Palantir Technologies co-f
 
 Badlands contributor Burning Bright acknowledged that members of the Truth Community approached major public figures involved in America PAC with trepidation, calling that caution healthy, but argued that the [[attempted-assassination-of-donald-trump-2024|attempt on Trump's life]] had granted social permission for such figures to align openly with the campaign — a development he read as "either capitulation or coordination," both of which favored awakening.[3]
 
+## Democratic scrutiny (May 2025)
+
+In May 2025 House Democrats named America PAC — described as Elon Musk-affiliated — among the Republican and Trump-aligned fundraising vehicles for which they asked the [[us-department-of-the-treasury|Treasury Department]] to produce suspicious activity reports, alongside [[winred|WinRed]].[4] The request from [[jamie-raskin|Jamie Raskin]], [[joe-morelle|Joe Morelle]], and [[gerald-connolly|Gerald Connolly]] was framed as a counter to Republican pressure on [[actblue|ActBlue]] over alleged illegal foreign donations.[4]
+
 ## References
 1. Badlands Brief — "There is “Nothing Bigger” Than Tonight’s Election Speech", URL: https://badlands.substack.com/p/badlands-brief-98d
 2. Badlands Brief — "Badlands News Brief: The Shot Heard Around the World", URL: https://badlands.substack.com/p/badlands-news-brief-4b9
 3. Badlands Brief — "Badlands News Brief: They're the Conspiracy Theorists, Now ...", URL: https://badlands.substack.com/p/badlands-news-brief-74a
+4. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

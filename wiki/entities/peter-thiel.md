@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, thiel-network, pcast, technocracy]
-sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ec8.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ec8.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -48,3 +48,9 @@ Badlands commentary in December 2025 traced the career of HHS Deputy Secretary a
 3. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 5. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
+
+## OpenAI and the 2023 Bilderberg meeting
+
+Peter Thiel was among the co-founders of [[openai|OpenAI]] in 2015, joining [[elon-musk|Elon Musk]], LinkedIn co-founder Reid Hoffman, Y Combinator founding partner Jessica Livingston and machine-learning researcher Ilya Sutskever.[6] The Badlands Media article "Dark Equation" identified him as a co-founder of both PayPal and [[palantir|Palantir]], and listed him among the attendees of the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, where artificial intelligence dominated the agenda.[6]
+
+6. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

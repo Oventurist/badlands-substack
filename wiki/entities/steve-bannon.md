@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [maga, media, war-room, epstein-files, kayfabe]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-d1d.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-7c6.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c7b.md, raw/badlands-brief-f17.md, raw/badlands-news-brief-08e.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-0db.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-545.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-899.md, raw/badlands-news-brief-914.md, raw/badlands-news-brief-966.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-d1d.md, raw/days-of-thunder.md]
 confidence: medium
 ---
 
@@ -162,3 +162,9 @@ Bannon had been found guilty in 2022 of failing to appear for a deposition order
 20. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
 21. Badlands Brief — "Badlands News Brief: Korean Borders, Warmongers & Peacemakers", URL: https://badlands.substack.com/p/badlands-news-brief-c9b
 22. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+
+## "Days of Thunder" framing
+
+Following [[donald-trump|Donald Trump]]'s January 2025 inauguration, Bannon coined the phrase "[[days-of-thunder|days of thunder]]" to describe the administration's opening campaign to dismantle both the deep and administrative states.[23] The label was widely adopted in pro-Trump media and supplied the title of a February 20, 2025 progress report by Badlands contributor [[ryan-delarme|Ryan DeLarme]] surveying the administration's first month, which covered the exposure of [[usaid|USAID]], the border crackdown, and the proposed closure of the [[department-of-education|Department of Education]].[23]
+
+23. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder

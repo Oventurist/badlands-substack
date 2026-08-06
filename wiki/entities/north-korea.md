@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [north-korea, hostages, bill-clinton, 2009, diplomacy]
-sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-f76.md]
+sources: [raw/america-for-sale-part-2.md, raw/america-for-sale-part-3.md, raw/badlands-brief-9f2.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-565.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-d74.md, raw/badlands-news-brief-f76.md, raw/does-the-cia-still-control-iran.md, raw/everything-is-connected.md]
 confidence: medium
 ---
 
@@ -87,6 +87,10 @@ On Tuesday, October 15, 2024, North Korea blew up the northern sections of the u
 
 Badlands contributor Burning Bright read the episode through [[donald-trump|Donald Trump]]'s commentary on it, arguing that in three clipped sentences Trump laid out an "ultra condensed Hegelian Dialectic": the reported Actual as the problem, a blunt summation of the reaction the Collective Mind is meant to have, and then the STORY of the solution set off in narrative quotes.[11] He concluded that "Trump the Peacemaker" is the last story, and that Kim, Vladimir Putin, and other members of what he called the Sovereign Alliance would help actualize it.[11]
 
+## Alleged CIA control and its severing (Badlands analysis)
+
+Badlands contributor Joe Lange argues that North Korea was one of a set of "rogue nuclear states" run as [[central-intelligence-agency|CIA]] proxies, sanctioned and cut off from the global financial system so that the agency could operate inside its domestic banking system on a cash basis, hidden from congressional oversight.[15] He contends that [[kim-jong-un|Kim Jong Un]] was effectively a hostage of the CIA whom [[donald-trump|Donald Trump]] set free, and that three CIA [[snow-white-supercomputers|supercomputers]] — numbers 1, 2 and 5 — were located in the country and taken offline by [[mike-pompeo|Mike Pompeo]], with a Q reference to three released North Korean generals interpreted as the closing of the agency's access pathway.[15] [[eric-schmidt|Eric Schmidt]] and [[bill-richardson|Bill Richardson]] are identified as the Americans who helped install those computer systems.[15] Lange also cites [[nancy-pelosi|Nancy Pelosi]]'s admission in an April 2018 interview that she had traveled to North Korea, where officials offered to sell her ballistic missiles, and claims [[barack-obama|Barack Obama]] attempted to contact Kim Jong Un secretly behind Trump's back in order to prevent peace.[15]
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
@@ -111,3 +115,13 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] rejec
 
 The appearance of [[kim-jong-un|Kim Jong-un]]'s daughter [[kim-ju-ae|Kim Ju-ae]] in China ahead of [[xi-jinping|Xi Jinping]]'s September 2025 "victory day" parade fueled speculation that she is being groomed to become the first female ruler of North Korea.[13] State media photos showed her stepping off her father's heavily armoured train in Beijing to be greeted by Chinese officials.[13] If she is her father's preferred successor, as many analysts believe, she would be the fourth member of the Kim family to rule the country since its founding by Kim Il-sung in 1948.[13] The same week, President [[donald-trump|Donald Trump]] accused China, Russia and North Korea of conspiring against the United States.[13]
 13. Badlands Brief — "Badlands News Brief: Sinking Confidence & A Loss Of Command", URL: https://badlands.substack.com/p/badlands-news-brief-f76
+
+## Carlson's "manufactured enemy" thesis (2023)
+
+In "Does the CIA Still Control Iran?", [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] wrote that he was "very confident" the [[central-intelligence-agency|CIA]] fully controlled North Korea for years, using it as an artificially created enemy of the United States after the fall of the Soviet Union left the [[military-industrial-complex|military industrial complex]] in need of new threats.[14] In his account the country was, in effect, created by the agency to serve as a manufactured but controlled adversary, allowing Americans to be governed through fear while justifying continued weapons production.[14]
+
+Carlson cited the Q-drop photograph of [[eric-schmidt|Eric Schmidt]] standing over North Korean military personnel working at computers, asking what the then-Alphabet executive was doing in a country foreigners were said to be barred from, and reading the image as implying that Schmidt and the CIA were training the North Koreans.[14] He further observed that Schmidt announced his departure from Alphabet on 21 December 2017, the day after [[donald-trump|Donald Trump]] issued [[executive-order-13818|Executive Order 13818]] blocking the property of persons involved in serious human rights abuse, calling the timing "kind of suspicious."[14]
+
+He argued that Trump cut the agency's strings in North Korea: rather than the predicted outbreak of war, relations improved to the point of the handshake between Trump and [[kim-jong-un|Kim Jong-un]] at the demilitarized zone, and he expected the same severing of CIA control to occur in [[iran|Iran]] once Trump returned to the White House.[14]
+14. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+15. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

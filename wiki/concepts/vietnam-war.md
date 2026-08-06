@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [vietnam, cold-war, cia, proxy-war, opium, veterans]
-sources: [raw/badlands-news-brief-565.md]
+sources: [raw/badlands-news-brief-565.md, raw/clowns-in-america.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ The war's history was invoked in June 2024 to explain the symbolic weight of [[v
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
+
+## Badlands account: opium, not communism
+
+The August 2023 Badlands article "Clowns in America" argues that the true reason for the war was money rather than the containment of communism.[2] Writer [[joe-lange|Joe Lange]] contends that after France lost the Indochina war the [[french-connection|French Connection]] lost control of the opium supply in the [[golden-triangle|Golden Triangle]], and that the [[central-intelligence-agency|CIA]] needed the U.S. military to step in and protect it — making the conflict one of many wars fought to defend agency drug and money-laundering operations.[2] The [[gulf-of-tonkin-incident|Gulf of Tonkin]] incident is described as a CIA operation staged to trigger the war.[2]
+
+While public attention focused on the daily televised toll of the war, Badlands notes several less-remarked consequences: massive national debt, an enlarged military industrial complex, and the end of the gold standard.[2] Meanwhile the [[secret-war-in-laos|secret war in Laos]] proceeded unnoticed in violation of the Geneva Peace Agreement, and the [[phoenix-program|Phoenix Program]] operated as what the article calls a CIA death squad program targeting civilians.[2] Citing the Office of Justice Programs, the article notes that demand for heroin among U.S. troops during the war helped transform the Golden Triangle's opium economy into a large and profitable heroin economy.[2] [[george-hw-bush|George H.W. Bush]]'s 1967 trip to Vietnam with CIA officer [[thomas-j-devine|Thomas J. Devine]] is placed against this backdrop.[2]
+
+2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america

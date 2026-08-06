@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hollywood, sex-crimes, epstein, badlands-news-brief]
-sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-bad.md]
+sources: [raw/badlands-news-brief-252.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-bad.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
 confidence: medium
 ---
 
@@ -40,3 +40,4 @@ Badlands Media commentary treated the decision as an object lesson in [[judicial
 2. Badlands Brief — "Badlands News Brief: Musical Guard Troops & Immigration Crackdowns", URL: https://badlands.substack.com/p/badlands-news-brief-540
 3. Badlands Brief — "Badlands News Brief: Election Laws & Justice for the Exploited", URL: https://badlands.substack.com/p/badlands-news-brief-5b3
 4. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad
+5. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep

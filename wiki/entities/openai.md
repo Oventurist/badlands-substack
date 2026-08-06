@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ai, tech, chatgpt, stargate]
-sources: [raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-cc3.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-d46.md]
+sources: [raw/a-new-hollywood.md, raw/america-has-a-cia-run-economy.md, raw/badlands-brief-02a.md, raw/badlands-brief-165.md, raw/badlands-brief-7bf.md, raw/badlands-brief-95a.md, raw/badlands-brief-a6b.md, raw/badlands-brief-cc3.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-433.md, raw/badlands-news-brief-561.md, raw/badlands-news-brief-7c9.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a50.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-fe4.md, raw/dark-equation.md, raw/dont-bring-shiny-rocks-to-digital.md]
 confidence: low
 ---
 
@@ -93,6 +93,18 @@ In February 2025 [[elon-musk|Elon Musk]], backed by a consortium of investors, m
 
 OpenAI faced reporting in July 2025 that ChatGPT had supplied users with instructions for self-mutilation, murder and ritual worship of Molech, findings that journalists at The Atlantic said they were able to reproduce experimentally.[18]
 
+## Musk bid for OpenAI's operating assets (February 2025)
+
+In February 2025, [[elon-musk|Elon Musk]] offered to buy the operating assets of OpenAI for $97.4 billion, a move Axios reported could turn the burgeoning AI industry on its head.[19] The bid placed pressure on CEO [[sam-altman|Sam Altman]], who was attempting to restructure the company by separating its nonprofit board control from its for-profit business; it was not clear whether Altman and the nonprofit board had agreed on a transition price, let alone how it compared with Musk's offer.[19] Altman responded on X: "no thank you but we will buy twitter for $9.74 billion if you want."[19] Reporting suggested Musk might simply be trolling OpenAI as part of his ongoing litigation against the organization.[19]
+
+[[badlands-media|Badlands Media]] contributor [[chris-paul|Chris Paul]] read the bid through the lens of state-linked technology development, asking whether DeepSeek had been the catalyst and remarking that "the leading defense contractor is going to be the new face of the technology that the government owned the whole time."[19]
+
+## Founding and the 2023 regulatory debate
+
+OpenAI was co-founded in 2015 by [[elon-musk|Elon Musk]] alongside LinkedIn co-founder Reid Hoffman, Y Combinator founding partner Jessica Livingston, PayPal co-founder [[peter-thiel|Peter Thiel]], and machine-learning researcher Ilya Sutskever.[20] By May 2023 the company's [[chatgpt|ChatGPT]] product was experiencing a surge in popularity, used for purposes ranging from Bible study to relationship advice, while related AI systems were generating art and photography that won competitions against lifelong practitioners.[20]
+
+That month chief executive [[sam-altman|Sam Altman]] testified before a US Senate Judiciary subcommittee, calling the regulation of artificial intelligence "essential" while stopping short of endorsing complete government control.[20] [[ryan-delarme|Ryan DeLarme]] argued that such calls may serve OpenAI's competitive interest, noting observers' view that large AI firms fear open-source models and favor licensing regimes that burden open-source developers.[20] Days later Altman attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, which DeLarme suggested would "bode well for his career and the continued success of OpenAI."[20]
+
 ## References
 
 1. Badlands Brief — "A New Hollywood", URL: https://badlands.substack.com/p/a-new-hollywood
@@ -113,3 +125,10 @@ OpenAI faced reporting in July 2025 that ChatGPT had supplied users with instruc
 16. Badlands Media — "Badlands News Brief: Bicameral Trump Cases & The Fettermen Speaketh", URL: https://badlands.substack.com/p/badlands-news-brief-bfb
 17. Badlands Brief — "Badlands News Brief: Muslim Migrants, Mad Max, & Even More Money-Laundering", URL: https://badlands.substack.com/p/badlands-news-brief-cb6
 18. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+19. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4
+20. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+21. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+
+## ChatGPT hype and the AI-data hazard (April 2023)
+
+An April 2023 Badlands essay recorded the wave of hype about OpenAI's [[chatgpt|ChatGPT]] model coming "from virtually every information circle and source," quoting the company's own description of a model "which interacts in a conversational way," able to answer follow-up questions, admit mistakes, challenge incorrect premises and reject inappropriate requests.[21] The essay's author observed users soliciting AI-generated responses, studying the model's behaviour and cataloguing hazards and use cases, and recounted being shown ChatGPT 4.0 output by Major Jason Lowery that he initially mistook for human writing.[21] He treated OpenAI's product as the visible edge of a broader capability to generate endless text, clips, images and recordings of anyone saying anything, and argued for [[bitcoin|Bitcoin]]-based cost imposition as the mitigation.[21]

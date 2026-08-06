@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [immigration, law-enforcement, border, dhs]
-sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-52f.md]
+sources: [raw/badlands-brief-bf7.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ On January 20, 2025 — Inauguration Day — Border Patrol agent [[david-maland|
 
 1. Badlands Brief — "Border Battles & Diplomatic Duets", URL: https://badlands.substack.com/p/badlands-brief-bf7
 2. Badlands Brief — "Badlands News Brief: North American Trade Troubles & Unipartisan Panic", URL: https://badlands.substack.com/p/badlands-news-brief-52f
+
+## Reported luggage handling at Yuma (May 2023)
+
+On May 15, 2023, [[real-americas-voice|Real America's Voice]] correspondent [[ben-bergquam|Ben Bergquam]] reported from Yuma, Arizona that Border Patrol agents were picking up tagged bags belonging to illegal border crossers and delivering them to the migrants' destinations, a practice [[steve-bannon|Steve Bannon]] described on air as an "illegal alien concierge service."[3] Bergquam said the migrants he encountered overnight came from Moldova, Egypt and Sudan and that hundreds were streaming into Arizona.[3] [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] linked the account to earlier reports of migrants receiving taxpayer-funded cell phones and court dates in the 2030s, arguing the [[department-of-homeland-security|Department of Homeland Security]] had reduced Border Patrol to "badged luggage porters" rather than applying limited resources to border security; she noted as countervailing news that agents had arrested a lone Afghan on the FBI terror watchlist among asylum seekers.[3]
+
+3. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde

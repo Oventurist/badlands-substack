@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, grand-jury, january-6, trump]
-sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-c14.md]
+sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-fe4.md]
 confidence: medium
 ---
 
@@ -37,9 +37,14 @@ In 2025 Howell issued an injunction prohibiting implementation of [[donald-trump
 
 The same commentary noted that Howell, an Obama appointee, previously served as chief judge for the District of Columbia, in which capacity she was a strong supporter of [[jack-smith|Jack Smith]]'s Trump prosecution.[4]
 
+## FOIA ruling on the Mar-a-Lago classified documents probe (February 2025)
+
+On Monday, February 10, 2025, Howell ruled that the dismissal of the criminal charges against [[donald-trump|Donald Trump]] for concealing classified records at Mar-a-Lago had eliminated a significant barrier to making records about the probe public.[5] She held that Trump's election as president — which forced the end of the criminal case — combined with the Supreme Court's ruling on presidential immunity meant Trump was effectively insulated from any criminal responsibility for his conduct, so the [[fbi|FBI]]'s previous reasons for refusing to gather and disclose records related to the probe no longer applied.[5] The ruling came in a Freedom of Information Act case brought by journalist Jason Leopold; Howell noted that while the dismissal of charges may have reduced Trump's criminal exposure, it "ironically" made him more susceptible to public scrutiny for his conduct.[5]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Wuhan Leak, AZ Claims & Gender Wars", URL: https://badlands.substack.com/p/badlands-news-brief-238
 2. Badlands Brief — "Badlands News Brief: Election Laws & Justice for the Exploited", URL: https://badlands.substack.com/p/badlands-news-brief-5b3
 3. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 4. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
+5. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4

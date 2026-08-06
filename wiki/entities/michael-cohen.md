@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [lawfare, new-york, trump-investigations, civil-fraud-case]
-sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-884.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-9e8.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-ee8.md, raw/badlands-news-brief-efd.md, raw/disinformation-is-necessary.md]
 confidence: medium
 ---
 
@@ -56,6 +56,12 @@ Cohen appeared blindsided and wavered in his recollection before blurting out, "
 
 The collapse startled commentators at [[cnn|CNN]], where host [[anderson-cooper|Anderson Cooper]] said, "It was incredible ... lawyers want to build a box around the witness & slam it shut — that's what Todd Blanche did to Cohen ... it was an extraordinary cross ... Cohen was cornered in ... a lie."[8] Badlands contributor [[burning-bright|Burning Bright]] framed the episode as the moment the prosecution's star witness was publicly shown to have lied, and read the wider lawfare campaign as Trump baiting the media into "one last gasp" of breathless predictions of his downfall.[8]
 
+## The 2018 FBI raid
+
+In April 2018 the FBI raided the New York office and residence of Cohen, then [[donald-trump|Donald Trump]]'s personal attorney, on behalf of the [[mueller-special-counsel-investigation|Mueller special counsel investigation]].[9] The stated pretext was a possible campaign contribution made to suppress a salacious story — the [[stormy-daniels|Stormy Daniels]] payment — in order to affect the 2016 election, and the raid sought financial documents.[9] Trump responded by tweeting "Attorney-client privilege is dead!"; CNBC noted that investigators must clear a high legal standard under Justice Department guidelines to search a lawyer's office, and that [[attorney-client-privilege|the privilege]] does not extend to advice furthering ongoing crime or fraud.[9]
+
+[[joe-lange|Joe Lange]] argues the raid was not an attack on Trump but a designed element of a broader operation. Q drop 1287 (April 27, 2018) asked what other documents were collected, whether [[rod-rosenstein|Rod Rosenstein]] signed off, and "How do you introduce evidence into an investigation (legally)?… Admissible in the court of law? Insert Rudy."[9] In this reading Trump amplified the raid to establish precedent destroying the privilege as a shield for future presidents, and [[robert-mueller|Mueller]]'s subsequent hand-off of the Cohen matter to [[geoffrey-berman|Geoffrey Berman]] at the [[southern-district-of-new-york|SDNY]] created the legal channel through which [[rudy-giuliani|Rudy Giuliani]]'s "insurance file" could enter ongoing investigations.[9] These claims reflect Badlands Media interpretation rather than established fact.
+
 ## References
 1. Badlands Brief — "War Weaves & Midterm Maxis", URL: https://badlands.substack.com/p/badlands-brief-884
 2. Badlands Media — "Badlands News Brief: Exculpatory Trump Card & China's Moves", URL: https://badlands.substack.com/p/badlands-news-brief-0e0
@@ -65,3 +71,4 @@ The collapse startled commentators at [[cnn|CNN]], where host [[anderson-cooper|
 6. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 7. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
 8. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+9. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary

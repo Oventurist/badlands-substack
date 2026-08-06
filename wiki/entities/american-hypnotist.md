@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [hypnosis, propaganda, badlands-media, commentary]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-550.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-look-at-recent-features.md, raw/a-startling-contradiction-at-the.md, raw/are-jack-smith-and-fani-willis-in.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-550.md, raw/countering-an-ocean-of-deceit.md, raw/expand-your-thinking.md]
 confidence: medium
 ---
 
@@ -52,6 +52,22 @@ He wrote that rumors of mRNA technology being engineered into lettuce and other 
 
 In the May 3, 2023 Badlands News Brief, American Hypnotist responded to reports that [[vice-media|Vice Media]] — once valued at $5.7 billion — was preparing to file for bankruptcy, observing that while standing armies cannot stop an idea whose time has come, billions of dollars likewise cannot save a company whose time has gone.[6] He argued the collapse suggested that progressive "infotainment" lacked the staying power and popularity attributed to it, casting doubt on the claim that the modern left had successfully captured the culture.[6] Citing Walter Lippmann's *Public Opinion*, he contended that the mass proliferation of newspapers a century earlier had been engineered by moneyed interests rather than driven by organic demand, and asked whether outlets like Vice had ever risen on genuine demand or whether the money faucet had simply run dry.[6]
 
+## "Countering an Ocean of Deceit" (2025)
+
+On 24 June 2025 American Hypnotist published "Countering an Ocean of Deceit," subtitled "If Q is Real, What Then?", a Badlands Media essay proposing that the Q drops together comprise a "memeplex" designed to reveal the operation's true purpose through the activities of proponents and detractors alike.[7] The essay defined [[q-operation|Q]]'s legitimacy as two demonstrable propositions — that Q is a real insider with classified access, and that Q is on the side of mankind — and referred readers to his earlier pieces "Q is Real Because Math Says So" and "Q is Our Best Fren" for the underlying arguments.[7]
+
+Drawing on David and Goliath and on Luke Skywalker's photon-torpedo strike in *Star Wars: A New Hope* — noting that both "Luke" and "photon" carry connotations of light — he argued that "a single well-placed droplet of truth can vaporize an ocean of deceit," and identified the [[q-proofs|Q proofs]] as that droplet against the [[mockingbird-media|mockingbird media]].[7] He engaged in detail with the critic [[17th-special-citizens-operations-group|17SCOG]], accepting his forensic demonstration that Q is a structured, military-grade influence operation while rejecting his conclusion that it is therefore malign or illegal, and invoking the DoD [[dod-law-of-war-manual|Law of War Manual]] against the statutory objections drawn from Title 50 § 3093, DoD Directive 3600.01 and [[executive-order-12333|Executive Order 12333]].[7]
+
+He disclosed that he had himself faced false accusations of domestic terrorism as a Q supporter, expressed sympathy for 17SCOG's account of being rebuked by a court over his QAnon association, and maintained that responsibility for such treatment lies with the enemy rather than with Q.[7] The essay closed with the expectation that [[the-storm|the Storm]] would arrive between late summer 2025 and 4 July 2026, and with the refrain "it drips and it drips and it drips some more… and then comes the flood," applied to the coming [[great-awakening|Great Awakening]].[7] As is customary, readers were directed to his independent newsletter at American Hypnotist for more of his work.[7]
+
+## Neuroscience and expanded thinking
+
+In "Expand Your Thinking" (May 25, 2023), subtitled "What Neuroscience Can Teach Us About Symbolic Communication and 5G War," the author turned from hypnosis to hemispheric neurology, taking [[qanon|Q]]'s injunction to "expand your thinking" as a practical problem in cognition.[8] He argued that the brain is continuously doing two things at once — creating maps of the world and experiencing the world directly — and that expanding one's thinking means learning to update those internal maps with new information.[8] Drawing on the work of [[iain-mcgilchrist|Iain McGilchrist]], he presented [[hemispheric-specialization|hemispheric specialization]] as an established fact of neurology and left-brain dominance as the condition in which a person's [[map-and-territory|map is mistaken for the territory]].[8]
+
+He grounded the argument in his own field by noting that a subject can be hypnotized into not perceiving another person in the room, citing Anthony Jacquin's *Reality Is Plastic* and James Tripp's Online Deep Apprenticeship, and treated this hypnotic deletion of sensory information as literal proof that internal maps edit perception.[8] The same mechanism, he wrote, operates when someone is presented with a truth that contradicts their belief system, especially under social pressure to conform.[8]
+
+The essay closed by recommending the website [[decoding-symbolism|Decoding Symbolism]] — with an explicit refusal to endorse its conclusions — as a training ground for the associative, symbolic mode of thought he considers necessary to the [[5g-war|5G war]], on the Q premise that the [[cabal|cabal]]'s need for symbolism will be its downfall.[8] As usual, the piece carried the Badlands disclaimer that contributors' views are their own and directed readers to his newsletter American Hypnotist.[8]
+
 ## References
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features
@@ -59,3 +75,5 @@ In the May 3, 2023 Badlands News Brief, American Hypnotist responded to reports 
 4. Badlands Brief — "Are Jack Smith and Fani Willis in on the Plan?", URL: https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in
 5. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
 6. Badlands Brief — "Badlands News Brief: Media Death Spiral, Vaccine Lawsuits & Beaver Butts", URL: https://badlands.substack.com/p/badlands-news-brief-550
+7. Badlands Brief — "Countering an Ocean of Deceit", URL: https://badlands.substack.com/p/countering-an-ocean-of-deceit
+8. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking

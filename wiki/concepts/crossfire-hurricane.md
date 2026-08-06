@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, russiagate, counterintelligence, 2016-election]
-sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c6a.md]
+sources: [raw/badlands-brief-195.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c6a.md, raw/durham-continues-to-reveal-previously.md, raw/disinformation-is-necessary.md]
 confidence: medium
 ---
 
@@ -41,9 +41,23 @@ On Tuesday, March 25, 2025, President [[donald-trump|Donald Trump]] signed an ex
 
 Badlands contributor [[jon-herold|Jon Herold]] observed that Trump had declassified the Crossfire Hurricane material "again," referring readers to his earlier post on the subject and asking whether the long-missing binder of related documents had finally been found or was still missing.[5]
 
+## Absence of predicate and the Page warrant renewals
+
+Badlands contributor [[brian-cates|Brian Cates]] argued that Special Counsel [[john-durham|John Durham]] demonstrated, through documentary evidence and witness testimony at the [[igor-danchenko|Danchenko]] trial, that the [[fbi|FBI]] opened Crossfire Hurricane without any real predicate and compounded that failure by using unverified [[hillary-clinton|Clinton]] campaign allegations in a surveillance warrant with no evidentiary basis.[6] In this account the team worked backwards, starting from the crime it wished to attribute to [[donald-trump|Trump]] and his associates and then looking for a justification for surveillance already under way.[6]
+
+The trial record showed that the team supposedly did not learn until late December 2016 that [[christopher-steele|Christopher Steele]]'s primary sub-source was Danchenko, and that upon learning it the FBI became aware of a Baltimore field office counterintelligence investigation of him for suspected espionage.[6] Knowing by January 2017 that the sub-source of the [[steele-dossier|Steele Dossier]] material was a suspected Russian agent, Crossfire Hurricane, joined for the final renewal by the [[mueller-special-counsel-investigation|Mueller Special Counsel's Office]] which stood up in May 2017, renewed the [[carter-page|Carter Page]] warrant three times.[6] Cates wrote that by the third renewal nobody on the team could have retained any illusion about the dossier's veracity or about the operatives who produced it.[6]
+
+## As a disinformation campaign
+
+In "Disinformation is Necessary," [[joe-lange|Joe Lange]] characterizes the entire Crossfire Hurricane counterintelligence investigation — launched under [[barack-obama|Obama]] and handed off to the [[mueller-special-counsel-investigation|Mueller special counsel investigation]] — as a disinformation campaign designed to convince the American people that [[donald-trump|Trump]] had stolen the 2016 election and was a puppet of Russia.[7] He frames it not merely as an attempted coup but as an act of war by an insurgency that had infiltrated every level of government and was using all available means to remove Trump from office.[7]
+
+Lange argues the special counsel phase was intended to blockade disclosure of Crossfire Hurricane's origins and to influence the 2018 midterms so that Democrats could take the House and shut down inquiries into the conspiracy.[7] Q drop 4373 (May 31, 2020) is cited as the summary judgment: "YOU ARE WITNESSING THE GREATEST [COORDINATED] DISINFORMATION CAMPAIGN TO EVER BE LAUNCHED AGAINST THE AMERICAN PEOPLE. INFORMATION WARFARE. INFILTRATION V INVASION INSURGENCY. IRREGULAR WARFARE."[7] These claims reflect Badlands Media interpretation rather than established fact.
+
 ## References
 1. Badlands Brief — "Crypto Smears, Professional Plotlines, & Meat Probes", URL: https://badlands.substack.com/p/badlands-brief-195
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
 3. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 4. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 5. Badlands Brief — "SCOTUS Examines Slushy Subsidies as Speaker Weighs Abolishing Courts", URL: https://badlands.substack.com/p/badlands-news-brief-c6a
+6. Badlands Brief — "Durham Continues To Reveal Previously Undisclosed SpyGate Evidence", URL: https://badlands.substack.com/p/durham-continues-to-reveal-previously
+7. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democratic-party, congress, 2028-election, progressives]
-sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md]
+sources: [raw/badlands-brief-7bf.md, raw/badlands-brief-8db.md, raw/badlands-news-brief-60c.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-b39.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-efd.md, raw/badlands-news-brief-fbc.md]
 confidence: medium
 ---
 
@@ -53,6 +53,10 @@ Following President [[donald-trump|Donald Trump]]'s decision to attack Iranian n
 
 Ocasio-Cortez traded barbs with [[marjorie-taylor-greene|Marjorie Taylor Greene]] during a heated exchange on the evening of May 16, 2024, at what was meant to be a [[house-oversight-committee|House Oversight Committee]] contempt hearing for Attorney General [[merrick-garland|Merrick Garland]].[8] The confrontation followed Greene's remark to Rep. [[jasmine-crockett|Jasmine Crockett]] about her "fake eyelashes," and produced the widely circulated line in which Ocasio-Cortez asked Greene, "Are your feelings hurt?"[8]
 
+## Criticism of the Supreme Court, July 2023
+
+On Sunday, July 2, 2023, Ocasio-Cortez told CNN's State of the Union that the conservative [[supreme-court-of-the-united-states|Supreme Court]] was "creeping dangerously towards authoritarianism," again raising the unlikely prospect of impeaching justices over recent actions.[9] Her comments came days after the Court released a batch of far-reaching rulings striking down [[affirmative-action|affirmative action]] in college admissions, ruling for a Christian web designer in [[303-creative-llc-v-elenis|303 Creative LLC v. Elenis]], and invalidating [[joe-biden|Joe Biden]]'s student loan relief program.[9] She said, "These are the types of rulings that signal a dangerous creep towards authoritarianism and centralization of power in the court," and pointed to Justice [[elena-kagan|Elena Kagan]]'s observation that the Court was beginning to assume the power of a legislature, adding that the justices "are expanding their role into acting as though they are Congress itself."[9] Referring to ethics controversies involving Justices [[samuel-alito|Samuel Alito]] and [[clarence-thomas|Clarence Thomas]], she repeated calls for [[congress|Congress]] to consider removing them — a proposal reported as dead on arrival in the Republican-controlled House.[9] Badlands writer [[burning-bright|Burning Bright]] read her remarks as an inadvertent tally of Deep State losses at the Court, including [[roe-v-wade|Roe v. Wade]], constitutional carry, affirmative action, student debt forgiveness, and compelled LGBT messaging in business.[9]
+
 ## References
 
 1. Badlands Brief — "Entertaining Obstruction & Artificial Shadow Wars", URL: https://badlands.substack.com/p/badlands-brief-7bf
@@ -63,3 +67,4 @@ Ocasio-Cortez traded barbs with [[marjorie-taylor-greene|Marjorie Taylor Greene]
 6. Badlands Brief — "Biden Says Stuff as Nazis Circle in Ukraine", URL: https://badlands.substack.com/p/badlands-news-brief-b39
 7. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
 8. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+9. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc

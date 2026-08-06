@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [afghanistan, taliban, state-department, detention, counterterrorism]
-sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-f61.md]
+sources: [raw/badlands-brief-509.md, raw/badlands-news-brief-f61.md, raw/everything-is-connected.md]
 confidence: low
 ---
 
@@ -22,6 +22,10 @@ The classification is used to identify governments that detain foreign nationals
 
 The designation was presented in the March 10, 2026 [[badlands-brief|Badlands Brief]] under the heading "War on Terror Reloaded?", alongside a Justice Department terrorism prosecution, as part of a cluster of re-emerging war narratives.[1] Contributor [[ashe-in-america|Ashe in America]] linked the pattern to the World Economic Forum's 2023 forecast of a coming "polycrisis," arguing that the globalists "always try to follow through" and that President [[donald-trump|Donald Trump]] was playing whack-a-mole with successive war narratives.[1] Badlands has elsewhere noted that the Taliban, like other regional actors, had at some point pledged loyalty to Trump.[1]
 
+## Origin point of the alleged heroin corridor (Badlands analysis)
+
+Badlands contributor Joe Lange places Afghanistan's poppy fields at the origin of the narcotics network he attributes to the [[central-intelligence-agency|CIA]], with [[pakistan|Pakistan]] serving as a safe haven for the traffic and for the terrorists protecting it.[3] Because [[iran|Iran]] lies geographically between the Afghan poppy fields and the West, it forms the starting point of the world's major heroin trade routes to Russia, Western Europe and the United States, with the corridor continuing through [[armenia|Armenia]] and the occupied territories of [[azerbaijan|Azerbaijan]] before reaching Europe.[3] Lange argues the 81-mile border strip recovered in the [[second-karabakh-war|Second Karabakh War]] was the gateway for that Afghan heroin into Europe, and notes that Afghanistan's removal from the global financial system, alongside Iran and [[north-korea|North Korea]], allowed the agency to operate on a cash basis inside those countries' own banking systems, beyond congressional oversight.[3]
+
 ## References
 
 1. Badlands Brief — "Election Exposure, Energy Angst & War Rackets", URL: https://badlands.substack.com/p/badlands-brief-509
@@ -31,3 +35,4 @@ The designation was presented in the March 10, 2026 [[badlands-brief|Badlands Br
 Afghanistan, which until recently produced 90% of the world's heroin, saw opium cultivation collapse after the ruling [[taliban|Taliban]] government prohibited poppy farming in April 2022, citing religious belief and the social costs of opioid addiction.[2] Geospatial analysis by Alcis found national poppy production down roughly 80% within a year, and satellite imagery of Helmand Province — which produces more than half the crop — showed a 99% drop, leaving fewer than 1,000 hectares under cultivation.[2] Farmers shifted to wheat, helping stave off the worst of a famine that U.S. sanctions helped create, though the United Nations warned that six million Afghans remained close to starvation.[2] The result raised questions about the seriousness of two decades of U.S. counter-narcotics efforts in the country and prompted warnings that shrinking heroin supply could accelerate [[fentanyl-crisis|fentanyl]] use in the United States.[2] See [[taliban-opium-eradication-campaign|Taliban opium eradication campaign]].[2]
 
 2. Badlands Brief — "Badlands News Brief: Special Counsels, Island Fires & White Pills", URL: https://badlands.substack.com/p/badlands-news-brief-f61
+3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected

@@ -3,22 +3,15 @@ title: "Reid v. Covert"
 created: 2026-08-06
 updated: 2026-08-06
 type: concept
-tags: [supreme-court, constitutional-law, treaties, sovereignty]
-sources: [raw/badlands-news-brief-de8.md]
+tags: [reid-v-covert, supreme-court, treaty-law, us-constitution, ratification]
+sources: [raw/behold-a-trojan-horse.md]
 confidence: medium
 ---
 
-# Reid v. Covert
+Reid v. Covert, 354 U.S. 1 (1957), is a U.S. Supreme Court case establishing that a treaty must conform to the Constitution and that, where a later federal statute conflicts with a treaty, the statute prevails.[1] A May 2023 Badlands Media article cited the case in an addendum arguing that, under U.S. law, an international treaty requires a Senate super-majority vote to be ratified, and that should a conflict arise between a ratified treaty and the Constitution, the Constitution supersedes the treaty.[1]
 
-Reid v. Covert, 354 U.S. 1, is a decision of the Supreme Court of the United States frequently cited for the proposition that treaties cannot override the [[united-states-constitution|United States Constitution]].[1]
-
-## Holding as cited
-
-The passage most often quoted states that the Court "has also repeatedly taken the position that an Act of Congress, which must comply with the Constitution, is on a full parity with a treaty, and that, when a statute which is subsequent in time is inconsistent with a treaty, the statute to the extent of conflict renders the treaty null," adding that it "would be completely anomalous to say that a treaty need not comply with the Constitution when such an agreement can be overridden by a statute that must conform to that instrument."[1]
-
-## Use in the pandemic treaty debate
-
-In May 2023, [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] invoked Reid v. Covert in arguing that the [[world-health-organization|World Health Organization]]'s proposed [[pandemic-treaty|pandemic treaty]] and the amendments to the [[international-health-regulations|International Health Regulations]] could not lawfully strip American sovereignty, since the Constitution supersedes any ratified treaty in the event of conflict.[1] He further noted that ratification of an international treaty requires a supermajority vote of the [[us-senate|U.S. Senate]], while cautioning that neither constraint would necessarily deter the instruments' proponents.[1]
+The article quoted the Court's holding that "an Act of Congress, which must comply with the Constitution, is on a full parity with a treaty," and that a later inconsistent statute "renders the treaty null" to the extent of the conflict.[1] The citation was marshaled to reassure readers that the proposed [[who-pandemic-treaty|pandemic treaty]] could not override the U.S. constitutional order even if ratified.[1]
 
 ## References
-1. Badlands Brief — "Badlands News Brief: Trump's Town Hall, Comer's Committee & Biden's Bribes", URL: https://badlands.substack.com/p/badlands-news-brief-de8
+
+1. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [controlled-opposition, conservatism, maga, media, information-war]
-sources: [raw/all-assets-deployed.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6d6.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6d6.md, raw/death-blossom.md]
 confidence: medium
 ---
 
@@ -55,3 +55,9 @@ By August 2023, with [[ron-desantis|Ron DeSantis]] tied at 10 percent in an [[em
 3. Badlands News Brief — "'Heroic' Nazis & Unexpectedly Flaccid Orgy Dome", URL: https://badlands.substack.com/p/badlands-news-brief-3d2
 4. Badlands Brief — "Badlands News Brief: DeSantis Runs, Lake Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-5eb
 5. Badlands Brief — "Con Inc. Introduces a New Candidate ... And Trump Was Right!", URL: https://badlands.substack.com/p/badlands-news-brief-6d6
+
+## Death Blossom (November 2022)
+
+[[burning-bright|Burning Bright]]'s November 23, 2022 essay "Death Blossom" treated Con Inc. as one of the primary targets of [[donald-trump|Donald Trump]]'s November 2022 announcement sequence.[6] In appearing weak while actually being stronger than ever, Trump induced "all of the wolves in sheep's clothing in Con Inc." — together with the controlled opposition operating inside the Alternative Media — to reveal themselves by backing the first America First figure other than Trump they believed they could control.[6] Burning Bright described the result as a veritable coup that smoked out those in the movement who were "little more than charlatans at best and malicious Judas goats at worst."[6]
+
+6. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, nato, europe, transatlantic]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-845.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-845.md, raw/exploiting-the-dead.md]
 confidence: medium
 ---
 
@@ -28,6 +28,13 @@ Responses were mixed: some European officials welcomed the reaffirmation of alli
 
 At the February 2024 conference, former Secretary of State [[hillary-clinton|Hillary Clinton]] used a lunchtime panel to warn delegates that [[donald-trump|Donald Trump]] would seek to withdraw the United States from [[nato|NATO]] if returned to office, urging attendees to take him "literally and seriously."[2] She predicted Trump would attempt to become "an absolute authoritarian leader" and would effectively exit the alliance by declining to fund U.S. obligations, notwithstanding a congressional resolution barring withdrawal without legislative support.[2] Badlands writer [[burning-bright|Burning Bright]] treated the appearance as part of an [[information-war|Info War]] push tying continued Ukraine war funding to the conflation of Trump with [[vladimir-putin|Vladimir Putin]].[2]
 
+## February 2024 conference and the Ukraine aid panic
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] characterised the February 2024 gathering, attended by [[kamala-harris|Kamala Harris]] and other Western leaders, as suffused with panic that the United States might not deliver the $60 billion sought for Ukraine.[3] Politico reported that attendees were worried about Ukraine's prospects and about American commitment to Kyiv, and recounted a story four American senators had been told by Ukrainian officials: a soldier in a muddy trench with Russian artillery exploding nearby, scrolling his phone for signs the U.S. House would approve military aid.[3] DeLarme dismissed the anecdote as Hollywoodesque war propaganda, comparing it to a film scene, and noted that many politicians used the conference to press the claim that Ukraine would lose the war without the aid.[3]
+
+Russia announced [[alexei-navalny|Alexei Navalny]]'s death on the Friday of the conference, just as Western leaders gathered in Munich.[3] Nigel Gould-Davies, a former British ambassador to Belarus and senior fellow for Russia and Eurasia at the [[international-institute-for-strategic-studies|International Institute for Strategic Studies]], told the Associated Press that the death showed [[vladimir-putin|Putin]]'s "complete ruthlessness and disdain" for Western and international opinion and that it should serve as a "wake-up call" to congressional Republicans opposing Ukraine aid and encourage European [[nato|NATO]] allies to increase assistance.[3] DeLarme treated the timing as evidence that the death was being instrumentalised to unblock the funding.[3]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Badlands News Brief: DemoCrabs in Biden's Bucket", URL: https://badlands.substack.com/p/badlands-news-brief-845
+3. Badlands Media — "Exploiting the Dead", URL: https://badlands.substack.com/p/exploiting-the-dead

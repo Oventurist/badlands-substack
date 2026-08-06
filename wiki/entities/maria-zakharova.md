@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [russia, diplomacy, foreign-ministry, iran-war]
-sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e1e.md, raw/badlands-news-brief-e81.md]
+sources: [raw/badlands-brief-e3f.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-13f.md, raw/badlands-news-brief-2f2.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-808.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-ac8.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d76.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-e1e.md, raw/badlands-news-brief-e81.md, raw/badlands-news-brief-fcd.md]
 confidence: medium
 ---
 
@@ -69,6 +69,10 @@ In late March 2024 Zakharova said the United States had backed itself into a cor
 
 Following [[donald-trump|Donald Trump]]'s victory in the November 2024 US presidential election, Zakharova struck a notably warmer tone than Kremlin spokesman [[dmitry-peskov|Dmitry Peskov]], telling the state broadcaster Rossia 24 that it was important Trump "started talking about how America is sick and that the problems of American society need to be addressed" during his victory speech.[13] Separately she wrote on Telegram, "Those who win are the ones who live with love for their own country, not with hatred toward others."[13] Taken together, the two officials' remarks were read as Moscow adopting a cautious wait-and-see approach to the incoming administration.[13]
 
+## Summoning of the Azerbaijani ambassador (June 2025)
+
+On June 30, 2025, after Azerbaijani authorities detained two senior [[sputnik|Sputnik]] editors and a Ruptly journalist in Baku, Zakharova told reporters that "in light of Baku's hostile actions and the unlawful detention of Russian journalists… the ambassador of the Azerbaijani Republic has been summoned to the Foreign Ministry."[16] She expressed concern that Russian diplomats had not been able to contact the detained journalists, who are Russian citizens.[16] The summons of ambassador [[rakhman-mustafaev|Rakhman Mustafaev]] came amid deteriorating Russian-Azerbaijani relations following a police raid in Yekaterinburg targeting the local Azerbaijani diaspora.[16]
+
 ## References
 1. Badlands Brief — "Blondie's Ouster, Peters Sentence, & Several Foreign Ops", URL: https://badlands.substack.com/p/badlands-brief-e3f
 2. Badlands Brief — "Badlands News Brief: A Splintered Establishment & Tension Tightropes", URL: https://badlands.substack.com/p/badlands-news-brief-116
@@ -100,3 +104,4 @@ Following the [[2024-swiss-peace-summit-on-ukraine|international Ukraine peace s
 On Tuesday, August 5, 2025, Zakharova disclosed that a Russian diplomatic vehicle had been attacked the previous week by Israeli settlers in the occupied West Bank, causing mechanical damage, and said Russia considered the incident a violation of the [[vienna-convention-on-diplomatic-relations|Vienna Convention on Diplomatic Relations]].[15] She said the attack occurred on July 30 near the illegal Israeli settlement of Giv'at Asaf, east of Ramallah and about 20 kilometres north of Jerusalem, and that the settlers shouted threats at the diplomats.[15] Zakharova called the [[israel-defense-forces|Israeli military]]'s failure to intervene "particularly puzzling," stating that "the Israeli Defense Force soldiers didn't even bother to try and stop the attackers' aggressive actions."[15] The vehicle carried members of Russia's diplomatic mission to the Palestinian Authority, who are also accredited with the [[israeli-ministry-of-foreign-affairs|Israeli Foreign Ministry]].[15] See [[givat-asaf-settler-attack-on-russian-diplomats|the Givat Asaf incident]].[15]
 
 15. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81
+16. Badlands Brief — "Badlands News Brief: Lifting Sanctions & Revoking Citizenship", URL: https://badlands.substack.com/p/badlands-news-brief-fcd

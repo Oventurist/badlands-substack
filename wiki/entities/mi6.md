@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, united-kingdom, cabal]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-f44.md, raw/does-the-cia-still-control-iran.md]
 confidence: low
 ---
 
@@ -44,3 +44,8 @@ Badlands Media advances the claim that [[british-east-india-company|the British 
 4. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 5. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
 6. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+
+## Joint control of Iran (Carlson, 2023)
+
+In "Does the CIA Still Control Iran?", [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] concluded that while there are genuinely evil people doing evil things in [[iran|Iran]], "many of them are controlled by the CIA/MI6."[7] The joint formulation follows from his account of the [[1953-iranian-coup|1953 coup]], in which the [[central-intelligence-agency|CIA]] acted at the request of British interests — described as its "puppet masters" — after [[mohammad-mosaddegh|Mohammad Mossadegh]] nationalized the Iranian oil industry and expelled British Petroleum, whose production depended heavily on Iranian fields.[7]
+7. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran

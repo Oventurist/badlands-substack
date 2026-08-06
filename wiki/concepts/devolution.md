@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [conspiracy-theory, badlands-media, continuity-of-government]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-264.md, raw/badlands-news-brief-2d2.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-fcb.md, raw/bric-by-bric.md, raw/chips-and-dips.md]
 confidence: high
 ---
 
@@ -63,3 +63,21 @@ Analysing the February 20, 2024 US veto of a [[united-nations-security-council|U
 9. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 10. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
 11. Badlands Brief — "Badlands News Brief: Toothless Sanctions and Ouroboros Patterns", URL: https://badlands.substack.com/p/badlands-news-brief-d6a
+
+## Devolution Part 24 (May 2023)
+
+The twenty-fourth installment of the series, published in May 2023, placed [[antony-blinken|Antony Blinken]], the [[central-intelligence-agency|CIA]] and [[hunter-biden|Hunter Biden]] at the center of the dig, focusing on the suppression of the [[hunter-biden-laptop|Hunter Biden laptop]] story.[12] [[jon-herold|Jon Herold]] argued that [[donald-trump|Donald Trump]] knew what was on the laptop and had publicly called both [[joe-biden|Joe Biden]] and the media criminal over it, and that his administration understood the suppression to be election interference; he closed by asking why, if the Biden network were truly in full control, any of this information would be surfacing at all.[12] [[burning-bright|Burning Bright]] wrote that the installment tied more threads together than many believed, and urged readers to weigh the positive implications of the information seeing the light of day rather than dwelling on Deep State criminality alone.[12]
+
+12. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
+
+## Cited as explanation for BRICS' rise (August 2023)
+
+In "BRIC by BRIC," [[burning-bright|Burning Bright]] treated the emergence of an expanded [[brics|BRICS]] bloc during [[donald-trump|Donald Trump]]'s absence from public office as "one of the key circumstantial Devolution proofs" available in the information war.[13] The reasoning was that a sitting Trump, as Commander-in-Chief, could not have allowed kinetic incursions by the Russian Federation nor the unchallenged growth of a rival monetary bloc without contradicting his own rhetoric.[13] Crediting [[jon-herold|Jon Herold]]'s research, the essay also argued that Devolution and [[continuity-of-government|Continuity of Government]] had neutralized the military pillar of the [[deep-state|Deep State]]'s system for the time being, leaving its financial and energy pillars exposed to the BRICS challenge.[13]
+
+13. Badlands Brief — "BRIC by BRIC", URL: https://badlands.substack.com/p/bric-by-bric
+
+## The CHIPS Act as devolution proof (December 2022)
+
+In "CHIPS and Dips" (December 21, 2022), [[burning-bright|Burning Bright]] described the [[chips-and-science-act|CHIPS Act]] and [[joe-biden|Joe Biden]]'s signing of it as "one of the clearest proofs yet" of [[jon-herold|Jon Herold]]'s Devolution theory.[14] He restated the theory as positing that the United States presidency was dissolved and devolved under [[donald-trump|Donald Trump]], with its powers distributed among a group of trusted advisors and administrators — perhaps the Combatant Commanders of the U.S. military — in order to protect National Essential Functions until Trump or someone like him could be reinstalled in the public seat of power without risking the kickoff of a civil war.[14] Policies emerging from the Biden administration that either mirror or continue Trump-era objectives, he argued, are best explained as the output of that shadow arrangement rather than of Biden's ostensible globalist masters.[14]
+
+14. Badlands Brief — "CHIPS and Dips", URL: https://badlands.substack.com/p/chips-and-dips

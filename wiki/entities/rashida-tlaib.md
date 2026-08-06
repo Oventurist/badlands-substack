@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, democrats, michigan, state-of-the-union]
-sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md]
+sources: [raw/badlands-brief-40d.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-10a.md, raw/badlands-news-brief-845.md, raw/badlands-news-brief-ae3.md, raw/badlands-news-brief-c07.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-db1.md, raw/badlands-news-brief-f6f.md]
 confidence: medium
 ---
 
@@ -56,3 +56,9 @@ Tlaib championed the [[listen-to-michigan|Listen to Michigan]] effort, allied wi
 ## Uncommitted vote on Super Tuesday 2024
 Badlands coverage of [[2024-super-tuesday|Super Tuesday]] 2024 described the [[uncommitted-movement|vote uncommitted movement]] as a protest effort led by Tlaib and the progressive Squad, intended as a show of force pressuring President [[joe-biden|Joe Biden]] on Palestine.[8] Uncommitted totals reached ten percent or more in the Democratic primaries in Minnesota, Massachusetts and North Carolina that night.[8]
 8. Badlands Brief — "Badlands News Brief: Super Tuesday Goes as Planned & the Deep State Loses a Player", URL: https://badlands.substack.com/p/badlands-news-brief-db1
+
+## May 2025 Capitol press conference
+
+On May 14, 2025, Tlaib appeared at a pro-Palestinian press conference outside the US Capitol alongside Ben & Jerry's co-founder [[ben-cohen|Ben Cohen]], hours before Cohen was removed by Capitol Police from a Senate HELP Committee hearing with HHS Secretary [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]].[9]
+
+9. Badlands Brief — "Another Ardah, Optimus Prance, & the Right Deal Arms", URL: https://badlands.substack.com/p/badlands-news-brief-f6f

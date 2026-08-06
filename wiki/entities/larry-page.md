@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, ai, google, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-579.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-006.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-579.md, raw/dark-equation.md]
 confidence: medium
 ---
 
@@ -30,8 +30,13 @@ On May 4, 2023, U.S. District Judge [[jed-rakoff|Jed Rakoff]] ruled in federal c
 
 The territory's suit accuses JPMorgan of missing red flags about Epstein's abuse of women on [[little-st-james|Little St. James]], the private island Epstein owned there.[4] Commentary by [[ashe-in-america|Ashe in America]] noted that the case, filed in December 2022, alleges that JPMorgan executives "developed a close relationship with Epstein" and that Epstein "brought additional high net worth clients" to the bank — Page being identified as one such client.[4] The subpoena was said to seek correspondence between Page and Epstein as well as between Page and JPMorgan.[4]
 
+## The "A.I. God" dispute with Elon Musk
+
+In the Badlands Media article "Dark Equation," [[ryan-delarme|Ryan DeLarme]] cited [[elon-musk|Elon Musk]]'s Tucker Carlson interview account of his falling-out with Page over the development of what Musk termed an "[[artificial-super-intelligence|Artificial Super Intelligence]]," the concept independent researchers had described as an "A.I. God."[5] DeLarme wrote that the once far-fetched idea was "now all but verified by Elon Musk's account and the public statements of Larry Page and others."[5] At the time of the split, [[google|Google]] had just acquired the UK research lab [[deepmind|DeepMind]], and Musk characterized Google's approach to AI as holding "great potential for good, but there's also potential for bad."[5] The article linked Page's expressed interest in an AI god to the [[2023-bilderberg-meeting|2023 Bilderberg meeting]]'s focus on artificial intelligence.[5]
+
 ## References
 1. Badlands Media — "Badlands News Brief: FOX Guarding the Hen House?", URL: https://badlands.substack.com/p/badlands-news-brief-001
 2. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
 3. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 4. Badlands Brief — "Badlands News Brief: Resignations Tracked, Banks Shuttered & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-579
+5. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation

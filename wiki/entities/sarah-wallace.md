@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, colorado, fourteenth-amendment, 2024-election]
-sources: [raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b92.md]
+sources: [raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b92.md, raw/beyond-absurdity.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ In her 102-page ruling Wallace declared that "[t]he Court holds there is scant d
 
 Ashe further observed that the [[january-6-capitol-security-footage-release|release of January 6 security footage]] a few hours before the Colorado ruling made the timing "curious," since the videos directly undercut Wallace's legal conclusion that January 6 was an insurrection incited by Trump.[2]
 
+## Findings of fact and law
+
+Wallace's November 17, 2023 ruling held both that "Trump incited an insurrection on January 6, 2021 and therefore 'engaged' in insurrection within the meaning of Section 3 of the 14th Amendment" and that "Section 3 of the 14th Amendment does not apply to Trump."[3] She affirmed that the Secretary of State cannot independently bar a candidate from the ballot on a constitutional infirmity unless it is an "objective, knowable fact" — for example age or term limits — and cannot make a subjective determination of eligibility.[3] She defined insurrection as a public use of force or threat by a group to hinder execution of the Constitution and concluded that the events surrounding January 6, 2021 met that definition.[3]
+
+Wallace rejected Trump's [[first-amendment|First Amendment]] defense and concluded that a criminal conviction for insurrection is not a prerequisite to applying Section 3.[3] She declined to consider only the "objective meaning" of Trump's language — the [[absurdity-doctrine|absurdity clause]] argument — finding that objectivity is not a required element of the [[brandenburg-test|Brandenburg test]], and held both Brandenburg factors satisfied.[3] She credited Professor [[pete-simi|Simi]] and noted that Trump's lawyers did not explicitly argue against the petitioners' claims about his awareness of supporters' willingness to commit political violence.[3] On disqualification itself she found limited direct evidence and extensive debate over the meaning of "Officer of the United States" and "Office Under the United States," concluding that Section 3 does not reach Trump — a ruling immediately appealed by the petitioners and cross-appealed by intervenors Trump and the [[colorado-republican-party|Colorado GOP]] in [[anderson-v-griswold|Anderson v. Griswold]].[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 2. Badlands Brief — "Trump and Elon Set Precedents ... Deep State Most Affected", URL: https://badlands.substack.com/p/badlands-news-brief-b92
+3. Badlands Media — "Beyond Absurdity", URL: https://badlands.substack.com/p/beyond-absurdity

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [energy, nuclear, trump-administration, federal-agency]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-7ce.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8ae.md, raw/badlands-news-brief-9b2.md, raw/energy-consolidation.md]
 confidence: medium
 ---
 
@@ -51,3 +51,9 @@ In September 2024, Energy Secretary [[jennifer-granholm|Jennifer Granholm]] used
 4. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 5. Badlands Media — "Badlands News Brief: Vance Takes the Stage as Biden Takes the Basement", URL: https://badlands.substack.com/p/badlands-news-brief-8ae
 6. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+
+## Loan guarantees to First Solar (2009 commentary)
+
+In a May 15, 2023 Badlands Media essay on [[energy-consolidation|energy consolidation]], contributor [[erik-carlson|Erik Carlson]] listed Department of Energy guaranteed loans among the streams of federal money that flowed to the solar manufacturer [[first-solar|First Solar]] after the company began to struggle in the recession.[7] The other streams he identified were 2009 stimulus money and green energy subsidies.[7] Carlson characterized the combined effect as taxpayers keeping a poorly run company afloat so that [[barack-obama|Barack Obama]] and his donors — including [[goldman-sachs|Goldman Sachs]] figures invested in the firm — would not absorb losses.[7]
+
+7. Badlands Brief — "Energy Consolidation", URL: https://badlands.substack.com/p/energy-consolidation

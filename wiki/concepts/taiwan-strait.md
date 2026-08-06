@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [taiwan, china, geopolitics, navy, flashpoint]
-sources: [raw/badlands-news-brief-ca7.md]
+sources: [raw/badlands-news-brief-ca7.md, raw/brightlands-taiwan-tipping.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ Some in the community objected that such an event would contradict the view that
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Ukraine U-Turn, Taiwan Tensions & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-ca7
+
+## 2022 "intermittent escalation"
+
+Writing in October 2022, [[burning-bright|Burning Bright]] described the strait as a site of "intermittent escalation," escalating and seemingly de-escalating so often as to produce [[narrative-whiplash|Narrative Whiplash]].[2] He argued that ratcheting tension in the strait, coming while [[donald-trump|Donald Trump]] was out of office, formed part of a broader [[crisis-cascade|Crisis Cascade]], and that a kinetic outcome there would serve globalist agendas by embroiling the United States in another proxy war and propping up the [[military-industrial-complex|Military Industrial Complex]].[2] Applying [[bicameral-thinking|Bicameral Thinking]], he simultaneously held that such narratives had been turned back on their authors through what he called a [[reverse-hegelian-dialectic|Reverse Hegelian Dialectic]].[2]
+
+2. Badlands Brief — "Taiwan Tipping: The Curious Case of Intermittent Escalation", URL: https://badlands.substack.com/p/taiwan-tipping

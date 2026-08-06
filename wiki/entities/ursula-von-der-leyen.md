@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [european-union, european-commission, ukraine, davos]
-sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e37.md]
+sources: [raw/badlands-brief-577.md, raw/badlands-brief-9ac.md, raw/badlands-brief-e15.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-125.md, raw/badlands-news-brief-19b.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-582.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-e37.md, raw/badlands-news-brief-ffa.md]
 confidence: medium
 ---
 
@@ -76,6 +76,12 @@ Von der Leyen joined the December 2025 phone call held by Emmanuel Macron and Fr
 
 Von der Leyen congratulated [[donald-trump|Donald Trump]] on his November 2024 election victory in a social media post, writing: "I warmly congratulate Donald J. Trump. The EU and the US are more than just allies. We are bound by a true partnership between our people, uniting 800 million citizens. So let's work together on a strong transatlantic agenda that keeps delivering for them."[14] Badlands commentary read the rush of European congratulations as the "submission grins" of a fading globalist bloc, noting that Trump had simultaneously threatened tariffs marking up EU goods by 100–200 percent.[14]
 
+## Scotland trade deal and EU recriminations (July 2025)
+
+Reporting by Bloomberg at the end of July 2025 described European Union leaders working through the consequences of the new trading arrangement with the United States and confronting how far the bloc's clout had fallen.[15] President [[donald-trump|Donald Trump]] held court on a Sunday at one of his golf courses on the Scottish coast, touting a newly built clubhouse ballroom and delivering a lengthy tirade about wind turbines, while von der Leyen had to wait for him to finish his round before discussing the transatlantic trade relationship.[15]
+
+The terms entailed a significant hit to European companies: the [[european-union|EU]] accepted a tripling of tariffs to 15% on most exports to the United States while keeping its own levies on American imports at 1% or less.[15] Former Spanish foreign minister Arancha Gonzalez Laya, dean of the Paris School of International Affairs at Sciences Po, told Bloomberg that "economically, this isn't a good agreement and geopolitically speaking, it is a defeat," adding that "this agreement makes the EU smaller."[15] European ambassadors meeting in Brussels the following Monday recognized that von der Leyen had no choice but to swallow the unbalanced deal because the alternatives would have been worse.[15] Badlands contributor Burning Bright linked the capitulation to a longer sequence of what he calls pincer moves between Trump and [[vladimir-putin|Vladimir Putin]], connecting Western sanctions on Russia, Trumpian tariffs and the resurgence of Russiagate to the EU's submission.[15]
+
 ## References
 1. Badlands Brief — "ICE Getting Boiled, Chinese Coup Chaos, & Carney Bends The Knee", URL: https://badlands.substack.com/p/badlands-brief-577
 2. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
@@ -91,3 +97,4 @@ Von der Leyen congratulated [[donald-trump|Donald Trump]] on his November 2024 e
 12. Badlands Brief — "Badlands News Brief: The Deep State Death Spiral Has Only Just Begun", URL: https://badlands.substack.com/p/badlands-news-brief-7e0
 13. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 14. Badlands Media — "The King Is Back ... Like He Never Left", URL: https://badlands.substack.com/p/badlands-news-brief-e37
+15. Badlands Brief — "Badlands News Brief: Prolonged Conflicts, Deep State Panic, & Shrinking Unions", URL: https://badlands.substack.com/p/badlands-news-brief-ffa

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, indictments, lawfare]
-sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md]
+sources: [raw/badlands-brief-094.md, raw/badlands-brief-52b.md, raw/badlands-brief-579.md, raw/badlands-brief-6a1.md, raw/badlands-brief-6bf.md, raw/badlands-brief-d1a.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-02f.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-09b.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-32d.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-7e8.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a5d.md, raw/badlands-news-brief-bd2.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f00.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md]
 confidence: medium
 ---
 
@@ -191,3 +191,17 @@ FBI memoranda delivered to [[congress|Congress]] by Director [[kash-patel|Kash P
 27. Badlands Brief — "Badlands News Brief: Sino-Russian Nukes, African Potential, & A New Moon Chairman in Town", URL: https://badlands.substack.com/p/badlands-news-brief-c93
 28. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 29. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+
+## Reopening the Clinton investigation (Badlands account)
+
+The August 2023 Badlands article "Clowns in America" recounts that [[hillary-clinton|Hillary Clinton]]'s emails were discovered on [[anthony-weiner|Anthony Weiner]]'s laptop in late September 2016, forcing Comey to reopen the investigation into Clinton only weeks before the 2016 election and torpedoing her campaign — an outcome writer [[joe-lange|Joe Lange]] describes as perfect timing that she has never forgiven, and possibly as planned.[30] Citing the Daily Wire, the article noted that within hours of the September 26, 2016 search warrant FBI technicians found 340,000 emails on the laptop between Clinton and [[huma-abedin|Huma Abedin]], but that the discovery fell through the cracks because top FBI officials were overwhelmed by the Russia probe.[30] Badlands frames the earlier conclusion of the server investigation without indictments as the product of an [[fbi|FBI]] and [[department-of-justice|Justice Department]] staffed with [[barack-obama|Obama]] loyalists.[30]
+
+30. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+
+## Protecting Mueller (Badlands account)
+
+In "Disinformation is Necessary," [[joe-lange|Joe Lange]] adds a further motive to Comey's handling of the Clinton email matter.[31] Real Clear Investigations reported that when Comey announced he was closing the investigation for a second time days before the 2016 election, he certified to Congress that his agency had "reviewed all of the communications" found on the laptop used by [[huma-abedin|Huma Abedin]] and [[anthony-weiner|Anthony Weiner]] — an account the outlet said was virtually untrue.[31] A career FBI special agent complained that Washington officials tried to "bury" the trove, which he believed contained the full archive of Clinton's emails including missing messages from her first months at the State Department.[31]
+
+Because that period covered the [[uranium-one-deal|Uranium One]] deal, Lange argues, the emails would have exposed [[robert-mueller|Robert Mueller]]'s role in the cover-up as FBI director; Comey and Mueller had been close friends since working together in the George W. Bush administration, so in burying the material Comey was protecting his friend as well as Clinton.[31] Q drop 1286 (April 27, 2018) recorded that Comey had told [[donald-trump|Trump]] he was "not being investigated," which Lange contrasts with the prevailing two-year media narrative.[31] These claims reflect Badlands Media interpretation rather than established fact.
+
+31. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, legislation, defense-policy]
-sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f23.md]
+sources: [raw/badlands-brief-a9f.md, raw/badlands-brief-c07.md, raw/badlands-brief-cc3.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-cf8.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-e31.md, raw/badlands-news-brief-f23.md, raw/do-you-believe-in-coincidences.md]
 confidence: medium
 ---
 
@@ -98,3 +98,11 @@ Judiciary Committee Democrats' request for a second hearing on Patel was denied 
 
 12. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
 13. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23
+
+## "The Senate was the key"
+
+Badlands Media's article "Do You Believe in Coincidences?" argues that control of the Senate, rather than the House of Representatives, was the central objective of the Trump camp during the 2018 midterm elections.[14] A Q drop quoted there states that the Senate "controls judges and cabinet positions without House approval" and that the Senate Judiciary Committee holds direct oversight of the [[us-department-of-justice|DOJ]] and [[fbi|FBI]] — "more power than the House."[14] The same drop claims that although a Senate majority existed on paper, investigations could not safely be brought to that body until it was fully controlled, and that Republicans defied historical patterns by picking up seats.[14]
+
+On this reading, House investigations led by [[devin-nunes|Devin Nunes]], [[trey-gowdy|Trey Gowdy]] and [[bob-goodlatte|Bob Goodlatte]] were deliberately made to look like the principal threat so that opponents would concentrate on recapturing the House, while the Senate was expanded and held in reserve.[14] After the midterms the [[spygate|Spygate]] and [[obamagate|Obamagate]] inquiries were handed to the Senate, and the enlarged majority is credited with shielding [[donald-trump|Donald Trump]] from removal after impeachment.[14] The Senate also confirmed [[william-barr|William Barr]] as Attorney General on February 14, 2019, placing him over the [[mueller-special-counsel-investigation|Mueller investigation]].[14]
+
+14. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences

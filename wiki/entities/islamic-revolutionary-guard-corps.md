@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [iran, military, irgc, middle-east]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-7b5.md, raw/badlands-brief-71c.md, raw/badlands-brief-c7b.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-a38.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-3d4.md, raw/badlands-brief-509.md, raw/badlands-brief-7b5.md, raw/badlands-brief-71c.md, raw/badlands-brief-c7b.md, raw/badlands-brief-fcb.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-73f.md, raw/badlands-news-brief-a38.md, raw/badlands-news-brief-ff6.md]
 confidence: medium
 ---
 
@@ -84,3 +84,9 @@ Seven members of the Revolutionary Guards, including two generals, were killed w
 11. Badlands Brief — "Hacks Explain Hacks to other Hacks", URL: https://badlands.substack.com/p/badlands-news-brief-6aa
 12. Badlands Brief — "Badlands News Brief: Escalation is the Name of the Game", URL: https://badlands.substack.com/p/badlands-news-brief-73f
 13. Badlands Brief — "Badlands News Brief: Trump Baits Biden as Ukraine and Israel Posture", URL: https://badlands.substack.com/p/badlands-news-brief-a38
+
+## Reported role in the October 7 attacks
+
+The Wall Street Journal reported in October 2023 that IRGC officers had planned and signed off on the [[october-7-attacks|Hamas assault on Israel]] that killed at least 900 people.[14] The report fueled criticism in Washington of the Biden administration's Iran policy and of suspended envoy [[rob-malley|Rob Malley]], with critics arguing that Tehran had aided both [[hamas|Hamas]] and Hezbollah in carrying out terrorist attacks against Israel.[14]
+
+14. Badlands News Brief — "Escalation Abroad, Subversion at Home ...", URL: https://badlands.substack.com/p/badlands-news-brief-ff6

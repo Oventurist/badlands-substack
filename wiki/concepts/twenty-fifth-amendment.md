@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [constitution, presidential-succession, deep-state, trump]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6b1.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-fde.md]
 confidence: medium
 ---
 
@@ -34,3 +34,9 @@ Following The Wall Street Journal's June 2024 report on [[joe-biden|Joe Biden]]'
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 3. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
+
+## Invoked in the 2023 Biden competency debate
+
+The amendment featured in commentary surrounding the May 2023 letter in which 61 House Republicans led by Rep. [[ronny-jackson|Ronny Jackson]] demanded that President [[joe-biden|Joe Biden]] take a mental competency test or withdraw from the 2024 race.[4] [[badlands-media|Badlands Media]] commentator [[ashe-in-america|Ashe in America]] asked why, given widespread doubts about Biden's cognitive state, there were no accompanying calls to invoke the 25th Amendment or to file articles of impeachment, and quoted [[donald-trump|Donald Trump]]'s January 12, 2021 remark that "the 25th Amendment is of zero risk to me but will come back to haunt Joe Biden and the Biden administration."[4]
+
+4. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde
